@@ -44,7 +44,9 @@ out/bhaagoindia.txt:
 # TODO: /exhibits.json is also helpful
 # And there are kn translations available as well.
 out/scigalleryblr.json:
-	curl --silent "https://carbon-50388-default-rtdb.firebaseio.com/en/1ZJfGJT-7ZTOZoevdZZmh2hwXd2935ffJoWee9XXyFZ4/programmes.json" | jq '.' > out/scigalleryblr.json
+	# We only fetch events in the future
+	curl --silent "https://carbon-50388-default-rtdb.firebaseio.com/en/1ZJfGJT-7ZTOZoevdZZmh2hwXd2935ffJoWee9XXyFZ4/programmes.json" | \
+		jq '.[] | select(.timestamp | sub("\\.[[:digit:]]+"; "") | strptime("%Y-%m-%dT%H:%M:%S%z") | mktime > now)' > out/scigalleryblr.json
 
 out/venn.json:
 	python src/venn.py
