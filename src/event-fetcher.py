@@ -4,6 +4,9 @@ from datetime import timedelta
 from w3lib.html import get_base_url
 import sqlite3
 import json
+EVENT_JSON_FILES = [
+    'out/bic.json'
+]
 
 KNOWN_EVENT_TYPES = [
     "Event",
@@ -37,6 +40,13 @@ URL_FILES = [
     "out/insider.txt",
     "out/mmb.txt",
 ]
+
+def get_local_events(files):
+    for i in files:
+        with open(i, "r") as f:
+            data = json.load(f)
+            for event in data:
+                yield (event['url'], event)
 
 def get_events(s):
     for i in URL_FILES:
@@ -72,6 +82,7 @@ def insert_event_json(conn, url, event_json):
     d = json.dumps(event_json)
     cursor = conn.cursor()
     cursor.execute('INSERT OR IGNORE INTO events (url, event_json) VALUES (?, ?)', (url, d))
+
 def create_events_table():
     conn = sqlite3.connect('events.db')
     cursor = conn.cursor()
@@ -83,6 +94,7 @@ def create_events_table():
     ''')
     conn.commit()
     conn.close()
+
 if __name__ == "__main__":
     create_events_table()
     session = CachedSession(
@@ -95,6 +107,12 @@ if __name__ == "__main__":
     conn = sqlite3.connect('events.db')
     i = 0
     for (url, d) in get_events(session):
+        insert_event_json(conn, url, d)
+        i+=1
+        if i > 10:
+            conn.commit()
+
+    for (url, d) in get_local_events(EVENT_JSON_FILES):
         insert_event_json(conn, url, d)
         i+=1
         if i > 10:
