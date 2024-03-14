@@ -2,26 +2,28 @@
 
 We either have URLs that can be easily scraped (https://schema.org/Event), or a file with enough details to recreate it.
 
-- [x] AllEvents.in
-- [x] HighApe.com
-- [x] map-india.org
-- [x] BIC
-- [x] Paytm Insider
-- [x] Bengaluru Sustainability Forum
-- [x] Bhaago India
-- [x] Carbon Science Gallery
-- [x] Max Mueller Bhavan
-- [x] https://events.venn.buzz/
-- [x] https://linktr.ee/atta_galatta
-- [x] Zomato
-- [x] Champaca
+| Source                         | Scraped | Parsed | In Database | Notes  |
+|:-------------------------------|:--------|:-------|:------------|:-------|
+| AllEvents.in                   | ✔️      | ✔️     | ✔️          |        |
+| HighApe.com                    | ✔️      | ✔️     | ✔️          |        |
+| map-india.org                  | ✔️      | ✔️     | ❌           |        |
+| BIC                            | ✔️      | ✔️     | ❌           |        |
+| Paytm Insider                  | ✔️      | ✔️     | ✔️          |        |
+| Bengaluru Sustainability Forum | ✔️      | ✔️     | ❌           |        |
+| Bhaago India                   | ✔️      | ✔️     | ✔️          |        |
+| Carbon Science Gallery         | ✔️      | ✔️     | ❌           |        |
+| Max Mueller Bhavan             | ✔️      | ✔️     | ✔️          |        |
+| https://events.venn.buzz/      | ✔️      | ✔️     | ❌           |        |
+| https://linktr.ee/atta_galatta | ✔️      | ✔️     | ❌           |        |
+| Zomato                         | ✔️      | ✔️     | ❌           |        |
+| Champaca                       | ✔️      | ✔️     | ❌           |        |
+| [Visvesvaraya Museum][vism].   | ❌      | ❌     | ❌           | OCR |
+| [NGMA][ngma] | ❌ | ❌ | ❌ | OCR The [older website calender](http://www.ngmaindia.gov.in/ngma_bangaluru_calendar.asp) is not updated.|
 
 # WIP
 
 We have some data available or change notifications configured, but there needs to be more work to recreate the events.
 
-- [ ] [Visvesvaraya Industrial and Technological Museum](https://www.vismuseum.gov.in/special_events/upcoming-events-2/). IMAGE
-- [ ] [NGMA](https://sites.google.com/view/ngmaindia/events). The [older website calender](http://www.ngmaindia.gov.in/ngma_bangaluru_calendar.asp) is not updated. IMAGE
 - [ ] [sumukha.com](https://sumukha.com)  - Exhibitions and Art Fairs
 - [ ] Sofar Bangalore
 - [ ] [ICTS](https://www.icts.res.in/current-and-upcoming-events)
@@ -53,3 +55,5 @@ We have some data available or change notifications configured, but there needs 
 - [ ] https://en.wikipedia.org/wiki/Law_Museum_Bangalore
 - [ ] https://en.wikipedia.org/wiki/Kempegowda_Museum
 - [ ] https://en.wikipedia.org/wiki/Sandesh_Museum_of_Communication
+
+[vism]: https://www.vismuseum.gov.in/special_events/upcoming-events-2/
