@@ -7,7 +7,7 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | AllEvents.in                   | ✔️      | ✔️     | ✔️          |        |
 | HighApe.com                    | ✔️      | ✔️     | ✔️          |        |
 | map-india.org                  | ✔️      | ✔️     | ❌           |        |
-| BIC                            | ✔️      | ✔️     | ❌           |        |
+| BIC                            | ✔️      | ✔️     | ✔️           |  Converted from ICS Calendar      |
 | Paytm Insider                  | ✔️      | ✔️     | ✔️          |        |
 | Bengaluru Sustainability Forum | ✔️      | ✔️     | ❌           |        |
 | Bhaago India                   | ✔️      | ✔️     | ✔️          |        |
