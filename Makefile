@@ -58,5 +58,8 @@ out/urbanaut.json:
 out/zomato.json:
 	python src/zomato.py
 
-all: out/allevents.txt out/highape.txt out/mapindia.json out/bic.ics out/insider.txt out/bengalurusustainabilityforum.json out/bhaagoindia.txt out/scigalleryblr.json out/mmb.txt out/venn.json out/zomato.json out/urbanaut.json out/champaca.json out/atta_galatta.json
+out/bic.json:
+	python src/ics-to-event.py out/bic.ics  out/bic.json
+
+all: out/allevents.txt out/highape.txt out/mapindia.json out/bic.ics out/insider.txt out/bengalurusustainabilityforum.json out/bhaagoindia.txt out/scigalleryblr.json out/mmb.txt out/venn.json out/zomato.json out/urbanaut.json out/champaca.json out/atta_galatta.json out/bic.json
 	@echo "Done"
