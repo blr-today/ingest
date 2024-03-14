@@ -13,8 +13,14 @@ out/allevents.txt:
 	  --data-raw '{"venue": 0,"page": 1,"rows": 100,"tag_type": null,"sdate": $(AE_START_TS),"edate": $(AE_END_TS),"city": "bangalore","keywords": 0,"category": ["all"],"formats": 0,"sort_by_score_only": true}' | \
 	  jq -r '.item[] | .share_url' | sort > out/allevents.txt
 
+out/atta_galatta.json:
+	python src/atta_galatta.py
+
+out/champaca.json:
+	python src/champaca.py
+
 out/highape.txt:
-	python highape.py | sort > out/highape.txt
+	python src/highape.py | sort > out/highape.txt
 
 out/mapindia.json:
 	curl --silent --request GET \
@@ -33,24 +39,24 @@ out/insider.txt:
 	jq -r '.list.masterList|keys[]|["https://insider.in",., "event"]|join("/")' | sort > out/insider.txt
 
 out/bhaagoindia.txt:
-	python bhaagoindia.com.py | sort > out/bhaagoindia.txt
+	python src/bhaagoindia.com.py | sort > out/bhaagoindia.txt
 
 # TODO: /exhibits.json is also helpful
 # And there are kn translations available as well.
-scigalleryblr.json:
-	curl --silent "https://carbon-50388-default-rtdb.firebaseio.com/en/1ZJfGJT-7ZTOZoevdZZmh2hwXd2935ffJoWee9XXyFZ4/programmes.json" | jq '.' > out/ scigalleryblr.json
+out/scigalleryblr.json:
+	curl --silent "https://carbon-50388-default-rtdb.firebaseio.com/en/1ZJfGJT-7ZTOZoevdZZmh2hwXd2935ffJoWee9XXyFZ4/programmes.json" | jq '.' > out/scigalleryblr.json
 
 out/venn.json:
-	python venn.py
+	python src/venn.py
 
 out/mmb.txt:
-	python mmb.py | sort > out/mmb.txt
+	python src/mmb.py | sort > out/mmb.txt
 
 out/urbanaut.json:
-	python urbanaut.py
+	python src/urbanaut.py
 
 out/zomato.json:
-	python zomato.py
+	python src/zomato.py
 
-all: out/allevents.txt out/highape.txt out/mapindia.json out/bic.ics out/insider.txt out/bengalurusustainabilityforum.json out/bhaagoindia.txt out/scigalleryblr.json out/mmb.txt out/venn.json out/zomato.json out/urbanaut.json
+all: out/allevents.txt out/highape.txt out/mapindia.json out/bic.ics out/insider.txt out/bengalurusustainabilityforum.json out/bhaagoindia.txt out/scigalleryblr.json out/mmb.txt out/venn.json out/zomato.json out/urbanaut.json out/champaca.json out/atta_galatta.json
 	@echo "Done"
