@@ -1,0 +1,42 @@
+name: Update Data
+
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    # Run 4 times a day (every 6 hours)
+    # At minute 17 past hour 0, 6, 12, and 18
+    # https://crontab.guru/#17_6,18_*_*_*
+    - cron: '17 0,6,12,18 * * *'
+jobs:
+  update:
+    permissions:
+      contents: write
+    name: Update data
+    runs-on: ubuntu-latest
+    steps:
+    - name: Cache File
+      uses: actions/cache@v3
+      with:
+        path: .cache.pkl
+    - uses: actions/checkout@v4
+      name: Clone self repository
+      with:
+        ref: ${{ github.head_ref }}
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    - name: Setup
+      run: |
+        git config --global init.defaultBranch main
+        git config --global extensions.partialClone true
+        pip install -r requirements.txt
+    - name: Fetch updates
+      run: rm out/* && make
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      name: Commit
+      with:
+        commit_message: Daily Updates
+        commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
