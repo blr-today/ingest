@@ -45,5 +45,6 @@ jobs:
       with:
         commit_message: Daily Updates
         commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
+        add_options: "--ignore-removal --update"
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
