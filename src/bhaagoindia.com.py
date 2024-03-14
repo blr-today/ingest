@@ -6,7 +6,7 @@ def scrape_bhaago_india(location="Bengaluru"):
 	data = response.json()
 	blr_events_urls = [i['url'] for i in data if i['datatype'] == 'location' and i['content'] == location]
 	for url in blr_events_urls:
-		print(f"https://bhaagoindia.com/events/{url}")
+		print(f"https://bhaagoindia.com{url}")
 
 
 if __name__ == "__main__":
