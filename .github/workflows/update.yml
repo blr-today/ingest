@@ -15,10 +15,17 @@ jobs:
     name: Update data
     runs-on: ubuntu-latest
     steps:
+    - name: Get current week
+      uses: josStorer/get-current-time@v2
+      id: current-time
+      with:
+        format: YYYY-ww
     - name: Cache File
       uses: actions/cache@v3
       with:
+        # Use current week number as cache
         path: .cache.pkl
+        key: "cache-${{ steps.current-time.outputs.formattedTime }}"
     - uses: actions/checkout@v4
       name: Clone self repository
       with:
@@ -32,7 +39,7 @@ jobs:
         git config --global extensions.partialClone true
         pip install -r requirements.txt
     - name: Fetch updates
-      run: rm out/* && make
+      run: rm out/* && make all
     - uses: stefanzweifel/git-auto-commit-action@v5
       name: Commit
       with:

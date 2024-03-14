@@ -6,7 +6,7 @@ END_TS := $(shell date +"%Y-%m-%d" --date="1 month")
 
 out/allevents.txt:
 	curl --silent --cookie-jar /tmp/allevents.cookies https://allevents.in/ -o /dev/null
-	curl -vvv --cookie /tmp/allevents.cookies --request POST \
+	curl --silent --cookie /tmp/allevents.cookies --request POST \
 	  --url https://allevents.in/api/index.php/categorization/web/v1/list \
 	  --header 'Referer: https://allevents.in/bangalore/all' \
 	  --header "Content-Type: application/json" \
