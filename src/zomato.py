@@ -52,7 +52,6 @@ def get_event_details(event_id, zomaland = False):
 
 def parse_datetime(dt):
     tz = datetime.timezone(datetime.timedelta(hours=5, minutes=30))  # Asia/Kolkata timezone
-    print(f"dt={dt}")
     (start,end) = dt.split("-")
     r_start = None
     for d in list(datefinder.find_dates(start)):
@@ -94,10 +93,8 @@ def make_event(event_id, data):
         r['url'] = x[0]
     # IF we have a URL, that is probably ticketing URL (insider/BMS) so we can get better data from there
     # IF not, let us check our datetime properly
-    print(list(datefinder.find_dates(r['datetime'])))
     if 'url' not in r and 'onwards' not in r['datetime']:
         r['start'], r['end'] = parse_datetime(r['datetime'])
-        print([r['datetime'], r['start'],r['end']])
 
     return r
 

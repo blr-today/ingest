@@ -34,7 +34,6 @@ def fetch_events():
             if future_date:
                 # Calculate the difference in days between now and the future date
                 days_difference = (future_date - datetime.datetime.now()).days
-                print(days_difference)
                 if days_difference <= 30 and days_difference >= 1:
                     tz = datetime.timezone(datetime.timedelta(hours=5, minutes=30))  # Asia/Kolkata timezone
                     events.append({
@@ -46,5 +45,5 @@ def fetch_events():
 
 if __name__ == "__main__":
     # write to champaca.json
-    with open("champaca.json", "w") as f:
+    with open("out/champaca.json", "w") as f:
         json.dump(fetch_events(), f, indent=2)
