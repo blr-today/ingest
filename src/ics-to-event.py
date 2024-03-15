@@ -31,7 +31,7 @@ def convert_ics_to_json(ics_file_path):
                 "name": event.location
             },
             "url": event.url,
-            "keywords": ", ".join(event.categories)
+            "keywords": ", ".join(sorted(event.categories)),
         }
 
         # Check for attachments (if image)
