@@ -4,6 +4,7 @@ from datetime import timedelta
 from w3lib.html import get_base_url
 import sqlite3
 import json
+
 EVENT_JSON_FILES = [
     'out/bic.json'
 ]
@@ -109,13 +110,14 @@ if __name__ == "__main__":
     for (url, d) in get_events(session):
         insert_event_json(conn, url, d)
         i+=1
-        if i > 10:
+        if i %10 == 0:
             conn.commit()
 
     for (url, d) in get_local_events(EVENT_JSON_FILES):
         insert_event_json(conn, url, d)
+        print(url)
         i+=1
-        if i > 10:
+        if i %10 == 0:
             conn.commit()
     conn.commit()
     conn.close()

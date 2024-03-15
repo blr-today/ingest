@@ -47,6 +47,7 @@ We have some data available or change notifications configured, but there needs 
 - [ ] Go through PS archives to see other venue hosts.
 
 ## Museums in BLR
+
 - [ ] https://en.wikipedia.org/wiki/Karnataka_Chitrakala_Parishath
 - [ ] https://en.wikipedia.org/wiki/Venkatappa_Art_Gallery
 - [ ] https://en.wikipedia.org/wiki/Gandhi_Bhavan,_Bengaluru
