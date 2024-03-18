@@ -706,11 +706,16 @@
         "type": "public",
         "u_plus_inquiry_enabled": false,
         "who_is_it_for_tags": [
+          10,
           3,
-          5,
-          10
+          5
         ],
         "who_is_it_for_tags_data": [
+          {
+            "id": 10,
+            "name": "Pet friendly",
+            "path": "who_is_it_for_tag/pet_friendly.svg"
+          },
           {
             "id": 3,
             "name": "Beginner friendly",
@@ -720,11 +725,6 @@
             "id": 5,
             "name": "Family friends",
             "path": "who_is_it_for_tag/family_friends.svg"
-          },
-          {
-            "id": 10,
-            "name": "Pet friendly",
-            "path": "who_is_it_for_tag/pet_friendly.svg"
           }
         ],
         "working_days": []
@@ -920,11 +920,16 @@
         "type": "public",
         "u_plus_inquiry_enabled": false,
         "who_is_it_for_tags": [
+          9,
           4,
-          6,
-          9
+          6
         ],
         "who_is_it_for_tags_data": [
+          {
+            "id": 9,
+            "name": "Great for big group",
+            "path": "who_is_it_for_tag/great_for_big_group.svg"
+          },
           {
             "id": 4,
             "name": "Adults only",
@@ -934,11 +939,6 @@
             "id": 6,
             "name": "Good for couples",
             "path": "who_is_it_for_tag/good_for_couples.svg"
-          },
-          {
-            "id": 9,
-            "name": "Great for big group",
-            "path": "who_is_it_for_tag/great_for_big_group.svg"
           }
         ],
         "working_days": []
@@ -1245,7 +1245,7 @@
       "highlights": []
     }
   ],
-  "out_of": 2395,
+  "out_of": 2386,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
