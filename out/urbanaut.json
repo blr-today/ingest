@@ -12,6 +12,7 @@
           "company_tag_line": "Home to  the Curious",
           "guest_can_whatsapp": true,
           "logo_path": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "micro_site_banner_path": null,
           "slug": "Courtyard",
           "theme_color": "060606"
         },
@@ -59,9 +60,13 @@
           }
         },
         "contributor": {
+          "age": null,
           "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "city": null,
           "first_name": "Courtyard",
+          "gender": null,
           "id": 10113,
+          "instagram": null,
           "profile_picture": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
           "short_bio": ""
         },
@@ -105,12 +110,12 @@
         ],
         "lng": "77.59289509999999000000",
         "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
-        "marketing_tag_data": null,
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/ugzhcthogs-17086108929653png.png",
             "id": 73111,
             "multi_size": [],
+            "name": null,
             "order": 0,
             "path": "images/ugzhcthogs-17086108929653png.png",
             "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/ugzhcthogs-17086108929653png.png",
@@ -155,11 +160,16 @@
         "type": "public",
         "u_plus_inquiry_enabled": false,
         "who_is_it_for_tags": [
+          8,
           2,
-          5,
-          8
+          5
         ],
         "who_is_it_for_tags_data": [
+          {
+            "id": 8,
+            "name": "Great for all ages",
+            "path": "who_is_it_for_tag/great_for_all_ages.svg"
+          },
           {
             "id": 2,
             "name": "Child friendly",
@@ -169,11 +179,6 @@
             "id": 5,
             "name": "Family friends",
             "path": "who_is_it_for_tag/family_friends.svg"
-          },
-          {
-            "id": 8,
-            "name": "Great for all ages",
-            "path": "who_is_it_for_tag/great_for_all_ages.svg"
           }
         ],
         "working_days": []
@@ -345,19 +350,19 @@
         "type": "public",
         "u_plus_inquiry_enabled": false,
         "who_is_it_for_tags": [
-          4,
-          9
+          9,
+          4
         ],
         "who_is_it_for_tags_data": [
-          {
-            "id": 4,
-            "name": "Adults only",
-            "path": "who_is_it_for_tag/adults_only.svg"
-          },
           {
             "id": 9,
             "name": "Great for big group",
             "path": "who_is_it_for_tag/great_for_big_group.svg"
+          },
+          {
+            "id": 4,
+            "name": "Adults only",
+            "path": "who_is_it_for_tag/adults_only.svg"
           }
         ],
         "working_days": []
@@ -1240,7 +1245,7 @@
       "highlights": []
     }
   ],
-  "out_of": 2428,
+  "out_of": 2395,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
