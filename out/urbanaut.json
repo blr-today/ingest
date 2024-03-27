@@ -1,6 +1,6 @@
 {
   "facet_counts": [],
-  "found": 11,
+  "found": 12,
   "hits": [
     {
       "document": {
@@ -1418,7 +1418,7 @@
             "type": "Photo"
           }
         ],
-        "modified": "2024-03-26 16:27:01",
+        "modified": "2024-03-27 15:52:41",
         "must_see": false,
         "name": "Kids Playdate | Dragons Love Tacos",
         "notify_me": false,
@@ -1608,7 +1608,7 @@
             "type": "Photo"
           }
         ],
-        "modified": "2024-03-22 16:31:18",
+        "modified": "2024-03-27 15:51:58",
         "must_see": false,
         "name": "Sunday J:am | Live Music by Durjoy Choudhury",
         "notify_me": false,
@@ -1792,7 +1792,7 @@
             "type": "Cover photo"
           }
         ],
-        "modified": "2024-03-26 14:06:48",
+        "modified": "2024-03-27 15:56:34",
         "must_see": false,
         "name": "The Uzuki Summer Menu with Ginkgo",
         "notify_me": false,
@@ -2362,9 +2362,189 @@
       },
       "highlight": {},
       "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+          "company_name": "Courtyard",
+          "company_phone": "+91-73386-77996",
+          "company_tag_line": "Home to  the Curious",
+          "guest_can_whatsapp": true,
+          "logo_path": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "slug": "Courtyard",
+          "theme_color": "060606"
+        },
+        "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+        "approved": 4179,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>We are delighted to confirm your reservation for Taco Shop at the Conservatory. If you have any further inquiries or special requests, feel free to reach out to our dedicated event coordinator at 7338677996. Thank you once again for choosing to be a part of our community. We look forward to hosting you for an evening. You can find out more about upcoming events by joining <a href=\"https://chat.whatsapp.com/G6j88wtm1ZgGJhutF4LRR8\" rel=\"noopener noreferrer\" target=\"_blank\">our WhatsApp community. </a></p><p><br></p><p>Team Conservatory</p>",
+        "can_be_booked_before": 12,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<p>No shows and cancellations are non-refundable by all means.</p>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": "sales@thecourtyardcommunity.in",
+              "name": "Ipsa"
+            }
+          ],
+          "on_ground_contacts": [
+            {
+              "name": "Ipsa",
+              "phone": "+91-7338677996"
+            }
+          ],
+          "whatsapp_contact_for_guest": {
+            "name": "Ipsa",
+            "phone": "+91-7338677996"
+          }
+        },
+        "contributor": {
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "first_name": "Courtyard",
+          "id": 10113,
+          "profile_picture": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "short_bio": ""
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [
+          8
+        ],
+        "display_tags_data": [
+          {
+            "id": 8,
+            "name": "Less than 3 hours",
+            "path": "display_tag_image/less_than_3_hrs.png"
+          }
+        ],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-04-20 22:30:00",
+        "end_timestamp": 1713632400,
+        "genre_tags": [],
+        "genre_tags_data": [],
+        "google_map_link": "https://maps.google.com/?cid=15325971903082601795",
+        "google_place_id": "ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "3777",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "lat": "12.95843050000000000000",
+        "lat_lng": [
+          12.9584305,
+          77.59289509999999
+        ],
+        "lng": "77.59289509999999000000",
+        "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
+        "marketing_tag_data": null,
+        "medias": [],
+        "modified": "2024-03-27 15:48:34",
+        "must_see": false,
+        "name": "Taco Shop at The Conservatory",
+        "notify_me": false,
+        "order": 3660,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "1000.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [
+            {
+              "input_type": "COUNTER",
+              "optional": false,
+              "question": "Number of vegetarians in the group",
+              "required": true
+            },
+            {
+              "input_type": "COUNTER",
+              "optional": false,
+              "question": "Number of Non- Vegetarians in the group",
+              "required": true
+            }
+          ],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p><strong><u>Menu</u></strong></p><p><br></p><p><strong><u>Amuse&nbsp;</u></strong></p><p>Escabeche&nbsp;</p><p>(House pickled veggies) with Cream &amp; Onion Dip.</p><p><br></p><p><strong><u>Tacos&nbsp;</u></strong></p><p><br></p><p><strong>1. Shroom Quesa Birria&nbsp;</strong></p><p>(Fresh corn tortilla stuffed with Slow Roasted Wild mushrooms, Cheese &amp; Red Onions served with Spicy Ancho Chilli Consomm\u00e9)</p><p><br></p><p><strong>2. Lamb Quesa Birria</strong></p><p>(Fresh corn tortilla stuffed with Slow cooked Lamb, Cheese &amp; Red Onions served with Spicy Ancho Chilli Consomm\u00e9)</p><p><br></p><p><strong>3. Carnitas de Pollo</strong></p><p>(8 hour slow cooked Chicken marinated in Orange juice &amp; Fresh Oregano, Pickled onions, Charred Jalape\u00f1o, Cilantro Salsa)</p><p><br></p><p><strong>4. Cochinita pibil&nbsp;</strong></p><p>(Yucatan style BBQ Pork Leg wrapped in Banana leaf, Orange juice pickled onion &amp; jalape\u00f1o slaw, Salsa El Diablo with a side of Chicharrones)</p><p><br></p><p><strong>5. Suadero&nbsp;</strong></p><p>(Tallow confit Beef Brisket, Salsa Roja, Tomatillo Verde &amp; Pico de gallo)</p><p><br></p><p><strong><u>Tostadas</u></strong></p><p><br></p><p><strong>1. Sweet potato &amp; Black Bean</strong>&nbsp;</p><p>(Charcoal Roasted Sweet Potato, Black beans, Avocado Mayo, Pickled Peppers &amp; Charred Corn-Cialntro Salsa)</p><p><br></p><p><strong>2. Aguachille De Pescado</strong></p><p>(Fish &amp; Prawn marinated in Gooseberry Salsa with Garlic Cream, Cucumber &amp; Dill Slaw, Crush nachos &amp; Avocados)</p><p><br></p><p><strong>3. Huevos rancheros&nbsp;</strong></p><p>(Chorizo Chilli, Marbled egg, Salsa Roja, Crumble feta, Bacon Salsa macha &amp; Avocados)</p><p><br></p><p><strong><u>Dessert&nbsp;</u></strong></p><p><br></p><p><strong>1. Sopaipillas</strong></p><p>with Caramelised Bananas, Dulce de leche &amp; Crema Fresca</p><p><br></p><p><strong>2. Bionico</strong></p><p>Street style Dessert Cups with Fresh fruit, Ice cream, Granola &amp; Coconut</p><p><br></p><p><strong>Terms and Conditions : </strong></p><ul><li>The management is not responsible for any injury or damage that may occur during an event.</li><li>Do not purchase tickets from anyone other than on the ticketing platform.</li><li>Each slot, lasting 2 hours only, requires attendance at the booked time, with no accommodation for attendance at any other slot except the one booked.</li><li>No shows and cancellations are non-refundable by all means.</li><li>Tickets are non-transferable and are for personal use only.</li><li>The schedule is subject to change in case of an emergency or any event out of our control.</li><li>Children over 3 years of age require a ticket.</li><li>No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.</li><li>Parking near the event premises is at the risk of the vehicle owner.</li><li>Paid Valet Parking at Rs. 200 per car.</li><li>The holder of this ticket grants organizers the right to use, in perpetuity, all or any part of the recording of any video or still footage made of the holder's appearance on any channel without any further approval of theirs.</li></ul>",
+        "slug": "taco-shop-at-the-conservatory",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "Fully redeemable against the food menu"
+            },
+            {
+              "label": "What's not",
+              "text": "Wine\nParking"
+            }
+          ]
+        },
+        "spotapproved_id": 3777,
+        "start": "2024-04-19 18:00:00",
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "who_is_it_for_tags": [
+          9,
+          4,
+          5
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 9,
+            "name": "Great for big group",
+            "path": "who_is_it_for_tag/great_for_big_group.svg"
+          },
+          {
+            "id": 4,
+            "name": "Adults only",
+            "path": "who_is_it_for_tag/adults_only.svg"
+          },
+          {
+            "id": 5,
+            "name": "Family friends",
+            "path": "who_is_it_for_tag/family_friends.svg"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
     }
   ],
-  "out_of": 2375,
+  "out_of": 2376,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
@@ -2372,5 +2552,5 @@
     "q": "*"
   },
   "search_cutoff": false,
-  "search_time_ms": 4
+  "search_time_ms": 5
 }
