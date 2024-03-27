@@ -52,8 +52,10 @@ def get_event_details(event_id, zomaland = False):
 
 def parse_datetime(dt):
     tz = datetime.timezone(datetime.timedelta(hours=5, minutes=30))  # Asia/Kolkata timezone
+    print(dt)
     (start,end) = dt.split("-")
     r_start = None
+    print(start)
     for d in list(datefinder.find_dates(start)):
         days = (d - datetime.datetime.now()).days
         if  days > 0 and days < 90:
@@ -62,6 +64,9 @@ def parse_datetime(dt):
     for dd in list(datefinder.find_dates(end, base_date = r_start)):
         r_end = dd
         break
+
+    if r_start == None:
+        return None
 
     # Move end by 1 day
     if r_end < r_start:
@@ -95,6 +100,8 @@ def make_event(event_id, data):
     # IF not, let us check our datetime properly
     if 'url' not in r and 'onwards' not in r['datetime']:
         r['start'], r['end'] = parse_datetime(r['datetime'])
+        if r['start'] == None:
+            return None
 
     return r
 
@@ -104,6 +111,8 @@ if __name__ == "__main__":
         # Zomaland tickets show up via Insider anyway
         if not zomaland:
             jsonData = get_event_details(e, zomaland)
-            events.append(make_event(e, jsonData))
+            event = make_event(e, jsonData)
+            if event!=None:
+                events.append(event)
     with open("out/zomato.json", "w") as f:
         json.dump(sorted(events, key=lambda x: x['event_id']), f, indent=2)
