@@ -1192,7 +1192,7 @@
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/zgcduggqxl-1711100626648movieunderthestars3jpg.jpg",
-            "id": 80329,
+            "id": 82095,
             "multi_size": [],
             "name": null,
             "order": 1,
@@ -1203,7 +1203,7 @@
             "type": "Photo"
           }
         ],
-        "modified": "2024-03-22 15:26:05",
+        "modified": "2024-03-28 16:00:47",
         "must_see": false,
         "name": "Screening: Devil Wears Prada (2006) | Movie Under The Stars",
         "notify_me": false,
@@ -1237,7 +1237,7 @@
           "default_questions": []
         },
         "same_day": [],
-        "short_description": "<p><strong>About the movie:</strong></p><p><br></p><p>\"The Devil Wears Prada\" follows Andy Sachs, a young woman who lands a job as an assistant to Miranda Priestly, the formidable editor-in-chief of a fashion magazine. As Andy navigates the demanding world of high fashion, she learns valuable lessons about ambition, loyalty, and the true cost of success. With standout performances from Meryl Streep and Anne Hathaway, the film offers a witty and entertaining exploration of the fashion industry's glamour and challenges.</p><p><br></p><p><br></p><p><strong>3-Course Menu</strong></p><p>To be announced</p>",
+        "short_description": "<p><strong>About the movie:</strong></p><p><br></p><p>\"The Devil Wears Prada\" follows Andy Sachs, a young woman who lands a job as an assistant to Miranda Priestly, the formidable editor-in-chief of a fashion magazine. As Andy navigates the demanding world of high fashion, she learns valuable lessons about ambition, loyalty, and the true cost of success. With standout performances from Meryl Streep and Anne Hathaway, the film offers a witty and entertaining exploration of the fashion industry's glamour and challenges.</p><p><br></p><p><br></p><p><strong>3-Course Menu</strong></p><p><br></p><p><strong>Course 1</strong></p><p>Corn Chowder&nbsp;</p><p><br></p><p><strong>Course 2</strong></p><p>Chicken Breast, Roast Potatoes and Mustard Cream Sauce&nbsp;</p><p>OR&nbsp;</p><p>Vegetarian Moussaka&nbsp;</p><p><br></p><p><strong>Course 3</strong></p><p>Tiramisu</p>",
         "slug": "screening-devil-wears-prada-2006-movie-under-the-stars",
         "specific_sections": {
           "custom": [],
@@ -2373,6 +2373,7 @@
           "company_tag_line": "Home to  the Curious",
           "guest_can_whatsapp": true,
           "logo_path": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "micro_site_banner_path": null,
           "slug": "Courtyard",
           "theme_color": "060606"
         },
@@ -2420,9 +2421,13 @@
           }
         },
         "contributor": {
+          "age": null,
           "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "city": null,
           "first_name": "Courtyard",
+          "gender": null,
           "id": 10113,
+          "instagram": null,
           "profile_picture": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
           "short_bio": ""
         },
@@ -2466,9 +2471,21 @@
         ],
         "lng": "77.59289509999999000000",
         "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
-        "marketing_tag_data": null,
-        "medias": [],
-        "modified": "2024-03-27 15:48:34",
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/hwgronxsdb-1711615843315urbanautgallery2png.png",
+            "id": 82047,
+            "multi_size": [],
+            "name": null,
+            "order": 1,
+            "path": "images/hwgronxsdb-1711615843315urbanautgallery2png.png",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/hwgronxsdb-1711615843315urbanautgallery2png.png",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/hwgronxsdb-1711615843315urbanautgallery2png.png",
+            "type": "Photo"
+          }
+        ],
+        "modified": "2024-03-28 14:22:03",
         "must_see": false,
         "name": "Taco Shop at The Conservatory",
         "notify_me": false,
@@ -2544,7 +2561,7 @@
       "highlights": []
     }
   ],
-  "out_of": 2380,
+  "out_of": 2383,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
@@ -2552,5 +2569,5 @@
     "q": "*"
   },
   "search_cutoff": false,
-  "search_time_ms": 4
+  "search_time_ms": 5
 }
