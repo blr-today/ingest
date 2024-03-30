@@ -52,13 +52,11 @@ def get_event_details(event_id, zomaland = False):
 
 def parse_datetime(dt):
     tz = datetime.timezone(datetime.timedelta(hours=5, minutes=30))  # Asia/Kolkata timezone
-    print(dt)
     (start,end) = dt.split("-")
     r_start = None
-    print(start)
     for d in list(datefinder.find_dates(start)):
         days = (d - datetime.datetime.now()).days
-        if  days > 0 and days < 90:
+        if  days >= 0 and days < 90:
             r_start = d
             break
     for dd in list(datefinder.find_dates(end, base_date = r_start)):
@@ -66,7 +64,7 @@ def parse_datetime(dt):
         break
 
     if r_start == None:
-        return None
+        return (None,None)
 
     # Move end by 1 day
     if r_end < r_start:
