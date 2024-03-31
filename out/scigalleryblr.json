@@ -1,50 +1,46 @@
-{
-  "blurb": "The UN warns of three big problems for Earth: climate change, environmental<br>pollution, and biodiversity loss. We are warming up our planet by putting too much carbon<br>into the atmosphere while we produce energy, fuel vehicles and run our factories. <br><br>To stop this, countries want to do two things: use clean energy from sources like the sun and the wind, and plant more trees to soak up atmospheric carbon. This narrow focus on climate change mitigation by lowering atmospheric carbon—be it from reduced emissions, or increased<br>sequestration—can ironically harm endangered species, destroy natural habitats, and exacerbate biodiversity loss. In this talk, M. D. Madhusudan will explore this process, and suggest how we can respond to environmental challenges more holistically.<br><br>This lecture will be conducted in Kannada.",
-  "capacity": 150,
-  "duration": "Lecture: 1 Hour<br>Tutorial: 1 Hour",
-  "eb": "",
-  "email": "",
-  "exhibits": "",
-  "experts": "md_madhusudan",
-  "hide": "",
-  "id": 80,
-  "kind": "Lecture and Tutorial",
-  "label": "",
-  "limit": 150,
-  "location": "<a href=\"https://maps.app.goo.gl/XCSmSbdFYokyC9qj8\" target=\"_blank\">View directions</a>",
-  "name": "The Conservation Conundrum: On Climate Change and Biodiversity",
-  "programmes": "",
-  "recording": "",
-  "resources": "",
-  "restricted": "",
-  "secondary": "conservation-conundrum-tutorial",
-  "theme": "",
-  "timestamp": "2024-03-31T10:30:00.000Z",
-  "uid": "conservation-conundrum",
-  "venue": "Science Gallery Bengaluru "
-}
-{
-  "blurb": "The UN warns of three big problems for Earth: climate change, environmental<br>pollution, and biodiversity loss. We are warming up our planet by putting too much carbon<br>into the atmosphere while we produce energy, fuel vehicles and run our factories. <br><br>To stop this, countries want to do two things: use clean energy from sources like the sun and the wind, and plant more trees to soak up atmospheric carbon. This narrow focus on climate change mitigation by lowering atmospheric carbon—be it from reduced emissions, or increased sequestration—can ironically harm endangered species, destroy natural habitats, and<br>exacerbate biodiversity loss. In this talk, M. D. Madhusudan will explore this process, and suggest how we can respond to environmental challenges more holistically.<br><br>This lecture will be conducted in Kannada.",
-  "capacity": 50,
-  "duration": "Tutorial: 1 Hour",
-  "eb": "",
-  "email": "",
-  "exhibits": "",
-  "experts": "md_madhusudan",
-  "hide": "",
-  "id": 81,
-  "kind": "Tutorial",
-  "label": "",
-  "limit": 50,
-  "location": "<a href=\"https://maps.app.goo.gl/XCSmSbdFYokyC9qj8\" target=\"_blank\">View directions</a>",
-  "name": "The Conservation Conundrum: On Climate Change and Biodiversity (Tutorial)",
-  "programmes": "",
-  "recording": "",
-  "resources": "",
-  "restricted": true,
-  "secondary": "",
-  "theme": "",
-  "timestamp": "2024-03-31T12:00:00.000Z",
-  "uid": "conservation-conundrum-tutorial",
-  "venue": "Science Gallery Bengaluru "
-}
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "EducationEvent",
+    "name": "From Junk to Jules: Planning an Energy Efficient Kitchen",
+    "location": "Science Gallery Bengaluru ",
+    "startDate": "2024-04-06T14:00:00+05:30",
+    "description": "Are you tired of the daily struggle of deciding what to eat amidst your busy schedule? Do you find yourself relying on delivery through food apps more often than not, sacrificing nutrition and sustainability? Join Chef and Nutritionist Nayantara Bagla, anchor of Namma Oota, as she guides you through simpler approaches to meal prep. Together, let's explore techniques to reduce kitchen waste, including water management, root-to-shoot cooking, creative use of food scraps, and better ingredient management.",
+    "duration": "PT1H30M",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=from-junk-to-jules",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Nayantara Bagla"
+      }
+    ],
+    "maximumAttendeeCapacity": 45,
+    "organizer": {
+      "@type": "Organization",
+      "name": "Science Gallery Bengaluru",
+      "url": "https://carbon.scigalleryblr.org"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Brewer\u2019s Buzz: On Kombucha Making ",
+    "location": "Science Gallery Bengaluru ",
+    "startDate": "2024-04-07T14:00:00+05:30",
+    "description": "Are you intrigued by the world of fermentation but unsure where to start? Ever wondered about the magic behind kombucha and its fizzy, probiotic goodness? Join us for an interactive workshop where we'll demystify the art and science of kombucha brewing. Led by brewers at Mountain Bee Kombucha, this session will cover everything from an introduction to the world to kombucha to understanding the symbiotic culture of bacteria and yeast (SCOBY), and essential steps in brewing. <br>",
+    "duration": "PT1H30M",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=the-brewer's-buzz",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Honey Islam"
+      }
+    ],
+    "maximumAttendeeCapacity": 45,
+    "organizer": {
+      "@type": "Organization",
+      "name": "Science Gallery Bengaluru",
+      "url": "https://carbon.scigalleryblr.org"
+    }
+  }
+]
