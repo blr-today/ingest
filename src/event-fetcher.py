@@ -7,7 +7,8 @@ import json
 
 EVENT_JSON_FILES = [
     'out/bic.json',
-    'out/sofar.json'
+    'out/sofar.json',
+    'out/scigalleryblr.json',
 ]
 
 KNOWN_EVENT_TYPES = [

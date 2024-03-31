@@ -11,7 +11,7 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | Paytm Insider                  | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | Bengaluru Sustainability Forum | ✔️      | ✔️     | ❌           |                                                                                                           |
 | Bhaago India                   | ✔️      | ✔️     | ✔️          |                                                                                                           |
-| Carbon Science Gallery         | ✔️      | ✔️     | ❌           |                                                                                                           |
+| Carbon Science Gallery         | ✔️      | ✔️     | ✔️           |                                                                                                           |
 | Max Mueller Bhavan             | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | https://events.venn.buzz/      | ✔️      | ✔️     | ❌           |                                                                                                           |
 | https://linktr.ee/atta_galatta | ✔️      | ✔️     | ❌           |                                                                                                           |
