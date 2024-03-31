@@ -2,30 +2,30 @@
 
 We either have URLs that can be easily scraped (https://schema.org/Event), or a file with enough details to recreate it.
 
-| Source                         | Scraped | Parsed | In Database | Notes  |
-|:-------------------------------|:--------|:-------|:------------|:-------|
-| AllEvents.in                   | ✔️      | ✔️     | ✔️          |        |
-| HighApe.com                    | ✔️      | ✔️     | ✔️          |        |
-| map-india.org                  | ✔️      | ✔️     | ❌           |        |
-| BIC                            | ✔️      | ✔️     | ✔️           |  Converted from ICS Calendar      |
-| Paytm Insider                  | ✔️      | ✔️     | ✔️          |        |
-| Bengaluru Sustainability Forum | ✔️      | ✔️     | ❌           |        |
-| Bhaago India                   | ✔️      | ✔️     | ✔️          |        |
-| Carbon Science Gallery         | ✔️      | ✔️     | ❌           |        |
-| Max Mueller Bhavan             | ✔️      | ✔️     | ✔️          |        |
-| https://events.venn.buzz/      | ✔️      | ✔️     | ❌           |        |
-| https://linktr.ee/atta_galatta | ✔️      | ✔️     | ❌           |        |
-| Zomato                         | ✔️      | ✔️     | ❌           |        |
-| Champaca                       | ✔️      | ✔️     | ❌           |        |
-| [Visvesvaraya Museum][vism].   | ❌      | ❌     | ❌           | OCR |
-| [NGMA][ngma] | ❌ | ❌ | ❌ | OCR The [older website calender](http://www.ngmaindia.gov.in/ngma_bangaluru_calendar.asp) is not updated.|
+| Source                         | Scraped | Parsed | In Database | Notes                                                                                                     |
+|:-------------------------------|:--------|:-------|:------------|:----------------------------------------------------------------------------------------------------------|
+| AllEvents.in                   | ✔️      | ✔️     | ✔️          |                                                                                                           |
+| HighApe.com                    | ✔️      | ✔️     | ✔️          |                                                                                                           |
+| map-india.org                  | ✔️      | ✔️     | ❌           |                                                                                                           |
+| BIC                            | ✔️      | ✔️     | ✔️          | Converted from ICS Calendar                                                                               |
+| Paytm Insider                  | ✔️      | ✔️     | ✔️          |                                                                                                           |
+| Bengaluru Sustainability Forum | ✔️      | ✔️     | ❌           |                                                                                                           |
+| Bhaago India                   | ✔️      | ✔️     | ✔️          |                                                                                                           |
+| Carbon Science Gallery         | ✔️      | ✔️     | ❌           |                                                                                                           |
+| Max Mueller Bhavan             | ✔️      | ✔️     | ✔️          |                                                                                                           |
+| https://events.venn.buzz/      | ✔️      | ✔️     | ❌           |                                                                                                           |
+| https://linktr.ee/atta_galatta | ✔️      | ✔️     | ❌           |                                                                                                           |
+| Zomato                         | ✔️      | ✔️     | ❌           |                                                                                                           |
+| Champaca                       | ✔️      | ✔️     | ❌           |                                                                                                           |
+| [Visvesvaraya Museum][vism].   | ❌      | ❌     | ❌           | OCR                                                                                                       |
+| [NGMA][ngma]                   | ❌      | ❌     | ❌           | OCR The [older website calender](http://www.ngmaindia.gov.in/ngma_bangaluru_calendar.asp) is not updated. |
+| [Sofar][sofar]                 | ✔️      | ✔️     | ✔️          |                                                                                                           |
 
 # WIP
 
 We have some data available or change notifications configured, but there needs to be more work to recreate the events.
 
 - [ ] [sumukha.com](https://sumukha.com)  - Exhibitions and Art Fairs
-- [ ] Sofar Bangalore
 - [ ] [ICTS](https://www.icts.res.in/current-and-upcoming-events)
 - [ ] lu.ma (Uses G-CSE, since no public calendars)
 - [ ] Urbanaut
@@ -58,3 +58,4 @@ We have some data available or change notifications configured, but there needs 
 - [ ] https://en.wikipedia.org/wiki/Sandesh_Museum_of_Communication
 
 [vism]: https://www.vismuseum.gov.in/special_events/upcoming-events-2/
+[sofar]: https://www.sofarsounds.com/cities/bangalore

@@ -6,7 +6,8 @@ import sqlite3
 import json
 
 EVENT_JSON_FILES = [
-    'out/bic.json'
+    'out/bic.json',
+    'out/sofar.json'
 ]
 
 KNOWN_EVENT_TYPES = [
