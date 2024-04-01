@@ -3,6 +3,7 @@ import json
 import datetime
 import re
 import os
+from urllib.parse import urlencode
 
 event_type_mapper = {
     "Film": "ScreeningEvent",
@@ -84,7 +85,7 @@ def make_event(e, ts):
     "startDate": ts.isoformat(),
     "description": e["blurb"],
     "duration": parse_duration(e["duration"]),
-    "url": "https://carbon.scigalleryblr.org/programmes?p=" + e["uid"],
+    "url": "https://carbon.scigalleryblr.org/programmes?" +  urlencode({"p":e["uid"]}),
     "performer": [{"@type": "Person", "name": expert} for expert in experts],
     "maximumAttendeeCapacity": e["capacity"],
     "organizer": {
