@@ -22,7 +22,7 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | [Sofar][sofar]                 | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | [Sumukha gallery][sumukha]     | ✔️      | ✔️     | ✔️          | 
 | [Townscript][ts]			     | ✔️      | ✔️     | ✔️          | Lahe Lahe, Broke Bibliophiles, Foodwize
-
+| [Blue Tokai][bt]			     | ✔️      | ✔️     | ✔️          |                                                                                                           |
 # WIP
 
 We have some data available or change notifications configured, but there needs to be more work to recreate the events.
@@ -30,7 +30,6 @@ We have some data available or change notifications configured, but there needs 
 - [ ] [ICTS](https://www.icts.res.in/current-and-upcoming-events)
 - [ ] lu.ma (Uses G-CSE, since no public calendars)
 - [ ] Urbanaut
-- [ ] https://bluetokaicoffee.com/pages/events-new
 - [x] https://thecourtyard.in/events/ Courtyard is only using Urbanaut, so covered already
 - [ ] https://www.blrcreativecircus.com/events
 
@@ -60,3 +59,4 @@ We have some data available or change notifications configured, but there needs 
 [sofar]: https://www.sofarsounds.com/cities/bangalore
 [sumukha]: https://sumukha.com
 [ts]: https://www.townscript.com/
+[bt]: https://bluetokaicoffee.com/pages/events-new

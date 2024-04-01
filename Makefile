@@ -70,6 +70,9 @@ out/sumukha.json:
 out/townscript.txt:
 	python src/townscript.py | sort > out/townscript.txt
 
+out/bluetokai.json:
+	python src/bluetokai.py
+
 all: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
@@ -87,6 +90,7 @@ all: out/allevents.txt \
  out/bic.json \
  out/sumukha.json \
  out/sofar.json \
+ out/bluetokai.json \
  out/townscript.txt
 	@echo "Done"
 
