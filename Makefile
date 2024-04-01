@@ -59,13 +59,16 @@ out/zomato.json:
 	python src/zomato.py
 
 out/bic.json:
-	python src/ics-to-event.py out/bic.ics  out/bic.json
+	python src/ics-to-event.py out/bic.ics out/bic.json
 
 out/sofar.json:
 	python src/sofar.py
 
 out/sumukha.json:
 	python src/sumukha.py
+
+out/townscript.txt:
+	python src/townscript.py | sort > out/townscript.txt
 
 all: out/allevents.txt \
  out/highape.txt \
@@ -83,7 +86,8 @@ all: out/allevents.txt \
  out/atta_galatta.json \
  out/bic.json \
  out/sumukha.json \
- out/sofar.json
+ out/sofar.json \
+ out/townscript.txt
 	@echo "Done"
 
 db:

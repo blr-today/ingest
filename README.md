@@ -21,6 +21,7 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | [NGMA][ngma]                   | ❌      | ❌     | ❌           | OCR The [older website calender](http://www.ngmaindia.gov.in/ngma_bangaluru_calendar.asp) is not updated. |
 | [Sofar][sofar]                 | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | [Sumukha gallery][sumukha]     | ✔️      | ✔️     | ✔️          | 
+| [Townscript][ts]			     | ✔️      | ✔️     | ✔️          | Lahe Lahe, Broke Bibliophiles, Foodwize
 
 # WIP
 
@@ -39,9 +40,7 @@ We have some data available or change notifications configured, but there needs 
 - [ ] [Instagram](instagram.txt)
 - [ ] http://1shanthiroad.com/category/events/
 - [ ] https://gullytours.vacationlabs.com/ -> Go to booking page to see valid dates. Couldn't find any other "good" vacationlabs domains.
-- [ ] https://www.townscript.com/o/lahe
-- [ ] https://www.townscript.com/o/priya-joshi-322244 -> Also find more TS accounts to follow
-- [ ] https://www.townscript.com/o/abhiram-r-401313
+- [ ] find more Townscript accounts to follow
 - [ ] https://www.tonight.is/. Some GRPC Firebase :poop:
 - [ ] https://www.downtomeet.com/
 - [ ] Go through PS archives to see other venue hosts.
@@ -60,3 +59,4 @@ We have some data available or change notifications configured, but there needs 
 [vism]: https://www.vismuseum.gov.in/special_events/upcoming-events-2/
 [sofar]: https://www.sofarsounds.com/cities/bangalore
 [sumukha]: https://sumukha.com
+[ts]: https://www.townscript.com/
