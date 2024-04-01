@@ -141,6 +141,7 @@ def generate_event_object(product_json, variant, date, start_hour, end_hour):
     (location_url, address) = guess_location(product_json["product"]["body_html"])
     event = {
         "@context": "http://schema.org",
+        "url": f"https://bluetokaicoffee.com/products/{product_json['product']['handle']}",
         "@type": "Event",
         "name": product_json["product"]["title"],
         "description": BeautifulSoup(
