@@ -60,6 +60,7 @@ def parse_event_details(html_content):
             "endDate": end_date,
             "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
             "eventStatus": "https://schema.org/EventScheduled",
+            "url": event_url,
             "location": {
                 "@type": "Place",
                 "name": "Gallery Sumukha",
