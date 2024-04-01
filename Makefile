@@ -23,8 +23,7 @@ out/highape.txt:
 	python src/highape.py | sort > out/highape.txt
 
 out/mapindia.json:
-	curl --silent --request GET \
-	--url 'https://map-india.org/wp-admin/admin-ajax.php?action=WP_FullCalendar&type=event&start=$(START_TS)&end=$(END_TS)' | jq -r '.' > out/mapindia.json
+	python src/mapindia.py
 
 out/bengalurusustainabilityforum.json:
 	curl --silent --request GET \

@@ -6,7 +6,7 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 |:-------------------------------|:--------|:-------|:------------|:----------------------------------------------------------------------------------------------------------|
 | AllEvents.in                   | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | HighApe.com                    | ✔️      | ✔️     | ✔️          |                                                                                                           |
-| map-india.org                  | ✔️      | ✔️     | ❌           |                                                                                                           |
+| map-india.org                  | ✔️      | ✔️     | ✔️          | Only events, exhibits are not tracked yet
 | BIC                            | ✔️      | ✔️     | ✔️          | Converted from ICS Calendar                                                                               |
 | Paytm Insider                  | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | Bengaluru Sustainability Forum | ✔️      | ✔️     | ❌           |                                                                                                           |
@@ -21,8 +21,9 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | [NGMA][ngma]                   | ❌      | ❌     | ❌           | OCR The [older website calender](http://www.ngmaindia.gov.in/ngma_bangaluru_calendar.asp) is not updated. |
 | [Sofar][sofar]                 | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | [Sumukha gallery][sumukha]     | ✔️      | ✔️     | ✔️          | 
-| [Townscript][ts]			     | ✔️      | ✔️     | ✔️          | Lahe Lahe, Broke Bibliophiles, Foodwize
-| [Blue Tokai][bt]			     | ✔️      | ✔️     | ✔️          |                                                                                                           |
+| [Townscript][ts]			     | ✔️      | ✔️     | ✔️          | Lahe Lahe, Broke Bibliophiles, Foodwize. Suggestions welcome for more events that use TownScript
+| [Blue Tokai][bt]			     | ✔️      | ✔️     | ✔️          | Some location guesswork
+| [Gully Tours][gt]			     | ✔️      | ✔️     | ✔️          |  Sticker Price used, child pricing ignored
 # WIP
 
 We have some data available or change notifications configured, but there needs to be more work to recreate the events.
@@ -60,3 +61,4 @@ We have some data available or change notifications configured, but there needs 
 [sumukha]: https://sumukha.com
 [ts]: https://www.townscript.com/
 [bt]: https://bluetokaicoffee.com/pages/events-new
+[gt]: https://www.gully.tours/tours
