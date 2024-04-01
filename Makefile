@@ -73,6 +73,9 @@ out/townscript.txt:
 out/bluetokai.json:
 	python src/bluetokai.py
 
+out/gullytours.json:
+	python src/gullytours.py
+
 all: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
@@ -91,6 +94,7 @@ all: out/allevents.txt \
  out/sumukha.json \
  out/sofar.json \
  out/bluetokai.json \
+ out/gullytours.json \
  out/townscript.txt
 	@echo "Done"
 
