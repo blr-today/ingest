@@ -16,7 +16,7 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | https://events.venn.buzz/      | ✔️      | ✔️     | ❌           |                                                                                                           |
 | https://linktr.ee/atta_galatta | ✔️      | ✔️     | ❌           |                                                                                                           |
 | Zomato                         | ✔️      | ✔️     | ❌           |                                                                                                           |
-| Champaca                       | ✔️      | ✔️     | ❌           |                                                                                                           |
+| Champaca                       | ✔️      | ✔️     | ✔️           |                                                                                                           |
 | [Visvesvaraya Museum][vism].   | ❌      | ❌     | ❌           | OCR                                                                                                       |
 | [NGMA][ngma]                   | ❌      | ❌     | ❌           | OCR The [older website calender](http://www.ngmaindia.gov.in/ngma_bangaluru_calendar.asp) is not updated. |
 | [Sofar][sofar]                 | ✔️      | ✔️     | ✔️          |                                                                                                           |
