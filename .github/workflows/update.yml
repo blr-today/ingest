@@ -27,7 +27,7 @@ jobs:
         path: .cache.pkl
         key: "cache-${{ steps.current-time.outputs.formattedTime }}"
     - name: Cache File
-      uses: actions/cache@v3
+      uses: actions/cache@v4
       with:
         path: /home/runner/.cache/event-fetcher-cache.sqlite
         key: "cache-requests-${{ steps.current-time.outputs.formattedTime }}"
@@ -45,21 +45,28 @@ jobs:
         pip install -r requirements.txt
     - name: Fetch updates
       run: rm out/* && make all && make db
+
+    - name: Upload Artifacts
+      uses: actions/upload-artifact@v4
+      id: upload
+      with:
+        name: events.db
+        path: events.db
+        if-no-files-found: error
+        retention-days: 90
+
     - uses: stefanzweifel/git-auto-commit-action@v5
       name: Commit
       with:
-        commit_message: Daily Updates
+        commit_message: |
+          Automatic Updates 🤖
+          
+          Database URL: ${{ steps.upload.artifact-url }}
+          Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          Workflow: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}/workflow
         commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
         add_options: "--ignore-removal --update"
         file_pattern: "out/*"
         status_options: '--untracked-files=no'
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-# Put the events.db in the artifacts
-    - name: Upload Artifacts
-      uses: actions/upload-artifact@v4
-      with:
-        name: events.db
-        path: events.db
-        if-no-files-found: error
-        retention-days: 90
