@@ -20,12 +20,12 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | [Visvesvaraya Museum][vism].   | ❌      | ❌     | ❌           | OCR                                                                                                       |
 | [NGMA][ngma]                   | ❌      | ❌     | ❌           | OCR The [older website calender](http://www.ngmaindia.gov.in/ngma_bangaluru_calendar.asp) is not updated. |
 | [Sofar][sofar]                 | ✔️      | ✔️     | ✔️          |                                                                                                           |
+| [Sumukha gallery][sumukha]     | ✔️      | ✔️     | ✔️          | 
 
 # WIP
 
 We have some data available or change notifications configured, but there needs to be more work to recreate the events.
 
-- [ ] [sumukha.com](https://sumukha.com)  - Exhibitions and Art Fairs
 - [ ] [ICTS](https://www.icts.res.in/current-and-upcoming-events)
 - [ ] lu.ma (Uses G-CSE, since no public calendars)
 - [ ] Urbanaut
@@ -59,3 +59,4 @@ We have some data available or change notifications configured, but there needs 
 
 [vism]: https://www.vismuseum.gov.in/special_events/upcoming-events-2/
 [sofar]: https://www.sofarsounds.com/cities/bangalore
+[sumukha]: https://sumukha.com

@@ -64,6 +64,9 @@ out/bic.json:
 out/sofar.json:
 	python src/sofar.py
 
+out/sumukha.json:
+	python src/sumukha.py
+
 all: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
@@ -79,6 +82,7 @@ all: out/allevents.txt \
  out/champaca.json \
  out/atta_galatta.json \
  out/bic.json \
+ out/sumukha.json \
  out/sofar.json
 	@echo "Done"
 

@@ -9,6 +9,7 @@ EVENT_JSON_FILES = [
     'out/bic.json',
     'out/sofar.json',
     'out/scigalleryblr.json',
+    'out/sumukha.json',
 ]
 
 KNOWN_EVENT_TYPES = [
