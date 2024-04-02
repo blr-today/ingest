@@ -5,6 +5,24 @@ from w3lib.html import get_base_url
 import sqlite3
 from bs4 import BeautifulSoup
 import json
+LANGUAGE_MAP = {
+    "English": "en",
+    "Hindi": "hi",
+    "Kannada": "kn",
+    "Tamil": "ta",
+    "Telugu": "te",
+    "Malayalam": "ml",
+    "Marathi": "mr",
+    "Bengali": "bn",
+    "Gujarati": "gu",
+    "Punjabi": "pa",
+    "Odia": "or",
+    "Assamese": "as",
+    "Urdu": "ur",
+    "Sanskrit": "sa",
+    "Nepali": "ne",
+    "Sindhi": "sd",
+}
 
 EVENT_JSON_FILES = [
     'out/bic.json',
@@ -63,6 +81,7 @@ def get_events(s):
             urls = f.readlines()
             for url in urls:
                 url = url.strip()
+                print(url)
                 if url:
                     keywords = None
                     r = s.get(url)
@@ -92,8 +111,26 @@ def get_events(s):
                             m[1]['location'] = m[1].pop('LOCATION')
                         if keywords:
                             if 'keywords' in m[1]:
-                                keywords = ",".join(set(m[1]['keywords'].split(",") + keywords.split(",")))
+                                # insider reports keywords as a dict (incorrectly) so we ignore and rewrite from meta tags
+                                try:
+                                    keywords = ",".join(set(m[1]['keywords'].split(",") + keywords.split(",")))
+                                except:
+                                    pass
                             m[1]['keywords'] = keywords
+
+                        # These are workarounds for broken schema published by Insider
+                        try:
+                            if 'language' in m[1]['inLanguage']:
+                                m[1]['inLanguage']['name'] = m[1]['inLanguage']['language']
+                                m[1]['inLanguage']['alternateName'] = LANGUAGE_MAP.get(m[1]['inLanguage']['language'], 'und')
+                                del m[1]['inLanguage']['language']
+                        except:
+                            pass
+                        try:
+                            if m1['typicalAgeRange']['@type'] == 'Age-Range':
+                                m[1]['typicalAgeRange'] = m[1]['typicalAgeRange']['language']
+                        except:
+                            pass
                         yield m
                     else:
                         print(f"Could not find event in {url}")
