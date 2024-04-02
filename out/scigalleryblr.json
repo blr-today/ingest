@@ -2,7 +2,7 @@
   {
     "@context": "http://schema.org",
     "@type": "EducationEvent",
-    "name": "From Junk to Jules: Planning an Energy Efficient Kitchen",
+    "name": "From Junk to Joules: Planning an Energy Efficient Kitchen",
     "location": "Science Gallery Bengaluru ",
     "startDate": "2024-04-06T14:00:00+05:30",
     "description": "Are you tired of the daily struggle of deciding what to eat amidst your busy schedule? Do you find yourself relying on delivery through food apps more often than not, sacrificing nutrition and sustainability? Join Chef and Nutritionist Nayantara Bagla, anchor of Namma Oota, as she guides you through simpler approaches to meal prep. Together, let's explore techniques to reduce kitchen waste, including water management, root-to-shoot cooking, creative use of food scraps, and better ingredient management.",
@@ -34,6 +34,28 @@
       {
         "@type": "Person",
         "name": "Honey Islam"
+      }
+    ],
+    "maximumAttendeeCapacity": 30,
+    "organizer": {
+      "@type": "Organization",
+      "name": "Science Gallery Bengaluru",
+      "url": "https://carbon.scigalleryblr.org"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Art of Working with Fungi",
+    "location": "Science Gallery Bengaluru ",
+    "startDate": "2024-04-07T11:00:00+05:30",
+    "description": "Discover the transformative world of fungi with hands-on mushroom cultivation. Explore their role in carbon cycling, ecosystem building, and beyond. What would the world be without fungi? How can we build a relationship with them? Unlock the secrets of these fascinating organisms in a workshop that blends storytelling with experiential learning. ",
+    "duration": "PT2H",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=the-art-of-working-with-fungi",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Neeladri-Chowdhury"
       }
     ],
     "maximumAttendeeCapacity": 30,
