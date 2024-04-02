@@ -3,6 +3,7 @@ from requests_cache import CachedSession
 from datetime import timedelta
 from w3lib.html import get_base_url
 import sqlite3
+from bs4 import BeautifulSoup
 import json
 
 EVENT_JSON_FILES = [
@@ -63,8 +64,15 @@ def get_events(s):
             for url in urls:
                 url = url.strip()
                 if url:
+                    keywords = None
                     r = s.get(url)
                     base_url = get_base_url(r.text, r.url)
+                    # extract the meta name="keywords" tag using bs4
+                    soup = BeautifulSoup(r.text, "html.parser")
+                    meta = soup.find("meta", attrs={"name": "keywords"})
+                    if meta:
+                        keywords = meta["content"]
+
                     data = extruct.extract(
                         r.text, base_url=base_url, syntaxes=["json-ld"]
                     )
@@ -82,6 +90,10 @@ def get_events(s):
                     if m:
                         if m[1].get('LOCATION'):
                             m[1]['location'] = m[1].pop('LOCATION')
+                        if keywords:
+                            if 'keywords' in m[1]:
+                                keywords = ",".join(set(m[1]['keywords'].split(",") + keywords.split(",")))
+                            m[1]['keywords'] = keywords
                         yield m
                     else:
                         print(f"Could not find event in {url}")
