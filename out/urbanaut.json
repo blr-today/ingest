@@ -1854,7 +1854,7 @@
         ],
         "available_for_booking": true,
         "booking_confirmation_message": "<p>Thank you so much for choosing Tarot with Tan. </p><p><br></p><p>As we unlock what Tarot is and if that's the path that would be most aligned to you I would like you to think about what your Goal with Tarot is and be prepared to share that during the session. </p><p><br></p><p>Loads of LOVE and HAPPINESS ALWAYS </p><p>Natasha </p>",
-        "can_be_booked_before": 16,
+        "can_be_booked_before": 4,
         "can_book_till_end": false,
         "cancel_pending_payment": 12.0,
         "cancellation_policy": "<p>*No Cancellation or Refund. All tickets once sold cannot be cancelled or refunded. </p>",
@@ -1945,7 +1945,7 @@
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/njsbqsj3s7-1711704621560weworksembassyonejpg.jpg",
-            "id": 82554,
+            "id": 83372,
             "multi_size": [],
             "name": null,
             "order": 0,
@@ -1957,7 +1957,7 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/kofnmd5ghs-1711704524435logo1copyjpg.jpg",
-            "id": 82555,
+            "id": 83373,
             "multi_size": [],
             "name": null,
             "order": 1,
@@ -1968,7 +1968,7 @@
             "type": "Photo"
           }
         ],
-        "modified": "2024-04-01 15:39:37",
+        "modified": "2024-04-02 19:28:00",
         "must_see": false,
         "name": "Exploring Tarot: What is Tarot and Pathfinding Workshop",
         "notify_me": false,
@@ -1979,18 +1979,7 @@
         "price_starts_at_currency": "INR",
         "private_booking_available": false,
         "questions_to_ask": {
-          "custom_questions": [
-            {
-              "input_type": "COUNTER",
-              "question": "Number of vegetarians in the group",
-              "required": true
-            },
-            {
-              "input_type": "BOOL",
-              "question": "Any food allergies?",
-              "required": true
-            }
-          ],
+          "custom_questions": [],
           "default_questions": []
         },
         "same_day": [],
