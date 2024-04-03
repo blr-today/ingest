@@ -1471,9 +1471,13 @@
           }
         },
         "contributor": {
+          "age": null,
           "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "city": null,
           "first_name": "Courtyard",
+          "gender": null,
           "id": 10113,
+          "instagram": null,
           "profile_picture": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
           "short_bio": ""
         },
@@ -1536,12 +1540,12 @@
         ],
         "lng": "77.59289509999999000000",
         "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
-        "marketing_tag_data": null,
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/scanggggxe-1712047206874mainposter1500x1000pxpng.png",
             "id": 83435,
             "multi_size": [],
+            "name": null,
             "order": 1,
             "path": "images/scanggggxe-1712047206874mainposter1500x1000pxpng.png",
             "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/scanggggxe-1712047206874mainposter1500x1000pxpng.png",
@@ -1553,6 +1557,7 @@
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/sfstgudghn-1712058363477lineup1500x1000px2png.png",
             "id": 83436,
             "multi_size": [],
+            "name": null,
             "order": 2,
             "path": "images/sfstgudghn-1712058363477lineup1500x1000px2png.png",
             "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/sfstgudghn-1712058363477lineup1500x1000px2png.png",
@@ -2462,7 +2467,7 @@
       "highlights": []
     }
   ],
-  "out_of": 2408,
+  "out_of": 2407,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
