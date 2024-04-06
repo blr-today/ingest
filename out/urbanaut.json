@@ -1859,7 +1859,7 @@
         ],
         "available_for_booking": true,
         "booking_confirmation_message": "<p>Engage in stimulating conversations, share your experiences and insights, and celebrate the richness of your multifaceted identity. From discussing strategies for managing multiple projects to exploring ways to integrate your passions, there's plenty to learn and discover among fellow multipotentialites.</p><p>So come as you are, bring your curiosity and enthusiasm, and prepare to be inspired by the diverse talents and interests of those around you. Let's embrace our multipotentiality together and create a supportive community where all are encouraged to pursue their passions to the fullest.</p><p>Note: Limited slots. We can't wait to see you at the Jack of All, Master of Some Table</p>",
-        "can_be_booked_before": 12,
+        "can_be_booked_before": 2,
         "can_book_till_end": false,
         "cancel_pending_payment": 12.0,
         "cancellation_policy": "<p>Refunds:</p><p>Refunds will be issued only in cases where the event is cancelled by the organizers.</p><p>Refund requests made by attendees will be considered up to [insert number of days] days prior to the event date.</p><p>A processing fee may apply to refund requests initiated by attendees.</p><p>Refunds will be processed within [insert number of days] business days after approval.</p><p><br></p><p>Cancellations:</p><p>Attendees must notify the organizers of any cancellations at least [insert number of days] days before the event date.</p><p>Cancellations made after the specified deadline may not be eligible for a refund.</p><p>The organizers reserve the right to cancel or reschedule the event due to unforeseen circumstances. In such cases, attendees will be notified promptly, and refunds will be issued accordingly.</p><p><br></p><p>Transfer of Tickets:</p><p>Tickets are non-transferable without prior approval from the organizers.</p><p>Requests for ticket transfers must be made in writing and approved by the organizers.</p><p><br></p><p>No-show Policy:</p><p>Attendees who do not show up for the event without prior notice will not be eligible for a refund.</p><p><br></p><p>By registering for the event, attendees agree to abide by the refund and cancellation policy outlined above. The organizers reserve the right to amend or update this policy as necessary.</p>",
@@ -1944,7 +1944,7 @@
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/wcds6lfv5g-1711633269121breakfasttablejpg.jpg",
-            "id": 83580,
+            "id": 83766,
             "multi_size": [],
             "name": null,
             "order": 1,
@@ -1956,7 +1956,7 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9gbbczsgsx-1711633298461streetfoodjpg.jpg",
-            "id": 83581,
+            "id": 83767,
             "multi_size": [],
             "name": null,
             "order": 2,
@@ -1967,10 +1967,10 @@
             "type": "Photo"
           }
         ],
-        "modified": "2024-04-05 09:22:01",
+        "modified": "2024-04-06 09:33:05",
         "must_see": false,
         "name": "Jack of All, Master of Some Table",
-        "notify_me": false,
+        "notify_me": true,
         "order": 3678,
         "permanently_closed": false,
         "price_added": true,
@@ -2186,7 +2186,7 @@
             "type": "Photo"
           }
         ],
-        "modified": "2024-04-02 19:28:00",
+        "modified": "2024-04-06 10:23:51",
         "must_see": false,
         "name": "Exploring Tarot: What is Tarot and Pathfinding Workshop",
         "notify_me": false,
@@ -2699,7 +2699,7 @@
       "highlights": []
     }
   ],
-  "out_of": 2404,
+  "out_of": 2405,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
