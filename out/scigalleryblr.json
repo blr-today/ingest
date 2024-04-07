@@ -2,16 +2,152 @@
   {
     "@context": "http://schema.org",
     "@type": "EducationEvent",
-    "name": "The Brewer\u2019s Buzz: On Kombucha Making ",
-    "location": "Science Gallery Bengaluru ",
-    "startDate": "2024-04-07T14:00:00+05:30",
-    "description": "Are you intrigued by the world of fermentation but unsure where to start? Ever wondered about the magic behind kombucha and its fizzy, probiotic goodness? Join us for an interactive workshop where we'll demystify the art and science of kombucha brewing. Led by brewers at Mountain Bee Kombucha, this session will cover everything from an introduction to the world to kombucha to understanding the symbiotic culture of bacteria and yeast (SCOBY), and essential steps in brewing. <br>",
-    "duration": "PT1H30M",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=the-brewer%27s-buzz",
+    "name": "The Ecology Enigma: Exploring Carbon in the Environment",
+    "location": "Science Gallery Bengaluru",
+    "startDate": "2024-04-20T11:00:00+05:30",
+    "description": "Carbon: one word with many hues, shapes, forms and features. Carbon is an essential building block of life. From invisible molecules to giant whales and thousand-year old trees\u2014all life is carbon. In this two-day masterclass, join ecologist Meghna Krishnadas to explore all things carbon and ecology! From the fundamentals of carbon to nature walks, this masterclass will use  interactive, hands-on sessions to understand the ecology of carbon in living beings, and what that means for humans. Come prepared to exercise your [C]reativity!<br><br>Please note that this is a 2-day masterclass which will take place on Saturday and Sunday, 20 and 21 April.",
+    "duration": "P2D",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=the-ecology-enigma",
     "performer": [
       {
         "@type": "Person",
-        "name": "Honey Islam"
+        "name": "Meghna Krishnadas"
+      }
+    ],
+    "maximumAttendeeCapacity": 45,
+    "organizer": {
+      "@type": "Organization",
+      "name": "Science Gallery Bengaluru",
+      "url": "https://carbon.scigalleryblr.org"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "EducationEvent",
+    "name": "Living and Drowning on the Shore of Blue Capital",
+    "location": "Science Gallery Bengaluru",
+    "startDate": "2024-04-27T06:00:00+05:30",
+    "description": "How do coastal cities and infrastructures sustain global capital? Can \u2018blue capital\u2019\u2014solutions that are offered as alternatives to hydrocarbon economies\u2014provide a way out of our carbon-intensive economies? Laleh Khalili puts this idea to the test as she examines how blue capital may in fact exacerbate the situation.  Join Khalili in a lecture that explores how extraction, transportation and logistics contribute to the gradual drowning of our cities and infrastructures. ",
+    "duration": "PT2H",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=shore-of-blue-capital",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Laleh Khalili"
+      }
+    ],
+    "maximumAttendeeCapacity": 150,
+    "organizer": {
+      "@type": "Organization",
+      "name": "Science Gallery Bengaluru",
+      "url": "https://carbon.scigalleryblr.org"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "EducationEvent",
+    "name": "Living and Drowning on the Shore of Blue Capital (Tutorial)",
+    "location": "Science Gallery Bengaluru",
+    "startDate": "2024-04-27T07:30:00+05:30",
+    "description": "How do coastal cities and infrastructures sustain global capital? Can \u2018blue capital\u2019\u2014solutions that are offered as alternatives to hydrocarbon economies\u2014provide a way out of our carbon-intensive economies? Laleh Khalili puts this idea to the test as she examines how blue capital may in fact exacerbate the situation.  Join Khalili in a lecture that explores how extraction, transportation and logistics contribute to the gradual drowning of our cities and infrastructures. ",
+    "duration": "PT1H",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=shore-of-blue-capital-tutorial",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Laleh Khalili"
+      }
+    ],
+    "maximumAttendeeCapacity": 50,
+    "organizer": {
+      "@type": "Organization",
+      "name": "Science Gallery Bengaluru",
+      "url": "https://carbon.scigalleryblr.org"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "EducationEvent",
+    "name": "Carbon in the Rise and Fall of Civilizations",
+    "location": "Science Gallery Bengaluru",
+    "startDate": "2024-04-14T16:00:00+05:30",
+    "description": "The growth and glory of empires is generally (and rather falsely) attributed to the acumen and valour of their heroes. Unfortunately, history fails to recognize that human civilizations and empires cannot grow in a vacuum. They grow by consuming the natural resources in and around them,  consuming and exploiting resources to become bigger, faster. Paradoxically, the overuse of resources pushes empires to the verge of their own extinction.<br><br>In this lecture, K N Ganeshaiah demonstrates this with a set of examples: the decline of a civilization in Easter Island, the growth and fall of the Vijayanagara empire and the death of Talakadu, a rich urban complex in Karnataka. He also argues that several urban areas of the world are now showing the symptoms of such decay due to uncontrolled use of resources. Join us for a talk that traces the role of our carbon-rich resources in the emergence and extension of empires. ",
+    "duration": "PT2H",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=rise-and-fall-of-civilisations",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Kn Ganeshaiah"
+      }
+    ],
+    "maximumAttendeeCapacity": 150,
+    "organizer": {
+      "@type": "Organization",
+      "name": "Science Gallery Bengaluru",
+      "url": "https://carbon.scigalleryblr.org"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "EducationEvent",
+    "name": "Carbon in the Rise and Fall of Civilizations (Tutorial)",
+    "location": "Science Gallery Bengaluru",
+    "startDate": "2024-04-14T17:30:00+05:30",
+    "description": "The growth and glory of empires is generally (and rather falsely) attributed to the acumen and valour of their heroes. Unfortunately, history fails to recognize that human civilizations and empires cannot grow in a vacuum. They grow by consuming the natural resources in and around them,  consuming and exploiting resources to become bigger, faster. Paradoxically, the overuse of resources pushes empires to the verge of their own extinction.<br><br>In this lecture, K N Ganeshaiah demonstrates this with a set of examples: the decline of a civilization in Easter Island, the growth and fall of the Vijayanagara empire and the death of Talakadu, a rich urban complex in Karnataka. He also argues that several urban areas of the world are now showing the symptoms of such decay due to uncontrolled use of resources. Join us for a talk that traces the role of our carbon-rich resources in the emergence and extension of empires. ",
+    "duration": "PT1H",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=rise-and-fall-of-civilisations-tutorial",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Kn Ganeshaiah"
+      }
+    ],
+    "maximumAttendeeCapacity": 50,
+    "organizer": {
+      "@type": "Organization",
+      "name": "Science Gallery Bengaluru",
+      "url": "https://carbon.scigalleryblr.org"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "EducationEvent",
+    "name": "Aboard Cargo Ships: The Life and Labour of Logistics Workers",
+    "location": "Science Gallery Bengaluru",
+    "startDate": "2024-04-27T11:00:00+05:30",
+    "description": "What do we know of the lives of logistics workers? What can a life on the seas, aboard a container ship, be like? The body of the logistics worker is the fulcrum upon which global systems of power and trade rest. But it is also a body on which gendered and racialised pressures rest. In this masterclass, Laleh Khalili will draw on her ongoing research and experiences of travelling on cargo ships to explore the life of these labourers. Join us to  investigate an experience riddled with adversities\u2014loneliness, loss, and violence, stolen wages and exploitative logistics businesses\u2014as well as ephemeral moments of joy and solidarity. <br><br>Please note that this is a 2-day masterclass which will take place on Saturday and Sunday, 27 and 28 April.",
+    "duration": "P2D",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=aboard-cargo-ships",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Laleh Khalili"
+      }
+    ],
+    "maximumAttendeeCapacity": 45,
+    "organizer": {
+      "@type": "Organization",
+      "name": "Science Gallery Bengaluru",
+      "url": "https://carbon.scigalleryblr.org"
+    }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "EducationEvent",
+    "name": "Radical Creativity in Public Art",
+    "location": "Science Gallery Bengaluru ",
+    "startDate": "2024-04-24T18:00:00+05:30",
+    "description": "Dive into the fuzzy world of radical creativity, a cross- and transdisciplinary idea that requires us to break boundaries and collaboratively experiment outside of them. What can this kind of practice tell us about public art, which can shape our experiences of the world? Outi Turpeinen and Riikka M\u00e4kikoskela will discuss the fundamentals of these two concepts. Taking examples from Bangalore and other parts of the world, they will show how radical creativity is seen through and in public art.",
+    "duration": "PT1H30M",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=radical-creativity-public-art",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Outi Turpeinen"
+      },
+      {
+        "@type": "Person",
+        "name": " Riikka M\u00e4kikoskela"
       }
     ],
     "maximumAttendeeCapacity": 30,
