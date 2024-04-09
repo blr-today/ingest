@@ -52,7 +52,11 @@ def get_event_details(event_id, zomaland = False):
 
 def parse_datetime(dt):
     tz = datetime.timezone(datetime.timedelta(hours=5, minutes=30))  # Asia/Kolkata timezone
-    (start,end) = dt.split("-")
+    try:
+        (start,end) = dt.split("-")
+    except Exception as e:
+        return (None, None)
+    
     r_start = None
     for d in list(datefinder.find_dates(start)):
         days = (d - datetime.datetime.now()).days
@@ -94,12 +98,17 @@ def make_event(event_id, data):
     x = jsonpath.findall("$..[?(@.type == 'url_in_browser')]..url", data)
     if len(x)>0:
         r['url'] = x[0]
+
+    y = jsonpath.findall("$..click_action.share.url", data)
+    if len(y) > 0:
+        r['share_url']  = y[0]
+
     # IF we have a URL, that is probably ticketing URL (insider/BMS) so we can get better data from there
     # IF not, let us check our datetime properly
     if 'url' not in r and 'onwards' not in r['datetime']:
         r['start'], r['end'] = parse_datetime(r['datetime'])
-        if r['start'] == None:
-            return None
+        if r['start'] == None and 'share_url' in r:
+            print("[IGNORED] " + r['share_url'])
 
     return r
 
