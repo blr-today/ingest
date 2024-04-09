@@ -1,6 +1,6 @@
 {
   "facet_counts": [],
-  "found": 11,
+  "found": 12,
   "hits": [
     {
       "document": {
@@ -1333,7 +1333,7 @@
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/hwgronxsdb-1711615843315urbanautgallery2png.png",
-            "id": 84008,
+            "id": 84566,
             "multi_size": [],
             "name": null,
             "order": 1,
@@ -1344,10 +1344,10 @@
             "type": "Photo"
           }
         ],
-        "modified": "2024-04-07 18:38:28",
+        "modified": "2024-04-09 13:22:46",
         "must_see": false,
         "name": "Taco Shop at The Conservatory",
-        "notify_me": true,
+        "notify_me": false,
         "order": 3660,
         "permanently_closed": false,
         "price_added": true,
@@ -1546,7 +1546,7 @@
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/d1sdsxbtvs-1712141282965movieunderthestars6png.png",
-            "id": 83705,
+            "id": 84759,
             "multi_size": [],
             "name": null,
             "order": 1,
@@ -1557,7 +1557,7 @@
             "type": "Photo"
           }
         ],
-        "modified": "2024-04-05 15:37:13",
+        "modified": "2024-04-09 14:42:19",
         "must_see": false,
         "name": "Screening: Little Miss Sunshine | Movie Under the Stars",
         "notify_me": false,
@@ -1571,19 +1571,19 @@
           "custom_questions": [
             {
               "input_type": "COUNTER",
-              "optional": true,
+              "optional": false,
               "question": "Number of vegetarians in the group",
               "required": true
             },
             {
               "input_type": "COUNTER",
-              "optional": true,
+              "optional": false,
               "question": "Number of Non-Vegetarians in the group",
               "required": true
             },
             {
               "input_type": "TEXT",
-              "optional": true,
+              "optional": false,
               "question": "Any food allergies?",
               "required": true
             }
@@ -2325,6 +2325,231 @@
       },
       "highlight": {},
       "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "We are all about nourishing food and creating spaces for connection!",
+          "company_name": "Copper + Cloves",
+          "company_phone": "+91-97319-30303",
+          "company_tag_line": "Nourish and connect with C+C",
+          "guest_can_whatsapp": false,
+          "logo_path": "images/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+          "micro_site_banner_path": "images/akdysfsld0-171264231954920230402img3195rajkashyap11jpeg.JPEG",
+          "slug": "copperandcloves",
+          "theme_color": "d3b89d"
+        },
+        "address": "549A, 9th A Main Rd, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+        "approved": 4266,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>Thank you for buying a ticket for our Indian Craft Chocolate + Coffee Pairing event on Saturday 13th April.</p><p><br></p><p>The event starts at 11.30 sharp, please reach 10 minutes early so we can start on time. We look forward to serving you up coffee and delicious craft chocolate pairings and lots of interesting conversations over chocolate.</p><p><br></p><p>You can find us here: https://maps.app.goo.gl/XMr6S1m1sM7HdpEq5?g_st=ic </p><p>Please note we are a little hard to find, as we are tucked away in a converted bungalow. Look out for the blue colour gate and the Paper Boat Collective sign- we can be found in the garden. We are opposite Bajaj Capital. </p><p><br></p><p>There is limited street parking in this area and we do not have valet. If possible please take a cab or a drop to avoid a stressful parking situation. </p><p><br></p><p><br></p>",
+        "can_be_booked_before": 12,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<p>No refunds once ticket is purchased</p>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": "yoshitha@copperandcloves.com",
+              "name": "Copper + Cloves"
+            }
+          ],
+          "on_ground_contacts": [],
+          "whatsapp_contact_for_guest": {
+            "name": "Copper + Cloves",
+            "phone": "+91-8904293030"
+          }
+        },
+        "contributor": {
+          "age": null,
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+          "city": "Bangalore",
+          "first_name": "Copper + Cloves",
+          "gender": "Male",
+          "id": 10595,
+          "instagram": null,
+          "profile_picture": "images/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+          "short_bio": ""
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [
+          8,
+          4
+        ],
+        "display_tags_data": [
+          {
+            "id": 8,
+            "name": "Less than 3 hours",
+            "path": "display_tag_image/less_than_3_hrs.png"
+          },
+          {
+            "id": 4,
+            "name": "Local",
+            "path": "display_tag_image/local.png"
+          }
+        ],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-04-13 13:00:00",
+        "end_timestamp": 1712993400,
+        "explore_order": 1,
+        "genre_tags": [],
+        "genre_tags_data": [],
+        "google_map_link": "https://maps.google.com/?cid=14156210407419066822",
+        "google_place_id": "ChIJxbH9KaoXrjsRxrnm21z2dMQ",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "3864",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "Look for the blue colour gate!",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "lat": "12.97778100000000000000",
+        "lat_lng": [
+          12.977781,
+          77.637264
+        ],
+        "lng": "77.63726400000000000000",
+        "location": "SRID=4326;POINT (77.637264 12.977781)",
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/sv8zon6cdd-1712652010474cf16jpg.jpg",
+            "id": 84808,
+            "multi_size": [],
+            "name": null,
+            "order": 0,
+            "path": "images/sv8zon6cdd-1712652010474cf16jpg.jpg",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/sv8zon6cdd-1712652010474cf16jpg.jpg",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/sv8zon6cdd-1712652010474cf16jpg.jpg",
+            "type": "Cover photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/wpzjkessgr-1712651989355cf20jpg.jpg",
+            "id": 84809,
+            "multi_size": [],
+            "name": null,
+            "order": 1,
+            "path": "images/wpzjkessgr-1712651989355cf20jpg.jpg",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/wpzjkessgr-1712651989355cf20jpg.jpg",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/wpzjkessgr-1712651989355cf20jpg.jpg",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/b1nhbcy0zd-1712651998714cf24jpg.jpg",
+            "id": 84810,
+            "multi_size": [],
+            "name": null,
+            "order": 2,
+            "path": "images/b1nhbcy0zd-1712651998714cf24jpg.jpg",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/b1nhbcy0zd-1712651998714cf24jpg.jpg",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/b1nhbcy0zd-1712651998714cf24jpg.jpg",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/nf2jjffiis-171265203261720230715img0715rajkashyapjpg.jpg",
+            "id": 84811,
+            "multi_size": [],
+            "name": null,
+            "order": 3,
+            "path": "images/nf2jjffiis-171265203261720230715img0715rajkashyapjpg.jpg",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/nf2jjffiis-171265203261720230715img0715rajkashyapjpg.jpg",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/nf2jjffiis-171265203261720230715img0715rajkashyapjpg.jpg",
+            "type": "Photo"
+          }
+        ],
+        "modified": "2024-04-09 15:34:41",
+        "must_see": false,
+        "name": "Coffee + Chocolate Pairing with Patricia",
+        "notify_me": false,
+        "order": 3739,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "1499.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p>Join us for a coffee + chocolate pairing experience with Patricia, Founder of the Indian Craft Chocolate Festival, joined by Umar Founder of Ground Up and Sarah, Founder of Copper + Cloves.</p><p><br></p><p>You we'll learn about specialty coffee and craft chocolate and how to pair these two for an amazingly delicious sensory experience.</p><p>We will taste different Indian craft chocolates from makers around the country and different coffee beans and brews. </p><p><br></p><p>This will be a unique experience and a chance to meet wonderful people on a Saturday morning</p>",
+        "slug": "coffee-chocolate-pairing-with-patricia",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "3 coffee + chocolate pairings\nWater"
+            },
+            {
+              "label": "What's not",
+              "text": "Additional food is chargeable"
+            }
+          ]
+        },
+        "spotapproved_id": 3864,
+        "start": "2024-04-13 11:30:00",
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          4,
+          6,
+          7
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 4,
+            "name": "Adults only",
+            "path": "who_is_it_for_tag/adults_only.svg"
+          },
+          {
+            "id": 6,
+            "name": "Good for couples",
+            "path": "who_is_it_for_tag/good_for_couples.svg"
+          },
+          {
+            "id": 7,
+            "name": "Good for solo travellers",
+            "path": "who_is_it_for_tag/good_for_solo_travellers.svg"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
     }
   ],
   "out_of": 2411,
@@ -2335,5 +2560,5 @@
     "q": "*"
   },
   "search_cutoff": false,
-  "search_time_ms": 3
+  "search_time_ms": 4
 }
