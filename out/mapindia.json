@@ -94,5 +94,37 @@
     },
     "eventStatus": "https://schema.org/EventScheduled",
     "url": "https://map-india.org/map-events/beyond-theory-imagining-infrastructure/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "There is Something in the Air",
+    "startDate": "2024-04-12T18:30:00+05:30",
+    "endDate": "2024-04-12T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Museum of Art & Photography (MAP)",
+      "address": "22, Kasturba Rd, Shanthala Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://map-india.org/visit-us/",
+      "telephone": "+91 80 6933 4100"
+    },
+    "eventStatus": "https://schema.org/EventScheduled",
+    "url": "https://map-india.org/map-events/there-is-something-in-the-air/"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "I Promise The Bearer\u2026",
+    "startDate": "2024-04-13T18:30:00+05:30",
+    "endDate": "2024-04-13T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Museum of Art & Photography (MAP)",
+      "address": "22, Kasturba Rd, Shanthala Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://map-india.org/visit-us/",
+      "telephone": "+91 80 6933 4100"
+    },
+    "eventStatus": "https://schema.org/EventScheduled",
+    "url": "https://map-india.org/map-events/i-promise-the-bearer/"
   }
 ]
