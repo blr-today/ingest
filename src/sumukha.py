@@ -53,9 +53,6 @@ def parse_event_details(html_content):
         description = fetch_description(event_url)
 
         events.append({
-            "@context": "https://schema.org",
-            "@type": "ExhibitionEvent",
-            "eventStatus": "https://schema.org/EventScheduled",
             "name": title,
             "startDate": start_date,
             "endDate": end_date,

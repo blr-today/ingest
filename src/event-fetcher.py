@@ -68,6 +68,7 @@ URL_FILES = [
     "out/highape.txt",
     "out/insider.txt",
     "out/mmb.txt",
+    "out/mello.txt",
 ]
 
 def get_local_events(files):
@@ -179,11 +180,11 @@ if __name__ == "__main__":
     )
     conn = sqlite3.connect('events.db')
     i = 0
-    # for (url, d) in get_events(session):
-    #     insert_event_json(conn, url, d)
-    #     i+=1
-    #     if i %10 == 0:
-    #         conn.commit()
+    for (url, d) in get_events(session):
+        insert_event_json(conn, url, d)
+        i+=1
+        if i %10 == 0:
+            conn.commit()
 
     for (url, event) in get_local_events(EVENT_JSON_FILES):
         insert_event_json(conn, url, event)
