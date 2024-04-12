@@ -4,9 +4,10 @@ import json
 import datefinder
 import datetime
 from urllib.parse import urlparse, parse_qs
+import os
 
 # Public Key, not-logged-in API key
-ZOMATO_API_KEY = "239899c6817b488ba5d82bbd49676a76"
+ZOMATO_API_KEY = os.environ.get('ZOMATO_PUBLIC_API_KEY')
 def fetch_data(url, body):
     conn = http.client.HTTPSConnection("api.zomato.com")
 
