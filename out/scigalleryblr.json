@@ -1,6 +1,5 @@
 [
   {
-    "@context": "http://schema.org",
     "@type": "EducationEvent",
     "name": "The Ecology Enigma: Exploring Carbon in the Environment",
     "location": "Science Gallery Bengaluru",
@@ -14,15 +13,9 @@
         "name": "Meghna Krishnadas"
       }
     ],
-    "maximumAttendeeCapacity": 45,
-    "organizer": {
-      "@type": "Organization",
-      "name": "Science Gallery Bengaluru",
-      "url": "https://carbon.scigalleryblr.org"
-    }
+    "maximumAttendeeCapacity": 45
   },
   {
-    "@context": "http://schema.org",
     "@type": "EducationEvent",
     "name": "Living and Drowning on the Shore of Blue Capital",
     "location": "Science Gallery Bengaluru",
@@ -36,15 +29,9 @@
         "name": "Laleh Khalili"
       }
     ],
-    "maximumAttendeeCapacity": 150,
-    "organizer": {
-      "@type": "Organization",
-      "name": "Science Gallery Bengaluru",
-      "url": "https://carbon.scigalleryblr.org"
-    }
+    "maximumAttendeeCapacity": 150
   },
   {
-    "@context": "http://schema.org",
     "@type": "EducationEvent",
     "name": "Living and Drowning on the Shore of Blue Capital (Tutorial)",
     "location": "Science Gallery Bengaluru",
@@ -58,15 +45,9 @@
         "name": "Laleh Khalili"
       }
     ],
-    "maximumAttendeeCapacity": 50,
-    "organizer": {
-      "@type": "Organization",
-      "name": "Science Gallery Bengaluru",
-      "url": "https://carbon.scigalleryblr.org"
-    }
+    "maximumAttendeeCapacity": 50
   },
   {
-    "@context": "http://schema.org",
     "@type": "EducationEvent",
     "name": "Carbon in the Rise and Fall of Civilizations",
     "location": "Science Gallery Bengaluru",
@@ -80,15 +61,9 @@
         "name": "Kn Ganeshaiah"
       }
     ],
-    "maximumAttendeeCapacity": 150,
-    "organizer": {
-      "@type": "Organization",
-      "name": "Science Gallery Bengaluru",
-      "url": "https://carbon.scigalleryblr.org"
-    }
+    "maximumAttendeeCapacity": 150
   },
   {
-    "@context": "http://schema.org",
     "@type": "EducationEvent",
     "name": "Carbon in the Rise and Fall of Civilizations (Tutorial)",
     "location": "Science Gallery Bengaluru",
@@ -102,15 +77,9 @@
         "name": "Kn Ganeshaiah"
       }
     ],
-    "maximumAttendeeCapacity": 50,
-    "organizer": {
-      "@type": "Organization",
-      "name": "Science Gallery Bengaluru",
-      "url": "https://carbon.scigalleryblr.org"
-    }
+    "maximumAttendeeCapacity": 50
   },
   {
-    "@context": "http://schema.org",
     "@type": "EducationEvent",
     "name": "Aboard Cargo Ships: The Life and Labour of Logistics Workers",
     "location": "Science Gallery Bengaluru",
@@ -124,15 +93,9 @@
         "name": "Laleh Khalili"
       }
     ],
-    "maximumAttendeeCapacity": 45,
-    "organizer": {
-      "@type": "Organization",
-      "name": "Science Gallery Bengaluru",
-      "url": "https://carbon.scigalleryblr.org"
-    }
+    "maximumAttendeeCapacity": 45
   },
   {
-    "@context": "http://schema.org",
     "@type": "EducationEvent",
     "name": "Radical Creativity in Public Art",
     "location": "Science Gallery Bengaluru ",
@@ -150,11 +113,6 @@
         "name": " Riikka M\u00e4kikoskela"
       }
     ],
-    "maximumAttendeeCapacity": 30,
-    "organizer": {
-      "@type": "Organization",
-      "name": "Science Gallery Bengaluru",
-      "url": "https://carbon.scigalleryblr.org"
-    }
+    "maximumAttendeeCapacity": 30
   }
 ]

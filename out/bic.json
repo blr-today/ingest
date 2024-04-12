@@ -90,6 +90,22 @@
   },
   {
     "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Haashiye Ke Pare | Beyond the Margins",
+    "startDate": "2024-04-20T18:30:00+05:30",
+    "endDate": "2024-04-20T20:00:00+05:30",
+    "description": "Don Marquis said, \u201cPublishing a volume of verse is like dropping a rose petal down the Grand Canyon and waiting for the echo.\u201d \nHashiye Ke Pare (Beyond the Margins), published by Atta Galatta is an anthology of Hindi-Urdu poems, written by poets residing in Bangalore. 32 poets have dropped 77 rose petals in this anthology, launched at the 2023 edition of the Bengaluru Poetry Festival. The anthology has been compiled and edited by Mohit Kataria, a published poet. \nThe poems fall into multiple categories where poets have reflected upon eternal questions of mankind including the meaning of life, existence, love and death.\u00a0In these poems you\u2019ll find many shades of love. There are questions raised in the softest of voices as well as with clenched fists in a manner only a poet can raise. \nThere is an equal representation of female poets in the anthology and in fact, each of the seven sections of the book start with a poem by a female poet. The cover is designed by an accomplished illustrator, Harsh Marathe and the sketches within the book are done by Anu Verma Kataria. This anthology is a continuation of the poetry published in the first of it\u2019s kind anthology titled \u201cKarn Kavita\u201d, compiled and edited by poet Sourav Roy, published by Atta Galatta in 2016. \nThe idea of publishing Hindi-Urdu poetry, by poets residing in Bangalore, becomes reality only with the love of poetry, in its true sense, without limiting yourself to any one language. Since it\u2019s release, poetry from \u201cHashiye ke Pare\u201d has been presented in multiple forums such as the Bengaluru Poetry Festival, Atta Galatta and other venues across the city. \nPresented by: \n \n",
+    "location": {
+      "@type": "Place",
+      "name": "7, 4th Main Road, Domlur II Stage, Bengaluru, Karnataka, 560 071, India"
+    },
+    "url": "https://bangaloreinternationalcentre.org/event/haashiye-ke-pare-beyond-the-margins/",
+    "keywords": "Books, Language, Literature, Poetry",
+    "inLanguage": "ur",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-442.jpg"
+  },
+  {
+    "@context": "http://schema.org",
     "@type": "MusicEvent",
     "name": "Yaadey",
     "startDate": "2024-04-21T17:30:00+05:30",
@@ -405,5 +421,25 @@
     },
     "subtitleLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-439.jpg"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "MusicEvent",
+    "name": "At the Theatres",
+    "startDate": "2024-05-01T19:00:00+05:30",
+    "endDate": "2024-05-01T20:30:00+05:30",
+    "description": "IndoSoul is celebrating 12 years of creating soul-stirring melodies that have captivated hearts worldwide. Embracing the independent spirit of Bangalore, the upcoming event is tailored for the city\u2019s Carnatic contemporary-loving audience. Having garnered a dedicated fan base over the years, IndoSoul\u2019s showcase is designed to resonate with their preferences by featuring beloved fan favourites. \nBeyond the familiar tunes like Manavyala, Raghuvamsa etc, IndoSoul aims to amplify the vibrant and independent music spirit curating a unique experience that celebrates both the rich heritage of Carnatic music and its dynamic evolution into a global phenomenon. \nThis event holds special significance, not only marking a dozen years of their musical craftsmanship but also serving as an expression of gratitude towards the audience who have been a constant source of support. \nSupported by: \n \n",
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "url": "https://bangaloreinternationalcentre.org/event/at-the-theatres/",
+    "keywords": "Music, Performing Arts",
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "At the Theatres"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-443.jpg"
   }
 ]
