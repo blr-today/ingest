@@ -72,8 +72,9 @@ out/townscript.txt:
 out/bluetokai.json:
 	python src/bluetokai.py
 
+# site might be down?
 out/gullytours.json:
-	python src/gullytours.py
+	python src/gullytours.py ||  true
 
 all: out/allevents.txt \
  out/highape.txt \
