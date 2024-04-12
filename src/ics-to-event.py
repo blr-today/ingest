@@ -1,7 +1,25 @@
 import sys
 import ics
 import json
+import re
 
+LANGUAGE_MAP = {
+    "Hindi": "hi",
+    "Kannada": "kn",
+    "Tamil": "ta",
+    "Telugu": "te",
+    "Malayalam": "ml",
+    "Marathi": "mr",
+    "Bengali": "bn",
+    "Gujarati": "gu",
+    "Punjabi": "pa",
+    "Odia": "or",
+    "Assamese": "as",
+    "Urdu": "ur",
+    "Sanskrit": "sa",
+    "Nepali": "ne",
+    "Sindhi": "sd"
+}
 
 def convert_ics_to_json(ics_file_path):
     """
@@ -33,6 +51,40 @@ def convert_ics_to_json(ics_file_path):
             "url": event.url,
             "keywords": ", ".join(sorted(event.categories)),
         }
+
+        for l in LANGUAGE_MAP:
+            regex = r"\b" + l + r"\b"
+            if re.search(regex, event_json['description']):
+                event_json['inLanguage'] = LANGUAGE_MAP[l]
+
+        if 'inLanguage' not in event_json:
+            event_json['inLanguage'] = "en"
+
+        if re.search(r"\bsubtitles", event_json['description'], re.IGNORECASE):
+            event_json['@type'] = "ScreeningEvent"
+            event_json['workPresented'] = {
+                "@type": "Movie",
+                "name": event.name,
+            }
+            
+            L_WITH_ENGLISH = LANGUAGE_MAP  | {"English": "en"}
+            for l in L_WITH_ENGLISH:
+                if re.search(r"\b" + l + r" subtitles\b", event_json['description'], re.IGNORECASE):
+                    event_json['subtitleLanguage'] = L_WITH_ENGLISH[l]
+
+        if 'Performing Arts' in event.categories and 'Theatre' in event.categories:
+            event_json['@type'] = "TheaterEvent"
+            event_json['workPerformed'] = {
+                "@type": "TheaterPlay",
+                "name": event.name,
+            }
+
+        if 'Performing Arts' in event.categories and 'Music' in event.categories:
+            event_json['@type'] = "MusicEvent"
+            event_json['workPerformed'] = {
+                "@type": "CreativeWork",
+                "name": event.name,
+            }
 
         # Check for attachments (if image)
         if event.extra:
