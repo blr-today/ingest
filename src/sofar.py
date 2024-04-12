@@ -16,14 +16,15 @@ def to_schema_org_music_event(event_info):
     # events are assumed to be 2 hours long
     endsAt = startsAt + datetime.timedelta(hours=2)
 
-    venue = ""
+    name = event_info['theme']['title'] + " Sofar concert at a "
+
     categories = "/".join([x["name"] for x in event_info["venue"]["venueCategories"]])
     if categories != "Other" :
-        venue = categories + " in "
+        name += categories + " in "
     try:
-        venue += event_info["venue"]["neighborhood"]["title"]
-    except KeyError:
-        venue += event_info["city"]["title"]
+        name += event_info["venue"]["neighborhood"]["title"]
+    except Exception:
+        name += event_info["city"]["title"]
 
     # Mapping the provided dictionary to schema.org format
     music_event_schema = {
@@ -31,17 +32,7 @@ def to_schema_org_music_event(event_info):
         "startDate": startsAt.isoformat(),
         "doorTime": guestsArriveAt.isoformat(),
         "endDate": endsAt.isoformat(),
-        "location": {
-            "@type": "Place",
-            "address": {
-                "@type": "PostalAddress",
-                "addressLocality": "Bangalore",
-                "addressRegion": "KA",
-                "addressCountry": "IN",
-                "streetAddress": venue,
-            },
-            "keywords": event_info["venue"]["venueType"],
-        },
+        "name": name
     }
 
     return music_event_schema
