@@ -12,6 +12,7 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/living-wills/",
     "keywords": "Law, Society",
+    "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-424.jpg"
   },
   {
@@ -27,11 +28,12 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/make-believe/",
     "keywords": "Architecture, Design, Visual Arts",
+    "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-430.jpg"
   },
   {
     "@context": "http://schema.org",
-    "@type": "Event",
+    "@type": "ScreeningEvent",
     "name": "Saga of a Poet",
     "startDate": "2024-04-15T18:30:00+05:30",
     "endDate": "2024-04-15T20:30:00+05:30",
@@ -42,11 +44,17 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/saga-of-a-poet/",
     "keywords": "Film, Poetry",
+    "inLanguage": "ta",
+    "workPresented": {
+      "@type": "Movie",
+      "name": "Saga of a Poet"
+    },
+    "subtitleLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-426.jpg"
   },
   {
     "@context": "http://schema.org",
-    "@type": "Event",
+    "@type": "MusicEvent",
     "name": "Romantic Ties \u2014 Liszt, Brahms, Sciortino",
     "startDate": "2024-04-24T19:00:00+05:30",
     "endDate": "2024-04-24T20:30:00+05:30",
@@ -57,6 +65,11 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/romantic-ties-liszt-brahms-sciortino/",
     "keywords": "Music, Performing Arts",
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "Romantic Ties \u2014 Liszt, Brahms, Sciortino"
+    },
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-Romantic-Ties.jpg"
   },
   {
@@ -72,11 +85,12 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/%e0%b2%aa%e0%b2%82%e0%b2%9a%e0%b2%ae-%e0%b2%aa%e0%b2%a6-panchama-pada/",
     "keywords": "Culture*, Society, Theatre",
+    "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-433.jpg"
   },
   {
     "@context": "http://schema.org",
-    "@type": "Event",
+    "@type": "MusicEvent",
     "name": "Yaadey",
     "startDate": "2024-04-21T17:30:00+05:30",
     "endDate": "2024-04-21T19:00:00+05:30",
@@ -87,6 +101,11 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/yaadey/",
     "keywords": "Music, Performing Arts",
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "Yaadey"
+    },
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-422.jpg"
   },
   {
@@ -102,6 +121,7 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/echoes-of-ai/",
     "keywords": "Books, Development, Nonfiction, Technology",
+    "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-438.jpg"
   },
   {
@@ -117,6 +137,7 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/understandning-theatre/",
     "keywords": "Theatre, Workshops",
+    "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-418.jpg"
   },
   {
@@ -132,6 +153,7 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/china-through-another-prism/",
     "keywords": "History, International Relations, Politics",
+    "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-400.jpg"
   },
   {
@@ -147,6 +169,7 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/the-costs-of-political-corruption/",
     "keywords": "Books, Governance, Policy & Regulation, Politics, Society",
+    "inLanguage": "hi",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-419.jpg"
   },
   {
@@ -162,11 +185,12 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/like-the-date-palm/",
     "keywords": "Literature, Poetry",
+    "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-432.jpg"
   },
   {
     "@context": "http://schema.org",
-    "@type": "Event",
+    "@type": "MusicEvent",
     "name": "Vara Narada",
     "startDate": "2024-04-25T18:30:00+05:30",
     "endDate": "2024-04-25T20:15:00+05:30",
@@ -177,11 +201,16 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/vara-narada/",
     "keywords": "Faith, Heritage, Music, Performing Arts",
+    "inLanguage": "sa",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "Vara Narada"
+    },
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-437.jpg"
   },
   {
     "@context": "http://schema.org",
-    "@type": "Event",
+    "@type": "TheaterEvent",
     "name": "Tara's Trio",
     "startDate": "2024-04-30T18:00:00+05:30",
     "endDate": "2024-04-30T19:30:00+05:30",
@@ -192,6 +221,11 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/taras-trio/",
     "keywords": "Performing Arts, Theatre",
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "TheaterPlay",
+      "name": "Tara's Trio"
+    },
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-441.jpg"
   },
   {
@@ -207,6 +241,7 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/practicing-wildlife-conservation/",
     "keywords": "Environment, Masterclass, Wildlife",
+    "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-434.jpg"
   },
   {
@@ -222,6 +257,7 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/%e0%b2%a8%e0%b3%80%e0%b2%b2%e0%b2%bf-%e0%b2%aa%e0%b2%b0%e0%b2%a6%e0%b3%86-neeli-parade-season-2/",
     "keywords": "Film",
+    "inLanguage": "kn",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-429.jpg"
   },
   {
@@ -237,6 +273,7 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/towards-digital-film-societies/",
     "keywords": "Film, History, Media",
+    "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-431.jpg"
   },
   {
@@ -252,11 +289,12 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/the-rise-and-fall-of-the-vanderbilts/",
     "keywords": "Books, Business, Nonfiction",
+    "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-428.jpg"
   },
   {
     "@context": "http://schema.org",
-    "@type": "Event",
+    "@type": "ScreeningEvent",
     "name": "The Ocean Connection",
     "startDate": "2024-04-22T18:30:00+05:30",
     "endDate": "2024-04-22T20:00:00+05:30",
@@ -267,11 +305,17 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/the-ocean-connection/",
     "keywords": "Environment, Film, Sustainability, Wildlife",
+    "inLanguage": "kn",
+    "workPresented": {
+      "@type": "Movie",
+      "name": "The Ocean Connection"
+    },
+    "subtitleLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-436.jpg"
   },
   {
     "@context": "http://schema.org",
-    "@type": "Event",
+    "@type": "TheaterEvent",
     "name": "Beyond the Red Nose",
     "startDate": "2024-04-28T11:00:00+05:30",
     "endDate": "2024-04-28T12:30:00+05:30",
@@ -282,6 +326,11 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/beyond-the-red-nose/",
     "keywords": "Health & Wellness, Performing Arts, Theatre, Workshops",
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "TheaterPlay",
+      "name": "Beyond the Red Nose"
+    },
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-440.jpg"
   },
   {
@@ -297,11 +346,12 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/the-gods-who-come-down-from-heaven/",
     "keywords": "Culture*, Faith, Heritage, History, Photography",
+    "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-100.jpg"
   },
   {
     "@context": "http://schema.org",
-    "@type": "Event",
+    "@type": "TheaterEvent",
     "name": "Dvijottama",
     "startDate": "2024-04-18T19:00:00+05:30",
     "endDate": "2024-04-18T20:15:00+05:30",
@@ -312,6 +362,11 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/dvijottama/",
     "keywords": "History, Mythology, Performing Arts, Theatre",
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "TheaterPlay",
+      "name": "Dvijottama"
+    },
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-420.jpg"
   },
   {
@@ -327,11 +382,12 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/love-sex-and-algorithms/",
     "keywords": "Bangalore, Books, Gender, Technology",
+    "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy_POSTER-26.jpg"
   },
   {
     "@context": "http://schema.org",
-    "@type": "Event",
+    "@type": "ScreeningEvent",
     "name": "Asamana Anasuya",
     "startDate": "2024-05-12T18:30:00+05:30",
     "endDate": "2024-05-12T20:30:00+05:30",
@@ -342,6 +398,12 @@
     },
     "url": "https://bangaloreinternationalcentre.org/event/asamana-anasuya/",
     "keywords": "Biography, Film, Music",
+    "inLanguage": "te",
+    "workPresented": {
+      "@type": "Movie",
+      "name": "Asamana Anasuya"
+    },
+    "subtitleLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-439.jpg"
   }
 ]

@@ -21,7 +21,7 @@ LANGUAGE_MAP = {
     "Sindhi": "sd"
 }
 
-def convert_ics_to_json(ics_file_path, event_dict):
+def convert_ics_to_json(ics_file_path):
     events = []
 
     with open(ics_file_path, 'r') as file:
@@ -41,7 +41,7 @@ def convert_ics_to_json(ics_file_path, event_dict):
             },
             "url": event.url,
             "keywords": ", ".join(sorted(event.categories)),
-        }.merge(event_dict)
+        }
 
         for l in LANGUAGE_MAP:
             regex = r"\b" + l + r"\b"
@@ -96,16 +96,7 @@ if __name__ == "__main__":
     input_ics_file = sys.argv[1]
     output_json_file = sys.argv[2]
 
-    # TODO: use a config file instead for these patches.
-    json_data = convert_ics_to_json(input_ics_file, {
-        "inLanguage": "en",
-        "eventStatus": "EventScheduled",
-        "organizer": {
-            "@type": "Organization",
-            "name": "Bangalore International Center",
-            "url": "https://bangaloreinternationalcentre.org/",
-        }
-    })
+    json_data = convert_ics_to_json(input_ics_file)
     
     with open(output_json_file, 'w') as output_file:
         output_file.write(json_data)
