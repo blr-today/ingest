@@ -78,7 +78,6 @@ def parse_timestamp(timestamp):
 def make_event(e, ts):
   experts = e["experts"].replace("_", " ").title().split(",")
   return {
-    "@context": "http://schema.org",
     "@type": guess_event_type(e["kind"]),
     "name": e["name"],
     "location": e["venue"],
@@ -87,12 +86,7 @@ def make_event(e, ts):
     "duration": parse_duration(e["duration"]),
     "url": "https://carbon.scigalleryblr.org/programmes?" +  urlencode({"p":e["uid"]}),
     "performer": [{"@type": "Person", "name": expert} for expert in experts],
-    "maximumAttendeeCapacity": e["capacity"],
-    "organizer": {
-        "@type": "Organization",
-        "name": "Science Gallery Bengaluru",
-        "url": "https://carbon.scigalleryblr.org"
-    }
+    "maximumAttendeeCapacity": e["capacity"]
   }
 
 def filter_data(data):

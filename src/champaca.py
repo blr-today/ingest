@@ -53,11 +53,9 @@ def make_event(title, starttime, description, url, product_urls):
             performer = match.group("name")
             break
     e = {
-        "@context": "http://schema.org",
         "@type": guess_event_type(title),
         "name": title,
         "startDate": starttime.replace(tzinfo=tz).isoformat(),
-        "duration": "PT2H",
         "description": description,
         "url": url,
         "offers": [
@@ -68,18 +66,7 @@ def make_event(title, starttime, description, url, product_urls):
                 "priceCurrency": "INR",
             }
             for url in product_urls
-        ],
-        "location": {
-            "@type": "Place",
-            "name": "Champaca Bookstore",
-            "address": {
-                "@type": "PostalAddress",
-                "streetAddress": "7/1 Edward Road, Off Queens Road",
-                "addressLocality": "Bengaluru",
-                "postalCode": "560051",
-                "addressCountry": "India",
-            },
-        },
+        ]
     }
 
     for offer in e["offers"]:

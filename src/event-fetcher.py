@@ -5,6 +5,8 @@ from w3lib.html import get_base_url
 import sqlite3
 from bs4 import BeautifulSoup
 import json
+import os
+
 LANGUAGE_MAP = {
     "English": "en",
     "Hindi": "hi",
@@ -70,10 +72,17 @@ URL_FILES = [
 
 def get_local_events(files):
     for i in files:
-        with open(i, "r") as f:
-            data = json.load(f)
-            for event in data:
-                yield (event['url'], event)
+        patch = get_patch(i)
+        if os.path.exists(i):
+            with open(i, "r") as f:
+                data = json.load(f)
+                for event in data:
+                    if patch:
+                        patch.update(event)
+                        event = patch
+                    yield (event['url'], event)
+        else:
+            print(f"[ERROR] Missing {i}")
 
 def get_events(s):
     for i in URL_FILES:
@@ -140,6 +149,13 @@ def insert_event_json(conn, url, event_json):
     cursor = conn.cursor()
     cursor.execute('INSERT INTO events (url, event_json) VALUES (?, ?)', (url, d))
 
+def get_patch(input_file):
+    basename = os.path.splitext(os.path.basename(input_file))[0]
+    patch = os.path.join("patch", basename + ".json")
+    if os.path.exists(patch):
+        with open(patch, 'r') as file:
+            return json.load(file)
+
 def create_events_table():
     conn = sqlite3.connect('events.db')
     cursor = conn.cursor()
@@ -163,14 +179,14 @@ if __name__ == "__main__":
     )
     conn = sqlite3.connect('events.db')
     i = 0
-    for (url, d) in get_events(session):
-        insert_event_json(conn, url, d)
-        i+=1
-        if i %10 == 0:
-            conn.commit()
+    # for (url, d) in get_events(session):
+    #     insert_event_json(conn, url, d)
+    #     i+=1
+    #     if i %10 == 0:
+    #         conn.commit()
 
-    for (url, d) in get_local_events(EVENT_JSON_FILES):
-        insert_event_json(conn, url, d)
+    for (url, event) in get_local_events(EVENT_JSON_FILES):
+        insert_event_json(conn, url, event)
         print(url)
         i+=1
         if i %10 == 0:

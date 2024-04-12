@@ -55,35 +55,17 @@ def parse_event_details(html_content):
         events.append({
             "@context": "https://schema.org",
             "@type": "ExhibitionEvent",
+            "eventStatus": "https://schema.org/EventScheduled",
             "name": title,
             "startDate": start_date,
             "endDate": end_date,
             "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-            "eventStatus": "https://schema.org/EventScheduled",
             "url": event_url,
-            "location": {
-                "@type": "Place",
-                "name": "Gallery Sumukha",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "24/10, BTS Depot Road, Wilson Garden",
-                    "addressLocality": "Bengaluru",
-                    "postalCode": "560027",
-                    "addressCountry": "IN"
-                },
-                "telephone": "+91 93804 20041",
-                "email": "info@sumukha.com"
-            },
             "image": urljoin('https://sumukha.com', img_src),
             "description": description,
             "performer": {
                 "@type": "PerformingGroup",
                 "name": performer.replace("by ","")
-            },
-            "organizer": {
-                "@type": "Organization",
-                "name": "Gallery Sumukha",
-                "url": "https://sumukha.com/"
             }
         })
     return events

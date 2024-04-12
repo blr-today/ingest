@@ -1,0 +1,25 @@
+{
+    "@context": "http://schema.org",
+    "duration": "PT2H",
+    "location": {
+        "@type": "Place",
+        "name": "Champaca Bookstore",
+        "isicV4": "4761",
+        "publicAccess": true,
+        "hasDriveThroughService": false,
+        "telephone": "+91-93536-08989",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "7/1 Edward Road, Off Queens Road",
+            "addressLocality": "Bengaluru",
+            "postalCode": "560051",
+            "addressCountry": "India"
+        }
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Champaca Bookstore",
+        "url": "https://champaca.in",
+        "isicV4": "4761"
+    }
+}

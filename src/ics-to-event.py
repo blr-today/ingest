@@ -21,16 +21,7 @@ LANGUAGE_MAP = {
     "Sindhi": "sd"
 }
 
-def convert_ics_to_json(ics_file_path):
-    """
-    Convert ICS calendar file to JSON-LD containing schema.org events.
-
-    Args:
-        ics_file_path (str): Path to the ICS file.
-
-    Returns:
-        str: JSON-LD string containing schema.org events.
-    """
+def convert_ics_to_json(ics_file_path, event_dict):
     events = []
 
     with open(ics_file_path, 'r') as file:
@@ -50,7 +41,7 @@ def convert_ics_to_json(ics_file_path):
             },
             "url": event.url,
             "keywords": ", ".join(sorted(event.categories)),
-        }
+        }.merge(event_dict)
 
         for l in LANGUAGE_MAP:
             regex = r"\b" + l + r"\b"
@@ -97,7 +88,6 @@ def convert_ics_to_json(ics_file_path):
 
     return json.dumps(events, indent=2)
 
-
 if __name__ == "__main__":
     if len(sys.argv) != 3:
         print("Usage: python script.py input_ics_file output_json_file")
@@ -106,7 +96,16 @@ if __name__ == "__main__":
     input_ics_file = sys.argv[1]
     output_json_file = sys.argv[2]
 
-    json_data = convert_ics_to_json(input_ics_file)
+    # TODO: use a config file instead for these patches.
+    json_data = convert_ics_to_json(input_ics_file, {
+        "inLanguage": "en",
+        "eventStatus": "EventScheduled",
+        "organizer": {
+            "@type": "Organization",
+            "name": "Bangalore International Center",
+            "url": "https://bangaloreinternationalcentre.org/",
+        }
+    })
     
     with open(output_json_file, 'w') as output_file:
         output_file.write(json_data)

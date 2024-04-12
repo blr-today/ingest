@@ -44,19 +44,9 @@ if response.status == 200:
             event_date = start_date + timedelta(days=day)
             closing_time = end_date.replace(year=event_date.year, month=event_date.month, day=event_date.day)
             event = {
-                "@context": "https://schema.org",
-                "@type": "Event",
                 "name": item['title'],
                 "startDate": format_datetime(event_date, item['allDay']),
                 "endDate": format_datetime(closing_time, item['allDay']),
-                "location": {
-                    "@type": "Place",
-                    "name": "Museum of Art & Photography (MAP)",
-                    "address": "22, Kasturba Rd, Shanthala Nagar, Bengaluru, Karnataka 560001, India",
-                    "url": "https://map-india.org/visit-us/",
-                    "telephone": "+91 80 6933 4100"
-                },
-                "eventStatus": "https://schema.org/EventScheduled",
                 "url": item['url']
             }
             # if not item['allDay']:

@@ -1,0 +1,17 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "location": {
+        "@type": "Place",
+        "name": "Museum of Art & Photography (MAP)",
+        "address": "22, Kasturba Rd, Shanthala Nagar, Bengaluru, Karnataka 560001, India",
+        "url": "https://map-india.org/visit-us/",
+        "telephone": "+91 80 6933 4100"
+    },
+    "eventStatus": "https://schema.org/EventScheduled",
+    "organizer": {
+        "@type": "Organization",
+        "name": "Museum of Art & Photography",
+        "url": "https://map-india.org/"
+    }
+}

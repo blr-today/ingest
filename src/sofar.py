@@ -20,12 +20,13 @@ def to_schema_org_music_event(event_info):
     categories = "/".join([x["name"] for x in event_info["venue"]["venueCategories"]])
     if categories != "Other" :
         venue = categories + " in "
-    venue += event_info["venue"]["neighborhood"]["title"]
+    try:
+        venue += event_info["venue"]["neighborhood"]["title"]
+    except KeyError:
+        venue += event_info["city"]["title"]
 
     # Mapping the provided dictionary to schema.org format
     music_event_schema = {
-        "@context": "http://schema.org",
-        "@type": "MusicEvent",
         "url": f"{base_url}{event_info['id']}",
         "startDate": startsAt.isoformat(),
         "doorTime": guestsArriveAt.isoformat(),

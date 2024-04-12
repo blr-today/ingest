@@ -1,0 +1,23 @@
+{
+    "@context": "https://schema.org",
+    "@type": "ExhibitionEvent",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "location": {
+        "@type": "Place",
+        "name": "Gallery Sumukha",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "24/10, BTS Depot Road, Wilson Garden",
+            "addressLocality": "Bengaluru",
+            "postalCode": "560027",
+            "addressCountry": "IN"
+        },
+        "telephone": "+91 93804 20041",
+        "email": "info@sumukha.com"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Gallery Sumukha",
+        "url": "https://sumukha.com/"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "http://schema.org",
+    "@type": "MusicEvent",
+    "eventStatus": "EventScheduled",
+    "organizer": {
+        "@type": "Organization",
+        "name": "Sofar Sounds",
+        "url": "https://www.sofarsounds.com/"
+    }
+}
