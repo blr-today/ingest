@@ -69,6 +69,7 @@ URL_FILES = [
     "out/insider.txt",
     "out/mmb.txt",
     "out/mello.txt",
+    "out/skillboxes.txt",
 ]
 
 def get_local_events(files):

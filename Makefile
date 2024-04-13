@@ -18,6 +18,9 @@ out/mello.txt:
   --url 'https://api.mello.fun/api/v1/experiences?dateFilter=this%20weekend&latest=true' \
   --header "authorizationtoken: $$MELLO_JWT_TOKEN"  | jq -r ".data[]|.url" | sort > out/mello.txt
 
+out/skillboxes.txt:
+	python src/skillboxes.py | sort > out/skillboxes.txt
+
 out/atta_galatta.json:
 	python src/atta_galatta.py
 
@@ -101,7 +104,8 @@ all: out/allevents.txt \
  out/bluetokai.json \
  out/gullytours.json \
  out/townscript.txt \
- out/mello.txt
+ out/mello.txt \
+ out/skillboxes.txt
 	@echo "Done"
 
 db:
