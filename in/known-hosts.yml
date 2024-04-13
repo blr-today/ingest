@@ -4,6 +4,11 @@ luma:
   blumeventures: blumeventures
   # TWIF has events all across globe
   # thisweekinfintech: twif
+meetup:
+  - bangalore-meeples-social-board-gaming
+  - meeples-of-bengaluru
+  - bengaluru-skaters-group
+  - vipo_boardgames
 gullytours:
   - url: https://www.gully.tours/tours/coffee-and-the-cantonment
     id: "88252"
@@ -32,9 +37,10 @@ gullytours:
   - url: https://www.gully.tours/tours/the-tiffin-trail
     id: "20524"
     name: The Tiffin Trail
-  - url: https://www.gully.tours/tours/the-urban-nature-trail
-    id: "43157"
-    name: The Urban Nature Trail
+  # Tour is currently suspended?
+  # - url: https://www.gully.tours/tours/the-urban-nature-trail
+  #   id: "43157"
+  #   name: The Urban Nature Trail
   - url: https://www.gully.tours/tours/the-yelahanka-diaries
     id: "77823"
     name: The Yelahanka Diaries

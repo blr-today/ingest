@@ -33,9 +33,13 @@ We have some data available or change notifications configured, but there needs 
 - [ ] Urbanaut
 - [x] https://thecourtyard.in/events/ Courtyard is only using Urbanaut, so covered already
 - [ ] https://www.blrcreativecircus.com/events
+- [x] https://gameslab.wootick.com/ Covered via Insider, maybe add a filter
 
 # TODO
-
+- [ ] https://hooplaback-girl.myinstamojo.com/ (search for Workshop events)
+- [ ] https://gaianaturalproductsandservices.myinstamojo.com/category/419534/events
+- [ ] https://courtyardkoota.com
+- [ ] https://dialogues.space/events/
 - [ ] bookmyshow plays
 - [ ] [Instagram](instagram.txt)
 - [ ] http://1shanthiroad.com/category/events/
@@ -44,14 +48,23 @@ We have some data available or change notifications configured, but there needs 
 - [ ] https://www.tonight.is/. Some GRPC Firebase :poop:
 - [ ] https://www.downtomeet.com/
 - [ ] Go through PS archives to see other venue hosts.
-
+- [ ] [Indian Music Experience](https://indianmusicexperience.org/events/)
+- [ ] [Parallel Cinema Club](https://www.theparallelcinema.club/events)
+- [ ] [Maverick](https://www.maverickandfarmer.com/)
+- [ ] https://www.meinbhikalakar.com/upcomingworkshops
+- [ ] https://www.paintbar.in/collections/paint-bar-bangalore
+- [ ] https://www.pedalintandem.com/experiences
+- [ ] https://lockthebox.in/upcoming-events.php
+- [ ] https://manjushreekhaitanfoundation.com/?post_type=tribe_events&eventDisplay=list
+- [ ] https://sistersinsweat.in/events?city=4
+- [ ] https://nd.jpf.go.jp/events/coming-events-announcements/
 ## Known Issues
 
 - [ ] Events with multiple dates are not handled well. Need to split them into separate events. Examples: 
 	[1](https://allevents.in/bangalore/80004382397903), [2](https://insider.in/private-clay-dates-create-pottery-with-loved-ones-jun19-2023/event)
 
-## Museums in BLR
-
+## Venues in BLR
+- [ ] [IIHS](https://iihs.co.in/iihs-events/)
 - [ ] https://en.wikipedia.org/wiki/Karnataka_Chitrakala_Parishath
 - [ ] https://en.wikipedia.org/wiki/Venkatappa_Art_Gallery
 - [ ] https://en.wikipedia.org/wiki/Gandhi_Bhavan,_Bengaluru
