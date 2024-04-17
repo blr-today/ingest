@@ -594,11 +594,16 @@
         "user_convenience_fee_flat_currency": "INR",
         "user_convenience_fee_percentage": "3.00",
         "who_is_it_for_tags": [
+          5,
           8,
-          9,
-          5
+          9
         ],
         "who_is_it_for_tags_data": [
+          {
+            "id": 5,
+            "name": "Family friends",
+            "path": "who_is_it_for_tag/family_friends.svg"
+          },
           {
             "id": 8,
             "name": "Great for all ages",
@@ -608,11 +613,6 @@
             "id": 9,
             "name": "Great for big group",
             "path": "who_is_it_for_tag/great_for_big_group.svg"
-          },
-          {
-            "id": 5,
-            "name": "Family friends",
-            "path": "who_is_it_for_tag/family_friends.svg"
           }
         ],
         "working_days": []
@@ -1018,16 +1018,11 @@
         "user_convenience_fee_flat_currency": "INR",
         "user_convenience_fee_percentage": "3.00",
         "who_is_it_for_tags": [
-          10,
           4,
-          6
+          6,
+          10
         ],
         "who_is_it_for_tags_data": [
-          {
-            "id": 10,
-            "name": "Pet friendly",
-            "path": "who_is_it_for_tag/pet_friendly.svg"
-          },
           {
             "id": 4,
             "name": "Adults only",
@@ -1037,6 +1032,11 @@
             "id": 6,
             "name": "Good for couples",
             "path": "who_is_it_for_tag/good_for_couples.svg"
+          },
+          {
+            "id": 10,
+            "name": "Pet friendly",
+            "path": "who_is_it_for_tag/pet_friendly.svg"
           }
         ],
         "working_days": []
@@ -1480,16 +1480,11 @@
         "user_convenience_fee_flat_currency": "INR",
         "user_convenience_fee_percentage": "3.00",
         "who_is_it_for_tags": [
-          9,
           4,
-          6
+          6,
+          9
         ],
         "who_is_it_for_tags_data": [
-          {
-            "id": 9,
-            "name": "Great for big group",
-            "path": "who_is_it_for_tag/great_for_big_group.svg"
-          },
           {
             "id": 4,
             "name": "Adults only",
@@ -1499,6 +1494,11 @@
             "id": 6,
             "name": "Good for couples",
             "path": "who_is_it_for_tag/good_for_couples.svg"
+          },
+          {
+            "id": 9,
+            "name": "Great for big group",
+            "path": "who_is_it_for_tag/great_for_big_group.svg"
           }
         ],
         "working_days": []
@@ -2303,16 +2303,11 @@
         "user_convenience_fee_flat_currency": "INR",
         "user_convenience_fee_percentage": "3.00",
         "who_is_it_for_tags": [
-          8,
           3,
-          6
+          6,
+          8
         ],
         "who_is_it_for_tags_data": [
-          {
-            "id": 8,
-            "name": "Great for all ages",
-            "path": "who_is_it_for_tag/great_for_all_ages.svg"
-          },
           {
             "id": 3,
             "name": "Beginner friendly",
@@ -2322,6 +2317,11 @@
             "id": 6,
             "name": "Good for couples",
             "path": "who_is_it_for_tag/good_for_couples.svg"
+          },
+          {
+            "id": 8,
+            "name": "Great for all ages",
+            "path": "who_is_it_for_tag/great_for_all_ages.svg"
           }
         ],
         "working_days": []
@@ -2532,7 +2532,7 @@
       "highlights": []
     }
   ],
-  "out_of": 2302,
+  "out_of": 2303,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
