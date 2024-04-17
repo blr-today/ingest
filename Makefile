@@ -16,7 +16,7 @@ out/allevents.txt:
 out/mello.txt:
 	curl --silent --request GET \
   --url 'https://api.mello.fun/api/v1/experiences?dateFilter=this%20weekend&latest=true' \
-  --header "authorizationtoken: $$MELLO_JWT_TOKEN"  | jq -r ".data[]|.url" | sort > out/mello.txt
+  --header "authorizationtoken: $$MELLO_JWT_TOKEN"  | jq -r ".data[].url | select( . != null )" | sort > out/mello.txt
 
 out/skillboxes.txt:
 	python src/skillboxes.py | sort > out/skillboxes.txt

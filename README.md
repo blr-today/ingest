@@ -43,7 +43,7 @@ We have some data available or change notifications configured, but there needs 
 - [ ] bookmyshow plays
 - [ ] [Instagram](instagram.txt)
 - [ ] http://1shanthiroad.com/category/events/
-- [ ] https://gullytours.vacationlabs.com/ -> Go to booking page to see valid dates. Couldn't find any other "good" vacationlabs domains.
+- [x] https://gullytours.vacationlabs.com/ -> Go to booking page to see valid dates. Couldn't find any other "good" vacationlabs domains.
 - [ ] find more Townscript accounts to follow
 - [ ] https://www.tonight.is/. Some GRPC Firebase :poop:
 - [ ] https://www.downtomeet.com/
@@ -58,6 +58,7 @@ We have some data available or change notifications configured, but there needs 
 - [ ] https://manjushreekhaitanfoundation.com/?post_type=tribe_events&eventDisplay=list
 - [ ] https://sistersinsweat.in/events?city=4
 - [ ] https://nd.jpf.go.jp/events/coming-events-announcements/
+
 ## Known Issues
 
 - [ ] Events with multiple dates are not handled well. Need to split them into separate events. Examples: 
@@ -73,6 +74,10 @@ We have some data available or change notifications configured, but there needs 
 - [ ] https://en.wikipedia.org/wiki/Law_Museum_Bangalore
 - [ ] https://en.wikipedia.org/wiki/Kempegowda_Museum
 - [ ] https://en.wikipedia.org/wiki/Sandesh_Museum_of_Communication
+
+## Known Avoidances
+- bookmetickets.com - doesn't host anything recent
+- Eventbrite - pretty terrible events, not really worth adding
 
 [vism]: https://www.vismuseum.gov.in/special_events/upcoming-events-2/
 [sofar]: https://www.sofarsounds.com/cities/bangalore
