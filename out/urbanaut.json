@@ -1267,16 +1267,11 @@
         "user_convenience_fee_flat_currency": "INR",
         "user_convenience_fee_percentage": "3.00",
         "who_is_it_for_tags": [
-          9,
           5,
-          6
+          6,
+          9
         ],
         "who_is_it_for_tags_data": [
-          {
-            "id": 9,
-            "name": "Great for big group",
-            "path": "who_is_it_for_tag/great_for_big_group.svg"
-          },
           {
             "id": 5,
             "name": "Family friends",
@@ -1286,6 +1281,11 @@
             "id": 6,
             "name": "Good for couples",
             "path": "who_is_it_for_tag/good_for_couples.svg"
+          },
+          {
+            "id": 9,
+            "name": "Great for big group",
+            "path": "who_is_it_for_tag/great_for_big_group.svg"
           }
         ],
         "working_days": []
@@ -1802,19 +1802,19 @@
         "user_convenience_fee_flat_currency": "INR",
         "user_convenience_fee_percentage": "3.00",
         "who_is_it_for_tags": [
-          11,
-          5
+          5,
+          11
         ],
         "who_is_it_for_tags_data": [
-          {
-            "id": 11,
-            "name": "Private and Exclusive",
-            "path": "who_is_it_for_tag/private_and_exclusive.svg"
-          },
           {
             "id": 5,
             "name": "Family friends",
             "path": "who_is_it_for_tag/family_friends.svg"
+          },
+          {
+            "id": 11,
+            "name": "Private and Exclusive",
+            "path": "who_is_it_for_tag/private_and_exclusive.svg"
           }
         ],
         "working_days": []
@@ -2089,16 +2089,11 @@
         "user_convenience_fee_flat_currency": "INR",
         "user_convenience_fee_percentage": "3.00",
         "who_is_it_for_tags": [
-          11,
           5,
-          6
+          6,
+          11
         ],
         "who_is_it_for_tags_data": [
-          {
-            "id": 11,
-            "name": "Private and Exclusive",
-            "path": "who_is_it_for_tag/private_and_exclusive.svg"
-          },
           {
             "id": 5,
             "name": "Family friends",
@@ -2108,6 +2103,11 @@
             "id": 6,
             "name": "Good for couples",
             "path": "who_is_it_for_tag/good_for_couples.svg"
+          },
+          {
+            "id": 11,
+            "name": "Private and Exclusive",
+            "path": "who_is_it_for_tag/private_and_exclusive.svg"
           }
         ],
         "working_days": []
@@ -2532,7 +2532,7 @@
       "highlights": []
     }
   ],
-  "out_of": 2303,
+  "out_of": 2304,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
