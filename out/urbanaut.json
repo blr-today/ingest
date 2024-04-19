@@ -797,16 +797,11 @@
         "user_convenience_fee_flat_currency": "INR",
         "user_convenience_fee_percentage": "3.00",
         "who_is_it_for_tags": [
-          9,
           4,
-          5
+          5,
+          9
         ],
         "who_is_it_for_tags_data": [
-          {
-            "id": 9,
-            "name": "Great for big group",
-            "path": "who_is_it_for_tag/great_for_big_group.svg"
-          },
           {
             "id": 4,
             "name": "Adults only",
@@ -816,6 +811,11 @@
             "id": 5,
             "name": "Family friends",
             "path": "who_is_it_for_tag/family_friends.svg"
+          },
+          {
+            "id": 9,
+            "name": "Great for big group",
+            "path": "who_is_it_for_tag/great_for_big_group.svg"
           }
         ],
         "working_days": []
@@ -2511,20 +2511,20 @@
         "user_convenience_fee_flat_currency": "INR",
         "user_convenience_fee_percentage": "3.00",
         "who_is_it_for_tags": [
-          9,
           2,
+          9,
           10
         ],
         "who_is_it_for_tags_data": [
           {
-            "id": 9,
-            "name": "Great for big group",
-            "path": "who_is_it_for_tag/great_for_big_group.svg"
-          },
-          {
             "id": 2,
             "name": "Child friendly",
             "path": "who_is_it_for_tag/child_friendly.svg"
+          },
+          {
+            "id": 9,
+            "name": "Great for big group",
+            "path": "who_is_it_for_tag/great_for_big_group.svg"
           },
           {
             "id": 10,
