@@ -1,6 +1,6 @@
 {
   "facet_counts": [],
-  "found": 4,
+  "found": 5,
   "hits": [
     {
       "document": {
@@ -709,11 +709,16 @@
         "user_convenience_fee_flat_currency": "INR",
         "user_convenience_fee_percentage": "3.00",
         "who_is_it_for_tags": [
+          11,
           5,
-          6,
-          11
+          6
         ],
         "who_is_it_for_tags_data": [
+          {
+            "id": 11,
+            "name": "Private and Exclusive",
+            "path": "who_is_it_for_tag/private_and_exclusive.svg"
+          },
           {
             "id": 5,
             "name": "Family friends",
@@ -723,11 +728,6 @@
             "id": 6,
             "name": "Good for couples",
             "path": "who_is_it_for_tag/good_for_couples.svg"
-          },
-          {
-            "id": 11,
-            "name": "Private and Exclusive",
-            "path": "who_is_it_for_tag/private_and_exclusive.svg"
           }
         ],
         "working_days": []
@@ -936,9 +936,206 @@
       },
       "highlight": {},
       "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "Random Rendevous is a concept, where people with similar interest, similar likes meet over food. Event is curated based on details collected from you. This happens over a paid brunch or supper during every Saturday and sunday.",
+          "company_name": "Random Randezvous",
+          "company_phone": "+91-88066-67912",
+          "company_tag_line": "CONNECT.TRANSFORM.CHERISH",
+          "guest_can_whatsapp": false,
+          "logo_path": "images/wnpssjuqev-1713769593046randomrendezvouspng.png",
+          "micro_site_banner_path": "images/10onkj2nwx-1713769685719randomrendezvousjpg.jpg",
+          "slug": "randomrendezvous",
+          "theme_color": null
+        },
+        "address": "17th Main Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "approved": 4340,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>Welcome to Random Rendezvous!!! Your seat has been confirmed and we are eager to meet you at the table. Further communication, you can reach out to 9740405433.</p>",
+        "can_be_booked_before": 12,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<ol><li>Zero Cancellation fee until 24 hours before. </li><li>50% Cancellation fee until 12 to 24 hours prior. </li><li>100% Cancellation fee until less than 12 hours. </li></ol>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": "vinny.r19@gmail.com",
+              "name": "Vinutha"
+            }
+          ],
+          "on_ground_contacts": [],
+          "whatsapp_contact_for_guest": {
+            "name": "Vinutha",
+            "phone": "+91-9740405433"
+          }
+        },
+        "contributor": {
+          "age": null,
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/wnpssjuqev-1713769593046randomrendezvouspng.png",
+          "city": null,
+          "first_name": "vinodh banga",
+          "gender": null,
+          "id": 10858,
+          "instagram": null,
+          "profile_picture": "images/wnpssjuqev-1713769593046randomrendezvouspng.png",
+          "short_bio": ""
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 10,
+        "display_tags": [
+          8
+        ],
+        "display_tags_data": [
+          {
+            "id": 8,
+            "name": "Less than 3 hours",
+            "path": "display_tag_image/less_than_3_hrs.png"
+          }
+        ],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-04-27 14:00:00",
+        "end_timestamp": 1714206600,
+        "explore_order": 1,
+        "genre_tags": [],
+        "genre_tags_data": [],
+        "google_map_link": "https://maps.google.com/?cid=4032612318965013540",
+        "google_place_id": "ChIJH3YpIVsUrjsRJBzG1Im39jc",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "3936",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "lat": "12.93340870000000000000",
+        "lat_lng": [
+          12.9334087,
+          77.62221760000001
+        ],
+        "lng": "77.62221760000001000000",
+        "location": "SRID=4326;POINT (77.62221760000001 12.9334087)",
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/afd7afs4fb-1713769197028hoppyhangout1png.png",
+            "id": 89576,
+            "multi_size": [],
+            "name": null,
+            "order": 0,
+            "path": "images/afd7afs4fb-1713769197028hoppyhangout1png.png",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/afd7afs4fb-1713769197028hoppyhangout1png.png",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/afd7afs4fb-1713769197028hoppyhangout1png.png",
+            "type": "Cover photo"
+          }
+        ],
+        "modified": "2024-04-22 14:50:10",
+        "modified_timestamp": 1713777610,
+        "must_see": false,
+        "name": "Hoppy Hangout by Random Rendezvous",
+        "notify_me": false,
+        "order": 3807,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "1350.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [
+            {
+              "input_type": "COUNTER",
+              "optional": false,
+              "question": "Number of vegetarians in the group",
+              "required": true
+            },
+            {
+              "input_type": "BOOL",
+              "question": "Any food allergies?",
+              "required": true
+            }
+          ],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p>Random Rendevous is a concept, where people with similar interest, similar likes meet over food. Event is curated based on details collected from you. This happens over a paid brunch or supper during every Saturday and sunday. If you are interested, let us know. In case you have more questions, please let us know, we can call you.</p>",
+        "slug": "hoppy-hangout-by-random-rendezvous",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "Starters\nAlcoholic beverages\nIndian Mains\nPizza"
+            },
+            {
+              "label": "What's not",
+              "text": ""
+            }
+          ]
+        },
+        "spotapproved_id": 3936,
+        "start": "2024-04-27 11:30:00",
+        "start_timestamp": 1714197600,
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          8,
+          11,
+          4
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 8,
+            "name": "Great for all ages",
+            "path": "who_is_it_for_tag/great_for_all_ages.svg"
+          },
+          {
+            "id": 11,
+            "name": "Private and Exclusive",
+            "path": "who_is_it_for_tag/private_and_exclusive.svg"
+          },
+          {
+            "id": 4,
+            "name": "Adults only",
+            "path": "who_is_it_for_tag/adults_only.svg"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
     }
   ],
-  "out_of": 2226,
+  "out_of": 2220,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
