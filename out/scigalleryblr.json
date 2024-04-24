@@ -49,26 +49,6 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Radical Creativity in Public Art",
-    "location": "Science Gallery Bengaluru ",
-    "startDate": "2024-04-24T18:00:00+05:30",
-    "description": "Dive into the fuzzy world of radical creativity, a cross- and transdisciplinary idea that requires us to break boundaries and collaboratively experiment outside of them. What can this kind of practice tell us about public art, which can shape our experiences of the world? Outi Turpeinen and Riikka M\u00e4kikoskela will discuss the fundamentals of these two concepts. Taking examples from Bangalore (India), Espoo (Finland) and other parts of the world, they will show how radical creativity is seen through and in public art.",
-    "duration": "PT1H30M",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=radical-creativity-public-art",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Outi Turpeinen"
-      },
-      {
-        "@type": "Person",
-        "name": " Riikka M\u00e4kikoskela"
-      }
-    ],
-    "maximumAttendeeCapacity": 30
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Climate Justice and Rights for Nature in India",
     "location": "Science Gallery Bengaluru",
     "startDate": "2024-05-05T16:00:00+05:30",
@@ -98,5 +78,21 @@
       }
     ],
     "maximumAttendeeCapacity": 50
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Carbon: The Elusive Archaeomaterial",
+    "location": "National Institute of Advanced Studies",
+    "startDate": "2024-05-16T10:00:00+05:30",
+    "description": "How do we understand human evolution through archeology? And what role does carbon play in this? Dive into a two-day masterclass with archaeometallurgist Sharada Srinivasan, who will talk about the carbon in both organic and inorganic archaeomaterials. From carbon black used by ancient Egyptians to the famous diamond mines in Golconda, discover how carbon finds its way into a vast array of materials like iron and steel. <br><br>For example, delve into the saga of India\u2019s legendary high carbon wootz steel, made particularly in southern India, known as \u2018ukku\u2019\u2014likely the earliest known high grade steel. Since the role of carbon as a separate alloying element was not well understood, numerous studies were made by 18th and 19th century European scientists (including Faraday) to replicate wootz steel. These spurred several important discoveries leading up to the Industrial Revolution. <br><br>Join Sharada Shrinivasan as she brings together theoretical perspectives with hands-on experiences which explore the role of carbon in the firing of pottery kilns!<br><br>This masterclass is supported by the NIAS - TCS Heritage Initiative.",
+    "duration": "P2D",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=carbon-elusive-archeomaterial",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sharada Srinivasan"
+      }
+    ],
+    "maximumAttendeeCapacity": 60
   }
 ]
