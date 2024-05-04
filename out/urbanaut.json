@@ -329,7 +329,7 @@
         ],
         "available_for_booking": true,
         "booking_confirmation_message": "<p>We are delighted to confirm your reservation for Family Movie Night. If you have any further inquiries or special requests, feel free to reach out to our dedicated event coordinator at 7338677996. Thank you once again for choosing to be a part of our community. We look forward to hosting you for an evening. You can find out more about upcoming events by joining <a href=\"https://chat.whatsapp.com/BOyf5C0OBjRClZyRjWVQCp\" rel=\"noopener noreferrer\" target=\"_blank\">our WhatsApp community.</a></p><p><br></p><p>Team Courtyard</p>",
-        "can_be_booked_before": 12,
+        "can_be_booked_before": 1,
         "can_book_till_end": false,
         "cancel_pending_payment": 12.0,
         "cancellation_policy": "<p>Tickets are non-refundable in case of cancellation or no-show.</p><p><br></p><p><br></p>",
@@ -356,7 +356,7 @@
           ],
           "whatsapp_contact_for_guest": {
             "name": "Ipsa",
-            "phone": "+91-7338677996"
+            "phone": "+917338677996"
           }
         },
         "contributor": {
@@ -420,7 +420,7 @@
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/ncgspdkmqm-1713259306370familymovienight1jpg.jpg",
-            "id": 91111,
+            "id": 92900,
             "multi_size": [],
             "name": null,
             "order": 0,
@@ -432,8 +432,8 @@
           }
         ],
         "metadata": {},
-        "modified": "2024-04-28 20:16:22",
-        "modified_timestamp": 1714315582,
+        "modified": "2024-05-04 11:30:06",
+        "modified_timestamp": 1714802406,
         "must_see": false,
         "name": "'Up' Movie Screening | Family Movie Night",
         "notify_me": false,
@@ -1420,7 +1420,7 @@
       "highlights": []
     }
   ],
-  "out_of": 2209,
+  "out_of": 2210,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
