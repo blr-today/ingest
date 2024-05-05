@@ -30,7 +30,7 @@
         "available_for_booking": true,
         "booking_confirmation_message": "<p>Thank you for booking your spot at the Chef's Corner event featuring Chef Taiyaba at 2 Moons. We're thrilled to have you join us for this culinary extravaganza!</p><p><strong>Event Details:</strong></p><p><strong>Date</strong>: May 18th</p><p><strong>Time</strong>: 12pm - 3pm</p><p>Please arrive on time to ensure you don't miss any of the exciting experiences we have planned, including the Hands-on Lucknowi Cuisine Experience and the Wine Tasting and Pairing session with Campo Viejo.</p><p>Should you have any questions or require further assistance, feel free to reach out to us. We look forward to providing you with a memorable and delicious experience!</p>",
         "can_be_booked_before": 4,
-        "can_book_till_end": false,
+        "can_book_till_end": true,
         "cancel_pending_payment": 12.0,
         "cancellation_policy": "<p>No shows and cancellations are non-refundable by all means.</p><p>Tickets are non-transferable and are for personal use only.</p>",
         "categories": [
@@ -75,7 +75,11 @@
         "display_rank": 5,
         "display_tags": [
           8,
-          3
+          3,
+          1,
+          2,
+          4,
+          7
         ],
         "display_tags_data": [
           {
@@ -87,6 +91,26 @@
             "id": 3,
             "name": "Our pick",
             "path": "display_tag_image/our_pick.png"
+          },
+          {
+            "id": 1,
+            "name": "Responsible",
+            "path": "display_tag_image/responsible.png"
+          },
+          {
+            "id": 2,
+            "name": "Sustainable",
+            "path": "display_tag_image/sustainable.png"
+          },
+          {
+            "id": 4,
+            "name": "Local",
+            "path": "display_tag_image/local.png"
+          },
+          {
+            "id": 7,
+            "name": "Eco friendly",
+            "path": "display_tag_image/eco_friendly.png"
           }
         ],
         "enable_calendar_invite": false,
@@ -120,7 +144,7 @@
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/hbhyt8vcrc-1713959016562cheftaibabannerjpg.jpg",
-            "id": 93075,
+            "id": 93207,
             "multi_size": [],
             "name": null,
             "order": 0,
@@ -129,11 +153,71 @@
             "thumbnail_created": false,
             "thumbnail_image_path": "images/hbhyt8vcrc-1713959016562cheftaibabannerjpg.jpg",
             "type": "Cover photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/30F2C62FF7B34E2588D0A06CDAA93571_converted_webp.webp",
+            "id": 93208,
+            "multi_size": [],
+            "name": null,
+            "order": 1,
+            "path": "images/30F2C62FF7B34E2588D0A06CDAA93571_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/30F2C62FF7B34E2588D0A06CDAA93571_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/30F2C62FF7B34E2588D0A06CDAA93571_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0FEE90C16D2F44E4AC466C3FACB2DBE4_converted_webp.webp",
+            "id": 93209,
+            "multi_size": [],
+            "name": null,
+            "order": 2,
+            "path": "images/0FEE90C16D2F44E4AC466C3FACB2DBE4_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0FEE90C16D2F44E4AC466C3FACB2DBE4_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/0FEE90C16D2F44E4AC466C3FACB2DBE4_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8F4C61784C55413C99B2B654739316ED_converted_webp.webp",
+            "id": 93210,
+            "multi_size": [],
+            "name": null,
+            "order": 3,
+            "path": "images/8F4C61784C55413C99B2B654739316ED_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8F4C61784C55413C99B2B654739316ED_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/8F4C61784C55413C99B2B654739316ED_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4A83AE1AC2C04EB398DB43FF907027B2_converted_webp.webp",
+            "id": 93211,
+            "multi_size": [],
+            "name": null,
+            "order": 4,
+            "path": "images/4A83AE1AC2C04EB398DB43FF907027B2_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4A83AE1AC2C04EB398DB43FF907027B2_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/4A83AE1AC2C04EB398DB43FF907027B2_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/57495E45B4724F0F9971849E97630563_converted_webp.webp",
+            "id": 93212,
+            "multi_size": [],
+            "name": null,
+            "order": 5,
+            "path": "images/57495E45B4724F0F9971849E97630563_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/57495E45B4724F0F9971849E97630563_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/57495E45B4724F0F9971849E97630563_converted_webp.webp",
+            "type": "Photo"
           }
         ],
         "metadata": {},
-        "modified": "2024-05-04 19:04:06",
-        "modified_timestamp": 1714829646,
+        "modified": "2024-05-05 17:33:16",
+        "modified_timestamp": 1714910596,
         "must_see": false,
         "name": "Chef's Corner at 2 Moons ft. Chef Taiyaba",
         "notify_me": false,
@@ -148,7 +232,7 @@
           "default_questions": []
         },
         "same_day": [],
-        "short_description": "<p><strong>Chef's Corner at 2 Moons featuring Chef Taiyaba</strong></p><p><br></p><p><span style=\"color: rgb(13, 13, 13);\">Chef Taiyaba unveils the secrets of Lucknowi cuisine during our Hands-on Lucknowi Cuisine Experience. Join us for an unforgettable afternoon of culinary delights and cultural immersion.</span></p><p><br></p><p>\ud83d\udcc5 <strong>Date:</strong> May 18th&nbsp;&nbsp;</p><p>\ud83d\udd5b <strong>Time:</strong> 12pm - 3pm&nbsp;&nbsp;</p><p><br></p><p><span style=\"color: rgb(13, 13, 13);\">In association with Campo Viejo, we're thrilled to enhance your experience with an exclusive Wine Tasting and Pairing session. Savor the finest wines expertly paired with each dish, curated to elevate your taste buds and enrich your senses.</span></p><p><br></p><p><br></p><p><strong>\ud83c\udf7d\ufe0f </strong><strong style=\"color: var(--tw-prose-bold);\">Menu Highlights:</strong></p><p><br></p><p><strong style=\"color: var(--tw-prose-bold);\">Tawa Kawabs:</strong></p><ul><li>Galawat ke Kawab (Mutton)</li><li>Bhuni Kaleji (Liver)</li></ul><p><strong style=\"color: var(--tw-prose-bold);\">Deep Fry:</strong></p><ul><li>Chapli Kabab (Chicken)</li></ul><p><strong style=\"color: var(--tw-prose-bold);\">Grill:</strong></p><ul><li>Til ke Prawns/ Anardana Jhinga</li><li>Bihari Kawab</li><li>Amritsari Fish Tikka</li></ul><p><strong style=\"color: var(--tw-prose-bold);\">Accompaniments:</strong></p><ul><li>Chutney</li><li>Salad</li><li>Breads</li></ul><p><br></p><p>\ud83c\udf77 <strong>Tasting and Pairing with&nbsp;- </strong></p><p>- Campo Viejo Tempranillo&nbsp;</p><p>- Campo Viejo Blanco</p><p><br></p><p><strong>Terms and Conditions - </strong></p><ul><li>Ticket sales are final and non-refundable, available online only through designated platforms.</li><li>Entry is granted with a valid ticket; attendees must be 18 or older for wine tasting.</li><li>Prompt arrival is recommended as the event starts on time; latecomers may miss segments.</li><li>No shows and cancellations are non-refundable by all means. Tickets are non-transferable and are for personal use only.</li><li>Alcoholic beverages are served only to legal drinkers.</li><li>Attendees consent to being photographed or recorded for promotional purposes.</li><li>Unforeseen circumstances may lead to event postponement, rescheduling, or cancellation, with efforts made for ticket transfers.</li></ul>",
+        "short_description": "<p><strong>Chef's Corner at 2 Moons featuring Chef Taiyaba</strong></p><p><br></p><p><span style=\"color: rgb(13, 13, 13);\">Chef Taiyaba unveils the secrets of Lucknowi cuisine during our Hands-on Lucknowi Cuisine Experience. Join us for an unforgettable afternoon of culinary delights and cultural immersion.</span></p><p><br></p><p>\ud83d\udcc5 <strong>Date:</strong> May 18th&nbsp;&nbsp;</p><p>\ud83d\udd5b <strong>Time:</strong> 12pm - 3pm&nbsp;&nbsp;</p><p><br></p><p><span style=\"color: rgb(13, 13, 13);\">In association with Campo Viejo, we're thrilled to enhance your experience with an exclusive Wine Tasting and Pairing session. Savor the finest wines expertly paired with each dish, curated to elevate your taste buds and enrich your senses.</span></p><p><br></p><p><br></p><p><strong>\ud83c\udf7d\ufe0f </strong><strong style=\"color: var(--tw-prose-bold);\">Menu Highlights:</strong></p><p><br></p><p><strong style=\"color: var(--tw-prose-bold);\">Tawa Kawabs:</strong></p><ul><li>Galawati Kabab (Mutton)</li><li>Bhuni Kaleji (Chicken Liver)</li></ul><p><strong style=\"color: var(--tw-prose-bold);\">Deep Fry:</strong></p><ul><li>Chapli Kabab (Chicken)</li></ul><p><strong style=\"color: var(--tw-prose-bold);\">Grill:</strong></p><ul><li>Til ke Prawns/ Anardana Jhinga</li><li>Bihari Kabab</li><li>Amritsari Fish Tikka</li></ul><p><strong style=\"color: var(--tw-prose-bold);\">Accompaniments:</strong></p><ul><li>Chutney</li><li>Salad</li><li>Breads</li></ul><p><br></p><p>\ud83c\udf77 <strong>Tasting and Pairing with&nbsp;- </strong></p><p>- Campo Viejo Tempranillo&nbsp;</p><p>- Campo Viejo Blanco</p><p><br></p><p><strong>Terms and Conditions - </strong></p><ul><li>Ticket sales are final and non-refundable, available online only through designated platforms.</li><li>Entry is granted with a valid ticket; attendees must be 18 or older for wine tasting.</li><li>Prompt arrival is recommended as the event starts on time; latecomers may miss segments.</li><li>No shows and cancellations are non-refundable by all means. Tickets are non-transferable and are for personal use only.</li><li>Alcoholic beverages are served only to legal drinkers.</li><li>Attendees consent to being photographed or recorded for promotional purposes.</li><li>Unforeseen circumstances may lead to event postponement, rescheduling, or cancellation, with efforts made for ticket transfers.</li></ul>",
         "slug": "chefs-corner-at-2-moons-with-chef-taiyaba",
         "specific_sections": {
           "custom": [],
@@ -174,8 +258,8 @@
         "user_convenience_fee_percentage": "3.00",
         "who_is_it_for_tags": [
           11,
-          3,
-          4
+          4,
+          6
         ],
         "who_is_it_for_tags_data": [
           {
@@ -184,14 +268,14 @@
             "path": "who_is_it_for_tag/private_and_exclusive.svg"
           },
           {
-            "id": 3,
-            "name": "Beginner friendly",
-            "path": "who_is_it_for_tag/beginner_friendly.svg"
-          },
-          {
             "id": 4,
             "name": "Adults only",
             "path": "who_is_it_for_tag/adults_only.svg"
+          },
+          {
+            "id": 6,
+            "name": "Good for couples",
+            "path": "who_is_it_for_tag/good_for_couples.svg"
           }
         ],
         "working_days": []
@@ -323,8 +407,8 @@
           }
         ],
         "metadata": {},
-        "modified": "2024-04-28 07:58:49",
-        "modified_timestamp": 1714271329,
+        "modified": "2024-05-05 12:42:56",
+        "modified_timestamp": 1714893176,
         "must_see": false,
         "name": "Sandwich Shop with Chefs Chris & Delzad",
         "notify_me": false,
