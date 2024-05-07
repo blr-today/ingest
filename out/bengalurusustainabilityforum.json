@@ -1,9 +1,33 @@
 {
-  "status_code": 0,
+  "status_code": 1,
   "messages": {
-    "error": "error"
+    "success": "success"
   },
-  "content": [],
+  "content": [
+    {
+      "className": "has-event",
+      "start_time": "4:00 pm",
+      "end_time": "5:30 pm",
+      "id": 9799,
+      "title": "Interactive talk on BlueMAP-India: Marine Museum, Awareness and Policy for Conservation Outreach",
+      "date": "2024-05-07",
+      "price": "",
+      "description": "Join for a talk by BlueMAP-India to learn about India's marine life, habitats, and threats with a marine life-themed quiz and other activities.\r\n\r\nBlueMAP-India is WCS-India's newly launched, interactive website that hosts information on India’s marine life, habitats, ecosystem services, threats, Marine Protected Areas, and a guide to the main conservation laws and policies. This resource seeks to contribute towards UN SDGs 14 (life below water) and 4 (education) while filling in a large gap in marine conservation – the lack of a centralised information repository on India’s marine biodiversity and policies for the public.\r\n\r\nTo join online, <a href=\"https://us06web.zoom.us/webinar/register/WN_dYigRo12S26V7-f74S71jA#/registration\">click here.</a>",
+      "thumbnail": "https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/05/ATREE-Blue-Map-India-Event.png",
+      "category": [
+        "Hybrid Event",
+        "In-person Event",
+        "Online Event"
+      ],
+      "location": "ATREE Auditorium & Online",
+      "url": "https://www.bengalurusustainabilityforum.org/etn/bluemap-india-atree-wcs/",
+      "backgroundColor": "",
+      "borderColor": "",
+      "textColor": "",
+      "dateFormat": "F j, Y",
+      "end_date": ""
+    }
+  ],
   "translated_text": {
     "see_details_text": "See Details"
   }
