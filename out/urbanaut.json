@@ -1691,7 +1691,7 @@
           "theme_color": "060606"
         },
         "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
-        "approved": 4417,
+        "approved": 4424,
         "available_days": [
           0,
           1,
@@ -1702,7 +1702,7 @@
           6
         ],
         "available_for_booking": true,
-        "booking_confirmation_message": "<p>We are delighted to confirm your reservation for Movie Under the Stars. If you have any further inquiries or special requests, feel free to reach out to our dedicated event coordinator at 7338677996. Thank you once again for choosing to be a part of our community. We look forward to hosting you for an evening. You can find out more about upcoming events by joining <a href=\"https://chat.whatsapp.com/BOyf5C0OBjRClZyRjWVQCp\" rel=\"noopener noreferrer\" target=\"_blank\">our WhatsApp community.</a></p><p><br></p><p>Team Courtyard</p>",
+        "booking_confirmation_message": "<p>We are delighted to confirm your reservation for Family Movie Night. If you have any further inquiries or special requests, feel free to reach out to our dedicated event coordinator at 7338677996. Thank you once again for choosing to be a part of our community. We look forward to hosting you for an evening. You can find out more about upcoming events by joining <a href=\"https://chat.whatsapp.com/BOyf5C0OBjRClZyRjWVQCp\" rel=\"noopener noreferrer\" target=\"_blank\">our WhatsApp community.</a></p><p><br></p><p>Team Courtyard</p>",
         "can_be_booked_before": 12,
         "can_book_till_end": false,
         "cancel_pending_payment": 12.0,
@@ -1748,31 +1748,25 @@
         "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
         "display_rank": 5,
         "display_tags": [
-          8,
-          5,
-          6
+          1,
+          10
         ],
         "display_tags_data": [
           {
-            "id": 8,
-            "name": "Less than 3 hours",
-            "path": "display_tag_image/less_than_3_hrs.png"
+            "id": 1,
+            "name": "Responsible",
+            "path": "display_tag_image/responsible.png"
           },
           {
-            "id": 5,
-            "name": "Pet friendly",
-            "path": "display_tag_image/pet_friendly.png"
-          },
-          {
-            "id": 6,
-            "name": "Outdoor",
-            "path": "display_tag_image/outdoor.png"
+            "id": 10,
+            "name": "Kid friendly",
+            "path": "display_tag_image/kid_friendly.png"
           }
         ],
         "enable_calendar_invite": false,
         "enable_list_view": true,
-        "end": "2024-05-25 21:30:00",
-        "end_timestamp": 1716652800,
+        "end": "2024-05-19 19:00:00",
+        "end_timestamp": 1716125400,
         "explore_order": 1,
         "genre_tags": [],
         "genre_tags_data": [],
@@ -1780,7 +1774,7 @@
         "google_place_id": "ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
         "has_end_timestamp": true,
         "has_u_plus_offer": false,
-        "id": "4012",
+        "id": "4019",
         "insider_tip": "This experience sells out pretty quick!",
         "instant_booking": true,
         "instructions_from_experience_provider": "",
@@ -1799,72 +1793,53 @@
         "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
         "medias": [
           {
-            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3809C6D26C0F4B019871113F54033D83_converted_webp.webp",
-            "id": 94740,
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6A09E55FD9BC48C18FC5C191A9C1EF30_converted_webp.webp",
+            "id": 94803,
             "multi_size": [],
             "name": null,
             "order": 0,
-            "path": "images/3809C6D26C0F4B019871113F54033D83_converted_webp.webp",
-            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3809C6D26C0F4B019871113F54033D83_converted_webp.webp",
+            "path": "images/6A09E55FD9BC48C18FC5C191A9C1EF30_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6A09E55FD9BC48C18FC5C191A9C1EF30_converted_webp.webp",
             "thumbnail_created": false,
-            "thumbnail_image_path": "images/3809C6D26C0F4B019871113F54033D83_converted_webp.webp",
+            "thumbnail_image_path": "images/6A09E55FD9BC48C18FC5C191A9C1EF30_converted_webp.webp",
             "type": "Cover photo"
           }
         ],
         "metadata": {},
-        "modified": "2024-05-09 17:44:04",
-        "modified_timestamp": 1715256844,
+        "modified": "2024-05-09 18:20:45",
+        "modified_timestamp": 1715259045,
         "must_see": false,
-        "name": "Screening: Dead Poets Society | Movie Under the Stars",
+        "name": "'Fantastic Mr. Fox' Movie Screening | Family Movie Night",
         "notify_me": false,
-        "order": 3873,
+        "order": 3880,
         "permanently_closed": false,
         "price_added": true,
-        "price_starts_at": "2000.00",
+        "price_starts_at": "500.00",
         "price_starts_at_currency": "INR",
         "private_booking_available": false,
         "questions_to_ask": {
-          "custom_questions": [
-            {
-              "input_type": "COUNTER",
-              "optional": false,
-              "question": "Number of Vegetarians",
-              "required": true
-            },
-            {
-              "input_type": "COUNTER",
-              "optional": false,
-              "question": "Number of Non- Vegetarians",
-              "required": true
-            },
-            {
-              "input_type": "TEXT",
-              "optional": false,
-              "question": "Any Food Allergies?",
-              "required": true
-            }
-          ],
+          "custom_questions": [],
           "default_questions": []
         },
         "same_day": [],
-        "short_description": "<p>About the movie</p><p><br></p><p>\"Dead Poets Society\" is a coming-of-age drama film directed by Peter Weir and released in 1989. Set in the conservative Welton Academy, an elite all-boys preparatory school in Vermont in 1959, the story follows a group of students and their English teacher, John Keating, portrayed by Robin Williams.</p><p><br></p><p>3-Course Menu by <strong>Chef Clive Fernandes</strong></p><p><br></p><p><strong>Appetiser </strong></p><p>Taco Truck Nachos (NV)</p><p>Roasted Chicken Nachos, Black Bean Gravy, Queso</p><p><br></p><p>OR</p><p><br></p><p>Taco Truck Nachos (V)</p><p>Jackfruit Meat, Black Bean Gravy, Queso</p><p><br></p><p><strong>Main Course</strong></p><p>Buttermilk Fried Chicken Slider (NV)</p><p>Dill Crema, Pickles, Hot Honey Miso</p><p><br></p><p>OR</p><p><br></p><p>Mini Bean Burger (V)</p><p>Mushroom and Chickpeas, Hot Honey Miso&nbsp;</p><p><br></p><p><strong>Dessert </strong></p><p>Walnut &amp; Pecan Tart (NV)</p><p>Chantilly, Flaky Salt</p><p><br></p><p>OR</p><p><br></p><p>Walnut &amp; Pecan Tart (V)</p><p>Chantilly, Flaky Salt</p><p><br></p><p><strong>Terms and Conditions:</strong></p><p><br></p><ol><li>The management is not responsible for any injury or damage that may occur during the event.</li><li>No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.</li><li>Parking near the event premises is at the risk of the vehicle owner.</li><li>Valet service is available at a charge of Rs. 200 per vehicle.</li><li>Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.</li><li>Tickets are non-refundable in case of cancellation or no-show.</li><li>In case of rain, the event will be moved indoors.</li></ol>",
-        "slug": "screening-when-harry-met-sally-movie-under-the-stars",
+        "short_description": "<p><strong style=\"color: var(--tw-prose-bold);\">Family Movie Night: World Cinema for Kids!</strong></p><p><br></p><p>Join us as we watch a series of carefully curated rare masterpieces from around the world, made just for kids. Watch this while cozying up with your family at the studio.</p><p><br></p><p>Fantastic Mr. Fox is a stop-motion animated film directed by Wes Anderson, released in 2009, and based on the children's novel of the same name by Roald Dahl. The film follows the story of Mr. Fox, voiced by George Clooney, a cunning and charismatic fox who lives with his wife, Mrs. Fox, voiced by Meryl Streep, and their son, Ash, voiced by Jason Schwartzman, in a cozy underground home.</p><p><br></p><p><strong>Event Highlights</strong></p><p>Broaden Horizons with Global Tales: Dive into diverse artistic expressions through rare masterpieces curated for children.Cultivate Cultural Curiosity: Spark interest in world cinema and inspire exploration of different cultures through the enchantment of film.Quality Family Bonding: Embark on a cinematic journey to a new country each month, forging lasting memories and strengthening family connections.</p><p><br></p><p><strong>Why Attend?</strong></p><p>Uncover Hidden Treasures: Discover lesser-known gems handpicked for their artistic brilliance and captivating storytelling. Artistic Excellence: Immerse your child in films of unparalleled artistic merit, fueling their imagination and creativity. Safe Family Environment: Enjoy movies in a secure, family-friendly setting, ensuring a worry-free experience for kids and parents alike.</p><p><br></p><p><strong>Don't miss this opportunity to create lasting memories with your family while exposing your kids to the wonders of world cinema. Join us for Family Movie Night \u2013 where the magic of storytelling knows no bounds!</strong></p><p><br></p><p><strong>Terms and Conditions:</strong></p><ul><li>The management is not responsible for any injury or damage that may occur during the event.</li><li>No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.</li><li>Parking near the event premises is at the risk of the vehicle owner.</li><li>Children above the age of 3 need a ticket to attend the event.</li><li>Valet service is available at a charge of Rs. 200 per vehicle.</li><li>Photographs and videos of ticket holders may be uploaded to social media.</li><li>If you prefer not to be featured, please inform our team.</li><li>Tickets are non-refundable in case of cancellation or no-show.</li><li>The movie will take place in the studio</li></ul>",
+        "slug": "FantasticMrFox",
         "specific_sections": {
           "custom": [],
           "default_section": [
             {
               "label": "What's included",
-              "text": "Movie screening\n3- course meal\nPopcorn"
+              "text": "Movie Screening\nPopcorn"
             },
             {
               "label": "What's not",
-              "text": "Wine\nParking"
+              "text": "Food \nParking"
             }
           ]
         },
-        "spotapproved_id": 4012,
-        "start": "2024-05-25 19:30:00",
-        "start_timestamp": 1716645600,
+        "spotapproved_id": 4019,
+        "start": "2024-05-19 17:00:00",
+        "start_timestamp": 1716118200,
         "stop_auto_date_add": true,
         "type": "public",
         "u_plus_inquiry_enabled": false,
@@ -1872,25 +1847,25 @@
         "user_convenience_fee_flat_currency": "INR",
         "user_convenience_fee_percentage": "3.00",
         "who_is_it_for_tags": [
-          4,
-          5,
-          6
+          9,
+          2,
+          5
         ],
         "who_is_it_for_tags_data": [
           {
-            "id": 4,
-            "name": "Adults only",
-            "path": "who_is_it_for_tag/adults_only.svg"
+            "id": 9,
+            "name": "Great for big group",
+            "path": "who_is_it_for_tag/great_for_big_group.svg"
+          },
+          {
+            "id": 2,
+            "name": "Child friendly",
+            "path": "who_is_it_for_tag/child_friendly.svg"
           },
           {
             "id": 5,
             "name": "Family friends",
             "path": "who_is_it_for_tag/family_friends.svg"
-          },
-          {
-            "id": 6,
-            "name": "Good for couples",
-            "path": "who_is_it_for_tag/good_for_couples.svg"
           }
         ],
         "working_days": []
