@@ -2425,7 +2425,7 @@
         ],
         "available_for_booking": true,
         "booking_confirmation_message": "<p>Despite being strangers initially, sharing travel stories can create a sense of connection and camaraderie among participants. You'll likely find common ground with others who share your passion for exploration and discovery.</p><p><span style=\"color: rgb(13, 13, 13);\">Travel often has a way of bringing people together, and a travel tales table is no exception. Who knows, you might leave the meetup having made new friends with whom you can plan future adventures or even travel together.</span></p><p><span style=\"color: rgb(13, 13, 13);\">See you soon!</span></p><p><br></p>",
-        "can_be_booked_before": 12,
+        "can_be_booked_before": 1,
         "can_book_till_end": false,
         "cancel_pending_payment": 12.0,
         "cancellation_policy": "<p><strong>Refunds:</strong></p><p>Refunds will be issued only in cases where the event is cancelled by the organizers. Refund requests made by attendees will be considered up to 2 days prior to the event date. A processing fee may apply to refund requests initiated by attendees. Refunds will be processed within 2 business days after approval.</p><p><strong>Cancellations:</strong></p><p>Attendees must notify the organizers of any cancellations at least 2 days before the event date. Cancellations made after the specified deadline may not be eligible for a refund. The organizers reserve the right to cancel or reschedule the event due to unforeseen circumstances. In such cases, attendees will be notified promptly, and refunds will be issued accordingly.</p><p><strong>Transfer of Tickets:</strong></p><p>Tickets are non-transferable without prior approval from the organizers. Requests for ticket transfers must be made in writing and approved by the organizers.</p><p><strong>No-show Policy:</strong></p><p>Attendees who do not show up for the event without prior notice will not be eligible for a refund. By registering for the event, attendees agree to abide by the refund and cancellation policy outlined above. The organizers reserve the right to amend or update this policy as necessary.</p><p><br></p>",
@@ -2510,7 +2510,7 @@
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4sz4me6ndn-1710137566432traveltalesjpg.jpg",
-            "id": 97994,
+            "id": 99300,
             "multi_size": [],
             "name": null,
             "order": 1,
@@ -2522,8 +2522,8 @@
           }
         ],
         "metadata": {},
-        "modified": "2024-05-14 07:53:58",
-        "modified_timestamp": 1715653438,
+        "modified": "2024-05-18 10:51:33",
+        "modified_timestamp": 1716009693,
         "must_see": false,
         "name": "Share Travel Tales with Strangers",
         "notify_me": false,
@@ -3611,5 +3611,5 @@
     "q": "*"
   },
   "search_cutoff": false,
-  "search_time_ms": 6
+  "search_time_ms": 5
 }
