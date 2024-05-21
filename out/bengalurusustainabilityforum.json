@@ -1,9 +1,31 @@
 {
-  "status_code": 0,
+  "status_code": 1,
   "messages": {
-    "error": "error"
+    "success": "success"
   },
-  "content": [],
+  "content": [
+    {
+      "className": "has-event",
+      "start_time": "5:00 pm",
+      "end_time": "12:01 pm",
+      "id": 9848,
+      "title": "A Century of Watching Indian Birds",
+      "date": "2024-05-24",
+      "price": "",
+      "description": "<strong>What is the history of ornithology in India, and what role do birdwatchers play in it?</strong> Aasheesh Pittie will be in conversation with Suhel Quader, talking about 20th-century citizen-science engagement with birding and ornithology. They will reflect on key figures in the field such as Salim Ali, Jamal Ara, Zafar Futehally and others, and on archival material related to ornithology housed at the Archives at NCBS. They will also discuss what it means to be a birder, and traditions of observing, connecting, record-keeping, sharing knowledge, publishing, and mentoring young birders who take over the mantle from their forebears.\r\n\r\nAasheesh Pittie is the editor of the ornithological journal <i>Indian</i> BIRDS. He has been the engine behind books such as <i>Birds in Books: Three Hundred Years of South Asian Ornithology</i> and <i>The Written Bird: Birds in Books 2</i>. Aasheesh has also compiled a searchable bibliographic database of over 35,000 works on South Asian ornithology.\r\n\r\nSuhel Quader is an ecologist with the Nature Conservation Foundation (<a href=\"http://www.ncf-india.org/\">www.ncf-india.org</a>), working towards greater public understanding and engagement with the natural world.",
+      "thumbnail": "https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/05/APLS_poster_20240524_Aasheesh_Suhel.jpeg",
+      "category": [
+        "In-person Event"
+      ],
+      "location": "Lecture Hall – 1 (Haapus), National Centre for Biological Sciences",
+      "url": "https://www.bengalurusustainabilityforum.org/etn/a-century-of-watching-indian-birds/",
+      "backgroundColor": "",
+      "borderColor": "",
+      "textColor": "",
+      "dateFormat": "j F Y",
+      "end_date": ""
+    }
+  ],
   "translated_text": {
     "see_details_text": "See Details"
   }
