@@ -24,6 +24,8 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | [Townscript][ts]			     | ✔️      | ✔️     | ✔️          | Lahe Lahe, Broke Bibliophiles, Foodwize. Suggestions welcome for more events that use TownScript
 | [Blue Tokai][bt]			     | ✔️      | ✔️     | ✔️          | Some location guesswork
 | [Gully Tours][gt]			     | ✔️      | ✔️     | ✔️          |  Sticker Price used, child pricing ignored
+| [Tonight.is][tonight]          | ✔️      | ✔️     | ❌          | Only parties, regulars ignored for now.
+
 # WIP
 
 We have some data available or change notifications configured, but there needs to be more work to recreate the events.
@@ -36,6 +38,7 @@ We have some data available or change notifications configured, but there needs 
 - [x] https://gameslab.wootick.com/ Covered via Insider, maybe add a filter
 
 # TODO
+- [ ] [Adidas Runners](https://www.adidas.co.in/adidasrunners/community/bengaluru).
 - [ ] https://hooplaback-girl.myinstamojo.com/ (search for Workshop events)
 - [ ] https://gaianaturalproductsandservices.myinstamojo.com/category/419534/events
 - [ ] https://courtyardkoota.com

@@ -1,0 +1,1154 @@
+{
+  "documents": [
+    {
+      "name": "projects/tonight-is/databases/(default)/documents/regulars/DyREpsuIKQTkFcmUEHdr",
+      "fields": {
+        "startDate": {
+          "timestampValue": "2024-04-01T13:30:00Z"
+        },
+        "startTime": {
+          "timestampValue": "2024-04-01T13:30:00.908Z"
+        },
+        "endDate": {
+          "timestampValue": "2024-03-31T18:30:00.095Z"
+        },
+        "city": {
+          "stringValue": "Bangalore"
+        },
+        "published": {
+          "booleanValue": true
+        },
+        "rsvpUrl": {
+          "stringValue": ""
+        },
+        "organisers": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "imageUrl": {
+                      "stringValue": "deprecated"
+                    },
+                    "name": {
+                      "stringValue": "Happy Brew Bar & Kitchen"
+                    },
+                    "id": {
+                      "stringValue": "DwPnc6tUK1MXxD66edEo"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "bannerImages": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "ref": {
+                      "stringValue": "regulars/DyREpsuIKQTkFcmUEHdr/bannerImages/cL6bq2POJMM0wQgsMdLW-happy-brew.png"
+                    },
+                    "downloadURL": {
+                      "stringValue": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/regulars%2FDyREpsuIKQTkFcmUEHdr%2FbannerImages%2FcL6bq2POJMM0wQgsMdLW-happy-brew.png?alt=media&token=16a7b1ef-a9ca-4636-ad23-bad0024bb98a"
+                    },
+                    "name": {
+                      "stringValue": "happy-brew.png"
+                    },
+                    "type": {
+                      "stringValue": "image/png"
+                    },
+                    "lastModifiedTS": {
+                      "integerValue": "1711920332840"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "name": {
+          "stringValue": "Mad Thursdays"
+        },
+        "days": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "Thursday"
+              }
+            ]
+          }
+        },
+        "phone": {
+          "stringValue": "+919611803666"
+        },
+        "category": {
+          "stringValue": "Karaoke"
+        },
+        "description": {
+          "stringValue": "Come loose yourself to music and dance at Happy Brew this Thursday. We have DJ Joy and DJ Roan pumping the place with some karaoke and great beats. Drinks on the house for the ladies"
+        },
+        "artists": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "profileImages": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "ref": {
+                                  "stringValue": "artists/Tzz2gIE3XVgzQYUFXwx8/profileImages/Fd3Bwsl727hM4jvcgclQ-353583501_3510490592558084_3916665409632931229_n.jpg"
+                                },
+                                "downloadURL": {
+                                  "stringValue": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/artists%2FTzz2gIE3XVgzQYUFXwx8%2FprofileImages%2FFd3Bwsl727hM4jvcgclQ-353583501_3510490592558084_3916665409632931229_n.jpg?alt=media&token=8bebd351-423b-4d2e-871c-91c9f08b15f2"
+                                },
+                                "name": {
+                                  "stringValue": "353583501_3510490592558084_3916665409632931229_n.jpg"
+                                },
+                                "type": {
+                                  "stringValue": "image/jpeg"
+                                },
+                                "lastModifiedTS": {
+                                  "integerValue": "1714646691332"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "spotifyUrl": {
+                      "nullValue": null
+                    },
+                    "youtubeUrl": {
+                      "nullValue": null
+                    },
+                    "soundcloudUrl": {
+                      "nullValue": null
+                    },
+                    "name": {
+                      "stringValue": "DJ Joy"
+                    },
+                    "instagramUrl": {
+                      "stringValue": "https://www.instagram.com/djjoyd"
+                    },
+                    "id": {
+                      "stringValue": "Tzz2gIE3XVgzQYUFXwx8"
+                    }
+                  }
+                }
+              },
+              {
+                "mapValue": {
+                  "fields": {
+                    "profileImages": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "ref": {
+                                  "stringValue": "artists/Tzz2gIE3XVgzQYUFXwx7/profileImages/pGyQSZ2pdShYQHFJcxVo-353779064_123417317439426_2032132443958476511_n.jpg"
+                                },
+                                "downloadURL": {
+                                  "stringValue": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/artists%2FTzz2gIE3XVgzQYUFXwx7%2FprofileImages%2FpGyQSZ2pdShYQHFJcxVo-353779064_123417317439426_2032132443958476511_n.jpg?alt=media&token=5783ff89-a266-45d3-b48d-6f49ffbea8e3"
+                                },
+                                "name": {
+                                  "stringValue": "353779064_123417317439426_2032132443958476511_n.jpg"
+                                },
+                                "type": {
+                                  "stringValue": "image/jpeg"
+                                },
+                                "lastModifiedTS": {
+                                  "integerValue": "1714646877920"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "spotifyUrl": {
+                      "stringValue": "https://open.spotify.com/artist/2JGeAWZiUQtTFN8NCZoxmf?si=nB46guF5RKeJbXgcb4glKw&nd=1&dlsi=2e63f5a5397641bb"
+                    },
+                    "youtubeUrl": {
+                      "nullValue": null
+                    },
+                    "soundcloudUrl": {
+                      "nullValue": null
+                    },
+                    "name": {
+                      "stringValue": "DJ Roan"
+                    },
+                    "instagramUrl": {
+                      "stringValue": "https://www.instagram.com/roanofficial"
+                    },
+                    "id": {
+                      "stringValue": "Tzz2gIE3XVgzQYUFXwx7"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "available": {
+          "booleanValue": true
+        },
+        "endTime": {
+          "timestampValue": "2024-03-31T18:30:00.195Z"
+        },
+        "venues": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "name": {
+                      "stringValue": "Happy Brew"
+                    },
+                    "description": {
+                      "stringValue": "40, 4th B Cross, KHB Colony, 5th Block, Koramangala Industrial Layout, Koramangala"
+                    },
+                    "location": {
+                      "stringValue": "12.93381515611814, 77.6153350497323"
+                    },
+                    "id": {
+                      "stringValue": "33Xd1edPoye0T8DyAl8E"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "youtubeUrl": {
+          "stringValue": "https://www.youtube.com/watch?v=1dSJxl6x2Q8"
+        },
+        "coverCharge": {
+          "stringValue": ""
+        }
+      },
+      "createTime": "2024-03-31T21:28:37.281471Z",
+      "updateTime": "2024-05-07T19:00:57.136511Z"
+    },
+    {
+      "name": "projects/tonight-is/databases/(default)/documents/regulars/Y7iJJdrmergzKiOOQzh0",
+      "fields": {
+        "published": {
+          "booleanValue": false
+        },
+        "rsvpUrl": {
+          "stringValue": "https://insider.in/event/journey-vocal-for-local-techno-2nd-may-may2-2024/buy-page/shows/662c9c1565963ffe46265438/Tickets"
+        },
+        "venues": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "imageUrl": {
+                      "stringValue": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fb.zmtcdn.com%2Fdata%2Fpictures%2F2%2F20535562%2F972d28be3bea5b55d4b0d6ec12ae96c6.jpeg%3Ffit%3Daround%7C960%3A500%26crop%3D960%3A500%3B*%2C*&tbnid=AxnHjm-KLR2HAM&vet=12ahUKEwjRoczg7ayDAxWGSWwGHRAnCm0QMygAegQIARBV..i&imgrefurl=https%3A%2F%2Fwww.zomato.com%2Fbangalore%2Fwhite-lotus-club-sarjapur-road-bangalore&docid=d7BFxzS6Mz808M&w=960&h=500&q=White%20Lotus%20Club&ved=2ahUKEwjRoczg7ayDAxWGSWwGHRAnCm0QMygAegQIARBV"
+                    },
+                    "name": {
+                      "stringValue": "White Lotus Club"
+                    },
+                    "description": {
+                      "stringValue": "26, Near HP Petrol Station, HSR Layout, Sarjapur Road"
+                    },
+                    "location": {
+                      "stringValue": "12.914393786328155, 77.66549044153624"
+                    },
+                    "id": {
+                      "stringValue": "CEhrs678tROXbKcSaZRs"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "organisers": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "imageUrl": {
+                      "stringValue": "deprecated"
+                    },
+                    "name": {
+                      "stringValue": "White Lotus Entertainment Media and Communication Private Limited"
+                    },
+                    "id": {
+                      "stringValue": "G311DN2HMFXbMr09Xd1W"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "name": {
+          "stringValue": "Vocal for Local"
+        },
+        "days": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "Thursday"
+              }
+            ]
+          }
+        },
+        "available": {
+          "booleanValue": true
+        },
+        "city": {
+          "stringValue": "Bangalore"
+        },
+        "phone": {
+          "stringValue": "9986441900"
+        },
+        "category": {
+          "stringValue": "Party"
+        },
+        "startDate": {
+          "timestampValue": "2024-04-29T13:30:00Z"
+        },
+        "bannerImages": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "ref": {
+                      "stringValue": "regulars/Y7iJJdrmergzKiOOQzh0/bannerImages/rs3AacsSY0n0Heyj2pzN-insider-image (12).jpg"
+                    },
+                    "downloadURL": {
+                      "stringValue": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/regulars%2FY7iJJdrmergzKiOOQzh0%2FbannerImages%2Frs3AacsSY0n0Heyj2pzN-insider-image%20(12).jpg?alt=media&token=dbc89d1b-68d4-4453-b8a6-6d89ff95cb62"
+                    },
+                    "name": {
+                      "stringValue": "insider-image (12).jpg"
+                    },
+                    "type": {
+                      "stringValue": "image/jpeg"
+                    },
+                    "lastModifiedTS": {
+                      "integerValue": "1714387485596"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "endDate": {
+          "timestampValue": "2024-05-28T18:30:00Z"
+        },
+        "description": {
+          "stringValue": "Technotize your Thursday with Journey: Vocal-for-Local!\n\nDive into the electronic vibes with our local talented acts, crafting beats that resonate with our city's heartbeat.\n\nJoin us at White Lotus Club for a journey like never before. Let's unite to empower our local maestros!"
+        },
+        "genres": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "imageUrl": {
+                      "stringValue": ""
+                    },
+                    "name": {
+                      "stringValue": "Techno"
+                    },
+                    "description": {
+                      "stringValue": "pending"
+                    },
+                    "id": {
+                      "stringValue": "house"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "createTime": "2024-04-29T11:46:01.792975Z",
+      "updateTime": "2024-05-07T19:00:57.183807Z"
+    },
+    {
+      "name": "projects/tonight-is/databases/(default)/documents/regulars/zzzzzzzzzzzzzzzzzzzt",
+      "fields": {
+        "venues": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "imageUrl": {
+                      "stringValue": "deprecated"
+                    },
+                    "name": {
+                      "stringValue": "Bumblebee Brew Works"
+                    },
+                    "description": {
+                      "stringValue": "1135, 100 Feet Rd, HAL 2nd Stage, Indiranagar"
+                    },
+                    "location": {
+                      "stringValue": "12.969323439871356, 77.6415515503166"
+                    },
+                    "id": {
+                      "stringValue": "33Xd1edPoye0T8DyAl8F"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "artists": {
+          "arrayValue": {}
+        },
+        "days": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "Sunday"
+              }
+            ]
+          }
+        },
+        "genres": {
+          "arrayValue": {}
+        },
+        "rsvpUrl": {
+          "stringValue": ""
+        },
+        "available": {
+          "booleanValue": true
+        },
+        "organisers": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "imageUrl": {
+                      "stringValue": "deprecated"
+                    },
+                    "name": {
+                      "stringValue": "One Team Entertainment"
+                    },
+                    "id": {
+                      "stringValue": "1FjS63jiYTVdpzR4I8Vn"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "description": {
+          "stringValue": "Dive into Brunch n' Brews at Bumblebee Brew Works every Sunday! Just Rs, 1799 unlocks unlimited food and drinks, including craft beers and cocktails, in a laid-back setting. Perfect for a leisurely day with friends or to meet new ones in Indira Nagar. Make your Sundays special with endless flavors and fun at Bumblebee Brew Works!"
+        },
+        "startTime": {
+          "timestampValue": "2024-04-01T13:30:00.646Z"
+        },
+        "phone": {
+          "stringValue": "+9107406000098"
+        },
+        "startDate": {
+          "timestampValue": "2024-04-01T08:30:00.834Z"
+        },
+        "endDate": {
+          "timestampValue": "2024-04-01T00:30:00.357Z"
+        },
+        "name": {
+          "stringValue": "Brunch n Brews"
+        },
+        "bannerImages": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "ref": {
+                      "stringValue": "regulars/zzzzzzzzzzzzzzzzzzzt/bannerImages/DErjnsG4r75npgVyGDXZ-Screenshot 2024-03-26 at 11.36.25 AM 1.png"
+                    },
+                    "downloadURL": {
+                      "stringValue": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/regulars%2Fzzzzzzzzzzzzzzzzzzzt%2FbannerImages%2FDErjnsG4r75npgVyGDXZ-Screenshot%202024-03-26%20at%2011.36.25%E2%80%AFAM%201.png?alt=media&token=c7621db5-586f-46db-8ba8-dc0bc66a7db1"
+                    },
+                    "name": {
+                      "stringValue": "Screenshot 2024-03-26 at 11.36.25 AM 1.png"
+                    },
+                    "type": {
+                      "stringValue": "image/png"
+                    },
+                    "lastModifiedTS": {
+                      "integerValue": "1711433191320"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "city": {
+          "stringValue": "Bangalore"
+        },
+        "category": {
+          "stringValue": "Brunch"
+        },
+        "published": {
+          "booleanValue": true
+        }
+      },
+      "createTime": "2024-03-26T06:03:54.656239Z",
+      "updateTime": "2024-05-07T19:00:57.237119Z"
+    },
+    {
+      "name": "projects/tonight-is/databases/(default)/documents/regulars/zzzzzzzzzzzzzzzzzzzu",
+      "fields": {
+        "startTime": {
+          "timestampValue": "2024-04-01T01:30:00.817Z"
+        },
+        "phone": {
+          "stringValue": "+9107406000098"
+        },
+        "description": {
+          "stringValue": "Every Tuesday, Bumblebee Brew Works in Indira Nagar becomes your stage for Karaoke Night! Dive into our vast song collection, enjoy crystal-clear sound, and embrace the warm, community spirit. Whether you're singing or cheering, expect a night of fun tunes and craft brews. Join us this Tuesday and let's make music together!"
+        },
+        "endDate": {
+          "timestampValue": "2024-03-31T18:30:00.495Z"
+        },
+        "venues": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "imageUrl": {
+                      "stringValue": "deprecated"
+                    },
+                    "name": {
+                      "stringValue": "Bumblebee Brew Works"
+                    },
+                    "description": {
+                      "stringValue": "1135, 100 Feet Rd, HAL 2nd Stage, Indiranagar"
+                    },
+                    "location": {
+                      "stringValue": "12.969323439871356, 77.6415515503166"
+                    },
+                    "id": {
+                      "stringValue": "33Xd1edPoye0T8DyAl8F"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "bannerImages": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "ref": {
+                      "stringValue": "regulars/zzzzzzzzzzzzzzzzzzzu/bannerImages/kFncakps6wB4qUkFtKCA-bumblebee-brew-works.webp"
+                    },
+                    "downloadURL": {
+                      "stringValue": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/regulars%2Fzzzzzzzzzzzzzzzzzzzu%2FbannerImages%2FkFncakps6wB4qUkFtKCA-bumblebee-brew-works.webp?alt=media&token=67975efa-a78c-4586-ba36-7df0b4a51d4b"
+                    },
+                    "name": {
+                      "stringValue": "bumblebee-brew-works.webp"
+                    },
+                    "type": {
+                      "stringValue": "image/webp"
+                    },
+                    "lastModifiedTS": {
+                      "integerValue": "1711543572296"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "published": {
+          "booleanValue": true
+        },
+        "artists": {
+          "arrayValue": {}
+        },
+        "days": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "Tuesday"
+              }
+            ]
+          }
+        },
+        "category": {
+          "stringValue": "Karaoke"
+        },
+        "genres": {
+          "arrayValue": {}
+        },
+        "startDate": {
+          "timestampValue": "2024-04-01T13:30:00.682Z"
+        },
+        "city": {
+          "stringValue": "Bangalore"
+        },
+        "available": {
+          "booleanValue": true
+        },
+        "name": {
+          "stringValue": "Karaoke Tuesday"
+        },
+        "organisers": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "imageUrl": {
+                      "stringValue": "deprecated"
+                    },
+                    "name": {
+                      "stringValue": "One Team Entertainment"
+                    },
+                    "id": {
+                      "stringValue": "1FjS63jiYTVdpzR4I8Vn"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "rsvpUrl": {
+          "stringValue": "https://tr.ee/6w9yjRATcB"
+        }
+      },
+      "createTime": "2024-03-26T05:53:36.395807Z",
+      "updateTime": "2024-05-07T19:00:57.272159Z"
+    },
+    {
+      "name": "projects/tonight-is/databases/(default)/documents/regulars/zzzzzzzzzzzzzzzzzzzv",
+      "fields": {
+        "available": {
+          "booleanValue": true
+        },
+        "bannerImages": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "ref": {
+                      "stringValue": "regulars/zzzzzzzzzzzzzzzzzzzv/bannerImages/oAhuGXgOtfBwqgw9otPI-watsons-indira-nagar.png"
+                    },
+                    "downloadURL": {
+                      "stringValue": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/regulars%2Fzzzzzzzzzzzzzzzzzzzv%2FbannerImages%2FoAhuGXgOtfBwqgw9otPI-watsons-indira-nagar.png?alt=media&token=e35b4f81-6201-4f4d-8562-fcee552185a9"
+                    },
+                    "name": {
+                      "stringValue": "watsons-indira-nagar.png"
+                    },
+                    "type": {
+                      "stringValue": "image/png"
+                    },
+                    "lastModifiedTS": {
+                      "integerValue": "1711544682095"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "city": {
+          "stringValue": "Bangalore"
+        },
+        "category": {
+          "stringValue": "Karaoke"
+        },
+        "startTime": {
+          "timestampValue": "2024-04-01T01:30:00.170Z"
+        },
+        "phone": {
+          "stringValue": "+9106364877352"
+        },
+        "published": {
+          "booleanValue": true
+        },
+        "description": {
+          "stringValue": "Hit a \"High\" note at the Watson's Karaoke nights.\nGrab a mic and bring out your inner Rockstar while you sip on a drink or two, every Wednesday at 9pm onwards. Drop in to Watson's at Indiranagar, Vasanth Nagar & Sahakaranagar and get singing!"
+        },
+        "days": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "Wednesday"
+              }
+            ]
+          }
+        },
+        "venues": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "imageUrl": {
+                      "stringValue": "deprecated"
+                    },
+                    "name": {
+                      "stringValue": "Watsons Indiranagar"
+                    },
+                    "description": {
+                      "stringValue": "777/I, 2nd Floor, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar"
+                    },
+                    "location": {
+                      "stringValue": "12.967406665054014, 77.64129825781045"
+                    },
+                    "id": {
+                      "stringValue": "33Xd1edPoye0T8DyAl8G"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "genres": {
+          "arrayValue": {}
+        },
+        "artists": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "profileImages": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "ref": {
+                                  "stringValue": "artists/Tzz2gIE3XVgzQYUFXwxq/profileImages/kSQoZdovZoWnnnHykUpE-69187074_339046943642522_1233986104625987584_n.jpg"
+                                },
+                                "downloadURL": {
+                                  "stringValue": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/artists%2FTzz2gIE3XVgzQYUFXwxq%2FprofileImages%2FkSQoZdovZoWnnnHykUpE-69187074_339046943642522_1233986104625987584_n.jpg?alt=media&token=cdc5065f-c23a-4a31-b521-2dea2a5d6e83"
+                                },
+                                "name": {
+                                  "stringValue": "69187074_339046943642522_1233986104625987584_n.jpg"
+                                },
+                                "type": {
+                                  "stringValue": "image/jpeg"
+                                },
+                                "lastModifiedTS": {
+                                  "integerValue": "1710924284349"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "spotifyUrl": {
+                      "stringValue": ""
+                    },
+                    "youtubeUrl": {
+                      "stringValue": "https://www.youtube.com/MartinDsouzaOfficial/"
+                    },
+                    "soundcloudUrl": {
+                      "stringValue": "https://www.soundcloud.com/MartinDsouzaOfficial/"
+                    },
+                    "name": {
+                      "stringValue": "Martin Dsouza"
+                    },
+                    "instagramUrl": {
+                      "stringValue": "https://www.instagram.com/martindsouzaofficial/?hl=en"
+                    },
+                    "id": {
+                      "stringValue": "Tzz2gIE3XVgzQYUFXwxq"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "organisers": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "imageUrl": {
+                      "stringValue": "deprecated"
+                    },
+                    "name": {
+                      "stringValue": "Watsons"
+                    },
+                    "id": {
+                      "stringValue": "1FjS63jiYTVdpzR4I8Vo"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "name": {
+          "stringValue": "WedKaraoke"
+        },
+        "youtubeUrl": {
+          "stringValue": "https://www.youtube.com/watch?v=myP9ieMWUBI"
+        },
+        "endDate": {
+          "timestampValue": "2024-03-31T18:30:00.268Z"
+        },
+        "startDate": {
+          "timestampValue": "2024-04-01T13:30:00.567Z"
+        }
+      },
+      "createTime": "2024-03-26T05:35:50.737583Z",
+      "updateTime": "2024-05-07T19:00:57.800623Z"
+    },
+    {
+      "name": "projects/tonight-is/databases/(default)/documents/regulars/zzzzzzzzzzzzzzzzzzzw",
+      "fields": {
+        "city": {
+          "stringValue": "Bangalore"
+        },
+        "startDate": {
+          "timestampValue": "2024-04-01T14:30:00Z"
+        },
+        "endDate": {
+          "timestampValue": "2024-03-31T18:30:00.623Z"
+        },
+        "days": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "Saturday"
+              }
+            ]
+          }
+        },
+        "youtubeUrl": {
+          "stringValue": ""
+        },
+        "description": {
+          "stringValue": "Every Saturday, step into the heart of Bangalore's old-school charm at Knowhere in Cooke Town for the city's premier Karaoke Party. With a song for every voice and a night full of energy, laughter, and camaraderie, it's where music and local spirit intertwine. Make your weekends memorable at Knowhere, where every song is a celebration of our vibrant community\n\nPost 10:30PM, we have dance music till 12. Please RSVP between Wednesday to Friday to ensure your spot."
+        },
+        "name": {
+          "stringValue": "Karaoke at Knowhere"
+        },
+        "available": {
+          "booleanValue": true
+        },
+        "genres": {
+          "arrayValue": {}
+        },
+        "phone": {
+          "stringValue": "+9108040911383"
+        },
+        "organisers": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "imageUrl": {
+                      "stringValue": "deprecated"
+                    },
+                    "name": {
+                      "stringValue": "One Team Entertainment"
+                    },
+                    "id": {
+                      "stringValue": "1FjS63jiYTVdpzR4I8Vn"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "bannerImages": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "ref": {
+                      "stringValue": "regulars/zzzzzzzzzzzzzzzzzzzw/bannerImages/bdp5REchZU8K2nXEHCrS-knowhere.jpeg"
+                    },
+                    "downloadURL": {
+                      "stringValue": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/regulars%2Fzzzzzzzzzzzzzzzzzzzw%2FbannerImages%2Fbdp5REchZU8K2nXEHCrS-knowhere.jpeg?alt=media&token=fa465515-a716-49c5-91b9-da9dc54163f1"
+                    },
+                    "name": {
+                      "stringValue": "knowhere.jpeg"
+                    },
+                    "type": {
+                      "stringValue": "image/jpeg"
+                    },
+                    "lastModifiedTS": {
+                      "integerValue": "1711370339114"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "venues": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "imageUrl": {
+                      "stringValue": "deprecated"
+                    },
+                    "name": {
+                      "stringValue": "Knowhere"
+                    },
+                    "description": {
+                      "stringValue": "15, Favourite Plaza, Dodda Banaswadi Main Rd, Cooke Town"
+                    },
+                    "location": {
+                      "stringValue": "13.001154357491258, 77.62922962303539"
+                    },
+                    "id": {
+                      "stringValue": "33Xd1edPoye0T8DyAl8H"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "artists": {
+          "arrayValue": {}
+        },
+        "published": {
+          "booleanValue": true
+        },
+        "category": {
+          "stringValue": "Karaoke"
+        }
+      },
+      "createTime": "2024-03-25T12:40:15.345215Z",
+      "updateTime": "2024-05-07T19:00:58.685439Z"
+    },
+    {
+      "name": "projects/tonight-is/databases/(default)/documents/regulars/zzzzzzzzzzzzzzzzzzzx",
+      "fields": {
+        "bannerImages": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "ref": {
+                      "stringValue": "regulars/zzzzzzzzzzzzzzzzzzzx/bannerImages/eKyvvUkMvyQFlnVDPHhG-the-local.jpeg"
+                    },
+                    "downloadURL": {
+                      "stringValue": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/regulars%2Fzzzzzzzzzzzzzzzzzzzx%2FbannerImages%2FeKyvvUkMvyQFlnVDPHhG-the-local.jpeg?alt=media&token=7c360234-1669-44df-b28c-5c78ef6514cd"
+                    },
+                    "name": {
+                      "stringValue": "the-local.jpeg"
+                    },
+                    "type": {
+                      "stringValue": "image/jpeg"
+                    },
+                    "lastModifiedTS": {
+                      "integerValue": "1711363901263"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "category": {
+          "stringValue": "Karaoke"
+        },
+        "phone": {
+          "stringValue": "+919880990567"
+        },
+        "name": {
+          "stringValue": "Karaoke at Local"
+        },
+        "description": {
+          "stringValue": "Apart from its bare brick walls, delish pub grub and retro vibes, The Local in Kalyan Nagar is also a popular joint to belt out some of your favourite tunes. Every Thursday evening, get your vocals warmed up and sing your Karaoke go-to jams at the Kalyan Nagar pub. And don’t forget to chug on Kings Beer, a Goan favourite, while you’re here"
+        },
+        "rsvpUrl": {
+          "stringValue": ""
+        },
+        "genres": {
+          "arrayValue": {}
+        },
+        "city": {
+          "stringValue": "Bangalore"
+        },
+        "published": {
+          "booleanValue": true
+        },
+        "days": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "Thursday"
+              }
+            ]
+          }
+        },
+        "venues": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "images": {
+                      "arrayValue": {
+                        "values": [
+                          {
+                            "mapValue": {
+                              "fields": {
+                                "ref": {
+                                  "stringValue": "venues/33Xd1edPoye0T8DyAl8I/images/ZetOyuPjfW7AoXY9N4YJ-the-local.jpeg"
+                                },
+                                "downloadURL": {
+                                  "stringValue": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/venues%2F33Xd1edPoye0T8DyAl8I%2Fimages%2FZetOyuPjfW7AoXY9N4YJ-the-local.jpeg?alt=media&token=55dbaa8d-1a32-4929-86d9-469482bed00a"
+                                },
+                                "name": {
+                                  "stringValue": "the-local.jpeg"
+                                },
+                                "type": {
+                                  "stringValue": "image/jpeg"
+                                },
+                                "lastModifiedTS": {
+                                  "integerValue": "1711363901263"
+                                }
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "imageUrl": {
+                      "stringValue": "deprecated"
+                    },
+                    "name": {
+                      "stringValue": "The Local HRBR"
+                    },
+                    "description": {
+                      "stringValue": "4th cross, 6th Main Rd, HRBR Layout 2nd Block, Kalyan Nagar"
+                    },
+                    "location": {
+                      "stringValue": "13.021219567838415, 77.64149784766659"
+                    },
+                    "id": {
+                      "stringValue": "33Xd1edPoye0T8DyAl8I"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "organisers": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "imageUrl": {
+                      "stringValue": "deprecated"
+                    },
+                    "name": {
+                      "stringValue": "Last One Projects"
+                    },
+                    "id": {
+                      "stringValue": "1FjS63jiYTVdpzR4I8Vp"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "day": {
+          "arrayValue": {
+            "values": [
+              {
+                "stringValue": "Monday"
+              },
+              {
+                "stringValue": "Tuesday"
+              }
+            ]
+          }
+        },
+        "artists": {
+          "arrayValue": {}
+        },
+        "images": {
+          "arrayValue": {
+            "values": [
+              {
+                "mapValue": {
+                  "fields": {
+                    "ref": {
+                      "stringValue": "regulars/zzzzzzzzzzzzzzzzzzzy/images/YULxwJ5RDp7GwNlg5G1p-387681004_347466584388160_5247363131580012535_n.jpg"
+                    },
+                    "name": {
+                      "stringValue": "387681004_347466584388160_5247363131580012535_n.jpg"
+                    },
+                    "downloadURL": {
+                      "stringValue": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/regulars%2Fzzzzzzzzzzzzzzzzzzzy%2Fimages%2FYULxwJ5RDp7GwNlg5G1p-387681004_347466584388160_5247363131580012535_n.jpg?alt=media&token=802e1fe6-80cb-412f-a5e4-cc2f3b5151aa"
+                    },
+                    "type": {
+                      "stringValue": "image/jpeg"
+                    },
+                    "lastModifiedTS": {
+                      "integerValue": "1711031426515"
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "endDate": {
+          "timestampValue": "2024-03-31T18:30:00.047Z"
+        },
+        "startDate": {
+          "timestampValue": "2024-04-01T12:30:00Z"
+        },
+        "coverCharge": {
+          "stringValue": "Rs. 1000 fully redeemable cover charge will be requested for couples, stags and ladies at entry"
+        },
+        "available": {
+          "booleanValue": true
+        }
+      },
+      "createTime": "2024-03-23T14:04:30.839375Z",
+      "updateTime": "2024-05-07T19:00:58.994415Z"
+    }
+  ]
+}
