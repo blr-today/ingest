@@ -1851,6 +1851,7 @@
           "company_tag_line": "Dine with Strangers",
           "guest_can_whatsapp": true,
           "logo_path": "images/wysxdsvnko-1707810356440ttclogojpg.jpg",
+          "micro_site_banner_path": null,
           "slug": "twotablesclub",
           "theme_color": "001f3f"
         },
@@ -1898,9 +1899,13 @@
           }
         },
         "contributor": {
+          "age": null,
           "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/wysxdsvnko-1707810356440ttclogojpg.jpg",
+          "city": null,
           "first_name": "Sanj",
+          "gender": null,
           "id": 10424,
+          "instagram": null,
           "profile_picture": "images/wysxdsvnko-1707810356440ttclogojpg.jpg",
           "short_bio": ""
         },
@@ -1937,12 +1942,12 @@
         ],
         "lng": "77.64174000000000000000",
         "location": "SRID=4326;POINT (77.64174 12.9650893)",
-        "marketing_tag_data": null,
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9FF77DE98EEA412D8658A2EE9D9702A9_converted_webp.webp",
-            "id": 99591,
+            "id": 99736,
             "multi_size": [],
+            "name": null,
             "order": 1,
             "path": "images/9FF77DE98EEA412D8658A2EE9D9702A9_converted_webp.webp",
             "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9FF77DE98EEA412D8658A2EE9D9702A9_converted_webp.webp",
@@ -1952,8 +1957,9 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3523B58DA51F49919F3720E5CC8F335E_converted_webp.webp",
-            "id": 99592,
+            "id": 99737,
             "multi_size": [],
+            "name": null,
             "order": 2,
             "path": "images/3523B58DA51F49919F3720E5CC8F335E_converted_webp.webp",
             "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3523B58DA51F49919F3720E5CC8F335E_converted_webp.webp",
@@ -1963,8 +1969,8 @@
           }
         ],
         "metadata": {},
-        "modified": "2024-05-21 14:54:00",
-        "modified_timestamp": 1716283440,
+        "modified": "2024-05-22 21:08:14",
+        "modified_timestamp": 1716392294,
         "must_see": false,
         "name": "Cocktails & Conversations with Strangers",
         "notify_me": false,
@@ -2242,7 +2248,7 @@
       "highlights": []
     }
   ],
-  "out_of": 2365,
+  "out_of": 2364,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
