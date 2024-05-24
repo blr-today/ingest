@@ -1,6 +1,6 @@
 {
   "facet_counts": [],
-  "found": 11,
+  "found": 10,
   "hits": [
     {
       "document": {
@@ -29,7 +29,7 @@
         ],
         "available_for_booking": true,
         "booking_confirmation_message": "<p>We are delighted to confirm your reservation for Slow Tide at The Conservatory, Bangalore. If you have any further inquiries or special requests, feel free to reach out to our dedicated event coordinator at 7338677996. Thank you once again for choosing to be a part of our community. We look forward to hosting you for an evening. You can find out more about upcoming events by joining <a href=\"https://chat.whatsapp.com/G6j88wtm1ZgGJhutF4LRR8\" rel=\"noopener noreferrer\" target=\"_blank\">our WhatsApp community. </a></p><p><br></p><ul><li>Team Conservatory</li></ul><p><br></p>",
-        "can_be_booked_before": 12,
+        "can_be_booked_before": 0,
         "can_book_till_end": false,
         "cancel_pending_payment": 12.0,
         "cancellation_policy": "<p>No shows and cancellations are non-refundable by all means.</p>",
@@ -120,7 +120,7 @@
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/076F50BF99064CA288F666189BEC199A_converted_webp.webp",
-            "id": 99377,
+            "id": 100308,
             "multi_size": [],
             "name": null,
             "order": 0,
@@ -132,8 +132,8 @@
           }
         ],
         "metadata": {},
-        "modified": "2024-05-18 18:05:17",
-        "modified_timestamp": 1716035717,
+        "modified": "2024-05-24 16:44:27",
+        "modified_timestamp": 1716549267,
         "must_see": false,
         "name": "Slow Tide at The Conservatory",
         "notify_me": false,
@@ -210,236 +210,6 @@
       "document": {
         "accept_partial_payment": false,
         "account_data": {
-          "company_description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
-          "company_name": "Courtyard",
-          "company_phone": "+91-73386-77996",
-          "company_tag_line": "Home to  the Curious",
-          "guest_can_whatsapp": true,
-          "logo_path": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
-          "micro_site_banner_path": "images/rgg3yxsbw9-17120534719147d0470132d8846088ac8f9a538a0a073jpeg.jpeg",
-          "slug": "courtyard",
-          "theme_color": "060606"
-        },
-        "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
-        "admin_note_for_calender": "",
-        "approved": 4417,
-        "available_days": [
-          0,
-          1,
-          2,
-          3,
-          4,
-          5,
-          6
-        ],
-        "available_for_booking": true,
-        "booking_confirmation_message": "<p>We are delighted to confirm your reservation for Movie Under the Stars. If you have any further inquiries or special requests, feel free to reach out to our dedicated event coordinator at 7338677996. Thank you once again for choosing to be a part of our community. We look forward to hosting you for an evening. You can find out more about upcoming events by joining <a href=\"https://chat.whatsapp.com/BOyf5C0OBjRClZyRjWVQCp\" rel=\"noopener noreferrer\" target=\"_blank\">our WhatsApp community.</a></p><p><br></p><p>Team Courtyard</p>",
-        "can_be_booked_before": 12,
-        "can_book_till_end": false,
-        "cancel_pending_payment": 12.0,
-        "cancellation_policy": "<p>Tickets are non-refundable in case of cancellation or no-show.</p>",
-        "categories": [
-          12
-        ],
-        "categories_name": [
-          "Events"
-        ],
-        "city": "Bengaluru",
-        "coming_soon": false,
-        "contacts": {
-          "booking_related_emails": [
-            {
-              "email": "sales@thecourtyardcommunity.in",
-              "name": "Ipsa"
-            }
-          ],
-          "on_ground_contacts": [
-            {
-              "name": "Ipsa",
-              "phone": "+91-7338677996"
-            }
-          ],
-          "whatsapp_contact_for_guest": {
-            "name": "Ipsa",
-            "phone": "+917338677996"
-          }
-        },
-        "contributor": {
-          "age": null,
-          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
-          "city": null,
-          "first_name": "Courtyard",
-          "gender": null,
-          "id": 10113,
-          "instagram": null,
-          "profile_picture": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
-          "short_bio": ""
-        },
-        "credit": "",
-        "days": [],
-        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
-        "display_rank": 5,
-        "display_tags": [
-          8,
-          5,
-          6
-        ],
-        "display_tags_data": [
-          {
-            "id": 8,
-            "name": "Less than 3 hours",
-            "path": "display_tag_image/less_than_3_hrs.png"
-          },
-          {
-            "id": 5,
-            "name": "Pet friendly",
-            "path": "display_tag_image/pet_friendly.png"
-          },
-          {
-            "id": 6,
-            "name": "Outdoor",
-            "path": "display_tag_image/outdoor.png"
-          }
-        ],
-        "display_timing": "",
-        "enable_calendar_invite": false,
-        "enable_list_view": true,
-        "end": "2024-05-25 21:30:00",
-        "end_timestamp": 1716652800,
-        "explore_order": 1,
-        "genre_tags": [],
-        "genre_tags_data": [],
-        "google_map_link": "https://maps.google.com/?cid=15325971903082601795",
-        "google_place_id": "ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
-        "has_end_timestamp": true,
-        "has_u_plus_offer": false,
-        "id": "4012",
-        "insider_tip": "This experience sells out pretty quick!",
-        "instant_booking": true,
-        "instructions_from_experience_provider": "",
-        "is_bookable": false,
-        "is_favourite": false,
-        "is_itinerary": false,
-        "is_live": true,
-        "is_renamed": false,
-        "is_same_working_hours": false,
-        "lat": "12.95843050000000000000",
-        "lat_lng": [
-          12.9584305,
-          77.59289509999999
-        ],
-        "lng": "77.59289509999999000000",
-        "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
-        "medias": [
-          {
-            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3809C6D26C0F4B019871113F54033D83_converted_webp.webp",
-            "id": 96570,
-            "multi_size": [],
-            "name": null,
-            "order": 0,
-            "path": "images/3809C6D26C0F4B019871113F54033D83_converted_webp.webp",
-            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3809C6D26C0F4B019871113F54033D83_converted_webp.webp",
-            "thumbnail_created": false,
-            "thumbnail_image_path": "images/3809C6D26C0F4B019871113F54033D83_converted_webp.webp",
-            "type": "Cover photo"
-          }
-        ],
-        "metadata": {},
-        "modified": "2024-05-10 18:41:49",
-        "modified_timestamp": 1715346709,
-        "must_see": false,
-        "name": "Screening: Dead Poets Society | Movie Under the Stars",
-        "note_from_experience_provider": "",
-        "notify_me": false,
-        "offer_banner": "",
-        "order": 3873,
-        "permanently_closed": false,
-        "price_added": true,
-        "price_starts_at": "2000.00",
-        "price_starts_at_currency": "INR",
-        "private_booking_available": false,
-        "pro_tip": "",
-        "questions_to_ask": {
-          "custom_questions": [
-            {
-              "input_type": "COUNTER",
-              "optional": false,
-              "question": "Number of Vegetarians",
-              "required": true
-            },
-            {
-              "input_type": "COUNTER",
-              "optional": false,
-              "question": "Number of Non- Vegetarians",
-              "required": true
-            },
-            {
-              "input_type": "TEXT",
-              "optional": false,
-              "question": "Any Food Allergies?",
-              "required": true
-            }
-          ],
-          "default_questions": []
-        },
-        "same_day": [],
-        "short_description": "<p><strong>About the movie</strong></p><p><br></p><p>\"Dead Poets Society\" is a coming-of-age drama film directed by Peter Weir and released in 1989. Set in the conservative Welton Academy, an elite all-boys preparatory school in Vermont in 1959, the story follows a group of students and their English teacher, John Keating, portrayed by Robin Williams.</p><p><br></p><p>3-Course Menu by <strong>Chef Clive Fernandes</strong></p><p><br></p><p><strong>Appetiser </strong></p><p>Taco Truck Nachos (NV)</p><p>Roasted Chicken Nachos, Black Bean Gravy, Queso</p><p><br></p><p>OR</p><p><br></p><p>Taco Truck Nachos (V)</p><p>Jackfruit Meat, Black Bean Gravy, Queso</p><p><br></p><p><strong>Main Course</strong></p><p>Buttermilk Fried Chicken Slider (NV)</p><p>Dill Crema, Pickles, Hot Honey Miso</p><p><br></p><p>OR</p><p><br></p><p>Mini Bean Burger (V)</p><p>Mushroom and Chickpeas, Hot Honey Miso&nbsp;</p><p><br></p><p><strong>Dessert </strong></p><p>Walnut &amp; Pecan Tart</p><p>Chantilly, Flaky Salt</p><p><br></p><p><strong>Terms and Conditions:</strong></p><p><br></p><ol><li>The management is not responsible for any injury or damage that may occur during the event.</li><li>No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.</li><li>Parking near the event premises is at the risk of the vehicle owner.</li><li>Valet service is available at a charge of Rs. 200 per vehicle.</li><li>Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.</li><li>Tickets are non-refundable in case of cancellation or no-show.</li><li>In case of rain, the event will be moved indoors.</li></ol>",
-        "slug": "screening-dead-poets-society-movie-under-the-stars",
-        "specific_sections": {
-          "custom": [],
-          "default_section": [
-            {
-              "label": "What's included",
-              "text": "Movie screening\n3- course meal\nPopcorn"
-            },
-            {
-              "label": "What's not",
-              "text": "Wine\nParking"
-            }
-          ]
-        },
-        "spotapproved_id": 4012,
-        "start": "2024-05-25 19:30:00",
-        "start_timestamp": 1716645600,
-        "stop_auto_date_add": true,
-        "type": "public",
-        "u_plus_how_to_redeem": "",
-        "u_plus_inquiry_enabled": false,
-        "u_plus_offer_description": "",
-        "user_convenience_fee_flat": "60.00",
-        "user_convenience_fee_flat_currency": "INR",
-        "user_convenience_fee_percentage": "3.00",
-        "who_is_it_for_tags": [
-          4,
-          5,
-          6
-        ],
-        "who_is_it_for_tags_data": [
-          {
-            "id": 4,
-            "name": "Adults only",
-            "path": "who_is_it_for_tag/adults_only.svg"
-          },
-          {
-            "id": 5,
-            "name": "Family friends",
-            "path": "who_is_it_for_tag/family_friends.svg"
-          },
-          {
-            "id": 6,
-            "name": "Good for couples",
-            "path": "who_is_it_for_tag/good_for_couples.svg"
-          }
-        ],
-        "working_days": []
-      },
-      "highlight": {},
-      "highlights": []
-    },
-    {
-      "document": {
-        "accept_partial_payment": false,
-        "account_data": {
           "company_description": "love.OORU is a tranquil oasis on the rooftop which is the perfect setting for enjoying beautiful sunsets, hosting private dinners & events, and maybe indulging in a chef's table experience.  Taking inspiration from Bengaluru, her history, geography, culture, and most importantly her stories, love.OORU was born as an identity rooted in Bengaluru and all it has to offer.",
           "company_name": "love OORU",
           "company_phone": "+91-98865-15954",
@@ -479,18 +249,18 @@
           "booking_related_emails": [
             {
               "email": "info.loveooru@gmail.com",
-              "name": "adha"
+              "name": "Archana"
             }
           ],
           "on_ground_contacts": [
             {
-              "name": "Adah Ghildiyal",
-              "phone": "+91-9353854534"
+              "name": "Archana",
+              "phone": "+91-9886515954"
             }
           ],
           "whatsapp_contact_for_guest": {
-            "name": "Adah Ghildiyal",
-            "phone": "+919353854534"
+            "name": "Archana",
+            "phone": "+919886515954"
           }
         },
         "contributor": {
@@ -566,7 +336,7 @@
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1ACB49239F644EB2804B64BB66B1215F_converted_webp.webp",
-            "id": 97949,
+            "id": 100144,
             "multi_size": [],
             "name": null,
             "order": 0,
@@ -578,7 +348,7 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AF24088A266E4127BC28F3D8B85A1550_converted_webp.webp",
-            "id": 97950,
+            "id": 100145,
             "multi_size": [],
             "name": null,
             "order": 1,
@@ -590,7 +360,7 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/967633134C744FC1B02A337C7292E6AB_converted_webp.webp",
-            "id": 97951,
+            "id": 100146,
             "multi_size": [],
             "name": null,
             "order": 2,
@@ -602,7 +372,7 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/15E93AAE88BB49DA867DCC2AE9C67397_converted_webp.webp",
-            "id": 97952,
+            "id": 100147,
             "multi_size": [],
             "name": null,
             "order": 3,
@@ -614,7 +384,7 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FF6B9127A5834A4FB2B4CB39DE04C8CE_converted_webp.webp",
-            "id": 97953,
+            "id": 100148,
             "multi_size": [],
             "name": null,
             "order": 4,
@@ -626,7 +396,7 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F4192704E6C74D3D8E9AA8FF0ECE68E7_converted_webp.webp",
-            "id": 97954,
+            "id": 100149,
             "multi_size": [],
             "name": null,
             "order": 5,
@@ -638,8 +408,8 @@
           }
         ],
         "metadata": {},
-        "modified": "2024-05-14 02:19:41",
-        "modified_timestamp": 1715633381,
+        "modified": "2024-05-24 13:03:50",
+        "modified_timestamp": 1716536030,
         "must_see": false,
         "name": "Woodcut Printing Beginners Workshop",
         "notify_me": false,
@@ -2092,24 +1862,28 @@
           "booking_related_emails": [
             {
               "email": "info.loveooru@gmail.com",
-              "name": "adha"
+              "name": "Archana"
             }
           ],
           "on_ground_contacts": [
             {
-              "name": "Adah Ghildiyal",
-              "phone": "+91-9353854534"
+              "name": "Archana",
+              "phone": "+91-9886515954"
             }
           ],
           "whatsapp_contact_for_guest": {
-            "name": "Adah Ghildiyal",
-            "phone": "+919353854534"
+            "name": "Archana",
+            "phone": "+919886515954"
           }
         },
         "contributor": {
+          "age": null,
           "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/x81ndtng2u-1711448075496loveoorugrilllogojpg.jpg",
+          "city": null,
           "first_name": "archana kotian",
+          "gender": null,
           "id": 10376,
+          "instagram": null,
           "profile_picture": "images/x81ndtng2u-1711448075496loveoorugrilllogojpg.jpg",
           "short_bio": ""
         },
@@ -2172,12 +1946,12 @@
         ],
         "lng": "77.62154500000000000000",
         "location": "SRID=4326;POINT (77.621545 12.9337)",
-        "marketing_tag_data": null,
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AC98EF5A12E14C9CAE0435EA059693AC_converted_webp.webp",
-            "id": 99837,
+            "id": 100150,
             "multi_size": [],
+            "name": null,
             "order": 0,
             "path": "images/AC98EF5A12E14C9CAE0435EA059693AC_converted_webp.webp",
             "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AC98EF5A12E14C9CAE0435EA059693AC_converted_webp.webp",
@@ -2187,8 +1961,9 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4D0600DBB0794CEDB64850D7446F71A9_converted_webp.webp",
-            "id": 99838,
+            "id": 100151,
             "multi_size": [],
+            "name": null,
             "order": 1,
             "path": "images/4D0600DBB0794CEDB64850D7446F71A9_converted_webp.webp",
             "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4D0600DBB0794CEDB64850D7446F71A9_converted_webp.webp",
@@ -2198,8 +1973,9 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3FE60E546AA340AE8F293D1CB0C8CE1A_converted_webp.webp",
-            "id": 99839,
+            "id": 100152,
             "multi_size": [],
+            "name": null,
             "order": 2,
             "path": "images/3FE60E546AA340AE8F293D1CB0C8CE1A_converted_webp.webp",
             "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3FE60E546AA340AE8F293D1CB0C8CE1A_converted_webp.webp",
@@ -2209,8 +1985,9 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/956E383210404AABBD640DB5155A1E88_converted_webp.webp",
-            "id": 99840,
+            "id": 100153,
             "multi_size": [],
+            "name": null,
             "order": 3,
             "path": "images/956E383210404AABBD640DB5155A1E88_converted_webp.webp",
             "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/956E383210404AABBD640DB5155A1E88_converted_webp.webp",
@@ -2220,8 +1997,9 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0E03963826254E1FB6A7738BD5909F00_converted_webp.webp",
-            "id": 99841,
+            "id": 100154,
             "multi_size": [],
+            "name": null,
             "order": 4,
             "path": "images/0E03963826254E1FB6A7738BD5909F00_converted_webp.webp",
             "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0E03963826254E1FB6A7738BD5909F00_converted_webp.webp",
@@ -2231,8 +2009,9 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B29AD34A4B5C4B3EBFC0131D709A5D51_converted_webp.webp",
-            "id": 99842,
+            "id": 100155,
             "multi_size": [],
+            "name": null,
             "order": 5,
             "path": "images/B29AD34A4B5C4B3EBFC0131D709A5D51_converted_webp.webp",
             "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B29AD34A4B5C4B3EBFC0131D709A5D51_converted_webp.webp",
@@ -2242,8 +2021,9 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1467ADA48A12411EB7BAE2F2F6E14444_converted_webp.webp",
-            "id": 99843,
+            "id": 100156,
             "multi_size": [],
+            "name": null,
             "order": 6,
             "path": "images/1467ADA48A12411EB7BAE2F2F6E14444_converted_webp.webp",
             "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1467ADA48A12411EB7BAE2F2F6E14444_converted_webp.webp",
@@ -2253,8 +2033,9 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E575B24FABC146E3A81671CE29C54678_converted_webp.webp",
-            "id": 99844,
+            "id": 100157,
             "multi_size": [],
+            "name": null,
             "order": 7,
             "path": "images/E575B24FABC146E3A81671CE29C54678_converted_webp.webp",
             "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E575B24FABC146E3A81671CE29C54678_converted_webp.webp",
@@ -2264,8 +2045,8 @@
           }
         ],
         "metadata": {},
-        "modified": "2024-05-23 11:58:57",
-        "modified_timestamp": 1716445737,
+        "modified": "2024-05-24 13:04:29",
+        "modified_timestamp": 1716536069,
         "must_see": false,
         "name": "Letterpress Printmaking Workshop",
         "notify_me": false,
@@ -2543,7 +2324,7 @@
       "highlights": []
     }
   ],
-  "out_of": 2370,
+  "out_of": 2371,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
@@ -2551,5 +2332,5 @@
     "q": "*"
   },
   "search_cutoff": false,
-  "search_time_ms": 4
+  "search_time_ms": 3
 }
