@@ -1016,7 +1016,7 @@
         ],
         "available_for_booking": true,
         "booking_confirmation_message": "<p>Thanks for booking !!</p><p>Your seat is confirmed for the letterpress workshop.</p><p><br></p><p>We also conduct workshop in our studio located in bommnahalli, where we have a large collection of types.</p><p><br></p><p>https://maps.app.goo.gl/gL41Veew5jfATgBL7</p><p><br></p><p>We also make wedding invitations and business card, you can check our insta handle for our works.</p><p>https://www.instagram.com/chase.the.key_letterpressindia</p><p><br></p><p>See you at the workshop.</p><p><br></p><p>Regards</p><p>Akila &amp; Arun</p>",
-        "can_be_booked_before": 12,
+        "can_be_booked_before": 2,
         "can_book_till_end": false,
         "cancel_pending_payment": 12.0,
         "categories": [
@@ -1037,7 +1037,7 @@
           "on_ground_contacts": [],
           "whatsapp_contact_for_guest": {
             "name": "Akila",
-            "phone": "+9108217389837"
+            "phone": "+9190821738983"
           }
         },
         "contributor": {
@@ -1101,7 +1101,7 @@
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/73F737AB00CA4E0EABA7BF7F0288F650_converted_webp.webp",
-            "id": 99529,
+            "id": 100729,
             "multi_size": [],
             "name": null,
             "order": 0,
@@ -1113,7 +1113,7 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9D237DD2A0BF4D3CB8CFE4E91E8AD4FC_converted_webp.webp",
-            "id": 99530,
+            "id": 100730,
             "multi_size": [],
             "name": null,
             "order": 1,
@@ -1125,8 +1125,8 @@
           }
         ],
         "metadata": {},
-        "modified": "2024-05-21 12:06:33",
-        "modified_timestamp": 1716273393,
+        "modified": "2024-05-25 21:14:25",
+        "modified_timestamp": 1716651865,
         "must_see": false,
         "name": "Letterpress Printing",
         "notify_me": false,
@@ -1344,7 +1344,7 @@
         "modified_timestamp": 1716483938,
         "must_see": false,
         "name": "Bombay Style Breakfast with Strangers.",
-        "notify_me": false,
+        "notify_me": true,
         "order": 3947,
         "permanently_closed": false,
         "price_added": true,
@@ -2135,7 +2135,7 @@
       "highlights": []
     }
   ],
-  "out_of": 2375,
+  "out_of": 2382,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
