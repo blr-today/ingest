@@ -30,10 +30,15 @@ def fetch_events():
     xpath_selector = '//a[@rel="noopener" and @target="_blank" and not(@data-testid="SocialIcon")]'
     filtered_links = apply_xpath(r.text, xpath_selector)
 
+=======
+from common import linktree
+
+def fetch_events():
+
     events = []
-    for link in filtered_links:
-        title = link.xpath('.//p[1]//text()')[0]
-        # TODO: Pick the date that is in the near future.
+    l = linktree.Linktree("atta_galatta")
+    for link in l.fetch_links():
+        title = link['title']
         tz = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
         dates = list(datefinder.find_dates(title, index=True))
         if dates:
@@ -45,6 +50,7 @@ def fetch_events():
                 "startDate": startdate.isoformat(),
                 "endDate": (startdate+datetime.timedelta(hours=2)).isoformat(),
                 'url': link.attrib['href']
+                "thumbnail": link['thumbnail']
             })
 
     return events
