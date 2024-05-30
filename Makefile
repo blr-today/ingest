@@ -78,7 +78,10 @@ out/bluetokai.json:
 
 # site might be down?
 out/gullytours.json:
-	python src/gullytours.py ||  true
+	python src/gullytours.py
+
+out/tonight.json:
+	python src/tonight.py
 
 out/creativemornings.txt:
 	python src/creativemornings.py | sort > out/creativemornings.txt
@@ -109,8 +112,9 @@ all: out/allevents.txt \
  out/bluetokai.json \
  out/gullytours.json \
  out/townscript.txt \
- out/skillboxes.txt \
  out/together-buzz.txt \
+ out/skillboxes.txt \
+ out/tonight.json \
  out/creativemornings.txt
 	@echo "Done"
 
