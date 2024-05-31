@@ -1,6 +1,6 @@
 {
   "facet_counts": [],
-  "found": 10,
+  "found": 15,
   "hits": [
     {
       "document": {
@@ -2465,9 +2465,1028 @@
       },
       "highlight": {},
       "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+          "company_name": "Courtyard",
+          "company_phone": "+91-73386-77996",
+          "company_tag_line": "Home to  the Curious",
+          "guest_can_whatsapp": true,
+          "logo_path": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "micro_site_banner_path": "images/rgg3yxsbw9-17120534719147d0470132d8846088ac8f9a538a0a073jpeg.jpeg",
+          "slug": "courtyard",
+          "theme_color": "060606"
+        },
+        "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+        "approved": 4547,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>We are delighted to confirm your reservation for Double Trouble with Chefs Rhea Aaron and Tushar Sood at The Conservatory, taking place as part of our 2-year anniversary celebration. If you have any further inquiries or special requests, please contact our dedicated event coordinator at 7338677996. Thank you once again for choosing to be a part of our community. We look forward to hosting you. You can find out more about upcoming events by joining our <a href=\"https://chat.whatsapp.com/G6j88wtm1ZgGJhutF4LRR8\" rel=\"noopener noreferrer\" target=\"_blank\">WhatsApp community</a>.</p><p><br></p><p>Team Conservatory</p>",
+        "can_be_booked_before": 12,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<p>No-shows and cancellations are non-refundable by all means.</p>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": "sales@thecourtayrdcommunity.in",
+              "name": "Team Conservatory"
+            }
+          ],
+          "on_ground_contacts": [
+            {
+              "name": "Team Conservatory",
+              "phone": "+91-7338677996"
+            }
+          ],
+          "whatsapp_contact_for_guest": {
+            "name": "Team Conservatory",
+            "phone": "+917338677996"
+          }
+        },
+        "contributor": {
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "first_name": "Courtyard",
+          "id": 10113,
+          "profile_picture": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "short_bio": ""
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [
+          8,
+          3
+        ],
+        "display_tags_data": [
+          {
+            "id": 8,
+            "name": "Less than 3 hours",
+            "path": "display_tag_image/less_than_3_hrs.png"
+          },
+          {
+            "id": 3,
+            "name": "Our pick",
+            "path": "display_tag_image/our_pick.png"
+          }
+        ],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-06-14 22:00:00",
+        "end_timestamp": 1718382600,
+        "explore_order": 1,
+        "genre_tags": [],
+        "genre_tags_data": [],
+        "google_map_link": "https://maps.google.com/?cid=15325971903082601795",
+        "google_place_id": "ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "4141",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "lat": "12.95843050000000000000",
+        "lat_lng": [
+          12.9584305,
+          77.59289509999999
+        ],
+        "lng": "77.59289509999999000000",
+        "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
+        "marketing_tag_data": null,
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E767D57A4843482DB42EB529146AABE0_converted_webp.webp",
+            "id": 101843,
+            "multi_size": [],
+            "order": 1,
+            "path": "images/E767D57A4843482DB42EB529146AABE0_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E767D57A4843482DB42EB529146AABE0_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/E767D57A4843482DB42EB529146AABE0_converted_webp.webp",
+            "type": "Photo"
+          }
+        ],
+        "metadata": {},
+        "modified": "2024-05-30 22:16:47",
+        "modified_timestamp": 1717087607,
+        "must_see": false,
+        "name": "Chefs Rhea Aaron & Tushar Sood | Xacuti and Chill | Double Trouble",
+        "notify_me": false,
+        "order": 3999,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "4500.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [
+            {
+              "input_type": "TEXT",
+              "optional": true,
+              "question": "Pick one for course 5- (Pork) Vindaloo OR (B**f) Steak Recheado?",
+              "required": true
+            }
+          ],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p><strong style=\"background-color: transparent;\"><u>Xacuti &amp; Chill with Chefs Rhea Aaron &amp; Tushar Sood</u></strong></p><p><br></p><p><span style=\"background-color: transparent;\">Amuse</span></p><p><em style=\"background-color: transparent;\">Oyster &amp; Balchao</em></p><p><br></p><p><em style=\"background-color: transparent;\">1st Course</em></p><p><span style=\"background-color: transparent;\">Ros Omelette&nbsp;</span></p><p><em style=\"background-color: transparent;\">Egg, Xacuti, Mini Poee &amp; Red Onion Salsa</em></p><p><br></p><p><em style=\"background-color: transparent;\">2nd Course</em></p><p><span style=\"background-color: transparent;\">Carpaccio</span></p><p><em style=\"background-color: transparent;\">Squid/Octopus, Kokum-Ponzu dressing, Kismoor, Fish Curry &amp; Fresh Jalapeno</em></p><p><br></p><p><em style=\"background-color: transparent;\">3rd Course</em></p><p><span style=\"background-color: transparent;\">Puff</span></p><p><em style=\"background-color: transparent;\">Beef Roast, Sour cream, Curry leaf, Pickled onion &amp; Gravy&nbsp;</em></p><p><br></p><p><em style=\"background-color: transparent;\">4th Course</em></p><p><span style=\"background-color: transparent;\">Gambas &amp; Choriz Mo\u00e7ambique&nbsp;</span></p><p><em style=\"background-color: transparent;\">Podi dusted Prawns, Choriz Chilli fry, Choriz Fat Brioche, Confit Garlic &amp; Dill-Caper aioli&nbsp;</em></p><p><br></p><p><em style=\"background-color: transparent;\">Mains</em></p><p><br></p><p><em style=\"background-color: transparent;\">Slow Cooked Pork Shoulder, Crispy Okra, Bacon-Scallion Verde, Vindaloo Veloute &amp; Coconut Rice&nbsp;</em></p><p><br></p><p><span style=\"background-color: transparent;\">OR</span></p><p><br></p><p><span style=\"background-color: transparent;\">Steak Recheado&nbsp;</span></p><p><em style=\"background-color: transparent;\">Recheado butter basted Filet Mignon, Vichyssoise espuma, Drumstick, Tomato Confit &amp; Pickled Shallots &amp; Cilantro oil</em></p><p><em style=\"background-color: transparent;\">&nbsp;</em></p><p><em style=\"background-color: transparent;\">Dessert&nbsp;</em></p><p><span style=\"background-color: transparent;\">Pasteis De Nata&nbsp;</span></p><p><em style=\"background-color: transparent;\">Ulo Vanilla Bean Ice Cream &amp; Apple Crumble</em><span style=\"background-color: transparent;\">&nbsp;</span></p><p><br></p><p>Come with an appetite!</p><p><br></p><p><strong>Terms and Conditions : </strong></p><ul><li>The management is not responsible for any injury or damage that may occur during an event</li><li><strong>No food presences and allergies can be accommodated for this meal.</strong></li><li>Do not purchase tickets from anyone other than on the ticketing platform.</li><li>No-shows and cancellations are non-refundable by all means.</li><li>Tickets are non-transferable and are for personal use only.</li><li>Children aged 7 and above will require a ticket to attend the meal. Children under 7 years old are not permitted</li><li>The schedule is subject to change in case of an emergency or any event out of our control.</li><li>Management will entertain No liability or claims arising due to the consumption or intake of any food or drink.</li><li>Parking near the event premises is at the risk of the vehicle owner.</li><li>Paid Valet Parking at Rs. 200 per car.</li><li>The holder of this ticket grants organizers the right to use, in perpetuity, all or any part of the recording of any video or still footage made of the holder's appearance on any channel without any further approval.</li><li>Photographs and videos of ticket holders may be uploaded to social media. If you do not wish to be featured, let our team know.</li></ul>",
+        "slug": "chefs-rhea-aaron-tushar-sood-xacuti-and-chill-double-trouble",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "Set menu"
+            },
+            {
+              "label": "What's not",
+              "text": "Wine\nParking "
+            }
+          ]
+        },
+        "spotapproved_id": 4141,
+        "start": "2024-06-14 19:30:00",
+        "start_timestamp": 1718373600,
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          9,
+          4,
+          6
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 9,
+            "name": "Great for big group",
+            "path": "who_is_it_for_tag/great_for_big_group.svg"
+          },
+          {
+            "id": 4,
+            "name": "Adults only",
+            "path": "who_is_it_for_tag/adults_only.svg"
+          },
+          {
+            "id": 6,
+            "name": "Good for couples",
+            "path": "who_is_it_for_tag/good_for_couples.svg"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+          "company_name": "Courtyard",
+          "company_phone": "+91-73386-77996",
+          "company_tag_line": "Home to  the Curious",
+          "guest_can_whatsapp": true,
+          "logo_path": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "micro_site_banner_path": "images/rgg3yxsbw9-17120534719147d0470132d8846088ac8f9a538a0a073jpeg.jpeg",
+          "slug": "courtyard",
+          "theme_color": "060606"
+        },
+        "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+        "approved": 4548,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>We are delighted to confirm your reservation for Double Trouble with Chefs Gautam Krishnakutty &amp; Aarohi Sanghavi at The Conservatory, taking place as part of our 2-year anniversary celebration. If you have any further inquiries or special requests, please contact our dedicated event coordinator at 7338677996. Thank you once again for choosing to be a part of our community. We look forward to hosting you. You can find out more about upcoming events by joining our <a href=\"https://chat.whatsapp.com/G6j88wtm1ZgGJhutF4LRR8\" rel=\"noopener noreferrer\" target=\"_blank\">WhatsApp community</a>.</p><p><br></p><p>Team Conservatory</p>",
+        "can_be_booked_before": 12,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<p>No-shows and cancellations are non-refundable by all means.</p>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": "sales@thecourtayrdcommunity.in",
+              "name": "Team Conservatory"
+            }
+          ],
+          "on_ground_contacts": [
+            {
+              "name": "Team Conservatory",
+              "phone": "+91-7338677996"
+            }
+          ],
+          "whatsapp_contact_for_guest": {
+            "name": "Team Conservatory",
+            "phone": "+917338677996"
+          }
+        },
+        "contributor": {
+          "age": null,
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "city": null,
+          "first_name": "Courtyard",
+          "gender": null,
+          "id": 10113,
+          "instagram": null,
+          "profile_picture": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "short_bio": ""
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [
+          8,
+          3,
+          4
+        ],
+        "display_tags_data": [
+          {
+            "id": 8,
+            "name": "Less than 3 hours",
+            "path": "display_tag_image/less_than_3_hrs.png"
+          },
+          {
+            "id": 3,
+            "name": "Our pick",
+            "path": "display_tag_image/our_pick.png"
+          },
+          {
+            "id": 4,
+            "name": "Local",
+            "path": "display_tag_image/local.png"
+          }
+        ],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-06-15 14:30:00",
+        "end_timestamp": 1718442000,
+        "explore_order": 1,
+        "genre_tags": [],
+        "genre_tags_data": [],
+        "google_map_link": "https://maps.google.com/?cid=15325971903082601795",
+        "google_place_id": "ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "4142",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "lat": "12.95843050000000000000",
+        "lat_lng": [
+          12.9584305,
+          77.59289509999999
+        ],
+        "lng": "77.59289509999999000000",
+        "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/02E3A3253C46435D86BE21F3417DEFE5_converted_webp.webp",
+            "id": 101847,
+            "multi_size": [],
+            "name": null,
+            "order": 0,
+            "path": "images/02E3A3253C46435D86BE21F3417DEFE5_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/02E3A3253C46435D86BE21F3417DEFE5_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/02E3A3253C46435D86BE21F3417DEFE5_converted_webp.webp",
+            "type": "Cover photo"
+          }
+        ],
+        "metadata": {},
+        "modified": "2024-05-30 22:18:58",
+        "modified_timestamp": 1717087738,
+        "must_see": false,
+        "name": "Chefs Gautam Krishnakutty & Aarohi Sanghavi | It's Just Brunch | Double Trouble",
+        "notify_me": false,
+        "order": 4000,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "3500.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p><strong style=\"background-color: transparent;\"><u>It's Just Brunch with Chefs Gautam &amp; Aarohi Sanghavi</u></strong></p><p><br></p><p>East meets West in the Conservatory kitchen as we bring together our love for ALL THINGS BRUNCH!</p><p>Eggs, meat, bread, crepes and more...</p><p><br></p><p>That\u2019s it!</p><p>Don\u2019t ask what the inspiration is, just come hungry for some delicious and heartfelt food!&nbsp;</p><p><br></p><p><em>Course 1 </em></p><p>Miso and Caramel Eggplant Galette with Rocket</p><p><br></p><p><em>Course 2 </em></p><p>Pho with Crepe Noodles, Pawns, Fish Balls and Fresh Shiitake</p><p><br></p><p><em>Course 3 </em></p><p>Smoked Piggle / Vindaloo / Rendang with Focaccia</p><p><br></p><p><em>Course 4 </em></p><p>Bresaola with \u0153uf Cocotte and Sourdough</p><p><br></p><p><em>Course 5 </em></p><p>Chorizo French Toast with Honey and Ice-cream&nbsp;</p><p><br></p><p><strong>Terms and Conditions : </strong></p><ul><li>The management is not responsible for any injury or damage that may occur during an event</li><li><strong>No food presences and allergies can be accommodated for this meal.</strong></li><li>Do not purchase tickets from anyone other than on the ticketing platform.</li><li>No-shows and cancellations are non-refundable by all means.</li><li>Tickets are non-transferable and are for personal use only.</li><li>Children aged 7 and above will require a ticket to attend the meal. Children under 7 years old are not permitted</li><li>The schedule is subject to change in case of an emergency or any event out of our control.</li><li>Management will entertain No liability or claims arising due to the consumption or intake of any food or drink.</li><li>Parking near the event premises is at the risk of the vehicle owner.</li><li>Paid Valet Parking at Rs. 200 per car.</li><li>The holder of this ticket grants organizers the right to use, in perpetuity, all or any part of the recording of any video or still footage made of the holder's appearance on any channel without any further approval.</li><li>Photographs and videos of ticket holders may be uploaded to social media. If you do not wish to be featured, let our team know.</li></ul>",
+        "slug": "chefs-gautam-aarohi-sanghavi-its-just-brunch-double-trouble",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "Set Menu"
+            },
+            {
+              "label": "What's not",
+              "text": "Wine\nParking"
+            }
+          ]
+        },
+        "spotapproved_id": 4142,
+        "start": "2024-06-15 12:00:00",
+        "start_timestamp": 1718433000,
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          9,
+          4,
+          6
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 9,
+            "name": "Great for big group",
+            "path": "who_is_it_for_tag/great_for_big_group.svg"
+          },
+          {
+            "id": 4,
+            "name": "Adults only",
+            "path": "who_is_it_for_tag/adults_only.svg"
+          },
+          {
+            "id": 6,
+            "name": "Good for couples",
+            "path": "who_is_it_for_tag/good_for_couples.svg"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+          "company_name": "Courtyard",
+          "company_phone": "+91-73386-77996",
+          "company_tag_line": "Home to  the Curious",
+          "guest_can_whatsapp": true,
+          "logo_path": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "micro_site_banner_path": "images/rgg3yxsbw9-17120534719147d0470132d8846088ac8f9a538a0a073jpeg.jpeg",
+          "slug": "courtyard",
+          "theme_color": "060606"
+        },
+        "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+        "approved": 4549,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>We are delighted to confirm your reservation for Double Trouble with Chefs Kavan Kuttappa &amp; Kidambi Adithya at The Conservatory, taking place as part of our 2-year anniversary celebration. If you have any further inquiries or special requests, please contact our dedicated event coordinator at 7338677996. Thank you once again for choosing to be a part of our community. We look forward to hosting you. You can find out more about upcoming events by joining our <a href=\"https://chat.whatsapp.com/G6j88wtm1ZgGJhutF4LRR8\" rel=\"noopener noreferrer\" target=\"_blank\">WhatsApp community</a>.</p><p><br></p><p>Team Conservatory</p>",
+        "can_be_booked_before": 12,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<p>No-shows and cancellations are non-refundable by all means.</p>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": "sales@thecourtyardcommunity.in",
+              "name": "Team Conservatory"
+            }
+          ],
+          "on_ground_contacts": [
+            {
+              "name": "Team Conservatory",
+              "phone": "+91-7338677996"
+            }
+          ],
+          "whatsapp_contact_for_guest": {
+            "name": "Team Conservatory",
+            "phone": "+917338677996"
+          }
+        },
+        "contributor": {
+          "age": null,
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "city": null,
+          "first_name": "Courtyard",
+          "gender": null,
+          "id": 10113,
+          "instagram": null,
+          "profile_picture": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "short_bio": ""
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [
+          8,
+          3,
+          4
+        ],
+        "display_tags_data": [
+          {
+            "id": 8,
+            "name": "Less than 3 hours",
+            "path": "display_tag_image/less_than_3_hrs.png"
+          },
+          {
+            "id": 3,
+            "name": "Our pick",
+            "path": "display_tag_image/our_pick.png"
+          },
+          {
+            "id": 4,
+            "name": "Local",
+            "path": "display_tag_image/local.png"
+          }
+        ],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-06-15 21:30:00",
+        "end_timestamp": 1718467200,
+        "explore_order": 1,
+        "genre_tags": [],
+        "genre_tags_data": [],
+        "google_map_link": "https://maps.google.com/?cid=15325971903082601795",
+        "google_place_id": "ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "4143",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "lat": "12.95843050000000000000",
+        "lat_lng": [
+          12.9584305,
+          77.59289509999999
+        ],
+        "lng": "77.59289509999999000000",
+        "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FA43FC8ECD054F5AB4685A126522B911_converted_webp.webp",
+            "id": 101853,
+            "multi_size": [],
+            "name": null,
+            "order": 0,
+            "path": "images/FA43FC8ECD054F5AB4685A126522B911_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FA43FC8ECD054F5AB4685A126522B911_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/FA43FC8ECD054F5AB4685A126522B911_converted_webp.webp",
+            "type": "Cover photo"
+          }
+        ],
+        "metadata": {},
+        "modified": "2024-05-30 22:21:33",
+        "modified_timestamp": 1717087893,
+        "must_see": false,
+        "name": "Chefs Kavan Kuttappa & Kidambi Adithya | KENPAI! | Double Trouble",
+        "notify_me": false,
+        "order": 4001,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "6000.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [
+            {
+              "input_type": "TEXT",
+              "optional": true,
+              "question": "Pick one: Angamaly Pork OR B**f Don Buri ",
+              "required": true
+            }
+          ],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p>Join us for a fun meal where the toddy shops of Kerala (think Mullapanthal) meet the izakayas-style plates of Japan (think Shinjuku)</p><p><br></p><p><strong><u>Menu</u></strong></p><p><br></p><p><strong>Hamachi in Maanga </strong></p><p>Hamachi Sashimi, Raw Mango &amp; Green Chili Ponzu, Chili threads</p><p><br></p><p><strong>Bonjiril Ulli Theeyal </strong></p><p>Char Grilled Chicken Tali Theeyal, Onion Soubise</p><p><br></p><p><strong>Scallop Moilee</strong></p><p>Hokkaido Scallop, Kappa Chips, Moilee Style Coconut Sauce, Curry Leaf Oil</p><p><br></p><p><strong>Duck Confit Mappas</strong></p><p>Confit Duck, Mappas, Croquet Styles Lollipop, Garishoga</p><p><br></p><p><strong>Kozhi Porichattu</strong></p><p>Whole Chicken Leg, Malabar Spices, Wakame Salad</p><p><br></p><p><strong>Angamaly Pork/ Beef Don Buri</strong></p><p>Coconut Vinegar Rice, Angamaly Style Pork Fry/ Syrian Beef Roast, Cured Egg Yolk, Bamboo Shoot, Curry Leaf Furikake</p><p><br></p><p><strong>Pazham Pori</strong></p><p>Ripe Banana Tempura, Miso Caramel, Whipped Goat Cheese Ice Cream</p><p><br></p><p><strong>Terms and Conditions : </strong></p><ul><li><strong>The menu is subject to change based on availability and seasonality of produce. </strong></li><li><strong>No food presences and allergies can be accommodated for this meal.</strong></li><li>The management is not responsible for any injury or damage that may occur during an event</li><li>Do not purchase tickets from anyone other than on the ticketing platform.</li><li>No-shows and cancellations are non-refundable by all means.</li><li>Tickets are non-transferable and are for personal use only.</li><li>Children aged 7 and above will require a ticket to attend the meal. Children under 7 years old are not permitted</li><li>The schedule is subject to change in case of an emergency or any event out of our control.</li><li>Management will entertain No liability or claims arising due to the consumption or intake of any food or drink.</li><li>Parking near the event premises is at the risk of the vehicle owner.</li><li>Paid Valet Parking at Rs. 200 per car.</li><li>The holder of this ticket grants organizers the right to use, in perpetuity, all or any part of the recording of any video or still footage made of the holder's appearance on any channel without any further approval.</li><li>Photographs and videos of ticket holders may be uploaded to social media. If you do not wish to be featured, let our team know.</li></ul><p><br></p>",
+        "slug": "chefs-kavan-kuttappa-kidambi-adithya-double-trouble",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "Set Menu"
+            },
+            {
+              "label": "What's not",
+              "text": "Wine\nParking"
+            }
+          ]
+        },
+        "spotapproved_id": 4143,
+        "start": "2024-06-15 19:30:00",
+        "start_timestamp": 1718460000,
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          4,
+          5,
+          6
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 4,
+            "name": "Adults only",
+            "path": "who_is_it_for_tag/adults_only.svg"
+          },
+          {
+            "id": 5,
+            "name": "Family friends",
+            "path": "who_is_it_for_tag/family_friends.svg"
+          },
+          {
+            "id": 6,
+            "name": "Good for couples",
+            "path": "who_is_it_for_tag/good_for_couples.svg"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+          "company_name": "Courtyard",
+          "company_phone": "+91-73386-77996",
+          "company_tag_line": "Home to  the Curious",
+          "guest_can_whatsapp": true,
+          "logo_path": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "micro_site_banner_path": "images/rgg3yxsbw9-17120534719147d0470132d8846088ac8f9a538a0a073jpeg.jpeg",
+          "slug": "courtyard",
+          "theme_color": "060606"
+        },
+        "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+        "approved": 4550,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>We are delighted to confirm your reservation for Double Trouble with Chefs Ria Belliappa &amp; Karan Upmanyu at The Conservatory, taking place as part of our 2-year anniversary celebration. If you have any further inquiries or special requests, please contact our dedicated event coordinator at 7338677996. Thank you once again for choosing to be a part of our community. We look forward to hosting you. You can find out more about upcoming events by joining our <a href=\"https://chat.whatsapp.com/G6j88wtm1ZgGJhutF4LRR8\" rel=\"noopener noreferrer\" target=\"_blank\">WhatsApp community</a>.</p><p><br></p><p>Team Conservatory</p>",
+        "can_be_booked_before": 12,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<p>No-shows and cancellations are non-refundable by all means.</p>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": "sales@thecourtayrdcommunity.in",
+              "name": "Team Conservatory"
+            }
+          ],
+          "on_ground_contacts": [
+            {
+              "name": "Team Conservatory",
+              "phone": "+91-7338677996"
+            }
+          ],
+          "whatsapp_contact_for_guest": {
+            "name": "Team Conservatory",
+            "phone": "+917338677996"
+          }
+        },
+        "contributor": {
+          "age": null,
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "city": null,
+          "first_name": "Courtyard",
+          "gender": null,
+          "id": 10113,
+          "instagram": null,
+          "profile_picture": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "short_bio": ""
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [
+          8,
+          3,
+          4
+        ],
+        "display_tags_data": [
+          {
+            "id": 8,
+            "name": "Less than 3 hours",
+            "path": "display_tag_image/less_than_3_hrs.png"
+          },
+          {
+            "id": 3,
+            "name": "Our pick",
+            "path": "display_tag_image/our_pick.png"
+          },
+          {
+            "id": 4,
+            "name": "Local",
+            "path": "display_tag_image/local.png"
+          }
+        ],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-06-16 21:30:00",
+        "end_timestamp": 1718553600,
+        "explore_order": 1,
+        "genre_tags": [],
+        "genre_tags_data": [],
+        "google_map_link": "https://maps.google.com/?cid=15325971903082601795",
+        "google_place_id": "ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "4144",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "lat": "12.95843050000000000000",
+        "lat_lng": [
+          12.9584305,
+          77.59289509999999
+        ],
+        "lng": "77.59289509999999000000",
+        "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FF9E3212F11945F58093C95853194ECF_converted_webp.webp",
+            "id": 101861,
+            "multi_size": [],
+            "name": null,
+            "order": 0,
+            "path": "images/FF9E3212F11945F58093C95853194ECF_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FF9E3212F11945F58093C95853194ECF_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/FF9E3212F11945F58093C95853194ECF_converted_webp.webp",
+            "type": "Cover photo"
+          }
+        ],
+        "metadata": {},
+        "modified": "2024-05-31 06:37:06",
+        "modified_timestamp": 1717117626,
+        "must_see": false,
+        "name": "Chefs Karan Upmanyu & Ria Belliappa | Fruits & Vegetables | Double Trouble",
+        "notify_me": false,
+        "order": 4002,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "4200.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p><strong><u>Fruits &amp; Vegetables with Chefs Ria Beliappa &amp; Karan Upmanyu</u></strong></p><p><br></p><p>To celebrate The Conservatory, which has fostered experimentation and creative expression through food for the last two years, we bring you another unconventional dining experience.</p><p><br></p><p>Taking inspiration from its botanical setting, modelled after the Lal Bagh greenhouse, this menu plays with the forms and flavours of fruits and vegetables.</p><p>&nbsp;</p><p>In our daily lives we use vegetables for savoury dishes, and focus on fruits for sweeter things. This menu aims to challenge that status quo in a fun and playful manner - fruits for dinner and vegetables for dessert!</p><p><br></p><p><strong>\u201cContra la Corriente\u201d</strong></p><p><br></p><p><strong><u>FRUITS &amp; VEGETABLES</u></strong></p><p><br></p><p><strong>FRUITS&nbsp;</strong></p><p><br></p><p><strong>Cherry &amp; Bitter Orange</strong></p><p><em>Loafer\u2019s Seedy Sour Cherry Mostarda, Bitter Orange &amp; Cinnamon Butter</em></p><p><br></p><p><strong>Melon&nbsp;</strong></p><p><em>Serrano Ham, Melon &amp; Sherry Jelly.&nbsp;</em></p><p><br></p><p><strong>Mango&nbsp;</strong></p><p><em>Red Snapper Ceviche, Pickled Mangoes, Mango Leche de Tigre.&nbsp;</em></p><p><br></p><p><strong>Passion Fruit&nbsp;</strong></p><p><em>Squid &amp; Prawn, Green Chilli - Passion Fruit Emulsion.</em></p><p><br></p><p><strong>Pineapple</strong></p><p><em>Koji glazed Pork Belly, Pineapple Salsa.&nbsp;</em></p><p><br></p><p><strong>Apricots, Preserved Lemons &amp; Dates</strong></p><p><em>Lamb Tagine Roulade, Whipped Feta &amp; Braised Fennel.&nbsp;</em></p><p><br></p><p><br></p><p><strong>VEGETABLES&nbsp;</strong></p><p><br></p><p><strong>Cauliflower</strong></p><p><em>Dulce de Leche, Dill &amp; Walnut.&nbsp;</em></p><p><br></p><p><strong>Potato&nbsp;</strong></p><p><em>Chocolate, Bay Leaf, Thyme &amp; Orange&nbsp;</em></p><p><br></p><p><strong>Beetroot</strong></p><p><em>Caramel, Hazelnut &amp; Brownie.&nbsp;</em></p><p><br></p><p><strong>Terms and Conditions :</strong></p><ul><li>The management is not responsible for any injury or damage that may occur during an event.</li><li><strong>No food presences and allergies can be accommodated for this meal.</strong></li><li>Do not purchase tickets from anyone other than on the ticketing platform.</li><li>No-shows and cancellations are non-refundable by all means.</li><li>Tickets are non-transferable and are for personal use only.</li><li>Children aged 7 and above will require a ticket to attend the meal. Children under 7 years old are not permitted</li><li>The schedule is subject to change in case of an emergency or any event out of our control.</li><li>Management will entertain No liability or claims arising due to the consumption or intake of any food or drink.</li><li>Parking near the event premises is at the risk of the vehicle owner.</li><li>Paid Valet Parking at Rs. 200 per car.</li><li>The holder of this ticket grants organizers the right to use, in perpetuity, all or any part of the recording of any video or still footage made of the holder's appearance on any channel without any further approval.</li><li>Photographs and videos of ticket holders may be uploaded to social media. If you do not wish to be featured, let our team know.</li></ul><p><br></p><p class=\"ql-align-center\"><br></p>",
+        "slug": "chefs-ria-belliappa-karan-upmanyu",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "Set Menu"
+            },
+            {
+              "label": "What's not",
+              "text": "Wine\nParking"
+            }
+          ]
+        },
+        "spotapproved_id": 4144,
+        "start": "2024-06-16 19:00:00",
+        "start_timestamp": 1718544600,
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          9,
+          4,
+          6
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 9,
+            "name": "Great for big group",
+            "path": "who_is_it_for_tag/great_for_big_group.svg"
+          },
+          {
+            "id": 4,
+            "name": "Adults only",
+            "path": "who_is_it_for_tag/adults_only.svg"
+          },
+          {
+            "id": 6,
+            "name": "Good for couples",
+            "path": "who_is_it_for_tag/good_for_couples.svg"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+          "company_name": "Courtyard",
+          "company_phone": "+91-73386-77996",
+          "company_tag_line": "Home to  the Curious",
+          "guest_can_whatsapp": true,
+          "logo_path": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "micro_site_banner_path": "images/rgg3yxsbw9-17120534719147d0470132d8846088ac8f9a538a0a073jpeg.jpeg",
+          "slug": "courtyard",
+          "theme_color": "060606"
+        },
+        "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+        "approved": 4554,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>We are delighted to confirm your reservation for Double Trouble with Chefs Chefs Dina Weber &amp; Brehadeesh Kumar at The Conservatory, taking place as part of our 2-year anniversary celebration. If you have any further inquiries or special requests, please contact our dedicated event coordinator at 7338677996. Thank you once again for choosing to be a part of our community. We look forward to hosting you. You can find out more about upcoming events by joining our <a href=\"https://chat.whatsapp.com/G6j88wtm1ZgGJhutF4LRR8\" rel=\"noopener noreferrer\" target=\"_blank\">WhatsApp community</a>.</p><p><br></p><p>Team Conservatory</p>",
+        "can_be_booked_before": 12,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<p>No-shows and cancellations are non-refundable by all means.</p>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": "sales@thecourtyardcommunity.in",
+              "name": "Team Conservatory"
+            }
+          ],
+          "on_ground_contacts": [
+            {
+              "name": "Team Conseratory",
+              "phone": "+91-7338677996"
+            }
+          ],
+          "whatsapp_contact_for_guest": {
+            "name": "Team Conservatory",
+            "phone": "+917338677996"
+          }
+        },
+        "contributor": {
+          "age": null,
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "city": null,
+          "first_name": "Courtyard",
+          "gender": null,
+          "id": 10113,
+          "instagram": null,
+          "profile_picture": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "short_bio": ""
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [
+          8,
+          3,
+          4
+        ],
+        "display_tags_data": [
+          {
+            "id": 8,
+            "name": "Less than 3 hours",
+            "path": "display_tag_image/less_than_3_hrs.png"
+          },
+          {
+            "id": 3,
+            "name": "Our pick",
+            "path": "display_tag_image/our_pick.png"
+          },
+          {
+            "id": 4,
+            "name": "Local",
+            "path": "display_tag_image/local.png"
+          }
+        ],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-06-16 14:30:00",
+        "end_timestamp": 1718528400,
+        "explore_order": 1,
+        "genre_tags": [],
+        "genre_tags_data": [],
+        "google_map_link": "https://maps.google.com/?cid=15325971903082601795",
+        "google_place_id": "ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "4148",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "lat": "12.95843050000000000000",
+        "lat_lng": [
+          12.9584305,
+          77.59289509999999
+        ],
+        "lng": "77.59289509999999000000",
+        "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C153DA8E84054E048F05A6187A914B56_converted_webp.webp",
+            "id": 101860,
+            "multi_size": [],
+            "name": null,
+            "order": 0,
+            "path": "images/C153DA8E84054E048F05A6187A914B56_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C153DA8E84054E048F05A6187A914B56_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/C153DA8E84054E048F05A6187A914B56_converted_webp.webp",
+            "type": "Cover photo"
+          }
+        ],
+        "metadata": {},
+        "modified": "2024-05-30 22:27:39",
+        "modified_timestamp": 1717088259,
+        "must_see": false,
+        "name": "Chefs Dina Weber & Brehadeesh Kumar | Brunch | Double Trouble",
+        "notify_me": false,
+        "order": 4003,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "4800.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p><strong><u>Menu</u></strong></p><p><br></p><p><strong>Poor knight</strong></p><p>German milk soaked bun, usually made from stale bread, fried, served with apple relish</p><p><br></p><p><strong>Puffer</strong></p><p>Farmer and worker lunch that became winter street food, grated potato fritter, served with sour cream and anchovy&nbsp;</p><p><br></p><p><strong>Yakionigiri</strong></p><p>Staple Japanese working breakfast. Grilled ball of rice, stuffed with pork an caramelised onions and covered in nori</p><p><br></p><p><strong>Smoked salmon sashimi with Meerrettich&nbsp;</strong></p><p>Smoked salmon,Meerrettich (German white radish paste), potesara (German Japanese potato salad), Spargel (pickled asparagus)</p><p><br></p><p><strong>Maultasche and dashi&nbsp;</strong></p><p>Pork mince, wrapped in pasta sheet, mackerel bone dashi, black garlic oil m\u0101yu</p><p><br></p><p><strong>Aji fry and soba schwarzplentene</strong></p><p>South German buckwheat dumpling, shiso milk bechamel and panko fried horse mackerel</p><p><br></p><p><strong>Matcha Baumkuchen&nbsp;</strong></p><p>German crepe cake (symbolising annual rings of trees) with matcha and white chocolate, black current gel and yoghurt mousse&nbsp;</p><p><br></p><p><strong>Terms and Conditions : </strong></p><ul><li>The management is not responsible for any injury or damage that may occur during an event</li><li><strong>No food presences and allergies can be accommodated for this meal.</strong></li><li>Do not purchase tickets from anyone other than on the ticketing platform.</li><li>No-shows and cancellations are non-refundable by all means.</li><li>Tickets are non-transferable and are for personal use only.</li><li>Children aged 7 and above will require a ticket to attend the meal. Children under 7 years old are not permitted</li><li>The schedule is subject to change in case of an emergency or any event out of our control.</li><li>Management will entertain No liability or claims arising due to the consumption or intake of any food or drink.</li><li>Parking near the event premises is at the risk of the vehicle owner.</li><li>Paid Valet Parking at Rs. 200 per car.</li><li>The holder of this ticket grants organizers the right to use, in perpetuity, all or any part of the recording of any video or still footage made of the holder's appearance on any channel without any further approval.</li><li>Photographs and videos of ticket holders may be uploaded to social media. If you do not wish to be featured, let our team know.</li></ul><p><br></p>",
+        "slug": "chefs-dina-weber-brehadeesh-kumar",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "Set Menu"
+            },
+            {
+              "label": "What's not",
+              "text": "Wine\nParking"
+            }
+          ]
+        },
+        "spotapproved_id": 4148,
+        "start": "2024-06-16 12:00:00",
+        "start_timestamp": 1718519400,
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          9,
+          4,
+          6
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 9,
+            "name": "Great for big group",
+            "path": "who_is_it_for_tag/great_for_big_group.svg"
+          },
+          {
+            "id": 4,
+            "name": "Adults only",
+            "path": "who_is_it_for_tag/adults_only.svg"
+          },
+          {
+            "id": 6,
+            "name": "Good for couples",
+            "path": "who_is_it_for_tag/good_for_couples.svg"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
     }
   ],
-  "out_of": 2392,
+  "out_of": 2397,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
@@ -2475,5 +3494,5 @@
     "q": "*"
   },
   "search_cutoff": false,
-  "search_time_ms": 4
+  "search_time_ms": 5
 }
