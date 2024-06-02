@@ -1,6 +1,6 @@
 {
   "facet_counts": [],
-  "found": 13,
+  "found": 14,
   "hits": [
     {
       "document": {
@@ -2911,9 +2911,341 @@
       },
       "highlight": {},
       "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "Nestled in the heart of Yelahanka, Bengaluru, Oxalis hosts supper clubs that deliver a gastronomic experience for individuals with discerning palates. Our menu immerses you in the timeless flavours of modern European cuisine, where every bite is a seamless blend of tradition and innovation.",
+          "company_name": "Oxalis",
+          "company_phone": "+91-95355-19592",
+          "company_tag_line": "Modern European Fine-Dining",
+          "guest_can_whatsapp": true,
+          "logo_path": "images/DBA5B4C9F6F440BABA6B18A9E9EA5911_converted_webp.webp",
+          "micro_site_banner_path": "images/6D19269F969D46D591CB3F4678DE4BFC_converted_webp.webp",
+          "slug": "oxalis",
+          "theme_color": "321532"
+        },
+        "address": "F302, Doddaballapur Main Rd, Bengaluru, Karnataka 561203, India",
+        "approved": 4577,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>Thank you for booking your reservation at Oxalis. We look forward to have you dine with us.</p><p><br></p><p>For any queries, please contact Chef Clive Fernandes via phone or email.</p><p><br></p><p>We prefer calls over text messages.</p>",
+        "can_be_booked_before": 24,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<ol><li>No refunds once bookings are made.</li><li>Purchased bookings are transferable.</li></ol>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": "cliveroshan92@gmail.com",
+              "name": "Clive Fernandes"
+            }
+          ],
+          "on_ground_contacts": [
+            {
+              "name": "Clive Fernandes",
+              "phone": "+91-9535519592"
+            }
+          ],
+          "whatsapp_contact_for_guest": {
+            "name": "Clive Fernandes",
+            "phone": "+919535519592"
+          }
+        },
+        "contributor": {
+          "age": null,
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DBA5B4C9F6F440BABA6B18A9E9EA5911_converted_webp.webp",
+          "city": null,
+          "first_name": "Clive Fernandes",
+          "gender": null,
+          "id": 11054,
+          "instagram": null,
+          "profile_picture": "images/DBA5B4C9F6F440BABA6B18A9E9EA5911_converted_webp.webp",
+          "short_bio": "",
+          "slug": "clive-fernandes"
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [],
+        "display_tags_data": [],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-06-14 21:30:00",
+        "end_timestamp": 1718380800,
+        "explore_order": 1,
+        "genre_tags": [
+          2,
+          4,
+          7,
+          9,
+          12,
+          13
+        ],
+        "genre_tags_data": [
+          {
+            "id": 2,
+            "name": "Art & culture",
+            "path": "genre_tags/art_and_culture.png"
+          },
+          {
+            "id": 4,
+            "name": "Food & drink",
+            "path": "genre_tags/food_and_drink.png"
+          },
+          {
+            "id": 7,
+            "name": "Leisure",
+            "path": "genre_tags/leisure.png"
+          },
+          {
+            "id": 9,
+            "name": "Local",
+            "path": "genre_tags/local.png"
+          },
+          {
+            "id": 12,
+            "name": "Premium",
+            "path": "genre_tags/premium.png"
+          },
+          {
+            "id": 13,
+            "name": "Responsible",
+            "path": "genre_tags/responsible.png"
+          }
+        ],
+        "google_map_link": "https://maps.google.com/?cid=7110428289540930720",
+        "google_place_id": "ChIJewWtpKUYrjsRoLz5TttQrWI",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "4171",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "At the entrance, tell the security you're here for apartment B-04. If you have a vehicle, park at the B-04 parking spot or any other area directed by the security. Enter B-Block and take the elevator to the ground floor, and look for B-04.",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "is_slug_editable": false,
+        "lat": "13.13299660000000000000",
+        "lat_lng": [
+          13.1329966,
+          77.5703539
+        ],
+        "lng": "77.57035390000000000000",
+        "location": "SRID=4326;POINT (77.5703539 13.1329966)",
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3ECBF6BD2A83498EA877036F3279D36D_converted_webp.webp",
+            "id": 102357,
+            "multi_size": [],
+            "name": null,
+            "order": 0,
+            "path": "images/3ECBF6BD2A83498EA877036F3279D36D_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3ECBF6BD2A83498EA877036F3279D36D_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/3ECBF6BD2A83498EA877036F3279D36D_converted_webp.webp",
+            "type": "Cover photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7AC6FB07E25D4A06BF65BF7198AE911C_converted_webp.webp",
+            "id": 102358,
+            "multi_size": [],
+            "name": null,
+            "order": 1,
+            "path": "images/7AC6FB07E25D4A06BF65BF7198AE911C_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7AC6FB07E25D4A06BF65BF7198AE911C_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/7AC6FB07E25D4A06BF65BF7198AE911C_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4C5AEE2C4AB244F8AFA11776464FF013_converted_webp.webp",
+            "id": 102359,
+            "multi_size": [],
+            "name": null,
+            "order": 2,
+            "path": "images/4C5AEE2C4AB244F8AFA11776464FF013_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4C5AEE2C4AB244F8AFA11776464FF013_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/4C5AEE2C4AB244F8AFA11776464FF013_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7446322FB1CA4F0497C0D7756168F568_converted_webp.webp",
+            "id": 102360,
+            "multi_size": [],
+            "name": null,
+            "order": 3,
+            "path": "images/7446322FB1CA4F0497C0D7756168F568_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7446322FB1CA4F0497C0D7756168F568_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/7446322FB1CA4F0497C0D7756168F568_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/14146F6E81184284A6F2A99AAAED93AD_converted_webp.webp",
+            "id": 102361,
+            "multi_size": [],
+            "name": null,
+            "order": 4,
+            "path": "images/14146F6E81184284A6F2A99AAAED93AD_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/14146F6E81184284A6F2A99AAAED93AD_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/14146F6E81184284A6F2A99AAAED93AD_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D995889C49B0453F8BF218A99ADCC9E1_converted_webp.webp",
+            "id": 102362,
+            "multi_size": [],
+            "name": null,
+            "order": 5,
+            "path": "images/D995889C49B0453F8BF218A99ADCC9E1_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D995889C49B0453F8BF218A99ADCC9E1_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/D995889C49B0453F8BF218A99ADCC9E1_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C9E42DABF448464E9BC50BFF58B80C3C_converted_webp.webp",
+            "id": 102363,
+            "multi_size": [],
+            "name": null,
+            "order": 6,
+            "path": "images/C9E42DABF448464E9BC50BFF58B80C3C_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C9E42DABF448464E9BC50BFF58B80C3C_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/C9E42DABF448464E9BC50BFF58B80C3C_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FAC1D34C4BE54C4E97F19A1D8B2C5146_converted_webp.webp",
+            "id": 102364,
+            "multi_size": [],
+            "name": null,
+            "order": 7,
+            "path": "images/FAC1D34C4BE54C4E97F19A1D8B2C5146_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FAC1D34C4BE54C4E97F19A1D8B2C5146_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/FAC1D34C4BE54C4E97F19A1D8B2C5146_converted_webp.webp",
+            "type": "Photo"
+          }
+        ],
+        "metadata": {},
+        "modified": "2024-06-02 17:10:53",
+        "modified_timestamp": 1717328453,
+        "must_see": false,
+        "name": "Oxalis Fine Dining",
+        "notify_me": false,
+        "order": 4025,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "4000.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [
+            {
+              "input_type": "COUNTER",
+              "optional": false,
+              "question": "Number of vegetarians in the group",
+              "required": true
+            },
+            {
+              "input_type": "TEXT",
+              "optional": true,
+              "question": "Any food allergies?",
+              "required": true
+            },
+            {
+              "input_type": "TEXT",
+              "optional": true,
+              "question": "Any dietary restrictions",
+              "required": true
+            },
+            {
+              "input_type": "TEXT",
+              "optional": false,
+              "question": "Where did you hear about us?",
+              "required": true
+            }
+          ],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p>Experience a modern European feast curated by Michelin-trained chef Clive Fernandes in the comfort of a home setting. Seasonal ingredients shine in this unforgettable culinary soiree.</p>",
+        "slug": "oxalis-fine-dining-June24",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "Five-course chef's tasting menu\nWine service\nSmoking area (outdoor)\nBasement parking (2 spots on first-come-first-serve basis)\nOutdoor parking\nBYOB (this includes any liquor not part of wine service)\nPets"
+            },
+            {
+              "label": "What's not",
+              "text": "Pets\nIndoor smoking\nDaycare"
+            }
+          ]
+        },
+        "spotapproved_id": 4171,
+        "start": "2024-06-14 19:30:00",
+        "start_timestamp": 1718373600,
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          9,
+          11,
+          6
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 9,
+            "name": "Great For Groups",
+            "path": "who_is_it_tag/great_for_groups.png"
+          },
+          {
+            "id": 11,
+            "name": "Exclusive",
+            "path": "who_is_it_tag/exclusive.png"
+          },
+          {
+            "id": 6,
+            "name": "For Couples",
+            "path": "who_is_it_tag/for_couples.png"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
     }
   ],
-  "out_of": 2348,
+  "out_of": 2349,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
@@ -2921,5 +3253,5 @@
     "q": "*"
   },
   "search_cutoff": false,
-  "search_time_ms": 4
+  "search_time_ms": 5
 }
