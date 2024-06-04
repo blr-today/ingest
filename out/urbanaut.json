@@ -1,6 +1,6 @@
 {
   "facet_counts": [],
-  "found": 15,
+  "found": 16,
   "hits": [
     {
       "document": {
@@ -3477,9 +3477,263 @@
       },
       "highlight": {},
       "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "We are all about nourishing food and creating spaces for connection!",
+          "company_name": "Copper + Cloves",
+          "company_phone": "+91-97319-30303",
+          "company_tag_line": "Nourish and connect with C+C",
+          "guest_can_whatsapp": false,
+          "logo_path": "images/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+          "micro_site_banner_path": "images/akdysfsld0-171264231954920230402img3195rajkashyap11jpeg.JPEG",
+          "slug": "copperandcloves",
+          "theme_color": "d3b89d"
+        },
+        "address": "167, GROUND FLOOR BACK PORTION 2nd Stage, 2nd cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+        "approved": 4584,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>We look forward to welcoming you to the ultimate sundowners- starting with a sunset yoga class at our new studio, led by Julia. Please note the class will start at 6pm SHARP, please arrive by 5.45pm so we can start on time.</p><p><br></p><p>Following the class we'll have a round of zero-proof crafted cocktails by Sobriety Sips. Copper + Cloves will create a delicious nourishing spread for you to nibble on - the perfect sundowner evening that will leave you fresh for the weekend.</p><p><br></p><p>We'll finish by 8pm</p><p><br></p><p>Please note there is limited parking outside the building - if you do drive, you can park in nearby side streets towards BIC. If parking, please be mindful of driveways and be courteous to our neighbours. Where possible please do grab a ride.</p><p><br></p><p>This is our exact location. Look out for the CHAKRA and KRUMBKRAFT signs- we share a building with them (we don't have signage yet). Come up to the 4th floor! </p><p><br></p><p>https://maps.app.goo.gl/6cFaG7uLZBgLo5bs6?g_st=com.google.maps.preview.copy</p><p><br></p>",
+        "can_be_booked_before": 12,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<p>Tickets are not refundable once purchased. </p>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": "sarah@copperandcloves.com",
+              "name": "Sarah"
+            }
+          ],
+          "on_ground_contacts": [
+            {
+              "name": "SARAH EDWARDS",
+              "phone": "+91-9731930303"
+            }
+          ],
+          "whatsapp_contact_for_guest": {
+            "name": "SARAH EDWARDS",
+            "phone": "+919731930303"
+          }
+        },
+        "contributor": {
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+          "city": "Bangalore",
+          "first_name": "Copper + Cloves",
+          "gender": "Male",
+          "id": 10595,
+          "profile_picture": "images/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+          "short_bio": "",
+          "slug": "copper-cloves"
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [],
+        "display_tags_data": [],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-06-07 20:00:00",
+        "end_timestamp": 1717770600,
+        "explore_order": 1,
+        "genre_tags": [
+          1,
+          4,
+          16
+        ],
+        "genre_tags_data": [
+          {
+            "id": 1,
+            "name": "Active",
+            "path": "genre_tags/active.png"
+          },
+          {
+            "id": 4,
+            "name": "Food & drink",
+            "path": "genre_tags/food_and_drink.png"
+          },
+          {
+            "id": 16,
+            "name": "Wellness",
+            "path": "genre_tags/wellness.png"
+          }
+        ],
+        "google_map_link": "https://maps.google.com/?cid=14633051185098965207",
+        "google_place_id": "ChIJ4bJV-CMVrjsR18DuC4YKE8s",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "4177",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "4th FLOOR, look for the Chakra/krumbkraft we're in the same building",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "is_slug_editable": false,
+        "lat": "12.96394760000000000000",
+        "lat_lng": [
+          12.9639476,
+          77.63833199999999
+        ],
+        "lng": "77.63833199999999000000",
+        "location": "SRID=4326;POINT (77.63833199999999 12.9639476)",
+        "marketing_tag_data": null,
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B5755B9B19E749AAB690352752AB695D_converted_webp.webp",
+            "id": 102651,
+            "multi_size": [],
+            "order": 0,
+            "path": "images/B5755B9B19E749AAB690352752AB695D_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B5755B9B19E749AAB690352752AB695D_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/B5755B9B19E749AAB690352752AB695D_converted_webp.webp",
+            "type": "Cover photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BF384EE9F429444481214CC1136BDE09_converted_webp.webp",
+            "id": 102652,
+            "multi_size": [],
+            "order": 1,
+            "path": "images/BF384EE9F429444481214CC1136BDE09_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BF384EE9F429444481214CC1136BDE09_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/BF384EE9F429444481214CC1136BDE09_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/01433A4216E54779BFC99B3EE1087E26_converted_webp.webp",
+            "id": 102653,
+            "multi_size": [],
+            "order": 2,
+            "path": "images/01433A4216E54779BFC99B3EE1087E26_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/01433A4216E54779BFC99B3EE1087E26_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/01433A4216E54779BFC99B3EE1087E26_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2CC212C910064E5EA171F7D263301284_converted_webp.webp",
+            "id": 102654,
+            "multi_size": [],
+            "order": 3,
+            "path": "images/2CC212C910064E5EA171F7D263301284_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2CC212C910064E5EA171F7D263301284_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/2CC212C910064E5EA171F7D263301284_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/59F29BA784D14EEDB33E92FAE834002D_converted_webp.webp",
+            "id": 102655,
+            "multi_size": [],
+            "order": 4,
+            "path": "images/59F29BA784D14EEDB33E92FAE834002D_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/59F29BA784D14EEDB33E92FAE834002D_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/59F29BA784D14EEDB33E92FAE834002D_converted_webp.webp",
+            "type": "Photo"
+          }
+        ],
+        "metadata": {},
+        "modified": "2024-06-04 17:30:09",
+        "modified_timestamp": 1717502409,
+        "must_see": false,
+        "name": "Yoga + Sundowners with Sobriety Sips",
+        "notify_me": false,
+        "order": 4031,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "1300.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [
+            {
+              "input_type": "TEXT",
+              "optional": true,
+              "question": "Any food allergies?",
+              "required": true
+            }
+          ],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p>Join us for a wonderful evening- starting with a sunset yoga class at our new studio, led by Julia.</p><p><br></p><p>Following the class we'll have a round of zero-proof crafted cocktails by Sobriety Sips.</p><p><br></p><p>Copper + Cloves will create a delicious nourishing spread for you - the perfect place to meet new people on the sober journey - the perfect sundowner evening that will leave you fresh for the weekend.</p>",
+        "slug": "yoga-sundowners-with-sobriety-sips",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "60 minute vinyasa flow class\nzero-proof sundowers (cocktails) by Sobriety Sips \nNourishing nibbles by Copper + Cloves"
+            },
+            {
+              "label": "What's not",
+              "text": "Please bring a water bottle\nPlease bring a yoga mat if you have one\nValet (we DO NOT have valet and there is limited parking- best to take a cab!)"
+            }
+          ]
+        },
+        "spotapproved_id": 4177,
+        "start": "2024-06-07 18:00:00",
+        "start_timestamp": 1717763400,
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          3,
+          4,
+          7
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 3,
+            "name": "Beginner-Friendly",
+            "path": "who_is_it_tag/beginner_friendly.png"
+          },
+          {
+            "id": 4,
+            "name": "Adults Only",
+            "path": "who_is_it_tag/adults_only.png"
+          },
+          {
+            "id": 7,
+            "name": "Solo-Friendly",
+            "path": "who_is_it_tag/solo_friendly.png"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
     }
   ],
-  "out_of": 2353,
+  "out_of": 2354,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
@@ -3487,5 +3741,5 @@
     "q": "*"
   },
   "search_cutoff": false,
-  "search_time_ms": 5
+  "search_time_ms": 6
 }
