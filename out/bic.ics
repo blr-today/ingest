@@ -9,7 +9,7 @@ X-WR-CALDESC:Events for Bangalore International Centre
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240608T183000
 DTEND;TZID=Asia/Kolkata:20240608T200000
-DTSTAMP:20240606T124457
+DTSTAMP:20240606T183046
 CREATED:20240530T082105Z
 LAST-MODIFIED:20240530T120331Z
 UID:59878-1717871400-1717876800@bangaloreinternationalcentre.org
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240609T113000
 DTEND;TZID=Asia/Kolkata:20240609T130000
-DTSTAMP:20240606T124457
+DTSTAMP:20240606T183046
 CREATED:20240603T115545Z
 LAST-MODIFIED:20240603T135000Z
 UID:60040-1717932600-1717938000@bangaloreinternationalcentre.org
@@ -37,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240610T183000
 DTEND;TZID=Asia/Kolkata:20240610T200000
-DTSTAMP:20240606T124457
+DTSTAMP:20240606T183046
 CREATED:20240527T072155Z
 LAST-MODIFIED:20240527T094611Z
 UID:59779-1718044200-1718049600@bangaloreinternationalcentre.org
@@ -51,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240611T183000
 DTEND;TZID=Asia/Kolkata:20240611T200000
-DTSTAMP:20240606T124457
+DTSTAMP:20240606T183046
 CREATED:20240402T120822Z
 LAST-MODIFIED:20240406T063917Z
 UID:57588-1718130600-1718136000@bangaloreinternationalcentre.org
@@ -65,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240612T183000
 DTEND;TZID=Asia/Kolkata:20240612T200000
-DTSTAMP:20240606T124457
+DTSTAMP:20240606T183046
 CREATED:20240527T150113Z
 LAST-MODIFIED:20240527T150113Z
 UID:59792-1718217000-1718222400@bangaloreinternationalcentre.org
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240612T190000
 DTEND;TZID=Asia/Kolkata:20240612T203000
-DTSTAMP:20240606T124457
+DTSTAMP:20240606T183046
 CREATED:20240531T063058Z
 LAST-MODIFIED:20240531T110034Z
 UID:57381-1718218800-1718224200@bangaloreinternationalcentre.org
@@ -93,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240613T183000
 DTEND;TZID=Asia/Kolkata:20240613T200000
-DTSTAMP:20240606T124457
+DTSTAMP:20240606T183046
 CREATED:20240527T124747Z
 LAST-MODIFIED:20240604T093412Z
 UID:59251-1718303400-1718308800@bangaloreinternationalcentre.org
@@ -107,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240613T183000
 DTEND;TZID=Asia/Kolkata:20240613T204500
-DTSTAMP:20240606T124457
+DTSTAMP:20240606T183046
 CREATED:20240603T115716Z
 LAST-MODIFIED:20240603T130203Z
 UID:59966-1718303400-1718311500@bangaloreinternationalcentre.org
@@ -121,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240614
 DTEND;VALUE=DATE:20240617
-DTSTAMP:20240606T124457
+DTSTAMP:20240606T183046
 CREATED:20240606T093620Z
 LAST-MODIFIED:20240606T121125Z
 UID:60110-1718323200-1718582399@bangaloreinternationalcentre.org
@@ -135,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240614T190000
 DTEND;TZID=Asia/Kolkata:20240614T203000
-DTSTAMP:20240606T124457
+DTSTAMP:20240606T183046
 CREATED:20240606T060746Z
 LAST-MODIFIED:20240606T115537Z
 UID:60125-1718391600-1718397000@bangaloreinternationalcentre.org
@@ -149,7 +149,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240615T100000
 DTEND;TZID=Asia/Kolkata:20240615T130000
-DTSTAMP:20240606T124457
+DTSTAMP:20240606T183046
 CREATED:20240606T120421Z
 LAST-MODIFIED:20240606T120421Z
 UID:59977-1718445600-1718456400@bangaloreinternationalcentre.org
@@ -161,14 +161,28 @@ CATEGORIES:Books,Education,Law,Technology,Workshops
 ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy-13_POSTER.jpg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240615T183000
+DTEND;TZID=Asia/Kolkata:20240615T194500
+DTSTAMP:20240606T183046
+CREATED:20240606T155304Z
+LAST-MODIFIED:20240606T174201Z
+UID:60141-1718476200-1718480700@bangaloreinternationalcentre.org
+SUMMARY:Decolonising Wetness
+DESCRIPTION:We live in an all-consuming wetness that is everywhere in the air\, earth\, seas\, flora and fauna. It precipitates\, evaporates\, storms\, seeps\, soaks\, transpires\, osmotes\, condenses. We exist in this ‘Ocean’ as wet stuff ourselves\, our wetness necessary to our existence. However\, we are not educated to inhabit this Ocean. We are rather educated to inhabit an Earth with a surface of land served by water confined to a place behind a line. This surfaced Earth\, we suggest\, is the outcome of a design project intent on making an object that benefits a few at the cost of the many\, an object that serves science\, civilization and cities\, but also colonization and systemic oppression. Today\, this Earth is in trouble from climate change\, threatened (and violated) by the water it has sought to enslave. It faces sea level rise\, floods\, increasingly frequent\, violent and unpredictable storm events\, and the melting of ice caps. To us\, these are not problems to solve; they are calls to review a design project that has proved unjust\, unwise and disastrous. Does an Ocean of Wetness offer an alternative? \nJoin us as Prof. Dilip da Cunha lays out an alternative to interpret ‘landscapes’ as a gradient of wetness over the binary of ‘land’ and ‘water’. This talk will be followed by a Q&A session with the audience. \nIn collaboration with: \n \n
+URL:https://bangaloreinternationalcentre.org/event/decolonising-wetness/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Climate Change,Environment,Science,Sustainability
+ATTACH;FMTTYPE=image/png:https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-44.png
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240615T190000
 DTEND;TZID=Asia/Kolkata:20240615T203000
-DTSTAMP:20240606T124457
+DTSTAMP:20240606T183046
 CREATED:20240606T055606Z
-LAST-MODIFIED:20240606T092408Z
+LAST-MODIFIED:20240606T133444Z
 UID:59996-1718478000-1718483400@bangaloreinternationalcentre.org
 SUMMARY:Kārunya Sindhu | Ocean of Mercy
-DESCRIPTION:Karuna or Kārunya is one of the navarasā-s (nine emotions) of the Indian cultural pantheon\, embodying the highest form of unconditional compassion and mercy. \nSince time immemorial\, poets\, saints\, composers and bhakta-s (devotees) have performed sādhana (ardent practice of any pursuit) with a yearning for divine Karuna. When Narayana Bhattathiri wrote the magnus opus Narayaneeyam in the 16th century\, he said\, “Oh Krishna\, oh Kārunya Sindhu! May your feet\, where all the liberated souls reside\, always rest in my heart. Oh\, ocean of compassion\, destroy all my sorrows and confer an abundant flow of Supreme Bliss”. In the 19th Century\, Patnam Subramania Iyer composed a Kriti pleading Lord Venkatesha to forgive all his sins and bestow abundant Kripa (mercy) with no further delay. Even when we make a prayer today\, it is only natural for us to seek the Lord’s Karuna. It is also this very unconditional empathy that we have for one another that makes the world a beautiful place. \nThis concert through the evocative literature and music of composers like Tyagaraja\, Patnam Subramania Iyer\, the Dāsā-s and others\, hopes to invoke this Ocean of Mercy\, this Kārunya Sindhu. \nSupported by: \n \n
+DESCRIPTION:Karuna or Kārunya is one of the navarasā-s (nine emotions) of the Indian cultural pantheon\, embodying the highest form of unconditional compassion and mercy. \nSince time immemorial\, poets\, saints\, composers and bhakta-s (devotees) have performed sādhana (ardent practice of any pursuit) with a yearning for divine Karuna. When Narayana Bhattathiri wrote the magnum opus Narayaneeyam in the 16th century\, he said\, “Oh Krishna\, oh Kārunya Sindhu! May your feet\, where all the liberated souls reside\, always rest in my heart. Oh\, ocean of compassion\, destroy all my sorrows and confer an abundant flow of Supreme Bliss”. In the 19th Century\, Patnam Subramania Iyer composed a Kriti pleading Lord Venkatesha to forgive all his sins and bestow abundant Kripa (mercy) with no further delay. Even when we make a prayer today\, it is only natural for us to seek the Lord’s Karuna. It is also this very unconditional empathy that we have for one another that makes the world a beautiful place. \nThis concert through the evocative literature and music of composers like Tyagaraja\, Patnam Subramania Iyer\, the Dāsā-s and others\, hopes to invoke this Ocean of Mercy\, this Kārunya Sindhu. \nSupported by: \n \n
 URL:https://bangaloreinternationalcentre.org/event/karunya-sindhu-ocean-of-mercy/
 LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
 CATEGORIES:Music,Performing Arts
@@ -177,7 +191,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240618T183000
 DTEND;TZID=Asia/Kolkata:20240618T200000
-DTSTAMP:20240606T124457
+DTSTAMP:20240606T183046
 CREATED:20240524T114257Z
 LAST-MODIFIED:20240531T081806Z
 UID:59720-1718735400-1718740800@bangaloreinternationalcentre.org
@@ -191,7 +205,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240623T110000
 DTEND;TZID=Asia/Kolkata:20240623T120000
-DTSTAMP:20240606T124457
+DTSTAMP:20240606T183046
 CREATED:20240524T113912Z
 LAST-MODIFIED:20240603T083230Z
 UID:59737-1719140400-1719144000@bangaloreinternationalcentre.org
@@ -205,7 +219,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240625T190000
 DTEND;TZID=Asia/Kolkata:20240625T201500
-DTSTAMP:20240606T124457
+DTSTAMP:20240606T183046
 CREATED:20240527T072812Z
 LAST-MODIFIED:20240531T152144Z
 UID:59440-1719342000-1719346500@bangaloreinternationalcentre.org
