@@ -34,18 +34,18 @@
   {
     "@context": "http://schema.org",
     "@type": "Event",
-    "name": "The Future of Great Nicobar",
-    "startDate": "2024-06-12T18:30:00+05:30",
-    "endDate": "2024-06-12T20:00:00+05:30",
-    "description": "In The Great Nicobar Betrayal, Pankaj Sekhsaria, one of the best known chroniclers of contemporary issues in the Andaman and Nicobar Islands, has compiled a set of articles written by various experts across publications that examine the proposed project from every angle\u2014environmental, geological, impact on local communities, law, due process, and ecology. \nThese pieces together shed light on the magnitude of the disaster that will be unleashed on this pristine place if the project comes through.\u00a0The book is a warning and a catalogue of the manmade catastrophe that lurks on the horizon, one that will destroy more than the tsunami of December 2004 ever did. \nIn this session, Pankaj Sekhsaria is in conversation with\u00a0Prof. Lawrence Surendra and\u00a0Vaishna Roy. A Q&A with the audience will follow. \nIn collaboration with: \n \n",
+    "name": "Art as Activism",
+    "startDate": "2024-06-16T11:30:00+05:30",
+    "endDate": "2024-06-16T13:00:00+05:30",
+    "description": "Set in the context of the recent legal rulings in Bangalore that limit public protest to spaces such as Freedom Park, this session aims to explore alternative avenues for dissent by examining the intersection of law, art, and activism. \nThe discussion will begin with legal insights into the ramifications of the high court ruling and its impact on diverse communities followed by a foray into how art can be a potent tool for social change amidst restricted protest rights. \nThis session with Shilo Shiv Suleman, Mamta Sagar,\u00a0Vinay Sreenivasa and moderated by Divya Narayanan will seek to demonstrate how art can amplify voices, provoke thought, and catalyze change in the absence of traditional protest avenues, both offline and online. \n",
     "location": {
       "@type": "Place",
       "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
-    "url": "https://bangaloreinternationalcentre.org/event/the-future-of-great-nicobar/",
-    "keywords": "Books, Cities, Climate Change, Development, Environment, Nonfiction, Sustainability",
+    "url": "https://bangaloreinternationalcentre.org/event/art-as-activism/",
+    "keywords": "Bangalore, Cities, Politics, Society, Visual Arts",
     "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy_POSTER-30.jpg"
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-495.jpg"
   },
   {
     "@context": "http://schema.org",
@@ -86,6 +86,22 @@
   {
     "@context": "http://schema.org",
     "@type": "Event",
+    "name": "The Future of Great Nicobar",
+    "startDate": "2024-06-12T18:30:00+05:30",
+    "endDate": "2024-06-12T20:00:00+05:30",
+    "description": "In The Great Nicobar Betrayal, Pankaj Sekhsaria, one of the best known chroniclers of contemporary issues in the Andaman and Nicobar Islands, has compiled a set of articles written by various experts across publications that examine the proposed project from every angle\u2014environmental, geological, impact on local communities, law, due process, and ecology. \nThese pieces together shed light on the magnitude of the disaster that will be unleashed on this pristine place if the project comes through.\u00a0The book is a warning and a catalogue of the manmade catastrophe that lurks on the horizon, one that will destroy more than the tsunami of December 2004 ever did. \nIn this session, Pankaj Sekhsaria is in conversation with\u00a0Prof. Lawrence Surendra and\u00a0Vaishna Roy. A Q&A with the audience will follow. \nIn collaboration with: \n \n",
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "url": "https://bangaloreinternationalcentre.org/event/the-future-of-great-nicobar/",
+    "keywords": "Books, Cities, Climate Change, Development, Environment, Nonfiction, Sustainability",
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy_POSTER-30.jpg"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
     "name": "Mad and Divine",
     "startDate": "2024-06-14T19:00:00+05:30",
     "endDate": "2024-06-14T20:30:00+05:30",
@@ -101,18 +117,23 @@
   },
   {
     "@context": "http://schema.org",
-    "@type": "Event",
+    "@type": "ScreeningEvent",
     "name": "Pine Cone",
     "startDate": "2024-06-13T18:30:00+05:30",
     "endDate": "2024-06-13T20:45:00+05:30",
-    "description": "95 minutes | 2023 \nJoin us for a special Pride Month film screening of Pine Cone a moving and insightful film by director Onir. This multi-layered love story follows a gay man\u2019s journey through love, loss, and desire, navigating the complexities of life and relationships. \nThe screening of the film will be followed by a conversation with the director and an audience Q&A. \n",
+    "description": "2023 |\u00a095 minutes | Hindi with English Subtitles | India \nJoin us for a special Pride Month film screening of Pine Cone a moving and insightful film by director Onir. This multi-layered love story follows a gay man\u2019s journey through love, loss, and desire, navigating the complexities of life and relationships. \nThe screening of the film will be followed by a conversation with the director and an audience Q&A. \n",
     "location": {
       "@type": "Place",
       "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
     "url": "https://bangaloreinternationalcentre.org/event/pine-cone/",
     "keywords": "Film, Gender, Society",
-    "inLanguage": "en",
+    "inLanguage": "hi",
+    "workPresented": {
+      "@type": "Movie",
+      "name": "Pine Cone"
+    },
+    "subtitleLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-492.jpg"
   },
   {
