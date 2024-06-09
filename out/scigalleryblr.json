@@ -1,38 +1,6 @@
 [
   {
     "@type": "EducationEvent",
-    "name": "Inside the Wasp Nest: Understanding Insect Societies",
-    "location": "Science Gallery Bengaluru",
-    "startDate": "2024-06-09T16:00:00+05:30",
-    "description": "Many species of insects\u2014such as ants, bees, wasps, and termites\u2014organise themselves into societies, resembling and in some ways surpassing human societies. Can we understand these insect societies? Dive into ant-hills, wasp nests, and beehives by joining us for this talk by ecologist Raghavendra Gadagkar, who will share his research around the Indian paper wasp <i>Ropalidia marginata</i>. Learn about the observational and experimental methods used to study insects, discover contemporary research around these bugs, and judge how much we know of this often neglected society!",
-    "duration": "PT2H",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=inside-the-wasp-net",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Raghavendra Gadagkar"
-      }
-    ],
-    "maximumAttendeeCapacity": 150
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Inside the Wasp Nest: Understanding Insect Societies (Tutorial)",
-    "location": "Science Gallery Bengaluru",
-    "startDate": "2024-06-09T17:30:00+05:30",
-    "description": "Many species of insects\u2014such as ants, bees, wasps, and termites\u2014organise themselves into societies, resembling and in some ways surpassing human societies. Can we understand these insect societies? Dive into ant-hills, wasp nests, and beehives by joining us for this talk by ecologist Raghavendra Gadagkar, who will share his research around the Indian paper wasp Ropalidia marginata. Learn about the observational and experimental methods used to study insects, discover contemporary research around these bugs, and judge how much we know of this often neglected society!",
-    "duration": "PT1H",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=inside-the-wasp-net-tutorial",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Raghavendra Gadagkar"
-      }
-    ],
-    "maximumAttendeeCapacity": 50
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Tracing Materials: From Resource to Waste to Art",
     "location": "Science Gallery Bengaluru",
     "startDate": "2024-07-13T11:00:00+05:30",
@@ -66,5 +34,61 @@
       }
     ],
     "maximumAttendeeCapacity": 45
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Energy Transitions: Work, Labour, and Tradeoffs",
+    "location": "Science Gallery Bengaluru",
+    "startDate": "2024-06-15T11:00:00+05:30",
+    "description": "Join political scientist Rohit Chandra, social scientist Radhika Krishnan and physicist Shoibal Chakravarty to dive into the complexities of energy transition in India. This masterclass will be spread over two sessions, exploring the transition from fossil fuels to alternative sources. <br><br>Session 1<br><br>How do we understand energy transition dynamics through the lens of labour and work? What are the working conditions in coal-dependent regions of India? Where do these workers' lives intersect with local institutions? Join Radhika Krishnan and Rohit Chandra to think about some of the labour realities of the energy transition. Rooted in social science methods, this masterclass session will prompt you to consider the perspective of India's millions of energy-sector workers when thinking about energy transitions.<br><br><br>Session 2<br><br>How do we decide what energy technologies to use for the next half-century? What kinds of social, economic, and environmental factors need consideration when making such decisions? In this session, Shoibal Chakravarty and political scientist Rohit Chandra will unpack some of the pressing trade-offs in India's energy transition. This masterclass will explore trade-offs as varied as energy poverty, employment, public health and regional equity. By evaluating some of these trade-offs using economic and techno-economic methods, you can learn how to assess these trade-offs at different levels of magnification (individual, firm, state, country). ",
+    "duration": "PT6H",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=energy-transitions",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Rohit Chandra"
+      },
+      {
+        "@type": "Person",
+        "name": " Radhika Krishnan"
+      },
+      {
+        "@type": "Person",
+        "name": " Shoibal Chakravarty"
+      }
+    ],
+    "maximumAttendeeCapacity": 45
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Coal in India: Decarbonisation After Development",
+    "location": "Science Gallery Bengaluru",
+    "startDate": "2024-06-16T16:00:00+05:30",
+    "description": "Coal generates over 65% of India's power today, but it is also one of India's largest sources of greenhouse gas emissions. Why is India ambivalent in its approach to the coal industry? What does it have to do with the history of developmentalism in this country?<br><br>By examining the post-Independence history of the Indian coal industry, Rohit Chandra will discuss some of the complicated social, economic, and regional consequences of India's necessary trajectory of decarbonization. The lecture will also discuss some of the historical figures who have significantly influenced the industry's trajectory since Independence.",
+    "duration": "PT2H",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=coal-in-india",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Rohit Chandra"
+      }
+    ],
+    "maximumAttendeeCapacity": 150
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Coal in India: Decarbonisation After Development (Tutorial)",
+    "location": "Science Gallery Bengaluru",
+    "startDate": "2024-06-16T17:30:00+05:30",
+    "description": "Coal generates over 65% of India's power today, but it is also one of India's largest sources of greenhouse gas emissions. Why is India ambivalent in its approach to the coal industry? What does it have to do with the history of developmentalism in this country?<br><br>By examining the post-Independence history of the Indian coal industry, Rohit Chandra will discuss some of the complicated social, economic, and regional consequences of India's necessary trajectory of decarbonization. The lecture will also discuss some of the historical figures who have significantly influenced the industry's trajectory since Independence.",
+    "duration": "PT1H",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=coal-in-india-tutorial",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Rohit Chandra"
+      }
+    ],
+    "maximumAttendeeCapacity": 50
   }
 ]
