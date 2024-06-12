@@ -3366,7 +3366,7 @@
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0bwdghhgan-1711631329816beerbuddiesresizefinaljpg.jpg",
-            "id": 104637,
+            "id": 105063,
             "multi_size": [],
             "name": null,
             "order": 1,
@@ -3378,7 +3378,7 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/lksaskfyd9-1711631513337satadda123jpg.jpg",
-            "id": 104638,
+            "id": 105064,
             "multi_size": [],
             "name": null,
             "order": 2,
@@ -3390,8 +3390,8 @@
           }
         ],
         "metadata": {},
-        "modified": "2024-06-11 19:54:36",
-        "modified_timestamp": 1718115876,
+        "modified": "2024-06-12 14:51:17",
+        "modified_timestamp": 1718184077,
         "must_see": false,
         "name": "Friday Adda (Drinks & Conversations with Strangers)",
         "notify_me": false,
@@ -3412,13 +3412,13 @@
             {
               "input_type": "TEXT",
               "optional": true,
-              "question": "If you selected a spirit, your preferred mixer (water, soda, tonic, Coke/Sprite)",
+              "question": "Please select your drink preference (beer, rum, vodka, gin,whiskey, wine)",
               "required": true
             },
             {
               "input_type": "TEXT",
               "optional": true,
-              "question": "Please select your drink preference (beer, rum, vodka, gin,whiskey, wine)",
+              "question": "If you selected a spirit, your preferred mixer (water, soda, tonic, Coke/Sprite)",
               "required": true
             },
             {
@@ -3435,7 +3435,7 @@
             },
             {
               "input_type": "BOOL",
-              "optional": true,
+              "optional": false,
               "question": "I agree to my pictures being taken & posted on social media",
               "required": true
             }
@@ -3502,7 +3502,7 @@
           "slug": "twotablesclub",
           "theme_color": "001f3f"
         },
-        "address": "Indiranagar, Bengaluru, Karnataka, India",
+        "address": "Maratt Estate, Bannerghatta Rd, Dollar Layout, Phase 4, J. P. Nagar, Bengaluru, Karnataka 560076, India",
         "approved": 4604,
         "available_days": [
           0,
@@ -3581,8 +3581,8 @@
         "explore_order": 1,
         "genre_tags": [],
         "genre_tags_data": [],
-        "google_map_link": "https://maps.google.com/?q=Indiranagar,+Bengaluru,+Karnataka,+India&ftid=0x3bae16a418770391:0xb50f46b826501036",
-        "google_place_id": "ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+        "google_map_link": "https://maps.google.com/?cid=10751744768336185595",
+        "google_place_id": "ChIJE0YrafgVrjsR-8hX0ObeNZU",
         "has_end_timestamp": true,
         "has_u_plus_offer": false,
         "id": "4196",
@@ -3596,17 +3596,17 @@
         "is_renamed": false,
         "is_same_working_hours": false,
         "is_slug_editable": false,
-        "lat": "12.97836920000000000000",
+        "lat": "12.90578260000000000000",
         "lat_lng": [
-          12.9783692,
-          77.6408356
+          12.9057826,
+          77.6011616
         ],
-        "lng": "77.64083560000000000000",
-        "location": "SRID=4326;POINT (77.6408356 12.9783692)",
+        "lng": "77.60116160000000000000",
+        "location": "SRID=4326;POINT (77.6011616 12.9057826)",
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/cbkg7ipsul-1709532389154breakfasttablejpg.jpg",
-            "id": 104636,
+            "id": 105071,
             "multi_size": [],
             "name": null,
             "order": 1,
@@ -3618,8 +3618,8 @@
           }
         ],
         "metadata": {},
-        "modified": "2024-06-11 19:53:36",
-        "modified_timestamp": 1718115816,
+        "modified": "2024-06-12 15:26:31",
+        "modified_timestamp": 1718186191,
         "must_see": false,
         "name": "Introvert's Table",
         "notify_me": false,
@@ -3657,7 +3657,7 @@
             },
             {
               "input_type": "BOOL",
-              "optional": true,
+              "optional": false,
               "question": "I agree to my pictures being taken & posted on social media",
               "required": true
             }
@@ -3834,7 +3834,7 @@
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E4A8904732D4480AA013948FB2964844_converted_webp.webp",
-            "id": 104639,
+            "id": 105066,
             "multi_size": [],
             "name": null,
             "order": 1,
@@ -3846,7 +3846,7 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D90008A287974D92B309D98C3BE8AE91_converted_webp.webp",
-            "id": 104640,
+            "id": 105067,
             "multi_size": [],
             "name": null,
             "order": 2,
@@ -3858,7 +3858,7 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8F89F64BD30440168BAAAFFD7CD49807_converted_webp.webp",
-            "id": 104641,
+            "id": 105068,
             "multi_size": [],
             "name": null,
             "order": 3,
@@ -3870,8 +3870,8 @@
           }
         ],
         "metadata": {},
-        "modified": "2024-06-11 19:55:33",
-        "modified_timestamp": 1718115933,
+        "modified": "2024-06-12 14:52:19",
+        "modified_timestamp": 1718184139,
         "must_see": false,
         "name": "Bombay Style Breakfast with Strangers",
         "notify_me": false,
@@ -3903,7 +3903,7 @@
             },
             {
               "input_type": "BOOL",
-              "optional": true,
+              "optional": false,
               "question": "I agree to my pictures being taken & posted on social media",
               "required": true
             }
@@ -4214,6 +4214,7 @@
           "company_tag_line": "Dine with Strangers",
           "guest_can_whatsapp": true,
           "logo_path": "images/wysxdsvnko-1707810356440ttclogojpg.jpg",
+          "micro_site_banner_path": null,
           "slug": "twotablesclub",
           "theme_color": "001f3f"
         },
@@ -4265,9 +4266,13 @@
           }
         },
         "contributor": {
+          "age": null,
           "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/wysxdsvnko-1707810356440ttclogojpg.jpg",
+          "city": null,
           "first_name": "Sanj",
+          "gender": null,
           "id": 10424,
+          "instagram": null,
           "profile_picture": "images/wysxdsvnko-1707810356440ttclogojpg.jpg",
           "short_bio": "",
           "slug": "sanj"
@@ -4306,12 +4311,12 @@
         ],
         "lng": "77.61251510000000000000",
         "location": "SRID=4326;POINT (77.6125151 12.9716371)",
-        "marketing_tag_data": null,
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CD4678E374854444905298503ACB303C_converted_webp.webp",
-            "id": 104635,
+            "id": 105069,
             "multi_size": [],
+            "name": null,
             "order": 0,
             "path": "images/CD4678E374854444905298503ACB303C_converted_webp.webp",
             "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CD4678E374854444905298503ACB303C_converted_webp.webp",
@@ -4321,8 +4326,8 @@
           }
         ],
         "metadata": {},
-        "modified": "2024-06-11 19:52:44",
-        "modified_timestamp": 1718115764,
+        "modified": "2024-06-12 14:52:57",
+        "modified_timestamp": 1718184177,
         "must_see": false,
         "name": "Andhra-licious Biryani Table",
         "notify_me": false,
@@ -4354,7 +4359,7 @@
             },
             {
               "input_type": "BOOL",
-              "optional": true,
+              "optional": false,
               "question": "I agree to my pictures taken & shared on social media",
               "required": true
             }
