@@ -69,7 +69,6 @@ URL_FILES = [
     "out/highape.txt",
     "out/insider.txt",
     "out/mmb.txt",
-    "out/mello.txt",
     "out/skillboxes.txt",
     "out/creativemornings.txt",
     "out/together-buzz.txt"
