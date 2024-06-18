@@ -54,7 +54,6 @@ def main():
     with open("out/gullytours.json", "w") as f:
         json.dump(events, f, indent=2)
 
-# generates a valid schema.org/SocialEvent object
 def make_event(tour, description, trip):
     tz = timezone(timedelta(hours=5, minutes=30))
     start_time = datetime.fromisoformat(trip['starts_at']).replace(tzinfo=tz)

@@ -5,6 +5,7 @@ from w3lib.html import get_base_url
 import sqlite3
 from bs4 import BeautifulSoup
 import json
+import sys
 import os
 
 LANGUAGE_MAP = {
@@ -74,8 +75,10 @@ URL_FILES = [
     "out/together-buzz.txt"
 ]
 
-def get_local_events(files):
+def get_local_events(files, f):
     for i in files:
+        if f and i!=f:
+            continue
         patch = get_patch(i)
         if os.path.exists(i):
             with open(i, "r") as f:
@@ -88,8 +91,10 @@ def get_local_events(files):
         else:
             print(f"[ERROR] Missing {i}")
 
-def get_events(s):
+def get_events(s, f):
     for i in URL_FILES:
+        if f and i!=f:
+            continue
         with open(i, "r") as f:
             urls = f.readlines()
             for url in urls:
@@ -176,6 +181,9 @@ def create_events_table():
     conn.close()
 
 if __name__ == "__main__":
+    f = None
+    if len(sys.argv) > 1:
+        f = sys.argv[1]
     create_events_table()
     session = CachedSession(
         "event-fetcher-cache",
@@ -186,13 +194,13 @@ if __name__ == "__main__":
     )
     conn = sqlite3.connect('events.db')
     i = 0
-    for (url, d) in get_events(session):
+    for (url, d) in get_events(session, f):
         insert_event_json(conn, url, d)
         i+=1
         if i %10 == 0:
             conn.commit()
 
-    for (url, event) in get_local_events(EVENT_JSON_FILES):
+    for (url, event) in get_local_events(EVENT_JSON_FILES, f):
         insert_event_json(conn, url, event)
         print(url)
         i+=1

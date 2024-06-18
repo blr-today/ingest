@@ -41,7 +41,7 @@ def generate_calendar():
         for url in fetch_urls(month):
             # Skip over exhibits since they don't have a calendar anyway
             if "/map-events/" not in url:
-                next
+                continue
             response = session.get(url, headers={"User-Agent": USER_AGENT})
             if response.status_code == 200:
                 for e in Calendar(response.text).events:
