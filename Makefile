@@ -87,6 +87,9 @@ out/gullytours.json:
 out/creativemornings.txt:
 	python src/creativemornings.py | sort > out/creativemornings.txt
 
+out/together-buzz.txt:
+	python src/together-buzz.py | sort > out/together-buzz.txt
+
 all: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
@@ -108,7 +111,9 @@ all: out/allevents.txt \
  out/gullytours.json \
  out/townscript.txt \
  out/mello.txt \
- out/skillboxes.txt
+ out/skillboxes.txt \
+ out/together-buzz.txt \
+ out/creativemornings.txt
 	@echo "Done"
 
 db:
