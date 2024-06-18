@@ -42,31 +42,29 @@ def fetch_venn():
     events = []
     event_ids = set()
     for d in ['today', 'tomorrow', 'later']:
-        url = f"https://api.venn.buzz/public/events/{d}.json"
+        url = f"https://api.venn.buzz/user/social_experiences.json?filter={d}"
         connection = http.client.HTTPSConnection("api.venn.buzz")
         connection.request("GET", url)
         response = connection.getresponse()
         data = json.loads(response.read().decode('utf-8'))
-        try:
-            for event in data['data']['events']:
-                while True:
-                    # get hostname from the URL
-                    hostname = urllib.parse.urlparse(event['event_url']).hostname
-                    # if the hostname is a known shortener, expand the link
-                    if hostname in KNOWN_SHORTENERS:
-                        print("Expanding " + event['event_url'])
-                        event['event_url'] = expand_link(event['event_url'])
-                    else:
-                        break
-                event['event_url'] = cleanurl.cleanurl(event['event_url'], respect_semantics=True).url
+        for event in data['data']['events']:
+            while True:
+                # get hostname from the URL
+                hostname = urllib.parse.urlparse(event['shortened_link']).hostname
+                # if the hostname is a known shortener, expand the link
+                if hostname in KNOWN_SHORTENERS:
+                    print("Expanding " + event['shortened_link'])
+                    event['shortened_link'] = expand_link(event['shortened_link'])
+                else:
+                    break
+            event['url'] = cleanurl.cleanurl(event['shortened_link'], respect_semantics=True).url
 
-                for k in ['curation_order', 'curation_date', 'rsvp', 'available_tickets', 'older_curation']:
+            for k in ['curation', 'shortened_link', 'test_event', 'experience_id']:
+                if k in event:
                     del event[k]
-                if event['id'] not in event_ids:
-                    events.append(event)
-                    event_ids.add(event['id'])
-        except:
-            pass
+            if event['id'] not in event_ids:
+                events.append(event)
+                event_ids.add(event['id'])
     return sorted(events, key=lambda x: x['id'])
 
 # Write to venn.json
