@@ -74,9 +74,9 @@ URL_FILES = [
     "out/together-buzz.txt"
 ]
 
-def get_local_events(files, f):
+def get_local_events(files, filt):
     for i in files:
-        if f and i!=f:
+        if filt and i!=filt:
             continue
         patch = get_patch(i)
         if os.path.exists(i):
@@ -90,9 +90,9 @@ def get_local_events(files, f):
         else:
             print(f"[ERROR] Missing {i}")
 
-def get_events(s, f):
+def get_events(s, filt):
     for i in URL_FILES:
-        if f and i!=f:
+        if filt and i!=filt:
             continue
         with open(i, "r") as f:
             patch = get_patch(i)
