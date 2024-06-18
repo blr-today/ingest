@@ -84,6 +84,9 @@ out/bluetokai.json:
 out/gullytours.json:
 	python src/gullytours.py ||  true
 
+out/creativemornings.txt:
+	python src/creativemornings.py | sort > out/creativemornings.txt
+
 all: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
