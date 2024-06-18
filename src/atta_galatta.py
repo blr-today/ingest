@@ -1,20 +1,24 @@
-import http.client
 import datetime
+import time
 from lxml import html
 import json
-import http.client
+from requests_cache import CachedSession
 import datefinder
+import extruct
+import requests
+import cloudscraper
 
-def make_request(url):
-    parsed_url = url.split("://")[1]
-    host, path = parsed_url.split("/")
-    conn = http.client.HTTPSConnection(host)
-    conn.request("GET", path, headers={
-        "accept": "*/*",
-        "user-agent": "gardencitybot/0.0.1"
-    })
-    response = conn.getresponse()
-    return response.status, response.read().decode("utf-8")
+HEADERS = {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+}
+session = CachedSession(
+    "event-fetcher-cache",
+    expire_after=datetime.timedelta(days=1),
+    stale_if_error=True,
+    use_cache_dir=True,
+    cache_control=False,
+)
+scraper = cloudscraper.create_scraper()
 
 def apply_xpath(html_content, xpath_selector):
     tree = html.fromstring(html_content)
@@ -22,9 +26,9 @@ def apply_xpath(html_content, xpath_selector):
 
 def fetch_events():
     url = "https://linktr.ee/atta_galatta"
-    status_code, content = make_request(url)
+    r = session.get(url)
     xpath_selector = '//a[@rel="noopener" and @target="_blank" and not(@data-testid="SocialIcon")]'
-    filtered_links = apply_xpath(content, xpath_selector)
+    filtered_links = apply_xpath(r.text, xpath_selector)
 
     events = []
     for link in filtered_links:
@@ -35,15 +39,33 @@ def fetch_events():
         if dates:
             date = dates[-1][0]
             idx = dates[-1][1][0]
+            startdate = dates[-1][0].replace(tzinfo=tz)
             events.append({
-                "title": title[0:idx],
-                "starttime": dates[-1][0].replace(tzinfo=tz).isoformat(),
+                "name": title[0:idx],
+                "startDate": startdate.isoformat(),
+                "endDate": (startdate+datetime.timedelta(hours=2)).isoformat(),
                 'url': link.attrib['href']
             })
 
     return events
 
+def reformat_events():
+    events = []
+    for e in fetch_events():
+        insert = False
+        r = scraper.get(e['url'])
+        data = extruct.extract(r.text, base_url=e['url'], syntaxes=["json-ld"])
+        time.sleep(2)
+        for x in data["json-ld"]:
+            if x.get('@type') == "Event":
+                events.append(x)
+                insert = True
+                break
+        if not insert:
+            events.append(e)
+
+    return events
+
 if __name__ == "__main__":
-    # write to atta_galatta.json
     with open("out/atta_galatta.json", "w") as f:
-        json.dump(fetch_events(), f, indent=2)
+        json.dump(reformat_events(), f, indent=2)
