@@ -19,7 +19,7 @@ def fetch_urls(month):
     payload = {
       "action": "load_homepage_posts",
       "filterWhen[]": "2024-06",
-      "filterWhere[]": ["map-bengaluru", "offsite"],
+      "filterWhere[]": ["map-bengaluru", "offsite"], # TODO: Keep an eye out for offsite events and update location
       "setBeyond6Months": "false"
     }
     headers = {

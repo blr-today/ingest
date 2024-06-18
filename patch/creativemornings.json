@@ -1,0 +1,10 @@
+{
+	"@context": "http://schema.org",
+    "@type": "Event",
+    "organizer": {
+    	"@type": "Organization",
+    	"name": "Creative Mornings"
+	},
+	"eventAttendanceMode": "offline",
+	"eventStatus": "EventScheduled"
+}

@@ -1,0 +1,10 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "organizer": {
+        "@type": "Organization",
+        "name": "Together Buzz"
+    },
+    "eventAttendanceMode": "offline",
+    "eventStatus": "EventScheduled"
+}

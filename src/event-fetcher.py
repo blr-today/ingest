@@ -96,6 +96,7 @@ def get_events(s, f):
         if f and i!=f:
             continue
         with open(i, "r") as f:
+            patch = get_patch(i)
             urls = f.readlines()
             for url in urls:
                 url = url.strip()
@@ -152,7 +153,11 @@ def get_events(s, f):
                                 m[1]['typicalAgeRange'] = m[1]['typicalAgeRange']['language']
                         except:
                             pass
-                        yield m
+                        if patch:
+                            patch.update(m[1])
+                            yield (m[0], patch)
+                        else:
+                            yield m
                     else:
                         print(f"Could not find event in {url}")
 
