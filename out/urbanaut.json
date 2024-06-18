@@ -1274,6 +1274,7 @@
           "company_tag_line": "Home to  the Curious",
           "guest_can_whatsapp": true,
           "logo_path": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "micro_site_banner_path": null,
           "slug": "courtyard",
           "theme_color": "060606"
         },
@@ -1321,9 +1322,13 @@
           }
         },
         "contributor": {
+          "age": null,
           "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "city": null,
           "first_name": "Courtyard",
+          "gender": null,
           "id": 10113,
+          "instagram": null,
           "profile_picture": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
           "short_bio": "",
           "slug": "courtyard"
@@ -1382,12 +1387,12 @@
         ],
         "lng": "77.59289509999999000000",
         "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
-        "marketing_tag_data": null,
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7F31D682C2F74B9CAFC24777D0B43B50_converted_webp.webp",
             "id": 106839,
             "multi_size": [],
+            "name": null,
             "order": 0,
             "path": "images/7F31D682C2F74B9CAFC24777D0B43B50_converted_webp.webp",
             "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7F31D682C2F74B9CAFC24777D0B43B50_converted_webp.webp",
@@ -2319,7 +2324,7 @@
       "highlights": []
     }
   ],
-  "out_of": 2394,
+  "out_of": 2396,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
@@ -2327,5 +2332,5 @@
     "q": "*"
   },
   "search_cutoff": false,
-  "search_time_ms": 3
+  "search_time_ms": 4
 }
