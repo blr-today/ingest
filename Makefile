@@ -108,7 +108,6 @@ all: out/allevents.txt \
  out/zomato.json \
  out/urbanaut.json \
  out/champaca.json \
- out/atta_galatta.json \
  out/bic.json \
  out/sumukha.json \
  out/sofar.json \
