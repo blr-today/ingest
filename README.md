@@ -13,18 +13,21 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | Bhaago India                   | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | Carbon Science Gallery         | ✔️      | ✔️     | ✔️           |                                                                                                           |
 | Max Mueller Bhavan             | ✔️      | ✔️     | ✔️          |                                                                                                           |
-| https://events.venn.buzz/      | ✔️      | ✔️     | ❌           |                                                                                                           |
-| https://linktr.ee/atta_galatta | ✔️      | ✔️     | ❌           |                                                                                                           |
+| Venn                           | ✔️      | ✔️     | ❌           |                                                                                                           |
+| Atta Gallata                   | ✔️      | ✔️     | ❌           |                                                                                                           |
 | Zomato                         | ✔️      | ✔️     | ❌           |                                                                                                           |
 | Champaca                       | ✔️      | ✔️     | ✔️           |                                                                                                           |
-| [Visvesvaraya Museum][vism].   | ❌      | ❌     | ❌           | OCR                                                                                                       |
-| [NGMA][ngma]                   | ❌      | ❌     | ❌           | OCR The [older website calender](http://www.ngmaindia.gov.in/ngma_bangaluru_calendar.asp) is not updated. |
 | [Sofar][sofar]                 | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | [Sumukha gallery][sumukha]     | ✔️      | ✔️     | ✔️          | 
 | [Townscript][ts]			     | ✔️      | ✔️     | ✔️          | Lahe Lahe, Broke Bibliophiles, Foodwize. Suggestions welcome for more events that use TownScript
 | [Blue Tokai][bt]			     | ✔️      | ✔️     | ✔️          | Some location guesswork
 | [Gully Tours][gt]			     | ✔️      | ✔️     | ✔️          |  Sticker Price used, child pricing ignored
 | [Tonight.is][tonight]          | ✔️      | ✔️     | ❌          | Only parties, regulars ignored for now.
+| Together.buzz                  | ✔️      | ✔️     | ✔️          | 
+| Creative Mornings BLR          | ✔️      | ✔️     | ✔️          | 
+| Sisters in Sweat               | 🚧      | ❌     | ❌    |
+| [Visvesvaraya Museum][vism].   | ❌      | ❌     | ❌           | OCR                                                                                                       |
+| [NGMA][ngma]                   | ❌      | ❌     | ❌           | OCR The [older website calender](http://www.ngmaindia.gov.in/ngma_bangaluru_calendar.asp) is not updated. |
 
 # WIP
 

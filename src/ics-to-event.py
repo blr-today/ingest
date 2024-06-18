@@ -35,13 +35,17 @@ def convert_ics_to_json(ics_file_path):
             "startDate": event.begin.isoformat(),
             "endDate": event.end.isoformat(),
             "description": event.description,
-            "location": {
+            "url": event.url
+        }
+
+        if len(event.categories) > 0:
+            event_json['keywords'] = ", ".join(sorted(event.categories)),
+
+        if event.location:
+            event_json['location'] = {
                 "@type": "Place",
                 "name": event.location
-            },
-            "url": event.url,
-            "keywords": ", ".join(sorted(event.categories)),
-        }
+            }
 
         for l in LANGUAGE_MAP:
             regex = r"\b" + l + r"\b"
@@ -90,7 +94,7 @@ def convert_ics_to_json(ics_file_path):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python script.py input_ics_file output_json_file")
+        print("Usage: python ics-to-event.py input_ics_file output_json_file")
         sys.exit(1)
 
     input_ics_file = sys.argv[1]

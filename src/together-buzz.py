@@ -1,6 +1,5 @@
 import extruct
 from requests_cache import CachedSession
-from bs4 import BeautifulSoup
 from datetime import timedelta,date,datetime
 import json
 

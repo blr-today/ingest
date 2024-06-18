@@ -32,6 +32,7 @@ out/highape.txt:
 
 out/mapindia.json:
 	python src/mapindia.py
+	python src/ics-to-event.py out/mapindia.ics out/mapindia.json
 
 out/bengalurusustainabilityforum.json:
 	curl --silent --request GET \
@@ -89,6 +90,10 @@ out/creativemornings.txt:
 
 out/together-buzz.txt:
 	python src/together-buzz.py | sort > out/together-buzz.txt
+
+# TODO
+# out/sis.txt:
+# 	python src/sis.py | sort > out/sis.txt
 
 all: out/allevents.txt \
  out/highape.txt \
