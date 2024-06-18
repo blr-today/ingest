@@ -103,6 +103,9 @@ def get_events(s):
                     if meta:
                         keywords = meta["content"]
 
+                    if len(r.text) == 0:
+                        break
+
                     data = extruct.extract(
                         r.text, base_url=base_url, syntaxes=["json-ld"]
                     )
