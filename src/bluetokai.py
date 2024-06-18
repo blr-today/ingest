@@ -83,7 +83,7 @@ HEADERS = {
 
 def fetch_html():
     conn = http.client.HTTPSConnection("bluetokaicoffee.com")
-    conn.request("GET", "/pages/events-new", headers=HEADERS)
+    conn.request("GET", "/pages/coffee-workshop-events", headers=HEADERS)
     return conn.getresponse().read()
 
 
