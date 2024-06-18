@@ -1,6 +1,6 @@
 {
   "facet_counts": [],
-  "found": 11,
+  "found": 12,
   "hits": [
     {
       "document": {
@@ -1614,7 +1614,7 @@
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/015BC8F4880B4D0398805B5853CD40FB_converted_webp.webp",
-            "id": 106806,
+            "id": 107221,
             "multi_size": [],
             "name": null,
             "order": 0,
@@ -1626,8 +1626,8 @@
           }
         ],
         "metadata": {},
-        "modified": "2024-06-17 16:04:48",
-        "modified_timestamp": 1718620488,
+        "modified": "2024-06-18 16:18:15",
+        "modified_timestamp": 1718707695,
         "must_see": false,
         "name": "Mother of All Bake Sales",
         "notify_me": false,
@@ -1649,7 +1649,7 @@
           "default_section": [
             {
               "label": "What's included",
-              "text": "Access to the event"
+              "text": "Access to the event. Entry only"
             },
             {
               "label": "What's not",
@@ -2322,9 +2322,268 @@
       },
       "highlight": {},
       "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "We are all about nourishing food and creating spaces for connection!",
+          "company_name": "Copper + Cloves",
+          "company_phone": "+91-97319-30303",
+          "company_tag_line": "Nourish and connect with C+C",
+          "guest_can_whatsapp": false,
+          "logo_path": "images/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+          "micro_site_banner_path": "images/akdysfsld0-171264231954920230402img3195rajkashyap11jpeg.JPEG",
+          "slug": "copperandcloves",
+          "theme_color": "d3b89d"
+        },
+        "address": "167, GROUND FLOOR BACK PORTION 2nd Stage, 2nd cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+        "approved": 4649,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>Thank you for signing up to the Rose Full Moon Yin Yoga.  All we ask is for you to bring your own mats, water bottles and towels.  </p><p><br></p><p>Please note : There is very limited parking around our location, we would request you to call for a cab if possible. </p>",
+        "can_be_booked_before": 5,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<p>Please be informed that this ticket is not refundable.</p>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "name": "yoshitha@copperandcloves.com"
+            }
+          ],
+          "on_ground_contacts": [
+            {
+              "name": "Akshaya",
+              "phone": "+91-9008426703"
+            }
+          ],
+          "whatsapp_contact_for_guest": {
+            "name": "Akshaya",
+            "phone": "+919008426703"
+          }
+        },
+        "contributor": {
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+          "city": "Bangalore",
+          "first_name": "Copper + Cloves",
+          "gender": "Male",
+          "id": 10595,
+          "profile_picture": "images/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+          "short_bio": "",
+          "slug": "copper-cloves"
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [],
+        "display_tags_data": [],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-06-21 20:30:00",
+        "end_timestamp": 1718982000,
+        "explore_order": 1,
+        "genre_tags": [
+          1,
+          12,
+          16,
+          17
+        ],
+        "genre_tags_data": [
+          {
+            "id": 1,
+            "name": "Active",
+            "path": "genre_tags/active.png"
+          },
+          {
+            "id": 12,
+            "name": "Premium",
+            "path": "genre_tags/premium.png"
+          },
+          {
+            "id": 16,
+            "name": "Wellness",
+            "path": "genre_tags/wellness.png"
+          },
+          {
+            "id": 17,
+            "name": "Workshop",
+            "path": "genre_tags/workshop.png"
+          }
+        ],
+        "google_map_link": "https://maps.google.com/?cid=14633051185098965207",
+        "google_place_id": "ChIJ4bJV-CMVrjsR18DuC4YKE8s",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "4241",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "Look for the CHAKRA sign- it\u2019s the same building, up on the 4th floor.",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "is_slug_editable": false,
+        "lat": "12.96394760000000000000",
+        "lat_lng": [
+          12.9639476,
+          77.63833199999999
+        ],
+        "lng": "77.63833199999999000000",
+        "location": "SRID=4326;POINT (77.63833199999999 12.9639476)",
+        "marketing_tag_data": null,
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AC326E86B9584D34BBF3EA0574117BAB_converted_webp.webp",
+            "id": 107272,
+            "multi_size": [],
+            "order": 0,
+            "path": "images/AC326E86B9584D34BBF3EA0574117BAB_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AC326E86B9584D34BBF3EA0574117BAB_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/AC326E86B9584D34BBF3EA0574117BAB_converted_webp.webp",
+            "type": "Cover photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FC34C4A3D2B545B28FB9C8510B441838_converted_webp.webp",
+            "id": 107273,
+            "multi_size": [],
+            "order": 1,
+            "path": "images/FC34C4A3D2B545B28FB9C8510B441838_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FC34C4A3D2B545B28FB9C8510B441838_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/FC34C4A3D2B545B28FB9C8510B441838_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/55E6E82C2C074DD2AF7485E1629175C6_converted_webp.webp",
+            "id": 107274,
+            "multi_size": [],
+            "order": 2,
+            "path": "images/55E6E82C2C074DD2AF7485E1629175C6_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/55E6E82C2C074DD2AF7485E1629175C6_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/55E6E82C2C074DD2AF7485E1629175C6_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/53867975B3B9416A8950252300D9A5E2_converted_webp.webp",
+            "id": 107275,
+            "multi_size": [],
+            "order": 3,
+            "path": "images/53867975B3B9416A8950252300D9A5E2_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/53867975B3B9416A8950252300D9A5E2_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/53867975B3B9416A8950252300D9A5E2_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C6E9830FC3E449809F301404FCF99586_converted_webp.webp",
+            "id": 107276,
+            "multi_size": [],
+            "order": 4,
+            "path": "images/C6E9830FC3E449809F301404FCF99586_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C6E9830FC3E449809F301404FCF99586_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/C6E9830FC3E449809F301404FCF99586_converted_webp.webp",
+            "type": "Photo"
+          }
+        ],
+        "metadata": {},
+        "modified": "2024-06-18 17:31:25",
+        "modified_timestamp": 1718712085,
+        "must_see": false,
+        "name": "ROSE FULL MOON YIN YOGA",
+        "notify_me": false,
+        "order": 4090,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "2000.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [
+            {
+              "input_type": "",
+              "optional": false,
+              "question": "Any food allergies?",
+              "required": true
+            }
+          ],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p>Join us for a Full Moon Yin Yoga &amp; Dinner Delight at our wellness studio.</p><p><br></p><p>Yin Yoga during a full moon can be a deeply nurturing and grounding practice. Full moons are associated with a sense of completeness and transition, making it a great time for introspection and releasing what no longer serves you.&nbsp;</p><p>Combining Yin Yoga with the energy of a strawberry full moon can create a beautiful and intention-filled practice. The strawberry full moon, also known as the June full moon, is associated with setting an intention to invite more sweetness and abundance into your life, both on and off the mat.</p><p><br></p><p>The yin yoga practice will then be followed by a light and nourishing supper. Embrace this opportunity to indulge in a dining experience that honors both your physical well-being and the peaceful harmony of the moonlit evening.</p><p><br></p><p>We hope to see you on the mat!</p>",
+        "slug": "rose-full-moon-yiin-yoga",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "A nourishing dinner spread"
+            },
+            {
+              "label": "What's not",
+              "text": "Yoga mat\nWater bottles\nTowels"
+            }
+          ]
+        },
+        "spotapproved_id": 4241,
+        "start": "2024-06-21 18:30:00",
+        "start_timestamp": 1718974800,
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          11,
+          1,
+          3
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 11,
+            "name": "Exclusive",
+            "path": "who_is_it_tag/exclusive.png"
+          },
+          {
+            "id": 1,
+            "name": "Elder-Friendly",
+            "path": "who_is_it_tag/elder_friendly.png"
+          },
+          {
+            "id": 3,
+            "name": "Beginner-Friendly",
+            "path": "who_is_it_tag/beginner_friendly.png"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
     }
   ],
-  "out_of": 2397,
+  "out_of": 2398,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
