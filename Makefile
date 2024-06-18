@@ -13,11 +13,6 @@ out/allevents.txt:
 	  --data-raw '{"venue": 0,"page": 1,"rows": 100,"tag_type": null,"sdate": $(AE_START_TS),"edate": $(AE_END_TS),"city": "bangalore","keywords": 0,"category": ["all"],"formats": 0,"sort_by_score_only": true}' | \
 	  jq -r '.item[] | .share_url' | sort > out/allevents.txt
 
-out/mello.txt:
-	curl --silent --request GET \
-  --url 'https://api.mello.fun/api/v1/experiences?dateFilter=this%20weekend&latest=true' \
-  --header "authorizationtoken: $$MELLO_JWT_TOKEN"  | jq -r ".data[].url | select( . != null )" | sort > out/mello.txt
-
 out/skillboxes.txt:
 	python src/skillboxes.py | sort > out/skillboxes.txt
 
@@ -114,7 +109,6 @@ all: out/allevents.txt \
  out/bluetokai.json \
  out/gullytours.json \
  out/townscript.txt \
- out/mello.txt \
  out/skillboxes.txt \
  out/together-buzz.txt \
  out/creativemornings.txt
