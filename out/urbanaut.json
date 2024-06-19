@@ -1,6 +1,6 @@
 {
   "facet_counts": [],
-  "found": 13,
+  "found": 14,
   "hits": [
     {
       "document": {
@@ -2828,9 +2828,226 @@
       },
       "highlight": {},
       "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "A friendly neighbourhood coffee shop in Hennur - with a cozy indoor and large outdoor seating.",
+          "company_name": "Huddle Coffee Co",
+          "company_phone": "+91-96866-47373",
+          "company_tag_line": "Coffee + Music + Community",
+          "guest_can_whatsapp": true,
+          "logo_path": "images/568E9D0C0A0D4E8EA3B3970AA267A38C_converted_webp.webp",
+          "micro_site_banner_path": null,
+          "slug": null,
+          "theme_color": "080808"
+        },
+        "address": "262, Kempe Gowda Rd, Prakruthi Layout, Hennur Gardens, Bengaluru, Karnataka 560043, India",
+        "approved": 4651,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>Thank you for confirming. We look forward to hosting you. </p>",
+        "can_be_booked_before": 0,
+        "can_book_till_end": true,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<p>NA</p>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": null,
+              "name": null
+            }
+          ],
+          "on_ground_contacts": [
+            {
+              "name": "Shweta",
+              "phone": "+91-9686647373"
+            }
+          ],
+          "whatsapp_contact_for_guest": {
+            "name": "Shweta",
+            "phone": "+919686647373"
+          }
+        },
+        "contributor": {
+          "age": null,
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/568E9D0C0A0D4E8EA3B3970AA267A38C_converted_webp.webp",
+          "city": null,
+          "first_name": "Jayant",
+          "gender": null,
+          "id": 11071,
+          "instagram": null,
+          "profile_picture": "images/568E9D0C0A0D4E8EA3B3970AA267A38C_converted_webp.webp",
+          "short_bio": "",
+          "slug": "jayant-11071"
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [],
+        "display_tags_data": [],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-06-23 21:00:00",
+        "end_timestamp": 1719156600,
+        "explore_order": 1,
+        "genre_tags": [
+          2,
+          8,
+          10
+        ],
+        "genre_tags_data": [
+          {
+            "id": 2,
+            "name": "Art & culture",
+            "path": "genre_tags/art_and_culture.png"
+          },
+          {
+            "id": 8,
+            "name": "Live GIG",
+            "path": "genre_tags/live_gig.png"
+          },
+          {
+            "id": 10,
+            "name": "Music",
+            "path": "genre_tags/music.png"
+          }
+        ],
+        "google_map_link": "https://maps.google.com/?cid=14452894355861248364",
+        "google_place_id": "ChIJ6xp8-xsXrjsRbJlbidf-ksg",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "4243",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "is_slug_editable": false,
+        "lat": "13.04021010000000000000",
+        "lat_lng": [
+          13.0402101,
+          77.6343098
+        ],
+        "lng": "77.63430980000000000000",
+        "location": "SRID=4326;POINT (77.6343098 13.0402101)",
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/67C1331A37DD4A318193F60CC3FF26D8_converted_webp.webp",
+            "id": 107406,
+            "multi_size": [],
+            "name": null,
+            "order": 0,
+            "path": "images/67C1331A37DD4A318193F60CC3FF26D8_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/67C1331A37DD4A318193F60CC3FF26D8_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/67C1331A37DD4A318193F60CC3FF26D8_converted_webp.webp",
+            "type": "Cover photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FA7C525BC2F5449EBC38CCA4D9E3AC51_converted_webp.webp",
+            "id": 107407,
+            "multi_size": [],
+            "name": null,
+            "order": 1,
+            "path": "images/FA7C525BC2F5449EBC38CCA4D9E3AC51_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FA7C525BC2F5449EBC38CCA4D9E3AC51_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/FA7C525BC2F5449EBC38CCA4D9E3AC51_converted_webp.webp",
+            "type": "Photo"
+          }
+        ],
+        "metadata": {},
+        "modified": "2024-06-19 10:50:20",
+        "modified_timestamp": 1718774420,
+        "must_see": false,
+        "name": "Music evening @ Huddle Coffee Co.",
+        "notify_me": false,
+        "order": 4092,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "0.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p>Sangmei is a student of music at the Bangalore conservatory. She aspires to be an artist expressing herself through western pop music. Come listen and support her and other artists at Huddle Coffee Co in Hennur - the buzzing new cafe in north Bangalore.</p>",
+        "slug": "HuddleMusicEvening",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": ""
+            },
+            {
+              "label": "What's not",
+              "text": ""
+            }
+          ]
+        },
+        "spotapproved_id": 4243,
+        "start": "2024-06-23 19:00:00",
+        "start_timestamp": 1719149400,
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          9,
+          5,
+          7
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 9,
+            "name": "Great For Groups",
+            "path": "who_is_it_tag/great_for_groups.png"
+          },
+          {
+            "id": 5,
+            "name": "Family-Friendly",
+            "path": "who_is_it_tag/family_friendly.png"
+          },
+          {
+            "id": 7,
+            "name": "Solo-Friendly",
+            "path": "who_is_it_tag/solo_friendly.png"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
     }
   ],
-  "out_of": 2399,
+  "out_of": 2400,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
