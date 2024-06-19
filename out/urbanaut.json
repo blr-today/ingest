@@ -1,6 +1,6 @@
 {
   "facet_counts": [],
-  "found": 14,
+  "found": 16,
   "hits": [
     {
       "document": {
@@ -3045,9 +3045,475 @@
       },
       "highlight": {},
       "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+          "company_name": "Courtyard",
+          "company_phone": "+91-73386-77996",
+          "company_tag_line": "Home to  the Curious",
+          "guest_can_whatsapp": true,
+          "logo_path": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "slug": "courtyard",
+          "theme_color": "060606"
+        },
+        "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+        "approved": 4653,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>We are delighted to confirm your reservation for Movie Under the Stars. If you have any further inquiries or special requests, feel free to reach out to our dedicated event coordinator at 7338677996. Thank you once again for choosing to be a part of our community. We look forward to hosting you for an evening. You can find out more about upcoming events by joining <a href=\"https://chat.whatsapp.com/G6j88wtm1ZgGJhutF4LRR8\" rel=\"noopener noreferrer\" target=\"_blank\">our WhatsApp community. </a></p><p><br></p><p>Team Courtyard</p>",
+        "can_be_booked_before": 12,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<p>Tickets are non-refundable in case of cancellation or no-show.</p>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": "sales@thecourtyardcommunity.in",
+              "name": "Team Courtyard"
+            }
+          ],
+          "on_ground_contacts": [
+            {
+              "name": "Team Courtyard",
+              "phone": "+91-7338677996"
+            }
+          ],
+          "whatsapp_contact_for_guest": {
+            "name": "Team Courtyard",
+            "phone": "+917338677996"
+          }
+        },
+        "contributor": {
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "first_name": "Courtyard",
+          "id": 10113,
+          "profile_picture": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "short_bio": "",
+          "slug": "courtyard"
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [],
+        "display_tags_data": [],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-06-29 21:30:00",
+        "end_timestamp": 1719676800,
+        "explore_order": 1,
+        "genre_tags": [
+          4,
+          7
+        ],
+        "genre_tags_data": [
+          {
+            "id": 4,
+            "name": "Food & drink",
+            "path": "genre_tags/food_and_drink.png"
+          },
+          {
+            "id": 7,
+            "name": "Leisure",
+            "path": "genre_tags/leisure.png"
+          }
+        ],
+        "google_map_link": "https://maps.google.com/?cid=15325971903082601795",
+        "google_place_id": "ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "4245",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "is_slug_editable": false,
+        "lat": "12.95843050000000000000",
+        "lat_lng": [
+          12.9584305,
+          77.59289509999999
+        ],
+        "lng": "77.59289509999999000000",
+        "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
+        "marketing_tag_data": null,
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F3CAF0E7DF934EFEBF6BED31406B9347_converted_webp.webp",
+            "id": 107473,
+            "multi_size": [],
+            "order": 0,
+            "path": "images/F3CAF0E7DF934EFEBF6BED31406B9347_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F3CAF0E7DF934EFEBF6BED31406B9347_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/F3CAF0E7DF934EFEBF6BED31406B9347_converted_webp.webp",
+            "type": "Cover photo"
+          }
+        ],
+        "metadata": {},
+        "modified": "2024-06-19 13:21:54",
+        "modified_timestamp": 1718783514,
+        "must_see": false,
+        "name": "Screening: Charlie's Angels (2000) | Movie Under the Stars",
+        "notify_me": false,
+        "order": 4094,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "2000.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [
+            {
+              "input_type": "COUNTER",
+              "optional": false,
+              "question": "Number of Vegetarians in the group?",
+              "required": true
+            },
+            {
+              "input_type": "COUNTER",
+              "optional": false,
+              "question": "Number of Non- vegetarians in the group?",
+              "required": true
+            },
+            {
+              "input_type": "TEXT",
+              "optional": false,
+              "question": "Any allergies?",
+              "required": true
+            }
+          ],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p><strong>Open-air screening with a three-course dinner &amp; popcorn </strong></p><p><br></p><p><strong><u>About the movie:</u></strong></p><p><br></p><p>In \"Charlie's Angels\" (2000), a high-energy action-comedy, three women\u2014Natalie Cook (Cameron Diaz), Dylan Sanders (Drew Barrymore), and Alex Munday (Lucy Liu)\u2014work as private investigators for the mysterious Charles Townsend, who communicates with them only through a speakerphone. Known collectively as Charlie's Angels, they use their intelligence, beauty, and a wide array of skills to tackle high-stakes missions.</p><p><br></p><p><strong>3-Course Menu to be updated. </strong></p><p><br></p><p><strong><u>Terms and Conditions:</u></strong></p><p><br></p><ol><li>The management is not responsible for any injury or damage that may occur during the event.</li><li>No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.</li><li>Parking near the event premises is at the risk of the vehicle owner.</li><li>Valet service is available at a charge of Rs. 200 per vehicle.</li><li>Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.</li><li>Tickets are non-refundable in case of cancellation or no-show.</li><li>In case of rain, the event will be moved indoors.</li></ol>",
+        "slug": "screening-charlies-angels-2000-movie-under-the-stars",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "Movie Screening\nThree- course meal\nPopcorn"
+            },
+            {
+              "label": "What's not",
+              "text": "Wine\nParking"
+            }
+          ]
+        },
+        "spotapproved_id": 4245,
+        "start": "2024-06-29 19:30:00",
+        "start_timestamp": 1719669600,
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          10,
+          4,
+          6
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 10,
+            "name": "Pet-Friendly",
+            "path": "who_is_it_tag/pet_friendly.png"
+          },
+          {
+            "id": 4,
+            "name": "Adults Only",
+            "path": "who_is_it_tag/adults_only.png"
+          },
+          {
+            "id": 6,
+            "name": "For Couples",
+            "path": "who_is_it_tag/for_couples.png"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "We are all about nourishing food and creating spaces for connection!",
+          "company_name": "Copper + Cloves",
+          "company_phone": "+91-97319-30303",
+          "company_tag_line": "Nourish and connect with C+C",
+          "guest_can_whatsapp": false,
+          "logo_path": "images/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+          "micro_site_banner_path": "images/akdysfsld0-171264231954920230402img3195rajkashyap11jpeg.JPEG",
+          "slug": "copperandcloves",
+          "theme_color": "d3b89d"
+        },
+        "address": "167, GROUND FLOOR BACK PORTION 2nd Stage, 2nd cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+        "approved": 4654,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>Thank you for signing up to the Animal Flow Brunch with Shera, we are super excited to host you and fuel you with a power packed breakfast menu. </p><p><br></p><p>Please note that there is limited parking in the area, and so would request you to call for a cab. </p><p>The location of the venue is - The Studio by Copper + Cloves, (please look for Chakra Athletica, Indiranagar on google maps - you can spot us on the 4th floor of the same building)</p><p><br></p><p><br></p>",
+        "can_be_booked_before": 12,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<p>Please note that the ticket is not refundable, however it can be transferred incase of unforeseen circumstances to someone on the waitlist.</p>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": "yoshitha@copperandcloves.com",
+              "name": "Yoshitha"
+            }
+          ],
+          "on_ground_contacts": [
+            {
+              "name": "Akshaya",
+              "phone": "+91-9008426703"
+            }
+          ],
+          "whatsapp_contact_for_guest": {
+            "name": null
+          }
+        },
+        "contributor": {
+          "age": null,
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+          "city": "Bangalore",
+          "first_name": "Copper + Cloves",
+          "gender": "Male",
+          "id": 10595,
+          "instagram": null,
+          "profile_picture": "images/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+          "short_bio": "",
+          "slug": "copper-cloves"
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [],
+        "display_tags_data": [],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-06-22 11:30:00",
+        "end_timestamp": 1719036000,
+        "explore_order": 1,
+        "genre_tags": [
+          1,
+          4,
+          16,
+          17
+        ],
+        "genre_tags_data": [
+          {
+            "id": 1,
+            "name": "Active",
+            "path": "genre_tags/active.png"
+          },
+          {
+            "id": 4,
+            "name": "Food & drink",
+            "path": "genre_tags/food_and_drink.png"
+          },
+          {
+            "id": 16,
+            "name": "Wellness",
+            "path": "genre_tags/wellness.png"
+          },
+          {
+            "id": 17,
+            "name": "Workshop",
+            "path": "genre_tags/workshop.png"
+          }
+        ],
+        "google_map_link": "https://maps.google.com/?cid=14633051185098965207",
+        "google_place_id": "ChIJ4bJV-CMVrjsR18DuC4YKE8s",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "4246",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "Look for  the Chakra signage, we are in the same building on the 4th floor",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "is_slug_editable": false,
+        "lat": "12.96394760000000000000",
+        "lat_lng": [
+          12.9639476,
+          77.63833199999999
+        ],
+        "lng": "77.63833199999999000000",
+        "location": "SRID=4326;POINT (77.63833199999999 12.9639476)",
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AD307422EA5F4C988A8A26C77CB9ADD3_converted_webp.webp",
+            "id": 107515,
+            "multi_size": [],
+            "name": null,
+            "order": 0,
+            "path": "images/AD307422EA5F4C988A8A26C77CB9ADD3_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AD307422EA5F4C988A8A26C77CB9ADD3_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/AD307422EA5F4C988A8A26C77CB9ADD3_converted_webp.webp",
+            "type": "Cover photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4E9BBF0069EF4EF8AA5111E78A029BAF_converted_webp.webp",
+            "id": 107516,
+            "multi_size": [],
+            "name": null,
+            "order": 1,
+            "path": "images/4E9BBF0069EF4EF8AA5111E78A029BAF_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4E9BBF0069EF4EF8AA5111E78A029BAF_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/4E9BBF0069EF4EF8AA5111E78A029BAF_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/72035C052F9940649CF43D96D6607A7F_converted_webp.webp",
+            "id": 107517,
+            "multi_size": [],
+            "name": null,
+            "order": 2,
+            "path": "images/72035C052F9940649CF43D96D6607A7F_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/72035C052F9940649CF43D96D6607A7F_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/72035C052F9940649CF43D96D6607A7F_converted_webp.webp",
+            "type": "Photo"
+          },
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/29F98DCF4F1D42299C5F05559B6991D0_converted_webp.webp",
+            "id": 107518,
+            "multi_size": [],
+            "name": null,
+            "order": 3,
+            "path": "images/29F98DCF4F1D42299C5F05559B6991D0_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/29F98DCF4F1D42299C5F05559B6991D0_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/29F98DCF4F1D42299C5F05559B6991D0_converted_webp.webp",
+            "type": "Photo"
+          }
+        ],
+        "metadata": {},
+        "modified": "2024-06-19 17:10:36",
+        "modified_timestamp": 1718797236,
+        "must_see": false,
+        "name": "ANIMAL FLOW BRUNCH WITH SHERAL",
+        "notify_me": false,
+        "order": 4095,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "2000.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [
+            {
+              "input_type": "",
+              "optional": false,
+              "question": "Any food allergies?",
+              "required": true
+            }
+          ],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p>Gear up for an Animal flow session followed by a protein packed nourishing brunch \ud83e\udd0d</p><p><br></p><p>Who\u2019s this session for?&nbsp;</p><p>\u2022Anyone curious about Animal flow and wants to learn this skill.&nbsp;</p><p>\u2022Anyone who wants to start their fitness journey or even for someone who has explored Animal flow before.&nbsp;</p><p><br></p><p>Animal flow is a form of body weight training that explores multiplanar movements. It\u2019s fun, challenging and going to help you understand your body better.</p>",
+        "slug": "animal-flow-brunch-with-sheral",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "Protein packed breakfast spread"
+            },
+            {
+              "label": "What's not",
+              "text": "Water bottle\nYoga mat"
+            }
+          ]
+        },
+        "spotapproved_id": 4246,
+        "start": "2024-06-22 09:30:00",
+        "start_timestamp": 1719028800,
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          11,
+          9,
+          3
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 11,
+            "name": "Exclusive",
+            "path": "who_is_it_tag/exclusive.png"
+          },
+          {
+            "id": 9,
+            "name": "Great For Groups",
+            "path": "who_is_it_tag/great_for_groups.png"
+          },
+          {
+            "id": 3,
+            "name": "Beginner-Friendly",
+            "path": "who_is_it_tag/beginner_friendly.png"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
     }
   ],
-  "out_of": 2400,
+  "out_of": 2402,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
@@ -3055,5 +3521,5 @@
     "q": "*"
   },
   "search_cutoff": false,
-  "search_time_ms": 4
+  "search_time_ms": 5
 }
