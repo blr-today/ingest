@@ -2,6 +2,7 @@ import datetime
 import time
 from lxml import html
 import json
+from common import linktree
 from requests_cache import CachedSession
 import datefinder
 import extruct
@@ -20,19 +21,6 @@ session = CachedSession(
 )
 scraper = cloudscraper.create_scraper()
 
-def apply_xpath(html_content, xpath_selector):
-    tree = html.fromstring(html_content)
-    return tree.xpath(xpath_selector)
-
-def fetch_events():
-    url = "https://linktr.ee/atta_galatta"
-    r = session.get(url)
-    xpath_selector = '//a[@rel="noopener" and @target="_blank" and not(@data-testid="SocialIcon")]'
-    filtered_links = apply_xpath(r.text, xpath_selector)
-
-=======
-from common import linktree
-
 def fetch_events():
 
     events = []
@@ -49,7 +37,7 @@ def fetch_events():
                 "name": title[0:idx],
                 "startDate": startdate.isoformat(),
                 "endDate": (startdate+datetime.timedelta(hours=2)).isoformat(),
-                'url': link.attrib['href']
+                'url': link['url'],
                 "thumbnail": link['thumbnail']
             })
 
