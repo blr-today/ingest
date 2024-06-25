@@ -37,6 +37,7 @@ EVENT_JSON_FILES = [
     'out/gullytours.json',
     'out/mapindia.json',
     'out/adidas.json',
+    'out/tonight.json', # this includes duplicates to insider
 ]
 
 KNOWN_EVENT_TYPES = [
