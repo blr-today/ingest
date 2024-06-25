@@ -1,6 +1,6 @@
 {
   "facet_counts": [],
-  "found": 10,
+  "found": 11,
   "hits": [
     {
       "document": {
@@ -2290,7 +2290,7 @@
         "medias": [
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F629EBE5C8A442FDBE7EBC1833BAF67C_converted_webp.webp",
-            "id": 109575,
+            "id": 109598,
             "multi_size": [],
             "name": null,
             "order": 0,
@@ -2302,7 +2302,7 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7F14036576674D8397A0096C6829B08B_converted_webp.webp",
-            "id": 109576,
+            "id": 109599,
             "multi_size": [],
             "name": null,
             "order": 1,
@@ -2314,7 +2314,7 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FE75DA1F2A3F4575856F38E017430888_converted_webp.webp",
-            "id": 109577,
+            "id": 109600,
             "multi_size": [],
             "name": null,
             "order": 2,
@@ -2326,7 +2326,7 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/96A2B80A756A4608BA528670F74269F3_converted_webp.webp",
-            "id": 109578,
+            "id": 109601,
             "multi_size": [],
             "name": null,
             "order": 3,
@@ -2338,7 +2338,7 @@
           },
           {
             "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/91FD4B034E7B4212B320350C478FA38E_converted_webp.webp",
-            "id": 109579,
+            "id": 109602,
             "multi_size": [],
             "name": null,
             "order": 4,
@@ -2350,8 +2350,8 @@
           }
         ],
         "metadata": {},
-        "modified": "2024-06-25 14:17:11",
-        "modified_timestamp": 1719305231,
+        "modified": "2024-06-25 17:01:16",
+        "modified_timestamp": 1719315076,
         "must_see": false,
         "name": "Sunset Pilates and sharing spread with Aakruti",
         "notify_me": false,
@@ -2364,8 +2364,8 @@
         "questions_to_ask": {
           "custom_questions": [
             {
-              "input_type": "",
-              "optional": true,
+              "input_type": "BOOL",
+              "optional": false,
               "question": "Any food allergies?",
               "required": true
             }
@@ -2423,9 +2423,228 @@
       },
       "highlight": {},
       "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+          "company_name": "Courtyard",
+          "company_phone": "+91-73386-77996",
+          "company_tag_line": "Home to  the Curious",
+          "guest_can_whatsapp": true,
+          "logo_path": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "micro_site_banner_path": null,
+          "slug": "courtyard",
+          "theme_color": "060606"
+        },
+        "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+        "approved": 4672,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>We are delighted to confirm your reservation for the Bengal to Table&nbsp;Experience by Sienna, Calcutta at The Conservatory. If you have any further inquiries or special requests, please contact our dedicated event coordinator at 7338677996. Thank you once again for choosing to be a part of our community. We look forward to hosting you. You can find out more about upcoming events by joining our <a href=\"https://chat.whatsapp.com/G6j88wtm1ZgGJhutF4LRR8\" rel=\"noopener noreferrer\" target=\"_blank\">WhatsApp community</a>.</p><p><br></p><p>Team Conservatory</p>",
+        "can_be_booked_before": 12,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<p>No-shows and cancellations are non-refundable by all means.</p><p>Tickets are non-transferable and are for personal use only.</p>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": "sales@thecourtayrdcommunity.in",
+              "name": "Team Conservatory"
+            }
+          ],
+          "on_ground_contacts": [
+            {
+              "name": "Team Conservatory",
+              "phone": "+91-7338677996"
+            }
+          ],
+          "whatsapp_contact_for_guest": {
+            "name": "Team Conservatory",
+            "phone": "+917338677996"
+          }
+        },
+        "contributor": {
+          "age": null,
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "city": null,
+          "first_name": "Courtyard",
+          "gender": null,
+          "id": 10113,
+          "instagram": null,
+          "profile_picture": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "short_bio": "",
+          "slug": "courtyard"
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [],
+        "display_tags_data": [],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-07-21 15:30:00",
+        "end_timestamp": 1721556000,
+        "explore_order": 1,
+        "genre_tags": [
+          4,
+          7,
+          20
+        ],
+        "genre_tags_data": [
+          {
+            "id": 4,
+            "name": "Food & drink",
+            "path": "genretags/food_and_drink.png"
+          },
+          {
+            "id": 7,
+            "name": "Leisure",
+            "path": "genretags/leisure.png"
+          },
+          {
+            "id": 20,
+            "name": "Pop-up Event",
+            "path": "genretags/pop_up_event.png"
+          }
+        ],
+        "google_map_link": "https://maps.google.com/?cid=15325971903082601795",
+        "google_place_id": "ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "4264",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_promo_code_available": false,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "is_slug_editable": false,
+        "lat": "12.95843050000000000000",
+        "lat_lng": [
+          12.9584305,
+          77.59289509999999
+        ],
+        "lng": "77.59289509999999000000",
+        "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/979C049BEF054CCC9C5D1FF36F834E7F_converted_webp.webp",
+            "id": 109597,
+            "multi_size": [],
+            "name": null,
+            "order": 0,
+            "path": "images/979C049BEF054CCC9C5D1FF36F834E7F_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/979C049BEF054CCC9C5D1FF36F834E7F_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/979C049BEF054CCC9C5D1FF36F834E7F_converted_webp.webp",
+            "type": "Cover photo"
+          }
+        ],
+        "metadata": {},
+        "modified": "2024-06-25 16:38:33",
+        "modified_timestamp": 1719313713,
+        "must_see": false,
+        "name": "Bengal to Table | Sienna, Calcutta at The Conservatory",
+        "notify_me": false,
+        "order": 4113,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "1200.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [
+            {
+              "input_type": "COUNTER",
+              "optional": false,
+              "question": "Number of Vegetarians in the group?",
+              "required": true
+            },
+            {
+              "input_type": "COUNTER",
+              "optional": false,
+              "question": "Number on Non- vegetarians in the group?",
+              "required": true
+            }
+          ],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p><strong><u>Sienna, Calcutta at The Conservatory</u></strong></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Sienna is back in Bangalore this July from the 19th to the 21st with both the kitchen and store teams popping up at the Courtyard. Taking inspiration from the baajars of Bengal, this will be an immersive showcase of both food and design craft.</span></p><p><strong><u>About the meal</u></strong></p><p><span style=\"background-color: transparent;\">After a well-received </span><em style=\"background-color: transparent;\">baajar-to-table</em><span style=\"background-color: transparent;\"> tasting menu at the Conservatory earlier in the year the kitchen team from Sienna helmed by </span><strong style=\"background-color: transparent;\">Chefs Avinandan and Koyel</strong><span style=\"background-color: transparent;\"> are back with an </span><em style=\"background-color: transparent;\">ala carte</em><span style=\"background-color: transparent;\"> menu of casual, sharing plates reflecting the best of the bounty of Bengal\u2019s culture and produce. They aim to focus on the bajaars of the region and the menu reflects the seasonality and diversity of the region coupled with techniques from across the globe.</span></p><p><strong style=\"background-color: transparent;\">Menu:</strong></p><p>Chola\u2019r Daal Hummus, Nimki (V) - Rs. 450</p><p>Mushroom XO Rice, King Oyster Jerky (V) - Rs. 550</p><p>Potol Poshto, Khosha Bata, Golabhaat (V) - Rs. 550</p><p>Ranga Aloo &amp; Pumpkin Gnocchi, Bonolokhi Ghee Sauce (V) - Rs. 650</p><p>Chana\u2019r Paturi, Aam Kasundi (V) - Rs. 550</p><p>Beef Tartare, Kalabhuna (NV) - Rs. 750</p><p>Maach\u2019r Dim XO Rice, Fried Egg (NV) - Rs. 550</p><p>Kalojeere Pork, Golabhaat (V)* - Rs. 650</p><p>Crab Meat, Deshi Deem, Crab Caramel (NV) - Rs. 750</p><p>Golda Chingri, Ghilu Hollandaise (NV) - Rs. 750</p><p>Duck, Jhol, Chaaler Ruti (NV) - Rs. 750</p><p>Bhetki a la Kiev, Radhuni Butter, Mash (NV) - Rs. 750</p><p>Aam Doi, Coconut Cream, Lemon Basil (V) - Rs. 450</p><p>Malai Toast <span style=\"color: rgb(32, 33, 36);\">Br\u00fbl\u00e9e (V) - Rs. 450</span></p><p><span style=\"color: rgb(32, 33, 36);\">*Contains Egg. </span></p><p><strong><u>Other offerings at the Sienna, Calcutta Experience</u></strong></p><p><strong>The Pottery Workshop at The Yard</strong></p><p><em>*Book your spot for the workshop separately. Through the link on @thecourtyardcommunity 's Instagram bio. </em></p><p>Travelling with Sienna, Calcutta from their workshop in Santiniketan are senior members of our team who will co-host ceramic workshops for both kids and adults throughout the duration of the residency.</p><p><strong style=\"background-color: transparent;\">The Pop-up shop at The Studio</strong></p><p><em style=\"background-color: transparent;\">*The pop-up shop is free to access. </em></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent;\">Named after the colour of the local red soil / </span><em style=\"background-color: transparent;\">\u09b0\u09be\u0999\u09be\u09ae\u09be\u099f\u09bf</em><span style=\"background-color: transparent;\"> of Santiniketan, Sienna was born out of a deep appreciation of the rich craft heritage of Bengal. Our creative nerve centre is in Daronda village, Shantiniketan, about 200 km from Calcutta, surrounded by lush greenery, where in 1993 architect &amp; founder </span><strong style=\"background-color: transparent;\">Shanta Ghosh </strong><span style=\"background-color: transparent;\">built a pottery workshop to support local artisans from the neighbouring areas. Her daughter, now creative head </span><strong style=\"background-color: transparent;\">Shuli, </strong><span style=\"background-color: transparent;\">took over around 12 years ago. They built the store&nbsp;space in Calcutta in 2015 along with a small family run cafe with home staff trained to serve soups, salads and sandwiches. That space evolved over time, especially since the pandemic, and brought the same level of focus and support to food craft, as they had initially for ceramics and textiles. Today Sienna is a design company proudly representing the finest traditional craft techniques of Bengal and bringing it to a national and global stage for engagement with a wider audience.</span></p><p class=\"ql-align-justify\"><span style=\"background-color: transparent;\">The </span><strong style=\"background-color: transparent;\">craft residency </strong><span style=\"background-color: transparent;\">at the </span><strong style=\"background-color: transparent;\">Courtyard </strong><span style=\"background-color: transparent;\">will be a comprehensive and experiential showcase of the various craft mediums we work with. From handmade pottery, copper &amp; brass jewellery made with upcycled fabric waste to textiles made with natural fibres and printed with motifs inspired by all things Bengal.</span></p><p><strong>Terms and Conditions : </strong></p><ul><li>The management is not responsible for any injury or damage that may occur during an event.</li><li>The access to the pop- up shop is free. The pop-up store is open from 11am to 10pm. </li><li>Ticket price of 1200 is redeemable against food only.</li><li>Please note that the same kitchen will be used to prepare both vegetarian and non-vegetarian food.</li><li>Do not purchase tickets from anyone other than on the ticketing platform.</li><li>No-shows and cancellations are non-refundable by all means.</li><li>Tickets are non-transferable and are for personal use only.</li><li>Children aged 5 and above require a ticket to attend the meal.</li><li>Let the Conservatory team know in advance if you are bringing a child below the age of 5 (without a ticket). An extra chair will be provided at the table for the child.</li><li>The schedule is subject to change in case of an emergency or any event out of our control.</li><li>Management will entertain no liability or claims arising due to the consumption or intake of any food or drink.</li><li>Parking near the event premises is at the risk of the vehicle owner.</li><li>Paid Valet Parking at Rs. 200 per car.</li><li>The holder of this ticket grants organizers the right to use, in perpetuity, all or any part of the recording of any video or still footage made of the holder's appearance on any channel without any further approval.</li><li>Photographs and videos of ticket holders may be uploaded to social media. If you do not wish to be featured, let our team know.</li></ul>",
+        "slug": "bengal-to-table-sienna-at-the-conservatory",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "Ticket redeemable against the food menu"
+            },
+            {
+              "label": "What's not",
+              "text": "Wine & other beverages\nParking"
+            }
+          ]
+        },
+        "spotapproved_id": 4264,
+        "start": "2024-07-19 18:00:00",
+        "start_timestamp": 1721392200,
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          9,
+          5,
+          6
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 9,
+            "name": "Great For Groups",
+            "path": "who_is_it_tags/great_for_groups.png"
+          },
+          {
+            "id": 5,
+            "name": "Family-Friendly",
+            "path": "who_is_it_tags/family_friendly.png"
+          },
+          {
+            "id": 6,
+            "name": "For Couples",
+            "path": "who_is_it_tags/for_couples.png"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
     }
   ],
-  "out_of": 2361,
+  "out_of": 2362,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
@@ -2433,5 +2652,5 @@
     "q": "*"
   },
   "search_cutoff": false,
-  "search_time_ms": 4
+  "search_time_ms": 5
 }
