@@ -1,0 +1,1588 @@
+{
+  "filterRoute": "/events-bengaluru",
+  "meta": {
+    "analytics": {
+      "schema_version": "3.0",
+      "screen_name": "events_listing",
+      "event": "gtm_allpages",
+      "event_name": "events_listing_viewed",
+      "event_type": "screen_view",
+      "category": "events",
+      "product": "events",
+      "filtervalues": "categories=events",
+      "is_tvod": "no"
+    },
+    "scrollExpiry": 1200,
+    "ldSchema": {
+      "itemListSchema": {
+        "@context": "http://schema.org",
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00384702-qmskyqrxtx-portrait.jpg",
+            "position": 1,
+            "url": "https://in.bookmyshow.com/events/knife-painting-workshop/ET00384702",
+            "name": "Knife Painting Workshop"
+          },
+          {
+            "@type": "ListItem",
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00402267-mnwxruvwpd-portrait.jpg",
+            "position": 2,
+            "url": "https://in.bookmyshow.com/events/halwa-by-amit-tandon-india-tour/ET00402267",
+            "name": "Halwa By Amit Tandon - India Tour"
+          },
+          {
+            "@type": "ListItem",
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00401768-yapknglced-portrait.jpg",
+            "position": 3,
+            "url": "https://in.bookmyshow.com/events/dhandho-munawar-faruqui-live-in-bengaluru/ET00401768",
+            "name": "Dhandho: Munawar Faruqui Live in Bengaluru"
+          },
+          {
+            "@type": "ListItem",
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00397961-mzcxgrjvae-portrait.jpg",
+            "position": 4,
+            "url": "https://in.bookmyshow.com/events/saath-saath-lyrics-penned-by-javed-akhtar/ET00397961",
+            "name": "SAATH SAATH - Lyrics penned by JAVED AKHTAR"
+          },
+          {
+            "@type": "ListItem",
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00401834-ynqztvsldh-portrait.jpg",
+            "position": 5,
+            "url": "https://in.bookmyshow.com/events/prateek-kuhad-silhouettes-tour/ET00401834",
+            "name": "Prateek Kuhad Silhouettes Tour"
+          },
+          {
+            "@type": "ListItem",
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00402447-rmmdgtnapm-portrait.jpg",
+            "position": 6,
+            "url": "https://in.bookmyshow.com/events/sugar-fit-vr-chromotherapy/ET00402447",
+            "name": "Sugar.fit VR Chromotherapy"
+          },
+          {
+            "@type": "ListItem",
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00401768-yapknglced-portrait.jpg",
+            "position": 7,
+            "url": "https://in.bookmyshow.com/events/dhandho-munawar-faruqui-live-in-bengaluru/ET00401768",
+            "name": "Dhandho: Munawar Faruqui Live in Bengaluru"
+          },
+          {
+            "@type": "ListItem",
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00397961-mzcxgrjvae-portrait.jpg",
+            "position": 8,
+            "url": "https://in.bookmyshow.com/events/saath-saath-lyrics-penned-by-javed-akhtar/ET00397961",
+            "name": "SAATH SAATH - Lyrics penned by JAVED AKHTAR"
+          },
+          {
+            "@type": "ListItem",
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00399889-lrcytvsdaa-portrait.jpg",
+            "position": 9,
+            "url": "https://in.bookmyshow.com/events/crowd-jam-eve/ET00399889",
+            "name": "Let's Flute! - Group Workshop & Jam"
+          },
+          {
+            "@type": "ListItem",
+            "image": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00402037-surygtplvx-portrait.jpg",
+            "position": 10,
+            "url": "https://in.bookmyshow.com/events/design-thinking-bootcamp/ET00402037",
+            "name": "Design Thinking Bootcamp "
+          }
+        ]
+      },
+      "eventsSchema": [
+        {
+          "@context": "http://schema.org",
+          "@type": "Event",
+          "url": "https://in.bookmyshow.com/events/knife-painting-workshop/ET00384702",
+          "endDate": "2024-07-05",
+          "image": [
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00384702-qmskyqrxtx-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00384702-qmskyqrxtx-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00384702-zlbsxxkjun-landscape.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00384702-zlbsxxkjun-landscape.jpg"
+          ],
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "India",
+              "streetAddress": "18th Main Road, 138/B, 5th Cross Road, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India"
+            },
+            "name": "SmallWorld: Koramangala 5th block, Bengaluru"
+          },
+          "name": "Knife Painting Workshop",
+          "startDate": "2024-06-25"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "Event",
+          "url": "https://in.bookmyshow.com/events/halwa-by-amit-tandon-india-tour/ET00402267",
+          "endDate": "2024-08-10",
+          "image": [
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00402267-mnwxruvwpd-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00402267-mnwxruvwpd-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00402267-gtytwuhfuu-landscape.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00402267-gtytwuhfuu-landscape.jpg"
+          ],
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "India",
+              "streetAddress": "Millers Road, Kaverappa Layout, Vasanth Nagar, Near Bhagwan Mahaveer Jain Hospital, Bengaluru, Karnataka 560052, India"
+            },
+            "name": "Dr B.R. Ambedkar Bhavan: Bengaluru"
+          },
+          "name": "Halwa By Amit Tandon - India Tour",
+          "startDate": "2024-08-10"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "Event",
+          "url": "https://in.bookmyshow.com/events/dhandho-munawar-faruqui-live-in-bengaluru/ET00401768",
+          "endDate": "2024-07-07",
+          "image": [
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00401768-yapknglced-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00401768-yapknglced-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00401768-fwuhblyrrr-landscape.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00401768-fwuhblyrrr-landscape.jpg"
+          ],
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "Karnataka India",
+              "streetAddress": "Bengaluru, Karnataka India"
+            },
+            "name": "Venue To Be Announced: Bengaluru"
+          },
+          "name": "Dhandho: Munawar Faruqui Live in Bengaluru",
+          "startDate": "2024-07-07"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "Event",
+          "url": "https://in.bookmyshow.com/events/saath-saath-lyrics-penned-by-javed-akhtar/ET00397961",
+          "endDate": "2024-06-30",
+          "image": [
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00397961-mzcxgrjvae-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00397961-mzcxgrjvae-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00397961-mzcxgrjvae-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00397961-cbxlgesrpf-landscape.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00397961-cbxlgesrpf-landscape.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00397961-cbxlgesrpf-landscape.jpg"
+          ],
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "India",
+              "streetAddress": "43, Bharatiya Vidya Bhavan, Racecourse Road, Bengaluru, Karnataka 560001, India"
+            },
+            "name": "Bharatiya Vidya Bhavan: Bengaluru"
+          },
+          "name": "SAATH SAATH - Lyrics penned by JAVED AKHTAR",
+          "startDate": "2024-06-30"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "Event",
+          "url": "https://in.bookmyshow.com/events/prateek-kuhad-silhouettes-tour/ET00401834",
+          "endDate": "2024-11-09",
+          "image": [
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00401834-ynqztvsldh-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00401834-ynqztvsldh-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00401834-ynqztvsldh-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00401834-ynqztvsldh-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00401834-tvbpmmsxcl-landscape.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00401834-tvbpmmsxcl-landscape.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00401834-tvbpmmsxcl-landscape.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00401834-tvbpmmsxcl-landscape.jpg"
+          ],
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "India",
+              "streetAddress": "Bhartiya City, Thanisandra Main Road, Chokkanahalli, Bengaluru, Karnataka 560064, India"
+            },
+            "name": "Bhartiya City: Bengaluru"
+          },
+          "name": "Prateek Kuhad Silhouettes Tour",
+          "startDate": "2024-11-09"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "Event",
+          "url": "https://in.bookmyshow.com/events/sugar-fit-vr-chromotherapy/ET00402447",
+          "endDate": "2024-06-30",
+          "image": [
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00402447-rmmdgtnapm-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00402447-rmmdgtnapm-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00402447-pnshrddkfv-landscape.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00402447-pnshrddkfv-landscape.jpg"
+          ],
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "India",
+              "streetAddress": "1st Floor, 47, Margosa Road, Opposite Veena Stores, Malleshwara, Bengaluru, Karnataka 560003, India"
+            },
+            "name": "Sugar.fit Diabetes Reversal Centre: Malleswaram"
+          },
+          "name": "Sugar.fit VR Chromotherapy",
+          "startDate": "2024-06-25"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "Event",
+          "url": "https://in.bookmyshow.com/events/dhandho-munawar-faruqui-live-in-bengaluru/ET00401768",
+          "endDate": "2024-07-07",
+          "image": [
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00401768-yapknglced-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00401768-yapknglced-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00401768-fwuhblyrrr-landscape.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00401768-fwuhblyrrr-landscape.jpg"
+          ],
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "Karnataka India",
+              "streetAddress": "Bengaluru, Karnataka India"
+            },
+            "name": "Venue To Be Announced: Bengaluru"
+          },
+          "name": "Dhandho: Munawar Faruqui Live in Bengaluru",
+          "startDate": "2024-07-07"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "Event",
+          "url": "https://in.bookmyshow.com/events/saath-saath-lyrics-penned-by-javed-akhtar/ET00397961",
+          "endDate": "2024-06-30",
+          "image": [
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00397961-mzcxgrjvae-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00397961-mzcxgrjvae-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00397961-mzcxgrjvae-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00397961-cbxlgesrpf-landscape.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00397961-cbxlgesrpf-landscape.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00397961-cbxlgesrpf-landscape.jpg"
+          ],
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "India",
+              "streetAddress": "43, Bharatiya Vidya Bhavan, Racecourse Road, Bengaluru, Karnataka 560001, India"
+            },
+            "name": "Bharatiya Vidya Bhavan: Bengaluru"
+          },
+          "name": "SAATH SAATH - Lyrics penned by JAVED AKHTAR",
+          "startDate": "2024-06-30"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "Event",
+          "url": "https://in.bookmyshow.com/events/crowd-jam-eve/ET00399889",
+          "endDate": "2024-07-26",
+          "image": [
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00399889-lrcytvsdaa-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00399889-lrcytvsdaa-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00399889-rnvssmjvys-landscape.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00399889-rnvssmjvys-landscape.jpg"
+          ],
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "India",
+              "streetAddress": "SLR Arcade, Haralur Road, Apartments, Near Prestige Ferns Residency, Bengaluru, Karnataka 560068, India"
+            },
+            "name": "Bloom Activity Center: Bengaluru"
+          },
+          "name": "Let's Flute! - Group Workshop & Jam",
+          "startDate": "2024-07-05"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "Event",
+          "url": "https://in.bookmyshow.com/events/design-thinking-bootcamp/ET00402037",
+          "endDate": "2024-07-14",
+          "image": [
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00402037-surygtplvx-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00402037-surygtplvx-portrait.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00402037-fwebgtyqpp-landscape.jpg",
+            "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-1440,h-288,bg-CCCCCC/et00402037-fwebgtyqpp-landscape.jpg"
+          ],
+          "location": {
+            "@type": "Place",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "India",
+              "streetAddress": "2nd Floor, 461, Shri Krishna Temple Road, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India"
+            },
+            "name": "CTB events at Dongle: Bengaluru"
+          },
+          "name": "Design Thinking Bootcamp ",
+          "startDate": "2024-06-30"
+        }
+      ],
+      "moviesSchema": [],
+      "breadcrumbSchema": {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+              "@id": "/explore/home/{RegionSlug}",
+              "name": "Home"
+            }
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+              "@id": "/explore/events{HyphenPrefixRegionSlug}",
+              "name": "Events"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "header": {
+    "backgroundImageUrl": "",
+    "title": "Events",
+    "subtitle": "Bengaluru  |  594 Events",
+    "widget": {
+      "type": "advertisement",
+      "styleId": "-4587429557909981518",
+      "adtechId": "AD_EVENT_LISTING_CAROUSEL"
+    },
+    "expandedRatio": 0.0,
+    "collapsedHeight": 0,
+    "expandedHeaderHeight": 0,
+    "showExpandedHeader": false,
+    "actions": [
+      {
+        "iconUrl": "https://assets-in.bmscdn.com/discovery-catalog/icons/tr:w-72,h-72/search-202310260243.png",
+        "ctaUrl": "https://in.bookmyshow.com/bengaluru/search?cat=CT",
+        "title": "search"
+      }
+    ],
+    "translucent": false,
+    "backgroundPosition": ""
+  },
+  "actions": {
+    "search": {
+      "iconUrl": "https://assets-in.bmscdn.com/discovery-catalog/icons/tr:w-72,h-72/search-202007060430.png",
+      "ctaUrl": "https://in.bookmyshow.com/bengaluru/search?cat=CT"
+    }
+  },
+  "styles": [
+    {
+      "id": "widget-listings-events",
+      "padding": "0,0,0,0",
+      "type": "widget",
+      "cardsContainer": {
+        "padding": "16,16,16,16"
+      },
+      "shimmer": false,
+      "imageVerticalAlignment": "bottom"
+    },
+    {
+      "id": "widget-title-01",
+      "type": "text",
+      "font": "subtitle-regular",
+      "fontColor": "#222222",
+      "lineMargin": "4,0,0,0",
+      "shimmer": false,
+      "horizontalAlignment": "left",
+      "imageVerticalAlignment": "bottom"
+    },
+    {
+      "id": "widget-scroll-cta-01",
+      "type": "text",
+      "font": "body-regular",
+      "fontColor": "#0378FF",
+      "lineMargin": "0,0,0,0",
+      "shimmer": false,
+      "horizontalAlignment": "left",
+      "imageVerticalAlignment": "bottom"
+    },
+    {
+      "id": "listings-event-card-style",
+      "type": "card",
+      "imageContainer": {
+        "aspectRatio": 0.6667,
+        "margin": "0,0,4,0",
+        "shimmer": false,
+        "border": {
+          "cornerRadius": "8,8,8,8",
+          "opacity": 1.0,
+          "width": 0.0
+        }
+      },
+      "shimmer": false,
+      "imageVerticalAlignment": "bottom"
+    },
+    {
+      "id": "card-title-01",
+      "type": "text",
+      "font": "subtitle-regular",
+      "fontColor": "#333333",
+      "lineMargin": "4,0,0,0",
+      "shimmer": false,
+      "horizontalAlignment": "left",
+      "imageVerticalAlignment": "bottom"
+    },
+    {
+      "id": "card-muted-text-01",
+      "type": "text",
+      "font": "body-small",
+      "fontColor": "#555555",
+      "lineMargin": "3,0,0,0",
+      "shimmer": false,
+      "horizontalAlignment": "left",
+      "imageVerticalAlignment": "bottom"
+    },
+    {
+      "id": "card-venue-muted-text-01",
+      "type": "text",
+      "font": "body-small",
+      "fontColor": "#555555",
+      "lineMargin": "3,0,0,0",
+      "shimmer": false,
+      "horizontalAlignment": "left",
+      "imageVerticalAlignment": "bottom"
+    },
+    {
+      "id": "meta-image-style-01",
+      "aspectRatio": 6.6,
+      "padding": "0,0,0,0",
+      "margin": "4,0,0,0",
+      "type": "metaImage",
+      "border": {
+        "cornerRadius": "0,0,0,0",
+        "opacity": 1.0,
+        "width": 0.0
+      },
+      "shimmer": false,
+      "imageVerticalAlignment": "bottom",
+      "contentMode": "aspectFill"
+    },
+    {
+      "id": "header-title-01",
+      "type": "text",
+      "font": "title",
+      "fontColor": "#222222",
+      "lineMargin": "8,4,0,16",
+      "shimmer": false,
+      "horizontalAlignment": "left",
+      "imageVerticalAlignment": "bottom"
+    },
+    {
+      "id": "header-subtitle-01",
+      "type": "text",
+      "font": "tiny-medium",
+      "fontColor": "#DC354B",
+      "lineMargin": "0,0,0,16",
+      "shimmer": false,
+      "horizontalAlignment": "left",
+      "imageVerticalAlignment": "bottom"
+    },
+    {
+      "id": "listing-header-title-01",
+      "type": "text",
+      "font": "subtitle-regular",
+      "fontColor": "#222222",
+      "lineMargin": "0,0,0,16",
+      "shimmer": false,
+      "horizontalAlignment": "left",
+      "imageVerticalAlignment": "bottom"
+    },
+    {
+      "id": "listing-header-subtitle-01",
+      "type": "text",
+      "font": "body-small",
+      "fontColor": "#666666",
+      "lineMargin": "0,0,0,16",
+      "shimmer": false,
+      "horizontalAlignment": "left",
+      "imageVerticalAlignment": "bottom"
+    },
+    {
+      "id": "-4587429557909981518",
+      "aspectRatio": 2.0,
+      "padding": "0,0,0,0",
+      "type": "widget",
+      "shimmer": false,
+      "imageVerticalAlignment": "bottom",
+      "indicatorProperties": {
+        "colors": {
+          "active": "",
+          "inactive": ""
+        }
+      }
+    },
+    {
+      "id": "7086961849741629663",
+      "type": "card",
+      "shimmer": false,
+      "imageVerticalAlignment": "bottom"
+    }
+  ],
+  "listings": [
+    {
+      "id": "listing-mob-343",
+      "type": "flexbox",
+      "isSticky": false,
+      "styleId": "widget-listings-events",
+      "alignItems": "left",
+      "itemsPerRow": 2,
+      "horizontalSpacing": 16,
+      "verticalSpacing": 16,
+      "matchMaxCardHeight": true,
+      "cards": [
+        {
+          "id": "EG00383322",
+          "type": "vertical",
+          "styleId": "listings-event-card-style",
+          "ctaUrl": "https://in.bookmyshow.com/events/knife-painting-workshop/ET00384702",
+          "text": [
+            {
+              "maxLines": 2,
+              "styleId": "card-title-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Knife Painting Workshop"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-venue-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "SmallWorld: Koramangala 5th block, Bengaluru"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Arts and Crafts"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": []
+            }
+          ],
+          "metaImages": [
+            {
+              "styleId": "meta-image-style-01",
+              "image": {
+                "url": "https://assets-in.bmscdn.com/discovery-catalog/icons/tr:l-text,ie-VHVlLCAyNSBKdW4gb253YXJkcw%3D%3D,fs-48,ly-15,lx-30,ff-Roboto,pa-15_0_0_0,l-end/bottom-bands-listing-base-image-202301200318.png",
+                "altText": "Tue, 25 Jun onwards"
+              }
+            }
+          ],
+          "image": {
+            "url": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00384702-qmskyqrxtx-portrait.jpg",
+            "altText": "Knife Painting Workshop"
+          },
+          "tags": [],
+          "analytics": {
+            "id": "listing-mob-343_eg00383322_et00384702",
+            "in_widget_position": 1,
+            "schema_version": "3.0",
+            "widget_id": "listing-mob-343",
+            "widget_title": "LISTING-MOB-343",
+            "display_position": 343,
+            "title": "Knife Painting Workshop",
+            "screen_name": "events_listing",
+            "event": "gtm_std_event",
+            "event_name": "event_card_clicked",
+            "event_type": "click",
+            "event_code": "ET00384702",
+            "event_group": "EG00383322",
+            "region_code": "BANG",
+            "category": "arts-and-crafts-workshops|workshops",
+            "tags": "outdoor-events",
+            "genre": "",
+            "language": "",
+            "product": "events",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "impressionAnalytics": {
+            "schema_version": "3.0",
+            "screen_name": "events_listing",
+            "event_name": "event_card_viewed",
+            "event_type": "impression",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "buttons": [],
+          "seoText": "Knife Painting Workshop",
+          "cardDivisions": []
+        },
+        {
+          "id": "EG00400666",
+          "type": "vertical",
+          "styleId": "listings-event-card-style",
+          "ctaUrl": "https://in.bookmyshow.com/events/halwa-by-amit-tandon-india-tour/ET00402267",
+          "text": [
+            {
+              "maxLines": 2,
+              "styleId": "card-title-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Halwa By Amit Tandon - India Tour"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-venue-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Multiple Venues"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Stand up Comedy"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": []
+            }
+          ],
+          "metaImages": [
+            {
+              "styleId": "meta-image-style-01",
+              "image": {
+                "url": "https://assets-in.bmscdn.com/discovery-catalog/icons/tr:l-text,ie-U2F0LCAxMCBBdWc%3D,fs-48,ly-15,lx-30,ff-Roboto,pa-15_0_0_0,l-end/bottom-bands-listing-base-image-202301200318.png",
+                "altText": "Sat, 10 Aug"
+              }
+            }
+          ],
+          "image": {
+            "url": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00402267-mnwxruvwpd-portrait.jpg",
+            "altText": "Halwa By Amit Tandon - India Tour"
+          },
+          "tags": [],
+          "analytics": {
+            "id": "listing-mob-343_eg00400666_et00402267",
+            "in_widget_position": 2,
+            "schema_version": "3.0",
+            "widget_id": "listing-mob-343",
+            "widget_title": "LISTING-MOB-343",
+            "display_position": 343,
+            "title": "Halwa By Amit Tandon - India Tour",
+            "screen_name": "events_listing",
+            "event": "gtm_std_event",
+            "event_name": "event_card_clicked",
+            "event_type": "click",
+            "event_code": "ET00402267",
+            "event_group": "EG00400666",
+            "region_code": "BANG",
+            "category": "comedy-shows|stand-up-comedy",
+            "tags": "age-bucket-16-to-21|age-bucket-22-to-30|age-bucket-31-to-45|age-bucket-46-to-55|age-bucket-55-plus|age-bucket-8-to-15|outdoor-events",
+            "genre": "comedy",
+            "language": "english|hindi",
+            "product": "events",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "impressionAnalytics": {
+            "schema_version": "3.0",
+            "screen_name": "events_listing",
+            "event_name": "event_card_viewed",
+            "event_type": "impression",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "buttons": [],
+          "seoText": "Halwa By Amit Tandon - India Tour",
+          "cardDivisions": []
+        }
+      ]
+    },
+    {
+      "id": "listing-mob-344",
+      "type": "flexbox",
+      "isSticky": false,
+      "styleId": "widget-listings-events",
+      "alignItems": "left",
+      "itemsPerRow": 2,
+      "horizontalSpacing": 16,
+      "verticalSpacing": 16,
+      "matchMaxCardHeight": true,
+      "cards": [
+        {
+          "id": "EG00400239",
+          "type": "vertical",
+          "styleId": "listings-event-card-style",
+          "ctaUrl": "https://in.bookmyshow.com/events/prateek-kuhad-silhouettes-tour/ET00401834",
+          "text": [
+            {
+              "maxLines": 2,
+              "styleId": "card-title-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Prateek Kuhad Silhouettes Tour"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-venue-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Multiple Venues"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Concerts"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": []
+            }
+          ],
+          "metaImages": [
+            {
+              "styleId": "meta-image-style-01",
+              "image": {
+                "url": "https://assets-in.bmscdn.com/discovery-catalog/icons/tr:l-text,ie-U2F0LCA5IE5vdg%3D%3D,fs-48,ly-15,lx-30,ff-Roboto,pa-15_0_0_0,l-end/bottom-bands-listing-base-image-202301200318.png",
+                "altText": "Sat, 9 Nov"
+              }
+            }
+          ],
+          "image": {
+            "url": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00401834-ynqztvsldh-portrait.jpg",
+            "altText": "Prateek Kuhad Silhouettes Tour"
+          },
+          "tags": [],
+          "analytics": {
+            "id": "listing-mob-344_eg00400239_et00401834",
+            "in_widget_position": 1,
+            "schema_version": "3.0",
+            "widget_id": "listing-mob-344",
+            "widget_title": "LISTING-MOB-344",
+            "display_position": 344,
+            "title": "Prateek Kuhad Silhouettes Tour",
+            "screen_name": "events_listing",
+            "event": "gtm_std_event",
+            "event_name": "event_card_clicked",
+            "event_type": "click",
+            "event_code": "ET00401834",
+            "event_group": "EG00400239",
+            "region_code": "BANG",
+            "category": "concerts|music-shows",
+            "tags": "age-bucket-16-to-21|age-bucket-22-to-30|age-bucket-31-to-45|age-bucket-46-to-55|age-bucket-55-plus|age-bucket-8-to-15|outdoor-events",
+            "genre": "pop|romantic",
+            "language": "english|hindi",
+            "product": "events",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "impressionAnalytics": {
+            "schema_version": "3.0",
+            "screen_name": "events_listing",
+            "event_name": "event_card_viewed",
+            "event_type": "impression",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "buttons": [],
+          "seoText": "Prateek Kuhad Silhouettes Tour",
+          "cardDivisions": []
+        },
+        {
+          "id": "EG00400839",
+          "type": "vertical",
+          "styleId": "listings-event-card-style",
+          "ctaUrl": "https://in.bookmyshow.com/events/sugar-fit-vr-chromotherapy/ET00402447",
+          "text": [
+            {
+              "maxLines": 2,
+              "styleId": "card-title-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Sugar.fit VR Chromotherapy"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-venue-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Sugar.fit Diabetes Reversal Centre: Malleswaram"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Health and Fitness"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": []
+            }
+          ],
+          "metaImages": [
+            {
+              "styleId": "meta-image-style-01",
+              "image": {
+                "url": "https://assets-in.bmscdn.com/discovery-catalog/icons/tr:l-text,ie-VHVlLCAyNSBKdW4gb253YXJkcw%3D%3D,fs-48,ly-15,lx-30,ff-Roboto,pa-15_0_0_0,l-end/bottom-bands-listing-base-image-202301200318.png",
+                "altText": "Tue, 25 Jun onwards"
+              }
+            }
+          ],
+          "image": {
+            "url": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00402447-rmmdgtnapm-portrait.jpg",
+            "altText": "Sugar.fit VR Chromotherapy"
+          },
+          "tags": [],
+          "analytics": {
+            "id": "listing-mob-344_eg00400839_et00402447",
+            "in_widget_position": 2,
+            "schema_version": "3.0",
+            "widget_id": "listing-mob-344",
+            "widget_title": "LISTING-MOB-344",
+            "display_position": 344,
+            "title": "Sugar.fit VR Chromotherapy",
+            "screen_name": "events_listing",
+            "event": "gtm_std_event",
+            "event_name": "event_card_clicked",
+            "event_type": "click",
+            "event_code": "ET00402447",
+            "event_group": "EG00400839",
+            "region_code": "BANG",
+            "category": "health-and-fitness|workshops",
+            "tags": "age-bucket-16-to-21|age-bucket-22-to-30|age-bucket-31-to-45|age-bucket-46-to-55|age-bucket-55-plus|outdoor-events",
+            "genre": "",
+            "language": "",
+            "product": "events",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "impressionAnalytics": {
+            "schema_version": "3.0",
+            "screen_name": "events_listing",
+            "event_name": "event_card_viewed",
+            "event_type": "impression",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "buttons": [],
+          "seoText": "Sugar.fit VR Chromotherapy",
+          "cardDivisions": []
+        }
+      ]
+    },
+    {
+      "id": "listing-mob-345",
+      "type": "flexbox",
+      "isSticky": false,
+      "styleId": "widget-listings-events",
+      "alignItems": "left",
+      "itemsPerRow": 2,
+      "horizontalSpacing": 16,
+      "verticalSpacing": 16,
+      "matchMaxCardHeight": true,
+      "cards": [
+        {
+          "id": "EG00398334",
+          "type": "vertical",
+          "styleId": "listings-event-card-style",
+          "ctaUrl": "https://in.bookmyshow.com/events/crowd-jam-eve/ET00399889",
+          "text": [
+            {
+              "maxLines": 2,
+              "styleId": "card-title-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Let's Flute! - Group Workshop & Jam"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-venue-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Bloom Activity Center: Bengaluru"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Music"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": []
+            }
+          ],
+          "metaImages": [
+            {
+              "styleId": "meta-image-style-01",
+              "image": {
+                "url": "https://assets-in.bmscdn.com/discovery-catalog/icons/tr:l-text,ie-RnJpLCA1IEp1bCBvbndhcmRz,fs-48,ly-15,lx-30,ff-Roboto,pa-15_0_0_0,l-end/bottom-bands-listing-base-image-202301200318.png",
+                "altText": "Fri, 5 Jul onwards"
+              }
+            }
+          ],
+          "image": {
+            "url": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00399889-lrcytvsdaa-portrait.jpg",
+            "altText": "Let's Flute! - Group Workshop & Jam"
+          },
+          "tags": [],
+          "analytics": {
+            "id": "listing-mob-345_eg00398334_et00399889",
+            "in_widget_position": 1,
+            "schema_version": "3.0",
+            "widget_id": "listing-mob-345",
+            "widget_title": "LISTING-MOB-345",
+            "display_position": 345,
+            "title": "Let's Flute! - Group Workshop & Jam",
+            "screen_name": "events_listing",
+            "event": "gtm_std_event",
+            "event_name": "event_card_clicked",
+            "event_type": "click",
+            "event_code": "ET00399889",
+            "event_group": "EG00398334",
+            "region_code": "BANG",
+            "category": "music-workshops|workshops",
+            "tags": "age-bucket-16-to-21|age-bucket-22-to-30|age-bucket-31-to-45|age-bucket-46-to-55|age-bucket-55-plus|outdoor-events",
+            "genre": "hindustani",
+            "language": "english|hindi",
+            "product": "events",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "impressionAnalytics": {
+            "schema_version": "3.0",
+            "screen_name": "events_listing",
+            "event_name": "event_card_viewed",
+            "event_type": "impression",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "buttons": [],
+          "seoText": "Let's Flute! - Group Workshop & Jam",
+          "cardDivisions": []
+        },
+        {
+          "id": "EG00400440",
+          "type": "vertical",
+          "styleId": "listings-event-card-style",
+          "ctaUrl": "https://in.bookmyshow.com/events/design-thinking-bootcamp/ET00402037",
+          "text": [
+            {
+              "maxLines": 2,
+              "styleId": "card-title-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Design Thinking Bootcamp "
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-venue-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "CTB events at Dongle: Bengaluru"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Business"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": []
+            }
+          ],
+          "metaImages": [
+            {
+              "styleId": "meta-image-style-01",
+              "image": {
+                "url": "https://assets-in.bmscdn.com/discovery-catalog/icons/tr:l-text,ie-U3VuLCAzMCBKdW4gb253YXJkcw%3D%3D,fs-48,ly-15,lx-30,ff-Roboto,pa-15_0_0_0,l-end/bottom-bands-listing-base-image-202301200318.png",
+                "altText": "Sun, 30 Jun onwards"
+              }
+            }
+          ],
+          "image": {
+            "url": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00402037-surygtplvx-portrait.jpg",
+            "altText": "Design Thinking Bootcamp "
+          },
+          "tags": [],
+          "analytics": {
+            "id": "listing-mob-345_eg00400440_et00402037",
+            "in_widget_position": 2,
+            "schema_version": "3.0",
+            "widget_id": "listing-mob-345",
+            "widget_title": "LISTING-MOB-345",
+            "display_position": 345,
+            "title": "Design Thinking Bootcamp ",
+            "screen_name": "events_listing",
+            "event": "gtm_std_event",
+            "event_name": "event_card_clicked",
+            "event_type": "click",
+            "event_code": "ET00402037",
+            "event_group": "EG00400440",
+            "region_code": "BANG",
+            "category": "business-workshops|education-workshops|masterclass|self-improvement-workshops|technology-workshops|workshops",
+            "tags": "age-bucket-16-to-21|age-bucket-22-to-30|age-bucket-31-to-45|age-bucket-46-to-55|age-bucket-55-plus|outdoor-events",
+            "genre": "",
+            "language": "english",
+            "product": "events",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "impressionAnalytics": {
+            "schema_version": "3.0",
+            "screen_name": "events_listing",
+            "event_name": "event_card_viewed",
+            "event_type": "impression",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "buttons": [],
+          "seoText": "Design Thinking Bootcamp ",
+          "cardDivisions": []
+        }
+      ]
+    },
+    {
+      "id": "listing-mob-346",
+      "type": "flexbox",
+      "isSticky": false,
+      "styleId": "widget-listings-events",
+      "alignItems": "left",
+      "itemsPerRow": 2,
+      "horizontalSpacing": 16,
+      "verticalSpacing": 16,
+      "matchMaxCardHeight": true,
+      "cards": [
+        {
+          "id": "EG00370824",
+          "type": "vertical",
+          "styleId": "listings-event-card-style",
+          "ctaUrl": "https://in.bookmyshow.com/events/throw-back-thursday-bollywood-night/ET00372064",
+          "text": [
+            {
+              "maxLines": 2,
+              "styleId": "card-title-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "THROW BACK THURSDAY BOLLYWOOD NIGHT"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-venue-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "The Sugar Factory: Bengaluru"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Club Gigs"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": []
+            }
+          ],
+          "metaImages": [
+            {
+              "styleId": "meta-image-style-01",
+              "image": {
+                "url": "https://assets-in.bmscdn.com/discovery-catalog/icons/tr:l-text,ie-VGh1LCAyNyBKdW4%3D,fs-48,ly-15,lx-30,ff-Roboto,pa-15_0_0_0,l-end/bottom-bands-listing-base-image-202301200318.png",
+                "altText": "Thu, 27 Jun"
+              }
+            }
+          ],
+          "image": {
+            "url": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00372064-psyvmbzyek-portrait.jpg",
+            "altText": "THROW BACK THURSDAY BOLLYWOOD NIGHT"
+          },
+          "tags": [],
+          "analytics": {
+            "id": "listing-mob-346_eg00370824_et00372064",
+            "in_widget_position": 1,
+            "schema_version": "3.0",
+            "widget_id": "listing-mob-346",
+            "widget_title": "LISTING-MOB-346",
+            "display_position": 346,
+            "title": "THROW BACK THURSDAY BOLLYWOOD NIGHT",
+            "screen_name": "events_listing",
+            "event": "gtm_std_event",
+            "event_name": "event_card_clicked",
+            "event_type": "click",
+            "event_code": "ET00372064",
+            "event_group": "EG00370824",
+            "region_code": "BANG",
+            "category": "club-gigs|concerts|music-festivals|music-shows",
+            "tags": "age-bucket-16-to-21|age-bucket-22-to-30|age-bucket-31-to-45|age-bucket-46-to-55|age-bucket-55-plus|outdoor-events",
+            "genre": "bollywood|edm|hindustani|hip-hop|indian-pop|punjabi",
+            "language": "english|hindi",
+            "product": "events",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "impressionAnalytics": {
+            "schema_version": "3.0",
+            "screen_name": "events_listing",
+            "event_name": "event_card_viewed",
+            "event_type": "impression",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "buttons": [],
+          "seoText": "THROW BACK THURSDAY BOLLYWOOD NIGHT",
+          "cardDivisions": []
+        },
+        {
+          "id": "EG00354556",
+          "type": "vertical",
+          "styleId": "listings-event-card-style",
+          "ctaUrl": "https://in.bookmyshow.com/events/playdate-party-unwind-rediscover-playfulness/ET00355445",
+          "text": [
+            {
+              "maxLines": 2,
+              "styleId": "card-title-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Playdate with Parents "
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-venue-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "SmallWorld: S.T. Bed, Koramangala"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Arts and Crafts"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": []
+            }
+          ],
+          "metaImages": [
+            {
+              "styleId": "meta-image-style-01",
+              "image": {
+                "url": "https://assets-in.bmscdn.com/discovery-catalog/icons/tr:l-text,ie-VHVlLCAyNSBKdW4gb253YXJkcw%3D%3D,fs-48,ly-15,lx-30,ff-Roboto,pa-15_0_0_0,l-end/bottom-bands-listing-base-image-202301200318.png",
+                "altText": "Tue, 25 Jun onwards"
+              }
+            }
+          ],
+          "image": {
+            "url": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00355445-jxeebrgykv-portrait.jpg",
+            "altText": "Playdate with Parents "
+          },
+          "tags": [],
+          "analytics": {
+            "id": "listing-mob-346_eg00354556_et00355445",
+            "in_widget_position": 2,
+            "schema_version": "3.0",
+            "widget_id": "listing-mob-346",
+            "widget_title": "LISTING-MOB-346",
+            "display_position": 346,
+            "title": "Playdate with Parents ",
+            "screen_name": "events_listing",
+            "event": "gtm_std_event",
+            "event_name": "event_card_clicked",
+            "event_type": "click",
+            "event_code": "ET00355445",
+            "event_group": "EG00354556",
+            "region_code": "BANG",
+            "category": "arts-and-crafts-workshops|workshops",
+            "tags": "age-bucket-16-to-21|age-bucket-22-to-30|age-bucket-31-to-45|age-bucket-46-to-55|age-bucket-55-plus|bms-birthday-16-off-offer|outdoor-events",
+            "genre": "",
+            "language": "english",
+            "product": "events",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "impressionAnalytics": {
+            "schema_version": "3.0",
+            "screen_name": "events_listing",
+            "event_name": "event_card_viewed",
+            "event_type": "impression",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "buttons": [],
+          "seoText": "Playdate with Parents ",
+          "cardDivisions": []
+        }
+      ]
+    },
+    {
+      "id": "listing-mob-347",
+      "type": "flexbox",
+      "isSticky": false,
+      "styleId": "widget-listings-events",
+      "alignItems": "left",
+      "itemsPerRow": 2,
+      "horizontalSpacing": 16,
+      "verticalSpacing": 16,
+      "matchMaxCardHeight": true,
+      "cards": [
+        {
+          "id": "EG00400003",
+          "type": "vertical",
+          "styleId": "listings-event-card-style",
+          "ctaUrl": "https://in.bookmyshow.com/events/entrepreneurs-meetup-by-we-founders-collab/ET00401595",
+          "text": [
+            {
+              "maxLines": 2,
+              "styleId": "card-title-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Entrepreneurs Meetup by We Founders Collab"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-venue-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "EIMR - An Entrepreneurship Institute: Bengaluru"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Business"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": []
+            }
+          ],
+          "metaImages": [
+            {
+              "styleId": "meta-image-style-01",
+              "image": {
+                "url": "https://assets-in.bmscdn.com/discovery-catalog/icons/tr:l-text,ie-U2F0LCAyNyBKdWw%3D,fs-48,ly-15,lx-30,ff-Roboto,pa-15_0_0_0,l-end/bottom-bands-listing-base-image-202301200318.png",
+                "altText": "Sat, 27 Jul"
+              }
+            }
+          ],
+          "image": {
+            "url": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00401595-tpgeuhauyt-portrait.jpg",
+            "altText": "Entrepreneurs Meetup by We Founders Collab"
+          },
+          "tags": [],
+          "analytics": {
+            "id": "listing-mob-347_eg00400003_et00401595",
+            "in_widget_position": 1,
+            "schema_version": "3.0",
+            "widget_id": "listing-mob-347",
+            "widget_title": "LISTING-MOB-347",
+            "display_position": 347,
+            "title": "Entrepreneurs Meetup by We Founders Collab",
+            "screen_name": "events_listing",
+            "event": "gtm_std_event",
+            "event_name": "event_card_clicked",
+            "event_type": "click",
+            "event_code": "ET00401595",
+            "event_group": "EG00400003",
+            "region_code": "BANG",
+            "category": "business-workshops|workshops",
+            "tags": "age-bucket-16-to-21|age-bucket-22-to-30|age-bucket-31-to-45|age-bucket-46-to-55|age-bucket-55-plus|outdoor-events",
+            "genre": "",
+            "language": "english|hindi",
+            "product": "events",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "impressionAnalytics": {
+            "schema_version": "3.0",
+            "screen_name": "events_listing",
+            "event_name": "event_card_viewed",
+            "event_type": "impression",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "buttons": [],
+          "seoText": "Entrepreneurs Meetup by We Founders Collab",
+          "cardDivisions": []
+        },
+        {
+          "id": "EG00400115",
+          "type": "vertical",
+          "styleId": "listings-event-card-style",
+          "ctaUrl": "https://in.bookmyshow.com/events/uv-resin-jewellery-with-flower-preservation/ET00401708",
+          "text": [
+            {
+              "maxLines": 2,
+              "styleId": "card-title-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "UV Resin Jewellery with Flower Preservation"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-venue-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Bloom Activity Center: Bengaluru"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": [
+                {
+                  "type": "text",
+                  "text": "Arts and Crafts"
+                }
+              ]
+            },
+            {
+              "maxLines": 1,
+              "styleId": "card-muted-text-01",
+              "components": []
+            }
+          ],
+          "metaImages": [
+            {
+              "styleId": "meta-image-style-01",
+              "image": {
+                "url": "https://assets-in.bmscdn.com/discovery-catalog/icons/tr:l-text,ie-U3VuLCA3IEp1bA%3D%3D,fs-48,ly-15,lx-30,ff-Roboto,pa-15_0_0_0,l-end/bottom-bands-listing-base-image-202301200318.png",
+                "altText": "Sun, 7 Jul"
+              }
+            }
+          ],
+          "image": {
+            "url": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00401708-mrudbdknfq-portrait.jpg",
+            "altText": "UV Resin Jewellery with Flower Preservation"
+          },
+          "tags": [],
+          "analytics": {
+            "id": "listing-mob-347_eg00400115_et00401708",
+            "in_widget_position": 2,
+            "schema_version": "3.0",
+            "widget_id": "listing-mob-347",
+            "widget_title": "LISTING-MOB-347",
+            "display_position": 347,
+            "title": "UV Resin Jewellery with Flower Preservation",
+            "screen_name": "events_listing",
+            "event": "gtm_std_event",
+            "event_name": "event_card_clicked",
+            "event_type": "click",
+            "event_code": "ET00401708",
+            "event_group": "EG00400115",
+            "region_code": "BANG",
+            "category": "arts-and-crafts-workshops|food-and-drinks-workshops|jewellery-workshops|painting-workshops|workshops",
+            "tags": "age-bucket-16-to-21|age-bucket-22-to-30|age-bucket-31-to-45|age-bucket-46-to-55|age-bucket-55-plus|outdoor-events",
+            "genre": "",
+            "language": "english|hindi",
+            "product": "events",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "impressionAnalytics": {
+            "schema_version": "3.0",
+            "screen_name": "events_listing",
+            "event_name": "event_card_viewed",
+            "event_type": "impression",
+            "is_tvod": "",
+            "metadata": ""
+          },
+          "buttons": [],
+          "seoText": "UV Resin Jewellery with Flower Preservation",
+          "cardDivisions": []
+        }
+      ]
+    }
+  ],
+  "filters": [],
+  "sortBy": [
+    {
+      "code": "relevance",
+      "label": "Relevance",
+      "description": "Best options for you first",
+      "quickFilter": false,
+      "selection": "single",
+      "selected": true,
+      "custom": false
+    },
+    {
+      "code": "bestSelling",
+      "label": "Trending",
+      "description": "Show bestselling first",
+      "quickFilter": false,
+      "selection": "single",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "code": "priceLowToHigh",
+      "label": "Price low to high",
+      "description": "Show lowest price first",
+      "quickFilter": false,
+      "selection": "single",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "code": "priceHighToLow",
+      "label": "Price high to low",
+      "description": "Show highest price first",
+      "quickFilter": false,
+      "selection": "single",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "code": "earliestEventFirst",
+      "label": "Sort by time",
+      "description": "Show earliest event first",
+      "quickFilter": false,
+      "selection": "single",
+      "selected": false,
+      "custom": false
+    },
+    {
+      "code": "newestEventFirst",
+      "label": "Newest added",
+      "description": "Show recently added first",
+      "quickFilter": false,
+      "selection": "single",
+      "selected": false,
+      "custom": false
+    }
+  ],
+  "breadCrumbs": [
+    {
+      "label": "Home",
+      "route": "/explore/home/bengaluru"
+    },
+    {
+      "label": "Events",
+      "route": "/explore/events-bengaluru"
+    }
+  ],
+  "responseHeader": {
+    "cacheTagRouteSlug": "events"
+  },
+  "bottomSheet": {}
+}
