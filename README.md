@@ -23,8 +23,10 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | [Blue Tokai][bt]			     | ✔️      | ✔️     | ✔️          | Some location guesswork
 | [Gully Tours][gt]			     | ✔️      | ✔️     | ✔️          |  Sticker Price used, child pricing ignored
 | [Tonight.is][tonight]          | ✔️      | ✔️     | ❌          | Only parties, regulars ignored for now.
+| PVR Cinemas                    | ✔️      | ✔️     | ❌          | Covers only PVR cinemas
 | Together.buzz                  | ✔️      | ✔️     | ✔️          | 
 | Creative Mornings BLR          | ✔️      | ✔️     | ✔️          | 
+| Adidas Runners                 | ✔️      | ✔️     | ✔️          | 
 | Sisters in Sweat               | 🚧      | ❌     | ❌    |
 | [Visvesvaraya Museum][vism].   | ❌      | ❌     | ❌           | OCR                                                                                                       |
 | [NGMA][ngma]                   | ❌      | ❌     | ❌           | OCR The [older website calender](http://www.ngmaindia.gov.in/ngma_bangaluru_calendar.asp) is not updated. |
@@ -91,3 +93,4 @@ We have some data available or change notifications configured, but there needs 
 [ts]: https://www.townscript.com/
 [bt]: https://bluetokaicoffee.com/pages/events-new
 [gt]: https://www.gully.tours/tours
+[tonight]: https://tonight.is
