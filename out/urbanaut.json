@@ -1,6 +1,6 @@
 {
   "facet_counts": [],
-  "found": 11,
+  "found": 13,
   "hits": [
     {
       "document": {
@@ -2642,9 +2642,416 @@
       },
       "highlight": {},
       "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+          "company_name": "Courtyard",
+          "company_phone": "+91-73386-77996",
+          "company_tag_line": "Home to  the Curious",
+          "guest_can_whatsapp": true,
+          "logo_path": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "micro_site_banner_path": null,
+          "slug": "courtyard",
+          "theme_color": "060606"
+        },
+        "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+        "approved": 4673,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>We are delighted to confirm your reservation for the Pottery Workshop for Beginners&nbsp;with Sienna, Calcutta. If you have any further inquiries or special requests, feel free to reach out to our dedicated event coordinator at 7338677996. Thank you once again for choosing to be a part of our community. We look forward to hosting you for an evening. You can find out more about upcoming events by joining <a href=\"https://chat.whatsapp.com/G6j88wtm1ZgGJhutF4LRR8\" rel=\"noopener noreferrer\" target=\"_blank\">our WhatsApp community. </a></p><p><br></p><p>Team Courtyard</p>",
+        "can_be_booked_before": 12,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<ul><li>No shows and cancellations are non-refundable by all means.</li><li>Tickets are non-transferable and are for personal use only.</li></ul><p><br></p>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": "sales@thecourtyardcommunity.in",
+              "name": "Team Courtyard"
+            }
+          ],
+          "on_ground_contacts": [
+            {
+              "name": "Team Courtyard",
+              "phone": "+91-7338677996"
+            }
+          ],
+          "whatsapp_contact_for_guest": {
+            "name": "Team Courtyard",
+            "phone": "+917338677996"
+          }
+        },
+        "contributor": {
+          "age": null,
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "city": null,
+          "first_name": "Courtyard",
+          "gender": null,
+          "id": 10113,
+          "instagram": null,
+          "profile_picture": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "short_bio": "",
+          "slug": "courtyard"
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [],
+        "display_tags_data": [],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-07-21 18:00:00",
+        "end_timestamp": 1721565000,
+        "explore_order": 1,
+        "genre_tags": [
+          2,
+          17,
+          20
+        ],
+        "genre_tags_data": [
+          {
+            "id": 2,
+            "name": "Art & culture",
+            "path": "genretags/art_and_culture.png"
+          },
+          {
+            "id": 17,
+            "name": "Workshop",
+            "path": "genretags/workshop.png"
+          },
+          {
+            "id": 20,
+            "name": "Pop-up Event",
+            "path": "genretags/pop_up_event.png"
+          }
+        ],
+        "google_map_link": "https://maps.google.com/?cid=15325971903082601795",
+        "google_place_id": "ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "4265",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_promo_code_available": false,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "is_slug_editable": false,
+        "lat": "12.95843050000000000000",
+        "lat_lng": [
+          12.9584305,
+          77.59289509999999
+        ],
+        "lng": "77.59289509999999000000",
+        "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/116527FA855445A5BFA09BCB7107A71D_converted_webp.webp",
+            "id": 109695,
+            "multi_size": [],
+            "name": null,
+            "order": 0,
+            "path": "images/116527FA855445A5BFA09BCB7107A71D_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/116527FA855445A5BFA09BCB7107A71D_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/116527FA855445A5BFA09BCB7107A71D_converted_webp.webp",
+            "type": "Cover photo"
+          }
+        ],
+        "metadata": {},
+        "modified": "2024-06-25 18:34:54",
+        "modified_timestamp": 1719320694,
+        "must_see": false,
+        "name": "Pottery Workshop for Beginners | Sienna, Calcutta at Courtyard",
+        "notify_me": false,
+        "order": 4114,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "1695.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p><strong><u>About the workshop</u></strong></p><p class=\"ql-align-justify\">Enjoy an exclusive, hands-on experience with 2 trainers for every 6 participants. Traveling with us from our workshop in Santiniketan are senior potters from the Sienna, Calcutta family, who will co-host pottery workshops for both kids and adults throughout the residency.</p><p><strong style=\"background-color: transparent;\"><u>Play with clay</u></strong></p><p><span style=\"background-color: transparent;\">Sienna, Calcutta's senior potters from the Santiniketan will teach the basics of hand-building, pinch, coil &amp; slab pottery. You will be able to create objects, shapes &amp; forms, without using a potter\u2019s wheel - all you need are your hands and some fun shaping &amp; coiling tools which we will provide. A fun session to let you unleash your imagination and creativity and make something unique.</span></p><p>For Beginners (Children between 5 yrs - 12 years) &amp; adults with young hearts</p><p><span style=\"background-color: transparent;\">Duration: 2 hours</span></p><p><strong><u>Terms &amp; Conditions</u></strong></p><ul><li>The management is not responsible for any injury or damage that may occur during an event</li><li>Please be on time for your slot.</li><li>Do not purchase the tickets from anyone other than on the ticketing platform.</li><li>No shows and cancellations are non-refundable by all means.</li><li>Tickets are non-transferable and are for personal use only.</li><li>The schedule and the menu are subject to change in case of an emergency or any event out of our control.</li><li>For Beginners (Children between 5 yrs - 12 years) &amp; adults with young hearts - Children can be accompanied by one adult.</li><li>No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.</li><li>Parking near the event premises is at the risk of the vehicle owner.</li><li>Paid Valet Parking at 200RS per car.</li><li>The holder of this ticket grants organizers the right to use, in perpetuity, all or any part of the recording of any video or still footage made of the holder's appearance on any channel without any further approval of theirs.</li></ul>",
+        "slug": "pottery-workshop-with-the-sienna-calcutta-family",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "Exclusive, hands-on workshop with senior potters from Sienna, Calcutta, based in Santiniketan"
+            },
+            {
+              "label": "What's not",
+              "text": "Wine\nParking"
+            }
+          ]
+        },
+        "spotapproved_id": 4265,
+        "start": "2024-07-19 16:00:00",
+        "start_timestamp": 1721385000,
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          2,
+          3,
+          5
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 2,
+            "name": "Kid-Friendly",
+            "path": "who_is_it_tags/kid_friendly.png"
+          },
+          {
+            "id": 3,
+            "name": "Beginner-Friendly",
+            "path": "who_is_it_tags/beginner_friendly.png"
+          },
+          {
+            "id": 5,
+            "name": "Family-Friendly",
+            "path": "who_is_it_tags/family_friendly.png"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
+    },
+    {
+      "document": {
+        "accept_partial_payment": false,
+        "account_data": {
+          "company_description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+          "company_name": "Courtyard",
+          "company_phone": "+91-73386-77996",
+          "company_tag_line": "Home to  the Curious",
+          "guest_can_whatsapp": true,
+          "logo_path": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "slug": "courtyard",
+          "theme_color": "060606"
+        },
+        "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+        "approved": 4676,
+        "available_days": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "available_for_booking": true,
+        "booking_confirmation_message": "<p>We are delighted to confirm your reservation for the Pottery Workshop (Intermediate level) with Sienna, Calcutta. If you have any further inquiries or special requests, feel free to reach out to our dedicated event coordinator at 7338677996. Thank you once again for choosing to be a part of our community. We look forward to hosting you for an evening. You can find out more about upcoming events by joining <a href=\"https://chat.whatsapp.com/G6j88wtm1ZgGJhutF4LRR8\" rel=\"noopener noreferrer\" target=\"_blank\">our WhatsApp community. </a></p><p><br></p><p>Team Courtyard</p>",
+        "can_be_booked_before": 12,
+        "can_book_till_end": false,
+        "cancel_pending_payment": 12.0,
+        "cancellation_policy": "<ul><li>No shows and cancellations are non-refundable by all means.</li><li>Tickets are non-transferable and are for personal use only.</li></ul><p><br></p>",
+        "categories": [
+          12
+        ],
+        "categories_name": [
+          "Events"
+        ],
+        "city": "Bengaluru",
+        "coming_soon": false,
+        "contacts": {
+          "booking_related_emails": [
+            {
+              "email": "sales@thecourtayrdcommunity.in",
+              "name": "Team Courtyard"
+            }
+          ],
+          "on_ground_contacts": [
+            {
+              "name": "Team Courtyard",
+              "phone": "+91-7338677996"
+            }
+          ],
+          "whatsapp_contact_for_guest": {
+            "name": "Team Courtyard",
+            "phone": "+917338677996"
+          }
+        },
+        "contributor": {
+          "aws_profile_picture": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "first_name": "Courtyard",
+          "id": 10113,
+          "profile_picture": "images/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+          "short_bio": "",
+          "slug": "courtyard"
+        },
+        "days": [],
+        "disclaimer": "You acknowledge that Urbanaut is an intermediary platform and is not responsible for the conduct of any Partner providing Experiences on the Platform. You acknowledge that the responsibility for delivering the Experience remains on the Partner and agree that Urbanaut shall in no manner be liable if a Partner does not provide the Experience, there is a deficiency in the provision of the Experience, or any harm or injury is suffered on account of your participation in or availing of the Experience.",
+        "display_rank": 5,
+        "display_tags": [],
+        "display_tags_data": [],
+        "enable_calendar_invite": false,
+        "enable_list_view": true,
+        "end": "2024-07-21 13:00:00",
+        "end_timestamp": 1721547000,
+        "explore_order": 1,
+        "genre_tags": [
+          2,
+          17,
+          20
+        ],
+        "genre_tags_data": [
+          {
+            "id": 2,
+            "name": "Art & culture",
+            "path": "genretags/art_and_culture.png"
+          },
+          {
+            "id": 17,
+            "name": "Workshop",
+            "path": "genretags/workshop.png"
+          },
+          {
+            "id": 20,
+            "name": "Pop-up Event",
+            "path": "genretags/pop_up_event.png"
+          }
+        ],
+        "google_map_link": "https://maps.google.com/?cid=15325971903082601795",
+        "google_place_id": "ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+        "has_end_timestamp": true,
+        "has_u_plus_offer": false,
+        "id": "4268",
+        "insider_tip": "This experience sells out pretty quick!",
+        "instant_booking": true,
+        "instructions_from_experience_provider": "",
+        "is_bookable": false,
+        "is_favourite": false,
+        "is_itinerary": false,
+        "is_live": true,
+        "is_promo_code_available": false,
+        "is_renamed": false,
+        "is_same_working_hours": false,
+        "is_slug_editable": false,
+        "lat": "12.95843050000000000000",
+        "lat_lng": [
+          12.9584305,
+          77.59289509999999
+        ],
+        "lng": "77.59289509999999000000",
+        "location": "SRID=4326;POINT (77.59289509999999 12.9584305)",
+        "marketing_tag_data": null,
+        "medias": [
+          {
+            "aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C6B9AE0286684F21A3A67E62286564CC_converted_webp.webp",
+            "id": 109700,
+            "multi_size": [],
+            "order": 0,
+            "path": "images/C6B9AE0286684F21A3A67E62286564CC_converted_webp.webp",
+            "thumbnail_aws_url": "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C6B9AE0286684F21A3A67E62286564CC_converted_webp.webp",
+            "thumbnail_created": false,
+            "thumbnail_image_path": "images/C6B9AE0286684F21A3A67E62286564CC_converted_webp.webp",
+            "type": "Cover photo"
+          }
+        ],
+        "metadata": {},
+        "modified": "2024-06-25 19:44:56",
+        "modified_timestamp": 1719324896,
+        "must_see": false,
+        "name": "Pottery workshop (Intermediate level) | Sienna, Calcutta at Courtyard",
+        "notify_me": false,
+        "order": 4117,
+        "permanently_closed": false,
+        "price_added": true,
+        "price_starts_at": "5085.00",
+        "price_starts_at_currency": "INR",
+        "private_booking_available": false,
+        "questions_to_ask": {
+          "custom_questions": [],
+          "default_questions": []
+        },
+        "same_day": [],
+        "short_description": "<p><strong><u>About the workshop</u></strong></p><p class=\"ql-align-justify\">Enjoy an exclusive, hands-on experience with 2 trainers for every 6 participants. Traveling with us from our workshop in Santiniketan are senior potters from the Sienna, Calcutta family, who will co-host pottery workshops for both kids and adults throughout the residency.</p><p><strong style=\"background-color: transparent;\">Shape, throw &amp; mould!</strong></p><p><strong style=\"background-color: transparent;\">Day 1:</strong></p><p><span style=\"background-color: transparent;\">Our master potter &amp; senior designer, and Senior glazing expert will give an introduction to hand-thrown pottery and ceramic arts. We will go through each stage of the pottery-making process with visual aids. We will start by teaching to wedge the clay and then throw on the potter\u2019s wheel and finally learn to centre it.</span></p><p><strong style=\"background-color: transparent;\">Day 2:</strong></p><p><span style=\"background-color: transparent;\">Shape and mould the clay and create various forms using hands and making handles, learning slab, coil and hand-building techniques. They will teach the group how to pull and push the clay body as desired to create various shapes &amp; forms. Surface carving and decorating techniques.</span></p><p><strong style=\"background-color: transparent;\">Day 3:</strong></p><p><span style=\"background-color: transparent;\">Working on perfecting the shapes and sizes, controlling the forms, and continuing to practice throwing.</span></p><p><strong style=\"background-color: transparent;\">3 days</strong></p><p><span style=\"background-color: transparent;\">for Intermediate level pottery experience</span></p><p><span style=\"background-color: transparent;\">Age requirement: Over the age of 12 years</span></p><p>Duration: 2 hours</p><p><span style=\"background-color: transparent;\">Time: 11 am - 1 pm</span></p><p><br></p><p><strong><u>Terms &amp; Conditions</u></strong></p><ul><li>The management is not responsible for any injury or damage that may occur during an event</li><li>Please be on time for your slot.</li><li>Do not purchase the tickets from anyone other than on the ticketing platform.</li><li>No shows and cancellations are non-refundable by all means.</li><li>Tickets are non-transferable and are for personal use only.</li><li>The schedule and the menu are subject to change in case of an emergency or any event out of our control.</li><li>No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.</li><li>Parking near the event premises is at the risk of the vehicle owner.</li><li>Paid Valet Parking at 200RS per car.</li><li>The holder of this ticket grants organizers the right to use, in perpetuity, all or any part of the recording of any video or still footage made of the holder's appearance on any channel without any further approval of theirs.</li></ul><p><br></p>",
+        "slug": "pottery-workshop-intermediate-level-sienna-calcutta-at-courtyard",
+        "specific_sections": {
+          "custom": [],
+          "default_section": [
+            {
+              "label": "What's included",
+              "text": "Exclusive, hands-on workshop with senior potters from Sienna, Calcutta, based in Santiniketan"
+            },
+            {
+              "label": "What's not",
+              "text": "Wine\nParking"
+            }
+          ]
+        },
+        "spotapproved_id": 4268,
+        "start": "2024-07-19 11:00:00",
+        "start_timestamp": 1721367000,
+        "stop_auto_date_add": true,
+        "type": "public",
+        "u_plus_inquiry_enabled": false,
+        "user_convenience_fee_flat": "60.00",
+        "user_convenience_fee_flat_currency": "INR",
+        "user_convenience_fee_percentage": "3.00",
+        "who_is_it_for_tags": [
+          8,
+          11,
+          6
+        ],
+        "who_is_it_for_tags_data": [
+          {
+            "id": 8,
+            "name": "For All Ages",
+            "path": "who_is_it_tags/for_all_ages.png"
+          },
+          {
+            "id": 11,
+            "name": "Exclusive",
+            "path": "who_is_it_tags/exclusive.png"
+          },
+          {
+            "id": 6,
+            "name": "For Couples",
+            "path": "who_is_it_tags/for_couples.png"
+          }
+        ],
+        "working_days": []
+      },
+      "highlight": {},
+      "highlights": []
     }
   ],
-  "out_of": 2362,
+  "out_of": 2365,
   "page": 1,
   "request_params": {
     "collection_name": "spot_approved",
@@ -2652,5 +3059,5 @@
     "q": "*"
   },
   "search_cutoff": false,
-  "search_time_ms": 5
+  "search_time_ms": 4
 }
