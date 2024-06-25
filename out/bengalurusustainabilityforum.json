@@ -1,10 +1,7 @@
 {
-  "status_code": 0,
-  "messages": {
-    "error": "error"
-  },
-  "content": [],
-  "translated_text": {
-    "see_details_text": "See Details"
+  "code": "rest_no_route",
+  "message": "No route was found matching the URL and request method.",
+  "data": {
+    "status": 404
   }
 }
