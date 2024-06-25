@@ -20,10 +20,11 @@ def fetch_events(session):
     r = session.get(url, headers=HEADERS).json()
     for data in r['_embedded']['events']:
         location = data['meta']['adidas_runners_locations']
+        _id = data["id"]
         events.append({
             "name": "Adidas Runners " + data['title'],
             "about": data['description'],
-            "url": f"https://www.adidas.co.in/adidasrunners/events/event/{data["id"]}",
+            "url": f"https://www.adidas.co.in/adidasrunners/events/event/{_id}",
             "startDate": data['eventStartDate'],
             "endDate": data['eventStartDate'],
             "image": data['_links']['img']['href'],
