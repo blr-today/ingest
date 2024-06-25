@@ -36,6 +36,7 @@ EVENT_JSON_FILES = [
     'out/champaca.json',
     'out/gullytours.json',
     'out/mapindia.json',
+    'out/adidas.json',
 ]
 
 KNOWN_EVENT_TYPES = [
