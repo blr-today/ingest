@@ -1,7 +1,7 @@
 [
   {
     "totalSeats": 186,
-    "availableSeats": 185,
+    "availableSeats": 177,
     "screenName": "SCREEN 2",
     "language": "English",
     "movieFormat": "3D",
@@ -10,8 +10,36 @@
     "filmFormat": "3D",
     "theatreId": "24",
     "experienceKey": "",
-    "startTime": "2024-06-25T04:40:00",
-    "endTime": "2024-06-25T06:53:00"
+    "startTime": "2024-06-26T04:40:00",
+    "endTime": "2024-06-26T06:53:00"
+  },
+  {
+    "totalSeats": 186,
+    "availableSeats": 140,
+    "screenName": "SCREEN 2",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "24",
+    "experienceKey": "",
+    "startTime": "2024-06-26T06:55:00",
+    "endTime": "2024-06-26T09:08:00"
+  },
+  {
+    "totalSeats": 186,
+    "availableSeats": 178,
+    "screenName": "SCREEN 2",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "24",
+    "experienceKey": "",
+    "startTime": "2024-06-26T12:30:00",
+    "endTime": "2024-06-26T14:43:00"
   },
   {
     "totalSeats": 186,
@@ -24,36 +52,8 @@
     "filmFormat": "3D",
     "theatreId": "24",
     "experienceKey": "",
-    "startTime": "2024-06-25T06:55:00",
-    "endTime": "2024-06-25T09:08:00"
-  },
-  {
-    "totalSeats": 186,
-    "availableSeats": 163,
-    "screenName": "SCREEN 2",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "24",
-    "experienceKey": "",
-    "startTime": "2024-06-25T12:30:00",
-    "endTime": "2024-06-25T14:43:00"
-  },
-  {
-    "totalSeats": 186,
-    "availableSeats": 150,
-    "screenName": "SCREEN 2",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "24",
-    "experienceKey": "",
-    "startTime": "2024-06-25T14:45:00",
-    "endTime": "2024-06-25T16:58:00"
+    "startTime": "2024-06-26T14:45:00",
+    "endTime": "2024-06-26T16:58:00"
   },
   {
     "totalSeats": 52,
@@ -66,8 +66,8 @@
     "filmFormat": "3D",
     "theatreId": "390",
     "experienceKey": "gold",
-    "startTime": "2024-06-25T05:25:00",
-    "endTime": "2024-06-25T07:37:00"
+    "startTime": "2024-06-26T05:25:00",
+    "endTime": "2024-06-26T07:37:00"
   },
   {
     "totalSeats": 52,
@@ -80,8 +80,8 @@
     "filmFormat": "3D",
     "theatreId": "390",
     "experienceKey": "gold",
-    "startTime": "2024-06-25T10:55:00",
-    "endTime": "2024-06-25T13:07:00"
+    "startTime": "2024-06-26T10:55:00",
+    "endTime": "2024-06-26T13:07:00"
   },
   {
     "totalSeats": 52,
@@ -94,12 +94,12 @@
     "filmFormat": "3D",
     "theatreId": "390",
     "experienceKey": "gold",
-    "startTime": "2024-06-25T16:00:00",
-    "endTime": "2024-06-25T18:12:00"
+    "startTime": "2024-06-26T16:00:00",
+    "endTime": "2024-06-26T18:12:00"
   },
   {
     "totalSeats": 261,
-    "availableSeats": 250,
+    "availableSeats": 249,
     "screenName": "AUDI 03",
     "language": "English",
     "movieFormat": "3D IMAX",
@@ -108,124 +108,138 @@
     "filmFormat": "3D IMAX",
     "theatreId": "390",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T06:30:00",
-    "endTime": "2024-06-25T08:51:00"
+    "startTime": "2024-06-26T06:30:00",
+    "endTime": "2024-06-26T08:51:00"
   },
   {
     "totalSeats": 261,
+    "availableSeats": 236,
+    "screenName": "AUDI 03",
+    "language": "English",
+    "movieFormat": "3D IMAX",
+    "subtitle": true,
+    "screenType": "IMAX",
+    "filmFormat": "3D IMAX",
+    "theatreId": "390",
+    "experienceKey": "imax",
+    "startTime": "2024-06-26T10:00:00",
+    "endTime": "2024-06-26T12:12:00"
+  },
+  {
+    "totalSeats": 261,
+    "availableSeats": 245,
+    "screenName": "AUDI 03",
+    "language": "English",
+    "movieFormat": "3D IMAX",
+    "subtitle": true,
+    "screenType": "IMAX",
+    "filmFormat": "3D IMAX",
+    "theatreId": "390",
+    "experienceKey": "imax",
+    "startTime": "2024-06-26T12:20:00",
+    "endTime": "2024-06-26T14:32:00"
+  },
+  {
+    "totalSeats": 261,
+    "availableSeats": 240,
+    "screenName": "AUDI 03",
+    "language": "English",
+    "movieFormat": "3D IMAX",
+    "subtitle": true,
+    "screenType": "IMAX",
+    "filmFormat": "3D IMAX",
+    "theatreId": "390",
+    "experienceKey": "imax",
+    "startTime": "2024-06-26T14:40:00",
+    "endTime": "2024-06-26T16:52:00"
+  },
+  {
+    "totalSeats": 171,
+    "availableSeats": 167,
+    "screenName": "AUDI 05",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "391",
+    "experienceKey": "",
+    "startTime": "2024-06-26T06:10:00",
+    "endTime": "2024-06-26T08:22:00"
+  },
+  {
+    "totalSeats": 171,
+    "availableSeats": 169,
+    "screenName": "AUDI 05",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "391",
+    "experienceKey": "",
+    "startTime": "2024-06-26T08:30:00",
+    "endTime": "2024-06-26T10:42:00"
+  },
+  {
+    "totalSeats": 171,
+    "availableSeats": 166,
+    "screenName": "AUDI 05",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "391",
+    "experienceKey": "",
+    "startTime": "2024-06-26T10:50:00",
+    "endTime": "2024-06-26T13:02:00"
+  },
+  {
+    "totalSeats": 171,
+    "availableSeats": 164,
+    "screenName": "AUDI 05",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "391",
+    "experienceKey": "",
+    "startTime": "2024-06-26T13:10:00",
+    "endTime": "2024-06-26T15:22:00"
+  },
+  {
+    "totalSeats": 171,
+    "availableSeats": 171,
+    "screenName": "AUDI 05",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "391",
+    "experienceKey": "",
+    "startTime": "2024-06-26T15:30:00",
+    "endTime": "2024-06-26T17:42:00"
+  },
+  {
+    "totalSeats": 238,
+    "availableSeats": 236,
+    "screenName": "SCREEN 4",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "150",
+    "experienceKey": "",
+    "startTime": "2024-06-26T04:55:00",
+    "endTime": "2024-06-26T07:06:00"
+  },
+  {
+    "totalSeats": 238,
     "availableSeats": 232,
-    "screenName": "AUDI 03",
-    "language": "English",
-    "movieFormat": "3D IMAX",
-    "subtitle": true,
-    "screenType": "IMAX",
-    "filmFormat": "3D IMAX",
-    "theatreId": "390",
-    "experienceKey": "imax",
-    "startTime": "2024-06-25T10:00:00",
-    "endTime": "2024-06-25T12:12:00"
-  },
-  {
-    "totalSeats": 261,
-    "availableSeats": 209,
-    "screenName": "AUDI 03",
-    "language": "English",
-    "movieFormat": "3D IMAX",
-    "subtitle": true,
-    "screenType": "IMAX",
-    "filmFormat": "3D IMAX",
-    "theatreId": "390",
-    "experienceKey": "imax",
-    "startTime": "2024-06-25T12:20:00",
-    "endTime": "2024-06-25T14:32:00"
-  },
-  {
-    "totalSeats": 261,
-    "availableSeats": 178,
-    "screenName": "AUDI 03",
-    "language": "English",
-    "movieFormat": "3D IMAX",
-    "subtitle": true,
-    "screenType": "IMAX",
-    "filmFormat": "3D IMAX",
-    "theatreId": "390",
-    "experienceKey": "imax",
-    "startTime": "2024-06-25T14:40:00",
-    "endTime": "2024-06-25T16:52:00"
-  },
-  {
-    "totalSeats": 171,
-    "availableSeats": 154,
-    "screenName": "AUDI 05",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "391",
-    "experienceKey": "",
-    "startTime": "2024-06-25T06:10:00",
-    "endTime": "2024-06-25T08:22:00"
-  },
-  {
-    "totalSeats": 171,
-    "availableSeats": 154,
-    "screenName": "AUDI 05",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "391",
-    "experienceKey": "",
-    "startTime": "2024-06-25T08:30:00",
-    "endTime": "2024-06-25T10:42:00"
-  },
-  {
-    "totalSeats": 171,
-    "availableSeats": 155,
-    "screenName": "AUDI 05",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "391",
-    "experienceKey": "",
-    "startTime": "2024-06-25T10:50:00",
-    "endTime": "2024-06-25T13:02:00"
-  },
-  {
-    "totalSeats": 171,
-    "availableSeats": 155,
-    "screenName": "AUDI 05",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "391",
-    "experienceKey": "",
-    "startTime": "2024-06-25T13:10:00",
-    "endTime": "2024-06-25T15:22:00"
-  },
-  {
-    "totalSeats": 171,
-    "availableSeats": 151,
-    "screenName": "AUDI 05",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "391",
-    "experienceKey": "",
-    "startTime": "2024-06-25T15:30:00",
-    "endTime": "2024-06-25T17:42:00"
-  },
-  {
-    "totalSeats": 238,
-    "availableSeats": 226,
     "screenName": "SCREEN 4",
     "language": "English",
     "movieFormat": "3D",
@@ -234,12 +248,12 @@
     "filmFormat": "3D",
     "theatreId": "150",
     "experienceKey": "",
-    "startTime": "2024-06-25T04:55:00",
-    "endTime": "2024-06-25T07:06:00"
+    "startTime": "2024-06-26T07:10:00",
+    "endTime": "2024-06-26T09:21:00"
   },
   {
     "totalSeats": 238,
-    "availableSeats": 217,
+    "availableSeats": 238,
     "screenName": "SCREEN 4",
     "language": "English",
     "movieFormat": "3D",
@@ -248,22 +262,50 @@
     "filmFormat": "3D",
     "theatreId": "150",
     "experienceKey": "",
-    "startTime": "2024-06-25T07:10:00",
-    "endTime": "2024-06-25T09:21:00"
+    "startTime": "2024-06-26T11:50:00",
+    "endTime": "2024-06-26T14:01:00"
   },
   {
-    "totalSeats": 238,
-    "availableSeats": 225,
-    "screenName": "SCREEN 4",
+    "totalSeats": 284,
+    "availableSeats": 277,
+    "screenName": "IMAX 5",
     "language": "English",
-    "movieFormat": "3D",
+    "movieFormat": "3D IMAX",
     "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "150",
-    "experienceKey": "",
-    "startTime": "2024-06-25T11:50:00",
-    "endTime": "2024-06-25T14:01:00"
+    "screenType": "IMAX",
+    "filmFormat": "3D IMAX",
+    "theatreId": "231",
+    "experienceKey": "imax",
+    "startTime": "2024-06-26T06:35:00",
+    "endTime": "2024-06-26T08:46:00"
+  },
+  {
+    "totalSeats": 284,
+    "availableSeats": 273,
+    "screenName": "IMAX 5",
+    "language": "English",
+    "movieFormat": "3D IMAX",
+    "subtitle": true,
+    "screenType": "IMAX",
+    "filmFormat": "3D IMAX",
+    "theatreId": "231",
+    "experienceKey": "imax",
+    "startTime": "2024-06-26T09:00:00",
+    "endTime": "2024-06-26T11:21:00"
+  },
+  {
+    "totalSeats": 284,
+    "availableSeats": 280,
+    "screenName": "IMAX 5",
+    "language": "English",
+    "movieFormat": "3D IMAX",
+    "subtitle": true,
+    "screenType": "IMAX",
+    "filmFormat": "3D IMAX",
+    "theatreId": "231",
+    "experienceKey": "imax",
+    "startTime": "2024-06-26T12:00:00",
+    "endTime": "2024-06-26T14:11:00"
   },
   {
     "totalSeats": 284,
@@ -276,12 +318,12 @@
     "filmFormat": "3D IMAX",
     "theatreId": "231",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T06:35:00",
-    "endTime": "2024-06-25T08:46:00"
+    "startTime": "2024-06-26T14:15:00",
+    "endTime": "2024-06-26T16:26:00"
   },
   {
     "totalSeats": 284,
-    "availableSeats": 268,
+    "availableSeats": 284,
     "screenName": "IMAX 5",
     "language": "English",
     "movieFormat": "3D IMAX",
@@ -290,54 +332,12 @@
     "filmFormat": "3D IMAX",
     "theatreId": "231",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T09:00:00",
-    "endTime": "2024-06-25T11:21:00"
-  },
-  {
-    "totalSeats": 284,
-    "availableSeats": 255,
-    "screenName": "IMAX 5",
-    "language": "English",
-    "movieFormat": "3D IMAX",
-    "subtitle": true,
-    "screenType": "IMAX",
-    "filmFormat": "3D IMAX",
-    "theatreId": "231",
-    "experienceKey": "imax",
-    "startTime": "2024-06-25T12:00:00",
-    "endTime": "2024-06-25T14:11:00"
-  },
-  {
-    "totalSeats": 284,
-    "availableSeats": 245,
-    "screenName": "IMAX 5",
-    "language": "English",
-    "movieFormat": "3D IMAX",
-    "subtitle": true,
-    "screenType": "IMAX",
-    "filmFormat": "3D IMAX",
-    "theatreId": "231",
-    "experienceKey": "imax",
-    "startTime": "2024-06-25T14:15:00",
-    "endTime": "2024-06-25T16:26:00"
-  },
-  {
-    "totalSeats": 284,
-    "availableSeats": 270,
-    "screenName": "IMAX 5",
-    "language": "English",
-    "movieFormat": "3D IMAX",
-    "subtitle": true,
-    "screenType": "IMAX",
-    "filmFormat": "3D IMAX",
-    "theatreId": "231",
-    "experienceKey": "imax",
-    "startTime": "2024-06-25T16:30:00",
-    "endTime": "2024-06-25T18:41:00"
+    "startTime": "2024-06-26T16:30:00",
+    "endTime": "2024-06-26T18:41:00"
   },
   {
     "totalSeats": 200,
-    "availableSeats": 171,
+    "availableSeats": 191,
     "screenName": "SCREEN 5",
     "language": "English",
     "movieFormat": "3D ATMOS",
@@ -346,12 +346,12 @@
     "filmFormat": "3D",
     "theatreId": "110",
     "experienceKey": "",
-    "startTime": "2024-06-25T06:55:00",
-    "endTime": "2024-06-25T09:06:00"
+    "startTime": "2024-06-26T06:55:00",
+    "endTime": "2024-06-26T09:06:00"
   },
   {
     "totalSeats": 200,
-    "availableSeats": 142,
+    "availableSeats": 193,
     "screenName": "SCREEN 5",
     "language": "English",
     "movieFormat": "3D ATMOS",
@@ -360,12 +360,12 @@
     "filmFormat": "3D",
     "theatreId": "110",
     "experienceKey": "",
-    "startTime": "2024-06-25T11:40:00",
-    "endTime": "2024-06-25T13:51:00"
+    "startTime": "2024-06-26T11:40:00",
+    "endTime": "2024-06-26T13:51:00"
   },
   {
     "totalSeats": 62,
-    "availableSeats": 49,
+    "availableSeats": 62,
     "screenName": "SCREEN 2",
     "language": "English",
     "movieFormat": "3D ATMOS",
@@ -374,12 +374,12 @@
     "filmFormat": "3D",
     "theatreId": "110",
     "experienceKey": "insignia",
-    "startTime": "2024-06-25T16:50:00",
-    "endTime": "2024-06-25T19:01:00"
+    "startTime": "2024-06-26T16:50:00",
+    "endTime": "2024-06-26T19:01:00"
   },
   {
     "totalSeats": 209,
-    "availableSeats": 193,
+    "availableSeats": 191,
     "screenName": "AUDI 03",
     "language": "English",
     "movieFormat": "3D",
@@ -388,12 +388,12 @@
     "filmFormat": "3D",
     "theatreId": "531",
     "experienceKey": "",
-    "startTime": "2024-06-25T06:10:00",
-    "endTime": "2024-06-25T08:31:00"
+    "startTime": "2024-06-26T06:10:00",
+    "endTime": "2024-06-26T08:31:00"
   },
   {
     "totalSeats": 209,
-    "availableSeats": 190,
+    "availableSeats": 199,
     "screenName": "AUDI 03",
     "language": "English",
     "movieFormat": "3D",
@@ -402,12 +402,12 @@
     "filmFormat": "3D",
     "theatreId": "531",
     "experienceKey": "",
-    "startTime": "2024-06-25T11:40:00",
-    "endTime": "2024-06-25T13:58:00"
+    "startTime": "2024-06-26T11:40:00",
+    "endTime": "2024-06-26T13:58:00"
   },
   {
     "totalSeats": 80,
-    "availableSeats": 73,
+    "availableSeats": 80,
     "screenName": "AUDI 05 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -416,8 +416,36 @@
     "filmFormat": "3D",
     "theatreId": "531",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T06:25:00",
-    "endTime": "2024-06-25T08:22:00"
+    "startTime": "2024-06-26T06:25:00",
+    "endTime": "2024-06-26T08:22:00"
+  },
+  {
+    "totalSeats": 80,
+    "availableSeats": 80,
+    "screenName": "AUDI 05 4DX",
+    "language": "English",
+    "movieFormat": "3D 4DX",
+    "subtitle": true,
+    "screenType": "4DX",
+    "filmFormat": "3D",
+    "theatreId": "531",
+    "experienceKey": "4dx",
+    "startTime": "2024-06-26T08:30:00",
+    "endTime": "2024-06-26T10:27:00"
+  },
+  {
+    "totalSeats": 80,
+    "availableSeats": 77,
+    "screenName": "AUDI 05 4DX",
+    "language": "English",
+    "movieFormat": "3D 4DX",
+    "subtitle": true,
+    "screenType": "4DX",
+    "filmFormat": "3D",
+    "theatreId": "531",
+    "experienceKey": "4dx",
+    "startTime": "2024-06-26T10:35:00",
+    "endTime": "2024-06-26T12:32:00"
   },
   {
     "totalSeats": 80,
@@ -430,12 +458,12 @@
     "filmFormat": "3D",
     "theatreId": "531",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T08:30:00",
-    "endTime": "2024-06-25T10:27:00"
+    "startTime": "2024-06-26T12:40:00",
+    "endTime": "2024-06-26T14:37:00"
   },
   {
     "totalSeats": 80,
-    "availableSeats": 71,
+    "availableSeats": 60,
     "screenName": "AUDI 05 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -444,12 +472,12 @@
     "filmFormat": "3D",
     "theatreId": "531",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T10:35:00",
-    "endTime": "2024-06-25T12:32:00"
+    "startTime": "2024-06-26T14:45:00",
+    "endTime": "2024-06-26T16:42:00"
   },
   {
     "totalSeats": 80,
-    "availableSeats": 52,
+    "availableSeats": 80,
     "screenName": "AUDI 05 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -458,40 +486,12 @@
     "filmFormat": "3D",
     "theatreId": "531",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T12:40:00",
-    "endTime": "2024-06-25T14:37:00"
-  },
-  {
-    "totalSeats": 80,
-    "availableSeats": 59,
-    "screenName": "AUDI 05 4DX",
-    "language": "English",
-    "movieFormat": "3D 4DX",
-    "subtitle": true,
-    "screenType": "4DX",
-    "filmFormat": "3D",
-    "theatreId": "531",
-    "experienceKey": "4dx",
-    "startTime": "2024-06-25T14:45:00",
-    "endTime": "2024-06-25T16:42:00"
-  },
-  {
-    "totalSeats": 80,
-    "availableSeats": 65,
-    "screenName": "AUDI 05 4DX",
-    "language": "English",
-    "movieFormat": "3D 4DX",
-    "subtitle": true,
-    "screenType": "4DX",
-    "filmFormat": "3D",
-    "theatreId": "531",
-    "experienceKey": "4dx",
-    "startTime": "2024-06-25T16:50:00",
-    "endTime": "2024-06-25T18:47:00"
+    "startTime": "2024-06-26T16:50:00",
+    "endTime": "2024-06-26T18:47:00"
   },
   {
     "totalSeats": 326,
-    "availableSeats": 319,
+    "availableSeats": 326,
     "screenName": "AUDI 01 PXL",
     "language": "English",
     "movieFormat": "3D",
@@ -500,12 +500,12 @@
     "filmFormat": "3D",
     "theatreId": "531",
     "experienceKey": "pxl",
-    "startTime": "2024-06-25T07:50:00",
-    "endTime": "2024-06-25T10:02:00"
+    "startTime": "2024-06-26T07:50:00",
+    "endTime": "2024-06-26T10:02:00"
   },
   {
     "totalSeats": 203,
-    "availableSeats": 153,
+    "availableSeats": 196,
     "screenName": "SCREEN 1",
     "language": "English",
     "movieFormat": "3D",
@@ -514,12 +514,12 @@
     "filmFormat": "3D",
     "theatreId": "510",
     "experienceKey": "",
-    "startTime": "2024-06-25T09:20:00",
-    "endTime": "2024-06-25T11:32:00"
+    "startTime": "2024-06-26T09:20:00",
+    "endTime": "2024-06-26T11:32:00"
   },
   {
     "totalSeats": 203,
-    "availableSeats": 77,
+    "availableSeats": 131,
     "screenName": "SCREEN 1",
     "language": "English",
     "movieFormat": "3D",
@@ -528,12 +528,12 @@
     "filmFormat": "3D",
     "theatreId": "510",
     "experienceKey": "",
-    "startTime": "2024-06-25T14:40:00",
-    "endTime": "2024-06-25T16:52:00"
+    "startTime": "2024-06-26T14:40:00",
+    "endTime": "2024-06-26T16:52:00"
   },
   {
     "totalSeats": 88,
-    "availableSeats": 78,
+    "availableSeats": 88,
     "screenName": "AUDI 11 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -542,12 +542,12 @@
     "filmFormat": "3D",
     "theatreId": "533",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T05:30:00",
-    "endTime": "2024-06-25T07:27:00"
+    "startTime": "2024-06-26T05:30:00",
+    "endTime": "2024-06-26T07:27:00"
   },
   {
     "totalSeats": 88,
-    "availableSeats": 80,
+    "availableSeats": 83,
     "screenName": "AUDI 11 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -556,12 +556,12 @@
     "filmFormat": "3D",
     "theatreId": "533",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T07:35:00",
-    "endTime": "2024-06-25T09:32:00"
+    "startTime": "2024-06-26T07:35:00",
+    "endTime": "2024-06-26T09:32:00"
   },
   {
     "totalSeats": 88,
-    "availableSeats": 82,
+    "availableSeats": 86,
     "screenName": "AUDI 11 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -570,12 +570,12 @@
     "filmFormat": "3D",
     "theatreId": "533",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T09:40:00",
-    "endTime": "2024-06-25T11:37:00"
+    "startTime": "2024-06-26T09:40:00",
+    "endTime": "2024-06-26T11:37:00"
   },
   {
     "totalSeats": 88,
-    "availableSeats": 65,
+    "availableSeats": 76,
     "screenName": "AUDI 11 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -584,12 +584,12 @@
     "filmFormat": "3D",
     "theatreId": "533",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T13:55:00",
-    "endTime": "2024-06-25T15:52:00"
+    "startTime": "2024-06-26T13:55:00",
+    "endTime": "2024-06-26T15:52:00"
   },
   {
     "totalSeats": 88,
-    "availableSeats": 75,
+    "availableSeats": 87,
     "screenName": "AUDI 11 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -598,12 +598,12 @@
     "filmFormat": "3D",
     "theatreId": "533",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T16:00:00",
-    "endTime": "2024-06-25T17:57:00"
+    "startTime": "2024-06-26T16:00:00",
+    "endTime": "2024-06-26T17:57:00"
   },
   {
     "totalSeats": 227,
-    "availableSeats": 201,
+    "availableSeats": 219,
     "screenName": "AUDI 12 ICE",
     "language": "English",
     "movieFormat": "3D ICE",
@@ -612,12 +612,12 @@
     "filmFormat": "3D ICE",
     "theatreId": "533",
     "experienceKey": "ice",
-    "startTime": "2024-06-25T05:50:00",
-    "endTime": "2024-06-25T08:02:00"
+    "startTime": "2024-06-26T05:50:00",
+    "endTime": "2024-06-26T08:02:00"
   },
   {
     "totalSeats": 227,
-    "availableSeats": 190,
+    "availableSeats": 214,
     "screenName": "AUDI 12 ICE",
     "language": "English",
     "movieFormat": "3D ICE",
@@ -626,12 +626,12 @@
     "filmFormat": "3D ICE",
     "theatreId": "533",
     "experienceKey": "ice",
-    "startTime": "2024-06-25T08:10:00",
-    "endTime": "2024-06-25T10:22:00"
+    "startTime": "2024-06-26T08:10:00",
+    "endTime": "2024-06-26T10:22:00"
   },
   {
     "totalSeats": 227,
-    "availableSeats": 179,
+    "availableSeats": 203,
     "screenName": "AUDI 12 ICE",
     "language": "English",
     "movieFormat": "3D ICE",
@@ -640,12 +640,12 @@
     "filmFormat": "3D ICE",
     "theatreId": "533",
     "experienceKey": "ice",
-    "startTime": "2024-06-25T13:10:00",
-    "endTime": "2024-06-25T15:22:00"
+    "startTime": "2024-06-26T13:10:00",
+    "endTime": "2024-06-26T15:22:00"
   },
   {
     "totalSeats": 43,
-    "availableSeats": 36,
+    "availableSeats": 41,
     "screenName": "AUDI 01",
     "language": "English",
     "movieFormat": "3D",
@@ -654,22 +654,8 @@
     "filmFormat": "3D",
     "theatreId": "533",
     "experienceKey": "luxe",
-    "startTime": "2024-06-25T05:05:00",
-    "endTime": "2024-06-25T07:17:00"
-  },
-  {
-    "totalSeats": 43,
-    "availableSeats": 37,
-    "screenName": "AUDI 01",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "LUXE",
-    "filmFormat": "3D",
-    "theatreId": "533",
-    "experienceKey": "luxe",
-    "startTime": "2024-06-25T10:10:00",
-    "endTime": "2024-06-25T12:22:00"
+    "startTime": "2024-06-26T05:05:00",
+    "endTime": "2024-06-26T07:17:00"
   },
   {
     "totalSeats": 43,
@@ -682,12 +668,26 @@
     "filmFormat": "3D",
     "theatreId": "533",
     "experienceKey": "luxe",
-    "startTime": "2024-06-25T16:30:00",
-    "endTime": "2024-06-25T18:42:00"
+    "startTime": "2024-06-26T10:10:00",
+    "endTime": "2024-06-26T12:22:00"
+  },
+  {
+    "totalSeats": 43,
+    "availableSeats": 41,
+    "screenName": "AUDI 01",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "LUXE",
+    "filmFormat": "3D",
+    "theatreId": "533",
+    "experienceKey": "luxe",
+    "startTime": "2024-06-26T16:30:00",
+    "endTime": "2024-06-26T18:42:00"
   },
   {
     "totalSeats": 420,
-    "availableSeats": 374,
+    "availableSeats": 397,
     "screenName": "AUDI 05 PXL",
     "language": "English",
     "movieFormat": "3D",
@@ -696,12 +696,12 @@
     "filmFormat": "3D",
     "theatreId": "533",
     "experienceKey": "pxl",
-    "startTime": "2024-06-25T09:10:00",
-    "endTime": "2024-06-25T11:22:00"
+    "startTime": "2024-06-26T09:10:00",
+    "endTime": "2024-06-26T11:22:00"
   },
   {
     "totalSeats": 420,
-    "availableSeats": 373,
+    "availableSeats": 408,
     "screenName": "AUDI 05 PXL",
     "language": "English",
     "movieFormat": "3D",
@@ -710,12 +710,12 @@
     "filmFormat": "3D",
     "theatreId": "533",
     "experienceKey": "pxl",
-    "startTime": "2024-06-25T14:40:00",
-    "endTime": "2024-06-25T16:52:00"
+    "startTime": "2024-06-26T14:40:00",
+    "endTime": "2024-06-26T16:52:00"
   },
   {
     "totalSeats": 376,
-    "availableSeats": 348,
+    "availableSeats": 368,
     "screenName": "AUDI 05",
     "language": "English",
     "movieFormat": "3D",
@@ -724,12 +724,12 @@
     "filmFormat": "3D",
     "theatreId": "511",
     "experienceKey": "",
-    "startTime": "2024-06-25T05:35:00",
-    "endTime": "2024-06-25T07:47:00"
+    "startTime": "2024-06-26T05:35:00",
+    "endTime": "2024-06-26T07:47:00"
   },
   {
     "totalSeats": 376,
-    "availableSeats": 298,
+    "availableSeats": 363,
     "screenName": "AUDI 05",
     "language": "English",
     "movieFormat": "3D",
@@ -738,8 +738,8 @@
     "filmFormat": "3D",
     "theatreId": "511",
     "experienceKey": "",
-    "startTime": "2024-06-25T14:10:00",
-    "endTime": "2024-06-25T16:22:00"
+    "startTime": "2024-06-26T14:10:00",
+    "endTime": "2024-06-26T16:22:00"
   },
   {
     "totalSeats": 88,
@@ -752,12 +752,12 @@
     "filmFormat": "3D",
     "theatreId": "511",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T05:00:00",
-    "endTime": "2024-06-25T06:57:00"
+    "startTime": "2024-06-26T05:00:00",
+    "endTime": "2024-06-26T06:57:00"
   },
   {
     "totalSeats": 88,
-    "availableSeats": 67,
+    "availableSeats": 86,
     "screenName": "AUDI 03 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -766,12 +766,12 @@
     "filmFormat": "3D",
     "theatreId": "511",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T07:05:00",
-    "endTime": "2024-06-25T09:02:00"
+    "startTime": "2024-06-26T07:05:00",
+    "endTime": "2024-06-26T09:02:00"
   },
   {
     "totalSeats": 88,
-    "availableSeats": 54,
+    "availableSeats": 80,
     "screenName": "AUDI 03 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -780,12 +780,12 @@
     "filmFormat": "3D",
     "theatreId": "511",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T09:10:00",
-    "endTime": "2024-06-25T11:07:00"
+    "startTime": "2024-06-26T09:10:00",
+    "endTime": "2024-06-26T11:07:00"
   },
   {
     "totalSeats": 88,
-    "availableSeats": 75,
+    "availableSeats": 77,
     "screenName": "AUDI 03 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -794,12 +794,12 @@
     "filmFormat": "3D",
     "theatreId": "511",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T13:45:00",
-    "endTime": "2024-06-25T15:42:00"
+    "startTime": "2024-06-26T13:45:00",
+    "endTime": "2024-06-26T15:42:00"
   },
   {
     "totalSeats": 88,
-    "availableSeats": 72,
+    "availableSeats": 86,
     "screenName": "AUDI 03 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -808,12 +808,12 @@
     "filmFormat": "3D",
     "theatreId": "511",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T15:50:00",
-    "endTime": "2024-06-25T17:47:00"
+    "startTime": "2024-06-26T15:50:00",
+    "endTime": "2024-06-26T17:47:00"
   },
   {
     "totalSeats": 319,
-    "availableSeats": 279,
+    "availableSeats": 294,
     "screenName": "AUDI 10 PXL",
     "language": "English",
     "movieFormat": "3D",
@@ -822,12 +822,12 @@
     "filmFormat": "3D",
     "theatreId": "511",
     "experienceKey": "pxl",
-    "startTime": "2024-06-25T06:15:00",
-    "endTime": "2024-06-25T08:23:00"
+    "startTime": "2024-06-26T06:15:00",
+    "endTime": "2024-06-26T08:23:00"
   },
   {
     "totalSeats": 319,
-    "availableSeats": 260,
+    "availableSeats": 297,
     "screenName": "AUDI 10 PXL",
     "language": "English",
     "movieFormat": "3D",
@@ -836,12 +836,12 @@
     "filmFormat": "3D",
     "theatreId": "511",
     "experienceKey": "pxl",
-    "startTime": "2024-06-25T11:30:00",
-    "endTime": "2024-06-25T13:38:00"
+    "startTime": "2024-06-26T11:30:00",
+    "endTime": "2024-06-26T13:38:00"
   },
   {
     "totalSeats": 319,
-    "availableSeats": 279,
+    "availableSeats": 312,
     "screenName": "AUDI 10 PXL",
     "language": "English",
     "movieFormat": "3D",
@@ -850,12 +850,12 @@
     "filmFormat": "3D",
     "theatreId": "511",
     "experienceKey": "pxl",
-    "startTime": "2024-06-25T16:45:00",
-    "endTime": "2024-06-25T18:53:00"
+    "startTime": "2024-06-26T16:45:00",
+    "endTime": "2024-06-26T18:53:00"
   },
   {
     "totalSeats": 233,
-    "availableSeats": 214,
+    "availableSeats": 231,
     "screenName": "AUDI 06",
     "language": "English",
     "movieFormat": "3D",
@@ -864,8 +864,22 @@
     "filmFormat": "3D",
     "theatreId": "534",
     "experienceKey": "",
-    "startTime": "2024-06-25T11:00:00",
-    "endTime": "2024-06-25T13:11:00"
+    "startTime": "2024-06-26T11:00:00",
+    "endTime": "2024-06-26T13:11:00"
+  },
+  {
+    "totalSeats": 84,
+    "availableSeats": 76,
+    "screenName": "AUDI 04 4DX",
+    "language": "English",
+    "movieFormat": "3D 4DX",
+    "subtitle": true,
+    "screenType": "4DX",
+    "filmFormat": "3D",
+    "theatreId": "534",
+    "experienceKey": "4dx",
+    "startTime": "2024-06-26T05:35:00",
+    "endTime": "2024-06-26T07:32:00"
   },
   {
     "totalSeats": 84,
@@ -878,12 +892,12 @@
     "filmFormat": "3D",
     "theatreId": "534",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T05:35:00",
-    "endTime": "2024-06-25T07:32:00"
+    "startTime": "2024-06-26T07:40:00",
+    "endTime": "2024-06-26T09:37:00"
   },
   {
     "totalSeats": 84,
-    "availableSeats": 73,
+    "availableSeats": 84,
     "screenName": "AUDI 04 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -892,12 +906,12 @@
     "filmFormat": "3D",
     "theatreId": "534",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T07:40:00",
-    "endTime": "2024-06-25T09:37:00"
+    "startTime": "2024-06-26T09:45:00",
+    "endTime": "2024-06-26T11:42:00"
   },
   {
     "totalSeats": 84,
-    "availableSeats": 80,
+    "availableSeats": 84,
     "screenName": "AUDI 04 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -906,12 +920,12 @@
     "filmFormat": "3D",
     "theatreId": "534",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T09:45:00",
-    "endTime": "2024-06-25T11:42:00"
+    "startTime": "2024-06-26T11:50:00",
+    "endTime": "2024-06-26T13:47:00"
   },
   {
     "totalSeats": 84,
-    "availableSeats": 64,
+    "availableSeats": 79,
     "screenName": "AUDI 04 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -920,209 +934,153 @@
     "filmFormat": "3D",
     "theatreId": "534",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T11:50:00",
-    "endTime": "2024-06-25T13:47:00"
+    "startTime": "2024-06-26T13:55:00",
+    "endTime": "2024-06-26T15:52:00"
   },
   {
     "totalSeats": 84,
-    "availableSeats": 75,
-    "screenName": "AUDI 04 4DX",
-    "language": "English",
-    "movieFormat": "3D 4DX",
-    "subtitle": true,
-    "screenType": "4DX",
-    "filmFormat": "3D",
-    "theatreId": "534",
-    "experienceKey": "4dx",
-    "startTime": "2024-06-25T13:55:00",
-    "endTime": "2024-06-25T15:52:00"
-  },
-  {
-    "totalSeats": 84,
-    "availableSeats": 75,
-    "screenName": "AUDI 04 4DX",
-    "language": "English",
-    "movieFormat": "3D 4DX",
-    "subtitle": true,
-    "screenType": "4DX",
-    "filmFormat": "3D",
-    "theatreId": "534",
-    "experienceKey": "4dx",
-    "startTime": "2024-06-25T16:00:00",
-    "endTime": "2024-06-25T17:57:00"
-  },
-  {
-    "totalSeats": 124,
-    "availableSeats": 110,
-    "screenName": "AUDI 01",
-    "language": "English",
-    "movieFormat": "3D 4DX",
-    "subtitle": true,
-    "screenType": "4DX",
-    "filmFormat": "3D",
-    "theatreId": "512",
-    "experienceKey": "4dx",
-    "startTime": "2024-06-25T06:10:00",
-    "endTime": "2024-06-25T08:07:00"
-  },
-  {
-    "totalSeats": 124,
-    "availableSeats": 112,
-    "screenName": "AUDI 01",
-    "language": "English",
-    "movieFormat": "3D 4DX",
-    "subtitle": true,
-    "screenType": "4DX",
-    "filmFormat": "3D",
-    "theatreId": "512",
-    "experienceKey": "4dx",
-    "startTime": "2024-06-25T08:15:00",
-    "endTime": "2024-06-25T10:12:00"
-  },
-  {
-    "totalSeats": 124,
-    "availableSeats": 106,
-    "screenName": "AUDI 01",
-    "language": "English",
-    "movieFormat": "3D 4DX",
-    "subtitle": true,
-    "screenType": "4DX",
-    "filmFormat": "3D",
-    "theatreId": "512",
-    "experienceKey": "4dx",
-    "startTime": "2024-06-25T12:50:00",
-    "endTime": "2024-06-25T14:47:00"
-  },
-  {
-    "totalSeats": 124,
-    "availableSeats": 113,
-    "screenName": "AUDI 01",
-    "language": "English",
-    "movieFormat": "3D 4DX",
-    "subtitle": true,
-    "screenType": "4DX",
-    "filmFormat": "3D",
-    "theatreId": "512",
-    "experienceKey": "4dx",
-    "startTime": "2024-06-25T14:55:00",
-    "endTime": "2024-06-25T16:52:00"
-  },
-  {
-    "totalSeats": 120,
-    "availableSeats": 113,
-    "screenName": "AUDI 04",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "PLAYHOUSE",
-    "filmFormat": "3D",
-    "theatreId": "512",
-    "experienceKey": "playhouse",
-    "startTime": "2024-06-25T05:05:00",
-    "endTime": "2024-06-25T07:17:00"
-  },
-  {
-    "totalSeats": 120,
-    "availableSeats": 100,
-    "screenName": "AUDI 04",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "PLAYHOUSE",
-    "filmFormat": "3D",
-    "theatreId": "512",
-    "experienceKey": "playhouse",
-    "startTime": "2024-06-25T07:25:00",
-    "endTime": "2024-06-25T09:37:00"
-  },
-  {
-    "totalSeats": 120,
-    "availableSeats": 87,
-    "screenName": "AUDI 04",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "PLAYHOUSE",
-    "filmFormat": "3D",
-    "theatreId": "512",
-    "experienceKey": "playhouse",
-    "startTime": "2024-06-25T09:45:00",
-    "endTime": "2024-06-25T11:57:00"
-  },
-  {
-    "totalSeats": 120,
-    "availableSeats": 100,
-    "screenName": "AUDI 04",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "PLAYHOUSE",
-    "filmFormat": "3D",
-    "theatreId": "512",
-    "experienceKey": "playhouse",
-    "startTime": "2024-06-25T14:10:00",
-    "endTime": "2024-06-25T16:22:00"
-  },
-  {
-    "totalSeats": 120,
-    "availableSeats": 63,
-    "screenName": "AUDI 04",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "PLAYHOUSE",
-    "filmFormat": "3D",
-    "theatreId": "512",
-    "experienceKey": "playhouse",
-    "startTime": "2024-06-25T16:30:00",
-    "endTime": "2024-06-25T18:42:00"
-  },
-  {
-    "totalSeats": 234,
-    "availableSeats": 231,
-    "screenName": "SCREEN-4",
-    "language": "English",
-    "movieFormat": "3D ATMOS",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "519",
-    "experienceKey": "",
-    "startTime": "2024-06-25T04:10:00",
-    "endTime": "2024-06-25T06:22:00"
-  },
-  {
-    "totalSeats": 95,
-    "availableSeats": 95,
-    "screenName": "SCREEN-2",
-    "language": "English",
-    "movieFormat": "3D ATMOS",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "519",
-    "experienceKey": "",
-    "startTime": "2024-06-25T05:30:00",
-    "endTime": "2024-06-25T07:42:00"
-  },
-  {
-    "totalSeats": 234,
-    "availableSeats": 216,
-    "screenName": "SCREEN-4",
-    "language": "English",
-    "movieFormat": "3D ATMOS",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "519",
-    "experienceKey": "",
-    "startTime": "2024-06-25T10:00:00",
-    "endTime": "2024-06-25T12:21:00"
-  },
-  {
-    "totalSeats": 95,
     "availableSeats": 82,
-    "screenName": "SCREEN-2",
+    "screenName": "AUDI 04 4DX",
+    "language": "English",
+    "movieFormat": "3D 4DX",
+    "subtitle": true,
+    "screenType": "4DX",
+    "filmFormat": "3D",
+    "theatreId": "534",
+    "experienceKey": "4dx",
+    "startTime": "2024-06-26T16:00:00",
+    "endTime": "2024-06-26T17:57:00"
+  },
+  {
+    "totalSeats": 124,
+    "availableSeats": 121,
+    "screenName": "AUDI 01",
+    "language": "English",
+    "movieFormat": "3D 4DX",
+    "subtitle": true,
+    "screenType": "4DX",
+    "filmFormat": "3D",
+    "theatreId": "512",
+    "experienceKey": "4dx",
+    "startTime": "2024-06-26T06:10:00",
+    "endTime": "2024-06-26T08:07:00"
+  },
+  {
+    "totalSeats": 124,
+    "availableSeats": 118,
+    "screenName": "AUDI 01",
+    "language": "English",
+    "movieFormat": "3D 4DX",
+    "subtitle": true,
+    "screenType": "4DX",
+    "filmFormat": "3D",
+    "theatreId": "512",
+    "experienceKey": "4dx",
+    "startTime": "2024-06-26T08:15:00",
+    "endTime": "2024-06-26T10:12:00"
+  },
+  {
+    "totalSeats": 124,
+    "availableSeats": 120,
+    "screenName": "AUDI 01",
+    "language": "English",
+    "movieFormat": "3D 4DX",
+    "subtitle": true,
+    "screenType": "4DX",
+    "filmFormat": "3D",
+    "theatreId": "512",
+    "experienceKey": "4dx",
+    "startTime": "2024-06-26T12:50:00",
+    "endTime": "2024-06-26T14:47:00"
+  },
+  {
+    "totalSeats": 124,
+    "availableSeats": 115,
+    "screenName": "AUDI 01",
+    "language": "English",
+    "movieFormat": "3D 4DX",
+    "subtitle": true,
+    "screenType": "4DX",
+    "filmFormat": "3D",
+    "theatreId": "512",
+    "experienceKey": "4dx",
+    "startTime": "2024-06-26T14:55:00",
+    "endTime": "2024-06-26T16:52:00"
+  },
+  {
+    "totalSeats": 120,
+    "availableSeats": 114,
+    "screenName": "AUDI 04",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "PLAYHOUSE",
+    "filmFormat": "3D",
+    "theatreId": "512",
+    "experienceKey": "playhouse",
+    "startTime": "2024-06-26T05:05:00",
+    "endTime": "2024-06-26T07:17:00"
+  },
+  {
+    "totalSeats": 120,
+    "availableSeats": 111,
+    "screenName": "AUDI 04",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "PLAYHOUSE",
+    "filmFormat": "3D",
+    "theatreId": "512",
+    "experienceKey": "playhouse",
+    "startTime": "2024-06-26T07:25:00",
+    "endTime": "2024-06-26T09:37:00"
+  },
+  {
+    "totalSeats": 120,
+    "availableSeats": 120,
+    "screenName": "AUDI 04",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "PLAYHOUSE",
+    "filmFormat": "3D",
+    "theatreId": "512",
+    "experienceKey": "playhouse",
+    "startTime": "2024-06-26T09:45:00",
+    "endTime": "2024-06-26T11:57:00"
+  },
+  {
+    "totalSeats": 120,
+    "availableSeats": 116,
+    "screenName": "AUDI 04",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "PLAYHOUSE",
+    "filmFormat": "3D",
+    "theatreId": "512",
+    "experienceKey": "playhouse",
+    "startTime": "2024-06-26T14:10:00",
+    "endTime": "2024-06-26T16:22:00"
+  },
+  {
+    "totalSeats": 120,
+    "availableSeats": 118,
+    "screenName": "AUDI 04",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "PLAYHOUSE",
+    "filmFormat": "3D",
+    "theatreId": "512",
+    "experienceKey": "playhouse",
+    "startTime": "2024-06-26T16:30:00",
+    "endTime": "2024-06-26T18:42:00"
+  },
+  {
+    "totalSeats": 234,
+    "availableSeats": 234,
+    "screenName": "SCREEN-4",
     "language": "English",
     "movieFormat": "3D ATMOS",
     "subtitle": true,
@@ -1130,8 +1088,8 @@
     "filmFormat": "3D",
     "theatreId": "519",
     "experienceKey": "",
-    "startTime": "2024-06-25T11:00:00",
-    "endTime": "2024-06-25T13:12:00"
+    "startTime": "2024-06-26T04:10:00",
+    "endTime": "2024-06-26T06:22:00"
   },
   {
     "totalSeats": 95,
@@ -1144,12 +1102,54 @@
     "filmFormat": "3D",
     "theatreId": "519",
     "experienceKey": "",
-    "startTime": "2024-06-25T16:30:00",
-    "endTime": "2024-06-25T18:42:00"
+    "startTime": "2024-06-26T05:30:00",
+    "endTime": "2024-06-26T07:42:00"
+  },
+  {
+    "totalSeats": 234,
+    "availableSeats": 233,
+    "screenName": "SCREEN-4",
+    "language": "English",
+    "movieFormat": "3D ATMOS",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "519",
+    "experienceKey": "",
+    "startTime": "2024-06-26T10:00:00",
+    "endTime": "2024-06-26T12:21:00"
+  },
+  {
+    "totalSeats": 95,
+    "availableSeats": 95,
+    "screenName": "SCREEN-2",
+    "language": "English",
+    "movieFormat": "3D ATMOS",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "519",
+    "experienceKey": "",
+    "startTime": "2024-06-26T11:00:00",
+    "endTime": "2024-06-26T13:12:00"
+  },
+  {
+    "totalSeats": 95,
+    "availableSeats": 93,
+    "screenName": "SCREEN-2",
+    "language": "English",
+    "movieFormat": "3D ATMOS",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "519",
+    "experienceKey": "",
+    "startTime": "2024-06-26T16:30:00",
+    "endTime": "2024-06-26T18:42:00"
   },
   {
     "totalSeats": 122,
-    "availableSeats": 116,
+    "availableSeats": 118,
     "screenName": "SCREEN 2",
     "language": "English",
     "movieFormat": "3D",
@@ -1158,12 +1158,12 @@
     "filmFormat": "3D",
     "theatreId": "14",
     "experienceKey": "",
-    "startTime": "2024-06-25T05:05:00",
-    "endTime": "2024-06-25T07:18:00"
+    "startTime": "2024-06-26T05:05:00",
+    "endTime": "2024-06-26T07:18:00"
   },
   {
     "totalSeats": 299,
-    "availableSeats": 272,
+    "availableSeats": 293,
     "screenName": "SCREEN 3",
     "language": "English",
     "movieFormat": "3D",
@@ -1172,12 +1172,12 @@
     "filmFormat": "3D",
     "theatreId": "14",
     "experienceKey": "",
-    "startTime": "2024-06-25T10:05:00",
-    "endTime": "2024-06-25T12:18:00"
+    "startTime": "2024-06-26T10:05:00",
+    "endTime": "2024-06-26T12:18:00"
   },
   {
     "totalSeats": 299,
-    "availableSeats": 227,
+    "availableSeats": 280,
     "screenName": "SCREEN 3",
     "language": "English",
     "movieFormat": "3D",
@@ -1186,8 +1186,8 @@
     "filmFormat": "3D",
     "theatreId": "14",
     "experienceKey": "",
-    "startTime": "2024-06-25T14:45:00",
-    "endTime": "2024-06-25T16:58:00"
+    "startTime": "2024-06-26T14:45:00",
+    "endTime": "2024-06-26T16:58:00"
   },
   {
     "totalSeats": 104,
@@ -1200,22 +1200,8 @@
     "filmFormat": "3D",
     "theatreId": "282",
     "experienceKey": "",
-    "startTime": "2024-06-25T05:25:00",
-    "endTime": "2024-06-25T07:36:00"
-  },
-  {
-    "totalSeats": 104,
-    "availableSeats": 94,
-    "screenName": "SCREEN 2",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "282",
-    "experienceKey": "",
-    "startTime": "2024-06-25T10:05:00",
-    "endTime": "2024-06-25T12:16:00"
+    "startTime": "2024-06-26T05:25:00",
+    "endTime": "2024-06-26T07:36:00"
   },
   {
     "totalSeats": 104,
@@ -1228,12 +1214,12 @@
     "filmFormat": "3D",
     "theatreId": "282",
     "experienceKey": "",
-    "startTime": "2024-06-25T12:20:00",
-    "endTime": "2024-06-25T14:41:00"
+    "startTime": "2024-06-26T10:05:00",
+    "endTime": "2024-06-26T12:16:00"
   },
   {
     "totalSeats": 104,
-    "availableSeats": 80,
+    "availableSeats": 104,
     "screenName": "SCREEN 2",
     "language": "English",
     "movieFormat": "3D",
@@ -1242,12 +1228,12 @@
     "filmFormat": "3D",
     "theatreId": "282",
     "experienceKey": "",
-    "startTime": "2024-06-25T14:45:00",
-    "endTime": "2024-06-25T16:56:00"
+    "startTime": "2024-06-26T12:20:00",
+    "endTime": "2024-06-26T14:41:00"
   },
   {
     "totalSeats": 104,
-    "availableSeats": 85,
+    "availableSeats": 99,
     "screenName": "SCREEN 2",
     "language": "English",
     "movieFormat": "3D",
@@ -1256,12 +1242,26 @@
     "filmFormat": "3D",
     "theatreId": "282",
     "experienceKey": "",
-    "startTime": "2024-06-25T17:00:00",
-    "endTime": "2024-06-25T19:21:00"
+    "startTime": "2024-06-26T14:45:00",
+    "endTime": "2024-06-26T16:56:00"
+  },
+  {
+    "totalSeats": 104,
+    "availableSeats": 102,
+    "screenName": "SCREEN 2",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "282",
+    "experienceKey": "",
+    "startTime": "2024-06-26T17:00:00",
+    "endTime": "2024-06-26T19:21:00"
   },
   {
     "totalSeats": 171,
-    "availableSeats": 163,
+    "availableSeats": 162,
     "screenName": "SCREEN 1",
     "language": "English",
     "movieFormat": "3D",
@@ -1270,12 +1270,12 @@
     "filmFormat": "3D",
     "theatreId": "261",
     "experienceKey": "",
-    "startTime": "2024-06-25T07:10:00",
-    "endTime": "2024-06-25T09:21:00"
+    "startTime": "2024-06-26T07:10:00",
+    "endTime": "2024-06-26T09:21:00"
   },
   {
     "totalSeats": 171,
-    "availableSeats": 165,
+    "availableSeats": 171,
     "screenName": "SCREEN 1",
     "language": "English",
     "movieFormat": "3D",
@@ -1284,12 +1284,12 @@
     "filmFormat": "3D",
     "theatreId": "261",
     "experienceKey": "",
-    "startTime": "2024-06-25T11:50:00",
-    "endTime": "2024-06-25T14:01:00"
+    "startTime": "2024-06-26T11:50:00",
+    "endTime": "2024-06-26T14:01:00"
   },
   {
     "totalSeats": 195,
-    "availableSeats": 184,
+    "availableSeats": 195,
     "screenName": "AUDI 06",
     "language": "English",
     "movieFormat": "3D",
@@ -1298,12 +1298,12 @@
     "filmFormat": "3D",
     "theatreId": "385",
     "experienceKey": "",
-    "startTime": "2024-06-25T04:50:00",
-    "endTime": "2024-06-25T07:02:00"
+    "startTime": "2024-06-26T04:50:00",
+    "endTime": "2024-06-26T07:02:00"
   },
   {
     "totalSeats": 195,
-    "availableSeats": 185,
+    "availableSeats": 195,
     "screenName": "AUDI 06",
     "language": "English",
     "movieFormat": "3D",
@@ -1312,12 +1312,12 @@
     "filmFormat": "3D",
     "theatreId": "385",
     "experienceKey": "",
-    "startTime": "2024-06-25T07:10:00",
-    "endTime": "2024-06-25T09:22:00"
+    "startTime": "2024-06-26T07:10:00",
+    "endTime": "2024-06-26T09:22:00"
   },
   {
     "totalSeats": 195,
-    "availableSeats": 181,
+    "availableSeats": 192,
     "screenName": "AUDI 06",
     "language": "English",
     "movieFormat": "3D",
@@ -1326,12 +1326,12 @@
     "filmFormat": "3D",
     "theatreId": "385",
     "experienceKey": "",
-    "startTime": "2024-06-25T09:30:00",
-    "endTime": "2024-06-25T11:42:00"
+    "startTime": "2024-06-26T09:30:00",
+    "endTime": "2024-06-26T11:42:00"
   },
   {
     "totalSeats": 195,
-    "availableSeats": 173,
+    "availableSeats": 193,
     "screenName": "AUDI 06",
     "language": "English",
     "movieFormat": "3D",
@@ -1340,12 +1340,12 @@
     "filmFormat": "3D",
     "theatreId": "385",
     "experienceKey": "",
-    "startTime": "2024-06-25T11:50:00",
-    "endTime": "2024-06-25T14:02:00"
+    "startTime": "2024-06-26T11:50:00",
+    "endTime": "2024-06-26T14:02:00"
   },
   {
     "totalSeats": 195,
-    "availableSeats": 167,
+    "availableSeats": 190,
     "screenName": "AUDI 06",
     "language": "English",
     "movieFormat": "3D",
@@ -1354,12 +1354,12 @@
     "filmFormat": "3D",
     "theatreId": "385",
     "experienceKey": "",
-    "startTime": "2024-06-25T14:10:00",
-    "endTime": "2024-06-25T16:22:00"
+    "startTime": "2024-06-26T14:10:00",
+    "endTime": "2024-06-26T16:22:00"
   },
   {
     "totalSeats": 195,
-    "availableSeats": 175,
+    "availableSeats": 190,
     "screenName": "AUDI 06",
     "language": "English",
     "movieFormat": "3D",
@@ -1368,8 +1368,8 @@
     "filmFormat": "3D",
     "theatreId": "385",
     "experienceKey": "",
-    "startTime": "2024-06-25T16:30:00",
-    "endTime": "2024-06-25T18:42:00"
+    "startTime": "2024-06-26T16:30:00",
+    "endTime": "2024-06-26T18:42:00"
   },
   {
     "totalSeats": 108,
@@ -1382,8 +1382,36 @@
     "filmFormat": "3D",
     "theatreId": "520",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T05:35:00",
-    "endTime": "2024-06-25T07:32:00"
+    "startTime": "2024-06-26T05:35:00",
+    "endTime": "2024-06-26T07:32:00"
+  },
+  {
+    "totalSeats": 108,
+    "availableSeats": 108,
+    "screenName": "AUDI 07 4DX",
+    "language": "English",
+    "movieFormat": "3D 4DX",
+    "subtitle": true,
+    "screenType": "4DX",
+    "filmFormat": "3D",
+    "theatreId": "520",
+    "experienceKey": "4dx",
+    "startTime": "2024-06-26T07:40:00",
+    "endTime": "2024-06-26T09:37:00"
+  },
+  {
+    "totalSeats": 108,
+    "availableSeats": 103,
+    "screenName": "AUDI 07 4DX",
+    "language": "English",
+    "movieFormat": "3D 4DX",
+    "subtitle": true,
+    "screenType": "4DX",
+    "filmFormat": "3D",
+    "theatreId": "520",
+    "experienceKey": "4dx",
+    "startTime": "2024-06-26T09:45:00",
+    "endTime": "2024-06-26T11:42:00"
   },
   {
     "totalSeats": 108,
@@ -1396,22 +1424,8 @@
     "filmFormat": "3D",
     "theatreId": "520",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T07:40:00",
-    "endTime": "2024-06-25T09:37:00"
-  },
-  {
-    "totalSeats": 108,
-    "availableSeats": 98,
-    "screenName": "AUDI 07 4DX",
-    "language": "English",
-    "movieFormat": "3D 4DX",
-    "subtitle": true,
-    "screenType": "4DX",
-    "filmFormat": "3D",
-    "theatreId": "520",
-    "experienceKey": "4dx",
-    "startTime": "2024-06-25T09:45:00",
-    "endTime": "2024-06-25T11:42:00"
+    "startTime": "2024-06-26T11:50:00",
+    "endTime": "2024-06-26T13:47:00"
   },
   {
     "totalSeats": 108,
@@ -1424,12 +1438,12 @@
     "filmFormat": "3D",
     "theatreId": "520",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T11:50:00",
-    "endTime": "2024-06-25T13:47:00"
+    "startTime": "2024-06-26T13:55:00",
+    "endTime": "2024-06-26T15:52:00"
   },
   {
     "totalSeats": 108,
-    "availableSeats": 95,
+    "availableSeats": 108,
     "screenName": "AUDI 07 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -1438,26 +1452,12 @@
     "filmFormat": "3D",
     "theatreId": "520",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T13:55:00",
-    "endTime": "2024-06-25T15:52:00"
-  },
-  {
-    "totalSeats": 108,
-    "availableSeats": 105,
-    "screenName": "AUDI 07 4DX",
-    "language": "English",
-    "movieFormat": "3D 4DX",
-    "subtitle": true,
-    "screenType": "4DX",
-    "filmFormat": "3D",
-    "theatreId": "520",
-    "experienceKey": "4dx",
-    "startTime": "2024-06-25T16:00:00",
-    "endTime": "2024-06-25T17:57:00"
+    "startTime": "2024-06-26T16:00:00",
+    "endTime": "2024-06-26T17:57:00"
   },
   {
     "totalSeats": 32,
-    "availableSeats": 28,
+    "availableSeats": 31,
     "screenName": "AUDI 11 GOLD",
     "language": "English",
     "movieFormat": "3D",
@@ -1466,12 +1466,12 @@
     "filmFormat": "3D",
     "theatreId": "520",
     "experienceKey": "gold",
-    "startTime": "2024-06-25T08:05:00",
-    "endTime": "2024-06-25T10:17:00"
+    "startTime": "2024-06-26T08:05:00",
+    "endTime": "2024-06-26T10:17:00"
   },
   {
     "totalSeats": 305,
-    "availableSeats": 293,
+    "availableSeats": 300,
     "screenName": "AUDI 02 IMAX",
     "language": "English",
     "movieFormat": "3D IMAX",
@@ -1480,12 +1480,12 @@
     "filmFormat": "3D IMAX",
     "theatreId": "520",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T04:20:00",
-    "endTime": "2024-06-25T06:32:00"
+    "startTime": "2024-06-26T04:20:00",
+    "endTime": "2024-06-26T06:32:00"
   },
   {
     "totalSeats": 305,
-    "availableSeats": 273,
+    "availableSeats": 300,
     "screenName": "AUDI 02 IMAX",
     "language": "English",
     "movieFormat": "3D IMAX",
@@ -1494,8 +1494,22 @@
     "filmFormat": "3D IMAX",
     "theatreId": "520",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T09:20:00",
-    "endTime": "2024-06-25T11:32:00"
+    "startTime": "2024-06-26T09:20:00",
+    "endTime": "2024-06-26T11:32:00"
+  },
+  {
+    "totalSeats": 305,
+    "availableSeats": 283,
+    "screenName": "AUDI 02 IMAX",
+    "language": "English",
+    "movieFormat": "3D IMAX",
+    "subtitle": true,
+    "screenType": "IMAX",
+    "filmFormat": "3D IMAX",
+    "theatreId": "520",
+    "experienceKey": "imax",
+    "startTime": "2024-06-26T11:40:00",
+    "endTime": "2024-06-26T13:48:00"
   },
   {
     "totalSeats": 305,
@@ -1508,12 +1522,12 @@
     "filmFormat": "3D IMAX",
     "theatreId": "520",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T11:40:00",
-    "endTime": "2024-06-25T13:48:00"
+    "startTime": "2024-06-26T13:55:00",
+    "endTime": "2024-06-26T16:07:00"
   },
   {
     "totalSeats": 305,
-    "availableSeats": 238,
+    "availableSeats": 286,
     "screenName": "AUDI 02 IMAX",
     "language": "English",
     "movieFormat": "3D IMAX",
@@ -1522,26 +1536,12 @@
     "filmFormat": "3D IMAX",
     "theatreId": "520",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T13:55:00",
-    "endTime": "2024-06-25T16:07:00"
-  },
-  {
-    "totalSeats": 305,
-    "availableSeats": 215,
-    "screenName": "AUDI 02 IMAX",
-    "language": "English",
-    "movieFormat": "3D IMAX",
-    "subtitle": true,
-    "screenType": "IMAX",
-    "filmFormat": "3D IMAX",
-    "theatreId": "520",
-    "experienceKey": "imax",
-    "startTime": "2024-06-25T16:15:00",
-    "endTime": "2024-06-25T18:36:00"
+    "startTime": "2024-06-26T16:15:00",
+    "endTime": "2024-06-26T18:36:00"
   },
   {
     "totalSeats": 77,
-    "availableSeats": 53,
+    "availableSeats": 72,
     "screenName": "AUDI 01 PLAY HOUSE",
     "language": "English",
     "movieFormat": "3D",
@@ -1550,12 +1550,12 @@
     "filmFormat": "3D",
     "theatreId": "520",
     "experienceKey": "playhouse",
-    "startTime": "2024-06-25T07:55:00",
-    "endTime": "2024-06-25T10:16:00"
+    "startTime": "2024-06-26T07:55:00",
+    "endTime": "2024-06-26T10:16:00"
   },
   {
     "totalSeats": 77,
-    "availableSeats": 55,
+    "availableSeats": 75,
     "screenName": "AUDI 01 PLAY HOUSE",
     "language": "English",
     "movieFormat": "3D",
@@ -1564,12 +1564,12 @@
     "filmFormat": "3D",
     "theatreId": "520",
     "experienceKey": "playhouse",
-    "startTime": "2024-06-25T11:05:00",
-    "endTime": "2024-06-25T13:24:00"
+    "startTime": "2024-06-26T11:05:00",
+    "endTime": "2024-06-26T13:24:00"
   },
   {
     "totalSeats": 77,
-    "availableSeats": 62,
+    "availableSeats": 72,
     "screenName": "AUDI 01 PLAY HOUSE",
     "language": "English",
     "movieFormat": "3D",
@@ -1578,22 +1578,8 @@
     "filmFormat": "3D",
     "theatreId": "520",
     "experienceKey": "playhouse",
-    "startTime": "2024-06-25T13:25:00",
-    "endTime": "2024-06-25T15:37:00"
-  },
-  {
-    "totalSeats": 176,
-    "availableSeats": 174,
-    "screenName": "SCREEN-2",
-    "language": "English",
-    "movieFormat": "3D ATMOS",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "522",
-    "experienceKey": "",
-    "startTime": "2024-06-25T06:05:00",
-    "endTime": "2024-06-25T08:17:00"
+    "startTime": "2024-06-26T13:25:00",
+    "endTime": "2024-06-26T15:37:00"
   },
   {
     "totalSeats": 176,
@@ -1606,12 +1592,12 @@
     "filmFormat": "3D",
     "theatreId": "522",
     "experienceKey": "",
-    "startTime": "2024-06-25T08:25:00",
-    "endTime": "2024-06-25T10:37:00"
+    "startTime": "2024-06-26T06:05:00",
+    "endTime": "2024-06-26T08:17:00"
   },
   {
     "totalSeats": 176,
-    "availableSeats": 155,
+    "availableSeats": 176,
     "screenName": "SCREEN-2",
     "language": "English",
     "movieFormat": "3D ATMOS",
@@ -1620,12 +1606,26 @@
     "filmFormat": "3D",
     "theatreId": "522",
     "experienceKey": "",
-    "startTime": "2024-06-25T13:55:00",
-    "endTime": "2024-06-25T16:07:00"
+    "startTime": "2024-06-26T08:25:00",
+    "endTime": "2024-06-26T10:37:00"
+  },
+  {
+    "totalSeats": 176,
+    "availableSeats": 176,
+    "screenName": "SCREEN-2",
+    "language": "English",
+    "movieFormat": "3D ATMOS",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "522",
+    "experienceKey": "",
+    "startTime": "2024-06-26T13:55:00",
+    "endTime": "2024-06-26T16:07:00"
   },
   {
     "totalSeats": 222,
-    "availableSeats": 183,
+    "availableSeats": 215,
     "screenName": "IMAX 4",
     "language": "English",
     "movieFormat": "3D IMAX",
@@ -1634,12 +1634,12 @@
     "filmFormat": "3D IMAX",
     "theatreId": "148",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T06:15:00",
-    "endTime": "2024-06-25T08:36:00"
+    "startTime": "2024-06-26T06:15:00",
+    "endTime": "2024-06-26T08:36:00"
   },
   {
     "totalSeats": 222,
-    "availableSeats": 177,
+    "availableSeats": 203,
     "screenName": "IMAX 4",
     "language": "English",
     "movieFormat": "3D IMAX",
@@ -1648,12 +1648,12 @@
     "filmFormat": "3D IMAX",
     "theatreId": "148",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T08:40:00",
-    "endTime": "2024-06-25T11:01:00"
+    "startTime": "2024-06-26T08:40:00",
+    "endTime": "2024-06-26T11:01:00"
   },
   {
     "totalSeats": 222,
-    "availableSeats": 193,
+    "availableSeats": 203,
     "screenName": "IMAX 4",
     "language": "English",
     "movieFormat": "3D IMAX",
@@ -1662,12 +1662,12 @@
     "filmFormat": "3D IMAX",
     "theatreId": "148",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T11:50:00",
-    "endTime": "2024-06-25T14:11:00"
+    "startTime": "2024-06-26T11:50:00",
+    "endTime": "2024-06-26T14:11:00"
   },
   {
     "totalSeats": 222,
-    "availableSeats": 178,
+    "availableSeats": 210,
     "screenName": "IMAX 4",
     "language": "English",
     "movieFormat": "3D IMAX",
@@ -1676,12 +1676,12 @@
     "filmFormat": "3D IMAX",
     "theatreId": "148",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T14:15:00",
-    "endTime": "2024-06-25T16:36:00"
+    "startTime": "2024-06-26T14:15:00",
+    "endTime": "2024-06-26T16:36:00"
   },
   {
     "totalSeats": 222,
-    "availableSeats": 198,
+    "availableSeats": 220,
     "screenName": "IMAX 4",
     "language": "English",
     "movieFormat": "3D IMAX",
@@ -1690,12 +1690,12 @@
     "filmFormat": "3D IMAX",
     "theatreId": "148",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T16:45:00",
-    "endTime": "2024-06-25T19:06:00"
+    "startTime": "2024-06-26T16:45:00",
+    "endTime": "2024-06-26T19:06:00"
   },
   {
     "totalSeats": 245,
-    "availableSeats": 233,
+    "availableSeats": 242,
     "screenName": "SCREEN 2",
     "language": "English",
     "movieFormat": "3D",
@@ -1704,12 +1704,12 @@
     "filmFormat": "3D",
     "theatreId": "127",
     "experienceKey": "",
-    "startTime": "2024-06-25T04:35:00",
-    "endTime": "2024-06-25T06:53:00"
+    "startTime": "2024-06-26T04:35:00",
+    "endTime": "2024-06-26T06:53:00"
   },
   {
     "totalSeats": 245,
-    "availableSeats": 235,
+    "availableSeats": 243,
     "screenName": "SCREEN 2",
     "language": "English",
     "movieFormat": "3D",
@@ -1718,12 +1718,12 @@
     "filmFormat": "3D",
     "theatreId": "127",
     "experienceKey": "",
-    "startTime": "2024-06-25T07:00:00",
-    "endTime": "2024-06-25T09:14:00"
+    "startTime": "2024-06-26T07:00:00",
+    "endTime": "2024-06-26T09:14:00"
   },
   {
     "totalSeats": 245,
-    "availableSeats": 226,
+    "availableSeats": 245,
     "screenName": "SCREEN 2",
     "language": "English",
     "movieFormat": "3D",
@@ -1732,12 +1732,12 @@
     "filmFormat": "3D",
     "theatreId": "127",
     "experienceKey": "",
-    "startTime": "2024-06-25T09:15:00",
-    "endTime": "2024-06-25T11:26:00"
+    "startTime": "2024-06-26T09:15:00",
+    "endTime": "2024-06-26T11:26:00"
   },
   {
     "totalSeats": 163,
-    "availableSeats": 156,
+    "availableSeats": 163,
     "screenName": "SCREEN 1",
     "language": "English",
     "movieFormat": "3D",
@@ -1746,12 +1746,12 @@
     "filmFormat": "3D",
     "theatreId": "127",
     "experienceKey": "",
-    "startTime": "2024-06-25T10:55:00",
-    "endTime": "2024-06-25T13:16:00"
+    "startTime": "2024-06-26T10:55:00",
+    "endTime": "2024-06-26T13:16:00"
   },
   {
     "totalSeats": 245,
-    "availableSeats": 205,
+    "availableSeats": 245,
     "screenName": "SCREEN 2",
     "language": "English",
     "movieFormat": "3D",
@@ -1760,12 +1760,12 @@
     "filmFormat": "3D",
     "theatreId": "127",
     "experienceKey": "",
-    "startTime": "2024-06-25T14:35:00",
-    "endTime": "2024-06-25T16:46:00"
+    "startTime": "2024-06-26T14:35:00",
+    "endTime": "2024-06-26T16:46:00"
   },
   {
     "totalSeats": 108,
-    "availableSeats": 102,
+    "availableSeats": 105,
     "screenName": "SCREEN 2",
     "language": "English",
     "movieFormat": "3D",
@@ -1774,12 +1774,12 @@
     "filmFormat": "3D",
     "theatreId": "208",
     "experienceKey": "",
-    "startTime": "2024-06-25T04:45:00",
-    "endTime": "2024-06-25T06:56:00"
+    "startTime": "2024-06-26T04:45:00",
+    "endTime": "2024-06-26T06:56:00"
   },
   {
     "totalSeats": 108,
-    "availableSeats": 100,
+    "availableSeats": 108,
     "screenName": "SCREEN 2",
     "language": "English",
     "movieFormat": "3D",
@@ -1788,12 +1788,12 @@
     "filmFormat": "3D",
     "theatreId": "208",
     "experienceKey": "",
-    "startTime": "2024-06-25T09:45:00",
-    "endTime": "2024-06-25T11:56:00"
+    "startTime": "2024-06-26T09:45:00",
+    "endTime": "2024-06-26T11:56:00"
   },
   {
     "totalSeats": 108,
-    "availableSeats": 65,
+    "availableSeats": 108,
     "screenName": "SCREEN 2",
     "language": "English",
     "movieFormat": "3D",
@@ -1802,8 +1802,36 @@
     "filmFormat": "3D",
     "theatreId": "208",
     "experienceKey": "",
-    "startTime": "2024-06-25T14:45:00",
-    "endTime": "2024-06-25T16:56:00"
+    "startTime": "2024-06-26T14:45:00",
+    "endTime": "2024-06-26T16:56:00"
+  },
+  {
+    "totalSeats": 178,
+    "availableSeats": 177,
+    "screenName": "AUDI 02",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "528",
+    "experienceKey": "",
+    "startTime": "2024-06-26T06:40:00",
+    "endTime": "2024-06-26T08:57:00"
+  },
+  {
+    "totalSeats": 178,
+    "availableSeats": 176,
+    "screenName": "AUDI 02",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "528",
+    "experienceKey": "",
+    "startTime": "2024-06-26T09:00:00",
+    "endTime": "2024-06-26T11:17:00"
   },
   {
     "totalSeats": 178,
@@ -1816,36 +1844,8 @@
     "filmFormat": "3D",
     "theatreId": "528",
     "experienceKey": "",
-    "startTime": "2024-06-25T06:40:00",
-    "endTime": "2024-06-25T08:57:00"
-  },
-  {
-    "totalSeats": 178,
-    "availableSeats": 170,
-    "screenName": "AUDI 02",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "528",
-    "experienceKey": "",
-    "startTime": "2024-06-25T09:00:00",
-    "endTime": "2024-06-25T11:17:00"
-  },
-  {
-    "totalSeats": 178,
-    "availableSeats": 160,
-    "screenName": "AUDI 02",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "528",
-    "experienceKey": "",
-    "startTime": "2024-06-25T14:20:00",
-    "endTime": "2024-06-25T16:37:00"
+    "startTime": "2024-06-26T14:20:00",
+    "endTime": "2024-06-26T16:37:00"
   },
   {
     "totalSeats": 40,
@@ -1858,12 +1858,12 @@
     "filmFormat": "3D",
     "theatreId": "529",
     "experienceKey": "director's-cut",
-    "startTime": "2024-06-25T03:05:00",
-    "endTime": "2024-06-25T05:01:00"
+    "startTime": "2024-06-26T03:05:00",
+    "endTime": "2024-06-26T05:01:00"
   },
   {
     "totalSeats": 40,
-    "availableSeats": 34,
+    "availableSeats": 15,
     "screenName": "AUDI 02",
     "language": "English",
     "movieFormat": "3D",
@@ -1872,12 +1872,12 @@
     "filmFormat": "3D",
     "theatreId": "529",
     "experienceKey": "director's-cut",
-    "startTime": "2024-06-25T07:20:00",
-    "endTime": "2024-06-25T09:16:00"
+    "startTime": "2024-06-26T07:20:00",
+    "endTime": "2024-06-26T09:16:00"
   },
   {
     "totalSeats": 40,
-    "availableSeats": 30,
+    "availableSeats": 13,
     "screenName": "AUDI 02",
     "language": "English",
     "movieFormat": "3D",
@@ -1886,12 +1886,12 @@
     "filmFormat": "3D",
     "theatreId": "529",
     "experienceKey": "director's-cut",
-    "startTime": "2024-06-25T09:25:00",
-    "endTime": "2024-06-25T11:21:00"
+    "startTime": "2024-06-26T09:25:00",
+    "endTime": "2024-06-26T11:21:00"
   },
   {
     "totalSeats": 40,
-    "availableSeats": 17,
+    "availableSeats": 32,
     "screenName": "AUDI 05",
     "language": "English",
     "movieFormat": "3D",
@@ -1900,12 +1900,12 @@
     "filmFormat": "3D",
     "theatreId": "529",
     "experienceKey": "director's-cut",
-    "startTime": "2024-06-25T13:35:00",
-    "endTime": "2024-06-25T15:31:00"
+    "startTime": "2024-06-26T13:35:00",
+    "endTime": "2024-06-26T15:31:00"
   },
   {
     "totalSeats": 40,
-    "availableSeats": 16,
+    "availableSeats": 28,
     "screenName": "AUDI 02",
     "language": "English",
     "movieFormat": "3D",
@@ -1914,12 +1914,12 @@
     "filmFormat": "3D",
     "theatreId": "529",
     "experienceKey": "director's-cut",
-    "startTime": "2024-06-25T14:20:00",
-    "endTime": "2024-06-25T16:16:00"
+    "startTime": "2024-06-26T14:20:00",
+    "endTime": "2024-06-26T16:16:00"
   },
   {
     "totalSeats": 40,
-    "availableSeats": 12,
+    "availableSeats": 35,
     "screenName": "AUDI 02",
     "language": "English",
     "movieFormat": "3D",
@@ -1928,12 +1928,12 @@
     "filmFormat": "3D",
     "theatreId": "529",
     "experienceKey": "director's-cut",
-    "startTime": "2024-06-25T16:25:00",
-    "endTime": "2024-06-25T18:21:00"
+    "startTime": "2024-06-26T16:25:00",
+    "endTime": "2024-06-26T18:21:00"
   },
   {
     "totalSeats": 88,
-    "availableSeats": 85,
+    "availableSeats": 83,
     "screenName": "AUDI 2 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -1942,12 +1942,12 @@
     "filmFormat": "3D",
     "theatreId": "507",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T05:35:00",
-    "endTime": "2024-06-25T07:32:00"
+    "startTime": "2024-06-26T05:35:00",
+    "endTime": "2024-06-26T07:32:00"
   },
   {
     "totalSeats": 88,
-    "availableSeats": 81,
+    "availableSeats": 82,
     "screenName": "AUDI 2 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -1956,12 +1956,12 @@
     "filmFormat": "3D",
     "theatreId": "507",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T07:40:00",
-    "endTime": "2024-06-25T09:37:00"
+    "startTime": "2024-06-26T07:40:00",
+    "endTime": "2024-06-26T09:37:00"
   },
   {
     "totalSeats": 88,
-    "availableSeats": 36,
+    "availableSeats": 83,
     "screenName": "AUDI 2 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -1970,12 +1970,12 @@
     "filmFormat": "3D",
     "theatreId": "507",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T11:40:00",
-    "endTime": "2024-06-25T13:37:00"
+    "startTime": "2024-06-26T11:40:00",
+    "endTime": "2024-06-26T13:37:00"
   },
   {
     "totalSeats": 88,
-    "availableSeats": 41,
+    "availableSeats": 76,
     "screenName": "AUDI 2 4DX",
     "language": "English",
     "movieFormat": "3D 4DX",
@@ -1984,12 +1984,12 @@
     "filmFormat": "3D",
     "theatreId": "507",
     "experienceKey": "4dx",
-    "startTime": "2024-06-25T16:15:00",
-    "endTime": "2024-06-25T18:12:00"
+    "startTime": "2024-06-26T16:15:00",
+    "endTime": "2024-06-26T18:12:00"
   },
   {
     "totalSeats": 322,
-    "availableSeats": 312,
+    "availableSeats": 310,
     "screenName": "AUDI 1 IMAX",
     "language": "English",
     "movieFormat": "3D IMAX",
@@ -1998,12 +1998,12 @@
     "filmFormat": "3D IMAX",
     "theatreId": "507",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T04:30:00",
-    "endTime": "2024-06-25T06:42:00"
+    "startTime": "2024-06-26T04:30:00",
+    "endTime": "2024-06-26T06:42:00"
   },
   {
     "totalSeats": 322,
-    "availableSeats": 280,
+    "availableSeats": 302,
     "screenName": "AUDI 1 IMAX",
     "language": "English",
     "movieFormat": "3D IMAX",
@@ -2012,12 +2012,12 @@
     "filmFormat": "3D IMAX",
     "theatreId": "507",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T06:50:00",
-    "endTime": "2024-06-25T09:02:00"
+    "startTime": "2024-06-26T06:50:00",
+    "endTime": "2024-06-26T09:02:00"
   },
   {
     "totalSeats": 322,
-    "availableSeats": 271,
+    "availableSeats": 290,
     "screenName": "AUDI 1 IMAX",
     "language": "English",
     "movieFormat": "3D IMAX",
@@ -2026,12 +2026,12 @@
     "filmFormat": "3D IMAX",
     "theatreId": "507",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T09:15:00",
-    "endTime": "2024-06-25T11:37:00"
+    "startTime": "2024-06-26T09:15:00",
+    "endTime": "2024-06-26T11:37:00"
   },
   {
     "totalSeats": 322,
-    "availableSeats": 224,
+    "availableSeats": 285,
     "screenName": "AUDI 1 IMAX",
     "language": "English",
     "movieFormat": "3D IMAX",
@@ -2040,12 +2040,12 @@
     "filmFormat": "3D IMAX",
     "theatreId": "507",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T12:20:00",
-    "endTime": "2024-06-25T14:32:00"
+    "startTime": "2024-06-26T12:20:00",
+    "endTime": "2024-06-26T14:32:00"
   },
   {
     "totalSeats": 322,
-    "availableSeats": 158,
+    "availableSeats": 289,
     "screenName": "AUDI 1 IMAX",
     "language": "English",
     "movieFormat": "3D IMAX",
@@ -2054,12 +2054,12 @@
     "filmFormat": "3D IMAX",
     "theatreId": "507",
     "experienceKey": "imax",
-    "startTime": "2024-06-25T14:40:00",
-    "endTime": "2024-06-25T16:52:00"
+    "startTime": "2024-06-26T14:40:00",
+    "endTime": "2024-06-26T16:52:00"
   },
   {
     "totalSeats": 92,
-    "availableSeats": 85,
+    "availableSeats": 89,
     "screenName": "AUDI 3 PLAYHOUSE",
     "language": "English",
     "movieFormat": "3D",
@@ -2068,12 +2068,12 @@
     "filmFormat": "3D",
     "theatreId": "507",
     "experienceKey": "playhouse",
-    "startTime": "2024-06-25T04:05:00",
-    "endTime": "2024-06-25T06:17:00"
+    "startTime": "2024-06-26T04:05:00",
+    "endTime": "2024-06-26T06:17:00"
   },
   {
     "totalSeats": 92,
-    "availableSeats": 35,
+    "availableSeats": 65,
     "screenName": "AUDI 3 PLAYHOUSE",
     "language": "English",
     "movieFormat": "3D",
@@ -2082,12 +2082,12 @@
     "filmFormat": "3D",
     "theatreId": "507",
     "experienceKey": "playhouse",
-    "startTime": "2024-06-25T11:05:00",
-    "endTime": "2024-06-25T13:17:00"
+    "startTime": "2024-06-26T11:05:00",
+    "endTime": "2024-06-26T13:17:00"
   },
   {
     "totalSeats": 92,
-    "availableSeats": 35,
+    "availableSeats": 64,
     "screenName": "AUDI 3 PLAYHOUSE",
     "language": "English",
     "movieFormat": "3D",
@@ -2096,12 +2096,12 @@
     "filmFormat": "3D",
     "theatreId": "507",
     "experienceKey": "playhouse",
-    "startTime": "2024-06-25T15:45:00",
-    "endTime": "2024-06-25T18:12:00"
+    "startTime": "2024-06-26T15:45:00",
+    "endTime": "2024-06-26T18:12:00"
   },
   {
     "totalSeats": 163,
-    "availableSeats": 155,
+    "availableSeats": 163,
     "screenName": "SCREEN 9",
     "language": "English",
     "movieFormat": "3D",
@@ -2110,8 +2110,36 @@
     "filmFormat": "3D",
     "theatreId": "309",
     "experienceKey": "",
-    "startTime": "2024-06-25T04:40:00",
-    "endTime": "2024-06-25T06:52:00"
+    "startTime": "2024-06-26T04:40:00",
+    "endTime": "2024-06-26T06:52:00"
+  },
+  {
+    "totalSeats": 163,
+    "availableSeats": 160,
+    "screenName": "SCREEN 9",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "309",
+    "experienceKey": "",
+    "startTime": "2024-06-26T07:00:00",
+    "endTime": "2024-06-26T09:12:00"
+  },
+  {
+    "totalSeats": 163,
+    "availableSeats": 159,
+    "screenName": "SCREEN 9",
+    "language": "English",
+    "movieFormat": "3D",
+    "subtitle": true,
+    "screenType": "",
+    "filmFormat": "3D",
+    "theatreId": "309",
+    "experienceKey": "",
+    "startTime": "2024-06-26T09:20:00",
+    "endTime": "2024-06-26T11:32:00"
   },
   {
     "totalSeats": 163,
@@ -2124,12 +2152,12 @@
     "filmFormat": "3D",
     "theatreId": "309",
     "experienceKey": "",
-    "startTime": "2024-06-25T07:00:00",
-    "endTime": "2024-06-25T09:12:00"
+    "startTime": "2024-06-26T11:40:00",
+    "endTime": "2024-06-26T13:52:00"
   },
   {
     "totalSeats": 163,
-    "availableSeats": 129,
+    "availableSeats": 161,
     "screenName": "SCREEN 9",
     "language": "English",
     "movieFormat": "3D",
@@ -2138,12 +2166,12 @@
     "filmFormat": "3D",
     "theatreId": "309",
     "experienceKey": "",
-    "startTime": "2024-06-25T09:20:00",
-    "endTime": "2024-06-25T11:32:00"
+    "startTime": "2024-06-26T14:00:00",
+    "endTime": "2024-06-26T16:12:00"
   },
   {
     "totalSeats": 163,
-    "availableSeats": 129,
+    "availableSeats": 159,
     "screenName": "SCREEN 9",
     "language": "English",
     "movieFormat": "3D",
@@ -2152,40 +2180,12 @@
     "filmFormat": "3D",
     "theatreId": "309",
     "experienceKey": "",
-    "startTime": "2024-06-25T11:40:00",
-    "endTime": "2024-06-25T13:52:00"
-  },
-  {
-    "totalSeats": 163,
-    "availableSeats": 123,
-    "screenName": "SCREEN 9",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "309",
-    "experienceKey": "",
-    "startTime": "2024-06-25T14:00:00",
-    "endTime": "2024-06-25T16:12:00"
-  },
-  {
-    "totalSeats": 163,
-    "availableSeats": 132,
-    "screenName": "SCREEN 9",
-    "language": "English",
-    "movieFormat": "3D",
-    "subtitle": true,
-    "screenType": "",
-    "filmFormat": "3D",
-    "theatreId": "309",
-    "experienceKey": "",
-    "startTime": "2024-06-25T16:20:00",
-    "endTime": "2024-06-25T18:32:00"
+    "startTime": "2024-06-26T16:20:00",
+    "endTime": "2024-06-26T18:32:00"
   },
   {
     "totalSeats": 38,
-    "availableSeats": 36,
+    "availableSeats": 38,
     "screenName": "SCREEN 14",
     "language": "English",
     "movieFormat": "3D",
@@ -2194,12 +2194,12 @@
     "filmFormat": "3D",
     "theatreId": "309",
     "experienceKey": "insignia",
-    "startTime": "2024-06-25T05:45:00",
-    "endTime": "2024-06-25T07:57:00"
+    "startTime": "2024-06-26T05:45:00",
+    "endTime": "2024-06-26T07:57:00"
   },
   {
     "totalSeats": 38,
-    "availableSeats": 22,
+    "availableSeats": 38,
     "screenName": "SCREEN 14",
     "language": "English",
     "movieFormat": "3D",
@@ -2208,12 +2208,12 @@
     "filmFormat": "3D",
     "theatreId": "309",
     "experienceKey": "insignia",
-    "startTime": "2024-06-25T08:05:00",
-    "endTime": "2024-06-25T10:17:00"
+    "startTime": "2024-06-26T08:05:00",
+    "endTime": "2024-06-26T10:17:00"
   },
   {
     "totalSeats": 38,
-    "availableSeats": 22,
+    "availableSeats": 34,
     "screenName": "SCREEN 14",
     "language": "English",
     "movieFormat": "3D",
@@ -2222,7 +2222,7 @@
     "filmFormat": "3D",
     "theatreId": "309",
     "experienceKey": "insignia",
-    "startTime": "2024-06-25T13:30:00",
-    "endTime": "2024-06-25T15:42:00"
+    "startTime": "2024-06-26T13:30:00",
+    "endTime": "2024-06-26T15:42:00"
   }
 ]
