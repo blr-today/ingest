@@ -1,10 +1,11 @@
 {
 	"@context": "http://schema.org",
-    "@type": "Event",
+    "@type": "LectureEvent",
     "organizer": {
     	"@type": "Organization",
     	"name": "Creative Mornings"
 	},
+	"keywords": "CREATIVEMORNINGS, TALKS",
 	"eventAttendanceMode": "offline",
 	"eventStatus": "EventScheduled"
 }

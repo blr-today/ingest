@@ -1,8 +1,9 @@
 {
-	"@context": "http://schema.org",
+    "@context": "http://schema.org",
     "@type": "Event",
     "organizer": {
-    	"@type": "Organization",
-    	"name": "Blue Tokai Coffee Roasters"
-	}
+        "@type": "Organization",
+        "name": "Blue Tokai Coffee Roasters"
+    },
+    "keywords": "FOOD, BLUETOKAI"
 }
