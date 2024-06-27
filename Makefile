@@ -133,7 +133,8 @@ all: out/allevents.txt \
  out/creativemornings.txt \
  out/adidas.json \
  out/pvr/cinemas.json \
- out/trove.json
+ out/trove.json \
+ out/aceofpubs.json
 	@echo "Done"
 
 db:
