@@ -5,8 +5,8 @@ START_TS := $(shell date +"%Y-%m-%d")
 END_TS := $(shell date +"%Y-%m-%d" --date="1 month")
 
 out/allevents.txt:
-	curl --silent --cookie-jar /tmp/allevents.cookies https://allevents.in/ -o /dev/null
-	curl --silent --cookie /tmp/allevents.cookies --request POST \
+	curl_chrome116 --silent --cookie-jar /tmp/allevents.cookies https://allevents.in/ -o /dev/null
+	curl_chrome116 --silent --cookie /tmp/allevents.cookies --request POST \
 	  --url https://allevents.in/api/index.php/categorization/web/v1/list \
 	  --header 'Referer: https://allevents.in/bangalore/all' \
 	  --header "Content-Type: application/json" \
@@ -30,14 +30,14 @@ out/mapindia.json:
 	python src/ics-to-event.py out/mapindia.ics out/mapindia.json
 
 out/bengalurusustainabilityforum.json:
-	curl --silent --request GET \
+	curl_chrome116 --silent --request GET \
   	--url 'https://www.bengalurusustainabilityforum.org/wp-json/eventin/v1/event/events?month=2099&year=12&start=$(START_TS)&end=$(END_TS)&postParent=child&selectedCats=116%2C117%2C118%2C119%2C120' | jq -r '.' > out/bengalurusustainabilityforum.json
 
 out/bic.ics:
-	wget "https://bangaloreinternationalcentre.org/events/?ical=1" -O out/bic.ics
+	curl_chrome116 --silent "https://bangaloreinternationalcentre.org/events/?ical=1" --output out/bic.ics
 
 out/insider.txt:
-	curl --silent \
+	curl_chrome116 --silent \
 	--url 'https://api.insider.in/home?city=bengaluru&eventType=physical&filterBy=go-out&norm=1&select=lite&typeFilter=physical' | \
 	jq -r '.list.masterList|keys[]|["https://insider.in",., "event"]|join("/")' | sort > out/insider.txt
 
@@ -99,7 +99,7 @@ out/trove.json:
 	python src/trove.py
 
 out/aceofpubs.ics:
-	wget "https://aceofpubs.com/?post_type=tribe_events&tribe_events_cat=bengaluru-pub-quiz-event&ical=1&eventDisplay=list" -O out/aceofpubs.ics
+	curl_chrome116 "https://aceofpubs.com/?post_type=tribe_events&tribe_events_cat=bengaluru-pub-quiz-event&ical=1&eventDisplay=list" --output "out/aceofpubs.ics"
 
 out/aceofpubs.json: out/aceofpubs.ics
 	python src/aceofpubs.py
