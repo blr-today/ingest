@@ -23,7 +23,7 @@ def convert_to_event_json(event):
         "url": event['webUrl'] if "undefined" not in event['webUrl'] else None,
         "startDate": event['startDate'],
         "endDate": event['endDate'],
-        "image": event['bannerImages'][0]['downloadURL'],
+        "image": event['bannerImages'][0]['downloadURL'] if 'bannerImages' in event and len(event['bannerImages'])>0 else None,
         "performer": {
             "@type": "MusicGroup",
             "name": event['artists'][0]['name'],
