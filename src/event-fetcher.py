@@ -40,6 +40,7 @@ EVENT_JSON_FILES = [
     'out/tonight.json', # this includes duplicates to insider
     "out/trove.json",
     "out/aceofpubs.json",
+    "out/atta_galatta.json"
 ]
 
 KNOWN_EVENT_TYPES = [

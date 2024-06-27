@@ -1,17 +1,9 @@
 import datetime
-import time
-from lxml import html
 import json
-from common import linktree
 from requests_cache import CachedSession
 import datefinder
-import extruct
-import requests
-import cloudscraper
+from bs4 import BeautifulSoup
 
-HEADERS = {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-}
 session = CachedSession(
     "event-fetcher-cache",
     expire_after=datetime.timedelta(days=1),
@@ -19,47 +11,71 @@ session = CachedSession(
     use_cache_dir=True,
     cache_control=False,
 )
-scraper = cloudscraper.create_scraper()
-
+# TODO: Some events have more than one event, we don't handle that case
+"""
+Fetches events in the future
+and attaches a datetime object to each event
+"""
 def fetch_events():
-
     events = []
-    l = linktree.Linktree("atta_galatta")
-    for link in l.fetch_links():
-        title = link['title']
-        tz = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
-        dates = list(datefinder.find_dates(title, index=True))
-        if dates:
-            date = dates[-1][0]
-            idx = dates[-1][1][0]
-            startdate = dates[-1][0].replace(tzinfo=tz)
-            events.append({
-                "name": title[0:idx],
-                "startDate": startdate.isoformat(),
-                "endDate": (startdate+datetime.timedelta(hours=2)).isoformat(),
-                'url': link['url'],
-                "thumbnail": link['thumbnail']
-            })
+    for event in session.get("https://attagalatta.com/events.php").json()['value']:
+        dates = list(datefinder.find_dates(event['eventday']))
+        if len(dates) > 0 and dates[0].date() > datetime.datetime.today().date():
+            event['date'] = dates[0]
+            yield event
 
-    return events
+def make_event(event):
+    response = session.get(event['link'])
+    soup = BeautifulSoup(response.text, "html.parser")
+    maybeClosingTime = soup.select_one("#after-title").text.split('-')[1].strip()
+    description = soup.select_one('#product-content').text.strip()
 
-def reformat_events():
-    events = []
-    for e in fetch_events():
-        insert = False
-        r = scraper.get(e['url'])
-        data = extruct.extract(r.text, base_url=e['url'], syntaxes=["json-ld"])
-        time.sleep(2)
-        for x in data["json-ld"]:
-            if x.get('@type') == "Event":
-                events.append(x)
-                insert = True
-                break
-        if not insert:
-            events.append(e)
+    divs = soup.select(".product-attribute")
+    subtitle = divs[0].text.strip()
+    performers = divs[1].text.strip()
+    keywords = [x.strip() for x in divs[2].text.split("|")]
 
-    return events
+    startTime = list(datefinder.find_dates(event['eventstarttime'], base_date=event['date']))
+    endTime = list(datefinder.find_dates(maybeClosingTime, base_date=event['date']))
+
+    e = {
+        "name": event['title'] + " - " + subtitle,
+        "description": description if len(description) > 0 else event['description'],
+        "url": event['link'],
+        "image": event['image'],
+        "performer": performers,
+        "keywords": keywords
+    }
+
+    if 'Book' in e['name'] or 'Author' in e['name'] or "Literary Discussion" in e['keywords'] or "Poetry" in e['keywords']:
+        e['type'] = "LiteraryEvent"
+
+    elif subtitle == "Theatre Performance":
+        e['type'] = "TheatreEvent"
+    elif "Music Performance" in e['name']:
+        e['type'] = "MusicEvent"
+
+    elif "Children" in e['name']:
+        e['type'] = "ChildrensEvent"
+
+    elif "Screening" in e['keywords']:
+        e['type'] = "ScreeningEvent"
+
+    elif "Discussion" in e['keywords'] or "Social" in e['keywords']:
+        e['type'] = "SocialEvent"
+    elif "Workshop" in e['keywords']:
+        e['type'] = "EducationEvent"
+    else:
+        e['type'] = "LiteraryEvent"
+
+    if len(startTime) > 0:
+        e["startDate"] = startTime[0].isoformat()
+    if len(endTime) > 0:
+        e["endDate"] = endTime[0].isoformat()
+    return e
 
 if __name__ == "__main__":
+    data = [make_event(event) for event in fetch_events()]
+        
     with open("out/atta_galatta.json", "w") as f:
-        json.dump(reformat_events(), f, indent=2)
+        json.dump(data, f, indent=2)
