@@ -14,7 +14,8 @@ LANGUAGE_MAP = {
     "Odia": "or",
     "Assamese": "as",
     "Urdu": "ur",
-    "Sanskrit": "sa",
+    # Unlikely to have an event in sanskrit
+    # "Sanskrit": "sa",
     "Nepali": "ne",
     "Sindhi": "sd"
 }
@@ -53,7 +54,8 @@ def convert_ics_to_events(ics_file_path):
         if 'inLanguage' not in event_json:
             event_json['inLanguage'] = "en"
 
-        if re.search(r"\bsubtitles", event_json['description'], re.IGNORECASE):
+        # Film Screenings is for MAP
+        if re.search(r"\bsubtitles", event_json['description'], re.IGNORECASE) or 'Film Screenings' in event.categories:
             event_json['@type'] = "ScreeningEvent"
             event_json['workPresented'] = {
                 "@type": "Movie",
@@ -64,6 +66,14 @@ def convert_ics_to_events(ics_file_path):
             for l in L_WITH_ENGLISH:
                 if re.search(r"\b" + l + r" subtitles\b", event_json['description'], re.IGNORECASE):
                     event_json['subtitleLanguage'] = L_WITH_ENGLISH[l]
+
+        # MAP SPECIFIC
+        if 'Workshops' in event.categories:
+            event_json['@type'] = "EducationEvent"
+        if "Performances" in event.categories and "music" in event_json['description']:
+            event_json['@type'] = "MusicEvent"
+        elif "Performances" in event.categories:
+            event_json['@type'] = "TheaterEvent"
 
         if 'Performing Arts' in event.categories and 'Theatre' in event.categories:
             event_json['@type'] = "TheaterEvent"

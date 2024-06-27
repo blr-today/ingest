@@ -22,7 +22,7 @@ LANGUAGE_MAP = {
     "Odia": "or",
     "Assamese": "as",
     "Urdu": "ur",
-    "Sanskrit": "sa",
+    # "Sanskrit": "sa",
     "Nepali": "ne",
     "Sindhi": "sd",
 }
