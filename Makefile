@@ -98,6 +98,12 @@ out/pvr/cinemas.json:
 out/trove.json:
 	python src/trove.py
 
+out/aceofpubs.ics:
+	wget "https://aceofpubs.com/?post_type=tribe_events&tribe_events_cat=bengaluru-pub-quiz-event&ical=1&eventDisplay=list" -O out/aceofpubs.ics
+
+out/aceofpubs.json: out/aceofpubs.ics
+	python src/aceofpubs.py
+
 # TODO
 # out/sis.txt:
 # 	python src/sis.py | sort > out/sis.txt

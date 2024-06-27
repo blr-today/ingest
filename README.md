@@ -17,10 +17,12 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | Atta Gallata                   | ✔️      | ✔️     | ❌           |                                                                                                           |
 | Zomato                         | ✔️      | ✔️     | ❌           |                                                                                                           |
 | Champaca                       | ✔️      | ✔️     | ✔️           |                                                                                                           |
+| Ace of Pubs                    | ✔️      | ✔️     | ✔️           | Uses calendar, no description available
 | [Sofar][sofar]                 | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | [Sumukha gallery][sumukha]     | ✔️      | ✔️     | ✔️          | 
 | [Townscript][ts]			     | ✔️      | ✔️     | ✔️          | Lahe Lahe, Broke Bibliophiles, Foodwize. Suggestions welcome for more events that use TownScript
 | [Blue Tokai][bt]			     | ✔️      | ✔️     | ✔️          | Some location guesswork
+| [Trove Experiences][trove]     | ✔️      | ✔️     | ✔️          | Some location guesswork
 | [Gully Tours][gt]			     | ✔️      | ✔️     | ✔️          |  Sticker Price used, child pricing ignored
 | [Tonight.is][tonight]          | ✔️      | ✔️     | ❌          | Only parties, regulars ignored for now.
 | PVR Cinemas                    | ✔️      | ✔️     | ❌          | Covers only PVR cinemas
@@ -41,6 +43,7 @@ We have some data available or change notifications configured, but there needs 
 - [x] https://thecourtyard.in/events/ Courtyard is only using Urbanaut, so covered already
 - [ ] https://www.blrcreativecircus.com/events
 - [x] https://gameslab.wootick.com/ Covered via Insider, maybe add a filter
+- [ ] [The White Box](https://thewhiteboxco.in/) - Run by same people as Trove, similar events.
 
 # TODO
 - [ ] [Adidas Runners](https://www.adidas.co.in/adidasrunners/community/bengaluru).
@@ -94,3 +97,4 @@ We have some data available or change notifications configured, but there needs 
 [bt]: https://bluetokaicoffee.com/pages/events-new
 [gt]: https://www.gully.tours/tours
 [tonight]: https://tonight.is
+[trove]: https://troveexperiences.com/
