@@ -99,7 +99,7 @@ out/trove.json:
 	python src/trove.py
 
 out/aceofpubs.ics:
-	curl_chrome116 "https://aceofpubs.com/?post_type=tribe_events&tribe_events_cat=bengaluru-pub-quiz-event&ical=1&eventDisplay=list" --output "out/aceofpubs.ics"
+	curl_chrome116 "https://aceofpubs.com/events/category/bengaluru-pub-quiz-event/?post_type=tribe_events&ical=1&eventDisplay=list&ical=1" --output "out/aceofpubs.ics"
 
 out/aceofpubs.json: out/aceofpubs.ics
 	python src/aceofpubs.py

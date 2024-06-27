@@ -18,6 +18,7 @@ def modify_event(event):
         event['description'] = "A Pub hosted by Ace of Pubs"
     event['startDate'] = fix_date(event['startDate'])
     event['endDate'] = fix_date(event['endDate'])
+    event['keywords'] = "QUIZ"
     return event
 
 if __name__ == "__main__":
