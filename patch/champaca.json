@@ -1,6 +1,5 @@
 {
     "@context": "http://schema.org",
-    "duration": "PT2H",
     "location": {
         "@type": "Place",
         "name": "Champaca Bookstore",
@@ -16,6 +15,7 @@
             "addressCountry": "India"
         }
     },
+    "keywords": "CHAMPCA, BOOKS",
     "organizer": {
         "@type": "Organization",
         "name": "Champaca Bookstore",

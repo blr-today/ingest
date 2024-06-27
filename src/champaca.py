@@ -52,10 +52,13 @@ def make_event(title, starttime, description, url, product_urls):
         if match:
             performer = match.group("name")
             break
+    starttime = starttime.replace(tzinfo=tz)
+
     e = {
         "@type": guess_event_type(title),
         "name": title,
-        "startDate": starttime.replace(tzinfo=tz).isoformat(),
+        "startDate": starttime.isoformat(),
+        "endDate": (starttime + datetime.timedelta(hours=2)).isoformat(),
         "description": description,
         "url": url,
         "offers": [
