@@ -95,6 +95,9 @@ out/adidas.json:
 out/pvr/cinemas.json:
 	python src/pvr.py
 
+out/trove.json:
+	python src/trove.py
+
 # TODO
 # out/sis.txt:
 # 	python src/sis.py | sort > out/sis.txt
@@ -123,7 +126,8 @@ all: out/allevents.txt \
  out/tonight.json \
  out/creativemornings.txt \
  out/adidas.json \
- out/pvr/cinemas.json
+ out/pvr/cinemas.json \
+ out/trove.json
 	@echo "Done"
 
 db:
