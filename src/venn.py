@@ -57,7 +57,6 @@ def fetch_venn():
                 hostname = urllib.parse.urlparse(event["shortened_link"]).hostname
                 # if the hostname is a known shortener, expand the link
                 if hostname in KNOWN_SHORTENERS:
-                    print("Expanding " + event["shortened_link"])
                     event["shortened_link"] = expand_link(event["shortened_link"])
                 else:
                     break

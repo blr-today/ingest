@@ -146,7 +146,8 @@ all: out/allevents.txt \
  out/pvr/cinemas.json \
  out/trove.json \
  out/aceofpubs.json \
- out/atta_galatta.json
+ out/atta_galatta.json \
+ out/koota.txt
 	@echo "Done"
 
 db:

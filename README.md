@@ -4,23 +4,24 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 
 | Source                         | Scraped | Parsed | In Database | Notes                                                                                                     |
 |:-------------------------------|:--------|:-------|:------------|:----------------------------------------------------------------------------------------------------------|
-| AllEvents.in                   | ✔️      | ✔️     | ✔️          |                                                                                                           |
-| HighApe.com                    | ✔️      | ✔️     | ✔️          |                                                                                                           |
+| AllEvents.in                   | ✔️      | ✔️     | ✔️          |
+| HighApe.com                    | ✔️      | ✔️     | ✔️          |
+| Skillboxes                     | ✔️      | ✔️     | ✔️          |
 | map-india.org                  | ✔️      | ✔️     | ✔️          | Only events, exhibits are not tracked yet
 | BIC                            | ✔️      | ✔️     | ✔️          | Converted from ICS Calendar                                                                               |
-| Paytm Insider                  | ✔️      | ✔️     | ✔️          |                                                                                                           |
+| Paytm Insider                  | ✔️      | ✔️     | ✔️          |
 | Bengaluru Sustainability Forum | ✔️      | ✔️     | ❌           |                                                                                                           |
 | Bhaago India                   | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | Carbon Science Gallery         | ✔️      | ✔️     | ✔️           |                                                                                                           |
 | Max Mueller Bhavan             | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | Venn                           | ✔️      | ✔️     | ❌           |                                                                                                           |
-| Atta Gallata                   | ✔️      | ✔️     | ❌           |                                                                                                           |
+| Atta Gallata                   | ✔️      | ✔️     | ✔️           |                                                                                                           |
 | Zomato                         | ✔️      | ✔️     | ❌           |                                                                                                           |
 | Champaca                       | ✔️      | ✔️     | ✔️           |                                                                                                           |
 | Ace of Pubs                    | ✔️      | ✔️     | ✔️           | Uses calendar, no description available
 | [Sofar][sofar]                 | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | [Sumukha gallery][sumukha]     | ✔️      | ✔️     | ✔️          | 
-| [Townscript][ts]			     | ✔️      | ✔️     | ✔️          | Lahe Lahe, Broke Bibliophiles, Foodwize. Suggestions welcome for more events that use TownScript
+| [Townscript][ts]			     | ✔️      | ✔️     | ✔️          | Specific accounts only
 | [Blue Tokai][bt]			     | ✔️      | ✔️     | ✔️          | Some location guesswork
 | [Trove Experiences][trove]     | ✔️      | ✔️     | ✔️          | Some location guesswork
 | [Gully Tours][gt]			     | ✔️      | ✔️     | ✔️          |  Sticker Price used, child pricing ignored
@@ -53,10 +54,8 @@ We have some data available or change notifications configured, but there needs 
 - [ ] https://gaianaturalproductsandservices.myinstamojo.com/category/419534/events
 - [ ] https://dialogues.space/events/
 - [ ] bookmyshow plays
-- [ ] [Instagram](instagram.txt)
-- [ ] http://1shanthiroad.com/category/events/
+- [ ] http://1shanthiroad.com/category/events/ - Can't find a good source
 - [ ] find more Townscript accounts to follow
-- [ ] https://www.tonight.is/. Some GRPC Firebase :poop:
 - [ ] https://www.downtomeet.com/
 - [ ] Go through PS archives to see other venue hosts.
 - [ ] [Indian Music Experience](https://indianmusicexperience.org/events/)

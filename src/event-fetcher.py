@@ -281,6 +281,7 @@ if __name__ == "__main__":
         expire_after=timedelta(days=1),
         stale_if_error=True,
         use_cache_dir=True,
+        allowable_codes=(200, 302),
         cache_control=False,
     )
     conn = sqlite3.connect("events.db")
