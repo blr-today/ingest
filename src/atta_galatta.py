@@ -50,7 +50,7 @@ def make_event(event):
         "url": event["link"],
         "image": event["image"],
         "performer": performers,
-        "keywords": keywords + ["ATTAGALATTA", "BOOKS"],
+        "keywords": keywords + ["ATTAGALATTA", "BOOKSTORE"],
     }
 
     if (
@@ -80,9 +80,9 @@ def make_event(event):
         e["@type"] = "LiteraryEvent"
 
     if len(startTime) > 0:
-        e["startDate"] = startTime[0].isoformat()
+        e["startDate"] = startTime[0].replace(tzinfo=IST).isoformat()
     if len(endTime) > 0:
-        e["endDate"] = endTime[0].isoformat()
+        e["endDate"] = endTime[0].replace(tzinfo=IST).isoformat()
     return e
 
 

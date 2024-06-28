@@ -87,45 +87,47 @@ URL_FILES = [
 
 def fix_online_schema(url, event):
     for x in ['startDate', 'endDate']:
-        if event[x]:
-            event[x].replace("+5.5:00", "+05:30")
-            y = event[x].split('-')
-            # pad the y[1], and y[2] with 0s
-            y[1] = y[1].zfill(2)
-            y[2] = y[2].zfill(2)
-            event[x] = '-'.join(y)
+        if x in event:
+            # HACK: This is specific to Courtyard Koota
+            # where dates are not in ISO format
+            event[x] = event[x].replace("+5.5:00", "+05:30")
+            time = year = None
+            if 'T' in event[x]:
+                date,time = event[x].split('T')
+                year,month,day = date.split("-")
+            else:
+                yy = event[x].split("-")
+                if len(yy) == 3:
+                    year,month,day = yy
+            if year:
+                month = month.zfill(2)
+                day = day.zfill(2)
+                event[x] = f"{year}-{month}-{day}"
+                if time:
+                    event[x] = f"{event[x]}T{time}"
+
+    
+
+    # fix format to ISO and timezone to IST
+    for x in ['startDate', 'endDate']:
+        if x in event:  
+            try:
+                event[x] = (
+                    datetime.fromisoformat(event[x]).astimezone(IST).isoformat()
+                )
+            except Exception as e:
+                # THIS IS BHAAGO INDIA SPECIFIC
+                # replace all dots and commas
+                startdate = event[x].replace(".", "").replace(",", "").lower()
+                startdate = startdate.replace("sept", "sep")
+                event[x] = list(datefinder.find_dates(startdate))[0].replace(
+                    tzinfo=IST
+                ).isoformat()
 
     # set endDate = startDate + 2h if no endDate
     if "endDate" not in event:
         event["endDate"] = (
             datetime.fromisoformat(event["startDate"]) + timedelta(hours=2)
-        ).isoformat()
-
-    # change timezone to IST
-    try:
-        event["startDate"] = (
-            datetime.fromisoformat(event["startDate"]).astimezone(IST).isoformat()
-        )
-    except Exception as e:
-        # THIS IS BHAAGO INDIA SPECIFIC
-        # replace all dots and commas
-        startdate = event["startDate"].replace(".", "").replace(",", "").lower()
-        startdate = startdate.replace("sept", "sep")
-        event["startDate"] = list(datefinder.find_dates(startdate))[0].replace(
-            tzinfo=IST
-        ).isoformat()
-
-    try:
-        event["endDate"] = (
-            datetime.fromisoformat(event["endDate"]).astimezone(IST).isoformat()
-        )
-    except Exception as e:
-        # THIS IS BHAAGO INDIA SPECIFIC
-        # replace all dots and commas
-        enddate = event["endDate"].replace(".", "").replace(",", "").lower()
-        enddate = enddate.replace("sept", "sep")
-        event["endDate"] = list(datefinder.find_dates(enddate))[0].replace(
-            tzinfo=IST
         ).isoformat()
 
     # force https here
