@@ -98,8 +98,10 @@ out/pvr/cinemas.json:
 out/trove.json:
 	python src/trove.py
 
+# aceofpubs website is down right now
 out/aceofpubs.ics:
-	curl_chrome116 "https://aceofpubs.com/events/category/bengaluru-pub-quiz-event/?post_type=tribe_events&ical=1&eventDisplay=list&ical=1" --output "out/aceofpubs.ics"
+	git checkout -- out/aceofpubs.ics
+# 	curl_chrome116 "https://aceofpubs.com/events/category/bengaluru-pub-quiz-event/?post_type=tribe_events&ical=1&eventDisplay=list&ical=1" --output "out/aceofpubs.ics"
 
 out/aceofpubs.json: out/aceofpubs.ics
 	python src/aceofpubs.py

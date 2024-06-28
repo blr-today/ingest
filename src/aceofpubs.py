@@ -19,15 +19,15 @@ def modify_event(event):
     event["startDate"] = fix_date(event["startDate"])
     event["endDate"] = fix_date(event["endDate"])
     event["keywords"] = "QUIZ"
+    event['location'] = event['location']['name']
     return event
-
 
 if __name__ == "__main__":
     input_ics_file = "out/aceofpubs.ics"
     output_json_file = "out/aceofpubs.json"
 
     json_data = icalendar.convert_ics_to_events(input_ics_file)
-    json_data = [modify_event(event) for event in json_data]
+    json_data = [modify_event(event) for event in json_data if ('bangalore' in event['location']['name'].lower() or 'bengaluru' in event['location']['name'].lower())]
 
     with open(output_json_file, "w") as output_file:
         output_file.write(json.dumps(json_data, indent=2))
