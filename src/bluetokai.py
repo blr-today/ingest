@@ -3,7 +3,8 @@ import json
 import re
 from bs4 import BeautifulSoup
 import datefinder
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timedelta
+from common.tz import IST
 import os
 from math import ceil
 
@@ -11,68 +12,68 @@ LOCATIONS = [
     (
         "https://cafe.bluetokaicoffee.com/sarvagna-nagar-bengaluru-34817/home",
         "Blue Tokai Coffee Roasters HRBR Layout",
-        r'\bhrbr\b',
+        r"\bhrbr\b",
     ),
     (
         "https://cafe.bluetokaicoffee.com/jayanagar-bengaluru-34903/home",
         "Blue Tokai Coffee Roasters Jayanagar",
-        r'\bjayanagar\b',
+        r"\bjayanagar\b",
     ),
     (
         "https://cafe.bluetokaicoffee.com/armane-nagar-bengaluru-34815/home",
         "Blue Tokai Coffee Roasters Sadashiva Nagar",
-        r'\bsadashiva\b',
+        r"\bsadashiva\b",
     ),
     (
         "https://cafe.bluetokaicoffee.com/mahadevapura-bengaluru-33593/home",
         "Blue Tokai Coffee Roasters Whitefield",
-        r'\bwhitefield\b',
+        r"\bwhitefield\b",
     ),
     # This is not a cafe but their Roastery itself
-    (  
+    (
         "https://maps.app.goo.gl/fssZvwfXuxhaC7G77",
         "Blue Tokai Roastery, NGEF Layout",
-        r'\bngef\b',
+        r"\bngef\b",
     ),
     (
         "https://cafe.bluetokaicoffee.com/shivaji-nagar-bengaluru-33592/home",
         "Blue Tokai Coffee Roasters Infantry Road",
-        r'\binfantry\b',
+        r"\binfantry\b",
     ),
     (
         "https://cafe.bluetokaicoffee.com/indiranagar-bengaluru-34282/home",
         "Blue Tokai Coffee Roasters Indiranagar, Domlur",
-        r'\bdomlur\b',
+        r"\bdomlur\b",
     ),
     (
         "https://cafe.bluetokaicoffee.com/indiranagar-bengaluru-33590/home",
         "Blue Tokai Coffee Roasters Indiranagar",
-        r'\bindiranagar\b',
+        r"\bindiranagar\b",
     ),
     (
         "https://cafe.bluetokaicoffee.com/koramangala-bengaluru-36832/home",
         "Blue Tokai Coffee Roasters Koramangala, 5th Block",
-        r'\b5th block\b',
+        r"\b5th block\b",
     ),
     (
         "https://cafe.bluetokaicoffee.com/koramangala-bengaluru-33591/home",
         "Blue Tokai Coffee Roasters Koramangala",
-        r'\bkoramangala\b',
+        r"\bkoramangala\b",
     ),
     (
         "https://cafe.bluetokaicoffee.com/bangalore-east-taluk-bengaluru-34283/home",
         "Blue Tokai Coffee Roasters RMZ Ecoworld",
-        r'\brmz\b',
+        r"\brmz\b",
     ),
     (
         "https://cafe.bluetokaicoffee.com/hsr-layout-bengaluru-33594/home",
         "Blue Tokai Coffee Roasters HSR Layout",
-        r'\bhsr\b',
+        r"\bhsr\b",
     ),
     (
         "https://cafe.bluetokaicoffee.com/jayanagar-bengaluru-33595/home",
         "Blue Tokai Coffee Roasters JP Nagar",
-        r'\bjp nagar\b',
+        r"\bjp nagar\b",
     ),
 ]
 
@@ -108,10 +109,13 @@ def find_bengaluru_variant(product_json):
                 return variant, dates[0]
     return None, None
 
+
 def extract_timing(body_html):
     clean_text = BeautifulSoup(body_html, "html.parser").get_text()
     # Find timings like "12 PM - 2 PM", allowing for variable spacing
-    timing_match = re.search(r"(\d{1,2})\s*(AM|PM)\s*-\s*(\d{1,2})\s*(AM|PM)", clean_text, re.IGNORECASE)
+    timing_match = re.search(
+        r"(\d{1,2})\s*(AM|PM)\s*-\s*(\d{1,2})\s*(AM|PM)", clean_text, re.IGNORECASE
+    )
     if timing_match:
         start_hour, start_period, end_hour, end_period = timing_match.groups()
         # Convert to 24-hour format
@@ -131,13 +135,10 @@ def guess_location(body_html):
 
 
 def generate_event_object(product_json, variant, date, start_hour, end_hour):
-    tz = timezone(timedelta(hours=5, minutes=30))
     start_datetime = datetime(
-        date.year, date.month, date.day, start_hour, 0, tzinfo=tz
+        date.year, date.month, date.day, start_hour, 0, tzinfo=IST
     )
-    end_datetime = datetime(
-        date.year, date.month, date.day, end_hour, 0, tzinfo=tz
-    )
+    end_datetime = datetime(date.year, date.month, date.day, end_hour, 0, tzinfo=IST)
     (location_url, address) = guess_location(product_json["product"]["body_html"])
     event = {
         "url": f"https://bluetokaicoffee.com/products/{product_json['product']['handle']}",
@@ -159,7 +160,7 @@ def generate_event_object(product_json, variant, date, start_hour, end_hour):
             "name": address,
             "url": location_url,
             "address": address + " Bengaluru",
-        }
+        },
     }
     return event
 
@@ -173,8 +174,12 @@ def main():
         product_json = fetch_product_json(slug)
         variant, date = find_bengaluru_variant(product_json)
         if variant and date:
-            (start_hour, end_hour) = extract_timing(product_json["product"]["body_html"])
-            event = generate_event_object(product_json, variant, date, start_hour, end_hour)
+            (start_hour, end_hour) = extract_timing(
+                product_json["product"]["body_html"]
+            )
+            event = generate_event_object(
+                product_json, variant, date, start_hour, end_hour
+            )
             events.append(event)
 
     with open("out/bluetokai.json", "w") as f:

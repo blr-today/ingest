@@ -1,25 +1,24 @@
 import http.client
 import datetime
 import json
-
-tz = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
+from common.tz import IST
 
 
 def to_schema_org_music_event(event_info):
     base_url = "https://www.sofarsounds.com/events/"
     guestsArriveAt = datetime.datetime.fromisoformat(
         event_info.get("guestsArriveAt")
-    ).astimezone(tz)
+    ).astimezone(IST)
     startsAt = datetime.datetime.fromisoformat(event_info.get("startsAt")).astimezone(
-        tz
+        IST
     )
     # events are assumed to be 2 hours long
     endsAt = startsAt + datetime.timedelta(hours=2)
 
-    name = event_info['theme']['title'] + " Sofar concert at a "
+    name = event_info["theme"]["title"] + " Sofar concert at a "
 
     categories = "/".join([x["name"] for x in event_info["venue"]["venueCategories"]])
-    if categories != "Other" :
+    if categories != "Other":
         name += categories + " in "
     try:
         name += event_info["venue"]["neighborhood"]["title"]
@@ -32,7 +31,7 @@ def to_schema_org_music_event(event_info):
         "startDate": startsAt.isoformat(),
         "doorTime": guestsArriveAt.isoformat(),
         "endDate": endsAt.isoformat(),
-        "name": name
+        "name": name,
     }
 
     return music_event_schema

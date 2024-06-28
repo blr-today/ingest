@@ -1,6 +1,7 @@
 import http.client
 import datetime
 import json
+from common.tz import IST
 import dateutil.parser
 import re
 from lxml import etree
@@ -11,6 +12,7 @@ from math import ceil
 HEADERS = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
 }
+
 
 def make_request(url):
     parsed_url = url.split("://")[1]
@@ -41,10 +43,9 @@ def guess_event_type(title):
 
 # Generate as per the schema.org/Event specification
 def make_event(title, starttime, description, url, product_urls):
-    tz = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
     performer_regexes = [
-        r'/by (?P<name>(\w|\s)+)\s(\||:)/',
-        r'/with (?P<name>(\w|\s)+)\s(\||:)/',
+        r"/by (?P<name>(\w|\s)+)\s(\||:)/",
+        r"/with (?P<name>(\w|\s)+)\s(\||:)/",
     ]
     performer = None
     for regex in performer_regexes:
@@ -52,7 +53,7 @@ def make_event(title, starttime, description, url, product_urls):
         if match:
             performer = match.group("name")
             break
-    starttime = starttime.replace(tzinfo=tz)
+    starttime = starttime.replace(tzinfo=IST)
 
     e = {
         "@type": guess_event_type(title),
@@ -69,7 +70,7 @@ def make_event(title, starttime, description, url, product_urls):
                 "priceCurrency": "INR",
             }
             for url in product_urls
-        ]
+        ],
     }
 
     for offer in e["offers"]:
@@ -103,12 +104,7 @@ def fetch_events():
         ).text
         # get all text from div or P elements
         description_text = " ".join(
-            [
-                p
-                for p in etree.HTML(html_content).xpath(
-                    "//div//text() | //p//text()"
-                )
-            ]
+            [p for p in etree.HTML(html_content).xpath("//div//text() | //p//text()")]
         )
         url = entry.find(
             ".//xmlns:link", namespaces={"xmlns": "http://www.w3.org/2005/Atom"}
@@ -134,7 +130,6 @@ def fetch_events():
                 # Calculate the difference in days between now and the future date
                 days_difference = (future_date - datetime.datetime.now()).days
                 if days_difference <= 30 and days_difference >= 1:
-                    tz = datetime.timezone(datetime.timedelta(hours=5, minutes=30))
 
                     events.append(
                         make_event(title, future_date, description_text, url, links)
