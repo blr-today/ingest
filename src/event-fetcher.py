@@ -1,4 +1,5 @@
 import extruct
+import time
 from requests_cache import CachedSession
 from datetime import timedelta
 from w3lib.html import get_base_url
@@ -103,11 +104,11 @@ def get_events(s, filt):
         if filt and i != filt:
             continue
         with open(i, "r") as f:
+            start_ts = time.time()
             patch = get_patch(i)
             urls = f.readlines()
             for url in urls:
                 url = url.strip()
-                print(url)
                 if url:
                     keywords = None
                     r = s.get(url)
@@ -178,6 +179,7 @@ def get_events(s, filt):
                             yield m
                     else:
                         print(f"Could not find event in {url}")
+            print(f"Processed {i} in {time.time() - start_ts:.2f}s")
 
 
 def insert_event_json(conn, url, event_json):

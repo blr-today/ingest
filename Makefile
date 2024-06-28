@@ -1,3 +1,4 @@
+SHELL = ./src/report_time.sh
 AE_START_TS := $(shell date +%s)
 AE_END_TS := $(shell date +%s --date="1 month")
 
@@ -136,7 +137,8 @@ all: out/allevents.txt \
  out/adidas.json \
  out/pvr/cinemas.json \
  out/trove.json \
- out/aceofpubs.json
+ out/aceofpubs.json \
+ out/atta_galatta.json
 	@echo "Done"
 
 db:
