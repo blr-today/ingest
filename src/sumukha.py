@@ -1,19 +1,17 @@
-import http.client
+from requests_cache import CachedSession
 from bs4 import BeautifulSoup
 import html
 import json
 from urllib.parse import urlparse, urljoin
-from datetime import datetime
+from datetime import datetime,timedelta
 
-
-# Function to fetch HTML content using http.client
-def fetch_html(url):
-    parsed_url = urlparse(url)
-    conn = http.client.HTTPSConnection(parsed_url.netloc)
-    conn.request("GET", parsed_url.path + "?" + parsed_url.query)
-    response = conn.getresponse()
-    return response.read().decode()
-
+session = CachedSession(
+    "event-fetcher-cache",
+    expire_after=timedelta(days=1),
+    stale_if_error=True,
+    use_cache_dir=True,
+    cache_control=False,
+)
 
 # Function to parse and format date
 def parse_and_format_date(date_str):
@@ -30,7 +28,7 @@ def parse_and_format_date(date_str):
 
 def fetch_description(url):
     # Fetch event description from detail page
-    event_html = fetch_html(url)
+    event_html = session.get(url).text
     # Get the description by getting all text between "converter.makeHtml(`" and "`"
     start_index = event_html.find("converter.makeHtml(`") + len("converter.makeHtml(`")
     end_index = event_html.find("`);", start_index)
@@ -56,6 +54,7 @@ def parse_event_details(html_content):
         event_url = urljoin(
             "https://sumukha.com", card_body.select_one(".list-title a")["href"]
         )
+        print(event_url)
         description = fetch_description(event_url)
 
         events.append(
@@ -78,9 +77,11 @@ def parse_event_details(html_content):
 
 # Main function to orchestrate the fetching, parsing, and saving process
 def main():
-    url = "https://sumukha.com/exhibition"
-    html_content = fetch_html(url)
-    events = parse_event_details(html_content)
+    events = []
+    for scope in ["current", "upcoming"]:
+        url = f"https://sumukha.com/exhibition?section=exhibition&scope={scope}"
+        html_content = session.get(url).text
+        events += parse_event_details(html_content)
 
     # Save the data to a JSON file
     with open("out/sumukha.json", "w") as f:
