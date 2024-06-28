@@ -1,9 +1,10 @@
-import http.client
+from requests_cache import CachedSession
 import json
 import datetime
 import re
 import os
 from urllib.parse import urlencode
+from common.tz import IST
 
 event_type_mapper = {
     "Film": "ScreeningEvent",
@@ -13,6 +14,13 @@ event_type_mapper = {
     "Performance": "VisualArtsEvent",
     "Workshop": "EducationEvent"
 }
+session = CachedSession(
+    "event-fetcher-cache",
+    expire_after=datetime.timedelta(days=1),
+    stale_if_error=True,
+    use_cache_dir=True,
+    cache_control=False,
+)
 
 def guess_event_type(kind):
     # search for each of the keys from the mapper
@@ -23,74 +31,80 @@ def guess_event_type(kind):
 
     return "Event"
 
-tz = datetime.timezone(datetime.timedelta(hours=5, minutes=30))  # Asia/Kolkata timezone
-
-def fetch_data(host, path):
-    conn = http.client.HTTPSConnection(host)
-    conn.request("GET", path)
-    data = conn.getresponse().read()
-    conn.close()
-    return data
-
+"""
+returns (number_of_days, single_event_duration_in_seconds)
+"""
 def parse_duration(duration_str):
     # Regular expressions to match hours, minutes, and days
     hour_pattern = re.compile(r"(\d+(?:\.\d+)?)\s*Hours?")
     minute_pattern = re.compile(r"(\d+)\s*Minutes")
     day_pattern = re.compile(r"(\d+)\s*Days")
 
-    # Find all matches
+    # Process hours and minutes otherwise
+    hours = sum(float(match) for match in hour_pattern.findall(duration_str))
+    minutes = sum(int(match) for match in minute_pattern.findall(duration_str))
+    single_event_duration = int((hours * 60 + minutes) * 60)
+
     days_matches = day_pattern.findall(duration_str)
     if days_matches:
         # If there are days, ignore hours and minutes
         days = sum(int(match) for match in days_matches)
-        return f"P{days}D"
+        return (days, single_event_duration)
+    else:
+        return (0, single_event_duration)
 
-    # Process hours and minutes otherwise
-    hours = sum(float(match) for match in hour_pattern.findall(duration_str))
-    minutes = sum(int(match) for match in minute_pattern.findall(duration_str))
-
-    # Convert fractional hours to hours + minutes
-    additional_hours, fractional_hours = divmod(hours, 1)
-    minutes += fractional_hours * 60
-    hours = int(additional_hours)
-
-    # Convert minutes to hours if 60 or more
-    hours += int(minutes // 60)
-    minutes = int(minutes % 60)
-
-    # Construct ISO8601 duration string
-    iso_duration = "P"
-    if hours or minutes:
-        iso_duration += "T"
-    if hours:
-        iso_duration += f"{hours}H"
-    if minutes:
-        iso_duration += f"{minutes}M"
-    return iso_duration if iso_duration != "P" else "PT0M" # Handle case with no duration
+def get_performer_type(expert):
+    e = expert.lower()
+    if "festival" in e or "foundation" in e:
+        return "Organization"
+    else:
+        return "Person"
 
 def parse_timestamp(timestamp):
     try:
-        return datetime.datetime.fromisoformat(timestamp).astimezone(tz)
+        return datetime.datetime.fromisoformat(timestamp).astimezone(IST)
     # Return a very old date so this event is ignored
     except:
-        return datetime.datetime(1900, 1, 1, tzinfo=tz)
+        return datetime.datetime(1900, 1, 1, tzinfo=IST)
+
+def get_location_url(str, venue):
+    # assume str contains a a tag, get the href
+    matches = re.search(r'href=[\'"]?([^\'" >]+)', str).group(1)
+    if matches:
+        return matches
+    else:
+        # search on google maps for venue (urlencode it)
+        return "https://www.google.com/maps/search/" + urlencode({"q": venue})
 
 def make_event(e, ts):
   experts = e["experts"].replace("_", " ").title().split(",")
+  days, duration = parse_duration(e["duration"])
+  if days > 0:
+    raise "Event longer than a day not implemented"
+  
+  endDate = ts + datetime.timedelta(seconds=duration)
   return {
     "@type": guess_event_type(e["kind"]),
     "name": e["name"],
-    "location": e["venue"],
+    "location": {
+        "@type": "Place",
+        "name": e["venue"],
+        "address": e["venue"] + ", Bangalore",
+        "url": get_location_url(e["location"], e["venue"])
+    },
     "startDate": ts.isoformat(),
+    "endDate": endDate.isoformat(),
     "description": e["blurb"],
-    "duration": parse_duration(e["duration"]),
     "url": "https://carbon.scigalleryblr.org/programmes?" +  urlencode({"p":e["uid"]}),
-    "performer": [{"@type": "Person", "name": expert} for expert in experts],
+    "performer": [{
+        "@type": get_performer_type(expert), 
+        "name": expert.strip()
+    } for expert in experts],
     "maximumAttendeeCapacity": e["capacity"]
   }
 
 def filter_data(data):
-    current_time = datetime.datetime.now(tz)
+    current_time = datetime.datetime.now(IST)
     events = []
     for p in data:
         ts = parse_timestamp(p["timestamp"])
@@ -99,14 +113,10 @@ def filter_data(data):
 
     return events
 
-def save_data(data, filename):
-    with open(filename, 'w') as f:
-        json.dump(data, f, indent=2)
-
 def main():
-    events = json.loads(fetch_data("carbon-50388-default-rtdb.firebaseio.com", "/en/1ZJfGJT-7ZTOZoevdZZmh2hwXd2935ffJoWee9XXyFZ4/programmes.json"))
-    filtered_events = filter_data(events)
-    save_data(filtered_events, "out/scigalleryblr.json")
+    data = session.get("https://carbon-50388-default-rtdb.firebaseio.com/en/1ZJfGJT-7ZTOZoevdZZmh2hwXd2935ffJoWee9XXyFZ4/programmes.json").json()
+    with open("out/scigalleryblr.json", 'w') as f:
+        json.dump(filter_data(data), f, indent=2)
 
 if __name__ == "__main__":
     main()

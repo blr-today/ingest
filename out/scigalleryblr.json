@@ -2,10 +2,15 @@
   {
     "@type": "EducationEvent",
     "name": "Tracing Materials: From Resource to Waste to Art",
-    "location": "Science Gallery Bengaluru",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
     "startDate": "2024-07-13T11:00:00+05:30",
+    "endDate": "2024-07-13T17:00:00+05:30",
     "description": "What does \u2018material\u2019 or \u2018medium\u2019 mean to an artist? Do materials themselves provide rich narratives and social histories? Visual artist Arunkumar H G certainly thinks so! In this workshop he delves into the origins and historical contexts of materials, while they transform from resources to waste. <br><br>For this workshop, you are encouraged to bring your own accumulation of waste, to examine how we perceive and interpret waste. You will then work with Arunkumar H G to transform these materials into art objects, highlighting the qualities and significance of the seemingly mundane.",
-    "duration": "PT6H",
     "url": "https://carbon.scigalleryblr.org/programmes?p=tracing-ecologies",
     "performer": [
       {
@@ -18,10 +23,15 @@
   {
     "@type": "EducationEvent",
     "name": "Building Resilient Climate Futures: Exploring AI in Climate Action",
-    "location": "Science Gallery Bengaluru",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
     "startDate": "2024-06-29T10:00:00+05:30",
+    "endDate": "2024-06-29T16:00:00+05:30",
     "description": "Can AI and other technological tools affect the future of climate action in Asia? And how can you assess these nuanced climate futures?<br><br>Join researchers Dona Mathew and Sasha John in a workshop that delves into the intersection of AI and climate action, while highlighting the Digital Futures Lab's research. Discover how to spot trends and signals that hint at future climate scenarios through hands-on activities. Imagine and design the climate futures you want to see, guided by foresight methodologies and creative thinking exercises. <br>",
-    "duration": "PT6H",
     "url": "https://carbon.scigalleryblr.org/programmes?p=building-climate-futures",
     "performer": [
       {
@@ -30,7 +40,7 @@
       },
       {
         "@type": "Person",
-        "name": " Dona Mathew"
+        "name": "Dona Mathew"
       }
     ],
     "maximumAttendeeCapacity": 45
@@ -38,14 +48,19 @@
   {
     "@type": "Event",
     "name": "Aerocene : From Roadsted To Flight ",
-    "location": "NCBS",
+    "location": {
+      "@type": "Place",
+      "name": "NCBS",
+      "address": "NCBS, Bangalore",
+      "url": "https://maps.app.goo.gl/CMuaevYi3XWBxHmu5"
+    },
     "startDate": "2024-06-30T14:30:00+05:30",
+    "endDate": "2024-06-30T15:30:00+05:30",
     "description": "Have you ever dreamed of a world where we could fly without fossil fuels? Join us for India\u2019s first ever Aerocene event, where Art, Science, and Sustainability converge! <br>As a movement for eco-social justice, adrift on air, floating free from fossil fuels, lithium or hydrogen, the Aerocene project created by Tomas Saraceno moves us towards an ethical re-alliance with the Earth and its cosmic web(s) of life. The Aerocene Backpack is a portable floating kit, which enables anyone to launch their own aerosolar sculpture and start sensing the ocean of air, lifted only by the sun,without the use of fossil fuels, helium, hydrogen, solar panels, or batteries.<br>This innovative experience is designed to engage participants in thinking-through-making activity, stimulating imagination and creativity, and imparting information about solar balloon flight, thermodynamic physics, meteorological science, and art practices. Don't miss this chance to see the skies filled with flight sculptures, and to learn more about the possibilities of a fossil-fuel-free world. <br>As we learn to attune to the weather and adapt to new climates, Aerocene flight activities are weather dependent. <br><br><br>",
-    "duration": "PT1H",
     "url": "https://carbon.scigalleryblr.org/programmes?p=aerocene-flight-sculptures",
     "performer": [
       {
-        "@type": "Person",
+        "@type": "Organization",
         "name": "Aerocene Foundation"
       }
     ],
@@ -54,14 +69,19 @@
   {
     "@type": "Event",
     "name": "CARBON Film Festival Day 1",
-    "location": "Bangalore International Centre",
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre",
+      "address": "Bangalore International Centre, Bangalore",
+      "url": "https://maps.app.goo.gl/V2ZWTNBxP8iVQYZe8"
+    },
     "startDate": "2024-07-06T10:00:00+05:30",
+    "endDate": "2024-07-06T20:00:00+05:30",
     "description": "Carbon has been an invisible protagonist on the celluloid screen for a while now. Our lives are saturated with carbon, and the screen reflects its presence everywhere. Though unseen, carbon's influence permeates our lives and finds reflection in countless stories on the big screen. This festival invites you on a journey from the barren grounds of an e-waste dump yard to the magical forests of the Western Ghats. We will showcase a distinctive collection of cinematic narratives centred on the theme of carbon and bring to life stories that span generations, reflecting both the past and the ever-evolving present. These stories of ambition, resilience, and perseverance will offer a deeper understanding of carbon and films, shedding light on the transformative power of carbon.<br>The festival strives to create an immersive environment where visitors can deeply interact with these ideas through various films and discussions. We are offering a wide array of films spanning different languages, including German, English, French, and Hindi, and genres, from documentary features and narrative features to docufictions and animated shorts. Filmmakers and scholars have been encouraged to create a colourful, interactive space that encourages people of all ages to consider carbon's critical role in our lives and the global ecosystem.<br>",
-    "duration": "PT10H",
     "url": "https://carbon.scigalleryblr.org/programmes?p=carbon-film-festival_day1",
     "performer": [
       {
-        "@type": "Person",
+        "@type": "Organization",
         "name": "Carbon Film Festival"
       }
     ],
@@ -70,14 +90,19 @@
   {
     "@type": "Event",
     "name": "CARBON Film Festival Day 2",
-    "location": "Bangalore International Centre",
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre",
+      "address": "Bangalore International Centre, Bangalore",
+      "url": "https://maps.app.goo.gl/V2ZWTNBxP8iVQYZe8"
+    },
     "startDate": "2024-07-07T11:00:00+05:30",
+    "endDate": "2024-07-07T20:00:00+05:30",
     "description": "Carbon has been an invisible protagonist on the celluloid screen for a while now. Our lives are saturated with carbon, and the screen reflects its presence everywhere. Though unseen, carbon's influence permeates our lives and finds reflection in countless stories on the big screen. This festival invites you on a journey from the barren grounds of an e-waste dump yard to the magical forests of the Western Ghats. We will showcase a distinctive collection of cinematic narratives centred on the theme of carbon and bring to life stories that span generations, reflecting both the past and the ever-evolving present. These stories of ambition, resilience, and perseverance will offer a deeper understanding of carbon and films, shedding light on the transformative power of carbon.<br>The festival strives to create an immersive environment where visitors can deeply interact with these ideas through various films and discussions. We are offering a wide array of films spanning different languages, including German, English, French, and Hindi, and genres, from documentary features and narrative features to docufictions and animated shorts. Filmmakers and scholars have been encouraged to create a colourful, interactive space that encourages people of all ages to consider carbon's critical role in our lives and the global ecosystem.<br>",
-    "duration": "PT9H",
     "url": "https://carbon.scigalleryblr.org/programmes?p=carbon-film-festival_day2",
     "performer": [
       {
-        "@type": "Person",
+        "@type": "Organization",
         "name": "Carbon Film Festival"
       }
     ],
@@ -86,10 +111,15 @@
   {
     "@type": "Event",
     "name": "Into the Carbonverse: Exploring the World of Animated films",
-    "location": "Bangalore International Centre",
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre",
+      "address": "Bangalore International Centre, Bangalore",
+      "url": "https://maps.app.goo.gl/V2ZWTNBxP8iVQYZe8"
+    },
     "startDate": "2024-07-07T14:30:00+05:30",
+    "endDate": "2024-07-07T15:15:00+05:30",
     "description": "How can animation bring climate change themes to life in a compelling and impactful way? Join us for an engaging panel discussion featuring leading animators Aniruddh Shivakumar Menon, Nirupa Rao, and Fabian Driehorst.  Our panellists will address their creative processes and how animation's unique format can successfully communicate the urgency and significance of environmental issues. They will give insights into their practice and will explore both the artistic aspects of animation and its role in advocating for environmental issues. Don't miss out on this opportunity to learn from brilliant animators about the convergence of art, storytelling, and climate advocacy, as well as how their animated narratives influence the global climate change discourse.",
-    "duration": "PT45M",
     "url": "https://carbon.scigalleryblr.org/programmes?p=into-the-carbonverse",
     "performer": [
       {
@@ -98,11 +128,11 @@
       },
       {
         "@type": "Person",
-        "name": " Aniruddh Menon"
+        "name": "Aniruddh Menon"
       },
       {
         "@type": "Person",
-        "name": " Fabian Driehorst"
+        "name": "Fabian Driehorst"
       }
     ],
     "maximumAttendeeCapacity": 100
