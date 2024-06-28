@@ -112,6 +112,9 @@ out/aceofpubs.ics:
 out/aceofpubs.json: out/aceofpubs.ics
 	python src/aceofpubs.py || $(call restore-file,$@)
 
+out/koota.txt:
+	curl_chrome116 --silent "https://courtyardkoota.com/event-directory/" | grep -oE 'https://courtyardkoota\.com/events/[a-z0-9-]+/' | sort -u > out/koota.txt || $(call restore-file,$@)
+
 # TODO
 # out/sis.txt:
 # 	python src/sis.py | sort > out/sis.txt

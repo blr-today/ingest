@@ -75,16 +75,26 @@ KNOWN_EVENT_TYPES = [
 URL_FILES = [
     "out/allevents.txt",
     "out/bhaagoindia.txt",
-    # "out/highape.txt",
-    # "out/insider.txt",
+    "out/highape.txt",
+    "out/insider.txt",
     "out/mmb.txt",
     "out/skillboxes.txt",
     "out/creativemornings.txt",
     "out/together-buzz.txt",
+    "out/koota.txt",
 ]
 
 
 def fix_online_schema(url, event):
+    for x in ['startDate', 'endDate']:
+        if event[x]:
+            event[x].replace("+5.5:00", "+05:30")
+            y = event[x].split('-')
+            # pad the y[1], and y[2] with 0s
+            y[1] = y[1].zfill(2)
+            y[2] = y[2].zfill(2)
+            event[x] = '-'.join(y)
+
     # set endDate = startDate + 2h if no endDate
     if "endDate" not in event:
         event["endDate"] = (
