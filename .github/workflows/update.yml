@@ -15,22 +15,18 @@ jobs:
     name: Update data
     runs-on: ubuntu-latest
     steps:
-    - name: Get current week
-      uses: josStorer/get-current-time@v2
-      id: current-time
-      with:
-        format: YYYY-ww
-    - name: Cache File
+    - name: Cache Unshorten
       uses: actions/cache@v4
       with:
-        # Use current week number as cache
         path: .cache.pkl
-        key: "cache-${{ steps.current-time.outputs.formattedTime }}"
-    - name: Cache File
+        key: "cache-unshorten-${{ github.run_id }}"
+        restore-keys: "cache-unshorten-"
+    - name: Cache Requests SQlite
       uses: actions/cache@v4
       with:
         path: /home/runner/.cache/event-fetcher-cache.sqlite
-        key: "cache-requests-${{ steps.current-time.outputs.formattedTime }}"
+        key: "cache-requests-${{ github.run_id }}"
+        restore-keys: "cache-requests-"
     - uses: actions/checkout@v4
       name: Clone self repository
       with:

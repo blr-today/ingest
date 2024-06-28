@@ -87,6 +87,7 @@ def get_local_events(files, filt):
         if filt and i != filt:
             continue
         patch = get_patch(i)
+        start_ts  = time.time()
         if os.path.exists(i):
             with open(i, "r") as f:
                 data = json.load(f)
@@ -95,6 +96,7 @@ def get_local_events(files, filt):
                         patch.update(event)
                         event = patch
                     yield (event["url"], event)
+            print(f"Processed {i} in {time.time() - start_ts:.2f}s")
         else:
             print(f"[ERROR] Missing {i}")
 
@@ -233,7 +235,6 @@ if __name__ == "__main__":
 
     for url, event in get_local_events(EVENT_JSON_FILES, f):
         insert_event_json(conn, url, event)
-        print(url)
         i += 1
         if i % 10 == 0:
             conn.commit()

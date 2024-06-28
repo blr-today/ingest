@@ -45,8 +45,10 @@ We have some data available or change notifications configured, but there needs 
 - [ ] https://www.blrcreativecircus.com/events - Mostly on BMS
 - [x] https://gameslab.wootick.com/ Covered via Insider, maybe add a filter
 - [ ] [The White Box](https://thewhiteboxco.in/) - Run by same people as Trove, similar events.
+      List of events is at https://thewhiteboxco.in/collections/events-of-the-month/products.json
 
 # TODO
+- [ ] Switch Trove to https://troveexperiences.com/collections/bangalore/products.json
 - [ ] https://hooplaback-girl.myinstamojo.com/ (search for Workshop events)
 - [ ] https://gaianaturalproductsandservices.myinstamojo.com/category/419534/events
 - [ ] https://dialogues.space/events/
