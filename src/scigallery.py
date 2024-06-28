@@ -12,7 +12,7 @@ event_type_mapper = {
     "Tutorial": "EducationEvent",
     "Masterclass": "EducationEvent",
     "Performance": "VisualArtsEvent",
-    "Workshop": "EducationEvent"
+    "Workshop": "EducationEvent",
 }
 session = CachedSession(
     "event-fetcher-cache",
@@ -21,6 +21,7 @@ session = CachedSession(
     use_cache_dir=True,
     cache_control=False,
 )
+
 
 def guess_event_type(kind):
     # search for each of the keys from the mapper
@@ -31,9 +32,12 @@ def guess_event_type(kind):
 
     return "Event"
 
+
 """
 returns (number_of_days, single_event_duration_in_seconds)
 """
+
+
 def parse_duration(duration_str):
     # Regular expressions to match hours, minutes, and days
     hour_pattern = re.compile(r"(\d+(?:\.\d+)?)\s*Hours?")
@@ -53,6 +57,7 @@ def parse_duration(duration_str):
     else:
         return (0, single_event_duration)
 
+
 def get_performer_type(expert):
     e = expert.lower()
     if "festival" in e or "foundation" in e:
@@ -60,12 +65,14 @@ def get_performer_type(expert):
     else:
         return "Person"
 
+
 def parse_timestamp(timestamp):
     try:
         return datetime.datetime.fromisoformat(timestamp).astimezone(IST)
     # Return a very old date so this event is ignored
     except:
         return datetime.datetime(1900, 1, 1, tzinfo=IST)
+
 
 def get_location_url(str, venue):
     # assume str contains a a tag, get the href
@@ -76,32 +83,35 @@ def get_location_url(str, venue):
         # search on google maps for venue (urlencode it)
         return "https://www.google.com/maps/search/" + urlencode({"q": venue})
 
+
 def make_event(e, ts):
-  experts = e["experts"].replace("_", " ").title().split(",")
-  days, duration = parse_duration(e["duration"])
-  if days > 0:
-    raise "Event longer than a day not implemented"
-  
-  endDate = ts + datetime.timedelta(seconds=duration)
-  return {
-    "@type": guess_event_type(e["kind"]),
-    "name": e["name"],
-    "location": {
-        "@type": "Place",
-        "name": e["venue"],
-        "address": e["venue"] + ", Bangalore",
-        "url": get_location_url(e["location"], e["venue"])
-    },
-    "startDate": ts.isoformat(),
-    "endDate": endDate.isoformat(),
-    "description": e["blurb"],
-    "url": "https://carbon.scigalleryblr.org/programmes?" +  urlencode({"p":e["uid"]}),
-    "performer": [{
-        "@type": get_performer_type(expert), 
-        "name": expert.strip()
-    } for expert in experts],
-    "maximumAttendeeCapacity": e["capacity"]
-  }
+    experts = e["experts"].replace("_", " ").title().split(",")
+    days, duration = parse_duration(e["duration"])
+    if days > 0:
+        raise "Event longer than a day not implemented"
+
+    endDate = ts + datetime.timedelta(seconds=duration)
+    return {
+        "@type": guess_event_type(e["kind"]),
+        "name": e["name"],
+        "location": {
+            "@type": "Place",
+            "name": e["venue"],
+            "address": e["venue"] + ", Bangalore",
+            "url": get_location_url(e["location"], e["venue"]),
+        },
+        "startDate": ts.isoformat(),
+        "endDate": endDate.isoformat(),
+        "description": e["blurb"],
+        "url": "https://carbon.scigalleryblr.org/programmes?"
+        + urlencode({"p": e["uid"]}),
+        "performer": [
+            {"@type": get_performer_type(expert), "name": expert.strip()}
+            for expert in experts
+        ],
+        "maximumAttendeeCapacity": e["capacity"],
+    }
+
 
 def filter_data(data):
     current_time = datetime.datetime.now(IST)
@@ -113,10 +123,14 @@ def filter_data(data):
 
     return events
 
+
 def main():
-    data = session.get("https://carbon-50388-default-rtdb.firebaseio.com/en/1ZJfGJT-7ZTOZoevdZZmh2hwXd2935ffJoWee9XXyFZ4/programmes.json").json()
-    with open("out/scigalleryblr.json", 'w') as f:
+    data = session.get(
+        "https://carbon-50388-default-rtdb.firebaseio.com/en/1ZJfGJT-7ZTOZoevdZZmh2hwXd2935ffJoWee9XXyFZ4/programmes.json"
+    ).json()
+    with open("out/scigalleryblr.json", "w") as f:
         json.dump(filter_data(data), f, indent=2)
+
 
 if __name__ == "__main__":
     main()

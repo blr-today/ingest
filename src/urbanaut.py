@@ -62,6 +62,7 @@ def get_slots(slug):
     data = session.get(url).json()
     return [item for sublist in data["dates"] for item in sublist["slots"]]
 
+
 def get_age_range(x):
     audience = " ".join([y["path"] for y in x["who_is_it_for_tags_data"]]).lower()
     """
@@ -80,6 +81,7 @@ def get_age_range(x):
     else:
         return "12+"
 
+
 def get_event_type(x):
     tags = " ".join([y["path"] for y in x["genre_tags_data"]]).lower()
     name = x["name"].lower()
@@ -91,6 +93,7 @@ def get_event_type(x):
         return "EducationEvent"
     else:
         return "Event"
+
 
 def get_keywords(x):
     base = [y["name"] for y in x["genre_tags_data"]]

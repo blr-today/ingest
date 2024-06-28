@@ -16,57 +16,67 @@ session = CachedSession(
 Fetches events in the future
 and attaches a datetime object to each event
 """
+
+
 def fetch_events():
     events = []
-    for event in session.get("https://attagalatta.com/events.php").json()['value']:
-        dates = list(datefinder.find_dates(event['eventday']))
+    for event in session.get("https://attagalatta.com/events.php").json()["value"]:
+        dates = list(datefinder.find_dates(event["eventday"]))
         if len(dates) > 0 and dates[0].date() > datetime.datetime.today().date():
-            event['date'] = dates[0]
+            event["date"] = dates[0]
             yield event
 
+
 def make_event(event):
-    response = session.get(event['link'])
+    response = session.get(event["link"])
     soup = BeautifulSoup(response.text, "html.parser")
-    maybeClosingTime = soup.select_one("#after-title").text.split('-')[1].strip()
-    description = soup.select_one('#product-content').text.strip()
+    maybeClosingTime = soup.select_one("#after-title").text.split("-")[1].strip()
+    description = soup.select_one("#product-content").text.strip()
 
     divs = soup.select(".product-attribute")
     subtitle = divs[0].text.strip()
     performers = divs[1].text.strip()
     keywords = [x.strip() for x in divs[2].text.split("|")]
 
-    startTime = list(datefinder.find_dates(event['eventstarttime'], base_date=event['date']))
-    endTime = list(datefinder.find_dates(maybeClosingTime, base_date=event['date']))
+    startTime = list(
+        datefinder.find_dates(event["eventstarttime"], base_date=event["date"])
+    )
+    endTime = list(datefinder.find_dates(maybeClosingTime, base_date=event["date"]))
 
     e = {
-        "name": event['title'] + " - " + subtitle,
-        "description": description if len(description) > 0 else event['description'],
-        "url": event['link'],
-        "image": event['image'],
+        "name": event["title"] + " - " + subtitle,
+        "description": description if len(description) > 0 else event["description"],
+        "url": event["link"],
+        "image": event["image"],
         "performer": performers,
-        "keywords": keywords
+        "keywords": keywords,
     }
 
-    if 'Book' in e['name'] or 'Author' in e['name'] or "Literary Discussion" in e['keywords'] or "Poetry" in e['keywords']:
-        e['type'] = "LiteraryEvent"
+    if (
+        "Book" in e["name"]
+        or "Author" in e["name"]
+        or "Literary Discussion" in e["keywords"]
+        or "Poetry" in e["keywords"]
+    ):
+        e["type"] = "LiteraryEvent"
 
     elif subtitle == "Theatre Performance":
-        e['type'] = "TheatreEvent"
-    elif "Music Performance" in e['name']:
-        e['type'] = "MusicEvent"
+        e["type"] = "TheatreEvent"
+    elif "Music Performance" in e["name"]:
+        e["type"] = "MusicEvent"
 
-    elif "Children" in e['name']:
-        e['type'] = "ChildrensEvent"
+    elif "Children" in e["name"]:
+        e["type"] = "ChildrensEvent"
 
-    elif "Screening" in e['keywords']:
-        e['type'] = "ScreeningEvent"
+    elif "Screening" in e["keywords"]:
+        e["type"] = "ScreeningEvent"
 
-    elif "Discussion" in e['keywords'] or "Social" in e['keywords']:
-        e['type'] = "SocialEvent"
-    elif "Workshop" in e['keywords']:
-        e['type'] = "EducationEvent"
+    elif "Discussion" in e["keywords"] or "Social" in e["keywords"]:
+        e["type"] = "SocialEvent"
+    elif "Workshop" in e["keywords"]:
+        e["type"] = "EducationEvent"
     else:
-        e['type'] = "LiteraryEvent"
+        e["type"] = "LiteraryEvent"
 
     if len(startTime) > 0:
         e["startDate"] = startTime[0].isoformat()
@@ -74,8 +84,9 @@ def make_event(event):
         e["endDate"] = endTime[0].isoformat()
     return e
 
+
 if __name__ == "__main__":
     data = [make_event(event) for event in fetch_events()]
-        
+
     with open("out/atta_galatta.json", "w") as f:
         json.dump(data, f, indent=2)

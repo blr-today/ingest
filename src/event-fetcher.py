@@ -28,20 +28,20 @@ LANGUAGE_MAP = {
 }
 
 EVENT_JSON_FILES = [
-    'out/bic.json',
-    'out/sofar.json',
-    'out/scigalleryblr.json',
-    'out/sumukha.json',
-    'out/bluetokai.json',
-    'out/champaca.json',
-    'out/gullytours.json',
-    'out/mapindia.json',
-    'out/adidas.json',
-    'out/tonight.json', # this includes duplicates to insider
+    "out/bic.json",
+    "out/sofar.json",
+    "out/scigalleryblr.json",
+    "out/sumukha.json",
+    "out/bluetokai.json",
+    "out/champaca.json",
+    "out/gullytours.json",
+    "out/mapindia.json",
+    "out/adidas.json",
+    "out/tonight.json",  # this includes duplicates to insider
     "out/trove.json",
     "out/aceofpubs.json",
     "out/atta_galatta.json",
-    "out/urbanaut.json"
+    "out/urbanaut.json",
 ]
 
 KNOWN_EVENT_TYPES = [
@@ -77,12 +77,13 @@ URL_FILES = [
     "out/mmb.txt",
     "out/skillboxes.txt",
     "out/creativemornings.txt",
-    "out/together-buzz.txt"
+    "out/together-buzz.txt",
 ]
+
 
 def get_local_events(files, filt):
     for i in files:
-        if filt and i!=filt:
+        if filt and i != filt:
             continue
         patch = get_patch(i)
         if os.path.exists(i):
@@ -92,13 +93,14 @@ def get_local_events(files, filt):
                     if patch:
                         patch.update(event)
                         event = patch
-                    yield (event['url'], event)
+                    yield (event["url"], event)
         else:
             print(f"[ERROR] Missing {i}")
 
+
 def get_events(s, filt):
     for i in URL_FILES:
-        if filt and i!=filt:
+        if filt and i != filt:
             continue
         with open(i, "r") as f:
             patch = get_patch(i)
@@ -130,32 +132,43 @@ def get_events(s, filt):
 
                     m = None
                     for x in data["json-ld"]:
-                        if x.get('@graph'):
-                            m = m or find_event(x['@graph'])
+                        if x.get("@graph"):
+                            m = m or find_event(x["@graph"])
                     m = m or find_event(data["json-ld"])
                     if m:
-                        if m[1].get('LOCATION'):
-                            m[1]['location'] = m[1].pop('LOCATION')
+                        if m[1].get("LOCATION"):
+                            m[1]["location"] = m[1].pop("LOCATION")
                         if keywords:
-                            if 'keywords' in m[1]:
+                            if "keywords" in m[1]:
                                 # insider reports keywords as a dict (incorrectly) so we ignore and rewrite from meta tags
                                 try:
-                                    keywords = ",".join(set(m[1]['keywords'].split(",") + keywords.split(",")))
+                                    keywords = ",".join(
+                                        set(
+                                            m[1]["keywords"].split(",")
+                                            + keywords.split(",")
+                                        )
+                                    )
                                 except:
                                     pass
-                            m[1]['keywords'] = keywords
+                            m[1]["keywords"] = keywords
 
                         # These are workarounds for broken schema published by Insider
                         try:
-                            if 'language' in m[1]['inLanguage']:
-                                m[1]['inLanguage']['name'] = m[1]['inLanguage']['language']
-                                m[1]['inLanguage']['alternateName'] = LANGUAGE_MAP.get(m[1]['inLanguage']['language'], 'und')
-                                del m[1]['inLanguage']['language']
+                            if "language" in m[1]["inLanguage"]:
+                                m[1]["inLanguage"]["name"] = m[1]["inLanguage"][
+                                    "language"
+                                ]
+                                m[1]["inLanguage"]["alternateName"] = LANGUAGE_MAP.get(
+                                    m[1]["inLanguage"]["language"], "und"
+                                )
+                                del m[1]["inLanguage"]["language"]
                         except:
                             pass
                         try:
-                            if m1['typicalAgeRange']['@type'] == 'Age-Range':
-                                m[1]['typicalAgeRange'] = m[1]['typicalAgeRange']['language']
+                            if m1["typicalAgeRange"]["@type"] == "Age-Range":
+                                m[1]["typicalAgeRange"] = m[1]["typicalAgeRange"][
+                                    "language"
+                                ]
                         except:
                             pass
                         if patch:
@@ -166,29 +179,35 @@ def get_events(s, filt):
                     else:
                         print(f"Could not find event in {url}")
 
+
 def insert_event_json(conn, url, event_json):
     d = json.dumps(event_json)
     cursor = conn.cursor()
-    cursor.execute('INSERT INTO events (url, event_json) VALUES (?, ?)', (url, d))
+    cursor.execute("INSERT INTO events (url, event_json) VALUES (?, ?)", (url, d))
+
 
 def get_patch(input_file):
     basename = os.path.splitext(os.path.basename(input_file))[0]
     patch = os.path.join("patch", basename + ".json")
     if os.path.exists(patch):
-        with open(patch, 'r') as file:
+        with open(patch, "r") as file:
             return json.load(file)
 
+
 def create_events_table():
-    conn = sqlite3.connect('events.db')
+    conn = sqlite3.connect("events.db")
     cursor = conn.cursor()
-    cursor.execute('''
+    cursor.execute(
+        """
         CREATE TABLE IF NOT EXISTS events (
             url TEXT,
             event_json TEXT
         );
-    ''')
+    """
+    )
     conn.commit()
     conn.close()
+
 
 if __name__ == "__main__":
     f = None
@@ -202,19 +221,19 @@ if __name__ == "__main__":
         use_cache_dir=True,
         cache_control=False,
     )
-    conn = sqlite3.connect('events.db')
+    conn = sqlite3.connect("events.db")
     i = 0
-    for (url, d) in get_events(session, f):
+    for url, d in get_events(session, f):
         insert_event_json(conn, url, d)
-        i+=1
-        if i %10 == 0:
+        i += 1
+        if i % 10 == 0:
             conn.commit()
 
-    for (url, event) in get_local_events(EVENT_JSON_FILES, f):
+    for url, event in get_local_events(EVENT_JSON_FILES, f):
         insert_event_json(conn, url, event)
         print(url)
-        i+=1
-        if i %10 == 0:
+        i += 1
+        if i % 10 == 0:
             conn.commit()
     conn.commit()
     conn.close()

@@ -12,8 +12,8 @@ if __name__ == "__main__":
     output_json_file = sys.argv[2]
 
     json_data = icalendar.convert_ics_to_events(input_ics_file)
-    
-    with open(output_json_file, 'w') as output_file:
+
+    with open(output_json_file, "w") as output_file:
         output_file.write(json.dumps(json_data, indent=2))
-    
+
     print(f"JSON data saved to {output_json_file}")

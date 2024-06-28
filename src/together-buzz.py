@@ -1,7 +1,8 @@
 import extruct
 from requests_cache import CachedSession
-from datetime import timedelta,date,datetime
+from datetime import timedelta, date, datetime
 import json
+
 
 def scrape_together():
     session = CachedSession(
@@ -13,10 +14,11 @@ def scrape_together():
     )
 
     url = "https://api.together.buzz/v1/discovery/home?format=json&limit=10&pageCount=1"
-    for event in session.get(url).json()['data']:
-        d = datetime.strptime(event['data']['start_datetime'][0:10], '%Y-%m-%d').date()
+    for event in session.get(url).json()["data"]:
+        d = datetime.strptime(event["data"]["start_datetime"][0:10], "%Y-%m-%d").date()
 
-        if d>= date.today():
-            print(event['data']['action'])
-    
+        if d >= date.today():
+            print(event["data"]["action"])
+
+
 scrape_together()
