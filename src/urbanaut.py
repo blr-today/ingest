@@ -34,7 +34,6 @@ def parse_date(date_str):
     return (
         datetime.datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
         .replace(tzinfo=IST)
-        .isoformat()
     )
 
 
@@ -107,9 +106,15 @@ def make_event(x):
 
     slots = get_slots(x["slug"])
 
+    available_slot_count = sum([slot["available"]>0 for slot in slots])
     for slot in slots:
 
         if slot["available"] > 0:
+            # In case there are multiple slots, we want to put a slug at the end
+            # to differentiate between events
+            url = f"https://urbanaut.app/spot/{x['slug']}"
+            if available_slot_count > 1:
+                url +="#" + parse_date(slot["start"]).strftime('%Y-%m-%dT%H%M')
 
             yield {
                 "@context": "http://schema.org",
@@ -117,8 +122,8 @@ def make_event(x):
                 "name": x["name"],
                 "description": desc,
                 "image": [y["aws_url"] for y in x["medias"]],
-                "startDate": parse_date(slot["start"]),
-                "endDate": parse_date(slot["end"]),
+                "startDate": parse_date(slot["start"]).isoformat(),
+                "endDate": parse_date(slot["end"]).isoformat(),
                 "location": {
                     "@type": "Place",
                     "name": (
@@ -153,12 +158,7 @@ def make_event(x):
                         "telephone": x["account_data"]["company_phone"],
                     },
                 },
-                "offers": {
-                    "@type": "Offer",
-                    "price": x["price_starts_at"],
-                    "priceCurrency": x["price_starts_at_currency"],
-                    "url": f"https://urbanaut.app/booking/{x['slug']}",
-                },
+                "url": url,
                 "keywords": get_keywords(x),
             }
 
