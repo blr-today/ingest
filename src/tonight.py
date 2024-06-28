@@ -16,6 +16,7 @@ def fetch_parties():
     return json.loads(session.get(URL).content)
 
 def convert_to_event_json(event):
+    lat,lng = [x.strip() for x in event['venues'][0]['location'].split(',')]
     return {
         "type": "MusicEvent",
         "name": event['name'],
@@ -33,7 +34,18 @@ def convert_to_event_json(event):
         "location": {
             "@type": "Place",
             "name": event['venues'][0]['name'],
-            "address": event['venues'][0]['description'],
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": event['venues'][0]['description'],
+                "addressLocality": event['city'],
+                "addressRegion": "Karnataka",
+                "addressCountry": "IN"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": lat,
+                "longitude": lng
+            }
         },
         "organizer": {
             "@type": "Organization",

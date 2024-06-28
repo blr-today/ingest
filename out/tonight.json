@@ -14,7 +14,18 @@
     "location": {
       "@type": "Place",
       "name": "Hard Rock Cafe Bengaluru Whitefield",
-      "address": "Unit G-25 & 26, Ground Floor, Park Square Mall International Tech Park, Bangalore, Pattandur Agrahara"
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Unit G-25 & 26, Ground Floor, Park Square Mall International Tech Park, Bangalore, Pattandur Agrahara",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9867821",
+        "longitude": "77.735896"
+      }
     },
     "organizer": {
       "@type": "Organization",
@@ -40,7 +51,18 @@
     "location": {
       "@type": "Place",
       "name": "Sunburn Union",
-      "address": "Passport office, Mantri Avenue, KHB Games Village, Koramangala"
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Passport office, Mantri Avenue, KHB Games Village, Koramangala",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9451786760031",
+        "longitude": "77.62013704583424"
+      }
     },
     "organizer": {
       "@type": "Organization",
@@ -66,7 +88,18 @@
     "location": {
       "@type": "Place",
       "name": "GYLT",
-      "address": "22, 1st Main Rd, Visthar, Bengaluru"
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "22, 1st Main Rd, Visthar, Bengaluru",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.0709004",
+        "longitude": "77.6518742"
+      }
     },
     "organizer": {
       "@type": "Organization",
@@ -92,7 +125,18 @@
     "location": {
       "@type": "Place",
       "name": "Koramangala Social",
-      "address": "118, 3rd Floor, Koramangala Industrial Area, 7th Block, Above Bodyworks Spa, 7th Block, Koramangala"
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "118, 3rd Floor, Koramangala Industrial Area, 7th Block, Above Bodyworks Spa, 7th Block, Koramangala",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9354677",
+        "longitude": "77.6141418"
+      }
     },
     "organizer": {
       "@type": "Organization",
@@ -118,7 +162,18 @@
     "location": {
       "@type": "Place",
       "name": "Indiranagar Social",
-      "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, New Tippasandra"
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, New Tippasandra",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.970946516555484",
+        "longitude": "77.64785367242266"
+      }
     },
     "organizer": {
       "@type": "Organization",
@@ -144,7 +199,18 @@
     "location": {
       "@type": "Place",
       "name": "High Ultra Lounge",
-      "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram"
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.01236650000127",
+        "longitude": "77.55627184722628"
+      }
     },
     "organizer": {
       "@type": "Organization",
@@ -170,7 +236,18 @@
     "location": {
       "@type": "Place",
       "name": "Fandom at Gilly's Redefined",
-      "address": "1st floor of Gillys redefined,# 413, 100 Feet Road, 4th Block, Koramangala"
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1st floor of Gillys redefined,# 413, 100 Feet Road, 4th Block, Koramangala",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9333924",
+        "longitude": "77.6236291"
+      }
     },
     "organizer": {
       "@type": "Organization",
@@ -196,7 +273,18 @@
     "location": {
       "@type": "Place",
       "name": "Sunburn Union",
-      "address": "Passport office, Mantri Avenue, KHB Games Village, Koramangala"
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Passport office, Mantri Avenue, KHB Games Village, Koramangala",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9451786760031",
+        "longitude": "77.62013704583424"
+      }
     },
     "organizer": {
       "@type": "Organization",
@@ -222,7 +310,18 @@
     "location": {
       "@type": "Place",
       "name": "Jayamahal Palace Hotel",
-      "address": "1, Jayamahal Road, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal"
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1, Jayamahal Road, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9969503",
+        "longitude": "77.59733539999999"
+      }
     },
     "organizer": {
       "@type": "Organization",
@@ -248,7 +347,18 @@
     "location": {
       "@type": "Place",
       "name": "Sunburn Union",
-      "address": "Passport office, Mantri Avenue, KHB Games Village, Koramangala"
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Passport office, Mantri Avenue, KHB Games Village, Koramangala",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9451786760031",
+        "longitude": "77.62013704583424"
+      }
     },
     "organizer": {
       "@type": "Organization",
@@ -274,7 +384,18 @@
     "location": {
       "@type": "Place",
       "name": "Koramangala Social",
-      "address": "118, 3rd Floor, Koramangala Industrial Area, 7th Block, Above Bodyworks Spa, 7th Block, Koramangala"
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "118, 3rd Floor, Koramangala Industrial Area, 7th Block, Above Bodyworks Spa, 7th Block, Koramangala",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9354677",
+        "longitude": "77.6141418"
+      }
     },
     "organizer": {
       "@type": "Organization",
@@ -300,7 +421,18 @@
     "location": {
       "@type": "Place",
       "name": "GYLT",
-      "address": "22, 1st Main Rd, Visthar, Bengaluru"
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "22, 1st Main Rd, Visthar, Bengaluru",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.0709004",
+        "longitude": "77.6518742"
+      }
     },
     "organizer": {
       "@type": "Organization",
@@ -326,7 +458,18 @@
     "location": {
       "@type": "Place",
       "name": "Venue To Be Announced: Bengaluru",
-      "address": "Bengaluru, Karnataka India"
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Bengaluru, Karnataka India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "0",
+        "longitude": "0"
+      }
     },
     "organizer": {
       "@type": "Organization",
@@ -352,7 +495,18 @@
     "location": {
       "@type": "Place",
       "name": "Sunburn Union",
-      "address": "Passport office, Mantri Avenue, KHB Games Village, Koramangala"
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Passport office, Mantri Avenue, KHB Games Village, Koramangala",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9451786760031",
+        "longitude": "77.62013704583424"
+      }
     },
     "organizer": {
       "@type": "Organization",
