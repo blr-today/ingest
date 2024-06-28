@@ -18,22 +18,22 @@ out/allevents.txt:
 	  jq -r '.item[] | .share_url' | sort > out/allevents.txt || $(call restore-file,$@)
 
 out/skillboxes.txt:
-	time python src/skillboxes.py | sort > out/skillboxes.txt || $(call restore-file,$@)
+	python src/skillboxes.py | sort > out/skillboxes.txt || $(call restore-file,$@)
 
 out/atta_galatta.json:
-	time python src/atta_galatta.py || $(call restore-file,$@)
+	python src/atta_galatta.py || $(call restore-file,$@)
 
 out/champaca.json:
-	time python src/champaca.py || $(call restore-file,$@)
+	python src/champaca.py || $(call restore-file,$@)
 
 out/highape.txt:
-	time python src/highape.py | sort > out/highape.txt || $(call restore-file,$@)
+	python src/highape.py | sort > out/highape.txt || $(call restore-file,$@)
 
 out/mapindia.ics:
-	time python src/mapindia.py || $(call restore-file,$@)
+	python src/mapindia.py || $(call restore-file,$@)
 
 out/mapindia.json: out/mapindia.ics	
-	time python src/ics-to-event.py out/mapindia.ics out/mapindia.json || $(call restore-file,$@)
+	python src/ics-to-event.py out/mapindia.ics out/mapindia.json || $(call restore-file,$@)
 
 out/bengalurusustainabilityforum.json:
 	curl_chrome116 --silent --request GET \
@@ -49,61 +49,60 @@ out/insider.txt:
 	jq -r '.list.masterList|keys[]|["https://insider.in",., "event"]|join("/")' | sort > out/insider.txt ||  $(call restore-file,$@)
 
 out/bhaagoindia.txt:
-	time python src/bhaagoindia.com.py | sort > out/bhaagoindia.txt ||  $(call restore-file,$@)
+	python src/bhaagoindia.com.py | sort > out/bhaagoindia.txt ||  $(call restore-file,$@)
 
 # TODO: /exhibits.json is also helpful
 # And there are kn translations available as well.
 out/scigalleryblr.json:
-	time python src/scigallery.py || $(call restore-file,$@)
+	python src/scigallery.py || $(call restore-file,$@)
 
 out/venn.json:
-	time python src/venn.py || $(call restore-file,$@)
+	python src/venn.py || $(call restore-file,$@)
 
 out/mmb.txt:
-	time python src/mmb.py | sort > out/mmb.txt || $(call restore-file,$@)
+	python src/mmb.py | sort > out/mmb.txt || $(call restore-file,$@)
 
 out/urbanaut.json:
-	time python src/urbanaut.py  || $(call restore-file,$@)
+	python src/urbanaut.py  || $(call restore-file,$@)
 
 out/zomato.json:
-	time python src/zomato.py || $(call restore-file,$@)
+	python src/zomato.py || $(call restore-file,$@)
 
 out/bic.json:
-	time python src/ics-to-event.py out/bic.ics out/bic.json || $(call restore-file,$@)
+	python src/ics-to-event.py out/bic.ics out/bic.json || $(call restore-file,$@)
 
 out/sofar.json:
-	time python src/sofar.py || $(call restore-file,$@)
+	python src/sofar.py || $(call restore-file,$@)
 
 out/sumukha.json:
-	time python src/sumukha.py || $(call restore-file,$@)
+	python src/sumukha.py || $(call restore-file,$@)
 
 out/townscript.txt:
-	time python src/townscript.py | sort > out/townscript.txt || $(call restore-file,$@)
+	python src/townscript.py | sort > out/townscript.txt || $(call restore-file,$@)
 
 out/bluetokai.json:
-	time python src/bluetokai.py || $(call restore-file,$@)
+	python src/bluetokai.py || $(call restore-file,$@)
 
-# site might be down?
 out/gullytours.json:
-	time python src/gullytours.py || $(call restore-file,$@)
+	python src/gullytours.py || $(call restore-file,$@)
 
 out/tonight.json:
-	time python src/tonight.py || $(call restore-file,$@)
+	python src/tonight.py || $(call restore-file,$@)
 
 out/creativemornings.txt:
-	time python src/creativemornings.py | sort > out/creativemornings.txt || $(call restore-file,$@)
+	python src/creativemornings.py | sort > out/creativemornings.txt || $(call restore-file,$@)
 
 out/together-buzz.txt:
-	time python src/together-buzz.py | sort > out/together-buzz.txt || $(call restore-file,$@)
+	python src/together-buzz.py | sort > out/together-buzz.txt || $(call restore-file,$@)
 
 out/adidas.json:
-	time python src/adidas.py || $(call restore-file,$@)
+	python src/adidas.py || $(call restore-file,$@)
 
 out/pvr/cinemas.json:
-	time python src/pvr.py || $(call restore-file,$@)
+	python src/pvr.py || $(call restore-file,$@)
 
 out/trove.json:
-	time python src/trove.py || $(call restore-file,$@)
+	python src/trove.py || $(call restore-file,$@)
 
 # aceofpubs website is down right now
 out/aceofpubs.ics:
@@ -111,7 +110,7 @@ out/aceofpubs.ics:
 # 	curl_chrome116 "https://aceofpubs.com/events/category/bengaluru-pub-quiz-event/?post_type=tribe_events&ical=1&eventDisplay=list&ical=1" --output "out/aceofpubs.ics"
 
 out/aceofpubs.json: out/aceofpubs.ics
-	time python src/aceofpubs.py || $(call restore-file,$@)
+	python src/aceofpubs.py || $(call restore-file,$@)
 
 # TODO
 # out/sis.txt:
