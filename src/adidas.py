@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 from requests_cache import CachedSession
 from datetime import datetime, timedelta
 import os
+from common.tz import IST
 from math import ceil
 
 HEADERS = {
@@ -13,6 +14,10 @@ HEADERS = {
 BASE_URL = "https://www.adidas.co.in/adidasrunners"
 COMMUNITY_ID = "2e012594-d3fb-4185-b12b-78dead3499a3"
 COUNTRY_CODE = "IN"
+
+
+def _date(date_str):
+    return datetime.fromisoformat(date_str).astimezone(IST).isoformat()
 
 
 def fetch_events(session):
@@ -27,8 +32,8 @@ def fetch_events(session):
                 "name": "Adidas Runners " + data["title"],
                 "about": data["description"],
                 "url": f"https://www.adidas.co.in/adidasrunners/events/event/{_id}",
-                "startDate": data["eventStartDate"],
-                "endDate": data["eventStartDate"],
+                "startDate": _date(data["eventStartDate"]),
+                "endDate": _date(data["eventStartDate"]),
                 "image": data["_links"]["img"]["href"],
                 "location": {
                     "@type": "Place",

@@ -18,7 +18,8 @@ def modify_event(event):
         event["description"] = "A Pub hosted by Ace of Pubs"
     event["startDate"] = fix_date(event["startDate"])
     event["endDate"] = fix_date(event["endDate"])
-    event["keywords"] = "QUIZ"
+    event["keywords"] = ["QUIZ"]
+    # TODO: Make this into a Place
     event["location"] = event["location"]["name"]
     return event
 

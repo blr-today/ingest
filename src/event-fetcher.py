@@ -1,10 +1,12 @@
 import extruct
 import time
 from requests_cache import CachedSession
-from datetime import timedelta
+from datetime import timedelta, datetime
 from w3lib.html import get_base_url
 import sqlite3
+import datefinder
 from bs4 import BeautifulSoup
+from common.tz import IST
 import json
 import sys
 import os
@@ -73,8 +75,8 @@ KNOWN_EVENT_TYPES = [
 URL_FILES = [
     "out/allevents.txt",
     "out/bhaagoindia.txt",
-    "out/highape.txt",
-    "out/insider.txt",
+    # "out/highape.txt",
+    # "out/insider.txt",
     "out/mmb.txt",
     "out/skillboxes.txt",
     "out/creativemornings.txt",
@@ -82,12 +84,54 @@ URL_FILES = [
 ]
 
 
+def fix_online_schema(url, event):
+    # set endDate = startDate + 2h if no endDate
+    if "endDate" not in event:
+        event["endDate"] = (
+            datetime.fromisoformat(event["startDate"]) + timedelta(hours=2)
+        ).isoformat()
+
+    # change timezone to IST
+    try:
+        event["startDate"] = (
+            datetime.fromisoformat(event["startDate"]).astimezone(IST).isoformat()
+        )
+    except Exception as e:
+        # THIS IS BHAAGO INDIA SPECIFIC
+        # replace all dots and commas
+        startdate = event["startDate"].replace(".", "").replace(",", "").lower()
+        startdate = startdate.replace("sept", "sep")
+        event["startDate"] = list(datefinder.find_dates(startdate))[0].replace(
+            tzinfo=IST
+        ).isoformat()
+
+    try:
+        event["endDate"] = (
+            datetime.fromisoformat(event["endDate"]).astimezone(IST).isoformat()
+        )
+    except Exception as e:
+        # THIS IS BHAAGO INDIA SPECIFIC
+        # replace all dots and commas
+        enddate = event["endDate"].replace(".", "").replace(",", "").lower()
+        enddate = enddate.replace("sept", "sep")
+        event["endDate"] = list(datefinder.find_dates(enddate))[0].replace(
+            tzinfo=IST
+        ).isoformat()
+
+    # force https here
+    event["@context"] = "https://schema.org"
+
+    # set a url if not already set
+    if "url" not in event:
+        event["url"] = url
+
+
 def get_local_events(files, filt):
     for i in files:
         if filt and i != filt:
             continue
         patch = get_patch(i)
-        start_ts  = time.time()
+        start_ts = time.time()
         if os.path.exists(i):
             with open(i, "r") as f:
                 data = json.load(f)
@@ -139,6 +183,7 @@ def get_events(s, filt):
                             m = m or find_event(x["@graph"])
                     m = m or find_event(data["json-ld"])
                     if m:
+                        # together.buzz and skillboxes events don't have URL, duh
                         if m[1].get("LOCATION"):
                             m[1]["location"] = m[1].pop("LOCATION")
                         if keywords:
@@ -174,6 +219,7 @@ def get_events(s, filt):
                                 ]
                         except:
                             pass
+                        fix_online_schema(url, m[1])
                         if patch:
                             patch.update(m[1])
                             yield (m[0], patch)

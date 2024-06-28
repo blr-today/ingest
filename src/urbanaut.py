@@ -31,10 +31,7 @@ session = CachedSession(
 
 
 def parse_date(date_str):
-    return (
-        datetime.datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
-        .replace(tzinfo=IST)
-    )
+    return datetime.datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S").replace(tzinfo=IST)
 
 
 def scrape_urbanaut(categories="12"):
@@ -106,7 +103,7 @@ def make_event(x):
 
     slots = get_slots(x["slug"])
 
-    available_slot_count = sum([slot["available"]>0 for slot in slots])
+    available_slot_count = sum([slot["available"] > 0 for slot in slots])
     for slot in slots:
 
         if slot["available"] > 0:
@@ -114,10 +111,10 @@ def make_event(x):
             # to differentiate between events
             url = f"https://urbanaut.app/spot/{x['slug']}"
             if available_slot_count > 1:
-                url +="#" + parse_date(slot["start"]).strftime('%Y-%m-%dT%H%M')
+                url += "#" + parse_date(slot["start"]).strftime("%Y-%m-%dT%H%M")
 
             yield {
-                "@context": "http://schema.org",
+                "@context": "https://schema.org",
                 "@type": get_event_type(x),
                 "name": x["name"],
                 "description": desc,

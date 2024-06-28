@@ -2,6 +2,7 @@ import datetime
 import json
 from requests_cache import CachedSession
 import datefinder
+from common.tz import IST
 from bs4 import BeautifulSoup
 
 session = CachedSession(
@@ -23,7 +24,7 @@ def fetch_events():
     for event in session.get("https://attagalatta.com/events.php").json()["value"]:
         dates = list(datefinder.find_dates(event["eventday"]))
         if len(dates) > 0 and dates[0].date() > datetime.datetime.today().date():
-            event["date"] = dates[0]
+            event["date"] = dates[0].replace(tzinfo=IST)
             yield event
 
 
@@ -49,7 +50,7 @@ def make_event(event):
         "url": event["link"],
         "image": event["image"],
         "performer": performers,
-        "keywords": keywords,
+        "keywords": keywords + ["ATTAGALATTA", "BOOKS"],
     }
 
     if (
@@ -58,25 +59,25 @@ def make_event(event):
         or "Literary Discussion" in e["keywords"]
         or "Poetry" in e["keywords"]
     ):
-        e["type"] = "LiteraryEvent"
+        e["@type"] = "LiteraryEvent"
 
     elif subtitle == "Theatre Performance":
-        e["type"] = "TheatreEvent"
+        e["@type"] = "TheatreEvent"
     elif "Music Performance" in e["name"]:
-        e["type"] = "MusicEvent"
+        e["@type"] = "MusicEvent"
 
     elif "Children" in e["name"]:
-        e["type"] = "ChildrensEvent"
+        e["@type"] = "ChildrensEvent"
 
     elif "Screening" in e["keywords"]:
-        e["type"] = "ScreeningEvent"
+        e["@type"] = "ScreeningEvent"
 
     elif "Discussion" in e["keywords"] or "Social" in e["keywords"]:
-        e["type"] = "SocialEvent"
+        e["@type"] = "SocialEvent"
     elif "Workshop" in e["keywords"]:
-        e["type"] = "EducationEvent"
+        e["@type"] = "EducationEvent"
     else:
-        e["type"] = "LiteraryEvent"
+        e["@type"] = "LiteraryEvent"
 
     if len(startTime) > 0:
         e["startDate"] = startTime[0].isoformat()

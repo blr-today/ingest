@@ -3,6 +3,7 @@ from common import firebase
 from requests_cache import CachedSession
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
+from common.tz import IST
 
 URL = "https://firestore.googleapis.com/v1/projects/tonight-is/databases/(default)/documents/parties"
 
@@ -20,13 +21,15 @@ def fetch_parties():
 
 def convert_to_event_json(event):
     lat, lng = [x.strip() for x in event["venues"][0]["location"].split(",")]
+    startdate = datetime.fromisoformat(event["startDate"]).astimezone(IST)
+    enddate = datetime.fromisoformat(event["endDate"]).astimezone(IST)
     return {
-        "type": "MusicEvent",
+        "@type": "MusicEvent",
         "name": event["name"],
         "about": event["description"],
         "url": event["webUrl"] if "undefined" not in event["webUrl"] else None,
-        "startDate": event["startDate"],
-        "endDate": event["endDate"],
+        "startDate": startdate.isoformat(),
+        "endDate": enddate.isoformat(),
         "image": (
             event["bannerImages"][0]["downloadURL"]
             if "bannerImages" in event and len(event["bannerImages"]) > 0

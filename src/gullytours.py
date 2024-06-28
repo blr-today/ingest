@@ -64,7 +64,7 @@ def make_event(tour, description, trip):
     start_time = datetime.fromisoformat(trip["starts_at"]).replace(tzinfo=IST)
     end_time = datetime.fromisoformat(trip["ends_at"]).replace(tzinfo=IST)
     event = {
-        "@context": "http://schema.org",
+        "@context": "https://schema.org",
         "url": tour["url"],
         "@type": "SocialEvent",
         "name": tour.get("name"),
@@ -83,6 +83,7 @@ def make_event(tour, description, trip):
             }
         ],
         "organizer": {"@type": "Organization", "name": "Gully Tours"},
+        "keywords": ["GULLYTOURS"],
         # "location": {
         #     "@type": "Place",
         #     "name": trip['location'],
