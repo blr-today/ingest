@@ -29,9 +29,12 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | Together.buzz                  | ✔️      | ✔️     | ✔️          | 
 | Creative Mornings BLR          | ✔️      | ✔️     | ✔️          | 
 | Adidas Runners                 | ✔️      | ✔️     | ✔️          | 
-| Sisters in Sweat               | 🚧      | ❌     | ❌    |
-| [Visvesvaraya Museum][vism].   | ❌      | ❌     | ❌           | OCR                                                                                                       |
-| [NGMA][ngma]                   | ❌      | ❌     | ❌           | OCR The [older website calender](http://www.ngmaindia.gov.in/ngma_bangaluru_calendar.asp) is not updated. |
+| Sisters in Sweat               | 🚧      | ❌     | ❌          
+| [Visvesvaraya Museum][vism].   | ❌      | ❌     | ❌          | OCR                                                                                                       |
+| [NGMA][ngma]                   | ❌      | ❌     | ❌          | OCR The [older website calender](http://www.ngmaindia.gov.in/ngma_bangaluru_calendar.asp) is not updated. |
+| Urbanaut                       | ✔️      | ✔️     | ✔️          | 
+| Courtyard Koota                | ✔️      | ✔️     | ✔️          | Covered via Urbanaut
+
 
 # WIP
 
@@ -39,22 +42,17 @@ We have some data available or change notifications configured, but there needs 
 
 - [ ] [ICTS](https://www.icts.res.in/current-and-upcoming-events)
 - [ ] lu.ma (Uses G-CSE, since no public calendars)
-- [ ] Urbanaut
-- [x] https://thecourtyard.in/events/ Courtyard is only using Urbanaut, so covered already
-- [ ] https://www.blrcreativecircus.com/events
+- [ ] https://www.blrcreativecircus.com/events - Mostly on BMS
 - [x] https://gameslab.wootick.com/ Covered via Insider, maybe add a filter
 - [ ] [The White Box](https://thewhiteboxco.in/) - Run by same people as Trove, similar events.
 
 # TODO
-- [ ] [Adidas Runners](https://www.adidas.co.in/adidasrunners/community/bengaluru).
 - [ ] https://hooplaback-girl.myinstamojo.com/ (search for Workshop events)
 - [ ] https://gaianaturalproductsandservices.myinstamojo.com/category/419534/events
-- [ ] https://courtyardkoota.com
 - [ ] https://dialogues.space/events/
 - [ ] bookmyshow plays
 - [ ] [Instagram](instagram.txt)
 - [ ] http://1shanthiroad.com/category/events/
-- [x] https://gullytours.vacationlabs.com/ -> Go to booking page to see valid dates. Couldn't find any other "good" vacationlabs domains.
 - [ ] find more Townscript accounts to follow
 - [ ] https://www.tonight.is/. Some GRPC Firebase :poop:
 - [ ] https://www.downtomeet.com/
