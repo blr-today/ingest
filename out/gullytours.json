@@ -1,6 +1,6 @@
 [
   {
-    "@context": "http://schema.org",
+    "@context": "https://schema.org",
     "url": "https://www.gully.tours/tours/death-by-dosa",
     "@type": "SocialEvent",
     "name": "Death by Dosa",
@@ -20,10 +20,13 @@
     "organizer": {
       "@type": "Organization",
       "name": "Gully Tours"
-    }
+    },
+    "keywords": [
+      "GULLYTOURS"
+    ]
   },
   {
-    "@context": "http://schema.org",
+    "@context": "https://schema.org",
     "url": "https://www.gully.tours/tours/malleshwaram-hogona",
     "@type": "SocialEvent",
     "name": "Malleshwaram Hogona",
@@ -43,10 +46,13 @@
     "organizer": {
       "@type": "Organization",
       "name": "Gully Tours"
-    }
+    },
+    "keywords": [
+      "GULLYTOURS"
+    ]
   },
   {
-    "@context": "http://schema.org",
+    "@context": "https://schema.org",
     "url": "https://www.gully.tours/tours/pete-by-night",
     "@type": "SocialEvent",
     "name": "Pete by Night",
@@ -66,10 +72,13 @@
     "organizer": {
       "@type": "Organization",
       "name": "Gully Tours"
-    }
+    },
+    "keywords": [
+      "GULLYTOURS"
+    ]
   },
   {
-    "@context": "http://schema.org",
+    "@context": "https://schema.org",
     "url": "https://www.gully.tours/tours/pete-by-night-womens-only",
     "@type": "SocialEvent",
     "name": "Pete by Night (Women Only)",
@@ -89,10 +98,13 @@
     "organizer": {
       "@type": "Organization",
       "name": "Gully Tours"
-    }
+    },
+    "keywords": [
+      "GULLYTOURS"
+    ]
   },
   {
-    "@context": "http://schema.org",
+    "@context": "https://schema.org",
     "url": "https://www.gully.tours/tours/yulu-midnight-trail",
     "@type": "SocialEvent",
     "name": "Yulu Midnight Trail",
@@ -112,10 +124,13 @@
     "organizer": {
       "@type": "Organization",
       "name": "Gully Tours"
-    }
+    },
+    "keywords": [
+      "GULLYTOURS"
+    ]
   },
   {
-    "@context": "http://schema.org",
+    "@context": "https://schema.org",
     "url": "https://www.gully.tours/tours/cantt-by-night-womens-only",
     "@type": "SocialEvent",
     "name": "Cantt by Night (Women Only)",
@@ -135,6 +150,9 @@
     "organizer": {
       "@type": "Organization",
       "name": "Gully Tours"
-    }
+    },
+    "keywords": [
+      "GULLYTOURS"
+    ]
   }
 ]
