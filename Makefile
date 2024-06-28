@@ -33,7 +33,7 @@ out/mapindia.ics:
 	time python src/mapindia.py || $(call restore-file,$@)
 
 out/mapindia.json: out/mapindia.ics	
-	time python src/ics-to-event.py out/mapindia.json || $(call restore-file,$@)
+	time python src/ics-to-event.py out/mapindia.ics out/mapindia.json || $(call restore-file,$@)
 
 out/bengalurusustainabilityforum.json:
 	curl_chrome116 --silent --request GET \
@@ -148,4 +148,4 @@ all: out/allevents.txt \
 	@echo "Done"
 
 db:
-	time python src/event-fetcher.py
+	python src/event-fetcher.py
