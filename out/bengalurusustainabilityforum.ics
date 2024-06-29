@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bengaluru Sustainability Forum - ECPv6.5.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bengaluru Sustainability Forum
+X-ORIGINAL-URL:https://www.bengalurusustainabilityforum.org
+X-WR-CALDESC:Events for Bengaluru Sustainability Forum
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:20240101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240706T100000
+DTEND;TZID=Asia/Kolkata:20240706T170000
+DTSTAMP:20240629T100058
+CREATED:20240628T071910Z
+LAST-MODIFIED:20240628T072834Z
+UID:10503-1720260000-1720285200@www.bengalurusustainabilityforum.org
+SUMMARY:Bengaluru Design Jam
+DESCRIPTION:http://OpenCity.in invites you to the Bengaluru Design Jam. Deliberate\, analyse\, interpret and present BBMP’s bye-laws through a visually accessible medium. Register at https://t.co/6VC41jwcIR for more details\n🗓️: 6th July 2024\, Saturday | ⏰: 10:00 AM to 5:00 PM || 📍: Palace Road\, Bengaluru 560052
+URL:https://www.bengalurusustainabilityforum.org/event/bengaluru-design-jam/
+LOCATION:Palace Road\, Vasanth Nagar Bangalore 560052
+CATEGORIES:In-person Event,Partner Organisation Event
+ATTACH;FMTTYPE=image/jpeg:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/06/opencity-design-jam.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240706T100000
+DTEND;TZID=Asia/Kolkata:20240707T200000
+DTSTAMP:20240629T100058
+CREATED:20240626T052344Z
+LAST-MODIFIED:20240626T053207Z
+UID:10476-1720260000-1720382400@www.bengalurusustainabilityforum.org
+SUMMARY:CARBON Film Festival by Science Gallery Bengaluru
+DESCRIPTION:Carbon has been an invisible protagonist on the celluloid screen for a while now. Our lives are saturated with carbon\, and the screen reflects its presence everywhere. Though unseen\, carbon’s influence permeates our lives and finds reflection in countless stories on the big screen. This festival invites you on a journey from the barren grounds of an e-waste dump yard to the magical forests of the Western Ghats. We will showcase a distinctive collection of cinematic narratives centred on the theme of carbon and bring to life stories that span generations\, reflecting both the past and the ever-evolving present. These stories of ambition\, resilience\, and perseverance will offer a deeper understanding of carbon and films\, shedding light on the transformative power of carbon.\nThe festival strives to create an immersive environment where visitors can deeply interact with these ideas through various films and discussions. We are offering a wide array of films spanning different languages\, including German\, English\, French\, and Hindi\, and genres\, from documentary features and narrative features to docufictions and animated shorts. Filmmakers and scholars have been encouraged to create a colourful\, interactive space that encourages people of all ages to consider carbon’s critical role in our lives and the global ecosystem. – Science Gallery Bengaluru
+URL:https://www.bengalurusustainabilityforum.org/event/carbon-film-festival-by-science-gallery-bengaluru/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Rd\, Stage 2\, Domlur\, Bengaluru\, Karnataka 560071
+CATEGORIES:In-person Event,Partner Organisation Event
+ATTACH;FMTTYPE=image/jpeg:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/06/carbon-ff-poster.jpeg
+END:VEVENT
+END:VCALENDAR

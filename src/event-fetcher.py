@@ -45,6 +45,7 @@ EVENT_JSON_FILES = [
     "out/aceofpubs.json",
     "out/atta_galatta.json",
     "out/urbanaut.json",
+    "out/bengalurusustainabilityforum.json",
 ]
 
 KNOWN_EVENT_TYPES = [

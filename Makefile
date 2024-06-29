@@ -15,10 +15,10 @@ out/allevents.txt:
 	  --header 'Referer: https://allevents.in/bangalore/all' \
 	  --header "Content-Type: application/json" \
 	  --data-raw '{"venue": 0,"page": 1,"rows": 100,"tag_type": null,"sdate": $(AE_START_TS),"edate": $(AE_END_TS),"city": "bangalore","keywords": 0,"category": ["all"],"formats": 0,"sort_by_score_only": true}' | \
-	  jq -r '.item[] | .share_url' | sort > out/allevents.txt || $(call restore-file,$@)
+	  jq -r '.item[] | .share_url' | sort > $@ || $(call restore-file,$@)
 
 out/skillboxes.txt:
-	python src/skillboxes.py | sort > out/skillboxes.txt || $(call restore-file,$@)
+	python src/skillboxes.py | sort -u > $@ || $(call restore-file,$@)
 
 out/atta_galatta.json:
 	python src/atta_galatta.py || $(call restore-file,$@)
@@ -27,29 +27,27 @@ out/champaca.json:
 	python src/champaca.py || $(call restore-file,$@)
 
 out/highape.txt:
-	python src/highape.py | sort > out/highape.txt || $(call restore-file,$@)
+	python src/highape.py | sort > $@ || $(call restore-file,$@)
 
 out/mapindia.ics:
 	python src/mapindia.py || $(call restore-file,$@)
 
 out/mapindia.json: out/mapindia.ics	
-	python src/ics-to-event.py out/mapindia.ics out/mapindia.json || $(call restore-file,$@)
+	python src/ics-to-event.py out/mapindia.ics $@ || $(call restore-file,$@)
 
-out/bengalurusustainabilityforum.json:
-	curl_chrome116 --silent --request GET \
-  	--url 'https://www.bengalurusustainabilityforum.org/wp-json/eventin/v1/event/events?month=2099&year=12&start=$(START_TS)&end=$(END_TS)&postParent=child&selectedCats=116%2C117%2C118%2C119%2C120' | jq -r '.' > out/bengalurusustainabilityforum.json \
-  	 || $(call restore-file,$@)
+out/bengalurusustainabilityforum.ics:
+	curl_chrome116 --silent "https://www.bengalurusustainabilityforum.org/?post_type=tribe_events&ical=1&eventDisplay=list" -O $@ || $(call restore-file,$@)
 
-out/bic.ics:
-	curl_chrome116 --silent "https://bangaloreinternationalcentre.org/events/?ical=1" --output out/bic.ics  || $(call restore-file,$@)
+out/bengalurusustainabilityforum.json: out/bengalurusustainabilityforum.ics
+	python src/ics-to-event.py out/bengalurusustainabilityforum.ics $@ || $(call restore-file,$@)
 
 out/insider.txt:
 	curl_chrome116 --silent \
 	--url 'https://api.insider.in/home?city=bengaluru&eventType=physical&filterBy=go-out&norm=1&select=lite&typeFilter=physical' | \
-	jq -r '.list.masterList|keys[]|["https://insider.in",., "event"]|join("/")' | sort > out/insider.txt ||  $(call restore-file,$@)
+	jq -r '.list.masterList|keys[]|["https://insider.in",., "event"]|join("/")' | sort $@ ||  $(call restore-file,$@)
 
 out/bhaagoindia.txt:
-	python src/bhaagoindia.com.py | sort > out/bhaagoindia.txt ||  $(call restore-file,$@)
+	python src/bhaagoindia.com.py | sort > $@ ||  $(call restore-file,$@)
 
 # TODO: /exhibits.json is also helpful
 # And there are kn translations available as well.
@@ -60,7 +58,7 @@ out/venn.json:
 	python src/venn.py || $(call restore-file,$@)
 
 out/mmb.txt:
-	python src/mmb.py | sort > out/mmb.txt || $(call restore-file,$@)
+	python src/mmb.py | sort > $@ || $(call restore-file,$@)
 
 out/urbanaut.json:
 	python src/urbanaut.py  || $(call restore-file,$@)
@@ -68,8 +66,11 @@ out/urbanaut.json:
 out/zomato.json:
 	python src/zomato.py || $(call restore-file,$@)
 
-out/bic.json:
-	python src/ics-to-event.py out/bic.ics out/bic.json || $(call restore-file,$@)
+out/bic.ics:
+	curl_chrome116 --silent "https://bangaloreinternationalcentre.org/events/?ical=1" --output $@  || $(call restore-file,$@)
+
+out/bic.json: out/bic.ics
+	python src/ics-to-event.py out/bic.ics $@ || $(call restore-file,$@)
 
 out/sofar.json:
 	python src/sofar.py || $(call restore-file,$@)
@@ -78,7 +79,7 @@ out/sumukha.json:
 	python src/sumukha.py || $(call restore-file,$@)
 
 out/townscript.txt:
-	python src/townscript.py | sort > out/townscript.txt || $(call restore-file,$@)
+	python src/townscript.py | sort -u > $@ || $(call restore-file,$@)
 
 out/bluetokai.json:
 	python src/bluetokai.py || $(call restore-file,$@)
@@ -90,10 +91,10 @@ out/tonight.json:
 	python src/tonight.py || $(call restore-file,$@)
 
 out/creativemornings.txt:
-	python src/creativemornings.py | sort > out/creativemornings.txt || $(call restore-file,$@)
+	python src/creativemornings.py | sort > $@ || $(call restore-file,$@)
 
 out/together-buzz.txt:
-	python src/together-buzz.py | sort > out/together-buzz.txt || $(call restore-file,$@)
+	python src/together-buzz.py | sort > $@ || $(call restore-file,$@)
 
 out/adidas.json:
 	python src/adidas.py || $(call restore-file,$@)
@@ -113,7 +114,7 @@ out/aceofpubs.json: out/aceofpubs.ics
 	python src/aceofpubs.py || $(call restore-file,$@)
 
 out/koota.txt:
-	curl_chrome116 --silent "https://courtyardkoota.com/event-directory/" | grep -oE 'https://courtyardkoota\.com/events/[a-z0-9-]+/' | sort -u > out/koota.txt || $(call restore-file,$@)
+	curl_chrome116 --silent "https://courtyardkoota.com/event-directory/" | grep -oE 'https://courtyardkoota\.com/events/[a-z0-9-]+/' | sort -u > $@ || $(call restore-file,$@)
 
 # TODO
 # out/sis.txt:

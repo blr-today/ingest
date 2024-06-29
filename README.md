@@ -10,7 +10,7 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | map-india.org                  | ✔️      | ✔️     | ✔️          | Only events, exhibits are not tracked yet
 | BIC                            | ✔️      | ✔️     | ✔️          | Converted from ICS Calendar                                                                               |
 | Paytm Insider                  | ✔️      | ✔️     | ✔️          |
-| Bengaluru Sustainability Forum | ✔️      | ✔️     | ❌           |                                                                                                           |
+| Bengaluru Sustainability Forum | ✔️      | ✔️     | ✔️          | Might have duplicate events from other sources
 | Bhaago India                   | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | Carbon Science Gallery         | ✔️      | ✔️     | ✔️           |                                                                                                           |
 | Max Mueller Bhavan             | ✔️      | ✔️     | ✔️          |                                                                                                           |
@@ -34,7 +34,8 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | [Visvesvaraya Museum][vism].   | ❌      | ❌     | ❌          | OCR                                                                                                       |
 | [NGMA][ngma]                   | ❌      | ❌     | ❌          | OCR The [older website calender](http://www.ngmaindia.gov.in/ngma_bangaluru_calendar.asp) is not updated. |
 | Urbanaut                       | ✔️      | ✔️     | ✔️          | 
-| Courtyard Koota                | ✔️      | ✔️     | ✔️          | Covered via Urbanaut
+| Courtyard                      | ✔️      | ✔️     | ✔️          | Covered via Urbanaut
+| Courtyard Koota                | ✔️      | ✔️     | ✔️          |
 
 
 # WIP
@@ -97,3 +98,4 @@ We have some data available or change notifications configured, but there needs 
 [gt]: https://www.gully.tours/tours
 [tonight]: https://tonight.is
 [trove]: https://troveexperiences.com/
+[ngma]: https://sites.google.com/view/ngmaindia/events
