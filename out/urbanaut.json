@@ -68,7 +68,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 22,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -117,7 +117,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 34,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 23,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -248,122 +248,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Dakshin Soir\u00e9e with Dr. Darshan Gowda",
-    "description": "Join us for an enchanting Chef's Table in a community-style experience that brings Malnad cuisine to life. This exclusive event takes you on a journey through Karnataka's rich culinary traditions, where age-old recipes meet fresh, local ingredients. Set amidst a vibrant, lush backdrop, our Chef's Table captures the essence of home and tradition. Savour traditional vegetarian and vegan Karnataka dishes like Pathrode, Rice, Hayagreeva, and Mavina Sasuve, meticulously prepared to highlight authentic regional flavours. Indulge in a feast that celebrates the warmth, hospitality, and rich heritage of Malnad, with Dr Darshan's specially curated all-veg and vegan menu making it perfect for food enthusiasts and culture lovers alike.\u00a0It will be a community-style table seating. Elder & LGBTQ friendly.Cuisine Description:Malnad cuisine, from Karnataka's lush Malnad region, highlights fresh, local ingredients and traditional cooking techniques like steaming, slow cooking, and stone grinding. Known for its rich, vibrant flavours, the cuisine reflects the region's diverse communities, including Havyaka Brahmins, Vokkaligas, and Gowdas. Food habits emphasize seasonal and local produce, primarily vegetarian. Staples like coconut, rice, and jaggery are common. Malnad cuisine is a culinary journey that embodies the essence of home, tradition, and the warm hospitality of the Western Ghats.Who am I?I\u2019m Dr Darshan Gowda, a dentist turned home chef with a deep passion for reviving age-old, traditional recipes. My culinary journey began in my childhood, watching and assisting my mom and grandmother in the kitchen, which fueled my love for cooking. I specialize in Malnad cuisine and coastal recipes, focusing on vegan and vegetarian dishes. Exploring hidden culinary gems and recreating traditional flavours is my true passion, and I aim to bring the essence of these home-cooked meals to life.https://www.instagram.com/dr.darshangowda/Venue: Love OORU\ufeffRooftop / Sunsets / Wine & Grills \ufeffhttps://www.instagram.com/love.ooru/?hl=en",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/49B977212D9C46178833595EF477D9AB_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/342B7D8D9E604D91B6F4D739A33EBBC9_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/19AFBAFAF60D4949BBD8FEFE822FF156_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4143C5DD69814005B8F11B682B063048_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/92B1264CE3954234B42BF95A64D19BE0_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D0A770BE463A4524A085EBD0941C72DD_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E69F4C2DB76C4BEA8882F4CB82E1D8F9_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3C90A45A32FF42998AD045A74710E85A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D6E13FBC2C2B4D8A93ACE54B7FDA7CC7_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F97AC0BE3CA3451E8F0FB7CA413DAF15_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8D3AABCF26074BB49B5B5D99547AAEA3_converted_webp.webp"
-    ],
-    "startDate": "2024-07-14T12:00:00+05:30",
-    "endDate": "2024-07-14T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "love OORU",
-      "address": "No. 136, Evergreen PARC, Rooftop, 1st Cross Road, 5th Block,, Koramangala, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGVzyK04UrjsRdvT82NJs8YE",
-      "latitude": "12.93370000000000000000",
-      "longitude": "77.62154500000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 33,
-    "remainingAttendeeCapacity": 4,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "949.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "love OORU",
-      "description": "love.OORU is a tranquil oasis on the rooftop which is the perfect setting for enjoying beautiful sunsets, hosting private dinners & events, and maybe indulging in a chef's table experience.  Taking inspiration from Bengaluru, her history, geography, culture, and most importantly her stories, love.OORU was born as an identity rooted in Bengaluru and all it has to offer.",
-      "url": "https://urbanaut.app/partner/loveooru",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/x81ndtng2u-1711448075496loveoorugrilllogojpg.jpg",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98865-15954"
-      }
-    },
-    "url": "https://urbanaut.app/spot/dakshinsoiree#2024-07-14T1200",
-    "keywords": [
-      "Food & drink",
-      "Local",
-      "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Dakshin Soir\u00e9e with Dr. Darshan Gowda",
-    "description": "Join us for an enchanting Chef's Table in a community-style experience that brings Malnad cuisine to life. This exclusive event takes you on a journey through Karnataka's rich culinary traditions, where age-old recipes meet fresh, local ingredients. Set amidst a vibrant, lush backdrop, our Chef's Table captures the essence of home and tradition. Savour traditional vegetarian and vegan Karnataka dishes like Pathrode, Rice, Hayagreeva, and Mavina Sasuve, meticulously prepared to highlight authentic regional flavours. Indulge in a feast that celebrates the warmth, hospitality, and rich heritage of Malnad, with Dr Darshan's specially curated all-veg and vegan menu making it perfect for food enthusiasts and culture lovers alike.\u00a0It will be a community-style table seating. Elder & LGBTQ friendly.Cuisine Description:Malnad cuisine, from Karnataka's lush Malnad region, highlights fresh, local ingredients and traditional cooking techniques like steaming, slow cooking, and stone grinding. Known for its rich, vibrant flavours, the cuisine reflects the region's diverse communities, including Havyaka Brahmins, Vokkaligas, and Gowdas. Food habits emphasize seasonal and local produce, primarily vegetarian. Staples like coconut, rice, and jaggery are common. Malnad cuisine is a culinary journey that embodies the essence of home, tradition, and the warm hospitality of the Western Ghats.Who am I?I\u2019m Dr Darshan Gowda, a dentist turned home chef with a deep passion for reviving age-old, traditional recipes. My culinary journey began in my childhood, watching and assisting my mom and grandmother in the kitchen, which fueled my love for cooking. I specialize in Malnad cuisine and coastal recipes, focusing on vegan and vegetarian dishes. Exploring hidden culinary gems and recreating traditional flavours is my true passion, and I aim to bring the essence of these home-cooked meals to life.https://www.instagram.com/dr.darshangowda/Venue: Love OORU\ufeffRooftop / Sunsets / Wine & Grills \ufeffhttps://www.instagram.com/love.ooru/?hl=en",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/49B977212D9C46178833595EF477D9AB_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/342B7D8D9E604D91B6F4D739A33EBBC9_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/19AFBAFAF60D4949BBD8FEFE822FF156_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4143C5DD69814005B8F11B682B063048_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/92B1264CE3954234B42BF95A64D19BE0_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D0A770BE463A4524A085EBD0941C72DD_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E69F4C2DB76C4BEA8882F4CB82E1D8F9_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3C90A45A32FF42998AD045A74710E85A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D6E13FBC2C2B4D8A93ACE54B7FDA7CC7_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F97AC0BE3CA3451E8F0FB7CA413DAF15_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8D3AABCF26074BB49B5B5D99547AAEA3_converted_webp.webp"
-    ],
-    "startDate": "2024-07-14T14:00:00+05:30",
-    "endDate": "2024-07-14T15:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "love OORU",
-      "address": "No. 136, Evergreen PARC, Rooftop, 1st Cross Road, 5th Block,, Koramangala, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGVzyK04UrjsRdvT82NJs8YE",
-      "latitude": "12.93370000000000000000",
-      "longitude": "77.62154500000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 33,
-    "remainingAttendeeCapacity": 2,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "949.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "love OORU",
-      "description": "love.OORU is a tranquil oasis on the rooftop which is the perfect setting for enjoying beautiful sunsets, hosting private dinners & events, and maybe indulging in a chef's table experience.  Taking inspiration from Bengaluru, her history, geography, culture, and most importantly her stories, love.OORU was born as an identity rooted in Bengaluru and all it has to offer.",
-      "url": "https://urbanaut.app/partner/loveooru",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/x81ndtng2u-1711448075496loveoorugrilllogojpg.jpg",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98865-15954"
-      }
-    },
-    "url": "https://urbanaut.app/spot/dakshinsoiree#2024-07-14T1400",
-    "keywords": [
-      "Food & drink",
-      "Local",
-      "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Sunset Pilates and sharing spread with Aakruti",
     "description": "Come join us for a Sundowner Pilates class this weekend at The Studio by the Copper + Cloves with Aakruti.Mat Pilates is a form of exercise that focuses on strengthening the body's core muscles (abdominals, lower back, hips, and buttocks) while also targeting other areas of the body through controlled movements.\u00a0As the sun sets, immerse yourself in a session designed to strengthen, stretch, and restore balance to both body and mind.After the class, you can experience our local, well-balanced, nutritious and seasonal menu spread. A beautiful way to get to know your peers in our serene space at The Studio.",
@@ -387,7 +271,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -411,55 +295,6 @@
       "Active",
       "Wellness",
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Bengal to Table | Sienna, Calcutta at The Conservatory",
-    "description": "Sienna, Calcutta at The ConservatorySienna is back in Bangalore this July from the 19th to the 21st with both the kitchen and store teams popping up at the Courtyard. Taking inspiration from the baajars of Bengal, this will be an immersive showcase of both food and design craft.About the mealAfter a well-received baajar-to-table tasting menu at the Conservatory earlier in the year the kitchen team from Sienna helmed by Chefs Avinandan and Koyel are back with an ala carte menu of casual, sharing plates reflecting the best of the bounty of Bengal\u2019s culture and produce. They aim to focus on the bajaars of the region and the menu reflects the seasonality and diversity of the region coupled with techniques from across the globe.Menu:Chola\u2019r Daal Hummus, Nimki (V) - Rs. 450Mushroom XO Rice, King Oyster Jerky (V) - Rs. 550Potol Poshto, Khosha Bata, Golabhaat (V) - Rs. 550Ranga Aloo & Pumpkin Gnocchi, Bonolokhi Ghee Sauce (V) - Rs. 650Chana\u2019r Paturi, Aam Kasundi (V) - Rs. 550Beef Tartare, Kalabhuna (NV) - Rs. 750Maach\u2019r Dim XO Rice, Fried Egg (NV) - Rs. 550Kalojeere Pork, Golabhaat (V)* - Rs. 650Crab Meat, Deshi Deem, Crab Caramel (NV) - Rs. 750Golda Chingri, Ghilu Hollandaise (NV) - Rs. 750Duck, Jhol, Chaaler Ruti (NV) - Rs. 750Bhetki a la Kiev, Radhuni Butter, Mash (NV) - Rs. 750Aam Doi, Coconut Cream, Lemon Basil (V) - Rs. 450Malai Toast Br\u00fbl\u00e9e (V) - Rs. 450*Contains Egg. Other offerings at the Sienna, Calcutta ExperienceThe Pottery Workshop at The Yard*Book your spot for the workshop separately. Through the link on @thecourtyardcommunity 's Instagram bio. Travelling with Sienna, Calcutta from their workshop in Santiniketan are senior members of our team who will co-host ceramic workshops for both kids and adults throughout the duration of the residency.The Pop-up shop at The Studio*The pop-up shop is free to access. Named after the colour of the local red soil / \u09b0\u09be\u0999\u09be\u09ae\u09be\u099f\u09bf of Santiniketan, Sienna was born out of a deep appreciation of the rich craft heritage of Bengal. Our creative nerve centre is in Daronda village, Shantiniketan, about 200 km from Calcutta, surrounded by lush greenery, where in 1993 architect & founder Shanta Ghosh built a pottery workshop to support local artisans from the neighbouring areas. Her daughter, now creative head Shuli, took over around 12 years ago. They built the store\u00a0space in Calcutta in 2015 along with a small family run cafe with home staff trained to serve soups, salads and sandwiches. That space evolved over time, especially since the pandemic, and brought the same level of focus and support to food craft, as they had initially for ceramics and textiles. Today Sienna is a design company proudly representing the finest traditional craft techniques of Bengal and bringing it to a national and global stage for engagement with a wider audience.The craft residency at the Courtyard will be a comprehensive and experiential showcase of the various craft mediums we work with. From handmade pottery, copper & brass jewellery made with upcycled fabric waste to textiles made with natural fibres and printed with motifs inspired by all things Bengal.Terms and Conditions : The management is not responsible for any injury or damage that may occur during an event.The access to the pop- up shop is free. The pop-up store is open from 11am to 10pm. Ticket price of 1200 is redeemable against food only.Please note that the same kitchen will be used to prepare both vegetarian and non-vegetarian food.Do not purchase tickets from anyone other than on the ticketing platform.No-shows and cancellations are non-refundable by all means.Tickets are non-transferable and are for personal use only.Children aged 5 and above require a ticket to attend the meal.Let the Conservatory team know in advance if you are bringing a child below the age of 5 (without a ticket). An extra chair will be provided at the table for the child.The schedule is subject to change in case of an emergency or any event out of our control.Management will entertain no liability or claims arising due to the consumption or intake of any food or drink.Parking near the event premises is at the risk of the vehicle owner.Paid Valet Parking at Rs. 200 per car.The holder of this ticket grants organizers the right to use, in perpetuity, all or any part of the recording of any video or still footage made of the holder's appearance on any channel without any further approval.Photographs and videos of ticket holders may be uploaded to social media. If you do not wish to be featured, let our team know.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/979C049BEF054CCC9C5D1FF36F834E7F_converted_webp.webp"
-    ],
-    "startDate": "2024-07-21T11:00:00+05:30",
-    "endDate": "2024-07-21T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Courtyard",
-      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
-      "latitude": "12.95843050000000000000",
-      "longitude": "77.59289509999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 1,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1200.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Courtyard",
-      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
-      "url": "https://urbanaut.app/partner/courtyard",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-73386-77996"
-      }
-    },
-    "url": "https://urbanaut.app/spot/bengal-to-table-sienna-at-the-conservatory",
-    "keywords": [
-      "Food & drink",
-      "Leisure",
-      "Pop-up Event",
-      "COURTYARD",
       "URBANAUT"
     ]
   },
