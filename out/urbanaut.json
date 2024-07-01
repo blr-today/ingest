@@ -812,5 +812,58 @@
       "Workshop",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Pilates Brunch with Aakruti",
+    "description": "Join Aakruti for a 70 minutes mat pilates session, this time to be followed by a brunch spread.Pilates exercises target the deep abdominal muscles, pelvic floor muscles, and lower back to build core strength. A strong core supports the spine and helps with balance and stability. Aakruti will lead on a beautiful flow which you can learn and practice at your own convenience.This powerful session in our naturally lit space is a perfect brunch vibe, we invite you to come experience it.The session will be followed by a nourishing protein packed breakfast spread.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AB0BC40443B840A0B9A81773298EF7D4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5CD7F48AC520455E98A616A86323245D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CC1C8E965D004449AC4042554F35A646_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3C71F5D03981422CB2AA564D45F14CEE_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D297480EE5214D5989315060E687DC98_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A3059E9B0D97480F9CB8BCE22EA67D20_converted_webp.webp"
+    ],
+    "startDate": "2024-07-07T09:30:00+05:30",
+    "endDate": "2024-07-07T11:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "167, GROUND FLOOR BACK PORTION 2nd Stage, 2nd cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ4bJV-CMVrjsR18DuC4YKE8s",
+      "latitude": "12.96394760000000000000",
+      "longitude": "77.63833199999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/pilates-brunch-with-aakruti",
+    "keywords": [
+      "Active",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
