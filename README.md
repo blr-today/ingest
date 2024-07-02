@@ -36,7 +36,7 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | Urbanaut                       | ✔️      | ✔️     | ✔️          | 
 | Courtyard                      | ✔️      | ✔️     | ✔️          | Covered via Urbanaut
 | Courtyard Koota                | ✔️      | ✔️     | ✔️          |
-
+| [Sort My Scene][sms]           | ❌      | ❌     | ❌ | Club night events.
 
 # WIP
 
@@ -48,8 +48,10 @@ We have some data available or change notifications configured, but there needs 
 - [x] https://gameslab.wootick.com/ Covered via Insider, maybe add a filter
 - [ ] [The White Box](https://thewhiteboxco.in/) - Run by same people as Trove, similar events.
       List of events is at https://thewhiteboxco.in/collections/events-of-the-month/products.json
+- [ ] [Bangalore Chess Club](https://bangalorechessclub.in/index.html#events_section)
 
 # TODO
+- [ ] Switch HighApe to https://highape.com/bangalore/all-events which has enough JSON in a single URL
 - [ ] Switch Trove to https://troveexperiences.com/collections/bangalore/products.json
 - [ ] https://hooplaback-girl.myinstamojo.com/ (search for Workshop events)
 - [ ] https://gaianaturalproductsandservices.myinstamojo.com/category/419534/events
@@ -69,6 +71,8 @@ We have some data available or change notifications configured, but there needs 
 - [ ] https://manjushreekhaitanfoundation.com/?post_type=tribe_events&eventDisplay=list
 - [ ] https://sistersinsweat.in/events?city=4
 - [ ] https://nd.jpf.go.jp/events/coming-events-announcements/
+- [ ] [Dance Workshops from ARDS](https://www.ardsindia.co.in/studio-classes)
+- [ ] [Claystation trainings](https://claystation.in/classes/)
 
 ## Known Issues
 
@@ -99,3 +103,4 @@ We have some data available or change notifications configured, but there needs 
 [tonight]: https://tonight.is
 [trove]: https://troveexperiences.com/
 [ngma]: https://sites.google.com/view/ngmaindia/events
+[sms]: https://sortmyscene.com/events?tab=events&city=Bengaluru
