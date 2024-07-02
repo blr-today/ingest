@@ -242,6 +242,21 @@ def get_events(s, filt):
                         print(f"Could not find event in {url}")
             print(f"Processed {i} in {time.time() - start_ts:.2f}s")
 
+def add_keywords(e):
+    # ensure keywords is set as an array and not a string
+    if 'keywords' in e and type(e['keywords']) == str:
+        e['keywords'] = [x.strip() for x in e['keywords'].split(',')]
+    e['keywords'] = e.get('keywords', [])
+    if 'location' in e:
+        l = json.dumps(e['location']).lower()
+        if 'to be announced' in l:
+            e['keywords'].append('NOVENUE')
+        if not  ('bengaluru' in l or 'bangalore' in l):
+            e['keywords'].append('NOTINBLR')
+    if 'startDate' in e and 'endDate' in e:
+        if e['startDate'].split('T')[0] != e['endDate'].split('T')[0]:
+            e['keywords'].append('MULTIDAY')
+    return e
 
 def insert_event_json(conn, url, event_json):
     d = json.dumps(event_json)
@@ -288,13 +303,13 @@ if __name__ == "__main__":
     conn = sqlite3.connect("events.db")
     i = 0
     for url, d in get_events(session, f):
-        insert_event_json(conn, url, d)
+        insert_event_json(conn, url, add_keywords(d))
         i += 1
         if i % 10 == 0:
             conn.commit()
 
     for url, event in get_local_events(EVENT_JSON_FILES, f):
-        insert_event_json(conn, url, event)
+        insert_event_json(conn, url, add_keywords(event))
         i += 1
         if i % 10 == 0:
             conn.commit()
