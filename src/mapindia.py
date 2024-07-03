@@ -1,18 +1,11 @@
 from datetime import datetime, timedelta, timezone
 from ics import Calendar, Event
-from requests_cache import CachedSession
+from common.session import get_cached_session
 from bs4 import BeautifulSoup
 
 # This currently only works on Events, and not Exhibits or Installations
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-session = CachedSession(
-    "event-fetcher-cache",
-    expire_after=timedelta(days=1),
-    stale_if_error=True,
-    use_cache_dir=True,
-    cache_control=False,
-    allowable_methods=["GET", "POST"],
-)
+session = get_cached_session(allowable_methods=["GET", "POST"])
 
 
 def fetch_urls(month):

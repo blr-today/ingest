@@ -1,18 +1,12 @@
 import extruct
-from requests_cache import CachedSession
+from common.session import get_cached_session
 from bs4 import BeautifulSoup
-from datetime import timedelta, datetime
+from datetime import datetime
 import json
 
 
 def scrape_cm(location):
-    session = CachedSession(
-        "event-fetcher-cache",
-        expire_after=timedelta(days=1),
-        stale_if_error=True,
-        use_cache_dir=True,
-        cache_control=False,
-    )
+    session = get_cached_session()
 
     url = f"https://creativemornings.com/cities/{location}"
     soup = BeautifulSoup(session.get(url).content, "html.parser")

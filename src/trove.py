@@ -1,7 +1,7 @@
 import extruct
 from bs4 import BeautifulSoup
 from datetime import timedelta, datetime
-from requests_cache import CachedSession
+from common.session import get_cached_session
 import datefinder
 import json
 from common.tz import IST
@@ -25,13 +25,7 @@ TIME_FORMAT_STRINGS = ["%I %p", "%I%p", "%I:%M %p", "%I:%M%p"]
 
 
 def scrape_trove(location):
-    session = CachedSession(
-        "event-fetcher-cache",
-        expire_after=timedelta(days=1),
-        stale_if_error=True,
-        use_cache_dir=True,
-        cache_control=False,
-    )
+    session = get_cached_session()
 
     url = f"https://troveexperiences.com/collections/upcoming/{location}"
     soup = BeautifulSoup(session.get(url).content, "html.parser")

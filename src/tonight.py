@@ -1,22 +1,16 @@
 import json
 from common import firebase
-from requests_cache import CachedSession
+from common.session import get_cached_session
 from bs4 import BeautifulSoup
-from datetime import datetime, timedelta
+from datetime import datetime
 from common.tz import IST
 
 URL = "https://firestore.googleapis.com/v1/projects/tonight-is/databases/(default)/documents/parties"
 
 
 def fetch_parties():
-    session = CachedSession(
-        "event-fetcher-cache",
-        expire_after=timedelta(days=1),
-        stale_if_error=True,
-        use_cache_dir=True,
-        cache_control=False,
-    )
-    return json.loads(session.get(URL).content)
+    session = get_cached_session()
+    return session.get(URL).json()
 
 
 def convert_to_event_json(event):
@@ -65,7 +59,6 @@ def convert_to_event_json(event):
 
 
 with open("fixtures/tonight-is-parties.json", "r") as f:
-    # startDate format is "2024-05-18T14:30:00Z"
     # drop all events with startDate in the past
     data = firebase.Firebase.parse_firebase_struct(fetch_parties()["documents"])
     data = [

@@ -1,5 +1,4 @@
-from requests_cache import CachedSession
-from datetime import timedelta
+from common.session import get_cached_session
 from bs4 import BeautifulSoup
 import json
 
@@ -7,13 +6,7 @@ import json
 class Linktree:
     def __init__(self, slug):
         self.url = f"https://linktr.ee/{slug}"
-        self.session = CachedSession(
-            "event-fetcher-cache",
-            expire_after=timedelta(days=1),
-            stale_if_error=True,
-            use_cache_dir=True,
-            cache_control=False,
-        )
+        self.session = get_cached_session()
 
     def fetch_links(self):
         soup = BeautifulSoup(self.session.get(self.url).content, "html.parser")

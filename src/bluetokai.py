@@ -3,7 +3,7 @@ import json
 import re
 from bs4 import BeautifulSoup
 import datefinder
-from datetime import datetime, timedelta
+from datetime import datetime
 from common.tz import IST
 import os
 from math import ceil

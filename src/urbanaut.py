@@ -1,5 +1,5 @@
 import json
-from requests_cache import CachedSession
+from common.session import get_cached_session
 from bs4 import BeautifulSoup
 import datetime
 from common.tz import IST
@@ -21,13 +21,7 @@ KNOWN_HOST_VENUES = [
     "loveooru",
     "printingwithtypes",
 ]
-session = CachedSession(
-    "event-fetcher-cache",
-    expire_after=datetime.timedelta(days=1),
-    stale_if_error=True,
-    use_cache_dir=True,
-    cache_control=False,
-)
+session = get_cached_session()
 
 
 def parse_date(date_str):

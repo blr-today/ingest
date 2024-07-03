@@ -1,17 +1,11 @@
 import datetime
 import json
-from requests_cache import CachedSession
+from common.session import get_cached_session
 import datefinder
 from common.tz import IST
 from bs4 import BeautifulSoup
 
-session = CachedSession(
-    "event-fetcher-cache",
-    expire_after=datetime.timedelta(days=1),
-    stale_if_error=True,
-    use_cache_dir=True,
-    cache_control=False,
-)
+session = get_cached_session()
 # TODO: Some events have more than one event, we don't handle that case
 """
 Fetches events in the future

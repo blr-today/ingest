@@ -1,4 +1,4 @@
-from requests_cache import CachedSession
+from common.session import get_cached_session
 import json
 import datetime
 import re
@@ -14,13 +14,7 @@ event_type_mapper = {
     "Performance": "VisualArtsEvent",
     "Workshop": "EducationEvent",
 }
-session = CachedSession(
-    "event-fetcher-cache",
-    expire_after=datetime.timedelta(days=1),
-    stale_if_error=True,
-    use_cache_dir=True,
-    cache_control=False,
-)
+session = get_cached_session()
 
 
 def guess_event_type(kind):

@@ -1,8 +1,8 @@
 import requests
 import os
 import json
-from datetime import timedelta, datetime
-from requests_cache import CachedSession
+from datetime import datetime
+from common.session import get_cached_session
 
 BASE_URL = "https://api3.pvrcinemas.com/api/v1/booking/content"
 CITY = "Bengaluru"
@@ -52,14 +52,7 @@ def get_now_showing():
 
 
 def get_movie_sessions(movie_id):
-    session = CachedSession(
-        "event-fetcher-cache",
-        expire_after=timedelta(days=1),
-        stale_if_error=True,
-        use_cache_dir=True,
-        cache_control=False,
-        allowable_methods=["GET", "POST"],
-    )
+    session = get_cached_session(allowable_methods=["GET", "POST"])
     url = f"{BASE_URL}/msessions"
 
     payload = {"mid": movie_id}
@@ -100,14 +93,7 @@ def get_movie_details(movie_id):
 
     payload = {"mid": movie_id}
 
-    session = CachedSession(
-        "event-fetcher-cache",
-        expire_after=timedelta(days=15),
-        stale_if_error=True,
-        use_cache_dir=True,
-        cache_control=False,
-        allowable_methods=["GET", "POST"],
-    )
+    session = get_cached_session(days=15, allowable_methods=["GET", "POST"])
 
     response = session.post(url, json=payload, headers=HEADERS)
     try:

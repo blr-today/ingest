@@ -2,8 +2,8 @@ import http.client
 import json
 import re
 from bs4 import BeautifulSoup
-from requests_cache import CachedSession
-from datetime import datetime, timedelta
+from datetime import datetime
+from common.session import get_cached_session
 import os
 from common.tz import IST
 from math import ceil
@@ -46,13 +46,7 @@ def fetch_events(session):
 
 
 def main():
-    session = CachedSession(
-        "event-fetcher-cache",
-        expire_after=timedelta(days=1),
-        stale_if_error=True,
-        use_cache_dir=True,
-        cache_control=False,
-    )
+    session = get_cached_session()
     events = fetch_events(session)
 
     with open("out/adidas.json", "w") as f:

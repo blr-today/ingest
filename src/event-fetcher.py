@@ -1,6 +1,6 @@
 import extruct
 import time
-from requests_cache import CachedSession
+from common.session import get_cached_session
 from datetime import timedelta, datetime
 from w3lib.html import get_base_url
 import sqlite3
@@ -87,19 +87,19 @@ URL_FILES = [
 
 
 def fix_online_schema(url, event):
-    for x in ['startDate', 'endDate']:
+    for x in ["startDate", "endDate"]:
         if x in event:
             # HACK: This is specific to Courtyard Koota
             # where dates are not in ISO format
             event[x] = event[x].replace("+5.5:00", "+05:30")
             time = year = None
-            if 'T' in event[x]:
-                date,time = event[x].split('T')
-                year,month,day = date.split("-")
+            if "T" in event[x]:
+                date, time = event[x].split("T")
+                year, month, day = date.split("-")
             else:
                 yy = event[x].split("-")
                 if len(yy) == 3:
-                    year,month,day = yy
+                    year, month, day = yy
             if year:
                 month = month.zfill(2)
                 day = day.zfill(2)
@@ -107,23 +107,21 @@ def fix_online_schema(url, event):
                 if time:
                     event[x] = f"{event[x]}T{time}"
 
-    
-
     # fix format to ISO and timezone to IST
-    for x in ['startDate', 'endDate']:
-        if x in event:  
+    for x in ["startDate", "endDate"]:
+        if x in event:
             try:
-                event[x] = (
-                    datetime.fromisoformat(event[x]).astimezone(IST).isoformat()
-                )
+                event[x] = datetime.fromisoformat(event[x]).astimezone(IST).isoformat()
             except Exception as e:
                 # THIS IS BHAAGO INDIA SPECIFIC
                 # replace all dots and commas
                 startdate = event[x].replace(".", "").replace(",", "").lower()
                 startdate = startdate.replace("sept", "sep")
-                event[x] = list(datefinder.find_dates(startdate))[0].replace(
-                    tzinfo=IST
-                ).isoformat()
+                event[x] = (
+                    list(datefinder.find_dates(startdate))[0]
+                    .replace(tzinfo=IST)
+                    .isoformat()
+                )
 
     # set endDate = startDate + 2h if no endDate
     if "endDate" not in event:
@@ -277,14 +275,7 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         f = sys.argv[1]
     create_events_table()
-    session = CachedSession(
-        "event-fetcher-cache",
-        expire_after=timedelta(days=1),
-        stale_if_error=True,
-        use_cache_dir=True,
-        allowable_codes=(200, 302),
-        cache_control=False,
-    )
+    session = get_cached_session(allowable_codes=(200, 302))
     conn = sqlite3.connect("events.db")
     i = 0
     for url, d in get_events(session, f):

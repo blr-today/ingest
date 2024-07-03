@@ -1,17 +1,12 @@
-from requests_cache import CachedSession
 from bs4 import BeautifulSoup
+from common.session import get_cached_session
 import html
 import json
 from urllib.parse import urlparse, urljoin
-from datetime import datetime,timedelta
+from datetime import datetime, timedelta
 
-session = CachedSession(
-    "event-fetcher-cache",
-    expire_after=timedelta(days=1),
-    stale_if_error=True,
-    use_cache_dir=True,
-    cache_control=False,
-)
+session = get_cached_session()
+
 
 # Function to parse and format date
 def parse_and_format_date(date_str):
@@ -54,7 +49,6 @@ def parse_event_details(html_content):
         event_url = urljoin(
             "https://sumukha.com", card_body.select_one(".list-title a")["href"]
         )
-        print(event_url)
         description = fetch_description(event_url)
 
         events.append(
@@ -75,7 +69,6 @@ def parse_event_details(html_content):
     return events
 
 
-# Main function to orchestrate the fetching, parsing, and saving process
 def main():
     events = []
     for scope in ["current", "upcoming"]:
@@ -83,14 +76,11 @@ def main():
         html_content = session.get(url).text
         events += parse_event_details(html_content)
 
-    # Save the data to a JSON file
     with open("out/sumukha.json", "w") as f:
         json.dump(events, f, indent=2)
 
-    print("JSON file with exhibition events created successfully.")
+    print("JSON data saved to out/sumukha.json")
 
-
-# Adapt this script for real-world execution as needed.
 
 if __name__ == "__main__":
     main()
