@@ -1,6 +1,6 @@
-import http.client
-import datetime
 import json
+import datetime
+from common.session import get_cached_session
 from common.tz import IST
 
 
@@ -38,37 +38,28 @@ def to_schema_org_music_event(event_info):
 
 
 def make_graphql_request(query, city, url):
-    headers = {"Content-Type": "application/json"}
-    body = json.dumps(
-        {
-            "operationName": "GetEventsForCityPage",
-            "variables": {
-                "city": city,
-                "excludeCancelled": True,
-                "excludeNonPresale": False,
-                "excludePresale": False,
-                "excludeSoldOut": False,
-                "globallyPromoted": True,
-                "includeNearbySecondaryCities": False,
-                "loadDynamicHeaderImages": False,
-                "page": 1,
-                "perPage": 12,
-                "published": True,
-                "skipPagination": False,
-                "upcoming": True,
-            },
-            "query": query,
-        }
-    )
+    session = get_cached_session()
+    response = session.post(url, json={
+        "operationName": "GetEventsForCityPage",
+        "variables": {
+            "city": city,
+            "excludeCancelled": True,
+            "excludeNonPresale": False,
+            "excludePresale": False,
+            "excludeSoldOut": False,
+            "globallyPromoted": True,
+            "includeNearbySecondaryCities": False,
+            "loadDynamicHeaderImages": False,
+            "page": 1,
+            "perPage": 12,
+            "published": True,
+            "skipPagination": False,
+            "upcoming": True,
+        },
+        "query": query,
+    })
 
-    conn = http.client.HTTPSConnection("www.sofarsounds.com")
-
-    conn.request("POST", "/api/v2/graphql?on=GetEventsForCityPage", body, headers)
-
-    data = json.loads(conn.getresponse().read())
-    conn.close()
-
-    return data
+    return response.json()
 
 
 query = """
@@ -146,8 +137,7 @@ query GetEventsForCityPage(
   }
 }
 """
-url = "https://example.com/graphql"
-
+url = "https://www.sofarsounds.com/api/v2/graphql?on=GetEventsForCityPage"
 
 def main():
     response = make_graphql_request(query, "bangalore", url)

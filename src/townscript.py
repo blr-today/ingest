@@ -1,6 +1,6 @@
 import yaml
 import json
-import http.client
+from common.session import get_cached_session
 
 IGNORED_URL_SLUGS = [
     "delhi",
@@ -10,11 +10,10 @@ IGNORED_URL_SLUGS = [
 
 
 def get_event_urls(org_id):
-    conn = http.client.HTTPSConnection("www.townscript.com")
-    conn.request("GET", f"/listings/event/upcoming/userId/{org_id}")
-    response = conn.getresponse()
-    d = response.read().decode()
-    for e in json.loads(d)["data"]:
+    session = get_cached_session()
+    response = session.get(f"https://www.townscript.com/listings/event/upcoming/userId/{org_id}")
+    d = response.json()
+    for e in d["data"]:
         yield f"https://www.townscript.com/e/{e['shortName']}"
 
 

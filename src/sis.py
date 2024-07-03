@@ -1,5 +1,5 @@
-import http.client
 from bs4 import BeautifulSoup
+from common.session import get_cached_session
 import json
 import datetime
 import re
@@ -8,10 +8,9 @@ from urllib.parse import urlencode
 
 
 def fetch_events_html():
-    connection = http.client.HTTPSConnection("sistersinsweat.in")
-    connection.request("GET", "/events?city=4")
-    response = connection.getresponse()
-    return response.read().decode("utf-8")
+    session = get_cached_session()
+    response = session.get("https://sistersinsweat.in/events?city=4")
+    return response.text
 
 
 def read_events_html():
@@ -20,9 +19,9 @@ def read_events_html():
 
 
 def fetch_event_details(l):
-    # html = request.get(l).contents
-    with open("fixtures/sisters-in-sweat-event.html", "r") as f:
-        html = f.read()
+    session = get_cached_session()
+    response = session.get(l)
+    html = response.text
     soup = BeautifulSoup(html, "html.parser")
     div = soup.select_one("#description").text.replace("\n\n", "\n")
     print(div)
