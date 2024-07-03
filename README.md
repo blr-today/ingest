@@ -51,6 +51,7 @@ We have some data available or change notifications configured, but there needs 
 - [ ] [Bangalore Chess Club](https://bangalorechessclub.in/index.html#events_section)
 
 # TODO
+- [ ] [Pedal In Tandem](https://www.pedalintandem.com/experiences)
 - [ ] Switch HighApe to https://highape.com/bangalore/all-events which has enough JSON in a single URL
 - [ ] Switch Trove to https://troveexperiences.com/collections/bangalore/products.json
 - [ ] https://hooplaback-girl.myinstamojo.com/ (search for Workshop events)

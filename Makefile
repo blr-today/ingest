@@ -36,7 +36,7 @@ out/mapindia.json: out/mapindia.ics
 	python src/ics-to-event.py out/mapindia.ics $@ || $(call restore-file,$@)
 
 out/bengalurusustainabilityforum.ics:
-	curl_chrome116 --silent "https://www.bengalurusustainabilityforum.org/?post_type=tribe_events&ical=1&eventDisplay=list" -O $@ || $(call restore-file,$@)
+	curl_chrome116 --silent "https://www.bengalurusustainabilityforum.org/?post_type=tribe_events&ical=1&eventDisplay=list" --output $@ || $(call restore-file,$@)
 
 out/bengalurusustainabilityforum.json: out/bengalurusustainabilityforum.ics
 	python src/ics-to-event.py out/bengalurusustainabilityforum.ics $@ || $(call restore-file,$@)
@@ -44,7 +44,7 @@ out/bengalurusustainabilityforum.json: out/bengalurusustainabilityforum.ics
 out/insider.txt:
 	curl_chrome116 --silent \
 	--url 'https://api.insider.in/home?city=bengaluru&eventType=physical&filterBy=go-out&norm=1&select=lite&typeFilter=physical' | \
-	jq -r '.list.masterList|keys[]|["https://insider.in",., "event"]|join("/")' | sort $@ ||  $(call restore-file,$@)
+	jq -r '.list.masterList|keys[]|["https://insider.in",., "event"]|join("/")' | sort > $@ ||  $(call restore-file,$@)
 
 out/bhaagoindia.txt:
 	python src/bhaagoindia.com.py | sort > $@ ||  $(call restore-file,$@)
@@ -105,10 +105,8 @@ out/pvr/cinemas.json:
 out/trove.json:
 	python src/trove.py || $(call restore-file,$@)
 
-# aceofpubs website is down right now
 out/aceofpubs.ics:
-	$(call restore-file,$@)
-# 	curl_chrome116 "https://aceofpubs.com/events/category/bengaluru-pub-quiz-event/?post_type=tribe_events&ical=1&eventDisplay=list&ical=1" --output "out/aceofpubs.ics"
+	curl_chrome116 --silent "https://aceofpubs.com/events/category/bengaluru-pub-quiz-event/?post_type=tribe_events&ical=1&eventDisplay=list&ical=1" --output $@ || $(call restore-file,$@)
 
 out/aceofpubs.json: out/aceofpubs.ics
 	python src/aceofpubs.py || $(call restore-file,$@)
@@ -149,6 +147,7 @@ all: out/allevents.txt \
  out/aceofpubs.json \
  out/atta_galatta.json \
  out/koota.txt
+
 	@echo "Done"
 
 db:
