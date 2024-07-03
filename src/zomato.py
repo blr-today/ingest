@@ -1,21 +1,18 @@
-import http.client
-import jsonpath
 import json
+import jsonpath
 import datefinder
 import datetime
 from urllib.parse import urlparse, parse_qs
 from common.tz import IST
 import os
+from common.session import get_cached_session
 
 # Public Key, not-logged-in API key
 ZOMATO_API_KEY = os.environ.get("ZOMATO_PUBLIC_API_KEY")
 
 
 def fetch_data(url, body):
-    conn = http.client.HTTPSConnection("api.zomato.com")
-
-    payload = json.dumps(body)
-
+    session = get_cached_session()
     headers = {
         "x-city-id": "4",  # Bangalore
         "x-zomato-app-version": "17.43.5",
@@ -24,10 +21,8 @@ def fetch_data(url, body):
         "user-agent": "gardencitybot/0.0.1",
     }
 
-    conn.request("POST", url, payload, headers)
-    res = conn.getresponse()
-    data = res.read()
-    return json.loads(data.decode("utf-8"))
+    response = session.post("https://api.zomato.com" + url, json=body, headers=headers)
+    return response.json()
 
 
 def qs(url, key="event_id"):

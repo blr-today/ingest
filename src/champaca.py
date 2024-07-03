@@ -1,4 +1,3 @@
-import http.client
 import datetime
 import json
 from common.tz import IST
@@ -8,28 +7,21 @@ from lxml import etree
 import datefinder
 import urllib.parse
 from math import ceil
-
-HEADERS = {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-}
-
+from common.session import get_cached_session
 
 def make_request(url):
-    parsed_url = url.split("://")[1]
-    host, path = parsed_url.split("/", 1)
-    conn = http.client.HTTPSConnection(host)
-    conn.request("GET", "/" + path, headers=HEADERS)
-    response = conn.getresponse()
-    return response.read()
-
+    session = get_cached_session()
+    response = session.get(url)
+    return response.content
 
 def get_price(product_url):
+    session = get_cached_session()
     parsed_url = urllib.parse.urlparse(product_url)
     path = parsed_url.path
-    j = json.loads(make_request("https://champaca.in" + path + ".json"))
+    response = session.get("https://champaca.in" + path + ".json")
+    j = response.json()
     for variant in j["product"]["variants"]:
         return str(ceil(float(variant["price"])))
-
 
 def guess_event_type(title):
     if "Workshop" in title:
@@ -39,7 +31,6 @@ def guess_event_type(title):
     if "Children" in title:
         return "ChildrensEvent"
     return "Event"
-
 
 # Generate as per the schema.org/Event specification
 def make_event(title, starttime, description, url, product_urls):
@@ -81,7 +72,6 @@ def make_event(title, starttime, description, url, product_urls):
         e["performer"] = {"@type": "Person", "name": performer}
 
     return e
-
 
 def fetch_events():
     url = "https://champaca.in/blogs/events.atom"
@@ -136,7 +126,6 @@ def fetch_events():
                     )
 
     return events
-
 
 if __name__ == "__main__":
     # write to champaca.json

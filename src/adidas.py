@@ -1,12 +1,7 @@
-import http.client
 import json
-import re
-from bs4 import BeautifulSoup
 from datetime import datetime
 from common.session import get_cached_session
-import os
 from common.tz import IST
-from math import ceil
 
 HEADERS = {
     "user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0"

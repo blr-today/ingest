@@ -1,12 +1,11 @@
-import http.client
+import requests
 import json
-import re
 from bs4 import BeautifulSoup
-import datefinder
+import re
 from datetime import datetime
 from common.tz import IST
-import os
 from math import ceil
+from common.session import get_cached_session
 
 LOCATIONS = [
     (
@@ -83,9 +82,9 @@ HEADERS = {
 
 
 def fetch_html():
-    conn = http.client.HTTPSConnection("bluetokaicoffee.com")
-    conn.request("GET", "/pages/coffee-workshop-events", headers=HEADERS)
-    return conn.getresponse().read()
+    session = get_cached_session()
+    response = session.get("https://bluetokaicoffee.com/pages/coffee-workshop-events", headers=HEADERS)
+    return response.text
 
 
 def parse_html(html):
@@ -95,10 +94,9 @@ def parse_html(html):
 
 
 def fetch_product_json(slug):
-    conn = http.client.HTTPSConnection("bluetokaicoffee.com")
-    conn.request("GET", f"/products/{slug}.json", headers=HEADERS)
-    r = conn.getresponse().read()
-    return json.loads(r)
+    session = get_cached_session()
+    response = session.get(f"https://bluetokaicoffee.com/products/{slug}.json", headers=HEADERS)
+    return response.json()
 
 
 def find_bengaluru_variant(product_json):
