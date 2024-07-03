@@ -704,7 +704,7 @@
   {
     "@context": "https://schema.org",
     "@type": "ScreeningEvent",
-    "name": "Movie Under the Stars | Screening: 2 Days in Paris",
+    "name": "Movie Under the Stars | Screening: 2 Days in Paris (2007)",
     "description": "Open-air screening with a three-course dinner & popcorn \"2 Days in Paris\" is a romantic comedy-drama that follows the tumultuous relationship of Marion (Julie Delpy) and Jack (Adam Goldberg), a couple attempting to rekindle their romance during a brief stay in Paris. Marion, a French photographer, and Jack, an American interior designer, plan to spend two days in Paris after a vacation in Venice. Their visit is intended to strengthen their bond, but instead, it exposes the cracks in their relationship.Through witty dialogue and humorous situations, \"2 Days in Paris\" explores themes of love, trust, and the complexities of modern relationships. The film combines the charm of Paris with the raw, unfiltered portrayal of a couple trying to bridge their emotional gaps, ultimately questioning whether their love can withstand the pressures and revelations of their brief stay in the City of Lights.Menu also to be announcedTerms and Conditions:The management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Valet service is available at a charge of Rs. 200 per vehicle.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Tickets are non-refundable in case of cancellation or no-show.In case of rain, the event will be moved indoors.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/704AE61C014A4C29BEE2D5F5183778C8_converted_webp.webp"
@@ -1052,6 +1052,53 @@
       "Art & culture",
       "Local",
       "COURTYARD",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mental Health Circle on General Well-Being",
+    "description": "What are Circles:Circles are small-group, private gatherings to share mental health struggles, connect with others, and learn from shared experiences.Each circle is moderated by the Mindhouse team or verified Circle hosts to ensure everyone feels respected, heard, and valued throughout the discussion. We value confidentiality, mutual respect and trust. We do not disclose participant information beyond the Circle - and you can choose what personal information you\u2019d like to share.- Share your struggles with mental health in a group where people have had similar experiences- Learn from others\u2019 lived experiences and find the right resources to prioritize your well-being- Inspire others to take the next step in their mental health journeyIf you have struggled with mental health, join us for our upcoming Circle on Mental Health on\u00a014 July 2024, sunday at Dialogues cafe, Koramangala or share it with a friend/family member who might need a safe space to share.\u00a0",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8285936E14434A97BBC5DB361368E476_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/65564EEB1FE84E82AB84E95B37C8789E_converted_webp.webp"
+    ],
+    "startDate": "2024-07-14T11:00:00+05:30",
+    "endDate": "2024-07-14T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJHwc9qEQUrjsRmZ4YRQVDz9I",
+      "latitude": "12.93247520000000000000",
+      "longitude": "77.63186910000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mindhouse",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/2ABAC4DAC3FA4F039FF12F06F2359F78_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/mental-health-circle-on-general-well-being",
+    "keywords": [
+      "Wellness",
       "URBANAUT"
     ]
   }
