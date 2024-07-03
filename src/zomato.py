@@ -18,7 +18,7 @@ def fetch_data(url, body):
         "x-zomato-app-version": "17.43.5",
         "x-zomato-api-key": ZOMATO_API_KEY,
         "accept": "*/*",
-        "user-agent": "gardencitybot/0.0.1",
+        "user-agent": "blr-today-fetcher/0 (+https://blr.today/docs/bots)",
     }
 
     response = session.post("https://api.zomato.com" + url, json=body, headers=headers)
