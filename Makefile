@@ -63,8 +63,8 @@ out/mmb.txt:
 out/urbanaut.json:
 	python src/urbanaut.py  || $(call restore-file,$@)
 
-out/zomato.json:
-	python src/zomato.py || $(call restore-file,$@)
+out/zomato.txt:
+	python src/zomato.py | sort > $@ || $(call restore-file,$@)
 
 out/bic.ics:
 	curl_chrome116 --silent "https://bangaloreinternationalcentre.org/events/?ical=1" --output $@  || $(call restore-file,$@)

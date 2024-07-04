@@ -1,5 +1,6 @@
 import extruct
 import time
+from common import USER_AGENT_HEADERS
 from common.session import get_cached_session
 from datetime import timedelta, datetime
 from w3lib.html import get_base_url
@@ -83,6 +84,7 @@ URL_FILES = [
     "out/creativemornings.txt",
     "out/together-buzz.txt",
     "out/koota.txt",
+    "out/zomato.txt"
 ]
 
 
@@ -168,7 +170,12 @@ def get_events(s, filt):
                 url = url.strip()
                 if url:
                     keywords = None
-                    r = s.get(url)
+                    # Zomato really hates curl and we need to impersonate chrome
+                    if i == "out/zomato.txt":
+                        from curl_cffi import requests as curl_impersonate
+                        r = curl_impersonate.get(url, impersonate="chrome")
+                    else:
+                        r = s.get(url, headers=USER_AGENT_HEADERS)
                     base_url = get_base_url(r.text, r.url)
                     # extract the meta name="keywords" tag using bs4
                     soup = BeautifulSoup(r.text, "html.parser")
