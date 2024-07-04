@@ -2,9 +2,11 @@ from datetime import datetime, timedelta, timezone
 from ics import Calendar, Event
 from common.session import get_cached_session
 from bs4 import BeautifulSoup
+from common import USER_AGENT_HEADERS as HEADERS
 
-# This currently only works on Events, and not Exhibits or Installations
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+"""
+TODO: This script currently only works on Events, and not Exhibits or Installations
+"""
 session = get_cached_session(allowable_methods=["GET", "POST"])
 
 
@@ -20,12 +22,8 @@ def fetch_urls(month):
         ],  # TODO: Keep an eye out for offsite events and update location
         "setBeyond6Months": "false",
     }
-    headers = {
-        "content-type": "application/x-www-form-urlencoded",
-        "user-agent": USER_AGENT,
-    }
 
-    response = session.post(url, data=payload, headers=headers)
+    response = session.post(url, data=payload, headers=HEADERS)
 
     soup = BeautifulSoup(response.text, "html.parser")
     for link in soup.find_all("a", class_="ajax-posts-container__post__link"):
@@ -44,10 +42,10 @@ def generate_calendar():
                 continue
 
             # fetch the event
-            response = session.get(url, headers={"User-Agent": USER_AGENT})
+            response = session.get(url, headers=HEADERS)
             soup = BeautifulSoup(response.text, "html.parser")
             category = soup.select_one("article .sub-title").text
-            response = session.get(url + "ical/", headers={"User-Agent": USER_AGENT})
+            response = session.get(url + "ical/", headers=HEADERS)
             if response.status_code == 200:
                 for e in Calendar(response.text).events:
                     e.categories = [category, "MAP"]

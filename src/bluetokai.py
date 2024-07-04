@@ -6,6 +6,7 @@ from datetime import datetime
 from common.tz import IST
 from math import ceil
 from common.session import get_cached_session
+from common import USER_AGENT_HEADERS as HEADERS
 
 LOCATIONS = [
     (
@@ -75,10 +76,6 @@ LOCATIONS = [
         r"\bjp nagar\b",
     ),
 ]
-
-HEADERS = {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-}
 
 
 def fetch_html():

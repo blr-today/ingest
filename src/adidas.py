@@ -2,10 +2,8 @@ import json
 from datetime import datetime
 from common.session import get_cached_session
 from common.tz import IST
+from common import USER_AGENT_HEADERS as HEADERS
 
-HEADERS = {
-    "user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0"
-}
 BASE_URL = "https://www.adidas.co.in/adidasrunners"
 COMMUNITY_ID = "2e012594-d3fb-4185-b12b-78dead3499a3"
 COUNTRY_CODE = "IN"
