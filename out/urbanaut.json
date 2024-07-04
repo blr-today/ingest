@@ -1052,5 +1052,52 @@
       "Wellness",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Make your own Chocolate Bar",
+    "description": "Chocolate with nuts, or maybe with fruits or even with something spicy! Make your own chocolate bars and customise it to exactly the way you like it!\u00a0Join us this Thursday 11th July for a workshop with Patricia, our Chocolate Expert and Chef Aur\u00e9lie \ud83c\udf6b\ud83c\udf88We will be using a base of dark craft chocolate with options for fun inclusions like pralin\u00e9, salted caramel, nuts and peanut butter which you can customise to your liking!\u00a0You will learn everything about craft chocolate, how to mould it and make your favorite flavour combinations.See you soon !",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B5092EDDA93A4FE98D8C9F0411126C73_converted_webp.webp"
+    ],
+    "startDate": "2024-07-11T19:00:00+05:30",
+    "endDate": "2024-07-11T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "5, 1st Main Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJEWFy_Q0VrjsR8JSnUBAOpIw",
+      "latitude": "12.96367170000000000000",
+      "longitude": "77.64040170000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Caf\u00e9 Plume",
+      "description": "Caf\u00e9 Plume is an authentic French Caf\u00e9 and P\u00e2tisserie in Indiranagar, also hosting events and workshops.",
+      "url": "https://urbanaut.app/partner/cafeplume",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/875011349AE04664BFD13843905749AF_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-95919-42490"
+      }
+    },
+    "url": "https://urbanaut.app/spot/make-your-own-chocolate-bar",
+    "keywords": [
+      "Food & drink",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
