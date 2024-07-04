@@ -1,6 +1,30 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "name": "Mahabharata Dialogues",
+    "startDate": "2024-07-14T11:00:00+05:30",
+    "endDate": "2024-07-14T13:00:00+05:30",
+    "description": "Mahabharata Dialogues is a captivating blend of art, storytelling, and musical expression. The show\u2019s unique structure includes narrations in English, sung stanzas from Dinkar\u2019s epic poem \u2018Rashmirathi\u2019, and explanations of these verses, providing a rich and immersive experience for the audience. \nLed by Abhilash Purohit and Deepika Murthy, the performance promises to explore the life of Karna through story and Hindustani vocals. \nSupported by:\n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/mahabharata-dialogues/",
+    "keywords": [
+      "Music",
+      "Mythology",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "Mahabharata Dialogues"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy-6_POSTER.jpg"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Aesthetic City",
     "startDate": "2024-07-07T17:00:00+05:30",
@@ -408,7 +432,7 @@
       "@type": "CreativeWork",
       "name": "Song Tasting"
     },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy_POSTER-34.jpg"
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy_POSTER1.jpg"
   },
   {
     "@context": "https://schema.org",

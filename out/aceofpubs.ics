@@ -188,13 +188,13 @@ var sbiajaxurl = "https://aceofpubs.com/wp-admin/admin-ajax.php";
 </div><script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"},"registration_prompt":"There is unsaved attendee information. Are you sure you want to continue?"};/* ]]> */ </script><link rel='stylesheet' id='hostinger_main_styles-css' href='https://aceofpubs.com/wp-content/plugins/hostinger/assets//css/coming-soon.min.css?ver=3.0.2' type='text/css' media='all' />
 <script type="text/javascript" src="https://aceofpubs.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://aceofpubs.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/stratum/assets/js/editor-panel.min.js?ver=1.4.3" id="stratum-editor-panel-js-js"></script>
-<script type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/event-tickets/common/src/resources/js/tribe-common.min.js?ver=5.3.0.4" id="tribe-common-js"></script>
-<script type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/event-tickets/common/src/resources/js/utils/query-string.min.js?ver=5.3.0.4" id="tribe-query-string-js"></script>
+<script type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/stratum/assets/js/editor-panel.min.js?ver=1.4.0" id="stratum-editor-panel-js-js"></script>
+<script type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/event-tickets/common/src/resources/js/tribe-common.min.js?ver=5.2.7" id="tribe-common-js"></script>
+<script type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/event-tickets/common/src/resources/js/utils/query-string.min.js?ver=5.2.7" id="tribe-query-string-js"></script>
 <script src='https://aceofpubs.com/wp-content/plugins/event-tickets/common/src/resources/js/underscore-before.js'></script>
 <script type="text/javascript" src="https://aceofpubs.com/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script src='https://aceofpubs.com/wp-content/plugins/event-tickets/common/src/resources/js/underscore-after.js'></script>
-<script defer type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/the-events-calendar/src/resources/js/views/manager.min.js?ver=6.5.1.5" id="tribe-events-views-v2-manager-js"></script>
+<script defer type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/the-events-calendar/src/resources/js/views/manager.min.js?ver=6.5.0" id="tribe-events-views-v2-manager-js"></script>
 <!-- Registrations For the Events Calendar JS -->
 <script type="text/javascript">
 	jQuery(document).ready(function($) {
@@ -215,12 +215,8 @@ var name = jQuery('input[name="rtec_first"]').val();
 });
 	});
 </script>
-		<!-- start Simple Custom CSS and JS -->
-<!-- end Simple Custom CSS and JS -->
-<!-- start Simple Custom CSS and JS -->
-<!-- 4035579488fbe4f3f85b564119dc5f1e --><!-- end Simple Custom CSS and JS -->
-    </body>
+		    </body>
 </html>
 
 
-<!-- Page cached by LiteSpeed Cache 6.2.0.1 on 2024-07-04 12:04:34 -->
+<!-- Page cached by LiteSpeed Cache 6.2.0.1 on 2024-07-04 18:17:45 -->
