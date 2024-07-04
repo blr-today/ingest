@@ -1,6 +1,43 @@
 [
   {
     "@type": "MusicEvent",
+    "name": "Steve Levi at Sunburn Union",
+    "about": "Experience an electrifying night at Sunburn Union with Steve Levi on July 13th! With over 20 years of international music industry experience, Steve Levi is a renowned DJ and music producer known for captivating audiences worldwide with his Melodic Techno and Progressive House tunes. Don't miss this unforgettable auditory journey as Steve takes the stage at 7PM for a night of music magic.",
+    "url": "https://www.tonight.is/party/3Plpi0HqeYveOUePdWsx",
+    "startDate": "2024-07-13T19:00:00+05:30",
+    "endDate": "2024-07-14T13:00:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2F3Plpi0HqeYveOUePdWsx%2FbannerImages%2FSs0dkY6SfUlPLJzkZaf3-Steve%20Levi%20at%20Sunburn%20Union.png?alt=media&token=a0871ce3-d399-4081-87d0-2849793db5ac",
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Various Artists"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Sunburn Union",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Passport office, Mantri Avenue, KHB Games Village, Koramangala",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9451786760031",
+        "longitude": "77.62013704583424"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sunburn Union - Skydance Hospitality"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://insider.in/event/steve-levi-at-sunburn-union-jul13-2024/buy-page"
+    }
+  },
+  {
+    "@type": "MusicEvent",
     "name": "Tribute to Linkin Park Ft Anthracite",
     "about": "Join us for a tribute to Linkin Park featuring Anthracite on their Hard Rock Cafe India Tour. Anthracite brings a unique blend of Rap Rock/Nu Metal to the stage, appealing to a diverse audience beyond just metalheads. Get ready for an electrifying night filled with high energy and great music at the Hard Rock Cafe!",
     "url": "https://www.tonight.is/party/5SFOPOZ68obAciGJUKTH",
@@ -342,7 +379,7 @@
     "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FtQ2Mr2wgOPohDgkz7V1l%2FbannerImages%2FAf0rZDVBqKfUyPEEhQqu-Redroom%20Ft.%20Theyellowheads%20at%20Gylt%20Bangalore..jpg?alt=media&token=7865049c-bd59-4484-b6d4-8ac8c5ad9d23",
     "performer": {
       "@type": "MusicGroup",
-      "name": "Various Artists"
+      "name": "The YellowHeads"
     },
     "location": {
       "@type": "Place",
