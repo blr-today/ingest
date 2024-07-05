@@ -18,7 +18,7 @@ html2md==0.1.7
 html2text==2024.2.26
 html5lib==1.1
 ics==0.7.2
-idna==3.6
+idna>=3.7
 instaloader==4.11
 isodate==0.6.1
 jstyleson==0.0.2
@@ -38,7 +38,7 @@ pytz==2024.1
 PyYAML==6.0.1
 rdflib==7.0.0
 regex==2023.12.25
-requests==2.31.0
+requests>=2.32.0
 requests-cache==1.2.0
 requests-toolbelt==1.0.0
 six==1.16.0
@@ -47,6 +47,6 @@ TatSu==5.11.3
 types-python-dateutil==2.8.19.20240311
 typing_extensions==4.12.2
 url-normalize==1.4.3
-urllib3==2.2.1
+urllib3>=2.2.2
 w3lib==2.1.2
 webencodings==0.5.1
