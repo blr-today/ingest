@@ -131,7 +131,7 @@ all: out/allevents.txt \
  out/scigalleryblr.json \
  out/mmb.txt \
  out/venn.json \
- out/zomato.json \
+ out/zomato.txt \
  out/urbanaut.json \
  out/champaca.json \
  out/bic.json \
