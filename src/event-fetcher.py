@@ -47,6 +47,7 @@ EVENT_JSON_FILES = [
     "out/atta_galatta.json",
     "out/urbanaut.json",
     "out/bengalurusustainabilityforum.json",
+    "out/venn.json" # this also has a lot of duplicates
 ]
 
 KNOWN_EVENT_TYPES = [
@@ -133,6 +134,8 @@ def fix_online_schema(url, event):
 
     # force https here
     event["@context"] = "https://schema.org"
+
+    print(event)
 
     # set a url if not already set
     if "url" not in event:
@@ -251,6 +254,7 @@ def get_events(s, filt):
 def insert_event_json(conn, url, event_json):
     d = json.dumps(event_json)
     cursor = conn.cursor()
+    print(d)
     cursor.execute("INSERT INTO events (url, event_json) VALUES (?, ?)", (url, d))
 
 
@@ -292,6 +296,7 @@ if __name__ == "__main__":
             conn.commit()
 
     for url, event in get_local_events(EVENT_JSON_FILES, f):
+        print(event)
         insert_event_json(conn, url, event)
         i += 1
         if i % 10 == 0:

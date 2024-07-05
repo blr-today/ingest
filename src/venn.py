@@ -1,75 +1,66 @@
-import os
 import json
-import http.client
+import requests
 import urllib.parse
-import pickle
+from common.session import get_cached_session
 import cleanurl
+from datetime import datetime, timedelta
 
-CACHE_FILE = ".cache.pkl"
-KNOWN_SHORTENERS = [
-    "bit.ly",
-    # 'hi.switchy.io' switchy doesn't use a 3xx, so this breaks
-]
+KNOWN_SHORTENERS = ["bit.ly"]
 
 
-def load_cache():
-    if os.path.exists(CACHE_FILE):
-        with open(CACHE_FILE, "rb") as f:
-            return pickle.load(f)
-    return {}
+def expand_link(session, url):
+    response = session.head(url, allow_redirects=False, timeout=5)
+    if "location" in response.headers:
+        return response.headers["location"]
+    return url
 
 
-def save_cache(cache):
-    with open(CACHE_FILE, "wb") as f:
-        pickle.dump(cache, f)
-
-
-def expand_link(link):
-    cache = load_cache()
-    if link in cache:
-        return cache[link]
-
-    parsed_url = urllib.parse.urlparse(link)
-    path = parsed_url.path
-    connection = http.client.HTTPSConnection(parsed_url.netloc)
-    connection.request("HEAD", path)
-    expanded_url = connection.getresponse().getheader("Location")
-    if expanded_url:
-        cache[link] = expanded_url
-        save_cache(cache)
-        return expanded_url
-    else:
-        return link
+def make_event(event):
+    # We assume 2 hours
+    endDate = datetime.fromisoformat(event["event_date"]) + timedelta(hours=2)
+    return {
+        "id": f"buzz.venn:{event['id']}",
+        "name": event["title"],
+        "image": event["large_image"],
+        "location": {
+            "name": event["venue"]["name"],
+            "address": event["venue"]["name"] + " Bangalore",
+        },
+        "url": f"https://app.venn.buzz/social_experience/{event['id']}",
+        "sameAs": event["url"],
+        "startDate": event["event_date"],
+        "endDate": endDate.isoformat(),
+        "description": event["short_description"],
+    }
 
 
 def fetch_venn():
+    session = get_cached_session(allowable_codes=(200, 302), days=7)
     events = []
     event_ids = set()
-    for d in ["today", "tomorrow", "later"]:
-        url = f"https://api.venn.buzz/user/social_experiences.json?filter={d}"
-        connection = http.client.HTTPSConnection("api.venn.buzz")
-        connection.request("GET", url)
-        response = connection.getresponse()
-        data = json.loads(response.read().decode("utf-8"))
-        for event in data["data"]["events"]:
-            while True:
-                # get hostname from the URL
-                hostname = urllib.parse.urlparse(event["shortened_link"]).hostname
-                # if the hostname is a known shortener, expand the link
-                if hostname in KNOWN_SHORTENERS:
-                    event["shortened_link"] = expand_link(event["shortened_link"])
-                else:
-                    break
-            event["url"] = cleanurl.cleanurl(
-                event["shortened_link"], respect_semantics=True
-            ).url
+    url = f"https://api.venn.buzz/user/social_experiences.json?filter=all"
 
-            for k in ["curation", "shortened_link", "test_event", "experience_id"]:
-                if k in event:
-                    del event[k]
-            if event["id"] not in event_ids:
-                events.append(event)
-                event_ids.add(event["id"])
+    api_response = requests.get(url).json()
+    for event in api_response["data"]["events"]:
+        while True:
+            # get hostname from the URL
+            hostname = urllib.parse.urlparse(event["shortened_link"]).hostname
+            # if the hostname is a known shortener, expand the link
+            if hostname in KNOWN_SHORTENERS:
+                event["shortened_link"] = expand_link(session, event["shortened_link"])
+            else:
+                break
+        event["url"] = cleanurl.cleanurl(
+            event["shortened_link"], respect_semantics=True
+        ).url
+
+        for k in ["curation", "shortened_link", "test_event", "experience_id"]:
+            if k in event:
+                del event[k]
+        if event["id"] not in event_ids:
+            event_ids.add(event["id"])
+            events.append(make_event(event))
+
     return sorted(events, key=lambda x: x["id"])
 
 
