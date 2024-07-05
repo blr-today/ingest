@@ -1,222 +1,164 @@
-<!DOCTYPE html>
-<html lang="en-US">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <title>Coming Soon</title>
-        <style>
-            html *:not(body):not(.hsr-coming-soon-body > *) {
-                display: none;
-            }
-
-            .hsr-coming-soon-body {
-                display: flex !important;
-            }
-        </style>
-    </head>
-    <body class="hostinger">
-        <div class="hsr-coming-soon-body">
-            <img alt="logo" class="hsr-logo"
-                src="https://aceofpubs.com/wp-content/plugins/hostinger/assets/images/logo-black.svg">
-            <img alt="illustration" class="hsr-coming-soon-illustration"
-                src="https://aceofpubs.com/wp-content/plugins/hostinger/assets/images/illustration.png">
-            <h3>
-                Coming Soon            </h3>
-            <p>
-                New WordPress website is being built and will be published soon            </p>
-        </div>
-
-        <script>
-let text = $(".tribe-events-c-breadcrumbs__list-item-text").text();
-
-if(text == "\n\t\tGrant's Trivia Night\t" ){
-    $(".tribe-events-view").prepend("<img src='https://aceofpubs.com/wp-content/uploads/2022/11/final.png' alt='banner' class='show-on-desk'/><img src='https://aceofpubs.com/wp-content/uploads/2022/11/final-1.png' class='show-on-mobile' alt='banner' />")
-}
-	else if(text == "\n\t\tYolo 247\t" ){
-		  $(".tribe-events-view").prepend("<img src='https://aceofpubs.com/wp-content/uploads/2023/05/Artboard-2.png' alt='banner' class='show-on-desk'/><img src='https://aceofpubs.com/wp-content/uploads/2023/05/Artboard-6.png' class='show-on-mobile' alt='banner' />")
-}
-	else if(text == "\n\t\tFun88\t" ){
-		  $(".tribe-events-view").prepend("<img src='https://aceofpubs.com/wp-content/uploads/2023/04/new-2.png' alt='banner' class='show-on-desk'/><img src='https://aceofpubs.com/wp-content/uploads/2023/05/Artboard-1-1-1.png' class='show-on-mobile' alt='banner' />")
-		 }
-	else if(text == "\n\t\tJameson\t" ){
-		  $(".tribe-events-view").prepend("<img src='https://aceofpubs.com/wp-content/uploads/2022/11/7.png' alt='banner' class='show-on-desk'/><img src='https://aceofpubs.com/wp-content/uploads/2022/11/8.png' class='show-on-mobile' alt='banner' />")
-		 }
-	else if(text == "\n\t\tFootball world cup quiz night\t" ){
-		  $(".tribe-events-view").prepend("<img src='https://aceofpubs.com/wp-content/uploads/2022/11/1.png' alt='banner' class='show-on-desk'/><img src='https://aceofpubs.com/wp-content/uploads/2022/11/2.png' class='show-on-mobile' alt='banner' />")
-		 }
-	
-	// Get all the <a> elements within the <div> container
-var links = document.querySelectorAll('.elementor-widget-container a');
-
-</script>
-		<script>
-		( function ( body ) {
-			'use strict';
-			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
-		} )( document.body );
-		</script>
-		<!-- Instagram Feed JS -->
-<script type="text/javascript">
-var sbiajaxurl = "https://aceofpubs.com/wp-admin/admin-ajax.php";
-</script>
-<div id="nedwp-fm" class="nedwp-fm-right nedwp-fm-mini nedwp-fm-desktop nedwp-fm-mobile">
-
-	<div id="nedwp-fm-toggle">
-
-					<i class="las la-comments"></i>
-		
-		<span>Feedback</span>
-
-	</div>
-
-	<div id="nedwp-fm-modal">
-
-		<div id="nedwp-fm-modal-head">
-
-			<span id="nedwp-fm-modal-title">Feedback</span>
-
-							<i id="nedwp-fm-modal-close" class="las la-times"></i>
-						
-		</div>
-
-		<div id="nedwp-fm-modal-body">
-
-			
-			<div id="nedwp-fm-modal-screens">
-				<div class="nedwp-fm-modal-screen" id="nedwp-fm-modal-screen-fb">
-
-	<div class="nedwp-fm-modal-screen-wrap">
-
-		
-			<div class="nedwp-fm-modal-field" id="nedwp-fm-modal-field-opinion">
-
-				<div class="nedwp-fm-modal-field-head">
-					<span class="nedwp-fm-modal-title">How would you rate your experience?</span>
-				</div>
-
-				<div class="nedwp-fm-modal-field-content">
-					<div id="nedwp-fm-modal-opinion-choice" class="nedwp-required">
-													<a href="#" class="nedwp-fm-modal-opinion-value" data-opinion="1">
-								<div class="nedwp-fm-modal-opinion-text">1</div>
-																	<div class="nedwp-fm-modal-opinion-name">Bad!</div>
-															</a>
-													<a href="#" class="nedwp-fm-modal-opinion-value" data-opinion="2">
-								<div class="nedwp-fm-modal-opinion-text">2</div>
-																	<div class="nedwp-fm-modal-opinion-name">Poor!</div>
-															</a>
-													<a href="#" class="nedwp-fm-modal-opinion-value" data-opinion="3">
-								<div class="nedwp-fm-modal-opinion-text">3</div>
-																	<div class="nedwp-fm-modal-opinion-name">Fair!</div>
-															</a>
-													<a href="#" class="nedwp-fm-modal-opinion-value" data-opinion="4">
-								<div class="nedwp-fm-modal-opinion-text">4</div>
-																	<div class="nedwp-fm-modal-opinion-name">Good!</div>
-															</a>
-													<a href="#" class="nedwp-fm-modal-opinion-value nedwp-active" data-opinion="5">
-								<div class="nedwp-fm-modal-opinion-text">5</div>
-																	<div class="nedwp-fm-modal-opinion-name">Great!</div>
-															</a>
-											</div>
-				</div>
-
-				<div class="nedwp-fm-modal-field-notice" id="nedwp-fm-modal-opinion-notice"></div>
-
-			</div>
-
-		
-			<div class="nedwp-fm-modal-field" id="nedwp-fm-modal-field-comment">
-
-				<div class="nedwp-fm-modal-field-head">
-					<span class="nedwp-fm-modal-title">Do you have any additional comment?</span>
-				</div>
-
-				<div class="nedwp-fm-modal-field-content">
-					<textarea id="nedwp-fm-modal-textarea-comment" placeholder="Please enter your comment here" class="nedwp-input"></textarea>
-				</div>
-
-				<div class="nedwp-fm-modal-field-notice" id="nedwp-fm-modal-comment-notice"></div>
-
-			</div>
-
-		
-	</div>
-
-	<div class="nedwp-fm-modal-screen-actions">
-
-		<div class="nedwp-fm-modal-screen-action" id="nedwp-fm-modal-submit">
-
-	<span>Submit</span>
-
-			<i class="las la-check-circle"></i>
-		
-</div>
-	</div>
-
-</div><div class="nedwp-fm-modal-screen" id="nedwp-fm-modal-screen-done">
-	<div class="nedwp-fm-modal-screen-wrap">
-		<div class="nedwp-fm-modal-field" id="nedwp-fm-modal-field-done">
-			<div class="nedwp-fm-modal-field-content">
-
-				<div id="nedwp-fm-modal-done-screen-icon">
-											<i class="las la-check-circle"></i>
-									</div>
-
-				<div id="nedwp-fm-modal-done-screen-text">
-					<span class="nedwp-fm-modal-title">Thank you for submitting your feedback!</span>
-				</div>
-				
-			</div>
-		</div>
-	</div>
-</div><div id="nedwp-fm-modal-loader">
-	<div id="nedwp-fm-modal-loader-spinner">
-		<svg id="nedwp-fm-modal-loader-circular" viewBox="25 25 50 50">
-			<circle id="nedwp-fm-modal-loader-path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10"/>
-		</svg>
-	</div>
-</div>			</div>
-
-			<div id="nedwp-fm-modal-adjust"></div>
-
-			
-		</div>
-		
-	</div>
-
-			<div id="nedwp-fm-shadow"></div>
-	
-</div><script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"},"registration_prompt":"There is unsaved attendee information. Are you sure you want to continue?"};/* ]]> */ </script><link rel='stylesheet' id='hostinger_main_styles-css' href='https://aceofpubs.com/wp-content/plugins/hostinger/assets//css/coming-soon.min.css?ver=3.0.2' type='text/css' media='all' />
-<script type="text/javascript" src="https://aceofpubs.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script type="text/javascript" src="https://aceofpubs.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/stratum/assets/js/editor-panel.min.js?ver=1.4.0" id="stratum-editor-panel-js-js"></script>
-<script type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/event-tickets/common/src/resources/js/tribe-common.min.js?ver=5.2.7" id="tribe-common-js"></script>
-<script type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/event-tickets/common/src/resources/js/utils/query-string.min.js?ver=5.2.7" id="tribe-query-string-js"></script>
-<script src='https://aceofpubs.com/wp-content/plugins/event-tickets/common/src/resources/js/underscore-before.js'></script>
-<script type="text/javascript" src="https://aceofpubs.com/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
-<script src='https://aceofpubs.com/wp-content/plugins/event-tickets/common/src/resources/js/underscore-after.js'></script>
-<script defer type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/the-events-calendar/src/resources/js/views/manager.min.js?ver=6.5.0" id="tribe-events-views-v2-manager-js"></script>
-<!-- Registrations For the Events Calendar JS -->
-<script type="text/javascript">
-	jQuery(document).ready(function($) {
-		$(".rtec-submit-button").on('click', function(){
-var name = jQuery('input[name="rtec_first"]').val();
-    //var mobileno = jQuery('input[name="mobile"]').val();
-    var emailid = jQuery('input[name="rtec_email"]').val();
-    var fsource = jQuery('input[name="rtec_other"]').val();
-
-    if (name == "" || emailid == "" || fsource == "")  {
-        return false;
-    }
-    
-    else
-    {
-        window.location.href = 'https://aceofpubs.com/registration-successful/';
-    }
-});
-	});
-</script>
-		    </body>
-</html>
-
-
-<!-- Page cached by LiteSpeed Cache 6.2.0.1 on 2024-07-05 12:05:09 -->
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ace of Pubs - ECPv6.5.1.5//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ace of Pubs
+X-ORIGINAL-URL:https://aceofpubs.com
+X-WR-CALDESC:Events for Ace of Pubs
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Indian/Maldives
+BEGIN:STANDARD
+TZOFFSETFROM:+0500
+TZOFFSETTO:+0500
+TZNAME:+05
+DTSTART:20240101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Maldives:20240703T200000
+DTEND;TZID=Indian/Maldives:20240703T220000
+DTSTAMP:20240703T131351
+CREATED:20240627T060132Z
+LAST-MODIFIED:20240627T060133Z
+UID:33501-1720036800-1720044000@aceofpubs.com
+SUMMARY:The 'Khan' Daan Quiz - Radio Bar | RMZ Eco world Bellandur\, Bengaluru
+DESCRIPTION:
+URL:https://aceofpubs.com/event/the-khan-daan-quiz-radio-bar-rmz-eco-world-bellandur-bengaluru/
+LOCATION:Radio Bar–RMZ Eco world Bellandur–Bengaluru\, Kiosk no 24 Building\, South Gate\, 31\, RMZ Ecoworld Rd\, near Adarsh Palm Retreat\, opp. The Bay\, Adarsh Palm Retreat\, Bellandur\, Bengaluru\, Karnataka\, 560103
+CATEGORIES:Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Maldives:20240703T200000
+DTEND;TZID=Indian/Maldives:20240703T220000
+DTSTAMP:20240703T131351
+CREATED:20240627T061639Z
+LAST-MODIFIED:20240627T061641Z
+UID:33521-1720036800-1720044000@aceofpubs.com
+SUMMARY:Irish Trivia Night - The Irish House | Yalahanka\, Bengaluru
+DESCRIPTION:
+URL:https://aceofpubs.com/event/irish-trivia-night-the-irish-house-yalahanka-bengaluru/
+LOCATION:The Irish House–Yalahanka–Bengaluru\, police station\, RMZ Galleria\, Food Court 3rd Floor\, opp. Yelahanka\, Ambedkar Colony\, Yelahanka\, Bengaluru\, Karnataka\, 560064\, India
+CATEGORIES:Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Maldives:20240703T200000
+DTEND;TZID=Indian/Maldives:20240703T220000
+DTSTAMP:20240703T131351
+CREATED:20240627T061824Z
+LAST-MODIFIED:20240627T061825Z
+UID:33526-1720036800-1720044000@aceofpubs.com
+SUMMARY:Irish Trivia Night - The Irish House | Sarjapur\, Bengaluru
+DESCRIPTION:
+URL:https://aceofpubs.com/event/irish-trivia-night-the-irish-house-sarjapur-bengaluru/
+LOCATION:The Irish House — Sarjapur — Bengaluru\, RMZ Ecoworld Rd\, Adarsh Palm Retreat\, Bellandur\, Bengaluru\, Karnataka\, 560103\, India
+CATEGORIES:Bengaluru,Sarjapur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Maldives:20240704T200000
+DTEND;TZID=Indian/Maldives:20240704T220000
+DTSTAMP:20240703T131351
+CREATED:20240627T064430Z
+LAST-MODIFIED:20240627T064433Z
+UID:33553-1720123200-1720130400@aceofpubs.com
+SUMMARY:Quizzards by Watson's - Watson's | Vasanth Nagar\, Bengaluru
+DESCRIPTION:
+URL:https://aceofpubs.com/event/quizzards-by-watsons-watsons-vasanth-nagar-bengaluru/
+LOCATION:Watson’s – Vasanth Nagar – Bengaluru\, 1st Floor\, Kodava Samaja Building\, Vasanth Nagar\, Bengaluru\, Karnataka 560052\, Bengaluru\, Karnataka\, 560052\, India
+CATEGORIES:Bengaluru,Vasanth Nagar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Maldives:20240704T200000
+DTEND;TZID=Indian/Maldives:20240704T220000
+DTSTAMP:20240703T131351
+CREATED:20240627T064640Z
+LAST-MODIFIED:20240627T064642Z
+UID:33556-1720123200-1720130400@aceofpubs.com
+SUMMARY:The Ultimate GenZ Trivia - Woodpegger | Manyata Tech Park\, Bengaluru
+DESCRIPTION:
+URL:https://aceofpubs.com/event/the-ultimate-genz-trivia-woodpegger-manyata-tech-park-bengaluru/
+LOCATION:Woodpegger — Manyata Tech Park — Bengaluru\, 4th & 5th Floor\, #26/B\, 1st Cross Philomina Hospital Road\, Chanakya Layout\, opposite Manyata Tech Park\, Nagavara\, Bengaluru\, Karnataka\, 560045\, India
+CATEGORIES:Bengaluru,Vasanth Nagar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Maldives:20240704T200000
+DTEND;TZID=Indian/Maldives:20240704T220000
+DTSTAMP:20240703T131351
+CREATED:20240627T065527Z
+LAST-MODIFIED:20240627T103648Z
+UID:33565-1720123200-1720130400@aceofpubs.com
+SUMMARY:Nerd Out With Chili's - Chillis | RMZ Mall\, Bengaluru
+DESCRIPTION:
+URL:https://aceofpubs.com/event/nerd-out-with-chilis-chillis-viman-nagar-pune/
+LOCATION:Chillis–RMZ Mall–Bengaluru\, Ground Floor\, The Bay\, RMZ EcoWorld\, Marathahalli - Sarjapur Outer Ring Rd\, Adarsh Palm Retreat\, Bellandur\, Bengaluru\, Karnataka\, 560103
+CATEGORIES:Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Maldives:20240704T200000
+DTEND;TZID=Indian/Maldives:20240704T220000
+DTSTAMP:20240703T131351
+CREATED:20240627T070041Z
+LAST-MODIFIED:20240627T070043Z
+UID:33571-1720123200-1720130400@aceofpubs.com
+SUMMARY:General Trivia - Over The Moon | Gachibowli\, Hyderabad
+DESCRIPTION:
+URL:https://aceofpubs.com/event/general-trivia-over-the-moon-gachibowli-hyderabad-12/
+LOCATION:Over the moon — Gachibowli — Hyderabad\, SY No. 6/1\, Quiet Lands Gachibowli\, Plot No.B2\, Old Mumbai Hwy\, Serilingampalle (M)\, Telangana\, 500032\, India
+CATEGORIES:Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Maldives:20240707T180000
+DTEND;TZID=Indian/Maldives:20240707T200000
+DTSTAMP:20240703T131351
+CREATED:20240627T074903Z
+LAST-MODIFIED:20240627T075002Z
+UID:33622-1720375200-1720382400@aceofpubs.com
+SUMMARY:Fancode F1 Trivia and Screening British GP - The Irish House  | Sarjapur\, Bengaluru
+DESCRIPTION:
+URL:https://aceofpubs.com/event/fancode-f1-trivia-and-screening-british-gp-the-irish-house-sarjapur-bengaluru/
+LOCATION:The Irish House -Sarjapur-Bengaluru\, Campus 8/A\, International Bay\, RMZ Eco World\, Sarjapura\, Bellandur\,\, Bangalore\, 560103\, India
+CATEGORIES:Bengaluru,Pune
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Maldives:20240710T200000
+DTEND;TZID=Indian/Maldives:20240710T220000
+DTSTAMP:20240703T131351
+CREATED:20240627T091406Z
+LAST-MODIFIED:20240627T094457Z
+UID:33650-1720641600-1720648800@aceofpubs.com
+SUMMARY:Bollywood Divas - Radio Bar | RMZ Eco world Bellandur\, Bengaluru
+DESCRIPTION:
+URL:https://aceofpubs.com/event/bollywood-divas-radio-bar-rmz-eco-world-bellandur-bengaluru/
+LOCATION:Radio Bar–RMZ Eco world Bellandur–Bengaluru\, Kiosk no 24 Building\, South Gate\, 31\, RMZ Ecoworld Rd\, near Adarsh Palm Retreat\, opp. The Bay\, Adarsh Palm Retreat\, Bellandur\, Bengaluru\, Karnataka\, 560103
+CATEGORIES:Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Maldives:20240710T200000
+DTEND;TZID=Indian/Maldives:20240710T220000
+DTSTAMP:20240703T131351
+CREATED:20240627T092238Z
+LAST-MODIFIED:20240627T092240Z
+UID:33665-1720641600-1720648800@aceofpubs.com
+SUMMARY:Irish Trivia Night - The Irish House | Yalahanka\, Bengaluru
+DESCRIPTION:
+URL:https://aceofpubs.com/event/irish-trivia-night-the-irish-house-yalahanka-bengaluru-2/
+LOCATION:The Irish House–Yalahanka–Bengaluru\, police station\, RMZ Galleria\, Food Court 3rd Floor\, opp. Yelahanka\, Ambedkar Colony\, Yelahanka\, Bengaluru\, Karnataka\, 560064\, India
+CATEGORIES:Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Indian/Maldives:20240710T200000
+DTEND;TZID=Indian/Maldives:20240710T220000
+DTSTAMP:20240703T131351
+CREATED:20240627T092348Z
+LAST-MODIFIED:20240627T092349Z
+UID:33668-1720641600-1720648800@aceofpubs.com
+SUMMARY:Irish Trivia Night - The Irish House | Sarjapur\, Bengaluru
+DESCRIPTION:
+URL:https://aceofpubs.com/event/irish-trivia-night-the-irish-house-sarjapur-bengaluru-2/
+LOCATION:The Irish House -Sarjapur-Bengaluru\, Campus 8/A\, International Bay\, RMZ Eco World\, Sarjapura\, Bellandur\,\, Bangalore\, 560103\, India
+CATEGORIES:Bengaluru,Sarjapur
+END:VEVENT
+END:VCALENDAR

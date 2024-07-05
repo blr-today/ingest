@@ -105,8 +105,11 @@ out/pvr/cinemas.json:
 out/trove.json:
 	python src/trove.py || $(call restore-file,$@)
 
+# The website is down and returns a fake 200
+# so we rely on a stale version
 out/aceofpubs.ics:
-	curl_chrome116 --silent "https://aceofpubs.com/events/category/bengaluru-pub-quiz-event/?post_type=tribe_events&ical=1&eventDisplay=list&ical=1" --output $@ || $(call restore-file,$@)
+	$(call restore-file,$@)
+# 	curl_chrome116 --silent "https://aceofpubs.com/events/category/bengaluru-pub-quiz-event/?post_type=tribe_events&ical=1&eventDisplay=list&ical=1" --output $@ || $(call restore-file,$@)
 
 out/aceofpubs.json: out/aceofpubs.ics
 	python src/aceofpubs.py || $(call restore-file,$@)
