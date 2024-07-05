@@ -22,7 +22,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -182,7 +182,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 198,
+    "remainingAttendeeCapacity": 195,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -244,7 +244,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 198,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -271,52 +271,6 @@
       "Local",
       "Festival",
       "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Friday Adda (Drinks & Conversations with Strangers)",
-    "description": "Join us for an evening of laughter, conversation, and the chance to make new friends over your favorite drinks. From craft beers to spirits, you have a lots of options available.Whether you're new in town, looking to expand your social circle, or simply curious about meeting new people, all are welcome to join us for a memorable evening of camaraderie and connection.So come raise a glass with us and toast to the joys of spontaneity and the thrill of new encounters. Who knows what delightful conversations and meaningful connections await? Let's make this a night to remember! We can't wait to see you on Friday.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0bwdghhgan-1711631329816beerbuddiesresizefinaljpg.jpg",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/lksaskfyd9-1711631513337satadda123jpg.jpg"
-    ],
-    "startDate": "2024-07-05T20:30:00+05:30",
-    "endDate": "2024-07-05T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=EkdSZXNpZGVuY3kgUmQsIFNoYW50aGFsYSBOYWdhciwgQXNob2sgTmFnYXIsIEJlbmdhbHVydSwgS2FybmF0YWthLCBJbmRpYSIuKiwKFAoSCTvu9YPXFa47ESTfKXD-PeViEhQKEgktSXrZfhauOxGIeSHKZrsDyg",
-      "latitude": "12.97032990000000000000",
-      "longitude": "77.60370069999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 3,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3000.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "TwoTablesClub",
-      "description": "Where a small group of strangers come together for genuine conversations & spontaneous connections  over a curated meal. Guided by a host every Table is a mix of locals & newcomers sharing stories of their roots & dreams",
-      "url": "https://urbanaut.app/partner/twotablesclub",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/wysxdsvnko-1707810356440ttclogojpg.jpg",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-81399-06300"
-      }
-    },
-    "url": "https://urbanaut.app/spot/copy-of-friday-adda-drinks-conversations-with-strangers",
-    "keywords": [
       "URBANAUT"
     ]
   },
@@ -729,7 +683,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -781,7 +735,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1027,7 +981,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
