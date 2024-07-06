@@ -2,6 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:blr.today/map-india
 BEGIN:VEVENT
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/07/VI-workshop.jpg
+CATEGORIES:Workshops,MAP
+DTSTAMP:20240705T090233Z
+DESCRIPTION:This workshop is designed specifically for students with visual impairment between the ages of 14-18. Workshop participants will spend 45 minutes on a tactile walk of the exhibition\, Visible/Invisible: Representations of Women in Art through the MAP Collection. They will interact with the 7 artworks up close\, and then create tactile pieces of their own — inspired by what they have experienced\, as well as ornamentation and ideas of self expression. Materials for the workshop like clay\, modelling tools\, non-sharp materials that can be used as decorations or embellishments will be provided .\n\nThis will be a 2-hour workshop led by O Aishwarya.
+DTEND:20240714T080000Z
+DTSTART:20240714T043000Z
+SUMMARY:Art through Touch: A Tactile Workshop
+UID:518@map-india.org
+URL:https://map-india.org/map-events/art-through-touch-a-tactile-workshop/
+END:VEVENT
+BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/06/World-is-family-web-image.jpg
 CATEGORIES:Film Screenings,MAP
 DTSTAMP:20240626T100827Z
