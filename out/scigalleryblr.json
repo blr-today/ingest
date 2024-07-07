@@ -22,27 +22,6 @@
   },
   {
     "@type": "Event",
-    "name": "CARBON Film Festival Day 2",
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre",
-      "address": "Bangalore International Centre, Bangalore",
-      "url": "https://maps.app.goo.gl/V2ZWTNBxP8iVQYZe8"
-    },
-    "startDate": "2024-07-07T11:00:00+05:30",
-    "endDate": "2024-07-07T20:00:00+05:30",
-    "description": "Carbon has been an invisible protagonist on the celluloid screen for a while now. Our lives are saturated with carbon, and the screen reflects its presence everywhere. Though unseen, carbon's influence permeates our lives and finds reflection in countless stories on the big screen. This festival invites you on a journey from the barren grounds of an e-waste dump yard to the magical forests of the Western Ghats. We will showcase a distinctive collection of cinematic narratives centred on the theme of carbon and bring to life stories that span generations, reflecting both the past and the ever-evolving present. These stories of ambition, resilience, and perseverance will offer a deeper understanding of carbon and films, shedding light on the transformative power of carbon.<br>The festival strives to create an immersive environment where visitors can deeply interact with these ideas through various films and discussions. We are offering a wide array of films spanning different languages, including German, English, French, and Hindi, and genres, from documentary features and narrative features to docufictions and animated shorts. Filmmakers and scholars have been encouraged to create a colourful, interactive space that encourages people of all ages to consider carbon's critical role in our lives and the global ecosystem.<br>",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=carbon-film-festival_day2",
-    "performer": [
-      {
-        "@type": "Organization",
-        "name": "Carbon Film Festival"
-      }
-    ],
-    "maximumAttendeeCapacity": 200
-  },
-  {
-    "@type": "Event",
     "name": "Into the Carbonverse: Exploring the World of Animated films",
     "location": {
       "@type": "Place",
@@ -69,5 +48,55 @@
       }
     ],
     "maximumAttendeeCapacity": 100
+  },
+  {
+    "@type": "Event",
+    "name": "The Clearing: A Play Reading",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2024-07-13T18:00:00+05:30",
+    "endDate": "2024-07-13T20:00:00+05:30",
+    "description": "How do we make sense of \u2018invasive\u2019 species? What are the complexities they bring to different ecosystems? And do <i>Homo sapiens </i>also act as an invasive species?<br><br><i>Lantana camara </i>was introduced into India by the British in the early 1800s and was subsequently discovered to be one of the world\u2019s most invasive species. <i>Lantana camara</i> lurks in the background as a character in this play, set in the forests of South India. The behaviour of floral invasive species has parallels with that of human invaders and <i>The Clearing</i> is a play about invasions, intended or otherwise. <br><br>Join us to witness the reading of the play, presented by the production company of Jagriti Theatre. <br><br><i>The Clearing</i> is based on scientific input from Dr Suhel Qader of the Nature Conservation Foundation, on information from the Ashoka Trust for Research in Ecology and the Environment (ATREE) and on the invaluable stories from the Soliga people of B.R. Hills, Karnataka, India.<br><br><i>The Clearing </i>was produced by Mallya Aditi International School as part of their 25th Anniversary celebrations and as part of the Theatrescience India project, originally supported by the Wellcome Trust, UK and NCBS, in particular Dr Mukund Thattai.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=the-clearing",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Gautam Raja"
+      },
+      {
+        "@type": "Person",
+        "name": "Jagriti Theatre"
+      }
+    ],
+    "maximumAttendeeCapacity": 60
+  },
+  {
+    "@type": "Event",
+    "name": "The Curtain Falls on CARBON",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2024-07-14T17:00:00+05:30",
+    "endDate": "2024-07-14T20:00:00+05:30",
+    "description": "How do we think about art-science collaborations? How do they come to life at Science Gallery Bengaluru? Join CARBON's curatorial advisors Ravi Agarwal and Jahnavi Phalkey as they give us a behind-the-scenes look into the conversations and thinking around this exhibition. Hear tidbits from their experience working as researchers and curators, and pick their brains on all things carbon! Following the discussion, join us for one final CARBON walkthrough to explore this complex element in all its glory and infamy. ",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=curtain-falls-on-carbon",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Ca 1"
+      },
+      {
+        "@type": "Person",
+        "name": "Ca 2"
+      }
+    ],
+    "maximumAttendeeCapacity": 60
   }
 ]
