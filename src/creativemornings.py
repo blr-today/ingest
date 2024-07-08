@@ -1,4 +1,4 @@
-from extruct.jsonld import JsonLdExtractor
+from common.jsonld import JsonLdExtractor
 from common.session import get_cached_session
 from bs4 import BeautifulSoup
 from datetime import datetime

@@ -1,4 +1,4 @@
-from extruct.jsonld import JsonLdExtractor
+from common.jsonld import JsonLdExtractor
 from bs4 import BeautifulSoup
 from datetime import timedelta, datetime
 from common.session import get_cached_session
@@ -102,5 +102,7 @@ if __name__ == "__main__":
     events = []
     for event in scrape_trove("bangalore"):
         events.append(event)
-    with open("out/trove.json", "w") as f:
+    output_json_file = "out/trove.json"
+    with open(output_json_file, "w") as f:
         json.dump(events, f, indent=2)
+    print(f"JSON data saved to {output_json_file}")

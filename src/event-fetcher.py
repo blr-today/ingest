@@ -1,4 +1,4 @@
-from extruct.jsonld import JsonLdExtractor
+from common.jsonld import JsonLdExtractor
 import time
 from common import USER_AGENT_HEADERS
 from common.session import get_cached_session
