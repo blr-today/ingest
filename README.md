@@ -14,7 +14,7 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | Bhaago India                   | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | Carbon Science Gallery         | ✔️      | ✔️     | ✔️           |                                                                                                           |
 | Max Mueller Bhavan             | ✔️      | ✔️     | ✔️          |                                                                                                           |
-| Venn                           | ✔️      | ✔️     | ❌           |                                                                                                           |
+| Venn                           | ✔️      | ✔️     | ✔️           |                                                                                                           |
 | Atta Gallata                   | ✔️      | ✔️     | ✔️           |                                                                                                           |
 | Zomato                         | ✔️      | ✔️     | ❌           |                                                                                                           |
 | Champaca                       | ✔️      | ✔️     | ✔️           |                                                                                                           |
@@ -37,6 +37,7 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | Courtyard                      | ✔️      | ✔️     | ✔️          | Covered via Urbanaut
 | Courtyard Koota                | ✔️      | ✔️     | ✔️          |
 | [Sort My Scene][sms]           | ❌      | ❌     | ❌ | Club night events.
+| Total Environment Music Events | ✔️      | ✔️     | ✔️          |
 
 # WIP
 

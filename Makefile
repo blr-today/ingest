@@ -4,6 +4,8 @@ AE_END_TS := $(shell date +%s --date="1 month")
 START_TS := $(shell date +"%Y-%m-%d")
 END_TS := $(shell date +"%Y-%m-%d" --date="1 month")
 
+TOTAL_ENVIRONMENT_API_TOKEN := $(shell curl_chrome116 --silent --insecure 'https://api.total-environment.com/api/v1.0/token.json' | jq -r '.data.token')
+
 define restore-file
 	(echo "FAIL $1" && git checkout -- $1 && echo "RESTORED $1")
 endef
@@ -16,6 +18,13 @@ out/allevents.txt:
 	  --header "Content-Type: application/json" \
 	  --data-raw '{"venue": 0,"page": 1,"rows": 100,"tag_type": null,"sdate": $(AE_START_TS),"edate": $(AE_END_TS),"city": "bangalore","keywords": 0,"category": ["all"],"formats": 0,"sort_by_score_only": true}' | \
 	  jq -r '.item[] | .share_url' | sort > $@ || $(call restore-file,$@)
+
+# Input file goes here
+out/te.jsonnet:
+	curl_chrome116 --silent --insecure 'https://api.total-environment.com/api/v1.0/getEvents.json' -X POST -H 'content-type: application/json' -H 'Authorization: Bearer $(TOTAL_ENVIRONMENT_API_TOKEN)' --data-raw '{"flag":"upcoming"}' --output $@
+
+out/te.json: out/te.jsonnet
+	python src/jsonnet.py out/te.jsonnet
 
 out/skillboxes.txt:
 	python src/skillboxes.py | sort -u > $@ || $(call restore-file,$@)
@@ -149,7 +158,8 @@ all: out/allevents.txt \
  out/trove.json \
  out/aceofpubs.json \
  out/atta_galatta.json \
- out/koota.txt
+ out/koota.txt \
+ out/te.json
 
 	@echo "Done"
 
