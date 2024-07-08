@@ -189,14 +189,7 @@ def get_events(s, filt):
                             if d.get("@type") in KNOWN_EVENT_TYPES:
                                 return (url, d)
 
-                    if "window.location.replace" in r.text and i == "out/zomato.txt":
-                        # find the redirect URL
-                        redirect = r.text.split("window.location.replace(\"")[1].split("\")")[0]
-                        r = curl_impersonate.get(redirect, impersonate="chrome120")
-                        print(r.text)
-
                     data = JsonLdExtractor().extract(r.text)
-                    print(data)
                     m = None
                     for x in data:
                         if x.get("@graph"):
