@@ -182,6 +182,7 @@ def get_events(s, filt):
 
                     if len(r.text) == 0:
                         print("No content for ", url)
+                        break
 
                     def find_event(l):
                         for d in l:
