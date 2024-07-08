@@ -15,7 +15,8 @@ def html2text(html):
 
 input_file = sys.argv[1]
 if not os.path.exists(input_file):
-    raise f"Input {input_file} not found"
+    print(f"Input {input_file} not found")
+    sys.exit(1)
 
 basename = os.path.splitext(os.path.basename(input_file))[0]
 
