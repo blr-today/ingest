@@ -25,9 +25,7 @@ def scrape_cm(location):
         data = JsonLdExtractor().extract(r.text)
 
         try:
-            d = datetime.strptime(
-                data[0]["startDate"].split("T")[0], "%Y-%m-%d"
-            )
+            d = datetime.strptime(data[0]["startDate"].split("T")[0], "%Y-%m-%d")
             # check if date is in the future
             if d > datetime.now():
                 print(l)

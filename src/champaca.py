@@ -9,10 +9,12 @@ import urllib.parse
 from math import ceil
 from common.session import get_cached_session
 
+
 def make_request(url):
     session = get_cached_session()
     response = session.get(url)
     return response.content
+
 
 def get_price(product_url):
     session = get_cached_session()
@@ -23,6 +25,7 @@ def get_price(product_url):
     for variant in j["product"]["variants"]:
         return str(ceil(float(variant["price"])))
 
+
 def guess_event_type(title):
     if "Workshop" in title:
         return "EducationEvent"
@@ -31,6 +34,7 @@ def guess_event_type(title):
     if "Children" in title:
         return "ChildrensEvent"
     return "Event"
+
 
 # Generate as per the schema.org/Event specification
 def make_event(title, starttime, description, url, product_urls):
@@ -72,6 +76,7 @@ def make_event(title, starttime, description, url, product_urls):
         e["performer"] = {"@type": "Person", "name": performer}
 
     return e
+
 
 def fetch_events():
     url = "https://champaca.in/blogs/events.atom"
@@ -126,6 +131,7 @@ def fetch_events():
                     )
 
     return events
+
 
 if __name__ == "__main__":
     # write to champaca.json

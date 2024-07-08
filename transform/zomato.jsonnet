@@ -4,7 +4,7 @@ local STATUSMAP = {
 };
 
 local AVAILABILITYMAP = {
-  "INSTOCK": "InStock",
+  INSTOCK: 'InStock',
 };
 
 local ATTENDANCEMAP = {
@@ -20,8 +20,8 @@ local mapVenue(venue) = {
 local fixDate(date) = std.strReplace(date, ' ', 'T') + '+05:30';
 
 local transformEvent(event) = {
-  "@type": "Event",
-  "@context": "https://schema.org",
+  '@type': 'Event',
+  '@context': 'https://schema.org',
   name: event.name,
   description: event.description,
   startDate: event.startDate,
@@ -40,21 +40,21 @@ local transformEvent(event) = {
   isAccessibleForFree: event.isAccessibleForFree,
   image: event.images[0],
   offers: [
-    { 
+    {
       validFrom: fixDate(x.validFrom),
       availability: AVAILABILITYMAP[x.availability],
       priceCurrency: x.currency,
       eligibleQuantity: {
         value: x.inventory,
-        "@type": "QuantitativeValue"
-      }
+        '@type': 'QuantitativeValue',
+      },
     }
     for x in event.tickets
   ],
   performers: event.performers,
   organizer: event.organizer,
   url: event.url,
-  [if std.length(event.tickets) == 1 then  'remainingAttendeeCapacity']: event.tickets[0].inventory,
+  [if std.length(event.tickets) == 1 then 'remainingAttendeeCapacity']: event.tickets[0].inventory,
 };
 function(INPUT) [
   transformEvent(event)

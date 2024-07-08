@@ -11,7 +11,9 @@ IGNORED_URL_SLUGS = [
 
 def get_event_urls(org_id):
     session = get_cached_session()
-    response = session.get(f"https://www.townscript.com/listings/event/upcoming/userId/{org_id}")
+    response = session.get(
+        f"https://www.townscript.com/listings/event/upcoming/userId/{org_id}"
+    )
     d = response.json()
     for e in d["data"]:
         yield f"https://www.townscript.com/e/{e['shortName']}"

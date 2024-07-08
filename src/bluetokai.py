@@ -80,7 +80,9 @@ LOCATIONS = [
 
 def fetch_html():
     session = get_cached_session()
-    response = session.get("https://bluetokaicoffee.com/pages/coffee-workshop-events", headers=HEADERS)
+    response = session.get(
+        "https://bluetokaicoffee.com/pages/coffee-workshop-events", headers=HEADERS
+    )
     return response.text
 
 
@@ -92,7 +94,9 @@ def parse_html(html):
 
 def fetch_product_json(slug):
     session = get_cached_session()
-    response = session.get(f"https://bluetokaicoffee.com/products/{slug}.json", headers=HEADERS)
+    response = session.get(
+        f"https://bluetokaicoffee.com/products/{slug}.json", headers=HEADERS
+    )
     return response.json()
 
 

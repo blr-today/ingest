@@ -39,25 +39,28 @@ def to_schema_org_music_event(event_info):
 
 def make_graphql_request(query, city, url):
     session = get_cached_session()
-    response = session.post(url, json={
-        "operationName": "GetEventsForCityPage",
-        "variables": {
-            "city": city,
-            "excludeCancelled": True,
-            "excludeNonPresale": False,
-            "excludePresale": False,
-            "excludeSoldOut": False,
-            "globallyPromoted": True,
-            "includeNearbySecondaryCities": False,
-            "loadDynamicHeaderImages": False,
-            "page": 1,
-            "perPage": 12,
-            "published": True,
-            "skipPagination": False,
-            "upcoming": True,
+    response = session.post(
+        url,
+        json={
+            "operationName": "GetEventsForCityPage",
+            "variables": {
+                "city": city,
+                "excludeCancelled": True,
+                "excludeNonPresale": False,
+                "excludePresale": False,
+                "excludeSoldOut": False,
+                "globallyPromoted": True,
+                "includeNearbySecondaryCities": False,
+                "loadDynamicHeaderImages": False,
+                "page": 1,
+                "perPage": 12,
+                "published": True,
+                "skipPagination": False,
+                "upcoming": True,
+            },
+            "query": query,
         },
-        "query": query,
-    })
+    )
 
     return response.json()
 
@@ -138,6 +141,7 @@ query GetEventsForCityPage(
 }
 """
 url = "https://www.sofarsounds.com/api/v2/graphql?on=GetEventsForCityPage"
+
 
 def main():
     response = make_graphql_request(query, "bangalore", url)

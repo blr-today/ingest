@@ -47,8 +47,8 @@ EVENT_JSON_FILES = [
     "out/atta_galatta.json",
     "out/urbanaut.json",
     "out/bengalurusustainabilityforum.json",
-    "out/venn.json" # this also has a lot of duplicates
-    ,"out/te.json"
+    "out/venn.json",  # this also has a lot of duplicates
+    "out/te.json",
 ]
 
 KNOWN_EVENT_TYPES = [
@@ -86,7 +86,6 @@ URL_FILES = [
     "out/creativemornings.txt",
     "out/together-buzz.txt",
     "out/koota.txt",
-    "out/zomato.txt"
 ]
 
 
@@ -195,8 +194,7 @@ def get_events(s, filt):
                         if x.get("@graph"):
                             m = m or find_event(x["@graph"])
                     m = m or find_event(data)
-                    
-                    
+
                     if m:
                         # together.buzz and skillboxes events don't have URL, duh
                         if m[1].get("LOCATION"):
