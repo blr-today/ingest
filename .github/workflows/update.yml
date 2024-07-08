@@ -8,6 +8,9 @@ on:
     # At minute 17 past hour 0, 6, 12, and 18
     # https://crontab.guru/#17_6,18_*_*_*
     - cron: '17 0,6,12,18 * * *'
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
 jobs:
   update:
     permissions:
