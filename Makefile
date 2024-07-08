@@ -165,3 +165,6 @@ all: out/allevents.txt \
 
 db:
 	python src/event-fetcher.py
+
+requirements.txt:
+	pipdeptree --local-only --python auto --warn silence -f | sed 's/ //g' | sort -u | grep -E '^\w+' > $@

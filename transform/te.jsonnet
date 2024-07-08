@@ -25,7 +25,7 @@ local transformEvent(event, input) = [
     url: BASE_URL + event.url_slug,
     image: input.result.data.media_path + event.event_poster,
     name: event.music_event_details[0].event_name,
-    description: event.music_event_details[0].event_description,
+    description: std.native("html2text")(event.music_event_details[0].event_description),
     offers: [{
       '@type': 'Offer',
       price: event.standing_ticket_price,
