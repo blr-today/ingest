@@ -1,4 +1,4 @@
-import extruct
+from extruct.jsonld import JsonLdExtractor
 from common.session import get_cached_session
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -22,13 +22,11 @@ def scrape_cm(location):
     for link in event_links:
         l = f"https://creativemornings.com{link}"
         r = session.get(l)
-        data = extruct.extract(
-            r.text, base_url="https://creativemornings.com/", syntaxes=["json-ld"]
-        )
+        data = JsonLdExtractor().extract(r.text)
 
         try:
             d = datetime.strptime(
-                data["json-ld"][0]["startDate"].split("T")[0], "%Y-%m-%d"
+                data[0]["startDate"].split("T")[0], "%Y-%m-%d"
             )
             # check if date is in the future
             if d > datetime.now():

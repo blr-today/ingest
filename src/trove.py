@@ -1,4 +1,4 @@
-import extruct
+from extruct.jsonld import JsonLdExtractor
 from bs4 import BeautifulSoup
 from datetime import timedelta, datetime
 from common.session import get_cached_session
@@ -8,6 +8,7 @@ from common.tz import IST
 
 BASE_URL = "https://troveexperiences.com/"
 
+# TODO: Move to TEST
 # Input dates
 dates = [
     "Sat | Jun 29 | 10 AM - 12:30 PM",
@@ -39,9 +40,9 @@ def scrape_trove(location):
         startDate, endDate = parse_date(date_str)
         location_text = soup.select_one(".custom-field__location").text
 
-        data = extruct.extract(r.text, base_url=BASE_URL, syntaxes=["json-ld"])
+        data = JsonLdExtractor().extract(r.text)
 
-        product = list(filter(lambda x: x["@type"] == "Product", data["json-ld"]))[0]
+        product = list(filter(lambda x: x["@type"] == "Product", data))[0]
         if "InStock" in product["offers"][0]["availability"]:
             yield {
                 "offers": product["offers"],

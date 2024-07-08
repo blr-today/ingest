@@ -1,6 +1,5 @@
-import extruct
 from common.session import get_cached_session
-from datetime import timedelta, date, datetime
+from datetime import date, datetime
 import json
 
 

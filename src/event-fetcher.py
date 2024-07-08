@@ -1,4 +1,4 @@
-import extruct
+from extruct.jsonld import JsonLdExtractor
 import time
 from common import USER_AGENT_HEADERS
 from common.session import get_cached_session
@@ -188,9 +188,7 @@ def get_events(s, filt):
                     if len(r.text) == 0:
                         break
 
-                    data = extruct.extract(
-                        r.text, base_url=base_url, syntaxes=["json-ld"]
-                    )
+                    data = JsonLdExtractor().extract(r.text)
 
                     def find_event(l):
                         for d in l:
@@ -198,10 +196,10 @@ def get_events(s, filt):
                                 return (url, d)
 
                     m = None
-                    for x in data["json-ld"]:
+                    for x in data:
                         if x.get("@graph"):
                             m = m or find_event(x["@graph"])
-                    m = m or find_event(data["json-ld"])
+                    m = m or find_event(data)
                     if m:
                         # together.buzz and skillboxes events don't have URL, duh
                         if m[1].get("LOCATION"):
