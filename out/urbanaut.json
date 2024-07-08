@@ -1227,5 +1227,56 @@
       "Pop-up Event",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Yoga Nidra + Meditation with Prachi",
+    "description": "Come join us for a special collaboration with Prachi for a one-of-a-kind Yoga Nidra + Sound Bath experience. \ud83d\udcab\u2728Prachi is certified in Hatha yoga & Aerial yoga including energy healing practices such as Reiki, Yoga Nidra & Sound Healing*What to expect*\u2728Shavasana & Yoga Nidra As you lie down in Shavasana, you will be introduced to a Yoga Nidra meditation\u00a0internalizing your awareness and calming your mind. Yoga Nidra is a powerful ancient yogic practice that allows you to withdraw your senses from the external world and explore deeper states of your mind.\u2728Sound BathWe will then craft a magical atmosphere with sounds from a\u00a0diverse set of Tibetan singing bowls, gong and other instruments. It's a sensory journey like no other an evening of wellness, relaxation, and wonder! \u266bPost session, share your experiences and feel free to ask any questions over a nutritious, well-balanced sharing spread.Embark on this transformative journey - it's an opportunity to discover, connect and expand in mind, body, spirit.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3D9040F0AF7548DFA9FBDEE4B63BB246_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/573433FFFEAB456CA62D80E1510A3980_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/591E84D408BA459E85CC0CCEF27C24FE_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/197E768183394B6CA039ED19711AD471_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CA575EFE3D124689A365DCD1D8A80BA7_converted_webp.webp"
+    ],
+    "startDate": "2024-07-13T12:00:00+05:30",
+    "endDate": "2024-07-13T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "167, GROUND FLOOR BACK PORTION 2nd Stage, 2nd cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ4bJV-CMVrjsR18DuC4YKE8s",
+      "latitude": "12.96394760000000000000",
+      "longitude": "77.63833199999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/yoga-nidra-meditation-with-prachi",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
