@@ -1278,5 +1278,56 @@
       "Workshop",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Books, Bookmarks & Banter",
+    "description": "Radhika Mohta & Bookmark are hosting an exciting meet-up for readers! Come, meet fellow book lovers, design a bookmark, exchange them, bring in a book for a surprising gift swap, and there's a fun giveaway for a few lucky ones too. All at Indiranagar's latest hotspot, Muru Muru!What to expect (when you're expecting a fun Sunday midday?):Book Swap: Bring your book in a brown paper bag/ wrapped in brown paper. Add your notes to what you liked about it. Participate in a book swap!Design your own bookmark. You can take it home or gift it to someone you meet. All the art supplies will be provided to you.Giveaway: Winners of a fun little Book Quiz will receive books from HarperCollins.Conversation Tables: Each table will have handpicked conversation prompts for meaningful banter with fellow attendees.Come alone or get a single-friend along, who you think will love to meet another book reader! This event is introvert-friendly and open to everyone. We will have name tags with your favourite author/book\u00a0name on it. You'll walk away with some bookmarks, swapped books, meaningful banter and new connections made over your first-love, i.e., books.Your hosts for the evening:Shruti Sah, co-founder, Cubbon Reads and\u00a0Bookmark\u00a0- dating app for readers, by readersRadhika Mohta, Matchmaker and Relationship Coach",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0ACDB2E714B9443AA5DDF0C295CE9A5F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5834FC7ECF7D4F45A5B9B67A7E972F7E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FF08B9ACC35649DEAFCCAB0469EE70DC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EF4BDF79C2D64E20A9B1DC14000CD4D9_converted_webp.webp"
+    ],
+    "startDate": "2024-07-14T12:00:00+05:30",
+    "endDate": "2024-07-14T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "33, 2nd Main Rd, near BDA complex, opp. Punjab National bank, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJPexQnuwXrjsRqI60sUON5UQ",
+      "latitude": "12.98214690000000000000",
+      "longitude": "77.63789410000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 24,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bookmark App",
+      "description": "Bookmark is a dating app for readers. It connects people based on not just what books they like, but also other attributes and interests about their personality, distance, the relationship they are seeking, gender preferences, and more. Download and try it today!",
+      "url": "https://urbanaut.app/partner/bookmark",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/DCE4BB6387FE44BF8BF7F3FA0AB41392_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-70426-83457"
+      }
+    },
+    "url": "https://urbanaut.app/spot/books-bookmarks-banter",
+    "keywords": [
+      "Art & culture",
+      "Food & drink",
+      "Leisure",
+      "URBANAUT"
+    ]
   }
 ]
