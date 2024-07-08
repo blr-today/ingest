@@ -172,12 +172,7 @@ def get_events(s, filt):
                 url = url.strip()
                 if url:
                     keywords = None
-                    # Zomato really hates curl and we need to impersonate chrome
-                    if i == "out/zomato.txt":
-                        from curl_cffi import requests as curl_impersonate
-                        r = curl_impersonate.get(url, impersonate="chrome")
-                    else:
-                        r = s.get(url, headers=USER_AGENT_HEADERS)
+                    r = s.get(url, headers=USER_AGENT_HEADERS)
                     base_url = get_base_url(r.text, r.url)
                     # extract the meta name="keywords" tag using bs4
                     soup = BeautifulSoup(r.text, "html.parser")
@@ -186,20 +181,28 @@ def get_events(s, filt):
                         keywords = meta["content"]
 
                     if len(r.text) == 0:
-                        break
-
-                    data = JsonLdExtractor().extract(r.text)
+                        print("No content for ", url)
 
                     def find_event(l):
                         for d in l:
                             if d.get("@type") in KNOWN_EVENT_TYPES:
                                 return (url, d)
 
+                    if "window.location.replace" in r.text and i == "out/zomato.txt":
+                        # find the redirect URL
+                        redirect = r.text.split("window.location.replace(\"")[1].split("\")")[0]
+                        r = curl_impersonate.get(redirect, impersonate="chrome120")
+                        print(r.text)
+
+                    data = JsonLdExtractor().extract(r.text)
+                    print(data)
                     m = None
                     for x in data:
                         if x.get("@graph"):
                             m = m or find_event(x["@graph"])
                     m = m or find_event(data)
+                    
+                    
                     if m:
                         # together.buzz and skillboxes events don't have URL, duh
                         if m[1].get("LOCATION"):
