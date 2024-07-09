@@ -1230,6 +1230,55 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "International Coffee Cupping",
+    "description": "Indulge in a luxurious journey through the world of coffee, guided by seasoned professionals. Savor exquisite international coffees, and discover their unique flavor profiles and rich origins in an intimate, sophisticated setting.Don't miss this exclusive opportunity to deepen your appreciation for your favorite brew.Book your tickets now and elevate your coffee experience to a whole new level!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4197517D046648A1BEE39F9C7AE98AEA_converted_webp.webp"
+    ],
+    "startDate": "2024-07-13T10:00:00+05:30",
+    "endDate": "2024-07-13T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1206, BASEMENT, 22nd Cross Rd, Sector 3, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ5dECgPcVrjsRVEtRD6xF8ZE",
+      "latitude": "12.90937560000000000000",
+      "longitude": "77.63934590000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 14,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Together",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/2303C2F4C7DD4833BA75746BAD4CA4AA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97405-60600"
+      }
+    },
+    "url": "https://urbanaut.app/spot/international-coffee-cupping",
+    "keywords": [
+      "Art & culture",
+      "Food & drink",
+      "Premium",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Yoga Nidra + Sound Bath with Prachi",
     "description": "Come join us for a special collaboration with Prachi for a one-of-a-kind Yoga Nidra + Sound Bath experience. \ud83d\udcab\u2728Prachi is certified in Hatha yoga & Aerial yoga including energy healing practices such as Reiki, Yoga Nidra & Sound Healing*What to expect*\u2728Shavasana & Yoga Nidra As you lie down in Shavasana, you will be introduced to a Yoga Nidra meditation\u00a0internalizing your awareness and calming your mind. Yoga Nidra is a powerful ancient yogic practice that allows you to withdraw your senses from the external world and explore deeper states of your mind.\u2728Sound BathWe will then craft a magical atmosphere with sounds from a\u00a0diverse set of Tibetan singing bowls, gong and other instruments. It's a sensory journey like no other an evening of wellness, relaxation, and wonder! \u266bPost session, share your experiences and feel free to ask any questions over a nutritious, well-balanced sharing spread.Embark on this transformative journey - it's an opportunity to discover, connect and expand in mind, body, spirit.",
