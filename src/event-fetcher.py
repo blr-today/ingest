@@ -139,12 +139,14 @@ def fix_online_schema(url, event):
     if "url" not in event:
         event["url"] = url
 
+# This is a hacky selective deep-merge
+# just for the keywords field
 def apply_patch(event, patch = {}):
     if 'keywords' in patch and 'keywords' in event:
         if type(event['keywords']) == str:
-            event['keywords'] = set([k.strip() for k in event['keywords'].split(",")])
-        patch['keywords'] = sorted(list(event['keywords'] | set(patch['keywords'])))
-        del event['keywords']
+            event['keywords'] = list(set([k.strip() for k in event['keywords'].split(",")]))
+        patch['keywords'] = sorted(event['keywords'] + patch['keywords'])
+        del event['keywords'] # so it gets overridden for sure
     patch.update(event)
     return patch
 
