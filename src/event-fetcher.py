@@ -139,6 +139,14 @@ def fix_online_schema(url, event):
     if "url" not in event:
         event["url"] = url
 
+def apply_patch(event, patch = {}):
+    if 'keywords' in patch and 'keywords' in event:
+        if type(event['keywords']) == str:
+            event['keywords'] = set([k.strip() for k in event['keywords'].split(",")])
+        patch['keywords'] = sorted(list(event['keywords'] | set(patch['keywords'])))
+        del event['keywords']
+    patch.update(event)
+    return patch
 
 def get_local_events(files, filt):
     for i in files:
@@ -150,9 +158,7 @@ def get_local_events(files, filt):
             with open(i, "r") as f:
                 data = json.load(f)
                 for event in data:
-                    if patch:
-                        patch.update(event)
-                        event = patch
+                    event = apply_patch(event, patch)
                     yield (event["url"], event)
             print(f"Processed {i} in {time.time() - start_ts:.2f}s")
         else:
@@ -233,11 +239,8 @@ def get_events(s, filt):
                         except:
                             pass
                         fix_online_schema(url, m[1])
-                        if patch:
-                            patch.update(m[1])
-                            yield (m[0], patch)
-                        else:
-                            yield m
+                        event = apply_patch(m[1], patch)
+                        yield (m[0], event)
                     else:
                         print(f"Could not find event in {url}")
             print(f"Processed {i} in {time.time() - start_ts:.2f}s")
@@ -255,6 +258,7 @@ def get_patch(input_file):
     if os.path.exists(patch):
         with open(patch, "r") as file:
             return json.load(file)
+    return {}
 
 
 def create_events_table():
