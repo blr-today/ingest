@@ -142,8 +142,10 @@ def fix_online_schema(url, event):
 # This is a hacky selective deep-merge
 # just for the keywords field
 def apply_patch(event, patch = {}):
+    patch = patch.copy()
     if 'keywords' in patch and 'keywords' in event:
-        if type(event['keywords']) == str:
+
+        if isinstance(event['keywords'], str):
             event['keywords'] = list(set([k.strip() for k in event['keywords'].split(",")]))
         patch['keywords'] = sorted(event['keywords'] + patch['keywords'])
         del event['keywords'] # so it gets overridden for sure
@@ -154,6 +156,7 @@ def get_local_events(files, filt):
     for i in files:
         if filt and i != filt:
             continue
+
         patch = get_patch(i)
         start_ts = time.time()
         if os.path.exists(i):
@@ -172,6 +175,7 @@ def get_events(s, filt):
         if filt and i != filt:
             continue
         with open(i, "r") as f:
+
             start_ts = time.time()
             patch = get_patch(i)
             urls = f.readlines()
