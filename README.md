@@ -97,6 +97,10 @@ We have some data available or change notifications configured, but there needs 
 - bookmetickets.com - doesn't host anything recent
 - Eventbrite - pretty terrible events, not really worth adding
 
+## Other Events
+
+- [OSM](https://osmcal.org/?in=India) events would be nice to track, but separately.
+
 [vism]: https://www.vismuseum.gov.in/special_events/upcoming-events-2/
 [sofar]: https://www.sofarsounds.com/cities/bangalore
 [sumukha]: https://sumukha.com
