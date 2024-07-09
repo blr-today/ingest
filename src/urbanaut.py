@@ -13,13 +13,15 @@ BASE_IMAGE_URL = "https://d10y46cwh6y6x1.cloudfront.net"
 urbanaut supports hosts, which are not necessarily venues
 in case a host is also the venue
 we can use the host name as the venue name
-so we keep a list of such host slugs
+so we keep a list of such host slugs or names
 """
 KNOWN_HOST_VENUES = [
+    "Bento Bento",
     "copperandcloves",
     "courtyard",
     "loveooru",
     "printingwithtypes",
+    "cafeplume"
 ]
 session = get_cached_session()
 
@@ -119,7 +121,8 @@ def make_event(x):
                     "@type": "Place",
                     "name": (
                         x["account_data"]["company_name"]
-                        if x["account_data"]["slug"] in KNOWN_HOST_VENUES
+                        if (x["account_data"]["slug"] in KNOWN_HOST_VENUES or
+                            x["account_data"]['company_name'] in KNOWN_HOST_VENUES)
                         else None
                     ),
                     "address": x["address"],
