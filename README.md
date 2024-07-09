@@ -53,6 +53,7 @@ We have some data available or change notifications configured, but there needs 
 
 # TODO
 - [ ] [Pedal In Tandem](https://www.pedalintandem.com/experiences)
+- [ ] eventbrite against known-hosts only.
 - [ ] Switch HighApe to https://highape.com/bangalore/all-events which has enough JSON in a single URL
 - [ ] Switch Trove to https://troveexperiences.com/collections/bangalore/products.json
 - [ ] https://hooplaback-girl.myinstamojo.com/ (search for Workshop events)
