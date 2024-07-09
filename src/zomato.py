@@ -33,8 +33,10 @@ def get_events(event_id):
 
     soup = BeautifulSoup(r.text, "html.parser")
     scripts = soup.find_all("script")
+    found = False
     for script in scripts:
         if "__PRELOADED_STATE__" in script.text:
+            found = True
             preloaded_state = script.text.strip()
             start = preloaded_state.find("JSON.parse(") + len("JSON.parse(")
             d = json.loads(preloaded_state[start:-2])
@@ -50,6 +52,8 @@ def get_events(event_id):
 
                 events[x]["url"] = page_data["pages"]["current"]["canonicalUrl"]
                 yield events[x]
+    if not found:
+        print("No events found in", url)
 
 
 def fetch_data(url, body):
@@ -92,6 +96,11 @@ if __name__ == "__main__":
     for event_id in get_event_ids():
         for event in get_events(event_id):
             events.append(event)
+
+    if len(events) == 0:
+        import sys
+        print("ZOMATO: No events found")
+        sys.exit(1)
 
     with open("out/zomato.jsonnet", "w") as f:
         json.dump(events, f, indent=2)
