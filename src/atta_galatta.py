@@ -44,7 +44,7 @@ def make_event(event):
         "url": event["link"],
         "image": event["image"],
         "performer": performers,
-        "keywords": keywords + ["ATTAGALATTA", "BOOKSTORE"],
+        "keywords": keywords,
     }
 
     if (

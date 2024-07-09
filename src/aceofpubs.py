@@ -10,6 +10,18 @@ def fix_date(date_str):
     d.replace(tzinfo=IST)
     return d.isoformat()
 
+def get_location(location_str):
+    location_str = location_str.replace("—", "-").replace("–", "-").replace("|", "-")
+    first = location_str.split(",")[0]
+    rest = " ".join(location_str.split(",")[1:]).strip()
+    splits =[x.strip() for x in first.replace("\t"," ").split("-")]
+    if splits[-1].lower() in ["bangalore", "bengaluru"]:
+        splits.pop()
+    return {
+        "name": " ".join(splits),
+        "@type": "Place",
+        "address": rest
+    }
 
 def modify_event(event):
     event["keywords"] = [x.strip() for x in event["keywords"][0].split(",")]
@@ -18,9 +30,7 @@ def modify_event(event):
         event["description"] = "A Pub hosted by Ace of Pubs"
     event["startDate"] = fix_date(event["startDate"])
     event["endDate"] = fix_date(event["endDate"])
-    event["keywords"] = ["QUIZ"]
-    # TODO: Make this into a Place
-    event["location"] = event["location"]["name"]
+    event["location"] = get_location(event["location"]["name"])
     return event
 
 
