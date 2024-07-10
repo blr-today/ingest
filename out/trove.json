@@ -7,7 +7,7 @@
         "availability": "http://schema.org/InStock",
         "price": 3500.0,
         "priceCurrency": "INR",
-        "priceValidUntil": "2024-07-19",
+        "priceValidUntil": "2024-07-20",
         "url": "https://troveexperiences.com/products/dimsum-making-masterclass-bangalore?variant=44307965706391"
       }
     ],
@@ -34,7 +34,7 @@
         "availability": "http://schema.org/InStock",
         "price": 3500.0,
         "priceCurrency": "INR",
-        "priceValidUntil": "2024-07-19",
+        "priceValidUntil": "2024-07-20",
         "url": "https://troveexperiences.com/products/cocktail-making-workshop-bangalore?variant=44145005985943"
       }
     ],
@@ -57,11 +57,38 @@
     "offers": [
       {
         "@type": "Offer",
+        "sku": "HORBLR001",
+        "availability": "http://schema.org/InStock",
+        "price": 3500.0,
+        "priceCurrency": "INR",
+        "priceValidUntil": "2024-07-20",
+        "url": "https://troveexperiences.com/products/horology-watch-making-workshop-bangalore?variant=43966510465175"
+      }
+    ],
+    "name": "Wonders of Horology",
+    "description": "\u00a0Delve into the\u00a0enchanting world of watchmaking, and gain a deeper understanding about the stellar craftsmanship and intricate detailing that\u00a0go into the making of luxe\u00a0time pieces.\nThis experience will have you discover the nuanced art and science of watch-making, and help you look at time from a whole new perspective under the guidance of an expert horologist.\nThe experience includes navigating through various components of Time Making, the intricacies of Fine Watchmaking in an immersive visual journey under the guidance of an expert.",
+    "url": "https://troveexperiences.com/products/horology-watch-making-workshop-bangalore",
+    "startDate": "2024-07-20T14:00:00+05:30",
+    "endDate": "2024-07-20T16:00:00+05:30",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://troveexperiences.com/cdn/shop/files/Header-Images-Location-tags-2-10_2_1024x1024.jpg?v=1717583776",
+      "image": "https://troveexperiences.com/cdn/shop/files/Header-Images-Location-tags-2-10_2_1024x1024.jpg?v=1717583776",
+      "name": "Wonders of Horology",
+      "width": 1024,
+      "height": 1024
+    },
+    "location": "HeyBrewty Studio, Ashok Nagar, Bangalore"
+  },
+  {
+    "offers": [
+      {
+        "@type": "Offer",
         "sku": "HOOBLR001",
         "availability": "http://schema.org/InStock",
         "price": 1600.0,
         "priceCurrency": "INR",
-        "priceValidUntil": "2024-07-19",
+        "priceValidUntil": "2024-07-20",
         "url": "https://troveexperiences.com/products/hula-hooping-workshop-bangalore?variant=43831701471383"
       }
     ],
