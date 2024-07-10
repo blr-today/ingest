@@ -31,6 +31,14 @@ jobs:
     - name: Install Dependencies
       run: |
         sudo apt-get update && sudo apt-get install --yes libnss3 nss-plugin-pem ca-certificates wget jq git build-essential
+        
+        sudo mkdir -p -m 755 /etc/apt/keyrings \
+        && wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg > /dev/null \
+        && sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+        && echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null \
+        && sudo apt update \
+        && sudo apt install gh -y
+
         wget "https://github.com/lwthiker/curl-impersonate/releases/download/v0.6.1/curl-impersonate-v0.6.1.x86_64-linux-gnu.tar.gz" -O /tmp/curl-impersonate.tar.gz
         echo "fa1e1614f7ba69ccc66721a0f38be457a3647eb64c75d66974b56186e3316b12  /tmp/curl-impersonate.tar.gz" | sha256sum --check --status
         sudo tar -xzf /tmp/curl-impersonate.tar.gz -C /usr/bin
