@@ -49,7 +49,7 @@ jobs:
         git config --global extensions.partialClone true
         pip install -r requirements.txt
     - name: Fetch updates
-      run: rm -rf out/* && make -s all && make db
+      run: make clean && make -s all
       env:
         ZOMATO_PUBLIC_API_KEY: ${{ secrets.ZOMATO_PUBLIC_API_KEY }}
 

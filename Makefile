@@ -130,7 +130,7 @@ out/koota.txt:
 # out/sis.txt:
 # 	python src/sis.py | sort > out/sis.txt
 
-all: out/allevents.txt \
+fetch: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
  out/bic.ics \
@@ -163,7 +163,10 @@ all: out/allevents.txt \
 
 	@echo "Done"
 
-db:
+clean:
+	rm -rf out/*
+
+all: fetch
 	python src/event-fetcher.py
 
 requirements.txt:
