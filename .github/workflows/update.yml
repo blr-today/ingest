@@ -77,3 +77,16 @@ jobs:
         status_options: '--untracked-files=no'
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+    - uses: actions/create-github-app-token@v1
+      id: app-token
+      with:
+        app-id: ${{ vars.PUBLISH_APP_ID }}
+        private-key: ${{ secrets.PUBLISH_PRIVATE_KEY }}
+        repositories: dataset
+    - name: publish release
+      env:
+        GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
+      run: |
+        version=$(date '+%Y.%-m.%-d-%H')
+        gh release create "v$(version)" events.db --repo=blr-today/dataset --token="${{ steps.app-token.outputs.token }}" --notes "blr.today dataset release for $(version). See LICENSE.txt for license information before using this dataset."
