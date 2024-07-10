@@ -88,5 +88,5 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
       run: |
-        version=$(date '+%Y.%-m.%-d-%H')
-        gh release create "v$(version)" events.db --repo=blr-today/dataset --token="${{ steps.app-token.outputs.token }}" --notes "blr.today dataset release for $(version). See LICENSE.txt for license information before using this dataset."
+        export VERSION=$(date '+%Y.%-m.%-d-%H')
+        gh release create "v$VERSION" events.db --repo=blr-today/dataset --notes "blr.today dataset release. See LICENSE.txt for license information before using this dataset."
