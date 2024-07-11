@@ -74,24 +74,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Nerd Out With Chili's - Chili's",
-    "startDate": "2024-07-11T20:30:00+05:30",
-    "endDate": "2024-07-11T22:30:00+05:30",
-    "description": "A Pub hosted by Ace of Pubs",
-    "url": "https://aceofpubs.com/event/nerd-out-with-chilis-chilis-rmz-mall-bengaluru/",
-    "keywords": [
-      "Bengaluru"
-    ],
-    "location": {
-      "name": "Chili\u2019s RMZ Mall",
-      "@type": "Place",
-      "address": "Rmz Ecoworld Ground Floor  The Bay  RMZ EcoWorld Outer Ring Road  Bengaluru  Maharashtra  560068  India"
-    },
-    "inLanguage": "en"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Quizzards by Watson's - Watson's",
     "startDate": "2024-07-11T20:30:00+05:30",
     "endDate": "2024-07-11T22:30:00+05:30",
@@ -194,6 +176,24 @@
       "name": "Woodpegger Manyata Tech Park",
       "@type": "Place",
       "address": "4th & 5th Floor  #26/B  1st Cross Philomina Hospital Road  Chanakya Layout  opposite Manyata Tech Park  Nagavara  Bengaluru  Karnataka  560045  India"
+    },
+    "inLanguage": "en"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Nerd Out With Chili's - Chili's",
+    "startDate": "2024-07-11T20:00:00+05:30",
+    "endDate": "2024-07-11T22:00:00+05:30",
+    "description": "A Pub hosted by Ace of Pubs",
+    "url": "https://aceofpubs.com/event/nerd-out-with-chilis-chilis-rmz-mall-bengaluru/",
+    "keywords": [
+      "Bengaluru"
+    ],
+    "location": {
+      "name": "Chili\u2019s RMZ Mall",
+      "@type": "Place",
+      "address": "Rmz Ecoworld Ground Floor  The Bay  RMZ EcoWorld Outer Ring Road  Bengaluru  Maharashtra  560068  India"
     },
     "inLanguage": "en"
   },
