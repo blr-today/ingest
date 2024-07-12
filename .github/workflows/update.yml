@@ -18,16 +18,7 @@ jobs:
     name: Update data
     runs-on: self-hosted
     steps:
-    - name: Cache Requests SQlite
-      uses: actions/cache@v4
-      with:
-        path: /home/runner/.cache/event-fetcher-cache.sqlite
-        key: "cache-requests-${{ github.run_id }}"
-        restore-keys: "cache-requests-"
-    - uses: actions/checkout@v4
-      name: Clone self repository
-      with:
-        ref: ${{ github.head_ref }}
+    # This needs to come before the checkout, since checkout depends on git
     - name: Install Dependencies
       run: |
         sudo apt-get update && sudo apt-get install --yes libnss3 nss-plugin-pem ca-certificates wget jq git build-essential
@@ -42,6 +33,17 @@ jobs:
         wget "https://github.com/lwthiker/curl-impersonate/releases/download/v0.6.1/curl-impersonate-v0.6.1.x86_64-linux-gnu.tar.gz" -O /tmp/curl-impersonate.tar.gz
         echo "fa1e1614f7ba69ccc66721a0f38be457a3647eb64c75d66974b56186e3316b12  /tmp/curl-impersonate.tar.gz" | sha256sum --check --status
         sudo tar -xzf /tmp/curl-impersonate.tar.gz -C /usr/bin
+    - name: Cache Requests SQlite
+      uses: actions/cache@v4
+      with:
+        path: /home/runner/.cache/event-fetcher-cache.sqlite
+        key: "cache-requests-${{ github.run_id }}"
+        restore-keys: "cache-requests-"
+    - uses: actions/checkout@v4
+      name: Clone self repository
+      with:
+        ref: ${{ github.head_ref }}
+
     - uses: actions/setup-python@v5
       with:
         python-version: '3.12'
