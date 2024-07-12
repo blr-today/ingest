@@ -61,7 +61,7 @@ jobs:
       uses: actions/upload-artifact@v4
       id: upload
       with:
-        name: events.db
+        name: events-db
         path: events.db
         if-no-files-found: error
         retention-days: 1
@@ -91,7 +91,8 @@ jobs:
     - name: fetch from artifact
       uses: actions/download-artifact@v4
       with:
-        name: events.db
+        name: events-db
+        path: events.db
     - uses: actions/create-github-app-token@v1
       id: app-token
       with:
@@ -109,7 +110,6 @@ jobs:
     runs-on: ubuntu-latest
     name: Publish Website
     steps:
-      # netlify trigger a new build
       - name: trigger build
         run: |
           curl -X POST -d '{}' "https://api.netlify.com/build_hooks/6690ff5ee3460e11ad5897dc"
