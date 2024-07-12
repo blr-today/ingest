@@ -55,16 +55,14 @@ jobs:
       env:
         ZOMATO_PUBLIC_API_KEY: ${{ secrets.ZOMATO_PUBLIC_API_KEY }}
 
-    # We only upload an artifact in case this was a manual commit.
     - name: Upload Artifacts
       uses: actions/upload-artifact@v4
-      if: ${{ github.event_name == 'push' }}
       id: upload
       with:
         name: events.db
         path: events.db
         if-no-files-found: error
-        retention-days: 3
+        retention-days: 1
 
     # Commit back some data so we can keep track of diffs
     - uses: stefanzweifel/git-auto-commit-action@v5
@@ -83,18 +81,33 @@ jobs:
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
-    # Trigger a release, in case this is a scheduled run
+  release:
+    if: ${{github.event_name == 'schedule'}}
+    runs-on: ubuntu-latest
+    name: Release
+    steps:
+    - name: fetch from artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: events.db
     - uses: actions/create-github-app-token@v1
       id: app-token
-      if: ${{ github.event_name == 'schedule' }}
       with:
         app-id: ${{ vars.PUBLISH_APP_ID }}
         private-key: ${{ secrets.PUBLISH_PRIVATE_KEY }}
         repositories: dataset
-    - name: publish release
-      if: ${{ github.event_name == 'schedule' }}
+    - name: publish dataset
       env:
         GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
       run: |
         export VERSION=$(date '+%Y.%-m.%-d-%H')
         gh release create "v$VERSION" events.db --repo=blr-today/dataset --notes "blr.today dataset release. See LICENSE.txt for license information before using this dataset."
+  publish:
+    if: ${{github.event_name == 'schedule'}}
+    runs-on: ubuntu-latest
+    name: Publish Website
+    steps:
+      # netlify trigger a new build
+      - name: trigger build
+        run: |
+          curl -X POST -d '{}' "https://api.netlify.com/build_hooks/6690ff5ee3460e11ad5897dc"
