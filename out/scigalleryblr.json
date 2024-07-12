@@ -69,5 +69,55 @@
       }
     ],
     "maximumAttendeeCapacity": 60
+  },
+  {
+    "@type": "Event",
+    "name": "Carbon Conversations",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2024-07-14T14:00:00+05:30",
+    "endDate": "2024-07-14T15:00:00+05:30",
+    "description": "During the closing weekend, join the Science Gallery Bengaluru team members as they take you through the exhibition-season CARBON! Interact with our interdisciplinary and participatory exhibits, and explore the process behind creating our exhibition.<br>Join us for the final walkthrough of CARBON before the curtain falls! Our team members: Ashank, Shelwyn , David and Harsha will guide you through the displays, offering insights into the fascinating world of carbon. Whether you're revisiting or coming for the first time, our team will take you on an enlightening journey through the exhibit's highlights. Don\u2019t miss out on your last chance to explore the deeper ideas of CARBON! We look forward to welcoming you and sharing this experience!",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=carbon-team-walkthrough",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Ca 4"
+      },
+      {
+        "@type": "Person",
+        "name": "Ca 6"
+      },
+      {
+        "@type": "Person",
+        "name": "David-Verghese"
+      }
+    ],
+    "maximumAttendeeCapacity": 20
+  },
+  {
+    "@type": "Event",
+    "name": "Sci560 Reading Circle",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2024-07-17T17:00:00+05:30",
+    "endDate": "2024-07-17T18:30:00+05:30",
+    "description": "Have you ever wondered how the essence of a city can be captured through words? Join our reading circle, where we explore Bengaluru through a curated list of readings, from flash fiction to long-form essays. Together, we will delve into the city's vibrant culture, rich history, and contemporary life, creating a community of readers who experience Bengaluru in a novel way. <br><br>Join us for an an engaging and insightful journey as we ready ourselves for our next exhibition-season <i>Sci560</i>!<br><br>Registered participants will be sent a list of readings.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=sci560-reading-circle",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Reading-Circle"
+      }
+    ],
+    "maximumAttendeeCapacity": 20
   }
 ]
