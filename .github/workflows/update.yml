@@ -94,7 +94,7 @@ jobs:
       uses: actions/download-artifact@v4
       with:
         name: events-db
-        path: events.db
+        path: .
     - uses: actions/create-github-app-token@v1
       id: app-token
       with:
