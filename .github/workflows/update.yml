@@ -16,6 +16,7 @@ jobs:
     permissions:
       contents: write
     name: Update data
+    # We run this on our own infra, to avoid cloud IP egress
     runs-on: self-hosted
     steps:
     # This needs to come before the checkout, since checkout depends on git
@@ -84,6 +85,7 @@ jobs:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
   release:
+    needs: update
     if: ${{github.event_name == 'schedule'}}
     runs-on: ubuntu-latest
     name: Release
@@ -106,10 +108,12 @@ jobs:
         export VERSION=$(date '+%Y.%-m.%-d-%H')
         gh release create "v$VERSION" events.db --repo=blr-today/dataset --notes "blr.today dataset release. See LICENSE.txt for license information before using this dataset."
   publish:
+    needs: update
     if: ${{github.event_name == 'schedule'}}
     runs-on: ubuntu-latest
     name: Publish Website
     steps:
-      - name: trigger build
-        run: |
-          curl -X POST -d '{}' "https://api.netlify.com/build_hooks/6690ff5ee3460e11ad5897dc"
+      - name: trigger build on netlify
+        run: curl -X POST -d '{}' "https://api.netlify.com/build_hooks/${BUILD_HOOK_SECRET}"
+        env:
+          BUILD_HOOK_SECRET: ${{secrets.NETLIFY_BUILD_HOOK_SECRET}}
