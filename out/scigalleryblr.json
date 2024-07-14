@@ -1,60 +1,6 @@
 [
   {
     "@type": "Event",
-    "name": "The Curtain Falls on CARBON",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery Bengaluru, Bangalore",
-      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
-    },
-    "startDate": "2024-07-14T17:00:00+05:30",
-    "endDate": "2024-07-14T20:00:00+05:30",
-    "description": "How do we think about art-science collaborations? How do they come to life at Science Gallery Bengaluru? Join CARBON's curatorial advisors Ravi Agarwal and Jahnavi Phalkey as they give us a behind-the-scenes look into the conversations and thinking around this exhibition. Hear tidbits from their experience working as researchers and curators, and pick their brains on all things carbon! Following the discussion, join us for one final CARBON walkthrough to explore this complex element in all its glory and infamy. ",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=curtain-falls-on-carbon",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Ca 1"
-      },
-      {
-        "@type": "Person",
-        "name": "Ca 2"
-      }
-    ],
-    "maximumAttendeeCapacity": 60
-  },
-  {
-    "@type": "Event",
-    "name": "Carbon Conversations",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery Bengaluru, Bangalore",
-      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
-    },
-    "startDate": "2024-07-14T14:00:00+05:30",
-    "endDate": "2024-07-14T15:00:00+05:30",
-    "description": "During the closing weekend, join the Science Gallery Bengaluru team members as they take you through the exhibition-season CARBON! Interact with our interdisciplinary and participatory exhibits, and explore the process behind creating our exhibition.<br>Join us for the final walkthrough of CARBON before the curtain falls! Our team members: Ashank, Shelwyn , David and Harsha will guide you through the displays, offering insights into the fascinating world of carbon. Whether you're revisiting or coming for the first time, our team will take you on an enlightening journey through the exhibit's highlights. Don\u2019t miss out on your last chance to explore the deeper ideas of CARBON! We look forward to welcoming you and sharing this experience!",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=carbon-team-walkthrough",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Ca 4"
-      },
-      {
-        "@type": "Person",
-        "name": "Ca 6"
-      },
-      {
-        "@type": "Person",
-        "name": "David-Verghese"
-      }
-    ],
-    "maximumAttendeeCapacity": 20
-  },
-  {
-    "@type": "Event",
     "name": "Sci560 Reading Circle",
     "location": {
       "@type": "Place",
@@ -70,6 +16,27 @@
       {
         "@type": "Person",
         "name": "Reading-Circle"
+      }
+    ],
+    "maximumAttendeeCapacity": 20
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Songlines on Screen",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2024-07-19T00:00:00+05:30",
+    "endDate": "2024-07-19T00:00:00+05:30",
+    "description": "Songlines on Screen is a series of 7 short films that have been made to record, celebrate, and share precious historic and cultural information from Indigenous groups in remote western, northern, and central Australia. The film screening joins the larger exhibition \u2018Walking Through A Songline\u2019 run by the Australian Consulate-General Bengaluru.  Walking Through A Songline is an award-winning digital immersive art installation which explores the nexus between ancient Australian First Nations knowledge and cutting-edge technology, created by Mosster Studio for the National Museum of Australia.<br>Credits: A Screen Australia and National Indigenous Television (NITV) initiative",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=songlines-on-screen",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": ""
       }
     ],
     "maximumAttendeeCapacity": 20
