@@ -202,6 +202,7 @@ def get_events(s, filt):
                                 return (url, d)
 
                     data = JsonLdExtractor().extract(r.text)
+                    print(data)
                     m = None
                     for x in data:
                         if x.get("@graph"):

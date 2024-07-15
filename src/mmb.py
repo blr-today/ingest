@@ -1,10 +1,9 @@
-from common.session import get_cached_session
 import json
 import datetime
-
+from requests import Session
 
 def fetch_events():
-    session = get_cached_session()
+    session = Session()
     payload = {
         "langId": "1",
         "filterData": json.dumps(
@@ -23,7 +22,6 @@ def fetch_events():
     )
     for event in response.json()["eventItems"]:
         print(f"https://www.goethe.de/ins/in/en/ver.cfm?event_id={event['object_id']}")
-
 
 if __name__ == "__main__":
     fetch_events()
