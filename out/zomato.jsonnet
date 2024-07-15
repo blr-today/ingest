@@ -2690,5 +2690,60 @@
       }
     ],
     "url": "https://www.zomato.com/events/dj-chetas-live-bengaluru-et45252"
+  },
+  {
+    "name": "The White Party Ft Dj Mott",
+    "description": "The wait is over! The White Party is happening this weekend at High Ultra Lounge! Join us on 20th July, from 8 pm onwards, as we bring you an unforgettable night of music, dancing, and luxury! International DJ Mott will be performing live, so don't miss out! \r\n\r\nDress code: All-White Attire (Strictly Enforced). See you there!",
+    "startDate": "2024-07-20T20:00:00+05:30",
+    "endDate": "2024-07-21T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/6d203014650914738350b9265456bf391721061265.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-15 22:10:41",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-15 22:10:41",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-07-15 22:10:41",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402"
   }
 ]

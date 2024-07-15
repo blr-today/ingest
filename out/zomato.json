@@ -2688,5 +2688,64 @@
       "performers": [ ],
       "startDate": "2024-07-20T21:00:00+05:30",
       "url": "https://www.zomato.com/events/dj-chetas-live-bengaluru-et45252"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The wait is over! The White Party is happening this weekend at High Ultra Lounge! Join us on 20th July, from 8 pm onwards, as we bring you an unforgettable night of music, dancing, and luxury! International DJ Mott will be performing live, so don't miss out! \r\n\r\nDress code: All-White Attire (Strictly Enforced). See you there!",
+      "endDate": "2024-07-21T01:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/6d203014650914738350b9265456bf391721061265.jpeg",
+      "isAccessibleForFree": true,
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram"
+         },
+         "name": "Bengaluru"
+      },
+      "name": "The White Party Ft Dj Mott",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-15T22:10:41+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-15T22:10:41+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-15T22:10:41+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-07-20T20:00:00+05:30",
+      "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402"
    }
 ]
