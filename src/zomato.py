@@ -1,14 +1,13 @@
+import sys
 import jsonpath
 import re
 import json
 from urllib.parse import urlparse, parse_qs
-from curl_cffi import requests as curl_impersonate
+from common.fetch import Fetch
 import datetime
 from common.tz import IST
-import os
-from common.session import get_cached_session
 from common import USER_AGENT_HEADERS
-
+import os
 
 # Public Key, not-logged-in API key
 ZOMATO_API_KEY = os.environ.get("ZOMATO_PUBLIC_API_KEY")
@@ -20,15 +19,16 @@ def fix_date(date_str):
     return datetime.datetime.fromisoformat(date_str).replace(tzinfo=IST)
 
 
-def get_events(event_id):
+def get_events(session, event_id):
     if event_id in KNOWN_BAD_EVENTS:
         return
     url = f"{BASE_URL}{event_id}"
-    r = curl_impersonate.get(url, impersonate="chrome")
+    session.browser = "chrome"
+    r = session.get(url, cache=True)
     if "window.location.replace" in r.text:
-        redirect = r.text.split('window.location.replace("')[1].split('")')[0]
-        r = curl_impersonate.get(redirect, impersonate="chrome")
-    # find all script tags using beautifulsoup
+        redirect_url = r.text.split('window.location.replace("')[1].split('")')[0]
+        r = session.get(redirect_url, cache=True)
+    # print(r.__class__)
     from bs4 import BeautifulSoup
 
     soup = BeautifulSoup(r.text, "html.parser")
@@ -56,16 +56,16 @@ def get_events(event_id):
         print("No events found in", url)
 
 
-def fetch_data(url, body):
-    session = get_cached_session()
+def fetch_data(session, url, params, cache=True):
     headers = {
         "x-city-id": "4",  # Bangalore
         "x-zomato-app-version": "17.43.5",
         "x-zomato-api-key": ZOMATO_API_KEY,
-        "accept": "*/*",
-    } | USER_AGENT_HEADERS
+    }
 
-    response = session.post("https://api.zomato.com" + url, json=body, headers=headers)
+    response = session.post(
+        "https://api.zomato.com" + url, json=params, headers=headers, cache=cache
+    )
     return response.json()
 
 
@@ -75,9 +75,12 @@ def qs(url, key="event_id"):
         return parse_qs(q)[key][0]
 
 
-def get_event_ids():
+def get_event_ids(session):
     jsonpath_selector = "$..['url']"
-    data = fetch_data("/gw/goout/events/search", {"theme_type": "dark"})
+    # We don't want to cache the event list, only the events themselves
+    data = fetch_data(
+        session, "/gw/goout/events/search", {"theme_type": "dark"}, cache=False
+    )
     return list(
         set(
             [
@@ -93,12 +96,18 @@ if __name__ == "__main__":
     if "ZOMATO_PUBLIC_API_KEY" not in os.environ:
         raise Exception("ZOMATO_PUBLIC_API_KEY not set")
     events = []
-    for event_id in get_event_ids():
-        for event in get_events(event_id):
+    limit = sys.argv[1] if len(sys.argv) > 1 else None
+    session = Fetch(cache={"serializer": "json"})
+    for event_id in sorted(get_event_ids(session)):
+        for event in get_events(session, event_id):
+            print(event["url"])
             events.append(event)
+            if len(events) == limit:
+                break
 
     if len(events) == 0:
         import sys
+
         print("ZOMATO: No events found")
         sys.exit(1)
 

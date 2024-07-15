@@ -49,6 +49,7 @@ EVENT_JSON_FILES = [
     "out/bengalurusustainabilityforum.json",
     "out/venn.json",  # this also has a lot of duplicates
     "out/te.json",
+    "out/zomato.json",
 ]
 
 KNOWN_EVENT_TYPES = [
