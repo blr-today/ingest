@@ -1,11 +1,19 @@
 {
-    "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "eventStatus": "EventScheduled",
-    "organizer": {
-        "@type": "Organization",
-        "name": "Sofar Sounds",
-        "url": "https://www.sofarsounds.com/"
-    },
-    "keywords": ["SOFAR"]
+  "@context": "https://schema.org",
+  "@type": "MusicEvent",
+  "eventStatus": "EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Sofar Sounds",
+    "url": "https://www.sofarsounds.com/"
+  },
+  "keywords": ["SOFAR"],
+  "offers": [
+    {
+      "@type": "Offer",
+      "price": "800",
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock"
+    }
+  ]
 }
