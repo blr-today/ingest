@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 172
+        "inventory": 165
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -86,8 +86,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Arijit SIngh Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Arijit SIngh Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+    "ogTitle": "Tribute to Arijit SIngh Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Arijit SIngh Bengaluru on Zomato which is a Music and Trending event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/2c6f34d1cdf1a5672944d372332ce6511719332137.jpeg",
       "https://b.zmtcdn.com/data/zomaland/0d7997a75161d1fc98116aedca1efe921719333707.jpeg"
@@ -170,8 +170,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Treasure Hunt Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Treasure Hunt Bengaluru on Zomato which is a Experiences event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala",
+    "ogTitle": "Treasure Hunt Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Treasure Hunt Bengaluru on Zomato which is a Experiences and Trending event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/f5b366a4c0548983ded48f59e6aaf9fd1719828210.png",
       "https://b.zmtcdn.com/data/zomaland/aa5fb553b7c0dd43b973743e2f72709c1719828394.png"
@@ -519,7 +519,7 @@
         "currency": "INR",
         "validFrom": "2024-07-04 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 74
+        "inventory": 70
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-catapalooza-bengaluru-et44089/details",
@@ -527,7 +527,7 @@
         "currency": "INR",
         "validFrom": "2024-07-04 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 33
+        "inventory": 32
       }
     ],
     "performers": [],
@@ -556,8 +556,8 @@
       }
     ],
     "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
+    "ogTitle": "Karaoke Nights Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music and Trending event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/81140af8c8018ef5236d6a186f78a97b1720455255.jpeg"
     ],
@@ -568,7 +568,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:55",
         "availability": "INSTOCK",
-        "inventory": 68
+        "inventory": 64
       }
     ],
     "performers": [],
@@ -597,8 +597,8 @@
       }
     ],
     "isAccessibleForFree": true,
-    "ogTitle": "Boogie Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Boogie Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
+    "ogTitle": "Boogie Nights Music and Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Boogie Nights Bengaluru on Zomato which is a Music and Party event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/c1fa4a4dc3d5fdb81a773e8965c19bcb1720455304.jpeg"
     ],
@@ -609,7 +609,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:55",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 70
       }
     ],
     "performers": [],
@@ -650,7 +650,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:55",
         "availability": "INSTOCK",
-        "inventory": 70
+        "inventory": 64
       }
     ],
     "performers": [],
@@ -773,7 +773,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:57",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 71
       }
     ],
     "performers": [],
@@ -814,7 +814,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:57",
         "availability": "INSTOCK",
-        "inventory": 73
+        "inventory": 67
       }
     ],
     "performers": [],
@@ -843,8 +843,8 @@
       }
     ],
     "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+    "ogTitle": "Karaoke Nights Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music and Trending event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/6dd3cba07e282551d592aa881835d9201720455833.jpeg"
     ],
@@ -855,7 +855,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:58",
         "availability": "INSTOCK",
-        "inventory": 68
+        "inventory": 67
       }
     ],
     "performers": [],
@@ -937,7 +937,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:59",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 63
       }
     ],
     "performers": [],
@@ -978,7 +978,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:59",
         "availability": "INSTOCK",
-        "inventory": 74
+        "inventory": 68
       }
     ],
     "performers": [],
@@ -2417,8 +2417,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Sagar Waali Qawwali Experiences and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sagar Waali Qawwali Bengaluru on Zomato which is a Experiences and Music event happening at Passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala",
+    "ogTitle": "Sagar Waali Qawwali Experiences, Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sagar Waali Qawwali Bengaluru on Zomato which is a Experiences, Music and Trending event happening at Passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/11edb8edb6fd5818e8d9c883bf4fe6c81720777767.png"
     ],
@@ -2429,7 +2429,7 @@
         "currency": "INR",
         "validFrom": "2024-07-12 15:25:26",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
@@ -2437,7 +2437,7 @@
         "currency": "INR",
         "validFrom": "2024-07-12 15:25:26",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
@@ -2445,13 +2445,29 @@
         "currency": "INR",
         "validFrom": "2024-07-12 15:25:27",
         "availability": "INSTOCK",
+        "inventory": 99
+      },
+      {
+        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-07-16 14:28:58",
+        "availability": "INSTOCK",
         "inventory": 100
       },
       {
         "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
-        "price": 2000,
+        "price": 2500,
         "currency": "INR",
-        "validFrom": "2024-07-12 15:25:27",
+        "validFrom": "2024-07-16 14:28:58",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
+        "price": 3499,
+        "currency": "INR",
+        "validFrom": "2024-07-16 14:28:59",
         "availability": "INSTOCK",
         "inventory": 100
       },
@@ -2538,8 +2554,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Bengaluru Pupper Party Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bengaluru Pupper Party Bengaluru on Zomato which is a Experiences event happening at No. 2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi",
+    "ogTitle": "Bengaluru Pupper Party Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bengaluru Pupper Party Bengaluru on Zomato which is a Experiences and Trending event happening at No. 2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/72d6f13f9fc2636f7e23fa3115b08d551720864513.png",
       "https://b.zmtcdn.com/data/zomaland/5260839eb29d9e788d73a4914b80f8f21720865477.jpeg",
@@ -2601,8 +2617,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Paint with Puppies Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Paint with Puppies Bengaluru on Zomato which is a Experiences event happening at #77, Wind Tunnel Rd, Murugeshpalya, Muniyappa Layout",
+    "ogTitle": "Paint with Puppies Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Paint with Puppies Bengaluru on Zomato which is a Experiences and Trending event happening at #77, Wind Tunnel Rd, Murugeshpalya, Muniyappa Layout",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/69a7bb70c6627c6f26cf329f59d4076c1720866403.jpeg"
     ],
@@ -2621,7 +2637,7 @@
         "currency": "INR",
         "validFrom": "2024-07-13 16:07:24",
         "availability": "INSTOCK",
-        "inventory": 7
+        "inventory": 6
       }
     ],
     "performers": [],
@@ -2670,7 +2686,7 @@
         "currency": "INR",
         "validFrom": "2024-07-14 21:34:19",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       },
       {
         "url": "https://www.zomato.com/events/dj-chetas-live-bengaluru-et45252/details",
