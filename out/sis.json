@@ -4,7 +4,9 @@
     "@type": "SocialEvent",
     "url": "https://sistersinsweat.in/session_details/social/KaraokeNight",
     "@context": "https://schema.org",
-    "keywords": "SISTERSINSWEAT",
+    "keywords": [
+      "SISTERSINSWEAT"
+    ],
     "audience": {
       "@type": "Audience",
       "AudienceType": "Women-only event"
