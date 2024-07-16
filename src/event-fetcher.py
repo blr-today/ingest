@@ -50,7 +50,8 @@ EVENT_JSON_FILES = [
     "out/venn.json",  # this also has a lot of duplicates
     "out/te.json",
     "out/zomato.json",
-    "out/underline.json" # duplicates to insider
+    "out/underline.json", # duplicates to insider
+    "out/sis.json"
 ]
 
 KNOWN_EVENT_TYPES = [

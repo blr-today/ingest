@@ -132,9 +132,8 @@ out/aceofpubs.json: out/aceofpubs.ics
 out/koota.txt:
 	curl_chrome116 --silent "https://courtyardkoota.com/event-directory/" | grep -oE 'https://courtyardkoota\.com/events/[a-z0-9-]+/' | sort -u > $@ || $(call restore-file,$@)
 
-# TODO
-# out/sis.txt:
-# 	python src/sis.py | sort > out/sis.txt
+out/sis.json:
+	python src/sis.py || $(call restore-file,$@)
 
 fetch: out/allevents.txt \
  out/highape.txt \
@@ -166,7 +165,8 @@ fetch: out/allevents.txt \
  out/atta_galatta.json \
  out/koota.txt \
  out/te.json \
- out/underline.json
+ out/underline.json \
+ out/sis.json
 
 	@echo "Done"
 
