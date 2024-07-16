@@ -14,8 +14,6 @@ def to_schema_org_music_event(event_info):
     )
     # events are assumed to be 2 hours long
     endsAt = startsAt + datetime.timedelta(hours=2)
-
-    print(event_info)
     try:
         name = event_info["theme"]["title"] + " Sofar concert at a "
     except:

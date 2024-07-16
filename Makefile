@@ -41,7 +41,7 @@ out/highape.txt:
 out/mapindia.ics:
 	python src/mapindia.py || $(call restore-file,$@)
 
-out/mapindia.json: out/mapindia.ics	
+out/mapindia.json: out/mapindia.ics
 	python src/ics-to-event.py out/mapindia.ics $@ || $(call restore-file,$@)
 
 out/bengalurusustainabilityforum.ics:
@@ -49,6 +49,12 @@ out/bengalurusustainabilityforum.ics:
 
 out/bengalurusustainabilityforum.json: out/bengalurusustainabilityforum.ics
 	python src/ics-to-event.py out/bengalurusustainabilityforum.ics $@ || $(call restore-file,$@)
+
+out/underline.jsonnet:
+	wget -q "https://underline.center/discourse-post-event/events.json?include_details=true" -O $@ || $(call restore-file,$@)
+
+out/underline.json:
+	python src/jsonnet.py out/underline.jsonnet || $(call restore-file,$@)
 
 out/insider.txt:
 	curl_chrome116 --silent \
@@ -159,7 +165,8 @@ fetch: out/allevents.txt \
  out/aceofpubs.json \
  out/atta_galatta.json \
  out/koota.txt \
- out/te.json
+ out/te.json \
+ out/underline.json
 
 	@echo "Done"
 

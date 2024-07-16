@@ -33,7 +33,7 @@ with open(input_file, "r") as json_file:
             },
         )
     else:
-        raise f"Could not find {transformation_f}"
+        raise Exception(f"Could not find {transformation_f}")
 
     output_json_file = os.path.join("out", basename + ".json")
     with open(output_json_file, "w") as output_file:
