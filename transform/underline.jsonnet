@@ -11,6 +11,28 @@ local transformEvent(event) =
     endDate: event.ends_at,
     url: event.url,
     sameAs: 'https://underline.center/t/' + event.post.id,
+    inLanguage: 'en',
+    eventStatus: 'EventScheduled',
+    location: {
+      '@type': 'Place',
+      name: 'Underline Center',
+      geo: {
+        '@type': 'GeoCoordinates',
+        latitude: 12.9672549,
+        longitude: 77.6367397,
+      },
+      maximumAttendeeCapacity: 45,
+      maximumPhysicalAttendeeCapacity: 45,
+      eventAttendanceMode: 'OfflineEventAttendanceMode',
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: '3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd',
+        addressLocality: 'Bangalore',
+        postalCode: '560071',
+        addressRegion: 'KA',
+        addressCountry: 'IN',
+      },
+    },
   };
 
 function(INPUT) [
