@@ -2723,6 +2723,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "The White Party Ft Dj Mott Trending, Music and Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for The White Party Ft Dj Mott Bengaluru on Zomato which is a Trending, Music and Party event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/6d203014650914738350b9265456bf391721061265.jpeg"
     ],
@@ -2733,7 +2735,7 @@
         "currency": "INR",
         "validFrom": "2024-07-15 22:10:41",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 197
       },
       {
         "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402/details",
@@ -2741,7 +2743,7 @@
         "currency": "INR",
         "validFrom": "2024-07-15 22:10:41",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 196
       },
       {
         "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402/details",
