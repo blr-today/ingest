@@ -1,26 +1,26 @@
 {
-    "@context": "https://schema.org",
-    "location": {
-        "@type": "Place",
-        "name": "Atta Galatta",
-        "isicV4": "4761",
-        "publicAccess": true,
-        "hasDriveThroughService": false,
-        "telephone": "+919632510126",
-        "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "178, 5th Main Road, 1st Stage Indiranagar",
-            "addressLocality": "Bengaluru",
-            "postalCode": "560038",
-            "addressCountry": "India",
-            "url": "https://attagalatta.com/contact.php"
-        }
-    },
-    "keywords": ["ATTAGALATTA", "BOOKSTORE"],
-    "organizer": {
-        "@type": "Organization",
-        "name": "Atta Galatta",
-        "url": "https://attagalatta.com/",
-        "isicV4": "4761"
+  "@context": "https://schema.org",
+  "location": {
+    "@type": "Place",
+    "name": "Atta Galatta",
+    "isicV4": "4761",
+    "publicAccess": true,
+    "hasDriveThroughService": false,
+    "telephone": "+919632510126",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "178, 5th Main Road, 1st Stage Indiranagar",
+      "addressLocality": "Bengaluru",
+      "postalCode": "560038",
+      "addressCountry": "India",
+      "url": "https://attagalatta.com/contact.php"
     }
+  },
+  "keywords": ["ATTAGALATTA"],
+  "organizer": {
+    "@type": "Organization",
+    "name": "Atta Galatta",
+    "url": "https://attagalatta.com/",
+    "isicV4": "4761"
+  }
 }
