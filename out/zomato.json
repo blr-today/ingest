@@ -32,7 +32,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 165
+               "value": 163
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -82,7 +82,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 30
+               "value": 26
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-25T22:06:23+05:30"
@@ -96,7 +96,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 30,
+      "remainingAttendeeCapacity": 26,
       "startDate": "2024-07-20T21:00:00+05:30",
       "url": "https://www.zomato.com/events/tribute-to-arijit-singh-bengaluru-et43184"
    },
@@ -489,7 +489,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 70
+               "value": 64
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-04T13:00:00+05:30"
@@ -623,7 +623,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 64
+               "value": 61
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-08T22:23:55+05:30"
@@ -637,7 +637,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 64,
+      "remainingAttendeeCapacity": 61,
       "startDate": "2024-07-21T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et44628"
    },
@@ -917,7 +917,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 63
+               "value": 61
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-08T22:23:59+05:30"
@@ -931,7 +931,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 63,
+      "remainingAttendeeCapacity": 61,
       "startDate": "2024-07-25T21:00:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et44637"
    },
@@ -959,7 +959,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 68
+               "value": 67
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-08T22:23:59+05:30"
@@ -973,7 +973,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 68,
+      "remainingAttendeeCapacity": 67,
       "startDate": "2024-07-26T20:00:00+05:30",
       "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et44638"
    },
@@ -1010,7 +1010,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 15
+               "value": 12
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-09T13:21:11+05:30"
@@ -2446,7 +2446,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 99
+               "value": 97
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-12T15:25:26+05:30"
@@ -2464,7 +2464,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 99
+               "value": 94
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-12T15:25:27+05:30"
@@ -2572,7 +2572,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 98
+               "value": 93
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-13T15:00:00+05:30"
@@ -2631,7 +2631,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 6
+               "value": 5
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-13T16:07:24+05:30"
@@ -2765,5 +2765,114 @@
       "performers": [ ],
       "startDate": "2024-07-20T20:00:00+05:30",
       "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Experience the electrifying beats of Rosenfeld at the Kitty Ko event by Centigrade on July 21st. Dive into an evening where music meets magic as Rosenfeld, renowned for his captivating mixes and infectious energy, takes the stage. From pulsating rhythms to soul-stirring melodies, immerse yourself in a sonic journey that transcends genres.\r\n\r\nRosenfeld's unique blend of house, techno, and experimental sounds promises an unforgettable night under the stars. Join us at Kitty Ko for a celebration of music, artistry, and pure adrenaline. Don’t miss your chance to be part of this exceptional event",
+      "endDate": "2024-07-22T01:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/85e94836bec52521c3c59121346296181721208095.jpeg",
+      "isAccessibleForFree": true,
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "streetAddress": "The Lalit Ashok, Kumara Park East, Seshadripuram"
+         },
+         "name": "Bengaluru"
+      },
+      "name": "Sunday Session ft. Rosenfeld",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-17T15:52:04+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-17T15:52:05+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 99
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-17T15:52:05+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-07-21T19:00:00+05:30",
+      "url": "https://www.zomato.com/events/sunday-session-ft-rosenfeld-bengaluru-et45593"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Join us for an electrifying evening with DJ Ajwavy, the internet's most trending DJ, as he brings his sensational beats to 2Moons & Juliet at 1 MG Mall MG Road , Bangalore. On the 20th of July 2024. From 7 PM onwards, experience the ultimate party atmosphere with DJ Ajwavy's signature style and high-energy performance. Don't miss out on the event of the season",
+      "endDate": "2024-07-21T01:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/edcfefb18366e0c2a19d6d6949c057121721208928.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "streetAddress": "1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd, Someshwarpura, Halasuru"
+         },
+         "name": "Bengaluru"
+      },
+      "name": "A&A Entertainment Presents The Wavy Tour",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-17T15:52:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-17T16:22:53+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-07-20T19:00:00+05:30",
+      "url": "https://www.zomato.com/events/aa-presents-the-wavy-tour-bengaluru-et45596"
    }
 ]

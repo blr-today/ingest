@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 165
+        "inventory": 163
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -99,7 +99,7 @@
         "currency": "INR",
         "validFrom": "2024-06-25 22:06:23",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 26
       }
     ],
     "performers": [],
@@ -519,7 +519,7 @@
         "currency": "INR",
         "validFrom": "2024-07-04 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 70
+        "inventory": 64
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-catapalooza-bengaluru-et44089/details",
@@ -650,7 +650,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:55",
         "availability": "INSTOCK",
-        "inventory": 64
+        "inventory": 61
       }
     ],
     "performers": [],
@@ -937,7 +937,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:59",
         "availability": "INSTOCK",
-        "inventory": 63
+        "inventory": 61
       }
     ],
     "performers": [],
@@ -978,7 +978,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:59",
         "availability": "INSTOCK",
-        "inventory": 68
+        "inventory": 67
       }
     ],
     "performers": [],
@@ -1027,7 +1027,7 @@
         "currency": "INR",
         "validFrom": "2024-07-09 13:21:11",
         "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 12
       },
       {
         "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-atul-khatri-bengaluru-et44711/details",
@@ -2429,7 +2429,7 @@
         "currency": "INR",
         "validFrom": "2024-07-12 15:25:26",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 97
       },
       {
         "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
@@ -2445,7 +2445,7 @@
         "currency": "INR",
         "validFrom": "2024-07-12 15:25:27",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 94
       },
       {
         "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
@@ -2516,7 +2516,6 @@
       "https://b.zmtcdn.com/data/zomaland/8f8246f3e7fcaa429fc5ba2c01393ad91720807370.png",
       "https://b.zmtcdn.com/data/zomaland/3ff3507d022e24fe2cc62305f78b0cfb1720807380.png",
       "https://b.zmtcdn.com/data/zomaland/cde0d610ac2a71ff0b26e2a2887f09b81720807392.png",
-      "https://b.zmtcdn.com/data/zomaland/c2815203e33d2beb0b669e3ed86ba2ad1720807408.png",
       "https://b.zmtcdn.com/data/zomaland/7f23584e8f87474bd07ce30627ff5ca01720807421.png",
       "https://b.zmtcdn.com/data/zomaland/26d40a0cc36fcb396a5528187f5fce2a1720807433.png",
       "https://b.zmtcdn.com/data/zomaland/58f0f83a490ddf148cbe71d3d5586d181720860715.png",
@@ -2580,7 +2579,7 @@
         "currency": "INR",
         "validFrom": "2024-07-13 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 93
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et45225/details",
@@ -2637,7 +2636,7 @@
         "currency": "INR",
         "validFrom": "2024-07-13 16:07:24",
         "availability": "INSTOCK",
-        "inventory": 6
+        "inventory": 5
       }
     ],
     "performers": [],
@@ -2763,5 +2762,111 @@
       }
     ],
     "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402"
+  },
+  {
+    "name": "Sunday Session ft. Rosenfeld",
+    "description": "Experience the electrifying beats of Rosenfeld at the Kitty Ko event by Centigrade on July 21st. Dive into an evening where music meets magic as Rosenfeld, renowned for his captivating mixes and infectious energy, takes the stage. From pulsating rhythms to soul-stirring melodies, immerse yourself in a sonic journey that transcends genres.\r\n\r\nRosenfeld's unique blend of house, techno, and experimental sounds promises an unforgettable night under the stars. Join us at Kitty Ko for a celebration of music, artistry, and pure adrenaline. Don\u2019t miss your chance to be part of this exceptional event",
+    "startDate": "2024-07-21T19:00:00+05:30",
+    "endDate": "2024-07-22T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "The Lalit Ashok, Kumara Park East, Seshadripuram",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Sunday Session ft. Rosenfeld Music and Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sunday Session ft. Rosenfeld Bengaluru on Zomato which is a Music and Party event happening at The Lalit Ashok, Kumara Park East, Seshadripuram",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/85e94836bec52521c3c59121346296181721208095.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/sunday-session-ft-rosenfeld-bengaluru-et45593/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-17 15:52:04",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/sunday-session-ft-rosenfeld-bengaluru-et45593/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-17 15:52:05",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/sunday-session-ft-rosenfeld-bengaluru-et45593/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-17 15:52:05",
+        "availability": "INSTOCK",
+        "inventory": 99
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/sunday-session-ft-rosenfeld-bengaluru-et45593"
+  },
+  {
+    "name": "A&A Entertainment Presents The Wavy Tour",
+    "description": "Join us for an electrifying evening with DJ Ajwavy, the internet's most trending DJ, as he brings his sensational beats to 2Moons & Juliet at 1 MG Mall MG Road , Bangalore. On the 20th of July 2024. From 7 PM onwards, experience the ultimate party atmosphere with DJ Ajwavy's signature style and high-energy performance. Don't miss out on the event of the season",
+    "startDate": "2024-07-20T19:00:00+05:30",
+    "endDate": "2024-07-21T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd, Someshwarpura, Halasuru",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "A&A Entertainment Presents The Wavy Tour Music, Party and Best seller event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for A&A Entertainment Presents The Wavy Tour Bengaluru on Zomato which is a Music, Party and Best seller event happening at 1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd, Someshwarpura, Halasuru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/edcfefb18366e0c2a19d6d6949c057121721208928.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/aa-presents-the-wavy-tour-bengaluru-et45596/details",
+        "price": 1000,
+        "currency": "INR",
+        "validFrom": "2024-07-17 15:52:00",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/aa-presents-the-wavy-tour-bengaluru-et45596/details",
+        "price": 1500,
+        "currency": "INR",
+        "validFrom": "2024-07-17 16:22:53",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/aa-presents-the-wavy-tour-bengaluru-et45596"
   }
 ]
