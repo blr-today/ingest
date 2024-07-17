@@ -541,47 +541,6 @@
     "url": "https://www.zomato.com/events/bengaluru-catapalooza-bengaluru-et44089"
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-07-17T21:00:00+05:30",
-    "endDate": "2024-07-17T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music and Trending event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/81140af8c8018ef5236d6a186f78a97b1720455255.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et44626/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-08 22:23:55",
-        "availability": "INSTOCK",
-        "inventory": 64
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et44626"
-  },
-  {
     "name": "Boogie Nights",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 9 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ PRASHU and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-07-19T21:00:00+05:30",
@@ -2868,5 +2827,115 @@
       }
     ],
     "url": "https://www.zomato.com/events/aa-presents-the-wavy-tour-bengaluru-et45596"
+  },
+  {
+    "name": "Speed Dating",
+    "description": "Tired of swiping and texting? Come, join us at our social mixer to meet potential dates and friends in real life.\r\nWe`ve designed this event to boost intimacy between curated attendees, resulting in friendship, romance, and even marriage.\r\nOur fun icebreakers and speed dating games during the event facilitate mindful conversations and deep connections.\r\nSo come, and experience some cool, quirky games for introverts to break the ice without any pressure! \r\nSeek a friend, flatmate, date, or startup soulmate- find it all at Speed Dating!",
+    "startDate": "2024-07-21T18:00:00+05:30",
+    "endDate": "2024-07-21T20:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b4620aea34fd2f44609424eeb0a95e661721235742.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et45616/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-17 17:51:13",
+        "availability": "INSTOCK",
+        "inventory": 20
+      },
+      {
+        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et45616/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-07-17 17:51:12",
+        "availability": "INSTOCK",
+        "inventory": 20
+      },
+      {
+        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et45616/details",
+        "price": 1299,
+        "currency": "INR",
+        "validFrom": "2024-07-17 17:51:12",
+        "availability": "INSTOCK",
+        "inventory": 5
+      },
+      {
+        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et45616/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-07-17 17:51:13",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/speed-dating-bengaluru-et45616"
+  },
+  {
+    "name": "Blind Date - A Sensory Experience",
+    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
+    "startDate": "2024-07-20T19:00:00+05:30",
+    "endDate": "2024-07-20T20:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1721236982.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et45646/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-07-17 22:13:12",
+        "availability": "INSTOCK",
+        "inventory": 15
+      },
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et45646/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-07-17 22:13:13",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et45646"
   }
 ]
