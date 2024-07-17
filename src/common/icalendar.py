@@ -35,6 +35,7 @@ def convert_ics_to_events(ics_file_path):
         event_json = {
             "@context": "https://schema.org",
             "@type": "Event",
+            "@id": event.uid,
             "name": event.name,
             "startDate": event.begin.astimezone(IST).isoformat(),
             "endDate": event.end.astimezone(IST).isoformat(),

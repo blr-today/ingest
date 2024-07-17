@@ -91,6 +91,10 @@ URL_FILES = [
     "out/koota.txt",
 ]
 
+IGNORED_EVENT_UIDS = [
+    "60749-1718409600-1722470399@bangaloreinternationalcentre.org"
+]
+
 
 def fix_online_schema(url, event):
     for x in ["startDate", "endDate"]:
@@ -166,6 +170,8 @@ def get_local_events(files, filt):
             with open(i, "r") as f:
                 data = json.load(f)
                 for event in data:
+                    if '@id' in event and event["@id"] in IGNORED_EVENT_UIDS:
+                        continue
                     event = apply_patch(event, patch)
                     yield (event["url"], event)
             print(f"Processed {i} in {time.time() - start_ts:.2f}s")
