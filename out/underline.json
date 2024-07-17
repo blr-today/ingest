@@ -1,40 +1,6 @@
 [
    {
       "@context": "https://schema.org",
-      "@type": "ScreeningEvent",
-      "endDate": "2024-07-16T17:30:00.000Z",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "eventAttendanceMode": "OfflineEventAttendanceMode",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "maximumAttendeeCapacity": 45,
-         "maximumPhysicalAttendeeCapacity": 45,
-         "name": "Underline Center"
-      },
-      "sameAs": "https://underline.center/t/52",
-      "startDate": "2024-07-16T14:30:00.000Z",
-      "url": "https://insider.in/cinema-of-france-la-collectionnuese-1967-with-the-parallel-cinema-club-jul16-2024/event"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "SocialEvent",
       "endDate": "2024-07-17T16:30:00.000Z",
       "eventStatus": "EventScheduled",
@@ -63,6 +29,7 @@
          "maximumPhysicalAttendeeCapacity": 45,
          "name": "Underline Center"
       },
+      "name": "Whimsical Wednesdays with Improv Lore",
       "sameAs": "https://underline.center/t/19",
       "startDate": "2024-07-17T14:30:00.000Z",
       "url": "https://insider.in/whimsical-wednesdays-with-improv-lore/event"
@@ -70,7 +37,6 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": null,
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
       "keywords": [
@@ -97,9 +63,45 @@
          "maximumPhysicalAttendeeCapacity": 45,
          "name": "Underline Center"
       },
+      "name": "Tabletop Thursday with ReRoll Board Games",
       "sameAs": "https://underline.center/t/17",
       "startDate": "2024-07-18T13:30:00.000Z",
       "url": "https://forum.reroll.in/t/tabletop-thursday-every-week-underline-center-indiranagar/1930"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2024-07-19T11:30:00.000Z",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "eventAttendanceMode": "OfflineEventAttendanceMode",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "maximumAttendeeCapacity": 45,
+         "maximumPhysicalAttendeeCapacity": 45,
+         "name": "Underline Center"
+      },
+      "name": "Breaking the Backlog",
+      "sameAs": "https://underline.center/t/69",
+      "startDate": "2024-07-19T05:30:00.000Z",
+      "url": "https://insider.in/breaking-the-backlog-jul19-2024/event"
    },
    {
       "@context": "https://schema.org",
@@ -131,6 +133,7 @@
          "maximumPhysicalAttendeeCapacity": 45,
          "name": "Underline Center"
       },
+      "name": "Improvised Theatre Course by Improv Lore",
       "sameAs": "https://underline.center/t/59",
       "startDate": "2024-07-20T04:30:00.000Z",
       "url": "https://insider.in/improvised-theatre-course-by-improv-lore-jul20-2024/event"
@@ -165,6 +168,7 @@
          "maximumPhysicalAttendeeCapacity": 45,
          "name": "Underline Center"
       },
+      "name": "Reporting: A People First Approach by the People’s Archive of Rural India (PARI)",
       "sameAs": "https://underline.center/t/64",
       "startDate": "2024-07-20T11:30:00.000Z",
       "url": "https://insider.in/reporting-a-people-first-approach-by-the-peoples-archive-of-rural-india-pari-jul20-2024/event"
@@ -199,6 +203,7 @@
          "maximumPhysicalAttendeeCapacity": 45,
          "name": "Underline Center"
       },
+      "name": "Surfing Solo by Pause to Begin",
       "sameAs": "https://underline.center/t/65",
       "startDate": "2024-07-21T11:30:00.000Z",
       "url": "https://insider.in/surfing-solo-by-pause-to-begin-jul21-2024/event"
@@ -206,7 +211,6 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": null,
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
       "keywords": [
@@ -233,6 +237,7 @@
          "maximumPhysicalAttendeeCapacity": 45,
          "name": "Underline Center"
       },
+      "name": "Bangalore Puzzle Pals with Playful Pursuits",
       "sameAs": "https://underline.center/t/14",
       "startDate": "2024-07-22T10:30:00.000Z",
       "url": "https://insider.in/bangalore-puzzle-pals-with-playful-pursuits/event"
@@ -267,6 +272,7 @@
          "maximumPhysicalAttendeeCapacity": 45,
          "name": "Underline Center"
       },
+      "name": "Cinema of France: Nightcap (2000) with The Parallel Cinema Club",
       "sameAs": "https://underline.center/t/53",
       "startDate": "2024-07-23T14:30:00.000Z",
       "url": "https://insider.in/cinema-of-france-nightcap-2000-with-the-parallel-cinema-club-jul23-2024/event"
@@ -301,6 +307,7 @@
          "maximumPhysicalAttendeeCapacity": 45,
          "name": "Underline Center"
       },
+      "name": "Cinema of France: Le Pont du Nord (1981) with The Parallel Cinema Club",
       "sameAs": "https://underline.center/t/54",
       "startDate": "2024-07-30T14:30:00.000Z",
       "url": "https://insider.in/cinema-of-france-le-pont-du-nord-1981-with-the-parallel-cinema-club-jul30-2024/event"
