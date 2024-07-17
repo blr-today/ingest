@@ -1,307 +1,61 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Ace of Pubs - ECPv6.5.0//NONSGML v1.0//EN
-CALSCALE:GREGORIAN
-METHOD:PUBLISH
-X-WR-CALNAME:Ace of Pubs
-X-ORIGINAL-URL:https://aceofpubs.com
-X-WR-CALDESC:Events for Ace of Pubs
-REFRESH-INTERVAL;VALUE=DURATION:PT1H
-X-Robots-Tag:noindex
-X-PUBLISHED-TTL:PT1H
-BEGIN:VTIMEZONE
-TZID:Asia/Kolkata
-BEGIN:STANDARD
-TZOFFSETFROM:+0530
-TZOFFSETTO:+0530
-TZNAME:IST
-DTSTART:20240101T000000
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240717T203000
-DTEND;TZID=Asia/Kolkata:20240717T223000
-DTSTAMP:20240717T000337
-CREATED:20240705T084144Z
-LAST-MODIFIED:20240716T052854Z
-UID:33350-1721248200-1721255400@aceofpubs.com
-SUMMARY:MCU - Communiti | Brigade Solitare\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/mcu-communiti-brigade-solitare-bengaluru/
-LOCATION:Communiti — Brigade Solitare — Bengaluru\, 67 - 68\, Brigade Solitaire\, Opposite Advaith Hyundai\, Brigade Road\, Bangalore
-CATEGORIES:Bengaluru
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240717T203000
-DTEND;TZID=Asia/Kolkata:20240717T223000
-DTSTAMP:20240717T000337
-CREATED:20240705T085045Z
-LAST-MODIFIED:20240716T052854Z
-UID:33361-1721248200-1721255400@aceofpubs.com
-SUMMARY:Irish Trivia Night - The Irish House | Yalahanka\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/irish-trivia-night-the-irish-house-yalahanka-bengaluru-2/
-LOCATION:The Irish House — Yalahanka — Bengaluru\, police station\, RMZ Galleria\, Food Court 3rd Floor\, opp. Yelahanka\, Ambedkar Colony\, Yelahanka\, Bengaluru\, Karnataka\, 560064
-CATEGORIES:Bengaluru
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240717T203000
-DTEND;TZID=Asia/Kolkata:20240717T223000
-DTSTAMP:20240717T000337
-CREATED:20240705T085206Z
-LAST-MODIFIED:20240716T052854Z
-UID:33366-1721248200-1721255400@aceofpubs.com
-SUMMARY:Irish Trivia Night - The Irish House | Sarjapur\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/irish-trivia-night-the-irish-house-sarjapur-bengaluru-2/
-LOCATION:The Irish House — Sarjapur — Bengaluru\, RMZ Ecoworld Rd\, Adarsh Palm Retreat\, Bellandur\, Bengaluru\, Karnataka\, 560103\, India
-CATEGORIES:Bengaluru,Sarjapur
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240718T203000
-DTEND;TZID=Asia/Kolkata:20240718T223000
-DTSTAMP:20240717T000337
-CREATED:20240705T090457Z
-LAST-MODIFIED:20240716T070830Z
-UID:33383-1721334600-1721341800@aceofpubs.com
-SUMMARY:Bollywood: The Divas - Nomad | Sarjapur\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/bollywood-the-divas-nomad-sarjapur-bengaluru/
-LOCATION:Nomad Pizza	— Sarjapur — Bengaluru\, Ground Floor\, GRS Tower\, Sy No 18/2A\, Sarjapur - Marathahalli Rd Bellandur\, Bengaluru\, Karnataka 560102\, East\, Bengaluru\, Karnataka\, 560103\, India
-CATEGORIES:Bengaluru,Sarjapur
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240718T203000
-DTEND;TZID=Asia/Kolkata:20240718T223000
-DTSTAMP:20240717T000337
-CREATED:20240705T091806Z
-LAST-MODIFIED:20240716T070830Z
-UID:33406-1721334600-1721341800@aceofpubs.com
-SUMMARY:Quizzards by Watson's - Watson's | Vasanth Nagar\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/quizzards-by-watsons-watsons-vasanth-nagar-bengaluru-2/
-LOCATION:Watson’s – Vasanth Nagar – Bengaluru\, 1st Floor\, Kodava Samaja Building\, Vasanth Nagar\, Bengaluru\, Karnataka 560052\, Bengaluru\, Karnataka\, 560052\, India
-CATEGORIES:Bengaluru,Vasanth Nagar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240718T203000
-DTEND;TZID=Asia/Kolkata:20240718T223000
-DTSTAMP:20240717T000337
-CREATED:20240705T092336Z
-LAST-MODIFIED:20240716T070830Z
-UID:33409-1721334600-1721341800@aceofpubs.com
-SUMMARY:The Office Trivia - Woodpegger | Manyata Tech Park\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/the-office-trivia-woodpegger-manyata-tech-park-bengaluru/
-LOCATION:Woodpegger — Manyata Tech Park — Bengaluru\, 4th & 5th Floor\, #26/B\, 1st Cross Philomina Hospital Road\, Chanakya Layout\, opposite Manyata Tech Park\, Nagavara\, Bengaluru\, Karnataka\, 560045\, India
-CATEGORIES:Bengaluru
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240718T203000
-DTEND;TZID=Asia/Kolkata:20240718T223000
-DTSTAMP:20240717T000337
-CREATED:20240705T093531Z
-LAST-MODIFIED:20240716T070830Z
-UID:33425-1721334600-1721341800@aceofpubs.com
-SUMMARY:Nerd Out With Chili's - Chili's | RMZ Mall\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/nerd-out-with-chilis-chilis-rmz-mall-bengaluru-2/
-LOCATION:Chili’s — RMZ Mall	— Bengaluru\, Rmz Ecoworld Ground Floor\, The Bay\, RMZ EcoWorld Outer Ring Road\, Bengaluru\, Karnataka\, 560068\, India
-CATEGORIES:Bengaluru
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240719T203000
-DTEND;TZID=Asia/Kolkata:20240719T223000
-DTSTAMP:20240717T000337
-CREATED:20240705T094231Z
-LAST-MODIFIED:20240716T070830Z
-UID:33431-1721421000-1721428200@aceofpubs.com
-SUMMARY:The Smooth Criminal Trivia Night - Smooth Criminal | Koramangala\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/the-smooth-criminal-trivia-night-smooth-criminal-koramangala-bengaluru-2/
-LOCATION:Smooth Criminal — Koramangala — Bengaluru\, 48\, 4th B Cross\, KHB Colony\, 5th Block\, Koramangala Industrial Layout\, Koramangala\, Bengaluru\, Karnataka\, 560095\, India
-CATEGORIES:Bengaluru
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240722T200000
-DTEND;TZID=Asia/Kolkata:20240722T220000
-DTSTAMP:20240717T000337
-CREATED:20240715T122428Z
-LAST-MODIFIED:20240716T070829Z
-UID:33496-1721678400-1721685600@aceofpubs.com
-SUMMARY:Monkey Bar Trivia Night - Monkey Bar | Museum Road\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/monkey-bar-trivia-night-monkey-bar-museum-road-bengaluru-3/
-LOCATION:Monkey Bar — Museum Road — Bengaluru\, No.1 First Floor\, The Museum\, Museum Rd\, Shanthala Nagar\, Ashok Nagar\,\, Bengaluru\,\, Karnataka\, 560001\, India
-CATEGORIES:Bengaluru
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240723T200000
-DTEND;TZID=Asia/Kolkata:20240723T220000
-DTSTAMP:20240717T000337
-CREATED:20240716T052812Z
-LAST-MODIFIED:20240716T070829Z
-UID:33516-1721764800-1721772000@aceofpubs.com
-SUMMARY:The Big Bollywood Quiz - Radio Bar | RMZ Eco world Bellandur\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/the-big-bollywood-quiz-radio-bar-rmz-eco-world-bellandur-bengaluru/
-LOCATION:Radio Bar — RMZ Eco world Bellandur — Bengaluru\, Kiosk no 24 Building\, South Gate\, 31\, RMZ Ecoworld Rd\, near Adarsh Palm Retreat\, opp. The Bay\, Adarsh Palm Retreat\, Bellandur\, Bengaluru\, Karnataka\, 560103
-CATEGORIES:Bengaluru
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240724T200000
-DTEND;TZID=Asia/Kolkata:20240724T220000
-DTSTAMP:20240717T000337
-CREATED:20240705T085612Z
-LAST-MODIFIED:20240716T070829Z
-UID:33369-1721851200-1721858400@aceofpubs.com
-SUMMARY:Quiz Nights #atthemoxy - Moxy Hotels | Bengaluru Airport Prestige Tech Cloud\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/quiz-nights-atthemoxy-moxy-hotels-bengaluru-airport-prestige-tech-cloud-bengaluru/
-LOCATION:Moxy Hotels — Bengaluru Airport Prestige Tech Cloud — Bengaluru\, Navrathna Agrahara Village\, Jala Hobli\, Bangalore North Taluk Bangalore District bearing Doddajala Village Panchayat Khata No. 90/105\, Navarathna Agrahara\, Bengaluru\, Karnataka\, 562157\, India
-CATEGORIES:Bengaluru
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240724T200000
-DTEND;TZID=Asia/Kolkata:20240724T220000
-DTSTAMP:20240717T000337
-CREATED:20240716T052325Z
-LAST-MODIFIED:20240716T070829Z
-UID:33518-1721851200-1721858400@aceofpubs.com
-SUMMARY:The Big Bang Theory Quiz - Communiti | Brigade Solitare\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/the-big-bang-theory-quiz-communiti-brigade-solitare-bengaluru/
-LOCATION:Communiti — Brigade Solitare — Bengaluru\, 67 - 68\, Brigade Solitaire\, Opposite Advaith Hyundai\, Brigade Road\, Bangalore
-CATEGORIES:Bengaluru
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240724T200000
-DTEND;TZID=Asia/Kolkata:20240724T220000
-DTSTAMP:20240717T000337
-CREATED:20240716T062641Z
-LAST-MODIFIED:20240716T070829Z
-UID:33539-1721851200-1721858400@aceofpubs.com
-SUMMARY:Irish Trivia Night - The Irish House | Yalahanka\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/irish-trivia-night-the-irish-house-yalahanka-bengaluru-3/
-LOCATION:The Irish House — Yalahanka — Bengaluru\, police station\, RMZ Galleria\, Food Court 3rd Floor\, opp. Yelahanka\, Ambedkar Colony\, Yelahanka\, Bengaluru\, Karnataka\, 560064
-CATEGORIES:Bengaluru
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240724T200000
-DTEND;TZID=Asia/Kolkata:20240724T220000
-DTSTAMP:20240717T000337
-CREATED:20240716T062650Z
-LAST-MODIFIED:20240716T070828Z
-UID:33538-1721851200-1721858400@aceofpubs.com
-SUMMARY:Irish Trivia Night - The Irish House | Sarjapur\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/irish-trivia-night-the-irish-house-sarjapur-bengaluru-3/
-LOCATION:The Irish House | Sarjapur\, Bengaluru\, RMZ Ecoworld Rd\, Adarsh Palm Retreat\, Bellandur\, Bengaluru\, Karnataka 560103\, Bengaluru\, Karnataka\, 560103\, India
-CATEGORIES:Bengaluru,Sarjapur
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240725T200000
-DTEND;TZID=Asia/Kolkata:20240725T220000
-DTSTAMP:20240717T000337
-CREATED:20240716T070455Z
-LAST-MODIFIED:20240716T070828Z
-UID:33566-1721937600-1721944800@aceofpubs.com
-SUMMARY:The Retro Bollywood Night - Nomad | Sarjapur\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/the-retro-bollywood-night-nomad-sarjapur-bengaluru/
-LOCATION:Nomad Pizza	— Sarjapur — Bengaluru\, Ground Floor\, GRS Tower\, Sy No 18/2A\, Sarjapur - Marathahalli Rd Bellandur\, Bengaluru\, Karnataka 560102\, East\, Bengaluru\, Karnataka\, 560103\, India
-CATEGORIES:Bengaluru,Sarjapur
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240725T200000
-DTEND;TZID=Asia/Kolkata:20240725T220000
-DTSTAMP:20240717T000337
-CREATED:20240716T071001Z
-LAST-MODIFIED:20240716T071142Z
-UID:33580-1721937600-1721944800@aceofpubs.com
-SUMMARY:The Big Bang Theory Quiz - Woodpegger | Manyata Tech Park\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/the-big-bang-theory-quiz-woodpegger-manyata-tech-park-bengaluru/
-LOCATION:Woodpegger — Manyata Tech Park — Bengaluru\, 4th & 5th Floor\, #26/B\, 1st Cross Philomina Hospital Road\, Chanakya Layout\, opposite Manyata Tech Park\, Nagavara\, Bengaluru\, Karnataka\, 560045\, India
-CATEGORIES:Bengaluru
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240725T203000
-DTEND;TZID=Asia/Kolkata:20240725T223000
-DTSTAMP:20240717T000337
-CREATED:20240716T070630Z
-LAST-MODIFIED:20240716T070828Z
-UID:33573-1721939400-1721946600@aceofpubs.com
-SUMMARY:Quizzards by Watson's - Watson's | Vasanth Nagar\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/quizzards-by-watsons-watsons-vasanth-nagar-bengaluru-3/
-LOCATION:Watson’s – Vasanth Nagar – Bengaluru\, 1st Floor\, Kodava Samaja Building\, Vasanth Nagar\, Bengaluru\, Karnataka 560052\, Bengaluru\, Karnataka\, 560052\, India
-CATEGORIES:Bengaluru,Vasanth Nagar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240726T200000
-DTEND;TZID=Asia/Kolkata:20240726T220000
-DTSTAMP:20240717T000337
-CREATED:20240716T083833Z
-LAST-MODIFIED:20240716T083928Z
-UID:33586-1722024000-1722031200@aceofpubs.com
-SUMMARY:The Smooth Criminal Trivia Night - Smooth Criminal | Koramangala\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/the-smooth-criminal-trivia-night-smooth-criminal-koramangala-bengaluru-3/
-LOCATION:Smooth Criminal — Koramangala — Bengaluru\, 48\, 4th B Cross\, KHB Colony\, 5th Block\, Koramangala Industrial Layout\, Koramangala\, Bengaluru\, Karnataka\, 560095\, India
-CATEGORIES:Bengaluru
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240731T200000
-DTEND;TZID=Asia/Kolkata:20240731T220000
-DTSTAMP:20240717T000337
-CREATED:20240716T091949Z
-LAST-MODIFIED:20240716T091950Z
-UID:33615-1722456000-1722463200@aceofpubs.com
-SUMMARY:The Big Bollywood Quiz - Radio Bar | RMZ Eco world Bellandur\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/the-big-bollywood-quiz-radio-bar-rmz-eco-world-bellandur-bengaluru-2/
-LOCATION:Radio Bar — RMZ Eco world Bellandur — Bengaluru\, Kiosk no 24 Building\, South Gate\, 31\, RMZ Ecoworld Rd\, near Adarsh Palm Retreat\, opp. The Bay\, Adarsh Palm Retreat\, Bellandur\, Bengaluru\, Karnataka\, 560103
-CATEGORIES:Bengaluru
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240731T200000
-DTEND;TZID=Asia/Kolkata:20240731T220000
-DTSTAMP:20240717T000337
-CREATED:20240716T091956Z
-LAST-MODIFIED:20240716T091957Z
-UID:33614-1722456000-1722463200@aceofpubs.com
-SUMMARY:The Big Bang Theory Quiz - Communiti | Brigade Solitare\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/the-big-bang-theory-quiz-communiti-brigade-solitare-bengaluru-2/
-LOCATION:Communiti — Brigade Solitare — Bengaluru\, 67 - 68\, Brigade Solitaire\, Opposite Advaith Hyundai\, Brigade Road\, Bangalore
-CATEGORIES:Bengaluru
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240731T200000
-DTEND;TZID=Asia/Kolkata:20240731T220000
-DTSTAMP:20240717T000337
-CREATED:20240716T100559Z
-LAST-MODIFIED:20240716T100600Z
-UID:33627-1722456000-1722463200@aceofpubs.com
-SUMMARY:Irish Trivia Night- Harry Potter Special - The Irish House | Yalahanka\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/irish-trivia-night-harry-potter-special-the-irish-house-yalahanka-bengaluru/
-LOCATION:The Irish House — Yalahanka — Bengaluru\, police station\, RMZ Galleria\, Food Court 3rd Floor\, opp. Yelahanka\, Ambedkar Colony\, Yelahanka\, Bengaluru\, Karnataka\, 560064
-CATEGORIES:Bengaluru
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20240731T200000
-DTEND;TZID=Asia/Kolkata:20240731T220000
-DTSTAMP:20240717T000337
-CREATED:20240716T100605Z
-LAST-MODIFIED:20240716T100606Z
-UID:33626-1722456000-1722463200@aceofpubs.com
-SUMMARY:Irish Trivia Night- Harry Potter Special - The Irish House | Sarjapur\, Bengaluru
-DESCRIPTION:
-URL:https://aceofpubs.com/event/irish-trivia-night-harry-potter-special-the-irish-house-sarjapur-bengaluru/
-LOCATION:The Irish House | Sarjapur\, Bengaluru\, RMZ Ecoworld Rd\, Adarsh Palm Retreat\, Bellandur\, Bengaluru\, Karnataka 560103\, Bengaluru\, Karnataka\, 560103\, India
-CATEGORIES:Bengaluru,Sarjapur
-END:VEVENT
-END:VCALENDAR
+<!DOCTYPE html>
+<html lang="en-us" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <style type="text/css">
+        @charset "UTF-8";
+        [ng\:cloak],
+        [ng-cloak],
+        [data-ng-cloak],
+        [x-ng-cloak],
+        .ng-cloak,
+        .x-ng-cloak,
+        .ng-hide:not(.ng-hide-animate) {
+            display: none !important;
+        }
+
+        ng\:form {
+            display: block;
+        }
+
+        .ng-animate-shim {
+            visibility: hidden;
+        }
+
+        .ng-anchor {
+            position: absolute;
+        }
+    </style>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Oops, something lost</title>
+    <meta name="description" content="Oops, looks like the page is lost. Start your website on the cheap.">
+    <link media="all" rel="stylesheet" href="/htdocs_error/style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-26575989-46', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+</head>
+
+<body>
+
+    <div class="error" id="error">
+            <div class="container">
+                <div class="content centered"><img style="width:500px;" src="/htdocs_error/something-lost.png">
+                    <h1>Oops, looks like the page is lost.</h1>
+                    <p style="font-size:22px;" class="sub-header text-block-narrow">This is not a fault, just an accident that was not intentional.</p>
+                </div>
+        </div>
+</body>
+
+</html>
