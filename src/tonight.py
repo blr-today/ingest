@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from common.tz import IST
 
-URL = "https://firestore.googleapis.com/v1/projects/tonight-is/databases/(default)/documents/parties"
+URL = "https://firestore.googleapis.com/v1/projects/tonight-is/databases/(default)/documents/parties?pageSize=1000"
 
 
 def fetch_parties():
@@ -21,7 +21,8 @@ def convert_to_event_json(event):
         "@type": "MusicEvent",
         "name": event["name"],
         "about": event["description"],
-        "url": event["webUrl"] if "undefined" not in event["webUrl"] else None,
+        "sameAs": event["webUrl"] if "undefined" not in event["webUrl"] else None,
+        "url": event['ticketUrl'],
         "startDate": startdate.isoformat(),
         "endDate": enddate.isoformat(),
         "image": (
