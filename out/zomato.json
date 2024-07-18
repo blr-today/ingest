@@ -32,7 +32,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 163
+               "value": 154
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -41,7 +41,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1065
+               "value": 1064
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -82,7 +82,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 26
+               "value": 24
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-25T22:06:23+05:30"
@@ -96,7 +96,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 26,
+      "remainingAttendeeCapacity": 24,
       "startDate": "2024-07-20T21:00:00+05:30",
       "url": "https://www.zomato.com/events/tribute-to-arijit-singh-bengaluru-et43184"
    },
@@ -489,7 +489,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 64
+               "value": 62
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-04T13:00:00+05:30"
@@ -539,7 +539,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 70
+               "value": 62
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-08T22:23:55+05:30"
@@ -553,7 +553,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 70,
+      "remainingAttendeeCapacity": 62,
       "startDate": "2024-07-19T21:00:00+05:30",
       "url": "https://www.zomato.com/events/boogie-nights-bengaluru-et44627"
    },
@@ -581,7 +581,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 61
+               "value": 55
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-08T22:23:55+05:30"
@@ -595,7 +595,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 61,
+      "remainingAttendeeCapacity": 55,
       "startDate": "2024-07-21T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et44628"
    },
@@ -791,7 +791,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 67
+               "value": 65
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-08T22:23:58+05:30"
@@ -805,7 +805,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 67,
+      "remainingAttendeeCapacity": 65,
       "startDate": "2024-07-18T21:00:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et44635"
    },
@@ -917,7 +917,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 67
+               "value": 61
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-08T22:23:59+05:30"
@@ -931,7 +931,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 67,
+      "remainingAttendeeCapacity": 61,
       "startDate": "2024-07-26T20:00:00+05:30",
       "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et44638"
    },
@@ -2404,10 +2404,19 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 97
+               "value": 96
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-12T15:25:26+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-18T17:29:48+05:30"
          },
          {
             "availability": "InStock",
@@ -2422,7 +2431,25 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 94
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-18T17:29:49+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-18T17:29:47+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 93
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-12T15:25:27+05:30"
@@ -2443,6 +2470,24 @@
                "value": 100
             },
             "priceCurrency": "INR",
+            "validFrom": "2024-07-18T17:29:49+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-18T17:29:48+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 98
+            },
+            "priceCurrency": "INR",
             "validFrom": "2024-07-16T14:28:58+05:30"
          },
          {
@@ -2452,7 +2497,25 @@
                "value": 100
             },
             "priceCurrency": "INR",
+            "validFrom": "2024-07-18T17:29:49+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 97
+            },
+            "priceCurrency": "INR",
             "validFrom": "2024-07-16T14:28:59+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-18T17:29:48+05:30"
          },
          {
             "availability": "InStock",
@@ -2479,7 +2542,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "The sensational Punjabi superstar Guru Randhawa is hitting the road for an epic Indian Tour! ðŸŒŸâœ¨\r\n\r\nBrace yourselves for electrifying performances, unforgettable moments, and a musical journey like never before.\r\n\r\nGather your squad, and get ready to groove to the beats of your favorite hits! ðŸŽ¶ðŸ”¥\r\n\r\nStay tuned for more details and ticket information. ðŸš€\r\n\r\n#GuruRandhawa #IndianTour #LiveConcert #MoonriseTour",
-      "endDate": "2024-11-18T23:00:00+05:30",
+      "endDate": "2024-11-29T23:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/09a9dffbdfe20445159a4ec857eff84b1720786706.png",
@@ -2503,7 +2566,7 @@
          }
       ],
       "performers": [ ],
-      "startDate": "2024-11-18T20:00:00+05:30",
+      "startDate": "2024-11-29T20:00:00+05:30",
       "url": "https://www.zomato.com/events/moon-shine-tour-bengaluru-et45173"
    },
    {
@@ -2530,7 +2593,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 93
+               "value": 87
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-13T15:00:00+05:30"
@@ -2580,7 +2643,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 6
+               "value": 5
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-13T16:07:23+05:30"
@@ -2589,7 +2652,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 5
+               "value": 3
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-13T16:07:24+05:30"
@@ -2630,7 +2693,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 97
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-14T21:34:19+05:30"
@@ -2639,7 +2702,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 98
+               "value": 96
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-14T21:34:19+05:30"
@@ -2766,7 +2829,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 99
+               "value": 97
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-17T15:52:05+05:30"
@@ -2807,7 +2870,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 98
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-17T15:52:00+05:30"
@@ -2816,10 +2879,10 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 99
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-07-17T16:22:53+05:30"
+            "validFrom": "2024-07-17T16:22:00+05:30"
          }
       ],
       "organizer": [
@@ -2992,5 +3055,89 @@
       "remainingAttendeeCapacity": 50,
       "startDate": "2024-08-10T20:00:00+05:30",
       "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Take a step towards the future and relive the past with Tron 1982 \r\nExperience an electrifying night of retro-futuristic synth at Byg Brewski Brewing Company, Hennur, on July 19, 2024. \r\n\r\nAre you ready to dance, vibe, and go back in time to the neon-lit 80s?",
+      "endDate": "2024-07-19T23:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/29227d12a6ff3dfb5a8c5859c33a1ab71721288727.jpeg",
+      "isAccessibleForFree": true,
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "streetAddress": "Southern Asia Bible College, 22, Hennur Bagalur Main Rd, Visthar, Byrathi"
+         },
+         "name": "Bengaluru"
+      },
+      "name": "TRON1982 Live",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-18T13:31:02+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 100,
+      "startDate": "2024-07-19T20:00:00+05:30",
+      "url": "https://www.zomato.com/events/tron1982-live-bengaluru-et45704"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Bringing to you Bangalore's Biggest Cover band, Retronome, live at Gylt, Byg Brewski! Come by for a Night of unforgettable tunes and relive those memories while you sing and groove along!",
+      "endDate": "2024-07-26T23:30:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/c21a879775db5be46eeb45d56661fcc21721288921.jpeg",
+      "isAccessibleForFree": true,
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "streetAddress": "SOUTHERN ASIA BIBLE COLLEGE, 22, Hennur Bagalur Main Rd, Visthar, Byrathi"
+         },
+         "name": "Bengaluru"
+      },
+      "name": "Retronome at Gylt, Byg Brewski Hennur",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 250
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-18T13:31:03+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 250,
+      "startDate": "2024-07-26T20:00:00+05:30",
+      "url": "https://www.zomato.com/events/retronome-at-gylt-byg-brewski-hennur-bengaluru-et45705"
    }
 ]

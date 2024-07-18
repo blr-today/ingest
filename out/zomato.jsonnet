@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 163
+        "inventory": 154
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +57,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1065
+        "inventory": 1064
       }
     ],
     "performers": [],
@@ -99,7 +99,7 @@
         "currency": "INR",
         "validFrom": "2024-06-25 22:06:23",
         "availability": "INSTOCK",
-        "inventory": 26
+        "inventory": 24
       }
     ],
     "performers": [],
@@ -519,7 +519,7 @@
         "currency": "INR",
         "validFrom": "2024-07-04 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 64
+        "inventory": 62
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-catapalooza-bengaluru-et44089/details",
@@ -568,7 +568,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:55",
         "availability": "INSTOCK",
-        "inventory": 70
+        "inventory": 62
       }
     ],
     "performers": [],
@@ -609,7 +609,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:55",
         "availability": "INSTOCK",
-        "inventory": 61
+        "inventory": 55
       }
     ],
     "performers": [],
@@ -814,7 +814,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:58",
         "availability": "INSTOCK",
-        "inventory": 67
+        "inventory": 65
       }
     ],
     "performers": [],
@@ -937,7 +937,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:59",
         "availability": "INSTOCK",
-        "inventory": 67
+        "inventory": 61
       }
     ],
     "performers": [],
@@ -2388,7 +2388,15 @@
         "currency": "INR",
         "validFrom": "2024-07-12 15:25:26",
         "availability": "INSTOCK",
-        "inventory": 97
+        "inventory": 96
+      },
+      {
+        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-07-18 17:29:48",
+        "availability": "INSTOCK",
+        "inventory": 100
       },
       {
         "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
@@ -2400,11 +2408,27 @@
       },
       {
         "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-07-18 17:29:49",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
+        "price": 1799,
+        "currency": "INR",
+        "validFrom": "2024-07-18 17:29:47",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
         "price": 1899,
         "currency": "INR",
         "validFrom": "2024-07-12 15:25:27",
         "availability": "INSTOCK",
-        "inventory": 94
+        "inventory": 93
       },
       {
         "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
@@ -2416,9 +2440,33 @@
       },
       {
         "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
+        "price": 2199,
+        "currency": "INR",
+        "validFrom": "2024-07-18 17:29:49",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-07-18 17:29:48",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
         "price": 2500,
         "currency": "INR",
         "validFrom": "2024-07-16 14:28:58",
+        "availability": "INSTOCK",
+        "inventory": 98
+      },
+      {
+        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
+        "price": 2500,
+        "currency": "INR",
+        "validFrom": "2024-07-18 17:29:49",
         "availability": "INSTOCK",
         "inventory": 100
       },
@@ -2427,6 +2475,14 @@
         "price": 3499,
         "currency": "INR",
         "validFrom": "2024-07-16 14:28:59",
+        "availability": "INSTOCK",
+        "inventory": 97
+      },
+      {
+        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
+        "price": 4299,
+        "currency": "INR",
+        "validFrom": "2024-07-18 17:29:48",
         "availability": "INSTOCK",
         "inventory": 100
       },
@@ -2452,8 +2508,8 @@
   {
     "name": "Moon Rise Tour",
     "description": "The sensational Punjabi superstar Guru Randhawa is hitting the road for an epic Indian Tour! \u00f0\u0178\u0152\u0178\u00e2\u0153\u00a8\r\n\r\nBrace yourselves for electrifying performances, unforgettable moments, and a musical journey like never before.\r\n\r\nGather your squad, and get ready to groove to the beats of your favorite hits! \u00f0\u0178\u017d\u00b6\u00f0\u0178\u201d\u00a5\r\n\r\nStay tuned for more details and ticket information. \u00f0\u0178\u0161\u20ac\r\n\r\n#GuruRandhawa #IndianTour #LiveConcert #MoonriseTour",
-    "startDate": "2024-11-18T20:00:00+05:30",
-    "endDate": "2024-11-18T23:00:00+05:30",
+    "startDate": "2024-11-29T20:00:00+05:30",
+    "endDate": "2024-11-29T23:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2538,7 +2594,7 @@
         "currency": "INR",
         "validFrom": "2024-07-13 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 93
+        "inventory": 87
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et45225/details",
@@ -2587,7 +2643,7 @@
         "currency": "INR",
         "validFrom": "2024-07-13 16:07:23",
         "availability": "INSTOCK",
-        "inventory": 6
+        "inventory": 5
       },
       {
         "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et45228/details",
@@ -2595,7 +2651,7 @@
         "currency": "INR",
         "validFrom": "2024-07-13 16:07:24",
         "availability": "INSTOCK",
-        "inventory": 5
+        "inventory": 3
       }
     ],
     "performers": [],
@@ -2636,7 +2692,7 @@
         "currency": "INR",
         "validFrom": "2024-07-14 21:34:19",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 97
       },
       {
         "url": "https://www.zomato.com/events/dj-chetas-live-bengaluru-et45252/details",
@@ -2644,7 +2700,7 @@
         "currency": "INR",
         "validFrom": "2024-07-14 21:34:19",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/dj-chetas-live-bengaluru-et45252/details",
@@ -2766,7 +2822,7 @@
         "currency": "INR",
         "validFrom": "2024-07-17 15:52:05",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 97
       }
     ],
     "performers": [],
@@ -2807,15 +2863,15 @@
         "currency": "INR",
         "validFrom": "2024-07-17 15:52:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       },
       {
         "url": "https://www.zomato.com/events/aa-presents-the-wavy-tour-bengaluru-et45596/details",
         "price": 1500,
         "currency": "INR",
-        "validFrom": "2024-07-17 16:22:53",
+        "validFrom": "2024-07-17 16:22:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       }
     ],
     "performers": [],
@@ -2978,5 +3034,87 @@
       }
     ],
     "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658"
+  },
+  {
+    "name": "TRON1982 Live",
+    "description": "Take a step towards the future and relive the past with Tron 1982 \r\nExperience an electrifying night of retro-futuristic synth at Byg Brewski Brewing Company, Hennur, on July 19, 2024. \r\n\r\nAre you ready to dance, vibe, and go back in time to the neon-lit 80s?",
+    "startDate": "2024-07-19T20:00:00+05:30",
+    "endDate": "2024-07-19T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Southern Asia Bible College, 22, Hennur Bagalur Main Rd, Visthar, Byrathi",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "TRON1982 Live Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for TRON1982 Live Bengaluru on Zomato which is a Music event happening at Southern Asia Bible College, 22, Hennur Bagalur Main Rd, Visthar, Byrathi",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/29227d12a6ff3dfb5a8c5859c33a1ab71721288727.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/tron1982-live-bengaluru-et45704/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-18 13:31:02",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/tron1982-live-bengaluru-et45704"
+  },
+  {
+    "name": "Retronome at Gylt, Byg Brewski Hennur",
+    "description": "Bringing to you Bangalore's Biggest Cover band, Retronome, live at Gylt, Byg Brewski! Come by for a Night of unforgettable tunes and relive those memories while you sing and groove along!",
+    "startDate": "2024-07-26T20:00:00+05:30",
+    "endDate": "2024-07-26T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "SOUTHERN ASIA BIBLE COLLEGE, 22, Hennur Bagalur Main Rd, Visthar, Byrathi",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Retronome at Gylt, Byg Brewski Hennur Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Retronome at Gylt, Byg Brewski Hennur Bengaluru on Zomato which is a Music event happening at SOUTHERN ASIA BIBLE COLLEGE, 22, Hennur Bagalur Main Rd, Visthar, Byrathi",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/c21a879775db5be46eeb45d56661fcc21721288921.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/retronome-at-gylt-byg-brewski-hennur-bengaluru-et45705/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-18 13:31:03",
+        "availability": "INSTOCK",
+        "inventory": 250
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/retronome-at-gylt-byg-brewski-hennur-bengaluru-et45705"
   }
 ]
