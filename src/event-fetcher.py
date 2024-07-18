@@ -172,6 +172,13 @@ def get_local_events(files, filt):
                 for event in data:
                     if '@id' in event and event["@id"] in IGNORED_EVENT_UIDS:
                         continue
+                    for x in ["startDate", "endDate"]:
+                        if x in event:
+                            try:
+                                event[x] = datetime.fromisoformat(event[x]).astimezone(IST).isoformat()
+                            except Exception as e:
+                                print(f"Error parsing {x} for {event['url']}")
+                            
                     event = apply_patch(event, patch)
                     yield (event["url"], event)
             print(f"Processed {i} in {time.time() - start_ts:.2f}s")
