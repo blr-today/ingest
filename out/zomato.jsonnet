@@ -2701,7 +2701,7 @@
         "currency": "INR",
         "validFrom": "2024-07-15 22:10:41",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 188
       },
       {
         "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402/details",
@@ -2937,5 +2937,46 @@
       }
     ],
     "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et45646"
+  },
+  {
+    "name": "Caged ft. Arjun Vagale",
+    "description": "Caged Presents Arjun Vagale + more at The Park Ballroom on 10 Aug 2024\r\n\r\nWe have a very special guest - Arjun Vagale joining us for the big edition at The Park Ballroom on Aug 10, 2024, expect a top class sound & visual experience!",
+    "startDate": "2024-08-10T20:00:00+05:30",
+    "endDate": "2024-08-11T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "The Park, MG Road, 14/7, Bhaskaran Rd, Sivanchetti Gardens",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Caged ft. Arjun Vagale Party and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Caged ft. Arjun Vagale Bengaluru on Zomato which is a Party and Music event happening at The Park, MG Road, 14/7, Bhaskaran Rd, Sivanchetti Gardens",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/dffbb9d7016080040655a170c4437f4f1721275728.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-07-18 09:47:41",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658"
   }
 ]

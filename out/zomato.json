@@ -2698,7 +2698,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 196
+               "value": 188
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-15T22:10:41+05:30"
@@ -2950,5 +2950,47 @@
       "performers": [ ],
       "startDate": "2024-07-20T19:00:00+05:30",
       "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et45646"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Caged Presents Arjun Vagale + more at The Park Ballroom on 10 Aug 2024\r\n\r\nWe have a very special guest - Arjun Vagale joining us for the big edition at The Park Ballroom on Aug 10, 2024, expect a top class sound & visual experience!",
+      "endDate": "2024-08-11T01:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/dffbb9d7016080040655a170c4437f4f1721275728.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "streetAddress": "The Park, MG Road, 14/7, Bhaskaran Rd, Sivanchetti Gardens"
+         },
+         "name": "Bengaluru"
+      },
+      "name": "Caged ft. Arjun Vagale",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-18T09:47:41+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 50,
+      "startDate": "2024-08-10T20:00:00+05:30",
+      "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658"
    }
 ]
