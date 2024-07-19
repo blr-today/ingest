@@ -3661,5 +3661,168 @@
       }
     ],
     "url": "https://www.zomato.com/events/night-camping-trek-activities-ramanagar-bengaluru-et45789"
+  },
+  {
+    "name": "Bollywood Dance Workshop on 'Dhating Naach",
+    "description": "Meet Ashwa & Ishaan, the dynamic dance duo with a passion for energetic Bollywood beats! With over 10 years of dancing together, their journey began at IIT Delhi, where their college dance videos became viral sensations. As former members of the V-Defyn (IIT Delhi Dance Team), they bring high energy and creativity to every performance. Now based in Bangalore, they balance their startup careers with weekend dance sessions, keeping their love for dance alive and thriving. Join them to groove to the beats of \u00e2\u20ac\u02dcDhating naach', Bollywood style \u00f0\u0178\u00a5\u00b3\u00f0\u0178\u2022\u00ba\u00f0\u0178\u2022\u00ba",
+    "startDate": "2024-07-21T17:00:00+05:30",
+    "endDate": "2024-07-22T19:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "64, 1st Main Rd, S.T. Bed, 1st Block Koramangala, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Bollywood Dance Workshop on 'Dhating Naach Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bollywood Dance Workshop on 'Dhating Naach Bengaluru on Zomato which is a Experiences event happening at 64, 1st Main Rd, S.T. Bed, 1st Block Koramangala, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/1dcb1d5f9ac80bc30228fe1e03794d6b1721382720.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bollywood-dance-workshop-on-dhating-naach-bengaluru-et45841/details",
+        "price": 649,
+        "currency": "INR",
+        "validFrom": "2024-07-19 15:39:19",
+        "availability": "INSTOCK",
+        "inventory": 25
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bollywood-dance-workshop-on-dhating-naach-bengaluru-et45841"
+  },
+  {
+    "name": "Bollywood Dance Workshop on 'Dhating Naach",
+    "description": "Meet Ashwa & Ishaan, the dynamic dance duo with a passion for energetic Bollywood beats! With over 10 years of dancing together, their journey began at IIT Delhi, where their college dance videos became viral sensations. As former members of the V-Defyn (IIT Delhi Dance Team), they bring high energy and creativity to every performance. Now based in Bangalore, they balance their startup careers with weekend dance sessions, keeping their love for dance alive and thriving. Join them to groove to the beats of \u00e2\u20ac\u02dcDhating naach', Bollywood style \u00f0\u0178\u00a5\u00b3\u00f0\u0178\u2022\u00ba\u00f0\u0178\u2022\u00ba",
+    "startDate": "2024-07-20T17:00:00+05:30",
+    "endDate": "2024-07-21T19:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Step Hop Dance Company, Near Basavanpura Circle, Patel Ram Reddy Road, Gate, Bannerghatta Rd, Basavanapura",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Bollywood Dance Workshop on 'Dhating Naach Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bollywood Dance Workshop on 'Dhating Naach Bengaluru on Zomato which is a Experiences event happening at Step Hop Dance Company, Near Basavanpura Circle, Patel Ram Reddy Road, Gate, Bannerghatta Rd, Basavanapura",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/ed90b0606b8b9a386cfcf34c83bb41581721382782.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bollywood-dance-workshop-on-dhating-naach-bengaluru-et45842/details",
+        "price": 649,
+        "currency": "INR",
+        "validFrom": "2024-07-19 15:39:19",
+        "availability": "INSTOCK",
+        "inventory": 25
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bollywood-dance-workshop-on-dhating-naach-bengaluru-et45842"
+  },
+  {
+    "name": "In The Mood 2024 - Let's Get Loud",
+    "description": "An evening of wholesome and fun entertainment for the whole family with choral music, dance, and theatre featuring all-time favourites from pop, jazz, blues, and rock with dances ranging from contemporary to ballroom and medleys from Broadway's best musicals.\r\nA fun evening for families and music lovers. Apart from the stage program, there are food stalls and stalls featuring artifacts and other interesting items.",
+    "startDate": "2024-08-17T18:00:00+05:30",
+    "endDate": "2024-08-18T20:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "16th Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "In The Mood 2024 - Let's Get Loud Experiences, Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for In The Mood 2024 - Let's Get Loud Bengaluru on Zomato which is a Experiences, Music and Trending event happening at 16th Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f55bf71a53dcbe4fd4ae870c207b6f9e1721383218.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843/details",
+        "price": 350,
+        "currency": "INR",
+        "validFrom": "2024-07-19 15:30:00",
+        "availability": "INSTOCK",
+        "inventory": 254
+      },
+      {
+        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843/details",
+        "price": 350,
+        "currency": "INR",
+        "validFrom": "2024-07-19 15:30:00",
+        "availability": "INSTOCK",
+        "inventory": 254
+      },
+      {
+        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-07-19 15:30:00",
+        "availability": "INSTOCK",
+        "inventory": 303
+      },
+      {
+        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-07-19 15:30:00",
+        "availability": "INSTOCK",
+        "inventory": 303
+      },
+      {
+        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843/details",
+        "price": 750,
+        "currency": "INR",
+        "validFrom": "2024-07-19 15:30:00",
+        "availability": "INSTOCK",
+        "inventory": 215
+      },
+      {
+        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843/details",
+        "price": 750,
+        "currency": "INR",
+        "validFrom": "2024-07-19 15:30:00",
+        "availability": "INSTOCK",
+        "inventory": 215
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843"
   }
 ]
