@@ -1,3 +1,31 @@
+[project]
+name = "blr-today-ingest"
+version = "0.0.1"
+dependencies = [
+    "beautifulsoup4~=4.12",
+    "cleanurl~=0.1",
+    "curl_cffi~=0.6",
+    "datefinder~=0.7",
+    "html2text",
+    "html5lib~=1.1",
+    "ics~=0.7",
+    "jsonnet~=0.20",
+    "lxml~=5.1",
+    "python-dateutil~=2.9",
+    "python-jsonpath~=1.1",
+    "pytz",
+    "PyYAML~=6.0",
+    "requests-cache~=1.2",
+    "requests~=2.31",
+    "ujson~=5.10",
+    "urllib3~=2.2",
+    "w3lib~=2.1"
+]
+[project.optional-dependencies]
+test = [
+    "pytest~=8.2",
+    "pytest-httpbin~=2.0",
+]
 [tool.pytest.ini_options]
 pythonpath = [
   "src"

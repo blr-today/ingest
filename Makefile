@@ -177,4 +177,4 @@ all: fetch
 	python src/event-fetcher.py
 
 requirements.txt:
-	pipdeptree --local-only --python auto --warn silence -f | sed 's/ //g' | sort -u | grep -E '^\w+' > $@
+	uv pip compile --universal  --generate-hashes  --annotation-style line pyproject.toml -o requirements.txt
