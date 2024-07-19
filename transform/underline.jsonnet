@@ -14,6 +14,9 @@ local transformEvent(event) =
     sameAs: 'https://underline.center/t/' + event.post.id,
     inLanguage: 'en',
     eventStatus: 'EventScheduled',
+    maximumAttendeeCapacity: 45,
+    maximumPhysicalAttendeeCapacity: 45,
+    eventAttendanceMode: 'OfflineEventAttendanceMode',
     location: {
       '@type': 'Place',
       name: 'Underline Center',
@@ -22,9 +25,7 @@ local transformEvent(event) =
         latitude: 12.9672549,
         longitude: 77.6367397,
       },
-      maximumAttendeeCapacity: 45,
-      maximumPhysicalAttendeeCapacity: 45,
-      eventAttendanceMode: 'OfflineEventAttendanceMode',
+      
       address: {
         '@type': 'PostalAddress',
         streetAddress: '3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd',
