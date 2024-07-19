@@ -32,7 +32,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 154
+               "value": 151
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -41,7 +41,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1064
+               "value": 1062
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -447,7 +447,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 62
+               "value": 58
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-04T13:00:00+05:30"
@@ -476,48 +476,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 9 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ PRASHU and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-      "endDate": "2024-07-19T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/c1fa4a4dc3d5fdb81a773e8965c19bcb1720455304.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Boogie Nights",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 62
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-08T22:23:55+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 62,
-      "startDate": "2024-07-19T21:00:00+05:30",
-      "url": "https://www.zomato.com/events/boogie-nights-bengaluru-et44627"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ FRANKY and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
       "endDate": "2024-07-21T23:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -539,7 +497,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 55
+               "value": 53
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-08T22:23:55+05:30"
@@ -553,7 +511,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 55,
+      "remainingAttendeeCapacity": 53,
       "startDate": "2024-07-21T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et44628"
    },
@@ -728,48 +686,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8 p.m., Hard Rock Cafe Whitefield Bengaluru is happy to host DJ Chirag and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-      "endDate": "2024-07-19T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/87ed79e6f3956df9ddf3bc299558d3101720455881.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Blockbuster Friday",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 75
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-08T22:23:58+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 75,
-      "startDate": "2024-07-19T20:00:00+05:30",
-      "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et44636"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night",
       "endDate": "2024-07-25T23:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -791,7 +707,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 61
+               "value": 57
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-08T22:23:59+05:30"
@@ -805,7 +721,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 61,
+      "remainingAttendeeCapacity": 57,
       "startDate": "2024-07-25T21:00:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et44637"
    },
@@ -914,7 +830,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "This paradise of misty hills and lush green tea and coffee plantations is a sweet escape from the noisy city life, resting peacefully at a height of 3,400 ft. Get ready to immerse yourself in the arms of nature! \r\nWhether you’re a thrill-seeker or a nature lover, Chikmagalur’s got you covered. Hike through the rugged terrain, or take a dip in one of the many cascading waterfalls, there’s so much to explore",
-      "endDate": "2024-07-21T23:00:00+05:30",
+      "endDate": "2024-07-21 23:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/8faa45de8a8868895063b3125b1db7e81720693833.png",
@@ -949,7 +865,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 6,
-      "startDate": "2024-07-19T21:30:00+05:30",
+      "startDate": "2024-07-19 21:30:00",
       "url": "https://www.zomato.com/events/chikmagalur-weekend-getaway-bengaluru-et45014"
    },
    {
@@ -998,7 +914,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Time to put on your adventure hat and escape to a place where relaxation and thrill collide in the most tantalizing way possible! Imagine waking up to the aroma of freshly ground coffee beans surrounded by lush greenery worthy of a postcard.\r\n\r\nGet ready to explore winding trails and stunning waterfalls, trading city life for an unforgettable adventure that will stay with you forever. Coorg's calling, are you ready",
-      "endDate": "2024-07-21T23:00:00+05:30",
+      "endDate": "2024-07-21 23:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/ff7970ecf78b41a7b19b422139113b0a1720694900.png",
@@ -1033,7 +949,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 10,
-      "startDate": "2024-07-19T21:30:00+05:30",
+      "startDate": "2024-07-19 21:30:00",
       "url": "https://www.zomato.com/events/coorg-weekend-getaway-bengaluru-et45016"
    },
    {
@@ -1082,7 +998,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "The lush-green town of Wayanad in Kerala is hidden in the Malabar region on the Western Ghats. Sparsely populated, the forest-covered region abounds in picturesque hills meandered with streams, tea estates, and wildlife sanctuaries. Referred to as the ‘Spice Garden of India’, Wayanad is a hub of spices such as cardamom, star anise, fenugreek, black pepper, black cumin, etc. Adding to its treasures are Asia’s second largest and India’s largest damn, the Banasura Sagar Dam, the Edakkal Caves from the Neolithic Age to trek to. Witness a majestic sunset at the backdrop of the dam, go hiking, mountaineering, camping, or rock climbing, you’d never run out of fun activities at Wayanad.",
-      "endDate": "2024-07-22T03:00:00+05:30",
+      "endDate": "2024-07-22 03:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/eb8b37e778ed2f2a3a0ff05851fdecf91720695757.png",
@@ -1117,7 +1033,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 10,
-      "startDate": "2024-07-19T21:30:00+05:30",
+      "startDate": "2024-07-19 21:30:00",
       "url": "https://www.zomato.com/events/wayanad-weekend-getaway-bengaluru-et45026"
    },
    {
@@ -1166,7 +1082,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Kodaikanal, also known as the Princess of Hills in Tamil Nadu, is one of the most popular tourist destinations in South India. Often considered for a romantic weekend retreat, the quaint little town is blessed with a perfect temperature at any given season. If you are seeking time alone in the lap of nature with your loved ones, Kodai is the place to go. Adorned with cascading waterfalls, shimmering lakes, and undulating green hills, the town will leave you awestruck with its natural beauty.",
-      "endDate": "2024-07-22T05:00:00+05:30",
+      "endDate": "2024-07-22 05:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/913e1ccb371fafedf21a005917ff14cb1720695835.png",
@@ -1201,7 +1117,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 10,
-      "startDate": "2024-07-19T20:30:00+05:30",
+      "startDate": "2024-07-19 20:30:00",
       "url": "https://www.zomato.com/events/kodaikanal-weekend-getaway-bengaluru-et45028"
    },
    {
@@ -1250,7 +1166,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Munnar is a popular hill station located in the state of Kerala, India. It is known for its breathtaking landscapes, tea gardens, spice plantations, and cool climate, making it a favored destination for nature lovers and adventure enthusiasts. It is also known for its stunning landscapes, tea plantations, and pleasant weather. Munnar, with its scenic beauty, tea gardens, and tranquil ambiance, provides a perfect getaway to experience the charm of Kerala's hill stations",
-      "endDate": "2024-07-22T05:00:00+05:30",
+      "endDate": "2024-07-22 05:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/3d85d76416323880101833b7f9b0642a1720695939.png",
@@ -1285,7 +1201,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 10,
-      "startDate": "2024-07-19T20:30:00+05:30",
+      "startDate": "2024-07-19 20:30:00",
       "url": "https://www.zomato.com/events/munnar-weekend-getaway-bengaluru-et45031"
    },
    {
@@ -1334,7 +1250,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Ooty and Coonoor are charming hill stations nestled in the Nilgiri Hills of Tamil Nadu, India. Here's a brief overview of each:\r\n\r\nAlso known as the \"Queen of Hill Stations,\" Ooty is one of the most popular tourist destinations in South India.\r\nIt boasts pleasant weather throughout the year, with cool temperatures making it a perfect retreat from the heat of the plains. Ooty is famous for its sprawling tea gardens, lush green landscapes, and picturesque viewpoints like Doddabetta Peak, offering panoramic views of the surrounding hills.",
-      "endDate": "2024-07-22T05:00:00+05:30",
+      "endDate": "2024-07-22 05:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/f07ebc5fb90af891deac3cc602a413441720696090.png",
@@ -1369,7 +1285,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 10,
-      "startDate": "2024-07-19T20:30:00+05:30",
+      "startDate": "2024-07-19 20:30:00",
       "url": "https://www.zomato.com/events/ooty-connoor-weekend-getaway-bengaluru-et45034"
    },
    {
@@ -1418,7 +1334,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "What do you visualize if we ask you about a weekend on a beach? We would not be surprised if you say Goa. And that’s precisely why we need an alternative to Goa, one which is away from the humdrum of life, one which brings peace and serenity for the weekend.\r\n\r\nThis is precisely what Gokarna offers. If you are looking for a place for an escapade, to take a break after the week-long 9-5 office hours, and are tired of glancing at pictures of breath-taking beaches on your monitor, go ahead and pack your bags already.",
-      "endDate": "2024-07-22T05:00:00+05:30",
+      "endDate": "2024-07-22 05:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/d2ec6884c441ed7d31b71f93722508591720696665.png",
@@ -1453,7 +1369,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 10,
-      "startDate": "2024-07-19T20:30:00+05:30",
+      "startDate": "2024-07-19 20:30:00",
       "url": "https://www.zomato.com/events/gokarna-murudeshwar-weekend-getaway-bengaluru-et45043"
    },
    {
@@ -1502,7 +1418,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Exploring the Ancient Beauty of Hampi in Karnataka Hampi, located in Karnataka, is a site of great historical significance. Once the capital city of the Vijayanagara Empire, it is now a UNESCO World Heritage Site with over 500 ruins and monuments. Many consider Hampi to be the second largest city of its time, following only Beijing. Situated on the banks of the Tungabhadra River, Hampi boasts ancient India's grandeur with its intricate architecture, brilliant engineering, and breathtaking scenery. The most significant structure is the Virupaksha Temple, which is dedicated to the empire's patron deity. But don't be fooled into thinking that Hampi is only about history.",
-      "endDate": "2024-07-22T05:00:00+05:30",
+      "endDate": "2024-07-22 05:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/d8c2fe323b649e4bd8acb5032be670991720697050.png",
@@ -1537,7 +1453,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 10,
-      "startDate": "2024-07-19T21:30:00+05:30",
+      "startDate": "2024-07-19 21:30:00",
       "url": "https://www.zomato.com/events/hampi-weekend-getaway-bengaluru-et45046"
    },
    {
@@ -1586,7 +1502,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Pondicherry, often referred to as Puducherry is a charming coastal town on the southeastern coast of India. Steeped in a unique blend of French and Indian influences, this Union Territory exudes a laid-back and multicultural vibe. The French Quarter, with its cobblestone streets and colonial architecture, transports you to a different era, while the bustling markets and vibrant Tamil culture showcase the town's diverse identity. With its serene beaches, like Promenade Beach and Paradise Beach, and the iconic Aurobindo Ashram, Pondicherry offers the perfect mix of relaxation and spiritual exploration. The delectable French-inspired cuisine and the colorful streets of the Auroville community further add to the town's distinctive allure. Pondicherry is a haven for those seeking a peaceful escape with a touch of cultural richness\"",
-      "endDate": "2024-07-22T05:00:00+05:30",
+      "endDate": "2024-07-22 05:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/0a01b2619f80131f20605207875a45871720697232.png",
@@ -1621,7 +1537,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 10,
-      "startDate": "2024-07-19T21:30:00+05:30",
+      "startDate": "2024-07-19 21:30:00",
       "url": "https://www.zomato.com/events/pondicherry-weekend-getaway-bengaluru-et45048"
    },
    {
@@ -1670,7 +1586,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Skandagiri, also known as Kalwarbetta or Kalavara Durga, is a mountain fortress 70 km from Bangalore. This 8 km, 4-hour trek offers a moderately difficult climb starting at Papagni Temple, leading through dense shrubs and steep terrain. At the summit, explore Tipu Sultan’s ruins and enjoy a stunning sunrise above the clouds.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n• Raincoat/Poncho (during monsoon)\r\n• ID proof\r\n• Backpack\r\n• Sunscreen/cap\r\n• Track pants\r\n• Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n• Torch (with extra batteries)\r\n• Personal Medication\r\n• Necessary toiletries\r\n• Shoes with a good grip",
-      "endDate": "2024-07-21T21:00:00+05:30",
+      "endDate": "2024-07-21 21:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/4e4330c9374a2b31a99de9124253754a1720698533.png",
@@ -1705,7 +1621,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 50,
-      "startDate": "2024-07-19T21:00:00+05:30",
+      "startDate": "2024-07-19 21:00:00",
       "url": "https://www.zomato.com/events/skandagiri-sunrise-night-trek-bengaluru-et45052"
    },
    {
@@ -1754,7 +1670,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Situated in the Charmadi Ghats area of the western ghats, this offbeat trail to Bandaje waterfalls is one of the must-do treks when in Bangalore. The journey takes you through magnificent meadows, river streams, and lush green forests, all of which are a delight to behold. Embark on this exciting trek and see the beauty for yourself.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n• Raincoat/Poncho (during monsoon)\r\n• ID proof\r\n• Backpack\r\n• Sunscreen/cap\r\n• Track pants\r\n• Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n• Torch (with extra batteries)\r\n• Personal Medication\r\n• Necessary toiletries\r\n• Shoes with a good grip",
-      "endDate": "2024-07-21T21:00:00+05:30",
+      "endDate": "2024-07-21 21:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/823a7bea12a80bd8c473ddf17d4de5791720698865.png",
@@ -1789,7 +1705,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 50,
-      "startDate": "2024-07-19T21:00:00+05:30",
+      "startDate": "2024-07-19 21:00:00",
       "url": "https://www.zomato.com/events/bandajje-waterfalls-trek-bengaluru-et45057"
    },
    {
@@ -1838,7 +1754,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Experience the breathtaking panoramic views of the Kodachadri Hills in Valur, Karnataka. Located at an altitude of 1343 meters, these hills are surrounded by dense forest and attract thousands of visitors annually. Challenge yourself on a 2-day trek from Bangalore, navigating tricky terrains to reach the summit and admire the vast Western Ghats. Explore the natural wonders of Kodachadri, including Hidlumane Waterfalls, Nagara Fort, and Jog Falls.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n• Raincoat/Poncho (during monsoon)\r\n• ID proof\r\n• Backpack\r\n• Sunscreen/cap\r\n• Track pants\r\n• Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n• Torch (with extra batteries)\r\n• Personal Medication\r\n• Necessary toiletries\r\n• Shoes with a good grip",
-      "endDate": "2024-07-21T21:00:00+05:30",
+      "endDate": "2024-07-21 21:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/19c190f6ad5baf810709d9728d76108c1720698946.png",
@@ -1873,7 +1789,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 50,
-      "startDate": "2024-07-19T21:00:00+05:30",
+      "startDate": "2024-07-19 21:00:00",
       "url": "https://www.zomato.com/events/kodachadri-trek-jog-falls-bengaluru-et45060"
    },
    {
@@ -1922,7 +1838,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Ettina Bhuja, meaning Ox's Shoulder in Kannada, is near Dharmasthala, in Byrapura village, Mudigere range, Chikmagalur district. Located about 250km from Bangalore, it's an ideal weekend getaway.\r\nThough not well-known among trekkers, Ettina Bhuja offers scenic landscapes at 1300m altitude with grasslands, forests, bamboo, and cane plantations. The trek features the soothing sounds of nature.\r\nAt the top, which resembles an ox's hump, enjoy panoramic views of dense green forests.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n• Raincoat/Poncho (during monsoon)\r\n• ID proof\r\n• Backpack\r\n• Sunscreen/cap\r\n• Track pants\r\n• Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n• Torch (with extra batteries)\r\n• Personal Medication\r\n• Necessary toiletries\r\n• Shoes with a good grip",
-      "endDate": "2024-07-21T21:00:00+05:30",
+      "endDate": "2024-07-21 21:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/888e8af4b5597e9c3897986dfdacaecb1720699036.png",
@@ -1957,7 +1873,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 50,
-      "startDate": "2024-07-19T21:00:00+05:30",
+      "startDate": "2024-07-19 21:00:00",
       "url": "https://www.zomato.com/events/ettina-bhuja-trek-bengaluru-et45062"
    },
    {
@@ -2006,7 +1922,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Coorg in South Karnataka refreshes minds with its lush greenery and stunning Western Ghats views. Its replenishing nature, tricky terrains, wooded slopes, and misty valleys attract many travelers and trekkers. Tadiandamol, Coorg's highest peak at 1,748m, is surrounded by the Shola forests' stunning greenery. Enjoy exploring Coorg's captivating landscape, and feel the pride of conquering its highest peak, rewarded with sweeping views of green forests and coffee plantations.\r\nTotal Trek distance: 22 Kms, Level of Trek : Moderate.\r\nThings to Carry:\r\n• Raincoat/Poncho (during monsoon)\r\n• ID proof\r\n• Backpack\r\n• Sunscreen/cap\r\n• Track pants\r\n• Full sleeve cotton t-shirt (to avoid getting sun burnt)\r\n• Torch (with extra batteries)\r\n• Personal Medication\r\n• Necessary toiletries\r\n• Shoes with a good grip",
-      "endDate": "2024-07-21T21:00:00+05:30",
+      "endDate": "2024-07-21 21:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/d7df6682c95ca9d62b4135d1742efb931720699127.png",
@@ -2041,7 +1957,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 50,
-      "startDate": "2024-07-19T21:00:00+05:30",
+      "startDate": "2024-07-19 21:00:00",
       "url": "https://www.zomato.com/events/tadiandamol-trek-bengaluru-et45064"
    },
    {
@@ -2090,7 +2006,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Head out on an adventurous trek to Dudhsagar Falls, located on Goa's eastern border. Known as the ‘Sea of Milk,’ this four-tiered waterfall on the Mandovi River is one of India's tallest, standing at 310m (1017 feet) with an average width of 30m (100 feet).\r\n\r\nThe falls are nestled in the Bhagwan Mahaveer Sanctuary and Mollem National Park within the Western Ghats, marking the border between Karnataka and Goa. Surrounded by thick deciduous forests, the area boasts rich biodiversity, perfect for a two-day trek.\r\n\r\nTotal trek distance: 22 km, moderate difficulty.\r\n\r\nThings to carry:\r\n• Raincoat/Poncho (monsoon)\r\n• ID proof\r\n• Backpack\r\n• Sunscreen/Cap\r\n• Track pants\r\n• Full sleeve cotton T-shirt\r\n• Torch (with extra batteries)\r\n• Personal medication\r\n• Necessary toiletries\r\n• Shoes with a good grip",
-      "endDate": "2024-07-21T21:00:00+05:30",
+      "endDate": "2024-07-21 21:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/f9b21205a3aa5c6e47ebf1f7afb63a9e1720699210.png",
@@ -2125,7 +2041,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 50,
-      "startDate": "2024-07-19T21:00:00+05:30",
+      "startDate": "2024-07-19 21:00:00",
       "url": "https://www.zomato.com/events/dudhsagar-trek-bengaluru-et45068"
    },
    {
@@ -2174,7 +2090,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Ramanagara, 50 km southwest of Bangalore, stands at 747 meters (2450 feet) and is famous for its massive granite outcrops. Known for short rock climbs, grades range from 5.8 to 5.11 American. It features some of the world's oldest granite outcrops, including Ramdevarabetta, famous for its cave entrances in \"Passage to India.\" The trek distance is 4 km, with a moderate difficulty level.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n• Raincoat/Poncho (during monsoon)\r\n• ID proof\r\n• Backpack\r\n• Sunscreen/cap\r\n• Track pants\r\n• Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n• Torch (with extra batteries)\r\n• Personal Medication\r\n• Necessary toiletries\r\n• Shoes with a good grip",
-      "endDate": "2024-07-21T21:00:00+05:30",
+      "endDate": "2024-07-21 21:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/01eb6531c79d5a679a78e54707040a881720699264.png",
@@ -2209,7 +2125,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 50,
-      "startDate": "2024-07-19T21:00:00+05:30",
+      "startDate": "2024-07-19 21:00:00",
       "url": "https://www.zomato.com/events/night-camping-trek-activities-ramanagar-bengaluru-et45072"
    },
    {
@@ -2258,7 +2174,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Caged Presents Pooja B + Oddible for the next edition on 19 July 2024\r\n\r\nSupport from Ibthisam + Zekt\r\n\r\n1+1 on the Bar for Select Beverages till 9 pm.",
-      "endDate": "2024-07-20T01:00:00+05:30",
+      "endDate": "2024-07-20 01:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/2ac7f1b09724e095953ac38639d41d4f1720777687.jpeg",
@@ -2278,7 +2194,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 98
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-12T15:25:26+05:30"
@@ -2292,8 +2208,8 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 100,
-      "startDate": "2024-07-19T19:00:00+05:30",
+      "remainingAttendeeCapacity": 98,
+      "startDate": "2024-07-19 19:00:00",
       "url": "https://www.zomato.com/events/caged-bengaluru-et45139"
    },
    {
@@ -2320,28 +2236,10 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 96
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-12T15:25:26+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 100
+               "value": 98
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-18T17:29:48+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 99
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-12T15:25:26+05:30"
          },
          {
             "availability": "InStock",
@@ -2356,7 +2254,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 95
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-18T17:29:47+05:30"
@@ -2365,25 +2263,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 93
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-12T15:25:27+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 100
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-16T14:28:58+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 100
+               "value": 98
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-18T17:29:49+05:30"
@@ -2392,7 +2272,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 99
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-18T17:29:48+05:30"
@@ -2401,16 +2281,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 98
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-16T14:28:58+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 100
+               "value": 97
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-18T17:29:49+05:30"
@@ -2419,16 +2290,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 97
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-16T14:28:59+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 100
+               "value": 96
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-18T17:29:48+05:30"
@@ -2472,7 +2334,7 @@
          },
          "name": "Bengaluru"
       },
-      "name": "Moon Rise Tour",
+      "name": "Guru Randhawa - Moon Rise Tour",
       "offers": [ ],
       "organizer": [
          {
@@ -2509,7 +2371,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 87
+               "value": 80
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-13T15:00:00+05:30"
@@ -2568,7 +2430,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 3
+               "value": 2
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-13T16:07:24+05:30"
@@ -2618,7 +2480,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 96
+               "value": 95
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-14T21:34:19+05:30"
@@ -2727,7 +2589,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 96
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-17T15:52:04+05:30"
@@ -2736,7 +2598,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 97
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-17T15:52:05+05:30"
@@ -2745,7 +2607,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 97
+               "value": 92
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-17T15:52:05+05:30"
@@ -2786,7 +2648,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 98
+               "value": 82
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-17T15:52:00+05:30"
@@ -2795,7 +2657,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 99
+               "value": 81
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-17T16:22:00+05:30"
@@ -2820,13 +2682,13 @@
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/b4620aea34fd2f44609424eeb0a95e661721235742.png",
-      "isAccessibleForFree": true,
+      "isAccessibleForFree": false,
       "location": {
          "@type": "Place",
          "address": {
             "@type": "PostalAddress",
             "addressCountry": "India",
-            "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala"
+            "streetAddress": "Nagavara, Bengaluru, Karnataka 560032"
          },
          "name": "Bengaluru"
       },
@@ -2839,7 +2701,7 @@
                "value": 20
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-07-17T17:51:13+05:30"
+            "validFrom": "2024-07-19T19:58:31+05:30"
          },
          {
             "availability": "InStock",
@@ -2848,7 +2710,7 @@
                "value": 20
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-07-17T17:51:12+05:30"
+            "validFrom": "2024-07-19T19:58:31+05:30"
          },
          {
             "availability": "InStock",
@@ -2971,48 +2833,6 @@
       "remainingAttendeeCapacity": 50,
       "startDate": "2024-08-10T20:00:00+05:30",
       "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Take a step towards the future and relive the past with Tron 1982 \r\nExperience an electrifying night of retro-futuristic synth at Byg Brewski Brewing Company, Hennur, on July 19, 2024. \r\n\r\nAre you ready to dance, vibe, and go back in time to the neon-lit 80s?",
-      "endDate": "2024-07-19T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/29227d12a6ff3dfb5a8c5859c33a1ab71721288727.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "Southern Asia Bible College, 22, Hennur Bagalur Main Rd, Visthar, Byrathi"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "TRON1982 Live",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 100
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-18T13:31:02+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 100,
-      "startDate": "2024-07-19T20:00:00+05:30",
-      "url": "https://www.zomato.com/events/tron1982-live-bengaluru-et45704"
    },
    {
       "@context": "https://schema.org",
@@ -3897,5 +3717,47 @@
       "performers": [ ],
       "startDate": "2024-08-17T18:00:00+05:30",
       "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Bangalore, we are back again with another banger gathering.\r\nJoin us for an unforgettable vinyl party at Sly Granny Bangalore on July 20th! Experience curated sets by community selectors from India Record Co, culminating in a closing vinyl set by Harbourdubs from Bombay.\r\nCome for nostalgia, stay for the party!",
+      "endDate": "2024-07-21T01:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/9036cd114b7abdb36ef8ab737593c5841721400006.png",
+      "isAccessibleForFree": true,
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "streetAddress": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar"
+         },
+         "name": "Bengaluru"
+      },
+      "name": "House Party Series",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 296
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-19T20:00:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 296,
+      "startDate": "2024-07-20T20:00:00+05:30",
+      "url": "https://www.zomato.com/events/house-party-series-bengaluru-et45867"
    }
 ]
