@@ -2666,7 +2666,7 @@
         "currency": "INR",
         "validFrom": "2024-07-15 22:10:41",
         "availability": "INSTOCK",
-        "inventory": 197
+        "inventory": 196
       },
       {
         "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402/details",
@@ -2674,7 +2674,7 @@
         "currency": "INR",
         "validFrom": "2024-07-15 22:10:41",
         "availability": "INSTOCK",
-        "inventory": 188
+        "inventory": 186
       },
       {
         "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402/details",
