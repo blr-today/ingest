@@ -2155,47 +2155,6 @@
     "url": "https://www.zomato.com/events/night-camping-trek-activities-ramanagar-bengaluru-et45073"
   },
   {
-    "name": "Caged",
-    "description": "Caged Presents Pooja B + Oddible for the next edition on 19 July 2024\r\n\r\nSupport from Ibthisam + Zekt\r\n\r\n1+1 on the Bar for Select Beverages till 9 pm.",
-    "startDate": "2024-07-19 19:00:00",
-    "endDate": "2024-07-20 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Caged Party and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Caged Bengaluru on Zomato which is a Party and Music event happening at THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2ac7f1b09724e095953ac38639d41d4f1720777687.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/caged-bengaluru-et45139/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-07-12 15:25:26",
-        "availability": "INSTOCK",
-        "inventory": 98
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/caged-bengaluru-et45139"
-  },
-  {
     "name": "Sagar Waali Qawwali",
     "description": "Immerse yourself in the spellbinding \"Sagar Waali Qawwali\" at Sunburn Union, Bengaluru. Prepare for an evening of captivating qawwali performances by the talented Sagar Bhatia, who masterfully fuses the timeless beauty of traditional Sufi music with contemporary influences. Join us for an unforgettable night of soulful melodies, entrancing rhythms, and powerful vocals that will stir your heart and spirit. Don\u2019t miss this opportunity to experience an extraordinary musical journey in a vibrant, culturally rich setting. Let the enchanting qawwali rhythms transport you and leave you utterly spellbound.",
     "startDate": "2024-07-21T19:00:00+05:30",
