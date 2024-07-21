@@ -113,48 +113,6 @@
     "url": "https://www.zomato.com/events/tribute-to-pink-floyd-bengaluru-et43185"
   },
   {
-    "name": "1000 wishes",
-    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats.",
-    "startDate": "2024-07-21T13:00:00+05:30",
-    "endDate": "2024-07-21T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "1000 wishes Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for 1000 wishes Bengaluru on Zomato which is a Experiences event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/9656e66ea4903f4bce7af55a1c1846191719828303.png",
-      "https://b.zmtcdn.com/data/zomaland/543df03cab4d2c0946f0fb2862ead00b1719828361.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/1000-wishes-bengaluru-et43657/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-07-01 10:57:58",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/1000-wishes-bengaluru-et43657"
-  },
-  {
     "name": "Starry Night",
     "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats.",
     "startDate": "2024-07-27T16:00:00+05:30",
@@ -343,76 +301,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987"
-  },
-  {
-    "name": "Bengaluru Catapalooza",
-    "description": "Get ready to party at Bengaluru Catapalooza! Gully Coffee Roasters is the place to be for your furry antics, frothy brews, and a whole lot of whisker-twitching fun. Don't miss out\u2014join us for this meow-nificent event and let's raise the meowww... I mean, toast, to our fabulous feline friends!\r\n                                                                                                                                   \r\nIncludes:                                                                                                                                                                               \r\n- Exciting Games & Gifts for your pets\r\n- Free pet food buffet\r\n- Free Basic Health Check-up \r\n-Interactive Session with Cat Expert\r\n- Free Goodie Bag for all.\r\n- No Charges for Pets\r\n\r\nOngroud tickets will be priced at 700/- per person",
-    "startDate": "2024-07-21T15:00:00+05:30",
-    "endDate": "2024-07-21T18:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "28, ground floor, 4th B Cross, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Bengaluru Catapalooza Experiences and Best seller event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bengaluru Catapalooza Bengaluru on Zomato which is a Experiences and Best seller event happening at 28, ground floor, 4th B Cross, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/ef5ff2534dc10eb495770ce56fe2a5aa1720078392.png",
-      "https://b.zmtcdn.com/data/zomaland/35581886547295f949775836368d29641720079074.png",
-      "https://b.zmtcdn.com/data/zomaland/77bdd9333e4333779793eaf7af34914d1720081113.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/5b66aa333ecc2e22933988657acb43131720081113.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/f808fca355f2adb11c563211d2ac15c81720081113.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/671c64af66de8dfe9229b60f92037e481720081113.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/8355963910897e1dbce23c9de4bb65d41720081113.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/9b464ab03edb6ee1f7ba2cb98d6c1c881720081113.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/ff19368f860ab1a5c8907e94696585701720081113.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/33510ce813b8869d29f50275e11e3fc61720081113.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/8922fcd15d9d140cfb0c3862f751c1d61720081113.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/04e8bb1d9bb42787aebe23f51b6f51671720081114.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/c58f811edc795c91a288ef82ffbfbbba1720081114.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/718ef3d5d189fe388debca9a35a498091720081114.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/df2c44786b89914e36d98e63d711bb3c1720081114.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/a2aaf01357ec96a75ab5808455c34b561720081114.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/ab1c26c6f3e2bccdd3e2a9d56fb71b131720081114.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/1463030e84a7e657d67309812162feeb1720081114.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/b8e5182656c00cc78bb88506527246c51720081114.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/ad8b4b10fed8ed0a7b5711360c457ad91720081114.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/97a8483f5cfaba69da734d403a3893cf1720081114.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/2d4aa8a188a4278d2fbbd4b355fb97f51720081114.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bengaluru-catapalooza-bengaluru-et44089/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-04 13:00:00",
-        "availability": "INSTOCK",
-        "inventory": 45
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-catapalooza-bengaluru-et44089/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-07-04 13:00:00",
-        "availability": "INSTOCK",
-        "inventory": 32
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bengaluru-catapalooza-bengaluru-et44089"
   },
   {
     "name": "Rock Out Sundays",
@@ -2014,103 +1902,6 @@
     "url": "https://www.zomato.com/events/night-camping-trek-activities-ramanagar-bengaluru-et45073"
   },
   {
-    "name": "Sagar Waali Qawwali",
-    "description": "Immerse yourself in the spellbinding \"Sagar Waali Qawwali\" at Sunburn Union, Bengaluru. Prepare for an evening of captivating qawwali performances by the talented Sagar Bhatia, who masterfully fuses the timeless beauty of traditional Sufi music with contemporary influences. Join us for an unforgettable night of soulful melodies, entrancing rhythms, and powerful vocals that will stir your heart and spirit. Don\u2019t miss this opportunity to experience an extraordinary musical journey in a vibrant, culturally rich setting. Let the enchanting qawwali rhythms transport you and leave you utterly spellbound.",
-    "startDate": "2024-07-21T19:00:00+05:30",
-    "endDate": "2024-07-22T01:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Sagar Waali Qawwali Experiences, Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sagar Waali Qawwali Bengaluru on Zomato which is a Experiences, Music and Trending event happening at Passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/11edb8edb6fd5818e8d9c883bf4fe6c81720777767.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-07-18 17:29:48",
-        "availability": "INSTOCK",
-        "inventory": 96
-      },
-      {
-        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-07-18 17:29:49",
-        "availability": "INSTOCK",
-        "inventory": 99
-      },
-      {
-        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
-        "price": 1799,
-        "currency": "INR",
-        "validFrom": "2024-07-18 17:29:47",
-        "availability": "INSTOCK",
-        "inventory": 93
-      },
-      {
-        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
-        "price": 2199,
-        "currency": "INR",
-        "validFrom": "2024-07-18 17:29:49",
-        "availability": "INSTOCK",
-        "inventory": 96
-      },
-      {
-        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-07-18 17:29:48",
-        "availability": "INSTOCK",
-        "inventory": 99
-      },
-      {
-        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
-        "price": 2500,
-        "currency": "INR",
-        "validFrom": "2024-07-18 17:29:49",
-        "availability": "INSTOCK",
-        "inventory": 97
-      },
-      {
-        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
-        "price": 4299,
-        "currency": "INR",
-        "validFrom": "2024-07-18 17:29:48",
-        "availability": "INSTOCK",
-        "inventory": 94
-      },
-      {
-        "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
-        "price": 8000,
-        "currency": "INR",
-        "validFrom": "2024-07-12 15:25:27",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140"
-  },
-  {
     "name": "Guru Randhawa - Moon Rise Tour",
     "description": "The sensational Punjabi superstar Guru Randhawa is hitting the road for an epic Indian Tour! \u00f0\u0178\u0152\u0178\u00e2\u0153\u00a8\r\n\r\nBrace yourselves for electrifying performances, unforgettable moments, and a musical journey like never before.\r\n\r\nGather your squad, and get ready to groove to the beats of your favorite hits! \u00f0\u0178\u017d\u00b6\u00f0\u0178\u201d\u00a5\r\n\r\nStay tuned for more details and ticket information. \u00f0\u0178\u0161\u20ac\r\n\r\n#GuruRandhawa #IndianTour #LiveConcert #MoonriseTour",
     "startDate": "2024-11-29T20:00:00+05:30",
@@ -2329,8 +2120,8 @@
   {
     "name": "Speed Dating",
     "description": "Tired of swiping and texting? Come, join us at our social mixer to meet potential dates and friends in real life.\r\nWe`ve designed this event to boost intimacy between curated attendees, resulting in friendship, romance, and even marriage.\r\nOur fun icebreakers and speed dating games during the event facilitate mindful conversations and deep connections.\r\nSo come, and experience some cool, quirky games for introverts to break the ice without any pressure! \r\nSeek a friend, flatmate, date, or startup soulmate- find it all at Speed Dating!",
-    "startDate": "2024-07-21T18:00:00+05:30",
-    "endDate": "2024-07-21T20:00:00+05:30",
+    "startDate": "2024-07-21 18:00:00",
+    "endDate": "2024-07-21 20:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3132,8 +2923,8 @@
   {
     "name": "Bollywood Dance Workshop on 'Dhating Naach",
     "description": "Meet Ashwa & Ishaan, the dynamic dance duo with a passion for energetic Bollywood beats! With over 10 years of dancing together, their journey began at IIT Delhi, where their college dance videos became viral sensations. As former members of the V-Defyn (IIT Delhi Dance Team), they bring high energy and creativity to every performance. Now based in Bangalore, they balance their startup careers with weekend dance sessions, keeping their love for dance alive and thriving. Join them to groove to the beats of \u00e2\u20ac\u02dcDhating naach', Bollywood style \u00f0\u0178\u00a5\u00b3\u00f0\u0178\u2022\u00ba\u00f0\u0178\u2022\u00ba",
-    "startDate": "2024-07-21T17:00:00+05:30",
-    "endDate": "2024-07-22T19:30:00+05:30",
+    "startDate": "2024-07-21 17:00:00",
+    "endDate": "2024-07-22 19:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3212,87 +3003,6 @@
     "url": "https://www.zomato.com/events/bollywood-dance-workshop-on-dhating-naach-bengaluru-et45842"
   },
   {
-    "name": "In The Mood 2024 - Let's Get Loud",
-    "description": "An evening of wholesome and fun entertainment for the whole family with choral music, dance, and theatre featuring all-time favourites from pop, jazz, blues, and rock with dances ranging from contemporary to ballroom and medleys from Broadway's best musicals.\r\nA fun evening for families and music lovers. Apart from the stage program, there are food stalls and stalls featuring artifacts and other interesting items.",
-    "startDate": "2024-08-17T18:00:00+05:30",
-    "endDate": "2024-08-18T20:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "16th Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "In The Mood 2024 - Let's Get Loud Experiences, Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for In The Mood 2024 - Let's Get Loud Bengaluru on Zomato which is a Experiences, Music and Trending event happening at 16th Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f55bf71a53dcbe4fd4ae870c207b6f9e1721383218.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843/details",
-        "price": 350,
-        "currency": "INR",
-        "validFrom": "2024-07-19 15:30:00",
-        "availability": "INSTOCK",
-        "inventory": 254
-      },
-      {
-        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843/details",
-        "price": 350,
-        "currency": "INR",
-        "validFrom": "2024-07-19 15:30:00",
-        "availability": "INSTOCK",
-        "inventory": 254
-      },
-      {
-        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-19 15:30:00",
-        "availability": "INSTOCK",
-        "inventory": 303
-      },
-      {
-        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-19 15:30:00",
-        "availability": "INSTOCK",
-        "inventory": 303
-      },
-      {
-        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843/details",
-        "price": 750,
-        "currency": "INR",
-        "validFrom": "2024-07-19 15:30:00",
-        "availability": "INSTOCK",
-        "inventory": 215
-      },
-      {
-        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843/details",
-        "price": 750,
-        "currency": "INR",
-        "validFrom": "2024-07-19 15:30:00",
-        "availability": "INSTOCK",
-        "inventory": 215
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843"
-  },
-  {
     "name": "Soul Jams",
     "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \r\nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \r\n\r\nThe event comprises three soul-enriching parts: \r\n\r\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\r\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \r\n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
     "startDate": "2024-07-27T16:30:00+05:30",
@@ -3339,5 +3049,119 @@
       }
     ],
     "url": "https://www.zomato.com/events/soul-jams-bengaluru-et45882"
+  },
+  {
+    "name": "In The Mood 2024 - Let's Get Loud",
+    "description": "An evening of wholesome and fun entertainment for the whole family with choral music, dance, and theatre featuring all-time favourites from pop, jazz, blues, and rock with dances ranging from contemporary to ballroom and medleys from Broadway's best musicals.\r\nA fun evening for families and music lovers. Apart from the stage program there are food stalls and stalls featuring artifacts and other interesting items.",
+    "startDate": "2024-08-17T18:00:00+05:30",
+    "endDate": "2024-08-17T20:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "16th Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "In The Mood 2024 - Let's Get Loud Experiences and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for In The Mood 2024 - Let's Get Loud Bengaluru on Zomato which is a Experiences and Music event happening at 16th Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f55bf71a53dcbe4fd4ae870c207b6f9e1721543913.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
+        "price": 350,
+        "currency": "INR",
+        "validFrom": "2024-07-21 12:00:00",
+        "availability": "INSTOCK",
+        "inventory": 254
+      },
+      {
+        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-07-21 12:00:00",
+        "availability": "INSTOCK",
+        "inventory": 303
+      },
+      {
+        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
+        "price": 750,
+        "currency": "INR",
+        "validFrom": "2024-07-21 12:00:00",
+        "availability": "INSTOCK",
+        "inventory": 215
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911"
+  },
+  {
+    "name": "In The Mood 2024 - Let's Get Loud",
+    "description": "An evening of wholesome and fun entertainment for the whole family with choral music, dance, and theatre featuring all-time favourites from pop, jazz, blues, and rock with dances ranging from contemporary to ballroom and medleys from Broadway's best musicals.\r\nA fun evening for families and music lovers. Apart from the stage program there are food stalls and stalls featuring artifacts and other interesting items.",
+    "startDate": "2024-08-18T18:00:00+05:30",
+    "endDate": "2024-08-18T20:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "16th Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "In The Mood 2024 - Let's Get Loud Experiences and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for In The Mood 2024 - Let's Get Loud Bengaluru on Zomato which is a Experiences and Music event happening at 16th Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f55bf71a53dcbe4fd4ae870c207b6f9e1721543913.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
+        "price": 350,
+        "currency": "INR",
+        "validFrom": "2024-07-21 12:00:00",
+        "availability": "INSTOCK",
+        "inventory": 254
+      },
+      {
+        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-07-21 12:00:00",
+        "availability": "INSTOCK",
+        "inventory": 303
+      },
+      {
+        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
+        "price": 750,
+        "currency": "INR",
+        "validFrom": "2024-07-21 12:00:00",
+        "availability": "INSTOCK",
+        "inventory": 215
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912"
   }
 ]
