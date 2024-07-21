@@ -41,7 +41,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 413
+        "inventory": 492
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 151
+        "inventory": 218
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +57,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1062
+        "inventory": 1135
       }
     ],
     "performers": [],
@@ -69,48 +69,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858"
-  },
-  {
-    "name": "Tribute to Arijit SIngh",
-    "description": "Root Three Five (35) exploded onto the live music scene after winning the Nxt Big Star competition in 2017. The Root 35 band blends soulful Indian and Western music and unique ideas. The band blends soulful Indian and Western music with high-energy rock and unique ideas. Every member brings in their distinct sound and personality to collectively form a tight performing unit. In a short span of time, they have gained a lot of traction and love from their audiences.\r\nSo what are you waiting for? Just reserve your spots and be ready to experience a night full of rock `n` roll.",
-    "startDate": "2024-07-20T21:00:00+05:30",
-    "endDate": "2024-07-20T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Arijit SIngh Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Arijit SIngh Bengaluru on Zomato which is a Music and Trending event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2c6f34d1cdf1a5672944d372332ce6511719332137.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/0d7997a75161d1fc98116aedca1efe921719333707.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-arijit-singh-bengaluru-et43184/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-06-25 22:06:23",
-        "availability": "INSTOCK",
-        "inventory": 24
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-arijit-singh-bengaluru-et43184"
   },
   {
     "name": "Tribute to Pink Floyd",
@@ -153,48 +111,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/tribute-to-pink-floyd-bengaluru-et43185"
-  },
-  {
-    "name": "Treasure Hunt",
-    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats.",
-    "startDate": "2024-07-20T16:00:00+05:30",
-    "endDate": "2024-07-20T18:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Treasure Hunt Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Treasure Hunt Bengaluru on Zomato which is a Experiences and Trending event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f5b366a4c0548983ded48f59e6aaf9fd1719828210.png",
-      "https://b.zmtcdn.com/data/zomaland/aa5fb553b7c0dd43b973743e2f72709c1719828394.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/treasure-hunt-bengaluru-et43655/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-07-01 10:57:57",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/treasure-hunt-bengaluru-et43655"
   },
   {
     "name": "1000 wishes",
@@ -477,7 +393,7 @@
         "currency": "INR",
         "validFrom": "2024-07-04 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 58
+        "inventory": 45
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-catapalooza-bengaluru-et44089/details",
@@ -526,7 +442,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:55",
         "availability": "INSTOCK",
-        "inventory": 53
+        "inventory": 50
       }
     ],
     "performers": [],
@@ -731,7 +647,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:59",
         "availability": "INSTOCK",
-        "inventory": 57
+        "inventory": 54
       }
     ],
     "performers": [],
@@ -772,7 +688,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:59",
         "availability": "INSTOCK",
-        "inventory": 61
+        "inventory": 58
       }
     ],
     "performers": [],
@@ -784,63 +700,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et44638"
-  },
-  {
-    "name": "Punchliners Comedy Show ft Atul Khatri",
-    "description": "You don\u2019t have to wait in lines to hear jokes from us. Book your tickets for Atul Khatri live at Ecoworld, Bengaluru to tickle your funny Bone",
-    "startDate": "2024-07-20T20:00:00+05:30",
-    "endDate": "2024-07-20T21:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Adarsh Palm Retreat, Bellandur",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Punchliners Comedy Show ft Atul Khatri Comedy event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Punchliners Comedy Show ft Atul Khatri Bengaluru on Zomato which is a Comedy event happening at Adarsh Palm Retreat, Bellandur",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/17ed2fa78ba624e8f4413c728156800d1720510759.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-atul-khatri-bengaluru-et44711/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-09 13:21:11",
-        "availability": "INSTOCK",
-        "inventory": 9
-      },
-      {
-        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-atul-khatri-bengaluru-et44711/details",
-        "price": 799,
-        "currency": "INR",
-        "validFrom": "2024-07-09 13:21:11",
-        "availability": "INSTOCK",
-        "inventory": 12
-      },
-      {
-        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-atul-khatri-bengaluru-et44711/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-07-09 13:21:11",
-        "availability": "INSTOCK",
-        "inventory": 11
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-atul-khatri-bengaluru-et44711"
   },
   {
     "name": "Chikmagalur Weekend Getaway",
@@ -2182,7 +2041,7 @@
         "currency": "INR",
         "validFrom": "2024-07-18 17:29:48",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
@@ -2190,7 +2049,7 @@
         "currency": "INR",
         "validFrom": "2024-07-18 17:29:49",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
@@ -2198,7 +2057,7 @@
         "currency": "INR",
         "validFrom": "2024-07-18 17:29:47",
         "availability": "INSTOCK",
-        "inventory": 95
+        "inventory": 93
       },
       {
         "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
@@ -2206,7 +2065,7 @@
         "currency": "INR",
         "validFrom": "2024-07-18 17:29:49",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
@@ -2230,7 +2089,7 @@
         "currency": "INR",
         "validFrom": "2024-07-18 17:29:48",
         "availability": "INSTOCK",
-        "inventory": 96
+        "inventory": 94
       },
       {
         "url": "https://www.zomato.com/events/sagar-waali-qawwali-bengaluru-et45140/details",
@@ -2411,120 +2270,6 @@
     "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et45228"
   },
   {
-    "name": "DJ Chetas Live",
-    "description": "Bengaluru, Get ready! \r\n\r\nWe've got the biggest and most popular Indian DJ Perform at Magique, Bengaluru, Koramangala \r\nAfter performing for 10,000+ people in Mumbai.\r\n\r\nHe's coming to Bangalore to create yet another crazy and unforgettable night.",
-    "startDate": "2024-07-20T21:00:00+05:30",
-    "endDate": "2024-07-21T01:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Plot No, 36, 100 Feet Rd, opp. to Shilton Royale Hotel, Srinivagilu, Chandra Reddy Layout, S T Bed Layout, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "DJ Chetas Live Music and Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for DJ Chetas Live Bengaluru on Zomato which is a Music and Party event happening at Plot No, 36, 100 Feet Rd, opp. to Shilton Royale Hotel, Srinivagilu, Chandra Reddy Layout, S T Bed Layout, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/45e44fe3a01608b30c0dcbdba1a7c07f1720972536.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/dj-chetas-live-bengaluru-et45252/details",
-        "price": 1500,
-        "currency": "INR",
-        "validFrom": "2024-07-14 21:34:19",
-        "availability": "INSTOCK",
-        "inventory": 97
-      },
-      {
-        "url": "https://www.zomato.com/events/dj-chetas-live-bengaluru-et45252/details",
-        "price": 3000,
-        "currency": "INR",
-        "validFrom": "2024-07-14 21:34:19",
-        "availability": "INSTOCK",
-        "inventory": 95
-      },
-      {
-        "url": "https://www.zomato.com/events/dj-chetas-live-bengaluru-et45252/details",
-        "price": 3000,
-        "currency": "INR",
-        "validFrom": "2024-07-14 21:34:19",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/dj-chetas-live-bengaluru-et45252"
-  },
-  {
-    "name": "The White Party Ft Dj Mott",
-    "description": "The wait is over! The White Party is happening this weekend at High Ultra Lounge! Join us on 20th July, from 8 pm onwards, as we bring you an unforgettable night of music, dancing, and luxury! International DJ Mott will be performing live, so don't miss out! \r\n\r\nDress code: All-White Attire (Strictly Enforced). See you there!",
-    "startDate": "2024-07-20T20:00:00+05:30",
-    "endDate": "2024-07-21T01:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "The White Party Ft Dj Mott Trending, Music and Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for The White Party Ft Dj Mott Bengaluru on Zomato which is a Trending, Music and Party event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/6d203014650914738350b9265456bf391721061265.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-15 22:10:41",
-        "availability": "INSTOCK",
-        "inventory": 196
-      },
-      {
-        "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-15 22:10:41",
-        "availability": "INSTOCK",
-        "inventory": 186
-      },
-      {
-        "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-15 22:10:41",
-        "availability": "INSTOCK",
-        "inventory": 200
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/the-white-party-ft-dj-mott-bengaluru-et45402"
-  },
-  {
     "name": "Sunday Session ft. Rosenfeld",
     "description": "Experience the electrifying beats of Rosenfeld at the Kitty Ko event by Centigrade on July 21st. Dive into an evening where music meets magic as Rosenfeld, renowned for his captivating mixes and infectious energy, takes the stage. From pulsating rhythms to soul-stirring melodies, immerse yourself in a sonic journey that transcends genres.\r\n\r\nRosenfeld's unique blend of house, techno, and experimental sounds promises an unforgettable night under the stars. Join us at Kitty Ko for a celebration of music, artistry, and pure adrenaline. Don\u2019t miss your chance to be part of this exceptional event",
     "startDate": "2024-07-21T19:00:00+05:30",
@@ -2552,6 +2297,14 @@
         "currency": "INR",
         "validFrom": "2024-07-17 15:52:04",
         "availability": "INSTOCK",
+        "inventory": 95
+      },
+      {
+        "url": "https://www.zomato.com/events/sunday-session-ft-rosenfeld-bengaluru-et45593/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-17 15:52:05",
+        "availability": "INSTOCK",
         "inventory": 96
       },
       {
@@ -2560,15 +2313,7 @@
         "currency": "INR",
         "validFrom": "2024-07-17 15:52:05",
         "availability": "INSTOCK",
-        "inventory": 97
-      },
-      {
-        "url": "https://www.zomato.com/events/sunday-session-ft-rosenfeld-bengaluru-et45593/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-17 15:52:05",
-        "availability": "INSTOCK",
-        "inventory": 92
+        "inventory": 90
       }
     ],
     "performers": [],
@@ -2580,55 +2325,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/sunday-session-ft-rosenfeld-bengaluru-et45593"
-  },
-  {
-    "name": "A&A Entertainment Presents The Wavy Tour",
-    "description": "Join us for an electrifying evening with DJ Ajwavy, the internet's most trending DJ, as he brings his sensational beats to 2Moons & Juliet at 1 MG Mall MG Road , Bangalore. On the 20th of July 2024. From 7 PM onwards, experience the ultimate party atmosphere with DJ Ajwavy's signature style and high-energy performance. Don't miss out on the event of the season",
-    "startDate": "2024-07-20T19:00:00+05:30",
-    "endDate": "2024-07-21T01:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd, Someshwarpura, Halasuru",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "A&A Entertainment Presents The Wavy Tour Music, Party and Best seller event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for A&A Entertainment Presents The Wavy Tour Bengaluru on Zomato which is a Music, Party and Best seller event happening at 1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd, Someshwarpura, Halasuru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/edcfefb18366e0c2a19d6d6949c057121721208928.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/aa-presents-the-wavy-tour-bengaluru-et45596/details",
-        "price": 1000,
-        "currency": "INR",
-        "validFrom": "2024-07-17 15:52:00",
-        "availability": "INSTOCK",
-        "inventory": 82
-      },
-      {
-        "url": "https://www.zomato.com/events/aa-presents-the-wavy-tour-bengaluru-et45596/details",
-        "price": 1500,
-        "currency": "INR",
-        "validFrom": "2024-07-17 16:22:00",
-        "availability": "INSTOCK",
-        "inventory": 81
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/aa-presents-the-wavy-tour-bengaluru-et45596"
   },
   {
     "name": "Speed Dating",
@@ -2694,55 +2390,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/speed-dating-bengaluru-et45616"
-  },
-  {
-    "name": "Blind Date - A Sensory Experience",
-    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
-    "startDate": "2024-07-20T19:00:00+05:30",
-    "endDate": "2024-07-20T20:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Blind Date - A Sensory Experience Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1721236982.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et45646/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-07-17 22:13:12",
-        "availability": "INSTOCK",
-        "inventory": 13
-      },
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et45646/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-07-17 22:13:13",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et45646"
   },
   {
     "name": "Caged ft. Arjun Vagale",
@@ -3510,7 +3157,7 @@
         "currency": "INR",
         "validFrom": "2024-07-19 15:39:19",
         "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 24
       }
     ],
     "performers": [],
@@ -3526,8 +3173,8 @@
   {
     "name": "Bollywood Dance Workshop on 'Dhating Naach",
     "description": "Meet Ashwa & Ishaan, the dynamic dance duo with a passion for energetic Bollywood beats! With over 10 years of dancing together, their journey began at IIT Delhi, where their college dance videos became viral sensations. As former members of the V-Defyn (IIT Delhi Dance Team), they bring high energy and creativity to every performance. Now based in Bangalore, they balance their startup careers with weekend dance sessions, keeping their love for dance alive and thriving. Join them to groove to the beats of \u00e2\u20ac\u02dcDhating naach', Bollywood style \u00f0\u0178\u00a5\u00b3\u00f0\u0178\u2022\u00ba\u00f0\u0178\u2022\u00ba",
-    "startDate": "2024-07-20T17:00:00+05:30",
-    "endDate": "2024-07-21T19:30:00+05:30",
+    "startDate": "2024-07-20 17:00:00",
+    "endDate": "2024-07-21 19:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3646,37 +3293,44 @@
     "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45843"
   },
   {
-    "name": "House Party Series",
-    "description": "Bangalore, we are back again with another banger gathering.\r\nJoin us for an unforgettable vinyl party at Sly Granny Bangalore on July 20th! Experience curated sets by community selectors from India Record Co, culminating in a closing vinyl set by Harbourdubs from Bombay.\r\nCome for nostalgia, stay for the party!",
-    "startDate": "2024-07-20T20:00:00+05:30",
-    "endDate": "2024-07-21T01:00:00+05:30",
+    "name": "Soul Jams",
+    "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \r\nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \r\n\r\nThe event comprises three soul-enriching parts: \r\n\r\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\r\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \r\n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
+    "startDate": "2024-07-27T16:30:00+05:30",
+    "endDate": "2024-07-27T20:30:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "locations": [
       {
         "place": "Bengaluru",
-        "streetAddress": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar",
+        "streetAddress": "Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd",
         "addressCountry": "India"
       }
     ],
-    "isAccessibleForFree": true,
-    "ogTitle": "House Party Series Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for House Party Series Bengaluru on Zomato which is a Music event happening at 3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar",
+    "isAccessibleForFree": false,
+    "ogTitle": "Soul Jams Music and Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Music and Experiences event happening at Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/9036cd114b7abdb36ef8ab737593c5841721400006.png"
+      "https://b.zmtcdn.com/data/zomaland/4c49c34bc6e453cd5e920a25a96f3e4c1721468044.png"
     ],
     "tickets": [
       {
-        "url": "https://www.zomato.com/events/house-party-series-bengaluru-et45867/details",
-        "price": 0,
+        "url": "https://www.zomato.com/events/soul-jams-bengaluru-et45882/details",
+        "price": 499,
         "currency": "INR",
-        "validFrom": "2024-07-19 20:00:00",
+        "validFrom": "2024-07-20 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 296
+        "inventory": 472
       }
     ],
-    "performers": [],
+    "performers": [
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/4b3cdc4390a318bdeff5dd7be26b3e391721455984.png",
+        "name": "Soul Jams",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/4b3cdc4390a318bdeff5dd7be26b3e391721455984.png"
+      }
+    ],
     "organizer": [
       {
         "type": "ORGANIZATION",
@@ -3684,6 +3338,6 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/house-party-series-bengaluru-et45867"
+    "url": "https://www.zomato.com/events/soul-jams-bengaluru-et45882"
   }
 ]
