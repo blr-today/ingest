@@ -2102,47 +2102,6 @@
     "url": "https://www.zomato.com/events/night-camping-trek-activities-ramanagar-bengaluru-et45789"
   },
   {
-    "name": "Bollywood Dance Workshop on 'Dhating Naach",
-    "description": "Meet Ashwa & Ishaan, the dynamic dance duo with a passion for energetic Bollywood beats! With over 10 years of dancing together, their journey began at IIT Delhi, where their college dance videos became viral sensations. As former members of the V-Defyn (IIT Delhi Dance Team), they bring high energy and creativity to every performance. Now based in Bangalore, they balance their startup careers with weekend dance sessions, keeping their love for dance alive and thriving. Join them to groove to the beats of \u00e2\u20ac\u02dcDhating naach', Bollywood style \u00f0\u0178\u00a5\u00b3\u00f0\u0178\u2022\u00ba\u00f0\u0178\u2022\u00ba",
-    "startDate": "2024-07-21 17:00:00",
-    "endDate": "2024-07-22 19:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "64, 1st Main Rd, S.T. Bed, 1st Block Koramangala, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Bollywood Dance Workshop on 'Dhating Naach Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bollywood Dance Workshop on 'Dhating Naach Bengaluru on Zomato which is a Experiences event happening at 64, 1st Main Rd, S.T. Bed, 1st Block Koramangala, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/1dcb1d5f9ac80bc30228fe1e03794d6b1721382720.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bollywood-dance-workshop-on-dhating-naach-bengaluru-et45841/details",
-        "price": 649,
-        "currency": "INR",
-        "validFrom": "2024-07-19 15:39:19",
-        "availability": "INSTOCK",
-        "inventory": 23
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bollywood-dance-workshop-on-dhating-naach-bengaluru-et45841"
-  },
-  {
     "name": "Soul Jams",
     "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \r\nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \r\n\r\nThe event comprises three soul-enriching parts: \r\n\r\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\r\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \r\n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
     "startDate": "2024-07-27T16:30:00+05:30",
@@ -2426,5 +2385,54 @@
       }
     ],
     "url": "https://www.zomato.com/events/modern-calligraphy-workshop-bengaluru-et45992"
+  },
+  {
+    "name": "Paint with Puppies",
+    "description": "Have you ever dreamed of painting alongside the most adorable companions imaginable? Now's your chance! Don't miss out on the event of the month: Painting with Puppies! It's not just a workshop; it's an unforgettable experience that will touch your heart and ignite your creativity like never before.\r\nImagine yourself surrounded by cuddly, adoptable puppies, their wagging tails and playful energy inspiring every brushstroke. But it's not just about painting; it's about making a difference. With each ticket purchased, you're supporting animal welfare initiatives, spreading love and compassion to those who need it most.\r\nIndulge in unlimited snuggles, laughter, and pure joy as you create your masterpiece alongside your furry friends. This isn't just another workshop\u2014it's a chance to create memories that will last a lifetime while giving back to the community.",
+    "startDate": "2024-08-03T15:00:00+05:30",
+    "endDate": "2024-08-03T17:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Shop No 33, 80 Feet Rd, near Wipro Park,  opposite Barista and Domino's, 4th Block, S.T. Bed,  Cauvery Colony, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Paint with Puppies Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Paint with Puppies Bengaluru on Zomato which is a Experiences event happening at Shop No 33, 80 Feet Rd, near Wipro Park,  opposite Barista and Domino's, 4th Block, S.T. Bed,  Cauvery Colony, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/2e04161a3c2d6572a63950f11478af861721658787.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et46049/details",
+        "price": 1200,
+        "currency": "INR",
+        "validFrom": "2024-07-22 20:13:02",
+        "availability": "INSTOCK",
+        "inventory": 7
+      },
+      {
+        "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et46049/details",
+        "price": 2000,
+        "currency": "INR",
+        "validFrom": "2024-07-22 20:13:03",
+        "availability": "INSTOCK",
+        "inventory": 7
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et46049"
   }
 ]
