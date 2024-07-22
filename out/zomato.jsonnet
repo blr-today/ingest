@@ -2206,8 +2206,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "In The Mood 2024 - Let's Get Loud Experiences and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for In The Mood 2024 - Let's Get Loud Bengaluru on Zomato which is a Experiences and Music event happening at 16th Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram",
+    "ogTitle": "In The Mood 2024 - Let's Get Loud Experiences, Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for In The Mood 2024 - Let's Get Loud Bengaluru on Zomato which is a Experiences, Music and Trending event happening at 16th Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/f55bf71a53dcbe4fd4ae870c207b6f9e1721543913.png"
     ],
@@ -2263,8 +2263,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "In The Mood 2024 - Let's Get Loud Experiences and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for In The Mood 2024 - Let's Get Loud Bengaluru on Zomato which is a Experiences and Music event happening at 16th Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram",
+    "ogTitle": "In The Mood 2024 - Let's Get Loud Experiences, Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for In The Mood 2024 - Let's Get Loud Bengaluru on Zomato which is a Experiences, Music and Trending event happening at 16th Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/f55bf71a53dcbe4fd4ae870c207b6f9e1721543913.png"
     ],
@@ -2303,5 +2303,128 @@
       }
     ],
     "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912"
+  },
+  {
+    "name": "Bollywood Dance Workshop on 'Sadi Gali'",
+    "description": "Meet Ashwa & Ishaan, the dynamic dance duo with a passion for energetic Bollywood beats! With over 10 years of dancing together, their journey began at IIT Delhi, where their college dance videos became viral sensations. As former members of the V-Defyn (IIT Delhi Dance Team), they bring high energy and creativity to every performance. Now based in Bangalore, they balance their startup careers with weekend dance sessions, keeping their love for dance alive and thriving. Join them to groove to the beats of \u2018Sadi Gali', bollywood style ",
+    "startDate": "2024-07-27T18:00:00+05:30",
+    "endDate": "2024-07-27T20:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "2nd, Shubhasri Building, Plaza, 7th Main Rd, Jayanagar 3rd Block East, Jayanagar, Bengaluru, Karnataka 560011",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Bollywood Dance Workshop on 'Sadi Gali' Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bollywood Dance Workshop on 'Sadi Gali' Bengaluru on Zomato which is a Experiences event happening at 2nd, Shubhasri Building, Plaza, 7th Main Rd, Jayanagar 3rd Block East, Jayanagar, Bengaluru, Karnataka 560011",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/16c5a5362f3d0af0e3126a5c9d2165461721632650.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bollywood-dance-workshop-on-sadi-gali-bengaluru-et45965/details",
+        "price": 649,
+        "currency": "INR",
+        "validFrom": "2024-07-22 12:53:00",
+        "availability": "INSTOCK",
+        "inventory": 30
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bollywood-dance-workshop-on-sadi-gali-bengaluru-et45965"
+  },
+  {
+    "name": "Bollywood Dance Workshop on 'Sadi Gali'",
+    "description": "Meet Ashwa & Ishaan, the dynamic dance duo with a passion for energetic Bollywood beats! With over 10 years of dancing together, their journey began at IIT Delhi, where their college dance videos became viral sensations. As former members of the V-Defyn (IIT Delhi Dance Team), they bring high energy and creativity to every performance. Now based in Bangalore, they balance their startup careers with weekend dance sessions, keeping their love for dance alive and thriving. Join them to groove to the beats of \u2018Sadi Gali', bollywood style ",
+    "startDate": "2024-07-28T16:00:00+05:30",
+    "endDate": "2024-07-28T18:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "ITPB, International Tech Park Park Square Mall, ITPL Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Bollywood Dance Workshop on 'Sadi Gali' Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bollywood Dance Workshop on 'Sadi Gali' Bengaluru on Zomato which is a Experiences event happening at ITPB, International Tech Park Park Square Mall, ITPL Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/7ae96bd17e1aa6f1b27edb9d4970ea4e1721632781.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bollywood-dance-workshop-on-sadi-gali-bengaluru-et45966/details",
+        "price": 649,
+        "currency": "INR",
+        "validFrom": "2024-07-22 12:53:01",
+        "availability": "INSTOCK",
+        "inventory": 30
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bollywood-dance-workshop-on-sadi-gali-bengaluru-et45966"
+  },
+  {
+    "name": "Modern Calligraphy Workshop",
+    "description": "Curated and led by luxury calligraphy & glass engraving artist Nidhi Joshi in collaboration with Soda, immerse yourself in this creative experience as you enjoy some delicious nibbles and drinks.",
+    "startDate": "2024-07-27T10:30:00+05:30",
+    "endDate": "2024-07-27T13:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Plot Number 25, 4, Lavelle Road, opposite Harley Davidson Showroom, D' Souza Layout, Ashok Nagar",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Modern Calligraphy Workshop Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Modern Calligraphy Workshop Bengaluru on Zomato which is a Experiences event happening at Plot Number 25, 4, Lavelle Road, opposite Harley Davidson Showroom, D' Souza Layout, Ashok Nagar",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/6a8f395cd38f4d9fb7a0e1e6abd4cf361721644547.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/modern-calligraphy-workshop-bengaluru-et45992/details",
+        "price": 2500,
+        "currency": "INR",
+        "validFrom": "2024-07-22 16:48:23",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/modern-calligraphy-workshop-bengaluru-et45992"
   }
 ]
