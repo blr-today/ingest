@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 218
+        "inventory": 214
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -535,7 +535,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:59",
         "availability": "INSTOCK",
-        "inventory": 58
+        "inventory": 54
       }
     ],
     "performers": [],
@@ -1342,7 +1342,7 @@
         "currency": "INR",
         "validFrom": "2024-07-13 16:07:23",
         "availability": "INSTOCK",
-        "inventory": 5
+        "inventory": 4
       },
       {
         "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et45228/details",
@@ -1432,7 +1432,7 @@
         "currency": "INR",
         "validFrom": "2024-07-18 13:31:03",
         "availability": "INSTOCK",
-        "inventory": 250
+        "inventory": 248
       }
     ],
     "performers": [],
@@ -2129,7 +2129,7 @@
         "currency": "INR",
         "validFrom": "2024-07-19 15:39:19",
         "availability": "INSTOCK",
-        "inventory": 24
+        "inventory": 23
       }
     ],
     "performers": [],
@@ -2158,8 +2158,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Soul Jams Music and Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Music and Experiences event happening at Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd",
+    "ogTitle": "Soul Jams Best seller, Music and Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Best seller, Music and Experiences event happening at Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/4c49c34bc6e453cd5e920a25a96f3e4c1721468044.png"
     ],
@@ -2170,7 +2170,7 @@
         "currency": "INR",
         "validFrom": "2024-07-20 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 472
+        "inventory": 352
       }
     ],
     "performers": [
