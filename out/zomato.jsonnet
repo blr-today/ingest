@@ -2434,5 +2434,108 @@
       }
     ],
     "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et46049"
+  },
+  {
+    "name": "SoMAD Mehfil",
+    "description": "Party is not just an event but a cherished experience where art, culture, and community converge & create Lasting Memories. \r\n\r\nCome celebrate The Essence of our South Asian Tradition. Our Ethnic Wear Party isn't just an event; it's a celebration of unity in diversity, a tribute to the beauty of traditions that bind us together as a global community. It's an opportunity to learn, appreciate, and cherish the threads that connect us across cultures, leaving us with memories as colorful and vibrant as the garments we wear.",
+    "startDate": "2024-07-27T20:00:00+05:30",
+    "endDate": "2024-07-28T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "UB City, 203, 2nd Floor, The Collection, 24, Vittal Mallya Rd",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "SoMAD Mehfil Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for SoMAD Mehfil Bengaluru on Zomato which is a Party event happening at UB City, 203, 2nd Floor, The Collection, 24, Vittal Mallya Rd",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/c5585b6bfbfc7abc27f18446acde80381721709516.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-23 10:29:47",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068/details",
+        "price": 1575,
+        "currency": "INR",
+        "validFrom": "2024-07-23 10:29:48",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-23 10:29:48",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068/details",
+        "price": 525,
+        "currency": "INR",
+        "validFrom": "2024-07-23 10:29:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068/details",
+        "price": 2099,
+        "currency": "INR",
+        "validFrom": "2024-07-23 10:29:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068"
+  },
+  {
+    "name": "25 & Single",
+    "description": "After a successful run of shows across cities in India and award-winning performances at The Fringe Festival in Prague, Helly Shah is all set to perform a new hour of relatable stories & heartwarming poems for you! \u2060\u202f25 & Single\u202f\u2060 is a delightful one-hour poetry and storytelling show that takes you through the ups and downs of adulthood, dating, friendships, and growing up. Celebrate the hilarious, awkward, and light-hearted moments of being in your 20s and navigating the single life with Helly! Helly Shah is a spoken word poet, writer and storyteller. Hailing from a small town in Gujarat, her first-ever storytelling video crossed over 10 million views across social media in 2018. Since then, her performances have continued to deeply resonate with millions of young people across the country.",
+    "startDate": "2024-09-21T18:00:00+05:30",
+    "endDate": "2024-09-21T19:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Deena Complex, Opp MC Donald, Brigade Rd, Bengaluru",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/2eb58d773a93c344e7835b9d61361c9f1721712546.png"
+    ],
+    "tickets": [],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/25-single-bengaluru-et46072"
   }
 ]
