@@ -41,7 +41,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 492
+        "inventory": 491
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 214
+        "inventory": 206
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +57,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1135
+        "inventory": 1134
       }
     ],
     "performers": [],
@@ -86,8 +86,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Pink Floyd Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Pink Floyd Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+    "ogTitle": "Tribute to Pink Floyd Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Pink Floyd Bengaluru on Zomato which is a Music and Trending event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/c40e568c13a47346f7088fc9da37f3461719332208.jpeg",
       "https://b.zmtcdn.com/data/zomaland/697e3863e1a82081f2fbedea4ce97dc01719333731.jpeg"
@@ -128,8 +128,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Starry Night Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Starry Night Bengaluru on Zomato which is a Experiences event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala",
+    "ogTitle": "Starry Night Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Starry Night Bengaluru on Zomato which is a Experiences and Trending event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/c2f913f18c48913567d1cce9b5c466fe1719811259.png",
       "https://b.zmtcdn.com/data/zomaland/bcd40001ebb3904ff5f8194e4059abe11719812182.png"
@@ -330,7 +330,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:56",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 69
       }
     ],
     "performers": [],
@@ -371,7 +371,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:56",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 64
       }
     ],
     "performers": [],
@@ -400,8 +400,8 @@
       }
     ],
     "isAccessibleForFree": true,
-    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
+    "ogTitle": "Rock Out Sundays Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music and Trending event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/a00b0acf1ace6af2815d0b270bf57f851720455461.jpeg"
     ],
@@ -412,7 +412,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:57",
         "availability": "INSTOCK",
-        "inventory": 71
+        "inventory": 67
       }
     ],
     "performers": [],
@@ -453,7 +453,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:57",
         "availability": "INSTOCK",
-        "inventory": 67
+        "inventory": 37
       }
     ],
     "performers": [],
@@ -494,7 +494,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:59",
         "availability": "INSTOCK",
-        "inventory": 54
+        "inventory": 32
       }
     ],
     "performers": [],
@@ -535,7 +535,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:59",
         "availability": "INSTOCK",
-        "inventory": 54
+        "inventory": 37
       }
     ],
     "performers": [],
@@ -547,6 +547,63 @@
       }
     ],
     "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et44638"
+  },
+  {
+    "name": "Punchliners Comedy Show ft Atul Khatri",
+    "description": "You don\u2019t have to wait in lines to hear jokes from us. Book your tickets for Atul Khatri live at Ecoworld, Bengaluru to tickle your funny Bone",
+    "startDate": "2024-07-27T20:00:00+05:30",
+    "endDate": "2024-07-27T21:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Adarsh Palm Retreat, Bellandur",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Punchliners Comedy Show ft Atul Khatri Comedy event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Punchliners Comedy Show ft Atul Khatri Bengaluru on Zomato which is a Comedy event happening at Adarsh Palm Retreat, Bellandur",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/cf1b2a13ed00f1cd166a1c12e943f7291721724539.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-atul-khatri-bengaluru-et44711/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-07-23 14:00:00",
+        "availability": "INSTOCK",
+        "inventory": 15
+      },
+      {
+        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-atul-khatri-bengaluru-et44711/details",
+        "price": 799,
+        "currency": "INR",
+        "validFrom": "2024-07-23 14:00:00",
+        "availability": "INSTOCK",
+        "inventory": 15
+      },
+      {
+        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-atul-khatri-bengaluru-et44711/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-07-23 14:00:00",
+        "availability": "INSTOCK",
+        "inventory": 13
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-atul-khatri-bengaluru-et44711"
   },
   {
     "name": "Chikmagalur Weekend Getaway",
@@ -1223,7 +1280,7 @@
     "ogTitle": "Guru Randhawa - Moon Rise Tour Music and Best seller event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Guru Randhawa - Moon Rise Tour Bengaluru on Zomato which is a Music and Best seller event happening at Bengaluru",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/09a9dffbdfe20445159a4ec857eff84b1720786706.png",
+      "https://b.zmtcdn.com/data/zomaland/ade1958c00244c99f20a1b0ff50a7eab1721713491.png",
       "https://b.zmtcdn.com/data/zomaland/254339d842fb6b771bfca7d09437118b1720807334.png",
       "https://b.zmtcdn.com/data/zomaland/981406d500f7bad750883cc84fcebb3b1720807343.png",
       "https://b.zmtcdn.com/data/zomaland/4915251c5848b70d520f9e4e8ac0a97c1720807357.png",
@@ -1293,7 +1350,7 @@
         "currency": "INR",
         "validFrom": "2024-07-13 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 80
+        "inventory": 77
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et45225/details",
@@ -1341,16 +1398,16 @@
         "price": 1200,
         "currency": "INR",
         "validFrom": "2024-07-13 16:07:23",
-        "availability": "INSTOCK",
-        "inventory": 4
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et45228/details",
         "price": 2000,
         "currency": "INR",
         "validFrom": "2024-07-13 16:07:24",
-        "availability": "SELLING_FAST",
-        "inventory": 2
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -1420,8 +1477,8 @@
       }
     ],
     "isAccessibleForFree": true,
-    "ogTitle": "Retronome at Gylt, Byg Brewski Hennur Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Retronome at Gylt, Byg Brewski Hennur Bengaluru on Zomato which is a Music event happening at SOUTHERN ASIA BIBLE COLLEGE, 22, Hennur Bagalur Main Rd, Visthar, Byrathi",
+    "ogTitle": "Retronome at Gylt, Byg Brewski Hennur Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Retronome at Gylt, Byg Brewski Hennur Bengaluru on Zomato which is a Music and Trending event happening at SOUTHERN ASIA BIBLE COLLEGE, 22, Hennur Bagalur Main Rd, Visthar, Byrathi",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/c21a879775db5be46eeb45d56661fcc21721288921.jpeg"
     ],
@@ -1432,7 +1489,7 @@
         "currency": "INR",
         "validFrom": "2024-07-18 13:31:03",
         "availability": "INSTOCK",
-        "inventory": 248
+        "inventory": 242
       }
     ],
     "performers": [],
@@ -2129,7 +2186,7 @@
         "currency": "INR",
         "validFrom": "2024-07-20 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 352
+        "inventory": 241
       }
     ],
     "performers": [
@@ -2537,5 +2594,217 @@
       }
     ],
     "url": "https://www.zomato.com/events/25-single-bengaluru-et46072"
+  },
+  {
+    "name": "Houseparty",
+    "description": "Bangalore, Get ready for a party like no other!\r\n\r\nWe`re thrilled to announce the latest edition of Houseparty at Nevermind Houseparty - Tropical Edition; Complete with Lush Decor, special Jungle Juice & tropical vibes to make the night wilder than ever before!\r\n\r\nSay Goodbye to your regular clubbing nights and say hello to the coolest new way to party, complete with exciting games, the grooviest beats, and vibes like no other!\r\n\r\nThe only place where you can play, drink, dance, eat, and vibe all at once. \r\n\r\nCan`t wait to see you all there.",
+    "startDate": "2024-07-27T20:00:00+05:30",
+    "endDate": "2024-07-28T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "No.614-615, 12th Main Rd, 7th Cross, HAL 2nd Stage, Indiranagar",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Houseparty Party and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Houseparty Bengaluru on Zomato which is a Party and Music event happening at No.614-615, 12th Main Rd, 7th Cross, HAL 2nd Stage, Indiranagar",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/ac329e7fc62d539627561c5ff4bc22a91721717249.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/houseparty-bengaluru-et46081/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-23 12:42:48",
+        "availability": "INSTOCK",
+        "inventory": 199
+      },
+      {
+        "url": "https://www.zomato.com/events/houseparty-bengaluru-et46081/details",
+        "price": 2000,
+        "currency": "INR",
+        "validFrom": "2024-07-23 12:42:48",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/houseparty-bengaluru-et46081/details",
+        "price": 3000,
+        "currency": "INR",
+        "validFrom": "2024-07-23 12:42:48",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/houseparty-bengaluru-et46081"
+  },
+  {
+    "name": "Sairaah Live",
+    "description": "Ready to turn up the volume and experience an unforgettable night? \u00f0\u0178\u017d\u00b6\r\n\r\nFor the first time ever in Bangalore, the sensational Sairaah will be performing live at Radio Bar, RMZ Ecoworld, Bellandur!\r\n\r\nJoin us on July 26th from 7 PM onwards for a night of incredible music, vibrant energy, and unforgettable memories.",
+    "startDate": "2024-07-26T19:00:00+05:30",
+    "endDate": "2024-07-26T23:50:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Sairaah Live Music and Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sairaah Live Bengaluru on Zomato which is a Music and Party event happening at Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f444454979f33a9bf08c1dce8eb9e4021721725425.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/sairaah-live-bengaluru-et46104/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-07-23 15:04:37",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/sairaah-live-bengaluru-et46104"
+  },
+  {
+    "name": "Northern Mic | Bengaluru Open Mic 37",
+    "description": "Namaskara Bengaluru,\r\n\r\nIf you are an artist, our open mics are the best stage to get yourself in the crowd, we have an extremely supportive audience and the vibe just resonates with the art you want to perform. On the other hand, if you want to spend quality time amongst poetry, stories, music, and comedy, dowithlit Open Mics is the place to be. Come and bring your friends/family and check a weekend well spent. P.S. Amazing networking opportunities with artists too!\r\n\r\nOur open mics which became popular online during the lockdown, are now going around cities in India bringing like-minded artists together to perform, jam, and network. Perform or catch the best performances from some of the most talented artists in your city. Either way, DWL Open Mics is an experience of its own. Come be a part of it.",
+    "startDate": "2024-07-27T16:30:00+05:30",
+    "endDate": "2024-07-27T19:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Shop no - T 10, 3rd floor, Mall of Asia, Indra Nagar, Sahakar Nagar",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Northern Mic | Bengaluru Open Mic 37 Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Northern Mic | Bengaluru Open Mic 37 Bengaluru on Zomato which is a Experiences event happening at Shop no - T 10, 3rd floor, Mall of Asia, Indra Nagar, Sahakar Nagar",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/31a2d0f9ac0bdc600bf547360189f18e1721725578.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/northern-mic-bengaluru-open-mic-37-bengaluru-et46106/details",
+        "price": 149,
+        "currency": "INR",
+        "validFrom": "2024-07-23 15:14:33",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/northern-mic-bengaluru-open-mic-37-bengaluru-et46106/details",
+        "price": 249,
+        "currency": "INR",
+        "validFrom": "2024-07-23 15:04:37",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/northern-mic-bengaluru-open-mic-37-bengaluru-et46106/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-07-23 15:04:38",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/northern-mic-bengaluru-open-mic-37-bengaluru-et46106"
+  },
+  {
+    "name": "Mic Drop: A Curated Show Bengaluru",
+    "description": "Namaskara Bengaluru, \r\n\r\nMic Drop - a specially curated lineup from some crazily talented artists of Bengaluru features poetry, storytelling, music, and comedy from the best in the city. The lineup has been picked from hundreds of content submissions by regular performers in Bengaluru - therefore, this evening promises to be of quality and induce the right amount of inspiration. \r\n\r\nLineup:\r\nPoetry I Music I Comedy\r\nArtists Performing: Krutika Zambre, Anusha Popli, Ravi Kumar, Khevna Reddy, Shivam Gupta, Hanish Khatri, Moin Ul Haq, Shrutika Thete, Rohan Reddy, Dhevapriya RJ, Shreyas G Joshi, Numair Khan, Siddharth Khare, Avinash Tripathi, Amlan Hossain, Digantika Deb",
+    "startDate": "2024-07-28T17:00:00+05:30",
+    "endDate": "2024-07-28T19:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "1022, 80 Feet Rd, 4th Block, S.T. Bed, S T Bed Layout, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Mic Drop: A Curated Show Bengaluru Experiences and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Mic Drop: A Curated Show Bengaluru Bengaluru on Zomato which is a Experiences and Music event happening at 1022, 80 Feet Rd, 4th Block, S.T. Bed, S T Bed Layout, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/de2dba2b8677a94ceafa4175e66c7afd1721727775.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/mic-drop-a-curated-show-bengaluru-bengaluru-et46108/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-07-23 15:04:38",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/mic-drop-a-curated-show-bengaluru-bengaluru-et46108/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-07-23 15:04:39",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/mic-drop-a-curated-show-bengaluru-bengaluru-et46108/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-07-23 15:04:39",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/mic-drop-a-curated-show-bengaluru-bengaluru-et46108"
   }
 ]
