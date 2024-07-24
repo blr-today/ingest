@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 206
+        "inventory": 194
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +57,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1134
+        "inventory": 1131
       }
     ],
     "performers": [],
@@ -303,47 +303,6 @@
     "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987"
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-07-24T21:00:00+05:30",
-    "endDate": "2024-07-24T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/81140af8c8018ef5236d6a186f78a97b1720455385.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et44629/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-08 22:23:56",
-        "availability": "INSTOCK",
-        "inventory": 69
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et44629"
-  },
-  {
     "name": "Boogie Nights",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 9 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ PRASHU and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-07-26T21:00:00+05:30",
@@ -371,7 +330,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:56",
         "availability": "INSTOCK",
-        "inventory": 64
+        "inventory": 60
       }
     ],
     "performers": [],
@@ -412,7 +371,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:57",
         "availability": "INSTOCK",
-        "inventory": 67
+        "inventory": 66
       }
     ],
     "performers": [],
@@ -453,7 +412,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:57",
         "availability": "INSTOCK",
-        "inventory": 37
+        "inventory": 32
       }
     ],
     "performers": [],
@@ -494,7 +453,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:59",
         "availability": "INSTOCK",
-        "inventory": 32
+        "inventory": 25
       }
     ],
     "performers": [],
@@ -535,7 +494,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:59",
         "availability": "INSTOCK",
-        "inventory": 37
+        "inventory": 30
       }
     ],
     "performers": [],
@@ -2185,8 +2144,8 @@
         "price": 499,
         "currency": "INR",
         "validFrom": "2024-07-20 14:00:00",
-        "availability": "INSTOCK",
-        "inventory": 241
+        "availability": "SELLING_FAST",
+        "inventory": 30
       }
     ],
     "performers": [
@@ -2242,7 +2201,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 303
+        "inventory": 301
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -2307,7 +2266,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 215
+        "inventory": 209
       }
     ],
     "performers": [],
@@ -2348,7 +2307,7 @@
         "currency": "INR",
         "validFrom": "2024-07-22 12:53:00",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 28
       }
     ],
     "performers": [],
@@ -2623,7 +2582,7 @@
         "currency": "INR",
         "validFrom": "2024-07-23 12:42:48",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 194
       },
       {
         "url": "https://www.zomato.com/events/houseparty-bengaluru-et46081/details",
