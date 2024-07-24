@@ -2520,7 +2520,7 @@
         "currency": "INR",
         "validFrom": "2024-07-23 10:29:47",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 114
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068/details",
@@ -2536,7 +2536,7 @@
         "currency": "INR",
         "validFrom": "2024-07-23 10:29:48",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 152
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068/details",
@@ -2544,7 +2544,7 @@
         "currency": "INR",
         "validFrom": "2024-07-23 10:29:00",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 196
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068/details",
@@ -2552,7 +2552,7 @@
         "currency": "INR",
         "validFrom": "2024-07-23 10:29:00",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 198
       }
     ],
     "performers": [],
