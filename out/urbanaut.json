@@ -1609,5 +1609,55 @@
       "Walking Tour",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Make your own Bud Vases: Pottery Workshop",
+    "description": "One Day Pottery Workshop: Bud Vase Coiling Technique Unleash your inner artist and create a stunning bud vase using the ancient coiling technique at our one-day workshop! Whether you're a pottery enthusiast or a curious beginner, this workshop is designed to guide you through the fun and meditative process of hand-building a beautiful vase.What to Expect:-Welcome and Introduction: Begin the day with a warm welcome and an overview of the coiling technique, an age-old method that\u2019s perfect for crafting unique and intricate shapes.-Clay Preparation: Learn how to prepare your clay, ensuring it\u2019s just right for coiling.-Coiling Technique Mastery: Discover the step-by-step process of rolling out coils, stacking, and smoothing them to create the body of your vase. We\u2019ll cover tips and tricks to make your vase both sturdy and beautiful.-Creative Touches: Add your personal flair with decorative elements, textures, and designs to make your vase one-of-a-kind.-Finishing Up: Learn about drying, firing, and glazing options to complete your vase at home or in a studio.What to wear:- Clothes that can get a little messy (embrace the clay!).Included in the Workshop:- All the clay and tools you\u2019ll need.- Expert instruction from our experienced pottery teacher.- A fun, supportive environment where creativity can flourish.Join us for a delightful day of creativity and craftsmanship! By the end of the workshop, you'll have your own handmade bud vase and the satisfaction of learning a timeless pottery technique. Sign up now and let\u2019s coil some magic together! \ud83c\udf1f\ud83d\udc69\u200d\ud83c\udfa8\ud83d\udd8c\ufe0f",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B2D1CE63DEBD4B91A47F00196A825ED9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/606948C2E10243439C2C84138AC40AFB_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6D52E6CBFB8946FEA4A550597C869F55_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B6846BBF70B043599BE764DB413EC2F0_converted_webp.webp"
+    ],
+    "startDate": "2024-07-28T14:00:00+05:30",
+    "endDate": "2024-07-28T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No.6, 1st cross road, next to Bethany Nursery School, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJR0lUZgcVrjsRNDameGz5Vn4",
+      "latitude": "12.94139770000000000000",
+      "longitude": "77.62071759999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 8,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Trayah Pottery",
+      "description": "A pottery studio, community space and a second home for many!",
+      "url": "https://urbanaut.app/partner/trayah",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/153C54FF46944D08A5B37BEEEE67C546_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99021-77180"
+      }
+    },
+    "url": "https://urbanaut.app/spot/make-your-own-bud-vases-pottery-workshop",
+    "keywords": [
+      "Art & culture",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]

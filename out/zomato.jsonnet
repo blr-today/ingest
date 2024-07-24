@@ -2806,5 +2806,83 @@
       }
     ],
     "url": "https://www.zomato.com/events/mic-drop-a-curated-show-bengaluru-bengaluru-et46108"
+  },
+  {
+    "name": "Chai Pe Charcha",
+    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \r\nIt`s a cozy little meet-up for people who just want to get to know others and have good conversations.\r\nIf you want to make new friends over Chai, come join us.",
+    "startDate": "2024-07-27T15:00:00+05:30",
+    "endDate": "2024-07-27T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711721818579.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et46308/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-07-24 16:52:39",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et46308"
+  },
+  {
+    "name": "Chai Pe Charcha",
+    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \r\nIt`s a cozy little meet-up for people who just want to get to know others and have good conversations.\r\nIf you want to make new friends over Chai, come join us.",
+    "startDate": "2024-07-28T15:00:00+05:30",
+    "endDate": "2024-07-28T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711721818579.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et46309/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-07-24 16:52:39",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et46309"
   }
 ]
