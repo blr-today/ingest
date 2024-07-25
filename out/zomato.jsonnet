@@ -2467,8 +2467,8 @@
       }
     ],
     "isAccessibleForFree": true,
-    "ogTitle": "SoMAD Mehfil Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SoMAD Mehfil Bengaluru on Zomato which is a Party event happening at UB City, 203, 2nd Floor, The Collection, 24, Vittal Mallya Rd",
+    "ogTitle": "SoMAD Mehfil Party and Best seller event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for SoMAD Mehfil Bengaluru on Zomato which is a Party and Best seller event happening at UB City, 203, 2nd Floor, The Collection, 24, Vittal Mallya Rd",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/c5585b6bfbfc7abc27f18446acde80381721709516.jpeg"
     ],
@@ -2479,7 +2479,7 @@
         "currency": "INR",
         "validFrom": "2024-07-23 10:29:47",
         "availability": "INSTOCK",
-        "inventory": 114
+        "inventory": 65
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068/details",
@@ -2495,7 +2495,7 @@
         "currency": "INR",
         "validFrom": "2024-07-23 10:29:48",
         "availability": "INSTOCK",
-        "inventory": 152
+        "inventory": 130
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068/details",
@@ -2511,7 +2511,7 @@
         "currency": "INR",
         "validFrom": "2024-07-23 10:29:00",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 197
       }
     ],
     "performers": [],

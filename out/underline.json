@@ -2,41 +2,6 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2024-07-25T11:30:00.000Z",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Breaking the Backlog",
-      "sameAs": "https://underline.center/t/69",
-      "startDate": "2024-07-25T04:30:00.000Z",
-      "url": "https://insider.in/breaking-the-backlog-at-underline-center/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -141,6 +106,41 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2024-07-28T11:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Dungeons & Dragons and other TTRPGs",
+      "sameAs": "https://underline.center/t/87",
+      "startDate": "2024-07-28T06:30:00.000Z",
+      "url": "https://forum.reroll.in/t/dungeons-dragons-and-other-ttrpgs-sunday-28-july-underline-center-indiranagar/2138"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -206,5 +206,40 @@
       "sameAs": "https://underline.center/t/54",
       "startDate": "2024-07-30T14:30:00.000Z",
       "url": "https://insider.in/cinema-of-france-le-pont-du-nord-1981-with-the-parallel-cinema-club-jul30-2024/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2024-08-01T11:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Breaking the Backlog",
+      "sameAs": "https://underline.center/t/69",
+      "startDate": "2024-08-01T04:30:00.000Z",
+      "url": "https://insider.in/breaking-the-backlog-at-underline-center/event"
    }
 ]
