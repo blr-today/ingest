@@ -426,47 +426,6 @@
     "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et44632"
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night",
-    "startDate": "2024-07-25T21:00:00+05:30",
-    "endDate": "2024-07-25T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/6dd3cba07e282551d592aa881835d9201720455930.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et44637/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-08 22:23:59",
-        "availability": "INSTOCK",
-        "inventory": 25
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et44637"
-  },
-  {
     "name": "Blockbuster Friday",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8 p.m., Hard Rock Cafe Whitefield Bengaluru is happy to host DJ Chirag and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-07-26T20:00:00+05:30",
