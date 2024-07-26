@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 194
+        "inventory": 187
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +57,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1131
+        "inventory": 1124
       }
     ],
     "performers": [],
@@ -371,7 +371,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:57",
         "availability": "INSTOCK",
-        "inventory": 66
+        "inventory": 59
       }
     ],
     "performers": [],
@@ -412,7 +412,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:57",
         "availability": "INSTOCK",
-        "inventory": 32
+        "inventory": 26
       }
     ],
     "performers": [],
@@ -453,7 +453,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:59",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 26
       }
     ],
     "performers": [],
@@ -1268,7 +1268,7 @@
         "currency": "INR",
         "validFrom": "2024-07-13 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 77
+        "inventory": 70
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et45225/details",
@@ -1407,7 +1407,7 @@
         "currency": "INR",
         "validFrom": "2024-07-18 13:31:03",
         "availability": "INSTOCK",
-        "inventory": 242
+        "inventory": 239
       }
     ],
     "performers": [],
@@ -2102,9 +2102,17 @@
         "url": "https://www.zomato.com/events/soul-jams-bengaluru-et45882/details",
         "price": 499,
         "currency": "INR",
+        "validFrom": "2024-07-25 16:00:00",
+        "availability": "INSTOCK",
+        "inventory": 254
+      },
+      {
+        "url": "https://www.zomato.com/events/soul-jams-bengaluru-et45882/details",
+        "price": 499,
+        "currency": "INR",
         "validFrom": "2024-07-20 14:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 30
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [
@@ -2160,7 +2168,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 301
+        "inventory": 299
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -2168,7 +2176,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 215
+        "inventory": 214
       }
     ],
     "performers": [],
@@ -2225,7 +2233,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 209
+        "inventory": 206
       }
     ],
     "performers": [],
@@ -2266,7 +2274,7 @@
         "currency": "INR",
         "validFrom": "2024-07-22 12:53:00",
         "availability": "INSTOCK",
-        "inventory": 28
+        "inventory": 27
       }
     ],
     "performers": [],
@@ -2307,7 +2315,7 @@
         "currency": "INR",
         "validFrom": "2024-07-22 12:53:01",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 28
       }
     ],
     "performers": [],
@@ -2541,7 +2549,7 @@
         "currency": "INR",
         "validFrom": "2024-07-23 12:42:48",
         "availability": "INSTOCK",
-        "inventory": 194
+        "inventory": 193
       },
       {
         "url": "https://www.zomato.com/events/houseparty-bengaluru-et46081/details",
@@ -2598,7 +2606,7 @@
         "currency": "INR",
         "validFrom": "2024-07-23 15:04:37",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 45
       }
     ],
     "performers": [],
