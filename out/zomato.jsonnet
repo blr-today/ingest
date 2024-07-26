@@ -2810,5 +2810,164 @@
       }
     ],
     "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et46309"
+  },
+  {
+    "name": "Bryan Adams - So Happy It Hurts Tour 2024",
+    "description": "Get ready to experience the International rock legend's live concert as part of his 5 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the \u2018So Happy It Hurts\u2019 World Tour.  \r\n\r\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.",
+    "startDate": "2024-12-14T19:00:00+05:30",
+    "endDate": "2024-12-14T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Bengaluru",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Bryan Adams - So Happy It Hurts Tour 2024 Trending and Best seller event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bryan Adams - So Happy It Hurts Tour 2024 Bengaluru on Zomato which is a Trending and Best seller event happening at Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/67aece9c22231834fcb9f8eb9c6544dc1721985650.png",
+      "https://b.zmtcdn.com/data/zomaland/0dd73a8c18ac2ca4f1ec1564470de6e21721838390.png",
+      "https://b.zmtcdn.com/data/zomaland/fbeacb352da695c9f37ae286496d69661721838453.png",
+      "https://b.zmtcdn.com/data/zomaland/685753a9c0d8d2b91e8d855eb2543a6f1721838475.png",
+      "https://b.zmtcdn.com/data/zomaland/05bcb7d702207528135d730b3700e9421721838497.png",
+      "https://b.zmtcdn.com/data/zomaland/1e89dbbb75e5d516946eb3f76ae900ab1721839188.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/6478370318ea10219b35bd45963db86a1721839209.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/64da2fccfbcac50917728c80086f94161721839209.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/560cd9a43f6a76b464338ade211ab62e1721839209.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/f183db711697510886ba2f8ded165fd91721839209.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/59c72d8e56850aa8c7bd71a1d78d77d61721839209.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/5ce52e330649ddc2a36fd58e45da96821721839209.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/5136a008fffbdbfdad9ca4edf5796d821721839209.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/cbb51b07afe70ff7d192d3abae210c201721985893.png"
+    ],
+    "tickets": [],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352"
+  },
+  {
+    "name": "Sunday Session Ft. Answer",
+    "description": "Experience the electrifying beats of Answer at the Kitty Ko event by Centigrade on July 28th. Dive into an evening where music meets magic as Answer, renowned for his captivating mixes and infectious energy, takes the stage. From pulsating rhythms to soul-stirring melodies, immerse yourself in a sonic journey that transcends genres.\r\n\r\nAnswer's unique blend of house, techno, and experimental sounds promises an unforgettable night under the stars. Join us at Kitty Ko for a celebration of music, artistry, and pure adrenaline. Don\u2019t miss your chance to be part of this exceptional event. Limited Guestlist available-Secure yours now\r\nWhether you're a die-hard fan or new to his sound, this event promises an evening of pure sonic delight and unforgettable memories.",
+    "startDate": "2024-07-28T20:00:00+05:30",
+    "endDate": "2024-07-29T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Kumara Park East, Seshadripuram",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Sunday Session Ft. Answer Party, Trending and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sunday Session Ft. Answer Bengaluru on Zomato which is a Party, Trending and Music event happening at Kumara Park East, Seshadripuram",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b6ec337aabdcce37965185d722a348891721974009.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/sunday-session-ft-answer-bengaluru-et46483/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-26 12:07:36",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/sunday-session-ft-answer-bengaluru-et46483/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-26 12:07:37",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/sunday-session-ft-answer-bengaluru-et46483/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-26 12:07:37",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/sunday-session-ft-answer-bengaluru-et46483"
+  },
+  {
+    "name": "Synthesis Ft Dj Armina",
+    "description": "Get ready to elevate your weekend! \u00f0\u0178\u0161\u20ac\r\n\r\nJoin us at High Ultra Lounge on August 3rd for an unforgettable night of Synthesis featuring the talented DJ Armina! \u00f0\u0178\u2019\u00ab\r\n\r\nDISCLAIMER: Please make sure to follow club rules.",
+    "startDate": "2024-08-03T20:00:00+05:30",
+    "endDate": "2024-08-04T00:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Synthesis Ft Dj Armina Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Synthesis Ft Dj Armina Bengaluru on Zomato which is a Music and Trending event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/262f7b65a584ded987f265c78c34ce3c1721981297.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/synthesis-ft-dj-armina-bengaluru-et46520/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-07-26 13:45:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/synthesis-ft-dj-armina-bengaluru-et46520/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-26 13:45:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/synthesis-ft-dj-armina-bengaluru-et46520/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-26 13:45:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/synthesis-ft-dj-armina-bengaluru-et46520"
   }
 ]
