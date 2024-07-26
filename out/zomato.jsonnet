@@ -2397,15 +2397,15 @@
         "currency": "INR",
         "validFrom": "2024-07-22 20:13:02",
         "availability": "INSTOCK",
-        "inventory": 7
+        "inventory": 6
       },
       {
         "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et46049/details",
         "price": 2000,
         "currency": "INR",
         "validFrom": "2024-07-22 20:13:03",
-        "availability": "INSTOCK",
-        "inventory": 6
+        "availability": "SELLING_FAST",
+        "inventory": 1
       }
     ],
     "performers": [],
