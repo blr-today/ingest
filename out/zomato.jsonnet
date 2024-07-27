@@ -113,48 +113,6 @@
     "url": "https://www.zomato.com/events/tribute-to-pink-floyd-bengaluru-et43185"
   },
   {
-    "name": "Starry Night",
-    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats.",
-    "startDate": "2024-07-27T16:00:00+05:30",
-    "endDate": "2024-07-27T18:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Starry Night Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Starry Night Bengaluru on Zomato which is a Experiences and Trending event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/c2f913f18c48913567d1cce9b5c466fe1719811259.png",
-      "https://b.zmtcdn.com/data/zomaland/bcd40001ebb3904ff5f8194e4059abe11719812182.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/starry-night-bengaluru-et43658/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-07-01 10:57:58",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/starry-night-bengaluru-et43658"
-  },
-  {
     "name": "Seaside Hues",
     "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats.",
     "startDate": "2024-07-28T13:00:00+05:30",
@@ -1956,8 +1914,8 @@
   {
     "name": "Soul Jams",
     "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \r\nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \r\n\r\nThe event comprises three soul-enriching parts: \r\n\r\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\r\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \r\n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
-    "startDate": "2024-07-27T16:30:00+05:30",
-    "endDate": "2024-07-27T20:30:00+05:30",
+    "startDate": "2024-07-27 16:30:00",
+    "endDate": "2024-07-27 20:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2126,8 +2084,8 @@
   {
     "name": "Bollywood Dance Workshop on 'Sadi Gali'",
     "description": "Meet Ashwa & Ishaan, the dynamic dance duo with a passion for energetic Bollywood beats! With over 10 years of dancing together, their journey began at IIT Delhi, where their college dance videos became viral sensations. As former members of the V-Defyn (IIT Delhi Dance Team), they bring high energy and creativity to every performance. Now based in Bangalore, they balance their startup careers with weekend dance sessions, keeping their love for dance alive and thriving. Join them to groove to the beats of \u2018Sadi Gali', bollywood style ",
-    "startDate": "2024-07-27T18:00:00+05:30",
-    "endDate": "2024-07-27T20:30:00+05:30",
+    "startDate": "2024-07-27 18:00:00",
+    "endDate": "2024-07-27 20:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2206,47 +2164,6 @@
     "url": "https://www.zomato.com/events/bollywood-dance-workshop-on-sadi-gali-bengaluru-et45966"
   },
   {
-    "name": "Modern Calligraphy Workshop",
-    "description": "Curated and led by luxury calligraphy & glass engraving artist Nidhi Joshi in collaboration with Soda, immerse yourself in this creative experience as you enjoy some delicious nibbles and drinks.",
-    "startDate": "2024-07-27 10:30:00",
-    "endDate": "2024-07-27 13:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Plot Number 25, 4, Lavelle Road, opposite Harley Davidson Showroom, D' Souza Layout, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Modern Calligraphy Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Modern Calligraphy Workshop Bengaluru on Zomato which is a Experiences event happening at Plot Number 25, 4, Lavelle Road, opposite Harley Davidson Showroom, D' Souza Layout, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/6a8f395cd38f4d9fb7a0e1e6abd4cf361721644547.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/modern-calligraphy-workshop-bengaluru-et45992/details",
-        "price": 2500,
-        "currency": "INR",
-        "validFrom": "2024-07-22 16:48:23",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/modern-calligraphy-workshop-bengaluru-et45992"
-  },
-  {
     "name": "Paint with Puppies",
     "description": "Have you ever dreamed of painting alongside the most adorable companions imaginable? Now's your chance! Don't miss out on the event of the month: Painting with Puppies! It's not just a workshop; it's an unforgettable experience that will touch your heart and ignite your creativity like never before.\r\nImagine yourself surrounded by cuddly, adoptable puppies, their wagging tails and playful energy inspiring every brushstroke. But it's not just about painting; it's about making a difference. With each ticket purchased, you're supporting animal welfare initiatives, spreading love and compassion to those who need it most.\r\nIndulge in unlimited snuggles, laughter, and pure joy as you create your masterpiece alongside your furry friends. This isn't just another workshop\u2014it's a chance to create memories that will last a lifetime while giving back to the community.",
     "startDate": "2024-08-03T15:00:00+05:30",
@@ -2274,15 +2191,15 @@
         "currency": "INR",
         "validFrom": "2024-07-22 20:13:02",
         "availability": "INSTOCK",
-        "inventory": 6
+        "inventory": 4
       },
       {
         "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et46049/details",
         "price": 2000,
         "currency": "INR",
-        "validFrom": "2024-07-22 20:13:03",
-        "availability": "SELLING_FAST",
-        "inventory": 1
+        "validFrom": "2024-07-22 20:13:00",
+        "availability": "INSTOCK",
+        "inventory": 9
       }
     ],
     "performers": [],
@@ -2458,8 +2375,8 @@
   {
     "name": "Northern Mic | Bengaluru Open Mic 37",
     "description": "Namaskara Bengaluru,\r\n\r\nIf you are an artist, our open mics are the best stage to get yourself in the crowd, we have an extremely supportive audience and the vibe just resonates with the art you want to perform. On the other hand, if you want to spend quality time amongst poetry, stories, music, and comedy, dowithlit Open Mics is the place to be. Come and bring your friends/family and check a weekend well spent. P.S. Amazing networking opportunities with artists too!\r\n\r\nOur open mics which became popular online during the lockdown, are now going around cities in India bringing like-minded artists together to perform, jam, and network. Perform or catch the best performances from some of the most talented artists in your city. Either way, DWL Open Mics is an experience of its own. Come be a part of it.",
-    "startDate": "2024-07-27T16:30:00+05:30",
-    "endDate": "2024-07-27T19:00:00+05:30",
+    "startDate": "2024-07-27 16:30:00",
+    "endDate": "2024-07-27 19:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2572,8 +2489,47 @@
   {
     "name": "Chai Pe Charcha",
     "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \r\nIt`s a cozy little meet-up for people who just want to get to know others and have good conversations.\r\nIf you want to make new friends over Chai, come join us.",
-    "startDate": "2024-07-27T15:00:00+05:30",
-    "endDate": "2024-07-27T21:00:00+05:30",
+    "startDate": "2024-07-29T19:00:00+05:30",
+    "endDate": "2024-07-29T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711721818579.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et46307/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-07-24 16:52:38",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et46307"
+  },
+  {
+    "name": "Chai Pe Charcha",
+    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \r\nIt`s a cozy little meet-up for people who just want to get to know others and have good conversations.\r\nIf you want to make new friends over Chai, come join us.",
+    "startDate": "2024-07-27 15:00:00",
+    "endDate": "2024-07-27 21:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2720,7 +2676,7 @@
         "currency": "INR",
         "validFrom": "2024-07-26 12:07:36",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       },
       {
         "url": "https://www.zomato.com/events/sunday-session-ft-answer-bengaluru-et46483/details",
@@ -2793,7 +2749,7 @@
         "currency": "INR",
         "validFrom": "2024-07-26 13:45:00",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 198
       }
     ],
     "performers": [],
@@ -2805,5 +2761,62 @@
       }
     ],
     "url": "https://www.zomato.com/events/synthesis-ft-dj-armina-bengaluru-et46520"
+  },
+  {
+    "name": "BuzzinUp Bangalore Bar Hop - Koramangala Edition",
+    "description": "Welcome to The BuzzinUp Bangalore Bar Hop: The Ultimate Pub Crawl, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favorite drinks, groove to fantastic music, and engage in fun games and activities.\r\n\r\nWalk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
+    "startDate": "2024-08-10T18:30:00+05:30",
+    "endDate": "2024-08-11T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "BuzzinUp Bangalore Bar Hop - Koramangala Edition Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for BuzzinUp Bangalore Bar Hop - Koramangala Edition Bengaluru on Zomato which is a Experiences event happening at 105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f47e32c7f2e9b18d4800c2aa916068f91722071737.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
+        "price": 699,
+        "currency": "INR",
+        "validFrom": "2024-07-27 15:00:00",
+        "availability": "INSTOCK",
+        "inventory": 33
+      },
+      {
+        "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-07-27 15:00:00",
+        "availability": "INSTOCK",
+        "inventory": 6
+      },
+      {
+        "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
+        "price": 3799,
+        "currency": "INR",
+        "validFrom": "2024-07-27 15:00:00",
+        "availability": "INSTOCK",
+        "inventory": 3
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562"
   }
 ]
