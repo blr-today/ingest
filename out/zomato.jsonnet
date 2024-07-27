@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 187
+        "inventory": 180
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +57,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1124
+        "inventory": 1122
       }
     ],
     "performers": [],
@@ -99,7 +99,7 @@
         "currency": "INR",
         "validFrom": "2024-06-25 22:06:23",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 25
       }
     ],
     "performers": [],
@@ -330,7 +330,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:57",
         "availability": "INSTOCK",
-        "inventory": 59
+        "inventory": 55
       }
     ],
     "performers": [],
@@ -371,7 +371,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:57",
         "availability": "INSTOCK",
-        "inventory": 26
+        "inventory": 25
       }
     ],
     "performers": [],
@@ -1186,7 +1186,7 @@
         "currency": "INR",
         "validFrom": "2024-07-13 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 70
+        "inventory": 69
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et45225/details",
@@ -1980,8 +1980,8 @@
         "price": 499,
         "currency": "INR",
         "validFrom": "2024-07-25 16:00:00",
-        "availability": "INSTOCK",
-        "inventory": 254
+        "availability": "SELLING_FAST",
+        "inventory": 43
       },
       {
         "url": "https://www.zomato.com/events/soul-jams-bengaluru-et45882/details",
@@ -2037,7 +2037,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 254
+        "inventory": 253
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -2110,7 +2110,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 206
+        "inventory": 197
       }
     ],
     "performers": [],
@@ -2151,7 +2151,7 @@
         "currency": "INR",
         "validFrom": "2024-07-22 12:53:00",
         "availability": "INSTOCK",
-        "inventory": 27
+        "inventory": 26
       }
     ],
     "performers": [],
@@ -2192,7 +2192,7 @@
         "currency": "INR",
         "validFrom": "2024-07-22 12:53:01",
         "availability": "INSTOCK",
-        "inventory": 28
+        "inventory": 24
       }
     ],
     "performers": [],
@@ -2208,8 +2208,8 @@
   {
     "name": "Modern Calligraphy Workshop",
     "description": "Curated and led by luxury calligraphy & glass engraving artist Nidhi Joshi in collaboration with Soda, immerse yourself in this creative experience as you enjoy some delicious nibbles and drinks.",
-    "startDate": "2024-07-27T10:30:00+05:30",
-    "endDate": "2024-07-27T13:30:00+05:30",
+    "startDate": "2024-07-27 10:30:00",
+    "endDate": "2024-07-27 13:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
