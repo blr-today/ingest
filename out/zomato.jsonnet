@@ -71,48 +71,6 @@
     "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858"
   },
   {
-    "name": "Tribute to Pink Floyd",
-    "description": "Dark Light is a five-piece psychedelic/progressive rock band from Bangalore whose music has been compared to a soulful blend of stadium rock`s ferocity and fury with progressive elements and ambient psychedelic soundscapes. They significantly draw inspiration from artists such as Porcupine Tree, Pink Floyd, U2, Opeth, Guns N` Roses, Radiohead, and Led Zeppelin and aim to make music that will captivate you and leave you wanting more.\r\nAnd of course, enjoy some beer and great bar fare as the ticket cost includes cover charges as well.",
-    "startDate": "2024-07-27T21:00:00+05:30",
-    "endDate": "2024-07-27T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Pink Floyd Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Pink Floyd Bengaluru on Zomato which is a Music and Trending event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/c40e568c13a47346f7088fc9da37f3461719332208.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/697e3863e1a82081f2fbedea4ce97dc01719333731.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-pink-floyd-bengaluru-et43185/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-06-25 22:06:23",
-        "availability": "INSTOCK",
-        "inventory": 25
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-pink-floyd-bengaluru-et43185"
-  },
-  {
     "name": "Seaside Hues",
     "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats.",
     "startDate": "2024-07-28T13:00:00+05:30",
@@ -341,63 +299,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et44632"
-  },
-  {
-    "name": "Punchliners Comedy Show ft Atul Khatri",
-    "description": "You don\u2019t have to wait in lines to hear jokes from us. Book your tickets for Atul Khatri live at Ecoworld, Bengaluru to tickle your funny Bone",
-    "startDate": "2024-07-27T20:00:00+05:30",
-    "endDate": "2024-07-27T21:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Adarsh Palm Retreat, Bellandur",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Punchliners Comedy Show ft Atul Khatri Comedy event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Punchliners Comedy Show ft Atul Khatri Bengaluru on Zomato which is a Comedy event happening at Adarsh Palm Retreat, Bellandur",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/cf1b2a13ed00f1cd166a1c12e943f7291721724539.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-atul-khatri-bengaluru-et44711/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-23 14:00:00",
-        "availability": "INSTOCK",
-        "inventory": 15
-      },
-      {
-        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-atul-khatri-bengaluru-et44711/details",
-        "price": 799,
-        "currency": "INR",
-        "validFrom": "2024-07-23 14:00:00",
-        "availability": "INSTOCK",
-        "inventory": 15
-      },
-      {
-        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-atul-khatri-bengaluru-et44711/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-07-23 14:00:00",
-        "availability": "INSTOCK",
-        "inventory": 13
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-atul-khatri-bengaluru-et44711"
   },
   {
     "name": "Chikmagalur Weekend Getaway",
@@ -1912,62 +1813,6 @@
     "url": "https://www.zomato.com/events/night-camping-trek-activities-ramanagar-bengaluru-et45789"
   },
   {
-    "name": "Soul Jams",
-    "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \r\nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \r\n\r\nThe event comprises three soul-enriching parts: \r\n\r\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\r\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \r\n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
-    "startDate": "2024-07-27 16:30:00",
-    "endDate": "2024-07-27 20:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Soul Jams Best seller, Music and Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Best seller, Music and Experiences event happening at Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4c49c34bc6e453cd5e920a25a96f3e4c1721468044.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/soul-jams-bengaluru-et45882/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-25 16:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 43
-      },
-      {
-        "url": "https://www.zomato.com/events/soul-jams-bengaluru-et45882/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-20 14:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/4b3cdc4390a318bdeff5dd7be26b3e391721455984.png",
-        "name": "Soul Jams",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/4b3cdc4390a318bdeff5dd7be26b3e391721455984.png"
-      }
-    ],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/soul-jams-bengaluru-et45882"
-  },
-  {
     "name": "In The Mood 2024 - Let's Get Loud",
     "description": "An evening of wholesome and fun entertainment for the whole family with choral music, dance, and theatre featuring all-time favourites from pop, jazz, blues, and rock with dances ranging from contemporary to ballroom and medleys from Broadway's best musicals.\r\nA fun evening for families and music lovers. Apart from the stage program there are food stalls and stalls featuring artifacts and other interesting items.",
     "startDate": "2024-08-17T18:00:00+05:30",
@@ -2084,47 +1929,6 @@
   {
     "name": "Bollywood Dance Workshop on 'Sadi Gali'",
     "description": "Meet Ashwa & Ishaan, the dynamic dance duo with a passion for energetic Bollywood beats! With over 10 years of dancing together, their journey began at IIT Delhi, where their college dance videos became viral sensations. As former members of the V-Defyn (IIT Delhi Dance Team), they bring high energy and creativity to every performance. Now based in Bangalore, they balance their startup careers with weekend dance sessions, keeping their love for dance alive and thriving. Join them to groove to the beats of \u2018Sadi Gali', bollywood style ",
-    "startDate": "2024-07-27 18:00:00",
-    "endDate": "2024-07-27 20:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "2nd, Shubhasri Building, Plaza, 7th Main Rd, Jayanagar 3rd Block East, Jayanagar, Bengaluru, Karnataka 560011",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Bollywood Dance Workshop on 'Sadi Gali' Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bollywood Dance Workshop on 'Sadi Gali' Bengaluru on Zomato which is a Experiences event happening at 2nd, Shubhasri Building, Plaza, 7th Main Rd, Jayanagar 3rd Block East, Jayanagar, Bengaluru, Karnataka 560011",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/16c5a5362f3d0af0e3126a5c9d2165461721632650.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bollywood-dance-workshop-on-sadi-gali-bengaluru-et45965/details",
-        "price": 649,
-        "currency": "INR",
-        "validFrom": "2024-07-22 12:53:00",
-        "availability": "INSTOCK",
-        "inventory": 26
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bollywood-dance-workshop-on-sadi-gali-bengaluru-et45965"
-  },
-  {
-    "name": "Bollywood Dance Workshop on 'Sadi Gali'",
-    "description": "Meet Ashwa & Ishaan, the dynamic dance duo with a passion for energetic Bollywood beats! With over 10 years of dancing together, their journey began at IIT Delhi, where their college dance videos became viral sensations. As former members of the V-Defyn (IIT Delhi Dance Team), they bring high energy and creativity to every performance. Now based in Bangalore, they balance their startup careers with weekend dance sessions, keeping their love for dance alive and thriving. Join them to groove to the beats of \u2018Sadi Gali', bollywood style ",
     "startDate": "2024-07-28T16:00:00+05:30",
     "endDate": "2024-07-28T18:30:00+05:30",
     "timezone": "+05:30",
@@ -2215,8 +2019,8 @@
   {
     "name": "SoMAD Mehfil",
     "description": "Party is not just an event but a cherished experience where art, culture, and community converge & create Lasting Memories. \r\n\r\nCome celebrate The Essence of our South Asian Tradition. Our Ethnic Wear Party isn't just an event; it's a celebration of unity in diversity, a tribute to the beauty of traditions that bind us together as a global community. It's an opportunity to learn, appreciate, and cherish the threads that connect us across cultures, leaving us with memories as colorful and vibrant as the garments we wear.",
-    "startDate": "2024-07-27T20:00:00+05:30",
-    "endDate": "2024-07-28T01:00:00+05:30",
+    "startDate": "2024-07-27 20:00:00",
+    "endDate": "2024-07-28 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2239,16 +2043,8 @@
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-07-23 10:29:00",
-        "availability": "INSTOCK",
-        "inventory": 181
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068/details",
-        "price": 1575,
-        "currency": "INR",
-        "validFrom": "2024-07-23 10:29:48",
-        "availability": "INSTOCK",
-        "inventory": 198
+        "availability": "SELLING_FAST",
+        "inventory": 86
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068/details",
@@ -2256,7 +2052,7 @@
         "currency": "INR",
         "validFrom": "2024-07-23 10:29:00",
         "availability": "INSTOCK",
-        "inventory": 194
+        "inventory": 168
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068/details",
@@ -2268,11 +2064,19 @@
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068/details",
+        "price": 1575,
+        "currency": "INR",
+        "validFrom": "2024-07-23 10:29:00",
+        "availability": "INSTOCK",
+        "inventory": 195
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-mehfil-bengaluru-et46068/details",
         "price": 2099,
         "currency": "INR",
         "validFrom": "2024-07-23 10:29:00",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 185
       }
     ],
     "performers": [],
@@ -2318,8 +2122,8 @@
   {
     "name": "Houseparty",
     "description": "Bangalore, Get ready for a party like no other!\r\n\r\nWe`re thrilled to announce the latest edition of Houseparty at Nevermind Houseparty - Tropical Edition; Complete with Lush Decor, special Jungle Juice & tropical vibes to make the night wilder than ever before!\r\n\r\nSay Goodbye to your regular clubbing nights and say hello to the coolest new way to party, complete with exciting games, the grooviest beats, and vibes like no other!\r\n\r\nThe only place where you can play, drink, dance, eat, and vibe all at once. \r\n\r\nCan`t wait to see you all there.",
-    "startDate": "2024-07-27T20:00:00+05:30",
-    "endDate": "2024-07-28T01:00:00+05:30",
+    "startDate": "2024-07-27 20:00:00",
+    "endDate": "2024-07-28 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2371,63 +2175,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/houseparty-bengaluru-et46081"
-  },
-  {
-    "name": "Northern Mic | Bengaluru Open Mic 37",
-    "description": "Namaskara Bengaluru,\r\n\r\nIf you are an artist, our open mics are the best stage to get yourself in the crowd, we have an extremely supportive audience and the vibe just resonates with the art you want to perform. On the other hand, if you want to spend quality time amongst poetry, stories, music, and comedy, dowithlit Open Mics is the place to be. Come and bring your friends/family and check a weekend well spent. P.S. Amazing networking opportunities with artists too!\r\n\r\nOur open mics which became popular online during the lockdown, are now going around cities in India bringing like-minded artists together to perform, jam, and network. Perform or catch the best performances from some of the most talented artists in your city. Either way, DWL Open Mics is an experience of its own. Come be a part of it.",
-    "startDate": "2024-07-27 16:30:00",
-    "endDate": "2024-07-27 19:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Shop no - T 10, 3rd floor, Mall of Asia, Indra Nagar, Sahakar Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Northern Mic | Bengaluru Open Mic 37 Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Northern Mic | Bengaluru Open Mic 37 Bengaluru on Zomato which is a Experiences event happening at Shop no - T 10, 3rd floor, Mall of Asia, Indra Nagar, Sahakar Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/31a2d0f9ac0bdc600bf547360189f18e1721725578.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/northern-mic-bengaluru-open-mic-37-bengaluru-et46106/details",
-        "price": 149,
-        "currency": "INR",
-        "validFrom": "2024-07-23 15:14:33",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/northern-mic-bengaluru-open-mic-37-bengaluru-et46106/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-07-23 15:04:37",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/northern-mic-bengaluru-open-mic-37-bengaluru-et46106/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-07-23 15:04:38",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/northern-mic-bengaluru-open-mic-37-bengaluru-et46106"
   },
   {
     "name": "Mic Drop: A Curated Show Bengaluru",
@@ -2524,45 +2271,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et46307"
-  },
-  {
-    "name": "Chai Pe Charcha",
-    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \r\nIt`s a cozy little meet-up for people who just want to get to know others and have good conversations.\r\nIf you want to make new friends over Chai, come join us.",
-    "startDate": "2024-07-27 15:00:00",
-    "endDate": "2024-07-27 21:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711721818579.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et46308/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-24 16:52:39",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et46308"
   },
   {
     "name": "Chai Pe Charcha",
