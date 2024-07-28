@@ -71,48 +71,6 @@
     "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858"
   },
   {
-    "name": "Seaside Hues",
-    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats.",
-    "startDate": "2024-07-28T13:00:00+05:30",
-    "endDate": "2024-07-28T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Seaside Hues Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Seaside Hues Bengaluru on Zomato which is a Experiences event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2ef5c94050177233d7658acc4da1b99d1719811528.png",
-      "https://b.zmtcdn.com/data/zomaland/5a09640d1e4816fa5d66d78753e7e49b1719812206.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/seaside-hues-bengaluru-et43659/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-07-01 10:57:58",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/seaside-hues-bengaluru-et43659"
-  },
-  {
     "name": "Palace Dandiya Jalsa",
     "description": "Palace Dandiya Jalsa Season 3 is all set to bring an unforgettable experience infused with the essence of Navratri. Groove to the beats of Bangalore's best and India's top performers, and get ready to immerse yourself in the Dandiya celebration.\r\nStep into the spotlight with your dazzling attire, indulge in mouthwatering culinary delights, and join the Dandiya dance extravaganza! \r\n\r\nHighlights -\r\n- 3 Acres Massive Area\r\n- Rainproof And Mud/ Sludge Proof Event Area\r\n- Spectacular And Vibrant Festive Decor\r\n- Amazing Flea Market.\r\n- Complimentary Dandiya Sticks (For first 100 couples only)\r\n- Enchanting Garba Dancers\r\n- Live Dhol Performances With Neon Illumination\r\n- Fusion Of Bollywood And Garba Themes\r\n- A Wide Array Of Delectable Food Stalls\r\n- Exciting Prizes Faor Garba And Dandiya Competitions\r\n- Enticing Vouchers And Goodies\r\n- Fun-Filled Photo Booth\r\n- Abundant Parking Facilities",
     "startDate": "2024-10-04T18:00:00+05:30",
@@ -1880,8 +1838,8 @@
   {
     "name": "Bollywood Dance Workshop on 'Sadi Gali'",
     "description": "Meet Ashwa & Ishaan, the dynamic dance duo with a passion for energetic Bollywood beats! With over 10 years of dancing together, their journey began at IIT Delhi, where their college dance videos became viral sensations. As former members of the V-Defyn (IIT Delhi Dance Team), they bring high energy and creativity to every performance. Now based in Bangalore, they balance their startup careers with weekend dance sessions, keeping their love for dance alive and thriving. Join them to groove to the beats of \u2018Sadi Gali', bollywood style ",
-    "startDate": "2024-07-28T16:00:00+05:30",
-    "endDate": "2024-07-28T18:30:00+05:30",
+    "startDate": "2024-07-28 16:00:00",
+    "endDate": "2024-07-28 18:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2000,8 +1958,8 @@
   {
     "name": "Mic Drop: A Curated Show Bengaluru",
     "description": "Namaskara Bengaluru, \r\n\r\nMic Drop - a specially curated lineup from some crazily talented artists of Bengaluru features poetry, storytelling, music, and comedy from the best in the city. The lineup has been picked from hundreds of content submissions by regular performers in Bengaluru - therefore, this evening promises to be of quality and induce the right amount of inspiration. \r\n\r\nLineup:\r\nPoetry I Music I Comedy\r\nArtists Performing: Krutika Zambre, Anusha Popli, Ravi Kumar, Khevna Reddy, Shivam Gupta, Hanish Khatri, Moin Ul Haq, Shrutika Thete, Rohan Reddy, Dhevapriya RJ, Shreyas G Joshi, Numair Khan, Siddharth Khare, Avinash Tripathi, Amlan Hossain, Digantika Deb",
-    "startDate": "2024-07-28T17:00:00+05:30",
-    "endDate": "2024-07-28T19:00:00+05:30",
+    "startDate": "2024-07-28 17:00:00",
+    "endDate": "2024-07-28 19:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2096,8 +2054,8 @@
   {
     "name": "Chai Pe Charcha",
     "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \r\nIt`s a cozy little meet-up for people who just want to get to know others and have good conversations.\r\nIf you want to make new friends over Chai, come join us.",
-    "startDate": "2024-07-28T15:00:00+05:30",
-    "endDate": "2024-07-28T21:00:00+05:30",
+    "startDate": "2024-07-28 15:00:00",
+    "endDate": "2024-07-28 21:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2347,5 +2305,54 @@
       }
     ],
     "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562"
+  },
+  {
+    "name": "Soul Jams",
+    "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \r\nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \r\n\r\nThe event comprises three soul-enriching parts: \r\n\r\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\r\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \r\n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
+    "startDate": "2024-08-03T16:30:00+05:30",
+    "endDate": "2024-08-03T20:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "23-A , chaithanya sharan X, Gunjur Village",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Soul Jams Experiences and Best seller event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Experiences and Best seller event happening at 23-A , chaithanya sharan X, Gunjur Village",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/7720029dec02484b48f5505645b2404c1722156916.png",
+      "https://b.zmtcdn.com/data/zomaland/0f48fae068387247b855d2cbf70068f81722157237.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/soul-jams-bengaluru-et46629/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-07-28 13:00:00",
+        "availability": "INSTOCK",
+        "inventory": 440
+      }
+    ],
+    "performers": [
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/8bdba35fcf0dcbccad51536bf402131f1722155547.png",
+        "name": "Soul Jams",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/8bdba35fcf0dcbccad51536bf402131f1722155547.png"
+      }
+    ],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/soul-jams-bengaluru-et46629"
   }
 ]
