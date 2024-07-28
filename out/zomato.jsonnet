@@ -41,7 +41,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 491
+        "inventory": 489
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 180
+        "inventory": 176
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +57,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1122
+        "inventory": 1121
       }
     ],
     "performers": [],
@@ -246,7 +246,7 @@
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:57",
         "availability": "INSTOCK",
-        "inventory": 55
+        "inventory": 54
       }
     ],
     "performers": [],
@@ -275,8 +275,8 @@
       }
     ],
     "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
+    "ogTitle": "Karaoke Nights Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music and Trending event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/81140af8c8018ef5236d6a186f78a97b1720455506.jpeg"
     ],
@@ -286,8 +286,8 @@
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:57",
-        "availability": "INSTOCK",
-        "inventory": 25
+        "availability": "SELLING_FAST",
+        "inventory": 14
       }
     ],
     "performers": [],
@@ -1045,7 +1045,7 @@
         "currency": "INR",
         "validFrom": "2024-07-13 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 69
+        "inventory": 68
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et45225/details",
@@ -1065,55 +1065,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et45225"
-  },
-  {
-    "name": "Paint with Puppies",
-    "description": "Have you ever dreamed of painting alongside the most adorable companions imaginable? Now's your chance! Don't miss out on the event of the month: Painting with Puppies! It's not just a workshop; it's an unforgettable experience that will touch your heart and ignite your creativity like never before.\r\nImagine yourself surrounded by cuddly, adoptable puppies, their wagging tails and playful energy inspiring every brushstroke. But it's not just about painting; it's about making a difference. With each ticket purchased, you're supporting animal welfare initiatives, spreading love and compassion to those who need it most.\r\nIndulge in unlimited snuggles, laughter, and pure joy as you create your masterpiece alongside your furry friends. This isn't just another workshop\u2014it's a chance to create memories that will last a lifetime while giving back to the community.",
-    "startDate": "2024-07-28T10:00:00+05:30",
-    "endDate": "2024-07-28T12:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "#77, Wind Tunnel Rd, Murugeshpalya, Muniyappa Layout",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Paint with Puppies Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Paint with Puppies Bengaluru on Zomato which is a Experiences and Trending event happening at #77, Wind Tunnel Rd, Murugeshpalya, Muniyappa Layout",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/69a7bb70c6627c6f26cf329f59d4076c1720866403.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et45228/details",
-        "price": 1200,
-        "currency": "INR",
-        "validFrom": "2024-07-13 16:07:23",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et45228/details",
-        "price": 2000,
-        "currency": "INR",
-        "validFrom": "2024-07-13 16:07:24",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et45228"
   },
   {
     "name": "Caged ft. Arjun Vagale",
@@ -1840,7 +1791,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 253
+        "inventory": 251
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -1848,7 +1799,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 299
+        "inventory": 293
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -1856,7 +1807,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 214
+        "inventory": 201
       }
     ],
     "performers": [],
@@ -1905,7 +1856,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 303
+        "inventory": 300
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -1954,7 +1905,7 @@
         "currency": "INR",
         "validFrom": "2024-07-22 12:53:01",
         "availability": "INSTOCK",
-        "inventory": 24
+        "inventory": 23
       }
     ],
     "performers": [],
