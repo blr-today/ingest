@@ -1,70 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "THE PRE FESTIVE EDIT - UTSAV by Conscious Souk @love,OORU",
-    "description": "Conscious Souk presents UTSAV - THE PRE FESTIVE EDITJoin us for a vibrant marketplace featuring emerging, sustainable brands, local creators, and independent designers. Discover a diverse range of products, with some great food & wine including:- Clothing- Ceramics- Home Decor- Ethical Gifting Products- Jewellery- Personal Care Products- ArtDates: 27-28th July 2024\u00a0\u00a0Time: 11am-8pmLocation: love,OORU RooftopCheers Partners : THE SOURCE, SULA VINEYARDS. First 50 signups get a free wine tasting.*** 27 July 2024\u00a0LIVE MUSIC BY KEYAA HIRA @7:30PM ***LAMHE POTTERY HANDBUILDING WORKSHOP27-28th July 2024\u00a0\u00a0- 11-12:30PM / 3:30-5PM***DYEING & BLOCK PRINTING WITH NATURAL COLORS27 July 2024\u00a0\u00a0KIDS(+5YRS) - 3-3:45PMADULTS - 4:30-5:30PM28 July 2024\u00a0KIDS(+5YRS) - 12:30 - 1:15PMADULTS - 2-3PM",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/84832194B48D43A9BE22B5E7A2BD263B_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B4875F478D7F4161BDD3A18D5FD0DDE8_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/81203B91945145EE8A7513520C1E255C_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/787001338817450FAD79693AD3F71F91_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/573878CEF276439F9B45E1B542D63773_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/56A0DC2A65CF435884369DC331D53D5E_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6BBD33664DA7460AB8E7351ED42361D9_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7195BAFD174C43729837C5761B06B4CE_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5D2C4EC537144CB4AA8DBF379F309B30_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0877246EFC7E4F72B160333DE768D78D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C6B8144755814D6587EC1C75B06912E5_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4D7E755C52C9422AAE331EB55870DA0F_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/617186F5882E4403A7F467989642E9AE_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEE995940DFB440F8F1B6ADA75A70C18_converted_webp.webp"
-    ],
-    "startDate": "2024-07-28T11:00:00+05:30",
-    "endDate": "2024-07-28T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "love OORU",
-      "address": "No. 136, Evergreen PARC, Rooftop, 1st Cross Road, 5th Block,, Koramangala, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGVzyK04UrjsRdvT82NJs8YE",
-      "latitude": "12.93370000000000000000",
-      "longitude": "77.62154500000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 129,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "love OORU",
-      "description": "love.OORU is a tranquil oasis on the rooftop which is the perfect setting for enjoying beautiful sunsets, hosting private dinners & events, and maybe indulging in a chef's table experience.  Taking inspiration from Bengaluru, her history, geography, culture, and most importantly her stories, love.OORU was born as an identity rooted in Bengaluru and all it has to offer.",
-      "url": "https://urbanaut.app/partner/loveooru",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/x81ndtng2u-1711448075496loveoorugrilllogojpg.jpg",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98865-15954"
-      }
-    },
-    "url": "https://urbanaut.app/spot/ConsciousSoukATloveOORU",
-    "keywords": [
-      "Art & culture",
-      "Food & drink",
-      "Live GIG",
-      "Local",
-      "Festival",
-      "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Courtyard Baithak - An Evening of Ghazals",
     "description": "The Courtyard Baithak series is curated by tabla wizard and prodigy Trilochan Kampli, who with his uncompromising standards in music, evokes the best from every artist that he invites to perform. We are bringing musicians and audiences together on a sublime musical journey.Exclusive gatherings, quiet strains of exquisite music, and dedicated artists across selected genres - The Courtyard Baithak series promises a true classical musical experience.Please note: The ticket includes performance onlyAbout the artist- Kaamod SubhashKaamod Subhash is an accomplished artist, singer, music composer, and vocal coach with a rich musical heritage from Nagpur. Trained under his father, Shri R. Subhash, a renowned Marathi Ghazal singer, Kaamod holds a master\u2019s degree in Hindustani Classical Vocal Music from the University of Mumbai.Kaamod has received prestigious accolades, including the Yuva Ratna Award for his contributions to India\u2019s cultural development, proposed by the legendary Shri Jagjit Singh, and the \u2018Versatile Star Artist Of The Year Award\u2019 by the University of Mumbai in 2007.Influenced by ghazal legends like Mehdi Hasan, Ghulam Ali, Jagjit Singh, and Hariharan, Kaamod\u2019s talent has been recognized and praised by maestros such as Ghulam Ali, Anup Jalota, Pankaj Udhas, Talat Aziz, and Ustad Rashid Khan.Kaamod Subhash brings his unique flavor to every performance, promising an enchanting evening of ghazals at our event.Terms and Conditions:The management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Valet service is available at a charge of Rs. 200 per vehicle.Children aged 5 and older require a ticket.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Tickets are non-refundable in case of cancellation or no-show.In case of rain, the event will be moved indoors.",
@@ -109,55 +45,6 @@
       "Live GIG",
       "Music",
       "COURTYARD",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Kashmir Kitchen",
-    "description": "Tijouri is a pioneering Indian restaurant that offers a unique dining experience through monthly pop-ups featuring home chefs from across India. Located at Radisson Blu Atria, Bangalore, Tijouri aims to bring the diverse flavours of India to the heart of Bangalore, celebrating the rich culinary traditions of the country through an authentic and immersive dining experience. Our mission is to preserve traditional recipes and introduce them to a wider audience through both dining experiences and retail products.As our first pop up we bring to you the Kashmir Kitchen by Jasleen Marwah. Jasleen is a self taught Chef, who started her Kashmiri delivery kitchen l, Namak by jasleen, in the lockdown. Exploring her roots and Kashmiri cuisine became an important part of her food journey and she believes in telling these stories through her food.\u00a0Her signature dish is the Tabakh Maaz, a dish that also features in the Wazwan- mutton ribs slow cooked in whole spices and then pan fried in ghee.Menu for this Weekend:Welcome Drink:Apricot Drink/Noon ChaOn the Table:Nadru FriesSmall Plates:Kaladi Kucha/Paneer Kanti/Masala TschothChicken Tujji/Harissa/Tabakh MaazLarge Plates:Veg:Guchi YakhniNadru PalakRajmaTehriRadish ChutneyOnion ChutneyNon- VegRogan Josh,Chicken Kofta YakhniChicken with Dried HaakYakhni PulaoDessert:Walnut Halwa/Khubaani/ShuftaEnd With:KahwaThis menu is indicative of what will be served and maybe tweaked or changed.Terms & Conditions:Please arrive punctually.Late arrivals may miss the first few courses.Booking Fee are non-refundable under all circumstances once booked. Tickets are transferrable to a third party.No shows/ cancellations will not be refunded, but you can reschedule your booking for within the week 48hrs before your slot is due.Alcohol will not be served to guests under the age of 21No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.The booking fee total includes the online transaction fee.Parking at the event premises is at the risk of the vehicle owner.Valet is available.Photographs and videos of ticket holders may be uploaded to social media. Incase you do not wish to be featured, let our team know.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/09CA40D4B46F477C879BE67F2BD96731_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DE3A8F8E97F04E13A5BFC7594D70A064_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5A26B883CDBE40F5BEA6B10FD5C834D5_converted_webp.webp"
-    ],
-    "startDate": "2024-07-28T12:30:00+05:30",
-    "endDate": "2024-07-28T14:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "1, Palace Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJx154PW0WrjsREG4GX2L3FuI",
-      "latitude": "12.98023500000000000000",
-      "longitude": "77.58606100000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 12,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2600.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Tijouri",
-      "description": null,
-      "url": "https://urbanaut.app/partner/tijouri",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/985742089C9A4D15B189CA4035297B9A_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97416-19560"
-      }
-    },
-    "url": "https://urbanaut.app/spot/tijouri-kashmir-kitchen",
-    "keywords": [
-      "Food & drink",
-      "Pop-up Event",
       "URBANAUT"
     ]
   },
