@@ -1,231 +1,73 @@
-<!DOCTYPE html>
-<html lang="en-US">
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-		<title>Coming Soon</title>
-		<style>
-			html *:not(body):not(.hsr-coming-soon-body > *) {
-				display: none;
-			}
-
-			.hsr-coming-soon-body {
-				display: flex !important;
-			}
-		</style>
-	</head>
-	<body class="hostinger">
-		<div class="hsr-coming-soon-body">
-			<img alt="logo" class="hsr-logo"
-				src="https://aceofpubs.com/wp-content/plugins/hostinger/assets/images/logo-black.svg">
-			<img alt="illustration" class="hsr-coming-soon-illustration"
-				src="https://aceofpubs.com/wp-content/plugins/hostinger/assets/images/illustration.png">
-			<h3>
-				Coming Soon			</h3>
-			<p>
-				New WordPress website is being built and will be published soon			</p>
-		</div>
-
-				<script>
-		( function ( body ) {
-			'use strict';
-			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
-		} )( document.body );
-		</script>
-		<!-- Instagram Feed JS -->
-<script type="text/javascript">
-var sbiajaxurl = "https://aceofpubs.com/wp-admin/admin-ajax.php";
-</script>
-<div id="nedwp-fm" class="nedwp-fm-right nedwp-fm-mini nedwp-fm-desktop nedwp-fm-mobile">
-
-	<div id="nedwp-fm-toggle">
-
-					<i class="las la-comments"></i>
-		
-		<span>Feedback</span>
-
-	</div>
-
-	<div id="nedwp-fm-modal">
-
-		<div id="nedwp-fm-modal-head">
-
-			<span id="nedwp-fm-modal-title">Feedback</span>
-
-							<i id="nedwp-fm-modal-close" class="las la-times"></i>
-						
-		</div>
-
-		<div id="nedwp-fm-modal-body">
-
-			
-			<div id="nedwp-fm-modal-screens">
-				<div class="nedwp-fm-modal-screen" id="nedwp-fm-modal-screen-fb">
-
-	<div class="nedwp-fm-modal-screen-wrap">
-
-		
-			<div class="nedwp-fm-modal-field" id="nedwp-fm-modal-field-opinion">
-
-				<div class="nedwp-fm-modal-field-head">
-					<span class="nedwp-fm-modal-title">How would you rate your experience?</span>
-				</div>
-
-				<div class="nedwp-fm-modal-field-content">
-					<div id="nedwp-fm-modal-opinion-choice" class="nedwp-required">
-													<a href="#" class="nedwp-fm-modal-opinion-value" data-opinion="1">
-								<div class="nedwp-fm-modal-opinion-text">1</div>
-																	<div class="nedwp-fm-modal-opinion-name">Bad!</div>
-															</a>
-													<a href="#" class="nedwp-fm-modal-opinion-value" data-opinion="2">
-								<div class="nedwp-fm-modal-opinion-text">2</div>
-																	<div class="nedwp-fm-modal-opinion-name">Poor!</div>
-															</a>
-													<a href="#" class="nedwp-fm-modal-opinion-value" data-opinion="3">
-								<div class="nedwp-fm-modal-opinion-text">3</div>
-																	<div class="nedwp-fm-modal-opinion-name">Fair!</div>
-															</a>
-													<a href="#" class="nedwp-fm-modal-opinion-value" data-opinion="4">
-								<div class="nedwp-fm-modal-opinion-text">4</div>
-																	<div class="nedwp-fm-modal-opinion-name">Good!</div>
-															</a>
-													<a href="#" class="nedwp-fm-modal-opinion-value nedwp-active" data-opinion="5">
-								<div class="nedwp-fm-modal-opinion-text">5</div>
-																	<div class="nedwp-fm-modal-opinion-name">Great!</div>
-															</a>
-											</div>
-				</div>
-
-				<div class="nedwp-fm-modal-field-notice" id="nedwp-fm-modal-opinion-notice"></div>
-
-			</div>
-
-		
-			<div class="nedwp-fm-modal-field" id="nedwp-fm-modal-field-comment">
-
-				<div class="nedwp-fm-modal-field-head">
-					<span class="nedwp-fm-modal-title">Do you have any additional comment?</span>
-				</div>
-
-				<div class="nedwp-fm-modal-field-content">
-					<textarea id="nedwp-fm-modal-textarea-comment" placeholder="Please enter your comment here" class="nedwp-input"></textarea>
-				</div>
-
-				<div class="nedwp-fm-modal-field-notice" id="nedwp-fm-modal-comment-notice"></div>
-
-			</div>
-
-		
-	</div>
-
-	<div class="nedwp-fm-modal-screen-actions">
-
-		<div class="nedwp-fm-modal-screen-action" id="nedwp-fm-modal-submit">
-
-	<span>Submit</span>
-
-			<i class="las la-check-circle"></i>
-		
-</div>
-	</div>
-
-</div><div class="nedwp-fm-modal-screen" id="nedwp-fm-modal-screen-done">
-	<div class="nedwp-fm-modal-screen-wrap">
-		<div class="nedwp-fm-modal-field" id="nedwp-fm-modal-field-done">
-			<div class="nedwp-fm-modal-field-content">
-
-				<div id="nedwp-fm-modal-done-screen-icon">
-											<i class="las la-check-circle"></i>
-									</div>
-
-				<div id="nedwp-fm-modal-done-screen-text">
-					<span class="nedwp-fm-modal-title">Thank you for submitting your feedback!</span>
-				</div>
-				
-			</div>
-		</div>
-	</div>
-</div><div id="nedwp-fm-modal-loader">
-	<div id="nedwp-fm-modal-loader-spinner">
-		<svg id="nedwp-fm-modal-loader-circular" viewBox="25 25 50 50">
-			<circle id="nedwp-fm-modal-loader-path" cx="50" cy="50" r="20" fill="none" stroke-width="2" stroke-miterlimit="10"/>
-		</svg>
-	</div>
-</div>			</div>
-
-			<div id="nedwp-fm-modal-adjust"></div>
-
-			
-		</div>
-		
-	</div>
-
-			<div id="nedwp-fm-shadow"></div>
-	
-</div><script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"},"registration_prompt":"There is unsaved attendee information. Are you sure you want to continue?"};/* ]]> */ </script>			<script type='text/javascript'>
-				const lazyloadRunObserver = () => {
-					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
-					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
-						entries.forEach( ( entry ) => {
-							if ( entry.isIntersecting ) {
-								let lazyloadBackground = entry.target;
-								if( lazyloadBackground ) {
-									lazyloadBackground.classList.add( 'e-lazyloaded' );
-								}
-								lazyloadBackgroundObserver.unobserve( entry.target );
-							}
-						});
-					}, { rootMargin: '200px 0px 200px 0px' } );
-					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
-						lazyloadBackgroundObserver.observe( lazyloadBackground );
-					} );
-				};
-				const events = [
-					'DOMContentLoaded',
-					'elementor/lazyload/observe',
-				];
-				events.forEach( ( event ) => {
-					document.addEventListener( event, lazyloadRunObserver );
-				} );
-			</script>
-			<link rel='stylesheet' id='hostinger_main_styles-css' href='https://aceofpubs.com/wp-content/plugins/hostinger/assets//css/coming-soon.min.css?ver=3.0.4' type='text/css' media='all' />
-<script type="text/javascript" src="https://aceofpubs.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script type="text/javascript" src="https://aceofpubs.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/stratum/assets/js/editor-panel.min.js?ver=1.4.3" id="stratum-editor-panel-js-js"></script>
-<script type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/event-tickets/common/src/resources/js/tribe-common.min.js?ver=5.3.1" id="tribe-common-js"></script>
-<script type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/event-tickets/common/src/resources/js/utils/query-string.min.js?ver=5.3.1" id="tribe-query-string-js"></script>
-<script src='https://aceofpubs.com/wp-content/plugins/event-tickets/common/src/resources/js/underscore-before.js'></script>
-<script type="text/javascript" src="https://aceofpubs.com/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
-<script src='https://aceofpubs.com/wp-content/plugins/event-tickets/common/src/resources/js/underscore-after.js'></script>
-<script defer type="text/javascript" src="https://aceofpubs.com/wp-content/plugins/the-events-calendar/src/resources/js/views/manager.min.js?ver=6.5.2" id="tribe-events-views-v2-manager-js"></script>
-<!-- Registrations For the Events Calendar JS -->
-<script type="text/javascript">
-	jQuery(document).ready(function($) {
-		$(".rtec-submit-button").on('click', function(){
-var name = jQuery('input[name="rtec_first"]').val();
-    //var mobileno = jQuery('input[name="mobile"]').val();
-    var emailid = jQuery('input[name="rtec_email"]').val();
-    var fsource = jQuery('input[name="rtec_other"]').val();
-
-    if (name == "" || emailid == "" || fsource == "")  {
-        return false;
-    }
-    
-    else
-    {
-        window.location.href = 'https://aceofpubs.com/registration-successful/';
-    }
-});
-	});
-</script>
-			<script type="text/javascript">var fswatcherToken = "cd98b877328b7425ddf512d85679b55f";</script><script type="text/javascript">var fswatcherWebsiteUrl = "https://aceofpubs.com";</script><script type="text/javascript">document.addEventListener('DOMContentLoaded', function() {
-    if (typeof fswatcherToken !== 'undefined' && fswatcherWebsiteUrl !== 'undefined') {
-        let xhr = new XMLHttpRequest();
-        xhr.open("POST", fswatcherWebsiteUrl + '/');
-        xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-        xhr.send('fswatcher_token=' + fswatcherToken);
-    }
-});
-</script></body></html>
-
-<!-- Page cached by LiteSpeed Cache 6.3 on 2024-07-29 12:05:51 -->
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ace of Pubs - ECPv6.5.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ace of Pubs
+X-ORIGINAL-URL:https://aceofpubs.com
+X-WR-CALDESC:Events for Ace of Pubs
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:20240101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240801T200000
+DTEND;TZID=Asia/Kolkata:20240801T220000
+DTSTAMP:20240729T181733
+CREATED:20240729T084038Z
+LAST-MODIFIED:20240729T084040Z
+UID:33634-1722542400-1722549600@aceofpubs.com
+SUMMARY:Quizzards by Watson's - Watson's | Vasanth Nagar\, Bengaluru
+DESCRIPTION:
+URL:https://aceofpubs.com/event/quizzards-by-watsons-watsons-vasanth-nagar-bengaluru-4/
+LOCATION:Watson’s – Vasanth Nagar – Bengaluru\, 1st Floor\, Kodava Samaja Building\, Vasanth Nagar\, Bengaluru\, Karnataka 560052\, Bengaluru\, Karnataka\, 560052\, India
+CATEGORIES:Bengaluru,Vasanth Nagar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240802T200000
+DTEND;TZID=Asia/Kolkata:20240802T220000
+DTSTAMP:20240729T181733
+CREATED:20240729T085323Z
+LAST-MODIFIED:20240729T085325Z
+UID:33650-1722628800-1722636000@aceofpubs.com
+SUMMARY:The Big Bollywood Quiz - Smooth Criminal | Koramangala\, Bengaluru
+DESCRIPTION:
+URL:https://aceofpubs.com/event/the-big-bollywood-quiz-smooth-criminal-koramangala-bengaluru/
+LOCATION:Smooth Criminal — Koramangala — Bengaluru\, 48\, 4th B Cross\, KHB Colony\, 5th Block\, Koramangala Industrial Layout\, Koramangala\, Bengaluru\, Karnataka\, 560095\, India
+CATEGORIES:Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240802T200000
+DTEND;TZID=Asia/Kolkata:20240802T220000
+DTSTAMP:20240729T181733
+CREATED:20240729T090959Z
+LAST-MODIFIED:20240729T091000Z
+UID:33683-1722628800-1722636000@aceofpubs.com
+SUMMARY:Beer Games and Trivia - The Irish House | Sarjapur\, Bengaluru
+DESCRIPTION:
+URL:https://aceofpubs.com/event/beer-games-and-trivia-the-irish-house-sarjapur-bengaluru/
+LOCATION:The Irish House — Sarjapur — Bengaluru\, RMZ Ecoworld Rd\, Adarsh Palm Retreat\, Bellandur\, Bengaluru\, Karnataka\, 560103\, India
+CATEGORIES:Bengaluru,Sarjapur
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240802T200000
+DTEND;TZID=Asia/Kolkata:20240802T220000
+DTSTAMP:20240729T181733
+CREATED:20240729T091106Z
+LAST-MODIFIED:20240729T091107Z
+UID:33686-1722628800-1722636000@aceofpubs.com
+SUMMARY:Beer Games and Trivia - The Irish House | Yalahanka\, Bengaluru
+DESCRIPTION:
+URL:https://aceofpubs.com/event/beer-games-and-trivia-the-irish-house-yalahanka-bengaluru/
+LOCATION:The Irish House — Yalahanka — Bengaluru\, police station\, RMZ Galleria\, Food Court 3rd Floor\, opp. Yelahanka\, Ambedkar Colony\, Yelahanka\, Bengaluru\, Karnataka\, 560064
+CATEGORIES:Bengaluru
+END:VEVENT
+END:VCALENDAR

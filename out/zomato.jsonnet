@@ -1507,7 +1507,7 @@
         "currency": "INR",
         "validFrom": "2024-07-28 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 440
+        "inventory": 300
       }
     ],
     "performers": [
