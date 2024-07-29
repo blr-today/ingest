@@ -607,5 +607,55 @@
       "Workshop",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Friendship Day Party",
+    "description": "Looking to celebrate Friendship Day with a nostalgic twist, meet new people, and have a fantastic time? Join us for a fun and casual Friendship Day Lunch! This is the perfect opportunity to connect with old friends and make new ones while enjoying a delicious meal. Reminisce about the good old days, share your favourite memories, and create new one. Everyone is welcome to this nostalgic fun celebration.Friendly conversationsDelicious Food OptionsIce breakersFun ActivitiesGames from your childhoodGiveawaysUnforgettable MemoriesLet\u2019s dress retro and bring those nostalgic vibes to life!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/44A8B4D7123349C9A2FD0B44D333B915_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A4361674EE0B4937A9F4759E2414F94C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/77420AFD728C4EDDAF39AC79ACB37DB4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/32D31FA02EE040B3B63FC9B374A5BDD8_converted_webp.webp"
+    ],
+    "startDate": "2024-08-03T12:00:00+05:30",
+    "endDate": "2024-08-03T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "PrimeCo Union City, Unit No. 8, TOWER-B, Podium level, 19A & 19B of, Sadara Mangala Industrial Area, Thigalarapalya, Whitefield, Bengaluru, Karnataka 560066, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJaTjaPacRrjsRFXycjq7A4i4",
+      "latitude": "12.98961770000000000000",
+      "longitude": "77.73279070000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 14,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Issimo Experiences",
+      "description": "Curating Memorable Experiences",
+      "url": "https://urbanaut.app/partner/issimoexperiences",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/D65BDEAF22A54E7AA2C03B89FF91246D_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-90080-29451"
+      }
+    },
+    "url": "https://urbanaut.app/spot/issimoexperiences-friendship-day-party",
+    "keywords": [
+      "Food & drink",
+      "Premium",
+      "URBANAUT"
+    ]
   }
 ]

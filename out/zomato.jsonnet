@@ -1165,8 +1165,8 @@
         "price": 1200,
         "currency": "INR",
         "validFrom": "2024-07-22 20:13:02",
-        "availability": "INSTOCK",
-        "inventory": 4
+        "availability": "SELLING_FAST",
+        "inventory": 2
       },
       {
         "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et46049/details",
@@ -1174,7 +1174,7 @@
         "currency": "INR",
         "validFrom": "2024-07-22 20:13:00",
         "availability": "INSTOCK",
-        "inventory": 8
+        "inventory": 7
       }
     ],
     "performers": [],
@@ -1267,7 +1267,7 @@
         "currency": "INR",
         "validFrom": "2024-07-24 17:17:17",
         "availability": "INSTOCK",
-        "inventory": 13
+        "inventory": 11
       }
     ],
     "performers": [],
@@ -1279,45 +1279,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/speed-dating-bengaluru-et46296"
-  },
-  {
-    "name": "Chai Pe Charcha",
-    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \r\nIt`s a cozy little meet-up for people who just want to get to know others and have good conversations.\r\nIf you want to make new friends over Chai, come join us.",
-    "startDate": "2024-07-29T19:00:00+05:30",
-    "endDate": "2024-07-29T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711721818579.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et46307/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-24 16:52:38",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et46307"
   },
   {
     "name": "Bryan Adams - So Happy It Hurts Tour 2024",
@@ -1400,7 +1361,7 @@
         "currency": "INR",
         "validFrom": "2024-07-26 13:45:00",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 195
       },
       {
         "url": "https://www.zomato.com/events/synthesis-ft-dj-armina-bengaluru-et46520/details",
@@ -1408,7 +1369,7 @@
         "currency": "INR",
         "validFrom": "2024-07-26 13:45:00",
         "availability": "INSTOCK",
-        "inventory": 197
+        "inventory": 190
       }
     ],
     "performers": [],
@@ -1449,7 +1410,7 @@
         "currency": "INR",
         "validFrom": "2024-07-27 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 33
+        "inventory": 115
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
@@ -1457,7 +1418,7 @@
         "currency": "INR",
         "validFrom": "2024-07-27 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 6
+        "inventory": 9
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
@@ -1465,7 +1426,7 @@
         "currency": "INR",
         "validFrom": "2024-07-27 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 3
+        "inventory": 10
       }
     ],
     "performers": [],

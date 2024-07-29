@@ -1150,7 +1150,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 4
+               "value": 2
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-22T20:13:02+05:30"
@@ -1159,7 +1159,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 8
+               "value": 7
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-22T20:13:00+05:30"
@@ -1258,7 +1258,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 13
+               "value": 11
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-24T17:17:17+05:30"
@@ -1274,48 +1274,6 @@
       "performers": [ ],
       "startDate": "2024-07-31T20:00:00+05:30",
       "url": "https://www.zomato.com/events/speed-dating-bengaluru-et46296"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \r\nIt`s a cozy little meet-up for people who just want to get to know others and have good conversations.\r\nIf you want to make new friends over Chai, come join us.",
-      "endDate": "2024-07-29T21:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711721818579.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Chai Pe Charcha",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 15
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-24T16:52:38+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 15,
-      "startDate": "2024-07-29T19:00:00+05:30",
-      "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et46307"
    },
    {
       "@context": "https://schema.org",
@@ -1381,7 +1339,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 198
+               "value": 195
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-26T13:45:00+05:30"
@@ -1390,7 +1348,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 197
+               "value": 190
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-26T13:45:00+05:30"
@@ -1431,7 +1389,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 33
+               "value": 115
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-27T15:00:00+05:30"
@@ -1440,7 +1398,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 6
+               "value": 9
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-27T15:00:00+05:30"
@@ -1449,7 +1407,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 3
+               "value": 10
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-27T15:00:00+05:30"
