@@ -45,11 +45,11 @@
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
-        "price": 3650,
+        "price": 3900,
         "currency": "INR",
-        "validFrom": "2024-06-12 13:00:00",
+        "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 172
+        "inventory": 496
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +57,15 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1119
+        "inventory": 1115
+      },
+      {
+        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
+        "price": 3650,
+        "currency": "INR",
+        "validFrom": "2024-06-12 13:00:00",
+        "availability": "INSTOCK",
+        "inventory": 168
       }
     ],
     "performers": [],
@@ -131,7 +139,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 500
+        "inventory": 499
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -203,8 +211,8 @@
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-07-08 22:23:57",
-        "availability": "SELLING_FAST",
-        "inventory": 5
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -306,7 +314,7 @@
         "currency": "INR",
         "validFrom": "2024-07-13 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 64
+        "inventory": 59
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et45225/details",
@@ -314,7 +322,7 @@
         "currency": "INR",
         "validFrom": "2024-07-13 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 35
+        "inventory": 33
       }
     ],
     "performers": [],
@@ -1060,7 +1068,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 284
+        "inventory": 279
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -1068,7 +1076,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 201
+        "inventory": 198
       }
     ],
     "performers": [],
@@ -1125,7 +1133,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 187
+        "inventory": 185
       }
     ],
     "performers": [],
@@ -1468,7 +1476,7 @@
         "currency": "INR",
         "validFrom": "2024-07-28 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 300
+        "inventory": 210
       }
     ],
     "performers": [
@@ -1487,5 +1495,96 @@
       }
     ],
     "url": "https://www.zomato.com/events/soul-jams-bengaluru-et46629"
+  },
+  {
+    "name": "Brews Of Bangalore (Oktoberfest Edition)",
+    "description": "Join us for a vibrant day at Brews of Bangalore, where we're celebrating Bangalore's love for beer, coffee, food, and music! With live music creating the perfect backdrop, immerse yourself in a day filled with exciting activities and games that guarantee endless fun and laughter. Indulge your taste buds with offerings from top beer brands and discover the perfect pairing with our top food cuisines curated to complement your brew. Additionally, savor a variety of coffees from top coffee brands, making it an unforgettable and joyous experience for all!",
+    "startDate": "2024-09-22T12:00:00+05:30",
+    "endDate": "2024-09-22T22:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Brews Of Bangalore (Oktoberfest Edition) Experiences, Music and Best seller event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Brews Of Bangalore (Oktoberfest Edition) Bengaluru on Zomato which is a Experiences, Music and Best seller event happening at RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/c5e030601760e9f3b316198aafdf8f231722333435.png",
+      "https://b.zmtcdn.com/data/zomaland/b6f57c5db11b17adbe246e1165eddb491722342093.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-07-30 16:50:00",
+        "availability": "INSTOCK",
+        "inventory": 1000
+      },
+      {
+        "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-07-30 16:50:00",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824"
+  },
+  {
+    "name": "House Party Series ft Kampai",
+    "description": "We\u2019re excited to bring forward #SwitchUP an intellectual property curated by Kampai \r\n\r\nKAMPAI aka Rumit Virmani the Bangalore-based curator & DJ will be taking charge at hometurf alongside renowned and upcoming talents from across the nation. Ranging from House, Afro, Baile Funk, UKG, DnB & everything in between.\r\n",
+    "startDate": "2024-08-03T20:00:00+05:30",
+    "endDate": "2024-08-04T00:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "House Party Series ft Kampai Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for House Party Series ft Kampai Bengaluru on Zomato which is a Music event happening at 3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/e86421a82562c7ccd13204209eee7e431722335337.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/house-party-series-ft-kampai-bengaluru-et46840/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-07-30 16:15:58",
+        "availability": "INSTOCK",
+        "inventory": 98
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/house-party-series-ft-kampai-bengaluru-et46840"
   }
 ]
