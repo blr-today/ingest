@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bengaluru Sustainability Forum - ECPv6.5.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bengaluru Sustainability Forum
+X-ORIGINAL-URL:https://www.bengalurusustainabilityforum.org
+X-WR-CALDESC:Events for Bengaluru Sustainability Forum
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:20240101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240803T100000
+DTEND;TZID=Asia/Kolkata:20240803T170000
+DTSTAMP:20240730T120408
+CREATED:20240730T044441Z
+LAST-MODIFIED:20240730T044441Z
+UID:10749-1722679200-1722704400@www.bengalurusustainabilityforum.org
+SUMMARY:Addressing Urban Heat in Bengaluru : Data Jam
+DESCRIPTION:Inviting registrations for Datajam! Registration form \n\nThis datajam is organized by OpenCity.in in collaboration with Bengaluru Climate Action Cell and WRI India\, with support from ATREE\, Oorvani Foundation & Citizen Matters.\n\nAt the datajam\,  participants collaborate to scrape\, clean\, use open data to analyse different aspects of climate change – risks\, vulnerabilities and state of mitigations – in Bengaluru and recommend solutions.\nAll output/findings will be shared on OpenCity.in and CitizenMatters and available for republication under a cc license. \nWho can participate:\nAnyone with an interest in public problem solving is welcome. Knowledge of data analysis\, visualisation\, GIS and/or coding would be helpful.\n\nExpectations from Participants:\nUse publicly available data to analyze data related to urban heat – temperature\, demographics\, infrastructure – in Bengaluru. Also use existing knowledge and understanding of the city to look for challenges and suggest improvements to mitigate the challenges. \nPublic data is not restricted to what is available on OpenCity. You can find and use any data that is available publicly or can be made public. \nNote: Data that is behind paywalls\, or under Non-Disclosure Agreements cannot be used.
+URL:https://www.bengalurusustainabilityforum.org/event/addressing-urban-heat-in-bengaluru-data-jam/
+LOCATION:IPP Centre Malleswaram\, https://g.co/kgs/tuAC7ph
+CATEGORIES:External event,In-person Event
+ATTACH;FMTTYPE=image/jpeg:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/07/urbanheat-datajam.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240809T180000
+DTEND;TZID=Asia/Kolkata:20240809T203000
+DTSTAMP:20240730T120408
+CREATED:20240730T043659Z
+LAST-MODIFIED:20240730T043659Z
+UID:10744-1723226400-1723235400@www.bengalurusustainabilityforum.org
+SUMMARY:Fixing waste journeys : Active citizen workshop
+DESCRIPTION:Together\, uncover the journey of waste and brainstorm solutions\, which could be featured on Citizen Matters and shared with concerned officials! \nRegistration link: \nLearning session: Friday August 9th\, 6 pm– 8:30 pm (Zoom link to be provided)\n\nFacilitators: Pinky Chandran\, Independent Researcher\, Less Waste Practitioner @swmrtbengaluru @wasteframes; Meera K is Founder and Trustee\, Oorvani Foundation.\n\n\n\n\nExpectation: You need to be familiar with waste management\, and preferably have some volunteering experience. Open to participants from any city. \nThe session will have groups working on specific site use cases – you will also be documenting findings/observations\, with short videos or photos\nFor any queries\, mail  foundation@oorvani.in \n\nOorvani Foundation is a non-profit committed to civic engagement\, citizenship and communities.
+URL:https://www.bengalurusustainabilityforum.org/event/fixing-waste-journeys-active-citizen-workshop/
+LOCATION:Zoom Webinar
+CATEGORIES:External event,Online Event
+ATTACH;FMTTYPE=image/jpeg:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/07/waste-09-aug-.jpeg
+ORGANIZER;CN="Oorvani Foundation":MAILTO:foundation@oorvani.in
+END:VEVENT
+END:VCALENDAR
