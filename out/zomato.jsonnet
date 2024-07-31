@@ -1162,27 +1162,19 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Paint with Puppies Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Paint with Puppies Bengaluru on Zomato which is a Experiences event happening at Shop No 33, 80 Feet Rd, near Wipro Park,  opposite Barista and Domino's, 4th Block, S.T. Bed,  Cauvery Colony, Koramangala",
+    "ogTitle": "Paint with Puppies Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Paint with Puppies Bengaluru on Zomato which is a Experiences and Trending event happening at Shop No 33, 80 Feet Rd, near Wipro Park,  opposite Barista and Domino's, 4th Block, S.T. Bed,  Cauvery Colony, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/2e04161a3c2d6572a63950f11478af861721658787.jpeg"
     ],
     "tickets": [
       {
         "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et46049/details",
-        "price": 1200,
-        "currency": "INR",
-        "validFrom": "2024-07-22 20:13:02",
-        "availability": "SELLING_FAST",
-        "inventory": 2
-      },
-      {
-        "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et46049/details",
         "price": 2000,
         "currency": "INR",
         "validFrom": "2024-07-22 20:13:00",
-        "availability": "INSTOCK",
-        "inventory": 7
+        "availability": "SELLING_FAST",
+        "inventory": 5
       }
     ],
     "performers": [],
@@ -1211,6 +1203,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "25 & Single Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for 25 & Single Bengaluru on Zomato which is a Experiences event happening at Deena Complex, Opp MC Donald, Brigade Rd, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/2eb58d773a93c344e7835b9d61361c9f1721712546.png"
     ],
@@ -1241,6 +1235,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Speed Dating Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Speed Dating Bengaluru on Zomato which is a Experiences event happening at 46/1, Cobalt, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/5f9a70088679c33d7e4e43ea18d013c51721817794.png"
     ],
@@ -1275,7 +1271,7 @@
         "currency": "INR",
         "validFrom": "2024-07-24 17:17:17",
         "availability": "INSTOCK",
-        "inventory": 11
+        "inventory": 9
       }
     ],
     "performers": [],
@@ -1292,20 +1288,20 @@
     "name": "Bryan Adams - So Happy It Hurts Tour 2024",
     "description": "Get ready to experience the International rock legend's live concert as part of his 5 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the \u2018So Happy It Hurts\u2019 World Tour.  \r\n\r\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.",
     "startDate": "2024-12-14T19:00:00+05:30",
-    "endDate": "2024-12-14T23:00:00+05:30",
+    "endDate": "2024-12-14T22:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "locations": [
       {
         "place": "Bengaluru",
-        "streetAddress": "Bengaluru",
+        "streetAddress": "Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
         "addressCountry": "India"
       }
     ],
     "isAccessibleForFree": false,
     "ogTitle": "Bryan Adams - So Happy It Hurts Tour 2024 Trending and Best seller event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bryan Adams - So Happy It Hurts Tour 2024 Bengaluru on Zomato which is a Trending and Best seller event happening at Bengaluru",
+    "ogDesc": "Book online tickets for Bryan Adams - So Happy It Hurts Tour 2024 Bengaluru on Zomato which is a Trending and Best seller event happening at Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/67aece9c22231834fcb9f8eb9c6544dc1721985650.png",
       "https://b.zmtcdn.com/data/zomaland/0dd73a8c18ac2ca4f1ec1564470de6e21721838390.png",
@@ -1369,7 +1365,7 @@
         "currency": "INR",
         "validFrom": "2024-07-26 13:45:00",
         "availability": "INSTOCK",
-        "inventory": 195
+        "inventory": 191
       },
       {
         "url": "https://www.zomato.com/events/synthesis-ft-dj-armina-bengaluru-et46520/details",
@@ -1377,7 +1373,7 @@
         "currency": "INR",
         "validFrom": "2024-07-26 13:45:00",
         "availability": "INSTOCK",
-        "inventory": 190
+        "inventory": 188
       }
     ],
     "performers": [],
@@ -1418,7 +1414,7 @@
         "currency": "INR",
         "validFrom": "2024-07-27 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 115
+        "inventory": 113
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
@@ -1426,7 +1422,7 @@
         "currency": "INR",
         "validFrom": "2024-07-27 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 9
+        "inventory": 8
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
@@ -1434,7 +1430,7 @@
         "currency": "INR",
         "validFrom": "2024-07-27 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 9
       }
     ],
     "performers": [],
