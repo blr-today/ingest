@@ -2680,5 +2680,168 @@
       }
     ],
     "url": "https://www.zomato.com/events/janm-the-band-dj-kshitija-bengaluru-et46945"
+  },
+  {
+    "name": "Asal Kolar Live",
+    "description": "Asal Kolaar aka Asal Kolar is an Indian film Singer/Lyricst, who has worked predominantly in the Tamil movie industry. Asal has worked in popular movies like Coffee With Kadhal and Gulu Gulu. Asal`s previous film to hit the theatres was Coffee With Kadhal in the year 2022.\r\n\r\nAsal Kolaar is one of the contestants in Bigg Boss Tamil season 6, hosted by Kamal Haasan which airs on Vijay Television.\r\n\r\nOver 10 million people have viewed \u201cJorthaale,\u201d a Tamil independent music track offered by the Chennai-based label Atti Culture. On social media, the song almost surpassed 10 million views and 481k likes. The positive song, which was published in August of last year, quickly\r\ngained popularity on social media. Tamil independent musicians Asal Kolaar (Vasantkumar P) and OfRo, who is well-known for their undertaking known as the Casteless Collective, later wrote the song \u201cJorthaale.",
+    "startDate": "2024-10-06T20:00:00+05:30",
+    "endDate": "2024-10-07T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Asal Kolar Live Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Asal Kolar Live Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/596b7e3e2fff50324e1d8cefdb4d7ffc1722423888.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-07-31 16:35:00",
+        "availability": "INSTOCK",
+        "inventory": 25
+      },
+      {
+        "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-07-31 16:35:00",
+        "availability": "INSTOCK",
+        "inventory": 25
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030"
+  },
+  {
+    "name": "Vedan BabyJean LIve Avesham 2.0",
+    "description": "Step into the world of cutting-edge Malayalam rap as two powerhouse artists, Baby Jean and Vedan, ignite the stage at White Lotus Club on September 7th.",
+    "startDate": "2024-09-07T18:00:00+05:30",
+    "endDate": "2024-09-08T00:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Vedan BabyJean LIve Avesham 2.0 Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Vedan BabyJean LIve Avesham 2.0 Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/8f86cce3ef51a67cce9d3f34030d29eb1722424471.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038/details",
+        "price": 550,
+        "currency": "INR",
+        "validFrom": "2024-07-31 17:18:24",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-07-31 17:18:24",
+        "availability": "INSTOCK",
+        "inventory": 300
+      },
+      {
+        "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038/details",
+        "price": 650,
+        "currency": "INR",
+        "validFrom": "2024-07-31 17:18:24",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038/details",
+        "price": 799,
+        "currency": "INR",
+        "validFrom": "2024-07-31 17:18:25",
+        "availability": "INSTOCK",
+        "inventory": 300
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038"
+  },
+  {
+    "name": "Chandan Shetty Live",
+    "description": "Chandan Shetty, also known as \"Kannada Rapper Chandan Shetty\" is an Indian film score and soundtrack composer, lyricist, and singer who mainly composes music in the Kannada language. He started his career as a lyricist and assistant music director with the movie Alemari, under music director Arjun Janya. Then he worked for Varadanayaka, Power, Chakravyuha, and Bhajarangi.",
+    "startDate": "2024-11-24T20:00:00+05:30",
+    "endDate": "2024-11-25T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Chandan Shetty Live Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Chandan Shetty Live Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/680fb7d69471e40b223631cfd25b59ee1722425915.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-07-31 17:18:26",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-07-31 17:18:27",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
   }
 ]
