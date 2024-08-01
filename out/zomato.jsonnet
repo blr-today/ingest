@@ -3720,5 +3720,658 @@
       }
     ],
     "url": "https://www.zomato.com/events/tribute-to-pink-floyd-bengaluru-et47107"
+  },
+  {
+    "name": "Experience Enigma | Live in India",
+    "description": "For the first time ever, India will witness the music of the legendary artist \u201cEnigma\u201d in a live concert featuring the original Enigma voices, a full symphonic orchestra, live dancers, and visuals.\r\n\r\nWith the backdrop of the iconic Jayamahal Palace, be a part of music history by attending this once-in-a-lifetime concert.\r\n\r\nWith three Grammy nominations, 70 million records sold, and over 100 gold and platinum album certifications, Enigma\u2019s music has entranced millions of listeners with its synthesis of musical styles, Gregorian chants, ethnic instruments, atmospheric, and psychedelic sounds.\r\n\r\nAndru Donalds, Angel X, and Fox Lima, whose voices are behind many Enigma songs, will perform some of the greatest hits including \u201cSadeness,\u201d \u201cReturn to Innocence,\u201d \u201cMea Culpa,\u201d \u201cThe Rivers of Belief,\u201d \u201cAge of Loneliness,\u201d and more.",
+    "startDate": "2024-10-05T19:00:00+05:30",
+    "endDate": "2024-10-05T22:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Experience Enigma | Live in India Music, Experiences and Best seller event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Experience Enigma | Live in India Bengaluru on Zomato which is a Music, Experiences and Best seller event happening at 1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/56d4c7b47298f9620e8fae16cddd6e0a1722484289.png",
+      "https://b.zmtcdn.com/data/zomaland/14318a6a95f96af00fd91519e6186b2b1722485976.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/68cb685b660f790cb4821599914bd61b1722485988.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/11050d58a2d8743b29aea791f3d2bcdc1722485988.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/560e21b423955a5e8a4ac68bf1275b811722485988.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/9c447144e3b35b3021ccb0c7299ab58f1722485988.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/9975bb3be27867b4a4c0f2b06cfc20521722485989.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/703633abf47320a088612d583f32f7a21722485989.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/bf57507d877b17a534a947f77e332b371722485989.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/f8bde177b71fcfa38fc58b8b59809f4d1722485989.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/f045eec7fb6ce1a27d5d076c084bdb2d1722485989.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/5fdb32f9f421c5ac6678cad7fa9decc41722485989.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/b72747561b934e2cae2db695008c606d1722511035.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-08-01 09:00:00",
+        "availability": "INSTOCK",
+        "inventory": 143
+      },
+      {
+        "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
+        "price": 4999,
+        "currency": "INR",
+        "validFrom": "2024-08-01 09:00:00",
+        "availability": "INSTOCK",
+        "inventory": 92
+      },
+      {
+        "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
+        "price": 6999,
+        "currency": "INR",
+        "validFrom": "2024-08-01 09:00:00",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
+        "price": 39999,
+        "currency": "INR",
+        "validFrom": "2024-08-01 09:00:00",
+        "availability": "INSTOCK",
+        "inventory": 6
+      },
+      {
+        "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
+        "price": 59999,
+        "currency": "INR",
+        "validFrom": "2024-08-01 09:00:00",
+        "availability": "INSTOCK",
+        "inventory": 6
+      },
+      {
+        "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
+        "price": 79999,
+        "currency": "INR",
+        "validFrom": "2024-08-01 09:00:00",
+        "availability": "INSTOCK",
+        "inventory": 6
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115"
+  },
+  {
+    "name": "Karaoke Nights",
+    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion for singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
+    "startDate": "2024-08-01T21:00:00+05:30",
+    "endDate": "2024-08-01T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b1c741f89870576ade0c40cff6e7f9ab1722498978.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47156/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-01 15:32:02",
+        "availability": "INSTOCK",
+        "inventory": 75
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47156"
+  },
+  {
+    "name": "Blockbuster Friday",
+    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8 p.m., Hard Rock Cafe Whitefield Bengaluru is happy to host DJ Chirag and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+    "startDate": "2024-08-02T20:00:00+05:30",
+    "endDate": "2024-08-02T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/cd6b1bab5b34784e1c74b9709b350c191722499128.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47157/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-01 15:32:02",
+        "availability": "INSTOCK",
+        "inventory": 75
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47157"
+  },
+  {
+    "name": "Acoustic Sessions",
+    "description": "Join us at Hard Rock Cafe, Whitefield for an amazing evening of Acoustic Sessions with Ishita Collective & The Loysum Experience at 9 o'clock on 3rd August.",
+    "startDate": "2024-08-03T21:00:00+05:30",
+    "endDate": "2024-08-03T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f1ce7183f569ea95dc0930d4e2e74fdb1722499201.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/acoustic-sessions-bengaluru-et47158/details",
+        "price": 249,
+        "currency": "INR",
+        "validFrom": "2024-08-01 15:32:03",
+        "availability": "INSTOCK",
+        "inventory": 20
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/acoustic-sessions-bengaluru-et47158"
+  },
+  {
+    "name": "Karaoke Nights",
+    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
+    "startDate": "2024-08-08T21:00:00+05:30",
+    "endDate": "2024-08-08T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b1c741f89870576ade0c40cff6e7f9ab1722499290.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47159/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-01 15:32:03",
+        "availability": "INSTOCK",
+        "inventory": 75
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47159"
+  },
+  {
+    "name": "Blockbuster Friday",
+    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8 p.m., Hard Rock Cafe Whitefield Bengaluru is happy to host DJ Chirag and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+    "startDate": "2024-08-09T20:00:00+05:30",
+    "endDate": "2024-08-09T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/cd6b1bab5b34784e1c74b9709b350c191722499372.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47160/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-01 15:32:03",
+        "availability": "INSTOCK",
+        "inventory": 75
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47160"
+  },
+  {
+    "name": "Tribute to Amit Trivedi",
+    "description": "Catch Unmukt performing live some of your favourite tracks of Amit Trivedi at Hard Rock Cafe, Whitefield, Bengaluru.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+    "startDate": "2024-08-10T21:00:00+05:30",
+    "endDate": "2024-08-10T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/74de934b75690d4364b76864d9548b551722499422.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/tribute-to-amit-trivedi-bengaluru-et47161/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-08-01 15:32:04",
+        "availability": "INSTOCK",
+        "inventory": 20
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/tribute-to-amit-trivedi-bengaluru-et47161"
+  },
+  {
+    "name": "Karaoke Nights",
+    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
+    "startDate": "2024-08-15T21:00:00+05:30",
+    "endDate": "2024-08-15T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b1c741f89870576ade0c40cff6e7f9ab1722499483.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47162/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-01 15:32:04",
+        "availability": "INSTOCK",
+        "inventory": 75
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47162"
+  },
+  {
+    "name": "Blockbuster Friday",
+    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8 p.m., Hard Rock Cafe Whitefield Bengaluru is happy to host DJ Chirag and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+    "startDate": "2024-08-16T20:00:00+05:30",
+    "endDate": "2024-08-16T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/cd6b1bab5b34784e1c74b9709b350c191722499545.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47163/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-01 15:32:05",
+        "availability": "INSTOCK",
+        "inventory": 75
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47163"
+  },
+  {
+    "name": "Karaoke Nights",
+    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8 p.m., Hard Rock Cafe Whitefield Bengaluru is happy to host DJ Chirag and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+    "startDate": "2024-08-22T21:00:00+05:30",
+    "endDate": "2024-08-22T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b1c741f89870576ade0c40cff6e7f9ab1722499585.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47164/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-01 15:32:05",
+        "availability": "INSTOCK",
+        "inventory": 75
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47164"
+  },
+  {
+    "name": "Blockbuster Friday",
+    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8 p.m., Hard Rock Cafe Whitefield Bengaluru is happy to host DJ Chirag and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+    "startDate": "2024-08-23T20:00:00+05:30",
+    "endDate": "2024-08-23T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/cd6b1bab5b34784e1c74b9709b350c191722499637.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47165/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-01 15:32:05",
+        "availability": "INSTOCK",
+        "inventory": 75
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47165"
+  },
+  {
+    "name": "Tribute to Metallica",
+    "description": "Embark on a mesmerizing journey as the live band performance takes center stage, delivering an electrifying live performance that captures the essence of rhythmic magic. Immerse yourself in an unforgettable musical experience, where every note and beat harmonize to create an electrifying atmosphere, leaving you enchanted and immersed in the magic of music.",
+    "startDate": "2024-08-24T21:00:00+05:30",
+    "endDate": "2024-08-24T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/7344a90d662aceff69a8db5546369ddd1722499687.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/tribute-to-metallica-bengaluru-et47166/details",
+        "price": 249,
+        "currency": "INR",
+        "validFrom": "2024-08-01 15:32:06",
+        "availability": "INSTOCK",
+        "inventory": 20
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/tribute-to-metallica-bengaluru-et47166"
+  },
+  {
+    "name": "Karaoke Nights",
+    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
+    "startDate": "2024-08-29T21:00:00+05:30",
+    "endDate": "2024-08-29T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b1c741f89870576ade0c40cff6e7f9ab1722499729.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47167/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-01 15:32:06",
+        "availability": "INSTOCK",
+        "inventory": 75
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47167"
+  },
+  {
+    "name": "Blockbuster Friday",
+    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8 p.m., Hard Rock Cafe Whitefield Bengaluru is happy to host DJ Chirag and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+    "startDate": "2024-08-30T20:00:00+05:30",
+    "endDate": "2024-08-30T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/cd6b1bab5b34784e1c74b9709b350c191722499788.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47168/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-01 15:32:07",
+        "availability": "INSTOCK",
+        "inventory": 75
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47168"
+  },
+  {
+    "name": "Dynamite Disco Club",
+    "description": "India's Best Disco and House Music Experience, Dynamite Disco Club is back at The Burrow, this July 10th, Saturday, 8.30 pm onwards!\r\n\r\nThis edition has Dynamite Head Honcho Stalvart John, and Hyderabad House DJ Nephra with support from Priyansha at the DDC console.",
+    "startDate": "2024-08-10T20:30:00+05:30",
+    "endDate": "2024-08-11T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Dynamite Disco Club Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Dynamite Disco Club Bengaluru on Zomato which is a Music event happening at 37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f9152a9bb776489a629d199d8ce0b9f51722505003.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/47b4a13ab804692e4794373ee68d0f991722506289.png",
+      "https://b.zmtcdn.com/data/zomaland/181de98923975c6baf80a5fee08a4a281722506303.png",
+      "https://b.zmtcdn.com/data/zomaland/b2d5630a72f1810619f5f9581efe111d1722506303.png",
+      "https://b.zmtcdn.com/data/zomaland/c96c1fd2d349512f3f1ba13a12cbb3181722506303.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/dynamite-disco-club-bengaluru-et47200/details",
+        "price": 250,
+        "currency": "INR",
+        "validFrom": "2024-08-01 15:00:00",
+        "availability": "INSTOCK",
+        "inventory": 75
+      },
+      {
+        "url": "https://www.zomato.com/events/dynamite-disco-club-bengaluru-et47200/details",
+        "price": 400,
+        "currency": "INR",
+        "validFrom": "2024-08-01 15:00:00",
+        "availability": "INSTOCK",
+        "inventory": 75
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/dynamite-disco-club-bengaluru-et47200"
   }
 ]
