@@ -1860,5 +1860,53 @@
       "Pop-up Event",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Courtyard Baithak- An Evening of Hindustani Classical Music",
+    "description": "This will be Courtyard Baithak's first classical recital. The Baithak will feature Khyal, Thumri, and Abhang by Siddhartha Belmannu.The Courtyard Baithak series is curated by tabla wizard and prodigy Trilochan Kampli, who with his uncompromising standards in music, evokes the best from every artist that he invites to perform. We are bringing musicians and audiences together on a sublime musical journey.Exclusive gatherings, quiet strains of exquisite music, and dedicated artists across selected genres - The Courtyard Baithak series promises a true classical musical experience.Please note: The ticket includes performance onlyAbout the Artist - Siddhartha BelmannuSiddhartha Belmannu is acclaimed as a musical prodigy and a trailblazer in Indian classical music. Hailing from Karkala, a quaint town in the Udupi district of Karnataka, Siddhartha\u2019s remarkable vocal talent was evident from an early age. His musical journey began with Carnatic Classical Music, but it was under the esteemed guidance of Sri P.R. Manjunath that he delved into Hindustani Classical Music. His path took a transformative turn with the mentorship of Pandit Vinayak Torvi, a revered maestro of the Gwalior and Kirana gharanas. This extensive training, spanning 13 years in the Gurukul system, allowed Siddhartha to refine his skills and create a distinct style that harmoniously blends tradition with contemporary innovation. His exceptional achievements earned him a special mention in Forbes\u2019 '30 under 30' list for 2021 in the music category.Terms and Conditions:The management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Valet service is available at a charge of Rs. 200 per vehicle.Children aged 5 and older require a ticket.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Tickets are non-refundable in case of cancellation or no-show.In case of rain, the event will be moved indoors.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/43F7207C2C774C08919B201204ED9C63_converted_webp.webp"
+    ],
+    "startDate": "2024-09-06T19:30:00+05:30",
+    "endDate": "2024-09-06T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Courtyard",
+      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+      "latitude": "12.95843050000000000000",
+      "longitude": "77.59289509999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 70,
+    "remainingAttendeeCapacity": 70,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "850.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Courtyard",
+      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+      "url": "https://urbanaut.app/partner/courtyard",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-73386-77996"
+      }
+    },
+    "url": "https://urbanaut.app/spot/the-courtyard-baithak-an-evening-of-hindustani-classical-recital",
+    "keywords": [
+      "Art & culture",
+      "Live GIG",
+      "COURTYARD",
+      "URBANAUT"
+    ]
   }
 ]

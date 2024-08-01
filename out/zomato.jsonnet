@@ -2592,7 +2592,7 @@
     "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030"
   },
   {
-    "name": "Vedan BabyJean LIve Avesham 2.0",
+    "name": "Vedan BabyJean Live Avesham 2.0",
     "description": "Step into the world of cutting-edge Malayalam rap as two powerhouse artists, Baby Jean and Vedan, ignite the stage at White Lotus Club on September 7th.",
     "startDate": "2024-09-07T18:00:00+05:30",
     "endDate": "2024-09-08T00:00:00+05:30",
@@ -2607,8 +2607,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Vedan BabyJean LIve Avesham 2.0 Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Vedan BabyJean LIve Avesham 2.0 Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
+    "ogTitle": "Vedan BabyJean Live Avesham 2.0 Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Vedan BabyJean Live Avesham 2.0 Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/8f86cce3ef51a67cce9d3f34030d29eb1722424471.jpeg"
     ],
@@ -2623,27 +2623,11 @@
       },
       {
         "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-07-31 17:18:24",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038/details",
         "price": 650,
         "currency": "INR",
         "validFrom": "2024-07-31 17:18:24",
         "availability": "INSTOCK",
         "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038/details",
-        "price": 799,
-        "currency": "INR",
-        "validFrom": "2024-07-31 17:18:25",
-        "availability": "INSTOCK",
-        "inventory": 300
       }
     ],
     "performers": [],
@@ -2704,47 +2688,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
-  },
-  {
-    "name": "Tribute to Bon Jovi",
-    "description": "Catch Uprooted playing live the hits of Bon Jovi on 1st August i.e. Thursday, 8:30 pm onwards only at Hard Rock Cafe, Bengaluru.\r\n\u26a1\ufe0fJoin us for an evening full of great music, lip-smacking food & refreshing cocktails.",
-    "startDate": "2024-08-01T20:30:00+05:30",
-    "endDate": "2024-08-01T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Bon Jovi Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Bon Jovi Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/5a92c63a4e0a65536293bbb749f1be301722442701.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-bon-jovi-bengaluru-et47081/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-07-31 22:28:45",
-        "availability": "INSTOCK",
-        "inventory": 75
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-bon-jovi-bengaluru-et47081"
   },
   {
     "name": "Boogie Nights",
@@ -3815,45 +3758,6 @@
     "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115"
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion for singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-08-01T21:00:00+05:30",
-    "endDate": "2024-08-01T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b1c741f89870576ade0c40cff6e7f9ab1722498978.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47156/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-01 15:32:02",
-        "availability": "INSTOCK",
-        "inventory": 75
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47156"
-  },
-  {
     "name": "Blockbuster Friday",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8 p.m., Hard Rock Cafe Whitefield Bengaluru is happy to host DJ Chirag and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-08-02T20:00:00+05:30",
@@ -4373,5 +4277,119 @@
       }
     ],
     "url": "https://www.zomato.com/events/dynamite-disco-club-bengaluru-et47200"
+  },
+  {
+    "name": "Indulge | 7 Rivers Brewing Co.",
+    "description": "Are you ready to INDULGE with us in Bangalore? Catch our homegrown artists SIDBIT, Sunny Zahir & Aditya Rajpal live at 7 River Brewing Company this Saturday.",
+    "startDate": "2024-08-03T20:00:00+05:30",
+    "endDate": "2024-08-11T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Indulge | 7 Rivers Brewing Co. Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Indulge | 7 Rivers Brewing Co. Bengaluru on Zomato which is a Music and Trending event happening at 7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/acfdf7a151cf02b522a3a325ab8499d11722514844.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/indulge-7-rivers-brewing-co-bengaluru-et47241/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-01 19:15:47",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/indulge-7-rivers-brewing-co-bengaluru-et47241/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-01 19:15:47",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/indulge-7-rivers-brewing-co-bengaluru-et47241/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-01 19:15:48",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/indulge-7-rivers-brewing-co-bengaluru-et47241"
+  },
+  {
+    "name": "Corona Sundowner ft. BLOT",
+    "description": "Join us for an unforgettable evening at the Corona Sundowner, featuring a live performance by BLOT. Set against the luxurious backdrop of Bang at the Ritz Carlton, this event promises a perfect blend of music, ambiance, and sunset views.\r\nLive Performance by BLOT: Experience the unique sounds of BLOT, known for their eclectic mix of electronic music that transcends genres and creates an immersive auditory experience.\r\n\r\nSpectacular Sunset Views: Enjoy breathtaking sunset views from the rooftop venue, creating a magical atmosphere as day turns to night.\r\n\r\nChill Vibes: Relax and unwind with a refreshing Corona in hand, surrounded by great company and a vibrant crowd.\r\n\r\nExclusive Ambiance: Bang at the Ritz Carlton offers an exclusive setting with top-notch service, ensuring a premium experience for all attendees.",
+    "startDate": "2024-08-04T15:00:00+05:30",
+    "endDate": "2024-08-04T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "99, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Corona Sundowner ft. BLOT Trending and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Corona Sundowner ft. BLOT Bengaluru on Zomato which is a Trending and Music event happening at 99, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/a3ec01c2900f87ca531b4f2d213f58d31722515171.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/corona-sundowner-ft-blot-bengaluru-et47242/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-01 19:15:49",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/corona-sundowner-ft-blot-bengaluru-et47242/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-01 19:15:50",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/corona-sundowner-ft-blot-bengaluru-et47242/details",
+        "price": 799,
+        "currency": "INR",
+        "validFrom": "2024-08-01 19:15:50",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/corona-sundowner-ft-blot-bengaluru-et47242"
   }
 ]
