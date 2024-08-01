@@ -1106,47 +1106,6 @@
     "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912"
   },
   {
-    "name": "Paint with Puppies",
-    "description": "Have you ever dreamed of painting alongside the most adorable companions imaginable? Now's your chance! Don't miss out on the event of the month: Painting with Puppies! It's not just a workshop; it's an unforgettable experience that will touch your heart and ignite your creativity like never before.\r\nImagine yourself surrounded by cuddly, adoptable puppies, their wagging tails and playful energy inspiring every brushstroke. But it's not just about painting; it's about making a difference. With each ticket purchased, you're supporting animal welfare initiatives, spreading love and compassion to those who need it most.\r\nIndulge in unlimited snuggles, laughter, and pure joy as you create your masterpiece alongside your furry friends. This isn't just another workshop\u2014it's a chance to create memories that will last a lifetime while giving back to the community.",
-    "startDate": "2024-08-03T15:00:00+05:30",
-    "endDate": "2024-08-03T17:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Shop No 33, 80 Feet Rd, near Wipro Park,  opposite Barista and Domino's, 4th Block, S.T. Bed,  Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Paint with Puppies Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Paint with Puppies Bengaluru on Zomato which is a Experiences and Trending event happening at Shop No 33, 80 Feet Rd, near Wipro Park,  opposite Barista and Domino's, 4th Block, S.T. Bed,  Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2e04161a3c2d6572a63950f11478af861721658787.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et46049/details",
-        "price": 2000,
-        "currency": "INR",
-        "validFrom": "2024-07-22 20:13:00",
-        "availability": "SELLING_FAST",
-        "inventory": 4
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et46049"
-  },
-  {
     "name": "25 & Single",
     "description": "After a successful run of shows across cities in India and award-winning performances at The Fringe Festival in Prague, Helly Shah is all set to perform a new hour of relatable stories & heartwarming poems for you! \u2060\u202f25 & Single\u202f\u2060 is a delightful one-hour poetry and storytelling show that takes you through the ups and downs of adulthood, dating, friendships, and growing up. Celebrate the hilarious, awkward, and light-hearted moments of being in your 20s and navigating the single life with Helly! Helly Shah is a spoken word poet, writer and storyteller. Hailing from a small town in Gujarat, her first-ever storytelling video crossed over 10 million views across social media in 2018. Since then, her performances have continued to deeply resonate with millions of young people across the country.",
     "startDate": "2024-09-21T18:00:00+05:30",
