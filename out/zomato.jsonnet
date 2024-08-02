@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 494
+        "inventory": 485
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +57,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1108
+        "inventory": 1107
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -200,8 +200,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Guru Randhawa - Moon Rise Tour Music and Best seller event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Guru Randhawa - Moon Rise Tour Bengaluru on Zomato which is a Music and Best seller event happening at Bengaluru",
+    "ogTitle": "Guru Randhawa - Moon Rise Tour Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Guru Randhawa - Moon Rise Tour Bengaluru on Zomato which is a Music event happening at Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/ade1958c00244c99f20a1b0ff50a7eab1721713491.png",
       "https://b.zmtcdn.com/data/zomaland/254339d842fb6b771bfca7d09437118b1720807334.png",
@@ -272,8 +272,8 @@
         "price": 499,
         "currency": "INR",
         "validFrom": "2024-07-13 15:00:00",
-        "availability": "INSTOCK",
-        "inventory": 45
+        "availability": "SELLING_FAST",
+        "inventory": 19
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et45225/details",
@@ -281,7 +281,7 @@
         "currency": "INR",
         "validFrom": "2024-07-13 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 33
+        "inventory": 31
       }
     ],
     "performers": [],
@@ -322,7 +322,7 @@
         "currency": "INR",
         "validFrom": "2024-07-18 09:47:41",
         "availability": "INSTOCK",
-        "inventory": 47
+        "inventory": 46
       }
     ],
     "performers": [],
@@ -1027,7 +1027,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 279
+        "inventory": 275
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -1035,7 +1035,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 194
       }
     ],
     "performers": [],
@@ -1084,7 +1084,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 298
+        "inventory": 295
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -1092,7 +1092,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 181
+        "inventory": 179
       }
     ],
     "performers": [],
@@ -1218,7 +1218,7 @@
         "currency": "INR",
         "validFrom": "2024-07-26 13:45:00",
         "availability": "INSTOCK",
-        "inventory": 191
+        "inventory": 181
       },
       {
         "url": "https://www.zomato.com/events/synthesis-ft-dj-armina-bengaluru-et46520/details",
@@ -1226,7 +1226,7 @@
         "currency": "INR",
         "validFrom": "2024-07-26 13:45:00",
         "availability": "INSTOCK",
-        "inventory": 185
+        "inventory": 171
       }
     ],
     "performers": [],
@@ -1258,7 +1258,8 @@
     "ogTitle": "BuzzinUp Bangalore Bar Hop - Koramangala Edition Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for BuzzinUp Bangalore Bar Hop - Koramangala Edition Bengaluru on Zomato which is a Experiences event happening at 105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/f47e32c7f2e9b18d4800c2aa916068f91722071737.png"
+      "https://b.zmtcdn.com/data/zomaland/c80d30f4ed25956acdc1bd4a4c09014d1722502631.png",
+      "https://b.zmtcdn.com/data/zomaland/e2b60e9c9447adff5d2eca0e0823ba9d1722502718.png"
     ],
     "tickets": [
       {
@@ -1267,7 +1268,7 @@
         "currency": "INR",
         "validFrom": "2024-07-27 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 111
+        "inventory": 106
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
@@ -1312,8 +1313,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Soul Jams Experiences, Best seller and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Experiences, Best seller and Trending event happening at 23-A , chaithanya sharan X, Gunjur Village",
+    "ogTitle": "Soul Jams Experiences and Best seller event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Experiences and Best seller event happening at 23-A , chaithanya sharan X, Gunjur Village",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/7720029dec02484b48f5505645b2404c1722156916.png",
       "https://b.zmtcdn.com/data/zomaland/0f48fae068387247b855d2cbf70068f81722157237.png"
@@ -1323,9 +1324,9 @@
         "url": "https://www.zomato.com/events/soul-jams-bengaluru-et46629/details",
         "price": 499,
         "currency": "INR",
-        "validFrom": "2024-07-28 13:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 61
+        "validFrom": "2024-08-01 19:00:00",
+        "availability": "INSTOCK",
+        "inventory": 241
       }
     ],
     "performers": [
@@ -1374,7 +1375,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 997
+        "inventory": 992
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -1382,7 +1383,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 96
       }
     ],
     "performers": [],
@@ -1423,7 +1424,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 19:25:43",
         "availability": "INSTOCK",
-        "inventory": 189
+        "inventory": 178
       },
       {
         "url": "https://www.zomato.com/events/house-party-series-ft-kampai-bengaluru-et46840/details",
@@ -1431,7 +1432,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 19:25:44",
         "availability": "INSTOCK",
-        "inventory": 191
+        "inventory": 171
       }
     ],
     "performers": [],
@@ -2423,7 +2424,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 21:58:17",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 198
       },
       {
         "url": "https://www.zomato.com/events/the-white-party-bengaluru-et46943/details",
@@ -2431,7 +2432,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 21:58:18",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 194
       }
     ],
     "performers": [],
@@ -2529,7 +2530,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 21:58:19",
         "availability": "INSTOCK",
-        "inventory": 343
+        "inventory": 326
       }
     ],
     "performers": [],
@@ -2705,6 +2706,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Boogie Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Boogie Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/94ba445fadd28ffa8f47f14d305b0b451722442846.jpeg"
     ],
@@ -2715,7 +2718,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:45",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 73
       }
     ],
     "performers": [],
@@ -2744,6 +2747,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Thunders Cave Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Thunders Cave Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/db56ae6eb1b5da83f318d8f27d5b620c1722442954.jpeg"
     ],
@@ -2783,6 +2788,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/669e66ee789f6e33cbd21ad6661bf6521722443009.jpeg"
     ],
@@ -2822,6 +2829,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/1729dff84eee6e9b1e85d1df8292a7401722443105.jpeg"
     ],
@@ -2861,6 +2870,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/6f25c193297d1099d65190440fc5b19c1722443208.jpeg"
     ],
@@ -2871,7 +2882,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:47",
         "availability": "INSTOCK",
-        "inventory": 74
+        "inventory": 73
       }
     ],
     "performers": [],
@@ -2900,6 +2911,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Tribute to Green Day Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Green Day Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/b9dba404f3d5204d74b44a79520ac8ca1722443271.jpeg"
     ],
@@ -2939,6 +2952,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Boogie Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Boogie Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/94ba445fadd28ffa8f47f14d305b0b451722443367.jpeg"
     ],
@@ -2978,6 +2993,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Tribute to Iron Maiden Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Iron Maiden Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/73a199b8828a159d6ced3cb234b044121722443493.jpeg"
     ],
@@ -3017,6 +3034,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/0fdfa171ec15b86d54149586787b0b721722443599.jpeg"
     ],
@@ -3056,6 +3075,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/1729dff84eee6e9b1e85d1df8292a7401722443672.jpeg"
     ],
@@ -3095,6 +3116,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/6f25c193297d1099d65190440fc5b19c1722443761.jpeg"
     ],
@@ -3105,7 +3128,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:49",
         "availability": "INSTOCK",
-        "inventory": 69
+        "inventory": 64
       }
     ],
     "performers": [],
@@ -3134,6 +3157,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Independence Rock - Tribute to Muse Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Independence Rock - Tribute to Muse Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/945a32be92ad289cbd6aed11015411571722443839.jpeg"
     ],
@@ -3173,8 +3198,10 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Boogie Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Boogie Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/945a32be92ad289cbd6aed11015411571722443839.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/94ba445fadd28ffa8f47f14d305b0b451722496320.jpeg"
     ],
     "tickets": [
       {
@@ -3212,6 +3239,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Remix Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Remix Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/4b11cd91925c2ef38ae78a0bda4dff751722443945.jpeg"
     ],
@@ -3251,6 +3280,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/669e66ee789f6e33cbd21ad6661bf6521722444005.jpeg"
     ],
@@ -3290,6 +3321,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/1729dff84eee6e9b1e85d1df8292a7401722444156.jpeg"
     ],
@@ -3329,6 +3362,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/6f25c193297d1099d65190440fc5b19c1722444217.jpeg"
     ],
@@ -3368,6 +3403,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Boogie Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Boogie Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/94ba445fadd28ffa8f47f14d305b0b451722444266.jpeg"
     ],
@@ -3407,6 +3444,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Tribute to Bryan Adams Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Bryan Adams Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/33bb1c6812f15391679b6cafa7a31a021722444321.jpeg"
     ],
@@ -3446,6 +3485,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/0fdfa171ec15b86d54149586787b0b721722444416.jpeg"
     ],
@@ -3485,6 +3526,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/1729dff84eee6e9b1e85d1df8292a7401722444520.jpeg"
     ],
@@ -3524,6 +3567,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/6f25c193297d1099d65190440fc5b19c1722444589.jpeg"
     ],
@@ -3563,6 +3608,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Tribute to Eric Clapton & Rolling Stones Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Eric Clapton & Rolling Stones Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/0a57f31b5ed0b6eed1ac152262f0e0ee1722444651.jpeg"
     ],
@@ -3602,6 +3649,8 @@
       }
     ],
     "isAccessibleForFree": true,
+    "ogTitle": "Boogie Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Boogie Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/94ba445fadd28ffa8f47f14d305b0b451722444712.jpeg"
     ],
@@ -3641,6 +3690,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Tribute to Pink Floyd Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Pink Floyd Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/9385806a791f04c699b10c66f8a59a261722444762.jpeg"
     ],
