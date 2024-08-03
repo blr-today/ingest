@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 485
+        "inventory": 476
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -272,16 +272,16 @@
         "price": 499,
         "currency": "INR",
         "validFrom": "2024-07-13 15:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 19
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et45225/details",
         "price": 1999,
         "currency": "INR",
         "validFrom": "2024-07-13 15:00:00",
-        "availability": "INSTOCK",
-        "inventory": 31
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -318,11 +318,27 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658/details",
-        "price": 399,
+        "price": 499,
         "currency": "INR",
-        "validFrom": "2024-07-18 09:47:41",
+        "validFrom": "2024-08-03 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 46
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658/details",
+        "price": 699,
+        "currency": "INR",
+        "validFrom": "2024-08-03 15:00:00",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658/details",
+        "price": 799,
+        "currency": "INR",
+        "validFrom": "2024-08-03 15:00:00",
+        "availability": "INSTOCK",
+        "inventory": 50
       }
     ],
     "performers": [],
@@ -1019,7 +1035,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 247
+        "inventory": 245
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -1027,7 +1043,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 275
+        "inventory": 267
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -1035,7 +1051,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 194
+        "inventory": 192
       }
     ],
     "performers": [],
@@ -1084,7 +1100,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 295
+        "inventory": 289
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -1218,7 +1234,7 @@
         "currency": "INR",
         "validFrom": "2024-07-26 13:45:00",
         "availability": "INSTOCK",
-        "inventory": 181
+        "inventory": 177
       },
       {
         "url": "https://www.zomato.com/events/synthesis-ft-dj-armina-bengaluru-et46520/details",
@@ -1226,7 +1242,7 @@
         "currency": "INR",
         "validFrom": "2024-07-26 13:45:00",
         "availability": "INSTOCK",
-        "inventory": 171
+        "inventory": 168
       }
     ],
     "performers": [],
@@ -1268,7 +1284,7 @@
         "currency": "INR",
         "validFrom": "2024-07-27 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 106
+        "inventory": 102
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
@@ -1276,7 +1292,7 @@
         "currency": "INR",
         "validFrom": "2024-07-27 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 8
+        "inventory": 7
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
@@ -1300,8 +1316,8 @@
   {
     "name": "Soul Jams",
     "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \r\nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \r\n\r\nThe event comprises three soul-enriching parts: \r\n\r\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\r\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \r\n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
-    "startDate": "2024-08-03T16:30:00+05:30",
-    "endDate": "2024-08-03T20:00:00+05:30",
+    "startDate": "2024-08-03 16:30:00",
+    "endDate": "2024-08-03 20:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1313,8 +1329,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Soul Jams Experiences and Best seller event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Experiences and Best seller event happening at 23-A , chaithanya sharan X, Gunjur Village",
+    "ogTitle": "Soul Jams Experiences, Best seller and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Experiences, Best seller and Trending event happening at 23-A , chaithanya sharan X, Gunjur Village",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/7720029dec02484b48f5505645b2404c1722156916.png",
       "https://b.zmtcdn.com/data/zomaland/0f48fae068387247b855d2cbf70068f81722157237.png"
@@ -1325,8 +1341,8 @@
         "price": 499,
         "currency": "INR",
         "validFrom": "2024-08-01 19:00:00",
-        "availability": "INSTOCK",
-        "inventory": 241
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [
@@ -1375,7 +1391,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 992
+        "inventory": 977
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -1383,7 +1399,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 96
+        "inventory": 91
       }
     ],
     "performers": [],
@@ -1424,7 +1440,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 19:25:43",
         "availability": "INSTOCK",
-        "inventory": 178
+        "inventory": 142
       },
       {
         "url": "https://www.zomato.com/events/house-party-series-ft-kampai-bengaluru-et46840/details",
@@ -1432,7 +1448,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 19:25:44",
         "availability": "INSTOCK",
-        "inventory": 171
+        "inventory": 114
       }
     ],
     "performers": [],
@@ -1444,47 +1460,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/house-party-series-ft-kampai-bengaluru-et46840"
-  },
-  {
-    "name": "Road Trip",
-    "description": "Join our Sip & Paint Party! We\u201a\u00c4\u00f4ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u201a\u00c4\u00f4s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \uf8ff\u00fc\u00e9\u00ae\uf8ff\u00fc\u00e7\u03a9\u00d4\u220f\u00e8\uf8ff\u00fc\u2022\u00c7",
-    "startDate": "2024-08-03T16:00:00+05:30",
-    "endDate": "2024-08-03T18:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Road Trip Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Road Trip Bengaluru on Zomato which is a Experiences event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f0e9368a15634ba0456b0871d81519291722339218.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/road-trip-bengaluru-et46856/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 17:45:41",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/road-trip-bengaluru-et46856"
   },
   {
     "name": "Beach Hat",
@@ -2432,7 +2407,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 21:58:18",
         "availability": "INSTOCK",
-        "inventory": 194
+        "inventory": 193
       }
     ],
     "performers": [],
@@ -2530,7 +2505,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 21:58:19",
         "availability": "INSTOCK",
-        "inventory": 326
+        "inventory": 318
       }
     ],
     "performers": [],
@@ -2800,7 +2775,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:47",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 72
       }
     ],
     "performers": [],
