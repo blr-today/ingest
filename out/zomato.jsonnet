@@ -1201,8 +1201,8 @@
   {
     "name": "Synthesis Ft Dj Armina",
     "description": "Get ready to elevate your weekend! \u00f0\u0178\u0161\u20ac\r\n\r\nJoin us at High Ultra Lounge on August 3rd for an unforgettable night of Synthesis featuring the talented DJ Armina! \u00f0\u0178\u2019\u00ab\r\n\r\nDISCLAIMER: Please make sure to follow club rules.",
-    "startDate": "2024-08-03T20:00:00+05:30",
-    "endDate": "2024-08-04T00:30:00+05:30",
+    "startDate": "2024-08-03 20:00:00",
+    "endDate": "2024-08-04 00:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1314,55 +1314,6 @@
     "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562"
   },
   {
-    "name": "Soul Jams",
-    "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \r\nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \r\n\r\nThe event comprises three soul-enriching parts: \r\n\r\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\r\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \r\n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
-    "startDate": "2024-08-03 16:30:00",
-    "endDate": "2024-08-03 20:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "23-A , chaithanya sharan X, Gunjur Village",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Soul Jams Experiences, Best seller and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Experiences, Best seller and Trending event happening at 23-A , chaithanya sharan X, Gunjur Village",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/7720029dec02484b48f5505645b2404c1722156916.png",
-      "https://b.zmtcdn.com/data/zomaland/0f48fae068387247b855d2cbf70068f81722157237.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/soul-jams-bengaluru-et46629/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-01 19:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/8bdba35fcf0dcbccad51536bf402131f1722155547.png",
-        "name": "Soul Jams",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/8bdba35fcf0dcbccad51536bf402131f1722155547.png"
-      }
-    ],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/soul-jams-bengaluru-et46629"
-  },
-  {
     "name": "Brews Of Bangalore (Oktoberfest Edition)",
     "description": "Join us for a vibrant day at Brews of Bangalore, where we're celebrating Bangalore's love for beer, coffee, food, and music! With live music creating the perfect backdrop, immerse yourself in a day filled with exciting activities and games that guarantee endless fun and laughter. Indulge your taste buds with offerings from top beer brands and discover the perfect pairing with our top food cuisines curated to complement your brew. Additionally, savor a variety of coffees from top coffee brands, making it an unforgettable and joyous experience for all!",
     "startDate": "2024-09-22T12:00:00+05:30",
@@ -1415,8 +1366,8 @@
   {
     "name": "Switch Up @ Sly Granny ft Kampai",
     "description": "We\u2019re excited to bring forward #SwitchUP an intellectual property curated by Kampai \r\n\r\nKAMPAI aka Rumit Virmani the Bangalore-based curator & DJ will be taking charge at hometurf alongside renowned and upcoming talents from across the nation. Ranging from House, Afro, Baile Funk, UKG, DnB & everything in between.\r\n",
-    "startDate": "2024-08-03T20:00:00+05:30",
-    "endDate": "2024-08-04T00:30:00+05:30",
+    "startDate": "2024-08-03 20:00:00",
+    "endDate": "2024-08-04 00:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2480,8 +2431,8 @@
   {
     "name": "Janm The Band & DJ Kshitija",
     "description": "Get ready for an unforgettable night at Macaw by Stories, Bangalore\u2019s premier destination for vibrant nightlife and exceptional entertainment! On August 3, 2024, join us for a spectacular evening featuring the dynamic Multilingual Band and the electrifying DJ KSHITIJA.",
-    "startDate": "2024-08-03T20:00:00+05:30",
-    "endDate": "2024-08-04T01:00:00+05:30",
+    "startDate": "2024-08-03 20:00:00",
+    "endDate": "2024-08-04 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2664,47 +2615,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
-  },
-  {
-    "name": "Thunders Cave",
-    "description": "Catch Thunders cave performing live at Hard Rock Cafe, Bengaluru.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.\r\n\r\nThunder`s Cave band from Nongstoi\u00f1 West Khasi Hills, Meghalaya, India.The band consist of five Members\r\n1. John Gilbert Marwein (Vocalist)\r\n2. Bankitbok Rani (Guitars)\r\n3. Khrawbor Myrthong (Guitars)\r\n4.Amos Syiemlieh (Bassist)\r\n5. Banjopbor Myrthong (Drummer)\r\nThunder Caves has released an album called \"Maitshaphrang\"",
-    "startDate": "2024-08-03T21:00:00+05:30",
-    "endDate": "2024-08-03T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Thunders Cave Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Thunders Cave Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/db56ae6eb1b5da83f318d8f27d5b620c1722442954.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/thunders-cave-bengaluru-et47083/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-31 22:28:46",
-        "availability": "INSTOCK",
-        "inventory": 20
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/thunders-cave-bengaluru-et47083"
   },
   {
     "name": "Sunny Tunes",
@@ -3743,47 +3653,6 @@
     "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115"
   },
   {
-    "name": "Acoustic Sessions",
-    "description": "Join us at Hard Rock Cafe, Whitefield for an amazing evening of Acoustic Sessions with Ishita Collective & The Loysum Experience at 9 o'clock on 3rd August.",
-    "startDate": "2024-08-03T21:00:00+05:30",
-    "endDate": "2024-08-03T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Acoustic Sessions Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Acoustic Sessions Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f1ce7183f569ea95dc0930d4e2e74fdb1722499201.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/acoustic-sessions-bengaluru-et47158/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-08-01 15:32:03",
-        "availability": "INSTOCK",
-        "inventory": 20
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/acoustic-sessions-bengaluru-et47158"
-  },
-  {
     "name": "Karaoke Nights",
     "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
     "startDate": "2024-08-08T21:00:00+05:30",
@@ -4249,8 +4118,8 @@
   {
     "name": "Indulge | 7 Rivers Brewing Co.",
     "description": "Are you ready to INDULGE with us in Bangalore? Catch our homegrown artists SIDBIT, Sunny Zahir & Aditya Rajpal live at 7 River Brewing Company this Saturday.",
-    "startDate": "2024-08-03T20:00:00+05:30",
-    "endDate": "2024-08-11T01:00:00+05:30",
+    "startDate": "2024-08-03 20:00:00",
+    "endDate": "2024-08-11 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
