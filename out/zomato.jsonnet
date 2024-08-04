@@ -289,88 +289,6 @@
     "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658"
   },
   {
-    "name": "Chikmagalur Weekend Getaway",
-    "description": "This paradise of misty hills and lush green tea and coffee plantations is a sweet escape from the noisy city life, resting peacefully at a height of 3,400 ft. Get ready to immerse yourself in the arms of nature! \r\nWhether you\u2019re a thrill-seeker or a nature lover, Chikmagalur\u2019s got you covered. Hike through the rugged terrain, or take a dip in one of the many cascading waterfalls, there\u2019s so much to explore",
-    "startDate": "2024-08-02 21:30:00",
-    "endDate": "2024-08-04 23:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Chikmagalur Weekend Getaway Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Chikmagalur Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/8faa45de8a8868895063b3125b1db7e81721323379.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/chikmagalur-weekend-getaway-bengaluru-et45771/details",
-        "price": 4999,
-        "currency": "INR",
-        "validFrom": "2024-07-18 23:27:22",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/chikmagalur-weekend-getaway-bengaluru-et45771"
-  },
-  {
-    "name": "Coorg Weekend Getaway",
-    "description": "Time to put on your adventure hat and escape to a place where relaxation and thrill collide in the most tantalizing way possible! Imagine waking up to the aroma of freshly ground coffee beans surrounded by lush greenery worthy of a postcard.\r\n\r\nGet ready to explore winding trails and stunning waterfalls, trading city life for an unforgettable adventure that will stay with you forever. Coorg's calling, are you ready",
-    "startDate": "2024-08-02 21:30:00",
-    "endDate": "2024-08-04 23:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Coorg Weekend Getaway Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Coorg Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/ff7970ecf78b41a7b19b422139113b0a1721323478.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/coorg-weekend-getaway-bengaluru-et45772/details",
-        "price": 4999,
-        "currency": "INR",
-        "validFrom": "2024-07-18 23:27:22",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/coorg-weekend-getaway-bengaluru-et45772"
-  },
-  {
     "name": "Wayanad Weekend Getaway",
     "description": "The lush-green town of Wayanad in Kerala is hidden in the Malabar region on the Western Ghats. Sparsely populated, the forest-covered region abounds in picturesque hills meandered with streams, tea estates, and wildlife sanctuaries. Referred to as the \u2018Spice Garden of India\u2019, Wayanad is a hub of spices such as cardamom, star anise, fenugreek, black pepper, black cumin, etc. Adding to its treasures are Asia\u2019s second largest and India\u2019s largest damn, the Banasura Sagar Dam, and the Edakkal Caves from the Neolithic Age to trek to. Witness a majestic sunset at the backdrop of the dam, go hiking, mountaineering, camping, or rock climbing, you\u2019d never run out of fun activities at Wayanad.",
     "startDate": "2024-08-02 21:30:00",
@@ -658,293 +576,6 @@
     "url": "https://www.zomato.com/events/pondicherry-weekend-getaway-bengaluru-et45780"
   },
   {
-    "name": "Skandagiri Sunrise / Night Trek",
-    "description": "Skandagiri, also known as Kalwarbetta or Kalavara Durga, is a mountain fortress 70 km from Bangalore. This 8 km, 4-hour trek offers a moderately difficult climb starting at Papagni Temple, leading through dense shrubs and steep terrain. At the summit, explore Tipu Sultan\u2019s ruins and enjoy a stunning sunrise above the clouds.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n\u2022 Raincoat/Poncho (during monsoon)\r\n\u2022 ID proof\r\n\u2022 Backpack\r\n\u2022 Sunscreen/cap\r\n\u2022 Track pants\r\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n\u2022 Torch (with extra batteries)\r\n\u2022 Personal Medication\r\n\u2022 Necessary toiletries\r\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-02 21:00:00",
-    "endDate": "2024-08-04 21:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kempegowda Rd, Kempegowda, Sevashrama",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Skandagiri Sunrise / Night Trek Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Skandagiri Sunrise / Night Trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4e4330c9374a2b31a99de9124253754a1721324361.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/skandagiri-sunrise-night-trek-bengaluru-et45781/details",
-        "price": 4500,
-        "currency": "INR",
-        "validFrom": "2024-07-18 23:27:25",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/skandagiri-sunrise-night-trek-bengaluru-et45781"
-  },
-  {
-    "name": "Bandajje waterfalls trek",
-    "description": "Situated in the Charmadi Ghats area of the western ghats, this offbeat trail to Bandaje waterfalls is one of the must-do treks when in Bangalore. The journey takes you through magnificent meadows, river streams, and lush green forests, all of which are a delight to behold. Embark on this exciting trek and see the beauty for yourself.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n\u2022 Raincoat/Poncho (during monsoon)\r\n\u2022 ID proof\r\n\u2022 Backpack\r\n\u2022 Sunscreen/cap\r\n\u2022 Track pants\r\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n\u2022 Torch (with extra batteries)\r\n\u2022 Personal Medication\r\n\u2022 Necessary toiletries\r\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-02 21:00:00",
-    "endDate": "2024-08-04 21:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kempegowda Rd, Kempegowda, Sevashrama",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Bandajje waterfalls trek Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bandajje waterfalls trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/823a7bea12a80bd8c473ddf17d4de5791721324708.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bandajje-waterfalls-trek-bengaluru-et45784/details",
-        "price": 4000,
-        "currency": "INR",
-        "validFrom": "2024-07-18 23:27:26",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bandajje-waterfalls-trek-bengaluru-et45784"
-  },
-  {
-    "name": "Kodachadri Trek & Jog falls",
-    "description": "Experience the breathtaking panoramic views of the Kodachadri Hills in Valur, Karnataka. Located at an altitude of 1343 meters, these hills are surrounded by dense forest and attract thousands of visitors annually. Challenge yourself on a 2-day trek from Bangalore, navigating tricky terrains to reach the summit and admire the vast Western Ghats. Explore the natural wonders of Kodachadri, including Hidlumane Waterfalls, Nagara Fort, and Jog Falls.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n\u2022 Raincoat/Poncho (during monsoon)\r\n\u2022 ID proof\r\n\u2022 Backpack\r\n\u2022 Sunscreen/cap\r\n\u2022 Track pants\r\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n\u2022 Torch (with extra batteries)\r\n\u2022 Personal Medication\r\n\u2022 Necessary toiletries\r\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-02 21:00:00",
-    "endDate": "2024-08-04 21:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kempegowda Rd, Kempegowda, Sevashrama",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Kodachadri Trek & Jog falls Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Kodachadri Trek & Jog falls Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/19c190f6ad5baf810709d9728d76108c1721324784.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/kodachadri-trek-jog-falls-bengaluru-et45785/details",
-        "price": 4500,
-        "currency": "INR",
-        "validFrom": "2024-07-18 23:27:27",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/kodachadri-trek-jog-falls-bengaluru-et45785"
-  },
-  {
-    "name": "Ettina Bhuja Trek",
-    "description": "Ettina Bhuja, meaning Ox's Shoulder in Kannada, is near Dharmasthala, in Byrapura village, Mudigere range, Chikmagalur district. Located about 250km from Bangalore, it's an ideal weekend getaway.\r\nThough not well-known among trekkers, Ettina Bhuja offers scenic landscapes at 1300m altitude with grasslands, forests, bamboo, and cane plantations. The trek features the soothing sounds of nature.\r\nAt the top, which resembles an ox's hump, enjoy panoramic views of dense green forests.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n\u2022 Raincoat/Poncho (during monsoon)\r\n\u2022 ID proof\r\n\u2022 Backpack\r\n\u2022 Sunscreen/cap\r\n\u2022 Track pants\r\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n\u2022 Torch (with extra batteries)\r\n\u2022 Personal Medication\r\n\u2022 Necessary toiletries\r\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-02 21:00:00",
-    "endDate": "2024-08-04 21:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kempegowda Rd, Kempegowda, Sevashrama",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Ettina Bhuja Trek Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Ettina Bhuja Trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/888e8af4b5597e9c3897986dfdacaecb1721324849.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/ettina-bhuja-trek-bengaluru-et45786/details",
-        "price": 3500,
-        "currency": "INR",
-        "validFrom": "2024-07-18 23:27:27",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/ettina-bhuja-trek-bengaluru-et45786"
-  },
-  {
-    "name": "Tadiandamol trek",
-    "description": "Coorg in South Karnataka refreshes minds with its lush greenery and stunning Western Ghats views. Its replenishing nature, tricky terrains, wooded slopes, and misty valleys attract many travelers and trekkers. Tadiandamol, Coorg's highest peak at 1,748m, is surrounded by the Shola forests' stunning greenery. Enjoy exploring Coorg's captivating landscape, and feel the pride of conquering its highest peak, rewarded with sweeping views of green forests and coffee plantations.\r\nTotal Trek distance: 22 Kms, Level of Trek : Moderate.\r\nThings to Carry:\r\n\u2022 Raincoat/Poncho (during monsoon)\r\n\u2022 ID proof\r\n\u2022 Backpack\r\n\u2022 Sunscreen/cap\r\n\u2022 Track pants\r\n\u2022 Full sleeve cotton t-shirt (to avoid getting sun burnt)\r\n\u2022 Torch (with extra batteries)\r\n\u2022 Personal Medication\r\n\u2022 Necessary toiletries\r\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-02 21:00:00",
-    "endDate": "2024-08-04 21:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kempegowda Rd, Kempegowda, Sevashrama",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Tadiandamol trek Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tadiandamol trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/d7df6682c95ca9d62b4135d1742efb931721324958.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tadiandamol-trek-bengaluru-et45787/details",
-        "price": 3600,
-        "currency": "INR",
-        "validFrom": "2024-07-18 23:27:27",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tadiandamol-trek-bengaluru-et45787"
-  },
-  {
-    "name": "Dudhsagar Trek",
-    "description": "Head out on an adventurous trek to Dudhsagar Falls, located on Goa's eastern border. Known as the \u2018Sea of Milk,\u2019 this four-tiered waterfall on the Mandovi River is one of India's tallest, standing at 310m (1017 feet) with an average width of 30m (100 feet).\r\n\r\nThe falls are nestled in the Bhagwan Mahaveer Sanctuary and Mollem National Park within the Western Ghats, marking the border between Karnataka and Goa. Surrounded by thick deciduous forests, the area boasts rich biodiversity, perfect for a two-day trek.\r\n\r\nTotal trek distance: 22 km, moderate difficulty.\r\n\r\nThings to carry:\r\n\u2022 Raincoat/Poncho (monsoon)\r\n\u2022 ID proof\r\n\u2022 Backpack\r\n\u2022 Sunscreen/Cap\r\n\u2022 Track pants\r\n\u2022 Full sleeve cotton T-shirt\r\n\u2022 Torch (with extra batteries)\r\n\u2022 Personal medication\r\n\u2022 Necessary toiletries\r\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-02 21:00:00",
-    "endDate": "2024-08-04 21:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kempegowda Rd, Kempegowda, Sevashrama",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Dudhsagar Trek Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Dudhsagar Trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f9b21205a3aa5c6e47ebf1f7afb63a9e1721325042.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/dudhsagar-trek-bengaluru-et45788/details",
-        "price": 4950,
-        "currency": "INR",
-        "validFrom": "2024-07-18 23:27:27",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/dudhsagar-trek-bengaluru-et45788"
-  },
-  {
-    "name": "Night camping, trek & activities @Ramanagar",
-    "description": "Ramanagara, 50 km southwest of Bangalore, stands at 747 meters (2450 feet) and is famous for its massive granite outcrops. Known for short rock climbs, grades range from 5.8 to 5.11 American. It features some of the world's oldest granite outcrops, including Ramdevarabetta, famous for its cave entrances in \"Passage to India.\" The trek distance is 4 km, with a moderate difficulty level.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n\u2022 Raincoat/Poncho (during monsoon)\r\n\u2022 ID proof\r\n\u2022 Backpack\r\n\u2022 Sunscreen/cap\r\n\u2022 Track pants\r\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n\u2022 Torch (with extra batteries)\r\n\u2022 Personal Medication\r\n\u2022 Necessary toiletries\r\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-02 21:00:00",
-    "endDate": "2024-08-04 21:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kempegowda Rd, Kempegowda, Sevashrama",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Night camping, trek & activities @Ramanagar Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Night camping, trek & activities @Ramanagar Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/01eb6531c79d5a679a78e54707040a881721325191.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/night-camping-trek-activities-ramanagar-bengaluru-et45789/details",
-        "price": 1750,
-        "currency": "INR",
-        "validFrom": "2024-07-18 23:27:28",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/night-camping-trek-activities-ramanagar-bengaluru-et45789"
-  },
-  {
     "name": "In The Mood 2024 - Let's Get Loud",
     "description": "An evening of wholesome and fun entertainment for the whole family with choral music, dance, and theatre featuring all-time favourites from pop, jazz, blues, and rock with dances ranging from contemporary to ballroom and medleys from Broadway's best musicals.\r\nA fun evening for families and music lovers. Apart from the stage program there are food stalls and stalls featuring artifacts and other interesting items.",
     "startDate": "2024-08-17T18:00:00+05:30",
@@ -1190,7 +821,7 @@
         "currency": "INR",
         "validFrom": "2024-07-27 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 102
+        "inventory": 95
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
@@ -1248,7 +879,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 977
+        "inventory": 969
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -1256,7 +887,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 91
+        "inventory": 89
       }
     ],
     "performers": [],
@@ -2166,7 +1797,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 21:58:17",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 193
       },
       {
         "url": "https://www.zomato.com/events/the-white-party-bengaluru-et46943/details",
@@ -2174,7 +1805,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 21:58:18",
         "availability": "INSTOCK",
-        "inventory": 193
+        "inventory": 192
       }
     ],
     "performers": [],
@@ -2335,88 +1966,6 @@
     "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
   },
   {
-    "name": "Sunny Tunes",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Finger Chips and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
-    "startDate": "2024-08-04 13:00:00",
-    "endDate": "2024-08-04 23:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/669e66ee789f6e33cbd21ad6661bf6521722443009.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et47084/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-31 22:28:46",
-        "availability": "INSTOCK",
-        "inventory": 75
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et47084"
-  },
-  {
-    "name": "Rock Out Sundays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-08-04T20:30:00+05:30",
-    "endDate": "2024-08-04T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/1729dff84eee6e9b1e85d1df8292a7401722443105.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et47085/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-31 22:28:47",
-        "availability": "INSTOCK",
-        "inventory": 72
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et47085"
-  },
-  {
     "name": "Karaoke Nights",
     "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
     "startDate": "2024-08-07T20:30:00+05:30",
@@ -2444,7 +1993,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:47",
         "availability": "INSTOCK",
-        "inventory": 73
+        "inventory": 67
       }
     ],
     "performers": [],
@@ -2772,7 +2321,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:50",
         "availability": "INSTOCK",
-        "inventory": 73
+        "inventory": 67
       }
     ],
     "performers": [],
@@ -3018,7 +2567,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:53",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 11
       }
     ],
     "performers": [],
@@ -3100,7 +2649,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:53",
         "availability": "INSTOCK",
-        "inventory": 74
+        "inventory": 64
       }
     ],
     "performers": [],
@@ -3889,62 +3438,5 @@
       }
     ],
     "url": "https://www.zomato.com/events/indulge-7-rivers-brewing-co-bengaluru-et47241"
-  },
-  {
-    "name": "Corona Sundowner ft. BLOT",
-    "description": "Join us for an unforgettable evening at the Corona Sundowner, featuring a live performance by BLOT. Set against the luxurious backdrop of Bang at the Ritz Carlton, this event promises a perfect blend of music, ambiance, and sunset views.\r\nLive Performance by BLOT: Experience the unique sounds of BLOT, known for their eclectic mix of electronic music that transcends genres and creates an immersive auditory experience.\r\n\r\nSpectacular Sunset Views: Enjoy breathtaking sunset views from the rooftop venue, creating a magical atmosphere as day turns to night.\r\n\r\nChill Vibes: Relax and unwind with a refreshing Corona in hand, surrounded by great company and a vibrant crowd.\r\n\r\nExclusive Ambiance: Bang at the Ritz Carlton offers an exclusive setting with top-notch service, ensuring a premium experience for all attendees.",
-    "startDate": "2024-08-04 15:00:00",
-    "endDate": "2024-08-04 23:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "99, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Corona Sundowner ft. BLOT Trending and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Corona Sundowner ft. BLOT Bengaluru on Zomato which is a Trending and Music event happening at 99, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/a3ec01c2900f87ca531b4f2d213f58d31722515171.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/corona-sundowner-ft-blot-bengaluru-et47242/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-01 19:15:49",
-        "availability": "INSTOCK",
-        "inventory": 199
-      },
-      {
-        "url": "https://www.zomato.com/events/corona-sundowner-ft-blot-bengaluru-et47242/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-01 19:15:50",
-        "availability": "INSTOCK",
-        "inventory": 198
-      },
-      {
-        "url": "https://www.zomato.com/events/corona-sundowner-ft-blot-bengaluru-et47242/details",
-        "price": 799,
-        "currency": "INR",
-        "validFrom": "2024-08-01 19:15:50",
-        "availability": "INSTOCK",
-        "inventory": 200
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/corona-sundowner-ft-blot-bengaluru-et47242"
   }
 ]
