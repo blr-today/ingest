@@ -1199,63 +1199,6 @@
     "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352"
   },
   {
-    "name": "Synthesis Ft Dj Armina",
-    "description": "Get ready to elevate your weekend! \u00f0\u0178\u0161\u20ac\r\n\r\nJoin us at High Ultra Lounge on August 3rd for an unforgettable night of Synthesis featuring the talented DJ Armina! \u00f0\u0178\u2019\u00ab\r\n\r\nDISCLAIMER: Please make sure to follow club rules.",
-    "startDate": "2024-08-03 20:00:00",
-    "endDate": "2024-08-04 00:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Synthesis Ft Dj Armina Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Synthesis Ft Dj Armina Bengaluru on Zomato which is a Music and Trending event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/262f7b65a584ded987f265c78c34ce3c1721981297.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/synthesis-ft-dj-armina-bengaluru-et46520/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-26 13:45:00",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/synthesis-ft-dj-armina-bengaluru-et46520/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-26 13:45:00",
-        "availability": "INSTOCK",
-        "inventory": 177
-      },
-      {
-        "url": "https://www.zomato.com/events/synthesis-ft-dj-armina-bengaluru-et46520/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-26 13:45:00",
-        "availability": "INSTOCK",
-        "inventory": 168
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/synthesis-ft-dj-armina-bengaluru-et46520"
-  },
-  {
     "name": "BuzzinUp Bangalore Bar Hop - Koramangala Edition",
     "description": "Welcome to The BuzzinUp Bangalore Bar Hop: The Ultimate Pub Crawl, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favorite drinks, groove to fantastic music, and engage in fun games and activities.\r\n\r\nWalk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
     "startDate": "2024-08-10T18:30:00+05:30",
@@ -1362,55 +1305,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824"
-  },
-  {
-    "name": "Switch Up @ Sly Granny ft Kampai",
-    "description": "We\u2019re excited to bring forward #SwitchUP an intellectual property curated by Kampai \r\n\r\nKAMPAI aka Rumit Virmani the Bangalore-based curator & DJ will be taking charge at hometurf alongside renowned and upcoming talents from across the nation. Ranging from House, Afro, Baile Funk, UKG, DnB & everything in between.\r\n",
-    "startDate": "2024-08-03 20:00:00",
-    "endDate": "2024-08-04 00:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Switch Up @ Sly Granny ft Kampai Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Switch Up @ Sly Granny ft Kampai Bengaluru on Zomato which is a Music event happening at 3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/e86421a82562c7ccd13204209eee7e431722335337.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/house-party-series-ft-kampai-bengaluru-et46840/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-30 19:25:43",
-        "availability": "INSTOCK",
-        "inventory": 142
-      },
-      {
-        "url": "https://www.zomato.com/events/house-party-series-ft-kampai-bengaluru-et46840/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-30 19:25:44",
-        "availability": "INSTOCK",
-        "inventory": 114
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/house-party-series-ft-kampai-bengaluru-et46840"
   },
   {
     "name": "Beach Hat",
@@ -2427,47 +2321,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et46944"
-  },
-  {
-    "name": "Janm The Band & DJ Kshitija",
-    "description": "Get ready for an unforgettable night at Macaw by Stories, Bangalore\u2019s premier destination for vibrant nightlife and exceptional entertainment! On August 3, 2024, join us for a spectacular evening featuring the dynamic Multilingual Band and the electrifying DJ KSHITIJA.",
-    "startDate": "2024-08-03 20:00:00",
-    "endDate": "2024-08-04 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "2224, 2225, AECS Layout, Near Singasandra, Hosur Main Road, Bommanahalli",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Janm The Band & DJ Kshitija Party and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Janm The Band & DJ Kshitija Bengaluru on Zomato which is a Party and Music event happening at 2224, 2225, AECS Layout, Near Singasandra, Hosur Main Road, Bommanahalli",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/61a804a5b44ecfa7ec422ff8b7be4db91722356030.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/janm-the-band-dj-kshitija-bengaluru-et46945/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-30 21:58:19",
-        "availability": "INSTOCK",
-        "inventory": 318
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/janm-the-band-dj-kshitija-bengaluru-et46945"
   },
   {
     "name": "Asal Kolar Live",
@@ -3599,7 +3452,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 290
+        "inventory": 252
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -3607,7 +3460,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 64
+        "inventory": 57
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -3623,7 +3476,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 6
+        "inventory": 5
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -4094,7 +3947,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 74
       },
       {
         "url": "https://www.zomato.com/events/dynamite-disco-club-bengaluru-et47200/details",
@@ -4143,7 +3996,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 19:15:47",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 197
       },
       {
         "url": "https://www.zomato.com/events/indulge-7-rivers-brewing-co-bengaluru-et47241/details",
@@ -4151,7 +4004,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 19:15:47",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 198
       },
       {
         "url": "https://www.zomato.com/events/indulge-7-rivers-brewing-co-bengaluru-et47241/details",
@@ -4159,7 +4012,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 19:15:48",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 194
       }
     ],
     "performers": [],
@@ -4200,7 +4053,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 19:15:49",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 199
       },
       {
         "url": "https://www.zomato.com/events/corona-sundowner-ft-blot-bengaluru-et47242/details",
@@ -4208,7 +4061,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 19:15:50",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 198
       },
       {
         "url": "https://www.zomato.com/events/corona-sundowner-ft-blot-bengaluru-et47242/details",
