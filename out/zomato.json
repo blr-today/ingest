@@ -23,7 +23,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 489
+               "value": 487
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -32,7 +32,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 485
+               "value": 471
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-29T22:00:00+05:30"
@@ -41,7 +41,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1107
+               "value": 1105
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -214,56 +214,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Cheers to friendships that bark! Celebrate Friendship Day at BLR Brewing Co, Whitefield, with a pupper party full of wagging tails and happy hearts!\r\nInclusions: \r\nExciting games & gifts for your pets\r\n free pet food buffet\r\nbasic health check-up\r\n a goodie bag for all attendees\r\nNo charges for pets!\r\n\r\nOngroud tickets will be priced at 700/- per person",
-      "endDate": "2024-08-04T18:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/72d6f13f9fc2636f7e23fa3115b08d551720864513.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "No. 2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Bengaluru Pupper Party",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 19
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-13T15:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 31
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-13T15:00:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-08-04T15:00:00+05:30",
-      "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et45225"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Caged Presents Arjun Vagale + more at The Park Ballroom on 10 Aug 2024\r\n\r\nWe have a very special guest - Arjun Vagale joining us for the big edition at The Park Ballroom on Aug 10, 2024, expect a top class sound & visual experience!",
       "endDate": "2024-08-11T01:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -285,10 +235,28 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 46
+               "value": 50
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-07-18T09:47:41+05:30"
+            "validFrom": "2024-08-03T15:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 49
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-03T15:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-03T15:00:00+05:30"
          }
       ],
       "organizer": [
@@ -299,7 +267,6 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 46,
       "startDate": "2024-08-10T20:00:00+05:30",
       "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658"
    },
@@ -999,7 +966,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 247
+               "value": 237
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-21T12:00:00+05:30"
@@ -1008,7 +975,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 275
+               "value": 262
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-21T12:00:00+05:30"
@@ -1017,7 +984,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 194
+               "value": 177
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-21T12:00:00+05:30"
@@ -1067,7 +1034,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 295
+               "value": 284
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-21T12:00:00+05:30"
@@ -1127,7 +1094,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get ready to experience the International rock legend's live concert as part of his 5 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the ‘So Happy It Hurts’ World Tour.  \r\n\r\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.",
+      "description": "Get ready to experience the International rock legend's live concert as part of his 5 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the ‘So Happy It Hurts’ World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.",
       "endDate": "2024-12-14T22:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
@@ -1143,7 +1110,35 @@
          "name": "Bengaluru"
       },
       "name": "Bryan Adams - So Happy It Hurts Tour 2024",
-      "offers": [ ],
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 78
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-04T14:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 732
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-04T14:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 275
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-04T14:00:00+05:30"
+         }
+      ],
       "organizer": [
          {
             "name": "Zomato Live",
@@ -1154,65 +1149,6 @@
       "performers": [ ],
       "startDate": "2024-12-14T19:00:00+05:30",
       "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Get ready to elevate your weekend! ðŸš€\r\n\r\nJoin us at High Ultra Lounge on August 3rd for an unforgettable night of Synthesis featuring the talented DJ Armina! ðŸ’«\r\n\r\nDISCLAIMER: Please make sure to follow club rules.",
-      "endDate": "2024-08-04T00:30:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/262f7b65a584ded987f265c78c34ce3c1721981297.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Synthesis Ft Dj Armina",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 200
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-26T13:45:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 181
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-26T13:45:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 171
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-26T13:45:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-08-03T20:00:00+05:30",
-      "url": "https://www.zomato.com/events/synthesis-ft-dj-armina-bengaluru-et46520"
    },
    {
       "@context": "https://schema.org",
@@ -1238,7 +1174,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 106
+               "value": 102
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-27T15:00:00+05:30"
@@ -1247,7 +1183,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 8
+               "value": 7
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-27T15:00:00+05:30"
@@ -1276,55 +1212,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \r\nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \r\n\r\nThe event comprises three soul-enriching parts: \r\n\r\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\r\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \r\n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
-      "endDate": "2024-08-03T20:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/7720029dec02484b48f5505645b2404c1722156916.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "23-A , chaithanya sharan X, Gunjur Village"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Soul Jams",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 241
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-01T19:00:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [
-         {
-            "image": "https://b.zmtcdn.com/data/zomaland/8bdba35fcf0dcbccad51536bf402131f1722155547.png",
-            "name": "Soul Jams",
-            "type": "PERSON",
-            "url": "https://b.zmtcdn.com/data/zomaland/8bdba35fcf0dcbccad51536bf402131f1722155547.png"
-         }
-      ],
-      "remainingAttendeeCapacity": 241,
-      "startDate": "2024-08-03T16:30:00+05:30",
-      "url": "https://www.zomato.com/events/soul-jams-bengaluru-et46629"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Join us for a vibrant day at Brews of Bangalore, where we're celebrating Bangalore's love for beer, coffee, food, and music! With live music creating the perfect backdrop, immerse yourself in a day filled with exciting activities and games that guarantee endless fun and laughter. Indulge your taste buds with offerings from top beer brands and discover the perfect pairing with our top food cuisines curated to complement your brew. Additionally, savor a variety of coffees from top coffee brands, making it an unforgettable and joyous experience for all!",
       "endDate": "2024-09-22T22:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -1346,7 +1233,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 992
+               "value": 977
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T16:50:00+05:30"
@@ -1355,7 +1242,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 96
+               "value": 91
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T16:50:00+05:30"
@@ -1371,140 +1258,6 @@
       "performers": [ ],
       "startDate": "2024-09-22T12:00:00+05:30",
       "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "We’re excited to bring forward #SwitchUP an intellectual property curated by Kampai \r\n\r\nKAMPAI aka Rumit Virmani the Bangalore-based curator & DJ will be taking charge at hometurf alongside renowned and upcoming talents from across the nation. Ranging from House, Afro, Baile Funk, UKG, DnB & everything in between.\r\n",
-      "endDate": "2024-08-04T00:30:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/e86421a82562c7ccd13204209eee7e431722335337.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Switch Up @ Sly Granny ft Kampai",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 178
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-30T19:25:43+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 171
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-30T19:25:44+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-08-03T20:00:00+05:30",
-      "url": "https://www.zomato.com/events/house-party-series-ft-kampai-bengaluru-et46840"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Join our Sip & Paint Party! We‚Äôve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it‚Äôs a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. üé®üçΩÔ∏èü•Ç",
-      "endDate": "2024-08-03T18:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/f0e9368a15634ba0456b0871d81519291722339218.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "No. 101, 1st floor, Money Center, 7th Block, Koramangala"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Road Trip",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 50
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-30T17:45:41+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 50,
-      "startDate": "2024-08-03T16:00:00+05:30",
-      "url": "https://www.zomato.com/events/road-trip-bengaluru-et46856"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Join our Sip & Paint Party! We‚Äôve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it‚Äôs a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. üé®üçΩÔ∏èü•Ç",
-      "endDate": "2024-08-04T15:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/2685d4247cd613dda53340b7179fc4141722339609.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "No. 101, 1st floor, Money Center, 7th Block, Koramangala"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Beach Hat",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 50
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-30T17:45:42+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 50,
-      "startDate": "2024-08-04T13:00:00+05:30",
-      "url": "https://www.zomato.com/events/beach-hat-bengaluru-et46859"
    },
    {
       "@context": "https://schema.org",
@@ -2430,7 +2183,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 194
+               "value": 193
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T21:58:18+05:30"
@@ -2446,107 +2199,6 @@
       "performers": [ ],
       "startDate": "2024-08-10T20:00:00+05:30",
       "url": "https://www.zomato.com/events/the-white-party-bengaluru-et46943"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Hello Bangalore, XOOX Brewmill is back with its popular Sunday Brunch starting this August 2024. Enjoy Live Music with Adhir Punja clubbed with Unlimited F&B every Sunday",
-      "endDate": "2024-08-04T15:30:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/304fd256932db57ed48616d6646284a81722355760.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "XOOX Unlimited F&B Sunday Brunch",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 50
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-30T21:58:18+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 50
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-30T21:58:18+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 50
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-30T21:58:19+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-08-04T12:30:00+05:30",
-      "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et46944"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Get ready for an unforgettable night at Macaw by Stories, Bangalore’s premier destination for vibrant nightlife and exceptional entertainment! On August 3, 2024, join us for a spectacular evening featuring the dynamic Multilingual Band and the electrifying DJ KSHITIJA.",
-      "endDate": "2024-08-04T01:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/61a804a5b44ecfa7ec422ff8b7be4db91722356030.png",
-      "isAccessibleForFree": true,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "2224, 2225, AECS Layout, Near Singasandra, Hosur Main Road, Bommanahalli"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Janm The Band & DJ Kshitija",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 326
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-30T21:58:19+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 326,
-      "startDate": "2024-08-03T20:00:00+05:30",
-      "url": "https://www.zomato.com/events/janm-the-band-dj-kshitija-bengaluru-et46945"
    },
    {
       "@context": "https://schema.org",
@@ -2701,50 +2353,8 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Catch Thunders cave performing live at Hard Rock Cafe, Bengaluru.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.\r\n\r\nThunder`s Cave band from Nongstoiñ West Khasi Hills, Meghalaya, India.The band consist of five Members\r\n1. John Gilbert Marwein (Vocalist)\r\n2. Bankitbok Rani (Guitars)\r\n3. Khrawbor Myrthong (Guitars)\r\n4.Amos Syiemlieh (Bassist)\r\n5. Banjopbor Myrthong (Drummer)\r\nThunder Caves has released an album called \"Maitshaphrang\"",
-      "endDate": "2024-08-03T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/db56ae6eb1b5da83f318d8f27d5b620c1722442954.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Thunders Cave",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 20
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-31T22:28:46+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 20,
-      "startDate": "2024-08-03T21:00:00+05:30",
-      "url": "https://www.zomato.com/events/thunders-cave-bengaluru-et47083"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Finger Chips and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
-      "endDate": "2024-08-04T23:00:00+05:30",
+      "endDate": "2024-08-04 23:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/669e66ee789f6e33cbd21ad6661bf6521722443009.jpeg",
@@ -2779,7 +2389,7 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 75,
-      "startDate": "2024-08-04T13:00:00+05:30",
+      "startDate": "2024-08-04 13:00:00",
       "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et47084"
    },
    {
@@ -2806,7 +2416,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 75
+               "value": 72
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-31T22:28:47+05:30"
@@ -2820,7 +2430,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 75,
+      "remainingAttendeeCapacity": 72,
       "startDate": "2024-08-04T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et47085"
    },
@@ -3730,7 +3340,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 290
+               "value": 252
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T09:00:00+05:30"
@@ -3739,7 +3349,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 64
+               "value": 57
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T09:00:00+05:30"
@@ -3757,7 +3367,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 6
+               "value": 5
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T09:00:00+05:30"
@@ -3791,48 +3401,6 @@
       "performers": [ ],
       "startDate": "2024-10-05T19:00:00+05:30",
       "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Join us at Hard Rock Cafe, Whitefield for an amazing evening of Acoustic Sessions with Ishita Collective & The Loysum Experience at 9 o'clock on 3rd August.",
-      "endDate": "2024-08-03T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/f1ce7183f569ea95dc0930d4e2e74fdb1722499201.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Acoustic Sessions",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 20
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-01T15:32:03+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 20,
-      "startDate": "2024-08-03T21:00:00+05:30",
-      "url": "https://www.zomato.com/events/acoustic-sessions-bengaluru-et47158"
    },
    {
       "@context": "https://schema.org",
@@ -4278,7 +3846,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 75
+               "value": 74
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T15:00:00+05:30"
@@ -4308,7 +3876,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Are you ready to INDULGE with us in Bangalore? Catch our homegrown artists SIDBIT, Sunny Zahir & Aditya Rajpal live at 7 River Brewing Company this Saturday.",
-      "endDate": "2024-08-11T01:00:00+05:30",
+      "endDate": "2024-08-11 01:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/acfdf7a151cf02b522a3a325ab8499d11722514844.png",
@@ -4328,7 +3896,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 199
+               "value": 197
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T19:15:47+05:30"
@@ -4337,7 +3905,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 200
+               "value": 198
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T19:15:47+05:30"
@@ -4346,7 +3914,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 199
+               "value": 194
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T19:15:48+05:30"
@@ -4360,14 +3928,14 @@
          }
       ],
       "performers": [ ],
-      "startDate": "2024-08-03T20:00:00+05:30",
+      "startDate": "2024-08-03 20:00:00",
       "url": "https://www.zomato.com/events/indulge-7-rivers-brewing-co-bengaluru-et47241"
    },
    {
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Join us for an unforgettable evening at the Corona Sundowner, featuring a live performance by BLOT. Set against the luxurious backdrop of Bang at the Ritz Carlton, this event promises a perfect blend of music, ambiance, and sunset views.\r\nLive Performance by BLOT: Experience the unique sounds of BLOT, known for their eclectic mix of electronic music that transcends genres and creates an immersive auditory experience.\r\n\r\nSpectacular Sunset Views: Enjoy breathtaking sunset views from the rooftop venue, creating a magical atmosphere as day turns to night.\r\n\r\nChill Vibes: Relax and unwind with a refreshing Corona in hand, surrounded by great company and a vibrant crowd.\r\n\r\nExclusive Ambiance: Bang at the Ritz Carlton offers an exclusive setting with top-notch service, ensuring a premium experience for all attendees.",
-      "endDate": "2024-08-04T23:00:00+05:30",
+      "endDate": "2024-08-04 23:00:00",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/a3ec01c2900f87ca531b4f2d213f58d31722515171.png",
@@ -4387,7 +3955,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 200
+               "value": 199
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T19:15:49+05:30"
@@ -4396,7 +3964,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 200
+               "value": 198
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T19:15:50+05:30"
@@ -4419,7 +3987,7 @@
          }
       ],
       "performers": [ ],
-      "startDate": "2024-08-04T15:00:00+05:30",
+      "startDate": "2024-08-04 15:00:00",
       "url": "https://www.zomato.com/events/corona-sundowner-ft-blot-bengaluru-et47242"
    }
 ]

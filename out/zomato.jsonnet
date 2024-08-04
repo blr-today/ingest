@@ -41,7 +41,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 489
+        "inventory": 487
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 476
+        "inventory": 471
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +57,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1107
+        "inventory": 1105
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -232,69 +232,6 @@
     "url": "https://www.zomato.com/events/moon-shine-tour-bengaluru-et45173"
   },
   {
-    "name": "Bengaluru Pupper Party",
-    "description": "Cheers to friendships that bark! Celebrate Friendship Day at BLR Brewing Co, Whitefield, with a pupper party full of wagging tails and happy hearts!\r\nInclusions: \r\nExciting games & gifts for your pets\r\n free pet food buffet\r\nbasic health check-up\r\n a goodie bag for all attendees\r\nNo charges for pets!\r\n\r\nOngroud tickets will be priced at 700/- per person",
-    "startDate": "2024-08-04T15:00:00+05:30",
-    "endDate": "2024-08-04T18:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "No. 2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Bengaluru Pupper Party Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bengaluru Pupper Party Bengaluru on Zomato which is a Experiences and Trending event happening at No. 2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/72d6f13f9fc2636f7e23fa3115b08d551720864513.png",
-      "https://b.zmtcdn.com/data/zomaland/5260839eb29d9e788d73a4914b80f8f21720865477.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/bb51fff5244b2c9f2e5787176d15efe21720865477.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/864b118ff6040d052f15b2c10d250bba1720865477.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/c5258e9368497b1d02f06ec0be6618931720865477.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/fb99a7b258eb1043a24fd3f8431e83ff1720865477.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/260441198c6e5bd27a23f1b0bab4421e1720865477.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/ae07318c344b7b41f69a62621d0276271720865477.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/52e0f656337fb8d6db51533ddb66c5741720865477.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/6518cb01f0908d4258e50dab13f2f0d51720865477.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/edeeaf022ac6b90fe0a48d29006bb82d1720865477.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/a2c59024fd0fe227a54200ed6545f0c71720865477.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/07c63587b6d668a69aecc980e919a4f91720865477.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/3840635097a644f129cabafd47631d101720865477.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/17dc1255a18eec8809c6db8b4dd130c51720865477.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et45225/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-13 15:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et45225/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-07-13 15:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et45225"
-  },
-  {
     "name": "Caged ft. Arjun Vagale",
     "description": "Caged Presents Arjun Vagale + more at The Park Ballroom on 10 Aug 2024\r\n\r\nWe have a very special guest - Arjun Vagale joining us for the big edition at The Park Ballroom on Aug 10, 2024, expect a top class sound & visual experience!",
     "startDate": "2024-08-10T20:00:00+05:30",
@@ -330,7 +267,7 @@
         "currency": "INR",
         "validFrom": "2024-08-03 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 49
       },
       {
         "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658/details",
@@ -1035,7 +972,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 245
+        "inventory": 237
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -1043,7 +980,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 267
+        "inventory": 262
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -1051,7 +988,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 192
+        "inventory": 177
       }
     ],
     "performers": [],
@@ -1100,7 +1037,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 289
+        "inventory": 284
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -1155,7 +1092,7 @@
   },
   {
     "name": "Bryan Adams - So Happy It Hurts Tour 2024",
-    "description": "Get ready to experience the International rock legend's live concert as part of his 5 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the \u2018So Happy It Hurts\u2019 World Tour.  \r\n\r\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.",
+    "description": "Get ready to experience the International rock legend's live concert as part of his 5 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the \u2018So Happy It Hurts\u2019 World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.",
     "startDate": "2024-12-14T19:00:00+05:30",
     "endDate": "2024-12-14T22:00:00+05:30",
     "timezone": "+05:30",
@@ -1185,9 +1122,35 @@
       "https://b.zmtcdn.com/data/zomaland/59c72d8e56850aa8c7bd71a1d78d77d61721839209.jpeg",
       "https://b.zmtcdn.com/data/zomaland/5ce52e330649ddc2a36fd58e45da96821721839209.jpeg",
       "https://b.zmtcdn.com/data/zomaland/5136a008fffbdbfdad9ca4edf5796d821721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/cbb51b07afe70ff7d192d3abae210c201721985893.png"
+      "https://b.zmtcdn.com/data/zomaland/cbb51b07afe70ff7d192d3abae210c201721985893.png",
+      "https://b.zmtcdn.com/data/zomaland/d9b4d94376dadfd702eadd55028514f91722752605.png"
     ],
-    "tickets": [],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
+        "price": 2399,
+        "currency": "INR",
+        "validFrom": "2024-08-04 14:00:00",
+        "availability": "INSTOCK",
+        "inventory": 78
+      },
+      {
+        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
+        "price": 3599,
+        "currency": "INR",
+        "validFrom": "2024-08-04 14:00:00",
+        "availability": "INSTOCK",
+        "inventory": 732
+      },
+      {
+        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
+        "price": 6749,
+        "currency": "INR",
+        "validFrom": "2024-08-04 14:00:00",
+        "availability": "INSTOCK",
+        "inventory": 275
+      }
+    ],
     "performers": [],
     "organizer": [
       {
@@ -1305,47 +1268,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824"
-  },
-  {
-    "name": "Beach Hat",
-    "description": "Join our Sip & Paint Party! We\u201a\u00c4\u00f4ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u201a\u00c4\u00f4s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \uf8ff\u00fc\u00e9\u00ae\uf8ff\u00fc\u00e7\u03a9\u00d4\u220f\u00e8\uf8ff\u00fc\u2022\u00c7",
-    "startDate": "2024-08-04T13:00:00+05:30",
-    "endDate": "2024-08-04T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Beach Hat Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Beach Hat Bengaluru on Zomato which is a Experiences event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2685d4247cd613dda53340b7179fc4141722339609.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/beach-hat-bengaluru-et46859/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 17:45:42",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/beach-hat-bengaluru-et46859"
   },
   {
     "name": "A Cup of Beauty",
@@ -2266,63 +2188,6 @@
     "url": "https://www.zomato.com/events/the-white-party-bengaluru-et46943"
   },
   {
-    "name": "XOOX Unlimited F&B Sunday Brunch",
-    "description": "Hello Bangalore, XOOX Brewmill is back with its popular Sunday Brunch starting this August 2024. Enjoy Live Music with Adhir Punja clubbed with Unlimited F&B every Sunday",
-    "startDate": "2024-08-04T12:30:00+05:30",
-    "endDate": "2024-08-04T15:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "XOOX Unlimited F&B Sunday Brunch Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for XOOX Unlimited F&B Sunday Brunch Bengaluru on Zomato which is a Experiences event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/304fd256932db57ed48616d6646284a81722355760.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et46944/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 21:58:18",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et46944/details",
-        "price": 1599,
-        "currency": "INR",
-        "validFrom": "2024-07-30 21:58:18",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et46944/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 21:58:19",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et46944"
-  },
-  {
     "name": "Asal Kolar Live",
     "description": "Asal Kolaar aka Asal Kolar is an Indian film Singer/Lyricst, who has worked predominantly in the Tamil movie industry. Asal has worked in popular movies like Coffee With Kadhal and Gulu Gulu. Asal`s previous film to hit the theatres was Coffee With Kadhal in the year 2022.\r\n\r\nAsal Kolaar is one of the contestants in Bigg Boss Tamil season 6, hosted by Kamal Haasan which airs on Vijay Television.\r\n\r\nOver 10 million people have viewed \u201cJorthaale,\u201d a Tamil independent music track offered by the Chennai-based label Atti Culture. On social media, the song almost surpassed 10 million views and 481k likes. The positive song, which was published in August of last year, quickly\r\ngained popularity on social media. Tamil independent musicians Asal Kolaar (Vasantkumar P) and OfRo, who is well-known for their undertaking known as the Casteless Collective, later wrote the song \u201cJorthaale.",
     "startDate": "2024-10-06T20:00:00+05:30",
@@ -2472,8 +2337,8 @@
   {
     "name": "Sunny Tunes",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Finger Chips and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
-    "startDate": "2024-08-04T13:00:00+05:30",
-    "endDate": "2024-08-04T23:00:00+05:30",
+    "startDate": "2024-08-04 13:00:00",
+    "endDate": "2024-08-04 23:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -4028,8 +3893,8 @@
   {
     "name": "Corona Sundowner ft. BLOT",
     "description": "Join us for an unforgettable evening at the Corona Sundowner, featuring a live performance by BLOT. Set against the luxurious backdrop of Bang at the Ritz Carlton, this event promises a perfect blend of music, ambiance, and sunset views.\r\nLive Performance by BLOT: Experience the unique sounds of BLOT, known for their eclectic mix of electronic music that transcends genres and creates an immersive auditory experience.\r\n\r\nSpectacular Sunset Views: Enjoy breathtaking sunset views from the rooftop venue, creating a magical atmosphere as day turns to night.\r\n\r\nChill Vibes: Relax and unwind with a refreshing Corona in hand, surrounded by great company and a vibrant crowd.\r\n\r\nExclusive Ambiance: Bang at the Ritz Carlton offers an exclusive setting with top-notch service, ensuring a premium experience for all attendees.",
-    "startDate": "2024-08-04T15:00:00+05:30",
-    "endDate": "2024-08-04T23:00:00+05:30",
+    "startDate": "2024-08-04 15:00:00",
+    "endDate": "2024-08-04 23:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
