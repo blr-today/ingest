@@ -2579,7 +2579,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 252
+        "inventory": 219
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -2587,7 +2587,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 57
+        "inventory": 51
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -2595,7 +2595,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 47
+        "inventory": 45
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -2701,7 +2701,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:32:03",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 73
       }
     ],
     "performers": [],
@@ -3082,7 +3082,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 71
       }
     ],
     "performers": [],
@@ -3123,7 +3123,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 19:15:47",
         "availability": "INSTOCK",
-        "inventory": 197
+        "inventory": 194
       },
       {
         "url": "https://www.zomato.com/events/indulge-7-rivers-brewing-co-bengaluru-et47241/details",
