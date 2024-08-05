@@ -41,7 +41,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 487
+        "inventory": 485
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 471
+        "inventory": 458
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -267,7 +267,7 @@
         "currency": "INR",
         "validFrom": "2024-08-03 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 49
+        "inventory": 47
       },
       {
         "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658/details",
@@ -324,7 +324,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 262
+        "inventory": 260
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -332,7 +332,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 177
+        "inventory": 169
       }
     ],
     "performers": [],
@@ -381,7 +381,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 284
+        "inventory": 279
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -389,7 +389,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 179
+        "inventory": 177
       }
     ],
     "performers": [],
@@ -472,11 +472,11 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 2399,
+        "price": 2699,
         "currency": "INR",
         "validFrom": "2024-08-04 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 78
+        "inventory": 751
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -484,15 +484,31 @@
         "currency": "INR",
         "validFrom": "2024-08-04 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 732
+        "inventory": 350
+      },
+      {
+        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
+        "price": 7499,
+        "currency": "INR",
+        "validFrom": "2024-08-05 11:00:00",
+        "availability": "INSTOCK",
+        "inventory": 912
+      },
+      {
+        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
+        "price": 2399,
+        "currency": "INR",
+        "validFrom": "2024-08-04 14:00:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
         "price": 6749,
         "currency": "INR",
         "validFrom": "2024-08-04 14:00:00",
-        "availability": "INSTOCK",
-        "inventory": 275
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -3094,62 +3110,5 @@
       }
     ],
     "url": "https://www.zomato.com/events/dynamite-disco-club-bengaluru-et47200"
-  },
-  {
-    "name": "Indulge | 7 Rivers Brewing Co.",
-    "description": "Are you ready to INDULGE with us in Bangalore? Catch our homegrown artists SIDBIT, Sunny Zahir & Aditya Rajpal live at 7 River Brewing Company this Saturday.",
-    "startDate": "2024-08-03 20:00:00",
-    "endDate": "2024-08-11 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Indulge | 7 Rivers Brewing Co. Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Indulge | 7 Rivers Brewing Co. Bengaluru on Zomato which is a Music and Trending event happening at 7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/acfdf7a151cf02b522a3a325ab8499d11722514844.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/indulge-7-rivers-brewing-co-bengaluru-et47241/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-01 19:15:47",
-        "availability": "INSTOCK",
-        "inventory": 194
-      },
-      {
-        "url": "https://www.zomato.com/events/indulge-7-rivers-brewing-co-bengaluru-et47241/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-01 19:15:47",
-        "availability": "INSTOCK",
-        "inventory": 198
-      },
-      {
-        "url": "https://www.zomato.com/events/indulge-7-rivers-brewing-co-bengaluru-et47241/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-01 19:15:48",
-        "availability": "INSTOCK",
-        "inventory": 194
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/indulge-7-rivers-brewing-co-bengaluru-et47241"
   }
 ]
