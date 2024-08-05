@@ -457,9 +457,9 @@ python-dateutil==2.9.0.post0 \
     --hash=sha256:37dd54208da7e1cd875388217d5e00ebd4179249f90fb72437e91a35459a0ad3 \
     --hash=sha256:a8b2bc7bffae282281c8140a97d3aa9c14da0b136dfe83f850eea9a5f7470427
     # via arrow, datefinder, ics, blr-today-ingest (pyproject.toml)
-python-jsonpath==1.1.1 \
-    --hash=sha256:43f2622b7aaaf4f45dd873e80cfd181058503e08ffdeac5218135f3a97bd0aec \
-    --hash=sha256:d2944e1f7a1d6c8fa958724f9570b8f04a4e00ab6bf1e4733346ab8dcef1f74f
+python-jsonpath==1.2.0 \
+    --hash=sha256:3172c7b87098fced1ed84bd3492bd1a19ef1ad41d4f5b8a3e9a147c750ac08b3 \
+    --hash=sha256:a29a84ec3ac38e5dcaa62ac2a215de72c4eb60cb1303e10700da980cf7873775
     # via blr-today-ingest (pyproject.toml)
 pytz==2024.1 \
     --hash=sha256:2a29735ea9c18baf14b448846bde5a48030ed267578472d8955cd0e7443a9812 \
