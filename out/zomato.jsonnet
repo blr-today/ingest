@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 458
+        "inventory": 454
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +57,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1105
+        "inventory": 1103
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -324,7 +324,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 260
+        "inventory": 254
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -332,7 +332,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 169
+        "inventory": 162
       }
     ],
     "performers": [],
@@ -381,7 +381,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 279
+        "inventory": 276
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -389,7 +389,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 177
+        "inventory": 174
       }
     ],
     "performers": [],
@@ -467,7 +467,7 @@
       "https://b.zmtcdn.com/data/zomaland/5ce52e330649ddc2a36fd58e45da96821721839209.jpeg",
       "https://b.zmtcdn.com/data/zomaland/5136a008fffbdbfdad9ca4edf5796d821721839209.jpeg",
       "https://b.zmtcdn.com/data/zomaland/cbb51b07afe70ff7d192d3abae210c201721985893.png",
-      "https://b.zmtcdn.com/data/zomaland/d9b4d94376dadfd702eadd55028514f91722752605.png"
+      "https://b.zmtcdn.com/data/zomaland/370573976c851ab0520ca671a5defc8f1722938590.png"
     ],
     "tickets": [
       {
@@ -476,15 +476,15 @@
         "currency": "INR",
         "validFrom": "2024-08-04 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 751
+        "inventory": 568
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 3599,
+        "price": 3999,
         "currency": "INR",
-        "validFrom": "2024-08-04 14:00:00",
+        "validFrom": "2024-08-05 11:00:00",
         "availability": "INSTOCK",
-        "inventory": 350
+        "inventory": 972
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -492,11 +492,19 @@
         "currency": "INR",
         "validFrom": "2024-08-05 11:00:00",
         "availability": "INSTOCK",
-        "inventory": 912
+        "inventory": 635
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
         "price": 2399,
+        "currency": "INR",
+        "validFrom": "2024-08-04 14:00:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
+        "price": 3599,
         "currency": "INR",
         "validFrom": "2024-08-04 14:00:00",
         "availability": "SOLDOUT",
@@ -550,7 +558,7 @@
         "currency": "INR",
         "validFrom": "2024-07-27 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 89
+        "inventory": 77
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
@@ -558,7 +566,7 @@
         "currency": "INR",
         "validFrom": "2024-07-27 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 7
+        "inventory": 6
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
@@ -1526,7 +1534,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 21:58:17",
         "availability": "INSTOCK",
-        "inventory": 193
+        "inventory": 192
       },
       {
         "url": "https://www.zomato.com/events/the-white-party-bengaluru-et46943/details",
@@ -1534,7 +1542,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 21:58:18",
         "availability": "INSTOCK",
-        "inventory": 192
+        "inventory": 191
       }
     ],
     "performers": [],
@@ -1722,7 +1730,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:47",
         "availability": "INSTOCK",
-        "inventory": 67
+        "inventory": 66
       }
     ],
     "performers": [],
@@ -1763,7 +1771,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:48",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 73
       }
     ],
     "performers": [],
@@ -2050,7 +2058,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:50",
         "availability": "INSTOCK",
-        "inventory": 63
+        "inventory": 60
       }
     ],
     "performers": [],
@@ -2501,7 +2509,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:55",
         "availability": "INSTOCK",
-        "inventory": 74
+        "inventory": 73
       }
     ],
     "performers": [],
@@ -3163,7 +3171,7 @@
         "currency": "INR",
         "validFrom": "2024-08-05 22:22:11",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 18
       }
     ],
     "performers": [],
