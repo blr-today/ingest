@@ -4158,5 +4158,111 @@
       }
     ],
     "url": "https://www.zomato.com/events/pondicherry-weekend-getaway-bengaluru-et47561"
+  },
+  {
+    "name": "Alexander Alar Live",
+    "description": "Get ready for an evening of unparalleled musical brilliance as Alexander Alar, the world-renowned DJ and producer, takes the stage at ZOZO on August 9th. This is not just a performance\u2014it\u2019s an extraordinary night where music and artistry collide to create an unforgettable experience\n\nAlexander Alar is celebrated for his electrifying sets that push the boundaries of music. His unique ability to blend genres seamlessly will ensure a night filled with high-energy beats and mesmerizing rhythms that will keep you dancing from start to finish. ZOZO, known for its luxurious ambiance and cutting-edge design, provides the perfect backdrop for this high-octane event. Immerse yourself in a vibrant and upscale environment where every detail\u2014from the stunning visuals to the state-of-the-art sound system\u2014is designed to enhance your experience.",
+    "startDate": "2024-08-09T20:00:00+05:30",
+    "endDate": "2024-08-10T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "A-1, D Rajgopala, nagar, Sanjay Nagar Main Rd, Bengaluru, Karnataka 560094",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Alexander Alar Live Music and Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Alexander Alar Live Bengaluru on Zomato which is a Music and Party event happening at A-1, D Rajgopala, nagar, Sanjay Nagar Main Rd, Bengaluru, Karnataka 560094",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/5beb74b37afe0de84e7941b2a65f61991722940686.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/alexander-alar-live-bengaluru-et47644/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-06 16:12:04",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/alexander-alar-live-bengaluru-et47644/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-08-06 16:12:05",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/alexander-alar-live-bengaluru-et47644/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-06 16:12:05",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/alexander-alar-live-bengaluru-et47644"
+  },
+  {
+    "name": "Paint with Puppies",
+    "description": "Have you ever dreamed of painting alongside the most adorable companions imaginable? Now's your chance! Don't miss out on the event of the month: Painting with Puppies! It's not just a workshop; it's an unforgettable experience that will touch your heart and ignite your creativity like never before.\nImagine yourself surrounded by cuddly, adoptable puppies, their wagging tails and playful energy inspiring every brushstroke. But it's not just about painting; it's about making a difference. With each ticket purchased, you're supporting animal welfare initiatives, spreading love and compassion to those who need it most.\nIndulge in unlimited snuggles, laughter, and pure joy as you create your masterpiece alongside your furry friends. This isn't just another workshop\u2014it's a chance to create memories that will last a lifetime while giving back to the community.",
+    "startDate": "2024-08-24T10:30:00+05:30",
+    "endDate": "2024-08-24T12:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "#36, 3rd floor, 14th Main Rd, Sector 7, HSR Layout",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Paint with Puppies Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Paint with Puppies Bengaluru on Zomato which is a Experiences event happening at #36, 3rd floor, 14th Main Rd, Sector 7, HSR Layout",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3ed6afa116010415f63c0ff896d78d421722944912.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et47657/details",
+        "price": 1200,
+        "currency": "INR",
+        "validFrom": "2024-08-06 17:42:38",
+        "availability": "INSTOCK",
+        "inventory": 7
+      },
+      {
+        "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et47657/details",
+        "price": 2200,
+        "currency": "INR",
+        "validFrom": "2024-08-06 17:42:38",
+        "availability": "INSTOCK",
+        "inventory": 20
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et47657"
   }
 ]
