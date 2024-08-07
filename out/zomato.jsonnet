@@ -1903,47 +1903,6 @@
     "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-08-07T20:30:00+05:30",
-    "endDate": "2024-08-07T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/6f25c193297d1099d65190440fc5b19c1722443208.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47086/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-31 22:28:47",
-        "availability": "INSTOCK",
-        "inventory": 66
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47086"
-  },
-  {
     "name": "Tribute to Green Day",
     "description": "Catch The Blue Jay Experience performing live at Hard Rock Cafe, Bengaluru.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-08-08T20:30:00+05:30",
@@ -3448,71 +3407,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47473"
-  },
-  {
-    "name": "Speed Dating",
-    "description": "Tired of swiping and texting? Come, join us at our social mixer to meet potential dates and friends in real life.\nWe`ve designed this event to boost intimacy between curated attendees, resulting in friendship, romance, and even marriage.\nOur fun icebreakers and speed dating games during the event facilitate mindful conversations and deep connections.\nSo come, and experience some cool, quirky games for introverts to break the ice without any pressure! \nSeek a friend, flatmate, date, or startup soulmate- find it all at Speed Dating!",
-    "startDate": "2024-08-07T20:00:00+05:30",
-    "endDate": "2024-08-07T22:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "46/1, Cobalt, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Speed Dating Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Speed Dating Bengaluru on Zomato which is a Experiences event happening at 46/1, Cobalt, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b4620aea34fd2f44609424eeb0a95e661722875722.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47538/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:13",
-        "availability": "INSTOCK",
-        "inventory": 20
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47538/details",
-        "price": 1299,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:13",
-        "availability": "INSTOCK",
-        "inventory": 5
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47538/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:14",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47538/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:14",
-        "availability": "INSTOCK",
-        "inventory": 20
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47538"
   },
   {
     "name": "Speed Dating",
