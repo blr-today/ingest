@@ -435,6 +435,100 @@
     "url": "https://www.zomato.com/events/25-single-bengaluru-et46072"
   },
   {
+    "name": "Coast Life Festival 2024",
+    "description": "We are Coast Life \u2013 a music and arts festival. Our mission is to shine a spotlight on the incredible music and culture in our region (because let\u2019s be real, it\u2019s nice out here). The 3-day gathering is set against the lush backdrop of a stunning villa in Goa, perfectly timed to embrace the magical monsoon. Coast life is designed to capture the essence of Goa and celebrate music, art, and culture with diverse and immersive experiences.",
+    "startDate": "2024-08-15T18:00:00+05:30",
+    "endDate": "2024-08-17T04:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Goa",
+        "streetAddress": "House No: 1615, off Anjuna Panchayat Road, Amani Hotel Lane, Vagator",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Coast Life Festival 2024 Music, Party and Best seller event Tickets Goa - Zomato",
+    "ogDesc": "Book online tickets for Coast Life Festival 2024 Goa on Zomato which is a Music, Party and Best seller event happening at House No: 1615, off Anjuna Panchayat Road, Amani Hotel Lane, Vagator",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/a692592855f76320c9efa5e8220b3c431722423992.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/1ff761b1e7b8285d73d98f02dba7ca801722423849.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/c396e6dae6b86385d6125a8afcbc96c11722423849.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/e385f6c84bab35b451b274bfa71ba1911722423849.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/492ad0b9f8795f3719e0da56d71993051722423850.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/1718ddbf1ea3c0d2a61bd1e53a5386901722424163.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
+        "price": 1416,
+        "currency": "INR",
+        "validFrom": "2024-07-31 13:00:00",
+        "availability": "INSTOCK",
+        "inventory": 25
+      },
+      {
+        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
+        "price": 1416,
+        "currency": "INR",
+        "validFrom": "2024-07-31 13:00:00",
+        "availability": "INSTOCK",
+        "inventory": 24
+      },
+      {
+        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
+        "price": 1416,
+        "currency": "INR",
+        "validFrom": "2024-07-31 13:00:00",
+        "availability": "INSTOCK",
+        "inventory": 19
+      },
+      {
+        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
+        "price": 2950,
+        "currency": "INR",
+        "validFrom": "2024-07-31 13:00:00",
+        "availability": "INSTOCK",
+        "inventory": 22
+      },
+      {
+        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
+        "price": 11800,
+        "currency": "INR",
+        "validFrom": "2024-07-31 13:00:00",
+        "availability": "INSTOCK",
+        "inventory": 22
+      },
+      {
+        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
+        "price": 1770,
+        "currency": "INR",
+        "validFrom": "2024-07-24 13:00:00",
+        "availability": "INSTOCK",
+        "inventory": 38
+      },
+      {
+        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
+        "price": 2360,
+        "currency": "INR",
+        "validFrom": "2024-07-25 11:00:00",
+        "availability": "INSTOCK",
+        "inventory": 38
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249"
+  },
+  {
     "name": "Bryan Adams - So Happy It Hurts Tour 2024",
     "description": "Get ready to experience the International rock legend's live concert as part of his 5 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the \u2018So Happy It Hurts\u2019 World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.",
     "startDate": "2024-12-14T19:00:00+05:30",
@@ -1554,6 +1648,112 @@
       }
     ],
     "url": "https://www.zomato.com/events/the-white-party-bengaluru-et46943"
+  },
+  {
+    "name": "Jubin Nautiyal Live In Pune",
+    "description": "Prepare yourselves, Pune, as you are about to witness Jubin Nautiyal Live for the first time in Maharashtra. Jubin is ready to captivate you with his beats and provide you with an unforgettable experience. This show promises to be a magnificent blend of music and vibes at a specially curated venue, offering you a once-in-a-lifetime experience.",
+    "startDate": "2024-10-13T17:00:00+05:30",
+    "endDate": "2024-10-13T22:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Pune",
+        "streetAddress": "Eva Garden, Mayfield, Grant Rd, opposite phoenix world school, Kharadi",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Jubin Nautiyal Live In Pune Party, Music and Best seller event Tickets Pune - Zomato",
+    "ogDesc": "Book online tickets for Jubin Nautiyal Live In Pune Pune on Zomato which is a Party, Music and Best seller event happening at Eva Garden, Mayfield, Grant Rd, opposite phoenix world school, Kharadi",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/ca6b905e14dcc2a85384e4749679aafd1722358372.png",
+      "https://b.zmtcdn.com/data/zomaland/ed652c18e01c04a6f7dd9a2e0124b42e1722395497.png",
+      "https://b.zmtcdn.com/data/zomaland/ce3643a2be8f71028730d061650868ac1722395800.png",
+      "https://b.zmtcdn.com/data/zomaland/fd8500baa1c85f7ea19ae27d5f042e0e1722504474.png",
+      "https://b.zmtcdn.com/data/zomaland/a07f426dd2099f6d8a8efccbb29e61611722504488.png",
+      "https://b.zmtcdn.com/data/zomaland/3b6a28af0a311516b3b24955d2c322351722504488.png",
+      "https://b.zmtcdn.com/data/zomaland/cdd32db90a26863dddb80c4fbe9794f51722504488.png",
+      "https://b.zmtcdn.com/data/zomaland/b3a7b2d9b3a7e1c6a2809f1e8953f0361722504488.png",
+      "https://b.zmtcdn.com/data/zomaland/75f050e10f4f32da7cb813b3e1f48f771722504826.png",
+      "https://b.zmtcdn.com/data/zomaland/1024f4a02ac2c89c7cc40a695f3c45631722504826.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-07-30 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-07-30 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-07-30 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 49
+      },
+      {
+        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
+        "price": 3999,
+        "currency": "INR",
+        "validFrom": "2024-07-30 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
+        "price": 3999,
+        "currency": "INR",
+        "validFrom": "2024-07-30 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
+        "price": 6999,
+        "currency": "INR",
+        "validFrom": "2024-07-30 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
+        "price": 6999,
+        "currency": "INR",
+        "validFrom": "2024-07-30 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
+        "price": 9999,
+        "currency": "INR",
+        "validFrom": "2024-07-30 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946"
   },
   {
     "name": "Asal Kolar Live",
