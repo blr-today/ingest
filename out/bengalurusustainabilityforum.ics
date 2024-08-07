@@ -21,7 +21,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240809T180000
 DTEND;TZID=Asia/Kolkata:20240809T203000
-DTSTAMP:20240807T071326
+DTSTAMP:20240807T120422
 CREATED:20240730T043659Z
 LAST-MODIFIED:20240730T043659Z
 UID:10744-1723226400-1723235400@www.bengalurusustainabilityforum.org
@@ -32,5 +32,20 @@ LOCATION:Zoom Webinar
 CATEGORIES:External event,Online Event
 ATTACH;FMTTYPE=image/jpeg:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/07/waste-09-aug-.jpeg
 ORGANIZER;CN="Oorvani Foundation":MAILTO:foundation@oorvani.in
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240810T170000
+DTEND;TZID=Asia/Kolkata:20240810T183000
+DTSTAMP:20240807T120422
+CREATED:20240807T060321Z
+LAST-MODIFIED:20240807T060321Z
+UID:10888-1723309200-1723314600@www.bengalurusustainabilityforum.org
+SUMMARY:Wild by Design
+DESCRIPTION:Is it time to rethink how we build human habitats? Is it time to rewild) landscapes and learn to coexist with nature ? \nCurious Crow invites you for an insightful discussion with senior architects Sunela Jayewardene and Chitra Vishwanath\, in conversation with Jenny Pinto. They will discuss sustainable living spaces\, rewilding urban habitats\, and designing for ecosystem restoration and human well-being. \nThe event will take place at The Purple Turtles\, Indiranagar at 5 PM and will also be streamed live on their YouTube channel. \nRegistration Link
+URL:https://www.bengalurusustainabilityforum.org/event/wild-by-design/
+LOCATION:The Purple Turtles\, Indiranagar\, Bengaluru\, India
+CATEGORIES:Hybrid Event
+ATTACH;FMTTYPE=image/png:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/08/WILD-by-DesignEvent-Poster-Seher-Krishna-1.png
+ORGANIZER;CN="Oorjaa Design LLP":MAILTO:seher@oorjaa.in
 END:VEVENT
 END:VCALENDAR
