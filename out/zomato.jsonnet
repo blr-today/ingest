@@ -2803,7 +2803,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 192
+        "inventory": 158
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -2827,7 +2827,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 5
+        "inventory": 4
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -2884,7 +2884,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:32:03",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 73
       }
     ],
     "performers": [],
@@ -3759,6 +3759,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Skandagiri Sunrise / Night Trek Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Skandagiri Sunrise / Night Trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/4e4330c9374a2b31a99de9124253754a1722914517.png"
     ],
@@ -3798,6 +3800,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Bandajje waterfalls trek Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bandajje waterfalls trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/f5d59bf076289ec4a9ccefb4427a02d01722914833.png"
     ],
@@ -3837,6 +3841,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Kodachadri Trek & Jog falls Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Kodachadri Trek & Jog falls Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/cc2f5da208d35f0ef1f7cf6a53d798491722914918.png"
     ],
@@ -3876,6 +3882,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Ettina Bhuja Trek Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Ettina Bhuja Trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/888e8af4b5597e9c3897986dfdacaecb1722914987.png"
     ],
@@ -3915,6 +3923,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Tadiandamol trek Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tadiandamol trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/1ca32b1acd43a87dbf6627c5529da24d1722915083.png"
     ],
@@ -3954,6 +3964,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Dudhsagar Trek Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Dudhsagar Trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/f9b21205a3aa5c6e47ebf1f7afb63a9e1722915176.png"
     ],
@@ -3993,6 +4005,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Night camping, trek & activities @Ramanagar Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Night camping, trek & activities @Ramanagar Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/01eb6531c79d5a679a78e54707040a881722915273.png"
     ],
@@ -4032,6 +4046,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Chikmagalur Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Chikmagalur Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/8faa45de8a8868895063b3125b1db7e81722915997.png"
     ],
@@ -4071,6 +4087,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Coorg Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Coorg Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/ff7970ecf78b41a7b19b422139113b0a1722915458.png"
     ],
@@ -4110,6 +4128,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Wayanad Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Wayanad Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/eb8b37e778ed2f2a3a0ff05851fdecf91722915521.png"
     ],
@@ -4149,6 +4169,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Kodaikanal Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Kodaikanal Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/913e1ccb371fafedf21a005917ff14cb1722915591.png"
     ],
@@ -4188,6 +4210,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Munnar Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Munnar Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/3d85d76416323880101833b7f9b0642a1722915642.png"
     ],
@@ -4227,6 +4251,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Ooty-Connoor Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Ooty-Connoor Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/fe132565f0e703949dca82dabe576c211722915719.png"
     ],
@@ -4266,6 +4292,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Gokarna-Murudeshwar Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Gokarna-Murudeshwar Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/d2ec6884c441ed7d31b71f93722508591722915784.png"
     ],
@@ -4305,6 +4333,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Hampi Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Hampi Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/d8c2fe323b649e4bd8acb5032be670991722915841.png"
     ],
@@ -4344,6 +4374,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Pondicherry Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Pondicherry Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/0a01b2619f80131f20605207875a45871722915892.png"
     ],
@@ -4395,7 +4427,7 @@
         "currency": "INR",
         "validFrom": "2024-08-06 16:12:04",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 84
       },
       {
         "url": "https://www.zomato.com/events/alexander-alar-live-bengaluru-et47644/details",
@@ -4411,7 +4443,7 @@
         "currency": "INR",
         "validFrom": "2024-08-06 16:12:05",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       }
     ],
     "performers": [],
