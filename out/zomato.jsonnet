@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 454
+        "inventory": 448
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +57,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1103
+        "inventory": 1099
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -316,7 +316,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 237
+        "inventory": 231
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -332,7 +332,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 162
+        "inventory": 153
       }
     ],
     "performers": [],
@@ -373,7 +373,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 254
+        "inventory": 252
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -381,7 +381,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 276
+        "inventory": 268
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -389,7 +389,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 174
+        "inventory": 172
       }
     ],
     "performers": [],
@@ -435,7 +435,7 @@
     "url": "https://www.zomato.com/events/25-single-bengaluru-et46072"
   },
   {
-    "name": "Coast Life Festival 2024",
+    "name": "Coast Life Festival Goa",
     "description": "We are Coast Life \u2013 a music and arts festival. Our mission is to shine a spotlight on the incredible music and culture in our region (because let\u2019s be real, it\u2019s nice out here). The 3-day gathering is set against the lush backdrop of a stunning villa in Goa, perfectly timed to embrace the magical monsoon. Coast life is designed to capture the essence of Goa and celebrate music, art, and culture with diverse and immersive experiences.",
     "startDate": "2024-08-15T18:00:00+05:30",
     "endDate": "2024-08-17T04:00:00+05:30",
@@ -450,8 +450,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Coast Life Festival 2024 Music, Party and Best seller event Tickets Goa - Zomato",
-    "ogDesc": "Book online tickets for Coast Life Festival 2024 Goa on Zomato which is a Music, Party and Best seller event happening at House No: 1615, off Anjuna Panchayat Road, Amani Hotel Lane, Vagator",
+    "ogTitle": "Coast Life Festival Goa Music, Party and Best seller event Tickets Goa - Zomato",
+    "ogDesc": "Book online tickets for Coast Life Festival Goa Goa on Zomato which is a Music, Party and Best seller event happening at House No: 1615, off Anjuna Panchayat Road, Amani Hotel Lane, Vagator",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/a692592855f76320c9efa5e8220b3c431722423992.jpeg",
       "https://b.zmtcdn.com/data/zomaland/1ff761b1e7b8285d73d98f02dba7ca801722423849.jpeg",
@@ -491,7 +491,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 22
+        "inventory": 21
       },
       {
         "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
@@ -530,7 +530,7 @@
   },
   {
     "name": "Bryan Adams - So Happy It Hurts Tour 2024",
-    "description": "Get ready to experience the International rock legend's live concert as part of his 5 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the \u2018So Happy It Hurts\u2019 World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.",
+    "description": "Get ready to experience the International rock legend's live concert as part of his 6 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the \u2018So Happy It Hurts\u2019 World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.",
     "startDate": "2024-12-14T19:00:00+05:30",
     "endDate": "2024-12-14T22:00:00+05:30",
     "timezone": "+05:30",
@@ -547,7 +547,7 @@
     "ogTitle": "Bryan Adams - So Happy It Hurts Tour 2024 Trending and Best seller event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Bryan Adams - So Happy It Hurts Tour 2024 Bengaluru on Zomato which is a Trending and Best seller event happening at Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/67aece9c22231834fcb9f8eb9c6544dc1721985650.png",
+      "https://b.zmtcdn.com/data/zomaland/e9f02a4af6ca8458fc428fd483ab531b1723016685.jpeg",
       "https://b.zmtcdn.com/data/zomaland/0dd73a8c18ac2ca4f1ec1564470de6e21721838390.png",
       "https://b.zmtcdn.com/data/zomaland/fbeacb352da695c9f37ae286496d69661721838453.png",
       "https://b.zmtcdn.com/data/zomaland/685753a9c0d8d2b91e8d855eb2543a6f1721838475.png",
@@ -560,57 +560,57 @@
       "https://b.zmtcdn.com/data/zomaland/59c72d8e56850aa8c7bd71a1d78d77d61721839209.jpeg",
       "https://b.zmtcdn.com/data/zomaland/5ce52e330649ddc2a36fd58e45da96821721839209.jpeg",
       "https://b.zmtcdn.com/data/zomaland/5136a008fffbdbfdad9ca4edf5796d821721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/cbb51b07afe70ff7d192d3abae210c201721985893.png",
-      "https://b.zmtcdn.com/data/zomaland/370573976c851ab0520ca671a5defc8f1722938590.png"
+      "https://b.zmtcdn.com/data/zomaland/370573976c851ab0520ca671a5defc8f1722938590.png",
+      "https://b.zmtcdn.com/data/zomaland/d192faf5b3947191e054a7fd528bf5a11723016343.png"
     ],
     "tickets": [
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 2699,
+        "price": 5299,
         "currency": "INR",
-        "validFrom": "2024-08-04 14:00:00",
+        "validFrom": "2024-08-07 17:00:00",
         "availability": "INSTOCK",
-        "inventory": 568
+        "inventory": 401
+      },
+      {
+        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
+        "price": 9499,
+        "currency": "INR",
+        "validFrom": "2024-08-07 17:00:00",
+        "availability": "INSTOCK",
+        "inventory": 802
+      },
+      {
+        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
+        "price": 19999,
+        "currency": "INR",
+        "validFrom": "2024-08-07 18:00:00",
+        "availability": "INSTOCK",
+        "inventory": 37
+      },
+      {
+        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
+        "price": 2999,
+        "currency": "INR",
+        "validFrom": "2024-08-07 11:00:00",
+        "availability": "INSTOCK",
+        "inventory": 6
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
         "price": 3999,
         "currency": "INR",
-        "validFrom": "2024-08-05 11:00:00",
+        "validFrom": "2024-08-07 11:00:00",
         "availability": "INSTOCK",
-        "inventory": 972
+        "inventory": 75
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
         "price": 7499,
         "currency": "INR",
-        "validFrom": "2024-08-05 11:00:00",
+        "validFrom": "2024-08-07 11:00:00",
         "availability": "INSTOCK",
-        "inventory": 635
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 2399,
-        "currency": "INR",
-        "validFrom": "2024-08-04 14:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 3599,
-        "currency": "INR",
-        "validFrom": "2024-08-04 14:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 6749,
-        "currency": "INR",
-        "validFrom": "2024-08-04 14:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
+        "inventory": 157
       }
     ],
     "performers": [],
@@ -652,15 +652,15 @@
         "currency": "INR",
         "validFrom": "2024-07-27 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 77
+        "inventory": 69
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
         "price": 2499,
         "currency": "INR",
         "validFrom": "2024-07-27 15:00:00",
-        "availability": "INSTOCK",
-        "inventory": 6
+        "availability": "SELLING_FAST",
+        "inventory": 2
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
@@ -710,7 +710,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 966
+        "inventory": 961
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -1636,7 +1636,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 21:58:18",
         "availability": "INSTOCK",
-        "inventory": 191
+        "inventory": 180
       }
     ],
     "performers": [],
@@ -1668,7 +1668,7 @@
     "ogTitle": "Jubin Nautiyal Live In Pune Party, Music and Best seller event Tickets Pune - Zomato",
     "ogDesc": "Book online tickets for Jubin Nautiyal Live In Pune Pune on Zomato which is a Party, Music and Best seller event happening at Eva Garden, Mayfield, Grant Rd, opposite phoenix world school, Kharadi",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/ca6b905e14dcc2a85384e4749679aafd1722358372.png",
+      "https://b.zmtcdn.com/data/zomaland/f9dcfd28dd840e0b02cc3a77259c3e2b1723009543.jpeg",
       "https://b.zmtcdn.com/data/zomaland/ed652c18e01c04a6f7dd9a2e0124b42e1722395497.png",
       "https://b.zmtcdn.com/data/zomaland/ce3643a2be8f71028730d061650868ac1722395800.png",
       "https://b.zmtcdn.com/data/zomaland/fd8500baa1c85f7ea19ae27d5f042e0e1722504474.png",
@@ -1971,7 +1971,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:48",
         "availability": "INSTOCK",
-        "inventory": 74
+        "inventory": 71
       }
     ],
     "performers": [],
@@ -2053,7 +2053,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:49",
         "availability": "INSTOCK",
-        "inventory": 74
+        "inventory": 72
       }
     ],
     "performers": [],
@@ -2094,7 +2094,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:49",
         "availability": "INSTOCK",
-        "inventory": 74
+        "inventory": 71
       }
     ],
     "performers": [],
@@ -2135,7 +2135,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:49",
         "availability": "INSTOCK",
-        "inventory": 60
+        "inventory": 52
       }
     ],
     "performers": [],
@@ -2217,7 +2217,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:50",
         "availability": "INSTOCK",
-        "inventory": 60
+        "inventory": 43
       }
     ],
     "performers": [],
@@ -2340,7 +2340,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:51",
         "availability": "INSTOCK",
-        "inventory": 66
+        "inventory": 60
       }
     ],
     "performers": [],
@@ -3330,7 +3330,7 @@
         "currency": "INR",
         "validFrom": "2024-08-05 22:22:11",
         "availability": "INSTOCK",
-        "inventory": 18
+        "inventory": 14
       }
     ],
     "performers": [],
