@@ -4398,5 +4398,119 @@
       }
     ],
     "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et47657"
+  },
+  {
+    "name": "Satellite Beachside Pre Party",
+    "description": "Get ready to groove at the Satellite Beachside Pre Party! \u00f0\u0178\u0152\u00b4 Join us at the vibrant Seven Rivers Brewery Co. in Bangalore for an unforgettable night of electrifying beats and great vibes. On August 10th, enjoy a special performance by the talented DJ Varun and many more artists, who will be spinning the hottest tracks to keep you dancing all night long.\n\nSet by the poolside, this event offers the perfect ambiance to unwind and enjoy a refreshing selection of craft beers and delicious food. Feel the cool breeze and soak in the relaxed, beachy atmosphere. Whether you're a party enthusiast or just looking to chill with friends, this event promises an evening of fun and excitement.",
+    "startDate": "2024-08-10T20:00:00+05:30",
+    "endDate": "2024-08-11T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Satellite Beachside Pre Party Party and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Satellite Beachside Pre Party Bengaluru on Zomato which is a Party and Music event happening at 7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/995145a665d4c812400f175dec5599601723106819.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/satellite-beachside-pre-party-bengaluru-et47945/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-08 14:23:00",
+        "availability": "INSTOCK",
+        "inventory": 199
+      },
+      {
+        "url": "https://www.zomato.com/events/satellite-beachside-pre-party-bengaluru-et47945/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-08 14:23:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/satellite-beachside-pre-party-bengaluru-et47945/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-08 14:23:01",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/satellite-beachside-pre-party-bengaluru-et47945"
+  },
+  {
+    "name": "CrossOver Presents: Stone Van Brooken",
+    "description": "Stone Van Brooken, a master of the techno scene, will deliver a dynamic set that promises to keep you dancing all night. Known for his unique blend of deep rhythms and high-energy beats, his performance is a must-see for any electronic music lover.\nDance under the stars on Kitty Ko's stunning open-air terrace, offering breathtaking views and an immersive experience like no other.\nEnjoy much more than just the music\u2014experience the vibrant atmosphere, top-notch sound system, and the unparalleled energy of a crossOver event.\nDon't miss your chance to be part of this extraordinary night. Guestlist are Selling fast, so hurry and secure yours now for a night filled with incredible music, dancing, and unforgettable memories.",
+    "startDate": "2024-08-11T20:00:00+05:30",
+    "endDate": "2024-08-12T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Kumara Park East, Seshadripuram",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "CrossOver Presents: Stone Van Brooken Music and Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for CrossOver Presents: Stone Van Brooken Bengaluru on Zomato which is a Music and Party event happening at Kumara Park East, Seshadripuram",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/5e8f161535ec7b7cd43571d9fe3d75c01723106939.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/crossover-presents-stone-van-brooken-bengaluru-et47946/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-08 14:23:01",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/crossover-presents-stone-van-brooken-bengaluru-et47946/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-08 14:23:01",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/crossover-presents-stone-van-brooken-bengaluru-et47946/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-08 14:23:02",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/crossover-presents-stone-van-brooken-bengaluru-et47946"
   }
 ]
