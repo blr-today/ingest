@@ -1903,47 +1903,6 @@
     "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
   },
   {
-    "name": "Tribute to Green Day",
-    "description": "Catch The Blue Jay Experience performing live at Hard Rock Cafe, Bengaluru.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-08-08T20:30:00+05:30",
-    "endDate": "2024-08-08T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Green Day Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Green Day Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b9dba404f3d5204d74b44a79520ac8ca1722443271.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-green-day-bengaluru-et47087/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-07-31 22:28:48",
-        "availability": "INSTOCK",
-        "inventory": 73
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-green-day-bengaluru-et47087"
-  },
-  {
     "name": "Boogie Nights",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ PRASHU and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-08-09T20:30:00+05:30",
@@ -2762,7 +2721,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 158
+        "inventory": 137
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -2770,7 +2729,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 49
+        "inventory": 44
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -2816,47 +2775,6 @@
     "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115"
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-08-08T21:00:00+05:30",
-    "endDate": "2024-08-08T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b1c741f89870576ade0c40cff6e7f9ab1722499290.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47159/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-01 15:32:03",
-        "availability": "INSTOCK",
-        "inventory": 73
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47159"
-  },
-  {
     "name": "Blockbuster Friday",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8 p.m., Hard Rock Cafe Whitefield Bengaluru is happy to host DJ Chirag and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-08-09T20:00:00+05:30",
@@ -2884,7 +2802,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:32:03",
         "availability": "INSTOCK",
-        "inventory": 69
+        "inventory": 68
       }
     ],
     "performers": [],
@@ -3048,7 +2966,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:32:05",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 73
       }
     ],
     "performers": [],
@@ -3257,7 +3175,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 74
+        "inventory": 71
       },
       {
         "url": "https://www.zomato.com/events/dynamite-disco-club-bengaluru-et47200/details",
@@ -3265,7 +3183,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 71
+        "inventory": 69
       }
     ],
     "performers": [],
@@ -4321,7 +4239,7 @@
         "currency": "INR",
         "validFrom": "2024-08-06 16:12:04",
         "availability": "INSTOCK",
-        "inventory": 84
+        "inventory": 73
       },
       {
         "url": "https://www.zomato.com/events/alexander-alar-live-bengaluru-et47644/details",
@@ -4386,7 +4304,7 @@
         "currency": "INR",
         "validFrom": "2024-08-06 17:42:38",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 19
       }
     ],
     "performers": [],
