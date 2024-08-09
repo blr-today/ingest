@@ -925,8 +925,8 @@
   {
     "name": "Skandagiri Sunrise / Night Trek",
     "description": "Skandagiri, also known as Kalwarbetta or Kalavara Durga, is a mountain fortress 70 km from Bangalore. This 8 km, 4-hour trek offers a moderately difficult climb starting at Papagni Temple, leading through dense shrubs and steep terrain. At the summit, explore Tipu Sultan\u2019s ruins and enjoy a stunning sunrise above the clouds.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n\u2022 Raincoat/Poncho (during monsoon)\r\n\u2022 ID proof\r\n\u2022 Backpack\r\n\u2022 Sunscreen/cap\r\n\u2022 Track pants\r\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n\u2022 Torch (with extra batteries)\r\n\u2022 Personal Medication\r\n\u2022 Necessary toiletries\r\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-09T21:00:00+05:30",
-    "endDate": "2024-08-11T21:00:00+05:30",
+    "startDate": "2024-08-09 21:00:00",
+    "endDate": "2024-08-11 21:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -966,8 +966,8 @@
   {
     "name": "Bandajje waterfalls trek",
     "description": "Situated in the Charmadi Ghats area of the western ghats, this offbeat trail to Bandaje waterfalls is one of the must-do treks when in Bangalore. The journey takes you through magnificent meadows, river streams, and lush green forests, all of which are a delight to behold. Embark on this exciting trek and see the beauty for yourself.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n\u2022 Raincoat/Poncho (during monsoon)\r\n\u2022 ID proof\r\n\u2022 Backpack\r\n\u2022 Sunscreen/cap\r\n\u2022 Track pants\r\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n\u2022 Torch (with extra batteries)\r\n\u2022 Personal Medication\r\n\u2022 Necessary toiletries\r\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-09T21:00:00+05:30",
-    "endDate": "2024-08-11T21:00:00+05:30",
+    "startDate": "2024-08-09 21:00:00",
+    "endDate": "2024-08-11 21:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1007,8 +1007,8 @@
   {
     "name": "Kodachadri Trek & Jog falls",
     "description": "Experience the breathtaking panoramic views of the Kodachadri Hills in Valur, Karnataka. Located at an altitude of 1343 meters, these hills are surrounded by dense forest and attract thousands of visitors annually. Challenge yourself on a 2-day trek from Bangalore, navigating tricky terrains to reach the summit and admire the vast Western Ghats. Explore the natural wonders of Kodachadri, including Hidlumane Waterfalls, Nagara Fort, and Jog Falls.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n\u2022 Raincoat/Poncho (during monsoon)\r\n\u2022 ID proof\r\n\u2022 Backpack\r\n\u2022 Sunscreen/cap\r\n\u2022 Track pants\r\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n\u2022 Torch (with extra batteries)\r\n\u2022 Personal Medication\r\n\u2022 Necessary toiletries\r\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-09T21:00:00+05:30",
-    "endDate": "2024-08-11T21:00:00+05:30",
+    "startDate": "2024-08-09 21:00:00",
+    "endDate": "2024-08-11 21:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1048,8 +1048,8 @@
   {
     "name": "Ettina Bhuja Trek",
     "description": "Ettina Bhuja, meaning Ox's Shoulder in Kannada, is near Dharmasthala, in Byrapura village, Mudigere range, Chikmagalur district. Located about 250km from Bangalore, it's an ideal weekend getaway.\r\nThough not well-known among trekkers, Ettina Bhuja offers scenic landscapes at 1300m altitude with grasslands, forests, bamboo, and cane plantations. The trek features the soothing sounds of nature.\r\nAt the top, which resembles an ox's hump, enjoy panoramic views of dense green forests.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n\u2022 Raincoat/Poncho (during monsoon)\r\n\u2022 ID proof\r\n\u2022 Backpack\r\n\u2022 Sunscreen/cap\r\n\u2022 Track pants\r\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n\u2022 Torch (with extra batteries)\r\n\u2022 Personal Medication\r\n\u2022 Necessary toiletries\r\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-09T21:00:00+05:30",
-    "endDate": "2024-08-11T21:00:00+05:30",
+    "startDate": "2024-08-09 21:00:00",
+    "endDate": "2024-08-11 21:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1089,8 +1089,8 @@
   {
     "name": "Tadiandamol trek",
     "description": "Coorg in South Karnataka refreshes minds with its lush greenery and stunning Western Ghats views. Its replenishing nature, tricky terrains, wooded slopes, and misty valleys attract many travelers and trekkers. Tadiandamol, Coorg's highest peak at 1,748m, is surrounded by the Shola forests' stunning greenery. Enjoy exploring Coorg's captivating landscape, and feel the pride of conquering its highest peak, rewarded with sweeping views of green forests and coffee plantations.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n\u2022 Raincoat/Poncho (during monsoon)\r\n\u2022 ID proof\r\n\u2022 Backpack\r\n\u2022 Sunscreen/cap\r\n\u2022 Track pants\r\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n\u2022 Torch (with extra batteries)\r\n\u2022 Personal Medication\r\n\u2022 Necessary toiletries\r\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-09T21:00:00+05:30",
-    "endDate": "2024-08-11T21:00:00+05:30",
+    "startDate": "2024-08-09 21:00:00",
+    "endDate": "2024-08-11 21:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1130,8 +1130,8 @@
   {
     "name": "Dudhsagar Trek",
     "description": "Head out on an adventurous trek to Dudhsagar Falls, located on Goa's eastern border. Known as the \u2018Sea of Milk,\u2019 this four-tiered waterfall on the Mandovi River is one of India's tallest, standing at 310m (1017 feet) with an average width of 30m (100 feet).\r\n\r\nThe falls are nestled in the Bhagwan Mahaveer Sanctuary and Mollem National Park within the Western Ghats, marking the border between Karnataka and Goa. Surrounded by thick deciduous forests, the area boasts rich biodiversity, perfect for a two-day trek.\r\n\r\nTotal trek distance: 22 km, moderate difficulty.\r\n\r\nThings to carry:\r\n\u2022 Raincoat/Poncho (monsoon)\r\n\u2022 ID proof\r\n\u2022 Backpack\r\n\u2022 Sunscreen/Cap\r\n\u2022 Track pants\r\n\u2022 Full sleeve cotton T-shirt\r\n\u2022 Torch (with extra batteries)\r\n\u2022 Personal medication\r\n\u2022 Necessary toiletries\r\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-09T21:00:00+05:30",
-    "endDate": "2024-08-11T21:00:00+05:30",
+    "startDate": "2024-08-09 21:00:00",
+    "endDate": "2024-08-11 21:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1171,8 +1171,8 @@
   {
     "name": "Night camping, trek & activities @Ramanagar",
     "description": "Ramanagara, 50 km southwest of Bangalore, stands at 747 meters (2450 feet) and is famous for its massive granite outcrops. Known for short rock climbs, grades range from 5.8 to 5.11 American. It features some of the world's oldest granite outcrops, including Ramdevarabetta, famous for its cave entrances in \"Passage to India.\" The trek distance is 4 km, with a moderate difficulty level.\r\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\r\nThings to Carry:\r\n\u2022 Raincoat/Poncho (during monsoon)\r\n\u2022 ID proof\r\n\u2022 Backpack\r\n\u2022 Sunscreen/cap\r\n\u2022 Track pants\r\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\r\n\u2022 Torch (with extra batteries)\r\n\u2022 Personal Medication\r\n\u2022 Necessary toiletries\r\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-09T21:00:00+05:30",
-    "endDate": "2024-08-11T21:00:00+05:30",
+    "startDate": "2024-08-09 21:00:00",
+    "endDate": "2024-08-11 21:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1212,8 +1212,8 @@
   {
     "name": "Chikmagalur Weekend Getaway",
     "description": "This paradise of misty hills and lush green tea and coffee plantations is a sweet escape from the noisy city life, resting peacefully at a height of 3,400 ft. Get ready to immerse yourself in the arms of nature! \r\nWhether you\u2019re a thrill-seeker or a nature lover, Chikmagalur\u2019s got you covered. Hike through the rugged terrain, or take a dip in one of the many cascading waterfalls, there\u2019s so much to explore",
-    "startDate": "2024-08-09T21:30:00+05:30",
-    "endDate": "2024-08-11T23:00:00+05:30",
+    "startDate": "2024-08-09 21:30:00",
+    "endDate": "2024-08-11 23:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1253,8 +1253,8 @@
   {
     "name": "Coorg Weekend Getaway",
     "description": "Time to put on your adventure hat and escape to a place where relaxation and thrill collide in the most tantalizing way possible! Imagine waking up to the aroma of freshly ground coffee beans surrounded by lush greenery worthy of a postcard.\r\n\r\nGet ready to explore winding trails and stunning waterfalls, trading city life for an unforgettable adventure that will stay with you forever. Coorg's calling, are you ready",
-    "startDate": "2024-08-09T21:30:00+05:30",
-    "endDate": "2024-08-11T23:00:00+05:30",
+    "startDate": "2024-08-09 21:30:00",
+    "endDate": "2024-08-11 23:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1294,8 +1294,8 @@
   {
     "name": "Wayanad Weekend Getaway",
     "description": "The lush-green town of Wayanad in Kerala is hidden in the Malabar region on the Western Ghats. Sparsely populated, the forest-covered region abounds in picturesque hills meandered with streams, tea estates, and wildlife sanctuaries. Referred to as the \u2018Spice Garden of India\u2019, Wayanad is a hub of spices such as cardamom, star anise, fenugreek, black pepper, black cumin, etc. Adding to its treasures are Asia\u2019s second largest and India\u2019s largest damn, the Banasura Sagar Dam, the Edakkal Caves from the Neolithic Age to trek to. Witness a majestic sunset at the backdrop of the dam, go hiking, mountaineering, camping, or rock climbing, you\u2019d never run out of fun activities at Wayanad.",
-    "startDate": "2024-08-09T21:30:00+05:30",
-    "endDate": "2024-08-12T03:00:00+05:30",
+    "startDate": "2024-08-09 21:30:00",
+    "endDate": "2024-08-12 03:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1335,8 +1335,8 @@
   {
     "name": "Kodaikanal Weekend Getaway",
     "description": "Kodaikanal, also known as the Princess of Hills in Tamil Nadu, is one of the most popular tourist destinations in South India. Often considered for a romantic weekend retreat, the quaint little town is blessed with a perfect temperature at any given season. If you are seeking time alone in the lap of nature with your loved ones, Kodai is the place to go. Adorned with cascading waterfalls, shimmering lakes, and undulating green hills, the town will leave you awestruck with its natural beauty.",
-    "startDate": "2024-08-09T20:30:00+05:30",
-    "endDate": "2024-08-12T05:00:00+05:30",
+    "startDate": "2024-08-09 20:30:00",
+    "endDate": "2024-08-12 05:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1376,8 +1376,8 @@
   {
     "name": "Munnar Weekend Getaway",
     "description": "Munnar is a popular hill station located in the state of Kerala, India. It is known for its breathtaking landscapes, tea gardens, spice plantations, and cool climate, making it a favored destination for nature lovers and adventure enthusiasts. It is also known for its stunning landscapes, tea plantations, and pleasant weather. Munnar, with its scenic beauty, tea gardens, and tranquil ambiance, providing a perfect getaway to experience the charm of Kerala's hill stations",
-    "startDate": "2024-08-09T20:30:00+05:30",
-    "endDate": "2024-08-12T05:00:00+05:30",
+    "startDate": "2024-08-09 20:30:00",
+    "endDate": "2024-08-12 05:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1417,8 +1417,8 @@
   {
     "name": "Ooty-Connoor Weekend Getaway",
     "description": "Ooty and Coonoor are charming hill stations nestled in the Nilgiri Hills of Tamil Nadu, India. Here's a brief overview of each:\r\n\r\nAlso known as the \"Queen of Hill Stations,\" Ooty is one of the most popular tourist destinations in South India.\r\nIt boasts pleasant weather throughout the year, with cool temperatures making it a perfect retreat from the heat of the plains. Ooty is famous for its sprawling tea gardens, lush green landscapes, and picturesque viewpoints like Doddabetta Peak, offering panoramic views of the surrounding hills.",
-    "startDate": "2024-08-09T20:30:00+05:30",
-    "endDate": "2024-08-12T05:00:00+05:30",
+    "startDate": "2024-08-09 20:30:00",
+    "endDate": "2024-08-12 05:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1458,8 +1458,8 @@
   {
     "name": "Gokarna-Murudeshwar Weekend Getaway",
     "description": "What do you visualize if we ask you about a weekend on a beach? We would not be surprised if you say Goa. And that\u2019s precisely why we need an alternative to Goa, one which is away from the humdrum of life, one which brings peace and serenity for the weekend.\r\n\r\nThis is precisely what Gokarna offers. If you are looking for a place for an escapade, to take a break after the week-long 9-5 office hours, and are tired of glancing at pictures of breath-taking beaches on your monitor, go ahead and pack your bags already.",
-    "startDate": "2024-08-09T20:30:00+05:30",
-    "endDate": "2024-08-12T05:00:00+05:30",
+    "startDate": "2024-08-09 20:30:00",
+    "endDate": "2024-08-12 05:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1499,8 +1499,8 @@
   {
     "name": "Hampi Weekend Getaway",
     "description": "Exploring the Ancient Beauty of Hampi in Karnataka Hampi, located in Karnataka, is a site of great historical significance. Once the capital city of the Vijayanagara Empire, it is now a UNESCO World Heritage Site with over 500 ruins and monuments. Many consider Hampi to be the second largest city of its time, following only Beijing. Situated on the banks of the Tungabhadra River, Hampi boasts ancient India's grandeur with its intricate architecture, brilliant engineering, and breathtaking scenery. The most significant structure is the Virupaksha Temple, which is dedicated to the empire's patron deity. But don't be fooled into thinking that Hampi is only about history! The town blends history and modernity, with aesthetic cafes, cultural performances, and a variety of cuisines from around the world in the nearby Hippie Town.",
-    "startDate": "2024-08-09T21:30:00+05:30",
-    "endDate": "2024-08-12T05:00:00+05:30",
+    "startDate": "2024-08-09 21:30:00",
+    "endDate": "2024-08-12 05:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1540,8 +1540,8 @@
   {
     "name": "Pondicherry Weekend Getaway",
     "description": "Pondicherry, often referred to as Puducherry is a charming coastal town on the southeastern coast of India. Steeped in a unique blend of French and Indian influences, this Union Territory exudes a laid-back and multicultural vibe. The French Quarter, with its cobblestone streets and colonial architecture, transports you to a different era, while the bustling markets and vibrant Tamil culture showcase the town's diverse identity. With its serene beaches, like Promenade Beach and Paradise Beach, and the iconic Aurobindo Ashram, Pondicherry offers a perfect mix of relaxation and spiritual exploration. The delectable French-inspired cuisine and the colorful streets of the Auroville community further add to the town's distinctive allure. Pondicherry is a haven for those seeking a peaceful escape with a touch of cultural richness",
-    "startDate": "2024-08-09T21:30:00+05:30",
-    "endDate": "2024-08-12T05:00:00+05:30",
+    "startDate": "2024-08-09 21:30:00",
+    "endDate": "2024-08-12 05:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1887,47 +1887,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
-  },
-  {
-    "name": "Boogie Nights",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ PRASHU and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-08-09T20:30:00+05:30",
-    "endDate": "2024-08-09T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Boogie Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Boogie Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/94ba445fadd28ffa8f47f14d305b0b451722443367.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/boogie-nights-bengaluru-et47088/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-31 22:28:48",
-        "availability": "INSTOCK",
-        "inventory": 64
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/boogie-nights-bengaluru-et47088"
   },
   {
     "name": "Tribute to Iron Maiden",
@@ -2759,47 +2718,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115"
-  },
-  {
-    "name": "Blockbuster Friday",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8 p.m., Hard Rock Cafe Whitefield Bengaluru is happy to host DJ Chirag and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-08-09T20:00:00+05:30",
-    "endDate": "2024-08-09T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Blockbuster Friday Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Blockbuster Friday Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/cd6b1bab5b34784e1c74b9709b350c191722499372.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47160/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-01 15:32:03",
-        "availability": "INSTOCK",
-        "inventory": 68
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47160"
   },
   {
     "name": "Tribute to Amit Trivedi",
@@ -4200,8 +4118,8 @@
   {
     "name": "Alexander Alar Live",
     "description": "Get ready for an evening of unparalleled musical brilliance as Alexander Alar, the world-renowned DJ and producer, takes the stage at ZOZO on August 9th. This is not just a performance\u2014it\u2019s an extraordinary night where music and artistry collide to create an unforgettable experience\n\nAlexander Alar is celebrated for his electrifying sets that push the boundaries of music. His unique ability to blend genres seamlessly will ensure a night filled with high-energy beats and mesmerizing rhythms that will keep you dancing from start to finish. ZOZO, known for its luxurious ambiance and cutting-edge design, provides the perfect backdrop for this high-octane event. Immerse yourself in a vibrant and upscale environment where every detail\u2014from the stunning visuals to the state-of-the-art sound system\u2014is designed to enhance your experience.",
-    "startDate": "2024-08-09T20:00:00+05:30",
-    "endDate": "2024-08-10T01:00:00+05:30",
+    "startDate": "2024-08-09 20:00:00",
+    "endDate": "2024-08-10 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -4331,7 +4249,7 @@
         "currency": "INR",
         "validFrom": "2024-08-08 14:23:00",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 192
       },
       {
         "url": "https://www.zomato.com/events/satellite-beachside-pre-party-bengaluru-et47945/details",
@@ -4339,7 +4257,7 @@
         "currency": "INR",
         "validFrom": "2024-08-08 14:23:00",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 195
       },
       {
         "url": "https://www.zomato.com/events/satellite-beachside-pre-party-bengaluru-et47945/details",
@@ -4347,7 +4265,7 @@
         "currency": "INR",
         "validFrom": "2024-08-08 14:23:01",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 188
       }
     ],
     "performers": [],
@@ -4388,7 +4306,7 @@
         "currency": "INR",
         "validFrom": "2024-08-08 14:23:01",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 196
       },
       {
         "url": "https://www.zomato.com/events/crossover-presents-stone-van-brooken-bengaluru-et47946/details",
@@ -4396,7 +4314,7 @@
         "currency": "INR",
         "validFrom": "2024-08-08 14:23:01",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 196
       },
       {
         "url": "https://www.zomato.com/events/crossover-presents-stone-van-brooken-bengaluru-et47946/details",
@@ -4404,7 +4322,7 @@
         "currency": "INR",
         "validFrom": "2024-08-08 14:23:02",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 195
       }
     ],
     "performers": [],
@@ -4416,5 +4334,390 @@
       }
     ],
     "url": "https://www.zomato.com/events/crossover-presents-stone-van-brooken-bengaluru-et47946"
+  },
+  {
+    "name": "Blind Date - A Sensory Experience",
+    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
+    "startDate": "2024-08-10T16:00:00+05:30",
+    "endDate": "2024-08-10T17:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1723186889.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48008/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:33",
+        "availability": "INSTOCK",
+        "inventory": 15
+      },
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48008/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:33",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48008"
+  },
+  {
+    "name": "Blind Date - A Sensory Experience",
+    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
+    "startDate": "2024-08-11T16:00:00+05:30",
+    "endDate": "2024-08-11T17:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1723186889.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48009/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:34",
+        "availability": "INSTOCK",
+        "inventory": 15
+      },
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48009/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:34",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48009"
+  },
+  {
+    "name": "Blind Date - A Sensory Experience",
+    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
+    "startDate": "2024-08-17T16:00:00+05:30",
+    "endDate": "2024-08-17T17:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1723186889.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48010/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:34",
+        "availability": "INSTOCK",
+        "inventory": 15
+      },
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48010/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:35",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48010"
+  },
+  {
+    "name": "Blind Date - A Sensory Experience",
+    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
+    "startDate": "2024-08-18T16:00:00+05:30",
+    "endDate": "2024-08-18T17:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1723186889.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48011/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:35",
+        "availability": "INSTOCK",
+        "inventory": 15
+      },
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48011/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:36",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48011"
+  },
+  {
+    "name": "Chai Pe Charcha",
+    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
+    "startDate": "2024-08-25T15:00:00+05:30",
+    "endDate": "2024-08-25T16:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711723188827.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48030/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:42",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48030"
+  },
+  {
+    "name": "Chai Pe Charcha",
+    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
+    "startDate": "2024-08-17T15:00:00+05:30",
+    "endDate": "2024-08-17T16:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711723188827.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48031/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:42",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48031"
+  },
+  {
+    "name": "Chai Pe Charcha",
+    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
+    "startDate": "2024-08-24T15:00:00+05:30",
+    "endDate": "2024-08-24T16:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711723188827.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48032/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:43",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48032"
+  },
+  {
+    "name": "Chai Pe Charcha",
+    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
+    "startDate": "2024-08-19T19:00:00+05:30",
+    "endDate": "2024-08-19T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711723188827.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48033/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:50",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48033"
+  },
+  {
+    "name": "We Jam",
+    "description": "We Jam is the ultimate haven for music lovers!\n\nCome enjoy a relaxing and fun evening with us. A space where you can be yourself and feel at home.\nJoin our welcoming community for a lively jamming session; bring your guitars, cajones, and most importantly yourself to jam along. \n\nThe event features three parts:\n\nOpen Mic: Perform for a warm and supportive audience, no matter where you are on your musical journey. Reach out to @wejam.blr on Instagram to book your slot.\nSocial Mixer: Connect with fellow music lovers and jam along to your favourite songs. Be a part of fun and exciting music based games and get a chance to win exciting goodies. \nJamming Session: Sing, play instruments, and join the community in a warm cozy, free-flowing musical experience. Together, we create music and memories.",
+    "startDate": "2024-08-17T16:30:00+05:30",
+    "endDate": "2024-08-17T20:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "413, 100 Feet Rd, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "We Jam Experiences and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for We Jam Bengaluru on Zomato which is a Experiences and Music event happening at 413, 100 Feet Rd, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f28394fdcf1e4a99b08f9c68ad1f17901723198106.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/we-jam-bengaluru-et48066/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-08-09 15:00:00",
+        "availability": "INSTOCK",
+        "inventory": 236
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/we-jam-bengaluru-et48066"
   }
 ]

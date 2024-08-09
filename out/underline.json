@@ -2,6 +2,41 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2024-08-11T11:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Dungeons & Dragons and other TTRPGs with ReRoll Board Games",
+      "sameAs": "https://underline.center/t/111",
+      "startDate": "2024-08-11T06:30:00.000Z",
+      "url": "https://forum.reroll.in/t/dungeons-dragons-and-other-ttrpgs-sunday-11-august-underline-center-indiranagar/2157"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -139,6 +174,41 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2024-08-18T17:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Sunday Game Night",
+      "sameAs": "https://underline.center/t/115",
+      "startDate": "2024-08-18T12:30:00.000Z",
+      "url": "https://insider.in/sunday-game-night-with-reroll-board-games/event"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "ScreeningEvent",
       "endDate": "2024-08-20T17:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -174,6 +244,76 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2024-08-21T15:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Whimsical Wednesdays with Improv Lore",
+      "sameAs": "https://underline.center/t/19",
+      "startDate": "2024-08-21T14:30:00.000Z",
+      "url": "https://insider.in/whimsical-wednesdays-with-improv-lore/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2024-08-22T11:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Breaking the Backlog 002",
+      "sameAs": "https://underline.center/t/113",
+      "startDate": "2024-08-22T04:30:00.000Z",
+      "url": "https://insider.in/breaking-the-backlog-at-underline-center/event"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "ScreeningEvent",
       "endDate": "2024-08-27T17:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -206,5 +346,40 @@
       "sameAs": "https://underline.center/t/108",
       "startDate": "2024-08-27T14:15:00.000Z",
       "url": "https://insider.in/landscape-in-the-mist-1988-with-the-parallel-cinema-club-aug27-2024/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2024-08-29T11:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Breaking The Backlog 003",
+      "sameAs": "https://underline.center/t/114",
+      "startDate": "2024-08-29T04:30:00.000Z",
+      "url": "https://insider.in/breaking-the-backlog-at-underline-center/event"
    }
 ]
