@@ -1,7 +1,7 @@
 [
   {
     "name": "DGTL Bengaluru 2024",
-    "description": "DGTL India 2023 saw over 15,000 attendees across 3 days enjoying world-class techno and electronic music, stunning lighting and stage designs, conceptual showcases, and vital sustainability initiatives, resulting in an immersive, audio-visual experience.\r\nBook your tickets now to secure your spot for this year!\r\nDGTL is a global electronic music festival with editions in Amsterdam, Santiago (Chile), S\u00e3o Paulo (Brazil), Bengaluru & Mumbai, and during the Amsterdam Dance Event. Besides its focus on music, DGTL features unique art installations and exciting sustainability projects. Its sustainability program sets it apart in the festival landscape.\r\nImportant Note: No entry without a wristband. If you lose, damage, remove, or tamper with your tickets/wristbands, no replacements will be issued, and entry will not be allowed.",
+    "description": "DGTL India 2023 saw over 15,000 attendees across 3 days enjoying world-class techno and electronic music, stunning lighting and stage designs, conceptual showcases, and vital sustainability initiatives, resulting in an immersive, audio-visual experience.\nBook your tickets now to secure your spot for this year!\nDGTL is a global electronic music festival with editions in Amsterdam, Santiago (Chile), S\u00e3o Paulo (Brazil), Bengaluru & Mumbai, and during the Amsterdam Dance Event. Besides its focus on music, DGTL features unique art installations and exciting sustainability projects. Its sustainability program sets it apart in the festival landscape.\nImportant Note: No entry without a wristband. If you lose, damage, remove, or tamper with your tickets/wristbands, no replacements will be issued, and entry will not be allowed.",
     "startDate": "2024-11-09T14:00:00+05:30",
     "endDate": "2024-11-10T22:00:00+05:30",
     "timezone": "+05:30",
@@ -18,7 +18,7 @@
     "ogTitle": "DGTL Bengaluru 2024 Best seller and Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for DGTL Bengaluru 2024 Bengaluru on Zomato which is a Best seller and Music event happening at 1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/9e1a7e29f079e1fb1a37301f998d54b61717603629.png",
+      "https://b.zmtcdn.com/data/zomaland/23c1a3829bafb9ce6f022976afc2c0be1723116257.png",
       "https://b.zmtcdn.com/data/zomaland/d30126e67780755576191e95fde702cf1717604395.png",
       "https://b.zmtcdn.com/data/zomaland/0006ca977b8fab173cc86df8f0e5c4c21717670593.png",
       "https://b.zmtcdn.com/data/zomaland/94a404ef97a59a5630011401b479ef0a1718035456.jpeg",
@@ -37,35 +37,19 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
-        "price": 3650,
+        "price": 2832,
         "currency": "INR",
-        "validFrom": "2024-06-12 13:00:00",
+        "validFrom": "2024-08-08 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 485
+        "inventory": 204
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
-        "price": 3900,
+        "price": 4721,
         "currency": "INR",
-        "validFrom": "2024-07-29 22:00:00",
+        "validFrom": "2024-08-08 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 448
-      },
-      {
-        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
-        "price": 5850,
-        "currency": "INR",
-        "validFrom": "2024-06-12 13:00:00",
-        "availability": "INSTOCK",
-        "inventory": 1099
-      },
-      {
-        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
-        "price": 3650,
-        "currency": "INR",
-        "validFrom": "2024-06-12 13:00:00",
-        "availability": "INSTOCK",
-        "inventory": 168
+        "inventory": 239
       }
     ],
     "performers": [],
@@ -213,12 +197,14 @@
       "https://b.zmtcdn.com/data/zomaland/7f23584e8f87474bd07ce30627ff5ca01720807421.png",
       "https://b.zmtcdn.com/data/zomaland/26d40a0cc36fcb396a5528187f5fce2a1720807433.png",
       "https://b.zmtcdn.com/data/zomaland/58f0f83a490ddf148cbe71d3d5586d181720860715.png",
-      "https://b.zmtcdn.com/data/zomaland/7a1abf5e521f6928f59899f0f489a90a1720814656.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/a8728dbcf4c5790a53ffec0dd281adf31720814656.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/3902e7dd4e996c6288737e9d9ed4cb611720814656.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/c07f39a71ee209a47ca4852c74f760611720814656.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/e582ec2bb7d97a158f751ce257ed87871720814656.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/cf7069ad898cace059be41fd68b145a21720814656.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/cecf8674117119b02a35f4802cbea7151723140224.png",
+      "https://b.zmtcdn.com/data/zomaland/26389bdde6d0b0a5ae9b6145371d50761723140294.png",
+      "https://b.zmtcdn.com/data/zomaland/39c543ce42858c93482ea4cd8d6262431723140295.png",
+      "https://b.zmtcdn.com/data/zomaland/dbffe0e9c3e1cc78438b759caa1c49591723140295.png",
+      "https://b.zmtcdn.com/data/zomaland/6283599632e3e2805a48f20fd3bf361b1723140295.png",
+      "https://b.zmtcdn.com/data/zomaland/99af0d40969ad28128ae6029fcd5342a1723140304.png",
+      "https://b.zmtcdn.com/data/zomaland/e582ec2bb7d97a158f751ce257ed87871723140306.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/8339334f2be0312c78cb35976acdf8a91723140323.jpeg"
     ],
     "tickets": [],
     "performers": [],
@@ -267,7 +253,7 @@
         "currency": "INR",
         "validFrom": "2024-08-03 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 47
+        "inventory": 46
       },
       {
         "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658/details",
@@ -316,7 +302,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 231
+        "inventory": 228
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -324,7 +310,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 254
+        "inventory": 241
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -332,7 +318,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 153
+        "inventory": 149
       }
     ],
     "performers": [],
@@ -381,7 +367,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 268
+        "inventory": 258
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -389,7 +375,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 172
+        "inventory": 170
       }
     ],
     "performers": [],
@@ -560,8 +546,8 @@
       "https://b.zmtcdn.com/data/zomaland/59c72d8e56850aa8c7bd71a1d78d77d61721839209.jpeg",
       "https://b.zmtcdn.com/data/zomaland/5ce52e330649ddc2a36fd58e45da96821721839209.jpeg",
       "https://b.zmtcdn.com/data/zomaland/5136a008fffbdbfdad9ca4edf5796d821721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/370573976c851ab0520ca671a5defc8f1722938590.png",
-      "https://b.zmtcdn.com/data/zomaland/d192faf5b3947191e054a7fd528bf5a11723016343.png"
+      "https://b.zmtcdn.com/data/zomaland/d192faf5b3947191e054a7fd528bf5a11723016343.png",
+      "https://b.zmtcdn.com/data/zomaland/95c93afcd32bd45cd7e0044d11097e271723093462.png"
     ],
     "tickets": [
       {
@@ -569,8 +555,8 @@
         "price": 5299,
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
-        "availability": "INSTOCK",
-        "inventory": 401
+        "availability": "SELLING_FAST",
+        "inventory": 469
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -578,15 +564,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "INSTOCK",
-        "inventory": 802
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 19999,
-        "currency": "INR",
-        "validFrom": "2024-08-07 18:00:00",
-        "availability": "INSTOCK",
-        "inventory": 37
+        "inventory": 1396
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -611,6 +589,14 @@
         "validFrom": "2024-08-07 11:00:00",
         "availability": "INSTOCK",
         "inventory": 157
+      },
+      {
+        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
+        "price": 19999,
+        "currency": "INR",
+        "validFrom": "2024-08-07 18:00:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -648,27 +634,27 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
-        "price": 699,
+        "price": 799,
         "currency": "INR",
-        "validFrom": "2024-07-27 15:00:00",
+        "validFrom": "2024-08-08 11:00:00",
         "availability": "INSTOCK",
-        "inventory": 69
+        "inventory": 35
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
-        "price": 2499,
+        "price": 2999,
         "currency": "INR",
-        "validFrom": "2024-07-27 15:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 2
+        "validFrom": "2024-08-08 11:00:00",
+        "availability": "INSTOCK",
+        "inventory": 25
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
-        "price": 3799,
+        "price": 4499,
         "currency": "INR",
-        "validFrom": "2024-07-27 15:00:00",
+        "validFrom": "2024-08-08 11:00:00",
         "availability": "INSTOCK",
-        "inventory": 9
+        "inventory": 25
       }
     ],
     "performers": [],
@@ -710,7 +696,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 961
+        "inventory": 960
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -718,7 +704,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 88
+        "inventory": 87
       }
     ],
     "performers": [],
@@ -1636,7 +1622,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 21:58:18",
         "availability": "INSTOCK",
-        "inventory": 180
+        "inventory": 175
       }
     ],
     "performers": [],
@@ -1650,8 +1636,8 @@
     "url": "https://www.zomato.com/events/the-white-party-bengaluru-et46943"
   },
   {
-    "name": "Jubin Nautiyal Live In Pune",
-    "description": "Prepare yourselves, Pune, as you are about to witness Jubin Nautiyal Live for the first time in Maharashtra. Jubin is ready to captivate you with his beats and provide you with an unforgettable experience. This show promises to be a magnificent blend of music and vibes at a specially curated venue, offering you a once-in-a-lifetime experience.",
+    "name": "Jubin Nautiyal Live in Pune",
+    "description": "Prepare yourselves, Pune, as you are about to witness Jubin Nautiyal concert for the first time in Maharashtra. Jubin is ready to captivate you with his beats and provide you with an unforgettable experience. This show promises to be a magnificent blend of music and vibes at a specially curated venue, offering you a once-in-a-lifetime experience.",
     "startDate": "2024-10-13T17:00:00+05:30",
     "endDate": "2024-10-13T22:00:00+05:30",
     "timezone": "+05:30",
@@ -1665,19 +1651,19 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Jubin Nautiyal Live In Pune Party, Music and Best seller event Tickets Pune - Zomato",
-    "ogDesc": "Book online tickets for Jubin Nautiyal Live In Pune Pune on Zomato which is a Party, Music and Best seller event happening at Eva Garden, Mayfield, Grant Rd, opposite phoenix world school, Kharadi",
+    "ogTitle": "Jubin Nautiyal Live in Pune Party, Music and Best seller event Tickets Pune - Zomato",
+    "ogDesc": "Book online tickets for Jubin Nautiyal Live in Pune Pune on Zomato which is a Party, Music and Best seller event happening at Eva Garden, Mayfield, Grant Rd, opposite phoenix world school, Kharadi",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/f9dcfd28dd840e0b02cc3a77259c3e2b1723009543.jpeg",
       "https://b.zmtcdn.com/data/zomaland/ed652c18e01c04a6f7dd9a2e0124b42e1722395497.png",
-      "https://b.zmtcdn.com/data/zomaland/ce3643a2be8f71028730d061650868ac1722395800.png",
       "https://b.zmtcdn.com/data/zomaland/fd8500baa1c85f7ea19ae27d5f042e0e1722504474.png",
       "https://b.zmtcdn.com/data/zomaland/a07f426dd2099f6d8a8efccbb29e61611722504488.png",
       "https://b.zmtcdn.com/data/zomaland/3b6a28af0a311516b3b24955d2c322351722504488.png",
       "https://b.zmtcdn.com/data/zomaland/cdd32db90a26863dddb80c4fbe9794f51722504488.png",
       "https://b.zmtcdn.com/data/zomaland/b3a7b2d9b3a7e1c6a2809f1e8953f0361722504488.png",
       "https://b.zmtcdn.com/data/zomaland/75f050e10f4f32da7cb813b3e1f48f771722504826.png",
-      "https://b.zmtcdn.com/data/zomaland/1024f4a02ac2c89c7cc40a695f3c45631722504826.png"
+      "https://b.zmtcdn.com/data/zomaland/1024f4a02ac2c89c7cc40a695f3c45631722504826.png",
+      "https://b.zmtcdn.com/data/zomaland/32d5b230d7a4dc6aeb2ae881b28dbbbd1723112621.png"
     ],
     "tickets": [
       {
@@ -1930,7 +1916,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:48",
         "availability": "INSTOCK",
-        "inventory": 71
+        "inventory": 64
       }
     ],
     "performers": [],
@@ -2094,7 +2080,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:49",
         "availability": "INSTOCK",
-        "inventory": 52
+        "inventory": 37
       }
     ],
     "performers": [],
@@ -2422,7 +2408,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:53",
         "availability": "INSTOCK",
-        "inventory": 11
+        "inventory": 8
       }
     ],
     "performers": [],
@@ -3248,7 +3234,7 @@
         "currency": "INR",
         "validFrom": "2024-08-05 22:22:11",
         "availability": "INSTOCK",
-        "inventory": 14
+        "inventory": 8
       }
     ],
     "performers": [],
