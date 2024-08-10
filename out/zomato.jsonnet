@@ -41,7 +41,7 @@
         "currency": "INR",
         "validFrom": "2024-08-08 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 204
+        "inventory": 178
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-08-08 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 239
+        "inventory": 231
       }
     ],
     "performers": [],
@@ -190,21 +190,21 @@
       "https://b.zmtcdn.com/data/zomaland/ade1958c00244c99f20a1b0ff50a7eab1721713491.png",
       "https://b.zmtcdn.com/data/zomaland/254339d842fb6b771bfca7d09437118b1720807334.png",
       "https://b.zmtcdn.com/data/zomaland/981406d500f7bad750883cc84fcebb3b1720807343.png",
-      "https://b.zmtcdn.com/data/zomaland/4915251c5848b70d520f9e4e8ac0a97c1720807357.png",
       "https://b.zmtcdn.com/data/zomaland/8f8246f3e7fcaa429fc5ba2c01393ad91720807370.png",
       "https://b.zmtcdn.com/data/zomaland/3ff3507d022e24fe2cc62305f78b0cfb1720807380.png",
       "https://b.zmtcdn.com/data/zomaland/cde0d610ac2a71ff0b26e2a2887f09b81720807392.png",
+      "https://b.zmtcdn.com/data/zomaland/c2815203e33d2beb0b669e3ed86ba2ad1720807408.png",
       "https://b.zmtcdn.com/data/zomaland/7f23584e8f87474bd07ce30627ff5ca01720807421.png",
       "https://b.zmtcdn.com/data/zomaland/26d40a0cc36fcb396a5528187f5fce2a1720807433.png",
       "https://b.zmtcdn.com/data/zomaland/58f0f83a490ddf148cbe71d3d5586d181720860715.png",
-      "https://b.zmtcdn.com/data/zomaland/cecf8674117119b02a35f4802cbea7151723140224.png",
-      "https://b.zmtcdn.com/data/zomaland/26389bdde6d0b0a5ae9b6145371d50761723140294.png",
-      "https://b.zmtcdn.com/data/zomaland/39c543ce42858c93482ea4cd8d6262431723140295.png",
-      "https://b.zmtcdn.com/data/zomaland/dbffe0e9c3e1cc78438b759caa1c49591723140295.png",
-      "https://b.zmtcdn.com/data/zomaland/6283599632e3e2805a48f20fd3bf361b1723140295.png",
-      "https://b.zmtcdn.com/data/zomaland/99af0d40969ad28128ae6029fcd5342a1723140304.png",
-      "https://b.zmtcdn.com/data/zomaland/e582ec2bb7d97a158f751ce257ed87871723140306.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/8339334f2be0312c78cb35976acdf8a91723140323.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/c603d349be4bd095f3199fba84b9a1a71723189629.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/6939ac9f7ae8fb6be9d721af70ecdf031723189635.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/1bd2e7e0ef7201c68cf0b09cfc2454731723189637.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/7519ea85ab4c47338c8a5bb3b7a993ce1723189637.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/8339334f2be0312c78cb35976acdf8a91723189637.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/09fa9be8626156a7b1a05ea9279394811723189638.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/955268cc20f6daf883b72883cec9607a1723189641.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/b8578600a07b1c0c7907b672add15d831723189641.jpeg"
     ],
     "tickets": [],
     "performers": [],
@@ -241,25 +241,33 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658/details",
-        "price": 499,
+        "price": 599,
         "currency": "INR",
-        "validFrom": "2024-08-03 15:00:00",
+        "validFrom": "2024-08-09 17:22:01",
         "availability": "INSTOCK",
         "inventory": 50
       },
       {
         "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658/details",
-        "price": 699,
+        "price": 849,
         "currency": "INR",
-        "validFrom": "2024-08-03 15:00:00",
+        "validFrom": "2024-08-09 17:22:01",
         "availability": "INSTOCK",
-        "inventory": 46
+        "inventory": 50
       },
       {
         "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658/details",
-        "price": 799,
+        "price": 1199,
         "currency": "INR",
-        "validFrom": "2024-08-03 15:00:00",
+        "validFrom": "2024-08-09 17:22:02",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658/details",
+        "price": 2999,
+        "currency": "INR",
+        "validFrom": "2024-08-09 17:22:02",
         "availability": "INSTOCK",
         "inventory": 50
       }
@@ -302,7 +310,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 228
+        "inventory": 222
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -310,7 +318,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 241
+        "inventory": 214
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -359,7 +367,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 252
+        "inventory": 245
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -367,7 +375,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 258
+        "inventory": 244
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -477,7 +485,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 21
+        "inventory": 20
       },
       {
         "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
@@ -556,7 +564,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 469
+        "inventory": 366
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -564,7 +572,15 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "INSTOCK",
-        "inventory": 1396
+        "inventory": 1734
+      },
+      {
+        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
+        "price": 24999,
+        "currency": "INR",
+        "validFrom": "2024-08-09 05:00:00",
+        "availability": "INSTOCK",
+        "inventory": 243
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -637,8 +653,8 @@
         "price": 799,
         "currency": "INR",
         "validFrom": "2024-08-08 11:00:00",
-        "availability": "INSTOCK",
-        "inventory": 35
+        "availability": "SELLING_FAST",
+        "inventory": 10
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
@@ -646,7 +662,7 @@
         "currency": "INR",
         "validFrom": "2024-08-08 11:00:00",
         "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 22
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
@@ -654,7 +670,7 @@
         "currency": "INR",
         "validFrom": "2024-08-08 11:00:00",
         "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 24
       }
     ],
     "performers": [],
@@ -696,7 +712,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 960
+        "inventory": 958
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -704,7 +720,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 87
+        "inventory": 84
       }
     ],
     "performers": [],
@@ -1622,7 +1638,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 21:58:18",
         "availability": "INSTOCK",
-        "inventory": 175
+        "inventory": 174
       }
     ],
     "performers": [],
@@ -1655,7 +1671,6 @@
     "ogDesc": "Book online tickets for Jubin Nautiyal Live in Pune Pune on Zomato which is a Party, Music and Best seller event happening at Eva Garden, Mayfield, Grant Rd, opposite phoenix world school, Kharadi",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/f9dcfd28dd840e0b02cc3a77259c3e2b1723009543.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/ed652c18e01c04a6f7dd9a2e0124b42e1722395497.png",
       "https://b.zmtcdn.com/data/zomaland/fd8500baa1c85f7ea19ae27d5f042e0e1722504474.png",
       "https://b.zmtcdn.com/data/zomaland/a07f426dd2099f6d8a8efccbb29e61611722504488.png",
       "https://b.zmtcdn.com/data/zomaland/3b6a28af0a311516b3b24955d2c322351722504488.png",
@@ -1663,7 +1678,8 @@
       "https://b.zmtcdn.com/data/zomaland/b3a7b2d9b3a7e1c6a2809f1e8953f0361722504488.png",
       "https://b.zmtcdn.com/data/zomaland/75f050e10f4f32da7cb813b3e1f48f771722504826.png",
       "https://b.zmtcdn.com/data/zomaland/1024f4a02ac2c89c7cc40a695f3c45631722504826.png",
-      "https://b.zmtcdn.com/data/zomaland/32d5b230d7a4dc6aeb2ae881b28dbbbd1723112621.png"
+      "https://b.zmtcdn.com/data/zomaland/32d5b230d7a4dc6aeb2ae881b28dbbbd1723112621.png",
+      "https://b.zmtcdn.com/data/zomaland/7e142220d085becfeb4ab2946b72dbb51723184399.png"
     ],
     "tickets": [
       {
@@ -1998,7 +2014,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:49",
         "availability": "INSTOCK",
-        "inventory": 71
+        "inventory": 68
       }
     ],
     "performers": [],
@@ -2039,7 +2055,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:49",
         "availability": "INSTOCK",
-        "inventory": 37
+        "inventory": 29
       }
     ],
     "performers": [],
