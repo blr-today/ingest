@@ -2666,7 +2666,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 137
+        "inventory": 127
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -2674,7 +2674,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 44
+        "inventory": 39
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -2707,6 +2707,14 @@
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
         "inventory": 6
+      },
+      {
+        "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-08-01 09:00:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -2747,7 +2755,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:32:04",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 18
       }
     ],
     "performers": [],
@@ -2870,7 +2878,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:32:05",
         "availability": "INSTOCK",
-        "inventory": 73
+        "inventory": 68
       }
     ],
     "performers": [],
@@ -3079,7 +3087,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 71
+        "inventory": 62
       },
       {
         "url": "https://www.zomato.com/events/dynamite-disco-club-bengaluru-et47200/details",
@@ -3087,7 +3095,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 69
+        "inventory": 63
       }
     ],
     "performers": [],
@@ -4114,63 +4122,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/pondicherry-weekend-getaway-bengaluru-et47561"
-  },
-  {
-    "name": "Alexander Alar Live",
-    "description": "Get ready for an evening of unparalleled musical brilliance as Alexander Alar, the world-renowned DJ and producer, takes the stage at ZOZO on August 9th. This is not just a performance\u2014it\u2019s an extraordinary night where music and artistry collide to create an unforgettable experience\n\nAlexander Alar is celebrated for his electrifying sets that push the boundaries of music. His unique ability to blend genres seamlessly will ensure a night filled with high-energy beats and mesmerizing rhythms that will keep you dancing from start to finish. ZOZO, known for its luxurious ambiance and cutting-edge design, provides the perfect backdrop for this high-octane event. Immerse yourself in a vibrant and upscale environment where every detail\u2014from the stunning visuals to the state-of-the-art sound system\u2014is designed to enhance your experience.",
-    "startDate": "2024-08-09 20:00:00",
-    "endDate": "2024-08-10 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "A-1, D Rajgopala, nagar, Sanjay Nagar Main Rd, Bengaluru, Karnataka 560094",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Alexander Alar Live Music and Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Alexander Alar Live Bengaluru on Zomato which is a Music and Party event happening at A-1, D Rajgopala, nagar, Sanjay Nagar Main Rd, Bengaluru, Karnataka 560094",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/5beb74b37afe0de84e7941b2a65f61991722940686.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/alexander-alar-live-bengaluru-et47644/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-06 16:12:04",
-        "availability": "INSTOCK",
-        "inventory": 73
-      },
-      {
-        "url": "https://www.zomato.com/events/alexander-alar-live-bengaluru-et47644/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-08-06 16:12:05",
-        "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/alexander-alar-live-bengaluru-et47644/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-06 16:12:05",
-        "availability": "INSTOCK",
-        "inventory": 98
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/alexander-alar-live-bengaluru-et47644"
   },
   {
     "name": "Paint with Puppies",
