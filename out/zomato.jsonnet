@@ -220,8 +220,8 @@
   {
     "name": "Caged ft. Arjun Vagale",
     "description": "Caged Presents Arjun Vagale + more at The Park Ballroom on 10 Aug 2024\r\n\r\nWe have a very special guest - Arjun Vagale joining us for the big edition at The Park Ballroom on Aug 10, 2024, expect a top class sound & visual experience!",
-    "startDate": "2024-08-10T20:00:00+05:30",
-    "endDate": "2024-08-11T01:00:00+05:30",
+    "startDate": "2024-08-10 20:00:00",
+    "endDate": "2024-08-11 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -628,8 +628,8 @@
   {
     "name": "BuzzinUp Bangalore Bar Hop - Koramangala Edition",
     "description": "Welcome to The BuzzinUp Bangalore Bar Hop: The Ultimate Pub Crawl, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favorite drinks, groove to fantastic music, and engage in fun games and activities.\r\n\r\nWalk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
-    "startDate": "2024-08-10T18:30:00+05:30",
-    "endDate": "2024-08-11T01:00:00+05:30",
+    "startDate": "2024-08-10 18:30:00",
+    "endDate": "2024-08-11 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1556,8 +1556,8 @@
   {
     "name": "The White Party",
     "description": "The wait is over! The Second edition of The White Party is happening this weekend at High Ultra Lounge! Join us on 10th Aug, 8 pm onwards, as we bring you an unforgettable night of music, dancing, and luxury! International DJ Maryana will be performing live, so don't miss out! Dress code: All-White Attire (Strictly Enforced). See you there!",
-    "startDate": "2024-08-10T20:00:00+05:30",
-    "endDate": "2024-08-11T01:00:00+05:30",
+    "startDate": "2024-08-10 20:00:00",
+    "endDate": "2024-08-11 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1862,47 +1862,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
-  },
-  {
-    "name": "Tribute to Iron Maiden",
-    "description": "Maiden Voyage, is a Bangalore-based Iron Maiden tribute band made up of some of the city`s finest musicians who have come together to pay tribute to one of their idols, IRON MAIDEN. The band performs only Iron Maiden songs, and Maiden fans have generally praised their live performances. With their electrifying performance and a self-created legendary mascot Eddie unleashed on stage to create a Maiden-like experience, the band believes in providing all Maiden fans the ultimate sensation of being at a Maiden show.\r\n\r\nOnly at Hard Rock Cafe in Bengaluru can you see these Rockstar`s musical shenanigans.\r\nEnjoy live music while dining on savoury and spicy dishes and sipping on cool beverages.",
-    "startDate": "2024-08-10T21:00:00+05:30",
-    "endDate": "2024-08-10T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Iron Maiden Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Iron Maiden Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/73a199b8828a159d6ced3cb234b044121722443493.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-iron-maiden-bengaluru-et47089/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-31 22:28:48",
-        "availability": "INSTOCK",
-        "inventory": 20
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-iron-maiden-bengaluru-et47089"
   },
   {
     "name": "Sunny Tunes",
@@ -2703,47 +2662,6 @@
     "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115"
   },
   {
-    "name": "Tribute to Amit Trivedi",
-    "description": "Catch Unmukt performing live some of your favourite tracks of Amit Trivedi at Hard Rock Cafe, Whitefield, Bengaluru.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-08-10T21:00:00+05:30",
-    "endDate": "2024-08-10T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Amit Trivedi Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Amit Trivedi Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/74de934b75690d4364b76864d9548b551722499422.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-amit-trivedi-bengaluru-et47161/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-01 15:32:04",
-        "availability": "INSTOCK",
-        "inventory": 18
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-amit-trivedi-bengaluru-et47161"
-  },
-  {
     "name": "Karaoke Nights",
     "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
     "startDate": "2024-08-15T21:00:00+05:30",
@@ -3033,8 +2951,8 @@
   {
     "name": "Dynamite Disco Club 094 at The Burrow",
     "description": "India's Best Disco and House Music Experience, Dynamite Disco Club is back at The Burrow, this July 10th, Saturday, 8.30 pm onwards!\r\n\r\nThis edition has Dynamite Head Honcho Stalvart John, and Hyderabad House DJ Nephra with support from Priyansha at the DDC console.",
-    "startDate": "2024-08-10T20:30:00+05:30",
-    "endDate": "2024-08-11T01:00:00+05:30",
+    "startDate": "2024-08-10 20:30:00",
+    "endDate": "2024-08-11 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3082,71 +3000,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/dynamite-disco-club-bengaluru-et47200"
-  },
-  {
-    "name": "Speed Dating",
-    "description": "Tired of swiping and texting? Come, join us at our social mixer to meet potential dates and friends in real life.\nWe`ve designed this event to boost intimacy between curated attendees, resulting in friendship, romance, and even marriage.\nOur fun icebreakers and speed dating games during the event facilitate mindful conversations and deep connections.\nSo come, and experience some cool, quirky games for introverts to break the ice without any pressure! \nSeek a friend, flatmate, date, or startup soulmate- find it all at Speed Dating!",
-    "startDate": "2024-08-10 18:00:00",
-    "endDate": "2024-08-10 20:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Speed Dating Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Speed Dating Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b4620aea34fd2f44609424eeb0a95e661722854054.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47472/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:10",
-        "availability": "INSTOCK",
-        "inventory": 20
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47472/details",
-        "price": 1299,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:10",
-        "availability": "INSTOCK",
-        "inventory": 5
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47472/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:11",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47472/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:11",
-        "availability": "INSTOCK",
-        "inventory": 8
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47472"
   },
   {
     "name": "Speed Dating",
@@ -4109,8 +3962,8 @@
   {
     "name": "Satellite Beachside Pre Party",
     "description": "Get ready to groove at the Satellite Beachside Pre Party! \u00f0\u0178\u0152\u00b4 Join us at the vibrant Seven Rivers Brewery Co. in Bangalore for an unforgettable night of electrifying beats and great vibes. On August 10th, enjoy a special performance by the talented DJ Varun and many more artists, who will be spinning the hottest tracks to keep you dancing all night long.\n\nSet by the poolside, this event offers the perfect ambiance to unwind and enjoy a refreshing selection of craft beers and delicious food. Feel the cool breeze and soak in the relaxed, beachy atmosphere. Whether you're a party enthusiast or just looking to chill with friends, this event promises an evening of fun and excitement.",
-    "startDate": "2024-08-10T20:00:00+05:30",
-    "endDate": "2024-08-11T01:00:00+05:30",
+    "startDate": "2024-08-10 20:00:00",
+    "endDate": "2024-08-11 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
