@@ -734,47 +734,6 @@
     "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824"
   },
   {
-    "name": "A Cup of Beauty",
-    "description": "Join our Sip & Paint Party! We\u201a\u00c4\u00f4ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u201a\u00c4\u00f4s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \uf8ff\u00fc\u00e9\u00ae\uf8ff\u00fc\u00e7\u03a9\u00d4\u220f\u00e8\uf8ff\u00fc\u2022\u00c7",
-    "startDate": "2024-08-10T16:00:00+05:30",
-    "endDate": "2024-08-10T18:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "A Cup of Beauty Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for A Cup of Beauty Bengaluru on Zomato which is a Experiences event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/d64de6403383cc8ba5379d94fe31ed8e1722340111.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/a-cup-of-beauty-bengaluru-et46860/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 17:45:42",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/a-cup-of-beauty-bengaluru-et46860"
-  },
-  {
     "name": "Whispers of the Spring",
     "description": "Join our Sip & Paint Party! We\u201a\u00c4\u00f4ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u201a\u00c4\u00f4s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \uf8ff\u00fc\u00e9\u00ae\uf8ff\u00fc\u00e7\u03a9\u00d4\u220f\u00e8\uf8ff\u00fc\u2022\u00c7",
     "startDate": "2024-08-11T13:00:00+05:30",
@@ -3127,8 +3086,8 @@
   {
     "name": "Speed Dating",
     "description": "Tired of swiping and texting? Come, join us at our social mixer to meet potential dates and friends in real life.\nWe`ve designed this event to boost intimacy between curated attendees, resulting in friendship, romance, and even marriage.\nOur fun icebreakers and speed dating games during the event facilitate mindful conversations and deep connections.\nSo come, and experience some cool, quirky games for introverts to break the ice without any pressure! \nSeek a friend, flatmate, date, or startup soulmate- find it all at Speed Dating!",
-    "startDate": "2024-08-10T18:00:00+05:30",
-    "endDate": "2024-08-10T20:00:00+05:30",
+    "startDate": "2024-08-10 18:00:00",
+    "endDate": "2024-08-10 20:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3359,47 +3318,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et47541"
-  },
-  {
-    "name": "Chai Pe Charcha",
-    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
-    "startDate": "2024-08-10T15:00:00+05:30",
-    "endDate": "2024-08-10T16:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711722876109.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et47542/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:18",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et47542"
   },
   {
     "name": "Chai Pe Charcha",
@@ -4301,53 +4219,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/crossover-presents-stone-van-brooken-bengaluru-et47946"
-  },
-  {
-    "name": "Blind Date - A Sensory Experience",
-    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
-    "startDate": "2024-08-10T16:00:00+05:30",
-    "endDate": "2024-08-10T17:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1723186889.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48008/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:33",
-        "availability": "INSTOCK",
-        "inventory": 15
-      },
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48008/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:33",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48008"
   },
   {
     "name": "Blind Date - A Sensory Experience",
