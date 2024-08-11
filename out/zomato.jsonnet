@@ -41,7 +41,7 @@
         "currency": "INR",
         "validFrom": "2024-08-08 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 178
+        "inventory": 134
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-08-08 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 231
+        "inventory": 227
       }
     ],
     "performers": [],
@@ -245,7 +245,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 222
+        "inventory": 217
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -253,7 +253,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 214
+        "inventory": 198
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -261,7 +261,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 149
+        "inventory": 141
       }
     ],
     "performers": [],
@@ -310,7 +310,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 244
+        "inventory": 229
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -318,7 +318,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 170
+        "inventory": 169
       }
     ],
     "performers": [],
@@ -404,7 +404,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 24
+        "inventory": 22
       },
       {
         "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
@@ -412,7 +412,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 19
+        "inventory": 17
       },
       {
         "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
@@ -499,7 +499,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 366
+        "inventory": 477
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -507,7 +507,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "INSTOCK",
-        "inventory": 1734
+        "inventory": 1146
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -515,7 +515,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "INSTOCK",
-        "inventory": 243
+        "inventory": 234
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -589,7 +589,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 958
+        "inventory": 956
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -597,7 +597,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 84
+        "inventory": 82
       }
     ],
     "performers": [],
@@ -1711,7 +1711,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:49",
         "availability": "INSTOCK",
-        "inventory": 72
+        "inventory": 70
       }
     ],
     "performers": [],
@@ -1752,7 +1752,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:49",
         "availability": "INSTOCK",
-        "inventory": 68
+        "inventory": 66
       }
     ],
     "performers": [],
@@ -1793,7 +1793,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:49",
         "availability": "INSTOCK",
-        "inventory": 29
+        "inventory": 27
       }
     ],
     "performers": [],
@@ -1875,7 +1875,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:50",
         "availability": "INSTOCK",
-        "inventory": 43
+        "inventory": 39
       }
     ],
     "performers": [],
@@ -2162,7 +2162,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:53",
         "availability": "INSTOCK",
-        "inventory": 74
+        "inventory": 72
       }
     ],
     "performers": [],
