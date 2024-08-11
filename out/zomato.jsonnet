@@ -218,71 +218,6 @@
     "url": "https://www.zomato.com/events/moon-shine-tour-bengaluru-et45173"
   },
   {
-    "name": "Caged ft. Arjun Vagale",
-    "description": "Caged Presents Arjun Vagale + more at The Park Ballroom on 10 Aug 2024\r\n\r\nWe have a very special guest - Arjun Vagale joining us for the big edition at The Park Ballroom on Aug 10, 2024, expect a top class sound & visual experience!",
-    "startDate": "2024-08-10 20:00:00",
-    "endDate": "2024-08-11 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "The Park, MG Road, 14/7, Bhaskaran Rd, Sivanchetti Gardens",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Caged ft. Arjun Vagale Party and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Caged ft. Arjun Vagale Bengaluru on Zomato which is a Party and Music event happening at The Park, MG Road, 14/7, Bhaskaran Rd, Sivanchetti Gardens",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/dffbb9d7016080040655a170c4437f4f1721275728.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-08-09 17:22:01",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658/details",
-        "price": 849,
-        "currency": "INR",
-        "validFrom": "2024-08-09 17:22:01",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658/details",
-        "price": 1199,
-        "currency": "INR",
-        "validFrom": "2024-08-09 17:22:02",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658/details",
-        "price": 2999,
-        "currency": "INR",
-        "validFrom": "2024-08-09 17:22:02",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/caged-ft-arjun-vagale-bengaluru-et45658"
-  },
-  {
     "name": "In The Mood 2024 - Let's Get Loud",
     "description": "An evening of wholesome and fun entertainment for the whole family with choral music, dance, and theatre featuring all-time favourites from pop, jazz, blues, and rock with dances ranging from contemporary to ballroom and medleys from Broadway's best musicals.\r\nA fun evening for families and music lovers. Apart from the stage program there are food stalls and stalls featuring artifacts and other interesting items.",
     "startDate": "2024-08-17T18:00:00+05:30",
@@ -624,64 +559,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352"
-  },
-  {
-    "name": "BuzzinUp Bangalore Bar Hop - Koramangala Edition",
-    "description": "Welcome to The BuzzinUp Bangalore Bar Hop: The Ultimate Pub Crawl, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favorite drinks, groove to fantastic music, and engage in fun games and activities.\r\n\r\nWalk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
-    "startDate": "2024-08-10 18:30:00",
-    "endDate": "2024-08-11 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "BuzzinUp Bangalore Bar Hop - Koramangala Edition Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for BuzzinUp Bangalore Bar Hop - Koramangala Edition Bengaluru on Zomato which is a Experiences event happening at 105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/c80d30f4ed25956acdc1bd4a4c09014d1722502631.png",
-      "https://b.zmtcdn.com/data/zomaland/e2b60e9c9447adff5d2eca0e0823ba9d1722502718.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
-        "price": 799,
-        "currency": "INR",
-        "validFrom": "2024-08-08 11:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
-        "price": 2999,
-        "currency": "INR",
-        "validFrom": "2024-08-08 11:00:00",
-        "availability": "INSTOCK",
-        "inventory": 22
-      },
-      {
-        "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562/details",
-        "price": 4499,
-        "currency": "INR",
-        "validFrom": "2024-08-08 11:00:00",
-        "availability": "INSTOCK",
-        "inventory": 24
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et46562"
   },
   {
     "name": "Brews Of Bangalore (Oktoberfest Edition)",
@@ -1552,63 +1429,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/pondicherry-weekend-getaway-bengaluru-et46938"
-  },
-  {
-    "name": "The White Party",
-    "description": "The wait is over! The Second edition of The White Party is happening this weekend at High Ultra Lounge! Join us on 10th Aug, 8 pm onwards, as we bring you an unforgettable night of music, dancing, and luxury! International DJ Maryana will be performing live, so don't miss out! Dress code: All-White Attire (Strictly Enforced). See you there!",
-    "startDate": "2024-08-10 20:00:00",
-    "endDate": "2024-08-11 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "The White Party Music and Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for The White Party Bengaluru on Zomato which is a Music and Party event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/bf12d82c32da4f85746c0fa4026a139f1722355638.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/the-white-party-bengaluru-et46943/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-30 21:58:17",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/the-white-party-bengaluru-et46943/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-30 21:58:17",
-        "availability": "INSTOCK",
-        "inventory": 192
-      },
-      {
-        "url": "https://www.zomato.com/events/the-white-party-bengaluru-et46943/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-30 21:58:18",
-        "availability": "INSTOCK",
-        "inventory": 174
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/the-white-party-bengaluru-et46943"
   },
   {
     "name": "Jubin Nautiyal Live in Pune",
@@ -2600,7 +2420,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 127
+        "inventory": 113
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -2608,7 +2428,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 39
+        "inventory": 36
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -2947,59 +2767,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47168"
-  },
-  {
-    "name": "Dynamite Disco Club 094 at The Burrow",
-    "description": "India's Best Disco and House Music Experience, Dynamite Disco Club is back at The Burrow, this July 10th, Saturday, 8.30 pm onwards!\r\n\r\nThis edition has Dynamite Head Honcho Stalvart John, and Hyderabad House DJ Nephra with support from Priyansha at the DDC console.",
-    "startDate": "2024-08-10 20:30:00",
-    "endDate": "2024-08-11 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Dynamite Disco Club 094 at The Burrow Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Dynamite Disco Club 094 at The Burrow Bengaluru on Zomato which is a Music event happening at 37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f9152a9bb776489a629d199d8ce0b9f51722505003.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/47b4a13ab804692e4794373ee68d0f991722506289.png",
-      "https://b.zmtcdn.com/data/zomaland/181de98923975c6baf80a5fee08a4a281722506303.png",
-      "https://b.zmtcdn.com/data/zomaland/b2d5630a72f1810619f5f9581efe111d1722506303.png",
-      "https://b.zmtcdn.com/data/zomaland/c96c1fd2d349512f3f1ba13a12cbb3181722506303.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/dynamite-disco-club-bengaluru-et47200/details",
-        "price": 250,
-        "currency": "INR",
-        "validFrom": "2024-08-01 15:00:00",
-        "availability": "INSTOCK",
-        "inventory": 62
-      },
-      {
-        "url": "https://www.zomato.com/events/dynamite-disco-club-bengaluru-et47200/details",
-        "price": 400,
-        "currency": "INR",
-        "validFrom": "2024-08-01 15:00:00",
-        "availability": "INSTOCK",
-        "inventory": 63
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/dynamite-disco-club-bengaluru-et47200"
   },
   {
     "name": "Speed Dating",
@@ -3960,63 +3727,6 @@
     "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et47657"
   },
   {
-    "name": "Satellite Beachside Pre Party",
-    "description": "Get ready to groove at the Satellite Beachside Pre Party! \u00f0\u0178\u0152\u00b4 Join us at the vibrant Seven Rivers Brewery Co. in Bangalore for an unforgettable night of electrifying beats and great vibes. On August 10th, enjoy a special performance by the talented DJ Varun and many more artists, who will be spinning the hottest tracks to keep you dancing all night long.\n\nSet by the poolside, this event offers the perfect ambiance to unwind and enjoy a refreshing selection of craft beers and delicious food. Feel the cool breeze and soak in the relaxed, beachy atmosphere. Whether you're a party enthusiast or just looking to chill with friends, this event promises an evening of fun and excitement.",
-    "startDate": "2024-08-10 20:00:00",
-    "endDate": "2024-08-11 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Satellite Beachside Pre Party Party and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Satellite Beachside Pre Party Bengaluru on Zomato which is a Party and Music event happening at 7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/995145a665d4c812400f175dec5599601723106819.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/satellite-beachside-pre-party-bengaluru-et47945/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-08 14:23:00",
-        "availability": "INSTOCK",
-        "inventory": 192
-      },
-      {
-        "url": "https://www.zomato.com/events/satellite-beachside-pre-party-bengaluru-et47945/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-08 14:23:00",
-        "availability": "INSTOCK",
-        "inventory": 195
-      },
-      {
-        "url": "https://www.zomato.com/events/satellite-beachside-pre-party-bengaluru-et47945/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-08 14:23:01",
-        "availability": "INSTOCK",
-        "inventory": 188
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/satellite-beachside-pre-party-bengaluru-et47945"
-  },
-  {
     "name": "CrossOver Presents: Stone Van Brooken",
     "description": "Stone Van Brooken, a master of the techno scene, will deliver a dynamic set that promises to keep you dancing all night. Known for his unique blend of deep rhythms and high-energy beats, his performance is a must-see for any electronic music lover.\nDance under the stars on Kitty Ko's stunning open-air terrace, offering breathtaking views and an immersive experience like no other.\nEnjoy much more than just the music\u2014experience the vibrant atmosphere, top-notch sound system, and the unparalleled energy of a crossOver event.\nDon't miss your chance to be part of this extraordinary night. Guestlist are Selling fast, so hurry and secure yours now for a night filled with incredible music, dancing, and unforgettable memories.",
     "startDate": "2024-08-11T20:00:00+05:30",
@@ -4044,7 +3754,7 @@
         "currency": "INR",
         "validFrom": "2024-08-08 14:23:01",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 193
       },
       {
         "url": "https://www.zomato.com/events/crossover-presents-stone-van-brooken-bengaluru-et47946/details",
@@ -4052,7 +3762,7 @@
         "currency": "INR",
         "validFrom": "2024-08-08 14:23:01",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 195
       },
       {
         "url": "https://www.zomato.com/events/crossover-presents-stone-van-brooken-bengaluru-et47946/details",
@@ -4060,7 +3770,7 @@
         "currency": "INR",
         "validFrom": "2024-08-08 14:23:02",
         "availability": "INSTOCK",
-        "inventory": 195
+        "inventory": 193
       }
     ],
     "performers": [],
@@ -4398,7 +4108,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 236
+        "inventory": 228
       }
     ],
     "performers": [],
