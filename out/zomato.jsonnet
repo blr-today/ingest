@@ -2136,47 +2136,6 @@
     "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47539"
   },
   {
-    "name": "Chai Pe Charcha",
-    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
-    "startDate": "2024-08-12T19:00:00+05:30",
-    "endDate": "2024-08-12T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711722876109.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et47543/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:19",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et47543"
-  },
-  {
     "name": "Skandagiri Sunrise / Night Trek",
     "description": "Skandagiri, also known as Kalwarbetta or Kalavara Durga, is a mountain fortress 70 km from Bangalore. This 8 km, 4-hour trek offers a moderately difficult climb starting at Papagni Temple, leading through dense shrubs and steep terrain. At the summit, explore Tipu Sultan\u2019s ruins and enjoy a stunning sunrise above the clouds.\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\nThings to Carry:\n\u2022 Raincoat/Poncho (during monsoon)\n\u2022 ID proof\n\u2022 Backpack\n\u2022 Sunscreen/cap\n\u2022 Track pants\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\n\u2022 Torch (with extra batteries)\n\u2022 Personal Medication\n\u2022 Necessary toiletries\n\u2022 Shoes with a good grip",
     "startDate": "2024-08-16T21:00:00+05:30",

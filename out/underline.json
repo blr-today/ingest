@@ -28,7 +28,7 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Bangalore Puzzle Pals with Playful Pursuits",
+      "name": "🧩 Bangalore Puzzle Pals with Playful Pursuits",
       "sameAs": "https://underline.center/t/14",
       "startDate": "2024-08-12T12:30:00.000Z",
       "url": "https://insider.in/bangalore-puzzle-pals-with-playful-pursuits/event"
@@ -63,7 +63,7 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Pola X (1999) with The Parallel Cinema Club",
+      "name": "🍿 Pola X (1999) with The Parallel Cinema Club",
       "sameAs": "https://underline.center/t/106",
       "startDate": "2024-08-13T14:15:00.000Z",
       "url": "https://insider.in/pola-x-1999-with-the-parallel-cinema-club-aug13-2024/event"
@@ -71,6 +71,7 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2024-08-15T09:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -97,9 +98,44 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Tabletop Thursday with ReRoll Board Games",
+      "name": "🧩 Jigsaw Junkies by Playful Pursuits",
+      "sameAs": "https://underline.center/t/116",
+      "startDate": "2024-08-15T05:30:00.000Z",
+      "url": "https://insider.in/jigsaw-junkies-by-playful-pursuits/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2024-08-15T17:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "🎲 Tabletop Thursday with ReRoll Board Games",
       "sameAs": "https://underline.center/t/17",
-      "startDate": "2024-08-15T13:30:00.000Z",
+      "startDate": "2024-08-15T09:30:00.000Z",
       "url": "https://insider.in/tabletop-thursday-with-reroll-board-games/event"
    },
    {
@@ -132,7 +168,7 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Sunday Game Night",
+      "name": "🎲 Sunday Game Night",
       "sameAs": "https://underline.center/t/115",
       "startDate": "2024-08-18T12:30:00.000Z",
       "url": "https://insider.in/sunday-game-night-with-reroll-board-games/event"
@@ -167,7 +203,7 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "On The Beach at Night Alone (2017) with The Parallel Cinema Club",
+      "name": "🍿 On The Beach at Night Alone (2017) with The Parallel Cinema Club",
       "sameAs": "https://underline.center/t/107",
       "startDate": "2024-08-20T14:15:00.000Z",
       "url": "https://insider.in/on-the-beach-at-night-alone-2017-with-the-parallel-cinema-club-aug20-2024/event"
@@ -202,7 +238,7 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Whimsical Wednesdays with Improv Lore",
+      "name": "🎭 Whimsical Wednesdays with Improv Lore",
       "sameAs": "https://underline.center/t/19",
       "startDate": "2024-08-21T14:30:00.000Z",
       "url": "https://insider.in/whimsical-wednesdays-with-improv-lore/event"
@@ -237,7 +273,7 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Breaking the Backlog 002",
+      "name": "🧾 Breaking the Backlog",
       "sameAs": "https://underline.center/t/113",
       "startDate": "2024-08-22T04:30:00.000Z",
       "url": "https://insider.in/breaking-the-backlog-at-underline-center/event"
@@ -272,44 +308,9 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Landscape in the Mist (1988) with The Parallel Cinema Club",
+      "name": "🍿 Landscape in the Mist (1988) with The Parallel Cinema Club",
       "sameAs": "https://underline.center/t/108",
       "startDate": "2024-08-27T14:15:00.000Z",
       "url": "https://insider.in/landscape-in-the-mist-1988-with-the-parallel-cinema-club-aug27-2024/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2024-08-29T11:30:00.000Z",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Breaking The Backlog 003",
-      "sameAs": "https://underline.center/t/114",
-      "startDate": "2024-08-29T04:30:00.000Z",
-      "url": "https://insider.in/breaking-the-backlog-at-underline-center/event"
    }
 ]
