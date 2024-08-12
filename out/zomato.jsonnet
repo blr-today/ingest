@@ -3171,5 +3171,70 @@
       }
     ],
     "url": "https://www.zomato.com/events/we-jam-bengaluru-et48066"
+  },
+  {
+    "name": "Juss Live India Tour",
+    "description": "Get ready to be swept off your feet by the rising star, Juss! He's bringing his electrifying live show to Bangalore on 31st August. Witness his powerful vocals and captivating stage presence as he performs chart-toppers like \"SUNIYAN SUNIYAN' and SAFAR'. This is your chance to experience the future of Punjabi music live - don't miss out!",
+    "startDate": "2024-08-31T20:00:00+05:30",
+    "endDate": "2024-09-01T00:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Bengaluru",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Juss Live India Tour Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Juss Live India Tour Bengaluru on Zomato which is a Music event happening at Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/4aab13ad164e50393b01eb9b61bfa96a1723453877.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-08-12 16:05:16",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264/details",
+        "price": 1699,
+        "currency": "INR",
+        "validFrom": "2024-08-12 16:05:17",
+        "availability": "INSTOCK",
+        "inventory": 20
+      },
+      {
+        "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-08-12 16:05:17",
+        "availability": "INSTOCK",
+        "inventory": 25
+      },
+      {
+        "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-08-12 16:05:18",
+        "availability": "INSTOCK",
+        "inventory": 7
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264"
   }
 ]
