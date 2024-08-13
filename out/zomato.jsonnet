@@ -3158,5 +3158,168 @@
       }
     ],
     "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264"
+  },
+  {
+    "name": "XOOX Unlimited F&B Sunday Brunch",
+    "description": "Hello Bangalore, XOOX Brewmill is back with its popular Sunday Brunch starting this August 2024. Enjoy Live Music with Adhir Punja clubbed with Unlimited F&B every Sunday",
+    "startDate": "2024-08-18T12:30:00+05:30",
+    "endDate": "2024-08-18T15:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "XOOX Unlimited F&B Sunday Brunch Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for XOOX Unlimited F&B Sunday Brunch Bengaluru on Zomato which is a Experiences event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/d9fe4eefb416db726896ac76808e3fae1723546341.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et48467/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-08-13 21:00:00",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et48467/details",
+        "price": 1599,
+        "currency": "INR",
+        "validFrom": "2024-08-13 21:00:00",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et48467/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-08-13 21:00:00",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et48467"
+  },
+  {
+    "name": "Josh Gigante",
+    "description": "Join us for an unforgettable evening of music and freedom as Afterlife and *Zamna artist Josh Gigante takes the stage this Friday at Magique Bangalore! Immerse yourself in top-notch music and amazing vibes to kickstart your weekend on August 16th. Don\u2019t miss out",
+    "startDate": "2024-08-16T20:00:00+05:30",
+    "endDate": "2024-08-17T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Plot No, 36, 100 Feet Rd, opp. to Shilton Royale Hotel, Srinivagilu, Chandra Reddy Layout, S T Bed Layout, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Josh Gigante Music and Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Josh Gigante Bengaluru on Zomato which is a Music and Party event happening at Plot No, 36, 100 Feet Rd, opp. to Shilton Royale Hotel, Srinivagilu, Chandra Reddy Layout, S T Bed Layout, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/77a9a5ad42f1bd9d57eb6b8f38a3f7681723546542.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/josh-gigante-bengaluru-et48469/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-08-13 21:00:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/josh-gigante-bengaluru-et48469/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-08-13 21:00:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/josh-gigante-bengaluru-et48469/details",
+        "price": 799,
+        "currency": "INR",
+        "validFrom": "2024-08-13 21:00:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/josh-gigante-bengaluru-et48469"
+  },
+  {
+    "name": "Casa De Juliette ft. Meet & Preed",
+    "description": "Join us for an unforgettable night at Casa De Juliette,\nbrought to you by Centigrade, on August 17th! Set against the stunning backdrop of Bengaluru's skyline, enjoy an evening filled with vibrant music, expertly crafted drinks, and an atmosphere buzzing with excitement.\nImmerse yourself in a lively and welcoming environment, surrounded by good vibes and great company. The combination of music, views, and drinks will create an atmosphere you won't want to miss.\n\nThis is your chance to be part of an extraordinary event at Casa De Juliette. Secure your Spot now and bring your friends for a night filled with music, excitement, and stunning views. See you there!",
+    "startDate": "2024-08-17T20:00:00+05:30",
+    "endDate": "2024-08-18T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "5th floor, 1, MG Mall, Trinity Circle, Mahatma Gandhi Rd, above 1MG Mall, Halasuru, Someshwarpura",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Casa De Juliette ft. Meet & Preed Music and Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Casa De Juliette ft. Meet & Preed Bengaluru on Zomato which is a Music and Party event happening at 5th floor, 1, MG Mall, Trinity Circle, Mahatma Gandhi Rd, above 1MG Mall, Halasuru, Someshwarpura",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f0aaf1404d08e59062160d2089f767b81723546656.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/casa-de-juliette-ft-meet-preed-bengaluru-et48470/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-13 21:00:00",
+        "availability": "INSTOCK",
+        "inventory": 199
+      },
+      {
+        "url": "https://www.zomato.com/events/casa-de-juliette-ft-meet-preed-bengaluru-et48470/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-13 21:00:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/casa-de-juliette-ft-meet-preed-bengaluru-et48470"
   }
 ]
