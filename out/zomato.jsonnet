@@ -41,7 +41,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 485
+        "inventory": 484
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 447
+        "inventory": 442
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +57,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1099
+        "inventory": 1097
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -185,55 +185,6 @@
     "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987"
   },
   {
-    "name": "Guru Randhawa - Moon Rise Tour",
-    "description": "The sensational Punjabi superstar Guru Randhawa is hitting the road for an epic Indian Tour! \u00f0\u0178\u0152\u0178\u00e2\u0153\u00a8\r\n\r\nBrace yourselves for electrifying performances, unforgettable moments, and a musical journey like never before.\r\n\r\nGather your squad, and get ready to groove to the beats of your favorite hits! \u00f0\u0178\u017d\u00b6\u00f0\u0178\u201d\u00a5\r\n\r\nStay tuned for more details and ticket information. \u00f0\u0178\u0161\u20ac\r\n\r\n#GuruRandhawa #IndianTour #LiveConcert #MoonriseTour",
-    "startDate": "2024-11-29T20:00:00+05:30",
-    "endDate": "2024-11-29T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Bengaluru",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Guru Randhawa - Moon Rise Tour Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Guru Randhawa - Moon Rise Tour Bengaluru on Zomato which is a Music event happening at Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/ade1958c00244c99f20a1b0ff50a7eab1721713491.png",
-      "https://b.zmtcdn.com/data/zomaland/254339d842fb6b771bfca7d09437118b1720807334.png",
-      "https://b.zmtcdn.com/data/zomaland/981406d500f7bad750883cc84fcebb3b1720807343.png",
-      "https://b.zmtcdn.com/data/zomaland/8f8246f3e7fcaa429fc5ba2c01393ad91720807370.png",
-      "https://b.zmtcdn.com/data/zomaland/3ff3507d022e24fe2cc62305f78b0cfb1720807380.png",
-      "https://b.zmtcdn.com/data/zomaland/cde0d610ac2a71ff0b26e2a2887f09b81720807392.png",
-      "https://b.zmtcdn.com/data/zomaland/c2815203e33d2beb0b669e3ed86ba2ad1720807408.png",
-      "https://b.zmtcdn.com/data/zomaland/7f23584e8f87474bd07ce30627ff5ca01720807421.png",
-      "https://b.zmtcdn.com/data/zomaland/26d40a0cc36fcb396a5528187f5fce2a1720807433.png",
-      "https://b.zmtcdn.com/data/zomaland/58f0f83a490ddf148cbe71d3d5586d181720860715.png",
-      "https://b.zmtcdn.com/data/zomaland/c603d349be4bd095f3199fba84b9a1a71723189629.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/6939ac9f7ae8fb6be9d721af70ecdf031723189635.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/1bd2e7e0ef7201c68cf0b09cfc2454731723189637.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/7519ea85ab4c47338c8a5bb3b7a993ce1723189637.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/8339334f2be0312c78cb35976acdf8a91723189637.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/09fa9be8626156a7b1a05ea9279394811723189638.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/955268cc20f6daf883b72883cec9607a1723189641.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/b8578600a07b1c0c7907b672add15d831723189641.jpeg"
-    ],
-    "tickets": [],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/moon-shine-tour-bengaluru-et45173"
-  },
-  {
     "name": "In The Mood 2024 - Let's Get Loud",
     "description": "An evening of wholesome and fun entertainment for the whole family with choral music, dance, and theatre featuring all-time favourites from pop, jazz, blues, and rock with dances ranging from contemporary to ballroom and medleys from Broadway's best musicals.\r\nA fun evening for families and music lovers. Apart from the stage program there are food stalls and stalls featuring artifacts and other interesting items.",
     "startDate": "2024-08-17T18:00:00+05:30",
@@ -261,7 +212,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 213
+        "inventory": 210
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -269,7 +220,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 166
+        "inventory": 144
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -277,7 +228,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 126
+        "inventory": 119
       }
     ],
     "performers": [],
@@ -318,7 +269,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 237
+        "inventory": 233
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -326,7 +277,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 214
+        "inventory": 197
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -334,7 +285,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 160
+        "inventory": 157
       }
     ],
     "performers": [],
@@ -420,7 +371,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 22
+        "inventory": 20
       },
       {
         "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
@@ -428,7 +379,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 17
+        "inventory": 15
       },
       {
         "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
@@ -436,7 +387,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 17
       },
       {
         "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
@@ -506,7 +457,7 @@
       "https://b.zmtcdn.com/data/zomaland/5ce52e330649ddc2a36fd58e45da96821721839209.jpeg",
       "https://b.zmtcdn.com/data/zomaland/5136a008fffbdbfdad9ca4edf5796d821721839209.jpeg",
       "https://b.zmtcdn.com/data/zomaland/d192faf5b3947191e054a7fd528bf5a11723016343.png",
-      "https://b.zmtcdn.com/data/zomaland/95c93afcd32bd45cd7e0044d11097e271723093462.png"
+      "https://b.zmtcdn.com/data/zomaland/2c1b4822f28bc102f2a77e151c56e76f1723452782.png"
     ],
     "tickets": [
       {
@@ -515,7 +466,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 254
+        "inventory": 90
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -523,7 +474,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "INSTOCK",
-        "inventory": 1043
+        "inventory": 989
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -531,15 +482,15 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "INSTOCK",
-        "inventory": 230
+        "inventory": 228
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
         "price": 2999,
         "currency": "INR",
         "validFrom": "2024-08-07 11:00:00",
-        "availability": "INSTOCK",
-        "inventory": 6
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -547,7 +498,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 11:00:00",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 69
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -555,7 +506,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 11:00:00",
         "availability": "INSTOCK",
-        "inventory": 157
+        "inventory": 155
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -605,7 +556,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 953
+        "inventory": 951
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -613,7 +564,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 80
+        "inventory": 79
       }
     ],
     "performers": [],
@@ -1030,7 +981,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:49",
         "availability": "INSTOCK",
-        "inventory": 26
+        "inventory": 23
       }
     ],
     "performers": [],
@@ -1112,7 +1063,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:50",
         "availability": "INSTOCK",
-        "inventory": 35
+        "inventory": 33
       }
     ],
     "performers": [],
@@ -1194,7 +1145,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:51",
         "availability": "INSTOCK",
-        "inventory": 70
+        "inventory": 68
       }
     ],
     "performers": [],
@@ -1604,7 +1555,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:55",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 18
       }
     ],
     "performers": [],
@@ -1656,16 +1607,16 @@
         "price": 2499,
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
-        "availability": "INSTOCK",
-        "inventory": 92
+        "availability": "SELLING_FAST",
+        "inventory": 90
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
         "price": 4999,
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
-        "availability": "INSTOCK",
-        "inventory": 31
+        "availability": "SELLING_FAST",
+        "inventory": 30
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -2856,6 +2807,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Blind Date - A Sensory Experience Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1723186889.png"
     ],
@@ -2903,6 +2856,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Blind Date - A Sensory Experience Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1723186889.png"
     ],
@@ -2950,6 +2905,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711723188827.jpeg"
     ],
@@ -2989,6 +2946,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711723188827.jpeg"
     ],
@@ -3028,6 +2987,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711723188827.jpeg"
     ],
@@ -3067,6 +3028,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711723188827.jpeg"
     ],
@@ -3118,7 +3081,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 224
+        "inventory": 217
       }
     ],
     "performers": [],
