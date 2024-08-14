@@ -1010,47 +1010,6 @@
     "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-08-14T20:30:00+05:30",
-    "endDate": "2024-08-14T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music and Trending event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/6f25c193297d1099d65190440fc5b19c1722443761.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47092/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-31 22:28:49",
-        "availability": "SELLING_FAST",
-        "inventory": 2
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47092"
-  },
-  {
     "name": "Independence Rock - Tribute to Muse",
     "description": "\u2018No Neighbours Around\u2018 is an alternative rock band influenced by Garage Rock, R&B, and Metal. They\u2019ve done several shows around town from several show openings and surely know how to get the crowd going!\r\nCatch them live on Thursday, 15th of August 8:30 pm onward only at Hard Rock Cafe Bengaluru.\r\nSo book your tickets now for a night full of rock & roll!",
     "startDate": "2024-08-15T20:30:00+05:30",
@@ -2076,71 +2035,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47473"
-  },
-  {
-    "name": "Speed Dating",
-    "description": "Tired of swiping and texting? Come, join us at our social mixer to meet potential dates and friends in real life.\nWe`ve designed this event to boost intimacy between curated attendees, resulting in friendship, romance, and even marriage.\nOur fun icebreakers and speed dating games during the event facilitate mindful conversations and deep connections.\nSo come, and experience some cool, quirky games for introverts to break the ice without any pressure! \nSeek a friend, flatmate, date, or startup soulmate- find it all at Speed Dating!",
-    "startDate": "2024-08-14T20:00:00+05:30",
-    "endDate": "2024-08-14T22:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "46/1, Cobalt, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Speed Dating Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Speed Dating Bengaluru on Zomato which is a Experiences event happening at 46/1, Cobalt, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b4620aea34fd2f44609424eeb0a95e661722875722.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47539/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:15",
-        "availability": "INSTOCK",
-        "inventory": 20
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47539/details",
-        "price": 1299,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:15",
-        "availability": "INSTOCK",
-        "inventory": 5
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47539/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:15",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47539/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:16",
-        "availability": "INSTOCK",
-        "inventory": 18
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47539"
   },
   {
     "name": "Skandagiri Sunrise / Night Trek",
@@ -3357,7 +3251,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 21:00:00",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 196
       },
       {
         "url": "https://www.zomato.com/events/casa-de-juliette-ft-meet-preed-bengaluru-et48470/details",
@@ -3605,5 +3499,160 @@
       }
     ],
     "url": "https://www.zomato.com/events/pou-live-bengaluru-et48621"
+  },
+  {
+    "name": "The Honey Mustard Party",
+    "description": "The honey mustard party is back for its 6th edition, a its new home base - Shiro, UB City on 23rd August, 9 PM Onwards \n\nThis time around we\u2019re taking the reins with Bombay\u2019s house and disco mainstay, Kibo along with Bangalore\u2019s usual suspects- Vidur Grover and Priaa, all set to create an unforgettable night of music and energy.",
+    "startDate": "2024-08-23T21:00:00+05:30",
+    "endDate": "2024-08-24T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "3rd Floor, 222, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "The Honey Mustard Party Music and Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for The Honey Mustard Party Bengaluru on Zomato which is a Music and Party event happening at 3rd Floor, 222, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/a829c8dc39c1b2db8875bcb69d604f7d1723653892.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-14 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-14 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
+        "price": 1099,
+        "currency": "INR",
+        "validFrom": "2024-08-14 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
+        "price": 3299,
+        "currency": "INR",
+        "validFrom": "2024-08-14 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
+        "price": 3299,
+        "currency": "INR",
+        "validFrom": "2024-08-14 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649"
+  },
+  {
+    "name": "The Voice of India",
+    "description": "The Voice of India: A Musical Odyssey through India\u2019s Diverse Musical Landscape\nJoin us this Independence Day as we celebrate the essence of our roots with the finest regional classic music. Let the soulful voices and rhythms of our talented artists take you on a journey across India\u2019s rich musical heritage, featuring genres like retro, folk, dance, contemporary, sufi, ghazal, and semi-classical.",
+    "startDate": "2024-08-15T18:00:00+05:30",
+    "endDate": "2024-08-15T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "The Voice of India Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for The Voice of India Bengaluru on Zomato which is a Music event happening at Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/00218b641b1ae93c64069f825628659c1723656824.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/the-voice-of-india-bengaluru-et48650/details",
+        "price": 300,
+        "currency": "INR",
+        "validFrom": "2024-08-14 23:00:00",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/the-voice-of-india-bengaluru-et48650"
+  },
+  {
+    "name": "ONE NIGHT IN TULUM",
+    "description": "Get ready for an electrifying event ONE NIGHT IN TULUM at ZOZO, Bangalore! Dive into an unparalleled Techno experience featuring the sensational Sasha Carassi. This event promises an unforgettable evening filled with pulsating beats, immersive soundscapes, and high-energy vibes",
+    "startDate": "2024-08-17T18:00:00+05:30",
+    "endDate": "2024-08-18T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "33/3-A-1, D Rajgopala Road Sanjaynagar, 19, Geddalahalii, Kasaba Hobali, Bengaluru, Karnataka 560094",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "ONE NIGHT IN TULUM Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for ONE NIGHT IN TULUM Bengaluru on Zomato which is a Music event happening at 33/3-A-1, D Rajgopala Road Sanjaynagar, 19, Geddalahalii, Kasaba Hobali, Bengaluru, Karnataka 560094",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/5732cec50976d9a248046e86df70e5ab1723657380.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/one-night-in-tulum-bengaluru-et48652/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-14 23:15:00",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/one-night-in-tulum-bengaluru-et48652"
   }
 ]
