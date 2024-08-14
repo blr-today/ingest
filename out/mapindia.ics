@@ -2,14 +2,36 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:blr.today/map-india
 BEGIN:VEVENT
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/08/postcard-website-banner.png
+CATEGORIES:Workshops,MAP
+DTSTAMP:20240813T083314Z
+DESCRIPTION:Unleash your creativity this Saturday at our Postcard Making Workshop!\n\nJoin us for a fun-filled session where you'll design and craft personalised postcards that capture your unique style. Whether you're a seasoned artist or a beginner\, the MAP team will guide you through various techniques using vibrant colours\, unique textures\, and imaginative designs. Perfect for making heartfelt gifts or just enjoying a creative afternoon. All materials are provided—just bring your enthusiasm and a sprinkle of imagination. Let’s turn simple postcards into cherished memories!\n\nThis event is conceptualised under our exhibition Hello &amp\; Goodbye:Postcards from the Early 20th Century.
+DTEND:20240817T073000Z
+DTSTART:20240817T060000Z
+SUMMARY:From Me to You: Postcard Making Workshop
+UID:548@map-india.org
+URL:https://map-india.org/map-events/from-me-to-you/
+END:VEVENT
+BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/08/Untitled-design-15.jpg
 CATEGORIES:Film Screenings,MAP
-DTSTAMP:20240812T112636Z
+DTSTAMP:20240813T210432Z
 DESCRIPTION:Join us in honouring the birthday of Professor BN Goswamy\, a distinguished art historian and a significant supporter of MAP. Although he is no longer with us\, his legacy continues to inspire and influence the world of art history. \n\nOne of the leading Indian art historians\, Professor BN Goswamy was a Professor Emeritus of Art History at the Panjab University\, Chandigarh where he also played a pivotal role in the development of the Museum of Fine Arts.\n\nHis work covered a wide range of themes and has significantly influenced thinking on Indian painting. He was especially known for his scholarship on Indian miniatures and courtly painting\, in particular Pahari paintings\, a subject that he wrote extensively on. \n\nEnjoy a selection of films from the series made with Professor BN Goswamy\, highlighting his remarkable insights and scholarly journey.
 DTEND:20240814T131500Z
 DTSTART:20240814T123000Z
 SUMMARY:BN Goswamy: In Memoriam
 UID:547@map-india.org
 URL:https://map-india.org/map-events/bn-goswamy-in-memoriam/
+END:VEVENT
+BEGIN:VEVENT
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/08/Kuzhali001.jpeg
+CATEGORIES:Drop-in Sessions,MAP
+DTSTAMP:20240813T122344Z
+DESCRIPTION:Co-curator Kuzhali Jaganathan will unpack stories— obvious and hidden— through a close reading of an artwork in this session of Up Close and Centre. \nMAP is proud to present our latest exhibition Rhyme Unbroken — Krishna Reddy as Artist and Perpetual Student. As one of the first Indian artists of his generation to practise internationally\, Krishna Reddy went on to win acclaim both at home and abroad for his contributions to the world of modern art and his masterful technical innovations in intaglio printmaking.\n\nIn this drop-in session\, discover his groundbreaking techniques\, explore the evolution of his art\, and gain personal insights into his influential work. Don’t miss this unique chance to engage with the exhibition on a more personal level.\n\nThere will be 2 sessions held: at 3:00 pm and 5:00 pm.\n\nThis event is conceptualised under our latest exhibition Rhyme Unbroken — Krishna Reddy as Artist and Perpetual Student 
+DTEND:20240820T100000Z
+DTSTART:20240820T093000Z
+SUMMARY:Up\, Close and Centre: Krishna Reddy
+UID:549@map-india.org
+URL:https://map-india.org/map-events/up-close-and-centre-krishna-reddy/
 END:VEVENT
 END:VCALENDAR

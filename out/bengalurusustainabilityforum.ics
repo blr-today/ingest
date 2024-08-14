@@ -1,0 +1,63 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bengaluru Sustainability Forum - ECPv6.5.0//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Bengaluru Sustainability Forum
+X-ORIGINAL-URL:https://www.bengalurusustainabilityforum.org
+X-WR-CALDESC:Events for Bengaluru Sustainability Forum
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:20240101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240818T103000
+DTEND;TZID=Asia/Kolkata:20240818T120000
+DTSTAMP:20240814T181752
+CREATED:20240814T071822Z
+LAST-MODIFIED:20240814T072117Z
+UID:10929-1723977000-1723982400@www.bengalurusustainabilityforum.org
+SUMMARY:Wait\, that’s not my egg!
+DESCRIPTION:Some birds are naughty\, and lay their eggs in the nest of other species. Why do they do this? How do they manage to succeed? Can’t the host species defend itself? \nYou can explore these questions and more in this interactive session with Suhel Quader. “Wait\, that’s not my egg!: the bizarre world of brood parasites” \nRegistration link
+URL:https://www.bengalurusustainabilityforum.org/event/wait-thats-not-my-egg/
+LOCATION:Youtube
+CATEGORIES:External event,Online Event
+ATTACH;FMTTYPE=image/jpeg:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/08/earlybird-18aug.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240824T090000
+DTEND;TZID=Asia/Kolkata:20240824T160000
+DTSTAMP:20240814T181752
+CREATED:20240814T075400Z
+LAST-MODIFIED:20240814T075547Z
+UID:10950-1724490000-1724515200@www.bengalurusustainabilityforum.org
+SUMMARY:How to be a birding buddy!
+DESCRIPTION:What does it take to turn kids into bird enthusiasts? Join the ‘How to be a Birding Buddy’ workshop and learn how to make nature as irresistible to kids as candy. \nRegister here The registration fee of ₹400 includes educational materials & refreshments. \n 
+URL:https://www.bengalurusustainabilityforum.org/event/how-to-be-a-birding-buddy/
+LOCATION:United Theological College
+CATEGORIES:External event,In-person Event
+ATTACH;FMTTYPE=image/jpeg:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/08/earlybird-24-Aug.jpeg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240825T110000
+DTEND;TZID=Asia/Kolkata:20240825T120000
+DTSTAMP:20240814T181752
+CREATED:20240814T081300Z
+LAST-MODIFIED:20240814T081749Z
+UID:10953-1724583600-1724587200@www.bengalurusustainabilityforum.org
+SUMMARY:Tell a Tale - with Vikram Sridhar
+DESCRIPTION:What’s in a story?\nRemember those magical bedtime stories that took us on wild adventures\, where animals could talk and trees had secrets? Stories always inspire our love of nature\, from talking owls to clever crows to mysterious forest spirits. Join Tell a Tale with Vikram Sridhar\, and learn how to use stories to bring kids (and grown-ups!) closer to nature. \nRemember to bring your sense of wonder and a pinch of nostalgia! Open to 18+adults only \nRegister for the session
+URL:https://www.bengalurusustainabilityforum.org/event/tell-a-tale-with-vikram-sridhar/
+LOCATION:Zoom Webinar
+CATEGORIES:External event,Online Event
+ATTACH;FMTTYPE=image/jpeg:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/08/earlybird-25aug.jpeg
+END:VEVENT
+END:VCALENDAR
