@@ -333,8 +333,8 @@
   {
     "name": "Coast Life Festival Goa",
     "description": "We are Coast Life \u2013 a music and arts festival. Our mission is to shine a spotlight on the incredible music and culture in our region (because let\u2019s be real, it\u2019s nice out here). The 3-day gathering is set against the lush backdrop of a stunning villa in Goa, perfectly timed to embrace the magical monsoon. Coast life is designed to capture the essence of Goa and celebrate music, art, and culture with diverse and immersive experiences.",
-    "startDate": "2024-08-15T18:00:00+05:30",
-    "endDate": "2024-08-18T03:00:00+05:30",
+    "startDate": "2024-08-15 18:00:00",
+    "endDate": "2024-08-18 03:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3576,8 +3576,8 @@
   {
     "name": "The Voice of India",
     "description": "The Voice of India: A Musical Odyssey through India\u2019s Diverse Musical Landscape\nJoin us this Independence Day as we celebrate the essence of our roots with the finest regional classic music. Let the soulful voices and rhythms of our talented artists take you on a journey across India\u2019s rich musical heritage, featuring genres like retro, folk, dance, contemporary, sufi, ghazal, and semi-classical.",
-    "startDate": "2024-08-15T18:00:00+05:30",
-    "endDate": "2024-08-15T21:00:00+05:30",
+    "startDate": "2024-08-15 18:00:00",
+    "endDate": "2024-08-15 21:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
