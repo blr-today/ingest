@@ -3523,5 +3523,159 @@
       }
     ],
     "url": "https://www.zomato.com/events/one-night-in-tulum-bengaluru-et48652"
+  },
+  {
+    "name": "Sunday Session ft. Praveen Achary",
+    "description": "Get ready for an unforgettable night of electrifying beats and immersive soundscapes as renowned DJ and producer Praveen Achary takes over the decks at Kitty Ko on August 18th! Known for his signature progressive house and deep techno sound, Praveen Achary has been making waves in the electronic music scene, captivating audiences worldwide with his eclectic mixes and dynamic performances\n\nAbout the Artist:\nPraveen Achary has firmly established himself as a trailblazer in the electronic music industry. With releases on some of the most respected labels and a knack for seamlessly blending genres, his sets promise an auditory journey like no other. unique style is characterized by intricate melodies, deep grooves, and a hypnotic energy that keeps the dance floor alive.",
+    "startDate": "2024-08-18T20:00:00+05:30",
+    "endDate": "2024-08-19T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Sunday Session ft. Praveen Achary Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sunday Session ft. Praveen Achary Bengaluru on Zomato which is a Music event happening at Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b49083d35caa5945d4038495371a9e391723795429.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/sunday-session-ft-praveen-achary-bengaluru-et48705/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-16 13:50:04",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/sunday-session-ft-praveen-achary-bengaluru-et48705/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-16 13:50:04",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/sunday-session-ft-praveen-achary-bengaluru-et48705/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-16 13:50:05",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/sunday-session-ft-praveen-achary-bengaluru-et48705"
+  },
+  {
+    "name": "Rahul Jain Live",
+    "description": "Prepare for a night of soulful melodies and electrifying beats as Rahul Jain takes the stage at Sunburn Union in Bangalore! \u00f0\u0178\u017d\u00b6 Join us on the 25th of August for an unforgettable evening filled with heartwarming music and dynamic performances.\n\nKick off the night with an energetic opening act by DJ Hassan \u00f0\u0178\u017d\u00a7, setting the perfect tone for an evening of musical delight. Then, let Rahul Jain, a singer and musical composer known for his soul-stirring voice and heartfelt compositions, sweep you off your feet with his live performance. \u00f0\u0178\u0152\u0178\n\n\u00e2\u0153\u00a8 Highlights:\n\u00f0\u0178\u017d\u00a4 Live Performance by Rahul Jain: Enjoy a soulful evening with his top hits.\n\u00f0\u0178\u017d\u00a7 Opening Act by DJ Hassan: Get the party started with electrifying beats.\n\u00f0\u0178\u017d\u00b6 Intimate Concert Vibe: Feel the music up close in a cosy setting.",
+    "startDate": "2024-08-25T19:00:00+05:30",
+    "endDate": "2024-08-26T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Rahul Jain Live Music and Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rahul Jain Live Bengaluru on Zomato which is a Music and Party event happening at passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f1ae1169c4fc0108a97aac6c03b407841723809669.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-08-16 17:42:02",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-08-16 17:42:03",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-08-16 17:42:03",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-08-16 17:42:04",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-08-16 17:42:04",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
+        "price": 699,
+        "currency": "INR",
+        "validFrom": "2024-08-16 17:42:05",
+        "availability": "INSTOCK",
+        "inventory": 150
+      },
+      {
+        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
+        "price": 12000,
+        "currency": "INR",
+        "validFrom": "2024-08-16 17:42:05",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
+        "price": 25000,
+        "currency": "INR",
+        "validFrom": "2024-08-16 17:42:06",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759"
   }
 ]
