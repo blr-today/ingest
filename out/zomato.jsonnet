@@ -3161,7 +3161,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 21:00:00",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 195
       },
       {
         "url": "https://www.zomato.com/events/casa-de-juliette-ft-meet-preed-bengaluru-et48470/details",
@@ -3438,7 +3438,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 173
       },
       {
         "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
@@ -3446,7 +3446,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 186
       },
       {
         "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
@@ -3511,7 +3511,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 23:15:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 90
       }
     ],
     "performers": [],
