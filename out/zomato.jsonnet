@@ -187,8 +187,8 @@
   {
     "name": "In The Mood 2024 - Let's Get Loud",
     "description": "An evening of wholesome and fun entertainment for the whole family with choral music, dance, and theatre featuring all-time favourites from pop, jazz, blues, and rock with dances ranging from contemporary to ballroom and medleys from Broadway's best musicals.\r\nA fun evening for families and music lovers. Apart from the stage program there are food stalls and stalls featuring artifacts and other interesting items.",
-    "startDate": "2024-08-17T18:00:00+05:30",
-    "endDate": "2024-08-17T20:30:00+05:30",
+    "startDate": "2024-08-17 18:00:00",
+    "endDate": "2024-08-17 20:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -600,47 +600,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824"
-  },
-  {
-    "name": "Treasure Hunt",
-    "description": "Join our Sip & Paint Party! We\u201a\u00c4\u00f4ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u201a\u00c4\u00f4s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \uf8ff\u00fc\u00e9\u00ae\uf8ff\u00fc\u00e7\u03a9\u00d4\u220f\u00e8\uf8ff\u00fc\u2022\u00c7",
-    "startDate": "2024-08-17T16:00:00+05:30",
-    "endDate": "2024-08-17T18:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Treasure Hunt Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Treasure Hunt Bengaluru on Zomato which is a Experiences event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/262df084a9fee6cfa495ccee4ca92c1f1722340223.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/treasure-hunt-bengaluru-et46862/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 17:45:43",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/treasure-hunt-bengaluru-et46862"
   },
   {
     "name": "A Song for a Rainy Afternoon",
@@ -1778,8 +1737,8 @@
   {
     "name": "Speed Dating",
     "description": "Tired of swiping and texting? Come, join us at our social mixer to meet potential dates and friends in real life.\nWe`ve designed this event to boost intimacy between curated attendees, resulting in friendship, romance, and even marriage.\nOur fun icebreakers and speed dating games during the event facilitate mindful conversations and deep connections.\nSo come, and experience some cool, quirky games for introverts to break the ice without any pressure! \nSeek a friend, flatmate, date, or startup soulmate- find it all at Speed Dating!",
-    "startDate": "2024-08-17T18:00:00+05:30",
-    "endDate": "2024-08-17T20:00:00+05:30",
+    "startDate": "2024-08-17 18:00:00",
+    "endDate": "2024-08-17 20:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2548,55 +2507,6 @@
   {
     "name": "Blind Date - A Sensory Experience",
     "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
-    "startDate": "2024-08-17T16:00:00+05:30",
-    "endDate": "2024-08-17T17:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Blind Date - A Sensory Experience Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1723186889.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48010/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:34",
-        "availability": "INSTOCK",
-        "inventory": 15
-      },
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48010/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:35",
-        "availability": "INSTOCK",
-        "inventory": 13
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48010"
-  },
-  {
-    "name": "Blind Date - A Sensory Experience",
-    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
     "startDate": "2024-08-18T16:00:00+05:30",
     "endDate": "2024-08-18T17:00:00+05:30",
     "timezone": "+05:30",
@@ -2687,47 +2597,6 @@
   {
     "name": "Chai Pe Charcha",
     "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
-    "startDate": "2024-08-17T15:00:00+05:30",
-    "endDate": "2024-08-17T16:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711723188827.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48031/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:42",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48031"
-  },
-  {
-    "name": "Chai Pe Charcha",
-    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
     "startDate": "2024-08-24T15:00:00+05:30",
     "endDate": "2024-08-24T16:00:00+05:30",
     "timezone": "+05:30",
@@ -2810,8 +2679,8 @@
   {
     "name": "We Jam",
     "description": "We Jam is the ultimate haven for music lovers!\n\nCome enjoy a relaxing and fun evening with us. A space where you can be yourself and feel at home.\nJoin our welcoming community for a lively jamming session; bring your guitars, cajones, and most importantly yourself to jam along. \n\nThe event features three parts:\n\nOpen Mic: Perform for a warm and supportive audience, no matter where you are on your musical journey. Reach out to @wejam.blr on Instagram to book your slot.\nSocial Mixer: Connect with fellow music lovers and jam along to your favourite songs. Be a part of fun and exciting music based games and get a chance to win exciting goodies. \nJamming Session: Sing, play instruments, and join the community in a warm cozy, free-flowing musical experience. Together, we create music and memories.",
-    "startDate": "2024-08-17T16:30:00+05:30",
-    "endDate": "2024-08-17T20:00:00+05:30",
+    "startDate": "2024-08-17 16:30:00",
+    "endDate": "2024-08-17 20:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3248,10 +3117,83 @@
     "url": "https://www.zomato.com/events/pou-live-bengaluru-et48621"
   },
   {
+    "name": "The Honey Mustard Party",
+    "description": "The honey mustard party is back for its 6th edition, a its new home base - Shiro, UB City on 23rd August, 9 PM Onwards \n\nThis time around we\u2019re taking the reins with Bombay\u2019s house and disco mainstay, Kibo along with Bangalore\u2019s usual suspects- Vidur Grover and Priaa, all set to create an unforgettable night of music and energy.",
+    "startDate": "2024-08-23T21:00:00+05:30",
+    "endDate": "2024-08-24T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "3rd Floor, 222, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "The Honey Mustard Party Music and Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for The Honey Mustard Party Bengaluru on Zomato which is a Music and Party event happening at 3rd Floor, 222, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/a829c8dc39c1b2db8875bcb69d604f7d1723653892.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-14 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 161
+      },
+      {
+        "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-14 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 184
+      },
+      {
+        "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
+        "price": 1099,
+        "currency": "INR",
+        "validFrom": "2024-08-14 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
+        "price": 3299,
+        "currency": "INR",
+        "validFrom": "2024-08-14 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
+        "price": 3299,
+        "currency": "INR",
+        "validFrom": "2024-08-14 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649"
+  },
+  {
     "name": "ONE NIGHT IN TULUM",
     "description": "Get ready for an electrifying event ONE NIGHT IN TULUM at ZOZO, Bangalore! Dive into an unparalleled Techno experience featuring the sensational Sasha Carassi. This event promises an unforgettable evening filled with pulsating beats, immersive soundscapes, and high-energy vibes",
-    "startDate": "2024-08-17T18:00:00+05:30",
-    "endDate": "2024-08-18T01:00:00+05:30",
+    "startDate": "2024-08-17 18:00:00",
+    "endDate": "2024-08-18 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
