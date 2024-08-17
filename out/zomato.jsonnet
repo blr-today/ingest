@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 433
+        "inventory": 428
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -212,15 +212,15 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 185
+        "inventory": 181
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
         "price": 499,
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
-        "availability": "INSTOCK",
-        "inventory": 94
+        "availability": "SELLING_FAST",
+        "inventory": 51
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
@@ -228,7 +228,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 88
+        "inventory": 70
       }
     ],
     "performers": [],
@@ -269,7 +269,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 205
+        "inventory": 197
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -277,7 +277,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 145
+        "inventory": 124
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -285,7 +285,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 134
+        "inventory": 128
       }
     ],
     "performers": [],
@@ -334,7 +334,7 @@
     "name": "Coast Life Festival Goa",
     "description": "We are Coast Life \u2013 a music and arts festival. Our mission is to shine a spotlight on the incredible music and culture in our region (because let\u2019s be real, it\u2019s nice out here). The 3-day gathering is set against the lush backdrop of a stunning villa in Goa, perfectly timed to embrace the magical monsoon. Coast life is designed to capture the essence of Goa and celebrate music, art, and culture with diverse and immersive experiences.",
     "startDate": "2024-08-15 18:00:00",
-    "endDate": "2024-08-18 03:00:00",
+    "endDate": "2024-08-18 06:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -361,33 +361,9 @@
         "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
         "price": 1770,
         "currency": "INR",
-        "validFrom": "2024-08-14 16:00:00",
+        "validFrom": "2024-08-16 20:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 83
-      },
-      {
-        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
-        "price": 1770,
-        "currency": "INR",
-        "validFrom": "2024-08-14 16:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 90
-      },
-      {
-        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
-        "price": 1416,
-        "currency": "INR",
-        "validFrom": "2024-07-31 13:00:00",
-        "availability": "INSTOCK",
-        "inventory": 24
-      },
-      {
-        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
-        "price": 1416,
-        "currency": "INR",
-        "validFrom": "2024-07-31 13:00:00",
-        "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 100
       },
       {
         "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
@@ -482,7 +458,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "INSTOCK",
-        "inventory": 708
+        "inventory": 646
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -572,7 +548,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 943
+        "inventory": 936
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -580,7 +556,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 97
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -588,7 +564,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 73
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -882,7 +858,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 16:35:00",
         "availability": "INSTOCK",
-        "inventory": 14
+        "inventory": 13
       },
       {
         "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030/details",
@@ -1070,7 +1046,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:51",
         "availability": "INSTOCK",
-        "inventory": 61
+        "inventory": 58
       }
     ],
     "performers": [],
@@ -1152,7 +1128,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:52",
         "availability": "INSTOCK",
-        "inventory": 74
+        "inventory": 71
       }
     ],
     "performers": [],
@@ -1275,7 +1251,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:53",
         "availability": "INSTOCK",
-        "inventory": 72
+        "inventory": 70
       }
     ],
     "performers": [],
@@ -1357,7 +1333,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:54",
         "availability": "INSTOCK",
-        "inventory": 74
+        "inventory": 73
       }
     ],
     "performers": [],
@@ -1439,7 +1415,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:55",
         "availability": "INSTOCK",
-        "inventory": 72
+        "inventory": 68
       }
     ],
     "performers": [],
@@ -1533,7 +1509,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 58
+        "inventory": 44
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1541,7 +1517,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 30
+        "inventory": 25
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -2858,8 +2834,8 @@
         "price": 399,
         "currency": "INR",
         "validFrom": "2024-08-09 15:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 21
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -2995,63 +2971,6 @@
     "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et48467"
   },
   {
-    "name": "Josh Gigante",
-    "description": "Join us for an unforgettable evening of music and freedom as Afterlife and *Zamna artist Josh Gigante takes the stage this Friday at Magique Bangalore! Immerse yourself in top-notch music and amazing vibes to kickstart your weekend on August 16th. Don\u2019t miss out",
-    "startDate": "2024-08-16 20:00:00",
-    "endDate": "2024-08-17 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Plot No, 36, 100 Feet Rd, opp. to Shilton Royale Hotel, Srinivagilu, Chandra Reddy Layout, S T Bed Layout, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Josh Gigante Music and Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Josh Gigante Bengaluru on Zomato which is a Music and Party event happening at Plot No, 36, 100 Feet Rd, opp. to Shilton Royale Hotel, Srinivagilu, Chandra Reddy Layout, S T Bed Layout, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/77a9a5ad42f1bd9d57eb6b8f38a3f7681723546542.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/josh-gigante-bengaluru-et48469/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-13 21:00:00",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/josh-gigante-bengaluru-et48469/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-13 21:00:00",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/josh-gigante-bengaluru-et48469/details",
-        "price": 799,
-        "currency": "INR",
-        "validFrom": "2024-08-13 21:00:00",
-        "availability": "INSTOCK",
-        "inventory": 200
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/josh-gigante-bengaluru-et48469"
-  },
-  {
     "name": "Casa De Juliette ft. Meet & Preed",
     "description": "Join us for an unforgettable night at Casa De Juliette,\nbrought to you by Centigrade, on August 17th! Set against the stunning backdrop of Bengaluru's skyline, enjoy an evening filled with vibrant music, expertly crafted drinks, and an atmosphere buzzing with excitement.\nImmerse yourself in a lively and welcoming environment, surrounded by good vibes and great company. The combination of music, views, and drinks will create an atmosphere you won't want to miss.\n\nThis is your chance to be part of an extraordinary event at Casa De Juliette. Secure your Spot now and bring your friends for a night filled with music, excitement, and stunning views. See you there!",
     "startDate": "2024-08-17T20:00:00+05:30",
@@ -3185,7 +3104,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 195
       },
       {
         "url": "https://www.zomato.com/events/somad-y2k-a-early-2000s-throwback-party-bengaluru-et48568/details",
@@ -3193,7 +3112,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 196
       },
       {
         "url": "https://www.zomato.com/events/somad-y2k-a-early-2000s-throwback-party-bengaluru-et48568/details",
