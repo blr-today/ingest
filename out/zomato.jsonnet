@@ -2884,7 +2884,7 @@
         "currency": "INR",
         "validFrom": "2024-08-12 16:05:17",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 19
       },
       {
         "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264/details",
@@ -2998,7 +2998,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 21:00:00",
         "availability": "INSTOCK",
-        "inventory": 195
+        "inventory": 193
       },
       {
         "url": "https://www.zomato.com/events/casa-de-juliette-ft-meet-preed-bengaluru-et48470/details",
@@ -3006,7 +3006,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 21:00:00",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 198
       }
     ],
     "performers": [],
@@ -3275,7 +3275,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 23:15:00",
         "availability": "INSTOCK",
-        "inventory": 90
+        "inventory": 82
       }
     ],
     "performers": [],
