@@ -187,63 +187,6 @@
   {
     "name": "In The Mood 2024 - Let's Get Loud",
     "description": "An evening of wholesome and fun entertainment for the whole family with choral music, dance, and theatre featuring all-time favourites from pop, jazz, blues, and rock with dances ranging from contemporary to ballroom and medleys from Broadway's best musicals.\r\nA fun evening for families and music lovers. Apart from the stage program there are food stalls and stalls featuring artifacts and other interesting items.",
-    "startDate": "2024-08-17 18:00:00",
-    "endDate": "2024-08-17 20:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "16th Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "In The Mood 2024 - Let's Get Loud Experiences, Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for In The Mood 2024 - Let's Get Loud Bengaluru on Zomato which is a Experiences, Music and Trending event happening at 16th Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f55bf71a53dcbe4fd4ae870c207b6f9e1721543913.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
-        "price": 350,
-        "currency": "INR",
-        "validFrom": "2024-07-21 12:00:00",
-        "availability": "INSTOCK",
-        "inventory": 181
-      },
-      {
-        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-21 12:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 51
-      },
-      {
-        "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911/details",
-        "price": 750,
-        "currency": "INR",
-        "validFrom": "2024-07-21 12:00:00",
-        "availability": "INSTOCK",
-        "inventory": 70
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45911"
-  },
-  {
-    "name": "In The Mood 2024 - Let's Get Loud",
-    "description": "An evening of wholesome and fun entertainment for the whole family with choral music, dance, and theatre featuring all-time favourites from pop, jazz, blues, and rock with dances ranging from contemporary to ballroom and medleys from Broadway's best musicals.\r\nA fun evening for families and music lovers. Apart from the stage program there are food stalls and stalls featuring artifacts and other interesting items.",
     "startDate": "2024-08-18T18:00:00+05:30",
     "endDate": "2024-08-18T20:30:00+05:30",
     "timezone": "+05:30",
@@ -935,47 +878,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
-  },
-  {
-    "name": "Remix Nights",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-08-17T21:00:00+05:30",
-    "endDate": "2024-08-17T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Remix Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Remix Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4b11cd91925c2ef38ae78a0bda4dff751722443945.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/remix-nights-bengaluru-et47095/details",
-        "price": 1000,
-        "currency": "INR",
-        "validFrom": "2024-07-31 22:28:51",
-        "availability": "INSTOCK",
-        "inventory": 75
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/remix-nights-bengaluru-et47095"
   },
   {
     "name": "Sunny Tunes",
@@ -1733,71 +1635,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47168"
-  },
-  {
-    "name": "Speed Dating",
-    "description": "Tired of swiping and texting? Come, join us at our social mixer to meet potential dates and friends in real life.\nWe`ve designed this event to boost intimacy between curated attendees, resulting in friendship, romance, and even marriage.\nOur fun icebreakers and speed dating games during the event facilitate mindful conversations and deep connections.\nSo come, and experience some cool, quirky games for introverts to break the ice without any pressure! \nSeek a friend, flatmate, date, or startup soulmate- find it all at Speed Dating!",
-    "startDate": "2024-08-17 18:00:00",
-    "endDate": "2024-08-17 20:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Speed Dating Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Speed Dating Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b4620aea34fd2f44609424eeb0a95e661722854054.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47473/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:12",
-        "availability": "INSTOCK",
-        "inventory": 20
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47473/details",
-        "price": 1299,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:12",
-        "availability": "INSTOCK",
-        "inventory": 5
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47473/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:12",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47473/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-05 22:22:13",
-        "availability": "INSTOCK",
-        "inventory": 19
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/speed-dating-bengaluru-et47473"
   },
   {
     "name": "Skandagiri Sunrise / Night Trek",
@@ -2677,47 +2514,6 @@
     "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48033"
   },
   {
-    "name": "We Jam",
-    "description": "We Jam is the ultimate haven for music lovers!\n\nCome enjoy a relaxing and fun evening with us. A space where you can be yourself and feel at home.\nJoin our welcoming community for a lively jamming session; bring your guitars, cajones, and most importantly yourself to jam along. \n\nThe event features three parts:\n\nOpen Mic: Perform for a warm and supportive audience, no matter where you are on your musical journey. Reach out to @wejam.blr on Instagram to book your slot.\nSocial Mixer: Connect with fellow music lovers and jam along to your favourite songs. Be a part of fun and exciting music based games and get a chance to win exciting goodies. \nJamming Session: Sing, play instruments, and join the community in a warm cozy, free-flowing musical experience. Together, we create music and memories.",
-    "startDate": "2024-08-17 16:30:00",
-    "endDate": "2024-08-17 20:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "413, 100 Feet Rd, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "We Jam Experiences, Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for We Jam Bengaluru on Zomato which is a Experiences, Music and Trending event happening at 413, 100 Feet Rd, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f28394fdcf1e4a99b08f9c68ad1f17901723198106.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/we-jam-bengaluru-et48066/details",
-        "price": 399,
-        "currency": "INR",
-        "validFrom": "2024-08-09 15:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/we-jam-bengaluru-et48066"
-  },
-  {
     "name": "Juss Live India Tour",
     "description": "Get ready to be swept off your feet by the rising star, Juss! He's bringing his electrifying live show to Bangalore on 31st August. Witness his powerful vocals and captivating stage presence as he performs chart-toppers like \"SUNIYAN SUNIYAN' and SAFAR'. This is your chance to experience the future of Punjabi music live - don't miss out!",
     "startDate": "2024-08-31T20:00:00+05:30",
@@ -2842,8 +2638,8 @@
   {
     "name": "Casa De Juliette ft. Meet & Preed",
     "description": "Join us for an unforgettable night at Casa De Juliette,\nbrought to you by Centigrade, on August 17th! Set against the stunning backdrop of Bengaluru's skyline, enjoy an evening filled with vibrant music, expertly crafted drinks, and an atmosphere buzzing with excitement.\nImmerse yourself in a lively and welcoming environment, surrounded by good vibes and great company. The combination of music, views, and drinks will create an atmosphere you won't want to miss.\n\nThis is your chance to be part of an extraordinary event at Casa De Juliette. Secure your Spot now and bring your friends for a night filled with music, excitement, and stunning views. See you there!",
-    "startDate": "2024-08-17T20:00:00+05:30",
-    "endDate": "2024-08-18T01:00:00+05:30",
+    "startDate": "2024-08-17 20:00:00",
+    "endDate": "2024-08-18 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2891,8 +2687,8 @@
   {
     "name": "Modd (Anjunadeep, Get Physical, All Day I Dream)",
     "description": "We\u2019re thrilled to announce that Modd, the talented artist from renowned labels ANJUNADEEP, ALL DAY I DREAM, and GET PHYSICAL, is coming to Bangalore on August 17th!\n\nGet ready for a night of mesmerizing beats and infectious energy as MODD takes over the decks!\n\nDon\u2019t miss out on this incredible opportunity to experience MODD\u2019s unique sound and groove with us!",
-    "startDate": "2024-08-17T20:00:00+05:30",
-    "endDate": "2024-08-18T01:00:00+05:30",
+    "startDate": "2024-08-17 20:00:00",
+    "endDate": "2024-08-18 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3258,7 +3054,7 @@
         "currency": "INR",
         "validFrom": "2024-08-16 13:50:04",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 198
       },
       {
         "url": "https://www.zomato.com/events/sunday-session-ft-praveen-achary-bengaluru-et48705/details",
