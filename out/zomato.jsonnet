@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 428
+        "inventory": 424
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -212,7 +212,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 197
+        "inventory": 191
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -220,7 +220,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 124
+        "inventory": 95
       },
       {
         "url": "https://www.zomato.com/events/in-the-mood-2024-lets-get-loud-bengaluru-et45912/details",
@@ -228,7 +228,7 @@
         "currency": "INR",
         "validFrom": "2024-07-21 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 128
+        "inventory": 106
       }
     ],
     "performers": [],
@@ -299,56 +299,7 @@
       "https://b.zmtcdn.com/data/zomaland/492ad0b9f8795f3719e0da56d71993051722423850.jpeg",
       "https://b.zmtcdn.com/data/zomaland/1718ddbf1ea3c0d2a61bd1e53a5386901722424163.png"
     ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
-        "price": 1770,
-        "currency": "INR",
-        "validFrom": "2024-08-16 20:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
-        "price": 1416,
-        "currency": "INR",
-        "validFrom": "2024-07-31 13:00:00",
-        "availability": "INSTOCK",
-        "inventory": 11
-      },
-      {
-        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
-        "price": 1770,
-        "currency": "INR",
-        "validFrom": "2024-07-24 13:00:00",
-        "availability": "INSTOCK",
-        "inventory": 38
-      },
-      {
-        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
-        "price": 2360,
-        "currency": "INR",
-        "validFrom": "2024-07-25 11:00:00",
-        "availability": "INSTOCK",
-        "inventory": 38
-      },
-      {
-        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
-        "price": 2950,
-        "currency": "INR",
-        "validFrom": "2024-07-31 13:00:00",
-        "availability": "INSTOCK",
-        "inventory": 7
-      },
-      {
-        "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249/details",
-        "price": 11800,
-        "currency": "INR",
-        "validFrom": "2024-07-31 13:00:00",
-        "availability": "INSTOCK",
-        "inventory": 22
-      }
-    ],
+    "tickets": [],
     "performers": [],
     "organizer": [
       {
@@ -401,7 +352,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "INSTOCK",
-        "inventory": 646
+        "inventory": 572
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -409,7 +360,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "INSTOCK",
-        "inventory": 220
+        "inventory": 219
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -499,7 +450,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 97
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -507,7 +458,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 73
+        "inventory": 72
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -523,7 +474,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -663,7 +614,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 48
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -948,7 +899,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:51",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 49
       }
     ],
     "performers": [],
@@ -1276,7 +1227,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:55",
         "availability": "INSTOCK",
-        "inventory": 68
+        "inventory": 65
       }
     ],
     "performers": [],
@@ -1370,7 +1321,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 44
+        "inventory": 33
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1378,7 +1329,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 25
+        "inventory": 21
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1386,7 +1337,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 42
+        "inventory": 38
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -2328,7 +2279,7 @@
         "currency": "INR",
         "validFrom": "2024-08-06 17:42:38",
         "availability": "INSTOCK",
-        "inventory": 19
+        "inventory": 18
       }
     ],
     "performers": [],
@@ -2636,112 +2587,6 @@
     "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et48467"
   },
   {
-    "name": "Casa De Juliette ft. Meet & Preed",
-    "description": "Join us for an unforgettable night at Casa De Juliette,\nbrought to you by Centigrade, on August 17th! Set against the stunning backdrop of Bengaluru's skyline, enjoy an evening filled with vibrant music, expertly crafted drinks, and an atmosphere buzzing with excitement.\nImmerse yourself in a lively and welcoming environment, surrounded by good vibes and great company. The combination of music, views, and drinks will create an atmosphere you won't want to miss.\n\nThis is your chance to be part of an extraordinary event at Casa De Juliette. Secure your Spot now and bring your friends for a night filled with music, excitement, and stunning views. See you there!",
-    "startDate": "2024-08-17 20:00:00",
-    "endDate": "2024-08-18 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "5th floor, 1, MG Mall, Trinity Circle, Mahatma Gandhi Rd, above 1MG Mall, Halasuru, Someshwarpura",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Casa De Juliette ft. Meet & Preed Music and Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Casa De Juliette ft. Meet & Preed Bengaluru on Zomato which is a Music and Party event happening at 5th floor, 1, MG Mall, Trinity Circle, Mahatma Gandhi Rd, above 1MG Mall, Halasuru, Someshwarpura",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f0aaf1404d08e59062160d2089f767b81723546656.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/casa-de-juliette-ft-meet-preed-bengaluru-et48470/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-13 21:00:00",
-        "availability": "INSTOCK",
-        "inventory": 193
-      },
-      {
-        "url": "https://www.zomato.com/events/casa-de-juliette-ft-meet-preed-bengaluru-et48470/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-13 21:00:00",
-        "availability": "INSTOCK",
-        "inventory": 198
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/casa-de-juliette-ft-meet-preed-bengaluru-et48470"
-  },
-  {
-    "name": "Modd (Anjunadeep, Get Physical, All Day I Dream)",
-    "description": "We\u2019re thrilled to announce that Modd, the talented artist from renowned labels ANJUNADEEP, ALL DAY I DREAM, and GET PHYSICAL, is coming to Bangalore on August 17th!\n\nGet ready for a night of mesmerizing beats and infectious energy as MODD takes over the decks!\n\nDon\u2019t miss out on this incredible opportunity to experience MODD\u2019s unique sound and groove with us!",
-    "startDate": "2024-08-17 20:00:00",
-    "endDate": "2024-08-18 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Modd (Anjunadeep, Get Physical, All Day I Dream) Music and Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Modd (Anjunadeep, Get Physical, All Day I Dream) Bengaluru on Zomato which is a Music and Party event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f2aed75c074303bbcfaa0333f70fbbff1723616792.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/modd-anjunadeep-get-physical-all-day-i-dream-bengaluru-et48565/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-14 12:00:00",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/modd-anjunadeep-get-physical-all-day-i-dream-bengaluru-et48565/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-14 12:00:00",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/modd-anjunadeep-get-physical-all-day-i-dream-bengaluru-et48565/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-14 12:00:00",
-        "availability": "INSTOCK",
-        "inventory": 199
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/modd-anjunadeep-get-physical-all-day-i-dream-bengaluru-et48565"
-  },
-  {
     "name": "SoMAD Y2K - A Early 2000s Throwback Party",
     "description": "Dress in your best 2000s fashion\u201a\u00c4\u00eethink chunky highlights, metallics, and baggy jeans.\nChanneling that Y2K vibe \uf8ff\u00fc\u00f6\u00c4 when the future was neon, and the possibilities were endless.\nGet ready to rewind the clock! \uf8ff\u00fc\u00ef\u221e\u00d4\u220f\u00e8\nExpect to jam out to the biggest hits of the millennium, play classic games, and relive the excitement of the year 2000.",
     "startDate": "2024-08-24T20:00:00+05:30",
@@ -2769,7 +2614,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 195
+        "inventory": 194
       },
       {
         "url": "https://www.zomato.com/events/somad-y2k-a-early-2000s-throwback-party-bengaluru-et48568/details",
@@ -2984,47 +2829,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649"
-  },
-  {
-    "name": "ONE NIGHT IN TULUM",
-    "description": "Get ready for an electrifying event ONE NIGHT IN TULUM at ZOZO, Bangalore! Dive into an unparalleled Techno experience featuring the sensational Sasha Carassi. This event promises an unforgettable evening filled with pulsating beats, immersive soundscapes, and high-energy vibes",
-    "startDate": "2024-08-17 18:00:00",
-    "endDate": "2024-08-18 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "33/3-A-1, D Rajgopala Road Sanjaynagar, 19, Geddalahalii, Kasaba Hobali, Bengaluru, Karnataka 560094",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "ONE NIGHT IN TULUM Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for ONE NIGHT IN TULUM Bengaluru on Zomato which is a Music event happening at 33/3-A-1, D Rajgopala Road Sanjaynagar, 19, Geddalahalii, Kasaba Hobali, Bengaluru, Karnataka 560094",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/5732cec50976d9a248046e86df70e5ab1723657380.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/one-night-in-tulum-bengaluru-et48652/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-14 23:15:00",
-        "availability": "INSTOCK",
-        "inventory": 82
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/one-night-in-tulum-bengaluru-et48652"
   },
   {
     "name": "Sunday Session ft. Praveen Achary",
