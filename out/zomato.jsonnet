@@ -187,8 +187,8 @@
   {
     "name": "In The Mood 2024 - Let's Get Loud",
     "description": "An evening of wholesome and fun entertainment for the whole family with choral music, dance, and theatre featuring all-time favourites from pop, jazz, blues, and rock with dances ranging from contemporary to ballroom and medleys from Broadway's best musicals.\r\nA fun evening for families and music lovers. Apart from the stage program there are food stalls and stalls featuring artifacts and other interesting items.",
-    "startDate": "2024-08-18T18:00:00+05:30",
-    "endDate": "2024-08-18T20:30:00+05:30",
+    "startDate": "2024-08-18 18:00:00",
+    "endDate": "2024-08-18 20:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -496,47 +496,6 @@
     "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824"
   },
   {
-    "name": "A Song for a Rainy Afternoon",
-    "description": "Join our Sip & Paint Party! We\u201a\u00c4\u00f4ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u201a\u00c4\u00f4s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \uf8ff\u00fc\u00e9\u00ae\uf8ff\u00fc\u00e7\u03a9\u00d4\u220f\u00e8\uf8ff\u00fc\u2022\u00c7",
-    "startDate": "2024-08-18T13:00:00+05:30",
-    "endDate": "2024-08-18T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "A Song for a Rainy Afternoon Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for A Song for a Rainy Afternoon Bengaluru on Zomato which is a Experiences event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/d952d5e5c22a5f7c3c7da3164fd3f26c1722340664.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/a-song-for-a-rainy-afternoon-bengaluru-et46865/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 17:45:44",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/a-song-for-a-rainy-afternoon-bengaluru-et46865"
-  },
-  {
     "name": "Starry nights",
     "description": "Join our Sip & Paint Party! We\u201a\u00c4\u00f4ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u201a\u00c4\u00f4s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \uf8ff\u00fc\u00e9\u00ae\uf8ff\u00fc\u00e7\u03a9\u00d4\u220f\u00e8\uf8ff\u00fc\u2022\u00c7",
     "startDate": "2024-08-25T13:00:00+05:30",
@@ -833,8 +792,8 @@
   {
     "name": "Sunny Tunes",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Finger Chips and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
-    "startDate": "2024-08-18T13:00:00+05:30",
-    "endDate": "2024-08-18T23:00:00+05:30",
+    "startDate": "2024-08-18 13:00:00",
+    "endDate": "2024-08-18 23:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2293,55 +2252,6 @@
     "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et47657"
   },
   {
-    "name": "Blind Date - A Sensory Experience",
-    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
-    "startDate": "2024-08-18T16:00:00+05:30",
-    "endDate": "2024-08-18T17:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Blind Date - A Sensory Experience Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1723186889.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48011/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:35",
-        "availability": "INSTOCK",
-        "inventory": 15
-      },
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48011/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:36",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et48011"
-  },
-  {
     "name": "Chai Pe Charcha",
     "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
     "startDate": "2024-08-25T15:00:00+05:30",
@@ -2465,6 +2375,47 @@
     "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48033"
   },
   {
+    "name": "Chai Pe Charcha",
+    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
+    "startDate": "2024-08-18 15:00:00",
+    "endDate": "2024-08-18 21:00:00",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711723188827.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48034/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:50",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48034"
+  },
+  {
     "name": "Juss Live India Tour",
     "description": "Get ready to be swept off your feet by the rising star, Juss! He's bringing his electrifying live show to Bangalore on 31st August. Witness his powerful vocals and captivating stage presence as he performs chart-toppers like \"SUNIYAN SUNIYAN' and SAFAR'. This is your chance to experience the future of Punjabi music live - don't miss out!",
     "startDate": "2024-08-31T20:00:00+05:30",
@@ -2528,63 +2479,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264"
-  },
-  {
-    "name": "XOOX Unlimited F&B Sunday Brunch",
-    "description": "Hello Bangalore, XOOX Brewmill is back with its popular Sunday Brunch starting this August 2024. Enjoy Live Music with Adhir Punja clubbed with Unlimited F&B every Sunday",
-    "startDate": "2024-08-18T12:30:00+05:30",
-    "endDate": "2024-08-18T15:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "XOOX Unlimited F&B Sunday Brunch Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for XOOX Unlimited F&B Sunday Brunch Bengaluru on Zomato which is a Experiences event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/d9fe4eefb416db726896ac76808e3fae1723546341.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et48467/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-08-13 21:00:00",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et48467/details",
-        "price": 1599,
-        "currency": "INR",
-        "validFrom": "2024-08-13 21:00:00",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et48467/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-08-13 21:00:00",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et48467"
   },
   {
     "name": "SoMAD Y2K - A Early 2000s Throwback Party",
@@ -2785,7 +2679,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 161
+        "inventory": 156
       },
       {
         "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
@@ -2793,7 +2687,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 184
+        "inventory": 181
       },
       {
         "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
