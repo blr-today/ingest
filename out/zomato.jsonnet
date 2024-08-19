@@ -1843,7 +1843,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 156
+        "inventory": 144
       },
       {
         "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
@@ -1851,7 +1851,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 181
+        "inventory": 179
       },
       {
         "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
