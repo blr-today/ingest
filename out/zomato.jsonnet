@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 424
+        "inventory": 422
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +57,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1097
+        "inventory": 1094
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -294,8 +294,8 @@
         "price": 9499,
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
-        "availability": "INSTOCK",
-        "inventory": 572
+        "availability": "SELLING_FAST",
+        "inventory": 462
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -385,7 +385,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 936
+        "inventory": 931
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -401,7 +401,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 72
+        "inventory": 71
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -409,7 +409,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -524,7 +524,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 43
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -760,7 +760,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:52",
         "availability": "INSTOCK",
-        "inventory": 71
+        "inventory": 68
       }
     ],
     "performers": [],
@@ -924,7 +924,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:53",
         "availability": "INSTOCK",
-        "inventory": 64
+        "inventory": 62
       }
     ],
     "performers": [],
@@ -1047,7 +1047,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:55",
         "availability": "INSTOCK",
-        "inventory": 65
+        "inventory": 62
       }
     ],
     "performers": [],
@@ -1088,7 +1088,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:55",
         "availability": "INSTOCK",
-        "inventory": 16
+        "inventory": 15
       }
     ],
     "performers": [],
@@ -1141,7 +1141,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 33
+        "inventory": 24
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1149,7 +1149,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 21
+        "inventory": 13
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1443,7 +1443,7 @@
         "currency": "INR",
         "validFrom": "2024-08-06 17:42:38",
         "availability": "INSTOCK",
-        "inventory": 18
+        "inventory": 17
       }
     ],
     "performers": [],
@@ -1672,7 +1672,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 194
+        "inventory": 178
       },
       {
         "url": "https://www.zomato.com/events/somad-y2k-a-early-2000s-throwback-party-bengaluru-et48568/details",
@@ -1680,7 +1680,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 186
       },
       {
         "url": "https://www.zomato.com/events/somad-y2k-a-early-2000s-throwback-party-bengaluru-et48568/details",

@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "name": "Yoga Brunch at the Studio by C+C",
+    "@type": "SocialEvent",
+    "url": "https://sistersinsweat.in/session_details/yoga/YogaBrunchBangalore",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "Women-only event"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "description": "\nJoin us for a peaceful, Saturday morning yoga session with Nishprah, followed by a yummy breakfast spread from C+C featuring Hello Tempayy \n \nDate: 31st\u00a0August 2024, Saturday \n \nReporting Time: 9.45\u00a0am \n \nVenue: the Studio by Copper + Cloves, Domlur \n \n*Be sure to bring a yoga mat for the session and a water bottle to stay hydrated!\n",
+    "image": "https://sistersinsweat.in/products/4c5bde74a8f110656874902f073780091724048036Saturday Yoga Session.png",
+    "location": {
+      "name": "the Studio by Copper + Cloves\r\n4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Domlur, Bengaluru, Karnataka 560071",
+      "address": "",
+      "type": "Place"
+    },
+    "startDate": "2024-08-31T10:00:00+05:30",
+    "endDate": "2024-08-31T12:00:00+05:30",
+    "offers": [
+      {
+        "price": 1250,
+        "priceCurrency": "INR"
+      }
+    ]
+  }
+]
