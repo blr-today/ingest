@@ -1539,47 +1539,6 @@
     "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48032"
   },
   {
-    "name": "Chai Pe Charcha",
-    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
-    "startDate": "2024-08-19T19:00:00+05:30",
-    "endDate": "2024-08-19T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711723188827.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48033/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:50",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48033"
-  },
-  {
     "name": "Juss Live India Tour",
     "description": "Get ready to be swept off your feet by the rising star, Juss! He's bringing his electrifying live show to Bangalore on 31st August. Witness his powerful vocals and captivating stage presence as he performs chart-toppers like \"SUNIYAN SUNIYAN' and SAFAR'. This is your chance to experience the future of Punjabi music live - don't miss out!",
     "startDate": "2024-08-31T20:00:00+05:30",
