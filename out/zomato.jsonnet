@@ -217,43 +217,6 @@
     "url": "https://www.zomato.com/events/25-single-bengaluru-et46072"
   },
   {
-    "name": "Coast Life Festival Goa",
-    "description": "We are Coast Life \u2013 a music and arts festival. Our mission is to shine a spotlight on the incredible music and culture in our region (because let\u2019s be real, it\u2019s nice out here). The 3-day gathering is set against the lush backdrop of a stunning villa in Goa, perfectly timed to embrace the magical monsoon. Coast life is designed to capture the essence of Goa and celebrate music, art, and culture with diverse and immersive experiences.",
-    "startDate": "2024-08-15 18:00:00",
-    "endDate": "2024-08-18 06:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Goa",
-        "streetAddress": "House No: 1615, off Anjuna Panchayat Road, Amani Hotel Lane, Vagator",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Coast Life Festival Goa Music, Party and Best seller event Tickets Goa - Zomato",
-    "ogDesc": "Book online tickets for Coast Life Festival Goa Goa on Zomato which is a Music, Party and Best seller event happening at House No: 1615, off Anjuna Panchayat Road, Amani Hotel Lane, Vagator",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/a692592855f76320c9efa5e8220b3c431722423992.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/1ff761b1e7b8285d73d98f02dba7ca801722423849.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/c396e6dae6b86385d6125a8afcbc96c11722423849.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/e385f6c84bab35b451b274bfa71ba1911722423849.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/492ad0b9f8795f3719e0da56d71993051722423850.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/1718ddbf1ea3c0d2a61bd1e53a5386901722424163.png"
-    ],
-    "tickets": [],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/coast-life-festival-2024-goa-et46249"
-  },
-  {
     "name": "Bryan Adams - So Happy It Hurts Tour 2024",
     "description": "Get ready to experience the International rock legend's live concert as part of his 6 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the \u2018So Happy It Hurts\u2019 World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.",
     "startDate": "2024-12-14T19:00:00+05:30",
