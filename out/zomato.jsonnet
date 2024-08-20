@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 422
+        "inventory": 413
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -295,7 +295,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 462
+        "inventory": 392
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -303,7 +303,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "INSTOCK",
-        "inventory": 219
+        "inventory": 210
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -385,7 +385,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 931
+        "inventory": 929
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -532,7 +532,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 49
+        "inventory": 47
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -760,7 +760,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:52",
         "availability": "INSTOCK",
-        "inventory": 68
+        "inventory": 67
       }
     ],
     "performers": [],
@@ -801,7 +801,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:52",
         "availability": "INSTOCK",
-        "inventory": 74
+        "inventory": 62
       }
     ],
     "performers": [],
@@ -965,7 +965,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:54",
         "availability": "INSTOCK",
-        "inventory": 73
+        "inventory": 71
       }
     ],
     "performers": [],
@@ -1047,7 +1047,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:55",
         "availability": "INSTOCK",
-        "inventory": 62
+        "inventory": 61
       }
     ],
     "performers": [],
@@ -1141,7 +1141,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 24
+        "inventory": 5
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1149,7 +1149,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 13
+        "inventory": 8
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1394,7 +1394,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:32:07",
         "availability": "INSTOCK",
-        "inventory": 69
+        "inventory": 67
       }
     ],
     "performers": [],
@@ -1435,7 +1435,7 @@
         "currency": "INR",
         "validFrom": "2024-08-06 17:42:38",
         "availability": "INSTOCK",
-        "inventory": 4
+        "inventory": 3
       },
       {
         "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et47657/details",
@@ -1443,7 +1443,7 @@
         "currency": "INR",
         "validFrom": "2024-08-06 17:42:38",
         "availability": "INSTOCK",
-        "inventory": 17
+        "inventory": 15
       }
     ],
     "performers": [],
@@ -1574,7 +1574,7 @@
         "currency": "INR",
         "validFrom": "2024-08-12 16:05:17",
         "availability": "INSTOCK",
-        "inventory": 19
+        "inventory": 18
       },
       {
         "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264/details",
@@ -1631,7 +1631,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 178
+        "inventory": 160
       },
       {
         "url": "https://www.zomato.com/events/somad-y2k-a-early-2000s-throwback-party-bengaluru-et48568/details",
@@ -1639,7 +1639,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 186
+        "inventory": 164
       },
       {
         "url": "https://www.zomato.com/events/somad-y2k-a-early-2000s-throwback-party-bengaluru-et48568/details",
@@ -1647,7 +1647,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 196
       },
       {
         "url": "https://www.zomato.com/events/somad-y2k-a-early-2000s-throwback-party-bengaluru-et48568/details",
@@ -1802,7 +1802,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 144
+        "inventory": 95
       },
       {
         "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
@@ -1810,7 +1810,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 179
+        "inventory": 170
       },
       {
         "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
@@ -3165,7 +3165,7 @@
         "currency": "INR",
         "validFrom": "2024-08-16 22:15:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 93
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et48781/details",
@@ -3258,5 +3258,111 @@
       }
     ],
     "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946"
+  },
+  {
+    "name": "Indulge ft. Katalyst",
+    "description": "Join us on the 24th of August at the stunning 7 Rivers Brewing Co. for a night of electrifying beats and unparalleled vibes as the renowned Katalyst takes over the poolside. Expect a night filled with next-level music, ice-cold beers, and an atmosphere that\u2019s nothing short of extraordinary. Don\u2019t miss out on this immersive experience!",
+    "startDate": "2024-08-30T20:00:00+05:30",
+    "endDate": "2024-08-31T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Indulge ft. Katalyst Trending and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Indulge ft. Katalyst Bengaluru on Zomato which is a Trending and Music event happening at Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3ebafa96452b2eda1e6ce484e4eb8bbb1724149479.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/indulge-ft-katalyst-bengaluru-et49038/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-20 16:16:13",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/indulge-ft-katalyst-bengaluru-et49038/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-20 16:16:14",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/indulge-ft-katalyst-bengaluru-et49038"
+  },
+  {
+    "name": "CentiGrade Club Nights ft. Calm Chor",
+    "description": "Join us on the 24th of August at the stunning 7 Rivers Brewing Co. for a night of electrifying beats and unparalleled vibes as the renowned Katalyst takes over the poolside. Expect a night filled with next-level music, ice-cold beers, and an atmosphere that\u2019s nothing short of extraordinary. Don\u2019t miss out on this immersive experience!",
+    "startDate": "2024-08-25T20:00:00+05:30",
+    "endDate": "2024-08-26T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "CentiGrade Club Nights ft. Calm Chor Trending and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for CentiGrade Club Nights ft. Calm Chor Bengaluru on Zomato which is a Trending and Music event happening at Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/286fb0ea4fc2c0d12eee2e8c2678c5ab1724149550.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/centigrade-club-nights-ft-calm-chor-bengaluru-et49039/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-20 16:16:12",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/centigrade-club-nights-ft-calm-chor-bengaluru-et49039/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-20 16:16:12",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/centigrade-club-nights-ft-calm-chor-bengaluru-et49039/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-20 16:16:13",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/centigrade-club-nights-ft-calm-chor-bengaluru-et49039"
   }
 ]
