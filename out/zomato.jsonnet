@@ -3185,5 +3185,78 @@
       }
     ],
     "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et48781"
+  },
+  {
+    "name": "SoMAD Mehfil Ft. Dj Czetan at Badmaash UB",
+    "description": "SoMAD Mehfil [ \u092e\u0939\u092b\u093c\u093f\u0932 - \u0645\u062d\u0641\u0644 ] Party is not just an event but a cherished experience where art, culture, and community converge & create Lasting Memories. Come celebrate The Essence of our South Asian Tradition at Badmaash UB City | Bengaluru\n\nDress Code: Ethnic or Indian Party Wear or Indo-Western!\n\nOur Ethnic Wear Party isn't just an event; it's a celebration of unity in diversity, a tribute to the beauty of traditions that bind us together as a global community. It's an opportunity to learn, appreciate, and cherish the threads that connect us across cultures, leaving us with memories as colorful and vibrant as the garments we wear.\n\nJoin us as we honor the past, celebrate the present, and embrace the future \u2014 one thread at a time.\n\nRSVP NOW!\n\nSUPER LIMITED CAPACITY EVENT",
+    "startDate": "2024-08-31T20:30:00+05:30",
+    "endDate": "2024-09-01T00:45:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "UB City, 203, 2nd Floor, The Collection, 24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "SoMAD Mehfil Ft. Dj Czetan at Badmaash UB Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for SoMAD Mehfil Ft. Dj Czetan at Badmaash UB Bengaluru on Zomato which is a Music event happening at UB City, 203, 2nd Floor, The Collection, 24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/8342cb15563a9c7aff8cd0f4c55f14131724130056.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-20 10:37:46",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-20 10:37:47",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-08-20 10:37:47",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
+        "price": 1725,
+        "currency": "INR",
+        "validFrom": "2024-08-20 10:37:48",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
+        "price": 2875,
+        "currency": "INR",
+        "validFrom": "2024-08-20 10:37:48",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946"
   }
 ]
