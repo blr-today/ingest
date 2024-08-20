@@ -122,7 +122,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 32,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 12,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -570,7 +570,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 49,
+    "remainingAttendeeCapacity": 48,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -619,7 +619,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -668,7 +668,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -696,60 +696,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Garden Wine & Cheese Tasting Party",
-    "description": "Bangalore! You asked for it, and we\u2019re delivering\u2014get ready for a super fun and unwind-worthy wine & cheese tasting in the perfect garden setting!Join us for our next wine-tasting experience - an epic garden party where you\u2019ll explore 12 deliciously refreshing wines from Garden By Su\u2019s new menu with Somm Devati Mallick. It\u2019s a casual, walk-around tasting format so you can sip and mingle at your own pace.And let\u2019s not forget the pi\u00e8ce de r\u00e9sistance\u2014an epic cheese grazing station, brought to you by award-winning artisan cheese brand K\u00e4se from Chennai. Chat all things wine and cheese with Devati (Drink with D) and Namrata (K\u00e4se), discover new favourite sips and new friends, and soak in those gorgeous garden vibes.Whether you come with friends or roll solo, this will be a blast! Don\u2019t miss out on this awesome new wine-tasting spot in the city. See you there?",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A0A76C818233490BB8B6B35CA6E9CAB1_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3FE0EFFE246B460AA356CE837D196EDC_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C4042526F2AA4FD49D3586E398FE0AE0_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8D2BC8C7A54740958E303E94BABCBBC5_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7A57F8019692413893636130EC9625ED_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/17F5D021F5F34127B126FFD2B9CB0DA2_converted_webp.webp"
-    ],
-    "startDate": "2024-08-31T17:00:00+05:30",
-    "endDate": "2024-08-31T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "499/32-4, 9th Main, 46th Cross Rd, 5th Block, TMC Layout, 5th Block, Jayanagar, Bengaluru, Karnataka 560078, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGwElffQVrjsRMAfbj-Oqft0",
-      "latitude": "12.91665750000000000000",
-      "longitude": "77.58355050000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 3,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1750.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Drink With D",
-      "description": "DWD is a Sommelier-led wine consulting and wine experience brand. Join us in exploring the fascinating world of wine through fun tastings and curated experiences!",
-      "url": "https://urbanaut.app/partner/drinkwithd",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/drwbzxdvf1-1707303470215dwdjpglogojpg.jpg",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-88600-24590"
-      }
-    },
-    "url": "https://urbanaut.app/spot/garden-wine-cheese-tasting-party",
-    "keywords": [
-      "Food & drink",
-      "Leisure",
-      "Workshop",
-      "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Bring Home Bihar",
     "description": "Tijouri is a pioneering Indian restaurant that offers a unique dining experience through monthly pop-ups featuring home chefs from across India. Located at Radisson Blu Atria, Bangalore, Tijouri aims to bring the diverse flavours of India to the heart of Bangalore, celebrating the rich culinary traditions of the country through an authentic and immersive dining experience. Our mission is to preserve traditional recipes and introduce them to a wider audience through both dining experiences and retail products.As our third pop up we Bring Home Bihar by Rachana Prasad. Rachana, Inspired by father & grandfather Rachna wants to showcase the various facets of Bihari cuisine to the world outside of the usual litthi chokka.**** Come prepared for the spice!*****Welcome drink Gud ka SharbatStarterMutton goliJingo pakoraTaruaDal PithaFirst Mains (served with Tikona Paratha)Sarsowali bhindiChamparan Mutton/ Dehati MurgiSecond Mains (served with rice)Godilla (red chickpea mince curry)Chotka Aloo ka BhujiyaRohu MaachliDessertThekua with sorbetThis menu only indicates the food that will be served and is subject to change.Terms & Conditions:Please arrive punctually.Late arrivals may miss the first few courses.Booking Fee are non-refundable under all circumstances once booked. Tickets are transferrable to a third party.No shows/ cancellations will not be refunded, but you can reschedule your booking for within the week 48hrs before your slot is due.Alcohol will not be served to guests under the age of 21No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.The booking fee total includes the online transaction fee.Parking at the event premises is at the risk of the vehicle owner.Valet is available.Photographs and videos of ticket holders may be uploaded to social media. Incase you do not wish to be featured, let our team know.",
     "image": [
@@ -770,7 +716,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1118,7 +1064,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 48,
+    "remainingAttendeeCapacity": 47,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1167,7 +1113,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 35,
+    "remainingAttendeeCapacity": 32,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1216,7 +1162,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 46,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1314,7 +1260,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 49,
+    "remainingAttendeeCapacity": 45,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1409,7 +1355,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1459,7 +1405,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1505,7 +1451,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 9,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1551,7 +1497,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 28,
+    "remainingAttendeeCapacity": 27,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1601,7 +1547,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1653,7 +1599,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
