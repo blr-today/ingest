@@ -2989,103 +2989,6 @@
     "url": "https://www.zomato.com/events/night-camping-trek-activities-ramanagar-bengaluru-et48739"
   },
   {
-    "name": "Rahul Jain Live",
-    "description": "Prepare for a night of soulful melodies and electrifying beats as Rahul Jain takes the stage at Sunburn Union in Bangalore! \u00f0\u0178\u017d\u00b6 Join us on the 25th of August for an unforgettable evening filled with heartwarming music and dynamic performances.\n\nKick off the night with an energetic opening act by DJ Hassan \u00f0\u0178\u017d\u00a7, setting the perfect tone for an evening of musical delight. Then, let Rahul Jain, a singer and musical composer known for his soul-stirring voice and heartfelt compositions, sweep you off your feet with his live performance. \u00f0\u0178\u0152\u0178\n\n\u00e2\u0153\u00a8 Highlights:\n\u00f0\u0178\u017d\u00a4 Live Performance by Rahul Jain: Enjoy a soulful evening with his top hits.\n\u00f0\u0178\u017d\u00a7 Opening Act by DJ Hassan: Get the party started with electrifying beats.\n\u00f0\u0178\u017d\u00b6 Intimate Concert Vibe: Feel the music up close in a cosy setting.",
-    "startDate": "2024-08-25T19:00:00+05:30",
-    "endDate": "2024-08-26T01:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Rahul Jain Live Music and Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rahul Jain Live Bengaluru on Zomato which is a Music and Party event happening at passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f1ae1169c4fc0108a97aac6c03b407841723809669.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-08-16 17:42:02",
-        "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-08-16 17:42:03",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
-        "price": 399,
-        "currency": "INR",
-        "validFrom": "2024-08-16 17:42:03",
-        "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-16 17:42:04",
-        "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-08-16 17:42:04",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
-        "price": 699,
-        "currency": "INR",
-        "validFrom": "2024-08-16 17:42:05",
-        "availability": "INSTOCK",
-        "inventory": 150
-      },
-      {
-        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
-        "price": 12000,
-        "currency": "INR",
-        "validFrom": "2024-08-16 17:42:05",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759/details",
-        "price": 25000,
-        "currency": "INR",
-        "validFrom": "2024-08-16 17:42:06",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/rahul-jain-live-bengaluru-et48759"
-  },
-  {
     "name": "Bengaluru Pupper Party",
     "description": "Hey Bengaluru we are back with another Paw-ty at Wag-ville, Get ready for all the barks, woofs, and a day filled with all the fun\nInclusions: \nExciting games & gifts for your pets\n Free pet food buffet\nFree Basic health check-up\n A goodie bag for all Pets\nNo charges for pets!\n\nOnground tickets will be priced at 700/- per person \n\nFree Pet Fed Membership worth Rs. 999 (first 50 bookings)",
     "startDate": "2024-09-08T15:00:00+05:30",
@@ -3177,7 +3080,7 @@
         "currency": "INR",
         "validFrom": "2024-08-20 10:37:46",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 194
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
@@ -3185,7 +3088,7 @@
         "currency": "INR",
         "validFrom": "2024-08-20 10:37:47",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 194
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
@@ -3327,5 +3230,111 @@
       }
     ],
     "url": "https://www.zomato.com/events/centigrade-club-nights-ft-calm-chor-bengaluru-et49039"
+  },
+  {
+    "name": "XOOX Unlimited F&B Sunday Brunch",
+    "description": "Hello Bangalore, XOOX Brewmill is back with its popular Sunday Brunch starting this August 2024. Enjoy Live Music with Adhir Punja clubbed with Unlimited F&B every Sunday",
+    "startDate": "2024-08-25T12:30:00+05:30",
+    "endDate": "2024-08-25T15:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "XOOX Unlimited F&B Sunday Brunch Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for XOOX Unlimited F&B Sunday Brunch Bengaluru on Zomato which is a Experiences event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/4cc269b6d788edc0c1a2ca23f29b0f1f1724220320.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et49123/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-08-21 11:41:40",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et49123/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-08-21 11:41:41",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et49123/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-08-21 11:41:41",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et49123"
+  },
+  {
+    "name": "Paint with Puppies",
+    "description": "Have you ever dreamed of painting alongside the most adorable companions imaginable? Now's your chance! Don't miss out on the event of the month: Painting with Puppies! It's not just a workshop; it's an unforgettable experience that will touch your heart and ignite your creativity like never before.\nImagine yourself surrounded by cuddly, adoptable puppies, their wagging tails and playful energy inspiring every brushstroke. But it's not just about painting; it's about making a difference. With each ticket purchased, you're supporting animal welfare initiatives, spreading love and compassion to those who need it most.\nIndulge in unlimited snuggles, laughter, and pure joy as you create your masterpiece alongside your furry friends. This isn't just another workshop\u2014it's a chance to create memories that will last a lifetime while giving back to the community.",
+    "startDate": "2024-09-01T10:30:00+05:30",
+    "endDate": "2024-09-01T12:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "#36, 3rd floor, 14th Main Rd, Sector 7, HSR Layout, Bengaluru, Karnataka 560102",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Paint with Puppies Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Paint with Puppies Bengaluru on Zomato which is a Experiences event happening at #36, 3rd floor, 14th Main Rd, Sector 7, HSR Layout, Bengaluru, Karnataka 560102",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/2b790287d9897f82667eaa8ec62d7d3a1724239539.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et49183/details",
+        "price": 1299,
+        "currency": "INR",
+        "validFrom": "2024-08-21 17:15:34",
+        "availability": "INSTOCK",
+        "inventory": 7
+      },
+      {
+        "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et49183/details",
+        "price": 2299,
+        "currency": "INR",
+        "validFrom": "2024-08-21 17:15:35",
+        "availability": "INSTOCK",
+        "inventory": 20
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et49183"
   }
 ]

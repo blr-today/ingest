@@ -34,5 +34,41 @@
         "priceCurrency": "INR"
       }
     ]
+  },
+  {
+    "name": "Upper-body Calisthenics Workshop",
+    "@type": "SocialEvent",
+    "url": "https://sistersinsweat.in/session_details/fitness/CalisthenicsWorkshop",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "Women-only event"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "description": "\nJoin us for a 90-minute empowering workshop designed exclusively for women to master the fundamentals of upper body calisthenics. Whether you're a beginner or looking to refine your skills, this session will focus on building strength, improving form, and gaining confidence in your bodyweight training. Together, we'll cover essential exercises like push-ups, dips, and pull-ups, breaking them down step-by-step to ensure you leave with a solid foundation. Come ready to challenge yourself, learn new techniques, and connect with like-minded women on the same journey toward a stronger, fitter you!\u00a0 \n \nPost the session, you can enjoy some refreshing kombucha from Atmosphere Studio on the house! \n \nDate: 1st Septembr 2024, Sunday \n \nReporting\u00a0Time: 9.45\u00a0am \n \nVenue: CaliOG, Koramangla \n \nCall or WhatsApp Saachi (9513334690) for any queries \n \n*please carry a water bottle to keep you hydrated \n \n\u00a0\n",
+    "image": "https://sistersinsweat.in/products/ef4e3b775c934dada217712d76f3d51f1724227940Workshop (1).png",
+    "location": {
+      "name": "CaliOG\r\n84, 1st C Main Rd, Jakkasandra, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034",
+      "address": "",
+      "type": "Place"
+    },
+    "startDate": "2024-09-01T10:00:00+05:30",
+    "endDate": "2024-09-01T12:00:00+05:30",
+    "offers": [
+      {
+        "price": 499,
+        "priceCurrency": "INR"
+      }
+    ]
   }
 ]
