@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 413
+        "inventory": 407
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -258,7 +258,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 392
+        "inventory": 296
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -348,7 +348,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 929
+        "inventory": 928
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -364,7 +364,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 71
+        "inventory": 70
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -380,7 +380,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 98
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -429,7 +429,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 17:45:44",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 48
       }
     ],
     "performers": [],
@@ -470,7 +470,7 @@
       "https://b.zmtcdn.com/data/zomaland/75f050e10f4f32da7cb813b3e1f48f771722504826.png",
       "https://b.zmtcdn.com/data/zomaland/1024f4a02ac2c89c7cc40a695f3c45631722504826.png",
       "https://b.zmtcdn.com/data/zomaland/32d5b230d7a4dc6aeb2ae881b28dbbbd1723112621.png",
-      "https://b.zmtcdn.com/data/zomaland/7e142220d085becfeb4ab2946b72dbb51723184399.png"
+      "https://b.zmtcdn.com/data/zomaland/2364cdeade40679d09b14646949e017d1724220867.png"
     ],
     "tickets": [
       {
@@ -479,7 +479,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 48
+        "inventory": 46
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -487,7 +487,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 43
+        "inventory": 40
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -696,47 +696,6 @@
     "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-08-21T20:30:00+05:30",
-    "endDate": "2024-08-21T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/6f25c193297d1099d65190440fc5b19c1722444217.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47098/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-31 22:28:52",
-        "availability": "INSTOCK",
-        "inventory": 67
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47098"
-  },
-  {
     "name": "Boogie Nights",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ PRASHU and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-08-23T20:30:00+05:30",
@@ -887,7 +846,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:53",
         "availability": "INSTOCK",
-        "inventory": 62
+        "inventory": 52
       }
     ],
     "performers": [],
@@ -928,7 +887,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:54",
         "availability": "INSTOCK",
-        "inventory": 71
+        "inventory": 67
       }
     ],
     "performers": [],
@@ -1010,7 +969,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:55",
         "availability": "INSTOCK",
-        "inventory": 61
+        "inventory": 58
       }
     ],
     "performers": [],
@@ -1051,7 +1010,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:55",
         "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 13
       }
     ],
     "performers": [],
@@ -1100,11 +1059,11 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
-        "price": 2499,
+        "price": 2999,
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 5
+        "availability": "INSTOCK",
+        "inventory": 491
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1112,7 +1071,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 8
+        "inventory": 4
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1120,7 +1079,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 38
+        "inventory": 36
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1149,6 +1108,14 @@
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
         "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-08-01 09:00:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
+        "price": 2499,
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "SOLDOUT",
@@ -1193,7 +1160,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:32:05",
         "availability": "INSTOCK",
-        "inventory": 68
+        "inventory": 60
       }
     ],
     "performers": [],
@@ -1357,7 +1324,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:32:07",
         "availability": "INSTOCK",
-        "inventory": 67
+        "inventory": 65
       }
     ],
     "performers": [],
@@ -1406,7 +1373,7 @@
         "currency": "INR",
         "validFrom": "2024-08-06 17:42:38",
         "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 13
       }
     ],
     "performers": [],
@@ -1447,7 +1414,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 13:30:42",
         "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 14
       }
     ],
     "performers": [],
@@ -1502,6 +1469,71 @@
     "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48032"
   },
   {
+    "name": "Speed Dating",
+    "description": "Tired of swiping and texting? Come, join us at our social mixer to meet potential dates and friends in real life.\nWe`ve designed this event to boost intimacy between curated attendees, resulting in friendship, romance, and even marriage.\nOur fun icebreakers and speed dating games during the event facilitate mindful conversations and deep connections.\nSo come, and experience some cool, quirky games for introverts to break the ice without any pressure! \nSeek a friend, flatmate, date, or startup soulmate- find it all at Speed Dating!",
+    "startDate": "2024-08-24T18:00:00+05:30",
+    "endDate": "2024-08-24T20:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Speed Dating Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Speed Dating Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/4588abc050c4cafdf66c8efd1ffd7a481723189156.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48035/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:43",
+        "availability": "INSTOCK",
+        "inventory": 20
+      },
+      {
+        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48035/details",
+        "price": 1299,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:44",
+        "availability": "INSTOCK",
+        "inventory": 5
+      },
+      {
+        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48035/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:44",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48035/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:44",
+        "availability": "INSTOCK",
+        "inventory": 12
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48035"
+  },
+  {
     "name": "Juss Live India Tour",
     "description": "Get ready to be swept off your feet by the rising star, Juss! He's bringing his electrifying live show to Bangalore on 31st August. Witness his powerful vocals and captivating stage presence as he performs chart-toppers like \"SUNIYAN SUNIYAN' and SAFAR'. This is your chance to experience the future of Punjabi music live - don't miss out!",
     "startDate": "2024-08-31T20:00:00+05:30",
@@ -1512,13 +1544,13 @@
     "locations": [
       {
         "place": "Bengaluru",
-        "streetAddress": "Bengaluru",
+        "streetAddress": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, Bengaluru",
         "addressCountry": "India"
       }
     ],
     "isAccessibleForFree": false,
     "ogTitle": "Juss Live India Tour Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Juss Live India Tour Bengaluru on Zomato which is a Music event happening at Bengaluru",
+    "ogDesc": "Book online tickets for Juss Live India Tour Bengaluru on Zomato which is a Music event happening at Ground Floor 1st Main Road 23, Ganapathi Temple Rd, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/4aab13ad164e50393b01eb9b61bfa96a1723453877.png"
     ],
@@ -1594,7 +1626,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 160
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/somad-y2k-a-early-2000s-throwback-party-bengaluru-et48568/details",
@@ -1602,7 +1634,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 164
+        "inventory": 132
       },
       {
         "url": "https://www.zomato.com/events/somad-y2k-a-early-2000s-throwback-party-bengaluru-et48568/details",
@@ -1610,7 +1642,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 195
       },
       {
         "url": "https://www.zomato.com/events/somad-y2k-a-early-2000s-throwback-party-bengaluru-et48568/details",
@@ -1708,7 +1740,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 18:00:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/pou-live-bengaluru-et48621/details",
@@ -1765,7 +1797,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 95
+        "inventory": 72
       },
       {
         "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
@@ -1773,7 +1805,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 170
+        "inventory": 158
       },
       {
         "url": "https://www.zomato.com/events/the-honey-mustard-party-bengaluru-et48649/details",
@@ -3031,7 +3063,7 @@
         "currency": "INR",
         "validFrom": "2024-08-16 22:15:00",
         "availability": "INSTOCK",
-        "inventory": 93
+        "inventory": 91
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et48781/details",
@@ -3128,8 +3160,8 @@
   {
     "name": "Indulge ft. Katalyst",
     "description": "Join us on the 24th of August at the stunning 7 Rivers Brewing Co. for a night of electrifying beats and unparalleled vibes as the renowned Katalyst takes over the poolside. Expect a night filled with next-level music, ice-cold beers, and an atmosphere that\u2019s nothing short of extraordinary. Don\u2019t miss out on this immersive experience!",
-    "startDate": "2024-08-30T20:00:00+05:30",
-    "endDate": "2024-08-31T01:00:00+05:30",
+    "startDate": "2024-08-24T20:00:00+05:30",
+    "endDate": "2024-08-25T01:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3151,15 +3183,15 @@
         "url": "https://www.zomato.com/events/indulge-ft-katalyst-bengaluru-et49038/details",
         "price": 0,
         "currency": "INR",
-        "validFrom": "2024-08-20 16:16:13",
+        "validFrom": "2024-08-20 20:56:57",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/indulge-ft-katalyst-bengaluru-et49038/details",
         "price": 0,
         "currency": "INR",
-        "validFrom": "2024-08-20 16:16:14",
+        "validFrom": "2024-08-20 20:57:33",
         "availability": "INSTOCK",
         "inventory": 100
       }
@@ -3176,7 +3208,7 @@
   },
   {
     "name": "CentiGrade Club Nights ft. Calm Chor",
-    "description": "Join us on the 24th of August at the stunning 7 Rivers Brewing Co. for a night of electrifying beats and unparalleled vibes as the renowned Katalyst takes over the poolside. Expect a night filled with next-level music, ice-cold beers, and an atmosphere that\u2019s nothing short of extraordinary. Don\u2019t miss out on this immersive experience!",
+    "description": "Get ready for an electrifying night as CentiGrade Club Nights returns with a special set by the renowned artist Calm Chor at Kitty Ko this Sunday, 25th August . Known for his hypnotic beats and unique style, Calm Chor is set to take you on a musical journey that will keep you dancing all night long. Don\u2019t miss out on this unforgettable experience at one of Bangalore\u2019s most iconic venue. Mark your calendars and prepare for a night of unparalleled energy and vibe!",
     "startDate": "2024-08-25T20:00:00+05:30",
     "endDate": "2024-08-26T01:00:00+05:30",
     "timezone": "+05:30",
@@ -3202,7 +3234,7 @@
         "currency": "INR",
         "validFrom": "2024-08-20 16:16:12",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/centigrade-club-nights-ft-calm-chor-bengaluru-et49039/details",
@@ -3218,7 +3250,7 @@
         "currency": "INR",
         "validFrom": "2024-08-20 16:16:13",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 96
       }
     ],
     "performers": [],

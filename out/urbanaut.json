@@ -502,53 +502,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Best Gin Cocktails in Town!",
-    "description": "Join us for a gin-tastic meet-up where strangers turn into friends over expertly crafted gin cocktails. Sip on creative concoctions, share laughs, and dive into intriguing conversations with a lively crowd. Whether you're a gin lover or just in it for the social vibe, this evening promises great drinks, new connections, and plenty of memorable moments. Let\u2019s raise a glass and have some fun!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CFA3C945378143A5AA36A37CFEF4BA12_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5F9ED9BDBA23482D8BAD1955A302CF41_converted_webp.webp"
-    ],
-    "startDate": "2024-08-21T20:30:00+05:30",
-    "endDate": "2024-08-21T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "14/1, Wood St, Ashok Nagar, Bengaluru, Karnataka 560025, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJlZ2RuyoUrjsRVJE3jF7lfXg",
-      "latitude": "12.96690280000000000000",
-      "longitude": "77.60878060000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3000.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "TwoTablesClub",
-      "description": "Where a small group of strangers come together for genuine conversations & spontaneous connections  over a curated meal. Guided by a host every Table is a mix of locals & newcomers sharing stories of their roots & dreams",
-      "url": "https://urbanaut.app/partner/twotablesclub",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/wysxdsvnko-1707810356440ttclogojpg.jpg",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-81399-06300"
-      }
-    },
-    "url": "https://urbanaut.app/spot/best-gin-cocktails-in-town",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Friday Adda - Drinks & Conversations with Strangers",
     "description": "Enjoy an evening having fun conversation with a bunch of diverse folks over drinks & food.Exchange stories, laughter & make memories.",
     "image": [
