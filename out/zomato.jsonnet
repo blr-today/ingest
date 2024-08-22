@@ -3368,5 +3368,46 @@
       }
     ],
     "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et49183"
+  },
+  {
+    "name": "Sairaah Live",
+    "description": "Join us for an unforgettable night as Sairaah takes the stage at Radio Bar, RMZ Ecoworld, Bellandur. Save the date\u2014Friday, 23rd August, from 8 PM onwards. Let the melodies sweep you off your feet!\n\nLimited spots available, book your table now!",
+    "startDate": "2024-08-23T20:00:00+05:30",
+    "endDate": "2024-08-23T23:50:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Sairaah Live Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sairaah Live Bengaluru on Zomato which is a Music event happening at Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/7dd89d4ade6f7212dcacf84e66425e221724304712.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/sairaah-live-bengaluru-et49219/details",
+        "price": 300,
+        "currency": "INR",
+        "validFrom": "2024-08-22 11:06:37",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/sairaah-live-bengaluru-et49219"
   }
 ]
