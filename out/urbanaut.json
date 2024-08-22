@@ -74,7 +74,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 62,
+    "remainingAttendeeCapacity": 52,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -171,7 +171,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 28,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -323,7 +323,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -371,7 +371,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 38,
+    "remainingAttendeeCapacity": 36,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -420,7 +420,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -558,55 +558,6 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/91153DB1234D4E7EB9AD658F32744013_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BE26D268AEA3400C8D4D2DC507B135D6_converted_webp.webp"
     ],
-    "startDate": "2024-08-21T19:30:00+05:30",
-    "endDate": "2024-08-21T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "1, Palace Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJx154PW0WrjsREG4GX2L3FuI",
-      "latitude": "12.98023500000000000000",
-      "longitude": "77.58606100000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 17,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2600.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Tijouri",
-      "description": null,
-      "url": "https://urbanaut.app/partner/tijouri",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/985742089C9A4D15B189CA4035297B9A_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97416-19560"
-      }
-    },
-    "url": "https://urbanaut.app/spot/bringhomebihar#2024-08-21T1930",
-    "keywords": [
-      "Food & drink",
-      "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Bring Home Bihar",
-    "description": "Tijouri is a pioneering Indian restaurant that offers a unique dining experience through monthly pop-ups featuring home chefs from across India. Located at Radisson Blu Atria, Bangalore, Tijouri aims to bring the diverse flavours of India to the heart of Bangalore, celebrating the rich culinary traditions of the country through an authentic and immersive dining experience. Our mission is to preserve traditional recipes and introduce them to a wider audience through both dining experiences and retail products.As our third pop up we Bring Home Bihar by Rachana Prasad. Rachana, Inspired by father & grandfather Rachna wants to showcase the various facets of Bihari cuisine to the world outside of the usual litthi chokka.**** Come prepared for the spice!*****Welcome drink Gud ka SharbatStarterMutton goliJingo pakoraTaruaDal PithaFirst Mains (served with Tikona Paratha)Sarsowali bhindiChamparan Mutton/ Dehati MurgiSecond Mains (served with rice)Godilla (red chickpea mince curry)Chotka Aloo ka BhujiyaRohu MaachliDessertThekua with sorbetThis menu only indicates the food that will be served and is subject to change.Terms & Conditions:Please arrive punctually.Late arrivals may miss the first few courses.Booking Fee are non-refundable under all circumstances once booked. Tickets are transferrable to a third party.No shows/ cancellations will not be refunded, but you can reschedule your booking for within the week 48hrs before your slot is due.Alcohol will not be served to guests under the age of 21No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.The booking fee total includes the online transaction fee.Parking at the event premises is at the risk of the vehicle owner.Valet is available.Photographs and videos of ticket holders may be uploaded to social media. Incase you do not wish to be featured, let our team know.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FE7A8AC2BF284F4D810C9FA99C301D4B_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/91153DB1234D4E7EB9AD658F32744013_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BE26D268AEA3400C8D4D2DC507B135D6_converted_webp.webp"
-    ],
     "startDate": "2024-08-22T19:30:00+05:30",
     "endDate": "2024-08-22T22:00:00+05:30",
     "location": {
@@ -620,7 +571,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 20,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -919,7 +870,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 47,
+    "remainingAttendeeCapacity": 41,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -968,7 +919,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1005,7 +956,7 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3DBA337E9AE54F39A966376F8E13C3E8_converted_webp.webp"
     ],
     "startDate": "2024-08-23T22:30:00+05:30",
-    "endDate": "2024-08-23T00:45:00+05:30",
+    "endDate": "2024-08-23T23:55:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -1115,7 +1066,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 41,
+    "remainingAttendeeCapacity": 31,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1152,7 +1103,7 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3DBA337E9AE54F39A966376F8E13C3E8_converted_webp.webp"
     ],
     "startDate": "2024-08-24T22:30:00+05:30",
-    "endDate": "2024-08-24T00:45:00+05:30",
+    "endDate": "2024-08-24T23:55:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -1164,7 +1115,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 47,
+    "remainingAttendeeCapacity": 45,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1210,7 +1161,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 3,
+    "remainingAttendeeCapacity": 1,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1235,52 +1186,6 @@
       "Food & drink",
       "Leisure",
       "COURTYARD",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Sunday Breakfast with Strangers",
-    "description": "Start your day right with a scrumptious breakfast.But it's not just about the food! It's about fostering connections and creating memorable moments. Meet new acquaintances, and enjoy engaging conversations over steaming cups of coffee & waffles.Don't miss out on this opportunity to kick off your day with a hearty breakfast and uplifting conversations. Mark your calendarWe look forward to sharing this delightful morning with you!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/hnajx409sg-1708968086881breakfasttable1jpg.jpg",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6xhdgf5lgv-1708968100117breakfasttablejpg.jpg"
-    ],
-    "startDate": "2024-08-25T10:00:00+05:30",
-    "endDate": "2024-08-25T11:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3275, 1st Floor, 12th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3Tg2nYwXrjsR6IFy6nWA1KI",
-      "latitude": "12.97000760000000000000",
-      "longitude": "77.63627040000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 3,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "TwoTablesClub",
-      "description": "Where a small group of strangers come together for genuine conversations & spontaneous connections  over a curated meal. Guided by a host every Table is a mix of locals & newcomers sharing stories of their roots & dreams",
-      "url": "https://urbanaut.app/partner/twotablesclub",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/wysxdsvnko-1707810356440ttclogojpg.jpg",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-81399-06300"
-      }
-    },
-    "url": "https://urbanaut.app/spot/copy-of-sunday-breakfast-with-strangers-4943",
-    "keywords": [
       "URBANAUT"
     ]
   },
@@ -1352,7 +1257,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1401,8 +1306,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 14,
+    "maximumAttendeeCapacity": 22,
+    "remainingAttendeeCapacity": 13,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1453,8 +1358,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 16,
+    "maximumAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1497,8 +1402,8 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3AE78BC403504D7C9C66E2936B278C2A_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/03EACE4E083F457E8C671A2F875B8526_converted_webp.webp"
     ],
-    "startDate": "2024-08-25T11:00:00+05:30",
-    "endDate": "2024-08-25T14:00:00+05:30",
+    "startDate": "2024-08-24T16:00:00+05:30",
+    "endDate": "2024-08-24T19:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": "Copper + Cloves",
@@ -1659,7 +1564,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1709,7 +1614,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1759,7 +1664,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1809,7 +1714,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 24,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
