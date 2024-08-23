@@ -1348,6 +1348,67 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Janapada Kala Darshana",
+    "description": "\"Janapada Kala Darshana\" is a vibrant and cultural event that celebrates the essence of rural life, traditions and cuisine of Karnataka.\u00a0Explore the rich heritage and history of the region with a guided museum tour at Jana Pada loka, showcasing artifacts and exhibits that highlight the cultural significance of the area.Enjoy sumptuous traditional meals at Kamat Lokaruchi, featuring an array of authentic local dishes that are served in a picturesque traditional village setup, offering a taste of rural life.Visit to chennapatna toy workshop run by Shilpa Trust, where artisans craft exquisite traditional toys, offering insights into the age-old art of toy making.\u00a0Immerse yourself in the cultural heritage of the region with captivating performances like Dollu Kunitha, a dynamic and rhythmic drum dance.\"Janapada Kala Darshana\" promises a delightful blend of cultural immersion, culinary delights, and interactive experiences that showcase the beauty of rural life and traditions.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/758FB288E5D54E5DB5945F868E83020C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E5CDDAC8CEE94A36ACDA67162A1B8D84_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/55C39F5AC8AF4DF6975E0C6611F2BF4A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F3B196F1B57645258D69FCE89A2D209A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F23AB0DBB66045AA8E61C65DAB0ECB29_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F1CABBC156394930A100BB56BC3AF23C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F849FD600FEF490FBF70DBAE4A862A1F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/936D9C0C7B3C4B269DA6A7BAAB1EB834_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8C58A9623B5540BFB2898DDC49B3D97B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4FA49B060B4746FC83C2B960FC1AC802_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/56E07CA09FE3446D923E06B9646083B1_converted_webp.webp"
+    ],
+    "startDate": "2024-08-24T08:30:00+05:30",
+    "endDate": "2024-08-24T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Doddamannugudde Forest, Karnataka 562159, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJvSFZ04xNrjsR89nKTvaj3jM",
+      "latitude": "12.70045660000000000000",
+      "longitude": "77.25224260000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 100,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "550.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "JANAPADA KALA DARSHANA",
+      "description": "\"Janapada Kala Darshana\" is a vibrant and cultural event that celebrates the essence of rural life, traditions and cuisine of Karnataka.",
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EB622C71ED80480EA0AE7D886351B89E_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99806-38339"
+      }
+    },
+    "url": "https://urbanaut.app/spot/janapada-kala-darshana",
+    "keywords": [
+      "Art & culture",
+      "Food & drink",
+      "Guided tour",
+      "History & heritage",
+      "Workshop",
+      "Walking Tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The Kids Playdate - Ganesha Habba!",
     "description": "Our monthly playdate is back!The beloved Ganesha play date is here!The LooRoo Club and Courtyard are excited to invite you to a celebration of one of our favourite festivals - Ganesha Habba!\u00a0The day will be filled with making clay Ganeshas, playing with flowers, listening to stories about him, making sweet treats, and getting your hands messy and creative with some exciting art and fun activities at the play date!\u00a0True to LooRoo style, we\u2019ll have a whole lot of nature-inspired sensory play that\u2019s as messy as it is magical!\u00a0Think squishy, slimy, and utterly delightful fun\u2014all in the spirit of Ganesha!For Kids aged 3+ and their parentsTerms and ConditionsThe management bears no responsibility for any injury or damage incurred during the event.Purchase tickets exclusively from the designated ticketing platform.No refunds for no-shows or cancellations under any circumstances.Tickets are non-transferable and intended for personal use only.Event schedule and menu subject to change in case of emergencies or events beyond our control.The management will not entertain liability claims arising from the consumption of food or beverages.Parking near the event venue is at the vehicle owner's risk. Paid valet parking available at Rs. 200 per car.Ticket holders grant organizers perpetual rights to use any recorded video or still footage of their appearance on any channel, without further approval.In case of rain, the event will be moved indoors.",
