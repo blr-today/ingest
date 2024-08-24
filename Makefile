@@ -135,6 +135,9 @@ out/koota.txt:
 out/sis.json:
 	python src/sis.py || $(call restore-file,$@)
 
+out/bcc.json:
+	wget -q "https://bangalorechessclub.in/api/upcoming.json" -O $@ || $(call restore-file,$@)
+
 fetch: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
@@ -166,7 +169,8 @@ fetch: out/allevents.txt \
  out/koota.txt \
  out/te.json \
  out/underline.json \
- out/sis.json
+ out/sis.json \
+ out/bcc.json
 
 	@echo "Done"
 

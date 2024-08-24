@@ -51,7 +51,8 @@ EVENT_JSON_FILES = [
     "out/te.json",
     "out/zomato.json",
     "out/underline.json", # duplicates to insider
-    "out/sis.json"
+    "out/sis.json",
+    "out/bcc.json",
 ]
 
 KNOWN_EVENT_TYPES = [
