@@ -696,47 +696,6 @@
     "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
   },
   {
-    "name": "Tribute to Bryan Adams",
-    "description": "Bryan Adams is a Canadian rock singer-songwriter, photographer, and social activist whose hit albums Cuts Like a Knife (1983) and Reckless (1984) made him one of the most popular and successful recording artists of the 1980s.\r\nCatch Hard Attack performing live some of your favourite tracks of Bryan Adams at Hard Rock Cafe, Bengaluru.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-08-24T21:00:00+05:30",
-    "endDate": "2024-08-24T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Bryan Adams Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Bryan Adams Bengaluru on Zomato which is a Music and Trending event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/33bb1c6812f15391679b6cafa7a31a021722444321.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-bryan-adams-bengaluru-et47100/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-31 22:28:53",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-bryan-adams-bengaluru-et47100"
-  },
-  {
     "name": "Sunny Tunes",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Cartridge and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
     "startDate": "2024-08-25T13:00:00+05:30",
@@ -1100,47 +1059,6 @@
     "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115"
   },
   {
-    "name": "Tribute to Metallica",
-    "description": "Embark on a mesmerizing journey as the live band performance takes center stage, delivering an electrifying live performance that captures the essence of rhythmic magic. Immerse yourself in an unforgettable musical experience, where every note and beat harmonize to create an electrifying atmosphere, leaving you enchanted and immersed in the magic of music.",
-    "startDate": "2024-08-24T21:00:00+05:30",
-    "endDate": "2024-08-24T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Metallica Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Metallica Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/7344a90d662aceff69a8db5546369ddd1722499687.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-metallica-bengaluru-et47166/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-08-01 15:32:06",
-        "availability": "INSTOCK",
-        "inventory": 20
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-metallica-bengaluru-et47166"
-  },
-  {
     "name": "Karaoke Nights",
     "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
     "startDate": "2024-08-29T21:00:00+05:30",
@@ -1264,71 +1182,6 @@
     "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48030"
   },
   {
-    "name": "Speed Dating",
-    "description": "Tired of swiping and texting? Come, join us at our social mixer to meet potential dates and friends in real life.\nWe`ve designed this event to boost intimacy between curated attendees, resulting in friendship, romance, and even marriage.\nOur fun icebreakers and speed dating games during the event facilitate mindful conversations and deep connections.\nSo come, and experience some cool, quirky games for introverts to break the ice without any pressure! \nSeek a friend, flatmate, date, or startup soulmate- find it all at Speed Dating!",
-    "startDate": "2024-08-24 18:00:00",
-    "endDate": "2024-08-24 20:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Speed Dating Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Speed Dating Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4588abc050c4cafdf66c8efd1ffd7a481723189156.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48035/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:43",
-        "availability": "INSTOCK",
-        "inventory": 20
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48035/details",
-        "price": 1299,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:44",
-        "availability": "INSTOCK",
-        "inventory": 5
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48035/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:44",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48035/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:44",
-        "availability": "INSTOCK",
-        "inventory": 7
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48035"
-  },
-  {
     "name": "Juss Live India Tour",
     "description": "Get ready to be swept off your feet by the rising star, Juss! He's bringing his electrifying live show to Bangalore on 31st August. Witness his powerful vocals and captivating stage presence as he performs chart-toppers like \"SUNIYAN SUNIYAN' and SAFAR'. This is your chance to experience the future of Punjabi music live - don't miss out!",
     "startDate": "2024-08-31T20:00:00+05:30",
@@ -1396,8 +1249,8 @@
   {
     "name": "SoMAD Y2K - A Early 2000s Throwback Party",
     "description": "Dress in your best 2000s fashion\u201a\u00c4\u00eethink chunky highlights, metallics, and baggy jeans.\nChanneling that Y2K vibe \uf8ff\u00fc\u00f6\u00c4 when the future was neon, and the possibilities were endless.\nGet ready to rewind the clock! \uf8ff\u00fc\u00ef\u221e\u00d4\u220f\u00e8\nExpect to jam out to the biggest hits of the millennium, play classic games, and relive the excitement of the year 2000.",
-    "startDate": "2024-08-24T20:00:00+05:30",
-    "endDate": "2024-08-25T01:00:00+05:30",
+    "startDate": "2024-08-24 20:00:00",
+    "endDate": "2024-08-25 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2882,8 +2735,8 @@
   {
     "name": "Indulge ft. Katalyst",
     "description": "Join us on the 24th of August at the stunning 7 Rivers Brewing Co. for a night of electrifying beats and unparalleled vibes as the renowned Katalyst takes over the poolside. Expect a night filled with next-level music, ice-cold beers, and an atmosphere that\u2019s nothing short of extraordinary. Don\u2019t miss out on this immersive experience!",
-    "startDate": "2024-08-24T20:00:00+05:30",
-    "endDate": "2024-08-25T01:00:00+05:30",
+    "startDate": "2024-08-24 20:00:00",
+    "endDate": "2024-08-25 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3147,6 +3000,55 @@
       }
     ],
     "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-bellandur-edition-bengaluru-et49346"
+  },
+  {
+    "name": "Soul Jams",
+    "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
+    "startDate": "2024-08-31T16:30:00+05:30",
+    "endDate": "2024-08-31T20:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Doddakannelli, 116/9, Ambalipura - Sarjapur Rd, Kaikondrahalli, Bengaluru, Karnataka 560035",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Soul Jams Music and Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Music and Experiences event happening at Doddakannelli, 116/9, Ambalipura - Sarjapur Rd, Kaikondrahalli, Bengaluru, Karnataka 560035",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/106a461700f79513d52811dffcc1faa21724411683.png",
+      "https://b.zmtcdn.com/data/zomaland/106a461700f79513d52811dffcc1faa21724505873.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/soul-jams-bengaluru-et49481/details",
+        "price": 590,
+        "currency": "INR",
+        "validFrom": "2024-08-23 17:33:00",
+        "availability": "INSTOCK",
+        "inventory": 153
+      }
+    ],
+    "performers": [
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381724494286.png",
+        "name": "soul jams",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381724494286.png"
+      }
+    ],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/soul-jams-bengaluru-et49481"
   },
   {
     "name": "Indira Paganotto Tour",
