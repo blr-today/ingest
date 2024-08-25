@@ -402,47 +402,6 @@
     "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824"
   },
   {
-    "name": "Starry nights",
-    "description": "Join our Sip & Paint Party! We\u201a\u00c4\u00f4ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u201a\u00c4\u00f4s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \uf8ff\u00fc\u00e9\u00ae\uf8ff\u00fc\u00e7\u03a9\u00d4\u220f\u00e8\uf8ff\u00fc\u2022\u00c7",
-    "startDate": "2024-08-25T13:00:00+05:30",
-    "endDate": "2024-08-25T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Starry nights Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Starry nights Bengaluru on Zomato which is a Experiences event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/bd9b9b1e5016f71a586710e88edc4a931722340805.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/starry-nights-bengaluru-et46868/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 17:45:44",
-        "availability": "INSTOCK",
-        "inventory": 48
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/starry-nights-bengaluru-et46868"
-  },
-  {
     "name": "Jubin Nautiyal Live in Pune",
     "description": "Prepare yourselves, Pune, as you are about to witness Jubin Nautiyal concert for the first time in Maharashtra. Jubin is ready to captivate you with his beats and provide you with an unforgettable experience. This show promises to be a magnificent blend of music and vibes at a specially curated venue, offering you a once-in-a-lifetime experience.",
     "startDate": "2024-10-13T17:00:00+05:30",
@@ -698,8 +657,8 @@
   {
     "name": "Sunny Tunes",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Cartridge and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
-    "startDate": "2024-08-25T13:00:00+05:30",
-    "endDate": "2024-08-25T23:00:00+05:30",
+    "startDate": "2024-08-25 13:00:00",
+    "endDate": "2024-08-25 23:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1139,47 +1098,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47168"
-  },
-  {
-    "name": "Chai Pe Charcha",
-    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
-    "startDate": "2024-08-25T15:00:00+05:30",
-    "endDate": "2024-08-25T16:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711723188827.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48030/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:42",
-        "availability": "INSTOCK",
-        "inventory": 12
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et48030"
   },
   {
     "name": "Juss Live India Tour",
@@ -2717,63 +2635,6 @@
     "url": "https://www.zomato.com/events/centigrade-club-nights-ft-calm-chor-bengaluru-et49039"
   },
   {
-    "name": "XOOX Unlimited F&B Sunday Brunch",
-    "description": "Hello Bangalore, XOOX Brewmill is back with its popular Sunday Brunch starting this August 2024. Enjoy Live Music with Adhir Punja clubbed with Unlimited F&B every Sunday",
-    "startDate": "2024-08-25T12:30:00+05:30",
-    "endDate": "2024-08-25T15:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "XOOX Unlimited F&B Sunday Brunch Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for XOOX Unlimited F&B Sunday Brunch Bengaluru on Zomato which is a Experiences event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4cc269b6d788edc0c1a2ca23f29b0f1f1724220320.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et49123/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-08-21 11:41:40",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et49123/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-21 11:41:41",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et49123/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-08-21 11:41:41",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/xoox-unlimited-fb-sunday-brunch-bengaluru-et49123"
-  },
-  {
     "name": "Paint with Puppies",
     "description": "Have you ever dreamed of painting alongside the most adorable companions imaginable? Now's your chance! Don't miss out on the event of the month: Painting with Puppies! It's not just a workshop; it's an unforgettable experience that will touch your heart and ignite your creativity like never before.\nImagine yourself surrounded by cuddly, adoptable puppies, their wagging tails and playful energy inspiring every brushstroke. But it's not just about painting; it's about making a difference. With each ticket purchased, you're supporting animal welfare initiatives, spreading love and compassion to those who need it most.\nIndulge in unlimited snuggles, laughter, and pure joy as you create your masterpiece alongside your furry friends. This isn't just another workshop\u2014it's a chance to create memories that will last a lifetime while giving back to the community.",
     "startDate": "2024-09-01T10:30:00+05:30",
@@ -3124,170 +2985,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et49539"
-  },
-  {
-    "name": "Texture Art Workshop",
-    "description": "Experience the magic of adding depth, dimension, and texture to your artwork.\nThis workshop is suitable for artists of all levels, from beginners looking to explore new artistic horizons to seasoned artists seeking to enhance their skills and repertoire.\nTake home your unique creation and cherish the memories.",
-    "startDate": "2024-08-25T14:00:00+05:30",
-    "endDate": "2024-08-25T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Texture Art Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Texture Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/6db70fd5bd72c4c622d037838e029f241724495645.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/texture-art-workshop-bengaluru-et49542/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-08-24 16:17:12",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/texture-art-workshop-bengaluru-et49542"
-  },
-  {
-    "name": "Texture Art Workshop",
-    "description": "Experience the magic of adding depth, dimension, and texture to your artwork.\nThis workshop is suitable for artists of all levels, from beginners looking to explore new artistic horizons to seasoned artists seeking to enhance their skills and repertoire.\nTake home your unique creation and cherish the memories.",
-    "startDate": "2024-08-25T14:00:00+05:30",
-    "endDate": "2024-08-25T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Texture Art Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Texture Art Workshop Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/6db70fd5bd72c4c622d037838e029f241724495645.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/texture-art-workshop-bengaluru-et49543/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-08-24 16:17:12",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/texture-art-workshop-bengaluru-et49543"
-  },
-  {
-    "name": "Resin Art Workshop",
-    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-    "startDate": "2024-08-25T14:00:00+05:30",
-    "endDate": "2024-08-25T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1724495934.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et49548/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-08-24 16:17:14",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et49548"
-  },
-  {
-    "name": "Resin Art Workshop",
-    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-    "startDate": "2024-08-25T14:00:00+05:30",
-    "endDate": "2024-08-25T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1724495934.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et49549/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-08-24 16:17:15",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et49549"
   },
   {
     "name": "Chai Pe Charcha",
