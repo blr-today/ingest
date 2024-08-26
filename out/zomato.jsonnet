@@ -49,7 +49,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 395
+        "inventory": 393
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +57,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1092
+        "inventory": 1091
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -131,7 +131,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 500
+        "inventory": 499
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -254,11 +254,19 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
+        "price": 9499,
+        "currency": "INR",
+        "validFrom": "2024-08-07 17:00:00",
+        "availability": "SELLING_FAST",
+        "inventory": 230
+      },
+      {
+        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
         "price": 24999,
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "INSTOCK",
-        "inventory": 201
+        "inventory": 197
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -291,14 +299,6 @@
         "validFrom": "2024-08-07 11:00:00",
         "availability": "INSTOCK",
         "inventory": 155
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 9499,
-        "currency": "INR",
-        "validFrom": "2024-08-07 17:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -356,7 +356,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 94
+        "inventory": 93
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -682,7 +682,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:54",
         "availability": "INSTOCK",
-        "inventory": 47
+        "inventory": 37
       }
     ],
     "performers": [],
@@ -764,7 +764,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:55",
         "availability": "INSTOCK",
-        "inventory": 44
+        "inventory": 25
       }
     ],
     "performers": [],
@@ -793,8 +793,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Pink Floyd Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Pink Floyd Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
+    "ogTitle": "Tribute to Pink Floyd Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Pink Floyd Bengaluru on Zomato which is a Music and Trending event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/9385806a791f04c699b10c66f8a59a261722444762.jpeg"
     ],
@@ -804,8 +804,8 @@
         "price": 499,
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:55",
-        "availability": "INSTOCK",
-        "inventory": 10
+        "availability": "SELLING_FAST",
+        "inventory": 5
       }
     ],
     "performers": [],
@@ -858,7 +858,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 441
+        "inventory": 421
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -866,7 +866,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 247
+        "inventory": 242
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -874,7 +874,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 34
+        "inventory": 30
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -963,7 +963,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:32:06",
         "availability": "INSTOCK",
-        "inventory": 69
+        "inventory": 60
       }
     ],
     "performers": [],
@@ -1004,7 +1004,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 15:32:07",
         "availability": "INSTOCK",
-        "inventory": 49
+        "inventory": 42
       }
     ],
     "performers": [],
@@ -1053,7 +1053,7 @@
         "currency": "INR",
         "validFrom": "2024-08-12 16:05:17",
         "availability": "INSTOCK",
-        "inventory": 16
+        "inventory": 15
       },
       {
         "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264/details",
@@ -1196,6 +1196,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Chikmagalur Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Chikmagalur Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/dc2b1c7875acf6fc891af9de6a40a6b11723797760.png"
     ],
@@ -1235,6 +1237,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Coorg Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Coorg Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/69575bdb355c411fdd8029cdb62acb131723798062.png"
     ],
@@ -1274,6 +1278,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Wayanad Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Wayanad Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/210862e13552717af244cf3a7d47e2821723798118.png"
     ],
@@ -1313,6 +1319,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Kodaikanal Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Kodaikanal Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/d9fb1524cca765f647e60e396e2aad0d1723798182.png"
     ],
@@ -1352,6 +1360,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Munnar Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Munnar Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/2340f516a0f31d5bcd8f63a4061deea51723798277.png"
     ],
@@ -1391,6 +1401,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Ooty-Connoor Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Ooty-Connoor Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/52cc2b30fe56917f28a1494442a199c81723798388.png"
     ],
@@ -1430,6 +1442,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Gokarna-Murudeshwar Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Gokarna-Murudeshwar Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/58c55ee1b2f1b9c9d5f5f46d013e934d1723798442.png"
     ],
@@ -1469,6 +1483,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Hampi Weekend Getaway Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Hampi Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/487b7aa4effa62bb8af56b3b57e570371723798494.png"
     ],
@@ -1508,6 +1524,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Skandagiri Sunrise / Night Trek Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Skandagiri Sunrise / Night Trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/4e4330c9374a2b31a99de9124253754a1723798872.png"
     ],
@@ -1547,6 +1565,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Bandajje waterfalls trek Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bandajje waterfalls trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/823a7bea12a80bd8c473ddf17d4de5791723799009.png"
     ],
@@ -1586,6 +1606,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Kodachadri Trek & Jog falls Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Kodachadri Trek & Jog falls Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/19c190f6ad5baf810709d9728d76108c1723799248.png"
     ],
@@ -1625,6 +1647,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Ettina Bhuja Trek Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Ettina Bhuja Trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/888e8af4b5597e9c3897986dfdacaecb1723799332.png"
     ],
@@ -1664,6 +1688,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Tadiandamol trek Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tadiandamol trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/7b4b0685ad0ec87e100bc6ddbe82dd671723799903.png"
     ],
@@ -1703,6 +1729,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Dudhsagar Trek Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Dudhsagar Trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/f9b21205a3aa5c6e47ebf1f7afb63a9e1723799988.png"
     ],
@@ -1742,6 +1770,8 @@
       }
     ],
     "isAccessibleForFree": false,
+    "ogTitle": "Night camping, trek & activities @Ramanagar Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Night camping, trek & activities @Ramanagar Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/01eb6531c79d5a679a78e54707040a881723800125.png"
     ],
@@ -1816,7 +1846,7 @@
         "currency": "INR",
         "validFrom": "2024-08-16 22:15:00",
         "availability": "INSTOCK",
-        "inventory": 35
+        "inventory": 34
       }
     ],
     "performers": [],
@@ -1857,7 +1887,7 @@
         "currency": "INR",
         "validFrom": "2024-08-20 10:37:46",
         "availability": "INSTOCK",
-        "inventory": 173
+        "inventory": 160
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
@@ -1865,7 +1895,7 @@
         "currency": "INR",
         "validFrom": "2024-08-20 10:37:47",
         "availability": "INSTOCK",
-        "inventory": 185
+        "inventory": 184
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
@@ -1873,7 +1903,7 @@
         "currency": "INR",
         "validFrom": "2024-08-20 10:37:47",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 197
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
@@ -1938,7 +1968,7 @@
         "currency": "INR",
         "validFrom": "2024-08-21 17:15:35",
         "availability": "INSTOCK",
-        "inventory": 19
+        "inventory": 17
       }
     ],
     "performers": [],
@@ -1979,7 +2009,7 @@
         "currency": "INR",
         "validFrom": "2024-08-22 20:23:20",
         "availability": "INSTOCK",
-        "inventory": 143
+        "inventory": 138
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-bellandur-edition-bengaluru-et49346/details",
@@ -1987,7 +2017,7 @@
         "currency": "INR",
         "validFrom": "2024-08-22 20:23:21",
         "availability": "INSTOCK",
-        "inventory": 49
+        "inventory": 48
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-bellandur-edition-bengaluru-et49346/details",
