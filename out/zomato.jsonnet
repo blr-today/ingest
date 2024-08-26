@@ -1261,45 +1261,6 @@
   {
     "name": "Wayanad Weekend Getaway",
     "description": "The lush-green town of Wayanad in Kerala is hidden in the Malabar region on the Western Ghats. Sparsely populated, the forest-covered region abounds in picturesque hills meandered with streams, tea estates, and wildlife sanctuaries. Referred to as the \u2018Spice Garden of India\u2019, Wayanad is a hub of spices such as cardamom, star anise, fenugreek, black pepper, black cumin, etc. Adding to its treasures are Asia\u2019s second largest and India\u2019s largest damn, the Banasura Sagar Dam, the Edakkal Caves from the Neolithic Age to trek to. Witness a majestic sunset at the backdrop of the dam, go hiking, mountaineering, camping, or rock climbing, you\u2019d never run out of fun activities at Wayanad.",
-    "startDate": "2024-08-23 21:30:00",
-    "endDate": "2024-08-26 03:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/210862e13552717af244cf3a7d47e2821723798118.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/wayanad-weekend-getaway-bengaluru-et48710/details",
-        "price": 5999,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:25:49",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/wayanad-weekend-getaway-bengaluru-et48710"
-  },
-  {
-    "name": "Wayanad Weekend Getaway",
-    "description": "The lush-green town of Wayanad in Kerala is hidden in the Malabar region on the Western Ghats. Sparsely populated, the forest-covered region abounds in picturesque hills meandered with streams, tea estates, and wildlife sanctuaries. Referred to as the \u2018Spice Garden of India\u2019, Wayanad is a hub of spices such as cardamom, star anise, fenugreek, black pepper, black cumin, etc. Adding to its treasures are Asia\u2019s second largest and India\u2019s largest damn, the Banasura Sagar Dam, the Edakkal Caves from the Neolithic Age to trek to. Witness a majestic sunset at the backdrop of the dam, go hiking, mountaineering, camping, or rock climbing, you\u2019d never run out of fun activities at Wayanad.",
     "startDate": "2024-08-30T21:30:00+05:30",
     "endDate": "2024-09-02T03:00:00+05:30",
     "timezone": "+05:30",
@@ -1335,45 +1296,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/wayanad-weekend-getaway-bengaluru-et48711"
-  },
-  {
-    "name": "Kodaikanal Weekend Getaway",
-    "description": "Kodaikanal, also known as the Princess of Hills in Tamil Nadu, is one of the most popular tourist destinations in South India. Often considered for a romantic weekend retreat, the quaint little town is blessed with a perfect temperature at any given season. If you are seeking time alone in the lap of nature with your loved ones, Kodai is the place to go. Adorned with cascading waterfalls, shimmering lakes, and undulating green hills, the town will leave you awestruck with its natural beauty.",
-    "startDate": "2024-08-23 20:30:00",
-    "endDate": "2024-08-26 05:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/d9fb1524cca765f647e60e396e2aad0d1723798182.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/kodaikanal-weekend-getaway-bengaluru-et48712/details",
-        "price": 5999,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:25:50",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/kodaikanal-weekend-getaway-bengaluru-et48712"
   },
   {
     "name": "Kodaikanal Weekend Getaway",
@@ -1417,45 +1339,6 @@
   {
     "name": "Munnar Weekend Getaway",
     "description": "Munnar is a popular hill station located in the state of Kerala, India. It is known for its breathtaking landscapes, tea gardens, spice plantations, and cool climate, making it a favored destination for nature lovers and adventure enthusiasts. It is also known for its stunning landscapes, tea plantations, and pleasant weather. Munnar, with its scenic beauty, tea gardens, and tranquil ambiance, providing a perfect getaway to experience the charm of Kerala's hill stations",
-    "startDate": "2024-08-23 20:30:00",
-    "endDate": "2024-08-26 05:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2340f516a0f31d5bcd8f63a4061deea51723798277.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/munnar-weekend-getaway-bengaluru-et48714/details",
-        "price": 6899,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:25:51",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/munnar-weekend-getaway-bengaluru-et48714"
-  },
-  {
-    "name": "Munnar Weekend Getaway",
-    "description": "Munnar is a popular hill station located in the state of Kerala, India. It is known for its breathtaking landscapes, tea gardens, spice plantations, and cool climate, making it a favored destination for nature lovers and adventure enthusiasts. It is also known for its stunning landscapes, tea plantations, and pleasant weather. Munnar, with its scenic beauty, tea gardens, and tranquil ambiance, providing a perfect getaway to experience the charm of Kerala's hill stations",
     "startDate": "2024-08-30T20:30:00+05:30",
     "endDate": "2024-09-02T05:00:00+05:30",
     "timezone": "+05:30",
@@ -1491,45 +1374,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/munnar-weekend-getaway-bengaluru-et48715"
-  },
-  {
-    "name": "Ooty-Connoor Weekend Getaway",
-    "description": "Ooty and Coonoor are charming hill stations nestled in the Nilgiri Hills of Tamil Nadu, India. Here's a brief overview of each:\n\nAlso known as the \"Queen of Hill Stations\" Ooty is one of the most popular tourist destinations in South India.\nIt boasts pleasant weather throughout the year, with cool temperatures making it a perfect retreat from the heat of the plains. Ooty is famous for its sprawling tea gardens, lush green landscapes, and picturesque viewpoints like Doddabetta Peak, offering panoramic views of the surrounding hills.",
-    "startDate": "2024-08-23 20:30:00",
-    "endDate": "2024-08-26 05:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/52cc2b30fe56917f28a1494442a199c81723798388.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/ooty-connoor-weekend-getaway-bengaluru-et48716/details",
-        "price": 6299,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:25:52",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/ooty-connoor-weekend-getaway-bengaluru-et48716"
   },
   {
     "name": "Ooty-Connoor Weekend Getaway",
@@ -1573,45 +1417,6 @@
   {
     "name": "Gokarna-Murudeshwar Weekend Getaway",
     "description": "What do you visualize if we ask you about a weekend on a beach? We would not be surprised if you say Goa. And that\u2019s precisely why we need an alternative to Goa, one which is away from the humdrum of life, one which brings peace and serenity for the weekend.\n\nThis is precisely what Gokarna offers. If you are looking for a place for an escapade, to take a break after the week-long 9-5 office hours, and are tired of glancing at pictures of breath-taking beaches on your monitor, go ahead and pack your bags already.",
-    "startDate": "2024-08-23 20:30:00",
-    "endDate": "2024-08-26 05:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/58c55ee1b2f1b9c9d5f5f46d013e934d1723798442.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/gokarna-murudeshwar-weekend-getaway-bengaluru-et48718/details",
-        "price": 5299,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:25:53",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/gokarna-murudeshwar-weekend-getaway-bengaluru-et48718"
-  },
-  {
-    "name": "Gokarna-Murudeshwar Weekend Getaway",
-    "description": "What do you visualize if we ask you about a weekend on a beach? We would not be surprised if you say Goa. And that\u2019s precisely why we need an alternative to Goa, one which is away from the humdrum of life, one which brings peace and serenity for the weekend.\n\nThis is precisely what Gokarna offers. If you are looking for a place for an escapade, to take a break after the week-long 9-5 office hours, and are tired of glancing at pictures of breath-taking beaches on your monitor, go ahead and pack your bags already.",
     "startDate": "2024-08-30T20:30:00+05:30",
     "endDate": "2024-09-02T05:00:00+05:30",
     "timezone": "+05:30",
@@ -1651,45 +1456,6 @@
   {
     "name": "Hampi Weekend Getaway",
     "description": "Exploring the Ancient Beauty of Hampi in Karnataka Hampi, located in Karnataka, is a site of great historical significance. Once the capital city of the Vijayanagara Empire, it is now a UNESCO World Heritage Site with over 500 ruins and monuments. Many consider Hampi to be the second largest city of its time, following only Beijing. Situated on the banks of the Tungabhadra River, Hampi boasts ancient India's grandeur with its intricate architecture, brilliant engineering, and breathtaking scenery. The most significant structure is the Virupaksha Temple, which is dedicated to the empire's patron deity. But don't be fooled into thinking that Hampi is only about history! The town blends history and modernity, with aesthetic cafes, cultural performances, and a variety of cuisines from around the world in the nearby Hippie Town.",
-    "startDate": "2024-08-23 21:30:00",
-    "endDate": "2024-08-26 05:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/487b7aa4effa62bb8af56b3b57e570371723798494.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/hampi-weekend-getaway-bengaluru-et48720/details",
-        "price": 4999,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:25:54",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/hampi-weekend-getaway-bengaluru-et48720"
-  },
-  {
-    "name": "Hampi Weekend Getaway",
-    "description": "Exploring the Ancient Beauty of Hampi in Karnataka Hampi, located in Karnataka, is a site of great historical significance. Once the capital city of the Vijayanagara Empire, it is now a UNESCO World Heritage Site with over 500 ruins and monuments. Many consider Hampi to be the second largest city of its time, following only Beijing. Situated on the banks of the Tungabhadra River, Hampi boasts ancient India's grandeur with its intricate architecture, brilliant engineering, and breathtaking scenery. The most significant structure is the Virupaksha Temple, which is dedicated to the empire's patron deity. But don't be fooled into thinking that Hampi is only about history! The town blends history and modernity, with aesthetic cafes, cultural performances, and a variety of cuisines from around the world in the nearby Hippie Town.",
     "startDate": "2024-08-30T21:30:00+05:30",
     "endDate": "2024-09-02T05:00:00+05:30",
     "timezone": "+05:30",
@@ -1725,45 +1491,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/hampi-weekend-getaway-bengaluru-et48721"
-  },
-  {
-    "name": "Pondicherry Weekend Getaway",
-    "description": "Pondicherry, often referred to as Puducherry is a charming coastal town on the southeastern coast of India. Steeped in a unique blend of French and Indian influences, this Union Territory exudes a laid-back and multicultural vibe. The French Quarter, with its cobblestone streets and colonial architecture, transports you to a different era, while the bustling markets and vibrant Tamil culture showcase the town's diverse identity. With its serene beaches, like Promenade Beach and Paradise Beach, and the iconic Aurobindo Ashram, Pondicherry offers a perfect mix of relaxation and spiritual exploration. The delectable French-inspired cuisine and the colorful streets of the Auroville community further add to the town's distinctive allure. Pondicherry is a haven for those seeking a peaceful escape with a touch of cultural richness",
-    "startDate": "2024-08-23 21:30:00",
-    "endDate": "2024-08-26 05:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b35a62cbcbcc3a1251ae4a778d8be3c01723798552.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/pondicherry-weekend-getaway-bengaluru-et48722/details",
-        "price": 5999,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:25:55",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/pondicherry-weekend-getaway-bengaluru-et48722"
   },
   {
     "name": "Skandagiri Sunrise / Night Trek",
@@ -2176,63 +1903,6 @@
     "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946"
   },
   {
-    "name": "CentiGrade Club Nights ft. Calm Chor",
-    "description": "Get ready for an electrifying night as CentiGrade Club Nights returns with a special set by the renowned artist Calm Chor at Kitty Ko this Sunday, 25th August . Known for his hypnotic beats and unique style, Calm Chor is set to take you on a musical journey that will keep you dancing all night long. Don\u2019t miss out on this unforgettable experience at one of Bangalore\u2019s most iconic venue. Mark your calendars and prepare for a night of unparalleled energy and vibe!",
-    "startDate": "2024-08-25 20:00:00",
-    "endDate": "2024-08-26 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "CentiGrade Club Nights ft. Calm Chor Trending and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for CentiGrade Club Nights ft. Calm Chor Bengaluru on Zomato which is a Trending and Music event happening at Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/286fb0ea4fc2c0d12eee2e8c2678c5ab1724149550.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/centigrade-club-nights-ft-calm-chor-bengaluru-et49039/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-20 16:16:12",
-        "availability": "INSTOCK",
-        "inventory": 81
-      },
-      {
-        "url": "https://www.zomato.com/events/centigrade-club-nights-ft-calm-chor-bengaluru-et49039/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-20 16:16:12",
-        "availability": "INSTOCK",
-        "inventory": 93
-      },
-      {
-        "url": "https://www.zomato.com/events/centigrade-club-nights-ft-calm-chor-bengaluru-et49039/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-20 16:16:13",
-        "availability": "INSTOCK",
-        "inventory": 51
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/centigrade-club-nights-ft-calm-chor-bengaluru-et49039"
-  },
-  {
     "name": "Paint with Puppies",
     "description": "Have you ever dreamed of painting alongside the most adorable companions imaginable? Now's your chance! Don't miss out on the event of the month: Painting with Puppies! It's not just a workshop; it's an unforgettable experience that will touch your heart and ignite your creativity like never before.\nImagine yourself surrounded by cuddly, adoptable puppies, their wagging tails and playful energy inspiring every brushstroke. But it's not just about painting; it's about making a difference. With each ticket purchased, you're supporting animal welfare initiatives, spreading love and compassion to those who need it most.\nIndulge in unlimited snuggles, laughter, and pure joy as you create your masterpiece alongside your furry friends. This isn't just another workshop\u2014it's a chance to create memories that will last a lifetime while giving back to the community.",
     "startDate": "2024-09-01T10:30:00+05:30",
@@ -2354,8 +2024,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Soul Jams Music and Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Music and Experiences event happening at Doddakannelli, 116/9, Ambalipura - Sarjapur Rd, Kaikondrahalli, Bengaluru, Karnataka 560035",
+    "ogTitle": "Soul Jams Music, Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Music, Experiences and Trending event happening at Doddakannelli, 116/9, Ambalipura - Sarjapur Rd, Kaikondrahalli, Bengaluru, Karnataka 560035",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/106a461700f79513d52811dffcc1faa21724411683.png",
       "https://b.zmtcdn.com/data/zomaland/106a461700f79513d52811dffcc1faa21724505873.png"
@@ -2366,8 +2036,8 @@
         "price": 590,
         "currency": "INR",
         "validFrom": "2024-08-23 17:33:00",
-        "availability": "INSTOCK",
-        "inventory": 153
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [
