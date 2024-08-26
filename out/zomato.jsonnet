@@ -2112,11 +2112,11 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
-        "price": 499,
+        "price": 899,
         "currency": "INR",
         "validFrom": "2024-08-24 14:33:00",
         "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 399
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -2124,7 +2124,15 @@
         "currency": "INR",
         "validFrom": "2024-08-24 14:33:00",
         "availability": "INSTOCK",
-        "inventory": 425
+        "inventory": 406
+      },
+      {
+        "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-08-24 14:33:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -2189,7 +2197,7 @@
         "currency": "INR",
         "validFrom": "2024-08-24 16:16:55",
         "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 9
       }
     ],
     "performers": [],
@@ -2201,47 +2209,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49526"
-  },
-  {
-    "name": "Chai Pe Charcha",
-    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet-up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
-    "startDate": "2024-08-26T19:00:00+05:30",
-    "endDate": "2024-08-26T20:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711724495055.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et49538/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-24 16:17:10",
-        "availability": "INSTOCK",
-        "inventory": 14
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et49538"
   },
   {
     "name": "Chai Pe Charcha",
