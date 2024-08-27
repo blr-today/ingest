@@ -7,7 +7,7 @@
         "availability": "http://schema.org/InStock",
         "price": 3500.0,
         "priceCurrency": "INR",
-        "priceValidUntil": "2024-09-05",
+        "priceValidUntil": "2024-09-06",
         "url": "https://troveexperiences.com/products/pizza-making-experience-bangalore?variant=43584023789719"
       }
     ],
@@ -34,12 +34,12 @@
         "availability": "http://schema.org/InStock",
         "price": 2400.0,
         "priceCurrency": "INR",
-        "priceValidUntil": "2024-09-05",
+        "priceValidUntil": "2024-09-06",
         "url": "https://troveexperiences.com/products/treasures-from-the-estates-1?variant=44441837535383"
       }
     ],
     "name": "Treasures From The Estates",
-    "description": "\n\u00a0",
+    "description": "Switch from coffee enthusiast to aficionado in this unique coffee appreciation experience. Delve into the world of premium Indian Estate Coffees, and learn the nuances of brewing and tasting single-origin brews, including a cold one.\nThis immersive experience helps you develop a keen sense of understanding about unique Indian coffees and what makes them special.\u00a0We will cover three brewing methods - AeroPress, FrenchPress and Pour Over.",
     "url": "https://troveexperiences.com/products/treasures-from-the-estates-1",
     "startDate": "2024-08-31T15:00:00+05:30",
     "endDate": "2024-08-31T18:00:00+05:30",
@@ -61,7 +61,7 @@
         "availability": "http://schema.org/InStock",
         "price": 2200.0,
         "priceCurrency": "INR",
-        "priceValidUntil": "2024-09-05",
+        "priceValidUntil": "2024-09-06",
         "url": "https://troveexperiences.com/products/chocolate-tasting-and-making-workshops-bangalore?variant=43345709990039"
       }
     ],
@@ -88,7 +88,7 @@
         "availability": "http://schema.org/InStock",
         "price": 3500.0,
         "priceCurrency": "INR",
-        "priceValidUntil": "2024-09-05",
+        "priceValidUntil": "2024-09-06",
         "url": "https://troveexperiences.com/products/cocktail-making-workshop-bangalore?variant=44145005985943"
       }
     ],
@@ -115,7 +115,7 @@
         "availability": "http://schema.org/InStock",
         "price": 2000.0,
         "priceCurrency": "INR",
-        "priceValidUntil": "2024-09-05",
+        "priceValidUntil": "2024-09-06",
         "url": "https://troveexperiences.com/products/expressive-arts-and-movement-session-bangalore?variant=44112510615703"
       }
     ],
@@ -133,5 +133,32 @@
       "height": 1024
     },
     "location": "Good Moves Studio & Dance Academy, Koramangala, Bangalore"
+  },
+  {
+    "offers": [
+      {
+        "@type": "Offer",
+        "sku": "SUSBLR001",
+        "availability": "http://schema.org/InStock",
+        "price": 3500.0,
+        "priceCurrency": "INR",
+        "priceValidUntil": "2024-09-06",
+        "url": "https://troveexperiences.com/products/gourmet-cookalong-make-your-sushi-bangalore?variant=44457730801815"
+      }
+    ],
+    "name": "Gourmet Cookalong",
+    "description": "\u00a0\nDrawing inspiration from community dining and the pleasures of deep diving into the art of cooking and dining well, this experience helps you engage all five senses when you're in the kitchen. The caviar on the top is relishing a wonderful meal that you, along with a bunch of people, will cook together.The theme for this cookalong is\u00a0Japanese cuisine -\u00a0Sushi\u00a0making.\u00a0\n\n\nThe cookalong:\n\n\nObserve: Our expert will demonstrate how to roll three types of sushi from scratch: Maki, uramaki, and temaki sushi.\nMake Your Own Sushi: Learn to make four types of sushi from scratch using various fillings and rolling styles, as demonstrated by the chef and savour them.\nNote: The cookalong and the meal will include both vegetarian (exotic vegetables and yasai vegetables) and non-vegetarian (salmon and crab) options.\n\nAdditionally, all guests will be served asparagus tempura and pickled vegetables.\n",
+    "url": "https://troveexperiences.com/products/gourmet-cookalong-make-your-sushi-bangalore",
+    "startDate": "2024-09-07T16:30:00+05:30",
+    "endDate": "2024-09-07T19:00:00+05:30",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://troveexperiences.com/cdn/shop/files/Sushi_BLR-09_1024x1024.jpg?v=1721643851",
+      "image": "https://troveexperiences.com/cdn/shop/files/Sushi_BLR-09_1024x1024.jpg?v=1721643851",
+      "name": "Gourmet Cookalong",
+      "width": 1024,
+      "height": 1024
+    },
+    "location": "Fatty Bao, Indiranagar, Bangalore"
   }
 ]
