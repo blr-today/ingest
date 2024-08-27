@@ -17,11 +17,12 @@ def convert_to_event_json(event):
     lat, lng = [x.strip() for x in event["venues"][0]["location"].split(",")]
     startdate = datetime.fromisoformat(event["startDate"]).astimezone(IST)
     enddate = datetime.fromisoformat(event["endDate"]).astimezone(IST)
-    return {
+    # print(event)
+    e = {
         "@type": "MusicEvent",
         "name": event["name"],
         "about": event["description"],
-        "sameAs": event["webUrl"] if "undefined" not in event["webUrl"] else None,
+        
         "url": event['ticketUrl'],
         "startDate": startdate.isoformat(),
         "endDate": enddate.isoformat(),
@@ -57,6 +58,9 @@ def convert_to_event_json(event):
             "url": event["ticketUrl"],
         },
     }
+    if 'webUrl' in event:
+        e["sameAs"] = event["webUrl"] if "undefined" not in event["webUrl"] else None
+    return e
 
 
 with open("fixtures/tonight-is-parties.json", "r") as f:
