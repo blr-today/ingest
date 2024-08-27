@@ -18,7 +18,7 @@ def expand_link(session, url):
 def make_event(event):
     # We assume 2 hours
     endDate = datetime.fromisoformat(event["event_date"]) + timedelta(hours=2)
-    return {
+    e = {
         "id": f"buzz.venn:{event['id']}",
         "name": event["title"],
         "image": event["large_image"],
@@ -32,6 +32,10 @@ def make_event(event):
         "endDate": endDate.isoformat(),
         "description": event["short_description"],
     }
+
+    if event['url']:
+        e['sameAs'] = event["url"]
+    return e
 
 
 def fetch_venn():
@@ -50,9 +54,15 @@ def fetch_venn():
                 event["shortened_link"] = expand_link(session, event["shortened_link"])
             else:
                 break
-        event["url"] = cleanurl.cleanurl(
-            event["shortened_link"], respect_semantics=True
-        ).url
+        
+        event['url'] = event['shortened_link']
+        if event['shortened_link']:
+            expand =  cleanurl.cleanurl(
+                event['shortened_link'], respect_semantics=True
+            )
+            if expand:
+                event['url'] = expand.url
+            
 
         for k in ["curation", "shortened_link", "test_event", "experience_id"]:
             if k in event:
