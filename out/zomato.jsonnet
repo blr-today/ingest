@@ -2353,7 +2353,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:28",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 19
       }
     ],
     "performers": [],
@@ -3023,7 +3023,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 14:52:05",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       },
       {
         "url": "https://www.zomato.com/events/centigrade-x-pumproom-ft-rezident-bengaluru-et49733/details",
@@ -3031,7 +3031,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 14:52:05",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       },
       {
         "url": "https://www.zomato.com/events/centigrade-x-pumproom-ft-rezident-bengaluru-et49733/details",
@@ -3039,7 +3039,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 14:52:06",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 96
       }
     ],
     "performers": [],
@@ -3051,5 +3051,103 @@
       }
     ],
     "url": "https://www.zomato.com/events/centigrade-x-pumproom-ft-rezident-bengaluru-et49733"
+  },
+  {
+    "name": "Onam Bash Sep 15 2024 White lotus",
+    "description": "Get ready to groove and celebrate the rich heritage of Onam like never\nbefore at our electrifying Onam DJ Night! \u00f0\u0178\u0152\u0178\u00e2\u0153\u00a8\n\nJoin us for a night where traditional charm meets contemporary beats.\nOur DJ will spin a fusion of classic Onam tunes and the latest\nchart-toppers, ensuring the dance floor is always buzzing with energy.\n\nSpecial  Chinkari mela with DJ",
+    "startDate": "2024-09-15T20:00:00+05:30",
+    "endDate": "2024-09-16T00:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Onam Bash Sep 15 2024 White lotus Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Onam Bash Sep 15 2024 White lotus Bengaluru on Zomato which is a Experiences event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/01c854dc4b07c9dbc7810c505860264b1724756584.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/onam-bash-sep-15-2024-white-lotus-bengaluru-et49899/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-08-27 16:41:32",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/onam-bash-sep-15-2024-white-lotus-bengaluru-et49899/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-08-27 16:41:31",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/onam-bash-sep-15-2024-white-lotus-bengaluru-et49899/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-08-27 16:41:32",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/onam-bash-sep-15-2024-white-lotus-bengaluru-et49899"
+  },
+  {
+    "name": "RED FM presents Dandiya Night",
+    "description": "Dandiya Night during the occasion of Navrathri by RED FM with RJ Priya and DJ Julius Sharma",
+    "startDate": "2024-10-12T19:00:00+05:30",
+    "endDate": "2024-10-12T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "3Q26+63 Sri Manjunatha Swamy Kalyana Mantapa, Sannatammanahalli, Katamnallur, Karnataka 560049",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "RED FM presents Dandiya Night Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for RED FM presents Dandiya Night Bengaluru on Zomato which is a Experiences event happening at 3Q26+63 Sri Manjunatha Swamy Kalyana Mantapa, Sannatammanahalli, Katamnallur, Karnataka 560049",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/a248e8fd0cdba25da574e11d5d6fb4561724758034.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/red-fm-presents-dandiya-night-bengaluru-et49916/details",
+        "price": 200,
+        "currency": "INR",
+        "validFrom": "2024-08-27 16:59:53",
+        "availability": "INSTOCK",
+        "inventory": 500
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/red-fm-presents-dandiya-night-bengaluru-et49916"
   }
 ]

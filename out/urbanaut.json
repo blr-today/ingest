@@ -1029,5 +1029,54 @@
       "COURTYARD",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "name": "'Monsters, Inc.' (2001) Movie Screening | Family Movie Night",
+    "description": "Family Movie Night at The Studio, Courtyard, ShantinagarJoin us as we watch a series of carefully curated rare masterpieces from around the world, made just for kids. Watch this film while cozying up with your family!Given the nature of the film, we recommend it for children aged 7 and older.About the movie:\"Monsters, Inc.\" is a 2001 animated film by Pixar Animation Studios. Set in the city of Monstropolis, the film explores a world where monsters generate power for their city by scaring children. The story follows two main characters: Sulley, a large, gentle blue monster with purple spots, and his best friend Mike Wazowski, a small, green, one-eyed monster.Why Attend?Broaden Horizons with Global Tales: Dive into diverse artistic expressions through rare masterpieces curated for children.Quality Family Bonding: Embark on a cinematic journey to a new country each month, forging lasting memories and strengthening family connections.Uncover Hidden Treasures: Discover lesser-known gems handpicked for their artistic brilliance and captivating storytelling.Artistic Excellence: Immerse your child in films of unparalleled artistic merit, fueling their imagination and creativity.Safe Family Environment: Enjoy movies in a secure, family-friendly setting, ensuring a worry-free experience for kids and parents alike.Don't miss this opportunity to create lasting memories with your family while exposing your kids to the wonders of world cinema.Join us for Family Movie Night \u2013 where the magic of storytelling knows no bounds!Terms and Conditions:The management is not responsible for any injury or damage that may occur during the event.The Event is taking place at Courtyard's indoor Studio space on the second floor.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Children above the age of 3 need a ticket to attend the event.Valet service is available at a charge of Rs. 200 per vehicle.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Tickets are non-refundable in case of cancellation or no-show.In case of rain or other unforeseen conditions, the event will be moved indoors.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5E9C6F5499174201920F746EF92F1737_converted_webp.webp"
+    ],
+    "startDate": "2024-09-08T17:00:00+05:30",
+    "endDate": "2024-09-08T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Courtyard",
+      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+      "latitude": "12.95843050000000000000",
+      "longitude": "77.59289509999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 37,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "400.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Courtyard",
+      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+      "url": "https://urbanaut.app/partner/courtyard",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-73386-77996"
+      }
+    },
+    "url": "https://urbanaut.app/spot/monsters-inc-movie-screening-family-movie-night",
+    "keywords": [
+      "Art & culture",
+      "Leisure",
+      "Local",
+      "COURTYARD",
+      "URBANAUT"
+    ]
   }
 ]
