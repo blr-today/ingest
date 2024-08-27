@@ -49,7 +49,7 @@ A lot more are in-progress, please see [`TODO.md`](TODO.md) for a more updated l
 - curl_impersonate
 - python3
 - jq
-- Python packages listed in `requirements.txt`
+- Python packages listed in `pyproject.toml`
 
 ## Running
 

@@ -179,6 +179,3 @@ clean:
 
 all: fetch
 	python src/event-fetcher.py
-
-requirements.txt:
-	uv pip compile --universal  --generate-hashes  --annotation-style line pyproject.toml -o requirements.txt
