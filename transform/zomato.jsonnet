@@ -6,6 +6,7 @@ local STATUSMAP = {
 local AVAILABILITYMAP = {
   INSTOCK: 'InStock',
   SELLING_FAST: 'InStock',
+  SOLDOUT: 'Sold Out',
 };
 
 local ATTENDANCEMAP = {
