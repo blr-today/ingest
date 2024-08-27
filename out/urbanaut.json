@@ -1078,5 +1078,53 @@
       "COURTYARD",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sunday Breakfast with Strangers",
+    "description": "Looking to meet new people and make friends in Bangalore? Join a Sunday breakfast table, where you can enjoy a delicious meal and connect with strangers in a friendly and relaxed atmosphere. This event is perfect for those who want to expand their social circle, share interesting conversations, and start their Sunday on a positive note. Whether you're new to the city or just looking to meet like-minded people, this gathering offers a welcoming space to create meaningful connections. Bring your appetite for both food and friendship!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9DFC2C67980C4D4BA00D7501F6C8F641_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/860A4C263F7743A2AD19BDA712628785_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/44524E25AB9F4FEC91655152465C8059_converted_webp.webp"
+    ],
+    "startDate": "2024-09-01T10:00:00+05:30",
+    "endDate": "2024-09-01T11:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "163, 15th Main Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ-UMGCUQVrjsRTI-9SL-bEhk",
+      "latitude": "12.93543670000000000000",
+      "longitude": "77.62841379999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 11,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "TwoTablesClub",
+      "description": "Where a small group of strangers come together for genuine conversations & spontaneous connections  over a curated meal. Guided by a host every Table is a mix of locals & newcomers sharing stories of their roots & dreams",
+      "url": "https://urbanaut.app/partner/twotablesclub",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/wysxdsvnko-1707810356440ttclogojpg.jpg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-81399-06300"
+      }
+    },
+    "url": "https://urbanaut.app/spot/sunday-breakfast-with-strangers-5020",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
   }
 ]
