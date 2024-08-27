@@ -2065,6 +2065,14 @@
         "url": "https://www.zomato.com/events/soul-jams-bengaluru-et49481/details",
         "price": 590,
         "currency": "INR",
+        "validFrom": "2024-08-26 11:47:00",
+        "availability": "INSTOCK",
+        "inventory": 178
+      },
+      {
+        "url": "https://www.zomato.com/events/soul-jams-bengaluru-et49481/details",
+        "price": 590,
+        "currency": "INR",
         "validFrom": "2024-08-23 17:33:00",
         "availability": "SOLDOUT",
         "inventory": 0
