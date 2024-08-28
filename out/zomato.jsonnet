@@ -2067,8 +2067,8 @@
         "price": 590,
         "currency": "INR",
         "validFrom": "2024-08-26 11:47:00",
-        "availability": "INSTOCK",
-        "inventory": 178
+        "availability": "SELLING_FAST",
+        "inventory": 88
       },
       {
         "url": "https://www.zomato.com/events/soul-jams-bengaluru-et49481/details",
@@ -2125,15 +2125,23 @@
         "currency": "INR",
         "validFrom": "2024-08-24 14:33:00",
         "availability": "INSTOCK",
-        "inventory": 399
+        "inventory": 396
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
-        "price": 999,
+        "price": 1499,
         "currency": "INR",
         "validFrom": "2024-08-24 14:33:00",
         "availability": "INSTOCK",
-        "inventory": 406
+        "inventory": 999
+      },
+      {
+        "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
+        "price": 2999,
+        "currency": "INR",
+        "validFrom": "2024-08-26 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 50
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -2190,7 +2198,7 @@
         "currency": "INR",
         "validFrom": "2024-08-24 16:16:54",
         "availability": "INSTOCK",
-        "inventory": 5
+        "inventory": 4
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49526/details",
@@ -2205,8 +2213,8 @@
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-08-24 16:16:55",
-        "availability": "INSTOCK",
-        "inventory": 9
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],

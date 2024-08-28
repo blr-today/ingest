@@ -2069,7 +2069,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 178
+               "value": 88
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T11:47:00+05:30"
@@ -2126,7 +2126,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 399
+               "value": 396
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-24T14:33:00+05:30"
@@ -2135,10 +2135,19 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 406
+               "value": 999
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-24T14:33:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T22:00:00+05:30"
          },
          {
             "availability": "Sold Out",
@@ -2194,7 +2203,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 5
+               "value": 4
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-24T16:16:54+05:30"
@@ -2209,10 +2218,10 @@
             "validFrom": "2024-08-24T16:16:55+05:30"
          },
          {
-            "availability": "InStock",
+            "availability": "Sold Out",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 9
+               "value": 0
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-24T16:16:55+05:30"
