@@ -21,12 +21,12 @@ def fetch_events_links(session):
 		url = load_more.find('a').get('href')
 		
 		new_page = session.get(f"{BASE_URL}{url}")
-		soup = BeautifulSoup(new_page.text, 'html.parser')
+		new_page_body = BeautifulSoup(new_page.text, 'html.parser')
 		
-		new_events = soup.find_all('div', class_ = 'single-experience')
+		new_events = new_page_body.find_all('div', class_ = 'single-experience')
 		event_divs += new_events
 
-		load_more = soup.find('div', class_ = 'products-loadmore')
+		load_more = new_page_body.find('div', class_ = 'products-loadmore')
 
 	event_links = []
 	for event_div in event_divs:
