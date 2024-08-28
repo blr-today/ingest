@@ -3199,5 +3199,123 @@
       "remainingAttendeeCapacity": 500,
       "startDate": "2024-10-12T19:00:00+05:30",
       "url": "https://www.zomato.com/events/red-fm-presents-dandiya-night-bengaluru-et49916"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "LOL @ The Bay is a stand-up comedy event hosted at the Amphitheatre at The Bay, Ecoworld, Bengaluru's premier destination for food lovers. The Bay offers a curated mix of global and Indian food and beverages, making it a vibrant hub for food enthusiasts.",
+      "endDate": "2024-09-14T22:30:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/759f96a429dc034818111b339912a9c21724820767.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "streetAddress": "RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur"
+         },
+         "name": "Bengaluru"
+      },
+      "name": "Punchliners Comedy Show ft. Samay Raina",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 15
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-28T10:38:02+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 15
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-28T10:38:03+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 15
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-28T10:38:02+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 15
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-28T10:38:03+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-09-14T18:00:00+05:30",
+      "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready to groove to the beats of Ethnic Dandiya at White Lotus Club, HSR! ü•Å It`s going to be an incredible night of infectious beats, exhilarating moves, and the perfect blend of tradition and fun!",
+      "endDate": "2024-10-11T01:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/5996a826d8b5e10dfb026e17a4ecb7271724823961.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "streetAddress": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102"
+         },
+         "name": "Bengaluru"
+      },
+      "name": "Ethnic Dandiya At White Lotus HSR - Season - 2",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-28T11:20:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-28T11:20:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-10-04T17:30:00+05:30",
+      "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962"
    }
 ]

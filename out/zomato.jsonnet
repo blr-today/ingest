@@ -3157,5 +3157,119 @@
       }
     ],
     "url": "https://www.zomato.com/events/red-fm-presents-dandiya-night-bengaluru-et49916"
+  },
+  {
+    "name": "Punchliners Comedy Show ft. Samay Raina",
+    "description": "LOL @ The Bay is a stand-up comedy event hosted at the Amphitheatre at The Bay, Ecoworld, Bengaluru's premier destination for food lovers. The Bay offers a curated mix of global and Indian food and beverages, making it a vibrant hub for food enthusiasts.",
+    "startDate": "2024-09-14T18:00:00+05:30",
+    "endDate": "2024-09-14T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Punchliners Comedy Show ft. Samay Raina Comedy and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Punchliners Comedy Show ft. Samay Raina Bengaluru on Zomato which is a Comedy and Trending event happening at RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/759f96a429dc034818111b339912a9c21724820767.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-08-28 10:38:02",
+        "availability": "INSTOCK",
+        "inventory": 15
+      },
+      {
+        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-08-28 10:38:03",
+        "availability": "INSTOCK",
+        "inventory": 15
+      },
+      {
+        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
+        "price": 1799,
+        "currency": "INR",
+        "validFrom": "2024-08-28 10:38:02",
+        "availability": "INSTOCK",
+        "inventory": 15
+      },
+      {
+        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
+        "price": 1799,
+        "currency": "INR",
+        "validFrom": "2024-08-28 10:38:03",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961"
+  },
+  {
+    "name": "Ethnic Dandiya At White Lotus HSR - Season - 2",
+    "description": "Get ready to groove to the beats of Ethnic Dandiya at White Lotus Club, HSR! \uf8ff\u00fc\u2022\u00c5 It`s going to be an incredible night of infectious beats, exhilarating moves, and the perfect blend of tradition and fun!",
+    "startDate": "2024-10-04T17:30:00+05:30",
+    "endDate": "2024-10-11T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Ethnic Dandiya At White Lotus HSR - Season - 2 Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Ethnic Dandiya At White Lotus HSR - Season - 2 Bengaluru on Zomato which is a Party event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/5996a826d8b5e10dfb026e17a4ecb7271724823961.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-08-28 11:20:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-08-28 11:20:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962"
   }
 ]
