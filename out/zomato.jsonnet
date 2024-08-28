@@ -18,7 +18,7 @@
     "ogTitle": "DGTL Bengaluru 2024 Best seller and Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for DGTL Bengaluru 2024 Bengaluru on Zomato which is a Best seller and Music event happening at 1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/9e1a7e29f079e1fb1a37301f998d54b61723401120.png",
+      "https://b.zmtcdn.com/data/zomaland/40c3c244e3d738fe0e6b2ca1608c29251724830203.jpeg",
       "https://b.zmtcdn.com/data/zomaland/d30126e67780755576191e95fde702cf1717604395.png",
       "https://b.zmtcdn.com/data/zomaland/0006ca977b8fab173cc86df8f0e5c4c21717670593.png",
       "https://b.zmtcdn.com/data/zomaland/94a404ef97a59a5630011401b479ef0a1718035456.jpeg",
@@ -32,7 +32,8 @@
       "https://b.zmtcdn.com/data/zomaland/dd67a45eba86b8f047335a4fd90ac6b01718036095.jpeg",
       "https://b.zmtcdn.com/data/zomaland/54e8b9d03a3f3145d50947e7100059951718036162.jpeg",
       "https://b.zmtcdn.com/data/zomaland/c3955dc587c64a0e4ae7a18ba40713791718036212.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/3c50bfb7a81ddaeb3ba315b7d5a5b00f1718036283.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/3c50bfb7a81ddaeb3ba315b7d5a5b00f1718036283.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/55a7e45d131007448a1c7e0423bf9a8e1724829350.png"
     ],
     "tickets": [
       {
@@ -41,7 +42,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 479
+        "inventory": 475
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -49,7 +50,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 388
+        "inventory": 344
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -57,7 +58,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1091
+        "inventory": 1086
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -68,7 +69,170 @@
         "inventory": 168
       }
     ],
-    "performers": [],
+    "performers": [
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/f251ef0be8a811cc8ff30e4328dc036f1724831486.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/f251ef0be8a811cc8ff30e4328dc036f1724831486.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/da72d86963c02eb238b1af858b09269b1724831269.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/da72d86963c02eb238b1af858b09269b1724831269.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/7ffe16fada830dea0713b930da6ccb461724831172.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/7ffe16fada830dea0713b930da6ccb461724831172.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/79851156446c036ecc0043f5e80b0f851724831245.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/79851156446c036ecc0043f5e80b0f851724831245.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/8b1509881ff34428d177f9b27b4626121724831230.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/8b1509881ff34428d177f9b27b4626121724831230.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/4a463de876fb0996d3683a6db7f48e761724831211.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/4a463de876fb0996d3683a6db7f48e761724831211.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/ea6f1ab6a23d34cd08eabd44844d2bbe1724831258.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/ea6f1ab6a23d34cd08eabd44844d2bbe1724831258.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/ea619155dc48c5ebd2ba48c048a94ae31724831197.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/ea619155dc48c5ebd2ba48c048a94ae31724831197.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/48ad6ad7fa5a862b39c2d5822c24ad1d1724831284.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/48ad6ad7fa5a862b39c2d5822c24ad1d1724831284.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/d71cfbeb5b62d240c6bae6451fcacfc91724831297.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/d71cfbeb5b62d240c6bae6451fcacfc91724831297.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/5bbf38646e052bd4a5089367d27c6a1e1724831311.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/5bbf38646e052bd4a5089367d27c6a1e1724831311.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/86da411926770499263faa0406a105fd1724831322.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/86da411926770499263faa0406a105fd1724831322.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/15278b8276cb5023205139b5d1b25cc81724831355.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/15278b8276cb5023205139b5d1b25cc81724831355.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/1e339a21648050807c3447dc3e7c2c321724831376.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/1e339a21648050807c3447dc3e7c2c321724831376.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/da390754f4f4b342660104eeafda5a8c1724831387.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/da390754f4f4b342660104eeafda5a8c1724831387.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/da390754f4f4b342660104eeafda5a8c1724831387.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/da390754f4f4b342660104eeafda5a8c1724831387.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/dc622e40776efd2a90db2dc36f936fd31724831418.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/dc622e40776efd2a90db2dc36f936fd31724831418.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/7abc4c96ca7d21cd061e15eb022642f71724831441.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/7abc4c96ca7d21cd061e15eb022642f71724831441.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/7921675c0a279122960c47af0d30c7441724831455.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/7921675c0a279122960c47af0d30c7441724831455.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/71f7c6f5435b5d22f425074e47addd341724831471.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/71f7c6f5435b5d22f425074e47addd341724831471.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/a5622559d4bcad69e59518a9cf737fdb1724831103.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/a5622559d4bcad69e59518a9cf737fdb1724831103.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/f251ef0be8a811cc8ff30e4328dc036f1724831528.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/f251ef0be8a811cc8ff30e4328dc036f1724831528.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/31568544518f3cba6d8b4ba7af99f09b1724831537.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/31568544518f3cba6d8b4ba7af99f09b1724831537.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/0a67fd3dbb7aeeb2026dcd6f071ebfcc1724831554.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/0a67fd3dbb7aeeb2026dcd6f071ebfcc1724831554.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/38c5e092fdbbd20427ae08b1c3c614dc1724831569.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/38c5e092fdbbd20427ae08b1c3c614dc1724831569.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/c1d356fc94678eaff764c9f4a74d25e31724831583.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/c1d356fc94678eaff764c9f4a74d25e31724831583.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/6efcda9bbc814650b85ffe49bd12c6d61724831595.png",
+        "name": "1",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/6efcda9bbc814650b85ffe49bd12c6d61724831595.png"
+      }
+    ],
     "organizer": [
       {
         "type": "ORGANIZATION",
@@ -139,7 +303,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 496
+        "inventory": 494
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -258,7 +422,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 164
+        "inventory": 396
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -348,7 +512,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 920
+        "inventory": 910
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -364,7 +528,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 56
+        "inventory": 54
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -372,7 +536,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 98
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -380,7 +544,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 97
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -438,7 +602,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 46
+        "inventory": 43
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -446,7 +610,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 31
+        "inventory": 30
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -454,7 +618,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 42
+        "inventory": 40
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -486,7 +650,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 47
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -592,7 +756,7 @@
         "currency": "INR",
         "validFrom": "2024-08-27 14:28:48",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 47
       }
     ],
     "performers": [],
@@ -681,8 +845,8 @@
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-07-31 22:28:54",
-        "availability": "SELLING_FAST",
-        "inventory": 7
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -805,7 +969,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 13:10:25",
         "availability": "INSTOCK",
-        "inventory": 17
+        "inventory": 15
       },
       {
         "url": "https://www.zomato.com/events/tribute-to-pink-floyd-bengaluru-et47107/details",
@@ -866,7 +1030,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 412
+        "inventory": 407
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -882,7 +1046,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 29
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -959,8 +1123,8 @@
       }
     ],
     "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+    "ogTitle": "Karaoke Nights Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music and Trending event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/b1c741f89870576ade0c40cff6e7f9ab1722499729.jpeg"
     ],
@@ -970,8 +1134,8 @@
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-08-01 15:32:06",
-        "availability": "INSTOCK",
-        "inventory": 60
+        "availability": "SELLING_FAST",
+        "inventory": 22
       }
     ],
     "performers": [],
@@ -1000,8 +1164,8 @@
       }
     ],
     "isAccessibleForFree": true,
-    "ogTitle": "Blockbuster Friday Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Blockbuster Friday Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
+    "ogTitle": "Blockbuster Friday Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Blockbuster Friday Bengaluru on Zomato which is a Music and Trending event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/cd6b1bab5b34784e1c74b9709b350c191722499788.jpeg"
     ],
@@ -1011,8 +1175,8 @@
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-08-01 15:32:07",
-        "availability": "INSTOCK",
-        "inventory": 34
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -1054,7 +1218,7 @@
         "currency": "INR",
         "validFrom": "2024-08-12 16:05:16",
         "availability": "INSTOCK",
-        "inventory": 48
+        "inventory": 46
       },
       {
         "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264/details",
@@ -1070,7 +1234,7 @@
         "currency": "INR",
         "validFrom": "2024-08-12 16:05:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       }
     ],
     "performers": [],
@@ -1111,7 +1275,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 15:35:00",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 96
       }
     ],
     "performers": [],
@@ -1152,7 +1316,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 18:00:00",
         "availability": "INSTOCK",
-        "inventory": 90
+        "inventory": 80
       },
       {
         "url": "https://www.zomato.com/events/pou-live-bengaluru-et48621/details",
@@ -1510,293 +1674,6 @@
     "url": "https://www.zomato.com/events/hampi-weekend-getaway-bengaluru-et48721"
   },
   {
-    "name": "Skandagiri Sunrise / Night Trek",
-    "description": "Skandagiri, also known as Kalwarbetta or Kalavara Durga, is a mountain fortress 70 km from Bangalore. This 8 km, 4-hour trek offers a moderately difficult climb starting at Papagni Temple, leading through dense shrubs and steep terrain. At the summit, explore Tipu Sultan\u2019s ruins and enjoy a stunning sunrise above the clouds.\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\nThings to Carry:\n\u2022 Raincoat/Poncho (during monsoon)\n\u2022 ID proof\n\u2022 Backpack\n\u2022 Sunscreen/cap\n\u2022 Track pants\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\n\u2022 Torch (with extra batteries)\n\u2022 Personal Medication\n\u2022 Necessary toiletries\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-30T21:00:00+05:30",
-    "endDate": "2024-09-01T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kempegowda Rd, Kempegowda, Sevashrama",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Skandagiri Sunrise / Night Trek Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Skandagiri Sunrise / Night Trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4e4330c9374a2b31a99de9124253754a1723798872.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/skandagiri-sunrise-night-trek-bengaluru-et48725/details",
-        "price": 4500,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:25:59",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/skandagiri-sunrise-night-trek-bengaluru-et48725"
-  },
-  {
-    "name": "Bandajje waterfalls trek",
-    "description": "Situated in the Charmadi Ghats area of the western ghats, this offbeat trail to Bandaje waterfalls is one of the must-do treks when in Bangalore. The journey takes you through magnificent meadows, river streams, and lush green forests, all of which are a delight to behold. Embark on this exciting trek and see the beauty for yourself.\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\nThings to Carry:\n\u2022 Raincoat/Poncho (during monsoon)\n\u2022 ID proof\n\u2022 Backpack\n\u2022 Sunscreen/cap\n\u2022 Track pants\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\n\u2022 Torch (with extra batteries)\n\u2022 Personal Medication\n\u2022 Necessary toiletries\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-30T21:00:00+05:30",
-    "endDate": "2024-09-01T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kempegowda Rd, Kempegowda, Sevashrama",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Bandajje waterfalls trek Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bandajje waterfalls trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/823a7bea12a80bd8c473ddf17d4de5791723799009.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bandajje-waterfalls-trek-bengaluru-et48727/details",
-        "price": 4000,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:26:00",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bandajje-waterfalls-trek-bengaluru-et48727"
-  },
-  {
-    "name": "Kodachadri Trek & Jog falls",
-    "description": "Experience the breathtaking panoramic views of the Kodachadri Hills in Valur, Karnataka. Located at an altitude of 1343 meters, these hills are surrounded by dense forest and attract thousands of visitors annually. Challenge yourself on a 2-day trek from Bangalore, navigating tricky terrains to reach the summit and admire the vast Western Ghats. Explore the natural wonders of Kodachadri, including Hidlumane Waterfalls, Nagara Fort, and Jog Falls.\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\nThings to Carry:\n\u2022 Raincoat/Poncho (during monsoon)\n\u2022 ID proof\n\u2022 Backpack\n\u2022 Sunscreen/cap\n\u2022 Track pants\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\n\u2022 Torch (with extra batteries)\n\u2022 Personal Medication\n\u2022 Necessary toiletries\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-30T21:00:00+05:30",
-    "endDate": "2024-09-01T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kempegowda Rd, Kempegowda, Sevashrama",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Kodachadri Trek & Jog falls Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Kodachadri Trek & Jog falls Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/19c190f6ad5baf810709d9728d76108c1723799248.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/kodachadri-trek-jog-falls-bengaluru-et48730/details",
-        "price": 4500,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:26:01",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/kodachadri-trek-jog-falls-bengaluru-et48730"
-  },
-  {
-    "name": "Ettina Bhuja Trek",
-    "description": "Ettina Bhuja, meaning Ox's Shoulder in Kannada, is near Dharmasthala, in Byrapura village, Mudigere range, Chikmagalur district. Located about 250km from Bangalore, it's an ideal weekend getaway.\nThough not well-known among trekkers, Ettina Bhuja offers scenic landscapes at 1300m altitude with grasslands, forests, bamboo, and cane plantations. The trek features the soothing sounds of nature.\nAt the top, which resembles an ox's hump, enjoy panoramic views of dense green forests.\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\nThings to Carry:\n\u2022 Raincoat/Poncho (during monsoon)\n\u2022 ID proof\n\u2022 Backpack\n\u2022 Sunscreen/cap\n\u2022 Track pants\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\n\u2022 Torch (with extra batteries)\n\u2022 Personal Medication\n\u2022 Necessary toiletries\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-30T21:00:00+05:30",
-    "endDate": "2024-09-01T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kempegowda Rd, Kempegowda, Sevashrama",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Ettina Bhuja Trek Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Ettina Bhuja Trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/888e8af4b5597e9c3897986dfdacaecb1723799332.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/ettina-bhuja-trek-bengaluru-et48732/details",
-        "price": 3500,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:26:01",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/ettina-bhuja-trek-bengaluru-et48732"
-  },
-  {
-    "name": "Tadiandamol trek",
-    "description": "Coorg in South Karnataka refreshes minds with its lush greenery and stunning Western Ghats views. Its replenishing nature, tricky terrains, wooded slopes, and misty valleys attract many travelers and trekkers. Tadiandamol, Coorg's highest peak at 1,748m, is surrounded by the Shola forests' stunning greenery. Enjoy exploring Coorg's captivating landscape, and feel the pride of conquering its highest peak, rewarded with sweeping views of green forests and coffee plantations.\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\nThings to Carry:\n\u2022 Raincoat/Poncho (during monsoon)\n\u2022 ID proof\n\u2022 Backpack\n\u2022 Sunscreen/cap\n\u2022 Track pants\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\n\u2022 Torch (with extra batteries)\n\u2022 Personal Medication\n\u2022 Necessary toiletries\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-30T21:00:00+05:30",
-    "endDate": "2024-09-01T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kempegowda Rd, Kempegowda, Sevashrama",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Tadiandamol trek Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tadiandamol trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/7b4b0685ad0ec87e100bc6ddbe82dd671723799903.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tadiandamol-trek-bengaluru-et48735/details",
-        "price": 3600,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:26:02",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tadiandamol-trek-bengaluru-et48735"
-  },
-  {
-    "name": "Dudhsagar Trek",
-    "description": "Head out on an adventurous trek to Dudhsagar Falls, located on Goa's eastern border. Known as the \u2018Sea of Milk,\u2019 this four-tiered waterfall on the Mandovi River is one of India's tallest, standing at 310m (1017 feet) with an average width of 30m (100 feet).\n\nThe falls are nestled in the Bhagwan Mahaveer Sanctuary and Mollem National Park within the Western Ghats, marking the border between Karnataka and Goa. Surrounded by thick deciduous forests, the area boasts rich biodiversity, perfect for a two-day trek.\n\nTotal trek distance: 22 km, moderate difficulty.\n\nThings to carry:\n\u2022 Raincoat/Poncho (monsoon)\n\u2022 ID proof\n\u2022 Backpack\n\u2022 Sunscreen/Cap\n\u2022 Track pants\n\u2022 Full sleeve cotton T-shirt\n\u2022 Torch (with extra batteries)\n\u2022 Personal medication\n\u2022 Necessary toiletries\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-30T21:00:00+05:30",
-    "endDate": "2024-09-01T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kempegowda Rd, Kempegowda, Sevashrama",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Dudhsagar Trek Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Dudhsagar Trek Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f9b21205a3aa5c6e47ebf1f7afb63a9e1723799988.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/dudhsagar-trek-bengaluru-et48737/details",
-        "price": 4950,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:26:02",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/dudhsagar-trek-bengaluru-et48737"
-  },
-  {
-    "name": "Night camping, trek & activities @Ramanagar",
-    "description": "Ramanagara, 50 km southwest of Bangalore, stands at 747 meters (2450 feet) and is famous for its massive granite outcrops. Known for short rock climbs, grades range from 5.8 to 5.11 American. It features some of the world's oldest granite outcrops, including Ramdevarabetta, famous for its cave entrances in \"Passage to India.\" The trek distance is 4 km, with a moderate difficulty level.\nTotal Trek distance: 22 Kms, Level of Trek: Moderate.\nThings to Carry:\n\u2022 Raincoat/Poncho (during monsoon)\n\u2022 ID proof\n\u2022 Backpack\n\u2022 Sunscreen/cap\n\u2022 Track pants\n\u2022 Full sleeve cotton t-shirt (to avoid getting sunburnt)\n\u2022 Torch (with extra batteries)\n\u2022 Personal Medication\n\u2022 Necessary toiletries\n\u2022 Shoes with a good grip",
-    "startDate": "2024-08-30T21:00:00+05:30",
-    "endDate": "2024-09-01T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kempegowda Rd, Kempegowda, Sevashrama",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Night camping, trek & activities @Ramanagar Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Night camping, trek & activities @Ramanagar Bengaluru on Zomato which is a Trending event happening at Kempegowda Rd, Kempegowda, Sevashrama",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/01eb6531c79d5a679a78e54707040a881723800125.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/night-camping-trek-activities-ramanagar-bengaluru-et48739/details",
-        "price": 1750,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:26:03",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/night-camping-trek-activities-ramanagar-bengaluru-et48739"
-  },
-  {
     "name": "Bengaluru Pupper Party",
     "description": "Hey Bengaluru we are back with another Paw-ty at Wag-ville, Get ready for all the barks, woofs, and a day filled with all the fun\nInclusions: \nExciting games & gifts for your pets\n Free pet food buffet\nFree Basic health check-up\n A goodie bag for all Pets\nNo charges for pets!\n\nOnground tickets will be priced at 700/- per person \n\nFree Pet Fed Membership worth Rs. 999 (first 50 bookings)",
     "startDate": "2024-09-08T15:00:00+05:30",
@@ -1835,11 +1712,11 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et48781/details",
-        "price": 699,
+        "price": 499,
         "currency": "INR",
-        "validFrom": "2024-08-22 23:26:00",
+        "validFrom": "2024-08-16 22:15:00",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 89
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et48781/details",
@@ -1888,7 +1765,7 @@
         "currency": "INR",
         "validFrom": "2024-08-20 10:37:46",
         "availability": "INSTOCK",
-        "inventory": 117
+        "inventory": 66
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
@@ -1896,7 +1773,7 @@
         "currency": "INR",
         "validFrom": "2024-08-20 10:37:47",
         "availability": "INSTOCK",
-        "inventory": 171
+        "inventory": 156
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
@@ -1904,7 +1781,7 @@
         "currency": "INR",
         "validFrom": "2024-08-20 10:37:47",
         "availability": "INSTOCK",
-        "inventory": 197
+        "inventory": 195
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
@@ -1920,7 +1797,7 @@
         "currency": "INR",
         "validFrom": "2024-08-20 10:37:48",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 199
       }
     ],
     "performers": [],
@@ -1960,8 +1837,8 @@
         "price": 1299,
         "currency": "INR",
         "validFrom": "2024-08-21 17:15:34",
-        "availability": "INSTOCK",
-        "inventory": 6
+        "availability": "SELLING_FAST",
+        "inventory": 2
       },
       {
         "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et49183/details",
@@ -1969,7 +1846,7 @@
         "currency": "INR",
         "validFrom": "2024-08-21 17:15:35",
         "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 14
       }
     ],
     "performers": [],
@@ -2010,7 +1887,7 @@
         "currency": "INR",
         "validFrom": "2024-08-22 20:23:20",
         "availability": "INSTOCK",
-        "inventory": 135
+        "inventory": 130
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-bellandur-edition-bengaluru-et49346/details",
@@ -2026,7 +1903,7 @@
         "currency": "INR",
         "validFrom": "2024-08-22 20:23:21",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 49
       }
     ],
     "performers": [],
@@ -2361,7 +2238,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:28",
         "availability": "INSTOCK",
-        "inventory": 19
+        "inventory": 14
       }
     ],
     "performers": [],
@@ -3031,7 +2908,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 14:52:05",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 94
       },
       {
         "url": "https://www.zomato.com/events/centigrade-x-pumproom-ft-rezident-bengaluru-et49733/details",
@@ -3039,7 +2916,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 14:52:05",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 97
       },
       {
         "url": "https://www.zomato.com/events/centigrade-x-pumproom-ft-rezident-bengaluru-et49733/details",
@@ -3047,7 +2924,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 14:52:06",
         "availability": "INSTOCK",
-        "inventory": 96
+        "inventory": 78
       }
     ],
     "performers": [],
@@ -3061,7 +2938,7 @@
     "url": "https://www.zomato.com/events/centigrade-x-pumproom-ft-rezident-bengaluru-et49733"
   },
   {
-    "name": "Onam Bash Sep 15 2024 White lotus",
+    "name": "Onam Bash @ White lotus",
     "description": "Get ready to groove and celebrate the rich heritage of Onam like never\nbefore at our electrifying Onam DJ Night! \u00f0\u0178\u0152\u0178\u00e2\u0153\u00a8\n\nJoin us for a night where traditional charm meets contemporary beats.\nOur DJ will spin a fusion of classic Onam tunes and the latest\nchart-toppers, ensuring the dance floor is always buzzing with energy.\n\nSpecial  Chinkari mela with DJ",
     "startDate": "2024-09-15T20:00:00+05:30",
     "endDate": "2024-09-16T00:30:00+05:30",
@@ -3076,8 +2953,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Onam Bash Sep 15 2024 White lotus Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Onam Bash Sep 15 2024 White lotus Bengaluru on Zomato which is a Experiences event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+    "ogTitle": "Onam Bash @ White lotus Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Onam Bash @ White lotus Bengaluru on Zomato which is a Experiences event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/01c854dc4b07c9dbc7810c505860264b1724756584.jpeg"
     ],
@@ -3271,5 +3148,103 @@
       }
     ],
     "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962"
+  },
+  {
+    "name": "Cirque",
+    "description": "Step into the magical world of Cirque, where the night comes alive with dazzling performances, a vibrant night market, and an atmosphere that spins with enchantment, all set against the backdrop of a whimsical decor that elevates the experience to something truly extraordinary.\n\nJoin MyPartyMob on August 31st, Saturday, for a night that circles around wonder and excitement.\n\n\uf8ff\u00fc\u00ed\u00c9 Dance to electrifying beats by DJ Prithvi and Raghu Achar.\n\u201a\u00f6\u00b0\u00d4\u220f\u00e8 Be mesmerized by LED performers who light up the night.\n\uf8ff\u00fc\u00e9\u2122 Explore the lively flea market filled with unique finds.\n\nFrom 8 PM onwards, every moment is a celebration of art, music, and imagination. Don\u201a\u00c4\u00f4t miss your chance to experience a night where the circle of magic never ends!\nGet your tickets now and be part of the enchantment!",
+    "startDate": "2024-08-31T20:00:00+05:30",
+    "endDate": "2024-09-01T00:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Cirque Music and Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Cirque Bengaluru on Zomato which is a Music and Party event happening at 7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/2b6bb41cc3a855ff90574884b1cf01e41724828426.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/cirque-bengaluru-et49972/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-08-28 12:38:12",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/cirque-bengaluru-et49972/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-28 12:38:12",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/cirque-bengaluru-et49972/details",
+        "price": 1900,
+        "currency": "INR",
+        "validFrom": "2024-08-28 12:38:13",
+        "availability": "INSTOCK",
+        "inventory": 25
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/cirque-bengaluru-et49972"
+  },
+  {
+    "name": "A Night with Prashant Salwadi",
+    "description": "\u00f0\u0178\u017d\u00a4 A Night with Prashant Salwadi - Sa Re Ga Ma Fame! \u00f0\u0178\u017d\u00b6\n\nJoin us this Friday at Radio Bar for an unforgettable musical journey with the sensational Prashant Salwadi. Get ready to be enchanted by his soulful tunes and mesmerizing melodies. It\u00e2\u20ac\u2122s a night of music magic you won\u00e2\u20ac\u2122t want to miss!\n\n",
+    "startDate": "2024-08-30T08:00:00+05:30",
+    "endDate": "2024-08-30T23:50:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "A Night with Prashant Salwadi Party and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for A Night with Prashant Salwadi Bengaluru on Zomato which is a Party and Music event happening at Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/95080438419a501e339ab60ed9fb07cf1724828560.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/a-night-with-prashant-salwadi-bengaluru-et49973/details",
+        "price": 500,
+        "currency": "INR",
+        "validFrom": "2024-08-28 12:38:13",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/a-night-with-prashant-salwadi-bengaluru-et49973"
   }
 ]
