@@ -819,47 +819,6 @@
     "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-08-28T20:30:00+05:30",
-    "endDate": "2024-08-28T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music and Trending event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/6f25c193297d1099d65190440fc5b19c1722444589.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47104/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-31 22:28:54",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47104"
-  },
-  {
     "name": "Tribute to Eric Clapton & Rolling Stones",
     "description": "At the Hard Rock Cafe, Bengaluru the progressive rock band Soul Smoke will pay homage to Eric Clapton and Rolling Stones. If you are a Beatles or Eric Clapton fan, (how can you not be?) then join us for this memorable night at Hard Rock Cafe",
     "startDate": "2024-08-29T20:30:00+05:30",
@@ -1188,6 +1147,71 @@
       }
     ],
     "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47168"
+  },
+  {
+    "name": "Speed Dating",
+    "description": "Tired of swiping and texting? Come, join us at our social mixer to meet potential dates and friends in real life.\nWe`ve designed this event to boost intimacy between curated attendees, resulting in friendship, romance, and even marriage.\nOur fun icebreakers and speed dating games during the event facilitate mindful conversations and deep connections.\nSo come, and experience some cool, quirky games for introverts to break the ice without any pressure! \nSeek a friend, flatmate, date, or startup soulmate- find it all at Speed Dating!",
+    "startDate": "2024-08-31T18:00:00+05:30",
+    "endDate": "2024-08-31T20:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Speed Dating Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Speed Dating Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/4588abc050c4cafdf66c8efd1ffd7a481723189156.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48036/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:45",
+        "availability": "INSTOCK",
+        "inventory": 20
+      },
+      {
+        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48036/details",
+        "price": 1299,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:45",
+        "availability": "INSTOCK",
+        "inventory": 4
+      },
+      {
+        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48036/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:46",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48036/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-09 13:30:46",
+        "availability": "SELLING_FAST",
+        "inventory": 5
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48036"
   },
   {
     "name": "Juss Live India Tour",
