@@ -13,7 +13,7 @@ def _date(date_str):
 def fetch_events_links(session):
 	res = session.get(f"{BASE_URL}/experiences")
 	soup = BeautifulSoup(res.text, 'html.parser')
-	event_divs = soup.find_all('div', class_ = 'single-experience')
+	events = soup.select('div.single-experience')
 
 	# Fetch events from other pages.
 	load_more = soup.find('div', class_ = 'products-loadmore')
@@ -23,15 +23,12 @@ def fetch_events_links(session):
 		new_page = session.get(f"{BASE_URL}{url}")
 		new_page_body = BeautifulSoup(new_page.text, 'html.parser')
 		
-		new_events = new_page_body.find_all('div', class_ = 'single-experience')
-		event_divs += new_events
+		new_events = new_page_body.select('div.single-experience')
+		events += new_events
 
 		load_more = new_page_body.find('div', class_ = 'products-loadmore')
 
-	event_links = []
-	for event_div in event_divs:
-		url = event_div.find('a').get('href')
-		event_links.append(url)
+	event_links = map(lambda x: x.find('a')['href'], events)
 
 	return event_links
 
@@ -42,6 +39,7 @@ def fetch_events(event_links, session):
 
 		event_page = session.get(f"{BASE_URL}{event_link}")
 		event = BeautifulSoup(event_page.text, 'html.parser')
+		# print("event_link", event_link, event)
 		date_selector = event.find('div', 'product-variations-varieties').find('select')
 
 		# Fetch data of the events which would be happening in future otherwise skip
