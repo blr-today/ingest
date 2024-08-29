@@ -54,13 +54,13 @@ def make_event(event):
 
 	location = event.select_one('div.location').get_text().strip()
 
-	options = []
+	options = {}
 	options_selector = event.select_one('div.cart-details')
 	opts = options_selector.select_one('div.product-variations select').select('option')
 	for opt in opts:
 		opt_name = opt.get_text()
 		price = opt['data-price-after-discount']
-		options.append({opt_name: price})
+		options[opt_name] = price
 
 	dates = []
 	date_opts = options_selector.select_one('div.product-variations-variety select').select('option')
@@ -73,13 +73,13 @@ def make_event(event):
 	duration = event.select_one('div.duration').get_text().strip()
 	
 	# details
-	metrics = []
+	metrics = {}
 	event_metrics = event.find_all('div', class_ = 'single-metric active')
 	for event_metric in event_metrics:
 		metric = event_metric.find('div', class_ = 'content') 
 		title = metric.find('p').get_text().strip()
 		value = metric.find('h3').get_text().strip()
-		metrics.append({title: value})
+		metrics[title] = value
 
 	description = event.select_one('div.trix-content div').get_text()
 
