@@ -39,8 +39,7 @@ def fetch_events(event_links, session):
 
 		event_page = session.get(f"{BASE_URL}{event_link}")
 		event = BeautifulSoup(event_page.text, 'html.parser')
-		# print("event_link", event_link, event)
-		date_selector = event.find('div', 'product-variations-varieties').find('select')
+		date_selector = event.select_one('div.product-variations-varieties select')
 
 		# Fetch data of the events which would be happening in future otherwise skip
 		if "disabled" in date_selector.attrs:
@@ -51,27 +50,27 @@ def fetch_events(event_links, session):
 	return events
 
 def make_event(event):
-	heading = event.find('div', class_ = 'heading').get_text().strip()
+	heading = event.select_one('div.heading').get_text().strip()
 
-	location = event.find('div', class_ = 'location').get_text().strip()
+	location = event.select_one('div.location').get_text().strip()
 
 	options = []
-	options_selector = event.find('div', class_ = 'cart-details')
-	opts = options_selector.find('div', class_ = 'product-variations').find('select').find_all('option')
+	options_selector = event.select_one('div.cart-details')
+	opts = options_selector.select_one('div.product-variations select').select('option')
 	for opt in opts:
 		opt_name = opt.get_text()
 		price = opt['data-price-after-discount']
 		options.append({opt_name: price})
 
 	dates = []
-	date_opts = options_selector.find('div', class_ = 'product-variations-variety').find('select').find_all('option')
+	date_opts = options_selector.select_one('div.product-variations-variety select').select('option')
 	for date_opt in date_opts:
 		booking_begin = str(datetime.strptime(date_opt['data-booking-begin-at'], "%Y-%m-%d %H:%M:%S %Z"))
 		event_date = str(datetime.strptime(date_opt.get_text().strip(), "%d-%b-%Y"))
 
 		dates.append({"eventDate": _date(event_date), "bookingBeginDate": _date(booking_begin)})
 
-	duration = event.find('div', class_ = 'duration').get_text().strip()
+	duration = event.select_one('div.duration').get_text().strip()
 	
 	# details
 	metrics = []
@@ -82,7 +81,7 @@ def make_event(event):
 		value = metric.find('h3').get_text().strip()
 		metrics.append({title: value})
 
-	description = event.find('div', class_ = 'trix-content').find('div').get_text()
+	description = event.select_one('div.trix-content div').get_text()
 
 	return {
 		"name": heading,
