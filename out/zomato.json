@@ -23,7 +23,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 475
+               "value": 469
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -32,7 +32,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 344
+               "value": 312
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-29T22:00:00+05:30"
@@ -41,7 +41,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1086
+               "value": 1075
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -317,7 +317,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 98
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-03T14:00:00+05:30"
@@ -398,7 +398,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 396
+               "value": 308
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-07T17:00:00+05:30"
@@ -407,7 +407,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 192
+               "value": 187
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-09T05:00:00+05:30"
@@ -493,7 +493,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 910
+               "value": 908
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T16:50:00+05:30"
@@ -529,7 +529,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 96
+               "value": 95
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-13T13:00:00+05:30"
@@ -579,7 +579,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 43
+               "value": 37
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T22:00:00+05:30"
@@ -588,7 +588,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 30
+               "value": 25
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T22:00:00+05:30"
@@ -597,7 +597,16 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 40
+               "value": 38
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-30T22:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 50
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T22:00:00+05:30"
@@ -615,10 +624,19 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 50
+               "value": 10
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-07-30T22:00:00+05:30"
+            "validFrom": "2024-08-29T15:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-29T15:00:00+05:30"
          },
          {
             "availability": "InStock",
@@ -642,10 +660,28 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 50
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-29T15:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 48
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T22:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-29T15:00:00+05:30"
          }
       ],
       "organizer": [
@@ -683,7 +719,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 13
+               "value": 11
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-31T16:35:00+05:30"
@@ -742,7 +778,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 47
+               "value": 44
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-27T14:28:48+05:30"
@@ -812,48 +848,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "At the Hard Rock Cafe, Bengaluru the progressive rock band Soul Smoke will pay homage to Eric Clapton and Rolling Stones. If you are a Beatles or Eric Clapton fan, (how can you not be?) then join us for this memorable night at Hard Rock Cafe",
-      "endDate": "2024-08-29T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/0a57f31b5ed0b6eed1ac152262f0e0ee1722444651.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Tribute to Eric Clapton & Rolling Stones",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 75
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-31T22:28:54+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 75,
-      "startDate": "2024-08-29T20:30:00+05:30",
-      "url": "https://www.zomato.com/events/tribute-to-eric-clapton-rolling-stones-bengaluru-et47105"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ PRASHU and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
       "endDate": "2024-08-30T23:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -917,7 +911,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 15
+               "value": 12
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T13:10:25+05:30"
@@ -967,7 +961,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 407
+               "value": 395
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T09:00:00+05:30"
@@ -985,7 +979,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 29
+               "value": 25
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T09:00:00+05:30"
@@ -1055,48 +1049,6 @@
       "performers": [ ],
       "startDate": "2024-10-05T19:00:00+05:30",
       "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Have you ever let your inner bathroom singer play for the rest of the world?\r\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\r\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
-      "endDate": "2024-08-29T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/b1c741f89870576ade0c40cff6e7f9ab1722499729.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Karaoke Nights",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 22
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-01T15:32:06+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 22,
-      "startDate": "2024-08-29T21:00:00+05:30",
-      "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et47167"
    },
    {
       "@context": "https://schema.org",
@@ -1188,10 +1140,10 @@
             "validFrom": "2024-08-09T13:30:46+05:30"
          },
          {
-            "availability": "InStock",
+            "availability": "Sold Out",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 5
+               "value": 0
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-09T13:30:46+05:30"
@@ -1232,15 +1184,6 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 46
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-12T16:05:16+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
                "value": 25
             },
             "priceCurrency": "INR",
@@ -1250,7 +1193,25 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 99
+               "value": 98
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-12T16:05:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 7
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-27T22:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 45
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-12T16:05:00+05:30"
@@ -1333,7 +1294,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 80
+               "value": 61
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-14T18:00:00+05:30"
@@ -1778,46 +1739,46 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 66
+               "value": 284
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-08-20T10:37:46+05:30"
+            "validFrom": "2024-08-20T10:37:00+05:30"
          },
          {
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 156
+               "value": 390
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-08-20T10:37:47+05:30"
+            "validFrom": "2024-08-20T10:37:00+05:30"
          },
          {
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 195
+               "value": 495
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-08-20T10:37:47+05:30"
+            "validFrom": "2024-08-20T10:37:00+05:30"
          },
          {
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 200
+               "value": 500
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-08-20T10:37:48+05:30"
+            "validFrom": "2024-08-20T10:37:00+05:30"
          },
          {
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 199
+               "value": 499
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-08-20T10:37:48+05:30"
+            "validFrom": "2024-08-20T10:37:00+05:30"
          }
       ],
       "organizer": [
@@ -1855,19 +1816,19 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 2
+               "value": 1
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-08-21T17:15:34+05:30"
+            "validFrom": "2024-08-21T17:15:00+05:30"
          },
          {
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 14
+               "value": 10
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-08-21T17:15:35+05:30"
+            "validFrom": "2024-08-21T17:15:00+05:30"
          }
       ],
       "organizer": [
@@ -1905,7 +1866,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 130
+               "value": 117
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-22T20:23:20+05:30"
@@ -1914,7 +1875,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 48
+               "value": 47
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-22T20:23:21+05:30"
@@ -2268,7 +2229,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 14
+               "value": 6
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T14:15:28+05:30"
@@ -2336,7 +2297,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 20
+               "value": 19
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T14:15:37+05:30"
@@ -2404,7 +2365,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 20
+               "value": 16
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T14:15:40+05:30"
@@ -2472,7 +2433,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 20
+               "value": 19
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T14:15:49+05:30"
@@ -2540,7 +2501,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 20
+               "value": 13
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T14:15:50+05:30"
@@ -2959,7 +2920,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 94
+               "value": 87
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T14:52:05+05:30"
@@ -2968,7 +2929,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 97
+               "value": 93
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T14:52:05+05:30"
@@ -2977,7 +2938,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 78
+               "value": 61
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T14:52:06+05:30"
@@ -3246,7 +3207,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 89
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-28T12:38:12+05:30"
@@ -3255,7 +3216,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 25
+               "value": 23
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-28T12:38:13+05:30"
@@ -3296,7 +3257,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 50
+               "value": 35
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-28T12:38:13+05:30"
@@ -3310,7 +3271,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 50,
+      "remainingAttendeeCapacity": 35,
       "startDate": "2024-08-30T08:00:00+05:30",
       "url": "https://www.zomato.com/events/a-night-with-prashant-salwadi-bengaluru-et49973"
    },
