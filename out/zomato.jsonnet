@@ -3083,35 +3083,35 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
-        "price": 1399,
-        "currency": "INR",
-        "validFrom": "2024-08-28 10:38:02",
-        "availability": "INSTOCK",
-        "inventory": 15
-      },
-      {
-        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
-        "price": 1399,
-        "currency": "INR",
-        "validFrom": "2024-08-28 10:38:03",
-        "availability": "INSTOCK",
-        "inventory": 15
-      },
-      {
-        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
         "price": 1799,
         "currency": "INR",
         "validFrom": "2024-08-28 10:38:02",
         "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 12
       },
       {
         "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
         "price": 1799,
         "currency": "INR",
         "validFrom": "2024-08-28 10:38:03",
-        "availability": "INSTOCK",
-        "inventory": 15
+        "availability": "SELLING_FAST",
+        "inventory": 3
+      },
+      {
+        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-08-28 10:38:02",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-08-28 10:38:03",
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -3152,7 +3152,7 @@
         "currency": "INR",
         "validFrom": "2024-08-28 11:20:00",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 199
       },
       {
         "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
