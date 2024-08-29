@@ -3270,5 +3270,349 @@
       }
     ],
     "url": "https://www.zomato.com/events/a-night-with-prashant-salwadi-bengaluru-et49973"
+  },
+  {
+    "name": "Danika",
+    "description": "Mark your calendars for August 31st! DJ Danika is bringing her captivating live violin performance to High Ultra Lounge! Don't miss this unforgettable night! ",
+    "startDate": "2024-08-31T20:00:00+05:30",
+    "endDate": "2024-09-01T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Danika Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Danika Bengaluru on Zomato which is a Music event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b2e175363c57b323d06575ee0d115f921724918022.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/danika-bengaluru-et50142/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-08-29 13:30:05",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/danika-bengaluru-et50142/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-29 13:31:02",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/danika-bengaluru-et50142/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-29 13:31:03",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/danika-bengaluru-et50142"
+  },
+  {
+    "name": "Caged",
+    "description": "Caged is back at Indiranagar Social for yet another intimate party with some eclectic set of musicians at Indiranagar Social on 31 Aug 2024\n\nLine up:\n\nCHAZ\nVEDIK\nGACHO LIBRE\nBISWA",
+    "startDate": "2024-08-31T20:00:00+05:30",
+    "endDate": "2024-09-01T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Sarjapur - Marathahalli Rd, Saket Callipolis, Rainbow Drive, Doddakannelli, Bengaluru, Karnataka 560035",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Caged Trending and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Caged Bengaluru on Zomato which is a Trending and Music event happening at Sarjapur - Marathahalli Rd, Saket Callipolis, Rainbow Drive, Doddakannelli, Bengaluru, Karnataka 560035",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/4016fa305e6dbf45dec1ad877891c0321724926225.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/caged-bengaluru-et50157/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-08-29 15:47:46",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/caged-bengaluru-et50157"
+  },
+  {
+    "name": "Sunny Tunes",
+    "description": "Make some noise and have fun, since the music gets two times better when the band lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Cartridge and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
+    "startDate": "2024-09-01T13:00:00+05:30",
+    "endDate": "2024-09-01T16:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f730da53330bd5f15650f15afbba8e6f1724930048.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50171/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-29 16:51:34",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50171"
+  },
+  {
+    "name": "Rock Out Sundays",
+    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+    "startDate": "2024-09-01T20:30:00+05:30",
+    "endDate": "2024-09-01T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/e4d463959ab685fd91a617f82b9656c81724930634.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50178/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-29 16:55:36",
+        "availability": "INSTOCK",
+        "inventory": 98
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50178"
+  },
+  {
+    "name": "Karaoke Nights",
+    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion for singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
+    "startDate": "2024-09-04T20:30:00+05:30",
+    "endDate": "2024-09-04T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/1e4ef7bde841d75f9d8fa3f16d71ac461724930865.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50180/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-29 16:59:31",
+        "availability": "INSTOCK",
+        "inventory": 99
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50180"
+  },
+  {
+    "name": "Tribute to Dire Straits",
+    "description": "The Butterfingers\u2026.the band of brothers\u2026err\u2026band of friends are coming together again at Wanderers to enthrall you with Retro Recapture, as evening of music from the '60s through the 90s!\nHighly versatile to make you swing and jive, Butterfingers will give you an evening to relive and revive your memories.\nDominic D\u2019Cruz on Bass & Vocals; Eric Samuel on Guitar and vocals; Niranjan Joseph on Flute, Bass and Vocals; Canute D\u2019Cruz on Drums & Vocals and Joshua Costa on the Key Board, the Fab Five of Bangalore are sure to thrill you with their music as they always do.\"",
+    "startDate": "2024-09-05T20:30:00+05:30",
+    "endDate": "2024-09-05T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Tribute to Dire Straits Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Dire Straits Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/14ef7859d3b667da82428c40f3bda7811724931048.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/tribute-to-dire-straits-bengaluru-et50190/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-08-29 17:02:48",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/tribute-to-dire-straits-bengaluru-et50190"
+  },
+  {
+    "name": "Remix Nights",
+    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+    "startDate": "2024-09-07T20:30:00+05:30",
+    "endDate": "2024-09-07T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Remix Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Remix Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/fa22f95b0fa19dc1f593045841aea5401724932316.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/remix-nights-bengaluru-et50193/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-29 17:23:18",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/remix-nights-bengaluru-et50193"
+  },
+  {
+    "name": "Rock Out Sundays",
+    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+    "startDate": "2024-09-08T20:30:00+05:30",
+    "endDate": "2024-09-08T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/e4d463959ab685fd91a617f82b9656c81724933387.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50198/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-29 17:41:36",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50198"
   }
 ]

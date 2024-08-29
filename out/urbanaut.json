@@ -1249,5 +1249,537 @@
       "Food & drink",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Popular Tea Cakes Workshop",
+    "description": "Popular Tea Cakes Workshops We cover a variety of  of 5 various tea cakes that we teach from scratch. We use only the best of ingredients and source everything locally. We teach you how to bake cakes and the frostings that go with it, in a tradiotional method. Its a hands on experince and we provide the students with hand outs which they will be taking home with them.-Banana Cake with Dark Chocolate Chips-Sticky Toffee Date Cake with Salted Caramel Sauce -Carrot Cake with Cream Cheese Frosting -Orange Pound Cake Looking forward to baking the world a better place!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C76BCB4764F849FFBD111BCF29932FD6_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BB87B3759570410CBD3D7AC6370140BB_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CFB61C12DCFA48DE91AE96DD11330087_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8ADD3DA016484D7A8F0F12C34E0CA2BB_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9C6AEB63BF34452E9F866DCC78C50F95_converted_webp.webp"
+    ],
+    "startDate": "2024-10-15T11:00:00+05:30",
+    "endDate": "2024-10-15T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "123-125, Brigade Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJel7RNUVrjsRzxxvT_CaDmw",
+      "latitude": "12.96688440000000000000",
+      "longitude": "77.60679660000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 6,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "3100.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Flourish Bakery",
+      "description": "personal, interactive and hands on baking classes using organic material",
+      "url": "https://urbanaut.app/partner/flourishclasses",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B8595C3510A64BAE87199C9BCDE835E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97392-11869"
+      }
+    },
+    "url": "https://urbanaut.app/spot/popular-tea-cakes-workshop#2024-10-15T1100",
+    "keywords": [
+      "Active",
+      "Food & drink",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Popular Tea Cakes Workshop",
+    "description": "Popular Tea Cakes Workshops We cover a variety of  of 5 various tea cakes that we teach from scratch. We use only the best of ingredients and source everything locally. We teach you how to bake cakes and the frostings that go with it, in a tradiotional method. Its a hands on experince and we provide the students with hand outs which they will be taking home with them.-Banana Cake with Dark Chocolate Chips-Sticky Toffee Date Cake with Salted Caramel Sauce -Carrot Cake with Cream Cheese Frosting -Orange Pound Cake Looking forward to baking the world a better place!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C76BCB4764F849FFBD111BCF29932FD6_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BB87B3759570410CBD3D7AC6370140BB_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CFB61C12DCFA48DE91AE96DD11330087_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8ADD3DA016484D7A8F0F12C34E0CA2BB_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9C6AEB63BF34452E9F866DCC78C50F95_converted_webp.webp"
+    ],
+    "startDate": "2024-11-14T11:00:00+05:30",
+    "endDate": "2024-11-14T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "123-125, Brigade Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJel7RNUVrjsRzxxvT_CaDmw",
+      "latitude": "12.96688440000000000000",
+      "longitude": "77.60679660000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 6,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "3100.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Flourish Bakery",
+      "description": "personal, interactive and hands on baking classes using organic material",
+      "url": "https://urbanaut.app/partner/flourishclasses",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B8595C3510A64BAE87199C9BCDE835E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97392-11869"
+      }
+    },
+    "url": "https://urbanaut.app/spot/popular-tea-cakes-workshop#2024-11-14T1100",
+    "keywords": [
+      "Active",
+      "Food & drink",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Popular Tea Cakes Workshop",
+    "description": "Popular Tea Cakes Workshops We cover a variety of  of 5 various tea cakes that we teach from scratch. We use only the best of ingredients and source everything locally. We teach you how to bake cakes and the frostings that go with it, in a tradiotional method. Its a hands on experince and we provide the students with hand outs which they will be taking home with them.-Banana Cake with Dark Chocolate Chips-Sticky Toffee Date Cake with Salted Caramel Sauce -Carrot Cake with Cream Cheese Frosting -Orange Pound Cake Looking forward to baking the world a better place!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C76BCB4764F849FFBD111BCF29932FD6_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BB87B3759570410CBD3D7AC6370140BB_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CFB61C12DCFA48DE91AE96DD11330087_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8ADD3DA016484D7A8F0F12C34E0CA2BB_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9C6AEB63BF34452E9F866DCC78C50F95_converted_webp.webp"
+    ],
+    "startDate": "2024-12-16T11:00:00+05:30",
+    "endDate": "2024-12-16T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "123-125, Brigade Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJel7RNUVrjsRzxxvT_CaDmw",
+      "latitude": "12.96688440000000000000",
+      "longitude": "77.60679660000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 6,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "3100.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Flourish Bakery",
+      "description": "personal, interactive and hands on baking classes using organic material",
+      "url": "https://urbanaut.app/partner/flourishclasses",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B8595C3510A64BAE87199C9BCDE835E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97392-11869"
+      }
+    },
+    "url": "https://urbanaut.app/spot/popular-tea-cakes-workshop#2024-12-16T1100",
+    "keywords": [
+      "Active",
+      "Food & drink",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Eggless Cake Making Workshop",
+    "description": "Weclome to our Eggless Cake Making Workshop!We teach you to bake your cakes to perfection with giving you a product thats so flavourful, you don't feel the absence of egg at all.What will you learn?-Eggless Vanilla Sponge -Eggless Chocolate Sponge -Couverture Chocolate Ganache -Salted Caramel -Whipping of Organic fresh cream (sourced from France) -Flavour Pairings (Caramel Chocolate Cake, Black Forest Cake, Classic Chocolate Cake , Fresh Cream Fruit Cake ).We make sure you embrace the art of baking and use the skills you will learn to best use.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFA0C2E750A748518A1C422030D83191_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4C6D6065A99644019C9D1573C771AD8C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3C133007A40B41739760FF54661688C8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8100843D309B4B7E87F502ACA39C2702_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9D1C1F0AF168464890A07C62A05251E8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BA952B8F1BFE44F9BBF5765F9F904388_converted_webp.webp"
+    ],
+    "startDate": "2024-10-17T11:00:00+05:30",
+    "endDate": "2024-10-17T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "123-125, Brigade Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJel7RNUVrjsRzxxvT_CaDmw",
+      "latitude": "12.96688440000000000000",
+      "longitude": "77.60679660000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 6,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3100.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Flourish Bakery",
+      "description": "personal, interactive and hands on baking classes using organic material",
+      "url": "https://urbanaut.app/partner/flourishclasses",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B8595C3510A64BAE87199C9BCDE835E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97392-11869"
+      }
+    },
+    "url": "https://urbanaut.app/spot/eggless-cake-making-workshop#2024-10-17T1100",
+    "keywords": [
+      "Active",
+      "Art & culture",
+      "Food & drink",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Eggless Cake Making Workshop",
+    "description": "Weclome to our Eggless Cake Making Workshop!We teach you to bake your cakes to perfection with giving you a product thats so flavourful, you don't feel the absence of egg at all.What will you learn?-Eggless Vanilla Sponge -Eggless Chocolate Sponge -Couverture Chocolate Ganache -Salted Caramel -Whipping of Organic fresh cream (sourced from France) -Flavour Pairings (Caramel Chocolate Cake, Black Forest Cake, Classic Chocolate Cake , Fresh Cream Fruit Cake ).We make sure you embrace the art of baking and use the skills you will learn to best use.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFA0C2E750A748518A1C422030D83191_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4C6D6065A99644019C9D1573C771AD8C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3C133007A40B41739760FF54661688C8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8100843D309B4B7E87F502ACA39C2702_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9D1C1F0AF168464890A07C62A05251E8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BA952B8F1BFE44F9BBF5765F9F904388_converted_webp.webp"
+    ],
+    "startDate": "2024-11-19T11:00:00+05:30",
+    "endDate": "2024-11-19T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "123-125, Brigade Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJel7RNUVrjsRzxxvT_CaDmw",
+      "latitude": "12.96688440000000000000",
+      "longitude": "77.60679660000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 6,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3100.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Flourish Bakery",
+      "description": "personal, interactive and hands on baking classes using organic material",
+      "url": "https://urbanaut.app/partner/flourishclasses",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B8595C3510A64BAE87199C9BCDE835E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97392-11869"
+      }
+    },
+    "url": "https://urbanaut.app/spot/eggless-cake-making-workshop#2024-11-19T1100",
+    "keywords": [
+      "Active",
+      "Art & culture",
+      "Food & drink",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Eggless Cake Making Workshop",
+    "description": "Weclome to our Eggless Cake Making Workshop!We teach you to bake your cakes to perfection with giving you a product thats so flavourful, you don't feel the absence of egg at all.What will you learn?-Eggless Vanilla Sponge -Eggless Chocolate Sponge -Couverture Chocolate Ganache -Salted Caramel -Whipping of Organic fresh cream (sourced from France) -Flavour Pairings (Caramel Chocolate Cake, Black Forest Cake, Classic Chocolate Cake , Fresh Cream Fruit Cake ).We make sure you embrace the art of baking and use the skills you will learn to best use.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFA0C2E750A748518A1C422030D83191_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4C6D6065A99644019C9D1573C771AD8C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3C133007A40B41739760FF54661688C8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8100843D309B4B7E87F502ACA39C2702_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9D1C1F0AF168464890A07C62A05251E8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BA952B8F1BFE44F9BBF5765F9F904388_converted_webp.webp"
+    ],
+    "startDate": "2024-12-05T11:00:00+05:30",
+    "endDate": "2024-12-05T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "123-125, Brigade Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJel7RNUVrjsRzxxvT_CaDmw",
+      "latitude": "12.96688440000000000000",
+      "longitude": "77.60679660000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 6,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3100.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Flourish Bakery",
+      "description": "personal, interactive and hands on baking classes using organic material",
+      "url": "https://urbanaut.app/partner/flourishclasses",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B8595C3510A64BAE87199C9BCDE835E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97392-11869"
+      }
+    },
+    "url": "https://urbanaut.app/spot/eggless-cake-making-workshop#2024-12-05T1100",
+    "keywords": [
+      "Active",
+      "Art & culture",
+      "Food & drink",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "name": "Screening: Silver Linings Playbook (2012) | Movie Under the Stars",
+    "description": "Join us for an open-air screening of Silver Linings Playbook (2012), with a three-course dinner and popcorn.*Wines and other beverages will be available for purchase at the venue.About the movieSilver Linings Playbook (2012), directed by David O. Russell, is a romantic comedy-drama based on the novel by Matthew Quick.?Pat Solitano (Bradley Cooper) is a former teacher who has just been released from a mental health facility after a period of treatment for bipolar disorder. He returns to live with his parents, Pat Sr. (Robert De Niro) and Dolores (Jacki Weaver), and is determined to rebuild his life and reconcile with his estranged wife.The film was praised for its performances, particularly those of Jennifer Lawrence, who won an Academy Award for Best Actress, and its sensitive portrayal of mental health issues.3-Course Menu- To be announcedTerms and Conditions:The management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Valet service is available at a charge of Rs. 200 per vehicle.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Tickets are non-refundable in case of cancellation or no-show.In case of rain, the event will be moved indoors.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/924757895476482E9DDE6DBC9D076C97_converted_webp.webp"
+    ],
+    "startDate": "2024-09-13T20:00:00+05:30",
+    "endDate": "2024-09-13T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Courtyard",
+      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+      "latitude": "12.95843050000000000000",
+      "longitude": "77.59289509999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Courtyard",
+      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+      "url": "https://urbanaut.app/partner/courtyard",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-73386-77996"
+      }
+    },
+    "url": "https://urbanaut.app/spot/movie-under-the-stars-silverliningsplaybook",
+    "keywords": [
+      "Art & culture",
+      "Food & drink",
+      "Leisure",
+      "COURTYARD",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Cupcake Workshop",
+    "description": "This Cupcake workshop is a great introduction to the world of baking! The little cakes have techniques and tricks to the process which we gladly would share to better your baking experince. We cover a variety of topics during this class.The list goes as follows-Vanilla Cupcake Chocolate Cupcake Red Velvet Cupcake Chocolate Chip Muffin Vanilla Buttercream Frosting Chocolate Frosting Cream Cheese Frosting A hands on, interactive and informative session that you will Love!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F328307FDBA141D0902E8897F5C8329E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/17A4E0DADBCA44828F8D17355EBD8994_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/848E84B22E344E3597BEE852D87D9068_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F918092A091846128FDCD10B47E1D79C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A6811A05B1954D2589F378F0F592A005_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C15A796119C049E89102FECC721130C5_converted_webp.webp"
+    ],
+    "startDate": "2024-10-19T11:00:00+05:30",
+    "endDate": "2024-10-19T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "123-125, Brigade Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJel7RNUVrjsRzxxvT_CaDmw",
+      "latitude": "12.96688440000000000000",
+      "longitude": "77.60679660000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 6,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2800.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Flourish Bakery",
+      "description": "personal, interactive and hands on baking classes using organic material",
+      "url": "https://urbanaut.app/partner/flourishclasses",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B8595C3510A64BAE87199C9BCDE835E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97392-11869"
+      }
+    },
+    "url": "https://urbanaut.app/spot/cupcake-workshop#2024-10-19T1100",
+    "keywords": [
+      "Active",
+      "Art & culture",
+      "Food & drink",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Cupcake Workshop",
+    "description": "This Cupcake workshop is a great introduction to the world of baking! The little cakes have techniques and tricks to the process which we gladly would share to better your baking experince. We cover a variety of topics during this class.The list goes as follows-Vanilla Cupcake Chocolate Cupcake Red Velvet Cupcake Chocolate Chip Muffin Vanilla Buttercream Frosting Chocolate Frosting Cream Cheese Frosting A hands on, interactive and informative session that you will Love!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F328307FDBA141D0902E8897F5C8329E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/17A4E0DADBCA44828F8D17355EBD8994_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/848E84B22E344E3597BEE852D87D9068_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F918092A091846128FDCD10B47E1D79C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A6811A05B1954D2589F378F0F592A005_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C15A796119C049E89102FECC721130C5_converted_webp.webp"
+    ],
+    "startDate": "2024-11-12T11:00:00+05:30",
+    "endDate": "2024-11-12T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "123-125, Brigade Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJel7RNUVrjsRzxxvT_CaDmw",
+      "latitude": "12.96688440000000000000",
+      "longitude": "77.60679660000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 6,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2800.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Flourish Bakery",
+      "description": "personal, interactive and hands on baking classes using organic material",
+      "url": "https://urbanaut.app/partner/flourishclasses",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B8595C3510A64BAE87199C9BCDE835E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97392-11869"
+      }
+    },
+    "url": "https://urbanaut.app/spot/cupcake-workshop#2024-11-12T1100",
+    "keywords": [
+      "Active",
+      "Art & culture",
+      "Food & drink",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Cupcake Workshop",
+    "description": "This Cupcake workshop is a great introduction to the world of baking! The little cakes have techniques and tricks to the process which we gladly would share to better your baking experince. We cover a variety of topics during this class.The list goes as follows-Vanilla Cupcake Chocolate Cupcake Red Velvet Cupcake Chocolate Chip Muffin Vanilla Buttercream Frosting Chocolate Frosting Cream Cheese Frosting A hands on, interactive and informative session that you will Love!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F328307FDBA141D0902E8897F5C8329E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/17A4E0DADBCA44828F8D17355EBD8994_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/848E84B22E344E3597BEE852D87D9068_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F918092A091846128FDCD10B47E1D79C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A6811A05B1954D2589F378F0F592A005_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C15A796119C049E89102FECC721130C5_converted_webp.webp"
+    ],
+    "startDate": "2024-12-19T11:00:00+05:30",
+    "endDate": "2024-12-19T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "123-125, Brigade Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJel7RNUVrjsRzxxvT_CaDmw",
+      "latitude": "12.96688440000000000000",
+      "longitude": "77.60679660000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 6,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2800.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Flourish Bakery",
+      "description": "personal, interactive and hands on baking classes using organic material",
+      "url": "https://urbanaut.app/partner/flourishclasses",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B8595C3510A64BAE87199C9BCDE835E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97392-11869"
+      }
+    },
+    "url": "https://urbanaut.app/spot/cupcake-workshop#2024-12-19T1100",
+    "keywords": [
+      "Active",
+      "Art & culture",
+      "Food & drink",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
