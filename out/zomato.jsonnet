@@ -1969,7 +1969,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 11:47:00",
         "availability": "SELLING_FAST",
-        "inventory": 88
+        "inventory": 19
       },
       {
         "url": "https://www.zomato.com/events/soul-jams-bengaluru-et49481/details",
@@ -2026,7 +2026,7 @@
         "currency": "INR",
         "validFrom": "2024-08-24 14:33:00",
         "availability": "INSTOCK",
-        "inventory": 396
+        "inventory": 392
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -2034,7 +2034,7 @@
         "currency": "INR",
         "validFrom": "2024-08-24 14:33:00",
         "availability": "INSTOCK",
-        "inventory": 999
+        "inventory": 992
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -2042,7 +2042,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 44
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
