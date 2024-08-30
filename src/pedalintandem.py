@@ -6,10 +6,6 @@ from bs4 import BeautifulSoup
 
 BASE_URL = "https://www.pedalintandem.com"
 
-def _date(date_str):
-    return datetime.fromisoformat(date_str)
-
-
 def fetch_events_links(session):
 	res = session.get(f"{BASE_URL}/experiences")
 	soup = BeautifulSoup(res.text, 'html.parser')
@@ -22,7 +18,6 @@ def fetch_events_links(session):
 def fetch_events(event_links, session):
 	events = []
 	for event_link in event_links:
-		event = []
 
 		event_page = session.get(f"{BASE_URL}{event_link}")
 		event = BeautifulSoup(event_page.text, 'html.parser')
