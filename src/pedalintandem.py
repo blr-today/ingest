@@ -38,14 +38,14 @@ def make_event(event):
 
 	options = {}
 	options_selector = event.select_one('div.cart-details')
-	opts = options_selector.select_one('div.product-variations select').select('option')
+	opts = options_selector.select('div.product-variations select[name="variation_id"] option')
 	for opt in opts:
 		opt_name = opt.get_text()
 		price = opt['data-price-after-discount']
 		options[opt_name] = price
 
 	dates = []
-	date_opts = options_selector.select_one('div.product-variations-variety select').select('option')
+	date_opts = options_selector.select('div.product-variations-variety select[name="variety_id"] option')
 	for date_opt in date_opts:
 		booking_begin = datetime.strptime(date_opt['data-booking-begin-at'], "%Y-%m-%d %H:%M:%S %Z").astimezone(IST).isoformat()
 		event_date = datetime.strptime(date_opt.get_text().strip(), "%d-%b-%Y").astimezone(IST).isoformat()
