@@ -3041,22 +3041,6 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
-        "price": 1799,
-        "currency": "INR",
-        "validFrom": "2024-08-28 10:38:02",
-        "availability": "INSTOCK",
-        "inventory": 12
-      },
-      {
-        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
-        "price": 1799,
-        "currency": "INR",
-        "validFrom": "2024-08-28 10:38:03",
-        "availability": "SELLING_FAST",
-        "inventory": 3
-      },
-      {
-        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
         "price": 1399,
         "currency": "INR",
         "validFrom": "2024-08-28 10:38:02",
@@ -3066,6 +3050,22 @@
       {
         "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
         "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-08-28 10:38:03",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
+        "price": 1799,
+        "currency": "INR",
+        "validFrom": "2024-08-28 10:38:02",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961/details",
+        "price": 1799,
         "currency": "INR",
         "validFrom": "2024-08-28 10:38:03",
         "availability": "SOLDOUT",
@@ -3273,7 +3273,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 13:31:03",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 198
       }
     ],
     "performers": [],
@@ -3396,7 +3396,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 16:55:36",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 94
       }
     ],
     "performers": [],
@@ -3437,7 +3437,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 16:59:31",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 97
       }
     ],
     "performers": [],
@@ -3572,6 +3572,71 @@
       }
     ],
     "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50198"
+  },
+  {
+    "name": "Kingfisher OctoBeer Fest",
+    "description": "Not just any festival, this the biggest celebration of the finest brews and the joyous vibes that come with them. From beer connoisseurs to casual sippers, Octobeer fest is for everyone to join in the cheers, groove to the tunes, and savor the magic that happens when great beer, people, music and food come together.",
+    "startDate": "2024-10-19T15:00:00+05:30",
+    "endDate": "2024-10-20T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru, Karnataka 560046",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Kingfisher OctoBeer Fest Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Kingfisher OctoBeer Fest Bengaluru on Zomato which is a Experiences event happening at 1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru, Karnataka 560046",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/07172b7052c69846b6877b2b5ce68e511724995744.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-08-30 13:31:48",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-08-30 13:31:49",
+        "availability": "INSTOCK",
+        "inventory": 250
+      },
+      {
+        "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
+        "price": 3499,
+        "currency": "INR",
+        "validFrom": "2024-08-30 13:31:49",
+        "availability": "INSTOCK",
+        "inventory": 250
+      },
+      {
+        "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
+        "price": 5499,
+        "currency": "INR",
+        "validFrom": "2024-08-30 13:31:50",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273"
   },
   {
     "name": "Karaoke Nights",
@@ -3891,5 +3956,396 @@
       }
     ],
     "url": "https://www.zomato.com/events/golden-era-of-rock-n-roll-bengaluru-et50286"
+  },
+  {
+    "name": "Tribute to Michael Jackson",
+    "description": "Tribute nights are back, paying tribute to Michael Jackson, brought to you by the versatile and powerful RETRONOME, who is killing it with the perfect playlist to pair with your perfect drink this Saturday night!\nRetronome is well-known for its distinctive music, which is best described by its no-nonsense covers combined with some amazing retro tunes.\nDon`t miss out on these Rockstar`s musical antics only at Hard Rock Cafe, Bengaluru.",
+    "startDate": "2024-09-21T21:00:00+05:30",
+    "endDate": "2024-09-21T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Tribute to Michael Jackson Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Michael Jackson Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/20e46f23b87cdc30cc55511cb8529bc71725000806.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/tribute-to-michael-jackson-bengaluru-et50291/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-08-30 12:27:25",
+        "availability": "INSTOCK",
+        "inventory": 30
+      },
+      {
+        "url": "https://www.zomato.com/events/tribute-to-michael-jackson-bengaluru-et50291/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-08-30 12:27:25",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/tribute-to-michael-jackson-bengaluru-et50291"
+  },
+  {
+    "name": "Sunny Tunes",
+    "description": "Make some noise and have fun, since the music gets two times better when the band lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Fingerchips and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
+    "startDate": "2024-09-22T13:00:00+05:30",
+    "endDate": "2024-09-22T16:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/5a5f0718fe4ffe8b8b0db5bd74024d071725001189.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50292/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-30 12:30:46",
+        "availability": "INSTOCK",
+        "inventory": 30
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50292"
+  },
+  {
+    "name": "Rock Out Sundays",
+    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+    "startDate": "2024-09-22T20:30:00+05:30",
+    "endDate": "2024-09-22T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/e4d463959ab685fd91a617f82b9656c81725001307.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50293/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-30 12:32:46",
+        "availability": "INSTOCK",
+        "inventory": 30
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50293"
+  },
+  {
+    "name": "Karaoke Nights",
+    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
+    "startDate": "2024-09-25T20:30:00+05:30",
+    "endDate": "2024-09-25T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/1e4ef7bde841d75f9d8fa3f16d71ac461725001767.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50298/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-30 12:41:22",
+        "availability": "INSTOCK",
+        "inventory": 30
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50298"
+  },
+  {
+    "name": "Tribute to Chainsmokers",
+    "description": "Catch Lemon Chai paying tribute to Chainsmokers at Hard Rock Cafe, Bengaluru.\n\u26a1\ufe0fJoin us for an evening full of great music, lip-smacking food & refreshing cocktails.",
+    "startDate": "2024-09-26T20:30:00+05:30",
+    "endDate": "2024-09-26T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Tribute to Chainsmokers Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Chainsmokers Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/79ae2b2d4e7a0fd5800f5b7db82acf941725002196.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/tribute-to-chainsmokers-bengaluru-et50302/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-08-30 12:48:17",
+        "availability": "INSTOCK",
+        "inventory": 30
+      },
+      {
+        "url": "https://www.zomato.com/events/tribute-to-chainsmokers-bengaluru-et50302/details",
+        "price": 1249,
+        "currency": "INR",
+        "validFrom": "2024-08-30 12:48:17",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/tribute-to-chainsmokers-bengaluru-et50302"
+  },
+  {
+    "name": "Tribute to Dream Theater",
+    "description": "Dream Theater is a progressive rock band that blends intricate melodies and rhythms with powerful riffs and dynamic drumming. Covering their songs is one of the most demanding feats for a live band due to the band`s technical complexity, vast vocal range, lengthy compositions, epic soundscapes, and lack of room for interpretation.\nProgress Report, an exceptional band, is bringing the sophisticated music of Dream Theater to India in a tribute format for the very first time. This live show promises 3 hours of of sheer musical dexterity, dramatic performances, and cinematic soundscapes. It`s a must-see event for musicians, music enthusiasts, and anyone who appreciates the artistry of progressive rock and dramatic music.",
+    "startDate": "2024-09-28T21:00:00+05:30",
+    "endDate": "2024-09-28T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Tribute to Dream Theater Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Dream Theater Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/280edf484a6c2e03f5b51e8f734411551725002359.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/tribute-to-dream-theater-bengaluru-et50303/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-08-30 12:50:34",
+        "availability": "INSTOCK",
+        "inventory": 30
+      },
+      {
+        "url": "https://www.zomato.com/events/tribute-to-dream-theater-bengaluru-et50303/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-08-30 12:50:35",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/tribute-to-dream-theater-bengaluru-et50303"
+  },
+  {
+    "name": "Sunny Tunes",
+    "description": "Make some noise and have fun, since the music gets two times better when the band lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Fingerchips and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
+    "startDate": "2024-09-29T13:00:00+05:30",
+    "endDate": "2024-09-29T16:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/02c527c3569b061f9bce98facf8b6ec01725002557.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50304/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-30 12:53:47",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50304"
+  },
+  {
+    "name": "Rock Out Sundays",
+    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+    "startDate": "2024-09-29T20:30:00+05:30",
+    "endDate": "2024-09-29T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": true,
+    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/e4d463959ab685fd91a617f82b9656c81725002710.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50305/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-30 12:56:17",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50305"
+  },
+  {
+    "name": "We Jam",
+    "description": "We Jam is the ultimate haven for music lovers!\n\nCome enjoy a relaxing and fun evening with us. A space where you can be yourself and feel at home.\nJoin our welcoming community for a lively jamming session; bring your guitars, cajones, and most importantly yourself to jam along. \n\nThe event features three parts:\n\nOpen Mic: Perform for a warm and supportive audience, no matter where you are on your musical journey. Reach out to @wejam.blr on Instagram to book your slot.\nSocial Mixer: Connect with fellow music lovers and jam along on your favourite songs. Be a part of fun and exciting music based games and get a chance to win exciting goodies. \nJamming Session: Sing, play instruments, and join the community in a warm and cozy, free-flowing musical experience. Together, we create music and memories.",
+    "startDate": "2024-09-07T16:30:00+05:30",
+    "endDate": "2024-09-07T20:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Sarjapur - Marathahalli Rd, Saket Callipolis, Rainbow Drive, Doddakannelli",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f64f8801725b39c4aa53c3ce5a27ed381725011585.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/we-jam-bengaluru-et50316/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-08-30 15:24:00",
+        "availability": "INSTOCK",
+        "inventory": 247
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/we-jam-bengaluru-et50316"
   }
 ]
