@@ -1925,15 +1925,15 @@
         "url": "https://www.zomato.com/events/soul-jams-bengaluru-et49481/details",
         "price": 590,
         "currency": "INR",
-        "validFrom": "2024-08-26 11:47:00",
-        "availability": "SELLING_FAST",
-        "inventory": 19
+        "validFrom": "2024-08-23 17:33:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/soul-jams-bengaluru-et49481/details",
         "price": 590,
         "currency": "INR",
-        "validFrom": "2024-08-23 17:33:00",
+        "validFrom": "2024-08-26 11:47:00",
         "availability": "SOLDOUT",
         "inventory": 0
       }
@@ -1992,7 +1992,7 @@
         "currency": "INR",
         "validFrom": "2024-08-24 14:33:00",
         "availability": "INSTOCK",
-        "inventory": 992
+        "inventory": 990
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -2000,7 +2000,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 44
+        "inventory": 41
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
