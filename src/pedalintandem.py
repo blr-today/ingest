@@ -27,12 +27,25 @@ def fetch_events(event_links, session):
 		date_selector = event.select_one('div.product-variations-varieties select')
 
 		# Fetch data of the events which would be happening in future otherwise skip
-		if (
-			"disabled" in date_selector.attrs or
-			bool(re.search('bangalore', location)) or
-			bool(re.search('indiranagar', location)) or
-			bool(re.search('pedal', location)) or
-			bool(re.search('pitstop', location)) ):
+		if ( "disabled" in date_selector.attrs):
+			continue
+		
+		if not ( bool(re.search('bangalore', location, re.IGNORECASE)) or
+			bool(re.search('bengaluru', location, re.IGNORECASE)) or
+			bool(re.search('arkavathi', location, re.IGNORECASE)) or
+			bool(re.search('avalahalli', location, re.IGNORECASE)) or
+			bool(re.search('avathi', location, re.IGNORECASE)) or
+			bool(re.search('devarayanadurga', location, re.IGNORECASE)) or
+			bool(re.search('gunjur', location, re.IGNORECASE)) or
+			bool(re.search('hennur', location, re.IGNORECASE)) or
+			bool(re.search('Hesaraghatta', location, re.IGNORECASE)) or
+			bool(re.search('kanakapura', location, re.IGNORECASE)) or
+			bool(re.search('malleshwaram', location, re.IGNORECASE)) or
+			bool(re.search('indiranagar', location, re.IGNORECASE)) or
+			bool(re.search('manchanabele', location, re.IGNORECASE)) or
+			bool(re.search('pedal', location, re.IGNORECASE)) or
+			bool(re.search('pitstop', location, re.IGNORECASE)) or 
+			bool(re.search('rajankunte', location, re.IGNORECASE)) ):
 			continue
 
 		events.append(event)
@@ -108,7 +121,6 @@ def convert_duration_in_hours(duration):
 			duration_in_hours = duration_range.replace("hrs", "").strip()
 
 	else:
-		# print("some other duration: ", duration_range, duration, duration_in_hours)
 		duration_in_hours = 0
 
 	return int(duration_in_hours)
