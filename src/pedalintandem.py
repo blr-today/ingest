@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 BASE_URL = "https://www.pedalintandem.com"
 
 def _date(date_str):
-    return datetime.fromisoformat(date_str).astimezone(IST).isoformat()
+    return datetime.fromisoformat(date_str)
 
 
 def fetch_events_links(session):
@@ -52,10 +52,10 @@ def make_event(event):
 	dates = []
 	date_opts = options_selector.select_one('div.product-variations-variety select').select('option')
 	for date_opt in date_opts:
-		booking_begin = str(datetime.strptime(date_opt['data-booking-begin-at'], "%Y-%m-%d %H:%M:%S %Z"))
-		event_date = str(datetime.strptime(date_opt.get_text().strip(), "%d-%b-%Y"))
+		booking_begin = datetime.strptime(date_opt['data-booking-begin-at'], "%Y-%m-%d %H:%M:%S %Z").astimezone(IST).isoformat()
+		event_date = datetime.strptime(date_opt.get_text().strip(), "%d-%b-%Y").astimezone(IST).isoformat()
 
-		dates.append({"eventDate": _date(event_date), "bookingBeginDate": _date(booking_begin)})
+		dates.append({"eventDate": event_date, "bookingBeginDate": booking_begin})
 
 	duration = event.select_one('div.duration').get_text().strip()
 	
