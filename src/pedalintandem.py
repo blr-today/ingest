@@ -1,8 +1,9 @@
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 from curl_cffi import requests
 from common.tz import IST
 from bs4 import BeautifulSoup
+import re
 
 BASE_URL = "https://www.pedalintandem.com"
 
@@ -21,10 +22,17 @@ def fetch_events(event_links, session):
 
 		event_page = session.get(f"{BASE_URL}{event_link}")
 		event = BeautifulSoup(event_page.text, 'html.parser')
+		location = event.select_one('div.location').get_text().strip()
+
 		date_selector = event.select_one('div.product-variations-varieties select')
 
 		# Fetch data of the events which would be happening in future otherwise skip
-		if "disabled" in date_selector.attrs:
+		if (
+			"disabled" in date_selector.attrs or
+			bool(re.search('bangalore', location)) or
+			bool(re.search('indiranagar', location)) or
+			bool(re.search('pedal', location)) or
+			bool(re.search('pitstop', location)) ):
 			continue
 
 		events.append(event)
@@ -36,23 +44,25 @@ def make_event(event):
 
 	location = event.select_one('div.location').get_text().strip()
 
-	options = {}
-	options_selector = event.select_one('div.cart-details')
-	opts = options_selector.select('div.product-variations select[name="variation_id"] option')
+	offers = {}
+	offers_selector = event.select_one('div.cart-details')
+	opts = offers_selector.select('div.product-variations select[name="variation_id"] option')
 	for opt in opts:
 		opt_name = opt.get_text()
 		price = opt['data-price-after-discount']
-		options[opt_name] = price
-
-	dates = []
-	date_opts = options_selector.select('div.product-variations-variety select[name="variety_id"] option')
-	for date_opt in date_opts:
-		booking_begin = datetime.strptime(date_opt['data-booking-begin-at'], "%Y-%m-%d %H:%M:%S %Z").astimezone(IST).isoformat()
-		event_date = datetime.strptime(date_opt.get_text().strip(), "%d-%b-%Y").astimezone(IST).isoformat()
-
-		dates.append({"eventDate": event_date, "bookingBeginDate": booking_begin})
+		offers[opt_name] = price
 
 	duration = event.select_one('div.duration').get_text().strip()
+
+	duration_in_hours = convert_duration_in_hours(duration)
+	dates = []
+	date_opts = offers_selector.select('div.product-variations-variety select[name="variety_id"] option')
+	for date_opt in date_opts:
+		booking_begin = datetime.strptime(date_opt['data-booking-begin-at'], "%Y-%m-%d %H:%M:%S %Z").astimezone(IST).isoformat()
+		startdate = datetime.strptime(date_opt.get_text().strip(), "%d-%b-%Y").astimezone(IST).isoformat()
+		endDate = (datetime.fromisoformat(startdate) + timedelta(hours = duration_in_hours)).isoformat()
+
+		dates.append({"startdate": startdate, "endDate": endDate, "availabilityStarts": booking_begin})
 	
 	# details
 	metrics = {}
@@ -68,12 +78,40 @@ def make_event(event):
 	return {
 		"name": heading,
 		"location": location,
-		"options": options,
+		"offers": offers,
 		"dates": dates,
-		"duration": duration,
-		"metrics": metrics,
-		"description": description
+		"duration": duration_in_hours,
+		"description": [
+		description,
+		metrics
+		]
 	}
+
+def convert_duration_in_hours(duration):
+	duration_range = duration.split(',')[0]
+
+	# fetch the upper limit of time duration
+	if bool(re.search("hour", duration)):
+		if bool(re.search('to', duration_range)):
+			duration_in_hours = duration_range.replace("hours", "").split('to')[1].strip()
+		elif bool(re.search('-', duration_range)):
+			duration_in_hours = duration_range.replace("hours", "").split('-')[1].strip()
+		else:
+			duration_in_hours = duration_range.replace("hours", "").strip()
+
+	elif bool(re.search("hrs", duration)):
+		if bool(re.search('to', duration_range)):
+			duration_in_hours = duration_range.replace("hrs", "").split('to')[1].strip()
+		elif bool(re.search('-', duration_range)):
+			duration_in_hours = duration_range.replace("hrs", "").split('-')[1].strip()
+		else:
+			duration_in_hours = duration_range.replace("hrs", "").strip()
+
+	else:
+		# print("some other duration: ", duration_range, duration, duration_in_hours)
+		duration_in_hours = 0
+
+	return int(duration_in_hours)
 
 def main():
 	session = requests.Session()
