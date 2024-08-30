@@ -74,11 +74,11 @@ def make_event(event):
 	
 	# details
 	metrics = {}
-	event_metrics = event.find_all('div', class_ = 'single-metric active')
+	event_metrics = event.select('div.single-metric.active div.content')
+
 	for event_metric in event_metrics:
-		metric = event_metric.find('div', class_ = 'content') 
-		title = metric.find('p').get_text().strip()
-		value = metric.find('h3').get_text().strip()
+		title = event_metric.find('p').get_text().strip()
+		value = event_metric.find('h3').get_text().strip()
 		metrics[title] = value
 
 	description = event.select_one('div.trix-content div').get_text()
