@@ -15,19 +15,6 @@ def fetch_events_links(session):
 	soup = BeautifulSoup(res.text, 'html.parser')
 	events = soup.select('div.single-experience')
 
-	# Fetch events from other pages.
-	load_more = soup.find('div', class_ = 'products-loadmore')
-	while load_more != None:
-		url = load_more.find('a').get('href')
-		
-		new_page = session.get(f"{BASE_URL}{url}")
-		new_page_body = BeautifulSoup(new_page.text, 'html.parser')
-		
-		new_events = new_page_body.select('div.single-experience')
-		events += new_events
-
-		load_more = new_page_body.find('div', class_ = 'products-loadmore')
-
 	event_links = map(lambda x: x.find('a')['href'], events)
 
 	return event_links
