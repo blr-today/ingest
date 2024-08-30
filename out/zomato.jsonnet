@@ -42,7 +42,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 469
+        "inventory": 468
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -50,7 +50,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 312
+        "inventory": 284
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -58,7 +58,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1075
+        "inventory": 1074
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -303,7 +303,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 494
+        "inventory": 491
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -422,7 +422,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 308
+        "inventory": 253
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -512,7 +512,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 908
+        "inventory": 906
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -528,7 +528,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 54
+        "inventory": 50
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -610,7 +610,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 23
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -618,7 +618,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 38
+        "inventory": 36
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -666,7 +666,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 47
+        "inventory": 41
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -851,47 +851,6 @@
     "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
   },
   {
-    "name": "Boogie Nights",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ PRASHU and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-08-30T20:30:00+05:30",
-    "endDate": "2024-08-30T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Boogie Nights Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Boogie Nights Bengaluru on Zomato which is a Music and Trending event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/94ba445fadd28ffa8f47f14d305b0b451722444712.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/boogie-nights-bengaluru-et47106/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-07-31 22:28:55",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/boogie-nights-bengaluru-et47106"
-  },
-  {
     "name": "Tribute to Pink Floyd",
     "description": "Dark Light is a five-piece psychedelic/progressive rock band from Bangalore whose music has been compared to a soulful blend of stadium rock`s ferocity and fury with progressive elements and ambient psychedelic soundscapes. They significantly draw inspiration from artists such as Porcupine Tree, Pink Floyd, U2, Opeth, Guns N` Roses, Radiohead, and Led Zeppelin and aim to make music that will captivate you and leave you wanting more",
     "startDate": "2024-08-31T21:00:00+05:30",
@@ -907,8 +866,8 @@
       }
     ],
     "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Pink Floyd Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Pink Floyd Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
+    "ogTitle": "Tribute to Pink Floyd Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Pink Floyd Bengaluru on Zomato which is a Music and Trending event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/9385806a791f04c699b10c66f8a59a261722444762.jpeg"
     ],
@@ -918,8 +877,8 @@
         "price": 499,
         "currency": "INR",
         "validFrom": "2024-08-26 13:10:25",
-        "availability": "INSTOCK",
-        "inventory": 12
+        "availability": "SELLING_FAST",
+        "inventory": 3
       },
       {
         "url": "https://www.zomato.com/events/tribute-to-pink-floyd-bengaluru-et47107/details",
@@ -980,7 +939,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 395
+        "inventory": 387
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1003,8 +962,8 @@
         "price": 39999,
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
-        "availability": "INSTOCK",
-        "inventory": 2
+        "availability": "SELLING_FAST",
+        "inventory": 1
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1056,47 +1015,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115"
-  },
-  {
-    "name": "Blockbuster Friday",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\r\nEvery Friday night, starting at 8 p.m., Hard Rock Cafe Whitefield Bengaluru is happy to host DJ Chirag and his incredible sounds for the musically charged Blockbusters.\r\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-08-30T20:00:00+05:30",
-    "endDate": "2024-08-30T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Blockbuster Friday Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Blockbuster Friday Bengaluru on Zomato which is a Music and Trending event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/cd6b1bab5b34784e1c74b9709b350c191722499788.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47168/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-01 15:32:07",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/blockbuster-friday-bengaluru-et47168"
   },
   {
     "name": "Speed Dating",
@@ -1200,7 +1118,7 @@
         "currency": "INR",
         "validFrom": "2024-08-12 16:05:00",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 97
       },
       {
         "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264/details",
@@ -1257,7 +1175,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 15:35:00",
         "availability": "INSTOCK",
-        "inventory": 96
+        "inventory": 95
       }
     ],
     "performers": [],
@@ -1298,7 +1216,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 18:00:00",
         "availability": "INSTOCK",
-        "inventory": 61
+        "inventory": 57
       },
       {
         "url": "https://www.zomato.com/events/pou-live-bengaluru-et48621/details",
@@ -1330,8 +1248,8 @@
   {
     "name": "Chikmagalur Weekend Getaway",
     "description": "This paradise of misty hills and lush green tea and coffee plantations is a sweet escape from the noisy city life, resting peacefully at a height of 3,400 ft. Get ready to immerse yourself in the arms of nature! \nWhether you\u2019re a thrill-seeker or a nature lover, Chikmagalur\u2019s got you covered. Hike through the rugged terrain, or take a dip in one of the many cascading waterfalls, there\u2019s so much to explore",
-    "startDate": "2024-08-30T21:30:00+05:30",
-    "endDate": "2024-09-01T23:00:00+05:30",
+    "startDate": "2024-08-30 21:30:00",
+    "endDate": "2024-09-01 23:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1371,8 +1289,8 @@
   {
     "name": "Coorg Weekend Getaway",
     "description": "Time to put on your adventure hat and escape to a place where relaxation and thrill collide in the most tantalizing way possible! Imagine waking up to the aroma of freshly ground coffee beans surrounded by lush greenery worthy of a postcard.\n\nGet ready to explore winding trails and stunning waterfalls, trading city life for an unforgettable adventure that will stay with you forever. Coorg's calling, are you ready",
-    "startDate": "2024-08-30T21:30:00+05:30",
-    "endDate": "2024-09-01T23:00:00+05:30",
+    "startDate": "2024-08-30 21:30:00",
+    "endDate": "2024-09-01 23:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1412,8 +1330,8 @@
   {
     "name": "Wayanad Weekend Getaway",
     "description": "The lush-green town of Wayanad in Kerala is hidden in the Malabar region on the Western Ghats. Sparsely populated, the forest-covered region abounds in picturesque hills meandered with streams, tea estates, and wildlife sanctuaries. Referred to as the \u2018Spice Garden of India\u2019, Wayanad is a hub of spices such as cardamom, star anise, fenugreek, black pepper, black cumin, etc. Adding to its treasures are Asia\u2019s second largest and India\u2019s largest damn, the Banasura Sagar Dam, the Edakkal Caves from the Neolithic Age to trek to. Witness a majestic sunset at the backdrop of the dam, go hiking, mountaineering, camping, or rock climbing, you\u2019d never run out of fun activities at Wayanad.",
-    "startDate": "2024-08-30T21:30:00+05:30",
-    "endDate": "2024-09-02T03:00:00+05:30",
+    "startDate": "2024-08-30 21:30:00",
+    "endDate": "2024-09-02 03:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1453,8 +1371,8 @@
   {
     "name": "Kodaikanal Weekend Getaway",
     "description": "Kodaikanal, also known as the Princess of Hills in Tamil Nadu, is one of the most popular tourist destinations in South India. Often considered for a romantic weekend retreat, the quaint little town is blessed with a perfect temperature at any given season. If you are seeking time alone in the lap of nature with your loved ones, Kodai is the place to go. Adorned with cascading waterfalls, shimmering lakes, and undulating green hills, the town will leave you awestruck with its natural beauty.",
-    "startDate": "2024-08-30T20:30:00+05:30",
-    "endDate": "2024-09-02T05:00:00+05:30",
+    "startDate": "2024-08-30 20:30:00",
+    "endDate": "2024-09-02 05:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1494,8 +1412,8 @@
   {
     "name": "Munnar Weekend Getaway",
     "description": "Munnar is a popular hill station located in the state of Kerala, India. It is known for its breathtaking landscapes, tea gardens, spice plantations, and cool climate, making it a favored destination for nature lovers and adventure enthusiasts. It is also known for its stunning landscapes, tea plantations, and pleasant weather. Munnar, with its scenic beauty, tea gardens, and tranquil ambiance, providing a perfect getaway to experience the charm of Kerala's hill stations",
-    "startDate": "2024-08-30T20:30:00+05:30",
-    "endDate": "2024-09-02T05:00:00+05:30",
+    "startDate": "2024-08-30 20:30:00",
+    "endDate": "2024-09-02 05:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1535,8 +1453,8 @@
   {
     "name": "Ooty-Connoor Weekend Getaway",
     "description": "Ooty and Coonoor are charming hill stations nestled in the Nilgiri Hills of Tamil Nadu, India. Here's a brief overview of each:\n\nAlso known as the \"Queen of Hill Stations\" Ooty is one of the most popular tourist destinations in South India.\nIt boasts pleasant weather throughout the year, with cool temperatures making it a perfect retreat from the heat of the plains. Ooty is famous for its sprawling tea gardens, lush green landscapes, and picturesque viewpoints like Doddabetta Peak, offering panoramic views of the surrounding hills.",
-    "startDate": "2024-08-30T20:30:00+05:30",
-    "endDate": "2024-09-02T05:00:00+05:30",
+    "startDate": "2024-08-30 20:30:00",
+    "endDate": "2024-09-02 05:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1576,8 +1494,8 @@
   {
     "name": "Gokarna-Murudeshwar Weekend Getaway",
     "description": "What do you visualize if we ask you about a weekend on a beach? We would not be surprised if you say Goa. And that\u2019s precisely why we need an alternative to Goa, one which is away from the humdrum of life, one which brings peace and serenity for the weekend.\n\nThis is precisely what Gokarna offers. If you are looking for a place for an escapade, to take a break after the week-long 9-5 office hours, and are tired of glancing at pictures of breath-taking beaches on your monitor, go ahead and pack your bags already.",
-    "startDate": "2024-08-30T20:30:00+05:30",
-    "endDate": "2024-09-02T05:00:00+05:30",
+    "startDate": "2024-08-30 20:30:00",
+    "endDate": "2024-09-02 05:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1617,8 +1535,8 @@
   {
     "name": "Hampi Weekend Getaway",
     "description": "Exploring the Ancient Beauty of Hampi in Karnataka Hampi, located in Karnataka, is a site of great historical significance. Once the capital city of the Vijayanagara Empire, it is now a UNESCO World Heritage Site with over 500 ruins and monuments. Many consider Hampi to be the second largest city of its time, following only Beijing. Situated on the banks of the Tungabhadra River, Hampi boasts ancient India's grandeur with its intricate architecture, brilliant engineering, and breathtaking scenery. The most significant structure is the Virupaksha Temple, which is dedicated to the empire's patron deity. But don't be fooled into thinking that Hampi is only about history! The town blends history and modernity, with aesthetic cafes, cultural performances, and a variety of cuisines from around the world in the nearby Hippie Town.",
-    "startDate": "2024-08-30T21:30:00+05:30",
-    "endDate": "2024-09-02T05:00:00+05:30",
+    "startDate": "2024-08-30 21:30:00",
+    "endDate": "2024-09-02 05:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1698,7 +1616,7 @@
         "currency": "INR",
         "validFrom": "2024-08-16 22:15:00",
         "availability": "INSTOCK",
-        "inventory": 89
+        "inventory": 88
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et48781/details",
@@ -1747,7 +1665,7 @@
         "currency": "INR",
         "validFrom": "2024-08-20 10:37:00",
         "availability": "INSTOCK",
-        "inventory": 284
+        "inventory": 254
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
@@ -1755,7 +1673,7 @@
         "currency": "INR",
         "validFrom": "2024-08-20 10:37:00",
         "availability": "INSTOCK",
-        "inventory": 390
+        "inventory": 373
       },
       {
         "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
@@ -1844,8 +1762,8 @@
   {
     "name": "BuzzinUp Bangalore Bar Hop - Bellandur Edition",
     "description": "Welcome to The BuzzinUp Bangalore Bar Hop: The Ultimate Pub Crawl, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favorite drinks, groove to fantastic music, and engage in fun games and activities. Walk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
-    "startDate": "2024-08-30T18:30:00+05:30",
-    "endDate": "2024-08-31T01:00:00+05:30",
+    "startDate": "2024-08-30 18:30:00",
+    "endDate": "2024-08-31 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1869,7 +1787,7 @@
         "currency": "INR",
         "validFrom": "2024-08-22 20:23:20",
         "availability": "INSTOCK",
-        "inventory": 117
+        "inventory": 93
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-bellandur-edition-bengaluru-et49346/details",
@@ -2184,8 +2102,8 @@
       }
     ],
     "isAccessibleForFree": true,
-    "ogTitle": "Blind Date - A Sensory Experience Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+    "ogTitle": "Blind Date - A Sensory Experience Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences and Trending event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1724656152.png"
     ],
@@ -2195,32 +2113,32 @@
         "price": 99,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:27",
-        "availability": "INSTOCK",
-        "inventory": 20
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49651/details",
         "price": 1299,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:27",
-        "availability": "INSTOCK",
-        "inventory": 5
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49651/details",
         "price": 1499,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:28",
-        "availability": "INSTOCK",
-        "inventory": 10
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49651/details",
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:28",
-        "availability": "SELLING_FAST",
-        "inventory": 6
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -2249,8 +2167,8 @@
       }
     ],
     "isAccessibleForFree": true,
-    "ogTitle": "Blind Date - A Sensory Experience Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+    "ogTitle": "Blind Date - A Sensory Experience Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences and Trending event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1724656152.png"
     ],
@@ -2260,32 +2178,32 @@
         "price": 99,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:35",
-        "availability": "INSTOCK",
-        "inventory": 20
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49652/details",
         "price": 1299,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:36",
-        "availability": "INSTOCK",
-        "inventory": 5
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49652/details",
         "price": 1499,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:36",
-        "availability": "INSTOCK",
-        "inventory": 10
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49652/details",
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:37",
-        "availability": "INSTOCK",
-        "inventory": 19
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -2314,8 +2232,8 @@
       }
     ],
     "isAccessibleForFree": true,
-    "ogTitle": "Blind Date - A Sensory Experience Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+    "ogTitle": "Blind Date - A Sensory Experience Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences and Trending event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1724656152.png"
     ],
@@ -2325,32 +2243,32 @@
         "price": 99,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:39",
-        "availability": "INSTOCK",
-        "inventory": 20
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49656/details",
         "price": 1299,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:39",
-        "availability": "INSTOCK",
-        "inventory": 5
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49656/details",
         "price": 1499,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:40",
-        "availability": "INSTOCK",
-        "inventory": 10
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49656/details",
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:40",
-        "availability": "INSTOCK",
-        "inventory": 16
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -2379,8 +2297,8 @@
       }
     ],
     "isAccessibleForFree": true,
-    "ogTitle": "Blind Date - A Sensory Experience Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+    "ogTitle": "Blind Date - A Sensory Experience Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences and Trending event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1724656152.png"
     ],
@@ -2390,32 +2308,32 @@
         "price": 99,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:47",
-        "availability": "INSTOCK",
-        "inventory": 20
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657/details",
         "price": 1299,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:48",
-        "availability": "INSTOCK",
-        "inventory": 5
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657/details",
         "price": 1499,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:48",
-        "availability": "INSTOCK",
-        "inventory": 10
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657/details",
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:49",
-        "availability": "INSTOCK",
-        "inventory": 19
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -2444,8 +2362,8 @@
       }
     ],
     "isAccessibleForFree": true,
-    "ogTitle": "Blind Date - A Sensory Experience Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+    "ogTitle": "Blind Date - A Sensory Experience Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences and Trending event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1724656152.png"
     ],
@@ -2455,32 +2373,32 @@
         "price": 99,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:49",
-        "availability": "INSTOCK",
-        "inventory": 20
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658/details",
         "price": 1299,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:49",
-        "availability": "INSTOCK",
-        "inventory": 5
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658/details",
         "price": 1499,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:50",
-        "availability": "INSTOCK",
-        "inventory": 10
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658/details",
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-08-26 14:15:50",
-        "availability": "INSTOCK",
-        "inventory": 13
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -2890,7 +2808,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 14:52:05",
         "availability": "INSTOCK",
-        "inventory": 87
+        "inventory": 85
       },
       {
         "url": "https://www.zomato.com/events/centigrade-x-pumproom-ft-rezident-bengaluru-et49733/details",
@@ -2906,7 +2824,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 14:52:06",
         "availability": "INSTOCK",
-        "inventory": 61
+        "inventory": 52
       }
     ],
     "performers": [],
@@ -3159,7 +3077,7 @@
         "currency": "INR",
         "validFrom": "2024-08-28 12:38:12",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/cirque-bengaluru-et49972/details",
@@ -3167,7 +3085,7 @@
         "currency": "INR",
         "validFrom": "2024-08-28 12:38:12",
         "availability": "INSTOCK",
-        "inventory": 89
+        "inventory": 86
       },
       {
         "url": "https://www.zomato.com/events/cirque-bengaluru-et49972/details",
@@ -3187,47 +3105,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/cirque-bengaluru-et49972"
-  },
-  {
-    "name": "A Night with Prashant Salwadi",
-    "description": "\u00f0\u0178\u017d\u00a4 A Night with Prashant Salwadi - Sa Re Ga Ma Fame! \u00f0\u0178\u017d\u00b6\n\nJoin us this Friday at Radio Bar for an unforgettable musical journey with the sensational Prashant Salwadi. Get ready to be enchanted by his soulful tunes and mesmerizing melodies. It\u00e2\u20ac\u2122s a night of music magic you won\u00e2\u20ac\u2122t want to miss!\n\n",
-    "startDate": "2024-08-30 08:00:00",
-    "endDate": "2024-08-30 23:50:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "A Night with Prashant Salwadi Party and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for A Night with Prashant Salwadi Bengaluru on Zomato which is a Party and Music event happening at Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/95080438419a501e339ab60ed9fb07cf1724828560.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/a-night-with-prashant-salwadi-bengaluru-et49973/details",
-        "price": 500,
-        "currency": "INR",
-        "validFrom": "2024-08-28 12:38:13",
-        "availability": "INSTOCK",
-        "inventory": 35
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/a-night-with-prashant-salwadi-bengaluru-et49973"
   },
   {
     "name": "Danika",
