@@ -1843,17 +1843,17 @@
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
         "price": 899,
         "currency": "INR",
-        "validFrom": "2024-08-24 14:33:00",
+        "validFrom": "2024-08-30 15:50:43",
         "availability": "INSTOCK",
-        "inventory": 392
+        "inventory": 390
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
         "price": 1499,
         "currency": "INR",
-        "validFrom": "2024-08-24 14:33:00",
+        "validFrom": "2024-08-30 15:50:44",
         "availability": "INSTOCK",
-        "inventory": 990
+        "inventory": 1095
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1861,15 +1861,31 @@
         "currency": "INR",
         "validFrom": "2024-08-26 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 41
+        "inventory": 85
+      },
+      {
+        "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
+        "price": 4999,
+        "currency": "INR",
+        "validFrom": "2024-08-30 15:50:44",
+        "availability": "INSTOCK",
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
         "price": 499,
         "currency": "INR",
-        "validFrom": "2024-08-24 14:33:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
+        "validFrom": "2024-08-30 15:50:00",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-08-30 15:50:00",
+        "availability": "INSTOCK",
+        "inventory": 111
       }
     ],
     "performers": [],
@@ -1898,8 +1914,8 @@
       }
     ],
     "isAccessibleForFree": true,
-    "ogTitle": "Blind Date - A Sensory Experience Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+    "ogTitle": "Blind Date - A Sensory Experience Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences and Trending event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1724494516.png"
     ],
@@ -1909,24 +1925,24 @@
         "price": 99,
         "currency": "INR",
         "validFrom": "2024-08-24 16:16:54",
-        "availability": "INSTOCK",
-        "inventory": 20
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49526/details",
         "price": 1299,
         "currency": "INR",
         "validFrom": "2024-08-24 16:16:54",
-        "availability": "INSTOCK",
-        "inventory": 4
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49526/details",
         "price": 1499,
         "currency": "INR",
         "validFrom": "2024-08-24 16:16:55",
-        "availability": "INSTOCK",
-        "inventory": 10
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49526/details",

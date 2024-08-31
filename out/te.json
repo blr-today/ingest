@@ -186,5 +186,99 @@
       ],
       "startDate": "2024-09-07T00:00:00+00:00",
       "url": "https://www.total-environment.com/music-and-events/vari-album-tour"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Alba Armengou & Ramon Macia Duo offers a global musical journey, exploring\nsounds from Cuba, Brazil, USA, Mexico, Argentina, and beyond. Their\nperformances are a celebration of musical diversity, blending various styles\nand aesthetics that resonate deeply with the musicians.\n\n",
+      "eventStatus": "EventScheduled",
+      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/armi_3B417.jpg",
+      "keywords": [
+         "Jazz",
+         "WINDMILLS"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "addressLocality": "Whitefield",
+            "streetAddress": "Windmills IMAGINE, No. 78, ITPL Main Road, EPIP Zone,Bangalore"
+         },
+         "name": "Windmills"
+      },
+      "name": "Armengou & Macià Duo",
+      "offers": [
+         {
+            "@type": "Offer",
+            "name": "Standing",
+            "price": 1271,
+            "priceCurrency": "INR"
+         },
+         {
+            "@type": "Offer",
+            "name": "Seating",
+            "price": 2542,
+            "priceCurrency": "INR"
+         }
+      ],
+      "performer": [
+         {
+            "@type": "MusicGroup",
+            "description": "Alba Armengou & Ramon Macià Duo offers a global musical journey, exploring sounds from Cuba, Brazil, USA, Mexico, Argentina, and beyond. Their performances are a celebration of musical diversity, blending various styles and aesthetics that resonate deeply with the musicians.",
+            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/armi_308A0.jpg",
+            "name": "Armengou & Macià Duo",
+            "url": "https://www.youtube.com/watch?v=lak6qD3AwoY&feature=youtu.be"
+         }
+      ],
+      "startDate": "2024-09-13T00:00:00+00:00",
+      "url": "https://www.total-environment.com/music-and-events/armengou-macia-duo"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Alba Armengou & Ramon Macia Duo offers a global musical journey, exploring\nsounds from Cuba, Brazil, USA, Mexico, Argentina, and beyond. Their\nperformances are a celebration of musical diversity, blending various styles\nand aesthetics that resonate deeply with the musicians.\n\n",
+      "eventStatus": "EventScheduled",
+      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/armi_3B417.jpg",
+      "keywords": [
+         "Jazz",
+         "WINDMILLS"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "addressLocality": "Whitefield",
+            "streetAddress": "Windmills IMAGINE, No. 78, ITPL Main Road, EPIP Zone,Bangalore"
+         },
+         "name": "Windmills"
+      },
+      "name": "Armengou & Macià Duo",
+      "offers": [
+         {
+            "@type": "Offer",
+            "name": "Standing",
+            "price": 1271,
+            "priceCurrency": "INR"
+         },
+         {
+            "@type": "Offer",
+            "name": "Seating",
+            "price": 2542,
+            "priceCurrency": "INR"
+         }
+      ],
+      "performer": [
+         {
+            "@type": "MusicGroup",
+            "description": "Alba Armengou & Ramon Macià Duo offers a global musical journey, exploring sounds from Cuba, Brazil, USA, Mexico, Argentina, and beyond. Their performances are a celebration of musical diversity, blending various styles and aesthetics that resonate deeply with the musicians.",
+            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/armi_308A0.jpg",
+            "name": "Armengou & Macià Duo",
+            "url": "https://www.youtube.com/watch?v=lak6qD3AwoY&feature=youtu.be"
+         }
+      ],
+      "startDate": "2024-09-14T00:00:00+00:00",
+      "url": "https://www.total-environment.com/music-and-events/armengou-macia-duo"
    }
 ]
