@@ -48,6 +48,10 @@ def fetch_events(event_links, session):
 			bool(re.search('rajankunte', location, re.IGNORECASE)) ):
 			continue
 
+		duration = event.select_one('div.duration').get_text().strip()
+		if bool(re.search('/', duration)):
+			continue
+
 		events.append(event)
 
 	return events
@@ -66,8 +70,8 @@ def make_event(event):
 		offers[opt_name] = price
 
 	duration = event.select_one('div.duration').get_text().strip()
-
 	duration_in_hours = convert_duration_in_hours(duration)
+
 	dates = []
 	date_opts = offers_selector.select('div.product-variations-variety select[name="variety_id"] option')
 	for date_opt in date_opts:
@@ -95,7 +99,7 @@ def make_event(event):
 		"dates": dates,
 		"duration": duration_in_hours,
 		"description": [
-		description,
+		process_description(description),
 		metrics
 		]
 	}
@@ -124,6 +128,12 @@ def convert_duration_in_hours(duration):
 		duration_in_hours = 0
 
 	return int(duration_in_hours)
+
+def process_description(description):
+	# Remove chain of hyphen '-' and convert it into a newline
+	processed_text = re.sub(r'-{2,}', '\n', description)
+	processed_text = processed_text.replace("\u00a0", "\n")
+	return processed_text
 
 def main():
 	session = requests.Session()
