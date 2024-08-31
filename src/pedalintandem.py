@@ -62,12 +62,18 @@ def make_event(event):
 	location = event.select_one('div.location').get_text().strip()
 
 	offers = {}
+	addOn = {}
 	offers_selector = event.select_one('div.cart-details')
 	opts = offers_selector.select('div.product-variations select[name="variation_id"] option')
 	for opt in opts:
 		opt_name = opt.get_text()
 		price = opt['data-price-after-discount']
-		offers[opt_name] = price
+		price = price.replace("\u20b9", "")
+		if "rent" in opt_name or "transport" in opt_name:
+			addOn[opt_name] = price
+		else:
+			offers[opt_name] = price
+	offers['addOn'] = addOn
 
 	duration = event.select_one('div.duration').get_text().strip()
 	duration_in_hours = convert_duration_in_hours(duration)
@@ -95,6 +101,7 @@ def make_event(event):
 	return {
 		"name": heading,
 		"location": location,
+		"priceCurrency": "INR",
 		"offers": offers,
 		"dates": dates,
 		"duration": duration_in_hours,
