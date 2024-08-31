@@ -851,55 +851,6 @@
     "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
   },
   {
-    "name": "Tribute to Pink Floyd",
-    "description": "Dark Light is a five-piece psychedelic/progressive rock band from Bangalore whose music has been compared to a soulful blend of stadium rock`s ferocity and fury with progressive elements and ambient psychedelic soundscapes. They significantly draw inspiration from artists such as Porcupine Tree, Pink Floyd, U2, Opeth, Guns N` Roses, Radiohead, and Led Zeppelin and aim to make music that will captivate you and leave you wanting more",
-    "startDate": "2024-08-31T21:00:00+05:30",
-    "endDate": "2024-08-31T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Pink Floyd Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Pink Floyd Bengaluru on Zomato which is a Music and Trending event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/9385806a791f04c699b10c66f8a59a261722444762.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-pink-floyd-bengaluru-et47107/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-26 13:10:25",
-        "availability": "SELLING_FAST",
-        "inventory": 3
-      },
-      {
-        "url": "https://www.zomato.com/events/tribute-to-pink-floyd-bengaluru-et47107/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-07-31 22:28:00",
-        "availability": "INSTOCK",
-        "inventory": 3
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-pink-floyd-bengaluru-et47107"
-  },
-  {
     "name": "Experience Enigma | Live in India",
     "description": "For the first time ever, India will witness the music of the legendary artist \u201cEnigma\u201d in a live concert featuring the original Enigma voices, a full symphonic orchestra, live dancers, and visuals.\r\n\r\nWith the backdrop of the iconic Jayamahal Palace, be a part of music history by attending this once-in-a-lifetime concert.\r\n\r\nWith three Grammy nominations, 70 million records sold, and over 100 gold and platinum album certifications, Enigma\u2019s music has entranced millions of listeners with its synthesis of musical styles, Gregorian chants, ethnic instruments, atmospheric, and psychedelic sounds.\r\n\r\nAndru Donalds, Angel X, and Fox Lima, whose voices are behind many Enigma songs, will perform some of the greatest hits including \u201cSadeness,\u201d \u201cReturn to Innocence,\u201d \u201cMea Culpa,\u201d \u201cThe Rivers of Belief,\u201d \u201cAge of Loneliness,\u201d and more.",
     "startDate": "2024-10-05T19:00:00+05:30",
@@ -1017,75 +968,10 @@
     "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115"
   },
   {
-    "name": "Speed Dating",
-    "description": "Tired of swiping and texting? Come, join us at our social mixer to meet potential dates and friends in real life.\nWe`ve designed this event to boost intimacy between curated attendees, resulting in friendship, romance, and even marriage.\nOur fun icebreakers and speed dating games during the event facilitate mindful conversations and deep connections.\nSo come, and experience some cool, quirky games for introverts to break the ice without any pressure! \nSeek a friend, flatmate, date, or startup soulmate- find it all at Speed Dating!",
-    "startDate": "2024-08-31 18:00:00",
-    "endDate": "2024-08-31 20:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Speed Dating Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Speed Dating Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4588abc050c4cafdf66c8efd1ffd7a481723189156.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48036/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:45",
-        "availability": "INSTOCK",
-        "inventory": 20
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48036/details",
-        "price": 1299,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:45",
-        "availability": "INSTOCK",
-        "inventory": 4
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48036/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:46",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48036/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-09 13:30:46",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/speed-dating-bengaluru-et48036"
-  },
-  {
     "name": "Juss Live India Tour",
     "description": "Get ready to be swept off your feet by the rising star, Juss! He's bringing his electrifying live show to Bangalore on 31st August. Witness his powerful vocals and captivating stage presence as he performs chart-toppers like \"SUNIYAN SUNIYAN' and SAFAR'. This is your chance to experience the future of Punjabi music live - don't miss out!",
-    "startDate": "2024-08-31T20:00:00+05:30",
-    "endDate": "2024-09-01T00:30:00+05:30",
+    "startDate": "2024-08-31 20:00:00",
+    "endDate": "2024-09-01 00:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1191,8 +1077,8 @@
   {
     "name": "Pou Live",
     "description": "Prepare yourself for a club night like no other! Experience the ultimate techno party with the renowned international DJ *POU, with dynamic support from **Musico* and *Anshul Nashine*.\n\nWhy You Can't Miss This Event:\n\n- World-Class Music: Internationally acclaimed beats by DJ POU will keep you dancing all night long.\n\n- Vibrant Atmosphere: Club Zozo's top-tier sound and lighting will amplify your experience.\n\n- Unmatched Energy: The synergy of Musico and Anshul Nashine will elevate the night to new heights.",
-    "startDate": "2024-08-31T20:00:00+05:30",
-    "endDate": "2024-09-01T01:00:00+05:30",
+    "startDate": "2024-08-31 20:00:00",
+    "endDate": "2024-09-01 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1640,8 +1526,8 @@
   {
     "name": "SoMAD Mehfil Ft. Dj Czetan at Badmaash UB",
     "description": "SoMAD Mehfil [ \u092e\u0939\u092b\u093c\u093f\u0932 - \u0645\u062d\u0641\u0644 ] Party is not just an event but a cherished experience where art, culture, and community converge & create Lasting Memories. Come celebrate The Essence of our South Asian Tradition at Badmaash UB City | Bengaluru\n\nDress Code: Ethnic or Indian Party Wear or Indo-Western!\n\nOur Ethnic Wear Party isn't just an event; it's a celebration of unity in diversity, a tribute to the beauty of traditions that bind us together as a global community. It's an opportunity to learn, appreciate, and cherish the threads that connect us across cultures, leaving us with memories as colorful and vibrant as the garments we wear.\n\nJoin us as we honor the past, celebrate the present, and embrace the future \u2014 one thread at a time.\n\nRSVP NOW!\n\nSUPER LIMITED CAPACITY EVENT",
-    "startDate": "2024-08-31T20:30:00+05:30",
-    "endDate": "2024-09-01T00:45:00+05:30",
+    "startDate": "2024-08-31 20:30:00",
+    "endDate": "2024-09-01 00:45:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1711,6 +1597,70 @@
     "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946"
   },
   {
+    "name": "Feeding India Concert with Dua Lipa",
+    "description": "Attention Dua Lipa fans - get ready to levitate! The Feeding India Concert, organised by Zomato's Feeding India initiative to fight malnutrition, is back.\nThis time, global pop icon Dua Lipa is here to make you \u2018dance the night away\u2019 in Mumbai. Witness the chart-topping artist light up the stage with her electrifying hits, and don\u2019t miss the amazing support acts: the sensational JONITA and the dynamic Talwiinder.\n\nWe\u2019ve just got one \u2018new rule\u2019 \u2013 don't miss the chance to be part of this incredible experience, with a great cause.",
+    "startDate": "2024-11-30T15:00:00+05:30",
+    "endDate": "2024-11-30T22:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Mumbai",
+        "streetAddress": "New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Feeding India Concert with Dua Lipa Music and Trending event Tickets Mumbai - Zomato",
+    "ogDesc": "Book online tickets for Feeding India Concert with Dua Lipa Mumbai on Zomato which is a Music and Trending event happening at New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/e736ff9bae687e83e5658bb98f5a11891724997132.png",
+      "https://b.zmtcdn.com/data/zomaland/0c2ae00635ef4aee1fffa8bb266ffc641724335426.png",
+      "https://b.zmtcdn.com/data/zomaland/b4454ca93f87b57dbacf89c658d91fb61724335445.png",
+      "https://b.zmtcdn.com/data/zomaland/502ce90275c6e620055d4a7c8562584a1724335474.png",
+      "https://b.zmtcdn.com/data/zomaland/e3fa669fa71173925953e87f874384001724335474.png",
+      "https://b.zmtcdn.com/data/zomaland/cedaa72666b1954a845beb9f5fbcce061724335474.png",
+      "https://b.zmtcdn.com/data/zomaland/918780875f634edbc0e42e4bf44215ee1724388405.png",
+      "https://b.zmtcdn.com/data/zomaland/905835bd13100813bb656faf1cbaf1af1724658596.png"
+    ],
+    "tickets": [],
+    "performers": [
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png",
+        "name": "Dua Lipa",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png",
+        "name": "Jonita",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png",
+        "name": "Talwiinder",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png",
+        "name": "More",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png"
+      }
+    ],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042"
+  },
+  {
     "name": "Paint with Puppies",
     "description": "Have you ever dreamed of painting alongside the most adorable companions imaginable? Now's your chance! Don't miss out on the event of the month: Painting with Puppies! It's not just a workshop; it's an unforgettable experience that will touch your heart and ignite your creativity like never before.\nImagine yourself surrounded by cuddly, adoptable puppies, their wagging tails and playful energy inspiring every brushstroke. But it's not just about painting; it's about making a difference. With each ticket purchased, you're supporting animal welfare initiatives, spreading love and compassion to those who need it most.\nIndulge in unlimited snuggles, laughter, and pure joy as you create your masterpiece alongside your furry friends. This isn't just another workshop\u2014it's a chance to create memories that will last a lifetime while giving back to the community.",
     "startDate": "2024-09-01T10:30:00+05:30",
@@ -1758,63 +1708,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et49183"
-  },
-  {
-    "name": "Soul Jams",
-    "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
-    "startDate": "2024-08-31 16:30:00",
-    "endDate": "2024-08-31 20:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Doddakannelli, 116/9, Ambalipura - Sarjapur Rd, Kaikondrahalli, Bengaluru, Karnataka 560035",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Soul Jams Music, Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Music, Experiences and Trending event happening at Doddakannelli, 116/9, Ambalipura - Sarjapur Rd, Kaikondrahalli, Bengaluru, Karnataka 560035",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/106a461700f79513d52811dffcc1faa21724411683.png",
-      "https://b.zmtcdn.com/data/zomaland/106a461700f79513d52811dffcc1faa21724505873.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/soul-jams-bengaluru-et49481/details",
-        "price": 590,
-        "currency": "INR",
-        "validFrom": "2024-08-23 17:33:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/soul-jams-bengaluru-et49481/details",
-        "price": 590,
-        "currency": "INR",
-        "validFrom": "2024-08-26 11:47:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381724494286.png",
-        "name": "soul jams",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381724494286.png"
-      }
-    ],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/soul-jams-bengaluru-et49481"
   },
   {
     "name": "Indira Paganotto Tour",
@@ -2864,8 +2757,8 @@
   {
     "name": "Cirque",
     "description": "Step into the magical world of Cirque, where the night comes alive with dazzling performances, a vibrant night market, and an atmosphere that spins with enchantment, all set against the backdrop of a whimsical decor that elevates the experience to something truly extraordinary.\n\nJoin MyPartyMob on August 31st, Saturday, for a night that circles around wonder and excitement.\n\n\uf8ff\u00fc\u00ed\u00c9 Dance to electrifying beats by DJ Prithvi and Raghu Achar.\n\u201a\u00f6\u00b0\u00d4\u220f\u00e8 Be mesmerized by LED performers who light up the night.\n\uf8ff\u00fc\u00e9\u2122 Explore the lively flea market filled with unique finds.\n\nFrom 8 PM onwards, every moment is a celebration of art, music, and imagination. Don\u201a\u00c4\u00f4t miss your chance to experience a night where the circle of magic never ends!\nGet your tickets now and be part of the enchantment!",
-    "startDate": "2024-08-31T20:00:00+05:30",
-    "endDate": "2024-09-01T00:30:00+05:30",
+    "startDate": "2024-08-31 20:00:00",
+    "endDate": "2024-09-01 00:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2921,8 +2814,8 @@
   {
     "name": "Danika",
     "description": "Mark your calendars for August 31st! DJ Danika is bringing her captivating live violin performance to High Ultra Lounge! Don't miss this unforgettable night! ",
-    "startDate": "2024-08-31T20:00:00+05:30",
-    "endDate": "2024-09-01T01:00:00+05:30",
+    "startDate": "2024-08-31 20:00:00",
+    "endDate": "2024-09-01 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2962,7 +2855,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 13:31:03",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 189
       }
     ],
     "performers": [],
@@ -2978,8 +2871,8 @@
   {
     "name": "Caged",
     "description": "Caged is back at Indiranagar Social for yet another intimate party with some eclectic set of musicians at Indiranagar Social on 31 Aug 2024\n\nLine up:\n\nCHAZ\nVEDIK\nGACHO LIBRE\nBISWA",
-    "startDate": "2024-08-31T20:00:00+05:30",
-    "endDate": "2024-09-01T01:00:00+05:30",
+    "startDate": "2024-08-31 20:00:00",
+    "endDate": "2024-09-01 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3044,7 +2937,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 16:51:34",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 95
       }
     ],
     "performers": [],
@@ -3085,7 +2978,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 16:55:36",
         "availability": "INSTOCK",
-        "inventory": 94
+        "inventory": 82
       }
     ],
     "performers": [],
@@ -3126,7 +3019,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 16:59:31",
         "availability": "INSTOCK",
-        "inventory": 97
+        "inventory": 91
       }
     ],
     "performers": [],
@@ -3208,7 +3101,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 17:23:18",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 95
       }
     ],
     "performers": [],
@@ -4024,7 +3917,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:24:00",
         "availability": "INSTOCK",
-        "inventory": 247
+        "inventory": 209
       }
     ],
     "performers": [],
