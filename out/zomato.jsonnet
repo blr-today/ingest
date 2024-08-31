@@ -1760,63 +1760,6 @@
     "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et49183"
   },
   {
-    "name": "BuzzinUp Bangalore Bar Hop - Bellandur Edition",
-    "description": "Welcome to The BuzzinUp Bangalore Bar Hop: The Ultimate Pub Crawl, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favorite drinks, groove to fantastic music, and engage in fun games and activities. Walk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
-    "startDate": "2024-08-30 18:30:00",
-    "endDate": "2024-08-31 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "BuzzinUp Bangalore Bar Hop - Bellandur Edition Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for BuzzinUp Bangalore Bar Hop - Bellandur Edition Bengaluru on Zomato which is a Experiences and Trending event happening at RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/ec4ebe3e884995da42f871690c7866881724410417.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-bellandur-edition-bengaluru-et49346/details",
-        "price": 699,
-        "currency": "INR",
-        "validFrom": "2024-08-22 20:23:20",
-        "availability": "INSTOCK",
-        "inventory": 93
-      },
-      {
-        "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-bellandur-edition-bengaluru-et49346/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-08-22 20:23:21",
-        "availability": "INSTOCK",
-        "inventory": 47
-      },
-      {
-        "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-bellandur-edition-bengaluru-et49346/details",
-        "price": 3999,
-        "currency": "INR",
-        "validFrom": "2024-08-22 20:23:21",
-        "availability": "INSTOCK",
-        "inventory": 49
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-bellandur-edition-bengaluru-et49346"
-  },
-  {
     "name": "Soul Jams",
     "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
     "startDate": "2024-08-31T16:30:00+05:30",
