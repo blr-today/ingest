@@ -1465,55 +1465,6 @@
     "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042"
   },
   {
-    "name": "Paint with Puppies",
-    "description": "Have you ever dreamed of painting alongside the most adorable companions imaginable? Now's your chance! Don't miss out on the event of the month: Painting with Puppies! It's not just a workshop; it's an unforgettable experience that will touch your heart and ignite your creativity like never before.\nImagine yourself surrounded by cuddly, adoptable puppies, their wagging tails and playful energy inspiring every brushstroke. But it's not just about painting; it's about making a difference. With each ticket purchased, you're supporting animal welfare initiatives, spreading love and compassion to those who need it most.\nIndulge in unlimited snuggles, laughter, and pure joy as you create your masterpiece alongside your furry friends. This isn't just another workshop\u2014it's a chance to create memories that will last a lifetime while giving back to the community.",
-    "startDate": "2024-09-01 10:30:00",
-    "endDate": "2024-09-01 12:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "#36, 3rd floor, 14th Main Rd, Sector 7, HSR Layout, Bengaluru, Karnataka 560102",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Paint with Puppies Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Paint with Puppies Bengaluru on Zomato which is a Experiences and Trending event happening at #36, 3rd floor, 14th Main Rd, Sector 7, HSR Layout, Bengaluru, Karnataka 560102",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/93f8fb793fb3f0ff115a1e5dbc1583961724415039.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et49183/details",
-        "price": 1299,
-        "currency": "INR",
-        "validFrom": "2024-08-21 17:15:00",
-        "availability": "INSTOCK",
-        "inventory": 1
-      },
-      {
-        "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et49183/details",
-        "price": 2299,
-        "currency": "INR",
-        "validFrom": "2024-08-21 17:15:00",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/paint-with-puppies-bengaluru-et49183"
-  },
-  {
     "name": "Indira Paganotto Tour",
     "description": "NOBO Experience invites you to experience Indira Paganotto in Bangalore, a city where innovation and tradition coexist in harmony. Known as India\u2019s tech hub, Bangalore\u2019s forward-thinking vibe is mirrored in Indira\u2019s cutting-edge sets, which seamlessly blend her deep musical roots with the latest in underground techno. Just as the city is known for its lush green spaces and buzzing nightlife, Indira\u2019s performance will be a refreshing, high-energy journey that keeps you moving all night. Don\u2019t miss this unique fusion of sounds and styles\u2014get your tickets today.",
     "startDate": "2024-09-20T19:00:00+05:30",
@@ -1594,71 +1545,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514"
-  },
-  {
-    "name": "Blind Date - A Sensory Experience",
-    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
-    "startDate": "2024-09-01T16:00:00+05:30",
-    "endDate": "2024-09-01T17:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Blind Date - A Sensory Experience Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences and Trending event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1724656152.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49651/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-08-26 14:15:27",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49651/details",
-        "price": 1299,
-        "currency": "INR",
-        "validFrom": "2024-08-26 14:15:27",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49651/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-26 14:15:28",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49651/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-26 14:15:28",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49651"
   },
   {
     "name": "Blind Date - A Sensory Experience",
@@ -1923,47 +1809,6 @@
   {
     "name": "Chai Pe Charcha",
     "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
-    "startDate": "2024-09-01T15:00:00+05:30",
-    "endDate": "2024-09-01T16:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711724658754.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et49693/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-26 14:15:54",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et49693"
-  },
-  {
-    "name": "Chai Pe Charcha",
-    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
     "startDate": "2024-09-07T15:00:00+05:30",
     "endDate": "2024-09-07T16:00:00+05:30",
     "timezone": "+05:30",
@@ -2206,47 +2051,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et49705"
-  },
-  {
-    "name": "Dance Like a Bollywood Star",
-    "description": "Get ready to unleash your inner Bollywood sensation at our `Dance like a Bollywood Star` workshop!\nJoin us for a high-energy, fun-filled session where you`ll learn iconic Bollywood dance moves and grooves. Our talented instructors will guide you through the steps, from classic Bollywood numbers to the latest\nchartbusters. Whether you`re a seasoned dancer or just love to move, this workshop is open to all levels of experience!\nAnd that's not all! After mastering the moves, you`ll have the chance to shine in front of the camera and create your very own Instagram reel. Show off your newfound dance skills and capture the magic of Bollywood on film.\nSo, grab your dancing shoes, bring your enthusiasm, and join us for an unforgettable day of music, dance, and Bollywood glamour. Don't miss your chance to dance like a Bollywood star!",
-    "startDate": "2024-09-01 12:00:00",
-    "endDate": "2024-09-01 13:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Dance Like a Bollywood Star Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Dance Like a Bollywood Star Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4c603b0c4944d98aba1e2644d9c78dbe1724660070.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et49713/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-26 14:16:00",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et49713"
   },
   {
     "name": "Dance Like a Bollywood Star",
@@ -2557,47 +2361,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962"
-  },
-  {
-    "name": "Sunny Tunes",
-    "description": "Make some noise and have fun, since the music gets two times better when the band lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Cartridge and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
-    "startDate": "2024-09-01T13:00:00+05:30",
-    "endDate": "2024-09-01T16:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f730da53330bd5f15650f15afbba8e6f1724930048.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50171/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-29 16:51:34",
-        "availability": "INSTOCK",
-        "inventory": 95
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50171"
   },
   {
     "name": "Rock Out Sundays",
@@ -2979,7 +2742,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 11:15:25",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 26
       },
       {
         "url": "https://www.zomato.com/events/tribute-to-coldplay-bengaluru-et50277/details",
