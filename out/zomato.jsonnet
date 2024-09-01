@@ -1009,88 +1009,6 @@
     "url": "https://www.zomato.com/events/sajanka-live-at-sunburn-union-bengaluru-et48600"
   },
   {
-    "name": "Chikmagalur Weekend Getaway",
-    "description": "This paradise of misty hills and lush green tea and coffee plantations is a sweet escape from the noisy city life, resting peacefully at a height of 3,400 ft. Get ready to immerse yourself in the arms of nature! \nWhether you\u2019re a thrill-seeker or a nature lover, Chikmagalur\u2019s got you covered. Hike through the rugged terrain, or take a dip in one of the many cascading waterfalls, there\u2019s so much to explore",
-    "startDate": "2024-08-30 21:30:00",
-    "endDate": "2024-09-01 23:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Chikmagalur Weekend Getaway Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Chikmagalur Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/dc2b1c7875acf6fc891af9de6a40a6b11723797760.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/chikmagalur-weekend-getaway-bengaluru-et48707/details",
-        "price": 4999,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:25:48",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/chikmagalur-weekend-getaway-bengaluru-et48707"
-  },
-  {
-    "name": "Coorg Weekend Getaway",
-    "description": "Time to put on your adventure hat and escape to a place where relaxation and thrill collide in the most tantalizing way possible! Imagine waking up to the aroma of freshly ground coffee beans surrounded by lush greenery worthy of a postcard.\n\nGet ready to explore winding trails and stunning waterfalls, trading city life for an unforgettable adventure that will stay with you forever. Coorg's calling, are you ready",
-    "startDate": "2024-08-30 21:30:00",
-    "endDate": "2024-09-01 23:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Coorg Weekend Getaway Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Coorg Weekend Getaway Bengaluru on Zomato which is a Trending event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/69575bdb355c411fdd8029cdb62acb131723798062.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/coorg-weekend-getaway-bengaluru-et48709/details",
-        "price": 4999,
-        "currency": "INR",
-        "validFrom": "2024-08-16 18:25:48",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/coorg-weekend-getaway-bengaluru-et48709"
-  },
-  {
     "name": "Wayanad Weekend Getaway",
     "description": "The lush-green town of Wayanad in Kerala is hidden in the Malabar region on the Western Ghats. Sparsely populated, the forest-covered region abounds in picturesque hills meandered with streams, tea estates, and wildlife sanctuaries. Referred to as the \u2018Spice Garden of India\u2019, Wayanad is a hub of spices such as cardamom, star anise, fenugreek, black pepper, black cumin, etc. Adding to its treasures are Asia\u2019s second largest and India\u2019s largest damn, the Banasura Sagar Dam, the Edakkal Caves from the Neolithic Age to trek to. Witness a majestic sunset at the backdrop of the dam, go hiking, mountaineering, camping, or rock climbing, you\u2019d never run out of fun activities at Wayanad.",
     "startDate": "2024-08-30 21:30:00",
@@ -2096,8 +2014,8 @@
   {
     "name": "CentiGrade X Pumproom ft. Rezident",
     "description": "Rezident, a standout artist from the renowned Anjunadeep label, is celebrated for his compelling minimal techno sound and sophisticated production. His music seamlessly combines deep, driving rhythms with intricate melodic elements, creating an immersive listening experience that captivates audiences. Known for crafting evocative and dynamic tracks, Rezident\u2019s live performances are a masterclass in electronic music, offering an unforgettable journey through his unique sonic landscape. Join us at one of Bangalore\u2019s most iconic venues for a night of exceptional energy and innovative beats that only Rezident can deliver. Don\u2019t miss this extraordinary opportunity to experience a true Anjunadeep talent in action.",
-    "startDate": "2024-09-01T20:00:00+05:30",
-    "endDate": "2024-09-02T01:00:00+05:30",
+    "startDate": "2024-09-01 20:00:00",
+    "endDate": "2024-09-02 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2363,47 +2281,6 @@
     "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962"
   },
   {
-    "name": "Rock Out Sundays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-09-01T20:30:00+05:30",
-    "endDate": "2024-09-01T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/e4d463959ab685fd91a617f82b9656c81724930634.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50178/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-29 16:55:36",
-        "availability": "INSTOCK",
-        "inventory": 82
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50178"
-  },
-  {
     "name": "Karaoke Nights",
     "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion for singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
     "startDate": "2024-09-04T20:30:00+05:30",
@@ -2431,7 +2308,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 16:59:31",
         "availability": "INSTOCK",
-        "inventory": 91
+        "inventory": 82
       }
     ],
     "performers": [],
@@ -2513,7 +2390,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 17:23:18",
         "availability": "INSTOCK",
-        "inventory": 95
+        "inventory": 83
       }
     ],
     "performers": [],
@@ -2554,7 +2431,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 17:41:36",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 85
       }
     ],
     "performers": [],
@@ -3069,7 +2946,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 12:32:46",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 20
       }
     ],
     "performers": [],
@@ -3329,7 +3206,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:24:00",
         "availability": "INSTOCK",
-        "inventory": 209
+        "inventory": 201
       }
     ],
     "performers": [],
