@@ -23,7 +23,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 468
+               "value": 466
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -32,7 +32,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 284
+               "value": 271
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-29T22:00:00+05:30"
@@ -41,7 +41,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1074
+               "value": 1072
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -290,7 +290,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 491
+               "value": 490
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-03T14:00:00+05:30"
@@ -398,7 +398,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 253
+               "value": 192
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-07T17:00:00+05:30"
@@ -493,7 +493,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 906
+               "value": 902
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T16:50:00+05:30"
@@ -502,7 +502,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 93
+               "value": 92
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-13T13:00:00+05:30"
@@ -579,7 +579,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 37
+               "value": 35
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T22:00:00+05:30"
@@ -588,7 +588,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 23
+               "value": 21
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T22:00:00+05:30"
@@ -778,7 +778,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 44
+               "value": 43
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-27T14:28:48+05:30"
@@ -869,7 +869,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 387
+               "value": 376
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T09:00:00+05:30"
@@ -878,7 +878,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 234
+               "value": 232
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T09:00:00+05:30"
@@ -896,7 +896,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1
+               "value": 4
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T09:00:00+05:30"
@@ -911,10 +911,10 @@
             "validFrom": "2024-08-01T09:00:00+05:30"
          },
          {
-            "availability": "InStock",
+            "availability": "Sold Out",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 5
+               "value": 0
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T09:00:00+05:30"
@@ -961,74 +961,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get ready to be swept off your feet by the rising star, Juss! He's bringing his electrifying live show to Bangalore on 31st August. Witness his powerful vocals and captivating stage presence as he performs chart-toppers like \"SUNIYAN SUNIYAN' and SAFAR'. This is your chance to experience the future of Punjabi music live - don't miss out!",
-      "endDate": "2024-09-01 00:30:00",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/4aab13ad164e50393b01eb9b61bfa96a1723453877.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, Bengaluru"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Juss Live India Tour",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 25
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-12T16:05:17+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 97
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-12T16:05:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 7
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-27T22:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 45
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-12T16:05:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-08-31 20:00:00",
-      "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Prepare for an unforgettable night with Sajanka, the acclaimed musician from Israel, known for crafting mesmerizing soundscapes and infectious rhythms. ðŸŽ¶ Join us on the 22nd of September at Sunburn Union for a live performance that promises to be a unique celebration of music and energy. Book your tickets NOW!",
       "endDate": "2024-09-23T01:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -1067,65 +999,6 @@
       "remainingAttendeeCapacity": 95,
       "startDate": "2024-09-22T19:30:00+05:30",
       "url": "https://www.zomato.com/events/sajanka-live-at-sunburn-union-bengaluru-et48600"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Prepare yourself for a club night like no other! Experience the ultimate techno party with the renowned international DJ *POU, with dynamic support from **Musico* and *Anshul Nashine*.\n\nWhy You Can't Miss This Event:\n\n- World-Class Music: Internationally acclaimed beats by DJ POU will keep you dancing all night long.\n\n- Vibrant Atmosphere: Club Zozo's top-tier sound and lighting will amplify your experience.\n\n- Unmatched Energy: The synergy of Musico and Anshul Nashine will elevate the night to new heights.",
-      "endDate": "2024-09-01 01:00:00",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/87a2dc348739387ae50a39a5e89f94321723636743.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "33/3-A-1, D Rajgopala Road Sanjaynagar, 19, Geddalahalii, Kasaba Hobali"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Pou Live",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 57
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-14T18:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 100
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-14T18:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 100
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-14T18:00:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-08-31 20:00:00",
-      "url": "https://www.zomato.com/events/pou-live-bengaluru-et48621"
    },
    {
       "@context": "https://schema.org",
@@ -1487,7 +1360,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 88
+               "value": 77
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-16T22:15:00+05:30"
@@ -1512,83 +1385,6 @@
       "performers": [ ],
       "startDate": "2024-09-08T15:00:00+05:30",
       "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et48781"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "SoMAD Mehfil [ महफ़िल - محفل ] Party is not just an event but a cherished experience where art, culture, and community converge & create Lasting Memories. Come celebrate The Essence of our South Asian Tradition at Badmaash UB City | Bengaluru\n\nDress Code: Ethnic or Indian Party Wear or Indo-Western!\n\nOur Ethnic Wear Party isn't just an event; it's a celebration of unity in diversity, a tribute to the beauty of traditions that bind us together as a global community. It's an opportunity to learn, appreciate, and cherish the threads that connect us across cultures, leaving us with memories as colorful and vibrant as the garments we wear.\n\nJoin us as we honor the past, celebrate the present, and embrace the future — one thread at a time.\n\nRSVP NOW!\n\nSUPER LIMITED CAPACITY EVENT",
-      "endDate": "2024-09-01 00:45:00",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/8342cb15563a9c7aff8cd0f4c55f14131724130056.png",
-      "isAccessibleForFree": true,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "UB City, 203, 2nd Floor, The Collection, 24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "SoMAD Mehfil Ft. Dj Czetan at Badmaash UB",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 254
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-20T10:37:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 373
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-20T10:37:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 495
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-20T10:37:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 500
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-20T10:37:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 499
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-20T10:37:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-08-31 20:30:00",
-      "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946"
    },
    {
       "@context": "https://schema.org",
@@ -2524,7 +2320,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 85
+               "value": 77
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T14:52:05+05:30"
@@ -2533,7 +2329,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 93
+               "value": 87
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T14:52:05+05:30"
@@ -2542,7 +2338,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 52
+               "value": 35
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T14:52:06+05:30"
@@ -2777,166 +2573,6 @@
       "performers": [ ],
       "startDate": "2024-10-04T17:30:00+05:30",
       "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Step into the magical world of Cirque, where the night comes alive with dazzling performances, a vibrant night market, and an atmosphere that spins with enchantment, all set against the backdrop of a whimsical decor that elevates the experience to something truly extraordinary.\n\nJoin MyPartyMob on August 31st, Saturday, for a night that circles around wonder and excitement.\n\nüíÉ Dance to electrifying beats by DJ Prithvi and Raghu Achar.\n‚ö°Ô∏è Be mesmerized by LED performers who light up the night.\nüé™ Explore the lively flea market filled with unique finds.\n\nFrom 8 PM onwards, every moment is a celebration of art, music, and imagination. Don‚Äôt miss your chance to experience a night where the circle of magic never ends!\nGet your tickets now and be part of the enchantment!",
-      "endDate": "2024-09-01 00:30:00",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/2b6bb41cc3a855ff90574884b1cf01e41724828426.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Cirque",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 99
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-28T12:38:12+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 86
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-28T12:38:12+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 23
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-28T12:38:13+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-08-31 20:00:00",
-      "url": "https://www.zomato.com/events/cirque-bengaluru-et49972"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Mark your calendars for August 31st! DJ Danika is bringing her captivating live violin performance to High Ultra Lounge! Don't miss this unforgettable night! ",
-      "endDate": "2024-09-01 01:00:00",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/b2e175363c57b323d06575ee0d115f921724918022.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Danika",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 200
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-29T13:30:05+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 200
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-29T13:31:02+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 189
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-29T13:31:03+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-08-31 20:00:00",
-      "url": "https://www.zomato.com/events/danika-bengaluru-et50142"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Caged is back at Indiranagar Social for yet another intimate party with some eclectic set of musicians at Indiranagar Social on 31 Aug 2024\n\nLine up:\n\nCHAZ\nVEDIK\nGACHO LIBRE\nBISWA",
-      "endDate": "2024-09-01 01:00:00",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/4016fa305e6dbf45dec1ad877891c0321724926225.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "Sarjapur - Marathahalli Rd, Saket Callipolis, Rainbow Drive, Doddakannelli, Bengaluru, Karnataka 560035"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Caged",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 200
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-29T15:47:46+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 200,
-      "startDate": "2024-08-31 20:00:00",
-      "url": "https://www.zomato.com/events/caged-bengaluru-et50157"
    },
    {
       "@context": "https://schema.org",

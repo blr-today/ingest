@@ -42,7 +42,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 468
+        "inventory": 466
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -50,7 +50,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 284
+        "inventory": 271
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -58,7 +58,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1074
+        "inventory": 1072
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -303,7 +303,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 491
+        "inventory": 490
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -422,7 +422,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 253
+        "inventory": 192
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -512,7 +512,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 906
+        "inventory": 902
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -520,7 +520,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 93
+        "inventory": 92
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -602,7 +602,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 37
+        "inventory": 35
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -610,7 +610,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 23
+        "inventory": 21
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -788,7 +788,7 @@
         "currency": "INR",
         "validFrom": "2024-08-27 14:28:48",
         "availability": "INSTOCK",
-        "inventory": 44
+        "inventory": 43
       }
     ],
     "performers": [],
@@ -890,7 +890,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 387
+        "inventory": 376
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -898,7 +898,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 234
+        "inventory": 232
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -910,19 +910,11 @@
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
-        "price": 39999,
-        "currency": "INR",
-        "validFrom": "2024-08-01 09:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 1
-      },
-      {
-        "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
         "price": 59999,
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 5
+        "inventory": 4
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -955,6 +947,14 @@
         "validFrom": "2024-08-01 09:00:00",
         "availability": "SOLDOUT",
         "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
+        "price": 39999,
+        "currency": "INR",
+        "validFrom": "2024-08-01 09:00:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -966,72 +966,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115"
-  },
-  {
-    "name": "Juss Live India Tour",
-    "description": "Get ready to be swept off your feet by the rising star, Juss! He's bringing his electrifying live show to Bangalore on 31st August. Witness his powerful vocals and captivating stage presence as he performs chart-toppers like \"SUNIYAN SUNIYAN' and SAFAR'. This is your chance to experience the future of Punjabi music live - don't miss out!",
-    "startDate": "2024-08-31 20:00:00",
-    "endDate": "2024-09-01 00:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, Bengaluru",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Juss Live India Tour Music and Best seller event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Juss Live India Tour Bengaluru on Zomato which is a Music and Best seller event happening at Ground Floor 1st Main Road 23, Ganapathi Temple Rd, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4aab13ad164e50393b01eb9b61bfa96a1723453877.png",
-      "https://b.zmtcdn.com/data/zomaland/19701d8306417e213edf50679b1ddeb71724738222.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-08-12 16:05:17",
-        "availability": "INSTOCK",
-        "inventory": 25
-      },
-      {
-        "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-08-12 16:05:00",
-        "availability": "INSTOCK",
-        "inventory": 97
-      },
-      {
-        "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264/details",
-        "price": 2999,
-        "currency": "INR",
-        "validFrom": "2024-08-27 22:00:00",
-        "availability": "INSTOCK",
-        "inventory": 7
-      },
-      {
-        "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-08-12 16:05:00",
-        "availability": "INSTOCK",
-        "inventory": 45
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/juss-live-india-tour-bengaluru-et48264"
   },
   {
     "name": "Sajanka live at Sunburn Union",
@@ -1073,63 +1007,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/sajanka-live-at-sunburn-union-bengaluru-et48600"
-  },
-  {
-    "name": "Pou Live",
-    "description": "Prepare yourself for a club night like no other! Experience the ultimate techno party with the renowned international DJ *POU, with dynamic support from **Musico* and *Anshul Nashine*.\n\nWhy You Can't Miss This Event:\n\n- World-Class Music: Internationally acclaimed beats by DJ POU will keep you dancing all night long.\n\n- Vibrant Atmosphere: Club Zozo's top-tier sound and lighting will amplify your experience.\n\n- Unmatched Energy: The synergy of Musico and Anshul Nashine will elevate the night to new heights.",
-    "startDate": "2024-08-31 20:00:00",
-    "endDate": "2024-09-01 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "33/3-A-1, D Rajgopala Road Sanjaynagar, 19, Geddalahalii, Kasaba Hobali",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Pou Live Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Pou Live Bengaluru on Zomato which is a Music event happening at 33/3-A-1, D Rajgopala Road Sanjaynagar, 19, Geddalahalii, Kasaba Hobali",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/87a2dc348739387ae50a39a5e89f94321723636743.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/pou-live-bengaluru-et48621/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-14 18:00:00",
-        "availability": "INSTOCK",
-        "inventory": 57
-      },
-      {
-        "url": "https://www.zomato.com/events/pou-live-bengaluru-et48621/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-14 18:00:00",
-        "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/pou-live-bengaluru-et48621/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-14 18:00:00",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/pou-live-bengaluru-et48621"
   },
   {
     "name": "Chikmagalur Weekend Getaway",
@@ -1502,7 +1379,7 @@
         "currency": "INR",
         "validFrom": "2024-08-16 22:15:00",
         "availability": "INSTOCK",
-        "inventory": 88
+        "inventory": 77
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et48781/details",
@@ -1522,79 +1399,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et48781"
-  },
-  {
-    "name": "SoMAD Mehfil Ft. Dj Czetan at Badmaash UB",
-    "description": "SoMAD Mehfil [ \u092e\u0939\u092b\u093c\u093f\u0932 - \u0645\u062d\u0641\u0644 ] Party is not just an event but a cherished experience where art, culture, and community converge & create Lasting Memories. Come celebrate The Essence of our South Asian Tradition at Badmaash UB City | Bengaluru\n\nDress Code: Ethnic or Indian Party Wear or Indo-Western!\n\nOur Ethnic Wear Party isn't just an event; it's a celebration of unity in diversity, a tribute to the beauty of traditions that bind us together as a global community. It's an opportunity to learn, appreciate, and cherish the threads that connect us across cultures, leaving us with memories as colorful and vibrant as the garments we wear.\n\nJoin us as we honor the past, celebrate the present, and embrace the future \u2014 one thread at a time.\n\nRSVP NOW!\n\nSUPER LIMITED CAPACITY EVENT",
-    "startDate": "2024-08-31 20:30:00",
-    "endDate": "2024-09-01 00:45:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "UB City, 203, 2nd Floor, The Collection, 24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "SoMAD Mehfil Ft. Dj Czetan at Badmaash UB Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SoMAD Mehfil Ft. Dj Czetan at Badmaash UB Bengaluru on Zomato which is a Music event happening at UB City, 203, 2nd Floor, The Collection, 24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/8342cb15563a9c7aff8cd0f4c55f14131724130056.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-20 10:37:00",
-        "availability": "INSTOCK",
-        "inventory": 254
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-20 10:37:00",
-        "availability": "INSTOCK",
-        "inventory": 373
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-20 10:37:00",
-        "availability": "INSTOCK",
-        "inventory": 495
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
-        "price": 1725,
-        "currency": "INR",
-        "validFrom": "2024-08-20 10:37:00",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946/details",
-        "price": 2875,
-        "currency": "INR",
-        "validFrom": "2024-08-20 10:37:00",
-        "availability": "INSTOCK",
-        "inventory": 499
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/somad-mehfil-ft-dj-czetan-at-badmaash-ub-bengaluru-et48946"
   },
   {
     "name": "Feeding India Concert with Dua Lipa",
@@ -2513,7 +2317,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 14:52:05",
         "availability": "INSTOCK",
-        "inventory": 85
+        "inventory": 77
       },
       {
         "url": "https://www.zomato.com/events/centigrade-x-pumproom-ft-rezident-bengaluru-et49733/details",
@@ -2521,7 +2325,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 14:52:05",
         "availability": "INSTOCK",
-        "inventory": 93
+        "inventory": 87
       },
       {
         "url": "https://www.zomato.com/events/centigrade-x-pumproom-ft-rezident-bengaluru-et49733/details",
@@ -2529,7 +2333,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 14:52:06",
         "availability": "INSTOCK",
-        "inventory": 52
+        "inventory": 35
       }
     ],
     "performers": [],
@@ -2753,161 +2557,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962"
-  },
-  {
-    "name": "Cirque",
-    "description": "Step into the magical world of Cirque, where the night comes alive with dazzling performances, a vibrant night market, and an atmosphere that spins with enchantment, all set against the backdrop of a whimsical decor that elevates the experience to something truly extraordinary.\n\nJoin MyPartyMob on August 31st, Saturday, for a night that circles around wonder and excitement.\n\n\uf8ff\u00fc\u00ed\u00c9 Dance to electrifying beats by DJ Prithvi and Raghu Achar.\n\u201a\u00f6\u00b0\u00d4\u220f\u00e8 Be mesmerized by LED performers who light up the night.\n\uf8ff\u00fc\u00e9\u2122 Explore the lively flea market filled with unique finds.\n\nFrom 8 PM onwards, every moment is a celebration of art, music, and imagination. Don\u201a\u00c4\u00f4t miss your chance to experience a night where the circle of magic never ends!\nGet your tickets now and be part of the enchantment!",
-    "startDate": "2024-08-31 20:00:00",
-    "endDate": "2024-09-01 00:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Cirque Music and Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Cirque Bengaluru on Zomato which is a Music and Party event happening at 7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2b6bb41cc3a855ff90574884b1cf01e41724828426.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/cirque-bengaluru-et49972/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-28 12:38:12",
-        "availability": "INSTOCK",
-        "inventory": 99
-      },
-      {
-        "url": "https://www.zomato.com/events/cirque-bengaluru-et49972/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-28 12:38:12",
-        "availability": "INSTOCK",
-        "inventory": 86
-      },
-      {
-        "url": "https://www.zomato.com/events/cirque-bengaluru-et49972/details",
-        "price": 1900,
-        "currency": "INR",
-        "validFrom": "2024-08-28 12:38:13",
-        "availability": "INSTOCK",
-        "inventory": 23
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/cirque-bengaluru-et49972"
-  },
-  {
-    "name": "Danika",
-    "description": "Mark your calendars for August 31st! DJ Danika is bringing her captivating live violin performance to High Ultra Lounge! Don't miss this unforgettable night! ",
-    "startDate": "2024-08-31 20:00:00",
-    "endDate": "2024-09-01 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Danika Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Danika Bengaluru on Zomato which is a Music event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b2e175363c57b323d06575ee0d115f921724918022.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/danika-bengaluru-et50142/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-29 13:30:05",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/danika-bengaluru-et50142/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-29 13:31:02",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/danika-bengaluru-et50142/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-29 13:31:03",
-        "availability": "INSTOCK",
-        "inventory": 189
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/danika-bengaluru-et50142"
-  },
-  {
-    "name": "Caged",
-    "description": "Caged is back at Indiranagar Social for yet another intimate party with some eclectic set of musicians at Indiranagar Social on 31 Aug 2024\n\nLine up:\n\nCHAZ\nVEDIK\nGACHO LIBRE\nBISWA",
-    "startDate": "2024-08-31 20:00:00",
-    "endDate": "2024-09-01 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Sarjapur - Marathahalli Rd, Saket Callipolis, Rainbow Drive, Doddakannelli, Bengaluru, Karnataka 560035",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Caged Trending and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Caged Bengaluru on Zomato which is a Trending and Music event happening at Sarjapur - Marathahalli Rd, Saket Callipolis, Rainbow Drive, Doddakannelli, Bengaluru, Karnataka 560035",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4016fa305e6dbf45dec1ad877891c0321724926225.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/caged-bengaluru-et50157/details",
-        "price": 199,
-        "currency": "INR",
-        "validFrom": "2024-08-29 15:47:46",
-        "availability": "INSTOCK",
-        "inventory": 200
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/caged-bengaluru-et50157"
   },
   {
     "name": "Sunny Tunes",
