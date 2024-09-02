@@ -1,122 +1,180 @@
 [
   {
-    "name": "Freewheelin' Meet-up",
-    "location": "Indiranagar",
-    "options": [
-      {
-        "Freewheelin'": "\u20b91.00"
-      },
-      {
-        "Rental Bike": "\u20b9300.00"
+    "name": "Ridge Trail",
+    "location": "Gunjur & Chikka Tirupathi",
+    "priceCurrency": "INR",
+    "offers": {
+      "L1 - Beginner - 25 km (with b'fast)": "2,050.00",
+      "L2 - Moderate - 45 km (with b'fast)": "2,250.00",
+      "Transport my bicycle": "300.00",
+      "addOn": {
+        "Rental Bike (with transport)": "800.00"
       }
-    ],
+    },
     "dates": [
       {
-        "eventDate": "2024-08-28T00:00:00+05:30",
-        "bookingBeginDate": "2024-08-28T14:15:00+05:30"
+        "startdate": "2024-09-01T00:00:00+05:30",
+        "endDate": "2024-09-01T05:00:00+05:30",
+        "availabilityStarts": "2024-09-01T01:00:00+05:30"
       },
       {
-        "eventDate": "2024-09-08T00:00:00+05:30",
-        "bookingBeginDate": "2024-09-08T01:30:00+05:30"
+        "startdate": "2024-09-01T00:00:00+05:30",
+        "endDate": "2024-09-01T05:00:00+05:30",
+        "availabilityStarts": "2024-09-01T01:00:00+05:30"
       }
     ],
-    "duration": "2 hours",
-    "metrics": [
+    "duration": 5,
+    "description": [
+      "Enjoy the freedom of being in the outdoors, away from the noise and traffic of the city. Take a ride on the Ridge Trail through the villages and farmlands off Chikka Tirupati road near Gunjur. As the name suggests, this easy route of 25km on mostly flat terrain, will take you over several lake bunds and ridges, offering scenic views of the countryside. This ride is ideal for beginners and those looking to get back in the saddle after a long break. Also, if you're new to our weekend rides, this ride is exactly what you need!",
+      {
+        "DISTANCE": "25-40KM",
+        "MIN. GROUP SIZE": "10",
+        "ELEVATION GAIN": "150-250M"
+      }
+    ]
+  },
+  {
+    "name": "Freewheelin' Meet-up",
+    "location": "Indiranagar",
+    "priceCurrency": "INR",
+    "offers": {
+      "Freewheelin'": "1.00",
+      "Rental Bike": "300.00",
+      "addOn": {}
+    },
+    "dates": [
+      {
+        "startdate": "2024-09-08T00:00:00+05:30",
+        "endDate": "2024-09-08T02:00:00+05:30",
+        "availabilityStarts": "2024-09-08T01:30:00+05:30"
+      }
+    ],
+    "duration": 2,
+    "description": [
+      "Join this bicycle ride to meet the community and explore the city with them! Enjoy Bengaluru's sights, sounds, tastes and aromas, without the din and pollution of its traffic. Wind down your ride with some fun conversations and savour the delicacies of your favourite (or to be favourite) eateries. \nSunday - 8th Sep'24Starting time: 7:30 am @ Pedal in TandemRide distance approx. 20kms and head over to Brik Oven, Indiranagar, for breakfast\nWHAT TO BRING:- Bicycle and helmet. Rentals are available at Pedal in Tandem.",
       {
         "DISTANCE": "15KM"
       }
-    ],
-    "description": "Join this bicycle ride to meet the community and explore the city with them! Enjoy Bengaluru's sights, sounds, tastes and aromas, without the din and pollution of its traffic. Wind down your ride with some fun conversations and savour the delicacies of your favourite (or to be favourite) eateries. Next Date:\u00a0 Wednesday -28th Aug'24Starting time: 7:45 pm @ Pedal in TandemWe'll be stopping over at some interesting eateries in Indiranagar. We usually do a mix of restaurants, street food joints or dessert places. Bikes are available for rent as add-on -----------------------------------------------------------------------------------------------------------------------------------------------------------------Sunday - 8th Sep'24Starting time: 7:30 am @ Pedal in TandemRide distance approx. 20kms and head over to Brik Oven, Indiranagar, for breakfast-----------------------------------------------------------------------------------------------------------------------------------------------------------------WHAT TO BRING:- Bicycle and helmet. Rentals are available at Pedal in Tandem."
-  },
-  {
-    "name": "Workshop - Roadside fixes & Home maintenance",
-    "location": "Pedal in Tandem",
-    "options": [
-      {
-        "Workshop": "\u20b9500.00"
-      }
-    ],
-    "dates": [
-      {
-        "eventDate": "2024-08-31T00:00:00+05:30",
-        "bookingBeginDate": "2024-08-31T05:30:00+05:30"
-      }
-    ],
-    "duration": "2 hours, 11 am to 1 pm",
-    "metrics": [],
-    "description": "If you've ever been stranded on the road with a breakdown, you'll know the importance of bike maintenance. Even if you're new to cycling, this is essential know-how that will only make your journey into the world of bicycles even more fascinating. So come on over to our workshop and leave with some essential skills. You bring your own bike and we'll provide the tools. If you don't have a bike, just show up and we'll get you some hands-on on one of our bikes.\u00a0\n"
-  },
-  {
-    "name": "Ridge Trail",
-    "location": "Gunjur & Chikka Tirupathi",
-    "options": [
-      {
-        "L1 - Beginner - 25 km (with b'fast)": "\u20b92,050.00"
-      },
-      {
-        "L2 - Moderate - 45 km (with b'fast)": "\u20b92,250.00"
-      },
-      {
-        "Rental Bike (with transport)": "\u20b9800.00"
-      },
-      {
-        "Transport my bicycle": "\u20b9300.00"
-      }
-    ],
-    "dates": [
-      {
-        "eventDate": "2024-09-01T00:00:00+05:30",
-        "bookingBeginDate": "2024-09-01T01:00:00+05:30"
-      }
-    ],
-    "duration": "3-5 hours",
-    "metrics": [
-      {
-        "DISTANCE": "25-40KM"
-      },
-      {
-        "MIN. GROUP SIZE": "10"
-      },
-      {
-        "ELEVATION GAIN": "150-250M"
-      }
-    ],
-    "description": "Enjoy the freedom of being in the outdoors, away from the noise and traffic of the city. Take a ride on the Ridge Trail through the villages and farmlands off Chikka Tirupati road near Gunjur. As the name suggests, this easy route of 25km on mostly flat terrain, will take you over several lake bunds and ridges, offering scenic views of the countryside. This ride is ideal for beginners and those looking to get back in the saddle after a long break. Also, if you're new to our weekend rides, this ride is exactly what you need!"
+    ]
   },
   {
     "name": "The Games We Play - Badminton",
     "location": "A PITStop meet-up",
-    "options": [
-      {
-        "Badminton meet-up": "\u20b9250.00"
-      }
-    ],
+    "priceCurrency": "INR",
+    "offers": {
+      "Badminton meet-up": "250.00",
+      "addOn": {}
+    },
     "dates": [
       {
-        "eventDate": "2024-09-11T00:00:00+05:30",
-        "bookingBeginDate": "2024-09-11T13:30:00+05:30"
+        "startdate": "2024-09-11T00:00:00+05:30",
+        "endDate": "2024-09-11T00:00:00+05:30",
+        "availabilityStarts": "2024-09-11T13:30:00+05:30"
       }
     ],
-    "duration": "",
-    "metrics": [],
-    "description": "Relive the joys of childhood games, and remember what it's like to not to take things too seriously, and just embrace the playful, spontaneous and carefree aspects of life. This one involves a few rounds of badminton while you get to meet and bond with members of the community.\u00a0Location: Game Theory at Caurvery School, Indiranagar - Time: 7 to 9 pm\u00a0If you don't have badminton shoes or rackets, you can rent them at the venue, from Game Theory."
+    "duration": 0,
+    "description": [
+      "Relive the joys of childhood games, and remember what it's like to not to take things too seriously, and just embrace the playful, spontaneous and carefree aspects of life. This one involves a few rounds of badminton while you get to meet and bond with members of the community.\nLocation: Game Theory at Caurvery School, Indiranagar - Time: 7 to 9 pm\nIf you don't have badminton shoes or rackets, you can rent them at the venue, from Game Theory.",
+      {}
+    ]
   },
   {
     "name": "Cycle School",
     "location": "Indiranagar, Bangalore",
-    "options": [
-      {
-        "CycleSchool": "\u20b91,000.00"
-      }
-    ],
+    "priceCurrency": "INR",
+    "offers": {
+      "CycleSchool": "1,000.00",
+      "addOn": {}
+    },
     "dates": [
       {
-        "eventDate": "2024-09-14T00:00:00+05:30",
-        "bookingBeginDate": "2024-09-14T02:30:00+05:30"
+        "startdate": "2024-09-14T00:00:00+05:30",
+        "endDate": "2024-09-14T02:00:00+05:30",
+        "availabilityStarts": "2024-09-14T02:30:00+05:30"
       }
     ],
-    "duration": "2 hours, 8-10am",
-    "metrics": [],
-    "description": "Cycle School is back!\u00a0If you are an adult and have been wanting to learn to ride a bicycle, then these sessions are perfect for you. We will have bicycles (with helmets) and trained instructors who will make this learning easy, and a whole lot of fun too. Cycling is a life-skill that everyone should possess, and our mission through these sessions is to ensure that you learn and practice it in a safe environment, until you have the confidence to pedal out on your own."
+    "duration": 2,
+    "description": [
+      "Cycle School is back!\nIf you are an adult and have been wanting to learn to ride a bicycle, then these sessions are perfect for you. We will have bicycles (with helmets) and trained instructors who will make this learning easy, and a whole lot of fun too. Cycling is a life-skill that everyone should possess, and our mission through these sessions is to ensure that you learn and practice it in a safe environment, until you have the confidence to pedal out on your own.",
+      {}
+    ]
+  },
+  {
+    "name": "Arkavathi Blues",
+    "location": "Cycling in the Arkavathi river basin",
+    "priceCurrency": "INR",
+    "offers": {
+      "L2 Ride (with b'fast and lunch)": "3,250.00",
+      "Transport my bicycle": "400.00",
+      "addOn": {
+        "Rental Bike (with transport)": "900.00"
+      }
+    },
+    "dates": [
+      {
+        "startdate": "2024-09-22T00:00:00+05:30",
+        "endDate": "2024-09-22T07:00:00+05:30",
+        "availabilityStarts": "2024-09-22T00:30:00+05:30"
+      }
+    ],
+    "duration": 7,
+    "description": [
+      "The Arkavati is an important river in Karnataka, originating at Nandi Hills, north of Bangalore in the Chikkabalapur District, and flowing down south through Ramanagara and Kanakapura. It then joins the Kaveri river further south, at Sangama. It forms several waterfalls on its journey, some small, and some large like the Chunchi falls. The region around the southern leg of this river is forested, and either adjoins or is part of one these protected areas - Nandi State Forest, Bannerghatta National Park, Basavanabetta State Forest amd Cauvery Wildlife Sanctuary. Our routes skirt around these forests and pass through the many agricultural villages nestled between forest land. The Arkavathi and it's many shades of blue will be in view during several sections of the ride. This is a meticulously crafted adventure cycling tour that combines these elements perfectly - the scenic countryside route, a picnic breakfast, a buffet lunch after the ride, all the support you need during the ride, and a fun group of riders to keep you company from the incredible Pedal in Tandem community!",
+      {
+        "DISTANCE": "40-70KM",
+        "MIN. GROUP SIZE": "10",
+        "% UNPAVED": "10%"
+      }
+    ]
+  },
+  {
+    "name": "Tree walk",
+    "location": "Indiranagar, Bangalore",
+    "priceCurrency": "INR",
+    "offers": {
+      "TreeWalk": "1,000.00",
+      "addOn": {}
+    },
+    "dates": [
+      {
+        "startdate": "2024-08-22T00:00:00+05:30",
+        "endDate": "2024-08-22T02:00:00+05:30",
+        "availabilityStarts": "2024-09-22T02:30:00+05:30"
+      }
+    ],
+    "duration": 2,
+    "description": [
+      "We often associate nature with travel, with forests and hill-stations and far-off places. But what if you could connect to nature here in the city?\n Join us for a relaxed walk through the shaded streets of Indiranagar.\n We'll look up at tree canopies, peer closely at barks and roots, listen to interesting anecdotes \n and maybe rekindle our own memories of nature. All you need to bring is a cap, a water bottle and a curious mind.Distance: 1.5 to 2kmVenue: Defence Colony, IndiranagarTime: 8:00-10:00 amThis walk is facilitated by Suchi Govindarajan. Suchi is a writer, poet and photographer. She is the author of three wildlife-themed books for children. A Certified Nature Guide from The Naturalist School, Suchi believes that connecting to nature can make our lives more meaningful.",
+      {}
+    ]
+  },
+  {
+    "name": "Hennur Countryside",
+    "location": "Hennur",
+    "priceCurrency": "INR",
+    "offers": {
+      "L1 - Beginner - 25 km (with b'fast)": "2,050.00",
+      "Transport my bicycle": "300.00",
+      "addOn": {
+        "Bicycle rental + transport": "800.00"
+      }
+    },
+    "dates": [
+      {
+        "startdate": "2024-09-29T00:00:00+05:30",
+        "endDate": "2024-09-29T03:00:00+05:30",
+        "availabilityStarts": "2024-09-29T01:00:00+05:30"
+      }
+    ],
+    "duration": 3,
+    "description": [
+      "Join us on this ride to explore the pretty countryside in Hennur. Our route will take you through some of the most scenic parts of the region. From the meeting point, we'll head straight into a charming and rustic country road that'll give you a glimpse of local life as you cycle past small villages, farms, and fields. The route then goes beside the Hennur Bamboo forest, which is a beautiful stretch that offers a refreshing view of bamboo groves all around. \n\n",
+      {
+        "DISTANCE": "25KM",
+        "MIN. GROUP SIZE": "10",
+        "ELEVATION GAIN": "200 - 350M",
+        "% UNPAVED": "10%"
+      }
+    ]
   }
 ]
