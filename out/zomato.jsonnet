@@ -2005,7 +2005,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 16:59:31",
         "availability": "INSTOCK",
-        "inventory": 82
+        "inventory": 73
       }
     ],
     "performers": [],
@@ -2087,7 +2087,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 17:23:18",
         "availability": "INSTOCK",
-        "inventory": 83
+        "inventory": 81
       }
     ],
     "performers": [],
@@ -2128,7 +2128,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 17:41:36",
         "availability": "INSTOCK",
-        "inventory": 85
+        "inventory": 83
       }
     ],
     "performers": [],
@@ -2160,7 +2160,7 @@
     "ogTitle": "Kingfisher OctoBeer Fest Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Kingfisher OctoBeer Fest Bengaluru on Zomato which is a Experiences event happening at 1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru, Karnataka 560046",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/07172b7052c69846b6877b2b5ce68e511724995744.png"
+      "https://b.zmtcdn.com/data/zomaland/816d01ed1309bb8696008a8d9c73429e1725274790.png"
     ],
     "tickets": [
       {
@@ -2234,7 +2234,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 11:04:46",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       }
     ],
     "performers": [],
@@ -2381,7 +2381,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 11:23:18",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       }
     ],
     "performers": [],
@@ -2422,7 +2422,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 11:25:53",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 56
       }
     ],
     "performers": [],
@@ -2463,7 +2463,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 11:31:41",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       }
     ],
     "performers": [],
@@ -2602,7 +2602,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 12:30:46",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 29
       }
     ],
     "performers": [],
@@ -2903,7 +2903,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:24:00",
         "availability": "INSTOCK",
-        "inventory": 201
+        "inventory": 186
       }
     ],
     "performers": [],
