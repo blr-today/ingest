@@ -78,6 +78,33 @@ def make_event(event):
 	duration = event.select_one('div.duration').get_text().strip()
 	duration_in_hours = convert_duration_in_hours(duration)
 
+	# Find the starting time
+	if ',' in duration:
+		# If there is comma then the duration contains start time and end time
+		timing = duration.split(',')[1].lower()
+
+		# Check if time has pm time. Extra is used to convert the time two 24 hour format
+		if 'pm' in timing:
+			extra = 12
+		else:
+			extra = 0
+
+		if 'to' in timing:
+			start_time = timing.split('to')[0].strip().lower()
+		else:
+			start_time = timing.split('-')[0].strip().lower()
+
+	elif event.select_one('div.text-box div.trix-content li') != None:
+		meet_data = event.select_one('div.text-box div.trix-content li').get_text().lower()
+		if 'meet at' in meet_data:
+			start_time = meet_data.split('by')[1].strip()
+		elif 'meeting time' in meet_data:
+			start_time = re.search(r':(.*?),?', meet_data).group(0).lstrip(':').strip().lower()
+	else:
+		meet_data = event.select_one('div.description div.description-style div.trix-content div').get_text().strip().lower()
+		start_time = re.search(r'')
+
+
 	dates = []
 	date_opts = offers_selector.select('div.product-variations-variety select[name="variety_id"] option')
 	for date_opt in date_opts:
@@ -110,6 +137,31 @@ def make_event(event):
 		metrics
 		]
 	}
+
+def convert_to_24_hour(start_time):
+    # Extract the numeric part of the time
+    time_match = re.search(r'[0-9]+(:[0-9]+)?', start_time)
+    
+    if time_match:
+        time_str = time_match.group(0)
+        # Split hours and minutes
+        if ':' in time_str:
+            hours, minutes = map(int, time_str.split(':'))
+        else:
+            hours = int(time_str)
+            minutes = 0
+
+        # Check for 'am' or 'pm' and adjust hours accordingly
+        if 'am' in start_time.lower():
+            if hours == 12:  # Special case for 12 am
+                hours = 0
+        elif 'pm' in start_time.lower():
+            if hours != 12:  # Special case for 12 pm
+                hours += 12
+
+        # Convert time to decimal format
+        total_hours = hours + minutes / 60.0
+        return total_hours
 
 def convert_duration_in_hours(duration):
 	duration_range = duration.split(',')[0]
