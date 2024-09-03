@@ -2613,7 +2613,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 75
+               "value": 69
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T14:04:36+05:30"
@@ -2627,7 +2627,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 75,
+      "remainingAttendeeCapacity": 69,
       "startDate": "2024-09-05T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50521"
    },
@@ -2655,7 +2655,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 75
+               "value": 63
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T14:04:37+05:30"
@@ -2669,51 +2669,9 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 75,
+      "remainingAttendeeCapacity": 63,
       "startDate": "2024-09-06T20:30:00+05:30",
       "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50522"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-      "endDate": "2024-09-12T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/423b8366eec77af78e8d207c6814cac81725263664.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "India",
-            "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Karaoke Nights",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 75
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-02T14:04:37+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 75,
-      "startDate": "2024-09-12T20:30:00+05:30",
-      "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50526"
    },
    {
       "@context": "https://schema.org",
@@ -2739,7 +2697,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 30
+               "value": 28
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T14:04:38+05:30"
@@ -2957,7 +2915,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 200
+               "value": 199
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T15:22:57+05:30"
@@ -3007,7 +2965,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 200
+               "value": 199
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T15:22:58+05:30"
@@ -3016,7 +2974,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 200
+               "value": 198
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T15:22:58+05:30"
@@ -3057,16 +3015,16 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 98
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-09-02T15:22:58+05:30"
+            "validFrom": "2024-09-02T15:22:00+05:30"
          },
          {
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 99
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T15:22:59+05:30"
@@ -3078,7 +3036,7 @@
                "value": 100
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-09-02T15:22:59+05:30"
+            "validFrom": "2024-09-02T15:22:00+05:30"
          }
       ],
       "organizer": [
@@ -4403,5 +4361,55 @@
       "performers": [ ],
       "startDate": "2024-09-29T20:00:00+05:30",
       "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50760"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready for an unforgettable night on 21st September 2024 at Two Moons and Juliet, Bangalore! The legendary Rahill Mehta is taking over the decks for a massive event that will leave you breathless. With his electrifying beats and unmatched energy, Rahill is set to create an atmosphere like never before.\n\nThis isn't just a party—it's an experience. Two Moons and Juliet will be transformed into a dazzling spectacle of sound and light. Tickets are selling fast, so don’t miss your chance to be part of the most talked-about event of the year!",
+      "endDate": "2024-09-22T01:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/8f08e45bc12dfa8c24d2b05fbc3c1a091725364359.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "streetAddress": "1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd, Someshwarpura, Halasuru"
+         },
+         "name": "Bengaluru"
+      },
+      "name": "Rahil Mehta",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 25
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-03T17:38:42+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 25
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-03T17:38:43+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-09-21T19:00:00+05:30",
+      "url": "https://www.zomato.com/events/rahil-mehta-bengaluru-et50840"
    }
 ]
