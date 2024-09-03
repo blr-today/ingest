@@ -138,6 +138,9 @@ out/sis.json:
 out/bcc.json:
 	wget -q "https://bangalorechessclub.in/api/upcoming.json" -O $@ || $(call restore-file,$@)
 
+out/pumarun.txt:
+	python src/eventbrite.py pumarun | sort > $@ || $(call restore-file,$@)
+
 fetch: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
@@ -170,7 +173,8 @@ fetch: out/allevents.txt \
  out/te.json \
  out/underline.json \
  out/sis.json \
- out/bcc.json
+ out/bcc.json \
+ out/pumarun.txt
 
 	@echo "Done"
 
