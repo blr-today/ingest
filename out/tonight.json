@@ -75,6 +75,43 @@
   },
   {
     "@type": "MusicEvent",
+    "name": "Shut Up and Dance at Sunburn Union",
+    "about": "Get ready to groove at Sunburn Union on September 6th at 7:30 PM. Join us for a night filled with high-energy beats and an electric atmosphere that will have you dancing all night long. Don't miss out on creating unforgettable memories with us!",
+    "url": "https://insider.in/event/shut-up-and-dance-at-sunburn-union-sep6-2024/buy-page",
+    "startDate": "2024-09-06T19:30:00+05:30",
+    "endDate": "2024-09-07T00:45:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2F8dQdbCZSpNBel4hZoDGp%2FbannerImages%2FEjdS9fsqpdO8mnTAUFiy-Shut-up-and-dance-at-Sunburn-Union.png?alt=media&token=d674f5ef-b65a-4047-8f1e-039a030dbd2e",
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Various Artists"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Sunburn Union",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Passport office, Mantri Avenue, KHB Games Village, Koramangala",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9451786760031",
+        "longitude": "77.62013704583424"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sunburn Union - Skydance Hospitality"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://insider.in/event/shut-up-and-dance-at-sunburn-union-sep6-2024/buy-page"
+    }
+  },
+  {
+    "@type": "MusicEvent",
     "name": "Technosphere 2.0",
     "about": "Experience the biggest pop-up club night in India, back in Mumbai! Dance the night away in a vibrant hub where music dreams come true, with mesmerizing lights and beats. Get ready for a never-before-seen techno night featuring top underground artists.",
     "url": "https://in.bookmyshow.com/events/technosphere-2-0/ET00405309",
@@ -214,7 +251,7 @@
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Skydance Hospitality Llp (Sunburn Union)"
+      "name": "Sunburn Union - Skydance Hospitality"
     },
     "offers": {
       "@type": "Offer",
@@ -511,7 +548,7 @@
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Nk Production"
+      "name": "Redroom"
     },
     "offers": {
       "@type": "Offer",
@@ -623,7 +660,7 @@
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Skydance Hospitality Llp (Sunburn Union)"
+      "name": "Sunburn Union - Skydance Hospitality"
     },
     "offers": {
       "@type": "Offer",
@@ -697,7 +734,7 @@
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Skydance Hospitality Llp (Non-excluisve)"
+      "name": "Sunburn Union - Skydance Hospitality"
     },
     "offers": {
       "@type": "Offer",
