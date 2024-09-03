@@ -90,6 +90,7 @@ URL_FILES = [
     "out/creativemornings.txt",
     "out/together-buzz.txt",
     "out/koota.txt",
+    "out/pumarun.txt",
 ]
 
 IGNORED_EVENT_UIDS = [
