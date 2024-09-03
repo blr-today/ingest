@@ -1610,5 +1610,59 @@
       "Workshop",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Conscious Connected Breathwork by Ram",
+    "description": "Join us for a session of Conscious Breathwork, where we'll explore the powerful connection between our breath and our true essence. As Ram reminds us through the words in the image: \u201cWe are all already perfect at our core. There is nothing that needs to be fixed or changed\"  we\u2019ll reconnect with the perfection that already exists within each of us.What to expect from the workshop -Practice techniques that bring awareness to how we disconnect from our core selves.Use mindful breathing to release traumas, memories, and subtle energies that hold us back.Deepen your connection to your true essence.Experience the love, peace, joy, and bliss that are always within you.Cacao ceremony.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/90BD10EEFCE04207BEAF5DE373DDC689_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C1DA797DEDCF4E5BBAD7722A51C27A6A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CCE092028923458A856B729F0C17261F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1C545D9EAD14486FBA7E8044EFE7EF04_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FD88CC466185475BA20393C3D8DF1E36_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/94C392B912A743E282F6B98C9B5294F6_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0FBA42ED45FA4326895D5143712EB815_converted_webp.webp"
+    ],
+    "startDate": "2024-09-08T16:00:00+05:30",
+    "endDate": "2024-09-08T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/copy-of-conscious-connected-breathwork-by-ram",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
