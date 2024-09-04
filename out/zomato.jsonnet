@@ -1705,8 +1705,8 @@
   {
     "name": "Karaoke Nights",
     "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion for singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-09-04T20:30:00+05:30",
-    "endDate": "2024-09-04T23:00:00+05:30",
+    "startDate": "2024-09-04 20:30:00",
+    "endDate": "2024-09-04 23:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2336,7 +2336,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:36",
         "availability": "INSTOCK",
-        "inventory": 69
+        "inventory": 66
       }
     ],
     "performers": [],
@@ -2375,7 +2375,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:37",
         "availability": "INSTOCK",
-        "inventory": 63
+        "inventory": 59
       }
     ],
     "performers": [],
@@ -2577,7 +2577,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:20:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       },
       {
         "url": "https://www.zomato.com/events/bangalore-catapalooza-bengaluru-et50554/details",
@@ -2585,7 +2585,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:20:00",
         "availability": "INSTOCK",
-        "inventory": 35
+        "inventory": 34
       }
     ],
     "performers": [],
@@ -2691,7 +2691,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:58",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 198
       },
       {
         "url": "https://www.zomato.com/events/urbn-night-bengaluru-et50557/details",
@@ -2699,7 +2699,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:58",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 192
       }
     ],
     "performers": [],
@@ -2740,7 +2740,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:00",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 92
       },
       {
         "url": "https://www.zomato.com/events/vh1-supersonic-club-nights-bengaluru-et50558/details",
@@ -2756,7 +2756,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 92
       }
     ],
     "performers": [],
@@ -3763,63 +3763,6 @@
   {
     "name": "Salsa Dance",
     "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
-    "startDate": "2024-09-15T20:00:00+05:30",
-    "endDate": "2024-09-15T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/98a13be4119fb1df87ecbe8ff0c1f2ed1725340941.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50756/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:09",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50756/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:09",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50756/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:10",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50756"
-  },
-  {
-    "name": "Salsa Dance",
-    "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
     "startDate": "2024-09-21T20:00:00+05:30",
     "endDate": "2024-09-21T21:00:00+05:30",
     "timezone": "+05:30",
@@ -3989,112 +3932,6 @@
     "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759"
   },
   {
-    "name": "Salsa Dance",
-    "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
-    "startDate": "2024-09-29T20:00:00+05:30",
-    "endDate": "2024-09-29T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/98a13be4119fb1df87ecbe8ff0c1f2ed1725340941.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50760/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:13",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50760/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:14",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50760/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:14",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50760"
-  },
-  {
-    "name": "Rahil Mehta",
-    "description": "Get ready for an unforgettable night on 21st September 2024 at Two Moons and Juliet, Bangalore! The legendary Rahill Mehta is taking over the decks for a massive event that will leave you breathless. With his electrifying beats and unmatched energy, Rahill is set to create an atmosphere like never before.\n\nThis isn't just a party\u2014it's an experience. Two Moons and Juliet will be transformed into a dazzling spectacle of sound and light. Tickets are selling fast, so don\u2019t miss your chance to be part of the most talked-about event of the year!",
-    "startDate": "2024-09-21T19:00:00+05:30",
-    "endDate": "2024-09-22T01:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd, Someshwarpura, Halasuru",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Rahil Mehta Party and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rahil Mehta Bengaluru on Zomato which is a Party and Music event happening at 1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd, Someshwarpura, Halasuru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/8f08e45bc12dfa8c24d2b05fbc3c1a091725364359.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/rahil-mehta-bengaluru-et50840/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-09-03 17:38:42",
-        "availability": "INSTOCK",
-        "inventory": 25
-      },
-      {
-        "url": "https://www.zomato.com/events/rahil-mehta-bengaluru-et50840/details",
-        "price": 1000,
-        "currency": "INR",
-        "validFrom": "2024-09-03 17:38:43",
-        "availability": "INSTOCK",
-        "inventory": 25
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/rahil-mehta-bengaluru-et50840"
-  },
-  {
     "name": "Bootleg Fridays",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air. Starting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Adi, Laidback Levi & Zenshy and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-09-13T20:30:00+05:30",
@@ -4175,47 +4012,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50870"
-  },
-  {
-    "name": "Bootleg Fridays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air. Starting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Savio Mullen & Rahul Avdhani and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-09-27T20:30:00+05:30",
-    "endDate": "2024-09-27T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "ogTitle": "Bootleg Fridays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bootleg Fridays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/959fc949fe7c2c82ceec19327b5002241725376318.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50871/details",
-        "price": 1000,
-        "currency": "INR",
-        "validFrom": "2024-09-03 21:18:45",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50871"
   },
   {
     "name": "Bootleg Fridays",
@@ -4363,5 +4159,333 @@
       }
     ],
     "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023"
+  },
+  {
+    "name": "SCC SkyCinema - 50 First Dates",
+    "description": "\"I just want you to know, I would never do anything to hurt you intentionally. And I will always cherish you.\" - 50 First Dates\n\nRediscover the magic of love with an outdoor movie experience that stays with you .. Forever! Prepare for a heartwarming experience as Sunset Cinema Club presents the screening of this classic at Forum South Bengaluru Mall.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.\n",
+    "startDate": "2024-09-14T19:30:00+05:30",
+    "endDate": "2024-09-14T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/0da4d15f293424bbbb4f56f21ff819ab1725446652.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et51050/details",
+        "price": 500,
+        "currency": "INR",
+        "validFrom": "2024-09-04 19:00:16",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et51050/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-04 19:00:16",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et51050"
+  },
+  {
+    "name": "SCC SkyCinema - 15 Years of Love Aaj Kal",
+    "description": "\"\u201cJaane se pehle, ek aakhri baar milna kyun zaroori hota hai?\u201d - Love Aaj Kal\n\nRevisit the iconic love story of Jai and Meera as we celebrate the 15th Anniversary of \"Love Aaj Kal.\" Join us for a screening of this heartwarming film that explores the complexities of love, relationships, and the passage of time under the starry night sky.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.\n",
+    "startDate": "2024-09-21T19:30:00+05:30",
+    "endDate": "2024-09-21T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/a4875e3831dc258c442fcbc66ffccf2f1725446968.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-15-years-of-love-aaj-kal-bengaluru-et51056/details",
+        "price": 500,
+        "currency": "INR",
+        "validFrom": "2024-09-04 19:00:17",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-15-years-of-love-aaj-kal-bengaluru-et51056/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-04 19:00:17",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-skycinema-15-years-of-love-aaj-kal-bengaluru-et51056"
+  },
+  {
+    "name": "SCC Picnic Cinema - About Time",
+    "description": "\"I am going to live every day as if it's the last day of my life.\" - About Time\n\nPrepare for an extraordinary evening under the stars as Sunset Cinema Club invites you to the screening of this heartwarming and time-bending film. Join us for a cinematic journey that explores love, laughter, and the magic found in the most ordinary moments at Garden City Beer Collective (GCBC). \n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favourite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
+    "startDate": "2024-09-20T19:30:00+05:30",
+    "endDate": "2024-09-20T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Garden City Beer Collective (GCBC),82/2, Gantiganahalli",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/c28269023d38d3a5988a3d3c05efe8151725447103.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-picnic-cinema-about-time-bengaluru-et51057/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-04 19:00:12",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-picnic-cinema-about-time-bengaluru-et51057"
+  },
+  {
+    "name": "SCC Picnic Cinema - Zindagi Na Milegi Dobara",
+    "description": "\"Seize the day, my friend. Pehle is din ko poori tarah jiyo, phir chalis ke bare mein sochna.\" - Zindagi Na Milegi Dobara\n\nPrepare to embark on a cinematic adventure like never before as Sunset Cinema Club presents the screening of this classic at Garden City Beer Collective (GCBC). Get ready to indulge your senses and immerse yourself in the magic of the silver screen under the open sky.\n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favourite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
+    "startDate": "2024-09-27T19:30:00+05:30",
+    "endDate": "2024-09-27T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Garden City Beer Collective (GCBC),82/2, Gantiganahalli",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/8575d5fdc3fa6bcedf4381dd331031ba1725447211.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-picnic-cinema-zindagi-na-milegi-dobara-bengaluru-et51062/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-04 19:00:12",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-picnic-cinema-zindagi-na-milegi-dobara-bengaluru-et51062"
+  },
+  {
+    "name": "SCC SkyCinema - 25 Years of Notting Hill",
+    "description": "\"After all, I'm just a girl, standing in front of a boy, asking him to love her.\" \u2014Anna, Notting Hill\n\nIndulge in a timeless tale of love and laughter as we celebrate the 25th anniversary of \"\"Notting Hill.\"\" Join us for a heartwarming screening at 1 MG Lido. Experience the magic of Hugh Grant and Julia Roberts' unforgettable chemistry in a cozy and intimate setting.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the skyline of the city as your backdrop.",
+    "startDate": "2024-09-21T19:30:00+05:30",
+    "endDate": "2024-09-21T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/349362d8a5c6b49d9fde64c8c1463da31725447279.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-25-years-of-notting-hill-bengaluru-et51063/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-04 19:00:12",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-skycinema-25-years-of-notting-hill-bengaluru-et51063"
+  },
+  {
+    "name": "SCC SkyCinema - The Proposal",
+    "description": "\"Marry me. Because I'd like to date you.\" - The Proposal\n\nSunset Cinema Club invites you to immerse yourself in a heartwarming love story that will leave you smiling. Get ready for plenty of laughs and an unforgettable night of cinematic joy in Chapter 6.\n\nSit back and relax on comfy bean bags and bask in the romance and nostalgia as you enjoy your favorite classics or discover new hidden gems. \n\nMovies and food make a great combination, so drinks and snacks, at reasonable prices, will be flowing from the moment the gates open.  \n\nEnjoy a super chill vibe in the lovely outdoors, as the sun dissolves and the stars appear just in time for the film to begin!",
+    "startDate": "2024-09-20T19:30:00+05:30",
+    "endDate": "2024-09-20T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f7b3515510e510ae14f5b2d0b5af1a931725447593.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-the-proposal-bengaluru-et51077/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-04 19:00:13",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-skycinema-the-proposal-bengaluru-et51077"
+  },
+  {
+    "name": "SCC SkyCinema - Hum Tum",
+    "description": "\"\"\"Hum aur tum agar saath ho, phir mushqilain kaisi hain? Hum aur tum agar saath ho, phir mushqilain kaisi hain?\"\" -Hum Tum \n\nJoin us for an evening of love, laughter, and entertainment as we watch Saif Ali Khan and Rani Mukerji's sizzling chemistry on the big screen. Come and relive the magic of this timeless classic with us at Chapter 6 .\n\nSit back and relax on comfy bean bags and bask in the romance and nostalgia as you enjoy your favourite classics or discover new hidden gems. \n\nMovies and food make a great combination, so drinks and snacks, at reasonable prices, will be flowing from the moment the gates open.  \n\nEnjoy a super chill vibe in the lovely outdoors, as the sun dissolves and the stars appear just in time for the film to begin!",
+    "startDate": "2024-09-27T19:30:00+05:30",
+    "endDate": "2024-09-27T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/852791184b0f7ab94467a76707e322791725447695.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-hum-tum-bengaluru-et51078/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-04 19:00:14",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-skycinema-hum-tum-bengaluru-et51078"
+  },
+  {
+    "name": "SCC SkyCinema - Rockstar",
+    "description": "\"Sheher ek se gaon ek se, Log ek se, naam ek\u201d - Rockstar\n\nGet ready to be swept away by the soulful melodies as Sunset Cinema Club brings you an unforgettable screening of Rockstar at 1 MG - Lido Mall.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the skyline of the city as your backdrop.",
+    "startDate": "2024-09-28T19:30:00+05:30",
+    "endDate": "2024-09-28T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru, Karnataka 560008",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/a2c86e279e1ca629eeaccc8d4e0dc73f1725455792.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/movies-by-the-lake-yeh-jawaani-hai-deewani-bengaluru-et51115/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-04 19:00:13",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/movies-by-the-lake-yeh-jawaani-hai-deewani-bengaluru-et51115"
   }
 ]
