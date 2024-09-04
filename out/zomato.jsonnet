@@ -1932,47 +1932,6 @@
     "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273"
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion for singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-09-11T20:30:00+05:30",
-    "endDate": "2024-09-11T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/1e4ef7bde841d75f9d8fa3f16d71ac461724995880.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50274/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-30 11:04:46",
-        "availability": "INSTOCK",
-        "inventory": 99
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50274"
-  },
-  {
     "name": "Tribute to The Doors",
     "description": "Catch Sultan of Rocks paying tribute to The Doors at Hard Rock Cafe, Bengaluru.\n\u26a1\ufe0fJoin us for an evening full of great music, lip-smacking food & refreshing cocktails",
     "startDate": "2024-09-12T20:30:00+05:30",
@@ -2077,88 +2036,6 @@
       }
     ],
     "url": "https://www.zomato.com/events/tribute-to-coldplay-bengaluru-et50277"
-  },
-  {
-    "name": "Sunny Tunes",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Presentense and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
-    "startDate": "2024-09-15T13:00:00+05:30",
-    "endDate": "2024-09-15T16:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/5a5f0718fe4ffe8b8b0db5bd74024d071724996863.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50278/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-30 11:23:18",
-        "availability": "INSTOCK",
-        "inventory": 98
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50278"
-  },
-  {
-    "name": "Rock Out Sundays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-09-15T20:30:00+05:30",
-    "endDate": "2024-09-15T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": true,
-    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/e4d463959ab685fd91a617f82b9656c81724997279.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50280/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-30 11:25:53",
-        "availability": "INSTOCK",
-        "inventory": 49
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50280"
   },
   {
     "name": "Golden Era of Rock N Roll",
@@ -2396,6 +2273,42 @@
       }
     ],
     "url": "https://www.zomato.com/events/we-jam-bengaluru-et50316"
+  },
+  {
+    "name": "Dil-Luminati Tour - India",
+    "description": "For the first time ever, global music icon Diljit Dosanjh brings his blockbuster Dil-Luminati Tour to 10 cities across India! After smashing records with sold-out shows across North America, Australia, and New Zealand, he's ready to set India ablaze with his electrifying energy.\n\nWhat to expect:\n\n\u261e High-energy performances of fan favorites and chart-topping hits\n\n\u261e Stunning visuals and world-class sound production\n\n\u261e Unforgettable memories celebrating Desi music for all ages\n\nBrought to you by Saregama India and Ripple Effect Studios.\n\n\n**Gates open at 6 pm**",
+    "startDate": "2024-12-06T19:00:00+05:30",
+    "endDate": "2024-12-06T22:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "Bengaluru",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Dil-Luminati Tour - India Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Dil-Luminati Tour - India Bengaluru on Zomato which is a Trending event happening at Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f9084e8c00dc691b72db973177c196fd1725440593.png",
+      "https://b.zmtcdn.com/data/zomaland/1972f38023c561f25b5c96e0b99cad471725427265.png",
+      "https://b.zmtcdn.com/data/zomaland/598208eb93184b88270c8c55b97291811725427285.png",
+      "https://b.zmtcdn.com/data/zomaland/ab381f8144719e5c0b1d6fceb0520a141725427285.png",
+      "https://b.zmtcdn.com/data/zomaland/83a0d80361b99949eab041dcc0eaca211725446605.png"
+    ],
+    "tickets": [],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398"
   },
   {
     "name": "Karaoke Nights",
@@ -4344,5 +4257,111 @@
       }
     ],
     "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50872"
+  },
+  {
+    "name": "Young Blues Rock",
+    "description": "YOUNG BLUES ROCK is set to explode with HEADSHOT delivering a high-octane blues and rock riot! \u00f0\u0178\u017d\u00b8\u00f0\u0178\u201d\u00a5 Feel the energy and let the music take over!",
+    "startDate": "2024-09-07T19:00:00+05:30",
+    "endDate": "2024-09-07T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "Young Blues Rock Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Young Blues Rock Bengaluru on Zomato which is a Music event happening at 2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/70625bfcc978c590759ce50cbea88a8f1725439740.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/young-blues-rock-bengaluru-et51010/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-04 14:22:39",
+        "availability": "INSTOCK",
+        "inventory": 70
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/young-blues-rock-bengaluru-et51010"
+  },
+  {
+    "name": "AnyBody Can Dandiya 4.0 | White Feather",
+    "description": "Bangalore`s most popular & award-winning Durga Puja meets Bangalore`s most loved Dandiya celebration. ECCA & DesiClans come together to present you with an incredible socio-cultural dance fest in the form of `AnyBody Can Dandiya 4.0`.\n\nJust like our previous editions DesiClans brings the traditional Navratri experience on a grandeur and more luxurious scale. The best practices from the land of Dandiya - Gujarat brought down to the Silicon Valley of India - Bangalore.\n\nWe will showcase various types of Garba Dandiya Folk Dance and delicious Indian food items in a mesmerizing setting at White Feather Electronic City Road on 11th October.\nGet ready to be captivated by the enchanting beats of dhol swirling colors of traditional attire & joyous spirit of Navratri.",
+    "startDate": "2024-10-11T19:00:00+05:30",
+    "endDate": "2024-10-12T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "locations": [
+      {
+        "place": "Bengaluru",
+        "streetAddress": "NICE Toll Gate, Santara Magan Place Phase I, 40/41-1, Hobli-Begur, opposite METRO WHOLESALE, Electronic City, Beratena Agrahara, Bengaluru, Karnataka 560092",
+        "addressCountry": "India"
+      }
+    ],
+    "isAccessibleForFree": false,
+    "ogTitle": "AnyBody Can Dandiya 4.0 | White Feather Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for AnyBody Can Dandiya 4.0 | White Feather Bengaluru on Zomato which is a Music event happening at NICE Toll Gate, Santara Magan Place Phase I, 40/41-1, Hobli-Begur, opposite METRO WHOLESALE, Electronic City, Beratena Agrahara, Bengaluru, Karnataka 560092",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/77293d743d5dcd0a0a7571d0e3b20c211725441989.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-04 15:00:12",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-09-04 15:00:12",
+        "availability": "INSTOCK",
+        "inventory": 700
+      },
+      {
+        "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-04 15:00:12",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023/details",
+        "price": 849,
+        "currency": "INR",
+        "validFrom": "2024-09-04 15:00:13",
+        "availability": "INSTOCK",
+        "inventory": 700
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023"
   }
 ]
