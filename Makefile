@@ -141,6 +141,12 @@ out/bcc.json:
 out/pumarun.txt:
 	python src/eventbrite.py pumarun | sort > $@ || $(call restore-file,$@)
 
+out/highwaydelite.jsonnet:
+	jq -s '{"events": (.[0]), "clubs": (.[1])}' <(curl_chrome116 --silent 'https://biker.highwaydelite.com/' --data-raw 'action=GETSECTIONDATA&object=events&filter=upcoming' | jq -r '.data') <(curl_chrome116 --silent 'https://biker.highwaydelite.com/' --data-raw 'action=GETSECTIONDATA&object=clubs&limit=false' | jq -r '.data') > $@ || $(call restore-file,$@)
+
+out/highwaydelite.json: out/highwaydelite.jsonnet
+	python src/jsonnet.py out/highwaydelite.jsonnet
+
 fetch: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
