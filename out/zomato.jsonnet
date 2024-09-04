@@ -42,7 +42,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 462
+        "inventory": 461
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -50,7 +50,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 250
+        "inventory": 243
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -58,7 +58,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1071
+        "inventory": 1068
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -327,7 +327,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 97
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -422,7 +422,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 17:00:00",
         "availability": "INSTOCK",
-        "inventory": 472
+        "inventory": 409
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -430,7 +430,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 20:00:00",
         "availability": "INSTOCK",
-        "inventory": 494
+        "inventory": 476
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -501,7 +501,7 @@
   },
   {
     "name": "Brews Of Bangalore (Oktoberfest Edition)",
-    "description": "Join us for a vibrant day at Brews of Bangalore, where we're celebrating Bangalore's love for beer, coffee, food, and music! With live music creating the perfect backdrop, immerse yourself in a day filled with exciting activities and games that guarantee endless fun and laughter. Indulge your taste buds with offerings from top beer brands and discover the perfect pairing with our top food cuisines curated to complement your brew. Additionally, savor a variety of coffees from top coffee brands, making it an unforgettable and joyous experience for all!",
+    "description": "Join us for a vibrant day at Brews of Bangalore, where we're celebrating Bangalore's love for beer, coffee, food, and music! \nWith live music creating the perfect backdrop, immerse yourself in a day filled with exciting activities and games that guarantee endless fun and laughter. \nIndulge your taste buds with offerings from top beer brands like Toit, Mannheim, Kingfisher, Geist (and many more) and discover the perfect pairing with our \u2018Brews & Bites\u2019 section curated to complement your brews. \nAdditionally, savor a variety of coffees from top coffee brands, making it an unforgettable and joyous experience for all!\n\n",
     "startDate": "2024-09-22T12:00:00+05:30",
     "endDate": "2024-09-22T22:00:00+05:30",
     "timezone": "+05:30",
@@ -528,7 +528,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 870
+        "inventory": 862
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -536,7 +536,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 91
+        "inventory": 90
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -544,7 +544,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 40
+        "inventory": 39
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -560,7 +560,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 95
+        "inventory": 93
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -626,7 +626,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 21
+        "inventory": 17
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -682,7 +682,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 41
+        "inventory": 39
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -906,7 +906,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 362
+        "inventory": 361
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1026,7 +1026,7 @@
   },
   {
     "name": "Bengaluru Pupper Party",
-    "description": "Hey Bengaluru we are back with another Paw-ty at Wag-ville, Get ready for all the barks, woofs, and a day filled with all the fun\nInclusions: \nExciting games & gifts for your pets\n Free pet food buffet\nFree Basic health check-up\n A goodie bag for all Pets\nNo charges for pets!\n\nOnground tickets will be priced at 700/- per person \n\nFree Pet Fed Membership worth Rs. 999 (first 50 bookings)",
+    "description": "Hey Bengaluru we are back with another Paw-ty at Wag-ville, Get ready for all the barks, woofs and a day filled with all the fun.\n\nInclusions: \nExciting games & gifts for your pets\nFree pet food buffet\nFree Basic health check-up\nA goodie bag for all Pets\nNo charges for pets!\n\nOn-ground tickets will be priced at 700/- per person.",
     "startDate": "2024-09-08T15:00:00+05:30",
     "endDate": "2024-09-08T18:00:00+05:30",
     "timezone": "+05:30",
@@ -1184,7 +1184,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:50:43",
         "availability": "INSTOCK",
-        "inventory": 373
+        "inventory": 367
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1192,7 +1192,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:50:44",
         "availability": "INSTOCK",
-        "inventory": 1078
+        "inventory": 1072
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1200,7 +1200,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 71
+        "inventory": 65
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1208,7 +1208,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:50:44",
         "availability": "INSTOCK",
-        "inventory": 97
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
