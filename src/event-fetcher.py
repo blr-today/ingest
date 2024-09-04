@@ -53,6 +53,7 @@ EVENT_JSON_FILES = [
     "out/underline.json", # duplicates to insider
     "out/sis.json",
     "out/bcc.json",
+    "out/tpcc.json", # duplicates to underline and insider
 ]
 
 KNOWN_EVENT_TYPES = [

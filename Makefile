@@ -5,6 +5,7 @@ START_TS := $(shell date +"%Y-%m-%d")
 END_TS := $(shell date +"%Y-%m-%d" --date="1 month")
 
 TOTAL_ENVIRONMENT_API_TOKEN := $(shell curl_chrome116 --silent --insecure 'https://api.total-environment.com/api/v1.0/token.json' | jq -r '.data.token')
+TPCC_CALENDAR_WIDGET_ID := da2c7ec1-91d2-4b82-a97b-43803ad416a2
 
 define restore-file
 	(echo "FAIL $1" && git checkout -- $1 && echo "RESTORED $1")
@@ -141,6 +142,13 @@ out/bcc.json:
 out/pumarun.txt:
 	python src/eventbrite.py pumarun | sort > $@ || $(call restore-file,$@)
 
+# we just do a minimal transform to remove extra bits we don't need
+out/tpcc.jsonnet:
+	curl_chrome116 --silent "https://core.service.elfsight.com/p/boot/?page=https%3A%2F%2Ftpcc.club%2F&w=$(TPCC_CALENDAR_WIDGET_ID)" | jq '.data.widgets["$(TPCC_CALENDAR_WIDGET_ID)"].data.settings | {events: .events | map(select(.start.date > (now|strftime("%Y-%m-%d")))), locations: (.locations | map({id: .id, name: .name, address:.address})), eventTypes: (.eventTypes|map({id:.id, name:.name}))}' > $@ || $(call restore-file,$@)
+
+out/tpcc.json: out/tpcc.jsonnet
+	python src/jsonnet.py out/tpcc.jsonnet || $(call restore-file,$@)
+
 fetch: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
@@ -174,7 +182,8 @@ fetch: out/allevents.txt \
  out/underline.json \
  out/sis.json \
  out/bcc.json \
- out/pumarun.txt
+ out/pumarun.txt \
+ out/tpcc.json
 
 	@echo "Done"
 
