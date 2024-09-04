@@ -30,7 +30,7 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | Together.buzz                  | ✔️      | ✔️     | ✔️          | 
 | Creative Mornings BLR          | ✔️      | ✔️     | ✔️          | 
 | Adidas Runners                 | ✔️      | ✔️     | ✔️          | 
-| Sisters in Sweat               | 🚧      | ❌     | ❌          
+| Sisters in Sweat               | ✔️      | ✔️     | ✔️          
 | [Visvesvaraya Museum][vism].   | ❌      | ❌     | ❌          | OCR                                                                                                       |
 | [NGMA][ngma]                   | ❌      | ❌     | ❌          | OCR The [older website calender](http://www.ngmaindia.gov.in/ngma_bangaluru_calendar.asp) is not updated. |
 | Urbanaut                       | ✔️      | ✔️     | ✔️          | 
@@ -49,20 +49,25 @@ We have some data available or change notifications configured, but there needs 
 - [x] https://gameslab.wootick.com/ Covered via Insider, maybe add a filter
 - [ ] [The White Box](https://thewhiteboxco.in/) - Run by same people as Trove, similar events.
       List of events is at https://thewhiteboxco.in/collections/events-of-the-month/products.json
-- [ ] [Bangalore Chess Club](https://bangalorechessclub.in/index.html#events_section)
+- [x] [Bangalore Chess Club](https://bangalorechessclub.in/index.html#events_section)
+- [ ] [Pedal In Tandem](https://www.pedalintandem.com/experiences)
+- [x] eventbrite against known-hosts only. Currently used for PUMA
+
+## Check Later
+- [ ] https://gaianaturalproductsandservices.myinstamojo.com/category/419534/events. Courtyard Events, but seems unmaintained since they use Urbanaut
 
 # TODO
-- [ ] [Pedal In Tandem](https://www.pedalintandem.com/experiences)
-- [ ] eventbrite against known-hosts only.
+- [ ] https://biker.highwaydelite.com/
+- [ ] https://bngbirds.com/, but no events listed currently.
 - [ ] Switch HighApe to https://highape.com/bangalore/all-events which has enough JSON in a single URL
 - [ ] Switch Trove to https://troveexperiences.com/collections/bangalore/products.json
 - [ ] https://hooplaback-girl.myinstamojo.com/ (search for Workshop events)
-- [ ] https://gaianaturalproductsandservices.myinstamojo.com/category/419534/events
 - [ ] https://dialogues.space/events/
 - [ ] bookmyshow plays
 - [ ] http://1shanthiroad.com/category/events/ - Can't find a good source
 - [ ] find more Townscript accounts to follow
 - [ ] https://www.downtomeet.com/
+- [ ] https://beruru.myinstamojo.com/
 - [ ] Go through PS archives to see other venue hosts.
 - [ ] [Indian Music Experience](https://indianmusicexperience.org/events/)
 - [ ] [Parallel Cinema Club](https://www.theparallelcinema.club/events)

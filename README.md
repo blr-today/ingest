@@ -30,7 +30,9 @@ wherever necessary.
 - Musuem of Art & Photography
 - Max Mueller Bhavan
 - Paytm Insider
+- PUMA Nitro Runs
 - PVR Cinema Movie Screenings
+- Sisters in Sweat
 - Skillboxes
 - Sofar
 - Sumukha Gallery

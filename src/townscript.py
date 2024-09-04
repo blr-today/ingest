@@ -2,10 +2,17 @@ import yaml
 import json
 from common.session import get_cached_session
 
+# This is a hack to ignore Pet Fed India events
+# that happen in other cities
 IGNORED_URL_SLUGS = [
     "delhi",
     "mumbai",
     "pune",
+    "ludhiana",
+    "chandigarh",
+    "hyderabad",
+    "jaipur",
+    "amritsar"
 ]
 
 
