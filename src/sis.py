@@ -65,6 +65,10 @@ def fetch_event_details(session, l):
             "url": "https://sistersinsweat.in",
         },
     }
+    # Since SISTERSINSWEAT events can be non-sport events as well
+    # we add a secondary tag as well to help with filtering
+    if sport in ["basketball", "football", "badminton", "running", "yoga"]:
+        event["keywords"].append("SISTERSINSWEAT/SPORTS")
     if div:
         text = div.text.replace("\n \n", "\n")
         event["description"] = text.strip()
