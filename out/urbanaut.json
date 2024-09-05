@@ -1519,5 +1519,103 @@
       "Workshop",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Enjoy a Ramen Meal with Strangers",
+    "description": "Are you passionate about ramen or just curious to try something new? Join us for a fun and casual Ramen Table, where strangers become friends over delicious bowls of noodles! Don\u2019t worry if you\u2019re new to Ramen; we\u2019re here to enjoy and explore together.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AB0AF249687744889C409280DFB1C4D0_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/bcii8qg46g-1708969004676bento2jpg.jpg",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/446B31B7B3EB418B8A18EA3DC611ADD9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C385297847CB4F4B93DD13A4B3DF2057_converted_webp.webp"
+    ],
+    "startDate": "2024-09-11T20:00:00+05:30",
+    "endDate": "2024-09-11T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "latitude": "12.97836920000000000000",
+      "longitude": "77.64083560000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "TwoTablesClub",
+      "description": "Where a small group of strangers come together for genuine conversations & spontaneous connections  over a curated meal. Guided by a host every Table is a mix of locals & newcomers sharing stories of their roots & dreams",
+      "url": "https://urbanaut.app/partner/twotablesclub",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/wysxdsvnko-1707810356440ttclogojpg.jpg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-81399-06300"
+      }
+    },
+    "url": "https://urbanaut.app/spot/copy-of-enjoy-a-ramen-meal-with-strangers-5074",
+    "keywords": [
+      "Food & drink",
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Unlimited Sunday Breakfast & Stories with Strangers",
+    "description": "Start your day right with a scrumptious breakfast.But it's not just about the food! It's about fostering connections and creating memorable moments. Meet new acquaintances, and enjoy engaging conversations over steaming cups of coffee & waffles.Don't miss out on this opportunity to kick off your day with a hearty breakfast and uplifting conversations. Mark your calendarWe look forward to sharing this delightful morning with you!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/hnajx409sg-1708968086881breakfasttable1jpg.jpg",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6xhdgf5lgv-1708968100117breakfasttablejpg.jpg",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FAA53753D6544C759A41BAB0ECC8ED13_converted_webp.webp"
+    ],
+    "startDate": "2024-09-08T10:00:00+05:30",
+    "endDate": "2024-09-08T11:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Cunningham Rd, Vasanth Nagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=EjlDdW5uaW5naGFtIFJkLCBWYXNhbnRoIE5hZ2FyLCBCZW5nYWx1cnUsIEthcm5hdGFrYSwgSW5kaWEiLiosChQKEgn9DjJgaBauOxEM1l3ZqgY8QBIUChIJnxBCOWgWrjsRsCItl8FYIdc",
+      "latitude": "12.98766260000000000000",
+      "longitude": "77.59451860000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 6,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "TwoTablesClub",
+      "description": "Where a small group of strangers come together for genuine conversations & spontaneous connections  over a curated meal. Guided by a host every Table is a mix of locals & newcomers sharing stories of their roots & dreams",
+      "url": "https://urbanaut.app/partner/twotablesclub",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/wysxdsvnko-1707810356440ttclogojpg.jpg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-81399-06300"
+      }
+    },
+    "url": "https://urbanaut.app/spot/copy-of-sunday-breakfast-with-strangers-5075",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
   }
 ]
