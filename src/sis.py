@@ -69,6 +69,8 @@ def fetch_event_details(session, l):
     # we add a secondary tag as well to help with filtering
     if sport in ["basketball", "football", "badminton", "running", "yoga"]:
         event["keywords"].append("SISTERSINSWEAT/SPORTS")
+    else:
+        event["keywords"].append("SISTERSINSWEAT/SESSION")
     if div:
         text = div.text.replace("\n \n", "\n")
         event["description"] = text.strip()
