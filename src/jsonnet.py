@@ -36,6 +36,6 @@ with open(input_file, "r") as json_file:
         raise Exception(f"Could not find {transformation_f}")
 
     output_json_file = os.path.join("out", basename + ".json")
-    with open(output_json_file, "w") as output_file:
+    with open(output_json_file, "w", encoding="utf-8") as output_file:
         output_file.write(output_json)
         print(f"JSON data saved to {output_json_file}")

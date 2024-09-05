@@ -33,9 +33,11 @@ def get_events(session, event_id):
     # search for event_url_regex in r.text
     if re.search(EVENT_URL_REGEX, r.text):
         event_url = re.search(EVENT_URL_REGEX, r.text).group(1)
+        # ensure encoding is utf-8
         r = session.get(event_url, cache=True)
     from bs4 import BeautifulSoup
-
+    # fix encoding to utf-8
+    r.encoding = "utf-8"
     soup = BeautifulSoup(r.text, "html.parser")
     scripts = soup.find_all("script")
     found = False
@@ -149,5 +151,5 @@ if __name__ == "__main__":
         print("ZOMATO: No events found")
         sys.exit(1)
 
-    with open("out/zomato.jsonnet", "w") as f:
+    with open("out/zomato.jsonnet", "w", encoding="utf-8") as f:
         json.dump(events, f, indent=2)

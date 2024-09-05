@@ -19,15 +19,15 @@ local mapVenue(venue) = {
   address: venue.restaurant_outlet.address,
 };
 
-local fixDate(date) = std.strReplace(date, ' ', 'T') + '+05:30';
+local fixDate(date) = std.strReplace(date, ' ', 'T')[0:16] + ':00+05:30';
 
 local transformEvent(event) = {
   '@type': 'Event',
   '@context': 'https://schema.org',
   name: event.name,
   description: event.description,
-  startDate: event.startDate,
-  endDate: event.endDate,
+  startDate: fixDate(event.startDate),
+  endDate: fixDate(event.endDate),
   eventStatus: STATUSMAP[event.eventStatus],
   eventAttendanceMode: ATTENDANCEMAP[event.eventAttendanceMode],
   # This seems to only apply to TBA venues.
