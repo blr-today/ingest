@@ -15,8 +15,8 @@ EVENT_URL_REGEX = r"(https:\/\/www\.zomato\.com\/events\/[\w|-]+-et\d+)"
 ZOMATO_API_KEY = os.environ.get("ZOMATO_PUBLIC_API_KEY")
 BASE_URL = "https://zoma.to/live-event/"
 KNOWN_BAD_EVENTS = [
-    "43612", # SkyJumper Trampoline Park, too long
-    "44864", # Wonderla Amusement Park
+    # "43612", # SkyJumper Trampoline Park, too long
+    # "44864", # Wonderla Amusement Park
 ]
 
 
@@ -56,6 +56,39 @@ def get_events(session, event_id):
                     events[x]["endDate"] = fix_date(events[x]["endDate"]).isoformat()
 
                 events[x]["url"] = page_data["pages"]["current"]["canonicalUrl"]
+                # Assume "canonicalUrl": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et50662",
+                # grab the part after et, assuming it as numeric
+                event_id = str(events[x]["url"].split("-")[-1][2:])
+                events[x]['id'] = f"com.zomato.{event_id}"
+                try:
+                    if str(page_data['pages']['zLiveV2PageReducer']['zlive-event-details']['output']['event_id']) == event_id:
+                        sections = page_data['pages']['zLiveV2PageReducer']['zlive-event-details']['output']['results']['event_details']['section_items']
+                        for section in sections:
+                            if 'title' in section and 'subtitle' in section:
+                                for container in ['middle', 'right']:
+                                    if not f"{container}_container" in section:
+                                        continue
+                                    if 'latitude' in section[f"{container}_container"]['deeplink']['open_map']:
+                                        # breakpoint()
+
+                                        lat = section[f"{container}_container"]['deeplink']['open_map']['latitude']
+                                        lng = section[f"{container}_container"]['deeplink']['open_map']['longitude']
+                                        events[x]['location'] = {
+                                            'name': section['title'],
+                                            'address': section['subtitle'],
+                                            'geo': {
+                                                '@type': 'GeoCoordinates',
+                                                'latitude': lat,
+                                                'longitude': lng
+                                            }
+                                        }
+                                        
+                                        
+                except KeyError:
+                    print("Couldnt Find location for", event_id)
+                    events[x]['location'] = events[x]['locations'][0]
+
+                del events[x]['locations']
                 yield events[x]
     if not found:
         print("No events found in", url)

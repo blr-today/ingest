@@ -30,15 +30,13 @@ local transformEvent(event) = {
   endDate: event.endDate,
   eventStatus: STATUSMAP[event.eventStatus],
   eventAttendanceMode: ATTENDANCEMAP[event.eventAttendanceMode],
-  location: {
+  # This seems to only apply to TBA venues.
+  # since we want this to be marked as within BLR, we use a generic BLR location for now.
+  location: if std.objectHas(event, 'location') then event.location else {
     '@type': 'Place',
-    name: event.locations[0].place,
-    address: {
-      '@type': 'PostalAddress',
-      streetAddress: event.locations[0].streetAddress,
-      addressCountry: event.locations[0].addressCountry,
-    },
+    'address': 'Bangalore'
   },
+  
   isAccessibleForFree: event.isAccessibleForFree,
   image: event.images[0],
   offers: [

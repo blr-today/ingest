@@ -7,13 +7,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "DGTL Bengaluru 2024 Best seller and Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for DGTL Bengaluru 2024 Bengaluru on Zomato which is a Best seller and Music event happening at 1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal",
@@ -50,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 243
+        "inventory": 232
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -58,7 +51,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1068
+        "inventory": 1060
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -240,7 +233,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858"
+    "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858",
+    "id": "com.zomato.40858",
+    "location": {
+      "name": "Jayamahal Palace",
+      "address": "1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.997287908982,
+        "longitude": 77.597336906294
+      }
+    }
   },
   {
     "name": "Palace Dandiya Jalsa",
@@ -250,13 +253,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Palace Dandiya Jalsa Music, Experiences and Trending event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Palace Dandiya Jalsa Bengaluru on Zomato which is a Music, Experiences and Trending event happening at Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd",
@@ -346,7 +342,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987"
+    "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987",
+    "id": "com.zomato.43987",
+    "location": {
+      "name": "PEBBLE, The Jungle Lounge",
+      "address": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.00461217,
+        "longitude": 77.58486126
+      }
+    }
   },
   {
     "name": "25 & Single",
@@ -356,13 +362,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Deena Complex, Opp MC Donald, Brigade Rd, Bengaluru",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "25 & Single Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for 25 & Single Bengaluru on Zomato which is a Experiences event happening at Deena Complex, Opp MC Donald, Brigade Rd, Bengaluru",
@@ -378,7 +377,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/25-single-bengaluru-et46072"
+    "url": "https://www.zomato.com/events/25-single-bengaluru-et46072",
+    "id": "com.zomato.46072",
+    "location": {
+      "name": "Just BLR",
+      "address": "Deena Complex, Opp MC Donald, Brigade Rd, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.973095257354,
+        "longitude": 77.607312496294
+      }
+    }
   },
   {
     "name": "Bryan Adams - So Happy It Hurts Tour 2024",
@@ -388,13 +397,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Bryan Adams - So Happy It Hurts Tour 2024 Trending and Best seller event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Bryan Adams - So Happy It Hurts Tour 2024 Bengaluru on Zomato which is a Trending and Best seller event happening at Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
@@ -422,7 +424,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 17:00:00",
         "availability": "INSTOCK",
-        "inventory": 409
+        "inventory": 371
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -430,7 +432,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 20:00:00",
         "availability": "INSTOCK",
-        "inventory": 476
+        "inventory": 469
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -438,7 +440,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "INSTOCK",
-        "inventory": 185
+        "inventory": 177
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -478,7 +480,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "INSTOCK",
-        "inventory": 227
+        "inventory": 231
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -497,7 +499,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352"
+    "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352",
+    "id": "com.zomato.46352",
+    "location": {
+      "name": "Terraform",
+      "address": "Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.174349,
+        "longitude": 77.597596
+      }
+    }
   },
   {
     "name": "Brews Of Bangalore (Oktoberfest Edition)",
@@ -507,13 +519,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Brews Of Bangalore (Oktoberfest Edition) Experiences, Music and Best seller event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Brews Of Bangalore (Oktoberfest Edition) Bengaluru on Zomato which is a Experiences, Music and Best seller event happening at RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
@@ -528,7 +533,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 862
+        "inventory": 841
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -536,15 +541,15 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 90
+        "inventory": 88
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
         "price": 999,
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
-        "availability": "INSTOCK",
-        "inventory": 39
+        "availability": "SELLING_FAST",
+        "inventory": 21
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -552,7 +557,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 96
+        "inventory": 94
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -568,7 +573,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 98
       }
     ],
     "performers": [],
@@ -579,7 +584,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824"
+    "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824",
+    "id": "com.zomato.46824",
+    "location": {
+      "name": "Ecoworld, The Bay",
+      "address": "RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.92150872,
+        "longitude": 77.68351644
+      }
+    }
   },
   {
     "name": "Jubin Nautiyal Live in Pune",
@@ -589,13 +604,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Pune",
-        "streetAddress": "Eva Garden, Mayfield, Grant Rd, opposite phoenix world school, Kharadi",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Jubin Nautiyal Live in Pune Party, Music and Best seller event Tickets Pune - Zomato",
     "ogDesc": "Book online tickets for Jubin Nautiyal Live in Pune Pune on Zomato which is a Party, Music and Best seller event happening at Eva Garden, Mayfield, Grant Rd, opposite phoenix world school, Kharadi",
@@ -618,15 +626,15 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 31
+        "inventory": 30
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
         "price": 1499,
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
-        "availability": "INSTOCK",
-        "inventory": 17
+        "availability": "SELLING_FAST",
+        "inventory": 15
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -634,7 +642,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 32
+        "inventory": 30
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -666,7 +674,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 9
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -717,7 +725,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946"
+    "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946",
+    "id": "com.zomato.46946",
+    "location": {
+      "name": "Mayfield Eva Garden",
+      "address": "Eva Garden, Mayfield, Grant Rd, opposite phoenix world school, Kharadi",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.56227165,
+        "longitude": 73.95444041
+      }
+    }
   },
   {
     "name": "Asal Kolar Live",
@@ -727,13 +745,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Asal Kolar Live Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Asal Kolar Live Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
@@ -766,7 +777,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030"
+    "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030",
+    "id": "com.zomato.47030",
+    "location": {
+      "name": "WL Superclub",
+      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9151339,
+        "longitude": 77.6660495
+      }
+    }
   },
   {
     "name": "Vedan BabyJean Live Avesham 2.0",
@@ -776,13 +797,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Vedan BabyJean Live Avesham 2.0 Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Vedan BabyJean Live Avesham 2.0 Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
@@ -815,7 +829,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038"
+    "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038",
+    "id": "com.zomato.47038",
+    "location": {
+      "name": "WL Superclub",
+      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9151339,
+        "longitude": 77.6660495
+      }
+    }
   },
   {
     "name": "Chandan Shetty Live",
@@ -825,13 +849,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Chandan Shetty Live Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Chandan Shetty Live Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
@@ -864,7 +881,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
+    "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043",
+    "id": "com.zomato.47043",
+    "location": {
+      "name": "WL Superclub",
+      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9151339,
+        "longitude": 77.6660495
+      }
+    }
   },
   {
     "name": "Experience Enigma | Live in India",
@@ -874,13 +901,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Experience Enigma | Live in India Music, Experiences and Best seller event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Experience Enigma | Live in India Bengaluru on Zomato which is a Music, Experiences and Best seller event happening at 1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal",
@@ -906,7 +926,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 361
+        "inventory": 348
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -914,7 +934,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 215
+        "inventory": 214
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -981,23 +1001,26 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115"
+    "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115",
+    "id": "com.zomato.47115",
+    "location": {
+      "name": "Jayamahal Palace",
+      "address": "1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9972012,
+        "longitude": 77.59730321
+      }
+    }
   },
   {
     "name": "Sajanka live at Sunburn Union",
-    "description": "Prepare for an unforgettable night with Sajanka, the acclaimed musician from Israel, known for crafting mesmerizing soundscapes and infectious rhythms. \u00f0\u0178\u017d\u00b6 Join us on the 22nd of September at Sunburn Union for a live performance that promises to be a unique celebration of music and energy. Book your tickets NOW!",
+    "description": "Prepare for an unforgettable night with Sajanka, the acclaimed musician from Israel, known for crafting mesmerizing soundscapes and infectious rhythms. \ud83c\udfb6 Join us on the 22nd of September at Sunburn Union for a live performance that promises to be a unique celebration of music and energy. Book your tickets NOW!",
     "startDate": "2024-09-22T19:30:00+05:30",
     "endDate": "2024-09-23T01:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Sajanka live at Sunburn Union Music and Party event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Sajanka live at Sunburn Union Bengaluru on Zomato which is a Music and Party event happening at passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047",
@@ -1011,7 +1034,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 15:35:00",
         "availability": "INSTOCK",
-        "inventory": 93
+        "inventory": 90
       }
     ],
     "performers": [],
@@ -1022,7 +1045,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/sajanka-live-at-sunburn-union-bengaluru-et48600"
+    "url": "https://www.zomato.com/events/sajanka-live-at-sunburn-union-bengaluru-et48600",
+    "id": "com.zomato.48600",
+    "location": {
+      "name": "Sunburn Union",
+      "address": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.94540618,
+        "longitude": 77.62010301
+      }
+    }
   },
   {
     "name": "Bengaluru Pupper Party",
@@ -1032,13 +1065,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "5th Cross, Vidhana Soudha Layout, Agrahara Main Rd, Jakkur",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Bengaluru Pupper Party Experiences and Trending event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Bengaluru Pupper Party Bengaluru on Zomato which is a Experiences and Trending event happening at 5th Cross, Vidhana Soudha Layout, Agrahara Main Rd, Jakkur",
@@ -1067,7 +1093,7 @@
         "currency": "INR",
         "validFrom": "2024-08-16 22:15:00",
         "availability": "INSTOCK",
-        "inventory": 70
+        "inventory": 68
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et48781/details",
@@ -1075,7 +1101,7 @@
         "currency": "INR",
         "validFrom": "2024-08-16 22:15:00",
         "availability": "INSTOCK",
-        "inventory": 33
+        "inventory": 32
       }
     ],
     "performers": [],
@@ -1086,7 +1112,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et48781"
+    "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et48781",
+    "id": "com.zomato.48781",
+    "location": {
+      "name": "Wag-ville Pet Resort,Boarding, Pet Friendly Cafe",
+      "address": "5th Cross, Vidhana Soudha Layout, Agrahara Main Rd, Jakkur",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.08983741,
+        "longitude": 77.61449787
+      }
+    }
   },
   {
     "name": "Feeding India Concert with Dua Lipa",
@@ -1096,13 +1132,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Mumbai",
-        "streetAddress": "New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Feeding India Concert with Dua Lipa Music and Trending event Tickets Mumbai - Zomato",
     "ogDesc": "Book online tickets for Feeding India Concert with Dua Lipa Mumbai on Zomato which is a Music and Trending event happening at New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
@@ -1150,7 +1179,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042"
+    "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042",
+    "id": "com.zomato.49042",
+    "location": {
+      "name": "MMRDA Ground",
+      "address": "New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.06727212,
+        "longitude": 72.8615249
+      }
+    }
   },
   {
     "name": "Indira Paganotto Tour",
@@ -1160,13 +1199,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Indira Paganotto Tour Music and Best seller event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Indira Paganotto Tour Bengaluru on Zomato which is a Music and Best seller event happening at passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru",
@@ -1184,7 +1216,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:50:43",
         "availability": "INSTOCK",
-        "inventory": 367
+        "inventory": 359
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1192,7 +1224,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:50:44",
         "availability": "INSTOCK",
-        "inventory": 1072
+        "inventory": 1060
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1200,7 +1232,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 65
+        "inventory": 61
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1208,7 +1240,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:50:44",
         "availability": "INSTOCK",
-        "inventory": 96
+        "inventory": 94
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1235,7 +1267,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514"
+    "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514",
+    "id": "com.zomato.49514",
+    "location": {
+      "name": "Sunburn Union",
+      "address": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.94516421,
+        "longitude": 77.62013658
+      }
+    }
   },
   {
     "name": "Blind Date - A Sensory Experience",
@@ -1245,13 +1287,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": true,
     "ogTitle": "Blind Date - A Sensory Experience Experiences and Trending event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences and Trending event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -1300,7 +1335,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49652"
+    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49652",
+    "id": "com.zomato.49652",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Blind Date - A Sensory Experience",
@@ -1310,13 +1355,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": true,
     "ogTitle": "Blind Date - A Sensory Experience Experiences and Trending event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences and Trending event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -1365,7 +1403,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49656"
+    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49656",
+    "id": "com.zomato.49656",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Chai Pe Charcha",
@@ -1375,13 +1423,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -1406,7 +1447,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et49695"
+    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et49695",
+    "id": "com.zomato.49695",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Chai Pe Charcha",
@@ -1416,13 +1467,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -1447,7 +1491,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et49697"
+    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et49697",
+    "id": "com.zomato.49697",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Dance Like a Bollywood Star",
@@ -1457,13 +1511,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Dance Like a Bollywood Star Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Dance Like a Bollywood Star Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
@@ -1488,23 +1535,26 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et49714"
+    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et49714",
+    "id": "com.zomato.49714",
+    "location": {
+      "name": "Small World, S.T. Bed",
+      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93327579,
+        "longitude": 77.63221323
+      }
+    }
   },
   {
     "name": "Onam Bash @ White lotus",
-    "description": "Get ready to groove and celebrate the rich heritage of Onam like never\nbefore at our electrifying Onam DJ Night! \u00f0\u0178\u0152\u0178\u00e2\u0153\u00a8\n\nJoin us for a night where traditional charm meets contemporary beats.\nOur DJ will spin a fusion of classic Onam tunes and the latest\nchart-toppers, ensuring the dance floor is always buzzing with energy.\n\nSpecial  Chinkari mela with DJ",
+    "description": "Get ready to groove and celebrate the rich heritage of Onam like never\nbefore at our electrifying Onam DJ Night! \ud83c\udf1f\u2728\n\nJoin us for a night where traditional charm meets contemporary beats.\nOur DJ will spin a fusion of classic Onam tunes and the latest\nchart-toppers, ensuring the dance floor is always buzzing with energy.\n\nSpecial  Chinkari mela with DJ",
     "startDate": "2024-09-15T20:00:00+05:30",
     "endDate": "2024-09-16T00:30:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Onam Bash @ White lotus Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Onam Bash @ White lotus Bengaluru on Zomato which is a Experiences event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
@@ -1545,7 +1595,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/onam-bash-sep-15-2024-white-lotus-bengaluru-et49899"
+    "url": "https://www.zomato.com/events/onam-bash-sep-15-2024-white-lotus-bengaluru-et49899",
+    "id": "com.zomato.49899",
+    "location": {
+      "name": "White Lotus Superclub",
+      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9317312,
+        "longitude": 77.5899383
+      }
+    }
   },
   {
     "name": "RED FM presents Dandiya Night",
@@ -1555,13 +1615,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "3Q26+63 Sri Manjunatha Swamy Kalyana Mantapa, Sannatammanahalli, Katamnallur, Karnataka 560049",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "RED FM presents Dandiya Night Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for RED FM presents Dandiya Night Bengaluru on Zomato which is a Experiences event happening at 3Q26+63 Sri Manjunatha Swamy Kalyana Mantapa, Sannatammanahalli, Katamnallur, Karnataka 560049",
@@ -1586,7 +1639,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/red-fm-presents-dandiya-night-bengaluru-et49916"
+    "url": "https://www.zomato.com/events/red-fm-presents-dandiya-night-bengaluru-et49916",
+    "id": "com.zomato.49916",
+    "location": {
+      "name": "Sri Manjunatha Swamy Banquet Hall, Katamnallur, Bengaluru",
+      "address": "3Q26+63 Sri Manjunatha Swamy Kalyana Mantapa, Sannatammanahalli, Katamnallur, Karnataka 560049",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0505903,
+        "longitude": 77.7601267
+      }
+    }
   },
   {
     "name": "Punchliners Comedy Show ft. Samay Raina",
@@ -1596,13 +1659,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Punchliners Comedy Show ft. Samay Raina Comedy and Trending event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Punchliners Comedy Show ft. Samay Raina Bengaluru on Zomato which is a Comedy and Trending event happening at RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur",
@@ -1651,23 +1707,26 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961"
+    "url": "https://www.zomato.com/events/punchliners-comedy-show-ft-samay-raina-bengaluru-et49961",
+    "id": "com.zomato.49961",
+    "location": {
+      "name": "Ecoworld, The Bay Food Court",
+      "address": "RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.920132,
+        "longitude": 77.684639
+      }
+    }
   },
   {
     "name": "Ethnic Dandiya At White Lotus HSR - Season - 2",
-    "description": "Get ready to groove to the beats of Ethnic Dandiya at White Lotus Club, HSR! \uf8ff\u00fc\u2022\u00c5 It`s going to be an incredible night of infectious beats, exhilarating moves, and the perfect blend of tradition and fun!",
+    "description": "Get ready to groove to the beats of Ethnic Dandiya at White Lotus Club, HSR! \ud83e\udd41 It`s going to be an incredible night of infectious beats, exhilarating moves, and the perfect blend of tradition and fun!",
     "startDate": "2024-10-04T17:30:00+05:30",
     "endDate": "2024-10-11T01:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Ethnic Dandiya At White Lotus HSR - Season - 2 Party event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Ethnic Dandiya At White Lotus HSR - Season - 2 Bengaluru on Zomato which is a Party event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
@@ -1700,7 +1759,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962"
+    "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962",
+    "id": "com.zomato.49962",
+    "location": {
+      "name": "White Lotus Club",
+      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91607507,
+        "longitude": 77.66613533
+      }
+    }
   },
   {
     "name": "Tribute to Dire Straits",
@@ -1710,13 +1779,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Tribute to Dire Straits Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Tribute to Dire Straits Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -1741,7 +1803,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/tribute-to-dire-straits-bengaluru-et50190"
+    "url": "https://www.zomato.com/events/tribute-to-dire-straits-bengaluru-et50190",
+    "id": "com.zomato.50190",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97595324,
+        "longitude": 77.60161858
+      }
+    }
   },
   {
     "name": "Remix Nights",
@@ -1751,13 +1823,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": true,
     "ogTitle": "Remix Nights Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Remix Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -1782,7 +1847,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/remix-nights-bengaluru-et50193"
+    "url": "https://www.zomato.com/events/remix-nights-bengaluru-et50193",
+    "id": "com.zomato.50193",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97595324,
+        "longitude": 77.60161858
+      }
+    }
   },
   {
     "name": "Rock Out Sundays",
@@ -1792,13 +1867,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": true,
     "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -1812,7 +1880,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 17:41:36",
         "availability": "INSTOCK",
-        "inventory": 73
+        "inventory": 71
       }
     ],
     "performers": [],
@@ -1823,7 +1891,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50198"
+    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50198",
+    "id": "com.zomato.50198",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97595324,
+        "longitude": 77.60161858
+      }
+    }
   },
   {
     "name": "Kingfisher OctoBeer Fest",
@@ -1833,13 +1911,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru, Karnataka 560046",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Kingfisher OctoBeer Fest Experiences, Trending and Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Kingfisher OctoBeer Fest Bengaluru on Zomato which is a Experiences, Trending and Music event happening at 1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru, Karnataka 560046",
@@ -1888,7 +1959,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273"
+    "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273",
+    "id": "com.zomato.50273",
+    "location": {
+      "name": "Jayamahal Palace",
+      "address": "1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru, Karnataka 560046",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.99755663,
+        "longitude": 77.59742123
+      }
+    }
   },
   {
     "name": "Tribute to The Doors",
@@ -1898,13 +1979,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Tribute to The Doors Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Tribute to The Doors Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -1929,7 +2003,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/tribute-to-the-doors-bengaluru-et50275"
+    "url": "https://www.zomato.com/events/tribute-to-the-doors-bengaluru-et50275",
+    "id": "com.zomato.50275",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97595324,
+        "longitude": 77.60161858
+      }
+    }
   },
   {
     "name": "Tribute to Coldplay",
@@ -1939,13 +2023,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Tribute to Coldplay Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Tribute to Coldplay Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -1994,7 +2071,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/tribute-to-coldplay-bengaluru-et50277"
+    "url": "https://www.zomato.com/events/tribute-to-coldplay-bengaluru-et50277",
+    "id": "com.zomato.50277",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97595324,
+        "longitude": 77.60161858
+      }
+    }
   },
   {
     "name": "Golden Era of Rock N Roll",
@@ -2004,13 +2091,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Golden Era of Rock N Roll Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Golden Era of Rock N Roll Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -2043,7 +2123,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/golden-era-of-rock-n-roll-bengaluru-et50286"
+    "url": "https://www.zomato.com/events/golden-era-of-rock-n-roll-bengaluru-et50286",
+    "id": "com.zomato.50286",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97595324,
+        "longitude": 77.60161858
+      }
+    }
   },
   {
     "name": "Tribute to Michael Jackson",
@@ -2053,13 +2143,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Tribute to Michael Jackson Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Tribute to Michael Jackson Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -2092,7 +2175,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/tribute-to-michael-jackson-bengaluru-et50291"
+    "url": "https://www.zomato.com/events/tribute-to-michael-jackson-bengaluru-et50291",
+    "id": "com.zomato.50291",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97595324,
+        "longitude": 77.60161858
+      }
+    }
   },
   {
     "name": "Tribute to Chainsmokers",
@@ -2102,13 +2195,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Tribute to Chainsmokers Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Tribute to Chainsmokers Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -2141,7 +2227,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/tribute-to-chainsmokers-bengaluru-et50302"
+    "url": "https://www.zomato.com/events/tribute-to-chainsmokers-bengaluru-et50302",
+    "id": "com.zomato.50302",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97595324,
+        "longitude": 77.60161858
+      }
+    }
   },
   {
     "name": "Tribute to Dream Theater",
@@ -2151,13 +2247,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Tribute to Dream Theater Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Tribute to Dream Theater Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -2190,7 +2279,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/tribute-to-dream-theater-bengaluru-et50303"
+    "url": "https://www.zomato.com/events/tribute-to-dream-theater-bengaluru-et50303",
+    "id": "com.zomato.50303",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97595324,
+        "longitude": 77.60161858
+      }
+    }
   },
   {
     "name": "We Jam",
@@ -2200,13 +2299,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Sarjapur - Marathahalli Rd, Saket Callipolis, Rainbow Drive, Doddakannelli",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "We Jam Trending event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for We Jam Bengaluru on Zomato which is a Trending event happening at Sarjapur - Marathahalli Rd, Saket Callipolis, Rainbow Drive, Doddakannelli",
@@ -2220,7 +2312,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:24:00",
         "availability": "INSTOCK",
-        "inventory": 145
+        "inventory": 109
       }
     ],
     "performers": [],
@@ -2231,7 +2323,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/we-jam-bengaluru-et50316"
+    "url": "https://www.zomato.com/events/we-jam-bengaluru-et50316",
+    "id": "com.zomato.50316",
+    "location": {
+      "name": "Sarjapur Social",
+      "address": "Sarjapur - Marathahalli Rd, Saket Callipolis, Rainbow Drive, Doddakannelli",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9105501,
+        "longitude": 77.68550518
+      }
+    }
   },
   {
     "name": "Dil-Luminati Tour - India",
@@ -2241,13 +2343,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Bengaluru",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Dil-Luminati Tour - India Trending event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Dil-Luminati Tour - India Bengaluru on Zomato which is a Trending event happening at Bengaluru",
@@ -2267,7 +2362,8 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398"
+    "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398",
+    "id": "com.zomato.50398"
   },
   {
     "name": "Karaoke Nights",
@@ -2277,13 +2373,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": true,
     "images": [
       "https://b.zmtcdn.com/data/zomaland/423b8366eec77af78e8d207c6814cac81725262751.jpeg"
@@ -2295,7 +2384,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:36",
         "availability": "INSTOCK",
-        "inventory": 66
+        "inventory": 61
       }
     ],
     "performers": [],
@@ -2306,7 +2395,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50521"
+    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50521",
+    "id": "com.zomato.50521",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.98717896,
+        "longitude": 77.7364802
+      }
+    }
   },
   {
     "name": "Unplugged Duos",
@@ -2316,13 +2415,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": true,
     "images": [
       "https://b.zmtcdn.com/data/zomaland/58886673e4aad60d4e6a699ac5b724a51725263093.jpeg"
@@ -2334,7 +2426,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:37",
         "availability": "INSTOCK",
-        "inventory": 59
+        "inventory": 58
       }
     ],
     "performers": [],
@@ -2345,7 +2437,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50522"
+    "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50522",
+    "id": "com.zomato.50522",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.98717896,
+        "longitude": 77.7364802
+      }
+    }
   },
   {
     "name": "Tribute to AR Rahman",
@@ -2355,13 +2457,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "images": [
       "https://b.zmtcdn.com/data/zomaland/b8bb60f8695590b62a18a52368f7ddd71725264232.jpeg"
@@ -2392,7 +2487,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/tribute-to-ar-rahman-bengaluru-et50528"
+    "url": "https://www.zomato.com/events/tribute-to-ar-rahman-bengaluru-et50528",
+    "id": "com.zomato.50528",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.98717896,
+        "longitude": 77.7364802
+      }
+    }
   },
   {
     "name": "Tribute to Sonu Nigam",
@@ -2402,13 +2507,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "images": [
       "https://b.zmtcdn.com/data/zomaland/335bfafac76dab9729a2d8d281f6a1fd1725265665.jpeg"
@@ -2439,7 +2537,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/tribute-to-sonu-nigam-bengaluru-et50533"
+    "url": "https://www.zomato.com/events/tribute-to-sonu-nigam-bengaluru-et50533",
+    "id": "com.zomato.50533",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.98717896,
+        "longitude": 77.7364802
+      }
+    }
   },
   {
     "name": "Tribute to Eric Clapton & Beatles",
@@ -2449,13 +2557,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "images": [
       "https://b.zmtcdn.com/data/zomaland/3358492b9d6c4730a6c0e899e4e91dae1725265325.jpeg"
@@ -2486,23 +2587,26 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/tribute-to-eric-clapton-beatles-bengaluru-et50537"
+    "url": "https://www.zomato.com/events/tribute-to-eric-clapton-beatles-bengaluru-et50537",
+    "id": "com.zomato.50537",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.98717896,
+        "longitude": 77.7364802
+      }
+    }
   },
   {
     "name": "Bengaluru Catapalooza",
-    "description": "#Bengaluru Claws and craft brews at Bira91 Tap Room! \uf8ff\u00fc\u00ea\u00b1\uf8ff\u00fc\u00e7\u222b Join us for a purrfect evening of feline fun and fantastic beers.\n\nInclusions: \nExciting games & gifts for your pets\nFree pet food buffet\nFree Basic health check-up\nA goodie bag for all Pets\nNo charges for pets!\n\nOn-ground tickets will be priced at 700/- per person.\n",
+    "description": "#Bengaluru Claws and craft brews at Bira91 Tap Room! \ud83d\udc31\ud83c\udf7a Join us for a purrfect evening of feline fun and fantastic beers.\n\nInclusions: \nExciting games & gifts for your pets\nFree pet food buffet\nFree Basic health check-up\nA goodie bag for all Pets\nNo charges for pets!\n\nOn-ground tickets will be priced at 700/- per person.\n",
     "startDate": "2024-09-22T12:00:00+05:30",
     "endDate": "2024-09-22T15:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, S.T. Bed, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "images": [
       "https://b.zmtcdn.com/data/zomaland/5c91cf0ba62bc38049f19a453b8394d01725271482.png",
@@ -2555,7 +2659,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/bangalore-catapalooza-bengaluru-et50554"
+    "url": "https://www.zomato.com/events/bangalore-catapalooza-bengaluru-et50554",
+    "id": "com.zomato.50554",
+    "location": {
+      "name": "BIRA91 Taproom, Koramangala",
+      "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, S.T. Bed, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.931436,
+        "longitude": 77.632913
+      }
+    }
   },
   {
     "name": "Mixmag",
@@ -2565,13 +2679,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": true,
     "ogTitle": "Mixmag Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Mixmag Bengaluru on Zomato which is a Music event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
@@ -2612,7 +2719,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/mixmag-bengaluru-et50555"
+    "url": "https://www.zomato.com/events/mixmag-bengaluru-et50555",
+    "id": "com.zomato.50555",
+    "location": {
+      "name": "HIGH Ultra Lounge",
+      "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.01297282,
+        "longitude": 77.55635768
+      }
+    }
   },
   {
     "name": "Urbn Night",
@@ -2622,13 +2739,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": true,
     "ogTitle": "Urbn Night Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Urbn Night Bengaluru on Zomato which is a Music event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
@@ -2650,7 +2760,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:58",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 195
       },
       {
         "url": "https://www.zomato.com/events/urbn-night-bengaluru-et50557/details",
@@ -2669,7 +2779,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/urbn-night-bengaluru-et50557"
+    "url": "https://www.zomato.com/events/urbn-night-bengaluru-et50557",
+    "id": "com.zomato.50557",
+    "location": {
+      "name": "HIGH Ultra Lounge",
+      "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.01343276,
+        "longitude": 77.55601435
+      }
+    }
   },
   {
     "name": "Vh1 Supersonic Club Nights",
@@ -2679,13 +2799,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": true,
     "ogTitle": "Vh1 Supersonic Club Nights Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Vh1 Supersonic Club Nights Bengaluru on Zomato which is a Music event happening at Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
@@ -2699,7 +2812,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:00",
         "availability": "INSTOCK",
-        "inventory": 92
+        "inventory": 86
       },
       {
         "url": "https://www.zomato.com/events/vh1-supersonic-club-nights-bengaluru-et50558/details",
@@ -2726,7 +2839,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/vh1-supersonic-club-nights-bengaluru-et50558"
+    "url": "https://www.zomato.com/events/vh1-supersonic-club-nights-bengaluru-et50558",
+    "id": "com.zomato.50558",
+    "location": {
+      "name": "Kitty Ko",
+      "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.99253608,
+        "longitude": 77.58203145
+      }
+    }
   },
   {
     "name": "Chai Pe Charcha",
@@ -2736,13 +2859,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
@@ -2767,7 +2883,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et50662"
+    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et50662",
+    "id": "com.zomato.50662",
+    "location": {
+      "name": "Small World, S.T. Bed",
+      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93327579,
+        "longitude": 77.63221323
+      }
+    }
   },
   {
     "name": "Chai Pe Charcha",
@@ -2777,13 +2903,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -2808,7 +2927,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et50664"
+    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et50664",
+    "id": "com.zomato.50664",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Chai Pe Charcha",
@@ -2818,13 +2947,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -2849,7 +2971,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et50665"
+    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et50665",
+    "id": "com.zomato.50665",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Resin Art Workshop",
@@ -2859,13 +2991,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -2890,7 +3015,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50672"
+    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50672",
+    "id": "com.zomato.50672",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Resin Art Workshop",
@@ -2900,13 +3035,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -2931,7 +3059,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50673"
+    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50673",
+    "id": "com.zomato.50673",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Resin Art Workshop",
@@ -2941,13 +3079,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -2972,7 +3103,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50674"
+    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50674",
+    "id": "com.zomato.50674",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Resin Art Workshop",
@@ -2982,13 +3123,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -3013,7 +3147,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50675"
+    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50675",
+    "id": "com.zomato.50675",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Resin Art Workshop",
@@ -3023,13 +3167,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -3054,7 +3191,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50676"
+    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50676",
+    "id": "com.zomato.50676",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Resin Art Workshop",
@@ -3064,13 +3211,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -3095,7 +3235,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50677"
+    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50677",
+    "id": "com.zomato.50677",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Resin Art Workshop",
@@ -3105,13 +3255,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -3136,7 +3279,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50678"
+    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50678",
+    "id": "com.zomato.50678",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Resin Art Workshop",
@@ -3146,13 +3299,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -3177,7 +3323,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50679"
+    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50679",
+    "id": "com.zomato.50679",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Resin Art Workshop",
@@ -3187,13 +3343,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -3218,7 +3367,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50680"
+    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50680",
+    "id": "com.zomato.50680",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Resin Art Workshop",
@@ -3228,13 +3387,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -3259,7 +3411,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50681"
+    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50681",
+    "id": "com.zomato.50681",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Dance Like a Bollywood Star",
@@ -3269,13 +3431,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Dance Like a Bollywood Star Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Dance Like a Bollywood Star Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
@@ -3300,7 +3455,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50701"
+    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50701",
+    "id": "com.zomato.50701",
+    "location": {
+      "name": "Small World, S.T. Bed",
+      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93327579,
+        "longitude": 77.63221323
+      }
+    }
   },
   {
     "name": "Dance Like a Bollywood Star",
@@ -3310,13 +3475,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Dance Like a Bollywood Star Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Dance Like a Bollywood Star Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
@@ -3341,7 +3499,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50702"
+    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50702",
+    "id": "com.zomato.50702",
+    "location": {
+      "name": "Small World, S.T. Bed",
+      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93327579,
+        "longitude": 77.63221323
+      }
+    }
   },
   {
     "name": "Dance Like a Bollywood Star",
@@ -3351,13 +3519,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Dance Like a Bollywood Star Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Dance Like a Bollywood Star Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
@@ -3382,7 +3543,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50703"
+    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50703",
+    "id": "com.zomato.50703",
+    "location": {
+      "name": "Small World, S.T. Bed",
+      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93327579,
+        "longitude": 77.63221323
+      }
+    }
   },
   {
     "name": "Dance Like a Bollywood Star",
@@ -3392,13 +3563,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Dance Like a Bollywood Star Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Dance Like a Bollywood Star Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -3423,7 +3587,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50704"
+    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50704",
+    "id": "com.zomato.50704",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Dance Like a Bollywood Star",
@@ -3433,13 +3607,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Dance Like a Bollywood Star Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Dance Like a Bollywood Star Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -3464,7 +3631,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50705"
+    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50705",
+    "id": "com.zomato.50705",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Dance Like a Bollywood Star",
@@ -3474,13 +3651,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Dance Like a Bollywood Star Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Dance Like a Bollywood Star Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -3505,7 +3675,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50706"
+    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50706",
+    "id": "com.zomato.50706",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Dance Like a Bollywood Star",
@@ -3515,13 +3695,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Dance Like a Bollywood Star Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Dance Like a Bollywood Star Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -3546,7 +3719,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50707"
+    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50707",
+    "id": "com.zomato.50707",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
   },
   {
     "name": "Salsa Dance",
@@ -3556,13 +3739,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
@@ -3603,7 +3779,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50753"
+    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50753",
+    "id": "com.zomato.50753",
+    "location": {
+      "name": "Small World, S.T. Bed",
+      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93327579,
+        "longitude": 77.63221323
+      }
+    }
   },
   {
     "name": "Salsa Dance",
@@ -3613,13 +3799,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
@@ -3660,7 +3839,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50754"
+    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50754",
+    "id": "com.zomato.50754",
+    "location": {
+      "name": "Small World, S.T. Bed",
+      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93327579,
+        "longitude": 77.63221323
+      }
+    }
   },
   {
     "name": "Salsa Dance",
@@ -3670,13 +3859,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
@@ -3717,7 +3899,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50755"
+    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50755",
+    "id": "com.zomato.50755",
+    "location": {
+      "name": "Small World, S.T. Bed",
+      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93327579,
+        "longitude": 77.63221323
+      }
+    }
   },
   {
     "name": "Salsa Dance",
@@ -3727,13 +3919,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
@@ -3774,7 +3959,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50757"
+    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50757",
+    "id": "com.zomato.50757",
+    "location": {
+      "name": "Small World, S.T. Bed",
+      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93327579,
+        "longitude": 77.63221323
+      }
+    }
   },
   {
     "name": "Salsa Dance",
@@ -3784,13 +3979,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "136, S.T. Bed, Cauvery Colony, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
@@ -3831,7 +4019,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759"
+    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759",
+    "id": "com.zomato.50759",
+    "location": {
+      "name": "Small World, S.T. Bed",
+      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93327579,
+        "longitude": 77.63221323
+      }
+    }
   },
   {
     "name": "Rahil Mehta",
@@ -3841,13 +4039,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd, Someshwarpura, Halasuru",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Rahil Mehta Party and Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Rahil Mehta Bengaluru on Zomato which is a Party and Music event happening at 1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd, Someshwarpura, Halasuru",
@@ -3880,7 +4071,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/rahil-mehta-bengaluru-et50840"
+    "url": "https://www.zomato.com/events/rahil-mehta-bengaluru-et50840",
+    "id": "com.zomato.50840",
+    "location": {
+      "name": "2Moons",
+      "address": "1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd, Someshwarpura, Halasuru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97421896,
+        "longitude": 77.62049423
+      }
+    }
   },
   {
     "name": "Bootleg Fridays",
@@ -3890,13 +4091,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Bootleg Fridays Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Bootleg Fridays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -3921,7 +4115,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50870"
+    "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50870",
+    "id": "com.zomato.50870",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97595324,
+        "longitude": 77.60161858
+      }
+    }
   },
   {
     "name": "Bootleg Fridays",
@@ -3931,13 +4135,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Bootleg Fridays Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Bootleg Fridays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -3962,7 +4159,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50871"
+    "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50871",
+    "id": "com.zomato.50871",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97595324,
+        "longitude": 77.60161858
+      }
+    }
   },
   {
     "name": "Bootleg Fridays",
@@ -3972,13 +4179,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Bootleg Fridays Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Bootleg Fridays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -4003,23 +4203,26 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50872"
+    "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50872",
+    "id": "com.zomato.50872",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97595324,
+        "longitude": 77.60161858
+      }
+    }
   },
   {
     "name": "Young Blues Rock",
-    "description": "YOUNG BLUES ROCK is set to explode with HEADSHOT delivering a high-octane blues and rock riot! \u00f0\u0178\u017d\u00b8\u00f0\u0178\u201d\u00a5 Feel the energy and let the music take over!",
+    "description": "YOUNG BLUES ROCK is set to explode with HEADSHOT delivering a high-octane blues and rock riot! \ud83c\udfb8\ud83d\udd25 Feel the energy and let the music take over!",
     "startDate": "2024-09-07T19:00:00+05:30",
     "endDate": "2024-09-07T21:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "ogTitle": "Young Blues Rock Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Young Blues Rock Bengaluru on Zomato which is a Music event happening at 2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -4044,98 +4247,44 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/young-blues-rock-bengaluru-et51010"
+    "url": "https://www.zomato.com/events/young-blues-rock-bengaluru-et51010",
+    "id": "com.zomato.51010",
+    "location": {
+      "name": "Gilly's Super Bar",
+      "address": "2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97209353,
+        "longitude": 77.60100828
+      }
+    }
   },
   {
-    "name": "AnyBody Can Dandiya 4.0 | White Feather",
-    "description": "Bangalore`s most popular & award-winning Durga Puja meets Bangalore`s most loved Dandiya celebration. ECCA & DesiClans come together to present you with an incredible socio-cultural dance fest in the form of `AnyBody Can Dandiya 4.0`.\n\nJust like our previous editions DesiClans brings the traditional Navratri experience on a grandeur and more luxurious scale. The best practices from the land of Dandiya - Gujarat brought down to the Silicon Valley of India - Bangalore.\n\nWe will showcase various types of Garba Dandiya Folk Dance and delicious Indian food items in a mesmerizing setting at White Feather Electronic City Road on 11th October.\nGet ready to be captivated by the enchanting beats of dhol swirling colors of traditional attire & joyous spirit of Navratri.",
-    "startDate": "2024-10-11T19:00:00+05:30",
-    "endDate": "2024-10-12T23:00:00+05:30",
+    "name": "SCC SkyCinema - 50 First Dates",
+    "description": "\"I just want you to know, I would never do anything to hurt you intentionally. And I will always cherish you.\" - 50 First Dates\n\nRediscover the magic of love with an outdoor movie experience that stays with you .. Forever! Prepare for a heartwarming experience as Sunset Cinema Club presents the screening of this classic at Forum South Bengaluru Mall.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.\n",
+    "startDate": "2024-09-14T19:30:00+05:30",
+    "endDate": "2024-09-14T22:30:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "NICE Toll Gate, Santara Magan Place Phase I, 40/41-1, Hobli-Begur, opposite METRO WHOLESALE, Electronic City, Beratena Agrahara, Bengaluru, Karnataka 560092",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
-    "ogTitle": "AnyBody Can Dandiya 4.0 | White Feather Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for AnyBody Can Dandiya 4.0 | White Feather Bengaluru on Zomato which is a Music event happening at NICE Toll Gate, Santara Magan Place Phase I, 40/41-1, Hobli-Begur, opposite METRO WHOLESALE, Electronic City, Beratena Agrahara, Bengaluru, Karnataka 560092",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/77293d743d5dcd0a0a7571d0e3b20c211725441989.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/0da4d15f293424bbbb4f56f21ff819ab1725446652.jpeg"
     ],
     "tickets": [
       {
-        "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023/details",
-        "price": 99,
+        "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et51050/details",
+        "price": 500,
         "currency": "INR",
-        "validFrom": "2024-09-04 15:00:12",
+        "validFrom": "2024-09-04 19:00:16",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 10
       },
       {
-        "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023/details",
-        "price": 399,
-        "currency": "INR",
-        "validFrom": "2024-09-04 15:00:12",
-        "availability": "INSTOCK",
-        "inventory": 700
-      },
-      {
-        "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-04 15:00:12",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023/details",
-        "price": 849,
-        "currency": "INR",
-        "validFrom": "2024-09-04 15:00:13",
-        "availability": "INSTOCK",
-        "inventory": 700
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023"
-  },
-  {
-    "name": "SCC Picnic Cinema - Zindagi Na Milegi Dobara",
-    "description": "\"Seize the day, my friend. Pehle is din ko poori tarah jiyo, phir chalis ke bare mein sochna.\" - Zindagi Na Milegi Dobara\n\nPrepare to embark on a cinematic adventure like never before as Sunset Cinema Club presents the screening of this classic at Garden City Beer Collective (GCBC). Get ready to indulge your senses and immerse yourself in the magic of the silver screen under the open sky.\n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favourite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
-    "startDate": "2024-09-27T19:30:00+05:30",
-    "endDate": "2024-09-27T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Garden City Beer Collective (GCBC),82/2, Gantiganahalli",
-        "addressCountry": "India"
-      }
-    ],
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/8575d5fdc3fa6bcedf4381dd331031ba1725447211.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-picnic-cinema-zindagi-na-milegi-dobara-bengaluru-et51062/details",
+        "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et51050/details",
         "price": 600,
         "currency": "INR",
-        "validFrom": "2024-09-04 19:00:12",
+        "validFrom": "2024-09-04 19:00:16",
         "availability": "INSTOCK",
         "inventory": 10
       }
@@ -4148,7 +4297,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/scc-picnic-cinema-zindagi-na-milegi-dobara-bengaluru-et51062"
+    "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et51050",
+    "id": "com.zomato.51050",
+    "location": {
+      "name": "Forum South Bengaluru",
+      "address": "Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.25228833,
+        "longitude": 77.7606939
+      }
+    }
   },
   {
     "name": "SCC SkyCinema - 25 Years of Notting Hill",
@@ -4158,13 +4317,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "images": [
       "https://b.zmtcdn.com/data/zomaland/349362d8a5c6b49d9fde64c8c1463da31725447279.jpeg"
@@ -4187,7 +4339,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/scc-skycinema-25-years-of-notting-hill-bengaluru-et51063"
+    "url": "https://www.zomato.com/events/scc-skycinema-25-years-of-notting-hill-bengaluru-et51063",
+    "id": "com.zomato.51063",
+    "location": {
+      "name": "1 MG - Lido Mall",
+      "address": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97480423,
+        "longitude": 77.62066549
+      }
+    }
   },
   {
     "name": "SCC SkyCinema - The Proposal",
@@ -4197,13 +4359,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "images": [
       "https://b.zmtcdn.com/data/zomaland/f7b3515510e510ae14f5b2d0b5af1a931725447593.jpeg"
@@ -4226,7 +4381,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/scc-skycinema-the-proposal-bengaluru-et51077"
+    "url": "https://www.zomato.com/events/scc-skycinema-the-proposal-bengaluru-et51077",
+    "id": "com.zomato.51077",
+    "location": {
+      "name": "Chapter 6",
+      "address": "Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93531356,
+        "longitude": 77.62135638
+      }
+    }
   },
   {
     "name": "SCC SkyCinema - Hum Tum",
@@ -4236,13 +4401,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "images": [
       "https://b.zmtcdn.com/data/zomaland/852791184b0f7ab94467a76707e322791725447695.jpeg"
@@ -4265,7 +4423,17 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/scc-skycinema-hum-tum-bengaluru-et51078"
+    "url": "https://www.zomato.com/events/scc-skycinema-hum-tum-bengaluru-et51078",
+    "id": "com.zomato.51078",
+    "location": {
+      "name": "Chapter 6",
+      "address": "Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93531356,
+        "longitude": 77.62135638
+      }
+    }
   },
   {
     "name": "SCC SkyCinema - Rockstar",
@@ -4275,13 +4443,6 @@
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
-    "locations": [
-      {
-        "place": "Bengaluru",
-        "streetAddress": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru, Karnataka 560008",
-        "addressCountry": "India"
-      }
-    ],
     "isAccessibleForFree": false,
     "images": [
       "https://b.zmtcdn.com/data/zomaland/a2c86e279e1ca629eeaccc8d4e0dc73f1725455792.jpeg"
@@ -4304,6 +4465,68 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/movies-by-the-lake-yeh-jawaani-hai-deewani-bengaluru-et51115"
+    "url": "https://www.zomato.com/events/movies-by-the-lake-yeh-jawaani-hai-deewani-bengaluru-et51115",
+    "id": "com.zomato.51115",
+    "location": {
+      "name": "1 MG - Lido Mall",
+      "address": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru, Karnataka 560008",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97480423,
+        "longitude": 77.62066549
+      }
+    }
+  },
+  {
+    "name": "Dynamite Disco Club 095 at The Burrow",
+    "description": "Get ready for another electrifying night with India\u2019s best Disco and House music experience! Dynamite Disco Club returns to The Burrow this month on Saturday, September 16th, 8:30 pm onwards! \n\nThis edition features Head Honcho Stalvart John, along with Dynamite mainstay  Farhan Rehman, and the groovy sounds of Yumvee. Don't miss out on a night of pulsating beats and incredible vibes at the DDC console!",
+    "startDate": "2024-09-14T20:30:00+05:30",
+    "endDate": "2024-09-15T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Dynamite Disco Club 095 at The Burrow Music and Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Dynamite Disco Club 095 at The Burrow Bengaluru on Zomato which is a Music and Experiences event happening at 37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/cc57639b6bdd05acf0833bb27a5922a01725541040.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/dynamite-disco-club-095-at-the-burrow-bengaluru-et51225/details",
+        "price": 250,
+        "currency": "INR",
+        "validFrom": "2024-09-05 18:31:08",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/dynamite-disco-club-095-at-the-burrow-bengaluru-et51225/details",
+        "price": 400,
+        "currency": "INR",
+        "validFrom": "2024-09-05 18:31:09",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/dynamite-disco-club-095-at-the-burrow-bengaluru-et51225",
+    "id": "com.zomato.51225",
+    "location": {
+      "name": "The Burrow, Bangalore",
+      "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.98593446,
+        "longitude": 77.58149275
+      }
+    }
   }
 ]
