@@ -1772,50 +1772,6 @@
     }
   },
   {
-    "name": "Tribute to Dire Straits",
-    "description": "The Butterfingers\u2026.the band of brothers\u2026err\u2026band of friends are coming together again at Wanderers to enthrall you with Retro Recapture, as evening of music from the '60s through the 90s!\nHighly versatile to make you swing and jive, Butterfingers will give you an evening to relive and revive your memories.\nDominic D\u2019Cruz on Bass & Vocals; Eric Samuel on Guitar and vocals; Niranjan Joseph on Flute, Bass and Vocals; Canute D\u2019Cruz on Drums & Vocals and Joshua Costa on the Key Board, the Fab Five of Bangalore are sure to thrill you with their music as they always do.\"",
-    "startDate": "2024-09-05 20:30:00",
-    "endDate": "2024-09-05 23:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Dire Straits Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Dire Straits Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/14ef7859d3b667da82428c40f3bda7811724931048.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-dire-straits-bengaluru-et50190/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-08-29 17:02:48",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-dire-straits-bengaluru-et50190",
-    "id": "com.zomato.50190",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Remix Nights",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-09-07T20:30:00+05:30",
@@ -2366,48 +2322,6 @@
     "id": "com.zomato.50398"
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-09-05 20:30:00",
-    "endDate": "2024-09-05 23:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/423b8366eec77af78e8d207c6814cac81725262751.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50521/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-02 14:04:36",
-        "availability": "INSTOCK",
-        "inventory": 66
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50521",
-    "id": "com.zomato.50521",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
-  },
-  {
     "name": "Unplugged Duos",
     "description": "Catch Presentense performing live your favourite tracks at Hard Rock Cafe, Whitrefield, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-09-06T20:30:00+05:30",
@@ -2426,7 +2340,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:37",
         "availability": "INSTOCK",
-        "inventory": 59
+        "inventory": 58
       }
     ],
     "performers": [],
@@ -2760,7 +2674,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:58",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 195
       },
       {
         "url": "https://www.zomato.com/events/urbn-night-bengaluru-et50557/details",
@@ -2768,7 +2682,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:58",
         "availability": "INSTOCK",
-        "inventory": 192
+        "inventory": 191
       }
     ],
     "performers": [],
@@ -2812,7 +2726,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:00",
         "availability": "INSTOCK",
-        "inventory": 92
+        "inventory": 86
       },
       {
         "url": "https://www.zomato.com/events/vh1-supersonic-club-nights-bengaluru-et50558/details",
@@ -2828,7 +2742,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:00",
         "availability": "INSTOCK",
-        "inventory": 92
+        "inventory": 91
       }
     ],
     "performers": [],
@@ -3914,6 +3828,66 @@
   {
     "name": "Salsa Dance",
     "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
+    "startDate": "2024-09-15T20:00:00+05:30",
+    "endDate": "2024-09-15T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/98a13be4119fb1df87ecbe8ff0c1f2ed1725340941.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50756/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-03 11:49:09",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50756/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-03 11:49:09",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50756/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-09-03 11:49:10",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50756",
+    "id": "com.zomato.50756",
+    "location": {
+      "name": "Small World, S.T. Bed",
+      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93327579,
+        "longitude": 77.63221323
+      }
+    }
+  },
+  {
+    "name": "Salsa Dance",
+    "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
     "startDate": "2024-09-21T20:00:00+05:30",
     "endDate": "2024-09-21T21:00:00+05:30",
     "timezone": "+05:30",
@@ -3972,95 +3946,27 @@
     }
   },
   {
-    "name": "Salsa Dance",
-    "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
-    "startDate": "2024-09-28T20:00:00+05:30",
-    "endDate": "2024-09-28T21:00:00+05:30",
+    "name": "Bootleg Fridays",
+    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air. Starting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Adi, Laidback Levi & Zenshy and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+    "startDate": "2024-09-13T20:30:00+05:30",
+    "endDate": "2024-09-13T23:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
+    "ogTitle": "Bootleg Fridays Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bootleg Fridays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/98a13be4119fb1df87ecbe8ff0c1f2ed1725340941.png"
+      "https://b.zmtcdn.com/data/zomaland/2c9df4e6095c2088e0a29298ccd041911725375748.jpeg"
     ],
     "tickets": [
       {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:12",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:13",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:13",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759",
-    "id": "com.zomato.50759",
-    "location": {
-      "name": "Small World, S.T. Bed",
-      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93327579,
-        "longitude": 77.63221323
-      }
-    }
-  },
-  {
-    "name": "Rahil Mehta",
-    "description": "Get ready for an unforgettable night on 21st September 2024 at Two Moons and Juliet, Bangalore! The legendary Rahill Mehta is taking over the decks for a massive event that will leave you breathless. With his electrifying beats and unmatched energy, Rahill is set to create an atmosphere like never before.\n\nThis isn't just a party\u2014it's an experience. Two Moons and Juliet will be transformed into a dazzling spectacle of sound and light. Tickets are selling fast, so don\u2019t miss your chance to be part of the most talked-about event of the year!",
-    "startDate": "2024-09-21T19:00:00+05:30",
-    "endDate": "2024-09-22T01:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Rahil Mehta Party and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rahil Mehta Bengaluru on Zomato which is a Party and Music event happening at 1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd, Someshwarpura, Halasuru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/8f08e45bc12dfa8c24d2b05fbc3c1a091725364359.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/rahil-mehta-bengaluru-et50840/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-09-03 17:38:42",
-        "availability": "INSTOCK",
-        "inventory": 25
-      },
-      {
-        "url": "https://www.zomato.com/events/rahil-mehta-bengaluru-et50840/details",
+        "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50869/details",
         "price": 1000,
         "currency": "INR",
-        "validFrom": "2024-09-03 17:38:43",
+        "validFrom": "2024-09-03 21:18:44",
         "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 100
       }
     ],
     "performers": [],
@@ -4071,15 +3977,15 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/rahil-mehta-bengaluru-et50840",
-    "id": "com.zomato.50840",
+    "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50869",
+    "id": "com.zomato.50869",
     "location": {
-      "name": "2Moons",
-      "address": "1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd, Someshwarpura, Halasuru",
+      "name": "Hard Rock Cafe",
+      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 12.97421896,
-        "longitude": 77.62049423
+        "latitude": 12.97595324,
+        "longitude": 77.60161858
       }
     }
   },
@@ -4260,31 +4166,31 @@
     }
   },
   {
-    "name": "SCC SkyCinema - 50 First Dates",
-    "description": "\"I just want you to know, I would never do anything to hurt you intentionally. And I will always cherish you.\" - 50 First Dates\n\nRediscover the magic of love with an outdoor movie experience that stays with you .. Forever! Prepare for a heartwarming experience as Sunset Cinema Club presents the screening of this classic at Forum South Bengaluru Mall.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.\n",
-    "startDate": "2024-09-14T19:30:00+05:30",
-    "endDate": "2024-09-14T22:30:00+05:30",
+    "name": "SCC SkyCinema - 15 Years of Love Aaj Kal",
+    "description": "\"\u201cJaane se pehle, ek aakhri baar milna kyun zaroori hota hai?\u201d - Love Aaj Kal\n\nRevisit the iconic love story of Jai and Meera as we celebrate the 15th Anniversary of \"Love Aaj Kal.\" Join us for a screening of this heartwarming film that explores the complexities of love, relationships, and the passage of time under the starry night sky.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.\n",
+    "startDate": "2024-09-21T19:30:00+05:30",
+    "endDate": "2024-09-21T22:30:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/0da4d15f293424bbbb4f56f21ff819ab1725446652.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/a4875e3831dc258c442fcbc66ffccf2f1725446968.jpeg"
     ],
     "tickets": [
       {
-        "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et51050/details",
+        "url": "https://www.zomato.com/events/scc-skycinema-15-years-of-love-aaj-kal-bengaluru-et51056/details",
         "price": 500,
         "currency": "INR",
-        "validFrom": "2024-09-04 19:00:16",
+        "validFrom": "2024-09-04 19:00:17",
         "availability": "INSTOCK",
         "inventory": 10
       },
       {
-        "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et51050/details",
+        "url": "https://www.zomato.com/events/scc-skycinema-15-years-of-love-aaj-kal-bengaluru-et51056/details",
         "price": 600,
         "currency": "INR",
-        "validFrom": "2024-09-04 19:00:16",
+        "validFrom": "2024-09-04 19:00:17",
         "availability": "INSTOCK",
         "inventory": 10
       }
@@ -4297,8 +4203,8 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et51050",
-    "id": "com.zomato.51050",
+    "url": "https://www.zomato.com/events/scc-skycinema-15-years-of-love-aaj-kal-bengaluru-et51056",
+    "id": "com.zomato.51056",
     "location": {
       "name": "Forum South Bengaluru",
       "address": "Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte",
@@ -4306,6 +4212,90 @@
         "@type": "GeoCoordinates",
         "latitude": 13.25228833,
         "longitude": 77.7606939
+      }
+    }
+  },
+  {
+    "name": "SCC Picnic Cinema - About Time",
+    "description": "\"I am going to live every day as if it's the last day of my life.\" - About Time\n\nPrepare for an extraordinary evening under the stars as Sunset Cinema Club invites you to the screening of this heartwarming and time-bending film. Join us for a cinematic journey that explores love, laughter, and the magic found in the most ordinary moments at Garden City Beer Collective (GCBC). \n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favourite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
+    "startDate": "2024-09-20T19:30:00+05:30",
+    "endDate": "2024-09-20T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/c28269023d38d3a5988a3d3c05efe8151725447103.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-picnic-cinema-about-time-bengaluru-et51057/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-04 19:00:12",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-picnic-cinema-about-time-bengaluru-et51057",
+    "id": "com.zomato.51057",
+    "location": {
+      "name": "Garden City Beer Collective (GCBC)",
+      "address": "Garden City Beer Collective (GCBC),82/2, Gantiganahalli",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.14365198,
+        "longitude": 77.58441173
+      }
+    }
+  },
+  {
+    "name": "SCC Picnic Cinema - Zindagi Na Milegi Dobara",
+    "description": "\"Seize the day, my friend. Pehle is din ko poori tarah jiyo, phir chalis ke bare mein sochna.\" - Zindagi Na Milegi Dobara\n\nPrepare to embark on a cinematic adventure like never before as Sunset Cinema Club presents the screening of this classic at Garden City Beer Collective (GCBC). Get ready to indulge your senses and immerse yourself in the magic of the silver screen under the open sky.\n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favourite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
+    "startDate": "2024-09-27T19:30:00+05:30",
+    "endDate": "2024-09-27T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/8575d5fdc3fa6bcedf4381dd331031ba1725447211.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-picnic-cinema-zindagi-na-milegi-dobara-bengaluru-et51062/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-04 19:00:12",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-picnic-cinema-zindagi-na-milegi-dobara-bengaluru-et51062",
+    "id": "com.zomato.51062",
+    "location": {
+      "name": "Garden City Beer Collective (GCBC)",
+      "address": "Garden City Beer Collective (GCBC),82/2, Gantiganahalli",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.14365198,
+        "longitude": 77.58441173
       }
     }
   },
