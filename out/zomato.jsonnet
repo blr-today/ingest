@@ -1812,7 +1812,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 17:41:36",
         "availability": "INSTOCK",
-        "inventory": 81
+        "inventory": 73
       }
     ],
     "performers": [],
@@ -2171,7 +2171,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 12:50:34",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 29
       },
       {
         "url": "https://www.zomato.com/events/tribute-to-dream-theater-bengaluru-et50303/details",
@@ -2220,7 +2220,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:24:00",
         "availability": "INSTOCK",
-        "inventory": 160
+        "inventory": 145
       }
     ],
     "performers": [],
