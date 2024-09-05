@@ -557,7 +557,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 94
+        "inventory": 93
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -1015,7 +1015,7 @@
   },
   {
     "name": "Sajanka live at Sunburn Union",
-    "description": "Prepare for an unforgettable night with Sajanka, the acclaimed musician from Israel, known for crafting mesmerizing soundscapes and infectious rhythms. \ud83c\udfb6 Join us on the 22nd of September at Sunburn Union for a live performance that promises to be a unique celebration of music and energy. Book your tickets NOW!",
+    "description": "Prepare for an unforgettable night with Sajanka, the acclaimed musician from Israel, known for crafting mesmerizing soundscapes and infectious rhythms. \u00f0\u0178\u017d\u00b6 Join us on the 22nd of September at Sunburn Union for a live performance that promises to be a unique celebration of music and energy. Book your tickets NOW!",
     "startDate": "2024-09-22T19:30:00+05:30",
     "endDate": "2024-09-23T01:00:00+05:30",
     "timezone": "+05:30",
@@ -1549,7 +1549,7 @@
   },
   {
     "name": "Onam Bash @ White lotus",
-    "description": "Get ready to groove and celebrate the rich heritage of Onam like never\nbefore at our electrifying Onam DJ Night! \ud83c\udf1f\u2728\n\nJoin us for a night where traditional charm meets contemporary beats.\nOur DJ will spin a fusion of classic Onam tunes and the latest\nchart-toppers, ensuring the dance floor is always buzzing with energy.\n\nSpecial  Chinkari mela with DJ",
+    "description": "Get ready to groove and celebrate the rich heritage of Onam like never\nbefore at our electrifying Onam DJ Night! \u00f0\u0178\u0152\u0178\u00e2\u0153\u00a8\n\nJoin us for a night where traditional charm meets contemporary beats.\nOur DJ will spin a fusion of classic Onam tunes and the latest\nchart-toppers, ensuring the dance floor is always buzzing with energy.\n\nSpecial  Chinkari mela with DJ",
     "startDate": "2024-09-15T20:00:00+05:30",
     "endDate": "2024-09-16T00:30:00+05:30",
     "timezone": "+05:30",
@@ -1721,7 +1721,7 @@
   },
   {
     "name": "Ethnic Dandiya At White Lotus HSR - Season - 2",
-    "description": "Get ready to groove to the beats of Ethnic Dandiya at White Lotus Club, HSR! \ud83e\udd41 It`s going to be an incredible night of infectious beats, exhilarating moves, and the perfect blend of tradition and fun!",
+    "description": "Get ready to groove to the beats of Ethnic Dandiya at White Lotus Club, HSR! \uf8ff\u00fc\u2022\u00c5 It`s going to be an incredible night of infectious beats, exhilarating moves, and the perfect blend of tradition and fun!",
     "startDate": "2024-10-04T17:30:00+05:30",
     "endDate": "2024-10-11T01:00:00+05:30",
     "timezone": "+05:30",
@@ -1774,8 +1774,8 @@
   {
     "name": "Tribute to Dire Straits",
     "description": "The Butterfingers\u2026.the band of brothers\u2026err\u2026band of friends are coming together again at Wanderers to enthrall you with Retro Recapture, as evening of music from the '60s through the 90s!\nHighly versatile to make you swing and jive, Butterfingers will give you an evening to relive and revive your memories.\nDominic D\u2019Cruz on Bass & Vocals; Eric Samuel on Guitar and vocals; Niranjan Joseph on Flute, Bass and Vocals; Canute D\u2019Cruz on Drums & Vocals and Joshua Costa on the Key Board, the Fab Five of Bangalore are sure to thrill you with their music as they always do.\"",
-    "startDate": "2024-09-05T20:30:00+05:30",
-    "endDate": "2024-09-05T23:00:00+05:30",
+    "startDate": "2024-09-05 20:30:00",
+    "endDate": "2024-09-05 23:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1880,7 +1880,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 17:41:36",
         "availability": "INSTOCK",
-        "inventory": 71
+        "inventory": 73
       }
     ],
     "performers": [],
@@ -2312,7 +2312,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:24:00",
         "availability": "INSTOCK",
-        "inventory": 109
+        "inventory": 145
       }
     ],
     "performers": [],
@@ -2368,8 +2368,8 @@
   {
     "name": "Karaoke Nights",
     "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-09-05T20:30:00+05:30",
-    "endDate": "2024-09-05T23:00:00+05:30",
+    "startDate": "2024-09-05 20:30:00",
+    "endDate": "2024-09-05 23:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2384,7 +2384,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:36",
         "availability": "INSTOCK",
-        "inventory": 61
+        "inventory": 66
       }
     ],
     "performers": [],
@@ -2426,7 +2426,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:37",
         "availability": "INSTOCK",
-        "inventory": 58
+        "inventory": 59
       }
     ],
     "performers": [],
@@ -2601,7 +2601,7 @@
   },
   {
     "name": "Bengaluru Catapalooza",
-    "description": "#Bengaluru Claws and craft brews at Bira91 Tap Room! \ud83d\udc31\ud83c\udf7a Join us for a purrfect evening of feline fun and fantastic beers.\n\nInclusions: \nExciting games & gifts for your pets\nFree pet food buffet\nFree Basic health check-up\nA goodie bag for all Pets\nNo charges for pets!\n\nOn-ground tickets will be priced at 700/- per person.\n",
+    "description": "#Bengaluru Claws and craft brews at Bira91 Tap Room! \uf8ff\u00fc\u00ea\u00b1\uf8ff\u00fc\u00e7\u222b Join us for a purrfect evening of feline fun and fantastic beers.\n\nInclusions: \nExciting games & gifts for your pets\nFree pet food buffet\nFree Basic health check-up\nA goodie bag for all Pets\nNo charges for pets!\n\nOn-ground tickets will be priced at 700/- per person.\n",
     "startDate": "2024-09-22T12:00:00+05:30",
     "endDate": "2024-09-22T15:00:00+05:30",
     "timezone": "+05:30",
@@ -2760,7 +2760,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:58",
         "availability": "INSTOCK",
-        "inventory": 195
+        "inventory": 198
       },
       {
         "url": "https://www.zomato.com/events/urbn-night-bengaluru-et50557/details",
@@ -2812,7 +2812,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:00",
         "availability": "INSTOCK",
-        "inventory": 86
+        "inventory": 92
       },
       {
         "url": "https://www.zomato.com/events/vh1-supersonic-club-nights-bengaluru-et50558/details",
@@ -4217,7 +4217,7 @@
   },
   {
     "name": "Young Blues Rock",
-    "description": "YOUNG BLUES ROCK is set to explode with HEADSHOT delivering a high-octane blues and rock riot! \ud83c\udfb8\ud83d\udd25 Feel the energy and let the music take over!",
+    "description": "YOUNG BLUES ROCK is set to explode with HEADSHOT delivering a high-octane blues and rock riot! \u00f0\u0178\u017d\u00b8\u00f0\u0178\u201d\u00a5 Feel the energy and let the music take over!",
     "startDate": "2024-09-07T19:00:00+05:30",
     "endDate": "2024-09-07T21:00:00+05:30",
     "timezone": "+05:30",
