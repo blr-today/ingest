@@ -20,6 +20,7 @@ def to_schema_org_music_event(event_info):
         name = "Sofar concert"
 
     categories = ""
+    neighbourhood = None
     try:
         categories = "/".join([x["name"] for x in event_info["venue"]["venueCategories"]])
     except TypeError:
@@ -27,6 +28,7 @@ def to_schema_org_music_event(event_info):
     if categories != "Other":
         name += categories + " in "
     try:
+        neighbourhood = event_info["venue"]["neighborhood"]["title"]
         name += event_info["venue"]["neighborhood"]["title"]
     except Exception:
         name += event_info["city"]["title"]
@@ -38,7 +40,11 @@ def to_schema_org_music_event(event_info):
         "doorTime": guestsArriveAt.isoformat(),
         "endDate": endsAt.isoformat(),
         "name": name,
-        "description": "An intimate concert by Sofar Sounds, at an offbeat venue.",
+        "description": "An intimate concert by Sofar Sounds, at an offbeat venue. Venue details will be disclosed 36 hours before the event.",
+        "location": {
+            "@type": "Place",
+            "address": neighbourhood or event_info["city"]["title"]
+        }
     }
 
     return music_event_schema
