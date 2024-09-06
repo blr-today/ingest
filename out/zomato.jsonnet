@@ -1792,7 +1792,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 17:23:18",
         "availability": "INSTOCK",
-        "inventory": 77
+        "inventory": 73
       }
     ],
     "performers": [],
@@ -1836,7 +1836,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 17:41:36",
         "availability": "INSTOCK",
-        "inventory": 73
+        "inventory": 69
       }
     ],
     "performers": [],
@@ -2267,8 +2267,8 @@
         "price": 399,
         "currency": "INR",
         "validFrom": "2024-08-30 15:24:00",
-        "availability": "INSTOCK",
-        "inventory": 145
+        "availability": "SELLING_FAST",
+        "inventory": 51
       }
     ],
     "performers": [],
@@ -3946,6 +3946,126 @@
     }
   },
   {
+    "name": "Salsa Dance",
+    "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
+    "startDate": "2024-09-22T20:00:00+05:30",
+    "endDate": "2024-09-22T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/98a13be4119fb1df87ecbe8ff0c1f2ed1725340941.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50758/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-03 11:49:11",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50758/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-03 11:49:11",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50758/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-09-03 11:49:12",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50758",
+    "id": "com.zomato.50758",
+    "location": {
+      "name": "Small World, S.T. Bed",
+      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93327579,
+        "longitude": 77.63221323
+      }
+    }
+  },
+  {
+    "name": "Salsa Dance",
+    "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
+    "startDate": "2024-09-29T20:00:00+05:30",
+    "endDate": "2024-09-29T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/98a13be4119fb1df87ecbe8ff0c1f2ed1725340941.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50760/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-03 11:49:13",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50760/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-03 11:49:14",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50760/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-09-03 11:49:14",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50760",
+    "id": "com.zomato.50760",
+    "location": {
+      "name": "Small World, S.T. Bed",
+      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93327579,
+        "longitude": 77.63221323
+      }
+    }
+  },
+  {
     "name": "Bootleg Fridays",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air. Starting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Adi, Laidback Levi & Zenshy and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-09-13T20:30:00+05:30",
@@ -3979,50 +4099,6 @@
     ],
     "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50869",
     "id": "com.zomato.50869",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Bootleg Fridays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air. Starting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Chan and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-09-20T20:30:00+05:30",
-    "endDate": "2024-09-20T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Bootleg Fridays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bootleg Fridays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/106a48a5306f69f8d52e61d2baff4c081725375825.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50870/details",
-        "price": 1000,
-        "currency": "INR",
-        "validFrom": "2024-09-03 21:18:44",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50870",
-    "id": "com.zomato.50870",
     "location": {
       "name": "Hard Rock Cafe",
       "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -4166,6 +4242,124 @@
     }
   },
   {
+    "name": "AnyBody Can Dandiya 4.0 | White Feather",
+    "description": "Bangalore`s most popular & award-winning Durga Puja meets Bangalore`s most loved Dandiya celebration. ECCA & DesiClans come together to present you with an incredible socio-cultural dance fest in the form of `AnyBody Can Dandiya 4.0`.\n\nJust like our previous editions DesiClans brings the traditional Navratri experience on a grandeur and more luxurious scale. The best practices from the land of Dandiya - Gujarat brought down to the Silicon Valley of India - Bangalore.\n\nWe will showcase various types of Garba Dandiya Folk Dance and delicious Indian food items in a mesmerizing setting at White Feather Electronic City Road on 11th October.\nGet ready to be captivated by the enchanting beats of dhol swirling colors of traditional attire & joyous spirit of Navratri.",
+    "startDate": "2024-10-11T19:00:00+05:30",
+    "endDate": "2024-10-12T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "AnyBody Can Dandiya 4.0 | White Feather Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for AnyBody Can Dandiya 4.0 | White Feather Bengaluru on Zomato which is a Music event happening at NICE Toll Gate, Santara Magan Place Phase I, 40/41-1, Hobli-Begur, opposite METRO WHOLESALE, Electronic City, Beratena Agrahara, Bengaluru, Karnataka 560092",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/77293d743d5dcd0a0a7571d0e3b20c211725441989.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-04 15:00:12",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-09-04 15:00:12",
+        "availability": "INSTOCK",
+        "inventory": 700
+      },
+      {
+        "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-04 15:00:12",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023/details",
+        "price": 849,
+        "currency": "INR",
+        "validFrom": "2024-09-04 15:00:13",
+        "availability": "INSTOCK",
+        "inventory": 700
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023",
+    "id": "com.zomato.51023",
+    "location": {
+      "name": "White Feather",
+      "address": "NICE Toll Gate, Santara Magan Place Phase I, 40/41-1, Hobli-Begur, opposite METRO WHOLESALE, Electronic City, Beratena Agrahara, Bengaluru, Karnataka 560092",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.86069269,
+        "longitude": 77.66069157
+      }
+    }
+  },
+  {
+    "name": "SCC SkyCinema - 50 First Dates",
+    "description": "\"I just want you to know, I would never do anything to hurt you intentionally. And I will always cherish you.\" - 50 First Dates\n\nRediscover the magic of love with an outdoor movie experience that stays with you .. Forever! Prepare for a heartwarming experience as Sunset Cinema Club presents the screening of this classic at Forum South Bengaluru Mall.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.\n",
+    "startDate": "2024-09-14T19:30:00+05:30",
+    "endDate": "2024-09-14T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/0da4d15f293424bbbb4f56f21ff819ab1725446652.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et51050/details",
+        "price": 500,
+        "currency": "INR",
+        "validFrom": "2024-09-04 19:00:16",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et51050/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-04 19:00:16",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et51050",
+    "id": "com.zomato.51050",
+    "location": {
+      "name": "Forum South Bengaluru",
+      "address": "Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.25228833,
+        "longitude": 77.7606939
+      }
+    }
+  },
+  {
     "name": "SCC SkyCinema - 15 Years of Love Aaj Kal",
     "description": "\"\u201cJaane se pehle, ek aakhri baar milna kyun zaroori hota hai?\u201d - Love Aaj Kal\n\nRevisit the iconic love story of Jai and Meera as we celebrate the 15th Anniversary of \"Love Aaj Kal.\" Join us for a screening of this heartwarming film that explores the complexities of love, relationships, and the passage of time under the starry night sky.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.\n",
     "startDate": "2024-09-21T19:30:00+05:30",
@@ -4212,48 +4406,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.25228833,
         "longitude": 77.7606939
-      }
-    }
-  },
-  {
-    "name": "SCC Picnic Cinema - About Time",
-    "description": "\"I am going to live every day as if it's the last day of my life.\" - About Time\n\nPrepare for an extraordinary evening under the stars as Sunset Cinema Club invites you to the screening of this heartwarming and time-bending film. Join us for a cinematic journey that explores love, laughter, and the magic found in the most ordinary moments at Garden City Beer Collective (GCBC). \n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favourite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
-    "startDate": "2024-09-20T19:30:00+05:30",
-    "endDate": "2024-09-20T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/c28269023d38d3a5988a3d3c05efe8151725447103.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-picnic-cinema-about-time-bengaluru-et51057/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-09-04 19:00:12",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-picnic-cinema-about-time-bengaluru-et51057",
-    "id": "com.zomato.51057",
-    "location": {
-      "name": "Garden City Beer Collective (GCBC)",
-      "address": "Garden City Beer Collective (GCBC),82/2, Gantiganahalli",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.14365198,
-        "longitude": 77.58441173
       }
     }
   },
@@ -4468,35 +4620,27 @@
     }
   },
   {
-    "name": "Dynamite Disco Club 095 at The Burrow",
-    "description": "Get ready for another electrifying night with India\u2019s best Disco and House music experience! Dynamite Disco Club returns to The Burrow this month on Saturday, September 16th, 8:30 pm onwards! \n\nThis edition features Head Honcho Stalvart John, along with Dynamite mainstay  Farhan Rehman, and the groovy sounds of Yumvee. Don't miss out on a night of pulsating beats and incredible vibes at the DDC console!",
-    "startDate": "2024-09-14T20:30:00+05:30",
-    "endDate": "2024-09-15T01:00:00+05:30",
+    "name": "Glow after dark DJ night",
+    "description": "Get ready for an electrifying evening at Scintillation, the premier cultural fest at Jyoti Nivas College, themed around the iconic Coachella experience! Dive into the excitement of our DJ night, where you'll enjoy a sensational blend of Bollywood commercial hits and South Indian beats. With dynamic performances from acclaimed artists and a fusion of vibrant rhythms and energetic music, this celebration promises an unforgettable night filled with high-energy entertainment and cultural flair. Don\u2019t miss out on this unique and exhilarating experience!",
+    "startDate": "2024-09-21T17:00:00+05:30",
+    "endDate": "2024-09-21T22:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Dynamite Disco Club 095 at The Burrow Music and Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Dynamite Disco Club 095 at The Burrow Bengaluru on Zomato which is a Music and Experiences event happening at 37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001",
+    "ogTitle": "Glow after dark DJ night Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Glow after dark DJ night Bengaluru on Zomato which is a Music and Trending event happening at KHB Colony, 5th Block, Koramangala",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/cc57639b6bdd05acf0833bb27a5922a01725541040.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/4ef47be8db871f6ebe2810c722caae231725597327.png"
     ],
     "tickets": [
       {
-        "url": "https://www.zomato.com/events/dynamite-disco-club-095-at-the-burrow-bengaluru-et51225/details",
-        "price": 250,
+        "url": "https://www.zomato.com/events/glow-after-dark-dj-night-bengaluru-et51252/details",
+        "price": 599,
         "currency": "INR",
-        "validFrom": "2024-09-05 18:31:08",
+        "validFrom": "2024-09-06 10:10:51",
         "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/dynamite-disco-club-095-at-the-burrow-bengaluru-et51225/details",
-        "price": 400,
-        "currency": "INR",
-        "validFrom": "2024-09-05 18:31:09",
-        "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 200
       }
     ],
     "performers": [],
@@ -4507,15 +4651,15 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/dynamite-disco-club-095-at-the-burrow-bengaluru-et51225",
-    "id": "com.zomato.51225",
+    "url": "https://www.zomato.com/events/glow-after-dark-dj-night-bengaluru-et51252",
+    "id": "com.zomato.51252",
     "location": {
-      "name": "The Burrow, Bangalore",
-      "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001",
+      "name": "Jyoti Nivas Autonomous College",
+      "address": "KHB Colony, 5th Block, Koramangala",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 12.98593446,
-        "longitude": 77.58149275
+        "latitude": 12.9342727,
+        "longitude": 77.6132161
       }
     }
   }
