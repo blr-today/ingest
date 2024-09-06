@@ -190,6 +190,19 @@ fetch: out/allevents.txt \
 clean:
 	rm -rf out/*
 
-all: fetch
+build:
 	python src/event-fetcher.py
-	sqlite3 events.db < pre-build.sql
+
+# python 3.12 onwards comes with a sqlite3 module CLI
+# https://docs.python.org/3.12/library/sqlite3.html#command-line-interface
+# this avoids the system sqlite, which is much older
+# and doesn't have the arrow syntax (->, ->>)
+# 	which we really need
+# DOC: This runs additional queries for cleaning and tagging
+# in the database
+post-build:
+	python3.12 -m sqlite3  events.db < post-build.sql
+all: fetch build post-build
+
+	
+	
