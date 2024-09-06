@@ -204,11 +204,7 @@ def main():
     event_links = fetch_events_links(session)
     events_data = fetch_events(event_links, session)
 
-    events = []
-    for event_data in events_data:
-        event = make_event(event_data)
-
-        events.append(event)
+    events = list(map(lambda x: make_event(x), events_data))
 
     with open("out/pedalintandem.json", "w") as f:
         json.dump(events, f, indent=2)
