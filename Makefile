@@ -192,3 +192,4 @@ clean:
 
 all: fetch
 	python src/event-fetcher.py
+	sqlite3 events.db < pre-build.sql
