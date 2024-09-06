@@ -50,10 +50,10 @@ EVENT_JSON_FILES = [
     "out/venn.json",  # this also has a lot of duplicates
     "out/te.json",
     "out/zomato.json",
-    "out/underline.json", # duplicates to insider
+    "out/underline.json",  # duplicates to insider
     "out/sis.json",
     "out/bcc.json",
-    "out/tpcc.json", # duplicates to underline and insider
+    "out/tpcc.json",  # duplicates to underline and insider
 ]
 
 KNOWN_EVENT_TYPES = [
@@ -94,9 +94,7 @@ URL_FILES = [
     "out/pumarun.txt",
 ]
 
-IGNORED_EVENT_UIDS = [
-    "60749-1718409600-1722470399@bangaloreinternationalcentre.org"
-]
+IGNORED_EVENT_UIDS = ["60749-1718409600-1722470399@bangaloreinternationalcentre.org"]
 
 
 def fix_online_schema(url, event):
@@ -153,29 +151,36 @@ def fix_online_schema(url, event):
     # for all events, which is not shown on the website
     # so we drop that.
     try:
-        if url.startswith("https://highape.com") and event['offers'][-1]['price']=='0' and event['offers'][-1]['name']=='Entry'
-            del event['offers'][-1]
+        if (
+            url.startswith("https://highape.com")
+            and event["offers"][-1]["price"] == "0"
+            and event["offers"][-1]["name"] == "Entry"
+        ):
+            del event["offers"][-1]
     except KeyError:
         pass
     try:
-        if isinstance(event['organizer'], list) and len(event['organizer']) == 1:
-            event['organizer'] = event['organizer'][0]
+        if isinstance(event["organizer"], list) and len(event["organizer"]) == 1:
+            event["organizer"] = event["organizer"][0]
     except KeyError:
         pass
-        
+
 
 # This is a hacky selective deep-merge
 # just for the keywords field
-def apply_patch(event, patch = {}):
+def apply_patch(event, patch={}):
     patch = patch.copy()
-    if 'keywords' in patch and 'keywords' in event:
+    if "keywords" in patch and "keywords" in event:
 
-        if isinstance(event['keywords'], str):
-            event['keywords'] = list(set([k.strip() for k in event['keywords'].split(",")]))
-        patch['keywords'] = sorted(event['keywords'] + patch['keywords'])
-        del event['keywords'] # so it gets overridden for sure
+        if isinstance(event["keywords"], str):
+            event["keywords"] = list(
+                set([k.strip() for k in event["keywords"].split(",")])
+            )
+        patch["keywords"] = sorted(event["keywords"] + patch["keywords"])
+        del event["keywords"]  # so it gets overridden for sure
     patch.update(event)
     return patch
+
 
 def get_local_events(files, filt):
     for i in files:
@@ -188,15 +193,19 @@ def get_local_events(files, filt):
             with open(i, "r") as f:
                 data = json.load(f)
                 for event in data:
-                    if '@id' in event and event["@id"] in IGNORED_EVENT_UIDS:
+                    if "@id" in event and event["@id"] in IGNORED_EVENT_UIDS:
                         continue
                     for x in ["startDate", "endDate"]:
                         if x in event:
                             try:
-                                event[x] = datetime.fromisoformat(event[x]).astimezone(IST).isoformat()
+                                event[x] = (
+                                    datetime.fromisoformat(event[x])
+                                    .astimezone(IST)
+                                    .isoformat()
+                                )
                             except Exception as e:
                                 print(f"Error parsing {x} for {event['url']}")
-                            
+
                     event = apply_patch(event, patch)
                     yield (event["url"], event)
             print(f"Processed {i} in {time.time() - start_ts:.2f}s")
