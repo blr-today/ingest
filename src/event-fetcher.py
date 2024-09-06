@@ -149,6 +149,21 @@ def fix_online_schema(url, event):
     if "url" not in event:
         event["url"] = url
 
+    # HighApe events have a free entry offer with price 0
+    # for all events, which is not shown on the website
+    # so we drop that.
+    try:
+        if url.startswith("https://highape.com") and event['offers'][-1]['price']=='0' and event['offers'][-1]['name']=='Entry'
+            del event['offers'][-1]
+    except KeyError:
+        pass
+    try:
+        if isinstance(event['organizer'], list) and len(event['organizer']) == 1:
+            event['organizer'] = event['organizer'][0]
+    except KeyError:
+        pass
+        
+
 # This is a hacky selective deep-merge
 # just for the keywords field
 def apply_patch(event, patch = {}):
