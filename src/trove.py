@@ -65,10 +65,13 @@ def parse_time(time_str):
 
 
 def parse_date(date_str):
-    date = date_str.split(" | ")[1]
+    date_parts = date_str.split(" | ")
     # We use datefinder coz it finds the closest year automatically
-    event_date = list(datefinder.find_dates(date))[0]
-    time_part = date_str.split(" | ")[2]
+    event_date = list(datefinder.find_dates(date_parts[1]))[0]
+    if len(date_parts) < 3:
+        print(f"Failed parsing {date_str}")
+        raise ValueError("Could not find time in" + date_str)
+    time_part = date_parts[2]
     for splitter in ["to", "-"]:
         if splitter in time_part:
             l = [x.strip() for x in time_part.split(splitter)]
