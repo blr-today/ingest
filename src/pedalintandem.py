@@ -44,11 +44,14 @@ def fetch_events(event_links, session):
         if bool(re.search('/', duration)):
             continue
 
-        events.append(event)
+        events.append([event, BASE_URL + event_link])
 
     return events
 
-def make_event(event):
+def make_event(soup):
+    event = soup[0]
+    url = soup[1]
+
     heading = event.select_one('div.heading').get_text().strip()
 
     location = event.select_one('div.location').get_text().strip()
@@ -108,9 +111,9 @@ def make_event(event):
         "dates": dates,
         "duration": duration_in_hours,
         "description": [
-        process_description(description),
-        metrics
-        ]
+        process_description(description) + "\n" + str(metrics)
+        ],
+        "url": url
     }
 
 def find_timings(duration, date, soup):
