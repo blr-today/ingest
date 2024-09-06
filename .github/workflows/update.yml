@@ -34,7 +34,7 @@ jobs:
         wget "https://github.com/lwthiker/curl-impersonate/releases/download/v0.6.1/curl-impersonate-v0.6.1.x86_64-linux-gnu.tar.gz" -O /tmp/curl-impersonate.tar.gz
         echo "fa1e1614f7ba69ccc66721a0f38be457a3647eb64c75d66974b56186e3316b12  /tmp/curl-impersonate.tar.gz" | sha256sum --check --status
         sudo tar -xzf /tmp/curl-impersonate.tar.gz -C /usr/bin
-    - uses: actions/setup-sqlite@v1
+    - uses: ccorsi/setup-sqlite@v1.0.1
       with:
         sqlite-version: 3.46.1
     - name: Cache Requests SQlite
