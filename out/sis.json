@@ -1,5 +1,42 @@
 [
   {
+    "name": "Ride with the Sisters and Firefox",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session_details/cycling/OwnCycle",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SESSION"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "description": "You\u2019ve asked and we\u2019ve answered, RIDE WITH THE SISTERS IS BACK!\ud83d\udeb2 \nJoin us for an unforgettable cycling adventure through the heart of Bangalore with\u00a0Firefox and Sisters in Sweat! This exclusive event offers not just a ride, but an immersive journey through the city's vibrant streets, ending with a delicious breakfast :) \nDate: Sunday, 15th September, 2024 \nTime: 5:30 AM to 9:30 AM \nLocation: Vidhana Soudha \nPrice: \u20b91,250 + GST \n\u00a0 \nItinerary: \n\ud83d\udeb4\u200d\u2640\ufe0f\u00a0Assembly Time: 5:30 AM at the starting point - Vidhana Soudha \n\ud83d\udeb4\u200d\u2640\ufe0f\u00a0Kick-off: After a quick introduction and briefing, begin the 15-20 km cycling journey through Bangalore\u2019s bustling streets. \n\ud83d\udeb4\u200d\u2640\ufe0f\u00a0Scenic Stops: Enjoy brief stops at key landmarks and local attractions, capturing Bangalore's morning charm. \n\ud83d\udeb4\u200d\u2640\ufe0f\u00a0Breakfast: The ride concludes at Jayant Probikes for a quick photo-op, followed by\u00a0a hearty breakfast, where riders can relax for get together and share their experiences. \n \nInclusions: \n- Cycles and helmets provided by Firefox \n- Dedicated on-route mechanic for any technical assistance \n- Breakfast at the end of the ride \nPlease Note: \n- Participants are encouraged to bring their own water bottles and wear comfortable cycling attire. \n- Sunscreen and sunglasses are recommended for your comfort. \n- All participants will be briefed on safety and riding instructions to ensure a smooth experience. \n- While Firefox provides technical support, riders are requested to handle the cycles with care. \n- Transportation to the meeting point is not included in the event cost. \nJoin us for this unique cycling experience and discover a new way to see Bangalore, energize your body, and meet fellow cycling enthusiasts in an exciting urban adventure!",
+    "image": "https://sistersinsweat.in/products/1534b76d325a8f591b52d302e71813311725620919WhatsApp Image 2024-09-06 at 16.22.05.jpeg",
+    "location": {
+      "name": "Meeting point: Vidhana Soudha | Ashok Nagar",
+      "address": "Bengaluru, XHHR+R8X,  Ambedkar Bheedhi,  Sampangi Rama Nagara,  Bengaluru,  Karnataka 560001",
+      "type": "Place"
+    },
+    "startDate": "2024-09-15T05:30:00+05:30",
+    "endDate": "2024-09-15T09:30:00+05:30",
+    "offers": [
+      {
+        "price": 1250,
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
     "name": "Mini Golf with the Sisters at Prime Golf",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.in/session_details/social/MiniGolfwiththeSisters",
