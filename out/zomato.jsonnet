@@ -35,7 +35,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 461
+        "inventory": 460
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -43,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 232
+        "inventory": 219
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -51,7 +51,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1060
+        "inventory": 1056
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -299,7 +299,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 489
+        "inventory": 487
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -424,7 +424,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 17:00:00",
         "availability": "INSTOCK",
-        "inventory": 371
+        "inventory": 357
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -432,7 +432,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 20:00:00",
         "availability": "INSTOCK",
-        "inventory": 469
+        "inventory": 457
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -440,7 +440,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "INSTOCK",
-        "inventory": 177
+        "inventory": 175
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -533,7 +533,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 841
+        "inventory": 824
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -541,7 +541,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 88
+        "inventory": 83
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -549,7 +549,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "SELLING_FAST",
-        "inventory": 21
+        "inventory": 15
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -626,7 +626,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 21
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -634,15 +634,15 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 15
+        "inventory": 13
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
         "price": 2499,
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
-        "availability": "INSTOCK",
-        "inventory": 30
+        "availability": "SELLING_FAST",
+        "inventory": 15
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -926,7 +926,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 348
+        "inventory": 333
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -934,7 +934,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 214
+        "inventory": 206
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1034,7 +1034,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 15:35:00",
         "availability": "INSTOCK",
-        "inventory": 90
+        "inventory": 87
       }
     ],
     "performers": [],
@@ -1093,7 +1093,7 @@
         "currency": "INR",
         "validFrom": "2024-08-16 22:15:00",
         "availability": "INSTOCK",
-        "inventory": 68
+        "inventory": 60
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pupper-party-bengaluru-et48781/details",
@@ -1101,7 +1101,7 @@
         "currency": "INR",
         "validFrom": "2024-08-16 22:15:00",
         "availability": "INSTOCK",
-        "inventory": 32
+        "inventory": 31
       }
     ],
     "performers": [],
@@ -1194,7 +1194,7 @@
   {
     "name": "Indira Paganotto Tour",
     "description": "NOBO Experience invites you to experience Indira Paganotto in Bangalore, a city where innovation and tradition coexist in harmony. Known as India\u2019s tech hub, Bangalore\u2019s forward-thinking vibe is mirrored in Indira\u2019s cutting-edge sets, which seamlessly blend her deep musical roots with the latest in underground techno. Just as the city is known for its lush green spaces and buzzing nightlife, Indira\u2019s performance will be a refreshing, high-energy journey that keeps you moving all night. Don\u2019t miss this unique fusion of sounds and styles\u2014get your tickets today.",
-    "startDate": "2024-09-20T19:00:00+05:30",
+    "startDate": "2024-09-20T18:00:00+05:30",
     "endDate": "2024-09-21T00:30:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
@@ -1207,7 +1207,8 @@
       "https://b.zmtcdn.com/data/zomaland/25b607428c0dc5f2bca875315658fe761725259406.png",
       "https://b.zmtcdn.com/data/zomaland/dc704c1b5ad5c3313d03aaab445db5341725261239.png",
       "https://b.zmtcdn.com/data/zomaland/20a0a85cb9d5a7089079792aa3c4cbb81725261280.png",
-      "https://b.zmtcdn.com/data/zomaland/45b793a384354ae1c782d43a6936379a1725261301.png"
+      "https://b.zmtcdn.com/data/zomaland/45b793a384354ae1c782d43a6936379a1725261301.png",
+      "https://b.zmtcdn.com/data/zomaland/e63c3502ba5b04dce4658b8e255c7a091725614899.jpeg"
     ],
     "tickets": [
       {
@@ -1216,7 +1217,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:50:43",
         "availability": "INSTOCK",
-        "inventory": 359
+        "inventory": 347
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1224,7 +1225,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:50:44",
         "availability": "INSTOCK",
-        "inventory": 1060
+        "inventory": 1056
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1232,7 +1233,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 61
+        "inventory": 59
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1928,6 +1929,50 @@
     }
   },
   {
+    "name": "Karaoke Nights",
+    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion for singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
+    "startDate": "2024-09-11T20:30:00+05:30",
+    "endDate": "2024-09-11T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/1e4ef7bde841d75f9d8fa3f16d71ac461724995880.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50274/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-30 11:04:46",
+        "availability": "INSTOCK",
+        "inventory": 92
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50274",
+    "id": "com.zomato.50274",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97595324,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
     "name": "Tribute to The Doors",
     "description": "Catch Sultan of Rocks paying tribute to The Doors at Hard Rock Cafe, Bengaluru.\n\u26a1\ufe0fJoin us for an evening full of great music, lip-smacking food & refreshing cocktails",
     "startDate": "2024-09-12T20:30:00+05:30",
@@ -2322,48 +2367,6 @@
     "id": "com.zomato.50398"
   },
   {
-    "name": "Unplugged Duos",
-    "description": "Catch Presentense performing live your favourite tracks at Hard Rock Cafe, Whitrefield, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-09-06T20:30:00+05:30",
-    "endDate": "2024-09-06T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/58886673e4aad60d4e6a699ac5b724a51725263093.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50522/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-02 14:04:37",
-        "availability": "INSTOCK",
-        "inventory": 58
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50522",
-    "id": "com.zomato.50522",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
-  },
-  {
     "name": "Tribute to AR Rahman",
     "description": "Built on the sheer belief that music has no boundaries, 3SB BAND formed with an amalgamation of musicians from south, east, west and northern parts of India. They like to call themselves \u201c3 Shots Bourbon\u201d and have a taste & affinity for blending the musical flavors of the west with the Indian classical melodies to create some ridiculously simple yet extravagant musical mix.\n\nCatch them live at Hard Rock Cafe, Whitefield, Bengaluru paying tribute to none other than AR Rahman.",
     "startDate": "2024-09-14T21:00:00+05:30",
@@ -2682,7 +2685,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:58",
         "availability": "INSTOCK",
-        "inventory": 191
+        "inventory": 188
       }
     ],
     "performers": [],
@@ -2726,7 +2729,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:00",
         "availability": "INSTOCK",
-        "inventory": 86
+        "inventory": 80
       },
       {
         "url": "https://www.zomato.com/events/vh1-supersonic-club-nights-bengaluru-et50558/details",
@@ -2742,7 +2745,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:00",
         "availability": "INSTOCK",
-        "inventory": 91
+        "inventory": 90
       }
     ],
     "performers": [],
@@ -2962,7 +2965,7 @@
         "currency": "INR",
         "validFrom": "2024-09-03 11:48:37",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 8
       }
     ],
     "performers": [],
@@ -3063,6 +3066,50 @@
     ],
     "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50676",
     "id": "com.zomato.50676",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Resin Art Workshop",
+    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
+    "startDate": "2024-09-11T14:00:00+05:30",
+    "endDate": "2024-09-11T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1725336453.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50677/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-09-03 11:48:38",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50677",
+    "id": "com.zomato.50677",
     "location": {
       "name": "Small World, 5th Block",
       "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -3654,7 +3701,7 @@
         "currency": "INR",
         "validFrom": "2024-09-03 11:49:07",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 9
       }
     ],
     "performers": [],
@@ -3920,66 +3967,6 @@
   {
     "name": "Salsa Dance",
     "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
-    "startDate": "2024-09-28T20:00:00+05:30",
-    "endDate": "2024-09-28T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/98a13be4119fb1df87ecbe8ff0c1f2ed1725340941.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:12",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:13",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:13",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759",
-    "id": "com.zomato.50759",
-    "location": {
-      "name": "Small World, S.T. Bed",
-      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93327579,
-        "longitude": 77.63221323
-      }
-    }
-  },
-  {
-    "name": "Salsa Dance",
-    "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
     "startDate": "2024-09-29T20:00:00+05:30",
     "endDate": "2024-09-29T21:00:00+05:30",
     "timezone": "+05:30",
@@ -4211,50 +4198,6 @@
     ],
     "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50871",
     "id": "com.zomato.50871",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Bootleg Fridays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air. Starting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Dvrgent and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-09-06T20:30:00+05:30",
-    "endDate": "2024-09-06T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Bootleg Fridays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bootleg Fridays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/5507e0d009db0dbbbf550decd34ae6721725376381.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50872/details",
-        "price": 1000,
-        "currency": "INR",
-        "validFrom": "2024-09-03 21:18:45",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50872",
-    "id": "com.zomato.50872",
     "location": {
       "name": "Hard Rock Cafe",
       "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -4648,7 +4591,7 @@
         "url": "https://www.zomato.com/events/dynamite-disco-club-095-at-the-burrow-bengaluru-et51225/details",
         "price": 250,
         "currency": "INR",
-        "validFrom": "2024-09-05 18:31:08",
+        "validFrom": "2024-09-05 18:31:00",
         "availability": "INSTOCK",
         "inventory": 100
       },
@@ -4656,7 +4599,7 @@
         "url": "https://www.zomato.com/events/dynamite-disco-club-095-at-the-burrow-bengaluru-et51225/details",
         "price": 400,
         "currency": "INR",
-        "validFrom": "2024-09-05 18:31:09",
+        "validFrom": "2024-09-05 18:31:00",
         "availability": "INSTOCK",
         "inventory": 100
       }
