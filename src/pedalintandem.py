@@ -78,41 +78,23 @@ def make_event(event):
 	duration = event.select_one('div.duration').get_text().strip()
 	duration_in_hours = convert_duration_in_hours(duration)
 
-	# Find the starting time
-	if ',' in duration:
-		# If there is comma then the duration contains start time and end time
-		timing = duration.split(',')[1].lower()
-
-		# Check if time has pm time. Extra is used to convert the time two 24 hour format
-		if 'pm' in timing:
-			extra = 12
-		else:
-			extra = 0
-
-		if 'to' in timing:
-			start_time = timing.split('to')[0].strip().lower()
-		else:
-			start_time = timing.split('-')[0].strip().lower()
-
-	elif event.select_one('div.text-box div.trix-content li') != None:
-		meet_data = event.select_one('div.text-box div.trix-content li').get_text().lower()
-		if 'meet at' in meet_data:
-			start_time = meet_data.split('by')[1].strip()
-		elif 'meeting time' in meet_data:
-			start_time = re.search(r':(.*?),?', meet_data).group(0).lstrip(':').strip().lower()
-	else:
-		meet_data = event.select_one('div.description div.description-style div.trix-content div').get_text().strip().lower()
-		start_time = re.search(r'')
-
-
 	dates = []
 	date_opts = offers_selector.select('div.product-variations-variety select[name="variety_id"] option')
 	for date_opt in date_opts:
 		booking_begin = datetime.strptime(date_opt['data-booking-begin-at'], "%Y-%m-%d %H:%M:%S %Z").astimezone(IST).isoformat()
-		startdate = datetime.strptime(date_opt.get_text().strip(), "%d-%b-%Y").astimezone(IST).isoformat()
-		endDate = (datetime.fromisoformat(startdate) + timedelta(hours = duration_in_hours)).isoformat()
+		event_date = date_opt.get_text().strip()
+		dates = find_timings(duration, event_date, event)
 
-		dates.append({"startdate": startdate, "endDate": endDate, "availabilityStarts": booking_begin})
+		# Starting time is always mentioned. So, there would be one element present in the dates
+		start_date = dates[0].astimezone(IST).isoformat()
+
+		# If there are two datetime in dates then it has start and end time. If not we calculate using duration
+		if len(dates) == 2:
+			end_date = dates[1].astimezone(IST).isoformat()
+		else:
+			end_date = (datetime.fromisoformat(startdate) + timedelta(hours = duration_in_hours)).isoformat()
+
+		dates.append({"startdate": start_date, "endDate": end_date, "availabilityStarts": booking_begin})
 	
 	# details
 	metrics = {}
@@ -138,30 +120,37 @@ def make_event(event):
 		]
 	}
 
-def convert_to_24_hour(start_time):
-    # Extract the numeric part of the time
-    time_match = re.search(r'[0-9]+(:[0-9]+)?', start_time)
-    
-    if time_match:
-        time_str = time_match.group(0)
-        # Split hours and minutes
-        if ':' in time_str:
-            hours, minutes = map(int, time_str.split(':'))
-        else:
-            hours = int(time_str)
-            minutes = 0
+def find_timings(duration, date, soup):
+	# Durations structure is `duration in hours, duration in time`. If , exists timings can be taken from here
+	if ',' in duration:
+		timings_str = duration.split(',')[1].lower()
+		return parse_time(timing, date)
+	
+	# Checking if itinerary exists or not. If does, timings can be extracted from here.
+	if soup.select_one('div.text-box div.trix-content li') != None:
+		meet_data = soup.select_one('div.text-box div.trix-content li').get_text().lower()
 
-        # Check for 'am' or 'pm' and adjust hours accordingly
-        if 'am' in start_time.lower():
-            if hours == 12:  # Special case for 12 am
-                hours = 0
-        elif 'pm' in start_time.lower():
-            if hours != 12:  # Special case for 12 pm
-                hours += 12
+		# Extracting timing according to the itinerary. There are two structures as followed 
+		# Eg.:
+		# 1. Meeting time: 6:30 am, Meeting point: ...
+		# 2. Meeting time: 6:30 am, Meeting point: ...
+		if 'meet at' in meet_data:
+			start_time = meet_data.split('by')[1].strip()
+		elif 'meeting time' in meet_data:
+			start_time = re.search(r':(.*?)m', meet_data).group(0).lstrip(':').strip().lower()
 
-        # Convert time to decimal format
-        total_hours = hours + minutes / 60.0
-        return total_hours
+		return parse_time(start_time, date)
+	
+	# If timings are mentioned in the description.
+	meet_data = soup.select_one('div.description div.description-style div.trix-content div').get_text().strip().lower()
+
+	# Search using time regex and remove "time:" for datefinder to work properly
+	start_time = re.search(r'time:(.*?)m', meet_data).group(0).lstrip('time:').strip().lower()
+	return parse_time(start_time, date)
+
+def parse_time(timings, event_date):
+	# We use datefinder coz it finds the closest year automatically
+    return = list(datefinder.find_dates(timings, base_date=event_date))
 
 def convert_duration_in_hours(duration):
 	duration_range = duration.split(',')[0]
