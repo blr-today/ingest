@@ -37,6 +37,7 @@ jobs:
     - uses: ccorsi/setup-sqlite@v1.0.1
       with:
         sqlite-version: 3.46.1
+        year: "2024"
     - name: Cache Requests SQlite
       uses: actions/cache@v4
       with:
