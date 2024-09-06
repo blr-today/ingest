@@ -55,20 +55,9 @@ def make_event(soup):
     heading = event.select_one('div.heading').get_text().strip()
 
     location = event.select_one('div.location').get_text().strip()
-
-    offers = {}
-    addOn = {}
+    
     offers_selector = event.select_one('div.cart-details')
-    opts = offers_selector.select('div.product-variations select[name="variation_id"] option')
-    for opt in opts:
-        opt_name = opt.get_text()
-        price = opt['data-price-after-discount']
-        price = price.replace("\u20b9", "")
-        if "rent" in opt_name or "transport" in opt_name:
-            addOn[opt_name] = price
-        else:
-            offers[opt_name] = price
-    offers['addOn'] = addOn
+    offers = get_offers(offers_selector)
 
     duration = event.select_one('div.duration').get_text().strip()
     duration_in_hours = convert_duration_in_hours(duration)
@@ -106,7 +95,6 @@ def make_event(soup):
     return {
         "name": heading,
         "location": location,
-        "priceCurrency": "INR",
         "offers": offers,
         "dates": dates,
         "duration": duration_in_hours,
@@ -184,6 +172,26 @@ def convert_duration_in_hours(duration):
         duration_in_hours = 0
 
     return int(duration_in_hours)
+
+def get_offers(soup):
+    offers = {"priceCurrency": "INR"}
+    addOn = {}
+
+    opts = soup.select('div.product-variations select[name="variation_id"] option')
+    for opt in opts:
+        opt_name = opt.get_text()
+        price = opt['data-price-after-discount']
+        price = price.replace("\u20b9", "")
+        if "rent" in opt_name or "transport" in opt_name:
+            addOn[opt_name] = price
+        else:
+            offers[opt_name] = price
+
+    if len(addOn) != 0:
+        addOn['priceCurrency'] = 'INR'
+    offers['addOn'] = addOn
+
+    return offers
 
 def process_description(description):
     # Remove chain of hyphen '-' and convert it into a newline
