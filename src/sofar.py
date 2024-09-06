@@ -19,7 +19,11 @@ def to_schema_org_music_event(event_info):
     except:
         name = "Sofar concert"
 
-    categories = "/".join([x["name"] for x in event_info["venue"]["venueCategories"]])
+    categories = ""
+    try:
+        categories = "/".join([x["name"] for x in event_info["venue"]["venueCategories"]])
+    except TypeError:
+        pass
     if categories != "Other":
         name += categories + " in "
     try:
@@ -34,6 +38,7 @@ def to_schema_org_music_event(event_info):
         "doorTime": guestsArriveAt.isoformat(),
         "endDate": endsAt.isoformat(),
         "name": name,
+        "description": "An intimate concert by Sofar Sounds, at an offbeat venue.",
     }
 
     return music_event_schema
