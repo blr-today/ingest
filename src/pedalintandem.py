@@ -19,11 +19,16 @@ def fetch_events_links(session):
 
 def fetch_events(event_links, session):
     events = []
+
+    bangalore = ['bangalore', 'bengaluru', 'arkavathi', 'avalahalli', 'avathi', 'devarayanadurga',
+        'gunjur', 'hennur', 'Hesaraghatta', 'kanakapura', 'malleshwaram', 'indiranagar',
+        'manchanabele', 'pedal', 'pitstop',  'rajankunte']
+
     for event_link in event_links:
 
         event_page = session.get(f"{BASE_URL}{event_link}")
         event = BeautifulSoup(event_page.text, 'html.parser')
-        location = event.select_one('div.location').get_text().strip()
+        location = event.select_one('div.location').get_text().strip().lower()
 
         date_selector = event.select_one('div.product-variations-varieties select')
 
@@ -31,23 +36,9 @@ def fetch_events(event_links, session):
         if ( "disabled" in date_selector.attrs):
             continue
         
-        if not ( bool(re.search('bangalore', location, re.IGNORECASE)) or
-            bool(re.search('bengaluru', location, re.IGNORECASE)) or
-            bool(re.search('arkavathi', location, re.IGNORECASE)) or
-            bool(re.search('avalahalli', location, re.IGNORECASE)) or
-            bool(re.search('avathi', location, re.IGNORECASE)) or
-            bool(re.search('devarayanadurga', location, re.IGNORECASE)) or
-            bool(re.search('gunjur', location, re.IGNORECASE)) or
-            bool(re.search('hennur', location, re.IGNORECASE)) or
-            bool(re.search('Hesaraghatta', location, re.IGNORECASE)) or
-            bool(re.search('kanakapura', location, re.IGNORECASE)) or
-            bool(re.search('malleshwaram', location, re.IGNORECASE)) or
-            bool(re.search('indiranagar', location, re.IGNORECASE)) or
-            bool(re.search('manchanabele', location, re.IGNORECASE)) or
-            bool(re.search('pedal', location, re.IGNORECASE)) or
-            bool(re.search('pitstop', location, re.IGNORECASE)) or 
-            bool(re.search('rajankunte', location, re.IGNORECASE)) ):
-            continue
+        for place in bangalore:
+            if place not in location:
+                continue
 
         duration = event.select_one('div.duration').get_text().strip()
         if bool(re.search('/', duration)):
