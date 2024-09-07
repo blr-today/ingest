@@ -93,6 +93,7 @@ def make_event(soup):
     description = event.select_one('div.trix-content div').get_text()
 
     return {
+        "@type": "SportsEvent",
         "name": heading,
         "location": location,
         "offers": offers,
@@ -174,12 +175,12 @@ def convert_duration_in_hours(duration):
     return int(duration_in_hours)
 
 def get_offers(soup):
-    offers = {"priceCurrency": "INR"}
-    addOn = {}
+    offers = {"priceCurrency": "INR", '@type': 'offers'}
+    addOn = {'@type': 'offers'}
 
     opts = soup.select('div.product-variations select[name="variation_id"] option')
     for opt in opts:
-        opt_name = opt.get_text()
+        opt_name = opt.get_text().lower()
         price = opt['data-price-after-discount']
         price = price.replace("\u20b9", "")
         if "rent" in opt_name or "transport" in opt_name:
@@ -187,7 +188,7 @@ def get_offers(soup):
         else:
             offers[opt_name] = price
 
-    if len(addOn) != 0:
+    if len(addOn) != 1:
         addOn['priceCurrency'] = 'INR'
     offers['addOn'] = addOn
 
