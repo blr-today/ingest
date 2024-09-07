@@ -66,6 +66,8 @@ WHERE
     OR event_json ->> '$.name' LIKE '%Sound Immersion%'
     OR event_json ->> '$.name' LIKE '%Breathwork%'
     OR event_json ->> '$.name' LIKE '%SoundBath%'
+    -- By tapping into your true voice, you have the ability to shift your reality
+    OR event_json ->> '$.name' LIKE '%voice activation%'
   );
 
 -- The Audacious Movement - WOOWOO
