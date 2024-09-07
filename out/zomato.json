@@ -1214,74 +1214,6 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
-      "endDate": "2024-09-07T17:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1724656152.png",
-      "isAccessibleForFree": true,
-      "location": {
-         "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.934246630000001,
-            "longitude": 77.617676110000005
-         },
-         "name": "Small World, 5th Block"
-      },
-      "name": "Blind Date - A Sensory Experience",
-      "offers": [
-         {
-            "availability": "Sold Out",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-26T14:15:00+05:30"
-         },
-         {
-            "availability": "Sold Out",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-26T14:15:00+05:30"
-         },
-         {
-            "availability": "Sold Out",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-26T14:15:00+05:30"
-         },
-         {
-            "availability": "Sold Out",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-26T14:15:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-09-07T16:00:00+05:30",
-      "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49652"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
       "endDate": "2024-09-08T17:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
@@ -1429,48 +1361,6 @@
       "remainingAttendeeCapacity": 15,
       "startDate": "2024-09-15T15:00:00+05:30",
       "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et49697"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Get ready to unleash your inner Bollywood sensation at our `Dance like a Bollywood Star` workshop!\nJoin us for a high-energy, fun-filled session where you`ll learn iconic Bollywood dance moves and grooves. Our talented instructors will guide you through the steps, from classic Bollywood numbers to the latest\nchartbusters. Whether you`re a seasoned dancer or just love to move, this workshop is open to all levels of experience!\nAnd that's not all! After mastering the moves, you`ll have the chance to shine in front of the camera and create your very own Instagram reel. Show off your newfound dance skills and capture the magic of Bollywood on film.\nSo, grab your dancing shoes, bring your enthusiasm, and join us for an unforgettable day of music, dance, and Bollywood glamour. Don't miss your chance to dance like a Bollywood star!",
-      "endDate": "2024-09-07T13:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/4c603b0c4944d98aba1e2644d9c78dbe1724660070.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.93327579,
-            "longitude": 77.632213230000005
-         },
-         "name": "Small World, S.T. Bed"
-      },
-      "name": "Dance Like a Bollywood Star",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 15
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-26T14:16:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 15,
-      "startDate": "2024-09-07T12:00:00+05:30",
-      "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et49714"
    },
    {
       "@context": "https://schema.org",
@@ -1715,7 +1605,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 73
+               "value": 56
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-29T17:23:00+05:30"
@@ -1729,7 +1619,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 73,
+      "remainingAttendeeCapacity": 56,
       "startDate": "2024-09-07T20:30:00+05:30",
       "url": "https://www.zomato.com/events/remix-nights-bengaluru-et50193"
    },
@@ -1757,7 +1647,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 69
+               "value": 55
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-29T17:41:00+05:30"
@@ -1771,7 +1661,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 69,
+      "remainingAttendeeCapacity": 55,
       "startDate": "2024-09-08T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50198"
    },
@@ -1808,7 +1698,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 249
+               "value": 246
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-30T13:31:00+05:30"
@@ -1994,6 +1884,132 @@
       "performers": [ ],
       "startDate": "2024-09-14T21:00:00+05:30",
       "url": "https://www.zomato.com/events/tribute-to-coldplay-bengaluru-et50277"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Presentense and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
+      "endDate": "2024-09-15T16:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/5a5f0718fe4ffe8b8b0db5bd74024d071724996863.jpeg",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.975953240000001,
+            "longitude": 77.601618579999993
+         },
+         "name": "Hard Rock Cafe"
+      },
+      "name": "Sunny Tunes",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 93
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-30T11:23:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 93,
+      "startDate": "2024-09-15T13:00:00+05:30",
+      "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50278"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+      "endDate": "2024-09-15T23:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/e4d463959ab685fd91a617f82b9656c81724997279.jpeg",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.975953240000001,
+            "longitude": 77.601618579999993
+         },
+         "name": "Hard Rock Cafe"
+      },
+      "name": "Rock Out Sundays",
+      "offers": [
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-30T11:25:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 0,
+      "startDate": "2024-09-15T20:30:00+05:30",
+      "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50280"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
+      "endDate": "2024-09-18T23:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/1e4ef7bde841d75f9d8fa3f16d71ac461724997597.jpeg",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.975953240000001,
+            "longitude": 77.601618579999993
+         },
+         "name": "Hard Rock Cafe"
+      },
+      "name": "Karaoke Nights",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 95
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-30T11:31:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 95,
+      "startDate": "2024-09-18T20:30:00+05:30",
+      "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50282"
    },
    {
       "@context": "https://schema.org",
@@ -2219,7 +2235,16 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 51
+               "value": 11
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-30T15:24:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-30T15:24:00+05:30"
@@ -2233,7 +2258,6 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 51,
       "startDate": "2024-09-07T16:30:00+05:30",
       "url": "https://www.zomato.com/events/we-jam-bengaluru-et50316"
    },
@@ -2765,48 +2789,6 @@
       "remainingAttendeeCapacity": 15,
       "startDate": "2024-09-29T15:00:00+05:30",
       "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et50665"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-      "endDate": "2024-09-07T15:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1725336453.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.934246630000001,
-            "longitude": 77.617676110000005
-         },
-         "name": "Small World, 5th Block"
-      },
-      "name": "Resin Art Workshop",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 10
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-03T11:48:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 10,
-      "startDate": "2024-09-07T14:00:00+05:30",
-      "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50673"
    },
    {
       "@context": "https://schema.org",
@@ -3796,6 +3778,65 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
+      "endDate": "2024-09-28T21:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/98a13be4119fb1df87ecbe8ff0c1f2ed1725340941.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.93327579,
+            "longitude": 77.632213230000005
+         },
+         "name": "Small World, S.T. Bed"
+      },
+      "name": "Salsa Dance",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-03T11:49:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-03T11:49:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-03T11:49:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-09-28T20:00:00+05:30",
+      "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
       "endDate": "2024-09-29T21:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
@@ -4136,6 +4177,106 @@
       "performers": [ ],
       "startDate": "2024-10-11T19:00:00+05:30",
       "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "\"I just want you to know, I would never do anything to hurt you intentionally. And I will always cherish you.\" - 50 First Dates\n\nRediscover the magic of love with an outdoor movie experience that stays with you .. Forever! Prepare for a heartwarming experience as Sunset Cinema Club presents the screening of this classic at Forum South Bengaluru Mall.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.\n",
+      "endDate": "2024-09-14T22:30:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/0da4d15f293424bbbb4f56f21ff819ab1725446652.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 13.252288330000001,
+            "longitude": 77.760693900000007
+         },
+         "name": "Forum South Bengaluru"
+      },
+      "name": "SCC SkyCinema - 50 First Dates",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-04T19:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-04T19:00:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-09-14T19:30:00+05:30",
+      "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et51050"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "\"“Jaane se pehle, ek aakhri baar milna kyun zaroori hota hai?” - Love Aaj Kal\n\nRevisit the iconic love story of Jai and Meera as we celebrate the 15th Anniversary of \"Love Aaj Kal.\" Join us for a screening of this heartwarming film that explores the complexities of love, relationships, and the passage of time under the starry night sky.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.\n",
+      "endDate": "2024-09-21T22:30:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/a4875e3831dc258c442fcbc66ffccf2f1725446968.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 13.252288330000001,
+            "longitude": 77.760693900000007
+         },
+         "name": "Forum South Bengaluru"
+      },
+      "name": "SCC SkyCinema - 15 Years of Love Aaj Kal",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-04T19:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-04T19:00:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-09-21T19:30:00+05:30",
+      "url": "https://www.zomato.com/events/scc-skycinema-15-years-of-love-aaj-kal-bengaluru-et51056"
    },
    {
       "@context": "https://schema.org",
