@@ -42,6 +42,7 @@ def fetch_events(event_links, session):
         if bool(re.search('/', duration)):
             continue
 
+        # Pass url so that it can be added in event
         events.append([event, event_link])
 
     return events
@@ -52,7 +53,7 @@ def make_event(soup):
 
     heading = event.select_one('div.heading').get_text().strip()
 
-    location = event.select_one('div.location').get_text().strip()
+    location = find_location(event)
     
     offers_selector = event.select_one('div.cart-details')
     offers = get_offers(offers_selector)
@@ -104,6 +105,39 @@ def make_event(soup):
         "url": BASE_URL + url,
         "keywords": url.split('/')[2]
     }
+
+def find_location(soup):
+    # Set permanent address of PIT office and add type place
+    location = {
+        'postalAddress': '837/1, 2nd Cross, 7th Main, 2nd Stage, Indiranagar, Bengaluru, Karnataka',
+        "@type": "Place"
+    }
+    
+    # Checking if itinerary exists or not. If does, location can be extracted from there.
+    if soup.select_one('div.text-box div.trix-content li') != None:
+        meet_data = soup.select_one('div.text-box div.trix-content li').get_text().lower()
+
+        if 'meet at' in meet_data:
+            address = re.search(r'at\s*[a-z\s]+,', meet_data).group(0).lstrip('at').rstrip(',').strip()
+        elif 'meeting point' in meet_data:
+            address = re.search(r':\s*[a-z\s]+\(', meet_data).group(0).lstrip(':').rstrip('(').strip()
+        
+        location['address'] = address
+
+        return location
+
+    # Check for location in description
+    meet_data = soup.select_one('div.description div.description-style div.trix-content div').get_text().strip().lower()
+    if 'location' in meet_data:
+        address = re.search(r':.*-', meet_data).group(0).lstrip(':').rstrip('-').strip()
+        location['address'] = address
+        return location
+
+    # Select location from the location div
+    location['address'] = soup.select_one('div.location').get_text().strip()
+
+    return location
+
 
 def find_timings(duration, date, soup):
     # Durations structure is `duration in hours, duration in time`. If , exists timings can be taken from here
