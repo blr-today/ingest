@@ -16,15 +16,12 @@ def fetch_events_links(session):
     soup = BeautifulSoup(res.text, 'html.parser')
     events = soup.select('div.single-experience')
 
-    event_links = map(lambda x: x.find('a')['href'], events)
-
-    return event_links
+    return map(lambda x: x.find('a')['href'], events)
 
 def fetch_events(event_links, session):
     events = []
 
     for event_link in event_links:
-
         event_page = session.get(f"{BASE_URL}{event_link}")
         event = BeautifulSoup(event_page.text, 'html.parser')
         location = event.select_one('div.location').get_text().strip().lower()
@@ -35,10 +32,12 @@ def fetch_events(event_links, session):
         if ( "disabled" in date_selector.attrs):
             continue
         
+        # Skip if location is not in bangalore
         for place in bangalore:
             if place not in location:
                 continue
 
+        # Select only single day event. Multi day events are in the format "2D/ 3N"
         duration = event.select_one('div.duration').get_text().strip()
         if bool(re.search('/', duration)):
             continue
