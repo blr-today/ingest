@@ -7,6 +7,9 @@ import re
 import datefinder
 
 BASE_URL = "https://www.pedalintandem.com"
+bangalore = ['bangalore', 'bengaluru', 'arkavathi', 'avalahalli', 'avathi', 'devarayanadurga',
+        'gunjur', 'hennur', 'Hesaraghatta', 'kanakapura', 'malleshwaram', 'indiranagar',
+        'manchanabele', 'pedal', 'pitstop',  'rajankunte']
 
 def fetch_events_links(session):
     res = session.get(f"{BASE_URL}/experiences")
@@ -19,10 +22,6 @@ def fetch_events_links(session):
 
 def fetch_events(event_links, session):
     events = []
-
-    bangalore = ['bangalore', 'bengaluru', 'arkavathi', 'avalahalli', 'avathi', 'devarayanadurga',
-        'gunjur', 'hennur', 'Hesaraghatta', 'kanakapura', 'malleshwaram', 'indiranagar',
-        'manchanabele', 'pedal', 'pitstop',  'rajankunte']
 
     for event_link in event_links:
 
@@ -99,9 +98,7 @@ def make_event(soup):
         "offers": offers,
         "dates": dates,
         "duration": duration_in_hours,
-        "description": [
-        process_description(description) + "\n" + str(metrics)
-        ],
+        "description": process_description(description) + "\n" + str(metrics),
         "url": BASE_URL + url,
         "keywords": url.split('/')[2]
     }
