@@ -77,8 +77,11 @@ def make_event(soup):
         else:
             end_date = (datetime.fromisoformat(start_date) + timedelta(hours = duration_in_hours)).isoformat()
 
-        dates.append({"startdate": str(start_date), "endDate": str(end_date), "availabilityStarts": str(booking_begin)})
+        dates.append({"startDate": str(start_date), "endDate": str(end_date), "availabilityStarts": str(booking_begin)})
 
+    # Fetch duration from timings if the duration_in_hours is set to 0
+    if duration_in_hours == 0:
+        duration_in_hours = datetime.fromisoformat(dates[0]['endDate']).hour - datetime.fromisoformat(dates[0]['startDate']).hour
     
     # details
     metrics = {}
