@@ -72,7 +72,7 @@ def make_event(soup):
         start_date = event_timings[0].astimezone(IST).isoformat()
 
         # If there are two datetime in dates then it has start and end time. If not we calculate using duration
-        if len(dates) == 2:
+        if len(event_timings) == 2:
             end_date = event_timings[1].astimezone(IST)
         else:
             end_date = (datetime.fromisoformat(start_date) + timedelta(hours = duration_in_hours)).isoformat()
@@ -106,7 +106,7 @@ def make_event(soup):
 def find_timings(duration, date, soup):
     # Durations structure is `duration in hours, duration in time`. If , exists timings can be taken from here
     if ',' in duration:
-        timings_str = duration.split(',')[1].lower()
+        timings_str = duration.split(',')[1].strip().lower()
         return parse_time(timings_str, date)
     
     # Checking if itinerary exists or not. If does, timings can be extracted from here.
@@ -116,7 +116,7 @@ def find_timings(duration, date, soup):
         # Extracting timing according to the itinerary. There are two structures as followed 
         # Eg.:
         # 1. Meeting time: 6:30 am, Meeting point: ...
-        # 2. Meeting time: 6:30 am, Meeting point: ...
+        # 2. Meet at Snoopy Paws Cafe, by 3 pm ...
         if 'meet at' in meet_data:
             start_time = meet_data.split('by')[1].strip()
         elif 'meeting time' in meet_data:
@@ -129,20 +129,26 @@ def find_timings(duration, date, soup):
 
     # Search using time regex and remove "time:" for datefinder to work properly
     start_time = re.search(r'time:(.*?)m', meet_data).group(0).lstrip('time:').strip().lower()
+
     return parse_time(start_time, date)
 
 def parse_time(timings, event_date):
-    # We use datefinder coz it finds the closest year automatically
+    # We pass event date to get the correct date time of event
     for splitter in ["to", "-"]:
         if splitter in timings:
             timings = timings.replace(f"{splitter}", " to ")
 
-    if bool(re.search(r'\d+\sto\s\d+\s.m', timings)):
-        match = re.match(r"(\d+)\s+to\s+(\d+)\s*(am|pm)", timings)
+    # Convert the timings from "hh to hh pm" to "hh:mm to hh:mm pm" format for datefinder to work properly.
+    if bool(re.search(r'\d+\s+to\s+\d+[\s]*.m', timings)):
+        match = re.match(r"(\d+)\s+to\s+(\d+)[\s]*(am|pm)", timings)
         start_time, end_time, period = match.groups()
 
-        timings = re.sub(re.sub(r'to\s\d+', f"to {end_time}:00", timings, 1))
-        timings = re.sub(r'to\s\d+', f"to {end_time}:00", timings, 1)
+        timings = re.sub(r'\d+\s+to', f"{start_time}:00 to", timings, 1)
+        timings = re.sub(r'to\s+\d+', f"to {end_time}:00", timings, 1)
+
+    # Convert to "hh:mm pm to hh:mm pm". Otherwise it takes first time as am
+    if 'am' not in timings and timings.count('pm') == 1:
+        timings = timings.replace('to', 'pm to')
 
     return list(datefinder.find_dates(timings, base_date=event_date))
 
