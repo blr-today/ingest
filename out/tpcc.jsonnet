@@ -1,54 +1,5 @@
 {
-  "events": [
-    {
-      "id": "m0hxn1xq",
-      "name": "Mystery Train",
-      "start": {
-        "type": "datetime",
-        "date": "2024-09-08",
-        "time": "15:30"
-      },
-      "end": {
-        "type": "datetime",
-        "date": "2024-09-08",
-        "time": "15:30"
-      },
-      "timeZone": "Asia/Kolkata",
-      "repeatPeriod": "noRepeat",
-      "repeatFrequency": "daily",
-      "repeatInterval": 1,
-      "repeatEnds": "never",
-      "repeatEndsDate": null,
-      "repeatEndsOccurrences": 1,
-      "repeatMonthlyOnDay": "sameDay",
-      "description": "<div>(Jim Jarmusch, 1989, 106min)</div>\n<div class=\"hidden-description\">In Memphis, Tennessee, over the course of a single night, the Arcade Hotel, run by an eccentric night clerk and a clueless bellboy, is visited by a young Japanese couple traveling in search of the roots of rock; an Italian woman in mourning who stumbles upon a fleeing charlatan girl; and a comical trio of accidental thieves looking for a place to hide…</div>",
-      "image": {
-        "url": "https://media.themoviedb.org/t/p/w500_and_h282_face/lhETOsmpG0NVkhjF2LFWPCS2jpT.jpg",
-        "extension": "jpg",
-        "name": "lhETOsmpG0NVkhjF2LFWPCS2jpT.jpg",
-        "isUploadedByLink": true
-      },
-      "eventType": "lzcjjijb",
-      "location": "lzk6mvzf",
-      "host": null,
-      "tags": [],
-      "color": "rgb(255, 251, 204)",
-      "buttonVisible": false,
-      "buttonLink": {
-        "rawValue": "",
-        "value": "",
-        "type": "url",
-        "target": "_blank"
-      },
-      "buttonText": "Get Tickets",
-      "buttonCaption": "",
-      "video": {
-        "type": "youtube",
-        "id": "ZzyMVe-pKvo",
-        "originalValue": "https://www.youtube.com/embed/ZzyMVe-pKvo"
-      }
-    }
-  ],
+  "events": [],
   "locations": [
     {
       "id": "lyqdnwpw",
