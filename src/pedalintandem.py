@@ -191,27 +191,18 @@ def parse_time(timings, event_date):
 def convert_duration_in_hours(duration):
     duration_range = duration.split(',')[0]
 
-    # fetch the upper limit of time duration
-    if bool(re.search("hour", duration)):
-        if bool(re.search('to', duration_range)):
-            duration_in_hours = duration_range.replace("hours", "").split('to')[1].strip()
-        elif bool(re.search('-', duration_range)):
-            duration_in_hours = duration_range.replace("hours", "").split('-')[1].strip()
-        else:
-            duration_in_hours = duration_range.replace("hours", "").strip()
+    # Duration either has a range or fixed no. of hours.
+    for hour in ["hours", "hrs"]:
+        if hour in duration_range:
+            duration_range = duration_range.replace(hour, "")
 
-    elif bool(re.search("hrs", duration)):
-        if bool(re.search('to', duration_range)):
-            duration_in_hours = duration_range.replace("hrs", "").split('to')[1].strip()
-        elif bool(re.search('-', duration_range)):
-            duration_in_hours = duration_range.replace("hrs", "").split('-')[1].strip()
-        else:
-            duration_in_hours = duration_range.replace("hrs", "").strip()
+            for splitter in ["to", "-"]:
+                if splitter in duration_range:
+                    return int(duration_range.split(splitter)[1].strip())
+            
+            return int(duration_range.strip())
 
-    else:
-        duration_in_hours = 0
-
-    return int(duration_in_hours)
+    return int(0)
 
 def get_offers(soup):
     offers = {"priceCurrency": "INR", '@type': 'offers'}
