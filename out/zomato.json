@@ -1424,48 +1424,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-      "endDate": "2024-09-08T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/e4d463959ab685fd91a617f82b9656c81724933387.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.975953240000001,
-            "longitude": 77.601618579999993
-         },
-         "name": "Hard Rock Cafe"
-      },
-      "name": "Rock Out Sundays",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 8
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-29T17:41:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 8,
-      "startDate": "2024-09-08T20:30:00+05:30",
-      "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50198"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Not just any festival, this the biggest celebration of the finest brews and the joyous vibes that come with them. From beer connoisseurs to casual sippers, Octobeer fest is for everyone to join in the cheers, groove to the tunes, and savor the magic that happens when great beer, people, music and food come together.",
       "endDate": "2024-10-20T23:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -2269,7 +2227,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 59
+               "value": 51
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T14:04:00+05:30"
@@ -2283,7 +2241,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 59,
+      "remainingAttendeeCapacity": 51,
       "startDate": "2024-09-12T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50526"
    },
@@ -3491,65 +3449,6 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
-      "endDate": "2024-09-08T21:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/98a13be4119fb1df87ecbe8ff0c1f2ed1725340941.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.93327579,
-            "longitude": 77.632213230000005
-         },
-         "name": "Small World, S.T. Bed"
-      },
-      "name": "Salsa Dance",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 10
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-03T11:49:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 10
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-03T11:49:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 9
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-03T11:49:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-09-08T20:00:00+05:30",
-      "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50754"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
       "endDate": "2024-09-14T21:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
@@ -4587,5 +4486,103 @@
       "remainingAttendeeCapacity": 199,
       "startDate": "2024-09-21T17:00:00+05:30",
       "url": "https://www.zomato.com/events/glow-after-dark-dj-night-bengaluru-et51252"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
+      "endDate": "2024-09-14T20:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/66ed0abac5271ba413709d951e39f4461725784257.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "413, 100 Feet Rd, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala, Bengaluru, Karnataka 560034",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.93361837,
+            "longitude": 77.623636869999999
+         },
+         "name": "The Terrace at Gilly's Redefined"
+      },
+      "name": "Soul Jams",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 152
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-08T15:40:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/53bef6deba37403958ab778253f867d31725784959.png",
+            "name": "S Jams",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/53bef6deba37403958ab778253f867d31725784959.png"
+         }
+      ],
+      "remainingAttendeeCapacity": 152,
+      "startDate": "2024-09-14T16:30:00+05:30",
+      "url": "https://www.zomato.com/events/soul-jams-bengaluru-et51312"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
+      "endDate": "2024-09-14T20:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/c9beb92006e36a82f9e69cb8953ccdcf1725784484.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "968, 3rd & 4th Floor, 12th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.97018314,
+            "longitude": 77.639204219999996
+         },
+         "name": "Secret Story Bar & Kitchen"
+      },
+      "name": "Soul Jams",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 229
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-08T15:41:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/53bef6deba37403958ab778253f867d31725785030.png",
+            "name": "S Jams",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/53bef6deba37403958ab778253f867d31725785030.png"
+         }
+      ],
+      "remainingAttendeeCapacity": 229,
+      "startDate": "2024-09-14T16:30:00+05:30",
+      "url": "https://www.zomato.com/events/soul-jams-bengaluru-et51313"
    }
 ]
