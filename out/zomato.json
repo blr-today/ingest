@@ -1163,6 +1163,74 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
+      "endDate": "2024-09-14T17:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1724656152.png",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.934246630000001,
+            "longitude": 77.617676110000005
+         },
+         "name": "Small World, 5th Block"
+      },
+      "name": "Blind Date - A Sensory Experience",
+      "offers": [
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T14:15:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T14:15:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T14:15:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T14:15:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-09-14T16:00:00+05:30",
+      "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
       "endDate": "2024-09-15T16:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -2713,65 +2781,6 @@
       "performers": [ ],
       "startDate": "2024-09-21T20:00:00+05:30",
       "url": "https://www.zomato.com/events/mixmag-bengaluru-et50555"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Get ready for an electrifying experience as VH1 Supersonic takes over Kitty Ko for the first time ever on September 8th! Known for bringing the most exhilarating music experiences, VH1 Supersonic is set to light up Bangalore’s premier rooftop venue with its signature energy.\n\nFeaturing:\n\nMiss Bliss – The globally renowned techno DJ will bring her hypnotic beats and high-octane rhythms to the decks, delivering a night of non-stop dancing and immersive sound.",
-      "endDate": "2024-09-09T01:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/4cd9924b03548f9e140cbdf1bea486e21725270466.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.992536080000001,
-            "longitude": 77.582031450000002
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Vh1 Supersonic Club Nights",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 51
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-02T15:22:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 91
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-02T15:22:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 83
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-02T15:22:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-09-08T20:00:00+05:30",
-      "url": "https://www.zomato.com/events/vh1-supersonic-club-nights-bengaluru-et50558"
    },
    {
       "@context": "https://schema.org",
