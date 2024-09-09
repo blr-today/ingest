@@ -1163,6 +1163,74 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
+      "endDate": "2024-09-14T17:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1724656152.png",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.934246630000001,
+            "longitude": 77.617676110000005
+         },
+         "name": "Small World, 5th Block"
+      },
+      "name": "Blind Date - A Sensory Experience",
+      "offers": [
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T14:15:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T14:15:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T14:15:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T14:15:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-09-14T16:00:00+05:30",
+      "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
       "endDate": "2024-09-15T16:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -1933,7 +2001,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 17
+               "value": 15
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-30T12:32:00+05:30"
@@ -1947,7 +2015,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 17,
+      "remainingAttendeeCapacity": 15,
       "startDate": "2024-09-22T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50293"
    },
@@ -2227,7 +2295,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 51
+               "value": 49
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T14:04:00+05:30"
@@ -2241,7 +2309,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 51,
+      "remainingAttendeeCapacity": 49,
       "startDate": "2024-09-12T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50526"
    },
@@ -2512,48 +2580,6 @@
       "remainingAttendeeCapacity": 75,
       "startDate": "2024-09-26T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50535"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Catch Cartridge performing live your favourite tracks at Hard Rock Cafe, Whitefield, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-      "endDate": "2024-09-27T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/9727a000abe82d9ed11da16c945f96fa1725265278.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.98717896,
-            "longitude": 77.736480200000003
-         },
-         "name": "Hard Rock Cafe"
-      },
-      "name": "Unplugged Duo's",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 75
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-02T14:04:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 75,
-      "startDate": "2024-09-27T20:30:00+05:30",
-      "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50536"
    },
    {
       "@context": "https://schema.org",
@@ -3716,7 +3742,7 @@
          },
          "name": "2Moons"
       },
-      "name": "Rahil Mehta",
+      "name": "Rahill Mehta",
       "offers": [
          {
             "availability": "InStock",
@@ -4664,5 +4690,55 @@
       "remainingAttendeeCapacity": 200,
       "startDate": "2024-09-22T18:00:00+05:30",
       "url": "https://www.zomato.com/events/caged-x-mob-mind-ft-psyk-chaz-bengaluru-et51331"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Are you ready to INDULGE with us Bangalore? catch our homegrown artist Dj Varun live for an extended set at 7 Rivers Brewing Company this Saturday",
+      "endDate": "2024-09-15T01:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/a370cfc7820243709b70d3b56fd6b3ce1725888791.jpeg",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.97326,
+            "longitude": 77.619667000000007
+         },
+         "name": "Seven Rivers Brewing Co."
+      },
+      "name": "Indulge ft. Varun at Seven Rivers",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-09T19:09:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-09T19:09:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-09-14T20:00:00+05:30",
+      "url": "https://www.zomato.com/events/indulge-ft-varun-at-seven-rivers-bengaluru-et51344"
    }
 ]

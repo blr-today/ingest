@@ -1214,6 +1214,74 @@
     }
   },
   {
+    "name": "Blind Date - A Sensory Experience",
+    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
+    "startDate": "2024-09-14T16:00:00+05:30",
+    "endDate": "2024-09-14T17:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Blind Date - A Sensory Experience Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences and Trending event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1724656152.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-08-26 14:15:47",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657/details",
+        "price": 1299,
+        "currency": "INR",
+        "validFrom": "2024-08-26 14:15:48",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-08-26 14:15:48",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-26 14:15:49",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657",
+    "id": "com.zomato.49657",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
     "name": "Chai Pe Charcha",
     "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
     "startDate": "2024-09-15T15:00:00+05:30",
@@ -2006,7 +2074,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 12:32:46",
         "availability": "INSTOCK",
-        "inventory": 17
+        "inventory": 15
       }
     ],
     "performers": [],
@@ -2314,7 +2382,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:37",
         "availability": "INSTOCK",
-        "inventory": 51
+        "inventory": 49
       }
     ],
     "performers": [],
@@ -2595,48 +2663,6 @@
     ],
     "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50535",
     "id": "com.zomato.50535",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
-  },
-  {
-    "name": "Unplugged Duo's",
-    "description": "Catch Cartridge performing live your favourite tracks at Hard Rock Cafe, Whitefield, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-09-27T20:30:00+05:30",
-    "endDate": "2024-09-27T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/9727a000abe82d9ed11da16c945f96fa1725265278.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50536/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-02 14:04:41",
-        "availability": "INSTOCK",
-        "inventory": 75
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50536",
-    "id": "com.zomato.50536",
     "location": {
       "name": "Hard Rock Cafe",
       "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
@@ -3850,7 +3876,7 @@
     }
   },
   {
-    "name": "Rahil Mehta",
+    "name": "Rahill Mehta",
     "description": "Get ready for an unforgettable night on 21st September 2024 at Two Moons and Juliet, Bangalore! The legendary Rahill Mehta is taking over the decks for a massive event that will leave you breathless. With his electrifying beats and unmatched energy, Rahill is set to create an atmosphere like never before.\n\nThis isn't just a party\u2014it's an experience. Two Moons and Juliet will be transformed into a dazzling spectacle of sound and light. Tickets are selling fast, so don\u2019t miss your chance to be part of the most talked-about event of the year!",
     "startDate": "2024-09-21T19:00:00+05:30",
     "endDate": "2024-09-22T01:00:00+05:30",
@@ -3858,8 +3884,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Rahil Mehta Party and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rahil Mehta Bengaluru on Zomato which is a Party and Music event happening at 1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd, Someshwarpura, Halasuru",
+    "ogTitle": "Rahill Mehta Party and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rahill Mehta Bengaluru on Zomato which is a Party and Music event happening at 1MG Mall, Trinity Circle, 5th floor, 1 MG Mall, Mahatma Gandhi Rd, Someshwarpura, Halasuru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/8f08e45bc12dfa8c24d2b05fbc3c1a091725364359.png"
     ],
@@ -4830,6 +4856,58 @@
         "@type": "GeoCoordinates",
         "latitude": 12.9707322,
         "longitude": 77.6476391
+      }
+    }
+  },
+  {
+    "name": "Indulge ft. Varun at Seven Rivers",
+    "description": "Are you ready to INDULGE with us Bangalore? catch our homegrown artist Dj Varun live for an extended set at 7 Rivers Brewing Company this Saturday",
+    "startDate": "2024-09-14T20:00:00+05:30",
+    "endDate": "2024-09-15T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Indulge ft. Varun at Seven Rivers Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Indulge ft. Varun at Seven Rivers Bengaluru on Zomato which is a Trending event happening at 7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/a370cfc7820243709b70d3b56fd6b3ce1725888791.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/indulge-ft-varun-at-seven-rivers-bengaluru-et51344/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-09 19:09:16",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/indulge-ft-varun-at-seven-rivers-bengaluru-et51344/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-09 19:09:00",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/indulge-ft-varun-at-seven-rivers-bengaluru-et51344",
+    "id": "com.zomato.51344",
+    "location": {
+      "name": "Seven Rivers Brewing Co.",
+      "address": "7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97326,
+        "longitude": 77.619667
       }
     }
   }
