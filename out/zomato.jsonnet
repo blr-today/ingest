@@ -35,7 +35,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 457
+        "inventory": 453
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -43,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 182
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -51,7 +51,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1054
+        "inventory": 1053
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -299,7 +299,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 486
+        "inventory": 485
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -307,7 +307,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 499
+        "inventory": 498
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -424,7 +424,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 17:00:00",
         "availability": "INSTOCK",
-        "inventory": 308
+        "inventory": 276
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -432,7 +432,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 20:00:00",
         "availability": "INSTOCK",
-        "inventory": 449
+        "inventory": 432
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -440,7 +440,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "INSTOCK",
-        "inventory": 175
+        "inventory": 165
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -533,7 +533,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 810
+        "inventory": 792
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -541,15 +541,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 82
-      },
-      {
-        "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 16:50:00",
-        "availability": "SELLING_FAST",
-        "inventory": 4
+        "inventory": 79
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -557,7 +549,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 93
+        "inventory": 92
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -573,7 +565,15 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 97
+      },
+      {
+        "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-07-30 16:50:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -625,8 +625,8 @@
         "price": 999,
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
-        "availability": "INSTOCK",
-        "inventory": 21
+        "availability": "SELLING_FAST",
+        "inventory": 15
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -634,7 +634,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 11
+        "inventory": 9
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -642,7 +642,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 7
+        "inventory": 42
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -674,7 +674,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 9
+        "inventory": 8
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -698,7 +698,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 9
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -926,7 +926,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 325
+        "inventory": 320
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -934,7 +934,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 206
+        "inventory": 202
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -942,7 +942,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 22
+        "inventory": 20
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1150,7 +1150,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:50:43",
         "availability": "INSTOCK",
-        "inventory": 343
+        "inventory": 340
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1158,7 +1158,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:50:44",
         "availability": "INSTOCK",
-        "inventory": 1051
+        "inventory": 1050
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1166,7 +1166,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 57
+        "inventory": 53
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1271,6 +1271,74 @@
     ],
     "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657",
     "id": "com.zomato.49657",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Blind Date - A Sensory Experience",
+    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
+    "startDate": "2024-09-15T16:00:00+05:30",
+    "endDate": "2024-09-15T17:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Blind Date - A Sensory Experience Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences and Trending event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1724656152.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-08-26 14:15:49",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658/details",
+        "price": 1299,
+        "currency": "INR",
+        "validFrom": "2024-08-26 14:15:49",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-08-26 14:15:50",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-26 14:15:50",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658",
+    "id": "com.zomato.49658",
     "location": {
       "name": "Small World, 5th Block",
       "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -1638,7 +1706,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 11:04:46",
         "availability": "INSTOCK",
-        "inventory": 86
+        "inventory": 71
       }
     ],
     "performers": [],
@@ -2266,7 +2334,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 12:53:47",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 98
       }
     ],
     "performers": [],
@@ -2806,7 +2874,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:20:00",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/bangalore-catapalooza-bengaluru-et50554/details",
@@ -2874,7 +2942,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:57",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 197
       }
     ],
     "performers": [],
@@ -4332,7 +4400,7 @@
         "currency": "INR",
         "validFrom": "2024-09-04 19:00:12",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 8
       }
     ],
     "performers": [],
@@ -4594,7 +4662,7 @@
         "currency": "INR",
         "validFrom": "2024-09-05 18:31:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       }
     ],
     "performers": [],
@@ -4658,108 +4726,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.9342727,
         "longitude": 77.6132161
-      }
-    }
-  },
-  {
-    "name": "Soul Jams",
-    "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
-    "startDate": "2024-09-14T16:30:00+05:30",
-    "endDate": "2024-09-14T20:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Soul Jams Music and Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Music and Experiences event happening at 413, 100 Feet Rd, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/66ed0abac5271ba413709d951e39f4461725784257.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/soul-jams-bengaluru-et51312/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-08 15:40:00",
-        "availability": "INSTOCK",
-        "inventory": 152
-      }
-    ],
-    "performers": [
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/53bef6deba37403958ab778253f867d31725784959.png",
-        "name": "S Jams",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/53bef6deba37403958ab778253f867d31725784959.png"
-      }
-    ],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/soul-jams-bengaluru-et51312",
-    "id": "com.zomato.51312",
-    "location": {
-      "name": "The Terrace at Gilly's Redefined",
-      "address": "413, 100 Feet Rd, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93361837,
-        "longitude": 77.62363687
-      }
-    }
-  },
-  {
-    "name": "Soul Jams",
-    "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
-    "startDate": "2024-09-14T16:30:00+05:30",
-    "endDate": "2024-09-14T20:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Soul Jams Music and Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Soul Jams Bengaluru on Zomato which is a Music and Experiences event happening at 968, 3rd & 4th Floor, 12th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/c9beb92006e36a82f9e69cb8953ccdcf1725784484.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/soul-jams-bengaluru-et51313/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-08 15:41:00",
-        "availability": "INSTOCK",
-        "inventory": 229
-      }
-    ],
-    "performers": [
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/53bef6deba37403958ab778253f867d31725785030.png",
-        "name": "S Jams",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/53bef6deba37403958ab778253f867d31725785030.png"
-      }
-    ],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/soul-jams-bengaluru-et51313",
-    "id": "com.zomato.51313",
-    "location": {
-      "name": "Secret Story Bar & Kitchen",
-      "address": "968, 3rd & 4th Floor, 12th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97018314,
-        "longitude": 77.63920422
       }
     }
   }
