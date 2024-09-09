@@ -1214,142 +1214,6 @@
     }
   },
   {
-    "name": "Blind Date - A Sensory Experience",
-    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
-    "startDate": "2024-09-14T16:00:00+05:30",
-    "endDate": "2024-09-14T17:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Blind Date - A Sensory Experience Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences and Trending event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1724656152.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-08-26 14:15:47",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657/details",
-        "price": 1299,
-        "currency": "INR",
-        "validFrom": "2024-08-26 14:15:48",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-26 14:15:48",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-26 14:15:49",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49657",
-    "id": "com.zomato.49657",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Blind Date - A Sensory Experience",
-    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
-    "startDate": "2024-09-15T16:00:00+05:30",
-    "endDate": "2024-09-15T17:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Blind Date - A Sensory Experience Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences and Trending event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1724656152.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-08-26 14:15:49",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658/details",
-        "price": 1299,
-        "currency": "INR",
-        "validFrom": "2024-08-26 14:15:49",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-26 14:15:50",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-26 14:15:50",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658",
-    "id": "com.zomato.49658",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
     "name": "Chai Pe Charcha",
     "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
     "startDate": "2024-09-15T15:00:00+05:30",
@@ -1646,7 +1510,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 13:31:49",
         "availability": "INSTOCK",
-        "inventory": 246
+        "inventory": 244
       },
       {
         "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
@@ -1862,7 +1726,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 11:23:18",
         "availability": "INSTOCK",
-        "inventory": 93
+        "inventory": 83
       }
     ],
     "performers": [],
@@ -2378,7 +2242,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 12:56:17",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 82
       }
     ],
     "performers": [],
@@ -2492,7 +2356,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:38",
         "availability": "INSTOCK",
-        "inventory": 60
+        "inventory": 55
       }
     ],
     "performers": [],
@@ -3087,50 +2951,6 @@
     ],
     "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et50665",
     "id": "com.zomato.50665",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Resin Art Workshop",
-    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-    "startDate": "2024-09-09T14:00:00+05:30",
-    "endDate": "2024-09-09T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1725336453.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50675/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:48:37",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50675",
-    "id": "com.zomato.50675",
     "location": {
       "name": "Small World, 5th Block",
       "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -4726,6 +4546,290 @@
         "@type": "GeoCoordinates",
         "latitude": 12.9342727,
         "longitude": 77.6132161
+      }
+    }
+  },
+  {
+    "name": "Yoga with Puppies by Pawasana",
+    "description": "Welcome to the most pawsitively delightful yoga experience: Downward Doggies! Picture yourself on your yoga mat, surrounded by adorable, adoptable puppies frolicking around you. As you flow through your poses, their playful energy infuses each movement with joy and warmth.\n\nBut this isn't just about yoga; it's about spreading love and support for our furry friends. Every ticket sold helps support local animal shelters and rescue organizations, ensuring these precious pups find their forever homes.\n\nFeel the stress melt away as you sink into your poses, with puppy kisses and tail wags adding an extra dose of happiness to your practice. It's not just about finding your inner zen; it's about embracing the love and companionship that these furry yogis bring to your mat.",
+    "startDate": "2024-09-15T10:00:00+05:30",
+    "endDate": "2024-09-15T12:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Yoga with Puppies by Pawasana Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Yoga with Puppies by Pawasana Bengaluru on Zomato which is a Experiences event happening at 470, 80 Feet Rd, opposite Bharat Sanchar Nigam Limited Customer Service Centre, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/d611076f3eed4b185f7918ec2de892791725868196.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/yoga-with-puppies-by-pawasana-bengaluru-et51317/details",
+        "price": 1299,
+        "currency": "INR",
+        "validFrom": "2024-09-09 13:35:22",
+        "availability": "INSTOCK",
+        "inventory": 7
+      },
+      {
+        "url": "https://www.zomato.com/events/yoga-with-puppies-by-pawasana-bengaluru-et51317/details",
+        "price": 2299,
+        "currency": "INR",
+        "validFrom": "2024-09-09 13:35:22",
+        "availability": "INSTOCK",
+        "inventory": 20
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/yoga-with-puppies-by-pawasana-bengaluru-et51317",
+    "id": "com.zomato.51317",
+    "location": {
+      "name": "Pijja",
+      "address": "470, 80 Feet Rd, opposite Bharat Sanchar Nigam Limited Customer Service Centre, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9702299513,
+        "longitude": 77.649024687338
+      }
+    }
+  },
+  {
+    "name": "Melodic Magic",
+    "description": "Join us at High Ultra Lounge on Friday, 13th September for an electrifying night of Pulsating beats featuring the incredible DJ IVAN! Get ready to immerse yourself in a high-energy atmosphere and unforgettable vibes at one of the most exclusive venues in town.",
+    "startDate": "2024-09-13T20:00:00+05:30",
+    "endDate": "2024-09-14T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Melodic Magic Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Melodic Magic Bengaluru on Zomato which is a Music and Trending event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/05663e62f4aa215d9ed92b65b719fc691725881559.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/melodic-magic-bengaluru-et51327/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-09 17:22:54",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/melodic-magic-bengaluru-et51327/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-09 17:22:54",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/melodic-magic-bengaluru-et51327/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-09 17:22:55",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/melodic-magic-bengaluru-et51327",
+    "id": "com.zomato.51327",
+    "location": {
+      "name": "High Ultra Lounge, Bangalore",
+      "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0122829,
+        "longitude": 77.5561431
+      }
+    }
+  },
+  {
+    "name": "Shankar Ehsaan Loy Live",
+    "description": "RED LIVE in concert with Shankar Ehsaan Loy by Superhits 93.5 RED FM.\nPrepare to be swept off your feet by the legendary trio of Shankar Mahadevan, Ehsaan\nNoorani, and Loy Mendonsa as they set the stage on fire with their electrifying music\nand soul-stirring melodies.\n\nRED FM, India's premier FM radio network, brings its vibrant programming and\ninnovative content to millions of listeners across 69 cities, entertaining and engaging\naudiences with a unique mix of music, humour, and social commentary. Committed to\nmaking a positive impact, RED FM actively supports various social causes, enriching\ncommunities and fostering positive change.",
+    "startDate": "2024-12-21T16:00:00+05:30",
+    "endDate": "2024-12-21T22:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Shankar Ehsaan Loy Live Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Shankar Ehsaan Loy Live Bengaluru on Zomato which is a Music event happening at Outer Ring Rd, near Marathalli, Kaverappa Layout, Kadubeesanahalli, Kadabeesanahalli, Bengaluru, Karnataka 560103",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/eeb651a46a554c7227b525a63877b98c1725881715.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 799,
+        "currency": "INR",
+        "validFrom": "2024-09-09 17:22:05",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-09-09 17:22:05",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-09-09 17:22:05",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 3499,
+        "currency": "INR",
+        "validFrom": "2024-09-09 17:22:06",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 6999,
+        "currency": "INR",
+        "validFrom": "2024-09-09 17:22:06",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 14999,
+        "currency": "INR",
+        "validFrom": "2024-09-09 17:22:07",
+        "availability": "INSTOCK",
+        "inventory": 25
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329",
+    "id": "com.zomato.51329",
+    "location": {
+      "name": "New Horizon College of Engineering",
+      "address": "Outer Ring Rd, near Marathalli, Kaverappa Layout, Kadubeesanahalli, Kadabeesanahalli, Bengaluru, Karnataka 560103",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9337241,
+        "longitude": 77.6921207
+      }
+    }
+  },
+  {
+    "name": "Mixmag Lab Bengaluru ft. Rrose + Chaz + GST",
+    "description": "Caged returns to the park ballroom after a stunning show last month. This time with a Mixmag Lab BLR and an extremely honoured guest and one of the finest musicians on the planet and beyond - RROSE\n\nWe look forward to bringing the same experience of incredible sound and lighting rigs!\n\n\u2022 This is a 21+ show. ID checks are mandatory.\n\u2022 We follow strict adherence to zero tolerance on drugs & prohibited substances. ",
+    "startDate": "2024-09-15T18:00:00+05:30",
+    "endDate": "2024-09-16T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Mixmag Lab Bengaluru ft. Rrose + Chaz + GST Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Mixmag Lab Bengaluru ft. Rrose + Chaz + GST Bengaluru on Zomato which is a Trending event happening at 14/7, The Park, MG Road, Bhaskaran Rd, Sivanchetti Gardens, Bengaluru, Karnataka 560042",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/63b43f63ee027d9351e4d154ba30de3e1725882275.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/mixmag-lab-bengaluru-ft-rrose-chaz-gst-bengaluru-et51330/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-09 17:22:56",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/mixmag-lab-bengaluru-ft-rrose-chaz-gst-bengaluru-et51330",
+    "id": "com.zomato.51330",
+    "location": {
+      "name": "The Park Ballroom, MG Road",
+      "address": "14/7, The Park, MG Road, Bhaskaran Rd, Sivanchetti Gardens, Bengaluru, Karnataka 560042",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9739914,
+        "longitude": 77.6198638
+      }
+    }
+  },
+  {
+    "name": "Caged x Mob Mind ft. Psyk + Chaz",
+    "description": "Caged is back at Indiranagar Social for yet another intimate party with some eclectic set of musicians at Indiranagar Social on 22 Sept 2024\n\nLine up:\n\nPSYK\nCHAZ\nVISHAL UNNI\nFROZEN FADER\nDEFAULT SYSTEM\n\n\n\u2022 This is a 21+ show. ID checks are mandatory.\n\u2022 We follow strict adherence to zero tolerance on drugs & prohibited substances. ",
+    "startDate": "2024-09-22T18:00:00+05:30",
+    "endDate": "2024-09-23T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Caged x Mob Mind ft. Psyk + Chaz Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Caged x Mob Mind ft. Psyk + Chaz Bengaluru on Zomato which is a Trending event happening at Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/6130caa1aabad13d1084765697f198f61725882462.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/caged-x-mob-mind-ft-psyk-chaz-bengaluru-et51331/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-09 17:22:55",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/caged-x-mob-mind-ft-psyk-chaz-bengaluru-et51331",
+    "id": "com.zomato.51331",
+    "location": {
+      "name": "Indiranagar Social",
+      "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9707322,
+        "longitude": 77.6476391
       }
     }
   }
