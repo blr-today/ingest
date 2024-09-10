@@ -206,8 +206,8 @@ def convert_duration_in_hours(duration):
     return int(0)
 
 def get_offers(soup):
-    offers = {"priceCurrency": "INR", '@type': 'offers'}
-    addOn = {'@type': 'offers'}
+    offers = {"priceCurrency": "INR", '@type': 'offer'}
+    addOn = {'@type': 'offer'}
 
     opts = soup.select('div.product-variations select[name="variation_id"] option')
     for opt in opts:
