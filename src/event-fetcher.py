@@ -54,6 +54,7 @@ EVENT_JSON_FILES = [
     "out/sis.json",
     "out/bcc.json",
     "out/tpcc.json",  # duplicates to underline and insider
+    "out/skillboxes.json",
 ]
 
 KNOWN_EVENT_TYPES = [
@@ -87,7 +88,6 @@ URL_FILES = [
     "out/highape.txt",
     "out/insider.txt",
     "out/mmb.txt",
-    "out/skillboxes.txt",
     "out/creativemornings.txt",
     "out/together-buzz.txt",
     "out/koota.txt",
@@ -168,17 +168,17 @@ def fix_online_schema(url, event):
 
 # This is a hacky selective deep-merge
 # just for the keywords field
+
 def apply_patch(event, patch={}):
     patch = patch.copy()
     if "keywords" in patch and "keywords" in event:
-
         if isinstance(event["keywords"], str):
             event["keywords"] = list(
                 set([k.strip() for k in event["keywords"].split(",")])
             )
         patch["keywords"] = sorted(event["keywords"] + patch["keywords"])
-        del event["keywords"]  # so it gets overridden for sure
-    patch.update(event)
+        del event['keywords']  # so it gets overridden for sure
+        patch.update(event)
     return patch
 
 

@@ -27,8 +27,11 @@ out/te.jsonnet:
 out/te.json: out/te.jsonnet
 	python src/jsonnet.py out/te.jsonnet
 
-out/skillboxes.txt:
-	python src/skillboxes.py | sort -u > $@ || $(call restore-file,$@)
+out/skillboxes.jsonnet:
+	python src/skillboxes.py 9
+
+out/skillboxes.json:
+	python src/jsonnet.py out/skillboxes.jsonnet || $(call restore-file,$@)
 
 out/atta_galatta.json:
 	python src/atta_galatta.py || $(call restore-file,$@)
@@ -183,8 +186,8 @@ fetch: out/allevents.txt \
  out/sis.json \
  out/bcc.json \
  out/pumarun.txt \
- out/tpcc.json
-
+ out/tpcc.json \
+ out/skillboxes.json
 	@echo "Done"
 
 clean:
