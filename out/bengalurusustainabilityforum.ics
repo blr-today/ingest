@@ -19,9 +19,24 @@ DTSTART:20240101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240910T160000
+DTEND;TZID=Asia/Kolkata:20240910T170000
+DTSTAMP:20240910T120556
+CREATED:20240910T044805Z
+LAST-MODIFIED:20240910T044805Z
+UID:11116-1725984000-1725987600@www.bengalurusustainabilityforum.org
+SUMMARY:Why do frogs do what they do? ~ Paraspar @IISc
+DESCRIPTION:There is huge diversity in frog behaviour – some bellow loudly like a cow while others whistle like birds\, some are green and some turn yellow; some are silent while others foot flag. There are some that lay eggs and leave\, while some spend time taking care of the eggs. Having worked in the diverse field of behavioural ecology of frogs\, Gururaja KV\, Ecologist at Srishti Manipal Institute of Art\, Design and Technology\, MAHE will share some stories and insights from my research in the Western Ghats on bioacoustics\, multimodal signalling and breeding behaviour. \n\nVenue SV Narasaiah Auditorium\, IAP\, IISc\,  Bengaluru\nDate 10 September 2024 (Tuesday)\nTime 4.00 pm
+URL:https://www.bengalurusustainabilityforum.org/event/why-do-frogs-do-what-they-do-paraspar-iisc/
+LOCATION:Indian Institute of Science\, Bengaluru
+CATEGORIES:External event,In-person Event
+ATTACH;FMTTYPE=image/jpeg:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-10-at-07.44.37.jpeg
+ORGANIZER;CN="Indian Institute of Science":MAILTO:bitasta@iisc.ac.in
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240914T090000
 DTEND;TZID=Asia/Kolkata:20240914T170000
-DTSTAMP:20240910T072025
+DTSTAMP:20240910T120556
 CREATED:20240909T141011Z
 LAST-MODIFIED:20240909T141232Z
 UID:11113-1726304400-1726333200@www.bengalurusustainabilityforum.org
@@ -35,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240914T110000
 DTEND;TZID=Asia/Kolkata:20240914T133000
-DTSTAMP:20240910T072025
+DTSTAMP:20240910T120556
 CREATED:20240909T071823Z
 LAST-MODIFIED:20240909T085619Z
 UID:11108-1726311600-1726320600@www.bengalurusustainabilityforum.org
@@ -50,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240930T093000
 DTEND;TZID=Asia/Kolkata:20241001T183000
-DTSTAMP:20240910T072025
+DTSTAMP:20240910T120556
 CREATED:20240824T055831Z
 LAST-MODIFIED:20240824T061506Z
 UID:11025-1727688600-1727807400@www.bengalurusustainabilityforum.org
@@ -65,7 +80,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241015T090000
 DTEND;TZID=Asia/Kolkata:20241016T170000
-DTSTAMP:20240910T072025
+DTSTAMP:20240910T120556
 CREATED:20240906T040011Z
 LAST-MODIFIED:20240906T040338Z
 UID:11097-1728982800-1729098000@www.bengalurusustainabilityforum.org
@@ -80,7 +95,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241110
 DTEND;VALUE=DATE:20241115
-DTSTAMP:20240910T072025
+DTSTAMP:20240910T120556
 CREATED:20240824T053940Z
 LAST-MODIFIED:20240824T054029Z
 UID:11020-1731196800-1731628799@www.bengalurusustainabilityforum.org
