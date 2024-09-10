@@ -125,7 +125,6 @@ if __name__ == "__main__":
     for movie_id in get_now_showing():
         details = get_movie_details(movie_id)
         if details:
-            print(f"Processing {details['title']}")
             os.makedirs(f"out/pvr/movies/{movie_id}", exist_ok=True)
             with open(f"out/pvr/movies/{movie_id}/info.json", "w") as f:
                 json.dump(details, f, indent=2)
