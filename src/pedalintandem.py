@@ -54,9 +54,8 @@ def make_event(soup):
     heading = event.select_one('div.heading').get_text().strip()
 
     location = find_location(event)
-    
+
     offers_selector = event.select_one('div.cart-details')
-    offers = get_offers(offers_selector)
 
     duration = event.select_one('div.duration').get_text().strip()
     duration_in_hours = convert_duration_in_hours(duration)
@@ -73,15 +72,17 @@ def make_event(soup):
 
         # If there are two datetime in dates then it has start and end time. If not we calculate using duration
         if len(event_timings) == 2:
-            end_date = event_timings[1].astimezone(IST)
+            end_date = event_timings[1].astimezone(IST).isoformat()
         else:
             end_date = (datetime.fromisoformat(start_date) + timedelta(hours = duration_in_hours)).isoformat()
 
-        dates.append({"startDate": str(start_date), "endDate": str(end_date), "availabilityStarts": str(booking_begin)})
+        # dates.append({"startDate": str(start_date), "endDate": str(end_date), "availabilityStarts": str(booking_begin)})
 
     # Fetch duration from timings if the duration_in_hours is set to 0
     if duration_in_hours == 0:
-        duration_in_hours = datetime.fromisoformat(dates[0]['endDate']).hour - datetime.fromisoformat(dates[0]['startDate']).hour
+        duration_in_hours = datetime.fromisoformat(end_date).hour - datetime.fromisoformat(start_date).hour
+
+    offers = get_offers(offers_selector, booking_begin)
     
     # details
     metrics = {}
@@ -100,7 +101,8 @@ def make_event(soup):
         "name": heading,
         "location": location,
         "offers": offers,
-        "dates": dates,
+        "startDate": start_date,
+        "endDate": end_date,
         "duration": duration_in_hours,
         "description": process_description(description) + "\n" + str(metrics),
         "url": BASE_URL + url,
@@ -205,23 +207,32 @@ def convert_duration_in_hours(duration):
 
     return int(0)
 
-def get_offers(soup):
-    offers = {"priceCurrency": "INR", '@type': 'offer'}
-    addOn = {'@type': 'offer'}
+def get_offers(soup, availability_starts):
+    offers = [] # {"priceCurrency": "INR", '@type': 'offer'}
+    addOns = [] # {'@type': 'offer'}
 
     opts = soup.select('div.product-variations select[name="variation_id"] option')
     for opt in opts:
+        offer = {"priceCurrency": "INR", '@type': 'offer'}
         opt_name = opt.get_text().lower()
         price = opt['data-price-after-discount']
         price = price.replace("\u20b9", "")
         if "rent" in opt_name or "transport" in opt_name:
-            addOn[opt_name] = price
+            addOn = {'@type': 'offer'}
+            addOn['name'] = opt_name
+            addOn['price'] = price
+            addOn['priceCurrency'] = "INR"
+            addOns.append(addOn)
         else:
-            offers[opt_name] = price
+            offer['name'] = opt_name
+            offer['price'] = price
+            offer['availabilityStarts'] = availability_starts
+            offers.append(offer)
 
-    if len(addOn) != 1:
-        addOn['priceCurrency'] = 'INR'
-    offers['addOn'] = addOn
+    if len(addOns) != 0:
+        offers.append(addOns)
+    #     addOn['priceCurrency'] = 'INR'
+    # offers['addOn'] = addOn
 
     return offers
 
