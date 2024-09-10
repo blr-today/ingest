@@ -178,7 +178,7 @@ def apply_patch(event, patch={}):
             )
         patch["keywords"] = sorted(event["keywords"] + patch["keywords"])
         del event['keywords']  # so it gets overridden for sure
-        patch.update(event)
+    patch.update(event)
     return patch
 
 
@@ -203,7 +203,7 @@ def get_local_events(files, filt):
                                     .astimezone(IST)
                                     .isoformat()
                                 )
-                            except Exception as e:
+                            except Exception as exception:
                                 print(f"Error parsing {x} for {event['url']}")
 
                     event = apply_patch(event, patch)
