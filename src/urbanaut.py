@@ -89,7 +89,7 @@ def get_event_type(x):
 
 def get_keywords(x):
     base = [y["name"] for y in x["genre_tags_data"]]
-    if x["account_data"]["slug"] == "courtyard":
+    if x["account_data"].get("slug") == "courtyard":
         base += ["COURTYARD"]
     return base + ["URBANAUT"]
 
@@ -109,6 +109,8 @@ def make_event(x):
             if available_slot_count > 1:
                 url += "#" + parse_date(slot["start"]).strftime("%Y-%m-%dT%H%M")
 
+            ad = x["account_data"]
+
             yield {
                 "@context": "https://schema.org",
                 "@type": get_event_type(x),
@@ -120,9 +122,9 @@ def make_event(x):
                 "location": {
                     "@type": "Place",
                     "name": (
-                        x["account_data"]["company_name"]
-                        if (x["account_data"]["slug"] in KNOWN_HOST_VENUES or
-                            x["account_data"]['company_name'] in KNOWN_HOST_VENUES)
+                        ad["company_name"]
+                        if (ad.get("slug") in KNOWN_HOST_VENUES or
+                            ad.get('company_name') in KNOWN_HOST_VENUES)
                         else None
                     ),
                     "address": x["address"],
@@ -143,13 +145,13 @@ def make_event(x):
                 },
                 "organizer": {
                     "@type": "Organization",
-                    "name": x["account_data"]["company_name"],
-                    "description": x["account_data"]["company_description"],
-                    "url": f"https://urbanaut.app/partner/{x['account_data']['slug']}",
-                    "image": BASE_IMAGE_URL + x["account_data"]["logo_path"],
+                    "name": ad["company_name"],
+                    "description": ad.get("company_description"),
+                    "url": f"https://urbanaut.app/partner/{ad['slug']}" if 'slug' in ad else None,
+                    "image": BASE_IMAGE_URL + ad["logo_path"],
                     "contactPoint": {
                         "@type": "ContactPoint",
-                        "telephone": x["account_data"]["company_phone"],
+                        "telephone": ad["company_phone"],
                     },
                 },
                 "url": url,
