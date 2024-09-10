@@ -35,7 +35,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 453
+        "inventory": 444
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -43,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 182
+        "inventory": 166
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -275,7 +275,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 500
+        "inventory": 497
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -299,7 +299,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 485
+        "inventory": 482
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -315,7 +315,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -323,7 +323,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 97
+        "inventory": 94
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -424,7 +424,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 17:00:00",
         "availability": "INSTOCK",
-        "inventory": 276
+        "inventory": 240
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -432,7 +432,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 20:00:00",
         "availability": "INSTOCK",
-        "inventory": 432
+        "inventory": 423
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -529,6 +529,78 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
+        "price": 249,
+        "currency": "INR",
+        "validFrom": "2024-09-09 14:43:40",
+        "availability": "INSTOCK",
+        "inventory": 1986
+      },
+      {
+        "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-09 13:34:00",
+        "availability": "INSTOCK",
+        "inventory": 998
+      },
+      {
+        "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
+        "price": 799,
+        "currency": "INR",
+        "validFrom": "2024-09-09 13:34:57",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-09-09 14:43:39",
+        "availability": "INSTOCK",
+        "inventory": 494
+      },
+      {
+        "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
+        "price": 1199,
+        "currency": "INR",
+        "validFrom": "2024-09-09 13:34:00",
+        "availability": "INSTOCK",
+        "inventory": 250
+      },
+      {
+        "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-09-09 13:34:00",
+        "availability": "INSTOCK",
+        "inventory": 498
+      },
+      {
+        "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-09 13:34:00",
+        "availability": "INSTOCK",
+        "inventory": 250
+      },
+      {
+        "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
+        "price": 3599,
+        "currency": "INR",
+        "validFrom": "2024-09-09 14:43:39",
+        "availability": "INSTOCK",
+        "inventory": 196
+      },
+      {
+        "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
+        "price": 5499,
+        "currency": "INR",
+        "validFrom": "2024-09-09 14:43:40",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
         "price": 199,
         "currency": "INR",
         "validFrom": "2024-07-30 16:50:00",
@@ -542,6 +614,14 @@
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
         "inventory": 79
+      },
+      {
+        "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-07-30 16:50:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -565,15 +645,7 @@
         "currency": "INR",
         "validFrom": "2024-08-13 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 97
-      },
-      {
-        "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 16:50:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
+        "inventory": 95
       }
     ],
     "performers": [],
@@ -626,15 +698,15 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 15
+        "inventory": 11
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
         "price": 1499,
         "currency": "INR",
-        "validFrom": "2024-07-30 22:00:00",
+        "validFrom": "2024-09-10 10:30:00",
         "availability": "SELLING_FAST",
-        "inventory": 9
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -642,7 +714,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 42
+        "inventory": 40
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -666,7 +738,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 9
+        "inventory": 8
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -674,7 +746,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 8
+        "inventory": 6
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -714,7 +786,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 9
       }
     ],
     "performers": [],
@@ -870,7 +942,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 17:18:27",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 48
       }
     ],
     "performers": [],
@@ -926,7 +998,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 320
+        "inventory": 313
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1150,7 +1222,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:50:43",
         "availability": "INSTOCK",
-        "inventory": 340
+        "inventory": 327
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1158,7 +1230,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:50:44",
         "availability": "INSTOCK",
-        "inventory": 1050
+        "inventory": 1044
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1166,7 +1238,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 53
+        "inventory": 44
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1346,7 +1418,7 @@
         "currency": "INR",
         "validFrom": "2024-08-27 16:41:32",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 49
       },
       {
         "url": "https://www.zomato.com/events/onam-bash-sep-15-2024-white-lotus-bengaluru-et49899/details",
@@ -1354,7 +1426,7 @@
         "currency": "INR",
         "validFrom": "2024-08-27 16:41:31",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 48
       },
       {
         "url": "https://www.zomato.com/events/onam-bash-sep-15-2024-white-lotus-bengaluru-et49899/details",
@@ -1362,7 +1434,7 @@
         "currency": "INR",
         "validFrom": "2024-08-27 16:41:32",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 48
       }
     ],
     "performers": [],
@@ -1638,7 +1710,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 11:04:46",
         "availability": "INSTOCK",
-        "inventory": 71
+        "inventory": 61
       }
     ],
     "performers": [],
@@ -2266,7 +2338,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 12:53:47",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 96
       }
     ],
     "performers": [],
@@ -2674,6 +2746,48 @@
     }
   },
   {
+    "name": "Unplugged Duo's",
+    "description": "Catch Cartridge performing live your favourite tracks at Hard Rock Cafe, Whitefield, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+    "startDate": "2024-09-27T20:30:00+05:30",
+    "endDate": "2024-09-27T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/9727a000abe82d9ed11da16c945f96fa1725265278.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50536/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-02 14:04:41",
+        "availability": "INSTOCK",
+        "inventory": 75
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50536",
+    "id": "com.zomato.50536",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.98717896,
+        "longitude": 77.7364802
+      }
+    }
+  },
+  {
     "name": "Tribute to Eric Clapton & Beatles",
     "description": "Legendary Tribute Nights only at Hard Rock Cafe\nAt the Hard Rock Cafe Whitefield, the progressive rock band Crystal Codes will pay homage to Eric Clapton and The Beatles. If you are a Beatles or Eric Clapton fan, (how can you not be?) then join us for this memorable night at Hard Rock Cafe.",
     "startDate": "2024-09-28T21:00:00+05:30",
@@ -2764,7 +2878,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:20:00",
         "availability": "INSTOCK",
-        "inventory": 96
+        "inventory": 91
       },
       {
         "url": "https://www.zomato.com/events/bangalore-catapalooza-bengaluru-et50554/details",
@@ -2832,7 +2946,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:57",
         "availability": "INSTOCK",
-        "inventory": 197
+        "inventory": 194
       }
     ],
     "performers": [],
@@ -2977,50 +3091,6 @@
     ],
     "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et50665",
     "id": "com.zomato.50665",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Resin Art Workshop",
-    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-    "startDate": "2024-09-10T14:00:00+05:30",
-    "endDate": "2024-09-10T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1725336453.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50676/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:48:37",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50676",
-    "id": "com.zomato.50676",
     "location": {
       "name": "Small World, 5th Block",
       "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
@@ -3184,7 +3254,7 @@
         "currency": "INR",
         "validFrom": "2024-09-03 11:48:39",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 8
       }
     ],
     "performers": [],
@@ -3272,7 +3342,7 @@
         "currency": "INR",
         "validFrom": "2024-09-03 11:48:45",
         "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 13
       }
     ],
     "performers": [],
@@ -4908,6 +4978,66 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97326,
         "longitude": 77.619667
+      }
+    }
+  },
+  {
+    "name": "CrossOver ft. Weekend Heroes",
+    "description": "Excitement fills us as we bring the Afterlife Sensation WEEKEND HEROES  to Bangalore, marking its inaugural appearance at KITTY KO- BANGALORE for our CrossOver Edition this September. \ud83c\udf7e\nDate: Sunday, 15th Sep | 8PM Onwards\nVenue: Kitty ko, Bangalore.",
+    "startDate": "2024-09-15T20:00:00+05:30",
+    "endDate": "2024-09-16T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "CrossOver ft. Weekend Heroes Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for CrossOver ft. Weekend Heroes Bengaluru on Zomato which is a Trending event happening at Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/e2bd49e4fbde59424fa4db28d7ecab491725888967.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/crossover-ft-weekend-heroes-bengaluru-et51345/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-09 19:10:18",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/crossover-ft-weekend-heroes-bengaluru-et51345/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-09 19:10:18",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/crossover-ft-weekend-heroes-bengaluru-et51345/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-09 19:12:10",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/crossover-ft-weekend-heroes-bengaluru-et51345",
+    "id": "com.zomato.51345",
+    "location": {
+      "name": "Kitty Ko",
+      "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9923061,
+        "longitude": 77.58201
       }
     }
   }
