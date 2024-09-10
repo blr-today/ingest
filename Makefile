@@ -205,7 +205,4 @@ build:
 # in the database
 post-build:
 	python3.12 -m sqlite3  events.db < post-build.sql
-all: fetch build post-build
-
-	
-	
+all: fetch build
