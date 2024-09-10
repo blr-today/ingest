@@ -52,6 +52,7 @@ def main():
 
     with open("out/gullytours.json", "w") as f:
         json.dump(events, f, indent=2)
+        print(f"[GULLYTOURS] {len(events)} events")
 
 
 def make_event(tour, description, trip):

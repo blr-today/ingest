@@ -54,15 +54,14 @@ def fetch_venn():
                 event["shortened_link"] = expand_link(session, event["shortened_link"])
             else:
                 break
-        
+
         event['url'] = event['shortened_link']
         if event['shortened_link']:
-            expand =  cleanurl.cleanurl(
+            expand = cleanurl.cleanurl(
                 event['shortened_link'], respect_semantics=True
             )
             if expand:
                 event['url'] = expand.url
-            
 
         for k in ["curation", "shortened_link", "test_event", "experience_id"]:
             if k in event:
@@ -77,4 +76,6 @@ def fetch_venn():
 # Write to venn.json
 if __name__ == "__main__":
     with open("out/venn.json", "w") as f:
-        json.dump(fetch_venn(), f, indent=2)
+        events = fetch_venn()
+        json.dump(events, f, indent=2)
+        print(f"[VENN] {len(events)} events")

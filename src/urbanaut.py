@@ -166,3 +166,4 @@ if __name__ == "__main__":
             for event in make_event(x["document"]):
                 events.append(event)
         json.dump(events, f, indent=2)
+        print(f"[URBANAUT] {len(events)} events")

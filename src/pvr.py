@@ -136,3 +136,4 @@ if __name__ == "__main__":
                 json.dump(shows, f, indent=2)
     with open("out/pvr/cinemas.json", "w") as f:
         json.dump(all_cinemas, f, indent=2)
+        print(f"[PVR] {len(all_cinemas)} cinemas")
