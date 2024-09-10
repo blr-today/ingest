@@ -95,6 +95,7 @@ def make_event(soup):
     description = event.select_one('div.trix-content div').get_text()
 
     return {
+        "@context": "https://schema.org",
         "@type": "SportsEvent",
         "name": heading,
         "location": location,
