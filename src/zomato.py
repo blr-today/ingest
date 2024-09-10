@@ -84,8 +84,7 @@ def get_events(session, event_id):
                                                 'longitude': lng
                                             }
                                         }
-                                        
-                                        
+
                 except KeyError:
                     print("Couldnt Find location for", event_id)
                     events[x]['location'] = events[x]['locations'][0]
@@ -140,7 +139,6 @@ if __name__ == "__main__":
     session = Fetch(cache={"serializer": "json"})
     for event_id in sorted(get_event_ids(session)):
         for event in get_events(session, event_id):
-            print(event["url"])
             events.append(event)
         if len(events) >= limit:
             break
