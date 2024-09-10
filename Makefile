@@ -172,7 +172,6 @@ fetch: out/allevents.txt \
  out/gullytours.json \
  out/townscript.txt \
  out/together-buzz.txt \
- out/skillboxes.txt \
  out/tonight.json \
  out/creativemornings.txt \
  out/adidas.json \
