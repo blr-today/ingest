@@ -30,7 +30,7 @@ out/te.json: out/te.jsonnet
 out/skillboxes.jsonnet:
 	python src/skillboxes.py 9
 
-out/skillboxes.json:
+out/skillboxes.json: out/skillboxes.jsonnet
 	python src/jsonnet.py out/skillboxes.jsonnet || $(call restore-file,$@)
 
 out/atta_galatta.json:
@@ -192,7 +192,7 @@ fetch: out/allevents.txt \
 clean:
 	rm -rf out/*
 
-build:
+build: fetch
 	python src/event-fetcher.py
 
 # python 3.12 onwards comes with a sqlite3 module CLI
@@ -204,4 +204,6 @@ build:
 # in the database
 post-build:
 	python3.12 -m sqlite3  events.db < post-build.sql
-all: fetch build
+
+all: build
+	@echo "Finished build"
