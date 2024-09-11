@@ -107,9 +107,8 @@ def make_event(soup):
     }
 
 def find_location(soup):
-    # Set permanent address of PIT office and add type place
+    # Set type place
     location = {
-        # 'address': '837/1, 2nd Cross, 7th Main, 2nd Stage, Indiranagar, Bengaluru, Karnataka',
         "@type": "Place"
     }
     
@@ -209,8 +208,8 @@ def convert_duration_in_hours(duration):
     return int(0)
 
 def get_offers(soup, availability_starts):
-    offers = [] # {"priceCurrency": "INR", '@type': 'offer'}
-    addOns = [] # {'@type': 'offer'}
+    offers = [] 
+    addOns = [] 
 
     opts = soup.select('div.product-variations select[name="variation_id"] option')
     for opt in opts:
@@ -232,8 +231,6 @@ def get_offers(soup, availability_starts):
 
     if len(addOns) != 0:
         offers.append(addOns)
-    #     addOn['priceCurrency'] = 'INR'
-    # offers['addOn'] = addOn
 
     return offers
 
