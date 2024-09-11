@@ -60,7 +60,6 @@ def make_event(soup):
     duration = event.select_one('div.duration').get_text().strip()
     duration_in_hours = convert_duration_in_hours(duration)
 
-    dates = []
     date_opts = offers_selector.select('div.product-variations-variety select[name="variety_id"] option')
     for date_opt in date_opts:
         booking_begin = datetime.strptime(date_opt['data-booking-begin-at'], "%Y-%m-%d %H:%M:%S %Z").astimezone(IST).isoformat()
@@ -75,8 +74,6 @@ def make_event(soup):
             end_date = event_timings[1].astimezone(IST).isoformat()
         else:
             end_date = (datetime.fromisoformat(start_date) + timedelta(hours = duration_in_hours)).isoformat()
-
-        # dates.append({"startDate": str(start_date), "endDate": str(end_date), "availabilityStarts": str(booking_begin)})
 
     # Fetch duration from timings if the duration_in_hours is set to 0
     if duration_in_hours == 0:
@@ -112,7 +109,7 @@ def make_event(soup):
 def find_location(soup):
     # Set permanent address of PIT office and add type place
     location = {
-        'postalAddress': '837/1, 2nd Cross, 7th Main, 2nd Stage, Indiranagar, Bengaluru, Karnataka',
+        # 'address': '837/1, 2nd Cross, 7th Main, 2nd Stage, Indiranagar, Bengaluru, Karnataka',
         "@type": "Place"
     }
     
@@ -121,11 +118,15 @@ def find_location(soup):
         meet_data = soup.select_one('div.text-box div.trix-content li').get_text().lower()
 
         if 'meet at' in meet_data:
-            address = re.search(r'at\s*[a-z\s]+,', meet_data).group(0).lstrip('at').rstrip(',').strip()
+            name = re.search(r'at\s*[a-z\s]+,', meet_data).group(0).lstrip('at').rstrip(',').strip()
         elif 'meeting point' in meet_data:
-            address = re.search(r':\s*[a-z\s]+\(', meet_data).group(0).lstrip(':').rstrip('(').strip()
+            name = re.search(r':\s*[a-z\s]+\(', meet_data).group(0).lstrip(':').rstrip('(').strip()
         
-        location['address'] = address
+        if name.lower() == 'pedal in tandem':
+            location['address'] = '837/1, 2nd Cross, 7th Main, 2nd Stage, Indiranagar, Bengaluru, Karnataka'
+            location['name'] = 'pedal in tandem'
+        else:
+            location['address'] = name
 
         return location
 
