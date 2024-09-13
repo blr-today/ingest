@@ -35,15 +35,15 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 444
+        "inventory": 430
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
         "price": 3900,
         "currency": "INR",
         "validFrom": "2024-07-29 22:00:00",
-        "availability": "INSTOCK",
-        "inventory": 166
+        "availability": "SELLING_FAST",
+        "inventory": 133
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -51,7 +51,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1053
+        "inventory": 1045
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -247,9 +247,9 @@
   },
   {
     "name": "Palace Dandiya Jalsa",
-    "description": "Palace Dandiya Jalsa Season 3 is all set to bring an unforgettable experience infused with the essence of Navratri. Groove to the beats of Bangalore's best and India's top performers, and get ready to immerse yourself in the Dandiya celebration.\r\nStep into the spotlight with your dazzling attire, indulge in mouthwatering culinary delights, and join the Dandiya dance extravaganza! \r\n\r\nHighlights -\r\n- 3 Acres Massive Area\r\n- Rainproof And Mud/ Sludge Proof Event Area\r\n- Spectacular And Vibrant Festive Decor\r\n- Amazing Flea Market.\r\n- Complimentary Dandiya Sticks (For first 100 couples only)\r\n- Enchanting Garba Dancers\r\n- Live Dhol Performances With Neon Illumination\r\n- Fusion Of Bollywood And Garba Themes\r\n- A Wide Array Of Delectable Food Stalls\r\n- Exciting Prizes Faor Garba And Dandiya Competitions\r\n- Enticing Vouchers And Goodies\r\n- Fun-Filled Photo Booth\r\n- Abundant Parking Facilities",
+    "description": "Palace Dandiya Jalsa Season 3 is all set to bring an unforgettable experience infused with the essence of Navratri. Groove to the beats of Bangalore's best and India's top performers, and get ready to immerse yourself in the Dandiya celebration.\nStep into the spotlight with your dazzling attire, indulge in mouthwatering culinary delights, and join the Dandiya dance extravaganza! \n\nHighlights -\n- 3 Acres Massive Area\n- Rainproof And Mud/ Sludge Proof Event Area\n- Spectacular And Vibrant Festive Decor\n- Amazing Flea Market.\n- Complimentary Dandiya Sticks (For first 100 couples only)\n- Enchanting Garba Dancers\n- Live Dhol Performances With Neon Illumination\n- Fusion Of Bollywood And Garba Themes\n- A Wide Array Of Delectable Food Stalls\n- Exciting Prizes Faor Garba And Dandiya Competitions\n- Enticing Vouchers And Goodies\n- Fun-Filled Photo Booth\n- Abundant Parking Facilities",
     "startDate": "2024-10-04T18:00:00+05:30",
-    "endDate": "2024-10-06T23:59:00+05:30",
+    "endDate": "2024-10-06T23:55:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -261,6 +261,30 @@
       "https://b.zmtcdn.com/data/zomaland/cac606c5592667a01af9286a0f77c1cd1719996211.png"
     ],
     "tickets": [
+      {
+        "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-13 15:43:00",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-13 15:43:00",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-13 15:49:00",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
         "price": 399,
@@ -275,7 +299,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 497
+        "inventory": 496
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -299,7 +323,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 482
+        "inventory": 481
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -307,7 +331,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 498
+        "inventory": 497
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -323,7 +347,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 94
+        "inventory": 88
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -351,41 +375,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.00461217,
         "longitude": 77.58486126
-      }
-    }
-  },
-  {
-    "name": "25 & Single",
-    "description": "After a successful run of shows across cities in India and award-winning performances at The Fringe Festival in Prague, Helly Shah is all set to perform a new hour of relatable stories & heartwarming poems for you! \u2060\u202f25 & Single\u202f\u2060 is a delightful one-hour poetry and storytelling show that takes you through the ups and downs of adulthood, dating, friendships, and growing up. Celebrate the hilarious, awkward, and light-hearted moments of being in your 20s and navigating the single life with Helly! Helly Shah is a spoken word poet, writer and storyteller. Hailing from a small town in Gujarat, her first-ever storytelling video crossed over 10 million views across social media in 2018. Since then, her performances have continued to deeply resonate with millions of young people across the country.",
-    "startDate": "2024-09-21T18:00:00+05:30",
-    "endDate": "2024-09-21T19:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "25 & Single Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for 25 & Single Bengaluru on Zomato which is a Experiences event happening at Deena Complex, Opp MC Donald, Brigade Rd, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2eb58d773a93c344e7835b9d61361c9f1721712546.png"
-    ],
-    "tickets": [],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/25-single-bengaluru-et46072",
-    "id": "com.zomato.46072",
-    "location": {
-      "name": "Just BLR",
-      "address": "Deena Complex, Opp MC Donald, Brigade Rd, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.973095257354,
-        "longitude": 77.607312496294
       }
     }
   },
@@ -423,8 +412,8 @@
         "price": 6999,
         "currency": "INR",
         "validFrom": "2024-09-02 17:00:00",
-        "availability": "INSTOCK",
-        "inventory": 240
+        "availability": "SELLING_FAST",
+        "inventory": 50
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -432,7 +421,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 20:00:00",
         "availability": "INSTOCK",
-        "inventory": 423
+        "inventory": 183
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -440,7 +429,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "INSTOCK",
-        "inventory": 165
+        "inventory": 162
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -523,8 +512,8 @@
     "ogTitle": "Brews Of Bangalore (Oktoberfest Edition) Experiences, Music and Best seller event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Brews Of Bangalore (Oktoberfest Edition) Bengaluru on Zomato which is a Experiences, Music and Best seller event happening at RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/c5e030601760e9f3b316198aafdf8f231722333435.png",
-      "https://b.zmtcdn.com/data/zomaland/b6f57c5db11b17adbe246e1165eddb491722342093.png"
+      "https://b.zmtcdn.com/data/zomaland/21259721905175170c281b51e43035d61726048582.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/ef2634681bf1088f584712274e4d77251726048562.png"
     ],
     "tickets": [
       {
@@ -533,7 +522,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 14:43:40",
         "availability": "INSTOCK",
-        "inventory": 1986
+        "inventory": 1905
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -541,7 +530,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 13:34:00",
         "availability": "INSTOCK",
-        "inventory": 998
+        "inventory": 987
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -549,7 +538,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 13:34:57",
         "availability": "INSTOCK",
-        "inventory": 500
+        "inventory": 490
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -557,7 +546,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 14:43:39",
         "availability": "INSTOCK",
-        "inventory": 494
+        "inventory": 472
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -565,7 +554,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 13:34:00",
         "availability": "INSTOCK",
-        "inventory": 250
+        "inventory": 247
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -573,7 +562,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 13:34:00",
         "availability": "INSTOCK",
-        "inventory": 498
+        "inventory": 496
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -581,7 +570,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 13:34:00",
         "availability": "INSTOCK",
-        "inventory": 250
+        "inventory": 248
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -589,7 +578,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 14:43:39",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 189
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -597,7 +586,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 14:43:40",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/brews-of-bangalore-oktoberfest-edition-bengaluru-et46824/details",
@@ -697,8 +686,8 @@
         "price": 999,
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 11
+        "availability": "INSTOCK",
+        "inventory": 32
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -706,7 +695,7 @@
         "currency": "INR",
         "validFrom": "2024-09-10 10:30:00",
         "availability": "SELLING_FAST",
-        "inventory": 99
+        "inventory": 66
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -714,7 +703,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 40
+        "inventory": 24
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -722,7 +711,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 47
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -730,7 +719,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 44
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -738,7 +727,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 8
+        "inventory": 7
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -746,7 +735,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 6
+        "inventory": 4
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -786,7 +775,7 @@
         "currency": "INR",
         "validFrom": "2024-08-29 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 9
+        "inventory": 7
       }
     ],
     "performers": [],
@@ -806,162 +795,6 @@
         "@type": "GeoCoordinates",
         "latitude": 18.56227165,
         "longitude": 73.95444041
-      }
-    }
-  },
-  {
-    "name": "Asal Kolar Live",
-    "description": "Asal Kolaar aka Asal Kolar is an Indian film Singer/Lyricst, who has worked predominantly in the Tamil movie industry. Asal has worked in popular movies like Coffee With Kadhal and Gulu Gulu. Asal`s previous film to hit the theatres was Coffee With Kadhal in the year 2022.\r\n\r\nAsal Kolaar is one of the contestants in Bigg Boss Tamil season 6, hosted by Kamal Haasan which airs on Vijay Television.\r\n\r\nOver 10 million people have viewed \u201cJorthaale,\u201d a Tamil independent music track offered by the Chennai-based label Atti Culture. On social media, the song almost surpassed 10 million views and 481k likes. The positive song, which was published in August of last year, quickly\r\ngained popularity on social media. Tamil independent musicians Asal Kolaar (Vasantkumar P) and OfRo, who is well-known for their undertaking known as the Casteless Collective, later wrote the song \u201cJorthaale.",
-    "startDate": "2024-10-06T20:00:00+05:30",
-    "endDate": "2024-10-07T01:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Asal Kolar Live Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Asal Kolar Live Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/596b7e3e2fff50324e1d8cefdb4d7ffc1722423888.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030/details",
-        "price": 399,
-        "currency": "INR",
-        "validFrom": "2024-07-31 16:35:00",
-        "availability": "INSTOCK",
-        "inventory": 11
-      },
-      {
-        "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-07-31 16:35:00",
-        "availability": "INSTOCK",
-        "inventory": 22
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030",
-    "id": "com.zomato.47030",
-    "location": {
-      "name": "WL Superclub",
-      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9151339,
-        "longitude": 77.6660495
-      }
-    }
-  },
-  {
-    "name": "Vedan BabyJean Live Avesham 2.0",
-    "description": "Step into the world of cutting-edge Malayalam rap as two powerhouse artists, Baby Jean and Vedan, ignite the stage at White Lotus Club on September 7th.",
-    "startDate": "2024-09-21T18:00:00+05:30",
-    "endDate": "2024-09-22T00:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Vedan BabyJean Live Avesham 2.0 Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Vedan BabyJean Live Avesham 2.0 Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/8f86cce3ef51a67cce9d3f34030d29eb1722424471.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038/details",
-        "price": 550,
-        "currency": "INR",
-        "validFrom": "2024-08-27 14:28:48",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038/details",
-        "price": 650,
-        "currency": "INR",
-        "validFrom": "2024-08-27 14:28:48",
-        "availability": "INSTOCK",
-        "inventory": 36
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038",
-    "id": "com.zomato.47038",
-    "location": {
-      "name": "WL Superclub",
-      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9151339,
-        "longitude": 77.6660495
-      }
-    }
-  },
-  {
-    "name": "Chandan Shetty Live",
-    "description": "Chandan Shetty, also known as \"Kannada Rapper Chandan Shetty\" is an Indian film score and soundtrack composer, lyricist, and singer who mainly composes music in the Kannada language. He started his career as a lyricist and assistant music director with the movie Alemari, under music director Arjun Janya. Then he worked for Varadanayaka, Power, Chakravyuha, and Bhajarangi.",
-    "startDate": "2024-11-24T20:00:00+05:30",
-    "endDate": "2024-11-25T01:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Chandan Shetty Live Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Chandan Shetty Live Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/680fb7d69471e40b223631cfd25b59ee1722425915.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043/details",
-        "price": 399,
-        "currency": "INR",
-        "validFrom": "2024-07-31 17:18:26",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-07-31 17:18:27",
-        "availability": "INSTOCK",
-        "inventory": 48
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043",
-    "id": "com.zomato.47043",
-    "location": {
-      "name": "WL Superclub",
-      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9151339,
-        "longitude": 77.6660495
       }
     }
   },
@@ -998,7 +831,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 313
+        "inventory": 297
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1006,15 +839,15 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 202
+        "inventory": 194
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
         "price": 6999,
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
-        "availability": "INSTOCK",
-        "inventory": 20
+        "availability": "SELLING_FAST",
+        "inventory": 15
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1022,7 +855,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 3
+        "inventory": 2
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1106,7 +939,7 @@
         "currency": "INR",
         "validFrom": "2024-08-14 15:35:00",
         "availability": "INSTOCK",
-        "inventory": 86
+        "inventory": 83
       }
     ],
     "performers": [],
@@ -1222,7 +1055,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:50:43",
         "availability": "INSTOCK",
-        "inventory": 327
+        "inventory": 309
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1230,15 +1063,15 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:50:44",
         "availability": "INSTOCK",
-        "inventory": 1044
+        "inventory": 1024
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
         "price": 2999,
         "currency": "INR",
         "validFrom": "2024-08-26 22:00:00",
-        "availability": "INSTOCK",
-        "inventory": 44
+        "availability": "SELLING_FAST",
+        "inventory": 22
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1246,7 +1079,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 15:50:44",
         "availability": "INSTOCK",
-        "inventory": 93
+        "inventory": 89
       },
       {
         "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
@@ -1354,6 +1187,74 @@
     }
   },
   {
+    "name": "Blind Date - A Sensory Experience",
+    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
+    "startDate": "2024-09-15T16:00:00+05:30",
+    "endDate": "2024-09-15T17:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Blind Date - A Sensory Experience Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences and Trending event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/54ec8d0a6d4954730404d7694282d9fb1724656152.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-08-26 14:15:49",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658/details",
+        "price": 1299,
+        "currency": "INR",
+        "validFrom": "2024-08-26 14:15:49",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-08-26 14:15:50",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-08-26 14:15:50",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et49658",
+    "id": "com.zomato.49658",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
     "name": "Chai Pe Charcha",
     "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
     "startDate": "2024-09-15T15:00:00+05:30",
@@ -1418,7 +1319,7 @@
         "currency": "INR",
         "validFrom": "2024-08-27 16:41:32",
         "availability": "INSTOCK",
-        "inventory": 49
+        "inventory": 46
       },
       {
         "url": "https://www.zomato.com/events/onam-bash-sep-15-2024-white-lotus-bengaluru-et49899/details",
@@ -1426,7 +1327,7 @@
         "currency": "INR",
         "validFrom": "2024-08-27 16:41:31",
         "availability": "INSTOCK",
-        "inventory": 48
+        "inventory": 43
       },
       {
         "url": "https://www.zomato.com/events/onam-bash-sep-15-2024-white-lotus-bengaluru-et49899/details",
@@ -1434,7 +1335,7 @@
         "currency": "INR",
         "validFrom": "2024-08-27 16:41:32",
         "availability": "INSTOCK",
-        "inventory": 48
+        "inventory": 40
       }
     ],
     "performers": [],
@@ -1633,7 +1534,9 @@
     "ogTitle": "Kingfisher OctoBeer Fest Experiences, Trending and Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Kingfisher OctoBeer Fest Bengaluru on Zomato which is a Experiences, Trending and Music event happening at 1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru, Karnataka 560046",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/e5b52f0513b651fe621b8fd10baee7da1725347328.png"
+      "https://b.zmtcdn.com/data/zomaland/e5b52f0513b651fe621b8fd10baee7da1725347328.png",
+      "https://b.zmtcdn.com/data/zomaland/a89b503bcc270363b98b1453488d12ab1726041503.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/c4c4d72bd05e1aca32a21d4baf5de0cb1726041541.jpeg"
     ],
     "tickets": [
       {
@@ -1650,7 +1553,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 13:31:49",
         "availability": "INSTOCK",
-        "inventory": 244
+        "inventory": 236
       },
       {
         "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
@@ -1690,94 +1593,6 @@
     }
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion for singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-09-11T20:30:00+05:30",
-    "endDate": "2024-09-11T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/1e4ef7bde841d75f9d8fa3f16d71ac461724995880.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50274/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-30 11:04:46",
-        "availability": "INSTOCK",
-        "inventory": 61
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50274",
-    "id": "com.zomato.50274",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Tribute to The Doors",
-    "description": "Catch Sultan of Rocks paying tribute to The Doors at Hard Rock Cafe, Bengaluru.\n\u26a1\ufe0fJoin us for an evening full of great music, lip-smacking food & refreshing cocktails",
-    "startDate": "2024-09-12T20:30:00+05:30",
-    "endDate": "2024-09-12T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to The Doors Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to The Doors Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/80727684a61dd041f95bd617112d11f81724996225.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-the-doors-bengaluru-et50275/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-08-30 11:10:22",
-        "availability": "INSTOCK",
-        "inventory": 30
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-the-doors-bengaluru-et50275",
-    "id": "com.zomato.50275",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Tribute to Coldplay",
     "description": "Join us for a fantastic musical evening honouring Coldplay, one of the most successful and well-liked bands of all time, presented by the nimble and potent NIKHIL VAI COLLECTIVE. Since their formation in 1996, this British rock group reached the top of the rock/pop music world in the early 21st Century and has continued to win the hearts of so many with their melodic piano-driven anthems.\nNow get ready to prepare yourself to hear them in a classical interpretation like never before.\nGet ready to be taken to `Paradise`!\nIf you\u2019re a Coldplay fan, (how can you not be?) then join us for this memorable night at Hard Rock Cafe, Bengaluru.",
     "startDate": "2024-09-14T21:00:00+05:30",
@@ -1798,31 +1613,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 11:15:25",
         "availability": "INSTOCK",
-        "inventory": 26
-      },
-      {
-        "url": "https://www.zomato.com/events/tribute-to-coldplay-bengaluru-et50277/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-30 11:15:25",
-        "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/tribute-to-coldplay-bengaluru-et50277/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-30 11:18:55",
-        "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/tribute-to-coldplay-bengaluru-et50277/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-30 11:20:27",
-        "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 24
       }
     ],
     "performers": [],
@@ -1866,7 +1657,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 11:23:18",
         "availability": "INSTOCK",
-        "inventory": 83
+        "inventory": 57
       }
     ],
     "performers": [],
@@ -1934,50 +1725,6 @@
     }
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-09-18T20:30:00+05:30",
-    "endDate": "2024-09-18T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/1e4ef7bde841d75f9d8fa3f16d71ac461724997597.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50282/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-30 11:31:41",
-        "availability": "INSTOCK",
-        "inventory": 95
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50282",
-    "id": "com.zomato.50282",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Golden Era of Rock N Roll",
     "description": "Dimensions, a band that performs in various genres, was formed by rock renegades from Bangalore. With nearly 40 years of live music experience between the members of the band, the band`s primary focus is to re-create and offer the best live musical experiences to its audiences.\nBe there to see them live at your favourite Hard Rock Cafe Bengaluru.",
     "startDate": "2024-09-19T20:30:00+05:30",
@@ -1999,14 +1746,6 @@
         "validFrom": "2024-08-30 11:49:20",
         "availability": "INSTOCK",
         "inventory": 30
-      },
-      {
-        "url": "https://www.zomato.com/events/golden-era-of-rock-n-roll-bengaluru-et50286/details",
-        "price": 1249,
-        "currency": "INR",
-        "validFrom": "2024-08-30 11:49:21",
-        "availability": "INSTOCK",
-        "inventory": 100
       }
     ],
     "performers": [],
@@ -2041,7 +1780,7 @@
     "ogTitle": "Tribute to Michael Jackson Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Tribute to Michael Jackson Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/20e46f23b87cdc30cc55511cb8529bc71725000806.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/41c265ebb254107d4651707d94517f6b1726197395.jpeg"
     ],
     "tickets": [
       {
@@ -2051,14 +1790,6 @@
         "validFrom": "2024-08-30 12:27:25",
         "availability": "INSTOCK",
         "inventory": 30
-      },
-      {
-        "url": "https://www.zomato.com/events/tribute-to-michael-jackson-bengaluru-et50291/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-30 12:27:25",
-        "availability": "INSTOCK",
-        "inventory": 100
       }
     ],
     "performers": [],
@@ -2071,138 +1802,6 @@
     ],
     "url": "https://www.zomato.com/events/tribute-to-michael-jackson-bengaluru-et50291",
     "id": "com.zomato.50291",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Sunny Tunes",
-    "description": "Make some noise and have fun, since the music gets two times better when the band lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Fingerchips and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
-    "startDate": "2024-09-22T13:00:00+05:30",
-    "endDate": "2024-09-22T16:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/5a5f0718fe4ffe8b8b0db5bd74024d071725001189.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50292/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-30 12:30:46",
-        "availability": "INSTOCK",
-        "inventory": 29
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50292",
-    "id": "com.zomato.50292",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Rock Out Sundays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-09-22T20:30:00+05:30",
-    "endDate": "2024-09-22T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/e4d463959ab685fd91a617f82b9656c81725001307.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50293/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-30 12:32:46",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50293",
-    "id": "com.zomato.50293",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-09-25T20:30:00+05:30",
-    "endDate": "2024-09-25T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/1e4ef7bde841d75f9d8fa3f16d71ac461725001767.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50298/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-30 12:41:22",
-        "availability": "INSTOCK",
-        "inventory": 30
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50298",
-    "id": "com.zomato.50298",
     "location": {
       "name": "Hard Rock Cafe",
       "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
@@ -2235,14 +1834,6 @@
         "validFrom": "2024-08-30 12:48:17",
         "availability": "INSTOCK",
         "inventory": 30
-      },
-      {
-        "url": "https://www.zomato.com/events/tribute-to-chainsmokers-bengaluru-et50302/details",
-        "price": 1249,
-        "currency": "INR",
-        "validFrom": "2024-08-30 12:48:17",
-        "availability": "INSTOCK",
-        "inventory": 100
       }
     ],
     "performers": [],
@@ -2287,14 +1878,6 @@
         "validFrom": "2024-08-30 12:50:34",
         "availability": "INSTOCK",
         "inventory": 29
-      },
-      {
-        "url": "https://www.zomato.com/events/tribute-to-dream-theater-bengaluru-et50303/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-30 12:50:35",
-        "availability": "INSTOCK",
-        "inventory": 100
       }
     ],
     "performers": [],
@@ -2318,94 +1901,6 @@
     }
   },
   {
-    "name": "Sunny Tunes",
-    "description": "Make some noise and have fun, since the music gets two times better when the band lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Fingerchips and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
-    "startDate": "2024-09-29T13:00:00+05:30",
-    "endDate": "2024-09-29T16:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/02c527c3569b061f9bce98facf8b6ec01725002557.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50304/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-30 12:53:47",
-        "availability": "INSTOCK",
-        "inventory": 96
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50304",
-    "id": "com.zomato.50304",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Rock Out Sundays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-09-29T20:30:00+05:30",
-    "endDate": "2024-09-29T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/e4d463959ab685fd91a617f82b9656c81725002710.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50305/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-30 12:56:17",
-        "availability": "INSTOCK",
-        "inventory": 82
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50305",
-    "id": "com.zomato.50305",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Dil-Luminati Tour - India",
     "description": "For the first time ever, global music icon Diljit Dosanjh brings his blockbuster Dil-Luminati Tour to 10 cities across India! After smashing records with sold-out shows across North America, Australia, and New Zealand, he's ready to set India ablaze with his electrifying energy.\n\nWhat to expect:\n\n\u261e High-energy performances of fan favorites and chart-topping hits\n\n\u261e Stunning visuals and world-class sound production\n\n\u261e Unforgettable memories celebrating Desi music for all ages\n\nBrought to you by Saregama India and Ripple Effect Studios.\n\n\n**Gates open at 6 pm**",
     "startDate": "2024-12-06T19:00:00+05:30",
@@ -2414,16 +1909,41 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Dil-Luminati Tour - India Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Dil-Luminati Tour - India Bengaluru on Zomato which is a Trending event happening at Bengaluru",
+    "ogTitle": "Dil-Luminati Tour - India Trending and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Dil-Luminati Tour - India Bengaluru on Zomato which is a Trending and Music event happening at Bengaluru",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/f9084e8c00dc691b72db973177c196fd1725440593.png",
+      "https://b.zmtcdn.com/data/zomaland/6178802d43904528bcea8789b45905cf1726069571.png",
       "https://b.zmtcdn.com/data/zomaland/1972f38023c561f25b5c96e0b99cad471725427265.png",
       "https://b.zmtcdn.com/data/zomaland/598208eb93184b88270c8c55b97291811725427285.png",
       "https://b.zmtcdn.com/data/zomaland/ab381f8144719e5c0b1d6fceb0520a141725427285.png",
-      "https://b.zmtcdn.com/data/zomaland/83a0d80361b99949eab041dcc0eaca211725446605.png"
+      "https://b.zmtcdn.com/data/zomaland/967d0bce5fe552acf79391780ebbb6351725960537.png"
     ],
-    "tickets": [],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398/details",
+        "price": 6999,
+        "currency": "INR",
+        "validFrom": "2024-09-09 11:00:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398/details",
+        "price": 9999,
+        "currency": "INR",
+        "validFrom": "2024-09-09 11:00:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398/details",
+        "price": 16999,
+        "currency": "INR",
+        "validFrom": "2024-09-09 11:00:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      }
+    ],
     "performers": [],
     "organizer": [
       {
@@ -2434,90 +1954,6 @@
     ],
     "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398",
     "id": "com.zomato.50398"
-  },
-  {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-09-12T20:30:00+05:30",
-    "endDate": "2024-09-12T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/423b8366eec77af78e8d207c6814cac81725263664.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50526/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-02 14:04:37",
-        "availability": "INSTOCK",
-        "inventory": 49
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50526",
-    "id": "com.zomato.50526",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
-  },
-  {
-    "name": "Unplugged Duo's",
-    "description": "Catch Fingerchips performing live your favourite tracks at Hard Rock Cafe, Whitefield, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-09-13T20:30:00+05:30",
-    "endDate": "2024-09-13T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/81780fd92eac14c41d01d1fb049da3971725263908.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50527/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-02 14:04:38",
-        "availability": "INSTOCK",
-        "inventory": 55
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50527",
-    "id": "com.zomato.50527",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
   },
   {
     "name": "Tribute to AR Rahman",
@@ -2538,7 +1974,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:38",
         "availability": "INSTOCK",
-        "inventory": 28
+        "inventory": 26
       },
       {
         "url": "https://www.zomato.com/events/tribute-to-ar-rahman-bengaluru-et50528/details",
@@ -2559,90 +1995,6 @@
     ],
     "url": "https://www.zomato.com/events/tribute-to-ar-rahman-bengaluru-et50528",
     "id": "com.zomato.50528",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
-  },
-  {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-09-19T20:30:00+05:30",
-    "endDate": "2024-09-19T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/423b8366eec77af78e8d207c6814cac81725264358.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50531/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-02 14:04:39",
-        "availability": "INSTOCK",
-        "inventory": 75
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50531",
-    "id": "com.zomato.50531",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
-  },
-  {
-    "name": "Unplugged Duo's",
-    "description": "Catch Sharpnel performing live your favourite tracks at Hard Rock Cafe, Whitefield, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-09-20T20:30:00+05:30",
-    "endDate": "2024-09-20T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b1135af1518649b4d04e6142dd2f812f1725264621.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50532/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-02 14:04:39",
-        "availability": "INSTOCK",
-        "inventory": 72
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50532",
-    "id": "com.zomato.50532",
     "location": {
       "name": "Hard Rock Cafe",
       "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
@@ -2704,212 +2056,6 @@
     }
   },
   {
-    "name": "Karaoke Nights",
-    "description": "\"Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.\"",
-    "startDate": "2024-09-26T20:30:00+05:30",
-    "endDate": "2024-09-26T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/423b8366eec77af78e8d207c6814cac81725265116.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50535/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-02 14:04:41",
-        "availability": "INSTOCK",
-        "inventory": 75
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50535",
-    "id": "com.zomato.50535",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
-  },
-  {
-    "name": "Unplugged Duo's",
-    "description": "Catch Cartridge performing live your favourite tracks at Hard Rock Cafe, Whitefield, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-09-27T20:30:00+05:30",
-    "endDate": "2024-09-27T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/9727a000abe82d9ed11da16c945f96fa1725265278.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50536/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-02 14:04:41",
-        "availability": "INSTOCK",
-        "inventory": 75
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50536",
-    "id": "com.zomato.50536",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
-  },
-  {
-    "name": "Tribute to Eric Clapton & Beatles",
-    "description": "Legendary Tribute Nights only at Hard Rock Cafe\nAt the Hard Rock Cafe Whitefield, the progressive rock band Crystal Codes will pay homage to Eric Clapton and The Beatles. If you are a Beatles or Eric Clapton fan, (how can you not be?) then join us for this memorable night at Hard Rock Cafe.",
-    "startDate": "2024-09-28T21:00:00+05:30",
-    "endDate": "2024-09-28T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3358492b9d6c4730a6c0e899e4e91dae1725265325.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-eric-clapton-beatles-bengaluru-et50537/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-09-02 14:04:41",
-        "availability": "INSTOCK",
-        "inventory": 30
-      },
-      {
-        "url": "https://www.zomato.com/events/tribute-to-eric-clapton-beatles-bengaluru-et50537/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-09-02 14:04:42",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-eric-clapton-beatles-bengaluru-et50537",
-    "id": "com.zomato.50537",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
-  },
-  {
-    "name": "Bengaluru Catapalooza",
-    "description": "#Bengaluru Claws and craft brews at Bira91 Tap Room! \ud83d\udc31\ud83c\udf7a Join us for a purrfect evening of feline fun and fantastic beers.\n\nInclusions: \nExciting games & gifts for your pets\nFree pet food buffet\nFree Basic health check-up\nA goodie bag for all Pets\nNo charges for pets!\n\nOn-ground tickets will be priced at 700/- per person.\n",
-    "startDate": "2024-09-22T12:00:00+05:30",
-    "endDate": "2024-09-22T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/5c91cf0ba62bc38049f19a453b8394d01725271482.png",
-      "https://b.zmtcdn.com/data/zomaland/04e8bb1d9bb42787aebe23f51b6f51671725270929.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/77bdd9333e4333779793eaf7af34914d1725270929.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/33510ce813b8869d29f50275e11e3fc61725270929.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/671c64af66de8dfe9229b60f92037e481725270929.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/5b66aa333ecc2e22933988657acb43131725270929.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/8355963910897e1dbce23c9de4bb65d41725270929.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/8922fcd15d9d140cfb0c3862f751c1d61725270929.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/c58f811edc795c91a288ef82ffbfbbba1725270930.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/f808fca355f2adb11c563211d2ac15c81725270930.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/a2aaf01357ec96a75ab5808455c34b561725270930.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/ff19368f860ab1a5c8907e94696585701725270930.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/1463030e84a7e657d67309812162feeb1725270930.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/9875c181bbf39c2c52ea8ce0044bd9b01725270930.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/ab1c26c6f3e2bccdd3e2a9d56fb71b131725270930.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/df2c44786b89914e36d98e63d711bb3c1725270930.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/9b464ab03edb6ee1f7ba2cb98d6c1c881725270930.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/ad8b4b10fed8ed0a7b5711360c457ad91725270930.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/b8e5182656c00cc78bb88506527246c51725270930.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/97a8483f5cfaba69da734d403a3893cf1725270930.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/718ef3d5d189fe388debca9a35a498091725270930.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/ce74b321e7843a3b41e3e1de8742ceee1725270931.png",
-      "https://b.zmtcdn.com/data/zomaland/5913a267b7526b2de12946df7c3f793c1725271931.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bangalore-catapalooza-bengaluru-et50554/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-02 15:20:00",
-        "availability": "INSTOCK",
-        "inventory": 91
-      },
-      {
-        "url": "https://www.zomato.com/events/bangalore-catapalooza-bengaluru-et50554/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-09-02 15:20:00",
-        "availability": "INSTOCK",
-        "inventory": 34
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bangalore-catapalooza-bengaluru-et50554",
-    "id": "com.zomato.50554",
-    "location": {
-      "name": "BIRA91 Taproom, Koramangala",
-      "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, S.T. Bed, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.931436,
-        "longitude": 77.632913
-      }
-    }
-  },
-  {
     "name": "Mixmag",
     "description": "Bangalore, we\u2019re back!\n\nMixmag and Smirnoff Project presented by Smirnoff lemon pop are set to deliver stellar lineup on 21st September at High Ultra Lounge. Bringing the best of international lineup Spada along with local lineup Vivin and Somyth to India diverse music culture.",
     "startDate": "2024-09-21T20:00:00+05:30",
@@ -2946,7 +2092,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 15:22:57",
         "availability": "INSTOCK",
-        "inventory": 194
+        "inventory": 193
       }
     ],
     "performers": [],
@@ -3104,138 +2250,6 @@
   {
     "name": "Resin Art Workshop",
     "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-    "startDate": "2024-09-11T14:00:00+05:30",
-    "endDate": "2024-09-11T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1725336453.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50677/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:48:38",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50677",
-    "id": "com.zomato.50677",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Resin Art Workshop",
-    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-    "startDate": "2024-09-12T14:00:00+05:30",
-    "endDate": "2024-09-12T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1725336453.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50678/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:48:38",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50678",
-    "id": "com.zomato.50678",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Resin Art Workshop",
-    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-    "startDate": "2024-09-13T14:00:00+05:30",
-    "endDate": "2024-09-13T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1725336453.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50679/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:48:39",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et50679",
-    "id": "com.zomato.50679",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Resin Art Workshop",
-    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
     "startDate": "2024-09-14T14:00:00+05:30",
     "endDate": "2024-09-14T15:00:00+05:30",
     "timezone": "+05:30",
@@ -3342,7 +2356,7 @@
         "currency": "INR",
         "validFrom": "2024-09-03 11:48:45",
         "availability": "INSTOCK",
-        "inventory": 13
+        "inventory": 10
       }
     ],
     "performers": [],
@@ -3386,7 +2400,7 @@
         "currency": "INR",
         "validFrom": "2024-09-03 11:48:45",
         "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 14
       }
     ],
     "performers": [],
@@ -3606,7 +2620,7 @@
         "currency": "INR",
         "validFrom": "2024-09-03 11:49:08",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 8
       },
       {
         "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50755/details",
@@ -3962,9 +2976,25 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/rahil-mehta-bengaluru-et50840/details",
+        "price": 800,
+        "currency": "INR",
+        "validFrom": "2024-09-12 11:13:48",
+        "availability": "INSTOCK",
+        "inventory": 20
+      },
+      {
+        "url": "https://www.zomato.com/events/rahil-mehta-bengaluru-et50840/details",
+        "price": 1200,
+        "currency": "INR",
+        "validFrom": "2024-09-12 11:13:47",
+        "availability": "INSTOCK",
+        "inventory": 24
+      },
+      {
+        "url": "https://www.zomato.com/events/rahil-mehta-bengaluru-et50840/details",
         "price": 600,
         "currency": "INR",
-        "validFrom": "2024-09-03 17:38:42",
+        "validFrom": "2024-09-03 17:38:00",
         "availability": "INSTOCK",
         "inventory": 25
       },
@@ -3972,9 +3002,9 @@
         "url": "https://www.zomato.com/events/rahil-mehta-bengaluru-et50840/details",
         "price": 1000,
         "currency": "INR",
-        "validFrom": "2024-09-03 17:38:43",
+        "validFrom": "2024-09-03 17:38:00",
         "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 23
       }
     ],
     "performers": [],
@@ -3994,50 +3024,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97421896,
         "longitude": 77.62049423
-      }
-    }
-  },
-  {
-    "name": "Bootleg Fridays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air. Starting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Adi, Laidback Levi & Zenshy and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-09-13T20:30:00+05:30",
-    "endDate": "2024-09-13T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Bootleg Fridays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bootleg Fridays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2c9df4e6095c2088e0a29298ccd041911725375748.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50869/details",
-        "price": 1000,
-        "currency": "INR",
-        "validFrom": "2024-09-03 21:18:44",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50869",
-    "id": "com.zomato.50869",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
       }
     }
   },
@@ -4224,7 +3210,7 @@
         "currency": "INR",
         "validFrom": "2024-09-04 19:00:16",
         "availability": "INSTOCK",
-        "inventory": 8
+        "inventory": 7
       }
     ],
     "performers": [],
@@ -4358,7 +3344,7 @@
         "currency": "INR",
         "validFrom": "2024-09-04 19:00:12",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 8
       }
     ],
     "performers": [],
@@ -4378,48 +3364,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.14365198,
         "longitude": 77.58441173
-      }
-    }
-  },
-  {
-    "name": "SCC SkyCinema - 25 Years of Notting Hill",
-    "description": "\"After all, I'm just a girl, standing in front of a boy, asking him to love her.\" \u2014Anna, Notting Hill\n\nIndulge in a timeless tale of love and laughter as we celebrate the 25th anniversary of \"\"Notting Hill.\"\" Join us for a heartwarming screening at 1 MG Lido. Experience the magic of Hugh Grant and Julia Roberts' unforgettable chemistry in a cozy and intimate setting.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the skyline of the city as your backdrop.",
-    "startDate": "2024-09-21T19:30:00+05:30",
-    "endDate": "2024-09-21T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/349362d8a5c6b49d9fde64c8c1463da31725447279.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-25-years-of-notting-hill-bengaluru-et51063/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-09-04 19:00:12",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-25-years-of-notting-hill-bengaluru-et51063",
-    "id": "com.zomato.51063",
-    "location": {
-      "name": "1 MG - Lido Mall",
-      "address": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97480423,
-        "longitude": 77.62066549
       }
     }
   },
@@ -4578,7 +3522,7 @@
         "currency": "INR",
         "validFrom": "2024-09-05 18:31:00",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 94
       }
     ],
     "performers": [],
@@ -4654,8 +3598,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Yoga with Puppies by Pawasana Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Yoga with Puppies by Pawasana Bengaluru on Zomato which is a Experiences event happening at 470, 80 Feet Rd, opposite Bharat Sanchar Nigam Limited Customer Service Centre, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075",
+    "ogTitle": "Yoga with Puppies by Pawasana Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Yoga with Puppies by Pawasana Bengaluru on Zomato which is a Experiences and Trending event happening at 470, 80 Feet Rd, opposite Bharat Sanchar Nigam Limited Customer Service Centre, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/d611076f3eed4b185f7918ec2de892791725868196.jpeg"
     ],
@@ -4666,7 +3610,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 13:35:22",
         "availability": "INSTOCK",
-        "inventory": 7
+        "inventory": 4
       },
       {
         "url": "https://www.zomato.com/events/yoga-with-puppies-by-pawasana-bengaluru-et51317/details",
@@ -4674,7 +3618,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 13:35:22",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 13
       }
     ],
     "performers": [],
@@ -4700,8 +3644,8 @@
   {
     "name": "Melodic Magic",
     "description": "Join us at High Ultra Lounge on Friday, 13th September for an electrifying night of Pulsating beats featuring the incredible DJ IVAN! Get ready to immerse yourself in a high-energy atmosphere and unforgettable vibes at one of the most exclusive venues in town.",
-    "startDate": "2024-09-13T20:00:00+05:30",
-    "endDate": "2024-09-14T01:00:00+05:30",
+    "startDate": "2024-09-13 20:00:00",
+    "endDate": "2024-09-14 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -4718,7 +3662,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 17:22:54",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 198
       },
       {
         "url": "https://www.zomato.com/events/melodic-magic-bengaluru-et51327/details",
@@ -4726,7 +3670,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 17:22:54",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 193
       },
       {
         "url": "https://www.zomato.com/events/melodic-magic-bengaluru-et51327/details",
@@ -4734,7 +3678,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 17:22:55",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 177
       }
     ],
     "performers": [],
@@ -4760,7 +3704,7 @@
   {
     "name": "Shankar Ehsaan Loy Live",
     "description": "RED LIVE in concert with Shankar Ehsaan Loy by Superhits 93.5 RED FM.\nPrepare to be swept off your feet by the legendary trio of Shankar Mahadevan, Ehsaan\nNoorani, and Loy Mendonsa as they set the stage on fire with their electrifying music\nand soul-stirring melodies.\n\nRED FM, India's premier FM radio network, brings its vibrant programming and\ninnovative content to millions of listeners across 69 cities, entertaining and engaging\naudiences with a unique mix of music, humour, and social commentary. Committed to\nmaking a positive impact, RED FM actively supports various social causes, enriching\ncommunities and fostering positive change.",
-    "startDate": "2024-12-21T16:00:00+05:30",
+    "startDate": "2024-12-21T19:00:00+05:30",
     "endDate": "2024-12-21T22:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
@@ -4778,7 +3722,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 17:22:05",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 189
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -4786,7 +3730,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 17:22:05",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 194
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -4794,7 +3738,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 17:22:05",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 193
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -4802,7 +3746,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 17:22:06",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 97
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -4862,7 +3806,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 17:22:56",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 45
       }
     ],
     "performers": [],
@@ -4950,7 +3894,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 19:09:16",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 82
       },
       {
         "url": "https://www.zomato.com/events/indulge-ft-varun-at-seven-rivers-bengaluru-et51344/details",
@@ -4958,7 +3902,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 19:09:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 96
       }
     ],
     "performers": [],
@@ -5002,7 +3946,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 19:10:18",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       },
       {
         "url": "https://www.zomato.com/events/crossover-ft-weekend-heroes-bengaluru-et51345/details",
@@ -5018,7 +3962,7 @@
         "currency": "INR",
         "validFrom": "2024-09-09 19:12:10",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 91
       }
     ],
     "performers": [],
@@ -5038,6 +3982,1613 @@
         "@type": "GeoCoordinates",
         "latitude": 12.9923061,
         "longitude": 77.58201
+      }
+    }
+  },
+  {
+    "name": "Chikmagalur Weekend Getaway",
+    "description": "This paradise of misty hills and lush green tea and coffee plantations is a sweet escape from the noisy city life, resting peacefully at a height of 3,400 ft. Get ready to immerse yourself in the arms of nature! \nWhether you\u2019re a thrill-seeker or a nature lover, Chikmagalur\u2019s got you covered. Hike through the rugged terrain, or take a dip in one of the many cascading waterfalls, there\u2019s so much to explore",
+    "startDate": "2024-09-13 21:30:00",
+    "endDate": "2024-09-15 23:00:00",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Chikmagalur Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Chikmagalur Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/dc2b1c7875acf6fc891af9de6a40a6b11726024712.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/chikmagalur-weekend-getaway-bengaluru-et51368/details",
+        "price": 4999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:48",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/chikmagalur-weekend-getaway-bengaluru-et51368",
+    "id": "com.zomato.51368",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Chikmagalur Weekend Getaway",
+    "description": "This paradise of misty hills and lush green tea and coffee plantations is a sweet escape from the noisy city life, resting peacefully at a height of 3,400 ft. Get ready to immerse yourself in the arms of nature! \nWhether you\u2019re a thrill-seeker or a nature lover, Chikmagalur\u2019s got you covered. Hike through the rugged terrain, or take a dip in one of the many cascading waterfalls, there\u2019s so much to explore",
+    "startDate": "2024-09-20T21:30:00+05:30",
+    "endDate": "2024-09-22T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Chikmagalur Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Chikmagalur Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/dc2b1c7875acf6fc891af9de6a40a6b11726024712.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/chikmagalur-weekend-getaway-bengaluru-et51369/details",
+        "price": 4999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:49",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/chikmagalur-weekend-getaway-bengaluru-et51369",
+    "id": "com.zomato.51369",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Coorg Weekend Getaway",
+    "description": "Time to put on your adventure hat and escape to a place where relaxation and thrill collide in the most tantalizing way possible! Imagine waking up to the aroma of freshly ground coffee beans surrounded by lush greenery worthy of a postcard.\n\nGet ready to explore winding trails and stunning waterfalls, trading city life for an unforgettable adventure that will stay with you forever. Coorg's calling, are you ready",
+    "startDate": "2024-09-13 21:30:00",
+    "endDate": "2024-09-15 23:00:00",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Coorg Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Coorg Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/69575bdb355c411fdd8029cdb62acb131726024858.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/coorg-weekend-getaway-bengaluru-et51370/details",
+        "price": 4999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:49",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/coorg-weekend-getaway-bengaluru-et51370",
+    "id": "com.zomato.51370",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Coorg Weekend Getaway",
+    "description": "Time to put on your adventure hat and escape to a place where relaxation and thrill collide in the most tantalizing way possible! Imagine waking up to the aroma of freshly ground coffee beans surrounded by lush greenery worthy of a postcard.\n\nGet ready to explore winding trails and stunning waterfalls, trading city life for an unforgettable adventure that will stay with you forever. Coorg's calling, are you ready",
+    "startDate": "2024-09-20T21:30:00+05:30",
+    "endDate": "2024-09-22T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Coorg Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Coorg Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/69575bdb355c411fdd8029cdb62acb131726024858.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/coorg-weekend-getaway-bengaluru-et51371/details",
+        "price": 4999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:50",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/coorg-weekend-getaway-bengaluru-et51371",
+    "id": "com.zomato.51371",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Wayanad Weekend Getaway",
+    "description": "The lush-green town of Wayanad in Kerala is hidden in the Malabar region on the Western Ghats. Sparsely populated, the forest-covered region abounds in picturesque hills meandered with streams, tea estates, and wildlife sanctuaries. Referred to as the \u2018Spice Garden of India\u2019, Wayanad is a hub of spices such as cardamom, star anise, fenugreek, black pepper, black cumin, etc. Adding to its treasures are Asia\u2019s second largest and India\u2019s largest damn, the Banasura Sagar Dam, the Edakkal Caves from the Neolithic Age to trek to. Witness a majestic sunset at the backdrop of the dam, go hiking, mountaineering, camping, or rock climbing, you\u2019d never run out of fun activities at Wayanad.",
+    "startDate": "2024-09-13 21:30:00",
+    "endDate": "2024-09-16 03:00:00",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Wayanad Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Wayanad Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/210862e13552717af244cf3a7d47e2821726024909.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/wayanad-weekend-getaway-bengaluru-et51372/details",
+        "price": 5999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:50",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/wayanad-weekend-getaway-bengaluru-et51372",
+    "id": "com.zomato.51372",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Wayanad Weekend Getaway",
+    "description": "The lush-green town of Wayanad in Kerala is hidden in the Malabar region on the Western Ghats. Sparsely populated, the forest-covered region abounds in picturesque hills meandered with streams, tea estates, and wildlife sanctuaries. Referred to as the \u2018Spice Garden of India\u2019, Wayanad is a hub of spices such as cardamom, star anise, fenugreek, black pepper, black cumin, etc. Adding to its treasures are Asia\u2019s second largest and India\u2019s largest damn, the Banasura Sagar Dam, the Edakkal Caves from the Neolithic Age to trek to. Witness a majestic sunset at the backdrop of the dam, go hiking, mountaineering, camping, or rock climbing, you\u2019d never run out of fun activities at Wayanad.",
+    "startDate": "2024-09-20T21:30:00+05:30",
+    "endDate": "2024-09-23T03:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Wayanad Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Wayanad Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/210862e13552717af244cf3a7d47e2821726024909.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/wayanad-weekend-getaway-bengaluru-et51373/details",
+        "price": 5999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:50",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/wayanad-weekend-getaway-bengaluru-et51373",
+    "id": "com.zomato.51373",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Kodaikanal Weekend Getaway",
+    "description": "Kodaikanal, also known as the Princess of Hills in Tamil Nadu, is one of the most popular tourist destinations in South India. Often considered for a romantic weekend retreat, the quaint little town is blessed with a perfect temperature at any given season. If you are seeking time alone in the lap of nature with your loved ones, Kodai is the place to go. Adorned with cascading waterfalls, shimmering lakes, and undulating green hills, the town will leave you awestruck with its natural beauty.",
+    "startDate": "2024-09-13 20:30:00",
+    "endDate": "2024-09-16 05:00:00",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Kodaikanal Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Kodaikanal Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/d9fb1524cca765f647e60e396e2aad0d1726024965.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/kodaikanal-weekend-getaway-bengaluru-et51374/details",
+        "price": 5999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:51",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/kodaikanal-weekend-getaway-bengaluru-et51374",
+    "id": "com.zomato.51374",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Kodaikanal Weekend Getaway",
+    "description": "Kodaikanal, also known as the Princess of Hills in Tamil Nadu, is one of the most popular tourist destinations in South India. Often considered for a romantic weekend retreat, the quaint little town is blessed with a perfect temperature at any given season. If you are seeking time alone in the lap of nature with your loved ones, Kodai is the place to go. Adorned with cascading waterfalls, shimmering lakes, and undulating green hills, the town will leave you awestruck with its natural beauty.",
+    "startDate": "2024-09-20T20:30:00+05:30",
+    "endDate": "2024-09-23T05:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Kodaikanal Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Kodaikanal Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/d9fb1524cca765f647e60e396e2aad0d1726024991.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/kodaikanal-weekend-getaway-bengaluru-et51375/details",
+        "price": 5999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:51",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/kodaikanal-weekend-getaway-bengaluru-et51375",
+    "id": "com.zomato.51375",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Munnar Weekend Getaway",
+    "description": "Munnar is a popular hill station located in the state of Kerala, India. It is known for its breathtaking landscapes, tea gardens, spice plantations, and cool climate, making it a favored destination for nature lovers and adventure enthusiasts. It is also known for its stunning landscapes, tea plantations, and pleasant weather. Munnar, with its scenic beauty, tea gardens, and tranquil ambiance, providing a perfect getaway to experience the charm of Kerala's hill stations",
+    "startDate": "2024-09-13 20:30:00",
+    "endDate": "2024-09-16 05:00:00",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Munnar Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Munnar Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/2340f516a0f31d5bcd8f63a4061deea51726025022.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/munnar-weekend-getaway-bengaluru-et51376/details",
+        "price": 6899,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:52",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/munnar-weekend-getaway-bengaluru-et51376",
+    "id": "com.zomato.51376",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Munnar Weekend Getaway",
+    "description": "Munnar is a popular hill station located in the state of Kerala, India. It is known for its breathtaking landscapes, tea gardens, spice plantations, and cool climate, making it a favored destination for nature lovers and adventure enthusiasts. It is also known for its stunning landscapes, tea plantations, and pleasant weather. Munnar, with its scenic beauty, tea gardens, and tranquil ambiance, providing a perfect getaway to experience the charm of Kerala's hill stations",
+    "startDate": "2024-09-20T20:30:00+05:30",
+    "endDate": "2024-09-23T05:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Munnar Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Munnar Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/2340f516a0f31d5bcd8f63a4061deea51726025022.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/munnar-weekend-getaway-bengaluru-et51377/details",
+        "price": 6899,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:52",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/munnar-weekend-getaway-bengaluru-et51377",
+    "id": "com.zomato.51377",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Ooty-Connoor Weekend Getaway",
+    "description": "Ooty and Coonoor are charming hill stations nestled in the Nilgiri Hills of Tamil Nadu, India. Here's a brief overview of each:\n\nAlso known as the \"Queen of Hill Stations\" Ooty is one of the most popular tourist destinations in South India.\nIt boasts pleasant weather throughout the year, with cool temperatures making it a perfect retreat from the heat of the plains. Ooty is famous for its sprawling tea gardens, lush green landscapes, and picturesque viewpoints like Doddabetta Peak, offering panoramic views of the surrounding hills.",
+    "startDate": "2024-09-13 20:30:00",
+    "endDate": "2024-09-16 05:00:00",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Ooty-Connoor Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Ooty-Connoor Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/52cc2b30fe56917f28a1494442a199c81726025079.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/ooty-connoor-weekend-getaway-bengaluru-et51378/details",
+        "price": 6299,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:53",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/ooty-connoor-weekend-getaway-bengaluru-et51378",
+    "id": "com.zomato.51378",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Ooty-Connoor Weekend Getaway",
+    "description": "Ooty and Coonoor are charming hill stations nestled in the Nilgiri Hills of Tamil Nadu, India. Here's a brief overview of each:\n\nAlso known as the \"Queen of Hill Stations\" Ooty is one of the most popular tourist destinations in South India.\nIt boasts pleasant weather throughout the year, with cool temperatures making it a perfect retreat from the heat of the plains. Ooty is famous for its sprawling tea gardens, lush green landscapes, and picturesque viewpoints like Doddabetta Peak, offering panoramic views of the surrounding hills.",
+    "startDate": "2024-09-20T20:30:00+05:30",
+    "endDate": "2024-09-23T05:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Ooty-Connoor Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Ooty-Connoor Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/52cc2b30fe56917f28a1494442a199c81726025079.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/ooty-connoor-weekend-getaway-bengaluru-et51379/details",
+        "price": 6299,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:53",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/ooty-connoor-weekend-getaway-bengaluru-et51379",
+    "id": "com.zomato.51379",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Gokarna-Murudeshwar Weekend Getaway",
+    "description": "What do you visualize if we ask you about a weekend on a beach? We would not be surprised if you say Goa. And that\u2019s precisely why we need an alternative to Goa, one which is away from the humdrum of life, one which brings peace and serenity for the weekend.\n\nThis is precisely what Gokarna offers. If you are looking for a place for an escapade, to take a break after the week-long 9-5 office hours, and are tired of glancing at pictures of breath-taking beaches on your monitor, go ahead and pack your bags already.",
+    "startDate": "2024-09-13 20:30:00",
+    "endDate": "2024-09-16 05:00:00",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Gokarna-Murudeshwar Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Gokarna-Murudeshwar Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/58c55ee1b2f1b9c9d5f5f46d013e934d1726025127.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/gokarna-murudeshwar-weekend-getaway-bengaluru-et51380/details",
+        "price": 5299,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:54",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/gokarna-murudeshwar-weekend-getaway-bengaluru-et51380",
+    "id": "com.zomato.51380",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Gokarna-Murudeshwar Weekend Getaway",
+    "description": "What do you visualize if we ask you about a weekend on a beach? We would not be surprised if you say Goa. And that\u2019s precisely why we need an alternative to Goa, one which is away from the humdrum of life, one which brings peace and serenity for the weekend.\n\nThis is precisely what Gokarna offers. If you are looking for a place for an escapade, to take a break after the week-long 9-5 office hours, and are tired of glancing at pictures of breath-taking beaches on your monitor, go ahead and pack your bags already.",
+    "startDate": "2024-09-20T20:30:00+05:30",
+    "endDate": "2024-09-23T05:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Gokarna-Murudeshwar Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Gokarna-Murudeshwar Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/58c55ee1b2f1b9c9d5f5f46d013e934d1726025127.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/gokarna-murudeshwar-weekend-getaway-bengaluru-et51381/details",
+        "price": 5299,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:54",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/gokarna-murudeshwar-weekend-getaway-bengaluru-et51381",
+    "id": "com.zomato.51381",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Hampi Weekend Getaway",
+    "description": "Exploring the Ancient Beauty of Hampi in Karnataka Hampi, located in Karnataka, is a site of great historical significance. Once the capital city of the Vijayanagara Empire, it is now a UNESCO World Heritage Site with over 500 ruins and monuments. Many consider Hampi to be the second largest city of its time, following only Beijing. Situated on the banks of the Tungabhadra River, Hampi boasts ancient India's grandeur with its intricate architecture, brilliant engineering, and breathtaking scenery. The most significant structure is the Virupaksha Temple, which is dedicated to the empire's patron deity. But don't be fooled into thinking that Hampi is only about history! The town blends history and modernity, with aesthetic cafes, cultural performances, and a variety of cuisines from around the world in the nearby Hippie Town.",
+    "startDate": "2024-09-13 21:30:00",
+    "endDate": "2024-09-16 05:00:00",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Hampi Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Hampi Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/487b7aa4effa62bb8af56b3b57e570371726025181.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/hampi-weekend-getaway-bengaluru-et51382/details",
+        "price": 4999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:54",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/hampi-weekend-getaway-bengaluru-et51382",
+    "id": "com.zomato.51382",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Hampi Weekend Getaway",
+    "description": "Exploring the Ancient Beauty of Hampi in Karnataka Hampi, located in Karnataka, is a site of great historical significance. Once the capital city of the Vijayanagara Empire, it is now a UNESCO World Heritage Site with over 500 ruins and monuments. Many consider Hampi to be the second largest city of its time, following only Beijing. Situated on the banks of the Tungabhadra River, Hampi boasts ancient India's grandeur with its intricate architecture, brilliant engineering, and breathtaking scenery. The most significant structure is the Virupaksha Temple, which is dedicated to the empire's patron deity. But don't be fooled into thinking that Hampi is only about history! The town blends history and modernity, with aesthetic cafes, cultural performances, and a variety of cuisines from around the world in the nearby Hippie Town.",
+    "startDate": "2024-09-20T21:30:00+05:30",
+    "endDate": "2024-09-23T05:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Hampi Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Hampi Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/487b7aa4effa62bb8af56b3b57e570371726025181.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/hampi-weekend-getaway-bengaluru-et51383/details",
+        "price": 4999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:55",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/hampi-weekend-getaway-bengaluru-et51383",
+    "id": "com.zomato.51383",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Pondicherry Weekend Getaway",
+    "description": "Pondicherry, often referred to as Puducherry is a charming coastal town on the southeastern coast of India. Steeped in a unique blend of French and Indian influences, this Union Territory exudes a laid-back and multicultural vibe. The French Quarter, with its cobblestone streets and colonial architecture, transports you to a different era, while the bustling markets and vibrant Tamil culture showcase the town's diverse identity. With its serene beaches, like Promenade Beach and Paradise Beach, and the iconic Aurobindo Ashram, Pondicherry offers a perfect mix of relaxation and spiritual exploration. The delectable French-inspired cuisine and the colorful streets of the Auroville community further add to the town's distinctive allure. Pondicherry is a haven for those seeking a peaceful escape with a touch of cultural richness",
+    "startDate": "2024-09-13 21:30:00",
+    "endDate": "2024-09-16 05:00:00",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Pondicherry Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Pondicherry Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b35a62cbcbcc3a1251ae4a778d8be3c01726025225.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/pondicherry-weekend-getaway-bengaluru-et51384/details",
+        "price": 5999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:55",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/pondicherry-weekend-getaway-bengaluru-et51384",
+    "id": "com.zomato.51384",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Pondicherry Weekend Getaway",
+    "description": "Pondicherry, often referred to as Puducherry is a charming coastal town on the southeastern coast of India. Steeped in a unique blend of French and Indian influences, this Union Territory exudes a laid-back and multicultural vibe. The French Quarter, with its cobblestone streets and colonial architecture, transports you to a different era, while the bustling markets and vibrant Tamil culture showcase the town's diverse identity. With its serene beaches, like Promenade Beach and Paradise Beach, and the iconic Aurobindo Ashram, Pondicherry offers a perfect mix of relaxation and spiritual exploration. The delectable French-inspired cuisine and the colorful streets of the Auroville community further add to the town's distinctive allure. Pondicherry is a haven for those seeking a peaceful escape with a touch of cultural richness",
+    "startDate": "2024-09-20T21:30:00+05:30",
+    "endDate": "2024-09-23T05:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Pondicherry Weekend Getaway Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Pondicherry Weekend Getaway Bengaluru on Zomato which is a Experiences event happening at #467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b35a62cbcbcc3a1251ae4a778d8be3c01726025225.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/pondicherry-weekend-getaway-bengaluru-et51385/details",
+        "price": 5999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:01:56",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/pondicherry-weekend-getaway-bengaluru-et51385",
+    "id": "com.zomato.51385",
+    "location": {
+      "name": "Pickup Point",
+      "address": "#467, CK Complex, 479, 4th Ave St, Teacher's Colony, 1st Block Koramangala, HSR Layout 5th Sector, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91205285,
+        "longitude": 77.60161858
+      }
+    }
+  },
+  {
+    "name": "Funk \u2018n Roll",
+    "description": "Get your groove on at FUNK \u2019N ROLL! Sweston Collective is bringing the funk with killer tributes to legends like Hendrix, Clapton, The Doors, The Beatles, and BB King. It's gonna be a funky blast from the past!",
+    "startDate": "2024-09-14T19:00:00+05:30",
+    "endDate": "2024-09-14T20:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Funk \u2018n Roll Music and Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Funk \u2018n Roll Bengaluru on Zomato which is a Music and Experiences event happening at 2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/1960299ef19eeca90a891b441258ced11726026646.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/funk-n-roll-bengaluru-et51387/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-11 09:32:00",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/funk-n-roll-bengaluru-et51387",
+    "id": "com.zomato.51387",
+    "location": {
+      "name": "Gilly's Super Bar",
+      "address": "2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97281036,
+        "longitude": 77.60105455
+      }
+    }
+  },
+  {
+    "name": "Single's Meetup",
+    "description": "Welcome to the 'Single's Meetup a unique meetup designed specifically for singles who are eager to connect, share, and celebrate the solo journey. In the hustle of everyday life, finding a space to openly discuss the experiences, challenges, and triumphs of being single is rare. That's where we come in. \nThis isn't your typical singles event with the pressure of finding the one.\" Instead, it's an evening dedicated to the art of living single, where you can share stories, laugh about dating disasters, and discuss the personal growth and freedom that comes with this phase of life.",
+    "startDate": "2024-09-15T15:00:00+05:30",
+    "endDate": "2024-09-15T16:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Single's Meetup Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Single's Meetup Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/c99d72e1cd2ae961305ff0a65075408c1726043818.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51398/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-11 14:50:52",
+        "availability": "INSTOCK",
+        "inventory": 20
+      },
+      {
+        "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51398/details",
+        "price": 1299,
+        "currency": "INR",
+        "validFrom": "2024-09-11 14:50:53",
+        "availability": "INSTOCK",
+        "inventory": 5
+      },
+      {
+        "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51398/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-09-11 14:50:53",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51398/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-11 14:50:53",
+        "availability": "INSTOCK",
+        "inventory": 20
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51398",
+    "id": "com.zomato.51398",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Onam Sunday Brunch",
+    "description": "Celebrate Onam with a vibrant Sunday Brunch at Escape by Brewklyn, Bangalore. Enjoy traditional flavors and live music by the dynamic One by Two Band, creating an authentic festival atmosphere. Experience the joy of Onam like never before!",
+    "startDate": "2024-09-15T12:30:00+05:30",
+    "endDate": "2024-09-15T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Onam Sunday Brunch Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Onam Sunday Brunch Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/cac56114aa2bf5111ad18b02c5da285b1726049741.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/onam-sunday-brunch-bengaluru-et51437/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 16:05:38",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/onam-sunday-brunch-bengaluru-et51437/details",
+        "price": 1299,
+        "currency": "INR",
+        "validFrom": "2024-09-11 16:05:38",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/onam-sunday-brunch-bengaluru-et51437",
+    "id": "com.zomato.51437",
+    "location": {
+      "name": "Escape by Brewklyn",
+      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.04059157,
+        "longitude": 77.61912205
+      }
+    }
+  },
+  {
+    "name": "Saturday Night Live w/ Abhishek Nagarkar",
+    "description": "Join us this Saturday at Escape By Brewklyn Bangalore for an unforgettable live music experience with Abhishek Nagarkar. His soulful tunes and energetic performances will make your Saturday nights come alive. Don't miss out on the live vibe!",
+    "startDate": "2024-09-14T20:00:00+05:30",
+    "endDate": "2024-09-14T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/adb2528743f7e53b2ef48fcd5a7344571726049777.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/saturday-night-live-w-abhishek-nagarkar-bengaluru-et51440/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-11 15:53:12",
+        "availability": "INSTOCK",
+        "inventory": 47
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/saturday-night-live-w-abhishek-nagarkar-bengaluru-et51440",
+    "id": "com.zomato.51440",
+    "location": {
+      "name": "Escape by Brewklyn",
+      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.04059157,
+        "longitude": 77.61912205
+      }
+    }
+  },
+  {
+    "name": "Garba Night",
+    "description": "Learn the Art of Garba: Experience the joy of Garba as you learn the graceful steps and intricate moves of this lively dance form. Our expert instructors will guide you through the techniques and help you perfect your Garba style.\nOne-on-One Coaching: If you're new to Garba, don't worry! We offer one-on-one coaching to ensure that everyone feels comfortable and confident on the dance floor.\nTraditional Attire: Embrace the spirit of Garba by dressing in vibrant, traditional attire. Feel free to wear your favourite chaniya choli or kurta and embrace the festive ambience.\nGroup Practice: Put your newly acquired Garba skills to the test as you join the entire group for a lively and energetic dance session.\nRefreshments: Recharge with light snacks and beverages available during the event to keep your energy levels up.",
+    "startDate": "2024-09-14T20:00:00+05:30",
+    "endDate": "2024-09-14T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Garba Night Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Garba Night Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b89aaafbd4fc07579b8280dc58b080261726049829.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51445/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-11 18:42:32",
+        "availability": "INSTOCK",
+        "inventory": 1000
+      },
+      {
+        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51445/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-11 18:42:33",
+        "availability": "INSTOCK",
+        "inventory": 1000
+      },
+      {
+        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51445/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-09-11 18:42:33",
+        "availability": "INSTOCK",
+        "inventory": 1000
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/garba-night-bengaluru-et51445",
+    "id": "com.zomato.51445",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Garba Night",
+    "description": "Learn the Art of Garba: Experience the joy of Garba as you learn the graceful steps and intricate moves of this lively dance form. Our expert instructors will guide you through the techniques and help you perfect your Garba style.\nOne-on-One Coaching: If you're new to Garba, don't worry! We offer one-on-one coaching to ensure that everyone feels comfortable and confident on the dance floor.\nTraditional Attire: Embrace the spirit of Garba by dressing in vibrant, traditional attire. Feel free to wear your favourite chaniya choli or kurta and embrace the festive ambience.\nGroup Practice: Put your newly acquired Garba skills to the test as you join the entire group for a lively and energetic dance session.\nRefreshments: Recharge with light snacks and beverages available during the event to keep your energy levels up.",
+    "startDate": "2024-09-15T20:00:00+05:30",
+    "endDate": "2024-09-15T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Garba Night Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Garba Night Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b89aaafbd4fc07579b8280dc58b080261726049829.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51446/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-11 18:47:39",
+        "availability": "INSTOCK",
+        "inventory": 1000
+      },
+      {
+        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51446/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-11 18:47:39",
+        "availability": "INSTOCK",
+        "inventory": 1000
+      },
+      {
+        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51446/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-09-11 18:47:40",
+        "availability": "INSTOCK",
+        "inventory": 1000
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/garba-night-bengaluru-et51446",
+    "id": "com.zomato.51446",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Garba Night",
+    "description": "Learn the Art of Garba: Experience the joy of Garba as you learn the graceful steps and intricate moves of this lively dance form. Our expert instructors will guide you through the techniques and help you perfect your Garba style.\nOne-on-One Coaching: If you're new to Garba, don't worry! We offer one-on-one coaching to ensure that everyone feels comfortable and confident on the dance floor.\nTraditional Attire: Embrace the spirit of Garba by dressing in vibrant, traditional attire. Feel free to wear your favourite chaniya choli or kurta and embrace the festive ambience.\nGroup Practice: Put your newly acquired Garba skills to the test as you join the entire group for a lively and energetic dance session.\nRefreshments: Recharge with light snacks and beverages available during the event to keep your energy levels up.",
+    "startDate": "2024-09-15T15:00:00+05:30",
+    "endDate": "2024-09-15T16:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Garba Night Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Garba Night Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b89aaafbd4fc07579b8280dc58b080261726049829.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51453/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-11 18:46:36",
+        "availability": "INSTOCK",
+        "inventory": 1000
+      },
+      {
+        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51453/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-11 18:46:36",
+        "availability": "INSTOCK",
+        "inventory": 1000
+      },
+      {
+        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51453/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-09-11 18:46:37",
+        "availability": "INSTOCK",
+        "inventory": 1000
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/garba-night-bengaluru-et51453",
+    "id": "com.zomato.51453",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Resin Art Workshop",
+    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
+    "startDate": "2024-09-16T14:00:00+05:30",
+    "endDate": "2024-09-16T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1726064257.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51486/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 19:54:03",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51486",
+    "id": "com.zomato.51486",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Resin Art Workshop",
+    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
+    "startDate": "2024-09-17T14:00:00+05:30",
+    "endDate": "2024-09-17T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1726064257.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51487/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 19:55:28",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51487",
+    "id": "com.zomato.51487",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Tote Bag Workshop",
+    "description": "Join us for an engaging and artistic Tote Bag Painting Workshop at Small World. This workshop is the perfect opportunity to express your creativity and design your own unique, eco-friendly tote bag. Whether you`re an experienced artist or a complete beginner, our workshop offers a delightful experience for everyone.",
+    "startDate": "2024-09-14T14:00:00+05:30",
+    "endDate": "2024-09-14T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Tote Bag Workshop Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tote Bag Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/2c923eb656b4f2bdd0f928ebf2c6dc941726067290.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/tote-bag-workshop-bengaluru-et51506/details",
+        "price": 1199,
+        "currency": "INR",
+        "validFrom": "2024-09-11 20:42:03",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/tote-bag-workshop-bengaluru-et51506",
+    "id": "com.zomato.51506",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Tote Bag Workshop",
+    "description": "Join us for an engaging and artistic Tote Bag Painting Workshop at Small World. This workshop is the perfect opportunity to express your creativity and design your own unique, eco-friendly tote bag. Whether you`re an experienced artist or a complete beginner, our workshop offers a delightful experience for everyone.",
+    "startDate": "2024-09-15T14:00:00+05:30",
+    "endDate": "2024-09-15T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Tote Bag Workshop Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tote Bag Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/2c923eb656b4f2bdd0f928ebf2c6dc941726067290.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/tote-bag-workshop-bengaluru-et51507/details",
+        "price": 1199,
+        "currency": "INR",
+        "validFrom": "2024-09-11 20:43:16",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/tote-bag-workshop-bengaluru-et51507",
+    "id": "com.zomato.51507",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Tote Bag Workshop",
+    "description": "Join us for an engaging and artistic Tote Bag Painting Workshop at Small World. This workshop is the perfect opportunity to express your creativity and design your own unique, eco-friendly tote bag. Whether you`re an experienced artist or a complete beginner, our workshop offers a delightful experience for everyone.",
+    "startDate": "2024-09-16T14:00:00+05:30",
+    "endDate": "2024-09-16T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Tote Bag Workshop Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tote Bag Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/2c923eb656b4f2bdd0f928ebf2c6dc941726067290.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/tote-bag-workshop-bengaluru-et51508/details",
+        "price": 1199,
+        "currency": "INR",
+        "validFrom": "2024-09-11 20:44:34",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/tote-bag-workshop-bengaluru-et51508",
+    "id": "com.zomato.51508",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Tote Bag Workshop",
+    "description": "Join us for an engaging and artistic Tote Bag Painting Workshop at Small World. This workshop is the perfect opportunity to express your creativity and design your own unique, eco-friendly tote bag. Whether you`re an experienced artist or a complete beginner, our workshop offers a delightful experience for everyone.",
+    "startDate": "2024-09-17T14:00:00+05:30",
+    "endDate": "2024-09-17T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Tote Bag Workshop Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tote Bag Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/2c923eb656b4f2bdd0f928ebf2c6dc941726067290.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/tote-bag-workshop-bengaluru-et51509/details",
+        "price": 1199,
+        "currency": "INR",
+        "validFrom": "2024-09-11 20:46:11",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/tote-bag-workshop-bengaluru-et51509",
+    "id": "com.zomato.51509",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "INACTIVE",
+    "description": "Brighten up your week with Tacos and Tequila Tuesdays at Caf\u00e9 Calma! Every Tuesday, enjoy an unlimited selection of mouth-watering tacos and refreshing tequila drinks, perfect for a fun and flavorful evening.",
+    "startDate": "2024-09-17T16:30:00+05:30",
+    "endDate": "2024-09-17T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/5feea95971c12ce41a9e8f2f9cc9c10e1726073062.jpeg"
+    ],
+    "tickets": [],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/tacos-tequila-tuesdays-bengaluru-et51512",
+    "id": "com.zomato.51512",
+    "location": {
+      "name": "Cafe Calma",
+      "address": "The Shalimar Hotel, August Kranti Rd, Kemps Corner, Grant Road, Mumbai, Maharashtra 400036",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 18.96582806,
+        "longitude": 72.80570992
+      }
+    }
+  },
+  {
+    "name": "Sairaah Live",
+    "description": "The Magic Returns with SAIRAAH LIVE! \ud83c\udfa4\n\nJoin us for an unforgettable night as Sairaah takes the stage at Radio Bar, RMZ Ecoworld, Bellandur. Save the date\u2014Friday, 23rd August, from 8 PM onwards. Let the melodies sweep you off your feet!\n\nLimited spots available, book your table now!",
+    "startDate": "2024-09-13 20:00:00",
+    "endDate": "2024-09-13 23:50:00",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Sairaah Live Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sairaah Live Bengaluru on Zomato which is a Music event happening at Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/97ee178a6e5a6f127f095552d406381a1726073658.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/sairaah-live-bengaluru-et51514/details",
+        "price": 300,
+        "currency": "INR",
+        "validFrom": "2024-09-11 22:27:11",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/sairaah-live-bengaluru-et51514",
+    "id": "com.zomato.51514",
+    "location": {
+      "name": "Radio bar, RMZ Ecoworld",
+      "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9208664,
+        "longitude": 77.6859185
+      }
+    }
+  },
+  {
+    "name": "Block Printing",
+    "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
+    "startDate": "2024-09-16T14:00:00+05:30",
+    "endDate": "2024-09-16T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Block Printing Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Block Printing Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51543/details",
+        "price": 1199,
+        "currency": "INR",
+        "validFrom": "2024-09-12 10:16:33",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51543",
+    "id": "com.zomato.51543",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Block Printing",
+    "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
+    "startDate": "2024-09-17T14:00:00+05:30",
+    "endDate": "2024-09-17T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Block Printing Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Block Printing Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51544/details",
+        "price": 1199,
+        "currency": "INR",
+        "validFrom": "2024-09-12 10:17:42",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51544",
+    "id": "com.zomato.51544",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
       }
     }
   }
