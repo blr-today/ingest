@@ -134,6 +134,7 @@ def fetch_events():
 
 
 if __name__ == "__main__":
-    # write to champaca.json
+    events = fetch_events()
     with open("out/champaca.json", "w") as f:
-        json.dump(fetch_events(), f, indent=2)
+        json.dump(events, f, indent=2)
+    print(f"[CHAMPACA] {len(events)} events")

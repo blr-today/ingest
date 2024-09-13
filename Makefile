@@ -19,6 +19,7 @@ out/allevents.txt:
 	  --header "Content-Type: application/json" \
 	  --data-raw '{"venue": 0,"page": 1,"rows": 100,"tag_type": null,"sdate": $(AE_START_TS),"edate": $(AE_END_TS),"city": "bangalore","keywords": 0,"category": ["all"],"formats": 0,"sort_by_score_only": true}' | \
 	  jq -r '.item[] | .share_url' | sort > $@ || $(call restore-file,$@)
+	echo "[ALLEVENTS] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 # Input file goes here
 out/te.jsonnet:
@@ -41,6 +42,7 @@ out/champaca.json:
 
 out/highape.txt:
 	python src/highape.py | sort > $@ || $(call restore-file,$@)
+	echo "[HIGHAPE] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/mapindia.ics:
 	python src/mapindia.py || $(call restore-file,$@)
@@ -64,9 +66,12 @@ out/insider.txt:
 	curl_chrome116 --silent \
 	--url 'https://api.insider.in/home?city=bengaluru&eventType=physical&filterBy=go-out&norm=1&select=lite&typeFilter=physical' | \
 	jq -r '.list.masterList|keys[]|["https://insider.in",., "event"]|join("/")' | sort > $@ ||  $(call restore-file,$@)
+	echo "[INSIDER] $$(wc -l $@ | cut -d ' ' -f 1)"
+
 
 out/bhaagoindia.txt:
 	python src/bhaagoindia.com.py | sort > $@ ||  $(call restore-file,$@)
+	echo "[BHAAGOINDIA] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 # TODO: /exhibits.json is also helpful
 # And there are kn translations available as well.
@@ -78,6 +83,7 @@ out/venn.json:
 
 out/mmb.txt:
 	python src/mmb.py | sort > $@ || $(call restore-file,$@)
+	echo "[MMB] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/urbanaut.json:
 	python src/urbanaut.py  || $(call restore-file,$@)
@@ -102,6 +108,7 @@ out/sumukha.json:
 
 out/townscript.txt:
 	python src/townscript.py | sort -u > $@ || $(call restore-file,$@)
+	echo "[TOWNSCRIPT] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/bluetokai.json:
 	python src/bluetokai.py || $(call restore-file,$@)
@@ -114,9 +121,11 @@ out/tonight.json:
 
 out/creativemornings.txt:
 	python src/creativemornings.py | sort > $@ || $(call restore-file,$@)
+	echo "[CREATIVEMORNINGS] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/together-buzz.txt:
 	python src/together-buzz.py | sort > $@ || $(call restore-file,$@)
+	echo "[TOGETHER] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/adidas.json:
 	python src/adidas.py || $(call restore-file,$@)
@@ -135,6 +144,7 @@ out/aceofpubs.json: out/aceofpubs.ics
 
 out/koota.txt:
 	curl_chrome116 --silent "https://courtyardkoota.com/event-directory/" | grep -oE 'https://courtyardkoota\.com/events/[a-z0-9-]+/' | sort -u > $@ || $(call restore-file,$@)
+		echo "[KOOTA] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/sis.json:
 	python src/sis.py || $(call restore-file,$@)
@@ -144,6 +154,7 @@ out/bcc.json:
 
 out/pumarun.txt:
 	python src/eventbrite.py pumarun | sort > $@ || $(call restore-file,$@)
+	echo "[PUMARUN] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 # we just do a minimal transform to remove extra bits we don't need
 out/tpcc.jsonnet:
