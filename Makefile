@@ -214,7 +214,7 @@ build: fetch
 # DOC: This runs additional queries for cleaning and tagging
 # in the database
 post-build:
-	python3.12 -m sqlite3  events.db < post-build.sql
+	LD_PRELOAD=./lib/libsqlite3.so python3.12 -m sqlite3  events.db < post-build.sql
 
-all: build
+all: build post-build
 	@echo "Finished build"
