@@ -108,4 +108,4 @@ if __name__ == "__main__":
     output_json_file = "out/trove.json"
     with open(output_json_file, "w") as f:
         json.dump(events, f, indent=2)
-    print(f"JSON data saved to {output_json_file}")
+    print(f"[TROVE] {len(events)} events")

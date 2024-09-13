@@ -51,4 +51,4 @@ if __name__ == "__main__":
     with open(output_json_file, "w") as output_file:
         output_file.write(json.dumps(json_data, indent=2))
 
-    print(f"JSON data saved to {output_json_file}")
+    print(f"[AOP] {len(json_data)} events")

@@ -38,4 +38,5 @@ with open(input_file, "r") as json_file:
     output_json_file = os.path.join("out", basename + ".json")
     with open(output_json_file, "w", encoding="utf-8") as output_file:
         output_file.write(output_json)
-        print(f"JSON data saved to {output_json_file}")
+        eventCount = len(json.loads(output_json))
+        print(f"[{basename.upper()}] {eventCount} events (jsonnet.py)")

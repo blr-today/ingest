@@ -9,7 +9,7 @@ def write_urls(key, organizer_id):
     with open(f"out/{key}.txt", "w") as f:
         for link in links:
             f.write(f"{link}\n")
-        print(f"[EVENTBRITE/{key}] {len(links)} events")
+    print(f"[EVENTBRITE/{key}] {len(links)} events", file=sys.stderr)
 
 
 with open("in/known-hosts.yml") as f:

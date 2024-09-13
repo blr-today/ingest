@@ -151,3 +151,4 @@ if __name__ == "__main__":
 
     with open("out/zomato.jsonnet", "w", encoding="utf-8") as f:
         json.dump(events, f, indent=2)
+    print(f"[ZOMATO] {len(events)} events")

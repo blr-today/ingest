@@ -79,7 +79,7 @@ def main():
     with open("out/sumukha.json", "w") as f:
         json.dump(events, f, indent=2)
 
-    print("JSON data saved to out/sumukha.json")
+    print(f"[SUMUKHA] {len(events)} events")
 
 
 if __name__ == "__main__":
