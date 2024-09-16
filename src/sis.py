@@ -49,8 +49,12 @@ def fetch_event_details(session, l):
     html = response.text
     soup = BeautifulSoup(html, "html.parser")
     div = soup.select_one("#description")
+    title = soup.select_one("h2").text
+    # Not an event
+    if "subscription" in title.lower():
+        return None
     event = {
-        "name": soup.select_one("h2").text,
+        "name": title,
         "@type": event_type,
         "url": l,
         "@context": "https://schema.org",
