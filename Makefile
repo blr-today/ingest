@@ -206,14 +206,19 @@ clean:
 build: fetch
 	python src/event-fetcher.py
 
+build-sqlite:
+	.github/sqlite.sh
 # python 3.12 onwards comes with a sqlite3 module CLI
 # https://docs.python.org/3.12/library/sqlite3.html#command-line-interface
 # we need 3.13 because the sqlite shipped with 3.12 doesn't support arrow
 # syntax.
 # DOC: This runs additional queries for cleaning and tagging
 # in the database
-post-build:
-	python3.13 -m sqlite3 events.db < post-build.sql
+post-build: build-sqlite
+	# Print the sqlite3 version
+	# then run the import
+	LD_PRELOAD=/tmp/sqlite-amalgamation-3460100/libsqlite.so python3 -c "import sqlite3;print(sqlite3.sqlite_version)"
+	LD_PRELOAD=/tmp/sqlite-amalgamation-3460100/libsqlite.so python3 -m sqlite3 events.db < post-build.sql
 
 all: build post-build
 	@echo "Finished build"

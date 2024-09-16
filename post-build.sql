@@ -49,7 +49,11 @@ SET
   )
   -- Trips that technically start at KIAL airport
 WHERE
-  event_json ->> '$.organizer.name' LIKE 'Sheena - Banjara%';
+  (
+    event_json ->> '$.organizer.name' LIKE 'Sheena - Banjara%' OR
+    -- https://together.buzz/host/j-n-tulika-hdj, Yoga Retreats
+    event_json ->> '$.performer.name' LIKE '%J N TULIKA%'
+  );
 
 -- Woo-Woo https://rationalwiki.org/wiki/Woo
 UPDATE events
