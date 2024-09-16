@@ -82,8 +82,10 @@ def fetch_events():
     url = "https://champaca.in/blogs/events.atom"
     content = make_request(url)
 
-    # Parse the XML content
-    tree = etree.fromstring(content)
+    try:
+        tree = etree.fromstring(content)
+    except etree.XMLSyntaxError:
+        return []
 
     events = []
 
