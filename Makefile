@@ -208,13 +208,12 @@ build: fetch
 
 # python 3.12 onwards comes with a sqlite3 module CLI
 # https://docs.python.org/3.12/library/sqlite3.html#command-line-interface
-# this avoids the system sqlite, which is much older
-# and doesn't have the arrow syntax (->, ->>)
-# 	which we really need
+# we need 3.13 because the sqlite shipped with 3.12 doesn't support arrow
+# syntax.
 # DOC: This runs additional queries for cleaning and tagging
 # in the database
 post-build:
-	python3.13 -m sqlite3  events.db < post-build.sql
+	python3.13 -m sqlite3 events.db < post-build.sql
 
 all: build post-build
 	@echo "Finished build"
