@@ -53,21 +53,9 @@ jobs:
         git config --global extensions.partialClone true
         pip install .
     - name: Fetch updates
-      run: make clean && make -s build
+      run: make clean && make -s all
       env:
         ZOMATO_PUBLIC_API_KEY: ${{ secrets.ZOMATO_PUBLIC_API_KEY }}
-
-    # We need to run
-    - uses: actions/setup-python@v5
-      continue-on-error: true
-      with:
-        python-version: '3.13'
-        allow-prereleases: true
-
-    # This does not have any dependencies
-    - name: Post Build Database Cleanup
-      run: make post-build
-      continue-on-error: true
 
     - name: Upload Artifacts
       uses: actions/upload-artifact@v4
