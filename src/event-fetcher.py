@@ -175,6 +175,8 @@ def apply_patch(event, patch={}):
         event["keywords"] = list(
             set([k.strip() for k in event["keywords"].split(",")])
         )
+    else:
+        event["keywords"] = []
     if 'keywords' in patch:
         patch["keywords"] = sorted(event["keywords"] + patch["keywords"])
         del event['keywords']  # so it gets overridden for sure
