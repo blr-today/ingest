@@ -108,7 +108,6 @@ jobs:
         gh release create "v$VERSION" events.db --repo=blr-today/dataset --notes "blr.today dataset release. See LICENSE.txt for license information before using this dataset."
   publish:
     needs: update
-    if: ${{github.event_name == 'schedule'}}
     runs-on: ubuntu-latest
     name: Publish Website
     steps:
