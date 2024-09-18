@@ -2049,7 +2049,7 @@
     "location": {
       "@type": "Place",
       "name": null,
-      "address": "1st Floor, 311, 100 Feet Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "address": "Playful Palette Bistro, 1st Floor, 311, 100 Feet Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
       "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJYffTcwAXrjsRCxM92k8H4Jk",
       "latitude": "12.98130040000000000000",
       "longitude": "77.64051440000000000000"
@@ -2103,7 +2103,7 @@
     "location": {
       "@type": "Place",
       "name": null,
-      "address": "WJ8H+J57 Aura, 13th C Cross Rd, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "address": "Aura yoga and dance studio, WJ8H+J57 Aura, 13th C Cross Rd, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
       "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJiRpKj6QVrjsRSIgo33OhtMA",
       "latitude": "12.91649520000000000000",
       "longitude": "77.62792170000000000000"
@@ -2181,6 +2181,56 @@
     },
     "url": "https://urbanaut.app/spot/murdermysterybanglore",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "name": "Film Screening: Umrao Jaan",
+    "description": "\u201cKitne toofan uthaye aankhon ne, naav yaadon ki doobti hi nahi \u2026 tujhse milne ki, tujhko paane ki koi tatbir soojti hi nahi\u201dThis weekend, step back in time and join us for a screening of the iconic film,\u00a0Umrao Jaan\u00a0with unique insights from our researcher,\u00a0Saumya Mani Tripathi.This masterpiece, directed by Muzzafar Ali, tells the poignant tale of Amiran, a girl from Faizabad who is kidnapped and forced to become a tawaif in Lucknow. Experience the elegance of Rekha\u2019s performance as she navigates the complexities of love, societal expectations, and her profession. Immerse yourself in the rich music and stunning visuals and poetic dialogues that have made Umrao Jaan a classic of Indian cinema.\u00a0Witness the magic of Umrao Jaan on the big screen this weekend at MAP.\u00a0This event is part of programming for our latest exhibition\u00a0Tawaif: Tracing the Courtesan in the History of Cinema.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9766C51BA3D047EA9A9DF025CAA50B52_converted_webp.webp"
+    ],
+    "startDate": "2024-09-22T15:00:00+05:30",
+    "endDate": "2024-09-22T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "22, Kasturba Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJK3WK06kXrjsRtJJUPxlNE4A",
+      "latitude": "12.97460260000000000000",
+      "longitude": "77.59675370000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 150,
+    "remainingAttendeeCapacity": 147,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Museum of Art and Photography (MAP Bengaluru)",
+      "description": "MAP\u2019s mission is to harness the transformative potential of art, to enrich lives, ignite creativity, and connect people.  We make art accessible and engaging for everyone through innovative experiences, meaningful dialogue and building communities.",
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/FC4FD4DDA248480898821B02CC012FD2_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-80-6933-4100"
+      }
+    },
+    "url": "https://urbanaut.app/spot/film-screening-umrao-jaan",
+    "keywords": [
+      "Art & culture",
+      "History & heritage",
+      "Leisure",
+      "Local",
+      "Music",
       "URBANAUT"
     ]
   }
