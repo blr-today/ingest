@@ -29,7 +29,7 @@ wherever necessary.
 - Townscript - Known Hosts only
 - Musuem of Art & Photography
 - Max Mueller Bhavan
-- Paytm Insider
+- Zomato Insider
 - PUMA Nitro Runs
 - PVR Cinema Movie Screenings
 - Sisters in Sweat

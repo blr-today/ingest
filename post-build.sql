@@ -142,7 +142,17 @@ WHERE
   OR event_json ->> '$.organizer.name' LIKE '%wonderla%'
   -- Jollywood Adventure Park tickets
   OR event_json ->> '$.organizer.name' LIKE '%vels studios and entertainment%'
-  OR event_json ->> '$.organizer.name' LIKE 'manoj t s - escape2explore adventures';
+  OR event_json ->> '$.organizer.name' LIKE 'manoj t s - escape2explore adventures'
+
+  -- All Travel events listed on HighApe
+  OR (
+      (
+        event_json ->>'$.keywords' LIKE '%"travel"%' OR
+        event_json ->>'$.keywords' LIKE '%"camping"%'
+
+        )
+      AND
+      event_json ->>'$.keywords' LIKE '%"HIGHAPE"%');
 
 -- MusicEvent is incorrectly used in many many allevents listings
 UPDATE events
