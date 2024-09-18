@@ -4515,8 +4515,8 @@
   {
     "name": "Resin Art Workshop",
     "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-    "startDate": "2024-09-18T14:00:00+05:30",
-    "endDate": "2024-09-18T15:00:00+05:30",
+    "startDate": "2024-09-18 14:00:00",
+    "endDate": "2024-09-18 15:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -5007,8 +5007,8 @@
   {
     "name": "Tote Bag Workshop",
     "description": "Join us for an engaging and artistic Tote Bag Painting Workshop at Small World. This workshop is the perfect opportunity to express your creativity and design your own unique, eco-friendly tote bag. Whether you`re an experienced artist or a complete beginner, our workshop offers a delightful experience for everyone.",
-    "startDate": "2024-09-18T14:00:00+05:30",
-    "endDate": "2024-09-18T15:00:00+05:30",
+    "startDate": "2024-09-18 14:00:00",
+    "endDate": "2024-09-18 15:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -5451,8 +5451,8 @@
   {
     "name": "Block Printing",
     "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
-    "startDate": "2024-09-18T14:00:00+05:30",
-    "endDate": "2024-09-18T15:00:00+05:30",
+    "startDate": "2024-09-18 14:00:00",
+    "endDate": "2024-09-18 15:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",

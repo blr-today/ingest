@@ -2233,5 +2233,56 @@
       "Music",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Movie Mania: Bollywood Quiz",
+    "description": "Test your knowledge of classic Bollywood films such as\u00a0Pakeezah, Utsav, Mughal-e-Azam, and Mere Mehboob\u00a0and compete against friends and fellow Bollywood enthusiasts. The quiz is inspired by our latest exhibition\u00a0Tawaif: Tracing the History of Courtesans in Hindi CinemaFrom court dancer to feminist icon, the tawaif\u2019s journey in Bollywood is multifaceted. This exhibition explores her transformation, from a figure steeped in devotion to kings and deities to a complex character who defies societal conventions. The quiz will cover themes such as the tawaif character in Hindi cinema, musical traditions deeply intertwined with the artistic legacy of the courtesans, facts on film ephemera, etc.In collaboration with\u00a04 Edge Quizzing\u00a0we promise you an evening of fascinating history, Bollywood and a chance to win exciting prices!Please note:\u2013 Groups of up to 6 can register together\u00a0\u2013 Individuals are also welcome and can team up once they arrive",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/82381303A5D7440E8692C59CC081C332_converted_webp.webp"
+    ],
+    "startDate": "2024-09-22T17:30:00+05:30",
+    "endDate": "2024-09-22T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "22, Kasturba Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJK3WK06kXrjsRtJJUPxlNE4A",
+      "latitude": "12.97460260000000000000",
+      "longitude": "77.59675370000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 99,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Museum of Art and Photography (MAP Bengaluru)",
+      "description": "MAP\u2019s mission is to harness the transformative potential of art, to enrich lives, ignite creativity, and connect people.  We make art accessible and engaging for everyone through innovative experiences, meaningful dialogue and building communities.",
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/FC4FD4DDA248480898821B02CC012FD2_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-80-6933-4100"
+      }
+    },
+    "url": "https://urbanaut.app/spot/movie-mania-bollywood-quiz",
+    "keywords": [
+      "Art & culture",
+      "Food & drink",
+      "History & heritage",
+      "Leisure",
+      "Live GIG",
+      "Music",
+      "URBANAUT"
+    ]
   }
 ]
