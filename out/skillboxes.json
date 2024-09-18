@@ -354,7 +354,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 199,
+            "inventoryLevel": 194,
             "name": "GA",
             "url": "https://www.skillboxes.com/events/ticket/altspaces-presents-alboe-live-syn-wav-shiv-hari-insowmya-advait-and-vibes-merchant"
          }
@@ -543,7 +543,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 19,
+            "inventoryLevel": 15,
             "name": "Club Entry",
             "url": "https://www.skillboxes.com/events/ticket/sakura-screenings"
          }
@@ -759,40 +759,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Highlights:DJ NightBollywood NightLadies NightFree Drinks For LadiesNon Stop MusicLadies Night Extravaganza every Wednesday!Join\n us for an evenin",
-      "endDate": "2024-09-18T23:59:00",
-      "identifier": "com.skillboxes.15795",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWpVWFhZakF5disrNE1LdFozaldMZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726496713jvPjODXWWBIgXw5o.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Event"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9151523",
-            "longitude": "77.6660553"
-         },
-         "name": "White Lotus Club Bengaluru"
-      },
-      "name": "WEDNESDAY LADIES NIGHT | 18 SEP",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "GUESLIST",
-            "url": "https://www.skillboxes.com/events/ticket/wednesday-ladies-night-18-sep"
-         }
-      ],
-      "startDate": "2024-09-18T19:54:00",
-      "url": "https://www.skillboxes.com/events/wednesday-ladies-night-18-sep"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Welcome to Solasta: Ignite the Night—a dazzling \ncelebration where the future of technology and music come alive in an \nelectrifying fus",
       "endDate": "2024-09-27T23:59:00",
       "identifier": "com.skillboxes.15794",
@@ -878,41 +844,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Experience the magic of live music at Skydeck by Sherlock's this Wednesday! Join us for \"Deck Gigs\" featuring Koe & Infant. Enjoy sou",
-      "endDate": "2024-09-18T23:59:00",
-      "identifier": "com.skillboxes.15784",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726480531I3yXuRtIIceD64Ii.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Musician/Band"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750296",
-            "longitude": "77.6075339"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "Deck Gigs | LIVE Band Performance",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Get a complimentary Beer or a Mocktail on every booking!\n",
-            "inventoryLevel": 100,
-            "name": "Entry Charge",
-            "url": "https://www.skillboxes.com/events/ticket/deck-gigs-live-band-performance"
-         }
-      ],
-      "startDate": "2024-09-18T20:00:00",
-      "url": "https://www.skillboxes.com/events/deck-gigs-live-band-performance"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "🎤 Mic Drop at Starbucks every saturday 🌟 Join us for an evening of songs, poetry, and standup comedy. Whether you're a perfo",
       "endDate": "2024-09-21T19:00:00",
@@ -937,13 +868,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 6,
-            "name": "Guest Free",
-            "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-2"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "inventoryLevel": 18,
             "name": "Performer Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-2"
@@ -953,6 +877,13 @@
             "availability": "SoldOut",
             "inventoryLevel": 0,
             "name": "Performer Free",
+            "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-2"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "Guest Free",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-2"
          }
       ],
@@ -986,7 +917,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "You can redeem Food & Beverages worth 300 INR\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 46,
             "name": "Entry for One - Full Cover",
             "url": "https://www.skillboxes.com/events/ticket/sufi-night-zaffar-ki-mehfil-radio-bar-rmz-ecoworld"
          }
