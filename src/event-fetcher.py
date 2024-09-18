@@ -171,10 +171,11 @@ def fix_online_schema(url, event):
 
 def apply_patch(event, patch={}):
     patch = patch.copy()
-    if 'keywords' in event and isinstance(event["keywords"], str):
-        event["keywords"] = list(
-            set([k.strip() for k in event["keywords"].split(",")])
-        )
+    if 'keywords' in event:
+        if isinstance(event["keywords"], str):
+            event["keywords"] = list(
+                set([k.strip() for k in event["keywords"].split(",")])
+            )
     else:
         event["keywords"] = []
     if 'keywords' in patch:
