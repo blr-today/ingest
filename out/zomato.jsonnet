@@ -422,128 +422,6 @@
     }
   },
   {
-    "name": "Bryan Adams - So Happy It Hurts Tour 2024",
-    "description": "Get ready to experience the International rock legend's live concert as part of his 6 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the \u2018So Happy It Hurts\u2019 World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.",
-    "startDate": "2024-12-14T19:00:00+05:30",
-    "endDate": "2024-12-14T22:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Bryan Adams - So Happy It Hurts Tour 2024 Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bryan Adams - So Happy It Hurts Tour 2024 Bengaluru on Zomato which is a Trending event happening at Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/83de6f0099b6724e504be070d99793291724313846.png",
-      "https://b.zmtcdn.com/data/zomaland/0dd73a8c18ac2ca4f1ec1564470de6e21721838390.png",
-      "https://b.zmtcdn.com/data/zomaland/fbeacb352da695c9f37ae286496d69661721838453.png",
-      "https://b.zmtcdn.com/data/zomaland/685753a9c0d8d2b91e8d855eb2543a6f1721838475.png",
-      "https://b.zmtcdn.com/data/zomaland/05bcb7d702207528135d730b3700e9421721838497.png",
-      "https://b.zmtcdn.com/data/zomaland/1e89dbbb75e5d516946eb3f76ae900ab1721839188.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/6478370318ea10219b35bd45963db86a1721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/64da2fccfbcac50917728c80086f94161721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/560cd9a43f6a76b464338ade211ab62e1721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/f183db711697510886ba2f8ded165fd91721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/59c72d8e56850aa8c7bd71a1d78d77d61721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/5ce52e330649ddc2a36fd58e45da96821721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/5136a008fffbdbfdad9ca4edf5796d821721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/2c1b4822f28bc102f2a77e151c56e76f1723452782.png",
-      "https://b.zmtcdn.com/data/zomaland/a60b79b088e8e1bfdb67f167c821c5531724315606.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 12999,
-        "currency": "INR",
-        "validFrom": "2024-09-02 20:00:00",
-        "availability": "INSTOCK",
-        "inventory": 113
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 24999,
-        "currency": "INR",
-        "validFrom": "2024-08-09 05:00:00",
-        "availability": "INSTOCK",
-        "inventory": 140
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 2999,
-        "currency": "INR",
-        "validFrom": "2024-08-07 11:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 3999,
-        "currency": "INR",
-        "validFrom": "2024-08-07 11:00:00",
-        "availability": "INSTOCK",
-        "inventory": 69
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 5299,
-        "currency": "INR",
-        "validFrom": "2024-08-07 17:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 6999,
-        "currency": "INR",
-        "validFrom": "2024-09-02 17:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 7499,
-        "currency": "INR",
-        "validFrom": "2024-08-07 11:00:00",
-        "availability": "INSTOCK",
-        "inventory": 155
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 9499,
-        "currency": "INR",
-        "validFrom": "2024-08-07 17:00:00",
-        "availability": "INSTOCK",
-        "inventory": 231
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 19999,
-        "currency": "INR",
-        "validFrom": "2024-08-07 18:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352",
-    "id": "com.zomato.46352",
-    "location": {
-      "name": "Terraform",
-      "address": "Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.174349,
-        "longitude": 77.597596
-      }
-    }
-  },
-  {
     "name": "Brews Of Bangalore (Oktoberfest Edition)",
     "description": "Join us for a vibrant day at Brews of Bangalore, where we're celebrating Bangalore's love for beer, coffee, food, and music! \nWith live music creating the perfect backdrop, immerse yourself in a day filled with exciting activities and games that guarantee endless fun and laughter. \nIndulge your taste buds with offerings from top beer brands like Toit, Mannheim, Kingfisher, Geist (and many more) and discover the perfect pairing with our \u2018Brews & Bites\u2019 section curated to complement your brews. \nAdditionally, savor a variety of coffees from top coffee brands, making it an unforgettable and joyous experience for all!\n\n",
     "startDate": "2024-09-22T12:00:00+05:30",
@@ -966,58 +844,6 @@
     }
   },
   {
-    "name": "Chandan Shetty Live",
-    "description": "Chandan Shetty, also known as \"Kannada Rapper Chandan Shetty\" is an Indian film score and soundtrack composer, lyricist, and singer who mainly composes music in the Kannada language. He started his career as a lyricist and assistant music director with the movie Alemari, under music director Arjun Janya. Then he worked for Varadanayaka, Power, Chakravyuha, and Bhajarangi.",
-    "startDate": "2024-11-24T20:00:00+05:30",
-    "endDate": "2024-11-25T01:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Chandan Shetty Live Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Chandan Shetty Live Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/680fb7d69471e40b223631cfd25b59ee1722425915.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043/details",
-        "price": 399,
-        "currency": "INR",
-        "validFrom": "2024-07-31 17:18:26",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-07-31 17:18:27",
-        "availability": "INSTOCK",
-        "inventory": 45
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043",
-    "id": "com.zomato.47043",
-    "location": {
-      "name": "WL Superclub",
-      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9151339,
-        "longitude": 77.6660495
-      }
-    }
-  },
-  {
     "name": "Experience Enigma | Live in India",
     "description": "For the first time ever, India will witness the music of the legendary artist \u201cEnigma\u201d in a live concert featuring the original Enigma voices, a full symphonic orchestra, live dancers, and visuals.\r\n\r\nWith the backdrop of the iconic Jayamahal Palace, be a part of music history by attending this once-in-a-lifetime concert.\r\n\r\nWith three Grammy nominations, 70 million records sold, and over 100 gold and platinum album certifications, Enigma\u2019s music has entranced millions of listeners with its synthesis of musical styles, Gregorian chants, ethnic instruments, atmospheric, and psychedelic sounds.\r\n\r\nAndru Donalds, Angel X, and Fox Lima, whose voices are behind many Enigma songs, will perform some of the greatest hits including \u201cSadeness,\u201d \u201cReturn to Innocence,\u201d \u201cMea Culpa,\u201d \u201cThe Rivers of Belief,\u201d \u201cAge of Loneliness,\u201d and more.",
     "startDate": "2024-10-05T19:00:00+05:30",
@@ -1343,6 +1169,198 @@
         "@type": "GeoCoordinates",
         "latitude": 12.94516421,
         "longitude": 77.62013658
+      }
+    }
+  },
+  {
+    "name": "RED FM presents Dandiya Night",
+    "description": "Dandiya Night during the occasion of Navrathri by RED FM with RJ Priya and DJ Julius Sharma",
+    "startDate": "2024-10-12T19:00:00+05:30",
+    "endDate": "2024-10-12T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "RED FM presents Dandiya Night Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for RED FM presents Dandiya Night Bengaluru on Zomato which is a Experiences event happening at 3Q26+63 Sri Manjunatha Swamy Kalyana Mantapa, Sannatammanahalli, Katamnallur, Karnataka 560049",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/a248e8fd0cdba25da574e11d5d6fb4561724758034.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/red-fm-presents-dandiya-night-bengaluru-et49916/details",
+        "price": 200,
+        "currency": "INR",
+        "validFrom": "2024-08-27 16:59:53",
+        "availability": "INSTOCK",
+        "inventory": 500
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/red-fm-presents-dandiya-night-bengaluru-et49916",
+    "id": "com.zomato.49916",
+    "location": {
+      "name": "Sri Manjunatha Swamy Banquet Hall, Katamnallur, Bengaluru",
+      "address": "3Q26+63 Sri Manjunatha Swamy Kalyana Mantapa, Sannatammanahalli, Katamnallur, Karnataka 560049",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0505903,
+        "longitude": 77.7601267
+      }
+    }
+  },
+  {
+    "name": "Ethnic Dandiya At White Lotus HSR - Season - 2",
+    "description": "Get ready to groove to the beats of Ethnic Dandiya at White Lotus Club, HSR! \ud83e\udd41 It`s going to be an incredible night of infectious beats, exhilarating moves, and the perfect blend of tradition and fun!",
+    "startDate": "2024-10-04T17:30:00+05:30",
+    "endDate": "2024-10-11T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Ethnic Dandiya At White Lotus HSR - Season - 2 Party and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Ethnic Dandiya At White Lotus HSR - Season - 2 Bengaluru on Zomato which is a Party and Trending event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/5996a826d8b5e10dfb026e17a4ecb7271724823961.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-08-28 11:20:00",
+        "availability": "INSTOCK",
+        "inventory": 199
+      },
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-14 20:39:27",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-14 20:39:27",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-14 20:39:28",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-14 20:39:29",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-14 20:39:30",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-14 20:39:31",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-08-28 11:20:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-14 20:39:26",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-14 20:39:27",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-14 20:39:28",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-14 20:39:29",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-14 20:39:30",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-14 20:39:31",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962",
+    "id": "com.zomato.49962",
+    "location": {
+      "name": "White Lotus Club",
+      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.91607507,
+        "longitude": 77.66613533
       }
     }
   },
@@ -4515,50 +4533,6 @@
   {
     "name": "Resin Art Workshop",
     "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-    "startDate": "2024-09-18 14:00:00",
-    "endDate": "2024-09-18 15:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1726064257.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51488/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-09-11 19:57:07",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51488",
-    "id": "com.zomato.51488",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Resin Art Workshop",
-    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
     "startDate": "2024-09-19T14:00:00+05:30",
     "endDate": "2024-09-19T15:00:00+05:30",
     "timezone": "+05:30",
@@ -4722,6 +4696,94 @@
     ],
     "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51493",
     "id": "com.zomato.51493",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Resin Art Workshop",
+    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
+    "startDate": "2024-09-24T14:00:00+05:30",
+    "endDate": "2024-09-24T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1726064434.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51494/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 20:06:19",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51494",
+    "id": "com.zomato.51494",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Resin Art Workshop",
+    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
+    "startDate": "2024-09-25T14:00:00+05:30",
+    "endDate": "2024-09-25T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1726064434.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51495/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-09-11 20:07:41",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51495",
+    "id": "com.zomato.51495",
     "location": {
       "name": "Small World, 5th Block",
       "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
@@ -4909,50 +4971,6 @@
     }
   },
   {
-    "name": "Resin Art Workshop",
-    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-    "startDate": "2024-09-30T14:00:00+05:30",
-    "endDate": "2024-09-30T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1726064434.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51500/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-09-11 20:20:15",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51500",
-    "id": "com.zomato.51500",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
     "name": "Blind Date - A Sensory Experience",
     "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
     "startDate": "2024-09-22T16:00:00+05:30",
@@ -4994,50 +5012,6 @@
     ],
     "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et51501",
     "id": "com.zomato.51501",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Tote Bag Workshop",
-    "description": "Join us for an engaging and artistic Tote Bag Painting Workshop at Small World. This workshop is the perfect opportunity to express your creativity and design your own unique, eco-friendly tote bag. Whether you`re an experienced artist or a complete beginner, our workshop offers a delightful experience for everyone.",
-    "startDate": "2024-09-18 14:00:00",
-    "endDate": "2024-09-18 15:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Tote Bag Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tote Bag Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2c923eb656b4f2bdd0f928ebf2c6dc941726067290.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tote-bag-workshop-bengaluru-et51510/details",
-        "price": 1199,
-        "currency": "INR",
-        "validFrom": "2024-09-11 20:47:43",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tote-bag-workshop-bengaluru-et51510",
-    "id": "com.zomato.51510",
     "location": {
       "name": "Small World, 5th Block",
       "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
@@ -5451,50 +5425,6 @@
   {
     "name": "Block Printing",
     "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
-    "startDate": "2024-09-18 14:00:00",
-    "endDate": "2024-09-18 15:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Block Printing Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Block Printing Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51545/details",
-        "price": 1199,
-        "currency": "INR",
-        "validFrom": "2024-09-12 10:19:01",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51545",
-    "id": "com.zomato.51545",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Block Printing",
-    "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
     "startDate": "2024-09-19T14:00:00+05:30",
     "endDate": "2024-09-19T15:00:00+05:30",
     "timezone": "+05:30",
@@ -5671,8 +5601,8 @@
   {
     "name": "Block Printing",
     "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
-    "startDate": "2024-09-24T14:00:00+05:30",
-    "endDate": "2024-09-24T15:00:00+05:30",
+    "startDate": "2024-09-23T14:00:00+05:30",
+    "endDate": "2024-09-23T15:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -5684,10 +5614,10 @@
     ],
     "tickets": [
       {
-        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51551/details",
+        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51550/details",
         "price": 1199,
         "currency": "INR",
-        "validFrom": "2024-09-12 10:31:55",
+        "validFrom": "2024-09-12 10:30:19",
         "availability": "INSTOCK",
         "inventory": 10
       }
@@ -5700,8 +5630,8 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51551",
-    "id": "com.zomato.51551",
+    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51550",
+    "id": "com.zomato.51550",
     "location": {
       "name": "Small World, 5th Block",
       "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
@@ -5715,23 +5645,21 @@
   {
     "name": "Block Printing",
     "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
-    "startDate": "2024-09-26T14:00:00+05:30",
-    "endDate": "2024-09-26T15:00:00+05:30",
+    "startDate": "2024-09-25T14:00:00+05:30",
+    "endDate": "2024-09-25T15:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Block Printing Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Block Printing Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png"
     ],
     "tickets": [
       {
-        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51553/details",
+        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51552/details",
         "price": 1199,
         "currency": "INR",
-        "validFrom": "2024-09-12 10:50:24",
+        "validFrom": "2024-09-12 10:38:21",
         "availability": "INSTOCK",
         "inventory": 10
       }
@@ -5744,8 +5672,8 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51553",
-    "id": "com.zomato.51553",
+    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51552",
+    "id": "com.zomato.51552",
     "location": {
       "name": "Small World, 5th Block",
       "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
@@ -5759,8 +5687,8 @@
   {
     "name": "Block Printing",
     "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
-    "startDate": "2024-09-28T14:00:00+05:30",
-    "endDate": "2024-09-28T15:00:00+05:30",
+    "startDate": "2024-09-27T14:00:00+05:30",
+    "endDate": "2024-09-27T15:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -5772,10 +5700,10 @@
     ],
     "tickets": [
       {
-        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51555/details",
+        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51554/details",
         "price": 1199,
         "currency": "INR",
-        "validFrom": "2024-09-12 10:51:32",
+        "validFrom": "2024-09-12 10:49:08",
         "availability": "INSTOCK",
         "inventory": 10
       }
@@ -5788,8 +5716,8 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51555",
-    "id": "com.zomato.51555",
+    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51554",
+    "id": "com.zomato.51554",
     "location": {
       "name": "Small World, 5th Block",
       "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",

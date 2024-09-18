@@ -1,6 +1,30 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "@id": "64302-1727632800-1727638200@bangaloreinternationalcentre.org",
+    "name": "The Eternal Echo",
+    "startDate": "2024-09-29T18:00:00+05:30",
+    "endDate": "2024-09-29T19:30:00+05:30",
+    "description": "Join us for a evening of musical reverence at\u00a0The Eternal Echo,\u00a0a heartfelt homage to the revered santoor maestro,\u00a0Pt. Shiv Kumar Sharma, whose music has left an indelible mark on the world of classical music. \nIn this special concert, late Pt. Shiv Kumar Sharma\u2019s senior disciple, Pt. Dhananjay Daithankar, along with his son Ninad Daithankar, will come together to honor the legendary artist\u2019s legacy through a santoor duet. Through their performance, they will revisit and share with us the music that they internalised through the teachings of Shiv Kumar Sharma and that which defined his illustrious career, offering an intimate glimpse into the profound artistry and innovative spirit of the maestro. \nAs they traverse the rich tapestry of melodies that Shiv ji crafted, this concert will not only celebrate his contributions to music but also reflect on his influence on generations of musicians and listeners alike. They will be\u00a0accompanied by Shantanu Deshmukh on Tabla. \nSupported by: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/the-eternal-echo/",
+    "keywords": [
+      "Music",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "The Eternal Echo"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-610.jpg"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "64195-1726770600-1726776000@bangaloreinternationalcentre.org",
     "name": "We Are Like This Only",
@@ -160,6 +184,22 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER2.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "64320-1727461800-1727467200@bangaloreinternationalcentre.org",
+    "name": "Innovation and Access",
+    "startDate": "2024-09-27T18:30:00+05:30",
+    "endDate": "2024-09-27T20:00:00+05:30",
+    "description": "Access to affordable, high-quality pharmaceutical products remains a critical challenge worldwide, particularly in the Global South. In this lecture, Prof. William Fisher will explore this pressing global health issue through historical insights, including responses to the COVID-19 pandemic. \nHe will discuss potential initiatives that can foster local pharmaceutical innovation and production without requiring changes to the existing international intellectual property obligations. Through a set of legal and economic suggestions, the talk will explore ways to build sustainable infrastructure for local pharmaceutical industries in the Global South, while also addressing some of the key concerns of both proponents as well as critics of intellectual property rights. A Q&A with the audience will follow. \nTea will be served a at 6pm. \nPresented by: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/innovation-and-access/",
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy-3_POSTERS.jpg"
   },
   {
     "@context": "https://schema.org",
