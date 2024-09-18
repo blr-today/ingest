@@ -11,7 +11,11 @@ SET
   )
 WHERE
   event_json ->> '$.location.name' LIKE '%small world%'
-  OR event_json ->> '$.organizer.name' LIKE '%urban solace%';
+  OR event_json ->> '$.organizer.name' LIKE '%urban solace%' 
+  -- Silly dating events: https://insider.in/free-speed-dating-events-in-bengaluru-sep7-2024/event
+  OR event_json ->> '$.organizer.name' LIKE '%your dream partner%'
+  -- Silly dating events on insider
+  OR event_json ->> '$.organizer.name' LIKE '%vinit kotadiya%';
 
 -- BIC lists their events on Insider, but we have their original calendar
 -- BCC lists their events on Insider, but we have their original calendar
@@ -241,3 +245,37 @@ SET
   )
 WHERE
   event_json LIKE '%dandiya%';
+
+
+-- Low Quality drinking focused events
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+  )
+WHERE
+  event_json ->> '$.description' LIKE '%get sloshed%'
+  OR event_json ->> '$.description' LIKE '%magic mocktails%'
+  OR event_json ->> '$.keywords' LIKE '%tipsy%';
+
+-- Regular Clubbing nights are not noteworthy events
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+  )
+WHERE
+  event_json ->> '$.name' LIKE '%ladies night%'
+  OR event_json ->> '$.keywords' LIKE '%ladies night%'
+  OR event_json ->> '$.description' LIKE '%ladies night%';
+
+-- Stranger Meets are events, but meh https://insider.in/search?q=Thrifty
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+  )
+WHERE url LIKE '%thrifty-x-dosti-yaari%';
