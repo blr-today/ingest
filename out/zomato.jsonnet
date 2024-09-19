@@ -4999,7 +4999,7 @@
         "currency": "INR",
         "validFrom": "2024-09-11 20:28:25",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 18
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et51501/details",
@@ -5279,7 +5279,7 @@
         "currency": "INR",
         "validFrom": "2024-09-14 20:51:15",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 199
       },
       {
         "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-utsav-season-7-bengaluru-et51527/details",
@@ -5943,7 +5943,7 @@
         "currency": "INR",
         "validFrom": "2024-09-16 18:17:54",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/protocol-ft-my-friend-bengaluru-et51629/details",
@@ -5951,7 +5951,7 @@
         "currency": "INR",
         "validFrom": "2024-09-16 18:17:55",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 96
       }
     ],
     "performers": [],
