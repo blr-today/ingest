@@ -23,7 +23,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 422
+               "value": 421
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -32,7 +32,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 484
+               "value": 483
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:00:00+05:30"
@@ -41,7 +41,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1040
+               "value": 1039
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -299,7 +299,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 489
+               "value": 486
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-03T14:00:00+05:30"
@@ -308,7 +308,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 500
+               "value": 499
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-03T14:00:00+05:30"
@@ -317,7 +317,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 498
+               "value": 497
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-03T14:00:00+05:30"
@@ -326,7 +326,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 473
+               "value": 470
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-03T14:00:00+05:30"
@@ -353,7 +353,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 78
+               "value": 73
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-03T14:00:00+05:30"
@@ -362,7 +362,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 97
+               "value": 96
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-03T14:00:00+05:30"
@@ -398,7 +398,17 @@
          "name": "Just BLR"
       },
       "name": "25 & Single",
-      "offers": [ ],
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 30
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-18T16:09:00+05:30"
+         }
+      ],
       "organizer": [
          {
             "name": "Zomato Live",
@@ -407,6 +417,7 @@
          }
       ],
       "performers": [ ],
+      "remainingAttendeeCapacity": 30,
       "startDate": "2024-09-21T18:00:00+05:30",
       "url": "https://www.zomato.com/events/25-single-bengaluru-et46072"
    },
@@ -434,7 +445,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1940
+               "value": 1911
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -443,7 +454,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 993
+               "value": 991
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -452,7 +463,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 487
+               "value": 482
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -461,7 +472,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 486
+               "value": 479
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -470,7 +481,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 246
+               "value": 245
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -488,7 +499,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 249
+               "value": 245
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -506,7 +517,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 97
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -682,7 +693,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 31
+               "value": 17
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T22:00:00+05:30"
@@ -691,7 +702,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 37
+               "value": 29
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-10T10:30:00+05:30"
@@ -700,7 +711,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 11
+               "value": 4
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T22:00:00+05:30"
@@ -718,7 +729,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 44
+               "value": 42
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T22:00:00+05:30"
@@ -745,7 +756,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 39
+               "value": 37
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T22:00:00+05:30"
@@ -922,7 +933,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 274
+               "value": 272
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T09:00:00+05:30"
@@ -1035,7 +1046,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 76
+               "value": 73
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-14T15:35:00+05:30"
@@ -1049,7 +1060,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 76,
+      "remainingAttendeeCapacity": 73,
       "startDate": "2024-09-22T19:30:00+05:30",
       "url": "https://www.zomato.com/events/sajanka-live-at-sunburn-union-bengaluru-et48600"
    },
@@ -1144,7 +1155,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 277
+               "value": 269
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-30T15:50:00+05:30"
@@ -1153,7 +1164,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 974
+               "value": 947
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-30T15:50:00+05:30"
@@ -1162,7 +1173,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 188
+               "value": 177
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T22:00:00+05:30"
@@ -1171,7 +1182,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 80
+               "value": 77
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-30T15:50:00+05:30"
@@ -1439,7 +1450,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 223
+               "value": 221
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-30T13:31:00+05:30"
@@ -1804,7 +1815,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 53
+               "value": 49
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T14:04:00+05:30"
@@ -1818,7 +1829,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 53,
+      "remainingAttendeeCapacity": 49,
       "startDate": "2024-09-19T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50531"
    },
@@ -1846,7 +1857,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 69
+               "value": 60
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T14:04:00+05:30"
@@ -1860,7 +1871,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 69,
+      "remainingAttendeeCapacity": 60,
       "startDate": "2024-09-20T20:30:00+05:30",
       "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50532"
    },
@@ -1988,7 +1999,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 70
+               "value": 64
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T15:20:00+05:30"
@@ -2056,7 +2067,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 182
+               "value": 181
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T15:22:00+05:30"
@@ -2636,7 +2647,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 18
+               "value": 17
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-12T11:13:00+05:30"
@@ -3185,7 +3196,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 195
+               "value": 192
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-06T10:10:00+05:30"
@@ -3199,7 +3210,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 195,
+      "remainingAttendeeCapacity": 192,
       "startDate": "2024-09-21T17:00:00+05:30",
       "url": "https://www.zomato.com/events/glow-after-dark-dj-night-bengaluru-et51252"
    },
@@ -3227,7 +3238,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 181
+               "value": 174
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-09T17:22:00+05:30"
@@ -4172,7 +4183,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1000
+               "value": 999
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-11T18:50:00+05:30"
@@ -4190,7 +4201,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1000
+               "value": 999
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-11T18:50:00+05:30"
@@ -4551,7 +4562,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 10
+               "value": 7
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-11T20:03:00+05:30"
@@ -4565,7 +4576,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 10,
+      "remainingAttendeeCapacity": 7,
       "startDate": "2024-09-22T14:00:00+05:30",
       "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51492"
    },
@@ -5799,7 +5810,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 267
+               "value": 216
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-13T18:40:00+05:30"
@@ -5813,7 +5824,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 267,
+      "remainingAttendeeCapacity": 216,
       "startDate": "2024-09-21T16:30:00+05:30",
       "url": "https://www.zomato.com/events/we-jam-bengaluru-et51611"
    },

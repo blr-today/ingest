@@ -74,7 +74,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 cover charge applicable at the gates from venue.\n",
-            "inventoryLevel": 993,
+            "inventoryLevel": 991,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/khwaabon-ke-rang-tour-garvit-priyansh-bangalore"
          },
@@ -82,7 +82,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry for 2 pax.\nAdditional INR 500 per person cover charge applicable at the gates from venue.",
-            "inventoryLevel": 996,
+            "inventoryLevel": 995,
             "name": "Phase 1 Buddy Ticket",
             "url": "https://www.skillboxes.com/events/ticket/khwaabon-ke-rang-tour-garvit-priyansh-bangalore"
          },
@@ -133,7 +133,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 Cover Charges Per Person Applicable At The Gates.\n",
-            "inventoryLevel": 414,
+            "inventoryLevel": 405,
             "name": "Phase 2 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-india-tour-bangalore"
          },
@@ -192,7 +192,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges apply after 8:30 pm.\n",
-            "inventoryLevel": 7,
+            "inventoryLevel": 1,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/fantasy-dj-set-by-lush-lata-dhiraaj-ravy"
          },
@@ -845,6 +845,47 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Kayan Vision India Tour x LiveBox | Bangalore | 29th September\r\n\r\n29-Sep-2024",
+      "endDate": "2024-09-29T23:59:00",
+      "identifier": "com.skillboxes.15774",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c0lGYzlCZU9aNVlnNnBWd2hYQkFrQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/172659010769Z1DOfZ4urxWzhp.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9451657",
+            "longitude": "77.62013519999999"
+         },
+         "name": "Sunburn Union"
+      },
+      "name": "Kayan Vision India Tour x LiveBox | Bangalore | 29th September",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 40,
+            "name": "Pre-sales Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/kayan-vision-india-tour-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 150,
+            "name": "Regular Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/kayan-vision-india-tour-bangalore"
+         }
+      ],
+      "startDate": "2024-09-29T20:00:00",
+      "url": "https://www.skillboxes.com/events/kayan-vision-india-tour-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "🎤 Mic Drop at Starbucks every saturday 🌟 Join us for an evening of songs, poetry, and standup comedy. Whether you're a perfo",
       "endDate": "2024-09-21T19:00:00",
       "identifier": "com.skillboxes.15765",
@@ -967,7 +1008,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable throughout the show\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 99,
             "name": "RSVP Male Pass",
             "url": "https://www.skillboxes.com/events/ticket/sankofa-ft-felipe-gus-euphoric-mind-1"
          }
@@ -1002,7 +1043,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Please arrive by 5:45 pm to secure your seat. Gates close at 6:15pm sharp. No parking available, please use public transport.\nVenue has mostly floor seating, with some chairs. As this is a house concert venue, we request that footwear be removed at the entrance. It tends to get cold, so do bring something warm. There is also one very friendly large dog at this venue.",
-            "inventoryLevel": 48,
+            "inventoryLevel": 41,
             "name": "The Shubham Roy Collective",
             "url": "https://www.skillboxes.com/events/ticket/the-shubham-roy-collective"
          }
@@ -1345,15 +1386,7 @@
          "name": "Mollys Rooftop Bar and Lounge"
       },
       "name": "CHICK FLICKS - LADIES NIGHT",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 50,
-            "name": "CHICK FLICKS",
-            "url": "https://www.skillboxes.com/events/ticket/chick-flicks-ladies-night-2"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-09-18T19:00:00",
       "url": "https://www.skillboxes.com/events/chick-flicks-ladies-night-2"
    },
@@ -1421,7 +1454,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 20,
+            "inventoryLevel": 19,
             "name": "Audience",
             "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-15"
          },
@@ -1561,16 +1594,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge INR 500/- Per Individual Applicable At Gates.\n",
-            "inventoryLevel": 4,
-            "name": "Early Bird Ticket",
+            "inventoryLevel": 1000,
+            "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/oaf-presents-black-letters-supported-by-sahana-sakre"
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
+            "availability": "SoldOut",
             "description": "Additional Redeemable Cover Charge INR 500/- Per Individual Applicable At Gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Regular Ticket",
+            "inventoryLevel": 0,
+            "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/oaf-presents-black-letters-supported-by-sahana-sakre"
          }
       ],
@@ -1603,7 +1636,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 100,
+            "inventoryLevel": 96,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/arcade-140-level-27-ft-deep-tempo-uk-hedz-b2b-savethefvce-big-trouble-ira-bb"
          },
@@ -1875,7 +1908,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable Post 21:00 PM\n",
-            "inventoryLevel": 192,
+            "inventoryLevel": 188,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/urban-rumble-1"
          },
@@ -1894,18 +1927,23 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "INCOMING 🇮🇳 Swedish DJ/Producer ‘ Diorange’ behind the chart-topping anthem \"Ali Ali\" with A R Rahman & Nooran",
-      "endDate": "2024-09-28T01:00:00",
+      "description": "INCOMING 🇮🇳 Swedish DJ/Producer ‘ Diorange’ behind the chart-topping anthem \"Ali Ali\" with A R Rahman & Nooran Sisters",
+      "endDate": "2024-10-05T23:59:00",
       "identifier": "com.skillboxes.15587",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cEphbG5hMy9pZEN0TG1YVWFGUjZtUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1725795939HvR9SWWvt4YJQoGO.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17266663318la6HE3U90lcw7yR.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"
       ],
       "location": {
          "@type": "Place",
-         "address": null,
-         "name": "To Be Decided"
+         "address": "968, 3rd & 4th Floor, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9699636",
+            "longitude": "77.6391935"
+         },
+         "name": "Secret Story Bar & Kitchen"
       },
       "name": "Offline x Nightvibe presents Diorange in Bangalore",
       "offers": [
@@ -1918,7 +1956,7 @@
             "url": "https://www.skillboxes.com/events/ticket/offline-x-nightvibe-presents-diorange-in-bangalore"
          }
       ],
-      "startDate": "2024-09-27T21:00:00",
+      "startDate": "2024-10-05T20:00:00",
       "url": "https://www.skillboxes.com/events/offline-x-nightvibe-presents-diorange-in-bangalore"
    },
    {
@@ -1948,7 +1986,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Free Entry All Night Long - ONLY VIA RSVP\nFirst come first serve basis",
-            "inventoryLevel": 374,
+            "inventoryLevel": 362,
             "name": "Alòlist",
             "url": "https://www.skillboxes.com/events/ticket/sly-granny-house-party-series-alomagic"
          }
@@ -1960,7 +1998,7 @@
       "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "A rising star, Sannidhya brings a fresh perspective to Assamese music with his youthful energy and innovative approach, resonating well with the young",
-      "endDate": "2024-09-22T23:59:00",
+      "endDate": "2024-09-29T23:59:00",
       "identifier": "com.skillboxes.15571",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1725705564gfCfgyKlzs21hT5r.jpg.webp",
       "isAccessibleForFree": false,
@@ -1994,7 +2032,7 @@
             "url": "https://www.skillboxes.com/events/ticket/sannidhya-bhuyan-live-in-assamese-live-show"
          }
       ],
-      "startDate": "2024-09-22T21:00:00",
+      "startDate": "2024-09-29T21:00:00",
       "url": "https://www.skillboxes.com/events/sannidhya-bhuyan-live-in-assamese-live-show"
    },
    {
@@ -2023,7 +2061,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 158,
+            "inventoryLevel": 148,
             "name": "Regular Tickets",
             "url": "https://www.skillboxes.com/events/ticket/dindun-tour-with-alva-kuuto"
          }
@@ -2289,17 +2327,17 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "This ticket will allow one person at Kora Social\nThis ticket is applicable for 22nd September 2024",
-            "inventoryLevel": 2,
-            "name": "Early Bird Ticket | 22nd September",
+            "description": "This ticket will allow one person at Indiranagar Social\nThis ticket is applicable for 28th September 2024",
+            "inventoryLevel": 6,
+            "name": "Early Bird Ticket | 28th September",
             "url": "https://www.skillboxes.com/events/ticket/bass-camp-2024-bangalore"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "This ticket will allow one person at Indiranagar Social\nThis ticket is applicable for 28th September 2024",
-            "inventoryLevel": 7,
-            "name": "Early Bird Ticket | 28th September",
+            "description": "This ticket will allow one person at Kora Social\nThis ticket is applicable for 22nd September 2024",
+            "inventoryLevel": 17,
+            "name": "Phase 1 Ticket | 22nd September",
             "url": "https://www.skillboxes.com/events/ticket/bass-camp-2024-bangalore"
          },
          {
@@ -2312,10 +2350,10 @@
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
+            "availability": "SoldOut",
             "description": "This ticket will allow one person at Kora Social\nThis ticket is applicable for 22nd September 2024",
-            "inventoryLevel": 20,
-            "name": "Phase 1 Ticket | 22nd September",
+            "inventoryLevel": 0,
+            "name": "Early Bird Ticket | 22nd September",
             "url": "https://www.skillboxes.com/events/ticket/bass-camp-2024-bangalore"
          },
          {
@@ -2402,7 +2440,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 371,
+            "inventoryLevel": 360,
             "name": "Phase 3 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/k-wave-festival-2024-bangalore"
          },
@@ -2410,7 +2448,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Dedicated Entry\nClosest to the stage",
-            "inventoryLevel": 218,
+            "inventoryLevel": 212,
             "name": "Phase 3 VIP Ticket",
             "url": "https://www.skillboxes.com/events/ticket/k-wave-festival-2024-bangalore"
          },
@@ -2532,21 +2570,42 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 903,
+            "inventoryLevel": 999,
+            "name": "Closer to the Event - General Entry (Entry Only)",
+            "url": "https://www.skillboxes.com/events/ticket/The-Kitty-Ko-Royale-Ft-Usha-Uthup-Rani-Kohenur-Bangalore-Edition"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Closer to the Event - VIP (Entry Only)",
+            "url": "https://www.skillboxes.com/events/ticket/The-Kitty-Ko-Royale-Ft-Usha-Uthup-Rani-Kohenur-Bangalore-Edition"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Closer to the Event - Seated (Entry Only)",
+            "url": "https://www.skillboxes.com/events/ticket/The-Kitty-Ko-Royale-Ft-Usha-Uthup-Rani-Kohenur-Bangalore-Edition"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 883,
             "name": "Early Bird General Entry (Entry Only)",
             "url": "https://www.skillboxes.com/events/ticket/The-Kitty-Ko-Royale-Ft-Usha-Uthup-Rani-Kohenur-Bangalore-Edition"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 944,
+            "inventoryLevel": 935,
             "name": "Early Bird VIP (Entry Only)",
             "url": "https://www.skillboxes.com/events/ticket/The-Kitty-Ko-Royale-Ft-Usha-Uthup-Rani-Kohenur-Bangalore-Edition"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 933,
+            "inventoryLevel": 926,
             "name": "Early Bird Seated (Entry Only)",
             "url": "https://www.skillboxes.com/events/ticket/The-Kitty-Ko-Royale-Ft-Usha-Uthup-Rani-Kohenur-Bangalore-Edition"
          }
@@ -2720,16 +2779,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 21+ [Carry valid hard copy id or digi locker]\nAdditional Redeemable Cover Charge INR 500/- Applicable At Gates.",
-            "inventoryLevel": 13,
-            "name": "Phase 1 Ticket",
+            "inventoryLevel": 88,
+            "name": "Phase 2 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-moon-drops-india-tour-24-bangalore"
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
+            "availability": "SoldOut",
             "description": "For Age(s) 21+ [Carry valid hard copy id or digi locker]\nAdditional Redeemable Cover Charge INR 500/- Applicable At Gates.",
-            "inventoryLevel": 100,
-            "name": "Phase 2 Ticket",
+            "inventoryLevel": 0,
+            "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-moon-drops-india-tour-24-bangalore"
          }
       ],
@@ -2763,7 +2822,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "> Allows entry to one person only > No cover charge applicable at the venue. Entry strictly to ticket holders only. > Limited tickets available* > Club Rules Apply*\nKindly Note: Open/Closed cigarettes will not be allowed",
-            "inventoryLevel": 43,
+            "inventoryLevel": 37,
             "name": "VIP PHASE 2 [ NO COVERCHARGE ]",
             "url": "https://www.skillboxes.com/events/ticket/sajanka-sunburnunion"
          },
@@ -2984,7 +3043,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Students (Any College/Institute) must carry a valid ID card - No Re-Entry - Allows one individual to the event area - Venue rules applicable\n",
-            "inventoryLevel": 3839,
+            "inventoryLevel": 3838,
             "name": "Phase 1 : Student Pass",
             "url": "https://www.skillboxes.com/events/ticket/lunaland-the-carnival-of-dreams-awaits"
          },
@@ -3143,8 +3202,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 14,
-            "name": "Phase 2 - GA Ticket",
+            "inventoryLevel": 200,
+            "name": "Phase 3 - GA Ticket",
             "url": "https://www.skillboxes.com/events/ticket/american-pride-presents-the-yellow-diary-kahe-kahe-india-tour-bangalore"
          },
          {
@@ -3158,7 +3217,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket will allow 2 people in general access area.\n",
-            "inventoryLevel": 112,
+            "inventoryLevel": 102,
             "name": "GA || Group Ticket - 2 Pax",
             "url": "https://www.skillboxes.com/events/ticket/american-pride-presents-the-yellow-diary-kahe-kahe-india-tour-bangalore"
          },
@@ -3166,7 +3225,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket will allow 2 people in vip area.\n",
-            "inventoryLevel": 156,
+            "inventoryLevel": 155,
             "name": "VIP || Group Ticket - 2 Pax",
             "url": "https://www.skillboxes.com/events/ticket/american-pride-presents-the-yellow-diary-kahe-kahe-india-tour-bangalore"
          },
@@ -3174,7 +3233,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket will allow 4 people in general access area.\n",
-            "inventoryLevel": 187,
+            "inventoryLevel": 186,
             "name": "GA || Group Ticket - 4 Pax",
             "url": "https://www.skillboxes.com/events/ticket/american-pride-presents-the-yellow-diary-kahe-kahe-india-tour-bangalore"
          },
@@ -3212,6 +3271,13 @@
             "availability": "SoldOut",
             "inventoryLevel": 0,
             "name": "Phase 1 - VIP Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/american-pride-presents-the-yellow-diary-kahe-kahe-india-tour-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "Phase 2 - GA Ticket",
             "url": "https://www.skillboxes.com/events/ticket/american-pride-presents-the-yellow-diary-kahe-kahe-india-tour-bangalore"
          },
          {
