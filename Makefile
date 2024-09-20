@@ -26,10 +26,10 @@ out/te.jsonnet:
 	curl_chrome116 --silent --insecure 'https://api.total-environment.com/api/v1.0/getEvents.json' -X POST -H 'content-type: application/json' -H 'Authorization: Bearer $(TOTAL_ENVIRONMENT_API_TOKEN)' --data-raw '{"flag":"upcoming"}' --output $@
 
 out/te.json: out/te.jsonnet
-	python src/jsonnet.py out/te.jsonnet
+	python src/jsonnet.py out/te.jsonnet || $(call restore-file,$@)
 
 out/skillboxes.jsonnet:
-	python src/skillboxes.py 9
+	python src/skillboxes.py 9 || $(call restore-file,$@)
 
 out/skillboxes.json: out/skillboxes.jsonnet
 	python src/jsonnet.py out/skillboxes.jsonnet || $(call restore-file,$@)

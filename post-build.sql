@@ -56,7 +56,8 @@ WHERE
   (
     event_json ->> '$.organizer.name' LIKE 'Sheena - Banjara%' OR
     -- https://together.buzz/host/j-n-tulika-hdj, Yoga Retreats
-    event_json ->> '$.performer.name' LIKE '%J N TULIKA%'
+    event_json ->> '$.performer.name' LIKE '%J N TULIKA%' OR
+    url LIKE '%weekend-getaway%'
   );
 
 -- Woo-Woo https://rationalwiki.org/wiki/Woo
@@ -289,3 +290,79 @@ UPDATE events SET
     json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
   )
 WHERE url LIKE '%thrifty-x-dosti-yaari%';
+
+-- Tag location as HSR
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'HSR')
+  )
+WHERE event_json LIKE '%HSR%';
+
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'KORAMANGALA')
+  )
+WHERE event_json LIKE '%koramangala%';
+
+-- We combine Domlur and Indiranagar
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'INDIRANAGAR')
+  )
+WHERE event_json LIKE '%domlur%' or event_json LIKE '%indiranagar%';
+
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'JAYANGAR')
+  )
+WHERE event_json LIKE '%domlur%' or event_json LIKE '%jayangar%';
+
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'JPNAGAR')
+  )
+WHERE event_json->>'$.location' LIKE '%jp nagar%' OR event_json->>'$.location' LIKE '%j p nagar%';
+
+-- Merge Brookefield with whitefield for now
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'WHITEFIELD')
+  )
+WHERE event_json->>'$.location' LIKE '%whitefield%' OR event_json->>'$.location' LIKE '%brookefield%';
+
+
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'JAKKUR')
+  )
+WHERE event_json->>'$.location' LIKE '%jakkur%';
+
+-- CBD
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'CBD')
+  )
+WHERE (
+  event_json->>'$.location' LIKE '%mg road%' OR
+  event_json->>'$.location' LIKE '%churchstreet%' OR
+  event_json->>'$.location' LIKE '%church street%' OR
+  event_json->>'$.location' LIKE '%church st%'
+  );
+
+

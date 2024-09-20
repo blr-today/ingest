@@ -40,19 +40,30 @@ def get_event_details(session, slug):
         json=payload,
         headers=headers,
     ).json()['data']
-    details['tickets'] = session.post(
-        "https://www.skillboxes.com/servers/v3/api/event-new/event-tickets",
-        json=payload,
-        headers=headers,
-    ).json()['data']
-    return details
+
+    try:
+        details['tickets'] = session.post(
+            "https://www.skillboxes.com/servers/v3/api/event-new/event-tickets",
+            json=payload,
+            headers=headers,
+        ).json()['data']
+        return details
+    except Exception as e:
+        if "more than 100 headers" in str(e):
+            print(e.response)
+            print(f"Skipping {slug} due to too many headers, likely 500 error")
+            return None
+        else:
+            raise e
 
 
 def __main__(city):
     session = Fetch(cache={"serializer": "json"})
     events = []
     for slug in get_events(city):
-        events.append(get_event_details(session, slug))
+        details = get_event_details(session, slug)
+        if details:
+            events.append(details)
 
     with open("out/skillboxes.jsonnet", "w") as f:
         json.dump(events, f, indent=2)
