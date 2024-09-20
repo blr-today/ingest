@@ -23,7 +23,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 421
+               "value": 418
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -32,7 +32,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 483
+               "value": 475
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:00:00+05:30"
@@ -41,7 +41,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1039
+               "value": 1038
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -272,7 +272,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 99
+               "value": 96
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-13T15:43:00+05:30"
@@ -290,7 +290,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 489
+               "value": 488
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-03T14:00:00+05:30"
@@ -299,7 +299,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 486
+               "value": 485
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-03T14:00:00+05:30"
@@ -317,24 +317,6 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 497
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-03T14:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 470
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-07-03T14:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
                "value": 495
             },
             "priceCurrency": "INR",
@@ -344,7 +326,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 98
+               "value": 464
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-03T14:00:00+05:30"
@@ -353,7 +335,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 73
+               "value": 490
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-03T14:00:00+05:30"
@@ -363,6 +345,24 @@
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
                "value": 96
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-03T14:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 61
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-03T14:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 95
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-03T14:00:00+05:30"
@@ -403,7 +403,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 30
+               "value": 26
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-18T16:09:00+05:30"
@@ -417,9 +417,122 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 30,
+      "remainingAttendeeCapacity": 26,
       "startDate": "2024-09-21T18:00:00+05:30",
       "url": "https://www.zomato.com/events/25-single-bengaluru-et46072"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready to experience the International rock legend's live concert as part of his 6 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the ‘So Happy It Hurts’ World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.",
+      "endDate": "2024-12-14T22:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/83de6f0099b6724e504be070d99793291724313846.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 13.174348999999999,
+            "longitude": 77.597595999999996
+         },
+         "name": "Terraform"
+      },
+      "name": "Bryan Adams - So Happy It Hurts Tour 2024",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 182
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-18T17:36:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 136
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-09T05:00:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-07T11:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 69
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-07T11:00:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-07T17:00:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-02T17:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 155
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-07T11:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 231
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-07T17:00:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-07T18:00:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-12-14T19:00:00+05:30",
+      "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352"
    },
    {
       "@context": "https://schema.org",
@@ -445,7 +558,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1911
+               "value": 1824
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -454,7 +567,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 991
+               "value": 982
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -463,7 +576,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 482
+               "value": 468
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -472,7 +585,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 479
+               "value": 458
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -481,7 +594,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 245
+               "value": 244
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -490,7 +603,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 498
+               "value": 495
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -499,7 +612,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 245
+               "value": 242
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -508,7 +621,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 195
+               "value": 188
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -517,7 +630,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 97
+               "value": 94
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-16T12:06:00+05:30"
@@ -693,7 +806,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 17
+               "value": 6
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T22:00:00+05:30"
@@ -702,7 +815,16 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 29
+               "value": 98
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-30T22:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 18
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-10T10:30:00+05:30"
@@ -729,7 +851,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 42
+               "value": 39
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T22:00:00+05:30"
@@ -738,7 +860,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 6
+               "value": 5
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-29T15:00:00+05:30"
@@ -756,7 +878,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 37
+               "value": 35
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-30T22:00:00+05:30"
@@ -812,6 +934,56 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Asal Kolaar aka Asal Kolar is an Indian film Singer/Lyricst, who has worked predominantly in the Tamil movie industry. Asal has worked in popular movies like Coffee With Kadhal and Gulu Gulu. Asal`s previous film to hit the theatres was Coffee With Kadhal in the year 2022.\r\n\r\nAsal Kolaar is one of the contestants in Bigg Boss Tamil season 6, hosted by Kamal Haasan which airs on Vijay Television.\r\n\r\nOver 10 million people have viewed “Jorthaale,” a Tamil independent music track offered by the Chennai-based label Atti Culture. On social media, the song almost surpassed 10 million views and 481k likes. The positive song, which was published in August of last year, quickly\r\ngained popularity on social media. Tamil independent musicians Asal Kolaar (Vasantkumar P) and OfRo, who is well-known for their undertaking known as the Casteless Collective, later wrote the song “Jorthaale.",
+      "endDate": "2024-10-07T01:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/596b7e3e2fff50324e1d8cefdb4d7ffc1722423888.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.915133900000001,
+            "longitude": 77.6660495
+         },
+         "name": "WL Superclub"
+      },
+      "name": "Asal Kolar Live",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-31T16:35:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 22
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-07-31T16:35:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-10-06T20:00:00+05:30",
+      "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Step into the world of cutting-edge Malayalam rap as two powerhouse artists, Baby Jean and Vedan, ignite the stage at White Lotus Club on September 7th.",
       "endDate": "2024-09-22T00:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -842,7 +1014,43 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 29
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-27T14:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 9
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T16:08:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T16:08:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-27T14:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 21
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-27T14:28:00+05:30"
@@ -933,7 +1141,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 272
+               "value": 257
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T09:00:00+05:30"
@@ -942,7 +1150,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 192
+               "value": 189
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T09:00:00+05:30"
@@ -951,7 +1159,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 13
+               "value": 12
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-01T09:00:00+05:30"
@@ -1046,7 +1254,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 73
+               "value": 68
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-14T15:35:00+05:30"
@@ -1060,7 +1268,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 73,
+      "remainingAttendeeCapacity": 68,
       "startDate": "2024-09-22T19:30:00+05:30",
       "url": "https://www.zomato.com/events/sajanka-live-at-sunburn-union-bengaluru-et48600"
    },
@@ -1155,25 +1363,25 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 269
+               "value": 281
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-08-30T15:50:00+05:30"
+            "validFrom": "2024-09-19T18:10:00+05:30"
          },
          {
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 947
+               "value": 1070
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-08-30T15:50:00+05:30"
+            "validFrom": "2024-09-19T18:11:00+05:30"
          },
          {
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 177
+               "value": 126
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T22:00:00+05:30"
@@ -1182,7 +1390,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 77
+               "value": 65
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-30T15:50:00+05:30"
@@ -1200,7 +1408,25 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
+               "value": 258
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-30T15:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
                "value": 111
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-30T15:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 935
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-30T15:50:00+05:30"
@@ -1424,7 +1650,7 @@
       "endDate": "2024-10-20T23:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/e5b52f0513b651fe621b8fd10baee7da1725347328.png",
+      "image": "https://b.zmtcdn.com/data/zomaland/ee21f98eabde2eb08285312b748a22fb1726849393.jpeg",
       "isAccessibleForFree": false,
       "location": {
          "address": "1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru, Karnataka 560046",
@@ -1441,7 +1667,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 199
+               "value": 198
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-30T13:31:00+05:30"
@@ -1488,48 +1714,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Dimensions, a band that performs in various genres, was formed by rock renegades from Bangalore. With nearly 40 years of live music experience between the members of the band, the band`s primary focus is to re-create and offer the best live musical experiences to its audiences.\nBe there to see them live at your favourite Hard Rock Cafe Bengaluru.",
-      "endDate": "2024-09-19T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/77f7a506946b0bf3b1936dfa6d184f071724997785.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.975953240000001,
-            "longitude": 77.601618579999993
-         },
-         "name": "Hard Rock Cafe"
-      },
-      "name": "Golden Era of Rock N Roll",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 30
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-30T11:49:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 30,
-      "startDate": "2024-09-19T20:30:00+05:30",
-      "url": "https://www.zomato.com/events/golden-era-of-rock-n-roll-bengaluru-et50286"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Tribute nights are back, paying tribute to Michael Jackson, brought to you by the versatile and powerful RETRONOME, who is killing it with the perfect playlist to pair with your perfect drink this Saturday night!\nRetronome is well-known for its distinctive music, which is best described by its no-nonsense covers combined with some amazing retro tunes.\nDon`t miss out on these Rockstar`s musical antics only at Hard Rock Cafe, Bengaluru.",
       "endDate": "2024-09-21T23:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -1551,7 +1735,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 25
+               "value": 23
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-30T12:27:00+05:30"
@@ -1565,7 +1749,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 25,
+      "remainingAttendeeCapacity": 23,
       "startDate": "2024-09-21T21:00:00+05:30",
       "url": "https://www.zomato.com/events/tribute-to-michael-jackson-bengaluru-et50291"
    },
@@ -1593,7 +1777,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 14
+               "value": 1
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-30T12:30:00+05:30"
@@ -1607,7 +1791,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 14,
+      "remainingAttendeeCapacity": 1,
       "startDate": "2024-09-22T13:00:00+05:30",
       "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et50292"
    },
@@ -1652,6 +1836,48 @@
       "remainingAttendeeCapacity": 0,
       "startDate": "2024-09-22T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50293"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
+      "endDate": "2024-09-25T23:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/1e4ef7bde841d75f9d8fa3f16d71ac461725001767.jpeg",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.975953240000001,
+            "longitude": 77.601618579999993
+         },
+         "name": "Hard Rock Cafe"
+      },
+      "name": "Karaoke Nights",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 12
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-30T12:41:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 12,
+      "startDate": "2024-09-25T20:30:00+05:30",
+      "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50298"
    },
    {
       "@context": "https://schema.org",
@@ -1794,90 +2020,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-      "endDate": "2024-09-19T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/423b8366eec77af78e8d207c6814cac81725264358.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.98717896,
-            "longitude": 77.736480200000003
-         },
-         "name": "Hard Rock Cafe"
-      },
-      "name": "Karaoke Nights",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 49
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-02T14:04:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 49,
-      "startDate": "2024-09-19T20:30:00+05:30",
-      "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50531"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Catch Sharpnel performing live your favourite tracks at Hard Rock Cafe, Whitefield, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-      "endDate": "2024-09-20T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/b1135af1518649b4d04e6142dd2f812f1725264621.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.98717896,
-            "longitude": 77.736480200000003
-         },
-         "name": "Hard Rock Cafe"
-      },
-      "name": "Unplugged Duo's",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 60
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-02T14:04:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 60,
-      "startDate": "2024-09-20T20:30:00+05:30",
-      "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50532"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Embark on a captivating journey as Hard Rock Cafe is celebrating Sonu Nigam songs night with extremely talented South Side Nirvana.\nPrepare to be swept away by the soul-stirring melodies, perfectly complemented by the enchanting ambiance of this unique venue.\nDelight your senses with a delectable array of culinary delights, including mouthwatering bites, best cocktails, and a great bar fare with best beverages in the menu.Join us for an evening of pure bliss, delectable treats, and a serene atmosphere promises an unforgettable experience.",
       "endDate": "2024-09-21T23:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -1999,7 +2141,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 64
+               "value": 51
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T15:20:00+05:30"
@@ -2008,7 +2150,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 33
+               "value": 32
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T15:20:00+05:30"
@@ -2058,7 +2200,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 194
+               "value": 193
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T15:22:00+05:30"
@@ -2067,7 +2209,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 181
+               "value": 173
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T15:22:00+05:30"
@@ -2638,7 +2780,25 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 6
+               "value": 99
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T14:02:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 95
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T14:02:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-12T11:13:00+05:30"
@@ -2647,28 +2807,10 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 17
+               "value": 9
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-12T11:13:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 25
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-03T17:38:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 23
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-03T17:38:00+05:30"
          }
       ],
       "organizer": [
@@ -2681,48 +2823,6 @@
       "performers": [ ],
       "startDate": "2024-09-21T19:00:00+05:30",
       "url": "https://www.zomato.com/events/rahil-mehta-bengaluru-et50840"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air. Starting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Chan and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-      "endDate": "2024-09-20T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/106a48a5306f69f8d52e61d2baff4c081725375825.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.975953240000001,
-            "longitude": 77.601618579999993
-         },
-         "name": "Hard Rock Cafe"
-      },
-      "name": "Bootleg Fridays",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 100
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-03T21:18:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 100,
-      "startDate": "2024-09-20T20:30:00+05:30",
-      "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et50870"
    },
    {
       "@context": "https://schema.org",
@@ -2923,48 +3023,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "\"I am going to live every day as if it's the last day of my life.\" - About Time\n\nPrepare for an extraordinary evening under the stars as Sunset Cinema Club invites you to the screening of this heartwarming and time-bending film. Join us for a cinematic journey that explores love, laughter, and the magic found in the most ordinary moments at Garden City Beer Collective (GCBC). \n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favourite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
-      "endDate": "2024-09-20T22:30:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/c28269023d38d3a5988a3d3c05efe8151725447103.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "Garden City Beer Collective (GCBC),82/2, Gantiganahalli",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 13.14365198,
-            "longitude": 77.584411729999999
-         },
-         "name": "Garden City Beer Collective (GCBC)"
-      },
-      "name": "SCC Picnic Cinema - About Time",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 8
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-04T19:00:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 8,
-      "startDate": "2024-09-20T19:30:00+05:30",
-      "url": "https://www.zomato.com/events/scc-picnic-cinema-about-time-bengaluru-et51057"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "\"Seize the day, my friend. Pehle is din ko poori tarah jiyo, phir chalis ke bare mein sochna.\" - Zindagi Na Milegi Dobara\n\nPrepare to embark on a cinematic adventure like never before as Sunset Cinema Club presents the screening of this classic at Garden City Beer Collective (GCBC). Get ready to indulge your senses and immerse yourself in the magic of the silver screen under the open sky.\n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favourite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
       "endDate": "2024-09-27T22:30:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -3045,48 +3103,6 @@
       "remainingAttendeeCapacity": 10,
       "startDate": "2024-09-21T19:30:00+05:30",
       "url": "https://www.zomato.com/events/scc-skycinema-25-years-of-notting-hill-bengaluru-et51063"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "\"Marry me. Because I'd like to date you.\" - The Proposal\n\nSunset Cinema Club invites you to immerse yourself in a heartwarming love story that will leave you smiling. Get ready for plenty of laughs and an unforgettable night of cinematic joy in Chapter 6.\n\nSit back and relax on comfy bean bags and bask in the romance and nostalgia as you enjoy your favorite classics or discover new hidden gems. \n\nMovies and food make a great combination, so drinks and snacks, at reasonable prices, will be flowing from the moment the gates open.  \n\nEnjoy a super chill vibe in the lovely outdoors, as the sun dissolves and the stars appear just in time for the film to begin!",
-      "endDate": "2024-09-20T22:30:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/f7b3515510e510ae14f5b2d0b5af1a931725447593.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.935313560000001,
-            "longitude": 77.621356379999995
-         },
-         "name": "Chapter 6"
-      },
-      "name": "SCC SkyCinema - The Proposal",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 10
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-04T19:00:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 10,
-      "startDate": "2024-09-20T19:30:00+05:30",
-      "url": "https://www.zomato.com/events/scc-skycinema-the-proposal-bengaluru-et51077"
    },
    {
       "@context": "https://schema.org",
@@ -3196,7 +3212,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 192
+               "value": 174
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-06T10:10:00+05:30"
@@ -3210,7 +3226,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 192,
+      "remainingAttendeeCapacity": 174,
       "startDate": "2024-09-21T17:00:00+05:30",
       "url": "https://www.zomato.com/events/glow-after-dark-dj-night-bengaluru-et51252"
    },
@@ -3238,7 +3254,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 174
+               "value": 171
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-09T17:22:00+05:30"
@@ -3265,7 +3281,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 97
+               "value": 96
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-09T17:22:00+05:30"
@@ -3434,7 +3450,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 10
+               "value": 8
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-11T09:01:00+05:30"
@@ -3448,7 +3464,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 10,
+      "remainingAttendeeCapacity": 8,
       "startDate": "2024-09-20T21:30:00+05:30",
       "url": "https://www.zomato.com/events/coorg-weekend-getaway-bengaluru-et51371"
    },
@@ -3750,74 +3766,6 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Welcome to the 'Single's Meetup a unique meetup designed specifically for singles who are eager to connect, share, and celebrate the solo journey. In the hustle of everyday life, finding a space to openly discuss the experiences, challenges, and triumphs of being single is rare. That's where we come in. \nThis isn't your typical singles event with the pressure of finding the one.\" Instead, it's an evening dedicated to the art of living single, where you can share stories, laugh about dating disasters, and discuss the personal growth and freedom that comes with this phase of life.",
-      "endDate": "2024-09-20T20:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/c99d72e1cd2ae961305ff0a65075408c1726043818.png",
-      "isAccessibleForFree": true,
-      "location": {
-         "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.934246630000001,
-            "longitude": 77.617676110000005
-         },
-         "name": "Small World, 5th Block"
-      },
-      "name": "Single's Meetup",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 20
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-11T14:50:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 5
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-11T14:50:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 10
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-11T14:50:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 17
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-11T14:50:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-09-20T19:00:00+05:30",
-      "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51399"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Welcome to the 'Single's Meetup a unique meetup designed specifically for singles who are eager to connect, share, and celebrate the solo journey. In the hustle of everyday life, finding a space to openly discuss the experiences, challenges, and triumphs of being single is rare. That's where we come in. \nThis isn't your typical singles event with the pressure of finding the one.\" Instead, it's an evening dedicated to the art of living single, where you can share stories, laugh about dating disasters, and discuss the personal growth and freedom that comes with this phase of life.",
       "endDate": "2024-09-22T16:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
@@ -3865,7 +3813,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 20
+               "value": 19
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-11T14:50:00+05:30"
@@ -4020,48 +3968,6 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Dive into the weekend with DJ Zerixton's electrifying sets every Friday at Escape By Brewklyn Bangalore. Experience a night where groovy tunes meet urban vibes, perfect for dancing or chilling with friends.",
-      "endDate": "2024-09-20T23:30:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/d14259d3c940186c96635b5eec476c621726049900.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 13.04059157,
-            "longitude": 77.619122050000001
-         },
-         "name": "Escape by Brewklyn"
-      },
-      "name": "Groovy Fridays w/ DJ Zerixton",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 50
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-11T15:53:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 50,
-      "startDate": "2024-09-20T20:00:00+05:30",
-      "url": "https://www.zomato.com/events/groovy-fridays-w-dj-zerixton-bengaluru-et51442"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Dive into the weekend with DJ Zerixton's electrifying sets every Friday at Escape By Brewklyn Bangalore. Experience a night where groovy tunes meet urban vibes, perfect for dancing or chilling with friends.",
       "endDate": "2024-09-27T23:30:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
@@ -4099,65 +4005,6 @@
       "remainingAttendeeCapacity": 50,
       "startDate": "2024-09-27T20:00:00+05:30",
       "url": "https://www.zomato.com/events/groovy-fridays-w-dj-zerixton-bengaluru-et51443"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Learn the Art of Garba: Experience the joy of Garba as you learn the graceful steps and intricate moves of this lively dance form. Our expert instructors will guide you through the techniques and help you perfect your Garba style.\nOne-on-One Coaching: If you're new to Garba, don't worry! We offer one-on-one coaching to ensure that everyone feels comfortable and confident on the dance floor.\nTraditional Attire: Embrace the spirit of Garba by dressing in vibrant, traditional attire. Feel free to wear your favourite chaniya choli or kurta and embrace the festive ambience.\nGroup Practice: Put your newly acquired Garba skills to the test as you join the entire group for a lively and energetic dance session.\nRefreshments: Recharge with light snacks and beverages available during the event to keep your energy levels up.",
-      "endDate": "2024-09-20T21:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/b89aaafbd4fc07579b8280dc58b080261726049829.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.934246630000001,
-            "longitude": 77.617676110000005
-         },
-         "name": "Small World, 5th Block"
-      },
-      "name": "Garba Night",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 1000
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-11T18:49:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 1000
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-11T18:49:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 1000
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-11T18:49:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-09-20T20:00:00+05:30",
-      "url": "https://www.zomato.com/events/garba-night-bengaluru-et51447"
    },
    {
       "@context": "https://schema.org",
@@ -4458,48 +4305,6 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-      "endDate": "2024-09-19T15:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1726064257.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.934246630000001,
-            "longitude": 77.617676110000005
-         },
-         "name": "Small World, 5th Block"
-      },
-      "name": "Resin Art Workshop",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 10
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-11T19:59:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 10,
-      "startDate": "2024-09-19T14:00:00+05:30",
-      "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51489"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
       "endDate": "2024-09-21T15:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
@@ -4621,6 +4426,48 @@
       "remainingAttendeeCapacity": 10,
       "startDate": "2024-09-23T14:00:00+05:30",
       "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51493"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
+      "endDate": "2024-09-24T15:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1726064434.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.934246630000001,
+            "longitude": 77.617676110000005
+         },
+         "name": "Small World, 5th Block"
+      },
+      "name": "Resin Art Workshop",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-11T20:06:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 10,
+      "startDate": "2024-09-24T14:00:00+05:30",
+      "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51494"
    },
    {
       "@context": "https://schema.org",
@@ -4898,7 +4745,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 18
+               "value": 15
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-11T20:28:00+05:30"
@@ -4927,31 +4774,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Join us for an engaging and artistic Tote Bag Painting Workshop at Small World. This workshop is the perfect opportunity to express your creativity and design your own unique, eco-friendly tote bag. Whether you`re an experienced artist or a complete beginner, our workshop offers a delightful experience for everyone.",
-      "endDate": "2024-09-19T15:00:00+05:30",
+      "description": "Your very own event returns, bringing the vibrant essence of Navratri to Bangalore, blending tradition with the city’s unmatched vibe of glamour and culture! We are back with the best dandiya experience, adding an extra touch of luxury and excitement to the celebration.\nGet ready for the mesmerizing echo of dandiya beats, delectable food, and exhilarating dance! Hosted in the iconic Lalit Ashok Hotel, the venue promises to immerse you in the most authentic Navratri ambience.\n\nComplimentary Dandiya Sticks\n6 Hours of Non-Stop Garba/Bollywood/Punjabi music\nIndia's top DJs will set the stage on fire\nLive Dhol and Garba dancers to guide you\nFood and beverage stalls throughout the venue\nSpectacular decorations tailored for the grand occasion\nProfessional photographers capture every moment\nChildren-friendly environment\nSpecial Surprises & Giveaways await you!",
+      "endDate": "2024-10-06T01:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/2c923eb656b4f2bdd0f928ebf2c6dc941726067290.png",
+      "image": "https://b.zmtcdn.com/data/zomaland/d9b3dfa042f0b5f3a2e1e1cb589c68c21726078214.jpeg",
       "isAccessibleForFree": false,
       "location": {
-         "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+         "address": "Kumarakrupa Rd, opposite Golf Club, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 12.934246630000001,
-            "longitude": 77.617676110000005
+            "latitude": 12.99270725,
+            "longitude": 77.582650099999995
          },
-         "name": "Small World, 5th Block"
+         "name": "The Lalit Ashok, Bengaluru"
       },
-      "name": "Tote Bag Workshop",
+      "name": "Great Indian Dandiya Festival",
       "offers": [
          {
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 10
+               "value": 4000
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-09-11T20:48:00+05:30"
+            "validFrom": "2024-09-11T23:42:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 4000
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-14T20:27:00+05:30"
          }
       ],
       "organizer": [
@@ -4962,9 +4818,8 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 10,
-      "startDate": "2024-09-19T14:00:00+05:30",
-      "url": "https://www.zomato.com/events/tote-bag-workshop-bengaluru-et51511"
+      "startDate": "2024-10-04T19:00:00+05:30",
+      "url": "https://www.zomato.com/events/great-indian-dandiya-festival-bengaluru-et51515"
    },
    {
       "@context": "https://schema.org",
@@ -4999,7 +4854,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 199
+               "value": 198
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-14T20:51:00+05:30"
@@ -5143,7 +4998,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 197
+               "value": 196
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-14T20:51:00+05:30"
@@ -5152,7 +5007,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 200
+               "value": 199
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-14T20:51:00+05:30"
@@ -5362,90 +5217,6 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
-      "endDate": "2024-09-19T15:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.934246630000001,
-            "longitude": 77.617676110000005
-         },
-         "name": "Small World, 5th Block"
-      },
-      "name": "Block Printing",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 10
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-12T10:20:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 10,
-      "startDate": "2024-09-19T14:00:00+05:30",
-      "url": "https://www.zomato.com/events/block-printing-bengaluru-et51546"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
-      "endDate": "2024-09-20T15:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.934246630000001,
-            "longitude": 77.617676110000005
-         },
-         "name": "Small World, 5th Block"
-      },
-      "name": "Block Printing",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 10
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-12T10:24:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 10,
-      "startDate": "2024-09-20T14:00:00+05:30",
-      "url": "https://www.zomato.com/events/block-printing-bengaluru-et51547"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
       "endDate": "2024-09-21T15:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
@@ -5614,7 +5385,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
-      "endDate": "2024-09-26T15:00:00+05:30",
+      "endDate": "2024-09-25T15:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png",
@@ -5637,7 +5408,7 @@
                "value": 10
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-09-12T10:50:00+05:30"
+            "validFrom": "2024-09-12T10:38:00+05:30"
          }
       ],
       "organizer": [
@@ -5649,14 +5420,14 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 10,
-      "startDate": "2024-09-26T14:00:00+05:30",
-      "url": "https://www.zomato.com/events/block-printing-bengaluru-et51553"
+      "startDate": "2024-09-25T14:00:00+05:30",
+      "url": "https://www.zomato.com/events/block-printing-bengaluru-et51552"
    },
    {
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
-      "endDate": "2024-09-28T15:00:00+05:30",
+      "endDate": "2024-09-29T15:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png",
@@ -5679,7 +5450,7 @@
                "value": 10
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-09-12T10:51:00+05:30"
+            "validFrom": "2024-09-12T10:52:00+05:30"
          }
       ],
       "organizer": [
@@ -5691,8 +5462,8 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 10,
-      "startDate": "2024-09-28T14:00:00+05:30",
-      "url": "https://www.zomato.com/events/block-printing-bengaluru-et51555"
+      "startDate": "2024-09-29T14:00:00+05:30",
+      "url": "https://www.zomato.com/events/block-printing-bengaluru-et51556"
    },
    {
       "@context": "https://schema.org",
@@ -5810,7 +5581,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 216
+               "value": 9
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-13T18:40:00+05:30"
@@ -5824,9 +5595,95 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 216,
+      "remainingAttendeeCapacity": 9,
       "startDate": "2024-09-21T16:30:00+05:30",
       "url": "https://www.zomato.com/events/we-jam-bengaluru-et51611"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "A rising star, Sannidhya brings a fresh perspective to Assamese music with his youthful energy and innovative approach, resonating well with the younger audience.\n\nSannidhya Bhuyan (born on 8 November 1999) is a singer-songwriter composer from Assam. He first made his debut in 2018 with his R&B track “Borokha” feat. Tonmoy Krypton, which was the first ever R&B track in the Assamese language, there’s always had a blend of Indian classical music and R&B element!",
+      "endDate": "2024-09-29T23:30:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/831be2c49338b368930d589bbd3df7751726481398.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.915133900000001,
+            "longitude": 77.6660495
+         },
+         "name": "White lotus Superclub"
+      },
+      "name": "Sannidhya Live in Bangalore",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-16T18:17:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 300
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-16T18:17:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T16:03:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T16:03:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T16:07:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 2
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T16:03:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-09-29T19:00:00+05:30",
+      "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628"
    },
    {
       "@context": "https://schema.org",
@@ -5881,22 +5738,72 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Experience the magic of Sufi Night - Zaffar-Ki-Mehfil, where soulful melodies create an unforgettable evening. let the music captivate your soul!\n\n🎷Ft. Shah Zafar\n🗓️20th September, Friday\n🕗9pm onwards\n📍Radio Bar, RMZ Ecoworld, Bellandur",
-      "endDate": "2024-09-20T23:50:00+05:30",
+      "description": "\"Paws and cheers! Join us for Hyderabad's Pupper Party at The Brown Table 🐾🎉\"\nInclusions: \nExciting games & gifts for your pets\nfree pet food buffet\nbasic health check-up\na goodie bag for all attendeesNo charges for pets!\n\nOngroud tickets will be priced at 700/- per person",
+      "endDate": "2024-10-06T15:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/fb0ee861293a13343c154768d6a818f41726497151.jpeg",
+      "image": "https://b.zmtcdn.com/data/zomaland/254952555bf739bed1c0969848fb2d701726484677.png",
       "isAccessibleForFree": false,
       "location": {
-         "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+         "address": "238, Dr CV Raman Road, RMV extension, Sadashiva Nagar, Bengaluru, Karnataka 560080",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": 12.9208664,
-            "longitude": 77.6859185
+            "latitude": 13.0159082,
+            "longitude": 77.574321929999996
          },
-         "name": "Radio Bar, RMZ Ecoworld"
+         "name": "The Brown Table, Sadashiva Nagar"
       },
-      "name": "Sufi Night - Zaffar ki Mehfil | Radio Bar",
+      "name": "Bengaluru Pre Party to Pet Fed",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 96
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-16T16:51:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 35
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-16T17:01:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-10-06T12:00:00+05:30",
+      "url": "https://www.zomato.com/events/bengaluru-pre-party-to-pet-fed-bengaluru-et51632"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Join our Sip & Paint Party! We’ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it’s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. 🎨🍽️🥂",
+      "endDate": "2024-09-21T18:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/d41d84a9cb3c5a3b7a56904a4372cf671726733293.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560103",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.93753285,
+            "longitude": 77.612345180000005
+         },
+         "name": "Paint The Town Restaurant"
+      },
+      "name": "Beach Hat",
       "offers": [
          {
             "availability": "InStock",
@@ -5905,7 +5812,7 @@
                "value": 50
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-09-16T20:16:00+05:30"
+            "validFrom": "2024-09-19T13:45:00+05:30"
          }
       ],
       "organizer": [
@@ -5917,7 +5824,935 @@
       ],
       "performers": [ ],
       "remainingAttendeeCapacity": 50,
-      "startDate": "2024-09-20T21:00:00+05:30",
-      "url": "https://www.zomato.com/events/sufi-night-zaffar-ki-mehfil-radio-bar-bengaluru-et51643"
+      "startDate": "2024-09-21T16:00:00+05:30",
+      "url": "https://www.zomato.com/events/beach-hat-bengaluru-et51706"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Join our Sip & Paint Party! We’ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it’s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. 🎨🍽️🥂",
+      "endDate": "2024-09-22T15:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/9e837a4673fcd5deec674f3db0ab5b1a1726733465.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560103",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.93753285,
+            "longitude": 77.612345180000005
+         },
+         "name": "Paint The Town Restaurant"
+      },
+      "name": "I'd Give You The Moon",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-19T13:47:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 50,
+      "startDate": "2024-09-22T13:00:00+05:30",
+      "url": "https://www.zomato.com/events/id-give-you-the-moon-bengaluru-et51707"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Join our Sip & Paint Party! We’ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it’s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. 🎨🍽️🥂",
+      "endDate": "2024-09-28T18:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/c388bab8d8d73ac7f0ec5a7d206e2b3b1726733526.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560103",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.93753285,
+            "longitude": 77.612345180000005
+         },
+         "name": "Paint The Town Restaurant"
+      },
+      "name": "Whispers of the Spring",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-19T13:48:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 50,
+      "startDate": "2024-09-28T16:00:00+05:30",
+      "url": "https://www.zomato.com/events/whispers-of-the-spring-bengaluru-et51708"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Join our Sip & Paint Party! We’ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it’s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. 🎨🍽️🥂",
+      "endDate": "2024-09-28T15:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/d9b0d44fbb275e931e028df7a69aa5991726733624.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560103",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.93753285,
+            "longitude": 77.612345180000005
+         },
+         "name": "Paint The Town Restaurant"
+      },
+      "name": "Goldengate Bridge",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-19T13:50:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 50,
+      "startDate": "2024-09-28T13:00:00+05:30",
+      "url": "https://www.zomato.com/events/goldengate-bridge-bengaluru-et51709"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Have you ever dreamed of painting alongside the most adorable companions imaginable? Now's your chance! Don't miss out on the event of the month: Painting with Puppies! It's not just a workshop; it's an unforgettable experience that will touch your heart and ignite your creativity like never before.\nImagine yourself surrounded by cuddly, adoptable puppies, their wagging tails and playful energy inspiring every brushstroke. But it's not just about painting; it's about making a difference. With each ticket purchased, you're supporting animal welfare initiatives, spreading love and compassion to those who need it most.\nIndulge in unlimited snuggles, laughter, and pure joy as you create your masterpiece alongside your furry friends. This isn't just another workshop—it's a chance to create memories that will last a lifetime while giving back to the community.",
+      "endDate": "2024-10-05T12:30:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/984bbbd5bb519e10c8cd6ffb0cb19d761726814439.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "#36, 3rd floor, 14th Main Rd, Sector 7, HSR Layout, Bengaluru, Karnataka 560102",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.912638473107,
+            "longitude": 77.639864248205996
+         },
+         "name": "Oyster, Bar & Kitchen"
+      },
+      "name": "Paint with Puppies by Pawasana",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 7
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T12:16:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 20
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T12:16:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-10-05T10:30:00+05:30",
+      "url": "https://www.zomato.com/events/paint-with-puppies-by-pawasana-bengaluru-et51722"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Celebrity DJ: Dance your heart out to electrifying beats spun by our superstar DJ! \nFeel the vibe with live music and an energy keeping the night alive! \nNavratri Special Food Menu: Savor a delicious variety of cuisines from our bustling food Menu.\nBe captivated by mesmerizing live performances all night long\nPercussion Ensemble: Get into the rhythm with our talented percussion ensemble! ✨EMCEE: A charismatic host to keep the energy high.\nBollywood & Garba Dance: Groove to the latest Bollywood Punjabi and Garba hits with dynamic dance performances! \n🎉 Grand Celebrations: 11 days of Non-Stop vibrant dandiya dancing and festive fun.\n📸 Themed Photo Booths: Capture magical moments with enchanting backdrops.\nRainproof Setup - Come rain or shine, the party goes on!\n\nGrab your Tickets now and join us for an unforgettable celebration! Hurry Up!",
+      "endDate": "2024-10-12T23:59:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/8d358e69e3aea1c986d482a7c12bbc291726848950.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "44/1-3, Tumkur Rd, opp. Vaishnavi Sapphire, APMC Yard, Yeshwanthpur Industrial Suburb, Yeswanthpur, Bengaluru, Karnataka 560022",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 13.02511097,
+            "longitude": 77.546995300000006
+         },
+         "name": "Hotel Leroy Grand"
+      },
+      "name": "Bengaluru Dandiya Mahotsava Season 6",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-20T22:28:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-10-03T18:00:00+05:30",
+      "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741"
    }
 ]
