@@ -1359,111 +1359,6 @@
     }
   },
   {
-    "name": "Indira Paganotto Tour",
-    "description": "NOBO Experience invites you to experience Indira Paganotto in Bangalore, a city where innovation and tradition coexist in harmony. Known as India\u2019s tech hub, Bangalore\u2019s forward-thinking vibe is mirrored in Indira\u2019s cutting-edge sets, which seamlessly blend her deep musical roots with the latest in underground techno. Just as the city is known for its lush green spaces and buzzing nightlife, Indira\u2019s performance will be a refreshing, high-energy journey that keeps you moving all night. Don\u2019t miss this unique fusion of sounds and styles\u2014get your tickets today.",
-    "startDate": "2024-09-20 18:00:00",
-    "endDate": "2024-09-21 00:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Indira Paganotto Tour Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Indira Paganotto Tour Bengaluru on Zomato which is a Music and Trending event happening at passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/6e9cfb03875ff8a44688371c0ac2762f1725258824.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/25b607428c0dc5f2bca875315658fe761725259406.png",
-      "https://b.zmtcdn.com/data/zomaland/dc704c1b5ad5c3313d03aaab445db5341725261239.png",
-      "https://b.zmtcdn.com/data/zomaland/20a0a85cb9d5a7089079792aa3c4cbb81725261280.png",
-      "https://b.zmtcdn.com/data/zomaland/45b793a384354ae1c782d43a6936379a1725261301.png",
-      "https://b.zmtcdn.com/data/zomaland/e63c3502ba5b04dce4658b8e255c7a091725614899.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
-        "price": 1399,
-        "currency": "INR",
-        "validFrom": "2024-09-19 18:10:31",
-        "availability": "INSTOCK",
-        "inventory": 281
-      },
-      {
-        "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-09-19 18:11:36",
-        "availability": "INSTOCK",
-        "inventory": 1070
-      },
-      {
-        "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
-        "price": 2999,
-        "currency": "INR",
-        "validFrom": "2024-08-26 22:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 126
-      },
-      {
-        "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
-        "price": 4999,
-        "currency": "INR",
-        "validFrom": "2024-08-30 15:50:44",
-        "availability": "INSTOCK",
-        "inventory": 65
-      },
-      {
-        "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-08-30 15:50:00",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
-        "price": 899,
-        "currency": "INR",
-        "validFrom": "2024-08-30 15:50:00",
-        "availability": "INSTOCK",
-        "inventory": 258
-      },
-      {
-        "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-08-30 15:50:00",
-        "availability": "INSTOCK",
-        "inventory": 111
-      },
-      {
-        "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-08-30 15:50:00",
-        "availability": "INSTOCK",
-        "inventory": 935
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514",
-    "id": "com.zomato.49514",
-    "location": {
-      "name": "Sunburn Union",
-      "address": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.94516421,
-        "longitude": 77.62013658
-      }
-    }
-  },
-  {
     "name": "RED FM presents Dandiya Night",
     "description": "Dandiya Night during the occasion of Navrathri by RED FM with RJ Priya and DJ Julius Sharma",
     "startDate": "2024-10-12T19:00:00+05:30",
@@ -5503,6 +5398,50 @@
     ],
     "url": "https://www.zomato.com/events/block-printing-bengaluru-et51552",
     "id": "com.zomato.51552",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Block Printing",
+    "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
+    "startDate": "2024-09-28T14:00:00+05:30",
+    "endDate": "2024-09-28T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Block Printing Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Block Printing Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51555/details",
+        "price": 1199,
+        "currency": "INR",
+        "validFrom": "2024-09-12 10:51:32",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51555",
+    "id": "com.zomato.51555",
     "location": {
       "name": "Small World, 5th Block",
       "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",

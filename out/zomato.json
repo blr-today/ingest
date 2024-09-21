@@ -1342,110 +1342,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "NOBO Experience invites you to experience Indira Paganotto in Bangalore, a city where innovation and tradition coexist in harmony. Known as India’s tech hub, Bangalore’s forward-thinking vibe is mirrored in Indira’s cutting-edge sets, which seamlessly blend her deep musical roots with the latest in underground techno. Just as the city is known for its lush green spaces and buzzing nightlife, Indira’s performance will be a refreshing, high-energy journey that keeps you moving all night. Don’t miss this unique fusion of sounds and styles—get your tickets today.",
-      "endDate": "2024-09-21T00:30:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/6e9cfb03875ff8a44688371c0ac2762f1725258824.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.94516421,
-            "longitude": 77.620136579999993
-         },
-         "name": "Sunburn Union"
-      },
-      "name": "Indira Paganotto Tour",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 281
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-19T18:10:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 1070
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-19T18:11:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 126
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-26T22:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 65
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-30T15:50:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 50
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-30T15:50:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 258
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-30T15:50:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 111
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-30T15:50:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 935
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-30T15:50:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-09-20T18:00:00+05:30",
-      "url": "https://www.zomato.com/events/indira-paganotto-ft-nobo-experience-bengaluru-et49514"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Dandiya Night during the occasion of Navrathri by RED FM with RJ Priya and DJ Julius Sharma",
       "endDate": "2024-10-12T23:30:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -5422,6 +5318,48 @@
       "remainingAttendeeCapacity": 10,
       "startDate": "2024-09-25T14:00:00+05:30",
       "url": "https://www.zomato.com/events/block-printing-bengaluru-et51552"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
+      "endDate": "2024-09-28T15:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.934246630000001,
+            "longitude": 77.617676110000005
+         },
+         "name": "Small World, 5th Block"
+      },
+      "name": "Block Printing",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 10
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-12T10:51:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 10,
+      "startDate": "2024-09-28T14:00:00+05:30",
+      "url": "https://www.zomato.com/events/block-printing-bengaluru-et51555"
    },
    {
       "@context": "https://schema.org",
