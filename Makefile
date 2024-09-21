@@ -5,7 +5,6 @@ START_TS := $(shell date +"%Y-%m-%d")
 END_TS := $(shell date +"%Y-%m-%d" --date="1 month")
 
 TOTAL_ENVIRONMENT_API_TOKEN := $(shell curl_chrome116 --silent --insecure 'https://api.total-environment.com/api/v1.0/token.json' | jq -r '.data.token')
-TPCC_CALENDAR_WIDGET_ID := da2c7ec1-91d2-4b82-a97b-43803ad416a2
 
 define restore-file
 	(echo "FAIL $1" && git checkout -- $1 && echo "RESTORED $1")
@@ -158,7 +157,8 @@ out/pumarun.txt:
 
 # we just do a minimal transform to remove extra bits we don't need
 out/tpcc.jsonnet:
-	curl_chrome116 --silent "https://core.service.elfsight.com/p/boot/?page=https%3A%2F%2Ftpcc.club%2F&w=$(TPCC_CALENDAR_WIDGET_ID)" | jq '.data.widgets["$(TPCC_CALENDAR_WIDGET_ID)"].data.settings | {events: .events | map(select(.start.date > (now|strftime("%Y-%m-%d")))), locations: (.locations | map({id: .id, name: .name, address:.address})), eventTypes: (.eventTypes|map({id:.id, name:.name}))}' > $@ || $(call restore-file,$@)
+	curl_chrome116 --silent 'https://x2qnegor.apicdn.sanity.io/v2024-09-06/data/query/production?query=*%5B_type+%3D%3D+%22event%22%5D%7B%0A++++++++_id%2C%0A++++++++title%2C%0A++++++++date%2C%0A++++++++online_date%2C%0A++++++++director%2C%0A++++++++note%2C%0A++++++++%22theme%22%3A+theme-%3Etheme%2C%0A++++++++%22poster%22%3A+poster.asset-%3Eurl%2C%0A++++++++%22city%22%3A+city-%3E%7Bcity%2C+color%7D%2C%0A++++++++%22location%22%3A+location-%3E%7Bname%2C+url%7D%2C%0A++++++++rsvpLink%0A++++++%7D&returnQuery=false' | jq \
+		'[.result[]|select(.online_date==null) | {id:._id, image:.poster, location:.location, link:.rsvpLink, date:.date, theme:.theme, city:.city.city, title:.title, director: .director} |select(.city=="Bangalore") | select(.date> (now|strftime("%Y-%m-%d")))]' > $@ || $(call restore-file,$@)
 
 out/tpcc.json: out/tpcc.jsonnet
 	python src/jsonnet.py out/tpcc.jsonnet || $(call restore-file,$@)
