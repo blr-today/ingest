@@ -931,58 +931,6 @@
     }
   },
   {
-    "name": "Asal Kolar Live",
-    "description": "Asal Kolaar aka Asal Kolar is an Indian film Singer/Lyricst, who has worked predominantly in the Tamil movie industry. Asal has worked in popular movies like Coffee With Kadhal and Gulu Gulu. Asal`s previous film to hit the theatres was Coffee With Kadhal in the year 2022.\r\n\r\nAsal Kolaar is one of the contestants in Bigg Boss Tamil season 6, hosted by Kamal Haasan which airs on Vijay Television.\r\n\r\nOver 10 million people have viewed \u201cJorthaale,\u201d a Tamil independent music track offered by the Chennai-based label Atti Culture. On social media, the song almost surpassed 10 million views and 481k likes. The positive song, which was published in August of last year, quickly\r\ngained popularity on social media. Tamil independent musicians Asal Kolaar (Vasantkumar P) and OfRo, who is well-known for their undertaking known as the Casteless Collective, later wrote the song \u201cJorthaale.",
-    "startDate": "2024-10-06T20:00:00+05:30",
-    "endDate": "2024-10-07T01:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Asal Kolar Live Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Asal Kolar Live Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/596b7e3e2fff50324e1d8cefdb4d7ffc1722423888.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030/details",
-        "price": 399,
-        "currency": "INR",
-        "validFrom": "2024-07-31 16:35:00",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-07-31 16:35:00",
-        "availability": "INSTOCK",
-        "inventory": 22
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030",
-    "id": "com.zomato.47030",
-    "location": {
-      "name": "WL Superclub",
-      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9151339,
-        "longitude": 77.6660495
-      }
-    }
-  },
-  {
     "name": "Vedan BabyJean Live Avesham 2.0",
     "description": "Step into the world of cutting-edge Malayalam rap as two powerhouse artists, Baby Jean and Vedan, ignite the stage at White Lotus Club on September 7th.",
     "startDate": "2024-09-21T18:00:00+05:30",
@@ -2302,50 +2250,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93424663,
         "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Dance Like a Bollywood Star",
-    "description": "Get ready to unleash your inner Bollywood sensation at our `Dance like a Bollywood Star` workshop!\nJoin us for a high-energy, fun-filled session where you`ll learn iconic Bollywood dance moves and grooves. Our talented instructors will guide you through the steps, from classic Bollywood numbers to the latest\nchartbusters. Whether you`re a seasoned dancer or just love to move, this workshop is open to all levels of experience!\nAnd that's not all! After mastering the moves, you`ll have the chance to shine in front of the camera and create your very own Instagram reel. Show off your newfound dance skills and capture the magic of Bollywood on film.\nSo, grab your dancing shoes, bring your enthusiasm, and join us for an unforgettable day of music, dance, and Bollywood glamour. Don't miss your chance to dance like a Bollywood star!",
-    "startDate": "2024-09-21 12:00:00",
-    "endDate": "2024-09-21 13:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Dance Like a Bollywood Star Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Dance Like a Bollywood Star Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4c603b0c4944d98aba1e2644d9c78dbe1725338818.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50702/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:48:45",
-        "availability": "INSTOCK",
-        "inventory": 14
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50702",
-    "id": "com.zomato.50702",
-    "location": {
-      "name": "Small World, S.T. Bed",
-      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93327579,
-        "longitude": 77.63221323
       }
     }
   },
@@ -5455,6 +5359,50 @@
   {
     "name": "Block Printing",
     "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
+    "startDate": "2024-09-27T14:00:00+05:30",
+    "endDate": "2024-09-27T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Block Printing Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Block Printing Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51554/details",
+        "price": 1199,
+        "currency": "INR",
+        "validFrom": "2024-09-12 10:49:08",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51554",
+    "id": "com.zomato.51554",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Block Printing",
+    "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
     "startDate": "2024-09-28T14:00:00+05:30",
     "endDate": "2024-09-28T15:00:00+05:30",
     "timezone": "+05:30",
@@ -5530,50 +5478,6 @@
     ],
     "url": "https://www.zomato.com/events/block-printing-bengaluru-et51556",
     "id": "com.zomato.51556",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Block Printing",
-    "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
-    "startDate": "2024-09-30T14:00:00+05:30",
-    "endDate": "2024-09-30T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Block Printing Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Block Printing Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51557/details",
-        "price": 1199,
-        "currency": "INR",
-        "validFrom": "2024-09-12 10:54:11",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51557",
-    "id": "com.zomato.51557",
     "location": {
       "name": "Small World, 5th Block",
       "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
@@ -5677,6 +5581,90 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93570273,
         "longitude": 77.6138885
+      }
+    }
+  },
+  {
+    "name": "Sannidhya Live in Bangalore",
+    "description": "A rising star, Sannidhya brings a fresh perspective to Assamese music with his youthful energy and innovative approach, resonating well with the younger audience.\n\nSannidhya Bhuyan (born on 8 November 1999) is a singer-songwriter composer from Assam. He first made his debut in 2018 with his R&B track \u201cBorokha\u201d feat. Tonmoy Krypton, which was the first ever R&B track in the Assamese language, there\u2019s always had a blend of Indian classical music and R&B element!",
+    "startDate": "2024-09-29T19:00:00+05:30",
+    "endDate": "2024-09-29T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Sannidhya Live in Bangalore Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sannidhya Live in Bangalore Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/831be2c49338b368930d589bbd3df7751726481398.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-16 18:17:00",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-09-16 18:17:55",
+        "availability": "INSTOCK",
+        "inventory": 300
+      },
+      {
+        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
+        "price": 2000,
+        "currency": "INR",
+        "validFrom": "2024-09-20 16:03:16",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
+        "price": 2500,
+        "currency": "INR",
+        "validFrom": "2024-09-20 16:03:17",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
+        "price": 3500,
+        "currency": "INR",
+        "validFrom": "2024-09-20 16:07:27",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
+        "price": 10000,
+        "currency": "INR",
+        "validFrom": "2024-09-20 16:03:17",
+        "availability": "INSTOCK",
+        "inventory": 2
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628",
+    "id": "com.zomato.51628",
+    "location": {
+      "name": "White lotus Superclub",
+      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9151339,
+        "longitude": 77.6660495
       }
     }
   },
@@ -6009,6 +5997,84 @@
         "@type": "GeoCoordinates",
         "latitude": 12.912638473107,
         "longitude": 77.639864248206
+      }
+    }
+  },
+  {
+    "name": "Pet Fed Bengaluru 2024",
+    "description": "Bengaluru, brace yourselves because Pet Fed is Back and it's bigger, better, and greener than ever! \ud83c\udf89 #PetFedIndiaisBack\n\nThis year, we\u2019re not just celebrating our return\u2014we\u2019re celebrating 10 incredible years of Pet Fed! \ud83e\udd73\n\nJoin us at Jayamahal Palace on 23rd & 24th November 2024 for two days of non-stop love and fun with your fur babies. \ud83d\udc3e\n\nHere\u2019s what we\u2019ve got lined up for you:\n\n- 3 Acres of Festival Bliss\n- Expert-Led Master Classes\n- Exciting Dog & Cat Play Zones\n- International Cat Show\n- Fashion Show\n- Police Dog Show\n- Agility Ring\n- Adoption Camps\n- Tons of Games\n- 150+ Global Pet Stalls\n- Food, Drinks & Unmatched Fun\n\nCome with or without your pet\u2014but don\u2019t miss out on the decade celebration! \ud83c\udf82\n\n#PetFedBengaluru2024",
+    "startDate": "2024-11-23T11:00:00+05:30",
+    "endDate": "2024-11-24T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Pet Fed Bengaluru 2024 Best seller and Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Pet Fed Bengaluru 2024 Bengaluru on Zomato which is a Best seller and Experiences event happening at 1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/e962e0dd5109259cf8c37df458b74ae11726904148.png",
+      "https://b.zmtcdn.com/data/zomaland/2c93c8638d243698aaac4f30920bccca1726904190.png",
+      "https://b.zmtcdn.com/data/zomaland/56d92881a5cf5fb729974ff169050eae1726904202.png",
+      "https://b.zmtcdn.com/data/zomaland/76c599fca915a2684333a9e25b5c4ddb1726904215.png",
+      "https://b.zmtcdn.com/data/zomaland/d68d3408955360070b98883830aac06e1726904215.png",
+      "https://b.zmtcdn.com/data/zomaland/c85d797ce1b33bb700d06c5fcab2c1bf1726904215.png",
+      "https://b.zmtcdn.com/data/zomaland/d6af22155de2dba4e295684d50fb1fc71726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/f6b5fad67109245924a4636947a001231726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/87df7d5ceaee173d475b25bb5f85c2901726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/9b384eb326f86452d51ecfb040b2b3301726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/d3e8293c8923240f227d18aba712a33a1726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/da5a055db5cdaa85008de1660ae7fda51726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/be643f6da8789074dde93a1a4b8f4b171726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/80cfaacbee45e45c920c270cfc805f721726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/4dc820ddc956d056081b2bbf730882e81726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/da0caa12866568e3ebb98d6b7976f8321726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/01155049c92bf52087a1c75a5380cb381726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/a8e27b615a482f32390b6bf4356df2911726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/9bc847764a200b5a1457d004b2b138611726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/1d60ef570e85d3dd1e82b44ffb238bfb1726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/78dbc436bbeac06a7ee2726381b461111726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/9e1b511a36e075f5137f70a21a58d0bf1726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/c59d4f1dff532777a0b8196ebca3d8bd1726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/5187223b2975b38afa3c31528518d3ce1726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/14a8726b9afedc6ee49934c6180612821726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/0e4bffa543fd232ddef4f9655eb21eba1726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/6e6eb20c369fcba4f0b9a3550273f1911726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/9e7816dd6bac6eae5ac4ba987ced24021726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/4e80382d69b57e19490c9197e8b12a3f1726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/3f98a702381179ef42005423c194ee731726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/49d9e09b6076eb91559732c2072399551726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/8fb178eab8dea37814917a24e97d88c91726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/ef78397abefe98377cdcf23e280702021726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/aa8b3c1b41c1394bcb32ff809f07e5031726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/daf7b5171dca6563bbe5b2fa046fbbbd1726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/0b6043775a66b0eaa89015156f51adcb1726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/3e8f56def7983fccfc01451e37173eb41726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/473f010797bc4299376f320d47df69bc1726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/f7cc41da573805a9fb78065d3882b5c21726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/7c95067192779513ff82ffe3346653bf1726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/d8dd53fc5814f22ccb8d5da7a80349f71726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/ba9f5776d4efff6b38006eba9c67e4071726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/6f491a85f73cc801ac632b873443aeb71726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/63dd37c40dabef2b1b8c19d2d2bfd17a1726904330.png"
+    ],
+    "tickets": [],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736",
+    "id": "com.zomato.51736",
+    "location": {
+      "name": "Jayamahal Palace Hotel",
+      "address": "1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.99784934,
+        "longitude": 77.59742123
       }
     }
   },
