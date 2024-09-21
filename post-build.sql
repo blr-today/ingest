@@ -68,11 +68,10 @@ SET
     '$.keywords',
     json_insert(event_json -> '$.keywords', '$[#]', 'WOOWOO')
   )
-WHERE
-  event_json ->> '$.organizer.name' LIKE 'HeyBrewty Wellness%'
-  AND (
+WHERE (
     event_json ->> '$.name' LIKE '%QI Gong%'
     OR event_json ->> '$.name' LIKE '%Sound Immersion%'
+    OR event_json ->> '$.name' LIKE '%sound healing%'
     OR event_json ->> '$.name' LIKE '%Breathwork%'
     OR event_json ->> '$.name' LIKE '%SoundBath%'
     -- By tapping into your true voice, you have the ability to shift your reality
@@ -351,6 +350,14 @@ UPDATE events SET
   )
 WHERE event_json->>'$.location' LIKE '%jakkur%';
 
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'HEBBAL')
+  )
+WHERE event_json->>'$.location' LIKE '%HEBBAL%';
+
 -- CBD
 UPDATE events SET
   event_json = json_replace(
@@ -360,8 +367,12 @@ UPDATE events SET
   )
 WHERE (
   event_json->>'$.location' LIKE '%mg road%' OR
+  event_json->>'$.location' LIKE '%mahatma gandhi road%' OR
+  event_json->>'$.location' LIKE '%jayamahal%' OR
+  event_json->>'$.location' LIKE '%ashok nagar%' OR
   event_json->>'$.location' LIKE '%churchstreet%' OR
   event_json->>'$.location' LIKE '%church street%' OR
+  event_json->>'$.location' LIKE '%cubbon park%' OR
   event_json->>'$.location' LIKE '%church st%'
   );
 
