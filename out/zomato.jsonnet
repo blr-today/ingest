@@ -2308,8 +2308,8 @@
   {
     "name": "Dance Like a Bollywood Star",
     "description": "Get ready to unleash your inner Bollywood sensation at our `Dance like a Bollywood Star` workshop!\nJoin us for a high-energy, fun-filled session where you`ll learn iconic Bollywood dance moves and grooves. Our talented instructors will guide you through the steps, from classic Bollywood numbers to the latest\nchartbusters. Whether you`re a seasoned dancer or just love to move, this workshop is open to all levels of experience!\nAnd that's not all! After mastering the moves, you`ll have the chance to shine in front of the camera and create your very own Instagram reel. Show off your newfound dance skills and capture the magic of Bollywood on film.\nSo, grab your dancing shoes, bring your enthusiasm, and join us for an unforgettable day of music, dance, and Bollywood glamour. Don't miss your chance to dance like a Bollywood star!",
-    "startDate": "2024-09-21T12:00:00+05:30",
-    "endDate": "2024-09-21T13:00:00+05:30",
+    "startDate": "2024-09-21 12:00:00",
+    "endDate": "2024-09-21 13:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -5411,6 +5411,50 @@
   {
     "name": "Block Printing",
     "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
+    "startDate": "2024-09-26T14:00:00+05:30",
+    "endDate": "2024-09-26T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Block Printing Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Block Printing Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51553/details",
+        "price": 1199,
+        "currency": "INR",
+        "validFrom": "2024-09-12 10:50:24",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51553",
+    "id": "com.zomato.51553",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Block Printing",
+    "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
     "startDate": "2024-09-28T14:00:00+05:30",
     "endDate": "2024-09-28T15:00:00+05:30",
     "timezone": "+05:30",
@@ -5633,90 +5677,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93570273,
         "longitude": 77.6138885
-      }
-    }
-  },
-  {
-    "name": "Sannidhya Live in Bangalore",
-    "description": "A rising star, Sannidhya brings a fresh perspective to Assamese music with his youthful energy and innovative approach, resonating well with the younger audience.\n\nSannidhya Bhuyan (born on 8 November 1999) is a singer-songwriter composer from Assam. He first made his debut in 2018 with his R&B track \u201cBorokha\u201d feat. Tonmoy Krypton, which was the first ever R&B track in the Assamese language, there\u2019s always had a blend of Indian classical music and R&B element!",
-    "startDate": "2024-09-29T19:00:00+05:30",
-    "endDate": "2024-09-29T23:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Sannidhya Live in Bangalore Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sannidhya Live in Bangalore Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/831be2c49338b368930d589bbd3df7751726481398.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-16 18:17:00",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-09-16 18:17:55",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
-        "price": 2000,
-        "currency": "INR",
-        "validFrom": "2024-09-20 16:03:16",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
-        "price": 2500,
-        "currency": "INR",
-        "validFrom": "2024-09-20 16:03:17",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
-        "price": 3500,
-        "currency": "INR",
-        "validFrom": "2024-09-20 16:07:27",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
-        "price": 10000,
-        "currency": "INR",
-        "validFrom": "2024-09-20 16:03:17",
-        "availability": "INSTOCK",
-        "inventory": 2
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628",
-    "id": "com.zomato.51628",
-    "location": {
-      "name": "White lotus Superclub",
-      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9151339,
-        "longitude": 77.6660495
       }
     }
   },
