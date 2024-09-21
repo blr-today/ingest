@@ -939,90 +939,6 @@
     }
   },
   {
-    "name": "Vedan BabyJean Live Avesham 2.0",
-    "description": "Step into the world of cutting-edge Malayalam rap as two powerhouse artists, Baby Jean and Vedan, ignite the stage at White Lotus Club on September 7th.",
-    "startDate": "2024-09-21 18:00:00",
-    "endDate": "2024-09-22 00:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Vedan BabyJean Live Avesham 2.0 Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Vedan BabyJean Live Avesham 2.0 Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/8f86cce3ef51a67cce9d3f34030d29eb1722424471.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-08-27 14:28:00",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038/details",
-        "price": 799,
-        "currency": "INR",
-        "validFrom": "2024-08-27 14:28:00",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038/details",
-        "price": 2500,
-        "currency": "INR",
-        "validFrom": "2024-09-20 16:08:17",
-        "availability": "INSTOCK",
-        "inventory": 9
-      },
-      {
-        "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038/details",
-        "price": 3500,
-        "currency": "INR",
-        "validFrom": "2024-09-20 16:08:47",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038/details",
-        "price": 550,
-        "currency": "INR",
-        "validFrom": "2024-08-27 14:28:00",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038/details",
-        "price": 650,
-        "currency": "INR",
-        "validFrom": "2024-08-27 14:28:00",
-        "availability": "INSTOCK",
-        "inventory": 21
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/vedan-babyjean-live-avesham-20-bengaluru-et47038",
-    "id": "com.zomato.47038",
-    "location": {
-      "name": "WL Superclub",
-      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9151339,
-        "longitude": 77.6660495
-      }
-    }
-  },
-  {
     "name": "Chandan Shetty Live",
     "description": "Chandan Shetty, also known as \"Kannada Rapper Chandan Shetty\" is an Indian film score and soundtrack composer, lyricist, and singer who mainly composes music in the Kannada language. He started his career as a lyricist and assistant music director with the movie Alemari, under music director Arjun Janya. Then he worked for Varadanayaka, Power, Chakravyuha, and Bhajarangi.",
     "startDate": "2024-11-24T20:00:00+05:30",
@@ -1578,50 +1494,6 @@
     }
   },
   {
-    "name": "Tribute to Michael Jackson",
-    "description": "Tribute nights are back, paying tribute to Michael Jackson, brought to you by the versatile and powerful RETRONOME, who is killing it with the perfect playlist to pair with your perfect drink this Saturday night!\nRetronome is well-known for its distinctive music, which is best described by its no-nonsense covers combined with some amazing retro tunes.\nDon`t miss out on these Rockstar`s musical antics only at Hard Rock Cafe, Bengaluru.",
-    "startDate": "2024-09-21T21:00:00+05:30",
-    "endDate": "2024-09-21T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Michael Jackson Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Michael Jackson Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/41c265ebb254107d4651707d94517f6b1726197395.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-michael-jackson-bengaluru-et50291/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-08-30 12:27:25",
-        "availability": "INSTOCK",
-        "inventory": 23
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-michael-jackson-bengaluru-et50291",
-    "id": "com.zomato.50291",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Sunny Tunes",
     "description": "Make some noise and have fun, since the music gets two times better when the band lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Fingerchips and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
     "startDate": "2024-09-22T13:00:00+05:30",
@@ -1984,56 +1856,6 @@
     ],
     "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398",
     "id": "com.zomato.50398"
-  },
-  {
-    "name": "Tribute to Sonu Nigam",
-    "description": "Embark on a captivating journey as Hard Rock Cafe is celebrating Sonu Nigam songs night with extremely talented South Side Nirvana.\nPrepare to be swept away by the soul-stirring melodies, perfectly complemented by the enchanting ambiance of this unique venue.\nDelight your senses with a delectable array of culinary delights, including mouthwatering bites, best cocktails, and a great bar fare with best beverages in the menu.Join us for an evening of pure bliss, delectable treats, and a serene atmosphere promises an unforgettable experience.",
-    "startDate": "2024-09-21T21:00:00+05:30",
-    "endDate": "2024-09-21T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/335bfafac76dab9729a2d8d281f6a1fd1725265665.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-sonu-nigam-bengaluru-et50533/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-09-02 14:04:40",
-        "availability": "INSTOCK",
-        "inventory": 30
-      },
-      {
-        "url": "https://www.zomato.com/events/tribute-to-sonu-nigam-bengaluru-et50533/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-09-02 14:04:40",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-sonu-nigam-bengaluru-et50533",
-    "id": "com.zomato.50533",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
   },
   {
     "name": "Karaoke Nights",
@@ -2568,66 +2390,6 @@
   {
     "name": "Salsa Dance",
     "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
-    "startDate": "2024-09-21 20:00:00",
-    "endDate": "2024-09-21 21:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/98a13be4119fb1df87ecbe8ff0c1f2ed1725340941.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50757/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:10",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50757/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:10",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50757/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:11",
-        "availability": "INSTOCK",
-        "inventory": 9
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50757",
-    "id": "com.zomato.50757",
-    "location": {
-      "name": "Small World, S.T. Bed",
-      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93327579,
-        "longitude": 77.63221323
-      }
-    }
-  },
-  {
-    "name": "Salsa Dance",
-    "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
     "startDate": "2024-09-22T20:00:00+05:30",
     "endDate": "2024-09-22T21:00:00+05:30",
     "timezone": "+05:30",
@@ -3018,56 +2780,6 @@
     }
   },
   {
-    "name": "SCC SkyCinema - 15 Years of Love Aaj Kal",
-    "description": "\"\u201cJaane se pehle, ek aakhri baar milna kyun zaroori hota hai?\u201d - Love Aaj Kal\n\nRevisit the iconic love story of Jai and Meera as we celebrate the 15th Anniversary of \"Love Aaj Kal.\" Join us for a screening of this heartwarming film that explores the complexities of love, relationships, and the passage of time under the starry night sky.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.\n",
-    "startDate": "2024-09-21 19:30:00",
-    "endDate": "2024-09-21 22:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/a4875e3831dc258c442fcbc66ffccf2f1725446968.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-15-years-of-love-aaj-kal-bengaluru-et51056/details",
-        "price": 500,
-        "currency": "INR",
-        "validFrom": "2024-09-04 19:00:17",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-15-years-of-love-aaj-kal-bengaluru-et51056/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-09-04 19:00:17",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-15-years-of-love-aaj-kal-bengaluru-et51056",
-    "id": "com.zomato.51056",
-    "location": {
-      "name": "Forum South Bengaluru",
-      "address": "Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.25228833,
-        "longitude": 77.7606939
-      }
-    }
-  },
-  {
     "name": "SCC Picnic Cinema - Zindagi Na Milegi Dobara",
     "description": "\"Seize the day, my friend. Pehle is din ko poori tarah jiyo, phir chalis ke bare mein sochna.\" - Zindagi Na Milegi Dobara\n\nPrepare to embark on a cinematic adventure like never before as Sunset Cinema Club presents the screening of this classic at Garden City Beer Collective (GCBC). Get ready to indulge your senses and immerse yourself in the magic of the silver screen under the open sky.\n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favourite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
     "startDate": "2024-09-27T19:30:00+05:30",
@@ -3106,48 +2818,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.14365198,
         "longitude": 77.58441173
-      }
-    }
-  },
-  {
-    "name": "SCC SkyCinema - 25 Years of Notting Hill",
-    "description": "\"After all, I'm just a girl, standing in front of a boy, asking him to love her.\" \u2014Anna, Notting Hill\n\nIndulge in a timeless tale of love and laughter as we celebrate the 25th anniversary of \"\"Notting Hill.\"\" Join us for a heartwarming screening at 1 MG Lido. Experience the magic of Hugh Grant and Julia Roberts' unforgettable chemistry in a cozy and intimate setting.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the skyline of the city as your backdrop.",
-    "startDate": "2024-09-21 19:30:00",
-    "endDate": "2024-09-21 22:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/349362d8a5c6b49d9fde64c8c1463da31725447279.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-25-years-of-notting-hill-bengaluru-et51063/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-09-04 19:00:12",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-25-years-of-notting-hill-bengaluru-et51063",
-    "id": "com.zomato.51063",
-    "location": {
-      "name": "1 MG - Lido Mall",
-      "address": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97480423,
-        "longitude": 77.62066549
       }
     }
   },
@@ -3232,50 +2902,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97480423,
         "longitude": 77.62066549
-      }
-    }
-  },
-  {
-    "name": "Glow after dark DJ night",
-    "description": "Get ready for an electrifying evening at Scintillation, the premier cultural fest at Jyoti Nivas College, themed around the iconic Coachella experience! Dive into the excitement of our DJ night, where you'll enjoy a sensational blend of Bollywood commercial hits and South Indian beats. With dynamic performances from acclaimed artists and a fusion of vibrant rhythms and energetic music, this celebration promises an unforgettable night filled with high-energy entertainment and cultural flair. Don\u2019t miss out on this unique and exhilarating experience!",
-    "startDate": "2024-09-21 17:00:00",
-    "endDate": "2024-09-21 22:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Glow after dark DJ night Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Glow after dark DJ night Bengaluru on Zomato which is a Music and Trending event happening at KHB Colony, 5th Block, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4ef47be8db871f6ebe2810c722caae231725597327.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/glow-after-dark-dj-night-bengaluru-et51252/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-09-06 10:10:51",
-        "availability": "INSTOCK",
-        "inventory": 174
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/glow-after-dark-dj-night-bengaluru-et51252",
-    "id": "com.zomato.51252",
-    "location": {
-      "name": "Jyoti Nivas Autonomous College",
-      "address": "KHB Colony, 5th Block, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9342727,
-        "longitude": 77.6132161
       }
     }
   },
@@ -3899,6 +3525,142 @@
     }
   },
   {
+    "name": "Single's Meetup",
+    "description": "Welcome to the 'Single's Meetup a unique meetup designed specifically for singles who are eager to connect, share, and celebrate the solo journey. In the hustle of everyday life, finding a space to openly discuss the experiences, challenges, and triumphs of being single is rare. That's where we come in. \nThis isn't your typical singles event with the pressure of finding the one.\" Instead, it's an evening dedicated to the art of living single, where you can share stories, laugh about dating disasters, and discuss the personal growth and freedom that comes with this phase of life.",
+    "startDate": "2024-09-27T19:00:00+05:30",
+    "endDate": "2024-09-27T20:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Single's Meetup Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Single's Meetup Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/c99d72e1cd2ae961305ff0a65075408c1726043818.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51402/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-11 14:50:00",
+        "availability": "INSTOCK",
+        "inventory": 20
+      },
+      {
+        "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51402/details",
+        "price": 1299,
+        "currency": "INR",
+        "validFrom": "2024-09-11 14:50:00",
+        "availability": "INSTOCK",
+        "inventory": 5
+      },
+      {
+        "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51402/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-09-11 14:51:00",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51402/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-11 14:51:00",
+        "availability": "INSTOCK",
+        "inventory": 19
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51402",
+    "id": "com.zomato.51402",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Single's Meetup",
+    "description": "Welcome to the 'Single's Meetup a unique meetup designed specifically for singles who are eager to connect, share, and celebrate the solo journey. In the hustle of everyday life, finding a space to openly discuss the experiences, challenges, and triumphs of being single is rare. That's where we come in. \nThis isn't your typical singles event with the pressure of finding the one.\" Instead, it's an evening dedicated to the art of living single, where you can share stories, laugh about dating disasters, and discuss the personal growth and freedom that comes with this phase of life.",
+    "startDate": "2024-09-29T15:00:00+05:30",
+    "endDate": "2024-09-29T16:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Single's Meetup Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Single's Meetup Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/c99d72e1cd2ae961305ff0a65075408c1726043818.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51404/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-11 14:51:00",
+        "availability": "INSTOCK",
+        "inventory": 20
+      },
+      {
+        "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51404/details",
+        "price": 1299,
+        "currency": "INR",
+        "validFrom": "2024-09-11 14:51:00",
+        "availability": "INSTOCK",
+        "inventory": 5
+      },
+      {
+        "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51404/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-09-11 14:51:00",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51404/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-11 14:51:00",
+        "availability": "INSTOCK",
+        "inventory": 20
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/singles-meetup-bengaluru-et51404",
+    "id": "com.zomato.51404",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
     "name": "Sunday Brunch",
     "description": "Experience the ultimate chill at Escape by Brewklyn's Sunday Brunch in Bangalore. DJ Zerixton sets the mood with his signature laid-back tunes, making it the perfect spot to unwind, enjoy great food, and soak in the relaxed weekend vibes.",
     "startDate": "2024-09-22T12:30:00+05:30",
@@ -3991,48 +3753,6 @@
     }
   },
   {
-    "name": "Saturday Night Live w/ Abhishek Nagarkar",
-    "description": "Join us this Saturday at Escape By Brewklyn Bangalore for an unforgettable live music experience with Abhishek Nagarkar. His soulful tunes and energetic performances will make your Saturday nights come alive. Don't miss out on the live vibe!",
-    "startDate": "2024-09-21 20:00:00",
-    "endDate": "2024-09-21 23:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/adb2528743f7e53b2ef48fcd5a7344571726049777.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/saturday-night-live-w-abhishek-nagarkar-bengaluru-et51439/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-11 15:53:13",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/saturday-night-live-w-abhishek-nagarkar-bengaluru-et51439",
-    "id": "com.zomato.51439",
-    "location": {
-      "name": "Escape by Brewklyn",
-      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.04059157,
-        "longitude": 77.61912205
-      }
-    }
-  },
-  {
     "name": "Groovy Fridays w/ DJ Zerixton",
     "description": "Dive into the weekend with DJ Zerixton's electrifying sets every Friday at Escape By Brewklyn Bangalore. Experience a night where groovy tunes meet urban vibes, perfect for dancing or chilling with friends.",
     "startDate": "2024-09-27T20:00:00+05:30",
@@ -4071,66 +3791,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.04059157,
         "longitude": 77.61912205
-      }
-    }
-  },
-  {
-    "name": "Garba Night",
-    "description": "Learn the Art of Garba: Experience the joy of Garba as you learn the graceful steps and intricate moves of this lively dance form. Our expert instructors will guide you through the techniques and help you perfect your Garba style.\nOne-on-One Coaching: If you're new to Garba, don't worry! We offer one-on-one coaching to ensure that everyone feels comfortable and confident on the dance floor.\nTraditional Attire: Embrace the spirit of Garba by dressing in vibrant, traditional attire. Feel free to wear your favourite chaniya choli or kurta and embrace the festive ambience.\nGroup Practice: Put your newly acquired Garba skills to the test as you join the entire group for a lively and energetic dance session.\nRefreshments: Recharge with light snacks and beverages available during the event to keep your energy levels up.",
-    "startDate": "2024-09-21 20:00:00",
-    "endDate": "2024-09-21 21:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Garba Night Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Garba Night Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b89aaafbd4fc07579b8280dc58b080261726049829.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51448/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-11 18:50:28",
-        "availability": "INSTOCK",
-        "inventory": 999
-      },
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51448/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-11 18:50:28",
-        "availability": "INSTOCK",
-        "inventory": 1000
-      },
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51448/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-09-11 18:50:29",
-        "availability": "INSTOCK",
-        "inventory": 999
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/garba-night-bengaluru-et51448",
-    "id": "com.zomato.51448",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
       }
     }
   },
@@ -4812,6 +4472,58 @@
     ],
     "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et51501",
     "id": "com.zomato.51501",
+    "location": {
+      "name": "Small World, 5th Block",
+      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93424663,
+        "longitude": 77.61767611
+      }
+    }
+  },
+  {
+    "name": "Blind Date - A Sensory Experience",
+    "description": "Unleash the power of authentic communication with Blind Date, where participants engage in blindfolded conversations",
+    "startDate": "2024-09-29T16:00:00+05:30",
+    "endDate": "2024-09-29T17:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Blind Date - A Sensory Experience Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Blind Date - A Sensory Experience Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/ea0b33717f681789a67d2a246b09f9ec1726066329.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et51502/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-11 20:30:00",
+        "availability": "INSTOCK",
+        "inventory": 19
+      },
+      {
+        "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et51502/details",
+        "price": 1299,
+        "currency": "INR",
+        "validFrom": "2024-09-11 20:30:00",
+        "availability": "INSTOCK",
+        "inventory": 5
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et51502",
+    "id": "com.zomato.51502",
     "location": {
       "name": "Small World, 5th Block",
       "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
@@ -5673,6 +5385,66 @@
         "@type": "GeoCoordinates",
         "latitude": 12.895689261735,
         "longitude": 77.666065678384
+      }
+    }
+  },
+  {
+    "name": "CORE (Open Air)",
+    "description": "Join us at High Ultra Lounge for CORE, an exhilarating open-air party on Sunday, 28th September, featuring the incredible Ma Faiza! Prepare yourself for an unforgettable evening of pulsating beats, vibrant energy, and a breathtaking view from the city's highest lounge.\n\nMa Faiza, known as the 'Mother of Electronica' in India, will take you on a musical journey like no other. Don\u2019t miss out on this electrifying event!\n\nBOOK YOUR TICKETS NOW and be part of an epic night under the stars!",
+    "startDate": "2024-09-28T20:00:00+05:30",
+    "endDate": "2024-09-29T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "CORE (Open Air) Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for CORE (Open Air) Bengaluru on Zomato which is a Trending event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/7e7969c4eb85f9234bb4970c39a47c231726258288.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/core-open-air-bengaluru-et51617/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-14 01:53:33",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/core-open-air-bengaluru-et51617/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-14 01:53:34",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/core-open-air-bengaluru-et51617/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-14 01:53:34",
+        "availability": "INSTOCK",
+        "inventory": 197
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/core-open-air-bengaluru-et51617",
+    "id": "com.zomato.51617",
+    "location": {
+      "name": "High Ultra Lounge",
+      "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.0122829,
+        "longitude": 77.5561431
       }
     }
   },
