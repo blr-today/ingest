@@ -387,50 +387,6 @@
     }
   },
   {
-    "name": "25 & Single",
-    "description": "After a successful run of shows across cities in India and award-winning performances at The Fringe Festival in Prague, Helly Shah is all set to perform a new hour of relatable stories & heartwarming poems for you! \u2060\u202f25 & Single\u202f\u2060 is a delightful one-hour poetry and storytelling show that takes you through the ups and downs of adulthood, dating, friendships, and growing up. Celebrate the hilarious, awkward, and light-hearted moments of being in your 20s and navigating the single life with Helly! Helly Shah is a spoken word poet, writer and storyteller. Hailing from a small town in Gujarat, her first-ever storytelling video crossed over 10 million views across social media in 2018. Since then, her performances have continued to deeply resonate with millions of young people across the country.",
-    "startDate": "2024-09-21 18:00:00",
-    "endDate": "2024-09-21 19:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "25 & Single Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for 25 & Single Bengaluru on Zomato which is a Experiences event happening at Deena Complex, Opp MC Donald, Brigade Rd, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2eb58d773a93c344e7835b9d61361c9f1721712546.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/25-single-bengaluru-et46072/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-18 16:09:00",
-        "availability": "INSTOCK",
-        "inventory": 26
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/25-single-bengaluru-et46072",
-    "id": "com.zomato.46072",
-    "location": {
-      "name": "Just BLR",
-      "address": "Deena Complex, Opp MC Donald, Brigade Rd, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.973095257354,
-        "longitude": 77.607312496294
-      }
-    }
-  },
-  {
     "name": "Bryan Adams - So Happy It Hurts Tour 2024",
     "description": "Get ready to experience the International rock legend's live concert as part of his 6 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the \u2018So Happy It Hurts\u2019 World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.",
     "startDate": "2024-12-14T19:00:00+05:30",
@@ -2080,6 +2036,90 @@
     }
   },
   {
+    "name": "Karaoke Nights",
+    "description": "\"Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.\"",
+    "startDate": "2024-09-26T20:30:00+05:30",
+    "endDate": "2024-09-26T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/423b8366eec77af78e8d207c6814cac81725265116.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50535/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-02 14:04:41",
+        "availability": "INSTOCK",
+        "inventory": 66
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50535",
+    "id": "com.zomato.50535",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.98717896,
+        "longitude": 77.7364802
+      }
+    }
+  },
+  {
+    "name": "Unplugged Duo's",
+    "description": "Catch Cartridge performing live your favourite tracks at Hard Rock Cafe, Whitefield, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+    "startDate": "2024-09-27T20:30:00+05:30",
+    "endDate": "2024-09-27T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/9727a000abe82d9ed11da16c945f96fa1725265278.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50536/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-02 14:04:41",
+        "availability": "INSTOCK",
+        "inventory": 73
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50536",
+    "id": "com.zomato.50536",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.98717896,
+        "longitude": 77.7364802
+      }
+    }
+  },
+  {
     "name": "Tribute to Eric Clapton & Beatles",
     "description": "Legendary Tribute Nights only at Hard Rock Cafe\nAt the Hard Rock Cafe Whitefield, the progressive rock band Crystal Codes will pay homage to Eric Clapton and The Beatles. If you are a Beatles or Eric Clapton fan, (how can you not be?) then join us for this memorable night at Hard Rock Cafe.",
     "startDate": "2024-09-28T21:00:00+05:30",
@@ -2204,8 +2244,8 @@
   {
     "name": "Mixmag",
     "description": "Bangalore, we\u2019re back!\n\nMixmag and Smirnoff Project presented by Smirnoff lemon pop are set to deliver stellar lineup on 21st September at High Ultra Lounge. Bringing the best of international lineup Spada along with local lineup Vivin and Somyth to India diverse music culture.",
-    "startDate": "2024-09-21T20:00:00+05:30",
-    "endDate": "2024-09-22T01:00:00+05:30",
+    "startDate": "2024-09-21 20:00:00",
+    "endDate": "2024-09-22 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2528,8 +2568,8 @@
   {
     "name": "Salsa Dance",
     "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
-    "startDate": "2024-09-21T20:00:00+05:30",
-    "endDate": "2024-09-21T21:00:00+05:30",
+    "startDate": "2024-09-21 20:00:00",
+    "endDate": "2024-09-21 21:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2768,8 +2808,8 @@
   {
     "name": "Rahill Mehta",
     "description": "Get ready for an unforgettable night on 21st September 2024 at Two Moons and Juliet, Bangalore! The legendary Rahill Mehta is taking over the decks for a massive event that will leave you breathless. With his electrifying beats and unmatched energy, Rahill is set to create an atmosphere like never before.\n\nThis isn't just a party\u2014it's an experience. Two Moons and Juliet will be transformed into a dazzling spectacle of sound and light. Tickets are selling fast, so don\u2019t miss your chance to be part of the most talked-about event of the year!",
-    "startDate": "2024-09-21T19:00:00+05:30",
-    "endDate": "2024-09-22T01:00:00+05:30",
+    "startDate": "2024-09-21 19:00:00",
+    "endDate": "2024-09-22 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2980,8 +3020,8 @@
   {
     "name": "SCC SkyCinema - 15 Years of Love Aaj Kal",
     "description": "\"\u201cJaane se pehle, ek aakhri baar milna kyun zaroori hota hai?\u201d - Love Aaj Kal\n\nRevisit the iconic love story of Jai and Meera as we celebrate the 15th Anniversary of \"Love Aaj Kal.\" Join us for a screening of this heartwarming film that explores the complexities of love, relationships, and the passage of time under the starry night sky.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.\n",
-    "startDate": "2024-09-21T19:30:00+05:30",
-    "endDate": "2024-09-21T22:30:00+05:30",
+    "startDate": "2024-09-21 19:30:00",
+    "endDate": "2024-09-21 22:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3072,8 +3112,8 @@
   {
     "name": "SCC SkyCinema - 25 Years of Notting Hill",
     "description": "\"After all, I'm just a girl, standing in front of a boy, asking him to love her.\" \u2014Anna, Notting Hill\n\nIndulge in a timeless tale of love and laughter as we celebrate the 25th anniversary of \"\"Notting Hill.\"\" Join us for a heartwarming screening at 1 MG Lido. Experience the magic of Hugh Grant and Julia Roberts' unforgettable chemistry in a cozy and intimate setting.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the skyline of the city as your backdrop.",
-    "startDate": "2024-09-21T19:30:00+05:30",
-    "endDate": "2024-09-21T22:30:00+05:30",
+    "startDate": "2024-09-21 19:30:00",
+    "endDate": "2024-09-21 22:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3953,8 +3993,8 @@
   {
     "name": "Saturday Night Live w/ Abhishek Nagarkar",
     "description": "Join us this Saturday at Escape By Brewklyn Bangalore for an unforgettable live music experience with Abhishek Nagarkar. His soulful tunes and energetic performances will make your Saturday nights come alive. Don't miss out on the live vibe!",
-    "startDate": "2024-09-21T20:00:00+05:30",
-    "endDate": "2024-09-21T23:30:00+05:30",
+    "startDate": "2024-09-21 20:00:00",
+    "endDate": "2024-09-21 23:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -4037,8 +4077,8 @@
   {
     "name": "Garba Night",
     "description": "Learn the Art of Garba: Experience the joy of Garba as you learn the graceful steps and intricate moves of this lively dance form. Our expert instructors will guide you through the techniques and help you perfect your Garba style.\nOne-on-One Coaching: If you're new to Garba, don't worry! We offer one-on-one coaching to ensure that everyone feels comfortable and confident on the dance floor.\nTraditional Attire: Embrace the spirit of Garba by dressing in vibrant, traditional attire. Feel free to wear your favourite chaniya choli or kurta and embrace the festive ambience.\nGroup Practice: Put your newly acquired Garba skills to the test as you join the entire group for a lively and energetic dance session.\nRefreshments: Recharge with light snacks and beverages available during the event to keep your energy levels up.",
-    "startDate": "2024-09-21T20:00:00+05:30",
-    "endDate": "2024-09-21T21:00:00+05:30",
+    "startDate": "2024-09-21 20:00:00",
+    "endDate": "2024-09-21 21:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -5633,50 +5673,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.895689261735,
         "longitude": 77.666065678384
-      }
-    }
-  },
-  {
-    "name": "We Jam",
-    "description": "We Jam is the ultimate haven for music lovers!\n\nCome enjoy a relaxing and fun evening with us. A space where you can be yourself and feel at home.\nJoin our welcoming community for a lively jamming session; bring your guitars, cajones, and most importantly yourself to jam along. \n\nThe event features three parts:\n\nOpen Mic: Perform for a warm and supportive audience, no matter where you are on your musical journey. Reach out to @wejam.blr on Instagram to book your slot.\nSocial Mixer: Connect with fellow music lovers and jam along on your favourite songs. Be a part of fun and exciting music based games and get a chance to win exciting goodies. \nJamming Session: Sing, play instruments, and join the community in a warm and cozy, free-flowing musical experience. Together, we create music and memories.",
-    "startDate": "2024-09-21 16:30:00",
-    "endDate": "2024-09-21 20:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "We Jam Experiences, Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for We Jam Bengaluru on Zomato which is a Experiences, Music and Trending event happening at Ground Floor 1st Main Road 23, Ganapathi Temple Rd, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/da884e829e473287ce2d76e45123721c1726232938.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/we-jam-bengaluru-et51611/details",
-        "price": 399,
-        "currency": "INR",
-        "validFrom": "2024-09-13 18:40:00",
-        "availability": "SELLING_FAST",
-        "inventory": 9
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/we-jam-bengaluru-et51611",
-    "id": "com.zomato.51611",
-    "location": {
-      "name": "Plan B x Hangover XL Koramangala",
-      "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93570273,
-        "longitude": 77.6138885
       }
     }
   },

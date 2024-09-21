@@ -382,48 +382,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "After a successful run of shows across cities in India and award-winning performances at The Fringe Festival in Prague, Helly Shah is all set to perform a new hour of relatable stories & heartwarming poems for you! ⁠ 25 & Single ⁠ is a delightful one-hour poetry and storytelling show that takes you through the ups and downs of adulthood, dating, friendships, and growing up. Celebrate the hilarious, awkward, and light-hearted moments of being in your 20s and navigating the single life with Helly! Helly Shah is a spoken word poet, writer and storyteller. Hailing from a small town in Gujarat, her first-ever storytelling video crossed over 10 million views across social media in 2018. Since then, her performances have continued to deeply resonate with millions of young people across the country.",
-      "endDate": "2024-09-21T19:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/2eb58d773a93c344e7835b9d61361c9f1721712546.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "Deena Complex, Opp MC Donald, Brigade Rd, Bengaluru",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.973095257354,
-            "longitude": 77.607312496294
-         },
-         "name": "Just BLR"
-      },
-      "name": "25 & Single",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 26
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-18T16:09:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 26,
-      "startDate": "2024-09-21T18:00:00+05:30",
-      "url": "https://www.zomato.com/events/25-single-bengaluru-et46072"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Get ready to experience the International rock legend's live concert as part of his 6 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the ‘So Happy It Hurts’ World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.",
       "endDate": "2024-12-14T22:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -2046,6 +2004,90 @@
       "performers": [ ],
       "startDate": "2024-09-21T21:00:00+05:30",
       "url": "https://www.zomato.com/events/tribute-to-sonu-nigam-bengaluru-et50533"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "\"Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.\"",
+      "endDate": "2024-09-26T23:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/423b8366eec77af78e8d207c6814cac81725265116.jpeg",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.98717896,
+            "longitude": 77.736480200000003
+         },
+         "name": "Hard Rock Cafe"
+      },
+      "name": "Karaoke Nights",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 66
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-02T14:04:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 66,
+      "startDate": "2024-09-26T20:30:00+05:30",
+      "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50535"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Catch Cartridge performing live your favourite tracks at Hard Rock Cafe, Whitefield, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
+      "endDate": "2024-09-27T23:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/9727a000abe82d9ed11da16c945f96fa1725265278.jpeg",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.98717896,
+            "longitude": 77.736480200000003
+         },
+         "name": "Hard Rock Cafe"
+      },
+      "name": "Unplugged Duo's",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 73
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-02T14:04:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 73,
+      "startDate": "2024-09-27T20:30:00+05:30",
+      "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50536"
    },
    {
       "@context": "https://schema.org",
@@ -5536,48 +5578,6 @@
       "performers": [ ],
       "startDate": "2024-09-22T10:30:00+05:30",
       "url": "https://www.zomato.com/events/paint-with-puppies-by-pawasana-bengaluru-et51604"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "We Jam is the ultimate haven for music lovers!\n\nCome enjoy a relaxing and fun evening with us. A space where you can be yourself and feel at home.\nJoin our welcoming community for a lively jamming session; bring your guitars, cajones, and most importantly yourself to jam along. \n\nThe event features three parts:\n\nOpen Mic: Perform for a warm and supportive audience, no matter where you are on your musical journey. Reach out to @wejam.blr on Instagram to book your slot.\nSocial Mixer: Connect with fellow music lovers and jam along on your favourite songs. Be a part of fun and exciting music based games and get a chance to win exciting goodies. \nJamming Session: Sing, play instruments, and join the community in a warm and cozy, free-flowing musical experience. Together, we create music and memories.",
-      "endDate": "2024-09-21T20:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/da884e829e473287ce2d76e45123721c1726232938.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, Bengaluru",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.935702729999999,
-            "longitude": 77.613888500000002
-         },
-         "name": "Plan B x Hangover XL Koramangala"
-      },
-      "name": "We Jam",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 9
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-13T18:40:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 9,
-      "startDate": "2024-09-21T16:30:00+05:30",
-      "url": "https://www.zomato.com/events/we-jam-bengaluru-et51611"
    },
    {
       "@context": "https://schema.org",
