@@ -2784,5 +2784,52 @@
       "Pop-up Event",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "OTJF Spotlight: High Fidelity ft. Boo! Ya Watchin?",
+    "description": "Join us on 29th September from 4 PM to 7 PM at the Studio at Courtyard, Shantinagar, for OTJF Spotlight, where we screen Stephen Frears' cult classic, High Fidelity. We'll be joined by the lovely Boo! Ya Watchin? in hosting a screening of the film, followed by an exploration into it's iconic soundtrack and the impact it made, and a fun quiz!The film, starring John Cusack, Jack Black, and Lisa Bonet, follows Rob, a thirty-year-old record store owner grappling with his string of failed relationships and his recent breakup with Laura, as he reflects on his life through the lens of his favorite records. Whether you've watched it before or this is your first time, we've got a super fun evening planned, and can't wait to see you there!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/647D2442B3074F17A1C4B7265C8A228E_converted_webp.webp"
+    ],
+    "startDate": "2024-09-29T16:00:00+05:30",
+    "endDate": "2024-09-29T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+      "latitude": "12.95843050000000000000",
+      "longitude": "77.59289509999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 49,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "700.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "On the Jungle Floor LLP",
+      "description": "Record Store, Music Discovery and Events",
+      "url": "https://urbanaut.app/partner/onthejunglefloor",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C849C0AC958E4970B0E335103657A2B6_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99022-57071"
+      }
+    },
+    "url": "https://urbanaut.app/spot/otjf-spotlight-high-fidelity-ft-boo-ya-watchin-at-the-courtyard-shantinagar",
+    "keywords": [
+      "Art & culture",
+      "Music",
+      "URBANAUT"
+    ]
   }
 ]

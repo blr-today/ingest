@@ -263,6 +263,61 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "✨ **Disco Dandiya at Ottoman Restobar** ✨Celebrate Navratri with a twist at **Disco Dandiya** on **11th & 12th October, 6 PM onwards",
+      "endDate": "2024-10-12T22:00:00",
+      "identifier": "com.skillboxes.15953",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/eUNyeHBvMU9oVm1MRGhiV3VZYVFKUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726908728cawlRryKCcVR0c10.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th Floor, Ganapa Tower, Bellandur, Bengaluru, Karnataka 560103, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9245948",
+            "longitude": "77.673019"
+         },
+         "name": "Ottoman Restobar"
+      },
+      "name": "DISCO DANDIYA VOL-4 ┃BENGALURU",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 19,
+            "name": "Ladies",
+            "url": "https://www.skillboxes.com/events/ticket/disco-dandiya-vol-4-bengaluru"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "STAG",
+            "url": "https://www.skillboxes.com/events/ticket/disco-dandiya-vol-4-bengaluru"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 25,
+            "name": "Couple (Selling Fast)",
+            "url": "https://www.skillboxes.com/events/ticket/disco-dandiya-vol-4-bengaluru"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 6,
+            "name": "Group 4-5 Pax",
+            "url": "https://www.skillboxes.com/events/ticket/disco-dandiya-vol-4-bengaluru"
+         }
+      ],
+      "startDate": "2024-10-11T18:00:00",
+      "url": "https://www.skillboxes.com/events/disco-dandiya-vol-4-bengaluru"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "SoulSelekts Ft Laya Live at Bengaluru🎶 Live Performance by LAYA at Ottoman Restobar 🎶Get ready for an unforgettable night of musi",
       "endDate": "2024-10-05T23:59:00",
       "identifier": "com.skillboxes.15947",
