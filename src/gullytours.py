@@ -27,7 +27,10 @@ def get_calendar(session, tour_id):
         "end": end_date,
     }
     d = session.get(url, params=querystring).json()
-    keys = d["departure_calendar"]["availability_keys"]
+    try:
+        keys = d["departure_calendar"]["availability_keys"]
+    except KeyError:
+        breakpoint()
     c = d["departure_calendar"]["availability"]["data"]
     for date in c:
         for x in c[date].values():

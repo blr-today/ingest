@@ -50,8 +50,6 @@ def get_event_details(session, slug):
         return details
     except Exception as e:
         if "more than 100 headers" in str(e):
-            print(e.response)
-            print(f"Skipping {slug} due to too many headers, likely 500 error")
             return None
         else:
             raise e
