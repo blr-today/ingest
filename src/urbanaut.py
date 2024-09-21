@@ -21,7 +21,10 @@ KNOWN_HOST_VENUES = [
     "courtyard",
     "loveooru",
     "printingwithtypes",
-    "cafeplume"
+    "cafeplume",
+    "museum-of-art-and-photography-map",
+    "ksaraah",
+    "flourishclasses", # Flourish Bakery
 ]
 session = get_cached_session()
 
@@ -79,7 +82,7 @@ def get_event_type(x):
     name = x["name"].lower()
     if "screening" in name:
         return "ScreeningEvent"
-    elif "food" in tags:
+    elif "food" in tags or 'araku' in name:
         return "FoodEvent"
     elif "workshop" in tags:
         return "EducationEvent"
