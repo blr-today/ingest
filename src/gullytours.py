@@ -30,7 +30,7 @@ def get_calendar(session, tour_id):
     try:
         keys = d["departure_calendar"]["availability_keys"]
     except KeyError:
-        breakpoint()
+        return None
     c = d["departure_calendar"]["availability"]["data"]
     for date in c:
         for x in c[date].values():
@@ -51,7 +51,8 @@ def main():
     for tour in read_config():
         description = get_description(session, tour["url"])
         for trip in get_calendar(session, tour["id"]):
-            events.append(make_event(tour, description, trip))
+            if trip:
+                events.append(make_event(tour, description, trip))
 
     with open("out/gullytours.json", "w") as f:
         json.dump(events, f, indent=2)
