@@ -30,9 +30,14 @@ def fetch_ajax_details(sku, _token):
     url = BASE_URL + "/getTimeSlotAjax"
     e = session.post(url, data=data).json()[0]
 
+    # The end_date is unreliable. The website uses the date from the start_date
+    # and the time from the end_date as the actual endsAt
+
+    endsAt = fix_date(e["start_date"].split(" ")[0] + " " + e["end_date"].split(" ")[1])
+
     return {
         "startDate": fix_date(e["start_date"]),
-        "endDate": fix_date(e["end_date"]),
+        "endDate": endsAt,
         "offers": [{"price": e["price"], "priceCurrency": "INR"}],
     }
 
