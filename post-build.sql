@@ -211,6 +211,13 @@ WHERE
     'z p enterprises',
     -- education consulting
     'upgrad abroad'
+  ) OR (
+    -- Hustle Business Venue in HSR
+    event_json->>'$.location' LIKE '%hustlehub%'
+  ) OR (
+    -- Networking Meetups are BUSINESS events
+    url LIKE '%network-meetup%'
+    OR url LIKE '%networking-meetup%'
   );
 
 -- organizer = Games Lab, title contains "Board" or "Mafia" or "Game Night", tag as BOARDGAMES
