@@ -51,8 +51,10 @@ def fetch_event_details(session, l):
     div = soup.select_one("#description")
     title = soup.select_one("h2").text
     # Not an event
-    if "subscription" in title.lower():
-        return None
+    NOT_EVENT = ["subscription", "package"]
+    for word in NOT_EVENT:
+        if word in title.lower():
+            return None
     event = {
         "name": title,
         "@type": event_type,
