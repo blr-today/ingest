@@ -9,7 +9,7 @@ X-WR-CALDESC:Events for Bangalore International Centre
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240922
 DTEND;VALUE=DATE:20240925
-DTSTAMP:20240921T183333
+DTSTAMP:20240922T020000
 CREATED:20240910T082602Z
 LAST-MODIFIED:20240918T044137Z
 UID:64017-1726963200-1727222399@bangaloreinternationalcentre.org
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240922T113000
 DTEND;TZID=Asia/Kolkata:20240922T130000
-DTSTAMP:20240921T183333
+DTSTAMP:20240922T020000
 CREATED:20240831T081433Z
 LAST-MODIFIED:20240920T052943Z
 UID:63625-1727004600-1727010000@bangaloreinternationalcentre.org
@@ -37,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240922T170000
 DTEND;TZID=Asia/Kolkata:20240922T183000
-DTSTAMP:20240921T183333
+DTSTAMP:20240922T020000
 CREATED:20240905T095857Z
 LAST-MODIFIED:20240909T141638Z
 UID:63812-1727024400-1727029800@bangaloreinternationalcentre.org
@@ -51,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240922T180000
 DTEND;TZID=Asia/Kolkata:20240922T200000
-DTSTAMP:20240921T183333
+DTSTAMP:20240922T020000
 CREATED:20240913T151918Z
 LAST-MODIFIED:20240914T173500Z
 UID:64211-1727028000-1727035200@bangaloreinternationalcentre.org
@@ -65,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240924T190000
 DTEND;TZID=Asia/Kolkata:20240924T201500
-DTSTAMP:20240921T183333
+DTSTAMP:20240922T020000
 CREATED:20240917T093708Z
 LAST-MODIFIED:20240921T085438Z
 UID:64329-1727204400-1727208900@bangaloreinternationalcentre.org
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240925T190000
 DTEND;TZID=Asia/Kolkata:20240925T203000
-DTSTAMP:20240921T183333
+DTSTAMP:20240922T020000
 CREATED:20240911T131633Z
 LAST-MODIFIED:20240911T131633Z
 UID:63901-1727290800-1727296200@bangaloreinternationalcentre.org
@@ -91,9 +91,23 @@ CATEGORIES:Music,Performing Arts
 ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-604.jpg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20240926T183000
+DTEND;TZID=Asia/Kolkata:20240926T200000
+DTSTAMP:20240922T020000
+CREATED:20240921T183636Z
+LAST-MODIFIED:20240921T183931Z
+UID:64520-1727375400-1727380800@bangaloreinternationalcentre.org
+SUMMARY:The Forum
+DESCRIPTION:This is the second of our sessions titled\, The Forum\, a series of engaging discussions held at the BIC Library. Our goal is to bring together individuals from all walks of life\, ages 15 to 50\, to discuss topics of importance in a setting that is both informed and informal. Whether you’re passionate about current events\, social issues\, or cultural topics\, The Forum provides a platform for open dialogue and thoughtful exchange of ideas. Inspired by the ancient Roman forums\, where citizens gathered to discuss and debate the issues of the day\, these sessions aim to revive this tradition of community dialogue. \nIn this session\, we focus on the critical intersection of gender\, urban spaces\, and security. As cities expand and evolve\, the safety and inclusivity of women within these spaces remain essential concerns. This discussion will center around the challenges women face in navigating urban environments\, whether due to inadequate infrastructure\, social norms\, or policy shortcomings. \nPublic spaces—whether transportation hubs\, parks\, or streets—should be accessible to all\, but many women experience these spaces as fraught with danger or restrictions. In this session\, we aim to dissect these issues while also looking at how socio-economic backgrounds can further shape a woman’s experience of urban life. The role of law enforcement and public policy in addressing gender-based violence is another important focus. Finally\, this session will consider how the ability to move freely and confidently through the city is linked to broader issues of mobility and access. By engaging with these topics\, we hope to generate ideas for creating cities that prioritise safety for all\, especially women. \n
+URL:https://bangaloreinternationalcentre.org/event/the-forum-2/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Cities,Gender,Governance,Policy & Regulation,Society
+ATTACH;FMTTYPE=image/png:https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-47.png
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240927T183000
 DTEND;TZID=Asia/Kolkata:20240927T200000
-DTSTAMP:20240921T183333
+DTSTAMP:20240922T020000
 CREATED:20240918T123738Z
 LAST-MODIFIED:20240918T143931Z
 UID:64320-1727461800-1727467200@bangaloreinternationalcentre.org
@@ -107,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240928T170000
 DTEND;TZID=Asia/Kolkata:20240928T183000
-DTSTAMP:20240921T183333
+DTSTAMP:20240922T020000
 CREATED:20240920T115352Z
 LAST-MODIFIED:20240920T115352Z
 UID:64470-1727542800-1727548200@bangaloreinternationalcentre.org
@@ -121,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20240929T180000
 DTEND;TZID=Asia/Kolkata:20240929T193000
-DTSTAMP:20240921T183333
+DTSTAMP:20240922T020000
 CREATED:20240918T123446Z
 LAST-MODIFIED:20240921T140656Z
 UID:64302-1727632800-1727638200@bangaloreinternationalcentre.org
@@ -135,7 +149,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241004T110000
 DTEND;TZID=Asia/Kolkata:20241013T200000
-DTSTAMP:20240921T183333
+DTSTAMP:20240922T020000
 CREATED:20240905T123518Z
 LAST-MODIFIED:20240917T092529Z
 UID:63911-1728039600-1728849600@bangaloreinternationalcentre.org
@@ -149,7 +163,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241009T190000
 DTEND;TZID=Asia/Kolkata:20241009T200000
-DTSTAMP:20240921T183333
+DTSTAMP:20240922T020000
 CREATED:20240919T033205Z
 LAST-MODIFIED:20240919T033205Z
 UID:63272-1728500400-1728504000@bangaloreinternationalcentre.org
@@ -163,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241016T190000
 DTEND;TZID=Asia/Kolkata:20241016T203000
-DTSTAMP:20240921T183333
+DTSTAMP:20240922T020000
 CREATED:20240919T111245Z
 LAST-MODIFIED:20240919T111245Z
 UID:63283-1729105200-1729110600@bangaloreinternationalcentre.org
