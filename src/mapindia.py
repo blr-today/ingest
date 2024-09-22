@@ -19,7 +19,6 @@ def fetch_urls(exclude_ids = []):
         headers=HEADERS,
         data=data,
     ).json()
-    response = response.json()
     for post_id in response['current_posts']:
         yield f"https://map-india.org/?p={post_id}"
     if 'loadMore' in response and response['loadMore'] == True:
