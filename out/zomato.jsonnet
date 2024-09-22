@@ -1121,8 +1121,8 @@
   {
     "name": "Sajanka live at Sunburn Union",
     "description": "Prepare for an unforgettable night with Sajanka, the acclaimed musician from Israel, known for crafting mesmerizing soundscapes and infectious rhythms. \ud83c\udfb6 Join us on the 22nd of September at Sunburn Union for a live performance that promises to be a unique celebration of music and energy. Book your tickets NOW!",
-    "startDate": "2024-09-22T19:30:00+05:30",
-    "endDate": "2024-09-23T01:00:00+05:30",
+    "startDate": "2024-09-22 19:30:00",
+    "endDate": "2024-09-23 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1504,8 +1504,8 @@
   {
     "name": "Rock Out Sundays",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-09-22T20:30:00+05:30",
-    "endDate": "2024-09-22T23:00:00+05:30",
+    "startDate": "2024-09-22 20:30:00",
+    "endDate": "2024-09-22 23:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1840,7 +1840,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:41",
         "availability": "INSTOCK",
-        "inventory": 66
+        "inventory": 52
       }
     ],
     "performers": [],
@@ -1882,7 +1882,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:41",
         "availability": "INSTOCK",
-        "inventory": 73
+        "inventory": 68
       }
     ],
     "performers": [],
@@ -2128,66 +2128,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93424663,
         "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Salsa Dance",
-    "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
-    "startDate": "2024-09-22T20:00:00+05:30",
-    "endDate": "2024-09-22T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/98a13be4119fb1df87ecbe8ff0c1f2ed1725340941.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50758/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:11",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50758/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:11",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50758/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:12",
-        "availability": "INSTOCK",
-        "inventory": 8
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50758",
-    "id": "com.zomato.50758",
-    "location": {
-      "name": "Small World, S.T. Bed",
-      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93327579,
-        "longitude": 77.63221323
       }
     }
   },
@@ -3349,66 +3289,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.04059157,
         "longitude": 77.61912205
-      }
-    }
-  },
-  {
-    "name": "Garba Night",
-    "description": "Learn the Art of Garba: Experience the joy of Garba as you learn the graceful steps and intricate moves of this lively dance form. Our expert instructors will guide you through the techniques and help you perfect your Garba style.\nOne-on-One Coaching: If you're new to Garba, don't worry! We offer one-on-one coaching to ensure that everyone feels comfortable and confident on the dance floor.\nTraditional Attire: Embrace the spirit of Garba by dressing in vibrant, traditional attire. Feel free to wear your favourite chaniya choli or kurta and embrace the festive ambience.\nGroup Practice: Put your newly acquired Garba skills to the test as you join the entire group for a lively and energetic dance session.\nRefreshments: Recharge with light snacks and beverages available during the event to keep your energy levels up.",
-    "startDate": "2024-09-22T20:00:00+05:30",
-    "endDate": "2024-09-22T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Garba Night Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Garba Night Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b89aaafbd4fc07579b8280dc58b080261726049829.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51449/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-11 18:51:35",
-        "availability": "INSTOCK",
-        "inventory": 1000
-      },
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51449/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-11 18:51:35",
-        "availability": "INSTOCK",
-        "inventory": 1000
-      },
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51449/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-09-11 18:51:36",
-        "availability": "INSTOCK",
-        "inventory": 1000
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/garba-night-bengaluru-et51449",
-    "id": "com.zomato.51449",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
       }
     }
   },
@@ -4901,8 +4781,8 @@
   {
     "name": "Protocol ft. My Friend",
     "description": "Prepare yourself for an unforgettable night as Protocol Sundays brings the electrifying My Friend, the celebrated Anjunadeep artist, to set the stage ablaze with deep, melodic techno beats. Don\u2019t miss this one-of-a-kind experience, where music meets magic under the stars!\n",
-    "startDate": "2024-09-22T20:00:00+05:30",
-    "endDate": "2024-09-23T01:00:00+05:30",
+    "startDate": "2024-09-22 20:00:00",
+    "endDate": "2024-09-23 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",

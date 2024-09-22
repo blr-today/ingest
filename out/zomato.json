@@ -1818,7 +1818,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 66
+               "value": 52
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T14:04:00+05:30"
@@ -1832,7 +1832,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 66,
+      "remainingAttendeeCapacity": 52,
       "startDate": "2024-09-26T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et50535"
    },
@@ -1860,7 +1860,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 73
+               "value": 68
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-02T14:04:00+05:30"
@@ -1874,7 +1874,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 73,
+      "remainingAttendeeCapacity": 68,
       "startDate": "2024-09-27T20:30:00+05:30",
       "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et50536"
    },
@@ -2095,65 +2095,6 @@
       "remainingAttendeeCapacity": 15,
       "startDate": "2024-09-29T12:00:00+05:30",
       "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50707"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
-      "endDate": "2024-09-22T21:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/98a13be4119fb1df87ecbe8ff0c1f2ed1725340941.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.93327579,
-            "longitude": 77.632213230000005
-         },
-         "name": "Small World, S.T. Bed"
-      },
-      "name": "Salsa Dance",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 10
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-03T11:49:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 10
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-03T11:49:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 8
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-03T11:49:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-09-22T20:00:00+05:30",
-      "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50758"
    },
    {
       "@context": "https://schema.org",
@@ -3296,65 +3237,6 @@
       "remainingAttendeeCapacity": 50,
       "startDate": "2024-09-27T20:00:00+05:30",
       "url": "https://www.zomato.com/events/groovy-fridays-w-dj-zerixton-bengaluru-et51443"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Learn the Art of Garba: Experience the joy of Garba as you learn the graceful steps and intricate moves of this lively dance form. Our expert instructors will guide you through the techniques and help you perfect your Garba style.\nOne-on-One Coaching: If you're new to Garba, don't worry! We offer one-on-one coaching to ensure that everyone feels comfortable and confident on the dance floor.\nTraditional Attire: Embrace the spirit of Garba by dressing in vibrant, traditional attire. Feel free to wear your favourite chaniya choli or kurta and embrace the festive ambience.\nGroup Practice: Put your newly acquired Garba skills to the test as you join the entire group for a lively and energetic dance session.\nRefreshments: Recharge with light snacks and beverages available during the event to keep your energy levels up.",
-      "endDate": "2024-09-22T21:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/b89aaafbd4fc07579b8280dc58b080261726049829.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.934246630000001,
-            "longitude": 77.617676110000005
-         },
-         "name": "Small World, 5th Block"
-      },
-      "name": "Garba Night",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 1000
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-11T18:51:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 1000
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-11T18:51:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 1000
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-11T18:51:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-09-22T20:00:00+05:30",
-      "url": "https://www.zomato.com/events/garba-night-bengaluru-et51449"
    },
    {
       "@context": "https://schema.org",
