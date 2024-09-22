@@ -511,8 +511,8 @@
   {
     "name": "Brews Of Bangalore (Oktoberfest Edition)",
     "description": "Join us for a vibrant day at Brews of Bangalore, where we're celebrating Bangalore's love for beer, coffee, food, and music! \nWith live music creating the perfect backdrop, immerse yourself in a day filled with exciting activities and games that guarantee endless fun and laughter. \nIndulge your taste buds with offerings from top beer brands like Toit, Mannheim, Kingfisher, Geist (and many more) and discover the perfect pairing with our \u2018Brews & Bites\u2019 section curated to complement your brews. \nAdditionally, savor a variety of coffees from top coffee brands, making it an unforgettable and joyous experience for all!\n\n",
-    "startDate": "2024-09-22T12:00:00+05:30",
-    "endDate": "2024-09-22T22:00:00+05:30",
+    "startDate": "2024-09-22 12:00:00",
+    "endDate": "2024-09-22 22:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2002,8 +2002,8 @@
   {
     "name": "Bengaluru Catapalooza",
     "description": "#Bengaluru Claws and craft brews at Bira91 Tap Room! \ud83d\udc31\ud83c\udf7a Join us for a purrfect evening of feline fun and fantastic beers.\n\nInclusions: \nExciting games & gifts for your pets\nFree pet food buffet\nFree Basic health check-up\nA goodie bag for all Pets\nNo charges for pets!\n\nOn-ground tickets will be priced at 700/- per person.\n",
-    "startDate": "2024-09-22T12:00:00+05:30",
-    "endDate": "2024-09-22T15:00:00+05:30",
+    "startDate": "2024-09-22 12:00:00",
+    "endDate": "2024-09-22 15:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2250,8 +2250,8 @@
   {
     "name": "Dance Like a Bollywood Star",
     "description": "Get ready to unleash your inner Bollywood sensation at our `Dance like a Bollywood Star` workshop!\nJoin us for a high-energy, fun-filled session where you`ll learn iconic Bollywood dance moves and grooves. Our talented instructors will guide you through the steps, from classic Bollywood numbers to the latest\nchartbusters. Whether you`re a seasoned dancer or just love to move, this workshop is open to all levels of experience!\nAnd that's not all! After mastering the moves, you`ll have the chance to shine in front of the camera and create your very own Instagram reel. Show off your newfound dance skills and capture the magic of Bollywood on film.\nSo, grab your dancing shoes, bring your enthusiasm, and join us for an unforgettable day of music, dance, and Bollywood glamour. Don't miss your chance to dance like a Bollywood star!",
-    "startDate": "2024-09-22T12:00:00+05:30",
-    "endDate": "2024-09-22T13:00:00+05:30",
+    "startDate": "2024-09-22 12:00:00",
+    "endDate": "2024-09-22 13:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -5219,8 +5219,8 @@
   {
     "name": "Paint with Puppies by Pawasana",
     "description": "Have you ever dreamed of painting alongside the most adorable companions imaginable? Now's your chance! Don't miss out on the event of the month: Painting with Puppies! It's not just a workshop; it's an unforgettable experience that will touch your heart and ignite your creativity like never before.\nImagine yourself surrounded by cuddly, adoptable puppies, their wagging tails and playful energy inspiring every brushstroke. But it's not just about painting; it's about making a difference. With each ticket purchased, you're supporting animal welfare initiatives, spreading love and compassion to those who need it most.\nIndulge in unlimited snuggles, laughter, and pure joy as you create your masterpiece alongside your furry friends. This isn't just another workshop\u2014it's a chance to create memories that will last a lifetime while giving back to the community.",
-    "startDate": "2024-09-22T10:30:00+05:30",
-    "endDate": "2024-09-22T12:30:00+05:30",
+    "startDate": "2024-09-22 10:30:00",
+    "endDate": "2024-09-22 12:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
