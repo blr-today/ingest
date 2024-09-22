@@ -210,6 +210,124 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Friday Fever: Ignite Your Weekend!Get ready to ignite your weekend at Skydeck by Sherlock's with our electrifying and unforgettable Friday Fever party",
+      "endDate": "2024-09-27T23:59:00",
+      "identifier": "com.skillboxes.15964",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726997874sD4R2RUqVwTbVO5G.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750296",
+            "longitude": "77.6075339"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "FRIDAY FEVER | DJ NIGHT | IGNITE YOUR WEEKEND!",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Get a complimentary Beer or a Mocktail on every booking!\n",
+            "inventoryLevel": 100,
+            "name": "Entry Charge",
+            "url": "https://www.skillboxes.com/events/ticket/friday-fever-dj-night-ignite-your-weekend-2"
+         }
+      ],
+      "startDate": "2024-09-27T20:00:00",
+      "url": "https://www.skillboxes.com/events/friday-fever-dj-night-ignite-your-weekend-2"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Bengaluru people, start the month on a brighter and sweeter note with our open mic! No genre/theme/language restrictions   Performing s",
+      "endDate": "2024-10-06T16:30:00",
+      "identifier": "com.skillboxes.15961",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aXpVdFNMZXQwTnFvV3RKOGVWaHhQdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726996311zOWGozW4uJxjLliw.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Performing Art"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No. 53, 1st Floor, Shree Chambers, Subbarama Chetty Road, 1st Floor, Nettakallappa Cir, above Karnataka Bank - Basavanagudi Branch, Basavanagudi, Bengaluru, Karnataka 560004, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9394742",
+            "longitude": "77.5716604"
+         },
+         "name": "Pops of Pastel"
+      },
+      "name": "Speaking Souls - Bengaluru Open Mic",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "Audience Slot",
+            "url": "https://www.skillboxes.com/events/ticket/speaking-souls-chandigarh-open-mic-7"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 17,
+            "name": "Performer Slot",
+            "url": "https://www.skillboxes.com/events/ticket/speaking-souls-chandigarh-open-mic-7"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 7,
+            "name": "Combo Slot (One Performer + One Audience)",
+            "url": "https://www.skillboxes.com/events/ticket/speaking-souls-chandigarh-open-mic-7"
+         }
+      ],
+      "startDate": "2024-10-06T14:30:00",
+      "url": "https://www.skillboxes.com/events/speaking-souls-chandigarh-open-mic-7"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Experience the magic of live music at Skydeck by Sherlock's this Wednesday! Join us for \"Deck Gigs\" featuring Raphael & Infant. Enjoy",
+      "endDate": "2024-09-25T23:30:00",
+      "identifier": "com.skillboxes.15960",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726994314GdPFSg5f8O5PAWT7.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Musician/Band"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750296",
+            "longitude": "77.6075339"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Deck Gigs | LIVE Band Performance",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Get a complimentary Beer or a Mocktail on every booking!\n",
+            "inventoryLevel": 100,
+            "name": "Entry Charge",
+            "url": "https://www.skillboxes.com/events/ticket/deck-gigs-live-band-performance-1"
+         }
+      ],
+      "startDate": "2024-09-25T20:00:00",
+      "url": "https://www.skillboxes.com/events/deck-gigs-live-band-performance-1"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "SocialEvent",
       "description": "🎶 Dive into the depths of sound every Thursday with Techno Thursdays at Ottoman! 🌌 Join us for an immersive experience with DJ Takshin",
       "endDate": "2024-09-26T23:59:00",
