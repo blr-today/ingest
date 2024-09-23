@@ -1,45 +1,28 @@
-from bs4 import BeautifulSoup
 import datefinder
 import json
 
 from common.tz import IST
-from common import shopifyproducts
+from common.shopify import Shopify, ShopifyProduct, ShopifyVariant
 
-BASE_URL = 'https://troveexperiences.com/'
-collection = 'collections/bangalore'
+DOMAIN = "troveexperiences.com"
+COLLECTION = "bangalore"
 
-# Check product variants. If it is coming soon, there is no date, skip. Otherwise it will have date in title
-def filter_data(products):
-    data = []
-    for product in products:
-        for variant in product['variants']:
-            if variant['title'] != 'Coming Soon!':
-                data.append(product)
-                break
-    return data
 
-# Fetch offers from variants.
-def fetch_offers(product):
-    variants = product['variants']
-    offers = []
-
-    for variant in variants:
-        offer = {
-        '@type': 'Offer',
-        'priceCurrency': 'INR',
-        'price': variant['price'],
-        'sku': variant['sku'],
-        'url': f"{BASE_URL}{collection}/products/{product['handle']}",
+# Convert variants to Schema.org/Offer
+def make_offers(product: ShopifyProduct):
+    return [
+        {
+            "@type": "Offer",
+            "priceCurrency": "INR",
+            "price": variant.price,
+            "sku": variant.sku,
         }
+        for variant in product.variants
+    ]
 
-        offers.append(offer)
-
-    return offers
 
 # Fetch timings from the variant.title. It returns start_date and end_date timestamps
-def fetch_timings(variants):
-    date_str = variants[0]['title']
-
+def fetch_timings(date_str: str):
     date_parts = date_str.split(" | ")
     # We use datefinder coz it finds the closest year automatically
     event_date = list(datefinder.find_dates(date_parts[1]))[0]
@@ -75,35 +58,35 @@ def fetch_timings(variants):
 
     return timestamps
 
-def fetch_description(product):
-    description = BeautifulSoup(product['body_html'], 'html.parser').get_text()
-    description = description.replace('\u00a0', "\n")
-    description = description.replace('\u2014', '-')
-    description = description.replace('\u2019', "'")
-    return description
 
-def make_event(product):
-    start_date, end_date = fetch_timings(product['variants'])
+def make_event(product, sp: Shopify):
+    start_date, end_date = fetch_timings(product.variants[0].title)
     duration = end_date.hour - start_date.hour
 
     return {
-        "@context": "https://schema.org",
-        "@type": "Event",
-        'about': product['title'],
-        'description': fetch_description(product),
-        'url': f"{BASE_URL}{collection}/products/{product['handle']}",
-        'keywords': product['tags'],
-        'offers': fetch_offers(product),
-        'duration': duration,
-        'startDate': start_date.isoformat(),
-        'endDate': end_date.isoformat()
+        "about": product.title,
+        "description": product.description,
+        "url": product.url,
+        "offers": make_offers(product),
+        "duration": duration,
+        "startDate": start_date.isoformat(),
+        "endDate": end_date.isoformat(),
     }
 
+
+# Ignore "Coming Soon" events
+def filter_products(products):
+    return filter(
+        lambda p: any("coming soon" not in v.title.lower() for v in p.variants),
+        products,
+    )
+
+
 if __name__ == "__main__":
-    sp = shopifyproducts.ShopifyProducts(BASE_URL, collection)
-    products = filter_data(sp.fetch_products())
-    
-    events = list(map(make_event, products))
-    output_json_file = "out/trove.json"
-    with open(output_json_file, "w") as f:
+    from common.session import get_cached_session
+    session = get_cached_session()
+    trove = Shopify(DOMAIN, session, COLLECTION)
+    events = [make_event(p, trove) for p in filter_products(trove.products())]
+    with open("out/trove.json", "w") as f:
         json.dump(events, f, indent=2)
+        print(f"[TROVE] {len(events)} events")
