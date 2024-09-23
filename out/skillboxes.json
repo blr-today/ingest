@@ -211,6 +211,57 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "What’s up Bangalore!Join Us This Sunday 29th SEPTEMBER for an amazing event. AQUA SUNSET !5:00PM ONWARDSFeaturing: VACHAN CHINNAPAA | ARJUN",
+      "endDate": "2024-09-30T01:00:00",
+      "identifier": "com.skillboxes.15972",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727030346gdjukfPHcgPpOxUJ.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "DJ/Producer"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9740179",
+            "longitude": "77.619422"
+         },
+         "name": "Aqua - THE Park Bangalore"
+      },
+      "name": "AQUA SUNSET !",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one stag to the event. Cover charges applicable at the venue throughout the event.\n",
+            "inventoryLevel": 200,
+            "name": "STAGS",
+            "url": "https://www.skillboxes.com/events/ticket/aqua-sunset"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one lady to the event.\n",
+            "inventoryLevel": 200,
+            "name": "LADIES",
+            "url": "https://www.skillboxes.com/events/ticket/aqua-sunset"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass allows entry to 1 Couple. Each pass permits one couple to the event. Cover charges applicable at the venue post 9:30 PM.\n",
+            "inventoryLevel": 199,
+            "name": "COUPLES",
+            "url": "https://www.skillboxes.com/events/ticket/aqua-sunset"
+         }
+      ],
+      "startDate": "2024-09-29T17:00:00",
+      "url": "https://www.skillboxes.com/events/aqua-sunset"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "ello Bangalore!Join us on 28th SEP 8PM onwards this Saturday to witness another crazy live performance.CLUB CODE SATURDAY / BOLLY - TECH EDITION !Step",
       "endDate": "2024-09-29T01:00:00",
       "identifier": "com.skillboxes.15967",
