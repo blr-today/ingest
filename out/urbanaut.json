@@ -1911,5 +1911,57 @@
       "Music",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Shamanic sound healing with Lifang Huang",
+    "description": "Shamanic sound healing is a practice rooted in ancient spiritual traditions, where sound is used as a powerful tool for healing and transformation.  Join Taiwanese Shamanic Sound healer Lifang Huang (@lifang_sound_healer_ ) for an evening of deep sound vibrations. Lifang Creates a healing sound bath using Tibetan singing bowls Nepalese shamanic drums her voice and other instruments.We will also include a cacao ceremony which will help in your nervous system regulation. During a session, the participant typically lies down in a relaxed state while the practitioner plays the instruments in a rhythmic and intentional manner. The sounds are often rhythmic and repetitive, inducing a meditative or trance-like state that allows the participant to journey inward. This altered state of consciousness is where healing is said to occur, as the sounds help to align the mind, body, and spirit.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7B9C7C2834484B118FA1170EC8603014_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7EE9A471880F4D8AAFB8A6B64F9C9905_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/62778257331E459C812EE7D25D46EBE7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1078F5B54716497082AA24153B126FD9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5DA0C491A2C7407F8A96320CEBA1B9E4_converted_webp.webp"
+    ],
+    "startDate": "2024-10-04T19:30:00+05:30",
+    "endDate": "2024-10-04T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 8,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1800.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/copy-of-shamanic-sound-healing-with-lifang-huang",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
