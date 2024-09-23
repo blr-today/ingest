@@ -1,70 +1,28 @@
-from common.jsonld import JsonLdExtractor
-from bs4 import BeautifulSoup
-from datetime import timedelta, datetime
-from common.session import get_cached_session
 import datefinder
 import json
+
 from common.tz import IST
+from common.shopify import Shopify, ShopifyProduct, ShopifyVariant
 
-BASE_URL = "https://troveexperiences.com/"
-
-# TODO: Move to TEST
-# Input dates
-dates = [
-    "Sat | Jun 29 | 10 AM - 12:30 PM",
-    "Sat | Jun 29 | 3 - 6 PM",
-    "Sun | Jun 30 | 9:30 -11:30 AM",
-    "Sun | Jun 30 | 11 AM - 1 PM",
-    "Sat | Jul 06 | 4 - 6:30 PM",
-    "Sun | Jul 07 | 8:30 AM to 11:30 AM",
-    "Sun | Jul 07 | 10 AM to 12:30 PM",
-    "Sun | Jul 14 | 10:30 AM - 1 PM",
-    "Sun | Jul 14 | 4 - 7 PM",
-]
-
-TIME_FORMAT_STRINGS = ["%I %p", "%I%p", "%I:%M %p", "%I:%M%p"]
+DOMAIN = "troveexperiences.com"
+COLLECTION = "bangalore"
 
 
-def scrape_trove(location):
-    session = get_cached_session()
-
-    url = f"https://troveexperiences.com/collections/upcoming/{location}"
-    soup = BeautifulSoup(session.get(url).content, "html.parser")
-    for link in soup.select("a.grid-product__link"):
-        url = BASE_URL + link["href"]
-        r = session.get(url)
-        soup = BeautifulSoup(r.text, "html.parser")
-        date_str = soup.select_one('form div.variant-input input[type="radio"]')[
-            "value"
-        ]
-        startDate, endDate = parse_date(date_str)
-        location_text = soup.select_one(".custom-field__location").text
-
-        data = JsonLdExtractor().extract(r.text)
-
-        product = list(filter(lambda x: x["@type"] == "Product", data))[0]
-        if "InStock" in product["offers"][0]["availability"]:
-            yield {
-                "offers": product["offers"],
-                "name": product["name"],
-                "description": product["description"],
-                "url": product["url"],
-                "startDate": startDate.isoformat(),
-                "endDate": endDate.isoformat(),
-                "image": product["image"],
-                "location": location_text,
-            }
+# Convert variants to Schema.org/Offer
+def make_offers(product: ShopifyProduct):
+    return [
+        {
+            "@type": "Offer",
+            "priceCurrency": "INR",
+            "price": variant.price,
+            "sku": variant.sku,
+        }
+        for variant in product.variants
+    ]
 
 
-def parse_time(time_str):
-    for fmt in TIME_FORMAT_STRINGS:
-        try:
-            return datetime.strptime(time_str, fmt).time()
-        except ValueError:
-            pass
-
-
-def parse_date(date_str):
+# Fetch timings from the variant.title. It returns start_date and end_date timestamps
+def fetch_timings(date_str: str):
     date_parts = date_str.split(" | ")
     # We use datefinder coz it finds the closest year automatically
     event_date = list(datefinder.find_dates(date_parts[1]))[0]
@@ -101,11 +59,34 @@ def parse_date(date_str):
     return timestamps
 
 
+def make_event(product, sp: Shopify):
+    start_date, end_date = fetch_timings(product.variants[0].title)
+    duration = end_date.hour - start_date.hour
+
+    return {
+        "about": product.title,
+        "description": product.description,
+        "url": product.url,
+        "offers": make_offers(product),
+        "duration": duration,
+        "startDate": start_date.isoformat(),
+        "endDate": end_date.isoformat(),
+    }
+
+
+# Ignore "Coming Soon" events
+def filter_products(products):
+    return filter(
+        lambda p: any("coming soon" not in v.title.lower() for v in p.variants),
+        products,
+    )
+
+
 if __name__ == "__main__":
-    events = []
-    for event in scrape_trove("bangalore"):
-        events.append(event)
-    output_json_file = "out/trove.json"
-    with open(output_json_file, "w") as f:
+    from common.session import get_cached_session
+    session = get_cached_session()
+    trove = Shopify(DOMAIN, session, COLLECTION)
+    events = [make_event(p, trove) for p in filter_products(trove.products())]
+    with open("out/trove.json", "w") as f:
         json.dump(events, f, indent=2)
-    print(f"[TROVE] {len(events)} events")
+        print(f"[TROVE] {len(events)} events")
