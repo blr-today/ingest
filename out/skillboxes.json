@@ -210,6 +210,90 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Bangalore's most awaited & sought after Privilege Fridaze is back at Juliet with DJ Rohit this Friday.Date: Friday, 27th September | 8PM OnwardsVe",
+      "endDate": "2024-09-28T01:00:00",
+      "identifier": "com.skillboxes.15989",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727112225PL8FvCdIItsSQcpo.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "5th floor, 1, MG Mall, Trinity Circle, Mahatma Gandhi Rd, above 1MG Mall, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9734662",
+            "longitude": "77.6204084"
+         },
+         "name": "Juliet (1MG Mall)"
+      },
+      "name": "𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞 𝐅𝐫𝐢𝐝𝐚𝐳𝐞 𝐟𝐭. 𝐑𝐨𝐡𝐢𝐭 | 𝟐𝟕𝐭𝐡 𝐒𝐞𝐩𝐭 | 𝐉𝐮𝐥𝐢𝐞𝐭",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM strictly. Cover charges applicable at the venue post 10PM\n",
+            "inventoryLevel": 100,
+            "name": "Couple - Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/privilege-fridaze-ft-rohit-27th-sept-juliet"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female till 10PM strictly. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Female - Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/privilege-fridaze-ft-rohit-27th-sept-juliet"
+         }
+      ],
+      "startDate": "2024-09-27T20:00:00",
+      "url": "https://www.skillboxes.com/events/privilege-fridaze-ft-rohit-27th-sept-juliet"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "THE  BOLLYWOOD LIGHT'S OUT SATURDAY NIGHT'S ON SEPTEMBER 28TH STARTING AT 8:00 P.M., MACAW BY STORIES SINGASANDRA.WILL HOST BOLLYWOOD-EDM MUSIC E",
+      "endDate": "2024-09-28T23:59:00",
+      "identifier": "com.skillboxes.15988",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727109929rR1b6DMKhmSjwYhc.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No 2224 , 2225 AECS Layout Singasandra Hosur, Service Rd, Srinivasa Nagar, Hal Layout, Singasandra, Bengaluru, Karnataka 560068, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.8842461",
+            "longitude": "77.6434432"
+         },
+         "name": "Macaw By Stories"
+      },
+      "name": "BOLLYWOOD LIGHT'S OUT SATURDAY NIGHT'S",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Couple RSVP Pass",
+            "url": "https://www.skillboxes.com/events/ticket/bollywood-light-s-out-saturday-night-s"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Female RSVP Pass",
+            "url": "https://www.skillboxes.com/events/ticket/bollywood-light-s-out-saturday-night-s"
+         }
+      ],
+      "startDate": "2024-09-28T20:00:00",
+      "url": "https://www.skillboxes.com/events/bollywood-light-s-out-saturday-night-s"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "A Halloween Special from Sakura Screenings- Spooky Spirits Island!Get ready for a Halloween-themed movie night with two spooky favorites—a magic",
       "endDate": "2024-10-20T19:00:00",
@@ -928,32 +1012,6 @@
       ],
       "startDate": "2024-09-27T18:00:00",
       "url": "https://www.skillboxes.com/events/sinfonia-music-club-1-midnights-by-taylor-swift"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Prepare yourself for an unforgettable night as Protocol Sundays brings the electrifying My Friend, the celebrated Anjunadeep artist, to set the stage ",
-      "endDate": "2024-09-23T01:00:00",
-      "identifier": "com.skillboxes.15908",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726749945VAAmslPNoanfaUwQ.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Protocol ft. My Friend | 22nd Sept | Kitty Ko",
-      "offers": [ ],
-      "startDate": "2024-09-22T20:00:00",
-      "url": "https://www.skillboxes.com/events/protocol-ft-my-friend-22nd-sept-kitty-ko"
    },
    {
       "@context": "https://schema.org",
@@ -2601,40 +2659,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Retro Revelry - A Night of Classic Vibes and Timeless Tunes📅 Date: 22nd September 2024  🕖 Time: 7 PM Onwards  &#12",
-      "endDate": "2024-09-23T23:59:00",
-      "identifier": "com.skillboxes.15742",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b09PVUJNY1BZcjg3OE1Gbm1jTmM3Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726308532hnLlfQtZ42t4OwYa.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28.4524744",
-            "longitude": "77.0727299"
-         },
-         "name": "Mollys Rooftop Bar and Lounge"
-      },
-      "name": "RETRO REVELRY",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 50,
-            "name": "RETRO REVELRY",
-            "url": "https://www.skillboxes.com/events/ticket/retro-revelry-2"
-         }
-      ],
-      "startDate": "2024-09-22T19:00:00",
-      "url": "https://www.skillboxes.com/events/retro-revelry-2"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "An Exclusive Anjunadeep Showcase!\r\n\r\n \r\n\r\n‘WHEN I’M WITH YOU’ ALBUM TOUR\r\n\r\n \r\n\r\nAnjunadeep’s Dark Lord is back!! Th",
       "endDate": "2024-09-29T01:00:00",
       "identifier": "com.skillboxes.15729",
@@ -3493,52 +3517,6 @@
       ],
       "startDate": "2024-10-06T18:00:00",
       "url": "https://www.skillboxes.com/events/neo-city-kwangyaverse-a-k-pop-and-cyberpunk-themed-party-night-by-blrgrooveco"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "BigTree Entertainment presents Patiala Sundays Bollywood Punjabi Music Night Extravaganza with DJ Karthik Gopinath at one of the best clubs in Bangalo",
-      "endDate": "2024-09-23T01:00:00",
-      "identifier": "com.skillboxes.15269",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NlVlUVlGLy9UWTc1TFdXZVlyWXBFQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726646413jeknpoS9c0f3wZwe.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Party or Social Gathering"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "SY No. 69, BBMP No. 2034/69, Block-2, Situated at Kaikondrahalli, Varthur Hobli, Sarjapur Road Bangalore, India",
-         "name": "Hoot Cafe & Brewery"
-      },
-      "name": "Patiala Sundays ft DJ ABK",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry and no cover charges for all girls always through registration\n",
-            "inventoryLevel": 200,
-            "name": "Free Ladies Entry",
-            "url": "https://www.skillboxes.com/events/ticket/patiala-sundays-ft-dj-rohen-pune"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry and no cover charges for all couples before 9:30 PM through registration, post 9:30 PM cover applies\n",
-            "inventoryLevel": 200,
-            "name": "Couple Entry",
-            "url": "https://www.skillboxes.com/events/ticket/patiala-sundays-ft-dj-rohen-pune"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges for all stags will always be applicable which is fully redeemable.\n",
-            "inventoryLevel": 200,
-            "name": "Stag Male Entry",
-            "url": "https://www.skillboxes.com/events/ticket/patiala-sundays-ft-dj-rohen-pune"
-         }
-      ],
-      "startDate": "2024-09-22T19:00:00",
-      "url": "https://www.skillboxes.com/events/patiala-sundays-ft-dj-rohen-pune"
    },
    {
       "@context": "https://schema.org",
