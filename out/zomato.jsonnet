@@ -2359,7 +2359,7 @@
         "currency": "INR",
         "validFrom": "2024-09-11 14:51:00",
         "availability": "INSTOCK",
-        "inventory": 17
+        "inventory": 12
       }
     ],
     "performers": [],
@@ -2427,7 +2427,7 @@
         "currency": "INR",
         "validFrom": "2024-09-11 14:51:00",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 18
       }
     ],
     "performers": [],
@@ -3817,7 +3817,7 @@
         "currency": "INR",
         "validFrom": "2024-09-14 01:53:34",
         "availability": "INSTOCK",
-        "inventory": 197
+        "inventory": 190
       },
       {
         "url": "https://www.zomato.com/events/core-open-air-bengaluru-et51617/details",
@@ -3825,7 +3825,7 @@
         "currency": "INR",
         "validFrom": "2024-09-14 01:53:34",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 193
       }
     ],
     "performers": [],
