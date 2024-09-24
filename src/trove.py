@@ -61,14 +61,12 @@ def fetch_timings(date_str: str):
 
 def make_event(product, sp: Shopify):
     start_date, end_date = fetch_timings(product.variants[0].title)
-    duration = end_date.hour - start_date.hour
 
     return {
-        "about": product.title,
+        "name": product.title,
         "description": product.description,
         "url": product.url,
         "offers": make_offers(product),
-        "duration": duration,
         "startDate": start_date.isoformat(),
         "endDate": end_date.isoformat(),
     }
