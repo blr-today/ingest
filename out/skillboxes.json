@@ -89,6 +89,57 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "We’re putting the fun in Fundraiser. \r\n\r\nThe FluffyNut Foundation is celebrating their 8 year anniversary with a Fundraiser and a Pizza Par",
+      "endDate": "2024-10-04T23:59:00",
+      "identifier": "com.skillboxes.16004",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727170334Y9fdIHyziRnK1y7i.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "872/a, 80 Feet Rd, HAL 2nd Stage, New Tippasandra, Bengaluru, Karnataka 560038, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9797709",
+            "longitude": "77.6465667"
+         },
+         "name": "Brik Oven - Original Sourdough Pizzas"
+      },
+      "name": "Brik Oven X The Fluffynut Foundation",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Unlimited pizza and wines.\n",
+            "inventoryLevel": 30,
+            "name": "Phase 1 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/brik-oven-x-the-fluffynut-foundation"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Unlimited pizza and wines.\n",
+            "inventoryLevel": 50,
+            "name": "Phase 2 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/brik-oven-x-the-fluffynut-foundation"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Unlimited pizza and wines.\n",
+            "inventoryLevel": 50,
+            "name": "Phase 3 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/brik-oven-x-the-fluffynut-foundation"
+         }
+      ],
+      "startDate": "2024-10-04T19:00:00",
+      "url": "https://www.skillboxes.com/events/brik-oven-x-the-fluffynut-foundation"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Get ready to experience a night of futuristic techno in Bangalore!\r\n\r\n Berlin's underground scene spectacle Varlerie Ace, is bringing her min",
       "endDate": "2024-09-29T23:59:00",
       "identifier": "com.skillboxes.15561",
@@ -210,6 +261,71 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Maha Navratri Festival 2024: Unleash Your Inner GoddessJoin us for a transformative journey of empowerment community and divine connection.This isn't ",
+      "endDate": "2024-10-02T20:30:00",
+      "identifier": "com.skillboxes.16037",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TDBrbnFPb0I0dndXZnRaK1RlTXVFZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727287297LR9AGm1HijydnkNv.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Religion & Spirituality"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "Maha Navaratri Festival 2024: Nine Nights Of The Goddess",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Register here: https://unalomeproject.com/nine-nights-of-the-goddess/\n",
+            "inventoryLevel": 100,
+            "name": "MNF 2024",
+            "url": "https://www.skillboxes.com/events/ticket/maha-navaratri-festival-2024-nine-nights-of-the-goddess"
+         }
+      ],
+      "startDate": "2024-10-02T19:00:00",
+      "url": "https://www.skillboxes.com/events/maha-navaratri-festival-2024-nine-nights-of-the-goddess"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Bengaluru! We’re back with another editionThe Burrow presents: WyycassAk37ChanVisuals - Vision Of Sound🗓️ Friday, 27th Septe",
+      "endDate": "2024-09-27T23:00:00",
+      "identifier": "com.skillboxes.16035",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17272786692JmBI5Gd7DtHX2gk.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9849438",
+            "longitude": "77.5808105"
+         },
+         "name": "The Burrow"
+      },
+      "name": "The Burrow presents Wyycass, Ak37 & Chan",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "One entry per ticket\nCover charges apply on entry post 9:30 PM.",
+            "inventoryLevel": 496,
+            "name": "The Burrow presents Wyycass, Ak37 & Chan",
+            "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-wyycass-ak37-chan"
+         }
+      ],
+      "startDate": "2024-09-27T21:00:00",
+      "url": "https://www.skillboxes.com/events/the-burrow-presents-wyycass-ak37-chan"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Skydeck TV: Immerse Yourself in Sound and Vision! Get ready for a mind-blowing audiovisual experience at Skydeck by Sherlock's this Sunday! \"",
       "endDate": "2024-09-29T23:59:00",
@@ -276,40 +392,6 @@
       ],
       "startDate": "2024-09-26T19:00:00",
       "url": "https://www.skillboxes.com/events/punjabi-bollywood-night-26-sep"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Highlights:DJ NightBollywood NightLadies NightFree Drinks For LadiesNon Stop MusicLadies Night Extravaganza every Wednesday!Join\n us for an evenin",
-      "endDate": "2024-09-25T23:59:00",
-      "identifier": "com.skillboxes.16021",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWpVWFhZakF5disrNE1LdFozaldMZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17272490239OkV4q7bLF2ffzoQ.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Event"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9151523",
-            "longitude": "77.6660553"
-         },
-         "name": "White Lotus Club Bengaluru"
-      },
-      "name": "WEDNESDAY LADIES NIGHT | 26 SEP",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "GUESTLIST",
-            "url": "https://www.skillboxes.com/events/ticket/wednesday-ladies-night-26-sep"
-         }
-      ],
-      "startDate": "2024-09-25T19:51:00",
-      "url": "https://www.skillboxes.com/events/wednesday-ladies-night-26-sep"
    },
    {
       "@context": "https://schema.org",
@@ -488,57 +570,6 @@
       ],
       "startDate": "2024-09-28T20:00:00",
       "url": "https://www.skillboxes.com/events/superclub-saturday-13"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "We’re putting the fun in Fundraiser. \r\n\r\nThe FluffyNut Foundation is celebrating their 8 year anniversary with a Fundraiser and a Pizza Par",
-      "endDate": "2024-10-04T23:59:00",
-      "identifier": "com.skillboxes.16004",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727170334Y9fdIHyziRnK1y7i.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "872/a, 80 Feet Rd, HAL 2nd Stage, New Tippasandra, Bengaluru, Karnataka 560038, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9797709",
-            "longitude": "77.6465667"
-         },
-         "name": "Brik Oven - Original Sourdough Pizzas"
-      },
-      "name": "Brik Oven X The Fluffynut Foundation",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Unlimited pizza and wines.\n",
-            "inventoryLevel": 30,
-            "name": "Phase 1 Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/brik-oven-x-the-fluffynut-foundation"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Unlimited pizza and wines.\n",
-            "inventoryLevel": 50,
-            "name": "Phase 2 Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/brik-oven-x-the-fluffynut-foundation"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Unlimited pizza and wines.\n",
-            "inventoryLevel": 50,
-            "name": "Phase 3 Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/brik-oven-x-the-fluffynut-foundation"
-         }
-      ],
-      "startDate": "2024-10-04T19:00:00",
-      "url": "https://www.skillboxes.com/events/brik-oven-x-the-fluffynut-foundation"
    },
    {
       "@context": "https://schema.org",
@@ -1002,41 +1033,6 @@
       ],
       "startDate": "2024-10-06T14:30:00",
       "url": "https://www.skillboxes.com/events/speaking-souls-chandigarh-open-mic-7"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Experience the magic of live music at Skydeck by Sherlock's this Wednesday! Join us for \"Deck Gigs\" featuring Raphael & Infant. Enjoy",
-      "endDate": "2024-09-25T23:30:00",
-      "identifier": "com.skillboxes.15960",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726994314GdPFSg5f8O5PAWT7.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Musician/Band"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750296",
-            "longitude": "77.6075339"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "Deck Gigs | LIVE Band Performance",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Get a complimentary Beer or a Mocktail on every booking!\n",
-            "inventoryLevel": 100,
-            "name": "Entry Charge",
-            "url": "https://www.skillboxes.com/events/ticket/deck-gigs-live-band-performance-1"
-         }
-      ],
-      "startDate": "2024-09-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/deck-gigs-live-band-performance-1"
    },
    {
       "@context": "https://schema.org",
@@ -3607,61 +3603,6 @@
       ],
       "startDate": "2024-09-29T21:00:00",
       "url": "https://www.skillboxes.com/events/sannidhya-bhuyan-live-in-assamese-live-show"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Byg Brewski Brewing Company presents Music To My Beers!\r\n\r\nExperience the best of live entertainment at BYG Brewski Brewing Company, where talented ba",
-      "endDate": "2024-09-25T22:00:00",
-      "identifier": "com.skillboxes.15433",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1725282973p309EUASLuIcTcso.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "4th Floor, Vaishnavi Sapphire Centre, 9, 36, Tumkur Rd, Yeshwanthpur Industrial Area, Phase 1, Yeswanthpur, Bengaluru, Karnataka 560022, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0242256",
-            "longitude": "77.54877069999999"
-         },
-         "name": "Byg Brewski Brewing Company"
-      },
-      "name": "Music To My Beers! | Byg Brewski Brewing Company - Yeshwantpur",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 999,
-            "name": "RSVP (4th September)",
-            "url": "https://www.skillboxes.com/events/ticket/music-to-my-beers-byg-brewski-brewing-company-yeshwantpur"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "RSVP (11th September)",
-            "url": "https://www.skillboxes.com/events/ticket/music-to-my-beers-byg-brewski-brewing-company-yeshwantpur"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "RSVP (18th September)",
-            "url": "https://www.skillboxes.com/events/ticket/music-to-my-beers-byg-brewski-brewing-company-yeshwantpur"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "RSVP (25th September)",
-            "url": "https://www.skillboxes.com/events/ticket/music-to-my-beers-byg-brewski-brewing-company-yeshwantpur"
-         }
-      ],
-      "startDate": "2024-09-04T20:00:00",
-      "url": "https://www.skillboxes.com/events/music-to-my-beers-byg-brewski-brewing-company-yeshwantpur"
    },
    {
       "@context": "https://schema.org",
