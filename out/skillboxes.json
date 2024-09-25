@@ -25,7 +25,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 286,
+            "inventoryLevel": 275,
             "name": "Phase 3 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/k-wave-festival-2024-bangalore"
          },
@@ -33,7 +33,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Dedicated Entry\nClosest to the stage",
-            "inventoryLevel": 172,
+            "inventoryLevel": 151,
             "name": "Phase 3 VIP Ticket",
             "url": "https://www.skillboxes.com/events/ticket/k-wave-festival-2024-bangalore"
          },
@@ -168,7 +168,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 Cover Charges Per Person Applicable At The Gates.\n",
-            "inventoryLevel": 735,
+            "inventoryLevel": 715,
             "name": "Phase 3 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-india-tour-bangalore"
          },
@@ -207,6 +207,160 @@
       ],
       "startDate": "2024-10-18T18:00:00",
       "url": "https://www.skillboxes.com/events/seedhe-maut-india-tour-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Skydeck TV: Immerse Yourself in Sound and Vision! Get ready for a mind-blowing audiovisual experience at Skydeck by Sherlock's this Sunday! \"",
+      "endDate": "2024-09-29T23:59:00",
+      "identifier": "com.skillboxes.16024",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727255000HsZDycA27QZmlkWd.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750296",
+            "longitude": "77.6075339"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "SKYDECK TV | DJ NIGHT | AUDIO-VISUAL EXPERIENCE",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Get a complimentary Beer or a Mocktail on every booking!\n",
+            "inventoryLevel": 100,
+            "name": "Entry Charge",
+            "url": "https://www.skillboxes.com/events/ticket/skydeck-tv-dj-night-audio-visual-experience-4"
+         }
+      ],
+      "startDate": "2024-09-29T20:00:00",
+      "url": "https://www.skillboxes.com/events/skydeck-tv-dj-night-audio-visual-experience-4"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "🎉 Punjabi Bollywood Night Extravaganza! 🎉Get\n ready to immerse yourself in an unforgettable evening of high-energy \nfun, rhyth",
+      "endDate": "2024-09-26T23:59:00",
+      "identifier": "com.skillboxes.16022",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWpVWFhZakF5disrNE1LdFozaldMZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727249336kPH259IasR2FgLh9.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9151523",
+            "longitude": "77.6660553"
+         },
+         "name": "White Lotus Club Bengaluru"
+      },
+      "name": "PUNJABI BOLLYWOOD NIGHT | 26 SEP",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "GUESTLIST",
+            "url": "https://www.skillboxes.com/events/ticket/punjabi-bollywood-night-26-sep"
+         }
+      ],
+      "startDate": "2024-09-26T19:00:00",
+      "url": "https://www.skillboxes.com/events/punjabi-bollywood-night-26-sep"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Highlights:DJ NightBollywood NightLadies NightFree Drinks For LadiesNon Stop MusicLadies Night Extravaganza every Wednesday!Join\n us for an evenin",
+      "endDate": "2024-09-25T23:59:00",
+      "identifier": "com.skillboxes.16021",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWpVWFhZakF5disrNE1LdFozaldMZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17272490239OkV4q7bLF2ffzoQ.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9151523",
+            "longitude": "77.6660553"
+         },
+         "name": "White Lotus Club Bengaluru"
+      },
+      "name": "WEDNESDAY LADIES NIGHT | 26 SEP",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "GUESTLIST",
+            "url": "https://www.skillboxes.com/events/ticket/wednesday-ladies-night-26-sep"
+         }
+      ],
+      "startDate": "2024-09-25T19:51:00",
+      "url": "https://www.skillboxes.com/events/wednesday-ladies-night-26-sep"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "The event that bridges the worlds of fashion, art, and design and converges for a noble cause! This dynamic gathering celebrates creativity and inclus",
+      "endDate": "2024-09-29T04:00:00",
+      "identifier": "com.skillboxes.16019",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b3BFakY3eFhDMkJGZklnVW9teUl5QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727245037WmiSR4qSfHXzL10v.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Carmelaram Rd, Carmelaram, Hadosiddapura, Chikkakannalli, Bengaluru, Karnataka 560035, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9031455",
+            "longitude": "77.7044603"
+         },
+         "name": "Street 1522"
+      },
+      "name": "Get Unkury'D",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Early Bird Access\n",
+            "inventoryLevel": 200,
+            "name": "General Access",
+            "url": "https://www.skillboxes.com/events/ticket/get-unkury-d"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Early Bird Access\n",
+            "inventoryLevel": 100,
+            "name": "Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/get-unkury-d"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Early Bird Access\n",
+            "inventoryLevel": 200,
+            "name": "Buddy Pass",
+            "url": "https://www.skillboxes.com/events/ticket/get-unkury-d"
+         }
+      ],
+      "startDate": "2024-09-29T03:30:00",
+      "url": "https://www.skillboxes.com/events/get-unkury-d"
    },
    {
       "@context": "https://schema.org",
@@ -1210,7 +1364,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 23,
+            "inventoryLevel": 18,
             "name": "Indie Sounds Access",
             "url": "https://www.skillboxes.com/events/ticket/indie-sounds-an-ig-x-ls-house-gig-oct-2024"
          }
@@ -2727,7 +2881,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 919,
+            "description": "Cover charges applicable on entry, as per venue’s discretion.\n",
+            "inventoryLevel": 813,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/johnnie-walker-revibe-bangalore-featuring-sickflip-avantika-boyka"
          }
@@ -2762,8 +2917,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Admits 1\n",
-            "inventoryLevel": 46,
+            "inventoryLevel": 27,
             "name": "Limited Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/mosaic"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Admits 1\n",
+            "inventoryLevel": 50,
+            "name": "Phase 1 - Single",
             "url": "https://www.skillboxes.com/events/ticket/mosaic"
          }
       ],
@@ -2847,7 +3010,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 111,
+            "inventoryLevel": 95,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/kayan-vision-india-tour-bangalore"
          },
@@ -2888,9 +3051,17 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Permits entry to the venue for one person at the bronze area.\n",
+            "inventoryLevel": 50,
+            "name": "Bronze ( Standing ) – Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/shankar-ehsaan-loy-live-in-concert-bangalore-2024"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "Permits entry to the venue for one person at the silver area.\n",
             "inventoryLevel": 50,
-            "name": "Silver (Standing) - Early Bird",
+            "name": "Silver (Standing) - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/shankar-ehsaan-loy-live-in-concert-bangalore-2024"
          },
          {
@@ -2898,7 +3069,7 @@
             "availability": "InStock",
             "description": "Permits entry to the venue for one person at the gold area.\n",
             "inventoryLevel": 50,
-            "name": "Gold (Seating) - Early Bird",
+            "name": "Gold (Seating) - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/shankar-ehsaan-loy-live-in-concert-bangalore-2024"
          },
          {
@@ -2906,7 +3077,7 @@
             "availability": "InStock",
             "description": "Permits entry to the venue for one person at the platinum area.\n",
             "inventoryLevel": 50,
-            "name": "Platinum (Seating) - Early Bird",
+            "name": "Platinum (Seating) - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/shankar-ehsaan-loy-live-in-concert-bangalore-2024"
          },
          {
@@ -2914,7 +3085,7 @@
             "availability": "InStock",
             "description": "Permits entry to the venue for one person at the VIP area.\n",
             "inventoryLevel": 50,
-            "name": "VIP (Seating) - Early Bird",
+            "name": "VIP (Seating) - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/shankar-ehsaan-loy-live-in-concert-bangalore-2024"
          },
          {
@@ -2922,15 +3093,7 @@
             "availability": "InStock",
             "description": "Permits entry to the venue for one person at the MIP area.\n",
             "inventoryLevel": 50,
-            "name": "MIP (Seating) - Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/shankar-ehsaan-loy-live-in-concert-bangalore-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits entry to the venue for one person at the bronze area.\n",
-            "inventoryLevel": 50,
-            "name": "Bronze ( Standing ) – Early Bird",
+            "name": "MIP (Seating) - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/shankar-ehsaan-loy-live-in-concert-bangalore-2024"
          }
       ],
@@ -3098,7 +3261,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge INR 500/- Per Individual Applicable At Gates.\n",
-            "inventoryLevel": 994,
+            "inventoryLevel": 992,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/oaf-presents-black-letters-supported-by-sahana-sakre"
          },
@@ -3313,7 +3476,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable Post 21:00 PM\n",
-            "inventoryLevel": 186,
+            "inventoryLevel": 181,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/urban-rumble-1"
          },
@@ -3321,7 +3484,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable Post 21:00 PM\n",
-            "inventoryLevel": 94,
+            "inventoryLevel": 92,
             "name": "Buy 2 Get 1",
             "url": "https://www.skillboxes.com/events/ticket/urban-rumble-1"
          }
@@ -3356,7 +3519,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges to be applicable post 10:30 pm\n",
-            "inventoryLevel": 173,
+            "inventoryLevel": 172,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/offline-x-nightvibe-presents-diorange-in-bangalore"
          }
@@ -3678,7 +3841,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket will allow one person at Indiranagar Social\nThis ticket is applicable for 28th September 2024",
-            "inventoryLevel": 46,
+            "inventoryLevel": 44,
             "name": "Phase 1 Ticket | 28th September",
             "url": "https://www.skillboxes.com/events/ticket/bass-camp-2024-bangalore"
          },
@@ -3953,7 +4116,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Students (Any College/Institute) must carry a valid ID card - No Re-Entry - Allows one individual to the event area - Venue rules applicable\n",
-            "inventoryLevel": 3823,
+            "inventoryLevel": 3822,
             "name": "Phase 1 : Student Pass",
             "url": "https://www.skillboxes.com/events/ticket/lunaland-the-carnival-of-dreams-awaits"
          },
@@ -3961,7 +4124,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Must carry a valid ID card - No Re-Entry - Allows one individual to the event area - Venue rules applicable\n",
-            "inventoryLevel": 988,
+            "inventoryLevel": 986,
             "name": "Phase 1 : General Pass",
             "url": "https://www.skillboxes.com/events/ticket/lunaland-the-carnival-of-dreams-awaits"
          },
