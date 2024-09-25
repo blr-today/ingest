@@ -1380,7 +1380,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 12:53:47",
         "availability": "INSTOCK",
-        "inventory": 71
+        "inventory": 68
       }
     ],
     "performers": [],
@@ -1522,7 +1522,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:41",
         "availability": "INSTOCK",
-        "inventory": 37
+        "inventory": 28
       }
     ],
     "performers": [],
@@ -1564,7 +1564,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:41",
         "availability": "INSTOCK",
-        "inventory": 64
+        "inventory": 60
       }
     ],
     "performers": [],
@@ -2359,7 +2359,7 @@
         "currency": "INR",
         "validFrom": "2024-09-11 14:51:00",
         "availability": "INSTOCK",
-        "inventory": 12
+        "inventory": 11
       }
     ],
     "performers": [],
@@ -2717,50 +2717,6 @@
   {
     "name": "Resin Art Workshop",
     "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-    "startDate": "2024-09-24T14:00:00+05:30",
-    "endDate": "2024-09-24T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1726064434.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51494/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-09-11 20:06:19",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51494",
-    "id": "com.zomato.51494",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Resin Art Workshop",
-    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
     "startDate": "2024-09-25T14:00:00+05:30",
     "endDate": "2024-09-25T15:00:00+05:30",
     "timezone": "+05:30",
@@ -3043,7 +2999,7 @@
         "currency": "INR",
         "validFrom": "2024-09-11 20:30:00",
         "availability": "INSTOCK",
-        "inventory": 19
+        "inventory": 18
       },
       {
         "url": "https://www.zomato.com/events/blind-date-a-sensory-experience-bengaluru-et51502/details",
@@ -3485,50 +3441,6 @@
   {
     "name": "Block Printing",
     "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
-    "startDate": "2024-09-24T14:00:00+05:30",
-    "endDate": "2024-09-24T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Block Printing Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Block Printing Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51551/details",
-        "price": 1199,
-        "currency": "INR",
-        "validFrom": "2024-09-12 10:31:55",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51551",
-    "id": "com.zomato.51551",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Block Printing",
-    "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
     "startDate": "2024-09-25T14:00:00+05:30",
     "endDate": "2024-09-25T15:00:00+05:30",
     "timezone": "+05:30",
@@ -3825,7 +3737,7 @@
         "currency": "INR",
         "validFrom": "2024-09-14 01:53:34",
         "availability": "INSTOCK",
-        "inventory": 193
+        "inventory": 191
       }
     ],
     "performers": [],
@@ -4188,7 +4100,7 @@
         "currency": "INR",
         "validFrom": "2024-09-22 09:59:00",
         "availability": "INSTOCK",
-        "inventory": 1944
+        "inventory": 1852
       }
     ],
     "performers": [],
@@ -4968,6 +4880,490 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97326,
         "longitude": 77.619667
+      }
+    }
+  },
+  {
+    "name": "The Great Indian Dandiya Celebration 2024",
+    "description": "- Free Dandiya Sticks for all\n- 6 Hours Of Non-Stop Garba/Bollywood/Punjabi Music\n- Happening at the Rooftop classiest Place in Town with Beautiful Festive decor Ambience.\n- The Best DJ's In India To Take Care Of The Deck Duties\n- Garba Dance\n- Food/Beverage Stalls Available At The Venue \n- The Whole Venue Decorated To Suit The Grand Occasion.\n- Children Friendly\n- Special Surprises & Giveaways \n- Authentic Food Prepared By the best Chefs in India.\n- Security CCTV: Enhanced safety with comprehensive CCTV surveillance for a secure environment.\n\nSurely You Not Gonna Miss This One: Hurry And Book Your tickets now!",
+    "startDate": "2024-10-03T18:00:00+05:30",
+    "endDate": "2024-10-10T00:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "The Great Indian Dandiya Celebration 2024 Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for The Great Indian Dandiya Celebration 2024 Bengaluru on Zomato which is a Trending event happening at Plot No 514, Outer Ring Rd, opp. Lumbini Garden, Kanaka Nagar, Veerannapalya, Nagavara, Bengaluru, Karnataka 560045",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/8155cd7f921ad04e88bfa6021383553d1727174554.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 49,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:30",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 49,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:34",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 49,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:38",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 49,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:42",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 49,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:46",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 49,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:50",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 49,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:54",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 149,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:31",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 149,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:35",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 149,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:39",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 149,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:43",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 149,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:47",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 149,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:51",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 149,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:55",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:31",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:35",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:39",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:43",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:47",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:51",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:55",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:32",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:36",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:40",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:44",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:48",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:52",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:55",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:32",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:36",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:40",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:44",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:48",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:52",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:56",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:33",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:37",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:41",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:45",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:49",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:53",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:56",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:33",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:37",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:41",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:45",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:49",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:53",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:57",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:34",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:38",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:42",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:46",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:50",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:54",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-09-24 16:21:57",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809",
+    "id": "com.zomato.51809",
+    "location": {
+      "name": "Country Inn & Suites by Radisson",
+      "address": "Plot No 514, Outer Ring Rd, opp. Lumbini Garden, Kanaka Nagar, Veerannapalya, Nagavara, Bengaluru, Karnataka 560045",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.04320045,
+        "longitude": 77.61338421
       }
     }
   }
