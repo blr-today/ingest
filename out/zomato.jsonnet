@@ -1492,6 +1492,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Trending event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/423b8366eec77af78e8d207c6814cac81725265116.jpeg"
     ],
@@ -1501,8 +1503,8 @@
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:41",
-        "availability": "INSTOCK",
-        "inventory": 28
+        "availability": "SELLING_FAST",
+        "inventory": 12
       }
     ],
     "performers": [],
@@ -1544,7 +1546,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:41",
         "availability": "INSTOCK",
-        "inventory": 60
+        "inventory": 58
       }
     ],
     "performers": [],
@@ -2387,7 +2389,7 @@
         "currency": "INR",
         "validFrom": "2024-09-11 14:51:00",
         "availability": "INSTOCK",
-        "inventory": 11
+        "inventory": 10
       }
     ],
     "performers": [],
@@ -2455,7 +2457,7 @@
         "currency": "INR",
         "validFrom": "2024-09-11 14:51:00",
         "availability": "INSTOCK",
-        "inventory": 18
+        "inventory": 17
       }
     ],
     "performers": [],
@@ -3645,7 +3647,7 @@
   {
     "name": "CORE (Open Air)",
     "description": "Join us at High Ultra Lounge for CORE, an exhilarating open-air party on Sunday, 28th September, featuring the incredible Ma Faiza! Prepare yourself for an unforgettable evening of pulsating beats, vibrant energy, and a breathtaking view from the city's highest lounge.\n\nMa Faiza, known as the 'Mother of Electronica' in India, will take you on a musical journey like no other. Don\u2019t miss out on this electrifying event!\n\nBOOK YOUR TICKETS NOW and be part of an epic night under the stars!",
-    "startDate": "2024-09-28T20:00:00+05:30",
+    "startDate": "2024-09-28T17:00:00+05:30",
     "endDate": "2024-09-29T01:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
@@ -3654,7 +3656,7 @@
     "ogTitle": "CORE (Open Air) Trending event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for CORE (Open Air) Bengaluru on Zomato which is a Trending event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/7e7969c4eb85f9234bb4970c39a47c231726258288.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/30307f77f2edcb8181a6a001160bb2f51727251126.jpeg"
     ],
     "tickets": [
       {
@@ -3679,7 +3681,7 @@
         "currency": "INR",
         "validFrom": "2024-09-14 01:53:34",
         "availability": "INSTOCK",
-        "inventory": 191
+        "inventory": 189
       }
     ],
     "performers": [],
@@ -4042,7 +4044,7 @@
         "currency": "INR",
         "validFrom": "2024-09-22 09:59:00",
         "availability": "INSTOCK",
-        "inventory": 1852
+        "inventory": 1765
       }
     ],
     "performers": [],
@@ -4829,7 +4831,7 @@
     "name": "The Great Indian Dandiya Celebration 2024",
     "description": "- Free Dandiya Sticks for all\n- 6 Hours Of Non-Stop Garba/Bollywood/Punjabi Music\n- Happening at the Rooftop classiest Place in Town with Beautiful Festive decor Ambience.\n- The Best DJ's In India To Take Care Of The Deck Duties\n- Garba Dance\n- Food/Beverage Stalls Available At The Venue \n- The Whole Venue Decorated To Suit The Grand Occasion.\n- Children Friendly\n- Special Surprises & Giveaways \n- Authentic Food Prepared By the best Chefs in India.\n- Security CCTV: Enhanced safety with comprehensive CCTV surveillance for a secure environment.\n\nSurely You Not Gonna Miss This One: Hurry And Book Your tickets now!",
     "startDate": "2024-10-03T18:00:00+05:30",
-    "endDate": "2024-10-10T00:00:00+05:30",
+    "endDate": "2024-10-12T00:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
