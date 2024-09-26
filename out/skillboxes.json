@@ -261,6 +261,124 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "🎤 Mic Drop at Starbucks every saturday 🌟 Join us for an evening of songs, poetry, and standup comedy. Whether you're a perfo",
+      "endDate": "2024-10-05T19:00:00",
+      "identifier": "com.skillboxes.16045",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727327472ewHZPOIlc172vCOE.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9711356",
+            "longitude": "77.598164"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Mic Drop - Open Mic By BlrGrooveCo",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Limited free slots for performers\n",
+            "inventoryLevel": 10,
+            "name": "Performer",
+            "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Limited free guest slots\n",
+            "inventoryLevel": 10,
+            "name": "Guest",
+            "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10,
+            "name": "Performer Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-3"
+         }
+      ],
+      "startDate": "2024-10-05T17:00:00",
+      "url": "https://www.skillboxes.com/events/mic-drop-open-mic-by-blrgrooveco-3"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Get ready for a House Tour! We've got a house music experience like no other. From the rich beats of Latin House and Afro House to the thumping v",
+      "endDate": "2024-09-29T15:30:00",
+      "identifier": "com.skillboxes.16044",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/bzJLY2wwWTYycXZRdzZtb3lRRnptdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727324198NBOzrIbmOrZMSvpu.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "MSR Building, FLO, #3, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9743377",
+            "longitude": "77.6068167"
+         },
+         "name": "FLO Church Street"
+      },
+      "name": "Not Your Grandma's House | Sunday Brunch",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 60,
+            "name": "General Admission",
+            "url": "https://www.skillboxes.com/events/ticket/not-your-grandma-s-house-sunday-brunch"
+         }
+      ],
+      "startDate": "2024-09-29T12:00:00",
+      "url": "https://www.skillboxes.com/events/not-your-grandma-s-house-sunday-brunch"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Kalyan Sabareeshan is a Musician & a Magician who has been actively performing across Bangalore over the last 2 years. He has been composing music",
+      "endDate": "2024-10-06T20:00:00",
+      "identifier": "com.skillboxes.16043",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b21SL25rNGFkWHpybTE0Mk9DbWhFQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727318560Cx9QeKIao4EgHG62.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Performing & Visual Arts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "625, 11th Main Rd, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9707776",
+            "longitude": "77.6467442"
+         },
+         "name": "House of Stories - Hostel, Co-working and Events Space in Indira"
+      },
+      "name": "An Evening of Magic & Music | Sunday, Oct 6th",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "Regular",
+            "url": "https://www.skillboxes.com/events/ticket/an-evening-of-magic-music-sunday-oct-6th"
+         }
+      ],
+      "startDate": "2024-10-06T19:00:00",
+      "url": "https://www.skillboxes.com/events/an-evening-of-magic-music-sunday-oct-6th"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Glam Garba Night - Indiranagar Biggest Dandiya EventHighlights:DJ NightFood & Beverages CounterIndoor & Outdoor SpaceSpacious Dance FloorSeati",
       "endDate": "2024-10-10T12:00:00",
