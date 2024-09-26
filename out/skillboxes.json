@@ -25,7 +25,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 275,
+            "inventoryLevel": 261,
             "name": "Phase 3 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/k-wave-festival-2024-bangalore"
          },
@@ -33,7 +33,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Dedicated Entry\nClosest to the stage",
-            "inventoryLevel": 151,
+            "inventoryLevel": 141,
             "name": "Phase 3 VIP Ticket",
             "url": "https://www.skillboxes.com/events/ticket/k-wave-festival-2024-bangalore"
          },
@@ -164,6 +164,27 @@
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 25,
+            "name": "Phase 1 Ticket | Female",
+            "url": "https://www.skillboxes.com/events/ticket/boogiielab-presents-valerie-ace"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "Phase 1 Ticket | Male",
+            "url": "https://www.skillboxes.com/events/ticket/boogiielab-presents-valerie-ace"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "Phase 1 Ticket | Couple",
+            "url": "https://www.skillboxes.com/events/ticket/boogiielab-presents-valerie-ace"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 25,
             "name": "Early Bird Ticket | Female",
             "url": "https://www.skillboxes.com/events/ticket/boogiielab-presents-valerie-ace"
          },
@@ -178,13 +199,6 @@
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 22,
-            "name": "Early Bird Ticket | Couple",
-            "url": "https://www.skillboxes.com/events/ticket/boogiielab-presents-valerie-ace"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 25,
             "name": "Early Bird Ticket | Couple",
             "url": "https://www.skillboxes.com/events/ticket/boogiielab-presents-valerie-ace"
          }
@@ -219,8 +233,24 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 Cover Charges Per Person Applicable At The Gates.\n",
-            "inventoryLevel": 715,
+            "inventoryLevel": 699,
             "name": "Phase 3 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-india-tour-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional INR 500 Cover Charges Per Person Applicable At The Gates.\nThis ticket will allow 2 people.",
+            "inventoryLevel": 798,
+            "name": "Buddy Ticket (2 Pax)",
+            "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-india-tour-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional INR 500 Cover Charges Per Person Applicable At The Gates.\nThis ticket will allow 4 people.",
+            "inventoryLevel": 800,
+            "name": "Group Ticket (4 Pax)",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-india-tour-bangalore"
          },
          {
@@ -258,6 +288,244 @@
       ],
       "startDate": "2024-10-18T18:00:00",
       "url": "https://www.skillboxes.com/events/seedhe-maut-india-tour-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Join us for 'LURU BEATS, an exciting acoustic music festival happening at various Starbucks outlets across the city! Every Saturday and Sunday, experi",
+      "endDate": "2024-10-27T20:00:00",
+      "identifier": "com.skillboxes.16071",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727344174sDsnfDniLBFrErO1.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9711356",
+            "longitude": "77.598164"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Luru Beats - Ep#7 ft. Natauku + Nikitha",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "Regular Entry",
+            "url": "https://www.skillboxes.com/events/ticket/luru-beats-floating-folks-ep-7"
+         }
+      ],
+      "startDate": "2024-10-27T17:00:00",
+      "url": "https://www.skillboxes.com/events/luru-beats-floating-folks-ep-7"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Join us for 'LURU BEATS, an exciting acoustic music festival happening at various Starbucks outlets across the city! Every Saturday and Sunday, experi",
+      "endDate": "2024-10-26T20:00:00",
+      "identifier": "com.skillboxes.16070",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727344174sDsnfDniLBFrErO1.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "55 & 51 Ground Prestige Rr Building MG Road, Church St, near Anjappar Chettinad Restaurant, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9752166",
+            "longitude": "77.604164"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Luru Beats - Ep#6 ft. Aaron Joseph + Janita",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "Regular Entry",
+            "url": "https://www.skillboxes.com/events/ticket/luru-beats-Floating-Folks-Ep-6"
+         }
+      ],
+      "startDate": "2024-10-26T17:00:00",
+      "url": "https://www.skillboxes.com/events/luru-beats-Floating-Folks-Ep-6"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Join us for 'LURU BEATS, an exciting acoustic music festival happening at various Starbucks outlets across the city! Every Saturday and Sunday, experi",
+      "endDate": "2024-10-19T20:00:00",
+      "identifier": "com.skillboxes.16069",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727344174sDsnfDniLBFrErO1.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No 945, Ground Floor, 12th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.970201",
+            "longitude": "77.639894"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Luru Beats - Ep#5 ft. Mohit Dutt + TBA",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "Regular Entry",
+            "url": "https://www.skillboxes.com/events/ticket/luru-beats-Floating-Folks-Ep-5"
+         }
+      ],
+      "startDate": "2024-10-19T17:00:00",
+      "url": "https://www.skillboxes.com/events/luru-beats-Floating-Folks-Ep-5"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Join us for 'LURU BEATS, an exciting acoustic music festival happening at various Starbucks outlets across the city! Every Saturday and Sunday, experi",
+      "endDate": "2024-10-13T20:00:00",
+      "identifier": "com.skillboxes.16068",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727344174sDsnfDniLBFrErO1.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No 945, Ground Floor, 12th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.970201",
+            "longitude": "77.639894"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Luru Beats - Ep#4 ft. Theodore Dsouza + Yudhvir YSR",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "Regular Entry",
+            "url": "https://www.skillboxes.com/events/ticket/luru-beats-Floating-Folks-Ep-4"
+         }
+      ],
+      "startDate": "2024-10-13T17:00:00",
+      "url": "https://www.skillboxes.com/events/luru-beats-Floating-Folks-Ep-4"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Join us for 'LURU BEATS, an exciting acoustic music festival happening at various Starbucks outlets across the city! Every Saturday and Sunday, experi",
+      "endDate": "2024-10-12T20:00:00",
+      "identifier": "com.skillboxes.16067",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727344174sDsnfDniLBFrErO1.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Building No 804, Avenue 4th Block 9th Main, 35th Cross Rd, near BSNL Office, 4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.924625",
+            "longitude": "77.5838367"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Luru Beats - Ep#3 ft. Amisha Sharma + Samyuktha Sridhar",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "Regular Entry",
+            "url": "https://www.skillboxes.com/events/ticket/luru-beats-Floating-Folks-Ep-3"
+         }
+      ],
+      "startDate": "2024-10-12T17:00:00",
+      "url": "https://www.skillboxes.com/events/luru-beats-Floating-Folks-Ep-3"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Join us for 'LURU BEATS, an exciting acoustic music festival happening at various Starbucks outlets across the city! Every Saturday and Sunday, experi",
+      "endDate": "2024-10-06T20:00:00",
+      "identifier": "com.skillboxes.16066",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727344174sDsnfDniLBFrErO1.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9711356",
+            "longitude": "77.598164"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Luru Beats - Ep#1 ft. DAYVE + Floating Folks",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "Regular Entry",
+            "url": "https://www.skillboxes.com/events/ticket/luru-beats-Floating-Folks-Ep-2"
+         }
+      ],
+      "startDate": "2024-10-06T17:00:00",
+      "url": "https://www.skillboxes.com/events/luru-beats-Floating-Folks-Ep-2"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Welcome to Sakura Screenings where we celebrate the rich tapestry of Asian cinema and the enchanting world of anime. Immerse yourself in a diverse arr",
+      "endDate": "2024-10-06T16:30:00",
+      "identifier": "com.skillboxes.16056",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727351300NQsZgSggJnFuzXDC.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Movie Screening"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9711356",
+            "longitude": "77.598164"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Sakura Screenings",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "Club Entry",
+            "url": "https://www.skillboxes.com/events/ticket/sakura-screenings-2"
+         }
+      ],
+      "startDate": "2024-10-06T14:00:00",
+      "url": "https://www.skillboxes.com/events/sakura-screenings-2"
    },
    {
       "@context": "https://schema.org",
@@ -510,7 +778,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "One entry per ticket\nCover charges apply on entry post 9:30 PM.",
-            "inventoryLevel": 496,
+            "inventoryLevel": 487,
             "name": "The Burrow presents Wyycass, Ak37 & Chan",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-wyycass-ak37-chan"
          }
@@ -555,43 +823,9 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "🎉 Punjabi Bollywood Night Extravaganza! 🎉Get\n ready to immerse yourself in an unforgettable evening of high-energy \nfun, rhyth",
-      "endDate": "2024-09-26T23:59:00",
-      "identifier": "com.skillboxes.16022",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWpVWFhZakF5disrNE1LdFozaldMZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727249336kPH259IasR2FgLh9.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Event"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9151523",
-            "longitude": "77.6660553"
-         },
-         "name": "White Lotus Club Bengaluru"
-      },
-      "name": "PUNJABI BOLLYWOOD NIGHT | 26 SEP",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "GUESTLIST",
-            "url": "https://www.skillboxes.com/events/ticket/punjabi-bollywood-night-26-sep"
-         }
-      ],
-      "startDate": "2024-09-26T19:00:00",
-      "url": "https://www.skillboxes.com/events/punjabi-bollywood-night-26-sep"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "The event that bridges the worlds of fashion, art, and design and converges for a noble cause! This dynamic gathering celebrates creativity and inclus",
-      "endDate": "2024-09-29T04:00:00",
+      "endDate": "2024-09-30T00:30:00",
       "identifier": "com.skillboxes.16019",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b3BFakY3eFhDMkJGZklnVW9teUl5QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727245037WmiSR4qSfHXzL10v.jpg.webp",
       "isAccessibleForFree": false,
@@ -614,7 +848,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Early Bird Access\n",
-            "inventoryLevel": 200,
+            "inventoryLevel": 196,
             "name": "General Access",
             "url": "https://www.skillboxes.com/events/ticket/get-unkury-d"
          },
@@ -622,7 +856,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Early Bird Access\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 99,
             "name": "Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/get-unkury-d"
          },
@@ -631,11 +865,11 @@
             "availability": "InStock",
             "description": "Early Bird Access\n",
             "inventoryLevel": 200,
-            "name": "Buddy Pass",
+            "name": "Group Pass (4 Pax)",
             "url": "https://www.skillboxes.com/events/ticket/get-unkury-d"
          }
       ],
-      "startDate": "2024-09-29T03:30:00",
+      "startDate": "2024-09-29T15:30:00",
       "url": "https://www.skillboxes.com/events/get-unkury-d"
    },
    {
@@ -696,6 +930,40 @@
       ],
       "startDate": "2024-09-27T19:00:00",
       "url": "https://www.skillboxes.com/events/dnbindia-x-social-present-bangaloremassive-032"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Join us for 'LURU BEATS, an exciting acoustic music festival happening at various Starbucks outlets across the city! Every Saturday and Sunday, experi",
+      "endDate": "2024-10-05T20:00:00",
+      "identifier": "com.skillboxes.16017",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727344174sDsnfDniLBFrErO1.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "55 & 51 Ground Prestige Rr Building MG Road, Church St, near Anjappar Chettinad Restaurant, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9752166",
+            "longitude": "77.604164"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Luru Beats - DAYVE | Floating Folks - Ep #1",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "Regular Entry",
+            "url": "https://www.skillboxes.com/events/ticket/luru-beats-Floating-Folks-Ep-1"
+         }
+      ],
+      "startDate": "2024-10-05T17:00:00",
+      "url": "https://www.skillboxes.com/events/luru-beats-Floating-Folks-Ep-1"
    },
    {
       "@context": "https://schema.org",
@@ -1230,40 +1498,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "🎶 Dive into the depths of sound every Thursday with Techno Thursdays at Ottoman! 🌌 Join us for an immersive experience with DJ Takshin",
-      "endDate": "2024-09-26T23:59:00",
-      "identifier": "com.skillboxes.15958",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/eUNyeHBvMU9oVm1MRGhiV3VZYVFKUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726928445bu4OUZtmnSEwufva.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Party or Social Gathering"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "4th Floor, Ganapa Tower, Bellandur, Bengaluru, Karnataka 560103, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9245948",
-            "longitude": "77.673019"
-         },
-         "name": "Ottoman Restobar"
-      },
-      "name": "Techno Thursdays | Bengaluru (BollyTech / Future Rave)",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 25,
-            "name": "Sign Up For One",
-            "url": "https://www.skillboxes.com/events/ticket/techno-thursdays-bengaluru-bollytech-future-rave"
-         }
-      ],
-      "startDate": "2024-09-26T07:00:00",
-      "url": "https://www.skillboxes.com/events/techno-thursdays-bengaluru-bollytech-future-rave"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "✨ **Disco Dandiya at Ottoman Restobar** ✨Celebrate Navratri with a twist at **Disco Dandiya** on **11th & 12th October, 6 PM onwards",
       "endDate": "2024-10-12T22:00:00",
@@ -1482,51 +1716,9 @@
          "name": "Mollys Rooftop Bar and Lounge"
       },
       "name": "MIXOLOGY MAGIC",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 50,
-            "name": "FREE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/mixology-magic-2"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-09-26T19:00:00",
       "url": "https://www.skillboxes.com/events/mixology-magic-2"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Highlights:Complimentary Drinks: Enjoy a selection of complimentary cocktails and mocktails to kick off your evening with a toast.Chick Flicks Ma",
-      "endDate": "2024-09-26T01:00:00",
-      "identifier": "com.skillboxes.15925",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b09PVUJNY1BZcjg3OE1Gbm1jTmM3Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726821912IrFu4NFmIe7QOzL8.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28.4524744",
-            "longitude": "77.0727299"
-         },
-         "name": "Mollys Rooftop Bar and Lounge"
-      },
-      "name": "CHICK FLICKS - LADIES NIGHT",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 50,
-            "name": "FREE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/chick-flicks-ladies-night-3"
-         }
-      ],
-      "startDate": "2024-09-25T19:00:00",
-      "url": "https://www.skillboxes.com/events/chick-flicks-ladies-night-3"
    },
    {
       "@context": "https://schema.org",
@@ -1554,7 +1746,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 18,
+            "inventoryLevel": 15,
             "name": "Indie Sounds Access",
             "url": "https://www.skillboxes.com/events/ticket/indie-sounds-an-ig-x-ls-house-gig-oct-2024"
          }
@@ -1589,7 +1781,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Featuring: Pradip Ramanathan, Kaushik Kumar, John Melvin\nSupport original music!",
-            "inventoryLevel": 210,
+            "inventoryLevel": 208,
             "name": "The Rubber Biscuit Project by Ananth Menon",
             "url": "https://www.skillboxes.com/events/ticket/the-rubber-biscuit-project-by-ananth-menon"
          }
@@ -1623,7 +1815,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Early Birds",
             "url": "https://www.skillboxes.com/events/ticket/sinfonia-music-club-1-midnights-by-taylor-swift"
          },
@@ -3072,7 +3264,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable on entry, as per venue’s discretion.\n",
-            "inventoryLevel": 813,
+            "inventoryLevel": 779,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/johnnie-walker-revibe-bangalore-featuring-sickflip-avantika-boyka"
          }
@@ -3107,7 +3299,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Admits 1\n",
-            "inventoryLevel": 27,
+            "inventoryLevel": 1,
             "name": "Limited Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/mosaic"
          },
@@ -3117,6 +3309,22 @@
             "description": "Admits 1\n",
             "inventoryLevel": 50,
             "name": "Phase 1 - Single",
+            "url": "https://www.skillboxes.com/events/ticket/mosaic"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Admits 3\n",
+            "inventoryLevel": 20,
+            "name": "Phase 1 - Group of 3",
+            "url": "https://www.skillboxes.com/events/ticket/mosaic"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Admits 5\n",
+            "inventoryLevel": 10,
+            "name": "Phase 1 - Group of 5",
             "url": "https://www.skillboxes.com/events/ticket/mosaic"
          }
       ],
@@ -3200,7 +3408,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 95,
+            "inventoryLevel": 74,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/kayan-vision-india-tour-bangalore"
          },
@@ -3250,7 +3458,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits entry to the venue for one person at the silver area.\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Silver (Standing) - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/shankar-ehsaan-loy-live-in-concert-bangalore-2024"
          },
@@ -3451,7 +3659,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge INR 500/- Per Individual Applicable At Gates.\n",
-            "inventoryLevel": 992,
+            "inventoryLevel": 990,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/oaf-presents-black-letters-supported-by-sahana-sakre"
          },
@@ -3494,8 +3702,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges of 500 Applicable At The Venue\n",
-            "inventoryLevel": 16,
+            "inventoryLevel": 14,
             "name": "EARLY BIRDS",
+            "url": "https://www.skillboxes.com/events/ticket/rock-ballads-ft-shards-of-agony"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover Charges Applicable At the Venue\n",
+            "inventoryLevel": 30,
+            "name": "Entry Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/rock-ballads-ft-shards-of-agony"
          }
       ],
@@ -3506,7 +3722,7 @@
       "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Indie Fridays || The Derelicts",
-      "endDate": "2024-09-27T23:59:00",
+      "endDate": "2024-11-29T23:59:00",
       "identifier": "com.skillboxes.15636",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1725978765E5Ms4d0QgaDbHyMD.jpg.webp",
       "isAccessibleForFree": false,
@@ -3529,12 +3745,12 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge INR 500/- Per Individual Applicable At Gates.\n",
-            "inventoryLevel": 998,
+            "inventoryLevel": 996,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/indie-fridays-the-derelicts"
          }
       ],
-      "startDate": "2024-09-27T20:00:00",
+      "startDate": "2024-11-29T20:00:00",
       "url": "https://www.skillboxes.com/events/indie-fridays-the-derelicts"
    },
    {
@@ -3583,7 +3799,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Presenting :Salsa Dance & Learn Season : Chapter 8.A Season of more than 300 hours of Salsa classes,. masterclasses and Salsa Confluences to choos",
+      "description": "Presenting :Salsa Dance & Learn Season : Chapter 8.Starts September 20th and goes on all the way till December 20th.A Season of more than 300 hour",
       "endDate": "2024-12-20T08:00:00",
       "identifier": "com.skillboxes.15605",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RGlKWS9ySXhtSklYdGRNdHBSaHp2dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17258767696qbZOHmQp0NlXCpH.jpg.webp",
@@ -3603,6 +3819,30 @@
       },
       "name": "Salsa Dance & Learn Season : Chapter 8",
       "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This is a non-refundable ticket\n",
+            "inventoryLevel": 100,
+            "name": "Per head per session",
+            "url": "https://www.skillboxes.com/events/ticket/salsa-dance-learn-season-chapter-8"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This is a non-refundable ticket\n",
+            "inventoryLevel": 100,
+            "name": "Per head for 2 sessions",
+            "url": "https://www.skillboxes.com/events/ticket/salsa-dance-learn-season-chapter-8"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This is a non-refundable ticket\n",
+            "inventoryLevel": 100,
+            "name": "Per head for 5 sessions",
+            "url": "https://www.skillboxes.com/events/ticket/salsa-dance-learn-season-chapter-8"
+         },
          {
             "@type": "Offer",
             "availability": "InStock",
@@ -3642,10 +3882,10 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "DND Entertainment back again at Social Indiranagar on September 29th with heart-pounding Uk Garage, DnB, and Bass House! Come witness and join us for ",
+      "description": "Urban Rumble\r\nDND Entertainment back again at Social Indiranagar on September 29th with heart-pounding Uk Garage, DnB, and Bass House! Come witness an",
       "endDate": "2024-09-29T23:59:00",
       "identifier": "com.skillboxes.15593",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MmZDVyswU3dQV1FqSUE4VmFFR0JBUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17258851270z01uYAP7H80dXnQ.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MmZDVyswU3dQV1FqSUE4VmFFR0JBUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17273565885FtsM6ZCxyLwlf0t.png.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"
@@ -3666,7 +3906,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable Post 21:00 PM\n",
-            "inventoryLevel": 181,
+            "inventoryLevel": 174,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/urban-rumble-1"
          },
@@ -3674,7 +3914,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable Post 21:00 PM\n",
-            "inventoryLevel": 92,
+            "inventoryLevel": 91,
             "name": "Buy 2 Get 1",
             "url": "https://www.skillboxes.com/events/ticket/urban-rumble-1"
          }
@@ -3976,7 +4216,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket will allow one person at Indiranagar Social\nThis ticket is applicable for 28th September 2024",
-            "inventoryLevel": 44,
+            "inventoryLevel": 38,
             "name": "Phase 1 Ticket | 28th September",
             "url": "https://www.skillboxes.com/events/ticket/bass-camp-2024-bangalore"
          },
@@ -4251,7 +4491,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Students (Any College/Institute) must carry a valid ID card - No Re-Entry - Allows one individual to the event area - Venue rules applicable\n",
-            "inventoryLevel": 3822,
+            "inventoryLevel": 3816,
             "name": "Phase 1 : Student Pass",
             "url": "https://www.skillboxes.com/events/ticket/lunaland-the-carnival-of-dreams-awaits"
          },
