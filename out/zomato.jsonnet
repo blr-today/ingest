@@ -2747,50 +2747,6 @@
   {
     "name": "Resin Art Workshop",
     "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-    "startDate": "2024-09-26T14:00:00+05:30",
-    "endDate": "2024-09-26T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1726064434.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51496/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-09-11 20:12:27",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51496",
-    "id": "com.zomato.51496",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Resin Art Workshop",
-    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
     "startDate": "2024-09-27T14:00:00+05:30",
     "endDate": "2024-09-27T15:00:00+05:30",
     "timezone": "+05:30",
@@ -3421,50 +3377,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97770798,
         "longitude": 77.71316927
-      }
-    }
-  },
-  {
-    "name": "Block Printing",
-    "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
-    "startDate": "2024-09-26T14:00:00+05:30",
-    "endDate": "2024-09-26T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Block Printing Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Block Printing Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51553/details",
-        "price": 1199,
-        "currency": "INR",
-        "validFrom": "2024-09-12 10:50:24",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51553",
-    "id": "com.zomato.51553",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
       }
     }
   },
@@ -5448,6 +5360,624 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97264308,
         "longitude": 77.60066831
+      }
+    }
+  },
+  {
+    "name": "Privilege Fridaze ft. Rohit",
+    "description": "Bangalore's most awaited & sought-after Privilege Fridaze is back at Juliet with DJ Rohit this Friday.",
+    "startDate": "2024-09-27T20:00:00+05:30",
+    "endDate": "2024-09-28T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/01028d7237f0d3c23cb434c7bf109c0c1727333583.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/privilege-fridaze-ft-rohit-bengaluru-et51845/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:41:28",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/privilege-fridaze-ft-rohit-bengaluru-et51845/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:41:28",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/privilege-fridaze-ft-rohit-bengaluru-et51845",
+    "id": "com.zomato.51845",
+    "location": {
+      "name": "Juliet @ 1MG",
+      "address": "5th floor, 1, MG Mall, Trinity Circle, Mahatma Gandhi Rd, above 1MG Mall, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9734662,
+        "longitude": 77.6204084
+      }
+    }
+  },
+  {
+    "name": "Protocol Sunday ft. Answer",
+    "description": "Get ready for the ultimate techno showcase in your city - Protocol Sunday! Catch the homegrown duo ANSWER live at Kitty Ko this Sunday.",
+    "startDate": "2024-09-29T20:00:00+05:30",
+    "endDate": "2024-09-30T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/c8481fcd9fb81287b6a2458d0e1a64851727334343.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/protocol-sunday-ft-answer-bengaluru-et51846/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:41:29",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/protocol-sunday-ft-answer-bengaluru-et51846/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:41:29",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/protocol-sunday-ft-answer-bengaluru-et51846",
+    "id": "com.zomato.51846",
+    "location": {
+      "name": "Kitty Ko",
+      "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9923061,
+        "longitude": 77.58201
+      }
+    }
+  },
+  {
+    "name": "Navrang Navratri At Sunburn Union",
+    "description": "Join us for nights filled with vibrant dance, music, and festive spirit, as we celebrate the essence of Navratri in a grand setting.\nLive Performances: Enjoy electrifying sets from renowned DJs (details to be announced)\nVibrant Ambiance: Experience the festive spirit with stunning decor\nDance Floor: Groove the night away in a lively atmosphere\nFood & Beverages: A variety of delicious options to indulge in\n\nPlease Note: A mandatory cover charge must be purchased at the entry, fully redeemable on food and beverages.",
+    "startDate": "2024-10-04T19:00:00+05:30",
+    "endDate": "2024-10-11T00:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Navrang Navratri At Sunburn Union Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Navrang Navratri At Sunburn Union Bengaluru on Zomato which is a Trending event happening at passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/c94fe3d1371ec21fdf75adec555da9eb1727350851.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/navrang-navratri-at-sunburn-union-bengaluru-et51847/details",
+        "price": 300,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:59",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/navrang-navratri-at-sunburn-union-bengaluru-et51847/details",
+        "price": 300,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:59",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/navrang-navratri-at-sunburn-union-bengaluru-et51847/details",
+        "price": 300,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:18:00",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/navrang-navratri-at-sunburn-union-bengaluru-et51847/details",
+        "price": 300,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:18:00",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/navrang-navratri-at-sunburn-union-bengaluru-et51847/details",
+        "price": 300,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:18:01",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/navrang-navratri-at-sunburn-union-bengaluru-et51847/details",
+        "price": 300,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:18:01",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/navrang-navratri-at-sunburn-union-bengaluru-et51847/details",
+        "price": 300,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:18:02",
+        "availability": "INSTOCK",
+        "inventory": 500
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/navrang-navratri-at-sunburn-union-bengaluru-et51847",
+    "id": "com.zomato.51847",
+    "location": {
+      "name": "Sunburn Union",
+      "address": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.94538528,
+        "longitude": 77.62014593
+      }
+    }
+  },
+  {
+    "name": "Raas Garba Night | Season 5 | Whitefield",
+    "description": "Join us for nights filled with vibrant dance, music, and festive spirit, as we celebrate the essence of Navratri in a grand setting.\nLive Performances: Enjoy electrifying sets from renowned DJs (details to be announced)\nVibrant Ambiance: Experience the festive spirit with stunning decor\nDance Floor: Groove the night away in a lively atmosphere\nFood & Beverages: A variety of delicious options to indulge in\n\nPlease Note: A mandatory cover charge must be purchased at the entry, fully redeemable on food and beverages.",
+    "startDate": "2024-10-05T19:00:00+05:30",
+    "endDate": "2024-10-06T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/5a0e653df59736a0b8ce7817fd05786c1727335738.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/raas-garba-night-season-5-whitefield-bengaluru-et51849/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:41:30",
+        "availability": "INSTOCK",
+        "inventory": 400
+      },
+      {
+        "url": "https://www.zomato.com/events/raas-garba-night-season-5-whitefield-bengaluru-et51849/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:41:30",
+        "availability": "INSTOCK",
+        "inventory": 400
+      },
+      {
+        "url": "https://www.zomato.com/events/raas-garba-night-season-5-whitefield-bengaluru-et51849/details",
+        "price": 1199,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:41:31",
+        "availability": "INSTOCK",
+        "inventory": 400
+      },
+      {
+        "url": "https://www.zomato.com/events/raas-garba-night-season-5-whitefield-bengaluru-et51849/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:41:31",
+        "availability": "INSTOCK",
+        "inventory": 400
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/raas-garba-night-season-5-whitefield-bengaluru-et51849",
+    "id": "com.zomato.51849",
+    "location": {
+      "name": "Skygraden - Whitefield",
+      "address": "Metro station, 3rd floor HVP Aster, ITPL Main Rd, near Garudacharpalya, Kaveri Nagar, Krishnarajapuram, Bengaluru, Karnataka 560048",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.94538528,
+        "longitude": 77.70320156
+      }
+    }
+  },
+  {
+    "name": "Raas Garba Beats: Festive Nights",
+    "description": "Join us for two magical nights of fun, food, and festive spirit at Sky Garden, Koramangala. Get ready to immerse yourself in a colorful and high-energy dandiya experience with live music, delicious food, and a stunning ambiance.\nDandiya Sticks Included: Dance the night away with your own pair of dandiya sticks provided at entry\nLive DJ & Dhol: Groove to a mix of traditional dhol beats and high-energy DJ tracks\nDelicious Food & Drinks: A variety of traditional and modern snacks to savor\nStunning Decor: A festive ambiance with colorful lights and beautiful decor\nSecurity CCTV: Celebrate worry-free with enhanced security and surveillance\n\nPlease Note: A mandatory cover charge must be purchased at the entry, fully redeemable on food and beverages.",
+    "startDate": "2024-10-05T19:00:00+05:30",
+    "endDate": "2024-10-06T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/42fc4e0dd6ad8fb91d3783f3adf9b9fd1727339152.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/raas-garba-beats-festive-nights-bengaluru-et51850/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:41:32",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/raas-garba-beats-festive-nights-bengaluru-et51850/details",
+        "price": 699,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:41:32",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/raas-garba-beats-festive-nights-bengaluru-et51850/details",
+        "price": 799,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:41:32",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/raas-garba-beats-festive-nights-bengaluru-et51850/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:41:33",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/raas-garba-beats-festive-nights-bengaluru-et51850",
+    "id": "com.zomato.51850",
+    "location": {
+      "name": "Skygraden, Koramangala",
+      "address": "14, 1st Cross, 17th A Main Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93386752,
+        "longitude": 77.62221564
+      }
+    }
+  },
+  {
+    "name": "Rhythms of Garba: Dandiya",
+    "description": "Cover Charges: 100% redeemable on F&B for stags & couples\nSpecial Offer for Ladies: Single ladies can buy a ticket for \u20b9150 and enjoy no other charges\nFree Welcome Drinks: Available for all ladies\nDandiya Sticks Included: For stags and couples\nTwo Dance Floors: Enjoy non-stop dandiya dancing on the 6th-floor terrace and the 5th-floor club\nDJ & Live Dandiya Beats: Groove to energetic tunes all night long\nExclusive F&B Offers: Special deals for all attendees\nDress Code: Ethnic wear\nInstagrammable Decor: Capture beautiful moments with stunning decor and photo spots\nPrizes for Best Dressed: Exciting prizes for the best ethnic outfits\nValet Parking: Available for your convenience",
+    "startDate": "2024-10-04T19:00:00+05:30",
+    "endDate": "2024-10-11T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Rhythms of Garba: Dandiya Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rhythms of Garba: Dandiya Bengaluru on Zomato which is a Trending event happening at 6th Block, 71-72, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/20ba6fe73ca2c535a4cde18f3010466d1727339279.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/rhythms-of-garba-dandiya-bengaluru-et51851/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:48",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/rhythms-of-garba-dandiya-bengaluru-et51851/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:48",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/rhythms-of-garba-dandiya-bengaluru-et51851/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:49",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/rhythms-of-garba-dandiya-bengaluru-et51851/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:49",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/rhythms-of-garba-dandiya-bengaluru-et51851/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:50",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/rhythms-of-garba-dandiya-bengaluru-et51851/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:50",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/rhythms-of-garba-dandiya-bengaluru-et51851/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:51",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/rhythms-of-garba-dandiya-bengaluru-et51851",
+    "id": "com.zomato.51851",
+    "location": {
+      "name": "Indigo XP",
+      "address": "6th Block, 71-72, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93344937,
+        "longitude": 77.61384881
+      }
+    }
+  },
+  {
+    "name": "Rangratri Dandiya Nights",
+    "description": "Rangratri Dandiya Nights at Happy Brew promises an evening of festive fun, energetic dandiya beats, and vibrant dance! Join us for an exciting night of music, traditional dance, and unforgettable memories.\n\nPlease Note: A mandatory cover charge must be purchased at the entry, fully redeemable on food and beverages.",
+    "startDate": "2024-10-11T19:00:00+05:30",
+    "endDate": "2024-10-12T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Rangratri Dandiya Nights Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rangratri Dandiya Nights Bengaluru on Zomato which is a Trending event happening at 5th, Block 40, 4th B Cross, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/8da2b3af0326bf484c19a0ba44a12e701727339353.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/rangratri-dandiya-nights-bengaluru-et51852/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:51",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/rangratri-dandiya-nights-bengaluru-et51852/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:52",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/rangratri-dandiya-nights-bengaluru-et51852",
+    "id": "com.zomato.51852",
+    "location": {
+      "name": "Happy Brew - Bar & Kitchen",
+      "address": "5th, Block 40, 4th B Cross, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93401522,
+        "longitude": 77.61535755
+      }
+    }
+  },
+  {
+    "name": "Garba Night",
+    "description": "DJ Night\nDandiya Sticks \nFestive Decor\nGarba Music\nDance Floor\nJoin us for an unforgettable evening of vibrant celebration and cultural immersion at our Garba Night event! This year, we\u2019re bringing the spirit of Navratri to life with a night filled with rhythmic beats, dazzling costumes, and the timeless joy of dandiya dance.",
+    "startDate": "2024-10-03T19:00:00+05:30",
+    "endDate": "2024-10-05T00:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Garba Night Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Garba Night Bengaluru on Zomato which is a Trending event happening at 2nd Floor, No, 146, Srirampuram, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/e151be476a65acee20e5bdc1b449d5a71727339862.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:52",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:54",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:00",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:00",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:53",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:55",
+        "availability": "INSTOCK",
+        "inventory": 500
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853",
+    "id": "com.zomato.51853",
+    "location": {
+      "name": "EOD - End of the Day",
+      "address": "2nd Floor, No, 146, Srirampuram, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93455808,
+        "longitude": 77.62019465
+      }
+    }
+  },
+  {
+    "name": "Whitefield's Biggest DISCO Dandiya Night",
+    "description": "Celebrate this Navratri with Team Concept Crew as always! \nAfter two consecutive years of celebration, Get ready to enjoy at most... at one of the most amazing\nand exciting events of this year where you will not only Garba over bombastic music \nBut also, Eat your heart out at our delicious curated stalls just for you!!\nDress like a diva and click lots of pictures at our photo booth! Enjoy to the fullest!!\nGet a chance to win Gifts for the best performers of the night!\nSo wait no more and book your tickets right away for NEON RATRI!! Bring in your friends..family\nmembers!\nDholi Thaaro Dhol Baaje ",
+    "startDate": "2024-10-06T18:30:00+05:30",
+    "endDate": "2024-10-06T22:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f52391d6678585e7381c18b5574ad4911727341544.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/whitefields-biggest-disco-dandiya-night-bengaluru-et51856/details",
+        "price": 50,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:58",
+        "availability": "INSTOCK",
+        "inventory": 20
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefields-biggest-disco-dandiya-night-bengaluru-et51856/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:57",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefields-biggest-disco-dandiya-night-bengaluru-et51856/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:57",
+        "availability": "INSTOCK",
+        "inventory": 30
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefields-biggest-disco-dandiya-night-bengaluru-et51856/details",
+        "price": 1449,
+        "currency": "INR",
+        "validFrom": "2024-09-26 16:17:58",
+        "availability": "INSTOCK",
+        "inventory": 25
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/whitefields-biggest-disco-dandiya-night-bengaluru-et51856",
+    "id": "com.zomato.51856",
+    "location": {
+      "name": "Nexus Shantiniketan Mall",
+      "address": "Whitefield Main Rd, Thigalarapalya, Krishnarajapuram, Bengaluru, Karnataka 560067",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.989536,
+        "longitude": 77.7281015
       }
     }
   }
