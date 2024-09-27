@@ -1316,7 +1316,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 12:53:47",
         "availability": "INSTOCK",
-        "inventory": 68
+        "inventory": 60
       }
     ],
     "performers": [],
@@ -1458,7 +1458,7 @@
         "currency": "INR",
         "validFrom": "2024-09-02 14:04:41",
         "availability": "INSTOCK",
-        "inventory": 58
+        "inventory": 55
       }
     ],
     "performers": [],
@@ -2369,7 +2369,7 @@
         "currency": "INR",
         "validFrom": "2024-09-11 14:51:00",
         "availability": "INSTOCK",
-        "inventory": 17
+        "inventory": 16
       }
     ],
     "performers": [],
@@ -3505,7 +3505,7 @@
         "currency": "INR",
         "validFrom": "2024-09-14 01:53:34",
         "availability": "INSTOCK",
-        "inventory": 189
+        "inventory": 188
       }
     ],
     "performers": [],
@@ -3868,7 +3868,7 @@
         "currency": "INR",
         "validFrom": "2024-09-22 09:59:00",
         "availability": "INSTOCK",
-        "inventory": 1765
+        "inventory": 1656
       }
     ],
     "performers": [],
@@ -4744,7 +4744,7 @@
         "currency": "INR",
         "validFrom": "2024-09-24 16:21:39",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 92
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
@@ -4856,7 +4856,7 @@
         "currency": "INR",
         "validFrom": "2024-09-24 16:21:40",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
@@ -4912,7 +4912,7 @@
         "currency": "INR",
         "validFrom": "2024-09-24 16:21:40",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
