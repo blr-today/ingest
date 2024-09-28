@@ -4158,47 +4158,47 @@
         "url": "https://www.zomato.com/events/oktoberfest-2024-taj-mg-road-bengaluru-et51751/details",
         "price": 0,
         "currency": "INR",
-        "validFrom": "2024-09-23 10:13:00",
+        "validFrom": "2024-09-27 11:40:00",
         "availability": "INSTOCK",
-        "inventory": 90
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/oktoberfest-2024-taj-mg-road-bengaluru-et51751/details",
         "price": 499,
         "currency": "INR",
-        "validFrom": "2024-09-23 10:13:00",
-        "availability": "INSTOCK",
-        "inventory": 95
-      },
-      {
-        "url": "https://www.zomato.com/events/oktoberfest-2024-taj-mg-road-bengaluru-et51751/details",
-        "price": 1500,
-        "currency": "INR",
-        "validFrom": "2024-09-23 10:13:00",
+        "validFrom": "2024-09-27 11:40:00",
         "availability": "INSTOCK",
         "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/oktoberfest-2024-taj-mg-road-bengaluru-et51751/details",
-        "price": 0,
+        "price": 1500,
         "currency": "INR",
-        "validFrom": "2024-09-23 10:13:00",
-        "availability": "INSTOCK",
-        "inventory": 94
-      },
-      {
-        "url": "https://www.zomato.com/events/oktoberfest-2024-taj-mg-road-bengaluru-et51751/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-23 10:13:00",
+        "validFrom": "2024-09-27 11:40:00",
         "availability": "INSTOCK",
         "inventory": 100
       },
       {
         "url": "https://www.zomato.com/events/oktoberfest-2024-taj-mg-road-bengaluru-et51751/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-27 14:54:31",
+        "availability": "INSTOCK",
+        "inventory": 99
+      },
+      {
+        "url": "https://www.zomato.com/events/oktoberfest-2024-taj-mg-road-bengaluru-et51751/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-27 14:54:32",
+        "availability": "INSTOCK",
+        "inventory": 99
+      },
+      {
+        "url": "https://www.zomato.com/events/oktoberfest-2024-taj-mg-road-bengaluru-et51751/details",
         "price": 1500,
         "currency": "INR",
-        "validFrom": "2024-09-23 10:13:00",
+        "validFrom": "2024-09-27 14:54:32",
         "availability": "INSTOCK",
         "inventory": 100
       }
@@ -4728,7 +4728,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:00:24",
         "availability": "INSTOCK",
-        "inventory": 7
+        "inventory": 5
       },
       {
         "url": "https://www.zomato.com/events/paint-with-puppies-by-pawasana-bengaluru-et51827/details",
@@ -4824,7 +4824,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:36:15",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 97
       }
     ],
     "performers": [],
@@ -4844,56 +4844,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97264308,
         "longitude": 77.60066831
-      }
-    }
-  },
-  {
-    "name": "Privilege Fridaze ft. Rohit",
-    "description": "Bangalore's most awaited & sought-after Privilege Fridaze is back at Juliet with DJ Rohit this Friday.",
-    "startDate": "2024-09-27 20:00:00",
-    "endDate": "2024-09-28 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/01028d7237f0d3c23cb434c7bf109c0c1727333583.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/privilege-fridaze-ft-rohit-bengaluru-et51845/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-26 16:41:28",
-        "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/privilege-fridaze-ft-rohit-bengaluru-et51845/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-26 16:41:28",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/privilege-fridaze-ft-rohit-bengaluru-et51845",
-    "id": "com.zomato.51845",
-    "location": {
-      "name": "Juliet @ 1MG",
-      "address": "5th floor, 1, MG Mall, Trinity Circle, Mahatma Gandhi Rd, above 1MG Mall, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9734662,
-        "longitude": 77.6204084
       }
     }
   },

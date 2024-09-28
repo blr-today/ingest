@@ -4170,19 +4170,10 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 90
+               "value": 96
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-09-23T10:13:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 95
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-23T10:13:00+05:30"
+            "validFrom": "2024-09-27T11:40:00+05:30"
          },
          {
             "availability": "InStock",
@@ -4191,16 +4182,7 @@
                "value": 99
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-09-23T10:13:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 94
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-23T10:13:00+05:30"
+            "validFrom": "2024-09-27T11:40:00+05:30"
          },
          {
             "availability": "InStock",
@@ -4209,7 +4191,25 @@
                "value": 100
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-09-23T10:13:00+05:30"
+            "validFrom": "2024-09-27T11:40:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 99
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-27T14:54:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 99
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-27T14:54:00+05:30"
          },
          {
             "availability": "InStock",
@@ -4218,7 +4218,7 @@
                "value": 100
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-09-23T10:13:00+05:30"
+            "validFrom": "2024-09-27T14:54:00+05:30"
          }
       ],
       "organizer": [
@@ -4792,7 +4792,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 7
+               "value": 5
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-25T15:00:00+05:30"
@@ -4884,7 +4884,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 97
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-25T15:36:00+05:30"
@@ -4898,59 +4898,9 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 100,
+      "remainingAttendeeCapacity": 97,
       "startDate": "2024-09-28T20:00:00+05:30",
       "url": "https://www.zomato.com/events/pure-jazz-bengaluru-et51829"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Bangalore's most awaited & sought-after Privilege Fridaze is back at Juliet with DJ Rohit this Friday.",
-      "endDate": "2024-09-28T01:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/01028d7237f0d3c23cb434c7bf109c0c1727333583.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "address": "5th floor, 1, MG Mall, Trinity Circle, Mahatma Gandhi Rd, above 1MG Mall, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.973466200000001,
-            "longitude": 77.620408400000002
-         },
-         "name": "Juliet @ 1MG"
-      },
-      "name": "Privilege Fridaze ft. Rohit",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 100
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-26T16:41:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 100
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-26T16:41:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-09-27T20:00:00+05:30",
-      "url": "https://www.zomato.com/events/privilege-fridaze-ft-rohit-bengaluru-et51845"
    },
    {
       "@context": "https://schema.org",
