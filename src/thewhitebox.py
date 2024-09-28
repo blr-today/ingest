@@ -14,7 +14,6 @@ def make_offers(product: ShopifyProduct):
             "@type": "Offer",
             "priceCurrency": "INR",
             "price": variant.price,
-            "sku": variant.sku,
         }
         for variant in product.variants
     ]

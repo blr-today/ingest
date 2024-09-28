@@ -55,6 +55,7 @@ EVENT_JSON_FILES = [
     "out/bcc.json",
     "out/tpcc.json",  # duplicates to underline and insider
     "out/skillboxes.json",
+    "out/thewhitebox.json",
 ]
 
 KNOWN_EVENT_TYPES = [

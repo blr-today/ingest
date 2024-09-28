@@ -135,6 +135,9 @@ out/pvr/cinemas.json:
 out/trove.json:
 	python src/trove.py || $(call restore-file,$@)
 
+out/thewhitebox.json:
+	python src/thewhitebox.py || $(call restore-file,$@)
+
 out/aceofpubs.ics:
 	curl_chrome116 --silent "https://aceofpubs.com/events/category/bengaluru-pub-quiz-event/?post_type=tribe_events&ical=1&eventDisplay=list&ical=1" --output $@ || $(call restore-file,$@)
 
@@ -197,7 +200,8 @@ fetch: out/allevents.txt \
  out/bcc.json \
  out/pumarun.txt \
  out/tpcc.json \
- out/skillboxes.json
+ out/skillboxes.json \
+ out/thewhitebox.json
 	@echo "Done"
 
 clean:
