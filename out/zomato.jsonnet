@@ -1252,50 +1252,6 @@
     }
   },
   {
-    "name": "Tribute to Dream Theater",
-    "description": "Dream Theater is a progressive rock band that blends intricate melodies and rhythms with powerful riffs and dynamic drumming. Covering their songs is one of the most demanding feats for a live band due to the band`s technical complexity, vast vocal range, lengthy compositions, epic soundscapes, and lack of room for interpretation.\nProgress Report, an exceptional band, is bringing the sophisticated music of Dream Theater to India in a tribute format for the very first time. This live show promises 3 hours of of sheer musical dexterity, dramatic performances, and cinematic soundscapes. It`s a must-see event for musicians, music enthusiasts, and anyone who appreciates the artistry of progressive rock and dramatic music.",
-    "startDate": "2024-09-28T21:00:00+05:30",
-    "endDate": "2024-09-28T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Dream Theater Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Dream Theater Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/280edf484a6c2e03f5b51e8f734411551725002359.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-dream-theater-bengaluru-et50303/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-08-30 12:50:34",
-        "availability": "INSTOCK",
-        "inventory": 27
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-dream-theater-bengaluru-et50303",
-    "id": "com.zomato.50303",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Sunny Tunes",
     "description": "Make some noise and have fun, since the music gets two times better when the band lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Fingerchips and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
     "startDate": "2024-09-29T13:00:00+05:30",
@@ -1440,56 +1396,6 @@
     "id": "com.zomato.50398"
   },
   {
-    "name": "Tribute to Eric Clapton & Beatles",
-    "description": "Legendary Tribute Nights only at Hard Rock Cafe\nAt the Hard Rock Cafe Whitefield, the progressive rock band Crystal Codes will pay homage to Eric Clapton and The Beatles. If you are a Beatles or Eric Clapton fan, (how can you not be?) then join us for this memorable night at Hard Rock Cafe.",
-    "startDate": "2024-09-28T21:00:00+05:30",
-    "endDate": "2024-09-28T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3358492b9d6c4730a6c0e899e4e91dae1725265325.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-eric-clapton-beatles-bengaluru-et50537/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-09-02 14:04:41",
-        "availability": "INSTOCK",
-        "inventory": 25
-      },
-      {
-        "url": "https://www.zomato.com/events/tribute-to-eric-clapton-beatles-bengaluru-et50537/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-09-02 14:04:42",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-eric-clapton-beatles-bengaluru-et50537",
-    "id": "com.zomato.50537",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
-  },
-  {
     "name": "Chai Pe Charcha",
     "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
     "startDate": "2024-09-29T15:00:00+05:30",
@@ -1574,66 +1480,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93424663,
         "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Salsa Dance",
-    "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
-    "startDate": "2024-09-28T20:00:00+05:30",
-    "endDate": "2024-09-28T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/98a13be4119fb1df87ecbe8ff0c1f2ed1725340941.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:12",
-        "availability": "INSTOCK",
-        "inventory": 6
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:13",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:13",
-        "availability": "INSTOCK",
-        "inventory": 9
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50759",
-    "id": "com.zomato.50759",
-    "location": {
-      "name": "Small World, S.T. Bed",
-      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93327579,
-        "longitude": 77.63221323
       }
     }
   },
@@ -1794,48 +1640,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.86069269,
         "longitude": 77.66069157
-      }
-    }
-  },
-  {
-    "name": "SCC SkyCinema - Rockstar",
-    "description": "\"Sheher ek se gaon ek se, Log ek se, naam ek\u201d - Rockstar\n\nGet ready to be swept away by the soulful melodies as Sunset Cinema Club brings you an unforgettable screening of Rockstar at 1 MG - Lido Mall.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the skyline of the city as your backdrop.",
-    "startDate": "2024-09-28T19:30:00+05:30",
-    "endDate": "2024-09-28T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/a2c86e279e1ca629eeaccc8d4e0dc73f1725455792.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/movies-by-the-lake-yeh-jawaani-hai-deewani-bengaluru-et51115/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-09-04 19:00:13",
-        "availability": "INSTOCK",
-        "inventory": 6
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/movies-by-the-lake-yeh-jawaani-hai-deewani-bengaluru-et51115",
-    "id": "com.zomato.51115",
-    "location": {
-      "name": "1 MG - Lido Mall",
-      "address": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru, Karnataka 560008",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97480423,
-        "longitude": 77.62066549
       }
     }
   },
@@ -2059,108 +1863,6 @@
     "location": {
       "name": "Small World, 5th Block",
       "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Saturday Night Live w/ Abhishek Nagarkar",
-    "description": "Join us this Saturday at Escape By Brewklyn Bangalore for an unforgettable live music experience with Abhishek Nagarkar. His soulful tunes and energetic performances will make your Saturday nights come alive. Don't miss out on the live vibe!",
-    "startDate": "2024-09-28T20:00:00+05:30",
-    "endDate": "2024-09-28T23:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/adb2528743f7e53b2ef48fcd5a7344571726049777.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/saturday-night-live-w-abhishek-nagarkar-bengaluru-et51438/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-11 15:53:14",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/saturday-night-live-w-abhishek-nagarkar-bengaluru-et51438",
-    "id": "com.zomato.51438",
-    "location": {
-      "name": "Escape by Brewklyn",
-      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.04059157,
-        "longitude": 77.61912205
-      }
-    }
-  },
-  {
-    "name": "Garba Night",
-    "description": "Learn the Art of Garba: Experience the joy of Garba as you learn the graceful steps and intricate moves of this lively dance form. Our expert instructors will guide you through the techniques and help you perfect your Garba style.\nOne-on-One Coaching: If you're new to Garba, don't worry! We offer one-on-one coaching to ensure that everyone feels comfortable and confident on the dance floor.\nTraditional Attire: Embrace the spirit of Garba by dressing in vibrant, traditional attire. Feel free to wear your favourite chaniya choli or kurta and embrace the festive ambience.\nGroup Practice: Put your newly acquired Garba skills to the test as you join the entire group for a lively and energetic dance session.\nRefreshments: Recharge with light snacks and beverages available during the event to keep your energy levels up.",
-    "startDate": "2024-09-28T20:00:00+05:30",
-    "endDate": "2024-09-28T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Garba Night Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Garba Night Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b89aaafbd4fc07579b8280dc58b080261726049829.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51451/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-11 18:53:46",
-        "availability": "INSTOCK",
-        "inventory": 1000
-      },
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51451/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-11 18:53:47",
-        "availability": "INSTOCK",
-        "inventory": 1000
-      },
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51451/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-09-11 18:53:47",
-        "availability": "INSTOCK",
-        "inventory": 1000
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/garba-night-bengaluru-et51451",
-    "id": "com.zomato.51451",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
       "geo": {
         "@type": "GeoCoordinates",
         "latitude": 12.93424663,
@@ -3878,8 +3580,8 @@
   {
     "name": "Oktoberfest 2024 | Taj Mg Road",
     "description": "Bier, Bratwurst, and Beats: Time to Prost Like the Germans!\n\nOktoberfest is the world\u2019s most iconic beer festival, steeped in tradition and celebrated for its vibrant Bavarian culture. This year, we\u2019re bringing that legendary spirit right to namma Bengaluru at Seven Rivers, Taj MG Road!\n\n\ud83d\uddd3\ufe0f The Lineup:\n\nDay 1 \u2013 28th September (Saturday) | 7:00 PM Onwards\nGet the party started with DJ Sunny Zahir\n\nDay 2 \u2013 29th September (Sunday) | 4:00 PM Onwards\nDJ Prithvi and Raghu Achar will take you on a musical journey with tracks that\u2019ll make you dance like no one\u2019s watching (even if they are!).\n\n\ud83c\udfaa Shop, Play, and Feast, Grab some quirky finds and unique pop-ups. \n\ud83c\udf7bGames Galore: \n\ud83c\udf7bIconic Food Stalls: Pretzels, sausages\n\nThis is Bangalore\u2019s Oktoberfest \u2013 bigger, better, and fantatsic every year",
-    "startDate": "2024-09-28T19:00:00+05:30",
-    "endDate": "2024-09-29T22:00:00+05:30",
+    "startDate": "2024-09-28 19:00:00",
+    "endDate": "2024-09-29 22:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -4496,94 +4198,6 @@
     }
   },
   {
-    "name": "That 90s Side",
-    "description": "Crank it up and step into THAT 90S SIDE! A night of raw, untamed energy paying homage to the rock and grunge legends that shaped a generation. Lemon Chai\u2019s got Ron and Keith shredding on guitars, Praveen pounding the drums, Chales slamming the bass, and debutant voices Dhira Rinny Singh and Muskaan Kaushik bringing the fire!",
-    "startDate": "2024-09-28T20:00:00+05:30",
-    "endDate": "2024-09-28T22:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "That 90s Side Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for That 90s Side Bengaluru on Zomato which is a Music event happening at 2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/04dd378d45bb196b056e41a417e27d271727256796.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/that-90s-side-bengaluru-et51828/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-25 15:36:14",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/that-90s-side-bengaluru-et51828",
-    "id": "com.zomato.51828",
-    "location": {
-      "name": "Gilly's Super Bar",
-      "address": "2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97264308,
-        "longitude": 77.60066831
-      }
-    }
-  },
-  {
-    "name": "Pure Jazz",
-    "description": "Jazz connoisseurs, your moment has arrived! Immerse yourself in the refined elegance of Pure Jazz with the legendary Rex Rozario Quintet, virtuosos since 1985. With Rex Rozario on sax, Joe on guitars & vocals, Iggy on keys & vocals, Mario on bass, and John on drums & vocals, prepare for an exclusive evening of jazz excellence. Elevate your night and savor the pure sophistication of this unforgettable performance.",
-    "startDate": "2024-09-28T20:00:00+05:30",
-    "endDate": "2024-09-28T22:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Pure Jazz Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Pure Jazz Bengaluru on Zomato which is a Music event happening at 2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/104d030605ab1732f0d36aeeebd517ef1727257130.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/pure-jazz-bengaluru-et51829/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-25 15:36:15",
-        "availability": "INSTOCK",
-        "inventory": 97
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/pure-jazz-bengaluru-et51829",
-    "id": "com.zomato.51829",
-    "location": {
-      "name": "Gilly's Super Bar",
-      "address": "2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97264308,
-        "longitude": 77.60066831
-      }
-    }
-  },
-  {
     "name": "Protocol Sunday ft. Answer",
     "description": "Get ready for the ultimate techno showcase in your city - Protocol Sunday! Catch the homegrown duo ANSWER live at Kitty Ko this Sunday.",
     "startDate": "2024-09-29T20:00:00+05:30",
@@ -5172,7 +4786,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 12:53:27",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 98
       }
     ],
     "performers": [],
@@ -5300,7 +4914,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:44",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 196
       }
     ],
     "performers": [],
@@ -5426,7 +5040,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:46",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 190
       }
     ],
     "performers": [],
