@@ -148,43 +148,6 @@
     ]
   },
   {
-    "name": "Baddy with the Sisters - Saturday",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.in/session_details/badminton/BaddyGameBegInt",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.in"
-    },
-    "description": "Bring out your Racquets ladies!! We're going to play some badminton! \nDetails : Day - Saturday Location -\u00a0Sree Rama Badminton Academy \nWhat do I do if I don't have a racquet and non-marking shoes?  Racquets and non-marking shoes are mandatory, but if you don't have them the court offers them for rent at the following costs. - Racquet - Rs.30 per hour - Non-marking shoes - Rs.30 per hour. \nWe're super excited! Join us and we'll see you on the court. \nFor any further queries, please feel free to reach out to us. \n \nContact: \nAishwarya Bharathi \n9738012622",
-    "image": "https://sistersinsweat.in/products/6a10bbd480e4c5573d8f3af73ae0454b1727254669Baddy Kasturinagar saturday.jpeg",
-    "location": {
-      "name": "Sree Rama Badminton Academy",
-      "address": "",
-      "type": "Place"
-    },
-    "startDate": "2024-09-28T15:00:00+05:30",
-    "endDate": "2024-09-28T17:00:00+05:30",
-    "offers": [
-      {
-        "price": 425,
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
     "name": "Run with the Sisters",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.in/session_details/running/RunClub",
@@ -476,6 +439,43 @@
     "offers": [
       {
         "price": 550,
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "name": "Baddy with the Sisters - Saturday",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session_details/badminton/BaddyGameBegInt",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "description": "Bring out your Racquets ladies!! We're going to play some badminton! \nDetails : Day - Saturday Location -\u00a0Sree Rama Badminton Academy \nWhat do I do if I don't have a racquet and non-marking shoes?  Racquets and non-marking shoes are mandatory, but if you don't have them the court offers them for rent at the following costs. - Racquet - Rs.30 per hour - Non-marking shoes - Rs.30 per hour. \nWe're super excited! Join us and we'll see you on the court. \nFor any further queries, please feel free to reach out to us. \n \nContact: \nAishwarya Bharathi \n9738012622",
+    "image": "https://sistersinsweat.in/products/6a10bbd480e4c5573d8f3af73ae0454b1727254669Baddy Kasturinagar saturday.jpeg",
+    "location": {
+      "name": "Sree Rama Badminton Academy",
+      "address": "",
+      "type": "Place"
+    },
+    "startDate": "2024-10-05T15:00:00+05:30",
+    "endDate": "2024-10-05T17:00:00+05:30",
+    "offers": [
+      {
+        "price": 425,
         "priceCurrency": "INR"
       }
     ]

@@ -1316,7 +1316,7 @@
         "currency": "INR",
         "validFrom": "2024-08-30 12:53:47",
         "availability": "INSTOCK",
-        "inventory": 60
+        "inventory": 56
       }
     ],
     "performers": [],
@@ -1492,50 +1492,6 @@
   {
     "name": "Chai Pe Charcha",
     "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
-    "startDate": "2024-09-28T15:00:00+05:30",
-    "endDate": "2024-09-28T16:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Chai Pe Charcha Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Chai Pe Charcha Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/fe273e16ee932a66b706bc281772ca711725335537.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et50662/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:48:32",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/chai-pe-charcha-bengaluru-et50662",
-    "id": "com.zomato.50662",
-    "location": {
-      "name": "Small World, S.T. Bed",
-      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93327579,
-        "longitude": 77.63221323
-      }
-    }
-  },
-  {
-    "name": "Chai Pe Charcha",
-    "description": "Sit around a table, in a cozy little space and enjoy a cup of Chai while connecting with people through heart to hearts and other touching conversations. \nIt`s a cozy little meet up for people who just want to get to know others and have good conversations.\nIf you want to make new friends over Chai, come join us.",
     "startDate": "2024-09-29T15:00:00+05:30",
     "endDate": "2024-09-29T16:00:00+05:30",
     "timezone": "+05:30",
@@ -1574,50 +1530,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93424663,
         "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Dance Like a Bollywood Star",
-    "description": "Get ready to unleash your inner Bollywood sensation at our `Dance like a Bollywood Star` workshop!\nJoin us for a high-energy, fun-filled session where you`ll learn iconic Bollywood dance moves and grooves. Our talented instructors will guide you through the steps, from classic Bollywood numbers to the latest\nchartbusters. Whether you`re a seasoned dancer or just love to move, this workshop is open to all levels of experience!\nAnd that's not all! After mastering the moves, you`ll have the chance to shine in front of the camera and create your very own Instagram reel. Show off your newfound dance skills and capture the magic of Bollywood on film.\nSo, grab your dancing shoes, bring your enthusiasm, and join us for an unforgettable day of music, dance, and Bollywood glamour. Don't miss your chance to dance like a Bollywood star!",
-    "startDate": "2024-09-28 12:00:00",
-    "endDate": "2024-09-28 13:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Dance Like a Bollywood Star Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Dance Like a Bollywood Star Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4c603b0c4944d98aba1e2644d9c78dbe1725338818.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50703/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:48:46",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/dance-like-a-bollywood-star-bengaluru-et50703",
-    "id": "com.zomato.50703",
-    "location": {
-      "name": "Small World, S.T. Bed",
-      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93327579,
-        "longitude": 77.63221323
       }
     }
   },
@@ -2131,7 +2043,7 @@
         "currency": "INR",
         "validFrom": "2024-09-11 14:51:00",
         "availability": "INSTOCK",
-        "inventory": 16
+        "inventory": 14
       }
     ],
     "performers": [],
@@ -2306,50 +2218,6 @@
     ],
     "url": "https://www.zomato.com/events/garba-night-bengaluru-et51452",
     "id": "com.zomato.51452",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Resin Art Workshop",
-    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-    "startDate": "2024-09-28T14:00:00+05:30",
-    "endDate": "2024-09-28T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1726064434.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51498/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-09-11 20:16:28",
-        "availability": "INSTOCK",
-        "inventory": 8
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51498",
-    "id": "com.zomato.51498",
     "location": {
       "name": "Small World, 5th Block",
       "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
@@ -2911,50 +2779,6 @@
   {
     "name": "Block Printing",
     "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
-    "startDate": "2024-09-28T14:00:00+05:30",
-    "endDate": "2024-09-28T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Block Printing Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Block Printing Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51555/details",
-        "price": 1199,
-        "currency": "INR",
-        "validFrom": "2024-09-12 10:51:32",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51555",
-    "id": "com.zomato.51555",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Block Printing",
-    "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
     "startDate": "2024-09-29T14:00:00+05:30",
     "endDate": "2024-09-29T15:00:00+05:30",
     "timezone": "+05:30",
@@ -3043,8 +2867,8 @@
   {
     "name": "CORE (Open Air)",
     "description": "Join us at High Ultra Lounge for CORE, an exhilarating open-air party on Sunday, 28th September, featuring the incredible Ma Faiza! Prepare yourself for an unforgettable evening of pulsating beats, vibrant energy, and a breathtaking view from the city's highest lounge.\n\nMa Faiza, known as the 'Mother of Electronica' in India, will take you on a musical journey like no other. Don\u2019t miss out on this electrifying event!\n\nBOOK YOUR TICKETS NOW and be part of an epic night under the stars!",
-    "startDate": "2024-09-28T17:00:00+05:30",
-    "endDate": "2024-09-29T01:00:00+05:30",
+    "startDate": "2024-09-28 17:00:00",
+    "endDate": "2024-09-29 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3069,7 +2893,7 @@
         "currency": "INR",
         "validFrom": "2024-09-14 01:53:34",
         "availability": "INSTOCK",
-        "inventory": 190
+        "inventory": 188
       },
       {
         "url": "https://www.zomato.com/events/core-open-air-bengaluru-et51617/details",
@@ -3077,7 +2901,7 @@
         "currency": "INR",
         "validFrom": "2024-09-14 01:53:34",
         "availability": "INSTOCK",
-        "inventory": 188
+        "inventory": 181
       }
     ],
     "performers": [],
@@ -3237,94 +3061,6 @@
     }
   },
   {
-    "name": "Whispers of the Spring",
-    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
-    "startDate": "2024-09-28T16:00:00+05:30",
-    "endDate": "2024-09-28T18:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Whispers of the Spring Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Whispers of the Spring Bengaluru on Zomato which is a Experiences event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560103",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/c388bab8d8d73ac7f0ec5a7d206e2b3b1726733526.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/whispers-of-the-spring-bengaluru-et51708/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-09-19 13:48:31",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/whispers-of-the-spring-bengaluru-et51708",
-    "id": "com.zomato.51708",
-    "location": {
-      "name": "Paint The Town Restaurant",
-      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560103",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93753285,
-        "longitude": 77.61234518
-      }
-    }
-  },
-  {
-    "name": "Goldengate Bridge",
-    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
-    "startDate": "2024-09-28T13:00:00+05:30",
-    "endDate": "2024-09-28T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Goldengate Bridge Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Goldengate Bridge Bengaluru on Zomato which is a Experiences event happening at No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560103",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/d9b0d44fbb275e931e028df7a69aa5991726733624.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/goldengate-bridge-bengaluru-et51709/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-09-19 13:50:09",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/goldengate-bridge-bengaluru-et51709",
-    "id": "com.zomato.51709",
-    "location": {
-      "name": "Paint The Town Restaurant",
-      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560103",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93753285,
-        "longitude": 77.61234518
-      }
-    }
-  },
-  {
     "name": "Paint with Puppies by Pawasana",
     "description": "Have you ever dreamed of painting alongside the most adorable companions imaginable? Now's your chance! Don't miss out on the event of the month: Painting with Puppies! It's not just a workshop; it's an unforgettable experience that will touch your heart and ignite your creativity like never before.\nImagine yourself surrounded by cuddly, adoptable puppies, their wagging tails and playful energy inspiring every brushstroke. But it's not just about painting; it's about making a difference. With each ticket purchased, you're supporting animal welfare initiatives, spreading love and compassion to those who need it most.\nIndulge in unlimited snuggles, laughter, and pure joy as you create your masterpiece alongside your furry friends. This isn't just another workshop\u2014it's a chance to create memories that will last a lifetime while giving back to the community.",
     "startDate": "2024-10-05T10:30:00+05:30",
@@ -3378,7 +3114,7 @@
   },
   {
     "name": "Pet Fed Bengaluru 2024",
-    "description": "Bengaluru, brace yourselves because Pet Fed is Back and it's bigger, better, and greener than ever! \ud83c\udf89 #PetFedIndiaisBack\n\nThis year, we\u2019re not just celebrating our return\u2014we\u2019re celebrating 10 incredible years of Pet Fed! \ud83e\udd73\n\nJoin us at Jayamahal Palace on 23rd & 24th November 2024 for two days of non-stop love and fun with your fur babies. \ud83d\udc3e\n\nHere\u2019s what we\u2019ve got lined up for you:\n\n- 3 Acres of Festival Bliss\n- Expert-Led Master Classes\n- Exciting Dog & Cat Play Zones\n- International Cat Show\n- Fashion Show\n- Police Dog Show\n- Agility Ring\n- Adoption Camps\n- Tons of Games\n- 150+ Global Pet Stalls\n- Food, Drinks & Unmatched Fun\n\nCome with or without your pet\u2014but don\u2019t miss out on the decade celebration! \ud83c\udf82\n\n#PetFedBengaluru2024",
+    "description": "Bengaluru, brace yourselves because Pet Fed is Back and it's bigger, better, and greener than ever! \ud83c\udf89 #PetFedIndiaisBack\n\nThis year, we\u2019re not just celebrating our return\u2014we\u2019re celebrating 10 incredible years of Pet Fed! \ud83e\udd73\n\nJoin us at Jayamahal Palace on 23rd & 24th November 2024 for two days of non-stop love and fun with your fur babies. \ud83d\udc3e\n\nHere\u2019s what we\u2019ve got lined up for you:\n\n- 3 Acres of Festival Bliss\n- Expert-Led Master Classes\n- Exciting Dog & Cat Play Zones\n- International Cat Show\n- Fashion Show\n- Police Dog Show\n- Agility Ring\n- Adoption Camps\n- Tons of Games\n- 100+ Global Pet Stalls\n- Food, Drinks & Unmatched Fun\n\nCome with or without your pet\u2014but don\u2019t miss out on the decade celebration! \ud83c\udf82\n\n#PetFedBengaluru2024",
     "startDate": "2024-11-23T11:00:00+05:30",
     "endDate": "2024-11-24T21:00:00+05:30",
     "timezone": "+05:30",
@@ -3440,7 +3176,7 @@
         "currency": "INR",
         "validFrom": "2024-09-22 09:59:00",
         "availability": "INSTOCK",
-        "inventory": 1656
+        "inventory": 1554
       }
     ],
     "performers": [],
@@ -4412,7 +4148,7 @@
         "currency": "INR",
         "validFrom": "2024-09-24 16:21:32",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
@@ -4500,7 +4236,7 @@
         "currency": "INR",
         "validFrom": "2024-09-24 16:21:48",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",

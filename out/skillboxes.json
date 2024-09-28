@@ -113,7 +113,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Unlimited pizza and wines.\n",
-            "inventoryLevel": 29,
+            "inventoryLevel": 26,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/brik-oven-x-the-fluffynut-foundation"
          },
@@ -288,6 +288,49 @@
       ],
       "startDate": "2024-10-18T18:00:00",
       "url": "https://www.skillboxes.com/events/seedhe-maut-india-tour-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Get ready for the Official After Party of the biggest music festival in the country- Alan Walker (Sunburn Festival)! This Friday, experience an electr",
+      "endDate": "2024-10-05T01:00:00",
+      "identifier": "com.skillboxes.16103",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17275065725VVII6S6Y7AzQjEl.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0122829",
+            "longitude": "77.5561431"
+         },
+         "name": "High Ultra Lounge"
+      },
+      "name": "Alan Walker After Party ft. Siana Catherine | 4th Oct | HIGH",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 100,
+            "name": "Female - Pass",
+            "url": "https://www.skillboxes.com/events/ticket/alan-walker-after-party-ft-siana-catherine-4th-oct-high"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles entry for 1 Male throughout the event.\n",
+            "inventoryLevel": 100,
+            "name": "Male - Pass",
+            "url": "https://www.skillboxes.com/events/ticket/alan-walker-after-party-ft-siana-catherine-4th-oct-high"
+         }
+      ],
+      "startDate": "2024-10-04T20:00:00",
+      "url": "https://www.skillboxes.com/events/alan-walker-after-party-ft-siana-catherine-4th-oct-high"
    },
    {
       "@context": "https://schema.org",
@@ -640,7 +683,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Limited free slots for performers\n",
-            "inventoryLevel": 7,
+            "inventoryLevel": 4,
             "name": "Performer",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-3"
          },
@@ -648,7 +691,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Limited free guest slots\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Guest",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-3"
          },
@@ -689,7 +732,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 59,
+            "inventoryLevel": 56,
             "name": "General Admission",
             "url": "https://www.skillboxes.com/events/ticket/not-your-grandma-s-house-sunday-brunch"
          }
@@ -900,22 +943,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "• THIS TICKET ALLOWS ENTRY TO ONE FEMALE. • COVER & ENTRY CHARGES APPLICABLE POST 9 PM. • THIS IS A 21+ SHOW. ID CHECKS ARE MANDATORY. CLUB RULES APPLY. • WE FOLLOW STRICT ADHERENCE TO ZERO TOLERANCE ON DRUGS & PROHIBITED SUBSTANCES.\n",
-            "inventoryLevel": 5,
-            "name": "Girls [Early Birds]",
-            "url": "https://www.skillboxes.com/events/ticket/dnbindia-x-social-present-bangaloremassive-032"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "• THIS TICKET ALLOWS ENTRY TO ONE MALE. • COVER & ENTRY CHARGES APPLICABLE POST 9 PM. • THIS IS A 21+ SHOW. ID CHECKS ARE MANDATORY. CLUB RULES APPLY. • WE FOLLOW STRICT ADHERENCE TO ZERO TOLERANCE ON DRUGS & PROHIBITED SUBSTANCES.\n",
-            "inventoryLevel": 5,
-            "name": "Couple [Early Birds]",
-            "url": "https://www.skillboxes.com/events/ticket/dnbindia-x-social-present-bangaloremassive-032"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "• THIS TICKET ALLOWS ENTRY TO ONE MALE. • COVER & ENTRY CHARGES APPLICABLE POST 9 PM. • THIS IS A 21+ SHOW. ID CHECKS ARE MANDATORY. CLUB RULES APPLY. • WE FOLLOW STRICT ADHERENCE TO ZERO TOLERANCE ON DRUGS & PROHIBITED SUBSTANCES.\n",
             "inventoryLevel": 10,
             "name": "Stags [Early Birds]",
@@ -989,15 +1016,7 @@
          "name": "Sly Granny, Indiranagar"
       },
       "name": "Bangalore Grooves Ft The Chronic Blues Circus",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 73,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/bangalore-grooves-ft-the-chronic-blues-circus"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-09-29T20:00:00",
       "url": "https://www.skillboxes.com/events/bangalore-grooves-ft-the-chronic-blues-circus"
    },
@@ -1169,24 +1188,7 @@
          "name": "Juliet (1MG Mall)"
       },
       "name": "𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞 𝐅𝐫𝐢𝐝𝐚𝐳𝐞 𝐟𝐭. 𝐑𝐨𝐡𝐢𝐭 | 𝟐𝟕𝐭𝐡 𝐒𝐞𝐩𝐭 | 𝐉𝐮𝐥𝐢𝐞𝐭",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM strictly. Cover charges applicable at the venue post 10PM\n",
-            "inventoryLevel": 98,
-            "name": "Couple - Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/privilege-fridaze-ft-rohit-27th-sept-juliet"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female till 10PM strictly. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 100,
-            "name": "Female - Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/privilege-fridaze-ft-rohit-27th-sept-juliet"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-09-27T20:00:00",
       "url": "https://www.skillboxes.com/events/privilege-fridaze-ft-rohit-27th-sept-juliet"
    },
@@ -1396,31 +1398,7 @@
          "name": "Aqua - THE Park Bangalore"
       },
       "name": "ELECTRIC BOOGE !",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one stag to the event. Cover charges applicable at the venue throughout the event.\n",
-            "inventoryLevel": 195,
-            "name": "STAGS",
-            "url": "https://www.skillboxes.com/events/ticket/electric-booge-8"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one lady to the event.\n",
-            "inventoryLevel": 196,
-            "name": "LADIES",
-            "url": "https://www.skillboxes.com/events/ticket/electric-booge-8"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 197,
-            "name": "COUPLES",
-            "url": "https://www.skillboxes.com/events/ticket/electric-booge-8"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-09-27T20:00:00",
       "url": "https://www.skillboxes.com/events/electric-booge-8"
    },
@@ -1457,7 +1435,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 13,
+            "inventoryLevel": 12,
             "name": "Performer Slot",
             "url": "https://www.skillboxes.com/events/ticket/speaking-souls-chandigarh-open-mic-7"
          },
