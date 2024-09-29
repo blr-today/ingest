@@ -1346,8 +1346,8 @@
   {
     "name": "Salsa Dance",
     "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
-    "startDate": "2024-09-29T20:00:00+05:30",
-    "endDate": "2024-09-29T21:00:00+05:30",
+    "startDate": "2024-09-29 20:00:00",
+    "endDate": "2024-09-29 21:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1665,8 +1665,8 @@
   {
     "name": "Garba Night",
     "description": "Learn the Art of Garba: Experience the joy of Garba as you learn the graceful steps and intricate moves of this lively dance form. Our expert instructors will guide you through the techniques and help you perfect your Garba style.\nOne-on-One Coaching: If you're new to Garba, don't worry! We offer one-on-one coaching to ensure that everyone feels comfortable and confident on the dance floor.\nTraditional Attire: Embrace the spirit of Garba by dressing in vibrant, traditional attire. Feel free to wear your favourite chaniya choli or kurta and embrace the festive ambience.\nGroup Practice: Put your newly acquired Garba skills to the test as you join the entire group for a lively and energetic dance session.\nRefreshments: Recharge with light snacks and beverages available during the event to keep your energy levels up.",
-    "startDate": "2024-09-29T20:00:00+05:30",
-    "endDate": "2024-09-29T21:00:00+05:30",
+    "startDate": "2024-09-29 20:00:00",
+    "endDate": "2024-09-29 21:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2265,8 +2265,8 @@
   {
     "name": "Sannidhya Live in Bangalore",
     "description": "A rising star, Sannidhya brings a fresh perspective to Assamese music with his youthful energy and innovative approach, resonating well with the younger audience.\n\nSannidhya Bhuyan (born on 8 November 1999) is a singer-songwriter composer from Assam. He first made his debut in 2018 with his R&B track \u201cBorokha\u201d feat. Tonmoy Krypton, which was the first ever R&B track in the Assamese language, there\u2019s always had a blend of Indian classical music and R&B element!",
-    "startDate": "2024-09-29T19:00:00+05:30",
-    "endDate": "2024-09-29T23:30:00+05:30",
+    "startDate": "2024-09-29 19:00:00",
+    "endDate": "2024-09-29 23:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3760,8 +3760,8 @@
   {
     "name": "Protocol Sunday ft. Answer",
     "description": "Get ready for the ultimate techno showcase in your city - Protocol Sunday! Catch the homegrown duo ANSWER live at Kitty Ko this Sunday.",
-    "startDate": "2024-09-29T20:00:00+05:30",
-    "endDate": "2024-09-30T01:00:00+05:30",
+    "startDate": "2024-09-29 20:00:00",
+    "endDate": "2024-09-30 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -5894,6 +5894,240 @@
         "@type": "GeoCoordinates",
         "latitude": 12.90419472,
         "longitude": 77.60113158
+      }
+    }
+  },
+  {
+    "name": "SCC SkyCinema - Me Before You",
+    "description": "\"You are scored on my heart, Clark. You were from the first day you walked in, with your ridiculous clothes and your bad jokes and your complete inability to ever hide a single thing you felt.\" - William Traynor, Me Before You.\n\nForum South Bengaluru and Sunset Cinema Club bring to you movies under the stars! Re-watch your favourite Blockbusters, or discover hidden-gems on the BIG screen! \n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.",
+    "startDate": "2024-10-06T19:00:00+05:30",
+    "endDate": "2024-10-06T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3399a3c804ddc367fcc3cbb157774d541727618422.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-me-before-you-bengaluru-et51969/details",
+        "price": 500,
+        "currency": "INR",
+        "validFrom": "2024-09-29 19:41:39",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-me-before-you-bengaluru-et51969/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-29 19:41:40",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-skycinema-me-before-you-bengaluru-et51969",
+    "id": "com.zomato.51969",
+    "location": {
+      "name": "Forum South Bengaluru",
+      "address": "Forum South Bengaluru Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte, Bengaluru, Karnataka 560063",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.25228833,
+        "longitude": 77.7606939
+      }
+    }
+  },
+  {
+    "name": "SCC SkyCinema - Jab We Met",
+    "description": "\"Mein Apni Favourite Hoon\u201d - Jab We Met\n\nAll aboard for a night of love, laughter, and unforgettable moments as we bring you the iconic Bollywood masterpiece. Sunset Cinema Club invites you to join us for a cinematic experience that will touch your heart and leave you with a smile at Forum South Bengaluru.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.",
+    "startDate": "2024-10-12T19:00:00+05:30",
+    "endDate": "2024-10-12T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3c05ae4677faed1e8213ba112a5670831727618601.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-jab-we-met-bengaluru-et51970/details",
+        "price": 500,
+        "currency": "INR",
+        "validFrom": "2024-09-29 19:41:40",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-jab-we-met-bengaluru-et51970/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-29 19:41:41",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-skycinema-jab-we-met-bengaluru-et51970",
+    "id": "com.zomato.51970",
+    "location": {
+      "name": "Forum South Bengaluru",
+      "address": "Forum South Bengaluru Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte, Bengaluru, Karnataka 560063",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.25228833,
+        "longitude": 77.7606939
+      }
+    }
+  },
+  {
+    "name": "SCC SkyCinema - Pretty Woman",
+    "description": "\"I want to be your fairy tale.\"- Pretty Woman \n\nIndulge in a night of enchantment as Sunset Cinema Club invites you for an evening filled with glamour, romance, and the irresistible charm of Hollywood's most beloved love story at Forum South Bengaluru.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.",
+    "startDate": "2024-10-20T19:00:00+05:30",
+    "endDate": "2024-10-20T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b74c112dc5bd1cedb29225cf2b0dc4fc1727618666.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-pretty-woman-bengaluru-et51971/details",
+        "price": 500,
+        "currency": "INR",
+        "validFrom": "2024-09-29 19:41:41",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-pretty-woman-bengaluru-et51971/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-29 19:41:42",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-skycinema-pretty-woman-bengaluru-et51971",
+    "id": "com.zomato.51971",
+    "location": {
+      "name": "Forum South Bengaluru",
+      "address": "Forum South Bengaluru Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte, Bengaluru, Karnataka 560063",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.25228833,
+        "longitude": 77.7606939
+      }
+    }
+  },
+  {
+    "name": "SCC SkyCinema - Up!",
+    "description": "\"Adventure is out there. It's waiting for us!\" -Up!\n\nSunset Cinema Club invites you to immerse yourself in the touching story of Carl and Russell as they set out on a whimsical and emotional adventure. Celebrate this charming tale of friendship, adventure and the power of dreams at 1 MG - Lido Mall.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the city skyline as your backdrop.",
+    "startDate": "2024-10-19T19:00:00+05:30",
+    "endDate": "2024-10-19T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/7ebddb0b9ca1d2426514c04e34c0bbcd1727618834.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-up-bengaluru-et51973/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-29 19:41:43",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-skycinema-up-bengaluru-et51973",
+    "id": "com.zomato.51973",
+    "location": {
+      "name": "1 MG - Lido Mall",
+      "address": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru, Karnataka 560008",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97480423,
+        "longitude": 77.62066549
+      }
+    }
+  },
+  {
+    "name": "SCC SkyCinema - Diwali Special",
+    "description": "\"Jiyo! Khush Raho! Muskurao! Kya Pata Kal Ho Naa Ho.\"\n\nThis Diwali, come home to nostalgia as Sunset Cinema Club brings to you a movie very close to our hearts meant to be relished with your loved ones.\n\nThe space will  be decorated with diyas and candles all set to welcome you to the screenings of these golden films that will add even more light, feeling and cheer to your diwali celebrations!\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the skyline of the city as your backdrop.",
+    "startDate": "2024-10-27T19:00:00+05:30",
+    "endDate": "2024-10-27T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/c53c47c111c85532fa474b45541eb0a31727618876.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-diwali-special-bengaluru-et51974/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-29 19:41:43",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-skycinema-diwali-special-bengaluru-et51974",
+    "id": "com.zomato.51974",
+    "location": {
+      "name": "1 MG - Lido Mall",
+      "address": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru, Karnataka 560008",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97480423,
+        "longitude": 77.62066549
       }
     }
   }
