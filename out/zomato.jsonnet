@@ -1244,50 +1244,6 @@
     }
   },
   {
-    "name": "Rock Out Sundays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-09-29T20:30:00+05:30",
-    "endDate": "2024-09-29T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Rock Out Sundays Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music and Trending event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/e4d463959ab685fd91a617f82b9656c81725002710.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50305/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-08-30 12:56:17",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et50305",
-    "id": "com.zomato.50305",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Dil-Luminati Tour - India",
     "description": "For the first time ever, global music icon Diljit Dosanjh brings his blockbuster Dil-Luminati Tour to 10 cities across India! After smashing records with sold-out shows across North America, Australia, and New Zealand, he's ready to set India ablaze with his electrifying energy.\n\nWhat to expect:\n\n\u261e High-energy performances of fan favorites and chart-topping hits\n\n\u261e Stunning visuals and world-class sound production\n\n\u261e Unforgettable memories celebrating Desi music for all ages\n\nBrought to you by Saregama India and Ripple Effect Studios.\n\n\n**Gates open at 6 pm**",
     "startDate": "2024-12-06T19:00:00+05:30",
@@ -1342,66 +1298,6 @@
     ],
     "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398",
     "id": "com.zomato.50398"
-  },
-  {
-    "name": "Salsa Dance",
-    "description": "Step into the rhythm and spice up your night at Small World`s Salsa Dance Social! Whether you`re a seasoned salsero or stepping onto the dance floor for the first time, our Salsa Social promises an evening of fiery beats, passionate moves, and a lively atmosphere that will transport you straight to the heart of Havana.",
-    "startDate": "2024-09-29 20:00:00",
-    "endDate": "2024-09-29 21:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Salsa Dance Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Salsa Dance Bengaluru on Zomato which is a Experiences event happening at 136, S.T. Bed, Cauvery Colony, Koramangala",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/98a13be4119fb1df87ecbe8ff0c1f2ed1725340941.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50760/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:13",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50760/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:14",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50760/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-09-03 11:49:14",
-        "availability": "INSTOCK",
-        "inventory": 9
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/salsa-dance-bengaluru-et50760",
-    "id": "com.zomato.50760",
-    "location": {
-      "name": "Small World, S.T. Bed",
-      "address": "136, S.T. Bed, Cauvery Colony, Koramangala",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93327579,
-        "longitude": 77.63221323
-      }
-    }
   },
   {
     "name": "AnyBody Can Dandiya 4.0 | White Feather",
@@ -1661,66 +1557,6 @@
     ],
     "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346",
     "id": "com.zomato.51346"
-  },
-  {
-    "name": "Garba Night",
-    "description": "Learn the Art of Garba: Experience the joy of Garba as you learn the graceful steps and intricate moves of this lively dance form. Our expert instructors will guide you through the techniques and help you perfect your Garba style.\nOne-on-One Coaching: If you're new to Garba, don't worry! We offer one-on-one coaching to ensure that everyone feels comfortable and confident on the dance floor.\nTraditional Attire: Embrace the spirit of Garba by dressing in vibrant, traditional attire. Feel free to wear your favourite chaniya choli or kurta and embrace the festive ambience.\nGroup Practice: Put your newly acquired Garba skills to the test as you join the entire group for a lively and energetic dance session.\nRefreshments: Recharge with light snacks and beverages available during the event to keep your energy levels up.",
-    "startDate": "2024-09-29 20:00:00",
-    "endDate": "2024-09-29 21:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Garba Night Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Garba Night Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b89aaafbd4fc07579b8280dc58b080261726049829.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51452/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-11 18:54:52",
-        "availability": "INSTOCK",
-        "inventory": 1000
-      },
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51452/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-11 18:54:52",
-        "availability": "INSTOCK",
-        "inventory": 1000
-      },
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51452/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-09-11 18:54:53",
-        "availability": "INSTOCK",
-        "inventory": 1000
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/garba-night-bengaluru-et51452",
-    "id": "com.zomato.51452",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
   },
   {
     "name": "Resin Art Workshop",
@@ -2259,90 +2095,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93424663,
         "longitude": 77.61767611
-      }
-    }
-  },
-  {
-    "name": "Sannidhya Live in Bangalore",
-    "description": "A rising star, Sannidhya brings a fresh perspective to Assamese music with his youthful energy and innovative approach, resonating well with the younger audience.\n\nSannidhya Bhuyan (born on 8 November 1999) is a singer-songwriter composer from Assam. He first made his debut in 2018 with his R&B track \u201cBorokha\u201d feat. Tonmoy Krypton, which was the first ever R&B track in the Assamese language, there\u2019s always had a blend of Indian classical music and R&B element!",
-    "startDate": "2024-09-29 19:00:00",
-    "endDate": "2024-09-29 23:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Sannidhya Live in Bangalore Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sannidhya Live in Bangalore Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/831be2c49338b368930d589bbd3df7751726481398.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-16 18:17:00",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-09-16 18:17:55",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
-        "price": 2000,
-        "currency": "INR",
-        "validFrom": "2024-09-20 16:03:16",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
-        "price": 2500,
-        "currency": "INR",
-        "validFrom": "2024-09-20 16:03:17",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
-        "price": 3500,
-        "currency": "INR",
-        "validFrom": "2024-09-20 16:07:27",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628/details",
-        "price": 10000,
-        "currency": "INR",
-        "validFrom": "2024-09-20 16:03:17",
-        "availability": "INSTOCK",
-        "inventory": 2
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/sannidhya-live-in-bangalore-bengaluru-et51628",
-    "id": "com.zomato.51628",
-    "location": {
-      "name": "White lotus Superclub",
-      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9151339,
-        "longitude": 77.6660495
       }
     }
   },
@@ -3210,66 +2962,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.02511097,
         "longitude": 77.5469953
-      }
-    }
-  },
-  {
-    "name": "Oktoberfest 2024 | Taj Mg Road",
-    "description": "Bier, Bratwurst, and Beats: Time to Prost Like the Germans!\n\nOktoberfest is the world\u2019s most iconic beer festival, steeped in tradition and celebrated for its vibrant Bavarian culture. This year, we\u2019re bringing that legendary spirit right to namma Bengaluru at Seven Rivers, Taj MG Road!\n\n\ud83d\uddd3\ufe0f The Lineup:\n\nDay 1 \u2013 28th September (Saturday) | 7:00 PM Onwards\nGet the party started with DJ Sunny Zahir\n\nDay 2 \u2013 29th September (Sunday) | 4:00 PM Onwards\nDJ Prithvi and Raghu Achar will take you on a musical journey with tracks that\u2019ll make you dance like no one\u2019s watching (even if they are!).\n\n\ud83c\udfaa Shop, Play, and Feast, Grab some quirky finds and unique pop-ups. \n\ud83c\udf7bGames Galore: \n\ud83c\udf7bIconic Food Stalls: Pretzels, sausages\n\nThis is Bangalore\u2019s Oktoberfest \u2013 bigger, better, and fantatsic every year",
-    "startDate": "2024-09-28 19:00:00",
-    "endDate": "2024-09-29 22:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Oktoberfest 2024 | Taj Mg Road Experiences, Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Oktoberfest 2024 | Taj Mg Road Bengaluru on Zomato which is a Experiences, Music and Trending event happening at 7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/6c207c2770cace777999d78c0047ce281727065627.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/oktoberfest-2024-taj-mg-road-bengaluru-et51751/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-27 11:40:00",
-        "availability": "INSTOCK",
-        "inventory": 94
-      },
-      {
-        "url": "https://www.zomato.com/events/oktoberfest-2024-taj-mg-road-bengaluru-et51751/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-27 11:40:00",
-        "availability": "INSTOCK",
-        "inventory": 98
-      },
-      {
-        "url": "https://www.zomato.com/events/oktoberfest-2024-taj-mg-road-bengaluru-et51751/details",
-        "price": 1500,
-        "currency": "INR",
-        "validFrom": "2024-09-27 11:40:00",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/oktoberfest-2024-taj-mg-road-bengaluru-et51751",
-    "id": "com.zomato.51751",
-    "location": {
-      "name": "Seven Rivers Brewing Co.",
-      "address": "7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97326,
-        "longitude": 77.619667
       }
     }
   },
@@ -6044,6 +5736,48 @@
         "@type": "GeoCoordinates",
         "latitude": 13.25228833,
         "longitude": 77.7606939
+      }
+    }
+  },
+  {
+    "name": "SCC SkyCinema - Midnight In Paris",
+    "description": "\"You know, it's not the past that I idealize. It's the future.\" - Midnight in Paris.\n\nLooking for the perfect date night that combines romance, laughter, and the magic of cinema? Sunset Cinema Club brings you a special weekend of romantic movies to enjoy with your loved ones at 1 MG - Lido Mall.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the skyline of the city as your backdrop.",
+    "startDate": "2024-10-05T19:00:00+05:30",
+    "endDate": "2024-10-05T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/d9f3ee1399377d995db6b40fbba84d411727618763.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-skycinema-midnight-in-paris-bengaluru-et51972/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-09-29 19:41:42",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-skycinema-midnight-in-paris-bengaluru-et51972",
+    "id": "com.zomato.51972",
+    "location": {
+      "name": "1 MG - Lido Mall",
+      "address": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru, Karnataka 560008",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97480423,
+        "longitude": 77.62066549
       }
     }
   },

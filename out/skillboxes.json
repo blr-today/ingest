@@ -140,75 +140,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Get ready to experience a night of futuristic techno in Bangalore!\r\n\r\n Berlin's underground scene spectacle Varlerie Ace, is bringing her min",
-      "endDate": "2024-09-29T23:59:00",
-      "identifier": "com.skillboxes.15561",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1725637897X6oLWq6Y8g6Dgovs.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Plot No, 36, 100 Feet Rd, opp. to Shilton Royale Hotel, Srinivagilu, Chandra Reddy Layout, S T Bed Layout, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.937676",
-            "longitude": "77.6269862"
-         },
-         "name": "Magique"
-      },
-      "name": "Boogiielab Presents Valerie Ace",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 25,
-            "name": "Phase 1 Ticket | Female",
-            "url": "https://www.skillboxes.com/events/ticket/boogiielab-presents-valerie-ace"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 46,
-            "name": "Phase 1 Ticket | Male",
-            "url": "https://www.skillboxes.com/events/ticket/boogiielab-presents-valerie-ace"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 49,
-            "name": "Phase 1 Ticket | Couple",
-            "url": "https://www.skillboxes.com/events/ticket/boogiielab-presents-valerie-ace"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 25,
-            "name": "Early Bird Ticket | Female",
-            "url": "https://www.skillboxes.com/events/ticket/boogiielab-presents-valerie-ace"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 24,
-            "name": "Early Bird Ticket | Male",
-            "url": "https://www.skillboxes.com/events/ticket/boogiielab-presents-valerie-ace"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 22,
-            "name": "Early Bird Ticket | Couple",
-            "url": "https://www.skillboxes.com/events/ticket/boogiielab-presents-valerie-ace"
-         }
-      ],
-      "startDate": "2024-09-29T20:00:00",
-      "url": "https://www.skillboxes.com/events/boogiielab-presents-valerie-ace"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "Seedhe Maut India Tour || Bangalore",
       "endDate": "2024-10-18T22:00:00",
       "identifier": "com.skillboxes.14766",
@@ -288,6 +219,57 @@
       ],
       "startDate": "2024-10-18T18:00:00",
       "url": "https://www.skillboxes.com/events/seedhe-maut-india-tour-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Hello Bangalore!Join us on 05th OCT 8PM onwards this Saturday to witness another crazy live performance.CLUB CODE SATURDAY / BOLLY - TECH EDITION !Ste",
+      "endDate": "2024-10-06T01:00:00",
+      "identifier": "com.skillboxes.16142",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727632412Hihxfx3EZKaj7xUA.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "DJ/Producer"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9740179",
+            "longitude": "77.619422"
+         },
+         "name": "Aqua - THE Park Bangalore"
+      },
+      "name": "CLUB CODE SATURDAY / Dandiya Special",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one stag to the event. Cover charges applicable at the venue throughout the event.\n",
+            "inventoryLevel": 200,
+            "name": "STAGS",
+            "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-dandiya-special"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one lady to the event.\n",
+            "inventoryLevel": 200,
+            "name": "LADIES",
+            "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-dandiya-special"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass allows entry to 1 Couple. Each pass permits one couple to the event. Cover charges applicable at the venue post 9:30 PM.\n",
+            "inventoryLevel": 200,
+            "name": "COUPLES",
+            "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-dandiya-special"
+         }
+      ],
+      "startDate": "2024-10-05T20:00:00",
+      "url": "https://www.skillboxes.com/events/club-code-saturday-dandiya-special"
    },
    {
       "@context": "https://schema.org",
@@ -776,32 +758,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Get ready for a House Tour! We've got a house music experience like no other. From the rich beats of Latin House and Afro House to the thumping v",
-      "endDate": "2024-09-29T15:30:00",
-      "identifier": "com.skillboxes.16044",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/bzJLY2wwWTYycXZRdzZtb3lRRnptdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727324198NBOzrIbmOrZMSvpu.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "MSR Building, FLO, #3, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9743377",
-            "longitude": "77.6068167"
-         },
-         "name": "FLO Church Street"
-      },
-      "name": "Not Your Grandma's House | Sunday Brunch",
-      "offers": [ ],
-      "startDate": "2024-09-29T12:00:00",
-      "url": "https://www.skillboxes.com/events/not-your-grandma-s-house-sunday-brunch"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Kalyan Sabareeshan is a Musician & a Magician who has been actively performing across Bangalore over the last 2 years. He has been composing music",
       "endDate": "2024-10-06T20:00:00",
@@ -894,41 +850,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Skydeck TV: Immerse Yourself in Sound and Vision! Get ready for a mind-blowing audiovisual experience at Skydeck by Sherlock's this Sunday! \"",
-      "endDate": "2024-09-29T23:59:00",
-      "identifier": "com.skillboxes.16024",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727255000HsZDycA27QZmlkWd.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750296",
-            "longitude": "77.6075339"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "SKYDECK TV | DJ NIGHT | AUDIO-VISUAL EXPERIENCE",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Get a complimentary Beer or a Mocktail on every booking!\n",
-            "inventoryLevel": 100,
-            "name": "Entry Charge",
-            "url": "https://www.skillboxes.com/events/ticket/skydeck-tv-dj-night-audio-visual-experience-4"
-         }
-      ],
-      "startDate": "2024-09-29T20:00:00",
-      "url": "https://www.skillboxes.com/events/skydeck-tv-dj-night-audio-visual-experience-4"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "The event that bridges the worlds of fashion, art, and design and converges for a noble cause! This dynamic gathering celebrates creativity and inclus",
       "endDate": "2024-09-30T00:30:00",
       "identifier": "com.skillboxes.16019",
@@ -1010,92 +931,6 @@
       ],
       "startDate": "2024-10-05T17:00:00",
       "url": "https://www.skillboxes.com/events/luru-beats-Floating-Folks-Ep-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Sly Granny presents Bangalore Grooves ft. The Chronic Blues Circus! 🌈 🎷Join us this Sunday, from 8pm, at Sly Granny Indiranagar for an",
-      "endDate": "2024-09-29T23:00:00",
-      "identifier": "com.skillboxes.16012",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727183181t6AAPqP2cnz33C2s.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Musician/Band"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9705141",
-            "longitude": "77.6464228"
-         },
-         "name": "Sly Granny, Indiranagar"
-      },
-      "name": "Bangalore Grooves Ft The Chronic Blues Circus",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 235,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/bangalore-grooves-ft-the-chronic-blues-circus"
-         }
-      ],
-      "startDate": "2024-09-29T20:00:00",
-      "url": "https://www.skillboxes.com/events/bangalore-grooves-ft-the-chronic-blues-circus"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Welcome to Sakura Screenings where we celebrate the rich tapestry of Asian cinema and the enchanting world of anime. Immerse yourself in a diverse arr",
-      "endDate": "2024-09-29T15:00:00",
-      "identifier": "com.skillboxes.15999",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727166282rBsA1vH1Qw8xeOk7.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Movie Screening"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9711356",
-            "longitude": "77.598164"
-         },
-         "name": "Starbucks"
-      },
-      "name": "Sakura Screenings",
-      "offers": [ ],
-      "startDate": "2024-09-29T14:00:00",
-      "url": "https://www.skillboxes.com/events/sakura-screenings-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "EducationEvent",
-      "description": "Welcome to SOMO Splash of Memories! Get ready for a fun-filled evening of Open mic with opportunity to share stories in the form of music, storytellin",
-      "endDate": "2024-09-29T16:30:00",
-      "identifier": "com.skillboxes.15997",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/K04yQWlrYVo3cXFzak9UWm5ZTS9LQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727164129IksSZWeeONyVzdvr.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Workshops"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "beside Drunkling Sizzlers & Pub, No. 6, 2nd floor, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9334732",
-            "longitude": "77.6211418"
-         },
-         "name": "Chapter6 - The Club, Dine in & Rooftop"
-      },
-      "name": "SOMO Splash of Memories, SIP PAINT CREATE",
-      "offers": [ ],
-      "startDate": "2024-09-29T13:30:00",
-      "url": "https://www.skillboxes.com/events/somo-splash-of-memories-sip-paint-create-1"
    },
    {
       "@context": "https://schema.org",
@@ -1206,32 +1041,6 @@
       "offers": [ ],
       "startDate": "2024-09-29T17:00:00",
       "url": "https://www.skillboxes.com/events/aqua-sunset"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "ello Bangalore!Join us on 28th SEP 8PM onwards this Saturday to witness another crazy live performance.CLUB CODE SATURDAY / BOLLY - TECH EDITION !Step",
-      "endDate": "2024-09-29T01:00:00",
-      "identifier": "com.skillboxes.15967",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727009547PwumY8RJ3HWwz6P5.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "DJ/Producer"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9740179",
-            "longitude": "77.619422"
-         },
-         "name": "Aqua - THE Park Bangalore"
-      },
-      "name": "CLUB CODE SATURDAY / BOLLY - TECH EDITION !",
-      "offers": [ ],
-      "startDate": "2024-09-28T20:00:00",
-      "url": "https://www.skillboxes.com/events/club-code-saturday-bolly-tech-edition-9"
    },
    {
       "@context": "https://schema.org",
@@ -1402,32 +1211,6 @@
       "offers": [ ],
       "startDate": "2024-09-29T19:00:00",
       "url": "https://www.skillboxes.com/events/retro-revelry-3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Neon Vibes: Step into a vibrant world of glowing lights and neon effects. Our venue will be transformed into a luminous wonderland with dazzling decor",
-      "endDate": "2024-09-29T01:00:00",
-      "identifier": "com.skillboxes.15928",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b09PVUJNY1BZcjg3OE1Gbm1jTmM3Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726822608Mz96bGoaHgGToUtP.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28.4524744",
-            "longitude": "77.0727299"
-         },
-         "name": "Mollys Rooftop Bar and Lounge"
-      },
-      "name": "GLOW IN THE DARK",
-      "offers": [ ],
-      "startDate": "2024-09-28T19:00:00",
-      "url": "https://www.skillboxes.com/events/glow-in-the-dark-2"
    },
    {
       "@context": "https://schema.org",
@@ -2140,41 +1923,6 @@
       ],
       "startDate": "2024-10-03T18:00:00",
       "url": "https://www.skillboxes.com/events/biggest-dandiya-navratri-29"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "🌟 Soulful Symphony - A Poetic People Reprise🌟Join us for an enchanting evening of words, rhythm, and emotions as talented poets take t",
-      "endDate": "2024-09-29T18:00:00",
-      "identifier": "com.skillboxes.15875",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/N1V6SUFwZHJUZWd1Y1gvWkZzTW8zdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726731470pq4mvcq6ZaS0osLG.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Poetry Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Deena Complex, Opp MC Donald, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9732755",
-            "longitude": "77.6073169"
-         },
-         "name": "Just BLR - The Best Resto Bar In Brigade Road"
-      },
-      "name": "Soulful Special: Poetic People Reprise♥️",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "100 Rupees Redeemable on F&B\n",
-            "inventoryLevel": 42,
-            "name": "Audience",
-            "url": "https://www.skillboxes.com/events/ticket/soulful-special-poetic-people-reprise"
-         }
-      ],
-      "startDate": "2024-09-29T14:30:00",
-      "url": "https://www.skillboxes.com/events/soulful-special-poetic-people-reprise"
    },
    {
       "@context": "https://schema.org",
@@ -3010,47 +2758,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Kayan Vision India Tour x LiveBox | Bangalore | 29th September\r\n\r\n29-Sep-2024",
-      "endDate": "2024-09-29T23:59:00",
-      "identifier": "com.skillboxes.15774",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c0lGYzlCZU9aNVlnNnBWd2hYQkFrQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/172659010769Z1DOfZ4urxWzhp.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9451657",
-            "longitude": "77.62013519999999"
-         },
-         "name": "Sunburn Union"
-      },
-      "name": "Kayan Vision India Tour x LiveBox | Bangalore | 29th September",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 27,
-            "name": "Regular Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/kayan-vision-india-tour-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Pre-sales Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/kayan-vision-india-tour-bangalore"
-         }
-      ],
-      "startDate": "2024-09-29T20:00:00",
-      "url": "https://www.skillboxes.com/events/kayan-vision-india-tour-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "RED LIVE in concert with Shankar Ehsaan Loy by Superhits 93.5 RED FM.\r\n\r\n \r\n\r\nPrepare to be swept off your feet by the legendary trio of Shankar ",
       "endDate": "2024-12-21T23:59:00",
       "identifier": "com.skillboxes.15750",
@@ -3122,73 +2829,6 @@
       ],
       "startDate": "2024-12-21T19:00:00",
       "url": "https://www.skillboxes.com/events/shankar-ehsaan-loy-live-in-concert-bangalore-2024"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "An Exclusive Anjunadeep Showcase!\r\n\r\n \r\n\r\n‘WHEN I’M WITH YOU’ ALBUM TOUR\r\n\r\n \r\n\r\nAnjunadeep’s Dark Lord is back!! Th",
-      "endDate": "2024-09-29T01:00:00",
-      "identifier": "com.skillboxes.15729",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726492374LtkZrRPs7B4DcQeh.png.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "22, Hennur Bagalur Rd, Visthar, Bengaluru, Karnataka 560077, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13",
-            "longitude": "77"
-         },
-         "name": "GYLT"
-      },
-      "name": "Nox Vahn at Gylt Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to one Male or Female, Extra cover charge applicable post 8pm walk-in at the venue.\n",
-            "inventoryLevel": 1000,
-            "name": "Phase 2 GA",
-            "url": "https://www.skillboxes.com/events/ticket/nox-vahn-at-gylt-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to one Male or Female in the VIP section, Extra cover charge applicable post 8pm walk-in at the venue.\n",
-            "inventoryLevel": 998,
-            "name": "Phase 2 VIP",
-            "url": "https://www.skillboxes.com/events/ticket/nox-vahn-at-gylt-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to group of 3 people, Extra cover charge applicable post 8pm walk-in at the venue.\n",
-            "inventoryLevel": 1000,
-            "name": "Group of 3 GA",
-            "url": "https://www.skillboxes.com/events/ticket/nox-vahn-at-gylt-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to group of 4 people, Extra cover charge applicable post 8pm walk-in at the venue.\n",
-            "inventoryLevel": 1000,
-            "name": "Group of 4 GA",
-            "url": "https://www.skillboxes.com/events/ticket/nox-vahn-at-gylt-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to group of 5 people, Extra cover charge applicable post 8pm walk-in at the venue.\n",
-            "inventoryLevel": 1000,
-            "name": "Group of 5 GA",
-            "url": "https://www.skillboxes.com/events/ticket/nox-vahn-at-gylt-bangalore"
-         }
-      ],
-      "startDate": "2024-09-28T16:00:00",
-      "url": "https://www.skillboxes.com/events/nox-vahn-at-gylt-bangalore"
    },
    {
       "@context": "https://schema.org",
@@ -3280,47 +2920,6 @@
       ],
       "startDate": "2024-10-10T19:00:00",
       "url": "https://www.skillboxes.com/events/dandiya-raas-edition-2-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "\"Rock Ballads ft. Shards of Agony\" is a powerful tribute to legendary rock bands like Eagles, Ozzy Osbourne, KISS, Queen, Def Leppard, and Mr.",
-      "endDate": "2024-09-29T23:00:00",
-      "identifier": "com.skillboxes.15640",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1725988618JFtzoBEsnCQhvJfz.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9313063",
-            "longitude": "77.6329297"
-         },
-         "name": "Bira 91 Taproom, Koramangala"
-      },
-      "name": "Rock Ballads ft Shards of Agony",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 30,
-            "name": "Entry Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/rock-ballads-ft-shards-of-agony"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 14,
-            "name": "EARLY BIRDS",
-            "url": "https://www.skillboxes.com/events/ticket/rock-ballads-ft-shards-of-agony"
-         }
-      ],
-      "startDate": "2024-09-29T20:00:00",
-      "url": "https://www.skillboxes.com/events/rock-ballads-ft-shards-of-agony"
    },
    {
       "@context": "https://schema.org",
@@ -3486,49 +3085,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Urban Rumble\r\nDND Entertainment back again at Social Indiranagar on September 29th with heart-pounding Uk Garage, DnB, and Bass House! Come witness an",
-      "endDate": "2024-09-29T23:59:00",
-      "identifier": "com.skillboxes.15593",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MmZDVyswU3dQV1FqSUE4VmFFR0JBUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17273565885FtsM6ZCxyLwlf0t.png.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9707322",
-            "longitude": "77.6476391"
-         },
-         "name": "Indiranagar Social"
-      },
-      "name": "Urban Rumble",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges Applicable Post 21:00 PM\n",
-            "inventoryLevel": 174,
-            "name": "Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/urban-rumble-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges Applicable Post 21:00 PM\n",
-            "inventoryLevel": 89,
-            "name": "Buy 2 Get 1",
-            "url": "https://www.skillboxes.com/events/ticket/urban-rumble-1"
-         }
-      ],
-      "startDate": "2024-09-29T19:00:00",
-      "url": "https://www.skillboxes.com/events/urban-rumble-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "INCOMING 🇮🇳 Swedish DJ/Producer ‘ Diorange’ behind the chart-topping anthem \"Ali Ali\" with A R Rahman & Nooran Sisters",
       "endDate": "2024-10-05T23:59:00",
       "identifier": "com.skillboxes.15587",
@@ -3563,87 +3119,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "A rising star, Sannidhya brings a fresh perspective to Assamese music with his youthful energy and innovative approach, resonating well with the young",
-      "endDate": "2024-09-29T23:59:00",
-      "identifier": "com.skillboxes.15571",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1725705564gfCfgyKlzs21hT5r.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9151523",
-            "longitude": "77.6660553"
-         },
-         "name": "White Lotus Club"
-      },
-      "name": "Sannidhya Bhuyan Live In : Assamese Live show",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charge applicable post 9 PM.\n",
-            "inventoryLevel": 100,
-            "name": "Phase 1 Ticket GA",
-            "url": "https://www.skillboxes.com/events/ticket/sannidhya-bhuyan-live-in-assamese-live-show"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charge applicable post 9 PM.\n",
-            "inventoryLevel": 100,
-            "name": "Phase 1 Ticket VIP",
-            "url": "https://www.skillboxes.com/events/ticket/sannidhya-bhuyan-live-in-assamese-live-show"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charge applicable post 9 PM.\n",
-            "inventoryLevel": 10,
-            "name": "Group of 5 GA",
-            "url": "https://www.skillboxes.com/events/ticket/sannidhya-bhuyan-live-in-assamese-live-show"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charge applicable post 9 PM.\n",
-            "inventoryLevel": 10,
-            "name": "Group of 5 VIP",
-            "url": "https://www.skillboxes.com/events/ticket/sannidhya-bhuyan-live-in-assamese-live-show"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charge applicable post 9 PM.\n",
-            "inventoryLevel": 2,
-            "name": "Table of 10 Seating",
-            "url": "https://www.skillboxes.com/events/ticket/sannidhya-bhuyan-live-in-assamese-live-show"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Super Early Bird GA",
-            "url": "https://www.skillboxes.com/events/ticket/sannidhya-bhuyan-live-in-assamese-live-show"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Super Early Bird VIP",
-            "url": "https://www.skillboxes.com/events/ticket/sannidhya-bhuyan-live-in-assamese-live-show"
-         }
-      ],
-      "startDate": "2024-09-29T21:00:00",
-      "url": "https://www.skillboxes.com/events/sannidhya-bhuyan-live-in-assamese-live-show"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Meet old friends and new as Motojojo brings back its Good Ol’ Gatherings after a well-earned hiatus. Join us for an intimate evening of communit",
       "endDate": "2024-10-05T23:59:00",
@@ -3675,68 +3150,6 @@
       ],
       "startDate": "2024-10-05T19:30:00",
       "url": "https://www.skillboxes.com/events/motojojo-s-good-ol-gathering-Bengaluru"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Byg Brewski Brewing Company presents Music To My Beers!\r\n\r\nExperience the best of live entertainment at BYG Brewski Brewing Company, where talented ba",
-      "endDate": "2024-09-29T16:00:00",
-      "identifier": "com.skillboxes.15429",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1725278326H3vygta6GpijxrmV.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "10/62/2A/2 & 3, Sarjapur Main Rd, behind MK Retail, near WIpro Corporate Office, Kaikondrahalli, Bengaluru, Karnataka 560035, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.913142",
-            "longitude": "77.6830757"
-         },
-         "name": "Byg Brewski Brewing Company"
-      },
-      "name": "Music To My Beers! | Byg Brewski Brewing Company - Sarjapur",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "RSVP (1st September)",
-            "url": "https://www.skillboxes.com/events/ticket/music-to-my-beers-byg-brewski-brewing-company-sarjapur"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "RSVP (8th September)",
-            "url": "https://www.skillboxes.com/events/ticket/music-to-my-beers-byg-brewski-brewing-company-sarjapur"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "RSVP (15th September)",
-            "url": "https://www.skillboxes.com/events/ticket/music-to-my-beers-byg-brewski-brewing-company-sarjapur"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "RSVP (22nd September)",
-            "url": "https://www.skillboxes.com/events/ticket/music-to-my-beers-byg-brewski-brewing-company-sarjapur"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "RSVP (29th September)",
-            "url": "https://www.skillboxes.com/events/ticket/music-to-my-beers-byg-brewski-brewing-company-sarjapur"
-         }
-      ],
-      "startDate": "2024-09-01T13:00:00",
-      "url": "https://www.skillboxes.com/events/music-to-my-beers-byg-brewski-brewing-company-sarjapur"
    },
    {
       "@context": "https://schema.org",
