@@ -231,6 +231,7 @@ WHERE
     -- Networking Meetups are BUSINESS events
     url LIKE '%network-meetup%'
     OR url LIKE '%networking-meetup%'
+    OR url LIKE '%hackathon%'
   );
 
 -- organizer = Games Lab, title contains "Board" or "Mafia" or "Game Night", tag as BOARDGAMES
