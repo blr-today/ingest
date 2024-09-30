@@ -24,6 +24,7 @@ def guess_event_type(kind):
         if key in kind:
             return event_type_mapper[key]
 
+    print("[CARBON] Unknown event type: " + kind)
     return "Event"
 
 
@@ -60,7 +61,7 @@ def get_performer_type(expert):
         return "Person"
 
 
-def parse_timestamp(timestamp):
+def parse_timestamp(timestamp: str):
     try:
         return datetime.datetime.fromisoformat(timestamp).astimezone(IST)
     # Return a very old date so this event is ignored
@@ -87,7 +88,7 @@ def make_event(e, ts):
     endDate = ts + datetime.timedelta(seconds=duration)
     return {
         "@type": guess_event_type(e["kind"]),
-        "name": e["name"],
+        "name": e["name"].replace("<br>", " ").strip(),
         "location": {
             "@type": "Place",
             "name": e["venue"],
@@ -120,7 +121,7 @@ def filter_data(data):
 
 def main():
     data = session.get(
-        "https://carbon-50388-default-rtdb.firebaseio.com/en/1ZJfGJT-7ZTOZoevdZZmh2hwXd2935ffJoWee9XXyFZ4/programmes.json"
+        "https://sci560-default-rtdb.firebaseio.com/en/1OR9HC9TgswvCnTgg6tC5pCVIjoc5vV6YlzOe5ijaAzM/programmes.json"
     ).json()
     with open("out/scigalleryblr.json", "w") as f:
         json.dump(filter_data(data), f, indent=2)
