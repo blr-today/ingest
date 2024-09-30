@@ -221,7 +221,7 @@ WHERE
     -- indian startup events
     'z p enterprises',
     -- education consulting
-    'upgrad abroad'
+    'upgrad abroad',
     -- Symposiums: https://allevents.in/org/charista-foundation/19674185
     'charista foundation'
   ) OR (
