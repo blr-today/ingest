@@ -5852,5 +5852,341 @@
         "longitude": 77.62066549
       }
     }
+  },
+  {
+    "name": "Shades of Purple",
+    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
+    "startDate": "2024-10-05T16:00:00+05:30",
+    "endDate": "2024-10-05T18:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/768017fc7e6fee2fdbd3e36f9ca2ef1e1727676112.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/shades-of-purple-bengaluru-et52006/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-30 11:45:47",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/shades-of-purple-bengaluru-et52006",
+    "id": "com.zomato.52006",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "Van Gogh Tote Bag Painting",
+    "description": "Join our Tote Bag Workshop! We\u2019ll provide all the materials, a delicious meal, and the perfect opportunity to make new friends. Our artists will guide you in creating your own personalized tote bag, making it a fun and relaxing way to spend your afternoon. Come to Paint The Town Art Cafe for a delightful time filled with creativity, food, and great conversations. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83d\udc5c",
+    "startDate": "2024-10-06T13:00:00+05:30",
+    "endDate": "2024-10-06T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b79189fe23f27cfacd8061f4dc77fdbb1727676190.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/van-gogh-tote-bag-painting-bengaluru-et52007/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-30 11:45:48",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/van-gogh-tote-bag-painting-bengaluru-et52007",
+    "id": "com.zomato.52007",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "Lunar Radiance",
+    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
+    "startDate": "2024-10-12T16:00:00+05:30",
+    "endDate": "2024-10-12T18:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/238cb741d96f52cf0864bf384e8facf21727676472.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/lunar-radiance-bengaluru-et52009/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-30 11:45:48",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/lunar-radiance-bengaluru-et52009",
+    "id": "com.zomato.52009",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "Kettle Painting",
+    "description": "Join our Kettle Painting Workshop! We\u2019ll supply all the painting materials, a tasty meal, and a chance to connect with new friends. Our artists will guide you through creating your own unique kettle design, making it a fun and laid-back way to spend your afternoon. Head over to Paint The Town Art Cafe for an enjoyable day of art, food, and friendly conversations. \ud83c\udfa8\ud83c\udf7d\ufe0f\u2615",
+    "startDate": "2024-10-13T13:00:00+05:30",
+    "endDate": "2024-10-13T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f8a0b4d297a5d0ff01b9daa7a304abcf1727676561.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/kettle-painting-bengaluru-et52010/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-30 11:45:49",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/kettle-painting-bengaluru-et52010",
+    "id": "com.zomato.52010",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "Pink and Blues",
+    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
+    "startDate": "2024-10-19T16:00:00+05:30",
+    "endDate": "2024-10-19T18:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f7f228882697243e1dacc1b771831ec61727676607.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/pink-and-blues-bengaluru-et52011/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-30 11:45:49",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/pink-and-blues-bengaluru-et52011",
+    "id": "com.zomato.52011",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "Mug Painting",
+    "description": "Join our Mug Painting Workshop! We\u2019ll provide all the painting supplies, a delicious meal, and a chance to meet new friends. Our artists will help you create your own personalized mug, making it a fun and relaxing way to spend your afternoon. Come to Paint The Town Art Cafe for a creative experience filled with art, food, and great conversations. \ud83c\udfa8\ud83c\udf7d\ufe0f\u2615",
+    "startDate": "2024-10-20T13:00:00+05:30",
+    "endDate": "2024-10-20T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/60be953197f8af14ba4e150a8d7eba1a1727676658.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/mug-painting-bengaluru-et52012/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-30 11:45:50",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/mug-painting-bengaluru-et52012",
+    "id": "com.zomato.52012",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "Santorini",
+    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
+    "startDate": "2024-10-26T16:00:00+05:30",
+    "endDate": "2024-10-26T18:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/de83c440b78c6f1721bbe40d3b466e9e1727676694.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/santorini-bengaluru-et52013/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-30 11:45:50",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/santorini-bengaluru-et52013",
+    "id": "com.zomato.52013",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "Fabric Painting",
+    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple anJoin our Fabric Painting Workshop! We\u2019ll supply all the art materials, a tasty meal, and a chance to meet new friends. Bring your own fabric, preferably denim or any thick cloth, and our artists will guide you in creating your unique design. It\u2019s a fun and relaxed way to spend your afternoon. Head over to Paint The Town Art Cafe for a creative day filled with art, food, and friendly conversations. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83d\udc56d enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
+    "startDate": "2024-10-27T13:00:00+05:30",
+    "endDate": "2024-10-27T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/dd711c37b30f9103c867c57d1e487a831727676723.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/fabric-painting-bengaluru-et52015/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-30 11:45:51",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/fabric-painting-bengaluru-et52015",
+    "id": "com.zomato.52015",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
   }
 ]
