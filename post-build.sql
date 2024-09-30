@@ -338,6 +338,15 @@ UPDATE events SET
   )
 WHERE url LIKE '%thrifty-x-%';
 
+-- I host Puzzled Pint BLR, and it is a 100% certified quality event.
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'CURATED')
+  )
+WHERE url LIKE '%puzzled-pint-bangalore%';
+
 -- Tag location as HSR
 UPDATE events SET
   event_json = json_replace(
