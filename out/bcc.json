@@ -12,48 +12,6 @@
         {
   "@context": "https://schema.org",
   "@type": "SocialEvent",
-  "name": "Chess Connect - Rapid - Bangalore Chess Club",
-  "startDate": "2024-09-29T10:00:00+05:30",
-  "endDate": "2024-09-29T15:30:00+05:30",
-  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-
-  "location": {
-    
-    "@type": "Place",
-    "name": "The Market Place",
-    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
-    
-  },
-  "isAccessibleForFree": false,
-  
-  "offers": [{
-    "@type": "Offer",
-    "price": "250",
-    "priceCurrency": "INR",
-    "availability": "https://schema.org/InStock",
-    "url": "https://razorpay.com/payment-button/pl_OpeyZ8VEPjzUcN/view/"
-  }],
-  
-  "organizer": {
-    "@type": "Organization",
-    "name": "Bangalore Chess Club",
-    "url": "https://bangalorechessclub.in"
-  },
-  "keywords": ["bangalore chess club", "chess"],
-  
-  "image": "https://bangalorechessclub.in/images/chessconnect_20240929.jpg",
-  
-  "url": "https://bangalorechessclub.in/chess-connect/2024-09-29/"
-}
-      
-    ,
-  
-    
-    
-    
-        {
-  "@context": "https://schema.org",
-  "@type": "SocialEvent",
   "name": "ChessCafe: A Chess Meetup with a Twist - Bangalore Chess Club",
   "startDate": "2024-10-02T16:00:00+05:30",
   "endDate": "2024-10-02T19:00:00+05:30",
@@ -86,6 +44,174 @@
   "image": "https://bangalorechessclub.in/images/chesscafe_20241002.jpg",
   
   "url": "https://bangalorechessclub.in/chess-cafe/2024-10-02/"
+}
+      
+    ,
+  
+    
+    
+    
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "startDate": "2024-10-06T10:00:00+05:30",
+  "endDate": "2024-10-06T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ Millenia, Kalhalli, Halasuru, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "150",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_P1UeGfqTyKaodP/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://bangalorechessclub.in/images/chessconnect_20241006.jpg",
+  
+  "url": "https://bangalorechessclub.in/chess-connect/2024-10-06/"
+}
+      
+    ,
+  
+    
+    
+    
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2024-10-13T09:30:00+05:30",
+  "endDate": "2024-10-13T12:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Qube Cafe",
+    "address": "Indiqube, South Summit, South End Rd, Vijayarangam Layout, Jayanagar, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_P1UeGfqTyKaodP/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://bangalorechessclub.in/images/chesscafe_20241013.jpg",
+  
+  "url": "https://bangalorechessclub.in/chess-cafe/2024-10-13/"
+}
+      
+    ,
+  
+    
+    
+    
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect: Team Battle - Bangalore Chess Club",
+  "startDate": "2024-10-20T10:00:00+05:30",
+  "endDate": "2024-10-20T13:00:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "200",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_P35obF79mcv8U4/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://bangalorechessclub.in/images/chessconnect_teambattle_20241020.jpg",
+  
+  "url": "https://bangalorechessclub.in/chess-connect/2024-10-20/"
+}
+      
+    ,
+  
+    
+    
+    
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Rapid - Bangalore Chess Club",
+  "startDate": "2024-10-27T10:00:00+05:30",
+  "endDate": "2024-10-27T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_P1UeGfqTyKaodP/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://bangalorechessclub.in/images/chessconnect_20241027.jpg",
+  
+  "url": "https://bangalorechessclub.in/chess-connect/2024-10-27/"
 }
       
     

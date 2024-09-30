@@ -3539,56 +3539,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get ready for the ultimate techno showcase in your city - Protocol Sunday! Catch the homegrown duo ANSWER live at Kitty Ko this Sunday.",
-      "endDate": "2024-09-30T01:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/c8481fcd9fb81287b6a2458d0e1a64851727334343.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9923061,
-            "longitude": 77.582009999999997
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Protocol Sunday ft. Answer",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 95
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-26T16:41:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 100
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-26T16:41:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-09-29T20:00:00+05:30",
-      "url": "https://www.zomato.com/events/protocol-sunday-ft-answer-bengaluru-et51846"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Join us for nights filled with vibrant dance, music, and festive spirit, as we celebrate the essence of Navratri in a grand setting.\nLive Performances: Enjoy electrifying sets from renowned DJs (details to be announced)\nVibrant Ambiance: Experience the festive spirit with stunning decor\nDance Floor: Groove the night away in a lively atmosphere\nFood & Beverages: A variety of delicious options to indulge in\n\nPlease Note: A mandatory cover charge must be purchased at the entry, fully redeemable on food and beverages.",
       "endDate": "2024-10-11T00:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -4140,7 +4090,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 98
+               "value": 95
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-27T12:53:00+05:30"
@@ -4154,7 +4104,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 98,
+      "remainingAttendeeCapacity": 95,
       "startDate": "2024-10-05T14:00:00+05:30",
       "url": "https://www.zomato.com/events/ex-4-bengaluru-et51886"
    },
@@ -4266,7 +4216,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 196
+               "value": 193
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-27T15:49:00+05:30"
@@ -4280,7 +4230,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 196,
+      "remainingAttendeeCapacity": 193,
       "startDate": "2024-10-05T20:30:00+05:30",
       "url": "https://www.zomato.com/events/remix-nights-bengaluru-et51897"
    },
@@ -4308,7 +4258,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 200
+               "value": 199
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-27T15:49:00+05:30"
@@ -4322,7 +4272,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 200,
+      "remainingAttendeeCapacity": 199,
       "startDate": "2024-10-06T13:00:00+05:30",
       "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et51898"
    },
@@ -4350,7 +4300,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 200
+               "value": 198
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-27T15:49:00+05:30"
@@ -4364,7 +4314,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 200,
+      "remainingAttendeeCapacity": 198,
       "startDate": "2024-10-06T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et51899"
    },
@@ -4392,7 +4342,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 190
+               "value": 185
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-27T15:49:00+05:30"
@@ -4406,7 +4356,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 190,
+      "remainingAttendeeCapacity": 185,
       "startDate": "2024-10-09T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et51900"
    },
@@ -4602,7 +4552,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 200
+               "value": 199
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-27T15:49:00+05:30"
@@ -4616,7 +4566,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 200,
+      "remainingAttendeeCapacity": 199,
       "startDate": "2024-10-16T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et51905"
    },

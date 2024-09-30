@@ -3450,56 +3450,6 @@
     }
   },
   {
-    "name": "Protocol Sunday ft. Answer",
-    "description": "Get ready for the ultimate techno showcase in your city - Protocol Sunday! Catch the homegrown duo ANSWER live at Kitty Ko this Sunday.",
-    "startDate": "2024-09-29 20:00:00",
-    "endDate": "2024-09-30 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/c8481fcd9fb81287b6a2458d0e1a64851727334343.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/protocol-sunday-ft-answer-bengaluru-et51846/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-26 16:41:29",
-        "availability": "INSTOCK",
-        "inventory": 95
-      },
-      {
-        "url": "https://www.zomato.com/events/protocol-sunday-ft-answer-bengaluru-et51846/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-26 16:41:29",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/protocol-sunday-ft-answer-bengaluru-et51846",
-    "id": "com.zomato.51846",
-    "location": {
-      "name": "Kitty Ko",
-      "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9923061,
-        "longitude": 77.58201
-      }
-    }
-  },
-  {
     "name": "Navrang Navratri At Sunburn Union",
     "description": "Join us for nights filled with vibrant dance, music, and festive spirit, as we celebrate the essence of Navratri in a grand setting.\nLive Performances: Enjoy electrifying sets from renowned DJs (details to be announced)\nVibrant Ambiance: Experience the festive spirit with stunning decor\nDance Floor: Groove the night away in a lively atmosphere\nFood & Beverages: A variety of delicious options to indulge in\n\nPlease Note: A mandatory cover charge must be purchased at the entry, fully redeemable on food and beverages.",
     "startDate": "2024-10-04T19:00:00+05:30",
@@ -4038,7 +3988,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 12:53:27",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 95
       }
     ],
     "performers": [],
@@ -4166,7 +4116,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:44",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 193
       }
     ],
     "performers": [],
@@ -4208,7 +4158,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:45",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 199
       }
     ],
     "performers": [],
@@ -4250,7 +4200,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:45",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 198
       }
     ],
     "performers": [],
@@ -4292,7 +4242,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:46",
         "availability": "INSTOCK",
-        "inventory": 190
+        "inventory": 185
       }
     ],
     "performers": [],
@@ -4502,7 +4452,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:49",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 199
       }
     ],
     "performers": [],
