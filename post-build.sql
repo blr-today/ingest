@@ -87,6 +87,8 @@ WHERE (
     OR event_json ->> '$.name' LIKE '%SoundBath%'
     -- By tapping into your true voice, you have the ability to shift your reality
     OR event_json ->> '$.name' LIKE '%voice activation%'
+    -- https://allevents.in/org/channel-ur-life-wellness-clinic/23383426
+    OR event_json ->> '$.organizer.name' LIKE '%channel ur life%'
   );
 
 -- The Audacious Movement - WOOWOO
@@ -214,6 +216,7 @@ WHERE
     'dtorr',
     -- education consulting
     'global tree careers private limited',
+    'global tree',
     -- some confusingly described business events
     'mridu jhangiani',
     -- some investment learning events
@@ -301,7 +304,16 @@ WHERE
   event_json ->> '$.name' LIKE '%ladies night%'
   OR event_json ->> '$.keywords' LIKE '%ladies night%'
   OR event_json ->> '$.description' LIKE '%ladies night%' 
-  OR event_json ->> '$.name' LIKE '%#indiranagarsocial%';
+  OR event_json ->> '$.name' LIKE '%rock bottom monday%'
+  OR event_json ->> '$.name' LIKE '%bollywood night%'
+  OR event_json ->> '$.name' LIKE '%monsoon monday%'
+  OR event_json ->> '$.name' LIKE '%episode monday%'
+  OR event_json ->> '$.name' LIKE '%worth it monday%'
+  OR event_json ->> '$.name' LIKE '%tashan tuesday%'
+  OR event_json ->> '$.name' LIKE '%tashn tuesday%'
+  OR event_json ->> '$.name' LIKE '%navrang navratri%'
+  OR event_json ->> '$.name' LIKE '%techno terrace%' -- indigo xp
+  OR event_json ->> '$.name' LIKE '%athyachari monday%';
 
 -- THRIFTY-X is a shady event organizer
 -- Stranger Meets are events, but meh https://insider.in/search?q=Thrifty
