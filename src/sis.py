@@ -78,10 +78,12 @@ def fetch_event_details(session, l):
     }
     # Since SISTERSINSWEAT events can be non-sport events as well
     # we add a secondary tag as well to help with filtering
-    if sport in ["basketball", "football", "badminton", "running", "yoga"]:
+    if sport in ["basketball", "football", "badminton", "running", "yoga", "pickleball"]:
         event["keywords"].append("SISTERSINSWEAT/SPORTS")
+        event['sport'] = sport.title()
     else:
         event["keywords"].append("SISTERSINSWEAT/SESSION")
+
     if div:
         text = div.text.replace("\n \n", "\n")
         event["description"] = text.strip()
