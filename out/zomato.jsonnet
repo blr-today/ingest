@@ -43,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 392
+        "inventory": 389
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -51,7 +51,7 @@
         "currency": "INR",
         "validFrom": "2024-09-16 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 427
+        "inventory": 409
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -59,7 +59,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 1001
+        "inventory": 997
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -291,7 +291,7 @@
         "currency": "INR",
         "validFrom": "2024-09-13 15:43:00",
         "availability": "INSTOCK",
-        "inventory": 91
+        "inventory": 86
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -307,7 +307,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 470
+        "inventory": 459
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -315,7 +315,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 476
+        "inventory": 468
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -323,7 +323,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 480
+        "inventory": 478
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -331,7 +331,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 477
+        "inventory": 470
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -339,7 +339,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 85
+        "inventory": 80
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -347,7 +347,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 85
+        "inventory": 71
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -355,7 +355,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 70
+        "inventory": 60
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -363,7 +363,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 57
+        "inventory": 51
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -371,7 +371,7 @@
         "currency": "INR",
         "validFrom": "2024-07-03 14:00:00",
         "availability": "INSTOCK",
-        "inventory": 74
+        "inventory": 68
       }
     ],
     "performers": [],
@@ -429,7 +429,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "INSTOCK",
-        "inventory": 159
+        "inventory": 143
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -546,7 +546,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 1883
+        "inventory": 1852
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -554,7 +554,7 @@
         "currency": "INR",
         "validFrom": "2024-09-10 10:30:00",
         "availability": "SELLING_FAST",
-        "inventory": 1927
+        "inventory": 1899
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -562,7 +562,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 935
+        "inventory": 890
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -578,7 +578,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 120
+        "inventory": 116
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -610,7 +610,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "INSTOCK",
-        "inventory": 46
+        "inventory": 41
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -794,7 +794,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 101
+        "inventory": 78
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -802,7 +802,7 @@
         "currency": "INR",
         "validFrom": "2024-08-01 09:00:00",
         "availability": "INSTOCK",
-        "inventory": 152
+        "inventory": 148
       },
       {
         "url": "https://www.zomato.com/events/experience-enigma-live-in-india-bengaluru-et47115/details",
@@ -1085,7 +1085,7 @@
         "currency": "INR",
         "validFrom": "2024-09-14 20:39:27",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 197
       },
       {
         "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
@@ -1220,7 +1220,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 16:00:00",
         "availability": "INSTOCK",
-        "inventory": 400
+        "inventory": 399
       }
     ],
     "performers": [],
@@ -1420,7 +1420,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:46",
         "availability": "INSTOCK",
-        "inventory": 43
+        "inventory": 40
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -1436,7 +1436,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:47",
         "availability": "INSTOCK",
-        "inventory": 48
+        "inventory": 46
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -1606,7 +1606,7 @@
     "name": "Great Indian Dandiya Festival",
     "description": "Your very own event returns, bringing the vibrant essence of Navratri to Bangalore, blending tradition with the city\u2019s unmatched vibe of glamour and culture! We are back with the best dandiya experience, adding an extra touch of luxury and excitement to the celebration.\nGet ready for the mesmerizing echo of dandiya beats, delectable food, and exhilarating dance! Hosted in the iconic Lalit Ashok Hotel, the venue promises to immerse you in the most authentic Navratri ambience.\n\nComplimentary Dandiya Sticks\n6 Hours of Non-Stop Garba/Bollywood/Punjabi music\nIndia's top DJs will set the stage on fire\nLive Dhol and Garba dancers to guide you\nFood and beverage stalls throughout the venue\nSpectacular decorations tailored for the grand occasion\nProfessional photographers capture every moment\nChildren-friendly environment\nSpecial Surprises & Giveaways await you!",
     "startDate": "2024-10-04T19:00:00+05:30",
-    "endDate": "2024-10-06T01:00:00+05:30",
+    "endDate": "2024-10-07T01:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1632,6 +1632,14 @@
         "validFrom": "2024-09-14 20:27:32",
         "availability": "INSTOCK",
         "inventory": 3983
+      },
+      {
+        "url": "https://www.zomato.com/events/great-indian-dandiya-festival-bengaluru-et51515/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-09-30 11:23:43",
+        "availability": "INSTOCK",
+        "inventory": 100
       }
     ],
     "performers": [],
@@ -1791,7 +1799,7 @@
         "currency": "INR",
         "validFrom": "2024-09-14 20:51:00",
         "availability": "INSTOCK",
-        "inventory": 183
+        "inventory": 178
       },
       {
         "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-utsav-season-7-bengaluru-et51527/details",
@@ -1855,7 +1863,7 @@
         "currency": "INR",
         "validFrom": "2024-09-14 20:51:01",
         "availability": "INSTOCK",
-        "inventory": 172
+        "inventory": 168
       },
       {
         "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-utsav-season-7-bengaluru-et51527/details",
@@ -1911,7 +1919,7 @@
         "currency": "INR",
         "validFrom": "2024-09-11 23:50:12",
         "availability": "INSTOCK",
-        "inventory": 498
+        "inventory": 497
       },
       {
         "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-utsav-season-7-bengaluru-et51527/details",
@@ -1919,7 +1927,7 @@
         "currency": "INR",
         "validFrom": "2024-09-14 20:51:01",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 195
       },
       {
         "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-utsav-season-7-bengaluru-et51527/details",
@@ -1927,7 +1935,7 @@
         "currency": "INR",
         "validFrom": "2024-09-14 20:51:04",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 197
       },
       {
         "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-utsav-season-7-bengaluru-et51527/details",
@@ -2119,7 +2127,7 @@
         "currency": "INR",
         "validFrom": "2024-09-16 16:51:00",
         "availability": "INSTOCK",
-        "inventory": 91
+        "inventory": 90
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pre-party-to-pet-fed-bengaluru-et51632/details",
@@ -3550,6 +3558,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
+    "ogTitle": "Raas Garba Night | Season 5 | Whitefield Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Raas Garba Night | Season 5 | Whitefield Bengaluru on Zomato which is a Trending event happening at Metro station, 3rd floor HVP Aster, ITPL Main Rd, near Garudacharpalya, Kaveri Nagar, Krishnarajapuram, Bengaluru, Karnataka 560048",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/5a0e653df59736a0b8ce7817fd05786c1727335738.jpeg"
     ],
@@ -3576,7 +3586,7 @@
         "currency": "INR",
         "validFrom": "2024-09-26 16:41:31",
         "availability": "INSTOCK",
-        "inventory": 400
+        "inventory": 399
       },
       {
         "url": "https://www.zomato.com/events/raas-garba-night-season-5-whitefield-bengaluru-et51849/details",
@@ -3616,6 +3626,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
+    "ogTitle": "Raas Garba Beats: Festive Nights Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Raas Garba Beats: Festive Nights Bengaluru on Zomato which is a Trending event happening at 14, 1st Cross, 17th A Main Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/42fc4e0dd6ad8fb91d3783f3adf9b9fd1727339152.jpeg"
     ],
@@ -4904,6 +4916,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/35a9d945ac3694f4c5174a6c7c6026751727453611.jpeg"
     ],
@@ -4914,7 +4928,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 22:02:20",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 198
       }
     ],
     "performers": [],
@@ -4946,6 +4960,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Unplugged Duo's Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Unplugged Duo's Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/7e4084754dac3addcef1ccfcfbe6e3b21727453739.jpeg"
     ],
@@ -4988,6 +5004,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
+    "ogTitle": "Tribute to Iron Maiden Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Iron Maiden Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/bd5afbe6a5cb6886999a1fb9017c22481727453790.jpeg"
     ],
@@ -5030,6 +5048,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/35a9d945ac3694f4c5174a6c7c6026751727453845.jpeg"
     ],
@@ -5072,6 +5092,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Unplugged Duo's Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Unplugged Duo's Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/83f4d731f55b8376a0e7b12480cd2f151727453890.jpeg"
     ],
@@ -5114,6 +5136,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
+    "ogTitle": "Tribute to Pritam Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Pritam Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/aef1db1819f58cc271a92b623283b1111727453933.jpeg"
     ],
@@ -5156,6 +5180,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/aef1db1819f58cc271a92b623283b1111727453933.jpeg"
     ],
@@ -5198,6 +5224,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Unplugged Duo's Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Unplugged Duo's Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/7e4084754dac3addcef1ccfcfbe6e3b21727453993.jpeg"
     ],
@@ -5240,6 +5268,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
+    "ogTitle": "Bollywood Rock & Pop Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bollywood Rock & Pop Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/9f2ce770075f984ba58e9b5ea019d6e41727454034.jpeg"
     ],
@@ -5282,6 +5312,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/35a9d945ac3694f4c5174a6c7c6026751727454077.jpeg"
     ],
@@ -5324,6 +5356,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Unplugged Duo's Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Unplugged Duo's Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/83f4d731f55b8376a0e7b12480cd2f151727454137.jpeg"
     ],
@@ -5366,6 +5400,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
+    "ogTitle": "Tribute to Coldplay Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Coldplay Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/21fbdd1b15b8b810be88f97ed9ba53f01727454178.jpeg"
     ],
@@ -5408,6 +5444,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/35a9d945ac3694f4c5174a6c7c6026751727454222.jpeg"
     ],
