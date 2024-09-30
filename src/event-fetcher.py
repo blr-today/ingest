@@ -1,5 +1,6 @@
 from common.jsonld import JsonLdExtractor
 import time
+import html
 from common import USER_AGENT_HEADERS
 from common.session import get_cached_session
 from datetime import timedelta, datetime
@@ -99,6 +100,9 @@ IGNORED_EVENT_UIDS = ["60749-1718409600-1722470399@bangaloreinternationalcentre.
 
 
 def fix_online_schema(url, event):
+    # Insider events often include &apos; &quot; etc.
+    if "name" in event and url.startswith("https://insider.in"):
+        event['name'] = html.unescape(event["name"])
     for x in ["startDate", "endDate"]:
         if x in event:
             # HACK: This is specific to Courtyard Koota
