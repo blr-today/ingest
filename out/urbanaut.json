@@ -1825,5 +1825,54 @@
       "Walking Tour",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "THE READING SOCIAL",
+    "description": "Turn your breakfast in bed to breakfast at C+C, with one of our favourite weekend traditions : The Reading Social. A wholesome morning with coffee cups, books and the reading social community. If this sounds like a perfect way to spend your morning, join us for the reading social \ud83d\udcda\u2615\ud83e\udd59How do you like the idea of spending a Sunday morning, by yourself - reading/writing/journaling or indulging in any other silent activity you've been craving for? Reserve your spot now, you deserve to grab that morning coffee and just unwind!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gxd0yhkvgk-171273371858720230402img3193rajkashyapjpg.jpg",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/lhpucw9uld-171273346147520230402img3192rajkashyap1jpg.jpg",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/zsbqdnorsd-1712733644131img05962022rajkashyapjpg.JPG",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/z1s3xg1czz-1712733666748whatsappimage20230920at72130pmjpg.jpg"
+    ],
+    "startDate": "2024-10-05T09:00:00+05:30",
+    "endDate": "2024-10-05T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "Look for the Paper Boat Collective sign - we\u2019re, 549A, 9th A Main Rd, inside the blue colour gate, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJxbH9KaoXrjsRxrnm21z2dMQ",
+      "latitude": "12.97778100000000000000",
+      "longitude": "77.63726400000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 7,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/thereadingsocial",
+    "keywords": [
+      "Leisure",
+      "URBANAUT"
+    ]
   }
 ]
