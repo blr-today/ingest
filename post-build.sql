@@ -15,7 +15,9 @@ WHERE
   -- Silly dating events: https://insider.in/free-speed-dating-events-in-bengaluru-sep7-2024/event
   OR event_json ->> '$.organizer.name' LIKE '%your dream partner%'
   -- Silly dating events on insider
-  OR event_json ->> '$.organizer.name' LIKE '%vinit kotadiya%';
+  OR event_json ->> '$.organizer.name' LIKE '%vinit kotadiya%'
+  -- Silly dating event organizer: https://insider.in/search?q=Rashid%20Mubarak%20Nadaf
+  OR event_json ->> '$.organizer.name' LIKE '%rashid mubarak nadaf%';
 
 -- BIC lists their events on Insider, but we have their original calendar
 -- BCC lists their events on Insider, but we have their original calendar
@@ -31,6 +33,15 @@ WHERE
   url IN (
     'https://insider.in/isl-2024-25-bengaluru-fc-membership-season-12/event' -- Memberships are not events
   );
+
+-- Ideally,we would mark them using sameAs, but too much work for now
+-- TODO: Pick up BMS/Insider Links using links in the event HTML 
+-- at attagalatta.com event page, and then mark them using sameAs
+DELETE FROM events
+WHERE
+  event_json ->> '$.location.name' LIKE '%Atta Galata%'
+  AND url LIKE 'https://insider.in%';
+
 
 -- Low Quality events, and trips/treks from OdysseyVibes.in
 UPDATE events
@@ -211,6 +222,8 @@ WHERE
     'z p enterprises',
     -- education consulting
     'upgrad abroad'
+    -- Symposiums: https://allevents.in/org/charista-foundation/19674185
+    'charista foundation'
   ) OR (
     -- Hustle Business Venue in HSR
     event_json->>'$.location' LIKE '%hustlehub%'
@@ -286,16 +299,22 @@ UPDATE events SET
 WHERE
   event_json ->> '$.name' LIKE '%ladies night%'
   OR event_json ->> '$.keywords' LIKE '%ladies night%'
-  OR event_json ->> '$.description' LIKE '%ladies night%';
+  OR event_json ->> '$.description' LIKE '%ladies night%' 
+  OR event_json ->> '$.name' LIKE '%#indiranagarsocial%';
 
+-- THRIFTY-X is a shady event organizer
 -- Stranger Meets are events, but meh https://insider.in/search?q=Thrifty
+-- They also host dance workshops in fast food places :/
+-- And double book events at the same venue to get more visibility
+-- https://insider.in/thrifty-x-bachata-bangalore-sep29-2024/event
+-- https://insider.in/thrifty-x-salsa-bangalore-sep29-2024/event
 UPDATE events SET
   event_json = json_replace(
     event_json,
     '$.keywords',
     json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
   )
-WHERE url LIKE '%thrifty-x-dosti-yaari%';
+WHERE url LIKE '%thrifty-x-%';
 
 -- Tag location as HSR
 UPDATE events SET
