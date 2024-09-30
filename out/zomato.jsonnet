@@ -1559,50 +1559,6 @@
     "id": "com.zomato.51346"
   },
   {
-    "name": "Resin Art Workshop",
-    "description": "Dive into the mesmerizing world of resin art with our hands-on workshop! Perfect for beginners and seasoned artists alike, this event is designed to unlock your creative potential through the vibrant and versatile medium of resin. Under the guidance of experienced instructors, you`ll learn the fundamentals of working with resin, including safety tips, mixing techniques, color blending, and molding. By the end of the session, you`ll have crafted your own stunning piece of resin art to take home, be it jewelry, coasters, or an abstract art piece. Join us for an afternoon of creativity, relaxation, and fun, and discover the endless possibilities that resin art offers!",
-    "startDate": "2024-09-30 14:00:00",
-    "endDate": "2024-09-30 15:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Resin Art Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Resin Art Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3c634ce74a396e471cc35594f263951a1726064434.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51500/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-09-11 20:20:15",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/resin-art-workshop-bengaluru-et51500",
-    "id": "com.zomato.51500",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
     "name": "Great Indian Dandiya Festival",
     "description": "Your very own event returns, bringing the vibrant essence of Navratri to Bangalore, blending tradition with the city\u2019s unmatched vibe of glamour and culture! We are back with the best dandiya experience, adding an extra touch of luxury and excitement to the celebration.\nGet ready for the mesmerizing echo of dandiya beats, delectable food, and exhilarating dance! Hosted in the iconic Lalit Ashok Hotel, the venue promises to immerse you in the most authentic Navratri ambience.\n\nComplimentary Dandiya Sticks\n6 Hours of Non-Stop Garba/Bollywood/Punjabi music\nIndia's top DJs will set the stage on fire\nLive Dhol and Garba dancers to guide you\nFood and beverage stalls throughout the venue\nSpectacular decorations tailored for the grand occasion\nProfessional photographers capture every moment\nChildren-friendly environment\nSpecial Surprises & Giveaways await you!",
     "startDate": "2024-10-04T19:00:00+05:30",
@@ -1659,50 +1615,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.99270725,
         "longitude": 77.5826501
-      }
-    }
-  },
-  {
-    "name": "Tote Bag Workshop",
-    "description": "Join us for an engaging and artistic Tote Bag Painting Workshop at Small World. This workshop is the perfect opportunity to express your creativity and design your own unique, eco-friendly tote bag. Whether you're an experienced artist or a complete beginner, our workshop offers a delightful experience for everyone.",
-    "startDate": "2024-09-30 14:00:00",
-    "endDate": "2024-09-30 15:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Tote Bag Workshop Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tote Bag Workshop Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2c923eb656b4f2bdd0f928ebf2c6dc941726059501.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tote-bag-workshop-bengaluru-et51526/details",
-        "price": 1199,
-        "currency": "INR",
-        "validFrom": "2024-09-11 23:51:22",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tote-bag-workshop-bengaluru-et51526",
-    "id": "com.zomato.51526",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
       }
     }
   },
@@ -2063,50 +1975,6 @@
     }
   },
   {
-    "name": "Block Printing",
-    "description": "Step into the enchanting world of block printing at Small World`s exclusive Block Printing workshop! Discover the ancient art of block printing and take part in a hands-on experience that combines tradition with your flair.\nExpect Expert Guidance: Learn from skilled artisans who will introduce you to the history and techniques of block printing, guiding you through the process of design, carving, and printing.\nWe`ll provide you with all the necessary materials, including a variety of hand-carved blocks, and vibrant fabric inks.",
-    "startDate": "2024-09-30 14:00:00",
-    "endDate": "2024-09-30 15:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Block Printing Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Block Printing Bengaluru on Zomato which is a Experiences event happening at 18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/7e6a2feb1fd01fc403db5bd65934c94b1726115969.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/block-printing-bengaluru-et51557/details",
-        "price": 1199,
-        "currency": "INR",
-        "validFrom": "2024-09-12 10:54:11",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/block-printing-bengaluru-et51557",
-    "id": "com.zomato.51557",
-    "location": {
-      "name": "Small World, 5th Block",
-      "address": "18th Main Road, 138/B, 5th Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93424663,
-        "longitude": 77.61767611
-      }
-    }
-  },
-  {
     "name": "Bengaluru Pre Party to Pet Fed",
     "description": "\"Paws and cheers! Join us for Hyderabad's Pupper Party at The Brown Table \ud83d\udc3e\ud83c\udf89\"\nInclusions: \nExciting games & gifts for your pets\nfree pet food buffet\nbasic health check-up\na goodie bag for all attendeesNo charges for pets!\n\nOngroud tickets will be priced at 700/- per person",
     "startDate": "2024-10-06T12:00:00+05:30",
@@ -2274,7 +2142,7 @@
         "currency": "INR",
         "validFrom": "2024-09-22 09:59:00",
         "availability": "INSTOCK",
-        "inventory": 1436
+        "inventory": 1332
       }
     ],
     "performers": [],
@@ -2976,8 +2844,8 @@
   {
     "name": "The Great Indian Dandiya Celebration 2024",
     "description": "- Free Dandiya Sticks for all\n- 6 Hours Of Non-Stop Garba/Bollywood/Punjabi Music\n- Happening at the Rooftop classiest Place in Town with Beautiful Festive decor Ambience.\n- The Best DJ's In India To Take Care Of The Deck Duties\n- Garba Dance\n- Food/Beverage Stalls Available At The Venue \n- The Whole Venue Decorated To Suit The Grand Occasion.\n- Children Friendly\n- Special Surprises & Giveaways \n- Authentic Food Prepared By the best Chefs in India.\n- Security CCTV: Enhanced safety with comprehensive CCTV surveillance for a secure environment.\n\nSurely You Not Gonna Miss This One: Hurry And Book Your tickets now!",
-    "startDate": "2024-10-03T18:00:00+05:30",
-    "endDate": "2024-10-12T00:00:00+05:30",
+    "startDate": "2024-10-04T18:00:00+05:30",
+    "endDate": "2024-10-13T00:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2992,449 +2860,385 @@
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 49,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:30",
+        "validFrom": "2024-09-30 12:58:53",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 49,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:34",
+        "validFrom": "2024-09-30 12:58:57",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 49,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:38",
+        "validFrom": "2024-09-30 12:59:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 49,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:42",
+        "validFrom": "2024-09-30 12:59:03",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 49,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:46",
+        "validFrom": "2024-09-30 12:59:07",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 49,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:50",
+        "validFrom": "2024-09-30 13:00:01",
         "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 49,
-        "currency": "INR",
-        "validFrom": "2024-09-24 16:21:54",
-        "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 149,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:31",
+        "validFrom": "2024-09-30 12:58:54",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 149,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:35",
+        "validFrom": "2024-09-30 12:58:57",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 149,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:39",
+        "validFrom": "2024-09-30 12:59:00",
         "availability": "INSTOCK",
-        "inventory": 92
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 149,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:43",
+        "validFrom": "2024-09-30 12:59:04",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 149,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:47",
+        "validFrom": "2024-09-30 12:59:07",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 149,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:51",
+        "validFrom": "2024-09-30 13:00:02",
         "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 149,
-        "currency": "INR",
-        "validFrom": "2024-09-24 16:21:55",
-        "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 199,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:31",
+        "validFrom": "2024-09-30 12:58:54",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 199,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:35",
+        "validFrom": "2024-09-30 12:58:57",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 199,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:39",
+        "validFrom": "2024-09-30 12:59:01",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 199,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:43",
+        "validFrom": "2024-09-30 12:59:04",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 199,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:47",
+        "validFrom": "2024-09-30 12:59:08",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 199,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:51",
+        "validFrom": "2024-09-30 13:00:02",
         "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 199,
-        "currency": "INR",
-        "validFrom": "2024-09-24 16:21:55",
-        "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 299,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:32",
+        "validFrom": "2024-09-30 12:58:55",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 299,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:36",
+        "validFrom": "2024-09-30 12:58:58",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 299,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:40",
+        "validFrom": "2024-09-30 12:59:01",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 299,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:44",
+        "validFrom": "2024-09-30 12:59:05",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 299,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:48",
+        "validFrom": "2024-09-30 12:59:08",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 299,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:52",
+        "validFrom": "2024-09-30 13:00:03",
         "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-24 16:21:55",
-        "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 749,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:32",
+        "validFrom": "2024-09-30 12:58:55",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 749,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:36",
+        "validFrom": "2024-09-30 12:58:58",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 749,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:40",
+        "validFrom": "2024-09-30 12:59:02",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 749,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:44",
+        "validFrom": "2024-09-30 12:59:05",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 749,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:48",
+        "validFrom": "2024-09-30 12:59:09",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 749,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:52",
+        "validFrom": "2024-09-30 13:00:03",
         "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-09-24 16:21:56",
-        "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 1399,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:33",
+        "validFrom": "2024-09-30 12:58:55",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 1399,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:37",
+        "validFrom": "2024-09-30 12:58:59",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 1399,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:41",
+        "validFrom": "2024-09-30 12:59:02",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 1399,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:45",
+        "validFrom": "2024-09-30 12:59:06",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 1399,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:49",
+        "validFrom": "2024-09-30 12:59:09",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 1399,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:53",
+        "validFrom": "2024-09-30 13:00:04",
         "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 1399,
-        "currency": "INR",
-        "validFrom": "2024-09-24 16:21:56",
-        "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 1999,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:33",
+        "validFrom": "2024-09-30 12:58:56",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 1999,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:37",
+        "validFrom": "2024-09-30 12:58:59",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 1999,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:41",
+        "validFrom": "2024-09-30 12:59:03",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 1999,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:45",
+        "validFrom": "2024-09-30 12:59:06",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 1999,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:49",
+        "validFrom": "2024-09-30 12:59:10",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 1999,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:53",
+        "validFrom": "2024-09-30 13:00:04",
         "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-09-24 16:21:57",
-        "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 2499,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:34",
+        "validFrom": "2024-09-30 12:58:56",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 2499,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:38",
+        "validFrom": "2024-09-30 12:59:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 2499,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:42",
+        "validFrom": "2024-09-30 12:59:03",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 2499,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:46",
+        "validFrom": "2024-09-30 12:59:06",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 2499,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:50",
+        "validFrom": "2024-09-30 12:59:10",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 2499,
         "currency": "INR",
-        "validFrom": "2024-09-24 16:21:54",
+        "validFrom": "2024-09-30 13:00:04",
         "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-09-24 16:21:57",
-        "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 500
       }
     ],
     "performers": [],
@@ -5498,7 +5302,7 @@
         "currency": "INR",
         "validFrom": "2024-09-29 16:03:29",
         "availability": "INSTOCK",
-        "inventory": 209
+        "inventory": 94
       }
     ],
     "performers": [
@@ -5547,7 +5351,7 @@
         "currency": "INR",
         "validFrom": "2024-09-29 16:03:30",
         "availability": "INSTOCK",
-        "inventory": 264
+        "inventory": 241
       }
     ],
     "performers": [
@@ -8478,6 +8282,442 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93563334,
         "longitude": 77.61411038
+      }
+    }
+  },
+  {
+    "name": "Whitefield Biggest Dandiya Maha Utsav Season 3",
+    "description": "\ud83c\udfa7 Celebrity DJs: Dance the night away to the beats of renowned celebrity DJs who will keep the energy soaring\n\ud83c\udf74 Live Food Stalls: Savor a delectable array of culinary delights from our live food stalls. From spicy street food to sweet treats, there\u2019s something to tantalize every taste bud.\n\ud83c\udf33 Open Air Lawn Area: Enjoy the cool breeze and dance under the stars in our open-air lawn area.\n\ud83d\udc83 Garba Dance : Fusion of Bollywood and Garba Dance to a blend of popular tunes and Traditional \n\ud83c\udf8a Free Dandiya Sticks: No need to bring your own! We provide free dandiya sticks to all attendees, so you can join the dance floor and show off your best moves.",
+    "startDate": "2024-10-04T16:00:00+05:30",
+    "endDate": "2024-10-12T22:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Whitefield Biggest Dandiya Maha Utsav Season 3 Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Whitefield Biggest Dandiya Maha Utsav Season 3 Bengaluru on Zomato which is a Trending event happening at No. 11/3A, VASWANI PINNACLE, Whitefield Main Rd, Annex, Whitefield, Bengaluru, Karnataka 560066",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/7b4249623649d94f14fe5d6c9375b4ac1727692329.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 49,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:47",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 49,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:51",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 49,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:54",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 49,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:58",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 49,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:01",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 49,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:05",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 149,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:48",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 149,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:51",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 149,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:55",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 149,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:58",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 149,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:02",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 149,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:05",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:48",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:52",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:55",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:59",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:02",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 199,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:06",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:49",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:52",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:56",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:59",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:03",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:06",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:49",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:52",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:56",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:00",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:03",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:07",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:42:46",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 1000,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:42:46",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:49",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:53",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:57",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:00",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:03",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 1399,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:07",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:50",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:53",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:57",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:00",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:04",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:07",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:50",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:54",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:04:57",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:01",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:04",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-09-30 16:05:08",
+        "availability": "INSTOCK",
+        "inventory": 500
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057",
+    "id": "com.zomato.52057",
+    "location": {
+      "name": "Lemon Tree Suites, Whitefield",
+      "address": "No. 11/3A, VASWANI PINNACLE, Whitefield Main Rd, Annex, Whitefield, Bengaluru, Karnataka 560066",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.96751396,
+        "longitude": 77.75108634
       }
     }
   }

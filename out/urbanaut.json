@@ -1680,7 +1680,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "\u2728enVie\u2728 Women only - Coffee & Conversations",
-    "description": "Women truly deserve the best!\u2728enVie\u2728 is proud to host its first ever \u2018Women\u2019s Only Experience\u2019Come solo or better yet bring your BFF to enjoy an evening over coffee with like minded, strong and independent women from Bangalore and beyond.Each guest at this event has been invited and vetted personally by out Founder & CEO, Vrusali.Be rest assured, that this is the beginning of a great friendship & bond. \u2665\ufe0fThe ticket price is for entry to the venue only. All consumption of food & beverages will be borne individually based on your consumption. \u2728enVie\u2728 will help you with a specially curated menu for exclusive options.Cheers and see you soon!Team \u2728enVie\u2728",
+    "description": "Women truly deserve the best!\u2728enVie\u2728 is proud to host its first ever \u2018Women\u2019s Only Experience\u2019Come solo or better yet bring your BFF to enjoy an evening over coffee with like minded, strong and independent women from Bangalore and beyond.Each guest at this event has been invited and vetted personally by our Founder & CEO, Vrusali.Be rest assured, that this is the beginning of a great friendship & bond. \u2665\ufe0fThe ticket price is for entry to the venue only. All consumption of food & beverages will be borne individually based on your consumption. \u2728enVie\u2728 will help you with a specially curated menu for exclusive options.Cheers and see you soon!Team \u2728enVie\u2728",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/265C85A987CC4F7FAEE320D54B327996_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0A245FDF94D24227B44C6AF29973DCDA_converted_webp.webp",
@@ -1823,6 +1823,102 @@
       "Leisure",
       "Eco Friendly",
       "Walking Tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Friday Adda - Drinks & Conversations with Strangers",
+    "description": "Kick off a fun Friday night the right way\u2014with drinks in hand and a buzz of energy in the air! \ud83c\udf79\ud83c\udf89Dive into exciting conversations with total strangers, share some laughs, swap wild stories, and maybe even a few secrets. \ud83d\ude09 Who knows? You might just meet your new best friend or future partner-in-crime! \ud83d\udd75\ufe0f\u200d\u2640\ufe0f\u2728The vibe is all about having fun, making unforgettable connections, and soaking in the weekend energy. And we\u2019ve got just the right drinks to set the tone! \ud83e\udd42 Sip on desi-inspired cocktails\u2014think spicy masala twists, tangy tamarind surprises, and sweet \u2018n\u2019 sour classics that will keep the conversations (and laughter) flowing all night long! \ud83c\udf78\ud83c\uddee\ud83c\uddf3With good drinks and even better company, this is one night you won\u2019t forget! \ud83d\udd25So, are you ready to say cheers to spontaneity and the thrill of new encounters? \ud83c\udf7b Come raise a toast and kick off your weekend in true Friday Adda style! \u2728",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EF623AB94EF846DC8A1D77F89A91E85D_converted_webp.webp"
+    ],
+    "startDate": "2024-10-04T20:30:00+05:30",
+    "endDate": "2024-10-04T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Maratt Estate, Bannerghatta Rd, opposite Shell Petrol Pump, Dollar Layout, Phase 4, J. P. Nagar, Bengaluru, Karnataka 560076, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJCy1UwGoVrjsRIayqUd2gHVM",
+      "latitude": "12.90579170000000000000",
+      "longitude": "77.60142360000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "TwoTablesClub",
+      "description": "Where a small group of strangers come together for genuine conversations & spontaneous connections  over a curated meal. Guided by a host every Table is a mix of locals & newcomers sharing stories of their roots & dreams",
+      "url": "https://urbanaut.app/partner/twotablesclub",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/wysxdsvnko-1707810356440ttclogojpg.jpg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-81399-06300"
+      }
+    },
+    "url": "https://urbanaut.app/spot/friday-adda-drinks-conversations-with-strangers-5218",
+    "keywords": [
+      "Food & drink",
+      "Leisure",
+      "Local",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sunday Breakfast with Strangers",
+    "description": "Start your day right with a scrumptious breakfast! \ud83c\udf73But it\u2019s not just about the food\u2014it\u2019s about creating connections and making memories that last. Join us for fun conversations as you savor a delicious spread featuring options like a fluffy Omelette or Croissant Sandwich, Pancakes, Waffles, or French Toast drizzled with syrup, and a Pastry of the Day to satisfy your sweet tooth. \ud83e\udd50\ud83e\uddc7\ud83c\udf70Pair it all with a refreshing Fresh Fruit Juice and your choice of Coffee or Tea for that perfect morning boost. \u2615\ud83c\udf75Don\u2019t miss this chance to kick off your day with hearty bites and uplifting company. Mark your calendar and come join us for a morning full of delicious flavors and delightful chats. \u2728",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C35449CB6662461296A32757FA77CD5D_converted_webp.webp"
+    ],
+    "startDate": "2024-10-06T10:00:00+05:30",
+    "endDate": "2024-10-06T11:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Cunningham Hallmark, 35, Cunningham Rd, opp. Sweet Chariot, Vasanth Nagar, Bengaluru, Karnataka 560052, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJnRZayTIXrjsRqapseh0gB7o",
+      "latitude": "12.98660700000000000000",
+      "longitude": "77.59504910000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "TwoTablesClub",
+      "description": "Where a small group of strangers come together for genuine conversations & spontaneous connections  over a curated meal. Guided by a host every Table is a mix of locals & newcomers sharing stories of their roots & dreams",
+      "url": "https://urbanaut.app/partner/twotablesclub",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/wysxdsvnko-1707810356440ttclogojpg.jpg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-81399-06300"
+      }
+    },
+    "url": "https://urbanaut.app/spot/sunday-breakfast-with-strangers-5219",
+    "keywords": [
+      "Food & drink",
+      "Leisure",
+      "Local",
       "URBANAUT"
     ]
   },
