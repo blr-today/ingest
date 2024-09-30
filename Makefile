@@ -20,7 +20,6 @@ out/allevents.txt:
 	  jq -r '.item[] | .share_url' | sort > $@ || $(call restore-file,$@)
 	echo "[ALLEVENTS] $$(wc -l $@ | cut -d ' ' -f 1)"
 
-# Input file goes here
 out/te.jsonnet:
 	curl_chrome116 --silent --insecure 'https://api.total-environment.com/api/v1.0/getEvents.json' -X POST -H 'content-type: application/json' -H 'Authorization: Bearer $(TOTAL_ENVIRONMENT_API_TOKEN)' --data-raw '{"flag":"upcoming"}' --output $@
 

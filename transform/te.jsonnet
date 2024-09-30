@@ -19,6 +19,15 @@ local mapVenue(venue) = {
   address: venue.restaurant_outlet.address,
 };
 
+# Input = "09:30 PM" 
+# Output = "21:30:00"
+local transformTime(time_str) =
+  assert std.length(std.split(time_str, ':')) == 2 : 'Invalid time format';
+  local time = std.split(time_str, ':');
+  local minutes = std.split(time[1], ' ')[0];
+  local hour = if std.endsWith(time[1], 'PM') then std.toString(std.parseInt(time[0]) + 12) else time[0];
+  hour + ':' + minutes + ':00+05:30';
+
 local transformEvent(event, input) = [
   assert std.length(event.music_event_venues) == 1 : 'Found more than one venue for event';
   {
@@ -51,7 +60,7 @@ local transformEvent(event, input) = [
     },
     performer: std.flattenArrays([mapArtist(A, input) for A in event.music_event_artists]),
     keywords: [G.genre.genre_name for G in event.music_event_genres] + ['WINDMILLS'],
-    startDate: date.concert_date,
+    startDate: date.concert_date[0:10] + 'T' + transformTime(date.start_time),
     // "endDate": event.modified,
     eventStatus: 'EventScheduled',
   } + schemaOrgContext
