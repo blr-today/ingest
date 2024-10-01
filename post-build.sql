@@ -371,7 +371,11 @@ UPDATE events SET
     '$.keywords',
     json_insert(event_json -> '$.keywords', '$[#]', 'INDIRANAGAR')
   )
-WHERE event_json LIKE '%domlur%' or event_json LIKE '%indiranagar%';
+WHERE (
+     event_json LIKE '%domlur%' 
+  or event_json LIKE '%indiranagar%'
+  or event_json LIKE '%old airport road%'
+);
 
 UPDATE events SET
   event_json = json_replace(
@@ -423,7 +427,10 @@ UPDATE events SET
     json_insert(event_json -> '$.keywords', '$[#]', 'CBD')
   )
 WHERE (
+  event_json->>'$.location' LIKE '%1 mg%' OR
   event_json->>'$.location' LIKE '%mg road%' OR
+  event_json->>'$.location' LIKE '%residency road%' OR
+  event_json->>'$.location' LIKE '%residency rd%' OR
   event_json->>'$.location' LIKE '%mahatma gandhi road%' OR
   event_json->>'$.location' LIKE '%jayamahal%' OR
   event_json->>'$.location' LIKE '%ashok nagar%' OR

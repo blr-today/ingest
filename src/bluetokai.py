@@ -14,21 +14,29 @@ LOCATIONS = [
         "https://cafe.bluetokaicoffee.com/sarvagna-nagar-bengaluru-34817/home",
         "Blue Tokai Coffee Roasters HRBR Layout",
         r"\bhrbr\b",
+        13.024729,
+        77.639929
     ),
     (
         "https://cafe.bluetokaicoffee.com/jayanagar-bengaluru-34903/home",
         "Blue Tokai Coffee Roasters Jayanagar",
         r"\bjayanagar\b",
+        13.024729,
+        77.639929
     ),
     (
         "https://cafe.bluetokaicoffee.com/armane-nagar-bengaluru-34815/home",
         "Blue Tokai Coffee Roasters Sadashiva Nagar",
         r"\bsadashiva\b",
+        13.006963967543491,
+        77.57904497534919
     ),
     (
         "https://cafe.bluetokaicoffee.com/mahadevapura-bengaluru-33593/home",
         "Blue Tokai Coffee Roasters Whitefield",
         r"\bwhitefield\b",
+        12.99609493,
+        77.6954406
     ),
     # This is not a cafe but their Roastery itself
     (
@@ -40,6 +48,8 @@ LOCATIONS = [
         "https://cafe.bluetokaicoffee.com/shivaji-nagar-bengaluru-33592/home",
         "Blue Tokai Coffee Roasters Infantry Road",
         r"\binfantry\b",
+        12.98112721,
+        77.60339846
     ),
     (
         "https://cafe.bluetokaicoffee.com/indiranagar-bengaluru-34282/home",
@@ -50,31 +60,44 @@ LOCATIONS = [
         "https://cafe.bluetokaicoffee.com/indiranagar-bengaluru-33590/home",
         "Blue Tokai Coffee Roasters Indiranagar",
         r"\bindiranagar\b",
+        12.967299,
+        77.636701
     ),
     (
         "https://cafe.bluetokaicoffee.com/koramangala-bengaluru-36832/home",
         "Blue Tokai Coffee Roasters Koramangala, 5th Block",
         r"\b5th block\b",
+        12.9661571,
+        77.662065
+
     ),
     (
         "https://cafe.bluetokaicoffee.com/koramangala-bengaluru-33591/home",
         "Blue Tokai Coffee Roasters Koramangala",
         r"\bkoramangala\b",
+        12.94098007,
+        77.62012452
     ),
     (
         "https://cafe.bluetokaicoffee.com/bangalore-east-taluk-bengaluru-34283/home",
         "Blue Tokai Coffee Roasters RMZ Ecoworld",
         r"\brmz\b",
+        12.920362546335918,
+        77.68606341873948
     ),
     (
         "https://cafe.bluetokaicoffee.com/hsr-layout-bengaluru-33594/home",
         "Blue Tokai Coffee Roasters HSR Layout",
         r"\bhsr\b",
+        12.91279211,
+        77.64475762
     ),
     (
         "https://cafe.bluetokaicoffee.com/jayanagar-bengaluru-33595/home",
         "Blue Tokai Coffee Roasters JP Nagar",
         r"\bjp nagar\b",
+        12.90694327,
+        77.59912373
     ),
 ]
 
@@ -131,7 +154,7 @@ def guess_location(body_html):
         if "Bengaluru" in line:
             for location in LOCATIONS:
                 if re.search(location[2], line, re.IGNORECASE):
-                    return (location[0], location[1])
+                    return (location[0], location[1], location[3], location[4])
 
 
 def generate_event_object(product_json, variant, date, start_hour, end_hour):
@@ -139,7 +162,7 @@ def generate_event_object(product_json, variant, date, start_hour, end_hour):
         date.year, date.month, date.day, start_hour, 0, tzinfo=IST
     )
     end_datetime = datetime(date.year, date.month, date.day, end_hour, 0, tzinfo=IST)
-    (location_url, address) = guess_location(product_json["product"]["body_html"])
+    (location_url, address, lat, lng) = guess_location(product_json["product"]["body_html"])
     event = {
         "url": f"https://bluetokaicoffee.com/products/{product_json['product']['handle']}",
         "name": product_json["product"]["title"],
@@ -160,6 +183,11 @@ def generate_event_object(product_json, variant, date, start_hour, end_hour):
             "name": address,
             "url": location_url,
             "address": address + " Bengaluru",
+            "geo": {
+                "@type": "GeoCoordinates",
+                "latitude": lat,
+                "longitude": lng,
+            }
         },
     }
     return event
