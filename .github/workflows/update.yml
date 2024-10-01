@@ -62,7 +62,9 @@ jobs:
       id: upload
       with:
         name: events-db
-        path: events.db
+        path: |
+          events.db
+          out/pvr-*
         if-no-files-found: error
         retention-days: 1
 
