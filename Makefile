@@ -128,7 +128,7 @@ out/together-buzz.txt:
 out/adidas.json:
 	python src/adidas.py || $(call restore-file,$@)
 
-out/pvr/cinemas.json:
+out/pvr-cinemas.csv:
 	python src/pvr.py || $(call restore-file,$@)
 
 out/trove.json:

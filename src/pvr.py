@@ -1,3 +1,4 @@
+import csv
 import requests
 import os
 import json
@@ -12,6 +13,21 @@ HEADERS = {
     "platform": "ANDROID",
     "authorization": "Bearer",
 }
+
+MOVIE_KEYS = [
+    "title",
+    "imdb_url",
+    "adult",
+    "overview",
+    "runtime",
+    "status",
+    "tagline",
+    "facebook",
+    "instagram",
+    "twitter",
+    "tmdb_id"
+]
+
 CINEMA_KEYS = [
     "theatreId",
     "name",
@@ -122,18 +138,60 @@ def get_movie_details(movie_id):
 
 if __name__ == "__main__":
     all_cinemas = dict()
-    for movie_id in get_now_showing():
-        details = get_movie_details(movie_id)
-        if details:
-            os.makedirs(f"out/pvr/movies/{movie_id}", exist_ok=True)
-            with open(f"out/pvr/movies/{movie_id}/info.json", "w") as f:
-                json.dump(details, f, indent=2)
 
-            cinemas, shows = get_movie_sessions(movie_id)
-            for c in cinemas:
-                all_cinemas[c["theatreId"]] = {k: c[k] for k in CINEMA_KEYS}
-            with open(f"out/pvr/movies/{movie_id}/sessions.json", "w") as f:
-                json.dump(shows, f, indent=2)
-    with open("out/pvr/cinemas.json", "w") as f:
-        json.dump(all_cinemas, f, indent=2)
-        print(f"[PVR] {len(all_cinemas)} cinemas")
+    # Ensure output directory exists
+    os.makedirs("out/pvr", exist_ok=True)
+
+    # Open CSV files for writing
+    with (
+        open("out/pvr-movies.csv", "w", newline="") as movies_file,
+        open("out/pvr-sessions.csv", "w", newline="") as sessions_file,
+        open("out/pvr-cinemas.csv", "w", newline="") as cinemas_file,
+    ):
+
+        movie_writer = csv.DictWriter(
+            movies_file,
+            fieldnames=["movieId"] + MOVIE_KEYS
+        )
+        session_writer = csv.DictWriter(
+            sessions_file,
+            fieldnames=["movieId"] + SHOW_KEYS + [
+                "theatreId",
+                "experienceKey",
+                "startTime",
+                "endTime"
+            ],
+        )
+
+        cinema_writer = csv.DictWriter(
+            cinemas_file,
+            fieldnames=CINEMA_KEYS,
+            extrasaction='ignore'
+        )
+
+        # Write headers
+        movie_writer.writeheader()
+        session_writer.writeheader()
+        cinema_writer.writeheader()
+
+        movie_counter = 0
+        for movie_id in get_now_showing():
+            movie_counter += 1
+            details = get_movie_details(movie_id)
+            if details:
+                # Write movie details to CSV
+                movie_info = {**details, "movieId": movie_id}
+                movie_writer.writerow(movie_info)
+
+                cinemas, shows = get_movie_sessions(movie_id)
+                for c in cinemas:
+                    if c["theatreId"] not in all_cinemas:
+                        all_cinemas[c["theatreId"]] = c
+                for show in shows:
+                    show["movieId"] = movie_id
+                    session_writer.writerow(show)
+
+        cinema_writer.writerows(sorted(all_cinemas.values(), key=lambda x: x["theatreId"]))
+
+    print(f"[PVR] {len(all_cinemas)} cinemas")
+    print(f"[PVR] {movie_counter} movies")
