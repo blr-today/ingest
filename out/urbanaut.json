@@ -980,7 +980,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 13,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1029,7 +1029,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 32,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1186,7 +1186,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 2,
+    "remainingAttendeeCapacity": 1,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1849,7 +1849,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1873,55 +1873,6 @@
       "Food & drink",
       "Leisure",
       "Local",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "THE READING SOCIAL",
-    "description": "Turn your breakfast in bed to breakfast at C+C, with one of our favourite weekend traditions : The Reading Social. A wholesome morning with coffee cups, books and the reading social community. If this sounds like a perfect way to spend your morning, join us for the reading social \ud83d\udcda\u2615\ud83e\udd59How do you like the idea of spending a Sunday morning, by yourself - reading/writing/journaling or indulging in any other silent activity you've been craving for? Reserve your spot now, you deserve to grab that morning coffee and just unwind!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gxd0yhkvgk-171273371858720230402img3193rajkashyapjpg.jpg",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/lhpucw9uld-171273346147520230402img3192rajkashyap1jpg.jpg",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/zsbqdnorsd-1712733644131img05962022rajkashyapjpg.JPG",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/z1s3xg1czz-1712733666748whatsappimage20230920at72130pmjpg.jpg"
-    ],
-    "startDate": "2024-10-05T09:00:00+05:30",
-    "endDate": "2024-10-05T10:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Copper + Cloves",
-      "address": "Look for the Paper Boat Collective sign - we\u2019re, 549A, 9th A Main Rd, inside the blue colour gate, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJxbH9KaoXrjsRxrnm21z2dMQ",
-      "latitude": "12.97778100000000000000",
-      "longitude": "77.63726400000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 7,
-    "remainingAttendeeCapacity": 7,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "600.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Copper + Cloves",
-      "description": "We are all about nourishing food and creating spaces for connection!",
-      "url": "https://urbanaut.app/partner/copperandcloves",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97319-30303"
-      }
-    },
-    "url": "https://urbanaut.app/spot/thereadingsocial",
-    "keywords": [
-      "Leisure",
       "URBANAUT"
     ]
   },
@@ -1973,6 +1924,106 @@
       "Leisure",
       "Wellness",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "THE READING SOCIAL",
+    "description": "Turn your breakfast in bed to breakfast at C+C, with one of our favourite weekend traditions : The Reading Social. A wholesome morning with coffee cups, books and the reading social community. If this sounds like a perfect way to spend your morning, join us for the reading social \ud83d\udcda\u2615\ud83e\udd59How do you like the idea of spending a Sunday morning, by yourself - reading/writing/journaling or indulging in any other silent activity you've been craving for? Reserve your spot now, you deserve to grab that morning coffee and just unwind!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gxd0yhkvgk-171273371858720230402img3193rajkashyapjpg.jpg",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/lhpucw9uld-171273346147520230402img3192rajkashyap1jpg.jpg",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/zsbqdnorsd-1712733644131img05962022rajkashyapjpg.JPG",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/z1s3xg1czz-1712733666748whatsappimage20230920at72130pmjpg.jpg"
+    ],
+    "startDate": "2024-10-06T09:00:00+05:30",
+    "endDate": "2024-10-06T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "Look for the Paper Boat Collective sign - we\u2019re, 549A, 9th A Main Rd, inside the blue colour gate, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJxbH9KaoXrjsRxrnm21z2dMQ",
+      "latitude": "12.97778100000000000000",
+      "longitude": "77.63726400000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 1,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/copy-of-the-reading-social",
+    "keywords": [
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Analog Club",
+    "description": "Step back in time at The Analog Club, a new event series by the Studio by Copper + Cloves. Disconnect from devices for 3 hours of unplugged experience\u2014we'll have books, board games, music, crochet- but this isn't about structured activities, just genuine connection and relaxation. Meet new friends, sketch, or read a book in quiet solitude (without being surrounded by people lost in their phones). Tickets are for entry and unlimited high tea from our renowned deli counter. Embrace the analog experience and reconnect in a digital age.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/30EF77D42F924AD19F79067FB7F4AA0F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/47D20AD0C9F144B5A7B382301F126D0E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C8319552619644A49ABA3E375EBA1BF8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/65595A7B86C34D63A7A516CC6DA25192_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B4E887B815874182B5B41CF91D1C76F7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/49601DECF5E142A6880A23D355027796_converted_webp.webp"
+    ],
+    "startDate": "2024-10-06T15:00:00+05:30",
+    "endDate": "2024-10-06T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/the-analog-club",
+    "keywords": [
+      "Leisure",
       "URBANAUT"
     ]
   }
