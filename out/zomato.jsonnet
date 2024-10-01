@@ -3804,7 +3804,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 12:53:27",
         "availability": "INSTOCK",
-        "inventory": 95
+        "inventory": 90
       }
     ],
     "performers": [],
@@ -3880,6 +3880,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
+    "ogTitle": "Rock N Roll Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rock N Roll Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/0f1b515fe622d4a8b29db76181b7483d1727430725.jpeg"
     ],
@@ -3922,6 +3924,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Remix Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Remix Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/048795e11edc0dd6d153a24149ecec061727430887.jpeg"
     ],
@@ -3932,7 +3936,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:44",
         "availability": "INSTOCK",
-        "inventory": 193
+        "inventory": 190
       }
     ],
     "performers": [],
@@ -3964,6 +3968,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/92ff2a74229daa5db28c62ce1ca605c71727430929.jpeg"
     ],
@@ -4006,6 +4012,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/15dd9a17c79b0f62d31891222ef6ce1d1727432798.jpeg"
     ],
@@ -4016,7 +4024,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:45",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 197
       }
     ],
     "performers": [],
@@ -4048,6 +4056,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/74f4a62da96b9504dc3d536bc7ff250b1727431057.jpeg"
     ],
@@ -4090,6 +4100,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
+    "ogTitle": "Mixed Funky Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Mixed Funky Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/d89ed346560cc1fde7034431c94ab0571727431097.jpeg"
     ],
@@ -4132,6 +4144,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Remix Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Remix Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/048795e11edc0dd6d153a24149ecec061727431138.jpeg"
     ],
@@ -4174,6 +4188,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/417126744544b39c1dac27c6c38b6b781727431187.jpeg"
     ],
@@ -4216,6 +4232,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/15dd9a17c79b0f62d31891222ef6ce1d1727432813.jpeg"
     ],
@@ -4258,6 +4276,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/74f4a62da96b9504dc3d536bc7ff250b1727431295.jpeg"
     ],
@@ -4300,6 +4320,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
+    "ogTitle": "Severed Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Severed Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/8acda5e95ecc8f48fda03b8a2bc78b1f1727431331.jpeg"
     ],
@@ -4342,6 +4364,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/92ff2a74229daa5db28c62ce1ca605c71727431427.jpeg"
     ],
@@ -4384,6 +4408,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/15dd9a17c79b0f62d31891222ef6ce1d1727432823.jpeg"
     ],
@@ -4426,6 +4452,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/74f4a62da96b9504dc3d536bc7ff250b1727431533.jpeg"
     ],
@@ -4468,6 +4496,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
+    "ogTitle": "Classic Rock Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Classic Rock Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/d0e4e67e63bee78afa9da62f55db8dce1727431577.jpeg"
     ],
@@ -4510,6 +4540,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
+    "ogTitle": "Pop & Rock Hits Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Pop & Rock Hits Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/dc9acd2cd48d8a23d699f8ebef7f8fa51727431629.jpeg"
     ],
@@ -4552,6 +4584,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/417126744544b39c1dac27c6c38b6b781727431665.jpeg"
     ],
@@ -4594,6 +4628,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/15dd9a17c79b0f62d31891222ef6ce1d1727432839.jpeg"
     ],
@@ -4636,6 +4672,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
+    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/74f4a62da96b9504dc3d536bc7ff250b1727431737.jpeg"
     ],
@@ -4678,6 +4716,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
+    "ogTitle": "Encore Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Encore Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/d219e928853707c5c0a5e46a3d3ffd681727431786.jpeg"
     ],
