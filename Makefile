@@ -188,7 +188,7 @@ fetch: out/allevents.txt \
  out/tonight.json \
  out/creativemornings.txt \
  out/adidas.json \
- out/pvr/cinemas.json \
+ out/pvr-cinemas.csv \
  out/trove.json \
  out/aceofpubs.json \
  out/atta_galatta.json \
