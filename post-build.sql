@@ -89,6 +89,15 @@ WHERE (
     OR event_json ->> '$.name' LIKE '%voice activation%'
     -- https://allevents.in/org/channel-ur-life-wellness-clinic/23383426
     OR event_json ->> '$.organizer.name' LIKE '%channel ur life%'
+    -- They claim to treat Autism, Past Life Trauma, and much more. Ms. Rashmi
+    -- Aiyappa perceives time and space very differently from that of a
+    -- common man. She is a creator of a space that has an answer beyond
+    -- religion, belief, faith, logic and philosophy – it is an experience .
+    -- It is a science that the world has been waiting for. 
+    -- Aashwasan is the only organization in the world
+    -- that uses spiritual science tools and techniques
+    -- such as Aura science and ESP to transform lives.
+    OR event_json ->> '$.organizer.name' LIKE '%aashwasan foundation%'
   );
 
 -- The Audacious Movement - WOOWOO
