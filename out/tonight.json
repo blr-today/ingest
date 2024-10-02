@@ -115,8 +115,8 @@
     "name": "Konebu & Space Alchemist",
     "about": "Get ready to groove under the Banyan Tree! Stretch n Dance presents an electrifying night with Konebu (Sangoma Records) and Space Alchemist (Resina Records) live at Pebble - The Jungle Lounge on October 19th. The event starts at 6 PM. Cover charge at the gate is \u20b91000 until 8:30 PM, prices increase post that. Secure your tickets online now for a night of dancing under the stars!",
     "url": "https://insider.in/event/konebu-space-alchemist-oct19-2024/buy-page",
-    "startDate": "2024-10-20T03:30:00+05:30",
-    "endDate": "2024-10-20T11:30:00+05:30",
+    "startDate": "2024-10-19T17:00:00+05:30",
+    "endDate": "2024-10-20T01:00:00+05:30",
     "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FDBwL39QgW9MqhEuEeVsv%2FbannerImages%2FiJeSjTtUg96M6Bd0VVa4-KONEBU-Space-Alchemist.jpg?alt=media&token=478f4dd5-44df-4eab-be9c-e626ce1186cd",
     "performer": {
       "@type": "MusicGroup",
@@ -408,15 +408,52 @@
   },
   {
     "@type": "MusicEvent",
+    "name": "ELECTRIC BOOGE !",
+    "about": "Join us this Friday, October 4th, from 8pm onwards at I-Bar, The Park Bangalore for Electric Booge! Featuring Shiva Prayojan, Chan, Hash, and Kevin. Immerse yourself in a sonic journey of cocktails and beats as we get lost in the melodies and energy of house music. Enjoy 1+1 offers on drinks until 9pm.",
+    "url": "https://insider.in/event/electric-booge--oct4-2024/buy-page",
+    "startDate": "2024-10-04T20:00:00+05:30",
+    "endDate": "2024-10-05T01:00:00+05:30",
+    "image": null,
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Various Artists"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "I Bar",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "The Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.974169484068188",
+        "longitude": "77.61941663126491"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Various Organisers"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://insider.in/event/electric-booge--oct4-2024/buy-page"
+    }
+  },
+  {
+    "@type": "MusicEvent",
     "name": "Lollapalooza India 2025",
     "about": "Get ready, Mumbai! Lollapalooza India is back for its third edition on March 8-9, 2025. Featuring over 30 iconic artists across various genres like pop, rock, indie, hip-hop, and more, including headliners such as Green Day, Shawn Mendes, and Zedd. Join the ultimate music festival experience with amazing performances, food, beverages, and brand activations. Don't miss out on this two-day extravaganza celebrating live music and culture!",
     "url": "https://in.bookmyshow.com/events/lollapalooza-india-2025/ET00409511",
     "startDate": "2025-03-09T14:00:00+05:30",
     "endDate": "2025-03-08T14:02:00+05:30",
-    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FYl7bcfoGQPsOSpx4cVcs%2FbannerImages%2FYJk3p9CDfFaCtAvmVfeC-eventimage.png?alt=media&token=205fc4b4-aad1-4f05-a49b-2cf388d5d219",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FYl7bcfoGQPsOSpx4cVcs%2FbannerImages%2FY9gL4hYS4bba3NBKEl9o-media-desktop-lollapalooza-india-2025-2-2024-9-16-t-10-38-36.jpg?alt=media&token=cb300bb3-9ec3-45d2-88ec-f6b70ff91bb6",
     "performer": {
       "@type": "MusicGroup",
-      "name": "Various Artists"
+      "name": "Green Day"
     },
     "location": {
       "@type": "Place",
@@ -441,6 +478,43 @@
     "offers": {
       "@type": "Offer",
       "url": "https://in.bookmyshow.com/events/lollapalooza-india-2025/ET00409511"
+    }
+  },
+  {
+    "@type": "MusicEvent",
+    "name": "Drink Till You Drop @Pebble the Jungle Lounge ",
+    "about": "Join us at Pebble The Jungle Lounge this Friday at 7 PM for an unforgettable musical extravaganza! Experience top talent, high energy, and non-stop entertainment that will leave you wanting more. Don't miss out on this epic night filled with heart-pounding music and unforgettable moments. Cover charges apply, with an option for unlimited drinks at 2k.",
+    "url": "https://insider.in/event/drink-till-you-drop-pebble-the-jungle-lounge-oct11-2024/buy-page",
+    "startDate": "2024-10-11T19:00:00+05:30",
+    "endDate": "2024-10-12T01:00:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FbPMGxajgVgqCeKGKDpTw%2FbannerImages%2FfvheExLeS4Ev459Owj2k-Drink-till-you-drop-Pebble-the-jungle-lounge-.jpg?alt=media&token=42f9b110-5047-4c4b-af7c-baffe74ea2c9",
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Various Artists"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "PEBBLE The Jungle Lounge",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd, Jayamahal, Bengaluru, Karnataka 560080, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.004424",
+        "longitude": "77.5848398"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urban Vibes India "
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://insider.in/event/drink-till-you-drop-pebble-the-jungle-lounge-oct11-2024/buy-page"
     }
   },
   {
