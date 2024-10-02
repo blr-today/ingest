@@ -29,7 +29,7 @@
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Various Organisers"
+      "name": "Luxus Group"
     },
     "offers": {
       "@type": "Offer",
@@ -83,7 +83,7 @@
     "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2F7pgwjYkE9lxpgxGQaq3z%2FbannerImages%2FpaKYwGdVhRDausakIIFg-SOCIAL-PRESENTS-BAMBOUNOU-TH-OCT-KORAMANGALA-SOCIALBENGALURU-IEHPL.jpg?alt=media&token=7e7df708-0c40-4825-82cf-3f3775b87198",
     "performer": {
       "@type": "MusicGroup",
-      "name": "Various Artists"
+      "name": "Bambounou"
     },
     "location": {
       "@type": "Place",
@@ -305,7 +305,7 @@
     "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FTGpGUQbyX5CTsNT8Enu7%2FbannerImages%2FZqcYEIEnYjNrLI9mvoCr-Jackfruit-Dance-Party-feat-DJ-Out-of-Office-GST-Rishi-Sippy-Thats-Kid-IndiranagarSocial.jpg?alt=media&token=5d275f31-e2a4-40f1-8607-da15d9a566b8",
     "performer": {
       "@type": "MusicGroup",
-      "name": "Various Artists"
+      "name": "Out of Office"
     },
     "location": {
       "@type": "Place",
@@ -404,6 +404,43 @@
     "offers": {
       "@type": "Offer",
       "url": "https://in.bookmyshow.com/events/bandland-2024/ET00406791"
+    }
+  },
+  {
+    "@type": "MusicEvent",
+    "name": "Lollapalooza India 2025",
+    "about": "Get ready, Mumbai! Lollapalooza India is back for its third edition on March 8-9, 2025. Featuring over 30 iconic artists across various genres like pop, rock, indie, hip-hop, and more, including headliners such as Green Day, Shawn Mendes, and Zedd. Join the ultimate music festival experience with amazing performances, food, beverages, and brand activations. Don't miss out on this two-day extravaganza celebrating live music and culture!",
+    "url": "https://in.bookmyshow.com/events/lollapalooza-india-2025/ET00409511",
+    "startDate": "2025-03-09T14:00:00+05:30",
+    "endDate": "2025-03-08T14:02:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FYl7bcfoGQPsOSpx4cVcs%2FbannerImages%2FYJk3p9CDfFaCtAvmVfeC-eventimage.png?alt=media&token=205fc4b4-aad1-4f05-a49b-2cf388d5d219",
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Various Artists"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Mumbai",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Mumbai, Maharashtra India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "00.000000",
+        "longitude": "00.000000"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Various Organisers"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://in.bookmyshow.com/events/lollapalooza-india-2025/ET00409511"
     }
   },
   {
@@ -631,6 +668,43 @@
   },
   {
     "@type": "MusicEvent",
+    "name": "Shillong Cherry Blossom Festival 2024",
+    "about": "Experience the Cherry Blossom Festival, North East India's premier commercial event, featuring international stars and a blend of culture and creativity. Immerse yourself in a Japanese village within the festival grounds for an enchanting cultural journey. Don\u2019t miss this chance to witness the beauty of cherry blossoms - get your tickets now!",
+    "url": "https://in.bookmyshow.com/events/shillong-cherry-blossom-festival-2024/ET00410180",
+    "startDate": "2024-11-15T14:00:00+05:30",
+    "endDate": "2024-11-16T14:00:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FizpEYz4B59XnGjeFh9TZ%2FbannerImages%2FtvTWYXLNxmndXQzAWbry-eventimage.jpg?alt=media&token=40a2487d-6dcd-4725-8cd3-a5d5ff4ab8a6",
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Akon"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "RBDSA Sports Complex: Shillong",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Madan Kurkalang Stadium, Bhoirymbong, RI Bhoi District, Shillong, Meghalaya 793103, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "25.702342",
+        "longitude": "92.015681"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Various Organisers"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://in.bookmyshow.com/events/shillong-cherry-blossom-festival-2024/ET00410180"
+    }
+  },
+  {
+    "@type": "MusicEvent",
     "name": "Brunch Electronik - India",
     "about": "Join us at Brunch Electronik, a nomadic festival bringing together a friendly and inclusive crowd in iconic locations worldwide. Dance to vibrant beats on multiple stages, or chill in shaded areas for drinks and chats with friends. Experience freedom and fun in every season at our unforgettable parties!",
     "url": "https://in.bookmyshow.com/events/brunch-electronik-india/ET00407539",
@@ -676,7 +750,7 @@
     "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FoQckZkQteDOSKCdO49m0%2FbannerImages%2F1gbD56ZOTXgUXcPo3n6L-Redroom-Ft-MarMer-at-Kitty-Ko-Bangalore.jpg?alt=media&token=61e89c51-dbe2-486b-b005-173ab3766264",
     "performer": {
       "@type": "MusicGroup",
-      "name": "Various Artists"
+      "name": "Mar+Mer"
     },
     "location": {
       "@type": "Place",
@@ -705,6 +779,43 @@
   },
   {
     "@type": "MusicEvent",
+    "name": "Tribute to Iron Maiden Ft. Sentient Collective",
+    "about": "Join us for a night of unforgettable music and tremendous vibes at the Tribute to Iron Maiden featuring The Sentient Collective. Catch them live on October 5th, 9pm onwards at Hard Rock Cafe, Whitefield, Bengaluru. Don't miss the magic as The Sentient Collective pays homage to Iron Maiden with their electrifying performance! Save the date!",
+    "url": "https://insider.in/event/tribute-to-iron-maiden-ft-sentient-collective-oct5-2024/buy-page",
+    "startDate": "2024-10-05T21:00:00+05:30",
+    "endDate": "2024-10-05T23:50:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2Fogx5wxYpvHtJ77ZQF9mN%2FbannerImages%2FjMNbPFJrmaCYpCm9RFjT-Tribute-to-Iron-Maiden-ft-Sentient-Collective.jpg?alt=media&token=2c0d3cc8-5700-44ed-875c-4b93238bc0d4",
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Sentient Collectve"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Hard Rock Cafe Bengaluru Whitefield",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Unit G-25 & 26, Ground Floor, Park Square Mall International Tech Park, Bangalore, Pattandur Agrahara",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9867821",
+        "longitude": "77.735896"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Jsm Corporation"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://insider.in/event/tribute-to-iron-maiden-ft-sentient-collective-oct5-2024/buy-page"
+    }
+  },
+  {
+    "@type": "MusicEvent",
     "name": "Alan Walker After Party ft. Siana Catherina | 4th Oct",
     "about": "Join us for the Official After Party of the biggest music festival in the country - Sunburn Arena featuring Alan Walker! This Friday, immerse yourself in an electrifying night at High Ultra Lounge with an exclusive performance by Siana Catherine. Venue: High Ultra Lounge, Bangalore Date: Friday, 4th October | 8 PM onwards. Brought to you by CentiGrade. Don't miss this unforgettable night of music and energy.",
     "url": "https://insider.in/event/--oct4-2024/buy-page",
@@ -713,7 +824,7 @@
     "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FqU85c9BUHg2XUP52RGve%2FbannerImages%2FjHZlWCT5RJcd2xQOgtfW--.png?alt=media&token=30d8bc37-f95d-4442-a2de-c8a8a0c2bca6",
     "performer": {
       "@type": "MusicGroup",
-      "name": "Various Artists"
+      "name": "Siana Catherine"
     },
     "location": {
       "@type": "Place",
@@ -817,9 +928,9 @@
   },
   {
     "@type": "MusicEvent",
-    "name": "Karaoke Ladies' Night with Jonas",
-    "about": "Get ready for an exciting Thursday night at 21st Amendment, Indiranagar, where Karaoke takes the spotlight! Ladies can enjoy free unlimited drinks all night, making it the perfect time to gather your friends and have some fun. Sing your heart out for a chance to win a bottle of Fratelli wine for the best performance of the evening. With Karaoke and a DJ set by Jonas Monterio, the energy will be high, and the music non-stop. It\u2019s set to be a night of great tunes, drinks, and unforgettable moments \u2014 don\u2019t miss out!",
-    "url": "https://rsvp.tonight.is/event/wcqndvSvJXrvhqBbLcYa?src=app&referrer=app",
+    "name": "Karaoke Night @ 21A Indiranagar",
+    "about": "Get ready for an exciting Thursday night at 21st Amendment, Indiranagar, where Karaoke takes the spotlight! \n\nLadies can enjoy free unlimited drinks all night, making it the perfect time to gather your friends and have some fun. \n\nSing your heart out for a chance to win a bottle of Fratelli wine for the best performance of the evening. \n\nWith Karaoke and a DJ set by Jonas Monterio, the energy will be high, and the music non-stop. It\u2019s set to be a night of great tunes, drinks, and unforgettable moments \u2014 don\u2019t miss out!",
+    "url": "https://rsvp.tonight.is/event/wcqndvSvJXrvhqBbLcYa?src=app&referrer=App",
     "startDate": "2024-10-03T21:30:00+05:30",
     "endDate": "2024-10-03T01:00:00+05:30",
     "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FwcqndvSvJXrvhqBbLcYa%2FbannerImages%2F3Rkf76xqnxdxkZufTZmz-21a-karaoke.jpeg?alt=media&token=59596c2f-3abb-4861-ad98-82b9cebad600",
@@ -849,44 +960,44 @@
     },
     "offers": {
       "@type": "Offer",
-      "url": "https://rsvp.tonight.is/event/wcqndvSvJXrvhqBbLcYa?src=app&referrer=app"
+      "url": "https://rsvp.tonight.is/event/wcqndvSvJXrvhqBbLcYa?src=app&referrer=App"
     }
   },
   {
     "@type": "MusicEvent",
-    "name": "Project X Ft. Murk Tenet & More",
-    "about": "Experience the return of Murk Tenet, the renowned minimalist DJ, at Hyatt Centric, Bangalore, this Saturday, October 5th. Immerse yourself in his deep, timeless beats and embark on a sonic journey like no other. Register now for this exclusive event and secure your spot for a night filled with pulsating rhythms and hypnotic vibes.",
-    "url": "https://insider.in/event/project-x-ft-murk-tenet-more-oct5-2024/buy-page",
-    "startDate": "2024-10-05T20:00:00+05:30",
-    "endDate": "2024-10-06T01:00:00+05:30",
-    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FyaYHMeBWXI7JSC3M1eb1%2FbannerImages%2F7ZKw6x22ssdigv464NOh-Project-X-Ft-Murk-Tenet-More.jpg?alt=media&token=694ee5c5-acb0-46bf-bc6c-1e9c7afe7fd7",
+    "name": "SANGOMA NIGHT - BANGALORE ",
+    "about": "Experience the transcendental sounds of Sangoma Records at Tuned Culture, a sacred gathering of psytrance enthusiasts. Join us on October 5th, 2024, for an unforgettable night featuring Emiel, Nektarios, and Uka Uka. Let the healing rhythms of Sangoma Records elevate your spirit and transport you to a realm of pure musical bliss.",
+    "url": "https://in.bookmyshow.com/events/sangoma-night-bangalore/ET00409555",
+    "startDate": "2024-10-05T19:00:00+05:30",
+    "endDate": "2024-10-05T19:00:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2Fxqvl6k3FAHkgi3eV5hjM%2FbannerImages%2FuQN816NKsqbtVOYm9pxl-SANGOMA-NIGHT-BANGALORE-.jpg?alt=media&token=eecd6581-0743-4a37-a2a8-49c5ad6bfd6b",
     "performer": {
       "@type": "MusicGroup",
-      "name": "Various Artists"
+      "name": "Emiel"
     },
     "location": {
       "@type": "Place",
-      "name": "Hyatt Centric Mg Road",
+      "name": "The Lalit Ashok: Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "1/1, Swamy Vivekananda Road, Mahatma Gandhi Rd, Someshwarpura, Halasuru, Bengaluru, Karnataka 560008, India",
+        "streetAddress": "Kumarakrupa Road, Opposite Golf Club, High Grounds, Sheshadripuram, Bengaluru, Karnataka 560001, India",
         "addressLocality": "Bangalore",
         "addressRegion": "Karnataka",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9732351",
-        "longitude": "77.6219102"
+        "latitude": "12.992",
+        "longitude": "77.5818"
       }
     },
     "organizer": {
       "@type": "Organization",
-      "name": "The Banger Project"
+      "name": "Sangoma "
     },
     "offers": {
       "@type": "Offer",
-      "url": "https://insider.in/event/project-x-ft-murk-tenet-more-oct5-2024/buy-page"
+      "url": "https://in.bookmyshow.com/events/sangoma-night-bangalore/ET00409555"
     }
   }
 ]
