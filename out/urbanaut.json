@@ -2146,5 +2146,110 @@
       "Pop-up Event",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "heartfelt yoga session , cacao with ecstatic dance",
+    "description": "Come and immerse yourself in the upcoming retreat that promises a holistic experience combining yoga sessions, a heart-opening cacao ceremony, and liberating ecstatic dance. Delve into a day filled with joy, relaxation, and a feast for the senses with delectable and nourishing food offerings. This retreat offers a unique opportunity to rejuvenate your mind, body, and soul in a tranquil setting surrounded by like-minded individuals seeking inner peace and self-discovery",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4FB96F8695EC4D31B036D5D6254B5EA5_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1346EA0FB1564C15852858186C209ABF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7FCC20C796F84103BCB24C19415CD999_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B51A8021DF2B463F816FE30D37360241_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5B43AE4F72D14592BBA1275BB4F9B682_converted_webp.webp"
+    ],
+    "startDate": "2024-10-20T09:30:00+05:30",
+    "endDate": "2024-10-20T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2985+HW, Bolamaranahalli, Karnataka 562162, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ48zzfloxrjsRB9quvlT8zhw",
+      "latitude": "13.01641700000000000000",
+      "longitude": "77.35985099999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "5500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "KSARAAH",
+      "description": "we are an organic farm hosting a variety of activities over the weekend",
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EC9DE83B48E64EED82A049DC217E079B_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98459-14487"
+      }
+    },
+    "url": "https://urbanaut.app/spot/heartfelt-yoga-session-cacao-with-ecstatic-dance",
+    "keywords": [
+      "Active",
+      "Food & drink",
+      "Leisure",
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Friday Deli Counter",
+    "description": "Friday deli counterWant to spend a day in the heart of Bangalore on a work-day sipping on a drink and enjoying the weather this city blesses us with? Come spend a day with us at the Studio by Copper + Cloves.Launching the \"Friday - Workday Deli Counter\". Nourish yourself at our \u2018all you can eat\u2019 deli counter and work from out beautiful cafe at the studio that is normally a members-only space! You can make come by all yourself or get your team to brainstorm at our beautiful, private studio cafe set-up.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/424D1C8531BA47FEA07CB47A424DB86D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/184526EC50324CEE99FCE324A8D9B127_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AC62E4DC212848DAA9377C99927D391C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/697347EA169E46BEB99FF14C3F6FC3D0_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3115452C123B47E499CAB1D0E0D9889A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/34FC9FE67226486485BCC14566406288_converted_webp.webp"
+    ],
+    "startDate": "2024-10-04T11:00:00+05:30",
+    "endDate": "2024-10-04T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 8,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/friday-deli-counter-theStudio",
+    "keywords": [
+      "Food & drink",
+      "Premium",
+      "URBANAUT"
+    ]
   }
 ]

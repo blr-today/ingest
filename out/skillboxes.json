@@ -396,6 +396,110 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Skydeck TV: Immerse Yourself in Sound and Vision!Get ready for a mind-blowing audiovisual experience at Skydeck by Sherlock's this Sunday! \"Skydec",
+      "endDate": "2024-10-06T23:59:00",
+      "identifier": "com.skillboxes.16211",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727955886FfsHrpmAI1JqRl4h.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750296",
+            "longitude": "77.6075339"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "SKYDECK TV | DJ NIGHT | AUDIO-VISUAL EXPERIENCE",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Get a complimentary Beer or a Mocktail on every booking!\n",
+            "inventoryLevel": 100,
+            "name": "Entry Charge",
+            "url": "https://www.skillboxes.com/events/ticket/skydeck-tv-dj-night-audio-visual-experience-5"
+         }
+      ],
+      "startDate": "2024-10-06T20:00:00",
+      "url": "https://www.skillboxes.com/events/skydeck-tv-dj-night-audio-visual-experience-5"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "Friday Fever: Ignite Your Weekend!Get ready to ignite your weekend at Skydeck by Sherlock's with our electrifying and unforgettable Friday Fever party",
+      "endDate": "2024-10-04T23:59:00",
+      "identifier": "com.skillboxes.16210",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17279521687YftkxCu82lPnSEZ.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750296",
+            "longitude": "77.6075339"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "FRIDAY FEVER | DJ NIGHT | IGNITE YOUR WEEKEND!",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Get a complimentary Beer or a Mocktail on every booking!\n",
+            "inventoryLevel": 100,
+            "name": "Entry Charge",
+            "url": "https://www.skillboxes.com/events/ticket/friday-fever-dj-night-ignite-your-weekend-3"
+         }
+      ],
+      "startDate": "2024-10-04T20:00:00",
+      "url": "https://www.skillboxes.com/events/friday-fever-dj-night-ignite-your-weekend-3"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "Spend your Sunday afternoon with us at a special Open Mic event where your words take center stage and become art! ✨Share your beliefs, stories",
+      "endDate": "2024-10-06T17:30:00",
+      "identifier": "com.skillboxes.16204",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/K04yQWlrYVo3cXFzak9UWm5ZTS9LQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727945435UaRG6ClHpEf3fPAE.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "beside Drunkling Sizzlers & Pub, No. 6, 2nd floor, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9334732",
+            "longitude": "77.6211418"
+         },
+         "name": "Chapter6 - The Club, Dine in & Rooftop"
+      },
+      "name": "SOMO: OPEN MIC & PAINT",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 40,
+            "name": "SOMO open mic & paint",
+            "url": "https://www.skillboxes.com/events/ticket/somo-open-mic-paint"
+         }
+      ],
+      "startDate": "2024-10-06T14:30:00",
+      "url": "https://www.skillboxes.com/events/somo-open-mic-paint"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "SocialEvent",
       "description": "🎉 Calling all UK Punjabi & Bollywood Lovers in Bangalore! 🎉Get ready for the most happening Saturday Nights at Dishkeyaun, located",
       "endDate": "2024-11-02T23:59:00",
@@ -933,6 +1037,40 @@
       ],
       "startDate": "2024-10-26T14:00:00",
       "url": "https://www.skillboxes.com/events/hardground-bengaluru"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "Kalyan Sabareeshan is a Musician & a Magician who has been actively performing across Bangalore over the last 2 years. He has been composing music",
+      "endDate": "2024-10-27T21:00:00",
+      "identifier": "com.skillboxes.16150",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b21SL25rNGFkWHpybTE0Mk9DbWhFQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17252588642ZHmuqwoX4V3d6LU.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9325445",
+            "longitude": "77.6319325"
+         },
+         "name": "Dialogues Cafe Koramangala"
+      },
+      "name": "An Evening of Music and Magic with Kalyan Sabareeshan // 27th October",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "Regular",
+            "url": "https://www.skillboxes.com/events/ticket/an-evening-of-music-and-magic-with-kalyan-sabareeshan-27th-october-1"
+         }
+      ],
+      "startDate": "2024-10-27T20:00:00",
+      "url": "https://www.skillboxes.com/events/an-evening-of-music-and-magic-with-kalyan-sabareeshan-27th-october-1"
    },
    {
       "@context": "https://schema.org",
