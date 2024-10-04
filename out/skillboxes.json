@@ -337,6 +337,122 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "🌈 **Queer Crush: A Queer Mixer** 🌈Join us on the 26th at 7 PM at Starbucks, Vittal Mallya Road, for a vibrant evening of connection an",
+      "endDate": "2024-10-26T21:00:00",
+      "identifier": "com.skillboxes.16223",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728041577g0I1ka68EMKMt96J.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9711826",
+            "longitude": "77.5981774"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Queer Crush - A Queer Mixer by BlrGrooveCo",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10,
+            "name": "Regular Entry",
+            "url": "https://www.skillboxes.com/events/ticket/queer-crush-a-queer-mixer-by-blrgrooveco"
+         }
+      ],
+      "startDate": "2024-10-26T19:00:00",
+      "url": "https://www.skillboxes.com/events/queer-crush-a-queer-mixer-by-blrgrooveco"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "THE BHANGRA NIGHT SUNDAY IS SET ON OCTOBER 6TH AT GINZA CLUB KORAMANGALA, STARTING AT 8:00 P.M.WILL HOST BHANGRA MUSIC EVENTS WITH THRILLING BOLLYWOOD",
+      "endDate": "2024-10-06T23:59:00",
+      "identifier": "com.skillboxes.16222",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728041186qbfBsHRX4ayuJLOt.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "27, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9330592",
+            "longitude": "77.6138532"
+         },
+         "name": "Ginza"
+      },
+      "name": "Bollywood Bhangra Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/bollywood-bhangra-night"
+         }
+      ],
+      "startDate": "2024-10-06T20:00:00",
+      "url": "https://www.skillboxes.com/events/bollywood-bhangra-night"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Calling all poets, comedians, musicians, and storytellers! Whether you're an emerging artist or a seasoned performer, this is your stage. With no rest",
+      "endDate": "2024-10-12T17:30:00",
+      "identifier": "com.skillboxes.16216",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MHRGZVpHZVdRT29DdE1UZzlvc3UyQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728023895mCW9CNjQTqDcAj2d.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Performing Art"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st Floor, BRS Towers, No 51, Sarjapur - Marathahalli Rd, above ICICI Wealth Management Bank, Kaikondrahalli, Bengaluru, Karnataka 560035, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9146752",
+            "longitude": "77.6760693"
+         },
+         "name": "Blue Rock's Fusion Restaurant and Bar"
+      },
+      "name": "Open-Mic",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "AUDIENCE",
+            "url": "https://www.skillboxes.com/events/ticket/open-mic-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 15,
+            "name": "PERFORMER",
+            "url": "https://www.skillboxes.com/events/ticket/open-mic-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 15,
+            "name": "COMBO (1 AUDINECE + 1 PERFORMMER)",
+            "url": "https://www.skillboxes.com/events/ticket/open-mic-1"
+         }
+      ],
+      "startDate": "2024-10-12T15:00:00",
+      "url": "https://www.skillboxes.com/events/open-mic-1"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Expert Event presents Kv5 DubaiSat, 26-Oct-2024First Time In Bangalore!",
       "endDate": "2024-10-26T23:59:00",
@@ -382,41 +498,6 @@
       ],
       "startDate": "2024-10-26T20:00:00",
       "url": "https://www.skillboxes.com/events/expert-event-presents-kv5-dubai"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Skydeck TV: Immerse Yourself in Sound and Vision!Get ready for a mind-blowing audiovisual experience at Skydeck by Sherlock's this Sunday! \"Skydec",
-      "endDate": "2024-10-06T23:59:00",
-      "identifier": "com.skillboxes.16211",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727955886FfsHrpmAI1JqRl4h.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750296",
-            "longitude": "77.6075339"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "SKYDECK TV | DJ NIGHT | AUDIO-VISUAL EXPERIENCE",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Get a complimentary Beer or a Mocktail on every booking!\n",
-            "inventoryLevel": 100,
-            "name": "Entry Charge",
-            "url": "https://www.skillboxes.com/events/ticket/skydeck-tv-dj-night-audio-visual-experience-5"
-         }
-      ],
-      "startDate": "2024-10-06T20:00:00",
-      "url": "https://www.skillboxes.com/events/skydeck-tv-dj-night-audio-visual-experience-5"
    },
    {
       "@context": "https://schema.org",
