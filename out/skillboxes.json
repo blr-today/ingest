@@ -338,6 +338,54 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Expert Event presents Kv5 DubaiSat, 26-Oct-2024First Time In Bangalore!",
+      "endDate": "2024-10-26T23:59:00",
+      "identifier": "com.skillboxes.16214",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17280217687AFZtT5XMCNREYTK.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "296, 7th Cross Road, Domlur Layout Stage 1, Domlur Bengaluru, 560071 Karnataka India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.957501",
+            "longitude": "77.6440962"
+         },
+         "name": "Hotel Royal Orchid"
+      },
+      "name": "Expert Event presents Kv5 Dubai",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Ticket (Female)",
+            "url": "https://www.skillboxes.com/events/ticket/expert-event-presents-kv5-dubai"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Ticket (Male)",
+            "url": "https://www.skillboxes.com/events/ticket/expert-event-presents-kv5-dubai"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Ticket (Couple)",
+            "url": "https://www.skillboxes.com/events/ticket/expert-event-presents-kv5-dubai"
+         }
+      ],
+      "startDate": "2024-10-26T20:00:00",
+      "url": "https://www.skillboxes.com/events/expert-event-presents-kv5-dubai"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Skydeck TV: Immerse Yourself in Sound and Vision!Get ready for a mind-blowing audiovisual experience at Skydeck by Sherlock's this Sunday! \"Skydec",
       "endDate": "2024-10-06T23:59:00",
       "identifier": "com.skillboxes.16211",
