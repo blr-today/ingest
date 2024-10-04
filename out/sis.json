@@ -265,44 +265,6 @@
     ]
   },
   {
-    "name": "Footy Gamenight with the Sisters and Misters",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.in/session_details/football/FootyWomensGamenight",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.in"
-    },
-    "sport": "Football",
-    "description": "Hey Sisters and Misters\u00a0 \nThese game nights are 90 minutes of complete game time. It will be a 5v5 game with substitutes. The reason we are doing this is to give you amazing women more match-based experience in football and to have high-intensity games, which definitely improves that! \nPlease note that you must have some prior experience with the basics of football.\u00a0 \nJoin us! It's going to be a blast! \nAishwarya Bharathi \n9738012622",
-    "image": "https://sistersinsweat.in/products/2a9d121cd9c3a1832bb6d2cc6bd7a8a71726592216IMG-20240917-WA0012.jpg",
-    "location": {
-      "name": "RUSH Arena Jaibharath Nagar",
-      "address": "D Costa Layout,  Maruthi Sevanagar,  Bengaluru,  Karnataka 560084",
-      "type": "Place"
-    },
-    "startDate": "2024-10-08T20:00:00+05:30",
-    "endDate": "2024-10-08T21:30:00+05:30",
-    "offers": [
-      {
-        "price": 305,
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
     "name": "B'ball with the Sisters and Misters",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.in/session_details/basketball/Bball Gameday with the Sisters and Misters",
@@ -336,6 +298,44 @@
     "offers": [
       {
         "price": 495,
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "name": "Footy Gamenight with the Sisters and Misters",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session_details/football/FootyWomensGamenight",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Football",
+    "description": "Hey Sisters and Misters\u00a0 \nThese game nights are 90 minutes of complete game time. It will be a 5v5 game with substitutes. The reason we are doing this is to give you amazing women more match-based experience in football and to have high-intensity games, which definitely improves that! \nPlease note that you must have some prior experience with the basics of football.\u00a0 \nJoin us! It's going to be a blast! \nAishwarya Bharathi \n9738012622",
+    "image": "https://sistersinsweat.in/products/2a9d121cd9c3a1832bb6d2cc6bd7a8a71726592216IMG-20240917-WA0012.jpg",
+    "location": {
+      "name": "RUSH Arena Jaibharath Nagar",
+      "address": "D Costa Layout,  Maruthi Sevanagar,  Bengaluru,  Karnataka 560084",
+      "type": "Place"
+    },
+    "startDate": "2024-10-08T20:00:00+05:30",
+    "endDate": "2024-10-08T21:30:00+05:30",
+    "offers": [
+      {
+        "price": 305,
         "priceCurrency": "INR"
       }
     ]
