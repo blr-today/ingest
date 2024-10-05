@@ -287,6 +287,100 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "The most trending pop up in town is back this Halloween - CrossOver with the Anjunadeep sensation ANYASA live at Kitty Ko - Bengaluru this 27th Octobe",
+      "endDate": "2024-10-28T01:00:00",
+      "identifier": "com.skillboxes.16235",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZVJFQVRpVTBsMllXRzVHODl3QUhuUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17281400617Blyd8I1w1aJ15YV.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "CrossOver Halloween ft. ANYASA | 27th Oct | Kitty Ko",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles entry for 1 Female throughout the event\n",
+            "inventoryLevel": 100,
+            "name": "Female - Pass",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-halloween-ft-anyasa-27th-oct-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles entry for 1 Male  throughout the event.\n",
+            "inventoryLevel": 100,
+            "name": "Male - Pass",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-halloween-ft-anyasa-27th-oct-kitty-ko"
+         }
+      ],
+      "startDate": "2024-10-27T20:00:00",
+      "url": "https://www.skillboxes.com/events/crossover-halloween-ft-anyasa-27th-oct-kitty-ko"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Hello Bangalore Party People ,Air Snare is here with its  bangalore Edition of Sorted Sounds Syndicate ,Headlining this edition is Bulgarian",
+      "endDate": "2024-10-12T23:59:00",
+      "identifier": "com.skillboxes.16234",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728138258wFrh6QyH7Opqwg4J.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd, Jayamahal, Bengaluru, Karnataka 560080, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.004424",
+            "longitude": "77.5848398"
+         },
+         "name": "PEBBLE The Jungle Lounge"
+      },
+      "name": "Dream State X Sorted Sounds Syndicate Ft. BULTECH",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Minimal covers applicable at gate  8 pm to 1 am\n",
+            "inventoryLevel": 100,
+            "name": "Female Pass",
+            "url": "https://www.skillboxes.com/events/ticket/dream-state-x-sorted-sounds-syndicate-ft-bultech"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Minimal covers applicable at gate  8 pm to 1 am\n",
+            "inventoryLevel": 100,
+            "name": "Male Pass",
+            "url": "https://www.skillboxes.com/events/ticket/dream-state-x-sorted-sounds-syndicate-ft-bultech"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Minimal covers applicable at gate  8 pm to 1 am\n",
+            "inventoryLevel": 100,
+            "name": "Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/dream-state-x-sorted-sounds-syndicate-ft-bultech"
+         }
+      ],
+      "startDate": "2024-10-12T19:00:00",
+      "url": "https://www.skillboxes.com/events/dream-state-x-sorted-sounds-syndicate-ft-bultech"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "19th Oct, HISTORY will be made.Some of the finest musicians from Bangalore and Chennai are coming together to pay homage with a musical tribute to a w",
       "endDate": "2024-10-19T22:00:00",
       "identifier": "com.skillboxes.16230",
@@ -352,41 +446,6 @@
       ],
       "startDate": "2024-10-06T18:00:00",
       "url": "https://www.skillboxes.com/events/pangeo-chronicle-sunday"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Oktoberfest Beer & Cheer Party: A Night of Unforgettable Fun!Get ready to immerse yourself in the Bavarian spirit at the Oktoberfest Beer & Ch",
-      "endDate": "2024-10-05T23:59:00",
-      "identifier": "com.skillboxes.16228",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728077326W1e0Ob8fhlkLGSgM.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750296",
-            "longitude": "77.6075339"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "Oktoberfest Beer & Cheer Party: A Night of Unforgettable Fun",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Get a complimentary Beer or a Mocktail on every booking!\n",
-            "inventoryLevel": 100,
-            "name": "Entry Charge",
-            "url": "https://www.skillboxes.com/events/ticket/oktoberfest-beer-cheer-party-a-night-of-unforgettable-fun"
-         }
-      ],
-      "startDate": "2024-10-05T20:00:00",
-      "url": "https://www.skillboxes.com/events/oktoberfest-beer-cheer-party-a-night-of-unforgettable-fun"
    },
    {
       "@context": "https://schema.org",
@@ -496,7 +555,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/bollywood-bhangra-night"
          }
@@ -764,47 +823,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "THE  BOLLYWOOD LIGHT'S OUT SATURDAY NIGHT'S ON OCTOBER 5TH STARTING AT 8:00 P.M., MACAW BY STORIES SINGASANDRA.WILL HOST BOLLYWOOD-EDM MUSIC EVEN",
-      "endDate": "2024-10-05T23:59:00",
-      "identifier": "com.skillboxes.16190",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727801585112TlyjHCIOgqkgo.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No 2224 , 2225 AECS Layout Singasandra Hosur, Service Rd, Srinivasa Nagar, Hal Layout, Singasandra, Bengaluru, Karnataka 560068, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.8842461",
-            "longitude": "77.6434432"
-         },
-         "name": "Macaw By Stories"
-      },
-      "name": "LIGHT'S OUT SATURDAY NIGHT'S",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Couple RSVP Pass",
-            "url": "https://www.skillboxes.com/events/ticket/bollywood-light-s-out-saturday-night-s-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Female RSVP Pass",
-            "url": "https://www.skillboxes.com/events/ticket/bollywood-light-s-out-saturday-night-s-1"
-         }
-      ],
-      "startDate": "2024-10-05T20:00:00",
-      "url": "https://www.skillboxes.com/events/bollywood-light-s-out-saturday-night-s-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "Bengaluru\n is set to witness a musical extravaganza as part of legendary Padmashri\n Hariharan's \"be-Misaal\" India tour. Celebrating an",
       "endDate": "2024-11-09T23:59:00",
       "identifier": "com.skillboxes.16186",
@@ -894,118 +912,6 @@
       ],
       "startDate": "2024-10-18T06:00:00",
       "url": "https://www.skillboxes.com/events/sinfonia-music-club-2-am-by-arctic-monkeys"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Bengaluru, get ready to groove!! It's gonna be pure Progressive house this weekend! The Burrow Presents Haen, Flipknob, Monovid & Bassosaurus",
-      "endDate": "2024-10-05T23:57:00",
-      "identifier": "com.skillboxes.16182",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727775029PPku9VqTzbiOrQwc.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9849438",
-            "longitude": "77.5808105"
-         },
-         "name": "The Burrow"
-      },
-      "name": "The Burrow Presents Haen, Flipknob, Monovid & Bassosaurus b2b 37th Mile",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges apply post 9:30 PM\n",
-            "inventoryLevel": 450,
-            "name": "The Burrow Presents Haen, Flipknob, Monovid & Bassosaurus b2b 37th Mile",
-            "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-haen-flipknob-monovid-bassosaurus-b2b-37th-mile"
-         }
-      ],
-      "startDate": "2024-10-05T20:00:00",
-      "url": "https://www.skillboxes.com/events/the-burrow-presents-haen-flipknob-monovid-bassosaurus-b2b-37th-mile"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Redroom_BLRFridays FeaturingMAR+MER(MONABERRY / TAU / RADIANT)ARTBLOTFriday 4th October 2024 | 7PM onwards,At Kitty Ko ( Lalit Ashok Bangalore )M",
-      "endDate": "2024-10-05T01:00:00",
-      "identifier": "com.skillboxes.16178",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727769199AE5EynFOi70Oaolp.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Redroom Ft. Mar+Mer at Kitty Ko Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to 1 Female, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
-            "inventoryLevel": 1000,
-            "name": "Early Bird Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-mar-mer-at-kitty-ko-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to 1 Couple, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
-            "inventoryLevel": 999,
-            "name": "Early Bird Couple Pass",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-mar-mer-at-kitty-ko-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to 1 Couple, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
-            "inventoryLevel": 994,
-            "name": "Early Bird Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-mar-mer-at-kitty-ko-bangalore"
-         }
-      ],
-      "startDate": "2024-10-04T19:00:00",
-      "url": "https://www.skillboxes.com/events/redroom-ft-mar-mer-at-kitty-ko-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "What’s up music fam! Join us this Friday 04th OCT 8PM onwards at I-BAR The Park Bangalore.ELECTRIC BOOGE !Featuring: SHIVA PRAYOJAN | CHAN ",
-      "endDate": "2024-10-05T01:00:00",
-      "identifier": "com.skillboxes.16170",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/172771914808JzI11Eqc1e2uOy.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "DJ/Producer"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "iBAR, THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9740179",
-            "longitude": "77.619422"
-         },
-         "name": "i-Bar THE Park Bangalore"
-      },
-      "name": "ELECTRIC BOOGE !",
-      "offers": [ ],
-      "startDate": "2024-10-04T20:00:00",
-      "url": "https://www.skillboxes.com/events/electric-booge-9"
    },
    {
       "@context": "https://schema.org",
@@ -1214,32 +1120,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Mingle Nights Music Event at Mollys Rooftop Bar and LoungeJoin us for an exciting evening at Mollys Rooftop Bar and Lounge in Indiranagar, Bengaluru, ",
-      "endDate": "2024-10-05T01:00:00",
-      "identifier": "com.skillboxes.16147",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b09PVUJNY1BZcjg3OE1Gbm1jTmM3Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727680421cgU9Q8lJVAhLUYeJ.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28.4524744",
-            "longitude": "77.0727299"
-         },
-         "name": "Mollys Rooftop Bar and Lounge"
-      },
-      "name": "MINGLE NIGHTS",
-      "offers": [ ],
-      "startDate": "2024-10-04T19:00:00",
-      "url": "https://www.skillboxes.com/events/mingle-nights"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "Hello Bangalore!Join us on 05th OCT 8PM onwards this Saturday to witness another crazy live performance.CLUB CODE SATURDAY / BOLLY - TECH EDITION !Ste",
       "endDate": "2024-10-06T01:00:00",
       "identifier": "com.skillboxes.16142",
@@ -1325,40 +1205,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Get geared up for a significant night as Sly Granny's #housepartyseries hosts India’s finest house music DJ, a true veteran of the scene! Join u",
-      "endDate": "2024-10-05T23:59:00",
-      "identifier": "com.skillboxes.16130",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727597298mS8yRwBc93N3cRhR.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9705141",
-            "longitude": "77.6464228"
-         },
-         "name": "Sly Granny, Indiranagar"
-      },
-      "name": "House Party Series Ft Sindhi Curry, Ravy, Troubadour & Chan",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 56,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/sly-granny-presents-house-party-series-ft-sindhi-curry-ravy-troubadour-chan"
-         }
-      ],
-      "startDate": "2024-10-05T20:00:00",
-      "url": "https://www.skillboxes.com/events/sly-granny-presents-house-party-series-ft-sindhi-curry-ravy-troubadour-chan"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "Are you ready to INDULGE with us Bangalore? catch our homegrown artist Jonas Monteiro live for an extended set at 7 Rivers Brewing Company this Saturd",
       "endDate": "2024-10-06T01:00:00",
       "identifier": "com.skillboxes.16118",
@@ -1398,32 +1244,6 @@
       ],
       "startDate": "2024-10-05T20:00:00",
       "url": "https://www.skillboxes.com/events/indulge-ft-jonas-monteiro-5th-oct-seven-rivers-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Get ready for the Official After Party of the biggest music festival in the country- Alan Walker (Sunburn Festival)! This Friday, experience an electr",
-      "endDate": "2024-10-05T01:00:00",
-      "identifier": "com.skillboxes.16103",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17275065725VVII6S6Y7AzQjEl.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0122829",
-            "longitude": "77.5561431"
-         },
-         "name": "High Ultra Lounge"
-      },
-      "name": "Alan Walker After Party ft. Siana Catherine | 4th Oct | HIGH",
-      "offers": [ ],
-      "startDate": "2024-10-04T20:00:00",
-      "url": "https://www.skillboxes.com/events/alan-walker-after-party-ft-siana-catherine-4th-oct-high"
    },
    {
       "@context": "https://schema.org",
@@ -1724,48 +1544,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "🎤 Mic Drop at Starbucks every saturday 🌟 Join us for an evening of songs, poetry, and standup comedy. Whether you're a perfo",
-      "endDate": "2024-10-05T19:00:00",
-      "identifier": "com.skillboxes.16045",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727327472ewHZPOIlc172vCOE.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9711356",
-            "longitude": "77.598164"
-         },
-         "name": "Starbucks"
-      },
-      "name": "Mic Drop - Open Mic By BlrGrooveCo",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Limited free guest slots\n",
-            "inventoryLevel": 1,
-            "name": "Guest",
-            "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 5,
-            "name": "Performer Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-3"
-         }
-      ],
-      "startDate": "2024-10-05T17:00:00",
-      "url": "https://www.skillboxes.com/events/mic-drop-open-mic-by-blrgrooveco-3"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Kalyan Sabareeshan is a Musician & a Magician who has been actively performing across Bangalore over the last 2 years. He has been composing music",
       "endDate": "2024-10-06T20:00:00",
@@ -1824,40 +1602,6 @@
       ],
       "startDate": "2024-10-03T20:00:00",
       "url": "https://www.skillboxes.com/events/glam-garba-night-indiranagar-biggest-dandiya-event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Join us for 'LURU BEATS, an exciting acoustic music festival happening at various Starbucks outlets across the city! Every Saturday and Sunday, experi",
-      "endDate": "2024-10-05T20:00:00",
-      "identifier": "com.skillboxes.16017",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727422905hQ1AoPzZsoAwefWU.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "55 & 51 Ground Prestige Rr Building MG Road, Church St, near Anjappar Chettinad Restaurant, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9752166",
-            "longitude": "77.604164"
-         },
-         "name": "Starbucks"
-      },
-      "name": "Luru Beats - Ep#1 ft. DAYVE + Floating Folks",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 25,
-            "name": "Regular Entry",
-            "url": "https://www.skillboxes.com/events/ticket/luru-beats-Floating-Folks-Ep-1"
-         }
-      ],
-      "startDate": "2024-10-05T17:00:00",
-      "url": "https://www.skillboxes.com/events/luru-beats-Floating-Folks-Ep-1"
    },
    {
       "@context": "https://schema.org",
@@ -2002,116 +1746,6 @@
       ],
       "startDate": "2024-10-11T18:00:00",
       "url": "https://www.skillboxes.com/events/disco-dandiya-vol-4-bengaluru"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "SoulSelekts Ft Laya Live at Bengaluru🎶 Live Performance by LAYA at Ottoman Restobar 🎶Get ready for an unforgettable night of musi",
-      "endDate": "2024-10-05T23:59:00",
-      "identifier": "com.skillboxes.15947",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/eUNyeHBvMU9oVm1MRGhiV3VZYVFKUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17268536935jc8E86s9dpMfuuG.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "4th Floor, Ganapa Tower, Bellandur, Bengaluru, Karnataka 560103, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9245948",
-            "longitude": "77.673019"
-         },
-         "name": "Ottoman Restobar"
-      },
-      "name": "SoulSelekts Ft Laya Live in Bengaluru",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 14,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/soulselekts-ft-laya-live-in-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 10,
-            "name": "Stag - Male",
-            "url": "https://www.skillboxes.com/events/ticket/soulselekts-ft-laya-live-in-bengaluru"
-         }
-      ],
-      "startDate": "2024-10-05T20:00:00",
-      "url": "https://www.skillboxes.com/events/soulselekts-ft-laya-live-in-bengaluru"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Indie Grrrl and Little Sounds bring to you - Indie Sounds, a house gig series to spotlight some incredible talent in the country! Our house gigs ",
-      "endDate": "2024-10-05T19:00:00",
-      "identifier": "com.skillboxes.15917",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Y0hMQTdRY1VFRVM0UHpYT2hsZFBKQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727101166KJsYsEfEW2DAZTwh.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "258, 1st Cross, 10th Main Rd, HAL 2nd Stage, Stage 3, Indiranagar, Bengaluru, Karnataka 560038, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9745637",
-            "longitude": "77.6403011"
-         },
-         "name": "B3, Cedar Crest Apartments"
-      },
-      "name": "Indie Sounds - An IG X LS House Gig | Oct 2024",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 4,
-            "name": "Indie Sounds Access",
-            "url": "https://www.skillboxes.com/events/ticket/indie-sounds-an-ig-x-ls-house-gig-oct-2024"
-         }
-      ],
-      "startDate": "2024-10-05T16:00:00",
-      "url": "https://www.skillboxes.com/events/indie-sounds-an-ig-x-ls-house-gig-oct-2024"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Ananth Menon will perform an original blues rock set as The RubberBiscuit Project, including songs from the EP Newly Strange Old Familiar (artist: Rub",
-      "endDate": "2024-10-05T23:00:00",
-      "identifier": "com.skillboxes.15914",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Ujl0ckJzNXo5TnRBWGdoT1VsTjNIUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726771807ywhb2TNBBItxihHs.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "1st Main Cross",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9240906",
-            "longitude": "77.6366457"
-         },
-         "name": "The Raft"
-      },
-      "name": "The Rubber Biscuit Project by Ananth Menon",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Featuring: Pradip Ramanathan, Kaushik Kumar, John Melvin\nSupport original music!",
-            "inventoryLevel": 186,
-            "name": "The Rubber Biscuit Project by Ananth Menon",
-            "url": "https://www.skillboxes.com/events/ticket/the-rubber-biscuit-project-by-ananth-menon"
-         }
-      ],
-      "startDate": "2024-10-05T20:30:00",
-      "url": "https://www.skillboxes.com/events/the-rubber-biscuit-project-by-ananth-menon"
    },
    {
       "@context": "https://schema.org",
@@ -3523,49 +3157,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Introducing mosaic. : an all-day celebration of art, music, and creativity, curated by Entente.fm, Say Less and Soul Kollektiv. Over the pas",
-      "endDate": "2024-10-05T22:00:00",
-      "identifier": "com.skillboxes.15809",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SzhDZlRMMVQxV3IvMFRQWWZNaXlkUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726668586jtIvDFtMMp5BC1o9.png.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Avalahalli, Bengaluru, Karnataka 560064, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.1268436",
-            "longitude": "77.5665357"
-         },
-         "name": "Jinvara"
-      },
-      "name": "mosaic.",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Admits 1\n",
-            "inventoryLevel": 18,
-            "name": "Phase 1 - Single",
-            "url": "https://www.skillboxes.com/events/ticket/mosaic"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "Admits 1\n",
-            "inventoryLevel": 0,
-            "name": "Limited Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/mosaic"
-         }
-      ],
-      "startDate": "2024-10-05T12:00:00",
-      "url": "https://www.skillboxes.com/events/mosaic"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "RED LIVE in concert with Shankar Ehsaan Loy by Superhits 93.5 RED FM.\r\n\r\n \r\n\r\nPrepare to be swept off your feet by the legendary trio of Shankar ",
       "endDate": "2024-12-21T23:59:00",
       "identifier": "com.skillboxes.15750",
@@ -3800,75 +3391,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "INCOMING 🇮🇳 Swedish DJ/Producer ‘ Diorange’ behind the chart-topping anthem \"Ali Ali\" with A R Rahman & Nooran Sisters",
-      "endDate": "2024-10-05T23:59:00",
-      "identifier": "com.skillboxes.15587",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17266663318la6HE3U90lcw7yR.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "968, 3rd & 4th Floor, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9699636",
-            "longitude": "77.6391935"
-         },
-         "name": "Secret Story Bar & Kitchen"
-      },
-      "name": "Offline x Nightvibe presents Diorange in Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges to be applicable post 10:30 pm\n",
-            "inventoryLevel": 139,
-            "name": "Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/offline-x-nightvibe-presents-diorange-in-bangalore"
-         }
-      ],
-      "startDate": "2024-10-05T20:00:00",
-      "url": "https://www.skillboxes.com/events/offline-x-nightvibe-presents-diorange-in-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Meet old friends and new as Motojojo brings back its Good Ol’ Gatherings after a well-earned hiatus. Join us for an intimate evening of communit",
-      "endDate": "2024-10-05T23:59:00",
-      "identifier": "com.skillboxes.15536",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727425681Qk51UCRVQOSV5C5M.png.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Community"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0191445",
-            "longitude": "77.6464534"
-         },
-         "name": "HRBR Layout"
-      },
-      "name": "Motojojo’s Good Ol’ Gathering || Bengaluru",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 29,
-            "name": "Entry Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/motojojo-s-good-ol-gathering-Bengaluru"
-         }
-      ],
-      "startDate": "2024-10-05T19:30:00",
-      "url": "https://www.skillboxes.com/events/motojojo-s-good-ol-gathering-Bengaluru"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "Event",
       "description": "About the EventJoin us for an extraordinary celebration on October 11th & 12th, 2024, at APS College Grounds, Basavanagudi!✨ What to Expect",
       "endDate": "2024-10-12T22:00:00",
@@ -3994,40 +3516,6 @@
       ],
       "startDate": "2024-10-06T18:30:00",
       "url": "https://www.skillboxes.com/events/disco-dandiya-night-navratri-2024"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Join us on Saturday, October 5th, for a captivating event that embodies the spirit of Namma Bengaluru! Deepavali Sante is not just a celebration; it's",
-      "endDate": "2024-10-05T22:00:00",
-      "identifier": "com.skillboxes.14993",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SksyQ2lKS2NEa0FJa0p0Rkg1Q20wdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1723462291aO1l9hMr8hJNHrXg.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "The Tamarind Tree",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12",
-            "longitude": "77"
-         },
-         "name": "The Tamarind tree"
-      },
-      "name": "Deepavali Sante 2024 | Dasara Festive | Diwali Flea Market & Live Music Concert | Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Regular Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/deepavali-sante-2024-dasara-festive-diwali-flea-market-live-music-concert-bangalore"
-         }
-      ],
-      "startDate": "2024-10-05T10:00:00",
-      "url": "https://www.skillboxes.com/events/deepavali-sante-2024-dasara-festive-diwali-flea-market-live-music-concert-bangalore"
    },
    {
       "@context": "https://schema.org",
