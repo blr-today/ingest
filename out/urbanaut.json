@@ -1458,7 +1458,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1512,7 +1512,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 65,
-    "remainingAttendeeCapacity": 41,
+    "remainingAttendeeCapacity": 35,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1611,7 +1611,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 3,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1662,7 +1662,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1737,58 +1737,6 @@
     "url": "https://urbanaut.app/spot/the-analog-club",
     "keywords": [
       "Leisure",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Pujo Platter",
-    "description": "As our next pop-up, we bring to you The Pujo Platter by Madhumita PyneMadhumita is a food revivalist and specialises in heritage food from Bengal. You will get to savour her pujo feast with everyday specials of Durga Pujo.Join us for this special pop-up, that will showcase the different flavours and techniques of Bengali cuisine, from the uber-popular Kolkata street foods to little-known dishes originating in the kitchens of the Tagore family.On Ashtami and Navami, there's a special treat of Khichuri, Labra and bhaja for those missing Bhog.MENU: Welcome DrinkAam Pora SharbatStarterMochar chop (banana flower croquette)Karaishutir kachori - Alur dom (peas kachori with dum aloo)Chingrir chop (prawn croquetteFirst Plate (served with steamed rice)Chhanar paturi (banana leaf wrapped cottage cheese cooked in a coconut mustard paste)Bhetki paturi (banana leaf wrapped bhetki fish cooked in a coconut mustard paste)Second Plate (served with Bashanti Pulao)Chholar daler muthiya (chana dal dumpling curry)Kosha Mangsho (slow cooked mutton curry)Dessert Bhapa Doi (baked yogurt sweet)*Ashtami and Nanami we have optional Pandal Bhog for those missing out! (you can swap one of the mains for this)Bhoger KhichuriLabra5 types of Bhaja** Menu subject to slight changesTerms & Conditions:Please arrive punctually.Late arrivals may miss the first few courses.Booking Fee are non-refundable under all circumstances once booked. Tickets are transferrable to a third party.No shows/ cancellations will not be refunded, but you can reschedule your booking for within the week 48hrs before your slot is due.Alcohol will not be served to guests under the age of 21No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.The booking fee total includes the online transaction fee.Parking at the event premises is at the risk of the vehicle owner.Valet is available.Photographs and videos of ticket holders may be uploaded to social media. Incase you do not wish to be featured, let our team know.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FB17E7B3EA754325BE7C9325044C6194_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FA8EE35E652C4A16BD1B7E40D24753EA_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/91153DB1234D4E7EB9AD658F32744013_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B6E20333B0014C128F8414873C16F724_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/389911B32524475FA0D3B22826AE051B_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/254F1F13CDC540B599D7F4101A1EFBB1_converted_webp.webp"
-    ],
-    "startDate": "2024-10-09T19:30:00+05:30",
-    "endDate": "2024-10-09T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "1, Palace Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJx154PW0WrjsREG4GX2L3FuI",
-      "latitude": "12.98023500000000000000",
-      "longitude": "77.58606100000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 25,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2600.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Tijouri",
-      "description": null,
-      "url": "https://urbanaut.app/partner/tijouri",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/985742089C9A4D15B189CA4035297B9A_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97416-19560"
-      }
-    },
-    "url": "https://urbanaut.app/spot/the-pujo-platter#2024-10-09T1930",
-    "keywords": [
-      "Food & drink",
-      "Pop-up Event",
       "URBANAUT"
     ]
   },
@@ -2277,7 +2225,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
