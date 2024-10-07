@@ -1,7 +1,7 @@
 [
   {
     "@type": "EducationEvent",
-    "name": "Painting Science: Art and Science for Education",
+    "name": "Painting Science: Art + Science for Education",
     "location": {
       "@type": "Place",
       "name": "Science Gallery Bengaluru",
@@ -10,12 +10,37 @@
     },
     "startDate": "2024-10-13T11:00:00+05:30",
     "endDate": "2024-10-13T14:00:00+05:30",
-    "description": "Can science be effectively communicated through art? Where do the two fields intersect, and how can they offer us new ways to interrogate existing knowledge? Join Ravi Jambhekar in an exciting exploration of how visual media can bring scientific concepts to life. Through the lens of nature and natural history painting, Jambhekar will take us on a journey that bring together science and art!",
+    "description": "Can science be effectively communicated through art? Where do the two fields intersect, and how can they offer us new ways to interrogate existing knowledge? Join Ravi Jambhekar in an exciting exploration of how visual media can bring scientific concepts to life. Through the lens of nature and natural history painting, Jambhekar will take us on a journey that brings together science and art!",
     "url": "https://carbon.scigalleryblr.org/programmes?p=art-science-education",
     "performer": [
       {
         "@type": "Person",
         "name": "Ravi-Jambhekar"
+      }
+    ],
+    "maximumAttendeeCapacity": 50
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Digital Democracy: Leveraging Open Spatial Data for Civic Engagement",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2024-10-12T14:30:00+05:30",
+    "endDate": "2024-10-12T16:30:00+05:30",
+    "description": "In today\u2019s data-driven world, geospatial technologies are transforming how citizens engage with public issues. How then can we use publicly available data to promote transparency, inform decision-making, and empower citizens and communities to actively contribute to governance?<br>In this workshop, Indian Institute for Human Settlements (IIHS) Geospatial Lab will train participants on how to access and use freely available geospatial tools to visualise local issues, enhance public awareness, and contribute to civic initiatives. Whether you're a tech enthusiast, a student, or a concerned citizen, this session will provide you with practical skills to harness the potential of digital mapping for public good.<br><br>Participants are required to bring their own laptops for this event.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=digital-democracy",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Amruth-Kiran"
+      },
+      {
+        "@type": "Person",
+        "name": "Dhananjayan-M"
       }
     ],
     "maximumAttendeeCapacity": 50
