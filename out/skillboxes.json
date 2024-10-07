@@ -286,6 +286,74 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Sing with Navya",
+      "endDate": "2024-10-12T23:59:00",
+      "identifier": "com.skillboxes.16293",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728303199PU1pkaL6aHo8QrRa.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9313063",
+            "longitude": "77.6329297"
+         },
+         "name": "Bira 91 Taproom, Koramangala"
+      },
+      "name": "Sing with Navya",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "RSVP/ FREE PASS",
+            "url": "https://www.skillboxes.com/events/ticket/sing-with-navya"
+         }
+      ],
+      "startDate": "2024-10-12T20:30:00",
+      "url": "https://www.skillboxes.com/events/sing-with-navya"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "BIG NEWS ALERT - Hangover Indiranagar just leveled up your Wednesdays! Afro Pulse is here, and DJ Shruti is dropping the hottest Afro beats LIVE, star",
+      "endDate": "2024-10-09T23:59:00",
+      "identifier": "com.skillboxes.16278",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/L2orVENqQWFMWEtSMXlxdXJmazhWQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728292450HERIapwRkVNKozzB.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1080, 12th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9701702",
+            "longitude": "77.6383752"
+         },
+         "name": "Hangover Indiranagar"
+      },
+      "name": "Afro Pulse",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 150,
+            "name": "Afro Pulse",
+            "url": "https://www.skillboxes.com/events/ticket/afro-pulse"
+         }
+      ],
+      "startDate": "2024-10-09T20:00:00",
+      "url": "https://www.skillboxes.com/events/afro-pulse"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Celebrate Durga Puja and Dandiya Night with Fashion Storei Events! at Kings Court Gate No 5, Palace Grounds, BangaloreGet\n ready for an electrifyi",
       "endDate": "2024-10-10T23:30:00",
@@ -507,7 +575,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry permitted for one individual\nCover Charges Applicable at gate after 9pm",
-            "inventoryLevel": 14,
+            "inventoryLevel": 7,
             "name": "Early Birds",
             "url": "https://www.skillboxes.com/events/ticket/mixmag-presents-lab-bengaluru"
          }
@@ -713,7 +781,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 36,
+            "inventoryLevel": 25,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/musical-tribute-to-sanjay-chandrakanth"
          }
@@ -928,16 +996,9 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "No Cover from 4pm to 6pm\nBuy 1 Get 1 on beers from 5pm to 7pm",
-            "inventoryLevel": 50,
+            "description": "No cover till 6pm\n",
+            "inventoryLevel": 48,
             "name": "Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/cruisy-sundowner"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 150,
-            "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/cruisy-sundowner"
          }
       ],
