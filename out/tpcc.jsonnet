@@ -35,7 +35,7 @@
       "url": "https://maps.app.goo.gl/orRqJsJXN7h2pP6N9"
     },
     "link": null,
-    "date": "2024-10-06T14:00:12.452Z",
+    "date": "2024-10-13T14:00:00.000Z",
     "theme": "Book Reading",
     "city": "Bangalore",
     "title": "Pale Blue Dot",
