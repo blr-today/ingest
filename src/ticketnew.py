@@ -4,17 +4,34 @@ from datetime import datetime
 import csv
 
 BASE_URL = 'https://apiproxy.paytm.com/v3/movies/search'
-MOVIE_LIST_PATH = '/movies?version=3&site_id=6&channel=HTML5&child_site_id=370&client_id=ticketnew&clientId=ticketnew&city=bengaluru&mdp=1'
-SHOWS_PATH = '/movie?meta=1&city=bengaluru&reqData=1&version=3&site_id=6&channel=HTML5&child_site_id=370&client_id=ticketnew&clientId=ticketnew&movieCode='
-CINEMA_PATH = '/cinemas?version=3&site_id=6&channel=HTML5&child_site_id=370&client_id=ticketnew&clientId=ticketnew&city=bengaluru'
+MOVIE_LIST_PATH = '/movies'
+SHOWS_PATH = '/movie'
+CINEMA_PATH = '/cinemas'
+
+QUERY_PARAMS = {
+    "city": "bengaluru"
+}
 
 # Keys for csv files
 MOVIE_KEYS = [
     "title",
     "censorRating",
     "runtime",
-    "movieId"    
+    "movieId"
 ]
+
+LANGUAGE_TO_ISO_MAP = {
+    "Assamese": "as",
+    "English": "en",
+    "Hindi": "hi",
+    "Hinglish": "hi",
+    "Japanese": "ja",
+    "Kannada": "kn",
+    "Malayalam": "ml",
+    "Marathi": "mr",
+    "Tamil": "ta",
+    "Telugu": "te"
+}
 
 CINEMA_KEYS = [
     "theatreId",
@@ -36,11 +53,19 @@ SHOW_KEYS = [
     "endTime"
 ]
 
+
+def make_request(session, path, query={}):
+    url = f"{BASE_URL}{path}"
+    return session.get(url, params=QUERY_PARAMS | query).json()
+
+
 def fetch_movie_list(session):
-    res = session.get(f"{BASE_URL}{MOVIE_LIST_PATH}").json()
+    res = make_request(session, MOVIE_LIST_PATH, {"mdp": "1"})
     return res['data']['groupedMovies']
 
 # Codes are movie codes which coresponde to movie in a specific language. Required to fetch movie details
+
+
 def fetch_movies_and_codes(movie_list):
     movies = []
     codes = []
@@ -52,68 +77,59 @@ def fetch_movies_and_codes(movie_list):
             'runtime': movie_detail['duration'],
         }
 
-        codes += list(map(lambda x: x['fmtGrpId'], movie_detail['languageFormatGroups'])) 
+        codes += list(map(lambda x: x['fmtGrpId'], movie_detail['languageFormatGroups']))
 
         movies.append(movie)
 
     return [movies, codes]
 
+
 def fetch_shows(session, codes):
     shows = []
 
     for code in codes:
-        res = session.get(f"{BASE_URL}{SHOWS_PATH}{code}").json()
-        show_dates = res['data']['sessionDates']
+        show_dates = make_request(session, SHOWS_PATH, {"movieCode": code, "reqData": "1"})['data']['sessionDates']
 
         # Fetch shows for all the available future dates
         for show_date in show_dates:
-            res = session.get(f"{BASE_URL}{SHOWS_PATH}{code}&fromdate={show_date}").json()
+            show_data = make_request(session, SHOWS_PATH, {"movieCode": code, "fromdate": show_date, "reqData": "1", "meta": "1"})
 
-            shows_per_day = res['pageData']['sessions']
-
+            shows_per_day = show_data['pageData']['sessions']
 
             for cinema in shows_per_day.values():
                 for details in cinema:
-                    show = {
+                    shows.append({
                         'theatreId': details['cid'],
                         'startTime': datetime.strptime(details['showTime'], "%Y-%m-%dT%H:%M").isoformat(),
                         'endTime': datetime.strptime(details['closeTime'], "%Y-%m-%dT%H:%M").isoformat(),
                         'availableSeats': details['avail'],
                         'totalSeats': details['total'],
                         'screenName': details['audi'],
-                        'movieId': res['meta']['movies'][0]['contentId'],
-                        'language': res['meta']['movies'][0]['lang']
-                    }
-
-                    shows.append(show)
+                        'movieId': show_data['meta']['movies'][0]['contentId'],
+                        'language': LANGUAGE_TO_ISO_MAP[show_data['meta']['movies'][0]['lang']]
+                    })
 
     return shows
 
-# List of cinemas can be found using a single API call.
+
+"""
+List of cinemas can be found using a single API call.
+"""
+
+
 def fetch_cinemas(session):
-    res = session.get(f"{BASE_URL}{CINEMA_PATH}").json()
+    return [{'theatreId': cinema['id'],
+             'name': cinema['name'],
+             'cityname': cinema['city'],
+             'address': cinema['address'],
+             'latitude': cinema['lat'],
+             'longitude': cinema['lon']
+             } for cinema in make_request(session, CINEMA_PATH)['data']['cinemas']
+            ]
 
-    cinemas = []
-
-    cinema_list = res['data']['cinemas']
-
-    for item in cinema_list:
-        cinema = {
-            'theatreId': item['id'],
-            'name': item['name'],
-            'cityname': item['city'],
-            'address': item['address'],
-            'latitude': item['lat'],
-            'longitude': item['lon']
-        }
-
-        cinemas.append(cinema)
-
-    return cinemas
 
 def main():
     session = get_cached_session()
-
     cinemas = fetch_cinemas(session)
 
     movie_list = fetch_movie_list(session)
@@ -128,12 +144,12 @@ def main():
     ):
         movie_writer = csv.DictWriter(
             movies_file,
-            fieldnames = MOVIE_KEYS
+            fieldnames=MOVIE_KEYS
         )
 
         session_writer = csv.DictWriter(
             sessions_file,
-            fieldnames = SHOW_KEYS
+            fieldnames=SHOW_KEYS
         )
 
         cinema_writer = csv.DictWriter(
@@ -143,21 +159,17 @@ def main():
         )
 
         movie_writer.writeheader()
+        movie_writer.writerows(movies)
+
         session_writer.writeheader()
+        session_writer.writerows(shows)
+
         cinema_writer.writeheader()
-
-        for movie in movies:
-            movie_writer.writerow(movie)
-
-        for show in shows:
-            session_writer.writerow(show)
-
-        for cinema in cinemas:
-            cinema_writer.writerow(cinema)
-
+        cinema_writer.writerows(cinemas)
 
     print(f"[TicketNew] {len(cinemas)} cinemas")
     print(f"[TicketNew] {len(movies)} movies")
+
 
 if __name__ == '__main__':
     main()
