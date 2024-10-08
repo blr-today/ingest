@@ -129,7 +129,10 @@ out/adidas.json:
 	python src/adidas.py || $(call restore-file,$@)
 
 out/pvr-cinemas.csv:
-	python src/pvr.py || $(call restore-file,$@)
+	python src/pvr.py || $(call restore-file,$@) && $(call restore-file,"out/pvr-movies.csv") && $(call restore-file,"out/pvr-sessions.csv")
+
+out/ticketnew-cinemas.csv:
+	python src/ticketnew.py || $(call restore-file,$@) && $(call restore-file,"out/ticketnew-movies.csv") && $(call restore-file,"out/ticketnew-sessions.csv")
 
 out/trove.json:
 	python src/trove.py || $(call restore-file,$@)
@@ -189,6 +192,7 @@ fetch: out/allevents.txt \
  out/creativemornings.txt \
  out/adidas.json \
  out/pvr-cinemas.csv \
+ out/ticketnew-cinemas.csv \
  out/trove.json \
  out/aceofpubs.json \
  out/atta_galatta.json \
