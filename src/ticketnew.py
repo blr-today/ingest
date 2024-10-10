@@ -24,6 +24,15 @@ LANGUAGE_TO_ISO_MAP = {
     "Marathi": "mr",
     "Tamil": "ta",
     "Telugu": "te",
+    "Odia": "or",
+    "Punjabi": "pa",
+    "Gujarati": "gu",
+    "Bengali": "bn",
+    "Kashmiri": "ks",
+    "Sanskrit": "sa",
+    "Sindhi": "sd",
+    "Urdu": "ur",
+    "Nepali": "ne",
 }
 
 CINEMA_KEYS = [
@@ -113,9 +122,10 @@ def fetch_shows(session, codes):
                             "totalSeats": details["total"],
                             "screenName": details["audi"],
                             "movieId": show_data["meta"]["movies"][0]["contentId"],
-                            "language": LANGUAGE_TO_ISO_MAP[
+                            "language": LANGUAGE_TO_ISO_MAP.get(
+                                show_data["meta"]["movies"][0]["lang"],
                                 show_data["meta"]["movies"][0]["lang"]
-                            ],
+                            )
                         }
                     )
 
