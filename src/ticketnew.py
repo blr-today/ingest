@@ -105,7 +105,13 @@ def fetch_shows(session, codes):
                 {"movieCode": code, "fromdate": show_date, "reqData": "1", "meta": "1"},
             )
 
-            shows_per_day = show_data["pageData"]["sessions"]
+            try:
+                shows_per_day = show_data["pageData"]["sessions"]
+            except KeyError as e:
+                print(show_data.keys())
+                print(show_data)
+                shows_per_day = []
+                continue
 
             for cinema in shows_per_day.values():
                 for details in cinema:
