@@ -1,6 +1,6 @@
 import yaml
 import json
-from common.session import get_cached_session
+from common.fetch import Fetch
 
 # This is a hack to ignore Pet Fed India events
 # that happen in other cities
@@ -17,7 +17,7 @@ IGNORED_URL_SLUGS = [
 
 
 def get_event_urls(org_id):
-    session = get_cached_session()
+    session = Fetch(cache={"serializer": "json"})
     response = session.get(
         f"https://www.townscript.com/listings/event/upcoming/userId/{org_id}"
     )
