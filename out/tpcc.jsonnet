@@ -40,19 +40,5 @@
     "city": "Bangalore",
     "title": "Pale Blue Dot",
     "director": "Carl Sagan"
-  },
-  {
-    "id": "b979c9c9-d253-4eb4-b33b-066954465b55",
-    "image": "https://cdn.sanity.io/images/x2qnegor/production/399d4621b1877f6c69540d6ffc159542b513b92c-1080x1540.png",
-    "location": {
-      "name": "Underline Center",
-      "url": "https://maps.app.goo.gl/orRqJsJXN7h2pP6N9"
-    },
-    "link": "https://at.underline.center/rCpnR",
-    "date": "2024-10-08T14:15:00.000Z",
-    "theme": "Mani Kaul Retrospective",
-    "city": "Bangalore",
-    "title": "Indian Arts in Purgatory",
-    "director": "Mani Kaul"
   }
 ]
