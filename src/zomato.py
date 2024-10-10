@@ -50,6 +50,8 @@ def get_events(session, event_id):
             page_data = json.loads(d)
             events = page_data["entities"]["ZLIVE_EVENTS"]
             for x in events:
+                if len(events[x]) == 0:
+                    continue
                 startDate = fix_date(events[x]["startDate"])
 
                 # if date is in the future

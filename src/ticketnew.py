@@ -15,24 +15,24 @@ MOVIE_KEYS = ["title", "censorRating", "runtime", "movieId"]
 
 LANGUAGE_TO_ISO_MAP = {
     "Assamese": "as",
+    "Bengali": "bn",
     "English": "en",
+    "Gujarati": "gu",
     "Hindi": "hi",
     "Hinglish": "hi",
     "Japanese": "ja",
     "Kannada": "kn",
+    "Kashmiri": "ks",
     "Malayalam": "ml",
     "Marathi": "mr",
-    "Tamil": "ta",
-    "Telugu": "te",
+    "Nepali": "ne",
     "Odia": "or",
     "Punjabi": "pa",
-    "Gujarati": "gu",
-    "Bengali": "bn",
-    "Kashmiri": "ks",
     "Sanskrit": "sa",
     "Sindhi": "sd",
+    "Tamil": "ta",
+    "Telugu": "te",
     "Urdu": "ur",
-    "Nepali": "ne",
 }
 
 CINEMA_KEYS = [
@@ -109,6 +109,9 @@ def fetch_shows(session, codes):
 
             for cinema in shows_per_day.values():
                 for details in cinema:
+                    language = show_data["meta"]["movies"][0]["lang"]
+                    if language not in LANGUAGE_TO_ISO_MAP:
+                        print(f"[TICKETNEW] Unknown language: {language}", file=sys.stderr)
                     shows.append(
                         {
                             "theatreId": details["cid"],
@@ -123,8 +126,8 @@ def fetch_shows(session, codes):
                             "screenName": details["audi"],
                             "movieId": show_data["meta"]["movies"][0]["contentId"],
                             "language": LANGUAGE_TO_ISO_MAP.get(
-                                show_data["meta"]["movies"][0]["lang"],
-                                show_data["meta"]["movies"][0]["lang"]
+                                language,
+                                language
                             )
                         }
                     )

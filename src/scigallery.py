@@ -9,6 +9,7 @@ from common.tz import IST
 event_type_mapper = {
     "Film": "ScreeningEvent",
     "Lecture": "EducationEvent",
+    "AMA": "EducationEvent",
     "Tutorial": "EducationEvent",
     "Masterclass": "EducationEvent",
     "Performance": "VisualArtsEvent",
