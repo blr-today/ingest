@@ -4532,50 +4532,6 @@
     }
   },
   {
-    "name": "SCC SkyCinema - 10 Things I Hate About You",
-    "description": "\"You're just angry because I'm not impressed.\" - 10 Things I Hate About You\n\nPrepare to be entertained by the sharp dialogue and hilarious one-liners that define this film, making it a classic comedy for all ages. Starring Julia Stiles and Heath Ledger, this classic film captures the complexities of high school life, the pursuit of love, and the power of friendship at Chapter 6.\n\nSit back and relax on comfy bean bags and bask in the romance and nostalgia as you enjoy your favourite classics or discover new hidden gems. \n\nMovies and food make a great combination, so drinks and snacks, at reasonable prices, will be flowing from the moment the gates open.  \n\nEnjoy a super chill vibe in the lovely outdoors, as the sun dissolves and the stars appear just in time for the film to begin!",
-    "startDate": "2024-10-11T18:45:00+05:30",
-    "endDate": "2024-10-11T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC SkyCinema - 10 Things I Hate About You Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC SkyCinema - 10 Things I Hate About You Bengaluru on Zomato which is a Experiences event happening at Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b7d73acfad4555f3165f8b9da0d918c61727755250.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-10-things-i-hate-about-you-bengaluru-et52098/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-10-01 10:07:53",
-        "availability": "INSTOCK",
-        "inventory": 8
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-10-things-i-hate-about-you-bengaluru-et52098",
-    "id": "com.zomato.52098",
-    "location": {
-      "name": "Chapter 6",
-      "address": "Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93531356,
-        "longitude": 77.62135638
-      }
-    }
-  },
-  {
     "name": "SCC SkyCinema - Under The Tuscan Sun",
     "description": "\"Unthinkably good things can happen, even late in the game.\" - Under The Tuscan Sun \n\nEmbark on a journey to the sun-soaked landscapes of Italy as Sunset Cinema Club presents a special screening of the enchanting film, \"Under the Tuscan Sun.\" Join us for an evening of romance, self-discovery and the picturesque beauty of Tuscan dreams under the open sky at Chapter 6.\n\nSit back and relax on comfy bean bags and bask in the romance and nostalgia as you enjoy your favourite classics or discover new hidden gems. \n\nMovies and food make a great combination, so drinks and snacks, at reasonable prices, will be flowing from the moment the gates open.  \n\nEnjoy a super chill vibe in the lovely outdoors, as the sun dissolves and the stars appear just in time for the film to begin!",
     "startDate": "2024-10-18T18:45:00+05:30",
@@ -4660,50 +4616,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93531356,
         "longitude": 77.62135638
-      }
-    }
-  },
-  {
-    "name": "SCC Picnic Cinema - Rockstar",
-    "description": "\"Sheher ek se gaon ek se, Log ek se, naam ek\u201d - Rockstar\n\nGet ready to be swept away by the soulful melodies as Sunset Cinema Club brings you an unforgettable screening of Rockstar at Garden City Beer Collective (GCBC).\n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favorite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
-    "startDate": "2024-10-11T19:00:00+05:30",
-    "endDate": "2024-10-11T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC Picnic Cinema - Rockstar Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC Picnic Cinema - Rockstar Bengaluru on Zomato which is a Experiences event happening at Garden City Beer Collective (GCBC),82/2, Gantiganahalli, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/583d532493b3c16c2f331f450b339c4d1727755562.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-picnic-cinema-rockstar-bengaluru-et52102/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-10-01 10:07:55",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-picnic-cinema-rockstar-bengaluru-et52102",
-    "id": "com.zomato.52102",
-    "location": {
-      "name": "Garden City Beer Collective (GCBC)",
-      "address": "Garden City Beer Collective (GCBC),82/2, Gantiganahalli, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.14365198,
-        "longitude": 77.58441173
       }
     }
   },
