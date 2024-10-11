@@ -35,7 +35,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 149
+        "inventory": 141
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -43,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 348
+        "inventory": 344
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -51,15 +51,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 438
-      },
-      {
-        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
-        "price": 7560,
-        "currency": "INR",
-        "validFrom": "2024-10-04 11:30:00",
-        "availability": "INSTOCK",
-        "inventory": 31
+        "inventory": 436
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -67,7 +59,7 @@
         "currency": "INR",
         "validFrom": "2024-10-04 11:30:00",
         "availability": "INSTOCK",
-        "inventory": 34
+        "inventory": 32
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -91,7 +83,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 70
+        "inventory": 69
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -315,15 +307,15 @@
         "currency": "INR",
         "validFrom": "2024-10-06 18:31:00",
         "availability": "INSTOCK",
-        "inventory": 96
+        "inventory": 91
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
         "price": 799,
         "currency": "INR",
-        "validFrom": "2024-10-06 18:31:17",
+        "validFrom": "2024-10-06 18:31:00",
         "availability": "INSTOCK",
-        "inventory": 165
+        "inventory": 157
       },
       {
         "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
@@ -331,7 +323,15 @@
         "currency": "INR",
         "validFrom": "2024-10-10 17:53:01",
         "availability": "INSTOCK",
-        "inventory": 193
+        "inventory": 180
+      },
+      {
+        "url": "https://www.zomato.com/events/palace-dandiya-jalsa-bengaluru-et43987/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-10-06 18:31:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -389,7 +389,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 50
+        "inventory": 42
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -507,7 +507,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 1634
+        "inventory": 1625
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -515,7 +515,7 @@
         "currency": "INR",
         "validFrom": "2024-09-10 10:30:00",
         "availability": "SELLING_FAST",
-        "inventory": 1768
+        "inventory": 1752
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -523,7 +523,7 @@
         "currency": "INR",
         "validFrom": "2024-07-30 22:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 746
+        "inventory": 735
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -535,19 +535,11 @@
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 3999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 22:00:00",
-        "availability": "INSTOCK",
-        "inventory": 108
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
         "price": 5500,
         "currency": "INR",
         "validFrom": "2024-10-07 21:01:52",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 19
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -571,7 +563,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 21:01:53",
         "availability": "INSTOCK",
-        "inventory": 17
+        "inventory": 16
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -595,7 +587,15 @@
         "currency": "INR",
         "validFrom": "2024-10-07 21:01:54",
         "availability": "INSTOCK",
-        "inventory": 19
+        "inventory": 18
+      },
+      {
+        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
+        "price": 3999,
+        "currency": "INR",
+        "validFrom": "2024-07-30 22:00:00",
+        "availability": "INSTOCK",
+        "inventory": 108
       },
       {
         "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
@@ -817,14 +817,6 @@
         "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
         "price": 99,
         "currency": "INR",
-        "validFrom": "2024-09-14 20:39:31",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
-        "price": 99,
-        "currency": "INR",
         "validFrom": "2024-10-10 18:12:43",
         "availability": "INSTOCK",
         "inventory": 200
@@ -849,17 +841,9 @@
         "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
         "price": 299,
         "currency": "INR",
-        "validFrom": "2024-09-14 20:39:31",
-        "availability": "INSTOCK",
-        "inventory": 190
-      },
-      {
-        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
-        "price": 299,
-        "currency": "INR",
         "validFrom": "2024-10-10 18:12:43",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 182
       },
       {
         "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
@@ -922,7 +906,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:04",
         "availability": "INSTOCK",
-        "inventory": 2490
+        "inventory": 2486
       },
       {
         "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
@@ -930,7 +914,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:05",
         "availability": "INSTOCK",
-        "inventory": 2488
+        "inventory": 2486
       },
       {
         "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
@@ -938,7 +922,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:05",
         "availability": "INSTOCK",
-        "inventory": 2992
+        "inventory": 2990
       }
     ],
     "performers": [],
@@ -958,50 +942,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.99755663,
         "longitude": 77.59742123
-      }
-    }
-  },
-  {
-    "name": "AnyBody Can Dandiya 4.0 | White Feather",
-    "description": "Bangalore`s most popular & award-winning Durga Puja meets Bangalore`s most loved Dandiya celebration. ECCA & DesiClans come together to present you with an incredible socio-cultural dance fest in the form of `AnyBody Can Dandiya 4.0`.\n\nJust like our previous editions DesiClans brings the traditional Navratri experience on a grandeur and more luxurious scale. The best practices from the land of Dandiya - Gujarat brought down to the Silicon Valley of India - Bangalore.\n\nWe will showcase various types of Garba Dandiya Folk Dance and delicious Indian food items in a mesmerizing setting at White Feather Electronic City Road on 11th October.\nGet ready to be captivated by the enchanting beats of dhol swirling colors of traditional attire & joyous spirit of Navratri.",
-    "startDate": "2024-10-11T19:00:00+05:30",
-    "endDate": "2024-10-12T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "AnyBody Can Dandiya 4.0 | White Feather Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for AnyBody Can Dandiya 4.0 | White Feather Bengaluru on Zomato which is a Music and Trending event happening at NICE Toll Gate, Santara Magan Place Phase I, 40/41-1, Hobli-Begur, opposite METRO WHOLESALE, Electronic City, Beratena Agrahara, Bengaluru, Karnataka 560092",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/77293d743d5dcd0a0a7571d0e3b20c211725441989.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023/details",
-        "price": 149,
-        "currency": "INR",
-        "validFrom": "2024-10-07 20:32:00",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/anybody-can-dandiya-40-white-feather-bengaluru-et51023",
-    "id": "com.zomato.51023",
-    "location": {
-      "name": "White Feather",
-      "address": "NICE Toll Gate, Santara Magan Place Phase I, 40/41-1, Hobli-Begur, opposite METRO WHOLESALE, Electronic City, Beratena Agrahara, Bengaluru, Karnataka 560092",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.86069269,
-        "longitude": 77.66069157
       }
     }
   },
@@ -1026,7 +966,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:46",
         "availability": "INSTOCK",
-        "inventory": 22
+        "inventory": 20
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -1042,7 +982,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:47",
         "availability": "INSTOCK",
-        "inventory": 45
+        "inventory": 37
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -1304,7 +1244,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9983
+        "inventory": 9979
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -1354,41 +1294,9 @@
         "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
         "price": 49,
         "currency": "INR",
-        "validFrom": "2024-09-20 22:28:48",
-        "availability": "INSTOCK",
-        "inventory": 498
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 49,
-        "currency": "INR",
-        "validFrom": "2024-09-20 22:28:52",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 49,
-        "currency": "INR",
         "validFrom": "2024-09-20 22:28:56",
         "availability": "INSTOCK",
-        "inventory": 499
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 149,
-        "currency": "INR",
-        "validFrom": "2024-09-20 22:28:49",
-        "availability": "INSTOCK",
-        "inventory": 492
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 149,
-        "currency": "INR",
-        "validFrom": "2024-09-20 22:28:53",
-        "availability": "INSTOCK",
-        "inventory": 495
+        "inventory": 497
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
@@ -1396,37 +1304,13 @@
         "currency": "INR",
         "validFrom": "2024-09-20 22:28:56",
         "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 199,
-        "currency": "INR",
-        "validFrom": "2024-09-20 22:28:49",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 199,
-        "currency": "INR",
-        "validFrom": "2024-09-20 22:28:53",
-        "availability": "INSTOCK",
-        "inventory": 500
+        "inventory": 495
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
         "price": 199,
         "currency": "INR",
         "validFrom": "2024-09-20 22:28:57",
-        "availability": "INSTOCK",
-        "inventory": 499
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-20 22:28:50",
         "availability": "INSTOCK",
         "inventory": 495
       },
@@ -1434,33 +1318,9 @@
         "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
         "price": 299,
         "currency": "INR",
-        "validFrom": "2024-09-20 22:28:54",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 299,
-        "currency": "INR",
         "validFrom": "2024-09-20 22:28:57",
         "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-09-20 22:28:50",
-        "availability": "INSTOCK",
-        "inventory": 499
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-09-20 22:28:54",
-        "availability": "INSTOCK",
-        "inventory": 500
+        "inventory": 497
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
@@ -1474,39 +1334,7 @@
         "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
         "price": 1399,
         "currency": "INR",
-        "validFrom": "2024-09-20 22:28:51",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 1399,
-        "currency": "INR",
-        "validFrom": "2024-09-20 22:28:54",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 1399,
-        "currency": "INR",
         "validFrom": "2024-09-20 22:28:58",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-09-20 22:28:51",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-09-20 22:28:55",
         "availability": "INSTOCK",
         "inventory": 500
       },
@@ -1515,22 +1343,6 @@
         "price": 1999,
         "currency": "INR",
         "validFrom": "2024-09-20 22:28:59",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-09-20 22:28:52",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-dandiya-mahotsava-season-6-bengaluru-et51741/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-09-20 22:28:55",
         "availability": "INSTOCK",
         "inventory": 500
       },
@@ -1582,14 +1394,6 @@
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 49,
         "currency": "INR",
-        "validFrom": "2024-09-30 12:59:03",
-        "availability": "INSTOCK",
-        "inventory": 497
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 49,
-        "currency": "INR",
         "validFrom": "2024-10-03 21:49:33",
         "availability": "INSTOCK",
         "inventory": 100
@@ -1598,25 +1402,9 @@
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 149,
         "currency": "INR",
-        "validFrom": "2024-09-30 12:59:04",
-        "availability": "INSTOCK",
-        "inventory": 487
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 149,
-        "currency": "INR",
         "validFrom": "2024-10-03 21:49:34",
         "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 199,
-        "currency": "INR",
-        "validFrom": "2024-09-30 12:59:04",
-        "availability": "INSTOCK",
-        "inventory": 493
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
@@ -1630,17 +1418,9 @@
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 299,
         "currency": "INR",
-        "validFrom": "2024-09-30 12:59:05",
-        "availability": "INSTOCK",
-        "inventory": 495
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 299,
-        "currency": "INR",
         "validFrom": "2024-10-03 21:49:35",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
@@ -1648,23 +1428,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 17:57:21",
         "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-10-10 17:57:21",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-09-30 12:59:05",
-        "availability": "INSTOCK",
-        "inventory": 497
+        "inventory": 184
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
@@ -1678,14 +1442,6 @@
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 1399,
         "currency": "INR",
-        "validFrom": "2024-09-30 12:59:06",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 1399,
-        "currency": "INR",
         "validFrom": "2024-10-03 21:49:36",
         "availability": "INSTOCK",
         "inventory": 100
@@ -1694,25 +1450,9 @@
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
         "price": 1999,
         "currency": "INR",
-        "validFrom": "2024-09-30 12:59:06",
-        "availability": "INSTOCK",
-        "inventory": 499
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 1999,
-        "currency": "INR",
         "validFrom": "2024-10-03 21:49:36",
         "availability": "INSTOCK",
         "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-09-30 12:59:06",
-        "availability": "INSTOCK",
-        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/the-great-indian-dandiya-celebration-2024-bengaluru-et51809/details",
@@ -1762,25 +1502,9 @@
         "url": "https://www.zomato.com/events/navrang-navratri-at-sunburn-union-bengaluru-et51847/details",
         "price": 300,
         "currency": "INR",
-        "validFrom": "2024-09-26 16:18:00",
-        "availability": "INSTOCK",
-        "inventory": 478
-      },
-      {
-        "url": "https://www.zomato.com/events/navrang-navratri-at-sunburn-union-bengaluru-et51847/details",
-        "price": 300,
-        "currency": "INR",
-        "validFrom": "2024-10-10 18:12:42",
-        "availability": "INSTOCK",
-        "inventory": 189
-      },
-      {
-        "url": "https://www.zomato.com/events/navrang-navratri-at-sunburn-union-bengaluru-et51847/details",
-        "price": 300,
-        "currency": "INR",
         "validFrom": "2024-10-10 18:18:31",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 198
       }
     ],
     "performers": [],
@@ -1832,7 +1556,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 13:13:00",
         "availability": "INSTOCK",
-        "inventory": 400
+        "inventory": 393
       },
       {
         "url": "https://www.zomato.com/events/raas-garba-night-season-5-whitefield-bengaluru-et51849/details",
@@ -1840,7 +1564,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 13:13:01",
         "availability": "INSTOCK",
-        "inventory": 400
+        "inventory": 398
       },
       {
         "url": "https://www.zomato.com/events/raas-garba-night-season-5-whitefield-bengaluru-et51849/details",
@@ -1890,17 +1614,9 @@
         "url": "https://www.zomato.com/events/rhythms-of-garba-dandiya-bengaluru-et51851/details",
         "price": 99,
         "currency": "INR",
-        "validFrom": "2024-09-26 16:17:00",
-        "availability": "INSTOCK",
-        "inventory": 181
-      },
-      {
-        "url": "https://www.zomato.com/events/rhythms-of-garba-dandiya-bengaluru-et51851/details",
-        "price": 99,
-        "currency": "INR",
         "validFrom": "2024-10-10 18:12:44",
         "availability": "INSTOCK",
-        "inventory": 195
+        "inventory": 193
       }
     ],
     "performers": [],
@@ -1926,8 +1642,8 @@
   {
     "name": "Rangratri Dandiya Nights",
     "description": "Rangratri Dandiya Nights at Happy Brew promises an evening of festive fun, energetic dandiya beats, and vibrant dance! Join us for an exciting night of music, traditional dance, and unforgettable memories.\n\nPlease Note: A mandatory cover charge must be purchased at the entry, fully redeemable on food and beverages.",
-    "startDate": "2024-10-11T19:00:00+05:30",
-    "endDate": "2024-10-12T01:00:00+05:30",
+    "startDate": "2024-10-11 19:00:00",
+    "endDate": "2024-10-12 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1952,7 +1668,7 @@
         "currency": "INR",
         "validFrom": "2024-09-26 16:17:52",
         "availability": "INSTOCK",
-        "inventory": 197
+        "inventory": 195
       }
     ],
     "performers": [],
@@ -1994,22 +1710,6 @@
         "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853/details",
         "price": 199,
         "currency": "INR",
-        "validFrom": "2024-10-03 15:47:45",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853/details",
-        "price": 199,
-        "currency": "INR",
-        "validFrom": "2024-10-03 15:47:47",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853/details",
-        "price": 199,
-        "currency": "INR",
         "validFrom": "2024-10-03 15:47:48",
         "availability": "INSTOCK",
         "inventory": 497
@@ -2018,41 +1718,9 @@
         "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853/details",
         "price": 299,
         "currency": "INR",
-        "validFrom": "2024-10-03 15:47:46",
-        "availability": "INSTOCK",
-        "inventory": 499
-      },
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-10-03 15:47:47",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853/details",
-        "price": 299,
-        "currency": "INR",
         "validFrom": "2024-10-03 15:47:49",
         "availability": "INSTOCK",
         "inventory": 499
-      },
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-03 15:47:46",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-03 15:47:48",
-        "availability": "INSTOCK",
-        "inventory": 500
       },
       {
         "url": "https://www.zomato.com/events/garba-night-bengaluru-et51853/details",
@@ -2104,7 +1772,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:47",
         "availability": "INSTOCK",
-        "inventory": 182
+        "inventory": 178
       }
     ],
     "performers": [],
@@ -2148,7 +1816,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:48",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 194
       }
     ],
     "performers": [],
@@ -2192,7 +1860,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:48",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 194
       }
     ],
     "performers": [],
@@ -2368,7 +2036,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:52",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 196
       }
     ],
     "performers": [],
@@ -2412,7 +2080,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:52",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 194
       }
     ],
     "performers": [],
@@ -2588,7 +2256,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:55",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 197
       }
     ],
     "performers": [],
@@ -2696,50 +2364,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97595324,
         "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Unplugged Duo's",
-    "description": "Catch Bollywood Mela performing live your favourite tracks at Hard Rock Cafe, Whitefield, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-10-11T20:30:00+05:30",
-    "endDate": "2024-10-11T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Unplugged Duo's Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Unplugged Duo's Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/83f4d731f55b8376a0e7b12480cd2f151727453890.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et51925/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-27 22:02:23",
-        "availability": "INSTOCK",
-        "inventory": 189
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et51925",
-    "id": "com.zomato.51925",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
       }
     }
   },
@@ -3550,25 +3174,9 @@
         "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
         "price": 49,
         "currency": "INR",
-        "validFrom": "2024-09-30 13:02:54",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 49,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:02:58",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 49,
-        "currency": "INR",
         "validFrom": "2024-09-30 13:03:01",
         "availability": "INSTOCK",
-        "inventory": 300
+        "inventory": 299
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
@@ -3577,22 +3185,6 @@
         "validFrom": "2024-09-30 13:03:05",
         "availability": "INSTOCK",
         "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 149,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:02:55",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 149,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:02:58",
-        "availability": "INSTOCK",
-        "inventory": 299
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
@@ -3609,22 +3201,6 @@
         "validFrom": "2024-09-30 13:03:05",
         "availability": "INSTOCK",
         "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 199,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:02:55",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 199,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:02:58",
-        "availability": "INSTOCK",
-        "inventory": 299
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
@@ -3646,15 +3222,7 @@
         "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
         "price": 299,
         "currency": "INR",
-        "validFrom": "2024-09-30 13:02:55",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:02:59",
+        "validFrom": "2024-09-30 13:03:03",
         "availability": "INSTOCK",
         "inventory": 298
       },
@@ -3662,14 +3230,6 @@
         "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
         "price": 299,
         "currency": "INR",
-        "validFrom": "2024-09-30 13:03:03",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 299,
-        "currency": "INR",
         "validFrom": "2024-09-30 13:03:06",
         "availability": "INSTOCK",
         "inventory": 300
@@ -3678,22 +3238,6 @@
         "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
         "price": 749,
         "currency": "INR",
-        "validFrom": "2024-09-30 13:02:56",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:02:59",
-        "availability": "INSTOCK",
-        "inventory": 299
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 749,
-        "currency": "INR",
         "validFrom": "2024-09-30 13:03:03",
         "availability": "INSTOCK",
         "inventory": 300
@@ -3710,22 +3254,6 @@
         "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
         "price": 1399,
         "currency": "INR",
-        "validFrom": "2024-09-30 13:02:56",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 1399,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:03:00",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 1399,
-        "currency": "INR",
         "validFrom": "2024-09-30 13:03:03",
         "availability": "INSTOCK",
         "inventory": 300
@@ -3735,22 +3263,6 @@
         "price": 1399,
         "currency": "INR",
         "validFrom": "2024-09-30 13:03:07",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:02:57",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:03:00",
         "availability": "INSTOCK",
         "inventory": 300
       },
@@ -3767,22 +3279,6 @@
         "price": 1999,
         "currency": "INR",
         "validFrom": "2024-09-30 13:03:07",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:02:57",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/bengaluru-biggest-dandiya-mahotsav-bengaluru-et52026/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:03:01",
         "availability": "INSTOCK",
         "inventory": 300
       },
@@ -3842,22 +3338,6 @@
         "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
         "price": 49,
         "currency": "INR",
-        "validFrom": "2024-09-30 13:35:43",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 49,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:35:46",
-        "availability": "INSTOCK",
-        "inventory": 297
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 49,
-        "currency": "INR",
         "validFrom": "2024-09-30 13:35:49",
         "availability": "INSTOCK",
         "inventory": 300
@@ -3866,41 +3346,9 @@
         "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
         "price": 149,
         "currency": "INR",
-        "validFrom": "2024-09-30 13:35:43",
-        "availability": "INSTOCK",
-        "inventory": 294
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 149,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:35:46",
-        "availability": "INSTOCK",
-        "inventory": 292
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 149,
-        "currency": "INR",
         "validFrom": "2024-09-30 13:35:50",
         "availability": "INSTOCK",
-        "inventory": 289
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 199,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:35:43",
-        "availability": "INSTOCK",
-        "inventory": 298
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 199,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:35:47",
-        "availability": "INSTOCK",
-        "inventory": 298
+        "inventory": 286
       },
       {
         "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
@@ -3908,22 +3356,6 @@
         "currency": "INR",
         "validFrom": "2024-09-30 13:35:50",
         "availability": "INSTOCK",
-        "inventory": 299
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:35:44",
-        "availability": "INSTOCK",
-        "inventory": 297
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:35:47",
-        "availability": "INSTOCK",
         "inventory": 298
       },
       {
@@ -3938,39 +3370,7 @@
         "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
         "price": 749,
         "currency": "INR",
-        "validFrom": "2024-09-30 13:35:44",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:35:48",
-        "availability": "INSTOCK",
-        "inventory": 299
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 749,
-        "currency": "INR",
         "validFrom": "2024-09-30 13:35:51",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 1399,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:35:45",
-        "availability": "INSTOCK",
-        "inventory": 298
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 1399,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:35:48",
         "availability": "INSTOCK",
         "inventory": 300
       },
@@ -3981,44 +3381,12 @@
         "validFrom": "2024-09-30 13:35:51",
         "availability": "INSTOCK",
         "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:35:45",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:35:48",
-        "availability": "INSTOCK",
-        "inventory": 299
       },
       {
         "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
         "price": 1999,
         "currency": "INR",
         "validFrom": "2024-09-30 13:35:52",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:35:46",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/desi-disco-dandiya-night-2024-bengaluru-et52027/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-09-30 13:35:49",
         "availability": "INSTOCK",
         "inventory": 300
       },
@@ -4072,7 +3440,7 @@
         "currency": "INR",
         "validFrom": "2024-09-30 14:14:36",
         "availability": "INSTOCK",
-        "inventory": 290
+        "inventory": 287
       },
       {
         "url": "https://www.zomato.com/events/garba-groove-at-sarjapur-social-bengaluru-et52030/details",
@@ -4080,7 +3448,7 @@
         "currency": "INR",
         "validFrom": "2024-10-09 21:26:21",
         "availability": "INSTOCK",
-        "inventory": 300
+        "inventory": 298
       },
       {
         "url": "https://www.zomato.com/events/garba-groove-at-sarjapur-social-bengaluru-et52030/details",
@@ -4088,7 +3456,7 @@
         "currency": "INR",
         "validFrom": "2024-09-30 14:14:36",
         "availability": "INSTOCK",
-        "inventory": 290
+        "inventory": 282
       },
       {
         "url": "https://www.zomato.com/events/garba-groove-at-sarjapur-social-bengaluru-et52030/details",
@@ -4096,7 +3464,7 @@
         "currency": "INR",
         "validFrom": "2024-10-09 21:26:21",
         "availability": "INSTOCK",
-        "inventory": 299
+        "inventory": 296
       }
     ],
     "performers": [],
@@ -4140,7 +3508,7 @@
         "currency": "INR",
         "validFrom": "2024-09-30 14:16:02",
         "availability": "INSTOCK",
-        "inventory": 299
+        "inventory": 296
       },
       {
         "url": "https://www.zomato.com/events/garba-groove-at-koramangala-social-bengaluru-et52031/details",
@@ -4156,7 +3524,7 @@
         "currency": "INR",
         "validFrom": "2024-09-30 14:16:03",
         "availability": "INSTOCK",
-        "inventory": 297
+        "inventory": 296
       },
       {
         "url": "https://www.zomato.com/events/garba-groove-at-koramangala-social-bengaluru-et52031/details",
@@ -4220,51 +3588,11 @@
       },
       {
         "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-09-30 16:05:06",
-        "availability": "INSTOCK",
-        "inventory": 491
-      },
-      {
-        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
         "price": 2499,
         "currency": "INR",
         "validFrom": "2024-09-30 16:05:07",
         "availability": "INSTOCK",
         "inventory": 499
-      },
-      {
-        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-09-30 16:05:00",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
-        "price": 799,
-        "currency": "INR",
-        "validFrom": "2024-10-08 13:55:00",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-09-30 16:05:00",
-        "availability": "INSTOCK",
-        "inventory": 499
-      },
-      {
-        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-maha-utsav-season-3-bengaluru-et52057/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-09-30 16:05:00",
-        "availability": "INSTOCK",
-        "inventory": 500
       }
     ],
     "performers": [],
@@ -4360,7 +3688,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 10:07:49",
         "availability": "INSTOCK",
-        "inventory": 8
+        "inventory": 4
       }
     ],
     "performers": [],
@@ -4744,7 +4072,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 12:58:31",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 197
       },
       {
         "url": "https://www.zomato.com/events/dandiya-raas-edition-20-bengaluru-et52170/details",
@@ -4812,7 +4140,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 22:01:55",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 18
       }
     ],
     "performers": [],
@@ -4907,8 +4235,8 @@
         "price": 399,
         "currency": "INR",
         "validFrom": "2024-10-05 15:38:00",
-        "availability": "INSTOCK",
-        "inventory": 70
+        "availability": "SELLING_FAST",
+        "inventory": 17
       }
     ],
     "performers": [],
@@ -5135,7 +4463,7 @@
         "currency": "INR",
         "validFrom": "2024-10-08 15:31:55",
         "availability": "INSTOCK",
-        "inventory": 188
+        "inventory": 187
       },
       {
         "url": "https://www.zomato.com/events/casa-bacardi-halloween-ft-ankytrixx-bengaluru-et52281/details",
@@ -5143,7 +4471,7 @@
         "currency": "INR",
         "validFrom": "2024-10-08 15:31:55",
         "availability": "INSTOCK",
-        "inventory": 179
+        "inventory": 165
       }
     ],
     "performers": [],
@@ -5187,15 +4515,7 @@
         "currency": "INR",
         "validFrom": "2024-10-09 22:47:22",
         "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/the-great-indian-dandiya-festival-2024-bengaluru-et52293/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-09 22:47:23",
-        "availability": "INSTOCK",
-        "inventory": 490
+        "inventory": 485
       }
     ],
     "performers": [],
@@ -5315,7 +4635,7 @@
         "currency": "INR",
         "validFrom": "2024-10-09 17:56:09",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 97
       }
     ],
     "performers": [],
@@ -5367,7 +4687,7 @@
         "currency": "INR",
         "validFrom": "2024-10-09 21:44:10",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/core-open-air-bengaluru-et52309/details",
@@ -5375,7 +4695,7 @@
         "currency": "INR",
         "validFrom": "2024-10-09 21:44:10",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 97
       }
     ],
     "performers": [],
@@ -5420,7 +4740,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:10:06",
         "availability": "INSTOCK",
-        "inventory": 299
+        "inventory": 296
       },
       {
         "url": "https://www.zomato.com/events/one8-commune-sunsets-x-somad-raja-live-bengaluru-et52315/details",
@@ -5428,7 +4748,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:10:06",
         "availability": "INSTOCK",
-        "inventory": 298
+        "inventory": 295
       },
       {
         "url": "https://www.zomato.com/events/one8-commune-sunsets-x-somad-raja-live-bengaluru-et52315/details",
@@ -5436,7 +4756,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:10:06",
         "availability": "INSTOCK",
-        "inventory": 297
+        "inventory": 291
       },
       {
         "url": "https://www.zomato.com/events/one8-commune-sunsets-x-somad-raja-live-bengaluru-et52315/details",
@@ -5444,7 +4764,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:10:07",
         "availability": "INSTOCK",
-        "inventory": 298
+        "inventory": 296
       }
     ],
     "performers": [],

@@ -223,6 +223,43 @@
   },
   {
     "@type": "MusicEvent",
+    "name": "Soundarya Live Presented By Ben and Flow",
+    "about": "Join Soundarya Jayachandran for an immersive musical experience that transcends traditional boundaries. Drawing from diverse cultural influences, her performance weaves intricate melodies and rich textures that invite audiences into a world of sound. With innovative visual elements and interactive components, this journey promises to engage all senses, creating a captivating atmosphere where music and emotion intertwine. Discover the transformative power of sound in a setting that celebrates connection and creativity.",
+    "url": "http://pages.razorpay.com/pl_P1gsvRSzKF6Xxf/view",
+    "startDate": "2024-10-26T19:30:00+05:30",
+    "endDate": "2024-10-26T23:00:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2F9TXrV33hhDTD1iSVlGUq%2FbannerImages%2Fcd8lGefkVUIbZFQdHW1Q-Soundarya%20Live%20Cover%20Image%2016_9%20ratio.png?alt=media&token=60c382de-97e6-461e-924a-9461144d99b0",
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Soundarya Jayachandran"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "The Raft",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4, 1st Main Rd, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.92630161129162",
+        "longitude": "77.63751717301545"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ben and Flow"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "http://pages.razorpay.com/pl_P1gsvRSzKF6Xxf/view"
+    }
+  },
+  {
+    "@type": "MusicEvent",
     "name": "Casa Bacardi Halloween Ft. Ankytrixx | 26Th Oct | Gawky Goose",
     "about": "Experience the highly anticipated Casa Bacardi Halloween party at Gawky Goose with a special performance by Ankytrixx on Saturday, 26th October starting at 8PM. Make sure to reserve your spot for this limited capacity event!",
     "url": "https://insider.in/event/casa-bacardi-halloween-ft-ankytrixx-26th-oct-gawky-goose-oct26-2024/buy-page",
@@ -626,6 +663,43 @@
     "offers": {
       "@type": "Offer",
       "url": "https://in.bookmyshow.com/events/sunidhi-chauhan-i-am-home-concert/ET00409096"
+    }
+  },
+  {
+    "@type": "MusicEvent",
+    "name": "Dosa Dispute Ft. Gowwli, Eettillam & Kasa",
+    "about": "Experience the ultimate fusion of sounds at Dosa Dispute! Featuring Gowwli's experimental folk rock, Eettillam's Malayalam metal, and Kasa's hard-hitting Kannada punk, this event promises a musical journey like no other. Get ready to be captivated by diverse genres and powerful performances that challenge musical boundaries.",
+    "url": "https://insider.in/event/dosa-dispute-ft-gowwli-eettillam--kasa/buy-page",
+    "startDate": "2024-10-27T18:30:00+05:30",
+    "endDate": "2024-10-27T22:30:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FVCwDUB94UGUpesdVR8Qj%2FbannerImages%2Fw7CUtD4t33xBfgRpu8ny-Dosa-Dispute-ft-Gowwli-Eettillam-Kasa.jpg?alt=media&token=abec26dd-a226-419f-86a2-8e4041208e30",
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Gowwli"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Fandom at Gilly's Redefined",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1st floor of Gillys redefined,# 413, 100 Feet Road,, 4th Block, Koramangala, KHB Block Koramangala, Koramangala 4-B Block, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9333924",
+        "longitude": "77.6236291"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ben and Flow"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://insider.in/event/dosa-dispute-ft-gowwli-eettillam--kasa/buy-page"
     }
   },
   {
