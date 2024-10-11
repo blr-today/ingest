@@ -1165,6 +1165,82 @@
     "id": "com.zomato.51346"
   },
   {
+    "name": "Whitefield Biggest Dandiya Utsav - Season 7",
+    "description": "Not just any Dandiya event; it`s the most talked-about, must-attend celebration in Whitefield, Bangalore.\nLive Food Stalls: Savor a delectable array of culinary delights from our live food stalls. \nOpen-Air Lawn Area: Enjoy the cool breeze and dance under the stars in our open-air lawn area. \nGarba Dancers: Be mesmerized by professional Garba dancers, adding a touch of elegance \nFestive Decor: Step into a world of vibrant colours and festive cheer. \nLive Dhol Performance: Feel the rhythm and let the beats of live Dhol performers elevate the excitement. \nRainproof Event Area: Dance without worry! Our event area is completely rainproof, ensuring that the fun continues, come rain or shine.\nFree Dandiya Sticks: No need to bring your own! We provide free dandiya sticks to all attendees\n\u2728 Don\u2019t just hear about it; be there to experience the magic yourself! \u2728",
+    "startDate": "2024-10-04 17:00:00",
+    "endDate": "2024-10-13 00:30:00",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Whitefield Biggest Dandiya Utsav - Season 7 Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Whitefield Biggest Dandiya Utsav - Season 7 Bengaluru on Zomato which is a Music and Trending event happening at 4th Cross Rd, Kaveri Nagar, Whitefield,Bengaluru, Karnataka 560048, India",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b08371d793310400cbaceece09b5f8401728648997.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-utsav-season-7-bengaluru-et51527/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-10-11 13:57:52",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-utsav-season-7-bengaluru-et51527/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-10-11 13:57:53",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-utsav-season-7-bengaluru-et51527/details",
+        "price": 899,
+        "currency": "INR",
+        "validFrom": "2024-10-11 13:57:53",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-utsav-season-7-bengaluru-et51527/details",
+        "price": 1699,
+        "currency": "INR",
+        "validFrom": "2024-10-11 13:57:53",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-utsav-season-7-bengaluru-et51527/details",
+        "price": 3999,
+        "currency": "INR",
+        "validFrom": "2024-10-11 13:57:54",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/whitefield-biggest-dandiya-utsav-season-7-bengaluru-et51527",
+    "id": "com.zomato.51527",
+    "location": {
+      "name": "MLR Convention Centre, Whitefield",
+      "address": "4th Cross Rd, Kaveri Nagar, Whitefield,Bengaluru, Karnataka 560048, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9989,
+        "longitude": 77.7025
+      }
+    }
+  },
+  {
     "name": "Pet Fed Bengaluru 2024",
     "description": "Bengaluru, brace yourselves because Pet Fed is Back and it's bigger, better, and greener than ever! \ud83c\udf89 #PetFedIndiaisBack\n\nThis year, we\u2019re not just celebrating our return\u2014we\u2019re celebrating 10 incredible years of Pet Fed! \ud83e\udd73\n\nJoin us at Jayamahal Palace on 23rd & 24th November 2024 for two days of non-stop love and fun with your fur babies. \ud83d\udc3e\n\nHere\u2019s what we\u2019ve got lined up for you:\n\n- 3 Acres of Festival Bliss\n- Expert-Led Master Classes\n- Exciting Dog & Cat Play Zones\n- International Cat Show\n- Fashion Show\n- Police Dog Show\n- Agility Ring\n- Adoption Camps\n- Tons of Games\n- 100+ Global Pet Stalls\n- Food, Drinks & Unmatched Fun\n\nCome with or without your pet\u2014but don\u2019t miss out on the decade celebration! \ud83c\udf82\n\n#PetFedBengaluru2024",
     "startDate": "2024-11-23T11:00:00+05:30",
@@ -1792,74 +1868,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.94538528,
         "longitude": 77.70320156
-      }
-    }
-  },
-  {
-    "name": "Raas Garba Beats: Festive Nights",
-    "description": "Join us for two magical nights of fun, food, and festive spirit at Sky Garden, Koramangala. Get ready to immerse yourself in a colorful and high-energy dandiya experience with live music, delicious food, and a stunning ambiance.\nDandiya Sticks Included: Dance the night away with your own pair of dandiya sticks provided at entry\nLive DJ & Dhol: Groove to a mix of traditional dhol beats and high-energy DJ tracks\nDelicious Food & Drinks: A variety of traditional and modern snacks to savor\nStunning Decor: A festive ambiance with colorful lights and beautiful decor\nSecurity CCTV: Celebrate worry-free with enhanced security and surveillance\n\nPlease Note: A mandatory cover charge must be purchased at the entry, fully redeemable on food and beverages.",
-    "startDate": "2024-10-05 19:00:00",
-    "endDate": "2024-10-12 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Raas Garba Beats: Festive Nights Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Raas Garba Beats: Festive Nights Bengaluru on Zomato which is a Trending event happening at 14, 1st Cross, 17th A Main Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/42fc4e0dd6ad8fb91d3783f3adf9b9fd1727339152.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/raas-garba-beats-festive-nights-bengaluru-et51850/details",
-        "price": 199,
-        "currency": "INR",
-        "validFrom": "2024-10-03 13:13:04",
-        "availability": "INSTOCK",
-        "inventory": 192
-      },
-      {
-        "url": "https://www.zomato.com/events/raas-garba-beats-festive-nights-bengaluru-et51850/details",
-        "price": 699,
-        "currency": "INR",
-        "validFrom": "2024-10-03 13:13:05",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/raas-garba-beats-festive-nights-bengaluru-et51850/details",
-        "price": 799,
-        "currency": "INR",
-        "validFrom": "2024-10-03 13:13:04",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/raas-garba-beats-festive-nights-bengaluru-et51850/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-10-03 13:13:06",
-        "availability": "INSTOCK",
-        "inventory": 200
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/raas-garba-beats-festive-nights-bengaluru-et51850",
-    "id": "com.zomato.51850",
-    "location": {
-      "name": "Skygraden, Koramangala",
-      "address": "14, 1st Cross, 17th A Main Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93386752,
-        "longitude": 77.62221564
       }
     }
   },
@@ -4046,8 +4054,8 @@
   {
     "name": "Garba Groove at Sarjapur Social",
     "description": "Rock your favourite Ethnic Wear & Sneakers for a night of Garbha like never before. Show off your traditional side with a modern twist and dance the night away with non-stop music, energy, and excitement.\n\u2022 \ud83c\udfb5 DJ-curated Ethnic & Contemporary Beats\n\u2022 \ud83d\udc60\ud83d\udc5f Fusion Fashion: Lehengas, Kurtas & Sneakers\n\u2022 \ud83c\udf89 Dandiya, Drinks, & Good Vibes\n\u2022 Special photo booths that will capture your stylish fusion outfits in all their glory.\nDon\u2019t miss out on the trendiest Garbha celebration of the season. Whether it's a classic lehenga, kurta, or any traditional attire, pair it with your coolest kicks and join the fusion frenzy on the dance floor.",
-    "startDate": "2024-10-11T18:00:00+05:30",
-    "endDate": "2024-10-13T01:00:00+05:30",
+    "startDate": "2024-10-11 18:00:00",
+    "endDate": "2024-10-13 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -4114,8 +4122,8 @@
   {
     "name": "Garba Groove at Koramangala Social",
     "description": "Get ready to hit the dance floor in your favorite traditional attire while rocking your coolest pair of sneakers. \nWhat to Expect:\n\u2022 \ud83c\udfa7 DJ-curated Beats\n\u2022 \ud83d\udc57 Dress to Impress: Pair your ethnic outfits\u2014lehenga, kurta, saree, or sherwani\u2014with sneakers for the perfect fusion look. Comfort meets chic!\n\u2022 \ud83d\udc83 Non-stop Dandiya\n\u2022 \ud83c\udf78 Festive Cocktails & Mocktails\n\u2022 \ud83d\udcf8 Capture the Moment at our Photo Booths\n\u2022 \ud83c\udf81 Exciting Contests\nWhether you\u2019re coming with friends, family, or solo, this is the place to enjoy the best of both worlds\u2014dance to your heart\u2019s content, show off your style, and make new memories under the festive lights of Koramangala Social.",
-    "startDate": "2024-10-11T18:00:00+05:30",
-    "endDate": "2024-10-12T23:59:00+05:30",
+    "startDate": "2024-10-11 18:00:00",
+    "endDate": "2024-10-12 23:59:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -5161,8 +5169,8 @@
   {
     "name": "The Great Indian Dandiya Festival 2024",
     "description": "Iconic 5 STAR venue for the celebration - The Lalit Ashok\nComplimentary Dandiya sticks\nTop DJ\u2019s of India to get you in the groove\nFood Stalls and beverages are available at affordable prices.\n6 Hours of Non-Stop Garba/Bollywood/Punjabi music\nSpectacular decorations tailored for the grand occasion\nLive Dhol and Garba dancers to guide you in your dance.\nProfessional photographers capture every moment\nChildren-friendly environment\"",
-    "startDate": "2024-10-11T17:00:00+05:30",
-    "endDate": "2024-10-12T23:00:00+05:30",
+    "startDate": "2024-10-11 17:00:00",
+    "endDate": "2024-10-12 23:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",

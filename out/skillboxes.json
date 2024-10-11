@@ -287,6 +287,47 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Brutal Frequencies presents BF002 - The Ritual, a Halloween party that promises to shake things up at Parka Restobar,&#1",
+      "endDate": "2024-10-28T01:00:00",
+      "identifier": "com.skillboxes.16392",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWNveFlFMDhUZFhISWszMWZhWEMydz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728646983K4opbvsgk3VcI0Bp.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Level 1, Vihaari 24, Business Hotel, 417, 5th Main Rd, HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0230436",
+            "longitude": "77.6395969"
+         },
+         "name": "Parka Restobar"
+      },
+      "name": "BF002 - The Ritual",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 49,
+            "name": "Early bird",
+            "url": "https://www.skillboxes.com/events/ticket/bf002-the-ritual"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "GA",
+            "url": "https://www.skillboxes.com/events/ticket/bf002-the-ritual"
+         }
+      ],
+      "startDate": "2024-10-27T20:00:00",
+      "url": "https://www.skillboxes.com/events/bf002-the-ritual"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "🎤 Mic Drop at Starbucks saturday's 🌟 Join us for an evening of songs, poetry, and standup comedy. Whether you're a performer",
       "endDate": "2024-10-26T19:00:00",
       "identifier": "com.skillboxes.16380",
