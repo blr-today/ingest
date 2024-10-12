@@ -2487,56 +2487,6 @@
     }
   },
   {
-    "name": "SCC SkyCinema - Jab We Met",
-    "description": "\"Mein Apni Favourite Hoon\u201d - Jab We Met\n\nAll aboard for a night of love, laughter, and unforgettable moments as we bring you the iconic Bollywood masterpiece. Sunset Cinema Club invites you to join us for a cinematic experience that will touch your heart and leave you with a smile at Forum South Bengaluru.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.",
-    "startDate": "2024-10-12T19:00:00+05:30",
-    "endDate": "2024-10-12T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3c05ae4677faed1e8213ba112a5670831727618601.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-jab-we-met-bengaluru-et51970/details",
-        "price": 500,
-        "currency": "INR",
-        "validFrom": "2024-09-29 19:41:40",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-jab-we-met-bengaluru-et51970/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-09-29 19:41:41",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-jab-we-met-bengaluru-et51970",
-    "id": "com.zomato.51970",
-    "location": {
-      "name": "Forum South Bengaluru",
-      "address": "Forum South Bengaluru Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte, Bengaluru, Karnataka 560063",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.25228833,
-        "longitude": 77.7606939
-      }
-    }
-  },
-  {
     "name": "SCC SkyCinema - Pretty Woman",
     "description": "\"I want to be your fairy tale.\"- Pretty Woman \n\nIndulge in a night of enchantment as Sunset Cinema Club invites you for an evening filled with glamour, romance, and the irresistible charm of Hollywood's most beloved love story at Forum South Bengaluru.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.",
     "startDate": "2024-10-20T19:00:00+05:30",
