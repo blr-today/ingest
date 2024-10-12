@@ -2899,5 +2899,56 @@
       "Eco Friendly",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Workday Deli Counter",
+    "description": "Want to mix up your work from home/work from cafe routine?Does spending a day in the heart of Bangalore on a work-day sipping on an iced-tea and enjoying the beautiful view of the treetops appeal? What about a nourishing, energising all-day deli counter featuring dips, artisanal breads, colourful salads and homemade teacakes and cookies that you can graze from all day?Come spend a working day with us at the Studio by Copper + Cloves. Our members find that they are more productive than usual at this space. This Thursday, 17th October, we are opening out the space beyond our members, for an open-day that we call the 'Workday Deli Counter'.What is the Work Deli Counter?Nourish yourself at our \u2018all you can eat\u2019 deli counter and work from our beautiful cafe/co-working space at the Studio that is normally a members-only space!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/619089B909B94DF98D52C7642688A797_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F3E42C68A70D4540A7406B5D1B8EC2D1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/868E70E030144AE9B9D677ADE67566A8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/20A766AD4B494AF8A9C2A944DE8A98F4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DD71759163C748F291F4E2E58050566C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8F5889758C4F47A686CD1FC5B15AAA4B_converted_webp.webp"
+    ],
+    "startDate": "2024-10-17T11:00:00+05:30",
+    "endDate": "2024-10-17T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 7,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/copy-of-friday-workday-deli-counter-5292",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
   }
 ]

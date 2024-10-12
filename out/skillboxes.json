@@ -2,49 +2,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "SkillBox brings you another fresh edition of LiveBox festival - a day long music festival featuring the best of Indian acts.\r\n ",
-      "endDate": "2024-11-16T23:59:00",
-      "identifier": "com.skillboxes.16391",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c0lGYzlCZU9aNVlnNnBWd2hYQkFrQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728717744UAWgxdxDpXbfS8Pb.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Whitefield Main Road, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9957867",
-            "longitude": "77.6964011"
-         },
-         "name": "Phoenix Marketcity (Back Area)"
-      },
-      "name": "LiveBox Festival | Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticket grants general entry for one individual into General Area at the event.\n",
-            "inventoryLevel": 99,
-            "name": "Early Bird Ticket || GA",
-            "url": "https://www.skillboxes.com/events/ticket/livebox-festival-bangalore-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticket grants dedicated entry for one individual into VIP Area ( Closest to stage ) at the event.\n",
-            "inventoryLevel": 98,
-            "name": "Early Bird Ticket || VIP",
-            "url": "https://www.skillboxes.com/events/ticket/livebox-festival-bangalore-1"
-         }
-      ],
-      "startDate": "2024-11-16T16:00:00",
-      "url": "https://www.skillboxes.com/events/livebox-festival-bangalore-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "Step into the world of Korean-pop at India’s Biggest K-Pop Festival, where music, culture, and creativity collide! Featuring exhilarating perfor",
       "endDate": "2024-10-20T23:59:00",
       "identifier": "com.skillboxes.15372",
@@ -160,6 +117,49 @@
       ],
       "startDate": "2024-10-20T13:00:00",
       "url": "https://www.skillboxes.com/events/k-wave-festival-2024-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "SkillBox brings you another fresh edition of LiveBox festival - a day long music festival featuring the best of Indian acts.\r\n ",
+      "endDate": "2024-11-16T23:59:00",
+      "identifier": "com.skillboxes.16391",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c0lGYzlCZU9aNVlnNnBWd2hYQkFrQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728717744UAWgxdxDpXbfS8Pb.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Whitefield Main Road, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9957867",
+            "longitude": "77.6964011"
+         },
+         "name": "Phoenix Marketcity (Back Area)"
+      },
+      "name": "LiveBox Festival | Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket grants general entry for one individual into General Area at the event.\n",
+            "inventoryLevel": 99,
+            "name": "Early Bird Ticket || GA",
+            "url": "https://www.skillboxes.com/events/ticket/livebox-festival-bangalore-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket grants dedicated entry for one individual into VIP Area ( Closest to stage ) at the event.\n",
+            "inventoryLevel": 98,
+            "name": "Early Bird Ticket || VIP",
+            "url": "https://www.skillboxes.com/events/ticket/livebox-festival-bangalore-1"
+         }
+      ],
+      "startDate": "2024-11-16T16:00:00",
+      "url": "https://www.skillboxes.com/events/livebox-festival-bangalore-1"
    },
    {
       "@context": "https://schema.org",
@@ -329,38 +329,197 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Join us for an electrifying Navratri celebration at Ambient Turret, located at No. 35/A, 1st Main, Mini Forest Road, 3rd Phase, J.P. Nagar, Bengaluru,",
-      "endDate": "2024-10-12T21:30:00",
-      "identifier": "com.skillboxes.16398",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/M2VLeWs4WnU1KzQwdUIycGVvNnMvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728669664EOBVkxDcjIscg4KK.jpg.webp",
+      "@type": "EducationEvent",
+      "description": "Learn Flutter App Development Basics.",
+      "endDate": "2024-10-15T17:00:00",
+      "identifier": "com.skillboxes.16408",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFVyMUpPMzZJY3ZJQXVzRlpyNi9Zdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728749194EhkOQHYayS098YsW.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
-         "Festival & Fair"
+         "Workshops"
       ],
       "location": {
          "@type": "Place",
-         "address": "No 35/A,1st Main,Mini forest road, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+         "address": "",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "12.91466",
-            "longitude": "77.598968"
+            "latitude": "",
+            "longitude": ""
          },
-         "name": "Hotel Ambient Turret - Banquets & Hotel Rooms"
+         "name": "To Be Decided"
       },
-      "name": "Garba Night",
+      "name": "Flutter App Development Workshop",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charge and dandiya stick charge payable at counter\n",
-            "inventoryLevel": 200,
-            "name": "Regular",
-            "url": "https://www.skillboxes.com/events/ticket/garba-night-1"
+            "description": "Only single person allowed\n",
+            "inventoryLevel": 8,
+            "name": "General Pass",
+            "url": "https://www.skillboxes.com/events/ticket/flutter-app-development-workshop"
          }
       ],
-      "startDate": "2024-10-12T17:00:00",
-      "url": "https://www.skillboxes.com/events/garba-night-1"
+      "startDate": "2024-10-15T16:00:00",
+      "url": "https://www.skillboxes.com/events/flutter-app-development-workshop"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Learn guitar",
+      "endDate": "2024-10-24T17:40:00",
+      "identifier": "com.skillboxes.16405",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/L0tReWoxM2k4Y0xQVXN1amg1RXNtUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728745921ue9Pg5JaCetJ6mqf.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Education"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "Ramesh Guitar Lessons",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Only 1 male person is allowed.\n",
+            "inventoryLevel": 100,
+            "name": "Male Pass",
+            "url": "https://www.skillboxes.com/events/ticket/ramesh-guitar-lessons"
+         }
+      ],
+      "startDate": "2024-10-24T16:00:00",
+      "url": "https://www.skillboxes.com/events/ramesh-guitar-lessons"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Bangalore's most awaited & sought after Casa Bacardi Halloween is back this Halloween at Juliet featuring SIXTH OCEAN 🎃Date: Thursday, 31s",
+      "endDate": "2024-11-01T01:00:00",
+      "identifier": "com.skillboxes.16404",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728744260XGvKL5SFNjvEQbEH.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "5th floor, 1, MG Mall, Trinity Circle, Mahatma Gandhi Rd, above 1MG Mall, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9734662",
+            "longitude": "77.6204084"
+         },
+         "name": "Juliet (1MG Mall)"
+      },
+      "name": "Casa Bacardi Halloween ft. Sixth Ocean | 31st Oct | Juliet",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/casa-bacardi-halloween-ft-sixth-ocean-31st-oct-juliet"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/casa-bacardi-halloween-ft-sixth-ocean-31st-oct-juliet"
+         }
+      ],
+      "startDate": "2024-10-31T20:00:00",
+      "url": "https://www.skillboxes.com/events/casa-bacardi-halloween-ft-sixth-ocean-31st-oct-juliet"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Get ready for Kitty Ko’s Anniversary celebrations - KITTYVERSARY! Catch Carmee (Afterlife) & Katrin Losa (Diynamic) live at Kitty Ko this Su",
+      "endDate": "2024-10-21T01:00:00",
+      "identifier": "com.skillboxes.16403",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17287411309QOlA9RJloohKBUk.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Kittyversary ft. Carmee + Losa | 20th Oct | Kitty Ko",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/kittyversary-ft-carmee-losa-20th-oct-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/kittyversary-ft-carmee-losa-20th-oct-kitty-ko"
+         }
+      ],
+      "startDate": "2024-10-20T20:00:00",
+      "url": "https://www.skillboxes.com/events/kittyversary-ft-carmee-losa-20th-oct-kitty-ko"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Bangalore's most awaited & sought after Privilege Fridaze is back at Juliet with Meet & Preed this Friday.Date: Friday, 18th October | 8PM Onw",
+      "endDate": "2024-10-19T01:00:00",
+      "identifier": "com.skillboxes.16402",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728738767knCZSlk7J8VlnQAG.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "5th floor, 1, MG Mall, Trinity Circle, Mahatma Gandhi Rd, above 1MG Mall, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9734662",
+            "longitude": "77.6204084"
+         },
+         "name": "Juliet (1MG Mall)"
+      },
+      "name": "Privilege Fridaze ft. Meet & Preed | 18th Oct | Juliet",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/privilege-fridaze-ft-meet-preed-18th-oct-juliet"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/privilege-fridaze-ft-meet-preed-18th-oct-juliet"
+         }
+      ],
+      "startDate": "2024-10-18T20:00:00",
+      "url": "https://www.skillboxes.com/events/privilege-fridaze-ft-meet-preed-18th-oct-juliet"
    },
    {
       "@context": "https://schema.org",
@@ -806,32 +965,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Mingle Nights Music Event at Mollys Rooftop Bar and LoungeJoin us for an exciting evening at Mollys Rooftop Bar and Lounge in Indiranagar, Bengaluru, ",
-      "endDate": "2024-10-12T01:00:00",
-      "identifier": "com.skillboxes.16321",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b09PVUJNY1BZcjg3OE1Gbm1jTmM3Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728384994FOFeHsoLRk49aKwA.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28.4524744",
-            "longitude": "77.0727299"
-         },
-         "name": "Mollys Rooftop Bar and Lounge"
-      },
-      "name": "MINGLE NIGHTS - LIVE MUSIC",
-      "offers": [ ],
-      "startDate": "2024-10-11T19:00:00",
-      "url": "https://www.skillboxes.com/events/mingle-nights-live-music"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Prepare for the Ultimate Wild Journey : BrainBrew Unveils Black Out Records Label Night on the 19th October @ Nazaara!\r\n\r\nGear up, Earthlings🚀🔊!",
       "endDate": "2024-10-19T23:59:00",
@@ -1108,80 +1241,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "THE  BOLLYWOOD LIGHT'S OUT SATURDAY NIGHT'S ON OCTOBER 12TH STARTING AT 8:00 P.M., MACAW BY STORIES SINGASANDRA.WILL HOST BOLLYWOOD-EDM MUSIC EVE",
-      "endDate": "2024-10-12T23:59:00",
-      "identifier": "com.skillboxes.16300",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728314591qeA4LeqvlzoWu40c.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Event"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No 2224 , 2225 AECS Layout Singasandra Hosur, Service Rd, Srinivasa Nagar, Hal Layout, Singasandra, Bengaluru, Karnataka 560068, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.8842461",
-            "longitude": "77.6434432"
-         },
-         "name": "Macaw By Stories"
-      },
-      "name": "THE  BOLLYWOOD LIGHT'S OUT SATURDAY'S",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 99,
-            "name": "COUPLE RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/the-bollywood-light-s-out-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "FEMALE RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/the-bollywood-light-s-out-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "MALE RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/the-bollywood-light-s-out-1"
-         }
-      ],
-      "startDate": "2024-10-12T20:00:00",
-      "url": "https://www.skillboxes.com/events/the-bollywood-light-s-out-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Bangalore's most awaited & sought after Privilege Fridaze is back at Juliet with Jonas Monteiro this Friday.Date: Friday, 11th October | 8PM Onwar",
-      "endDate": "2024-10-12T01:00:00",
-      "identifier": "com.skillboxes.16299",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728314495xFOZMN1p3aVz6pZg.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "5th floor, 1, MG Mall, Trinity Circle, Mahatma Gandhi Rd, above 1MG Mall, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9734662",
-            "longitude": "77.6204084"
-         },
-         "name": "Juliet (1MG Mall)"
-      },
-      "name": "Privilege Fridaze ft. Jonas Monteiro | 11th Oct | Juliet",
-      "offers": [ ],
-      "startDate": "2024-10-11T20:00:00",
-      "url": "https://www.skillboxes.com/events/privilege-fridaze-ft-jonas-monteiro-11th-oct-juliet"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Sing with Navya",
       "endDate": "2024-11-01T23:59:00",
@@ -1322,32 +1381,6 @@
       ],
       "startDate": "2024-11-16T18:00:00",
       "url": "https://www.skillboxes.com/events/azadi-tour-ditty-live-at-blr-creative-circus"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "What’s up, music fam!Join us this Friday, 11th October from 8 PM onwards at I-BAR, The Park Bangalore for ELECTRIC BOOGIE!Featuring: MONè |",
-      "endDate": "2024-10-12T01:00:00",
-      "identifier": "com.skillboxes.16263",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728234609GbYqLeO91bZJ2R3f.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "DJ/Producer"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "iBAR, THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9740179",
-            "longitude": "77.619422"
-         },
-         "name": "i-Bar THE Park Bangalore"
-      },
-      "name": "ELECTRIC BOOGIE!",
-      "offers": [ ],
-      "startDate": "2024-10-11T20:00:00",
-      "url": "https://www.skillboxes.com/events/electric-boogie"
    },
    {
       "@context": "https://schema.org",
@@ -1562,57 +1595,6 @@
       ],
       "startDate": "2024-10-27T20:00:00",
       "url": "https://www.skillboxes.com/events/crossover-halloween-ft-anyasa-27th-oct-kitty-ko"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Hello Bangalore Party People ,Air Snare is here with its  bangalore Edition of Sorted Sounds Syndicate ,Headlining this edition is Bulgarian",
-      "endDate": "2024-10-12T23:59:00",
-      "identifier": "com.skillboxes.16234",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728138258wFrh6QyH7Opqwg4J.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd, Jayamahal, Bengaluru, Karnataka 560080, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.004424",
-            "longitude": "77.5848398"
-         },
-         "name": "PEBBLE The Jungle Lounge"
-      },
-      "name": "Dream State X Sorted Sounds Syndicate Ft. BULTECH",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Minimal covers applicable at gate  8 pm to 1 am\n",
-            "inventoryLevel": 100,
-            "name": "Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/dream-state-x-sorted-sounds-syndicate-ft-bultech"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Minimal covers applicable at gate  8 pm to 1 am\n",
-            "inventoryLevel": 100,
-            "name": "Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/dream-state-x-sorted-sounds-syndicate-ft-bultech"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Minimal covers applicable at gate  8 pm to 1 am\n",
-            "inventoryLevel": 100,
-            "name": "Couple Pass",
-            "url": "https://www.skillboxes.com/events/ticket/dream-state-x-sorted-sounds-syndicate-ft-bultech"
-         }
-      ],
-      "startDate": "2024-10-12T19:00:00",
-      "url": "https://www.skillboxes.com/events/dream-state-x-sorted-sounds-syndicate-ft-bultech"
    },
    {
       "@context": "https://schema.org",
@@ -2323,61 +2305,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "✨ **Disco Dandiya at Ottoman Restobar** ✨Celebrate Navratri with a twist at **Disco Dandiya** on **11th & 12th October, 6 PM onwards",
-      "endDate": "2024-10-12T22:00:00",
-      "identifier": "com.skillboxes.15953",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/eUNyeHBvMU9oVm1MRGhiV3VZYVFKUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726908728cawlRryKCcVR0c10.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "4th Floor, Ganapa Tower, Bellandur, Bengaluru, Karnataka 560103, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9245948",
-            "longitude": "77.673019"
-         },
-         "name": "Ottoman Restobar"
-      },
-      "name": "DISCO DANDIYA VOL-4 ┃BENGALURU",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 19,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/disco-dandiya-vol-4-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 20,
-            "name": "STAG",
-            "url": "https://www.skillboxes.com/events/ticket/disco-dandiya-vol-4-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 25,
-            "name": "Couple (Selling Fast)",
-            "url": "https://www.skillboxes.com/events/ticket/disco-dandiya-vol-4-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 6,
-            "name": "Group 4-5 Pax",
-            "url": "https://www.skillboxes.com/events/ticket/disco-dandiya-vol-4-bengaluru"
-         }
-      ],
-      "startDate": "2024-10-11T18:00:00",
-      "url": "https://www.skillboxes.com/events/disco-dandiya-vol-4-bengaluru"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "Joris Voorn, a Dutch DJ and producer, is a prominent figure in the global electronic music scene. With his deep roots in underground house and techno,",
       "endDate": "2024-11-30T22:00:00",
       "identifier": "com.skillboxes.15944",
@@ -3072,273 +2999,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "🌟✨ After the back to back hit DANDIYA shows in whitefield event in diffrent Star hotels Get Ready for the Ultimate WHITEFIELD BIGGEST DANDIYA MAH",
-      "endDate": "2024-10-12T22:00:00",
-      "identifier": "com.skillboxes.15872",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726728007OVxjLoDWD4PrFZIB.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "VASWANI PINNACLE, Annexe, Whitefield Main Rd, Narayanappa Garden, Whitefield, Bengaluru, Karnataka 560066, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9668504",
-            "longitude": "77.7512528"
-         },
-         "name": "Citrus Cafe By Lemon Tree"
-      },
-      "name": "WHITE FIELD BIGGEST DANDIYA MAHOTSAVA IN LAWN AREA | Navratri 2024",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 kid and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Kids Entry",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 kid and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Kids Entry",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 kid and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Kids Entry",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 kid and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Kids Entry",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 kid and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Kids Entry",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 kid and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Kids Entry",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Female and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Female Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Female and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Female Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Female and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Female Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Female and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Female Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Female and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Female Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Female and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Female Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Male and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early bird Male Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Male and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early bird Male Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Male and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early bird Male Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Male and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early bird Male Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Male and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early bird Male Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Male and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early bird Male Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Couple and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Couple Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Couple and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Couple Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Couple and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Couple Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Couple and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Couple Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Couple and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Couple Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Couple and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Couple Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 5 People and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Group of 5 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 5 People and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Group of 5 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 5 People and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Group of 5 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 5 People and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Group of 5 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 5 People and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Group of 5 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 5 People and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Group of 5 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/Biggest-dandiya-Navratri"
-         }
-      ],
-      "startDate": "2024-10-04T16:00:00",
-      "url": "https://www.skillboxes.com/events/Biggest-dandiya-Navratri"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "Highlights: \r\n\r\n \r\n\r\n- Celebrity Djs\r\n\r\n \r\n\r\n- Festive Decor\r\n\r\n- Garba Dance\r\n\r\n- Photobooth\r\n\r\n- Open Air Poolside + Rain Proof Dance",
       "endDate": "2024-10-13T23:59:00",
       "identifier": "com.skillboxes.15871",
@@ -3569,273 +3229,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "🌟✨ After the back to back hit DANDIYA shows in whitefield event in diffrent Star hotels Get Ready for the Ultimate WHITEFIELD BIGGEST DANDIYA MAH",
-      "endDate": "2024-10-12T22:00:00",
-      "identifier": "com.skillboxes.15867",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726725629fStqdWY7Or8RwHVo.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No. 11/3A, VASWANI PINNACLE, Whitefield Main Rd, Annex, Whitefield, Bengaluru, Karnataka 560066, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9665939",
-            "longitude": "77.751258"
-         },
-         "name": "Lemon Tree Suites ,Whitefield, Bengaluru"
-      },
-      "name": "WHITEFIELD BIGGEST DANDIYA MAHOTSAVA SEASON 3 IN LAWN AREA | Navratri 2024",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 kid and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Kids Entry",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 kid and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Kids Entry",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 kid and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Kids Entry",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 kid and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Kids Entry",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 kid and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Kids Entry",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 kid and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Kids Entry",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Female and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Female Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Female and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Female Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Female and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Female Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Female and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Female Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Female and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Female Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Female and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Female Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Male and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early bird Male Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Male and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early bird Male Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Male and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early bird Male Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Male and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early bird Male Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Male and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early bird Male Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Male and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early bird Male Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Couple and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Couple Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Couple and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Couple Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Couple and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Couple Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Couple and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Couple Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Couple and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Couple Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 1 Couple and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Couple Entry Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 5 People and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Group of 5 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 5 People and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Group of 5 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 5 People and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Group of 5 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 5 People and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Group of 5 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 5 People and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Group of 5 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry Permits to 5 People and Get Free Dandiya Sticks at the Entry\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Group of 5 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-         }
-      ],
-      "startDate": "2024-10-04T16:00:00",
-      "url": "https://www.skillboxes.com/events/whitefield-biggest-dandiya-mahotsava-season-3-in-lawn-area-navratri-2024"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "RED LIVE in concert with Shankar Ehsaan Loy by Superhits 93.5 RED FM.\r\n\r\n \r\n\r\nPrepare to be swept off your feet by the legendary trio of Shankar ",
       "endDate": "2024-12-21T23:59:00",
       "identifier": "com.skillboxes.15750",
@@ -3907,97 +3300,6 @@
       ],
       "startDate": "2024-12-21T19:00:00",
       "url": "https://www.skillboxes.com/events/shankar-ehsaan-loy-live-in-concert-bangalore-2024"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Get ready to sway to the beats and twirl with joy at our grand Dandiya event \"DANDIYA RAAS- EDITION 2.0!\r\n\r\nWe are thrilled to extend a warm invi",
-      "endDate": "2024-10-12T22:00:00",
-      "identifier": "com.skillboxes.15697",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NzNHSG1OOUxVL2MwWFZVNXZVMHhHUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1726142328Yf7wuMTi0HZoPAY4.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Gattigere, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.919986",
-            "longitude": "77.5226547"
-         },
-         "name": "White Pearl Convention Hall"
-      },
-      "name": "Dandiya Raas (Edition 2.0)",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry to the Dandiya Arena and Durga Puja Celebration\n",
-            "inventoryLevel": 100,
-            "name": "Kid (5 years to 12 years) - 10th October",
-            "url": "https://www.skillboxes.com/events/ticket/dandiya-raas-edition-2-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry to the Dandiya Arena and Durga Puja Celebration\n",
-            "inventoryLevel": 100,
-            "name": "Kid (5 years to 12 years) - 12th October",
-            "url": "https://www.skillboxes.com/events/ticket/dandiya-raas-edition-2-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry to the Dandiya Arena and Durga Puja Celebration\n",
-            "inventoryLevel": 100,
-            "name": "Single Female - 10th October",
-            "url": "https://www.skillboxes.com/events/ticket/dandiya-raas-edition-2-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry to the Dandiya Arena and Durga Puja Celebration\n",
-            "inventoryLevel": 100,
-            "name": "Single Female - 12th October",
-            "url": "https://www.skillboxes.com/events/ticket/dandiya-raas-edition-2-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry to the Dandiya Arena and Durga Puja Celebration. Single male has to be accompanied by either a group of females or couple\n",
-            "inventoryLevel": 50,
-            "name": "Single Male - 10th October",
-            "url": "https://www.skillboxes.com/events/ticket/dandiya-raas-edition-2-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry to the Dandiya Arena and Durga Puja Celebration. Single male has to be accompanied by either a group of females or couple\n",
-            "inventoryLevel": 50,
-            "name": "Single Male - 12th October",
-            "url": "https://www.skillboxes.com/events/ticket/dandiya-raas-edition-2-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry to the Dandiya Arena and Durga Puja Celebration\n",
-            "inventoryLevel": 200,
-            "name": "Couple - 10th October",
-            "url": "https://www.skillboxes.com/events/ticket/dandiya-raas-edition-2-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry to the Dandiya Arena and Durga Puja Celebration\n",
-            "inventoryLevel": 200,
-            "name": "Couple - 12th October",
-            "url": "https://www.skillboxes.com/events/ticket/dandiya-raas-edition-2-1"
-         }
-      ],
-      "startDate": "2024-10-10T19:00:00",
-      "url": "https://www.skillboxes.com/events/dandiya-raas-edition-2-1"
    },
    {
       "@context": "https://schema.org",
@@ -4076,32 +3378,6 @@
       ],
       "startDate": "2024-09-20T07:00:00",
       "url": "https://www.skillboxes.com/events/salsa-dance-learn-season-chapter-8"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "About the EventJoin us for an extraordinary celebration on October 11th & 12th, 2024, at APS College Grounds, Basavanagudi!✨ What to Expect",
-      "endDate": "2024-10-12T22:00:00",
-      "identifier": "com.skillboxes.15403",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NTZrMXR1eVQ3UU9mUkpsUXJFUjJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1725180150OXee0jm77YCVgMcu.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Festival"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "WHR9+2F3, Mallikarjuna Temple St, NR Colony, Basavanagudi, Bengaluru, Karnataka 560004, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9400129",
-            "longitude": "77.5686874"
-         },
-         "name": "APS College Grounds"
-      },
-      "name": "Navratri Nights 2024",
-      "offers": [ ],
-      "startDate": "2024-10-11T17:00:00",
-      "url": "https://www.skillboxes.com/events/navratri-nights-2024"
    },
    {
       "@context": "https://schema.org",
