@@ -2621,48 +2621,6 @@
     }
   },
   {
-    "name": "Lunar Radiance",
-    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
-    "startDate": "2024-10-12T16:00:00+05:30",
-    "endDate": "2024-10-12T18:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/238cb741d96f52cf0864bf384e8facf21727676472.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/lunar-radiance-bengaluru-et52009/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-09-30 11:45:48",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/lunar-radiance-bengaluru-et52009",
-    "id": "com.zomato.52009",
-    "location": {
-      "name": "Paint The Town Restaurant",
-      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93753285,
-        "longitude": 77.61234518
-      }
-    }
-  },
-  {
     "name": "Kettle Painting",
     "description": "Join our Kettle Painting Workshop! We\u2019ll supply all the painting materials, a tasty meal, and a chance to connect with new friends. Our artists will guide you through creating your own unique kettle design, making it a fun and laid-back way to spend your afternoon. Head over to Paint The Town Art Cafe for an enjoyable day of art, food, and friendly conversations. \ud83c\udfa8\ud83c\udf7d\ufe0f\u2615",
     "startDate": "2024-10-13T13:00:00+05:30",
@@ -3385,50 +3343,6 @@
     }
   },
   {
-    "name": "SCC SkyCinema - Before Sunrise",
-    "description": "\"I believe if there's any kind of God, it wouldn't be in any of us. Not you or me, but just this little space in between.\" - Before Sunrise \n\nFind here, laughs, romance, and nostalgia with your friends and loved ones as you travel through this iconic film! A unique date-night idea or just an evening out with your friends and family, we\u2019ve got you at 1 MG - Lido Mall.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the city skyline as your backdrop.",
-    "startDate": "2024-10-12T19:00:00+05:30",
-    "endDate": "2024-10-12T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC SkyCinema - Before Sunrise Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC SkyCinema - Before Sunrise Bengaluru on Zomato which is a Experiences event happening at 1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/441b278a8359e269c9d22f4d2d68183c1727754865.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-before-sunrise-bengaluru-et52093/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-10-01 10:07:49",
-        "availability": "INSTOCK",
-        "inventory": 4
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-before-sunrise-bengaluru-et52093",
-    "id": "com.zomato.52093",
-    "location": {
-      "name": "1 MG - Lido Mall",
-      "address": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97480423,
-        "longitude": 77.62066549
-      }
-    }
-  },
-  {
     "name": "SCC Picnic Cinema - Yeh Jawaani Hai Deewani",
     "description": "\"Life mein jitna bhi try karo, kuch na kuch toh chhootega hi. Toh jahaan hai, wahi ka maza lete hai.\"- Yeh Jawaani Hai Deewani\n\nWitness the heartwarming tale of Bunny and Naina as they navigate the complexities of love and friendship. Experience the highs and lows, the laughter and tears with Sunset Cinema Club at Nexus Shantiniketan Mall.\n\nLocated in the heart of Whitefield, this bustling mall transforms into a haven of relaxation and entertainment as the sun sets and the stars begin to emerge, and your movie screening begins. Enjoy your favourite film on a large screen with surround sound, as you sink into comfy bean bags or mattresses, in the great outdoors.",
     "startDate": "2024-10-13T19:00:00+05:30",
@@ -3935,8 +3849,8 @@
   {
     "name": "We Jam",
     "description": "We Jam is the ultimate haven for music lovers!\n\nCome enjoy a relaxing and fun evening with us. A space where you can be yourself and feel at home.\nJoin our welcoming community for a lively jamming session; bring your guitars, cajones, and most importantly yourself to jam along. \n\nThe event features three parts:\n\nOpen Mic: Perform for a warm and supportive audience, no matter where you are on your musical journey. Reach out to @wejam.blr on Instagram to book your slot.\nSocial Mixer: Connect with fellow music lovers and jam along on your favourite songs. Be a part of fun and exciting music based games and get a chance to win exciting goodies. \nJamming Session: Sing, play instruments, and join the community in a warm and cozy, free-flowing musical experience. Together, we create music and memories.",
-    "startDate": "2024-10-12T16:30:00+05:30",
-    "endDate": "2024-10-12T20:30:00+05:30",
+    "startDate": "2024-10-12 16:30:00",
+    "endDate": "2024-10-12 20:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
