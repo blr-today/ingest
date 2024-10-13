@@ -2,6 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:blr.today/map-india
 BEGIN:VEVENT
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2023/01/500-x-400-px-Widget-5.jpg
+CATEGORIES:Film Screenings,MAP
+DTSTAMP:20241009T095217Z
+DESCRIPTION:This weekend\, travel back to the seventies and enjoy Awtar Krishna Kaul’s 27 Down\, a 1974 drama based on the Hindi novel Athara Sooraj Ke Paudhe. The film is centred around Sanjay\, a railway employee who is battling between his duty towards his authoritarian father and his desire for freedom. 27 Down is popular for its unique cinematography\, themes of societal expectations\, pursuit of dreams and self-discovery.\n\nThis film screening is the second in our six-month long series\, ‘The Radical Seventies’\, a collaboration between MAP and Bangalore Film Forum\, co-curated by Ashish Rajadhyaksha. \n\nThis series has been conceptualised as part of MAP’s youth engagement programming.\n\nThe Radical Seventies is a series that is specially crafted for youth to engage with older classics that resonate with our contemporary times\, in familiar and unexpected ways. Through the 1970s\, Indian cinema saw several major experiments in cinema — often made in direct conversation with radical politics. The decade began in the late 1960s and spilled over into the early 1980s. With 27 Down\, we embark on another chapter of this journey\, exploring questions around evolving identities\, migration\, and the push and pull between independence\, empowering anonymity and the loneliness of the urban experience.
+DTEND:20241026T143000Z
+DTSTART:20241026T120000Z
+SUMMARY:27 Down
+UID:587@map-india.org
+URL:https://map-india.org/map-events/27-down/
+END:VEVENT
+BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/09/Low-file-size.jpg
 CATEGORIES:Book Launch,MAP
 DTSTAMP:20241009T085104Z
@@ -13,17 +24,6 @@ UID:586@map-india.org
 URL:https://map-india.org/map-events/book-launch-memory-keepers-and-future-seekers/
 END:VEVENT
 BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-11.45.07-AM.jpeg
-CATEGORIES:Talks,MAP
-DTSTAMP:20241009T050336Z
-DESCRIPTION:Join contemporary artist\, designer and architect Tarik Currimbhoy for an intimate discussion on his practice and work.\n\nCurrimbhoy’s multi-faceted practice is marked by his mastery of juxtaposing the old and the new\, creating sculptures that are modern and minimal in form. His design work has been widely recognised and published on a global scale\, and his sculptures are prominently displayed in public spaces\, as well as within corporate and private collections across the world. Often playing with tactility\, his sculptures prompt a closer exploration with touch to feel the sensations of the materials. \n\nThis is a unique opportunity to interact with a renowned contemporary artist and take a peek behind the curtain of his inspiration and process.\n\nThis event is conceptualised under our exhibition Painting with Fire: Jeram Patel &amp\; Tarik Currimbhoy
-DTEND:20241012T123000Z
-DTSTART:20241012T113000Z
-SUMMARY:Artist Talk: Tarik Currimbhoy
-UID:583@map-india.org
-URL:https://map-india.org/map-events/artist-talk-tarik-currimbhoy/
-END:VEVENT
-BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-07-at-4.57.23-PM.jpeg
 CATEGORIES:Guided Walk,MAP
 DTSTAMP:20241008T070702Z
@@ -33,27 +33,5 @@ DTSTART:20241015T100000Z
 SUMMARY:Guided Walk of Outside In (Kannada)
 UID:585@map-india.org
 URL:https://map-india.org/map-events/walkthrough-outside-in-kannada/
-END:VEVENT
-BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/10/DSC00501.jpg
-CATEGORIES:Guided Walk,MAP
-DTSTAMP:20241010T113334Z
-DESCRIPTION:Experience a special walkthrough of the exhibition Painting with Fire led by one of the featured artists\, Tarik Currimbhoy. In this session\, get up close and personal with Tarik Currimbhoy’s vision\, hear him discuss his inspirations and the process involved in creating his artworks.\n\nPainting with Fire showcases 15 artworks by two artists\, Jeram Patel and Tarik Currimbhoy\, exploring two different styles using the same technique. The artworks invite you to explore the space through movement and shifting perspectives\, and a theatrical play of colour.\n\nThis walkthrough is conceptualised under our exhibition Painting with Fire: Jeram Patel &amp\; Tarik Currimbhoy
-DTEND:20241012T103000Z
-DTSTART:20241012T093000Z
-SUMMARY:Artist Walk with Tarik Currimbhoy
-UID:582@map-india.org
-URL:https://map-india.org/map-events/artist-walk-with-tarik-currimbhoy/
-END:VEVENT
-BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2023/01/500-x-400-px-Widget-5.jpg
-CATEGORIES:Film Screenings,MAP
-DTSTAMP:20241009T095217Z
-DESCRIPTION:This weekend\, travel back to the seventies and enjoy Awtar Krishna Kaul’s 27 Down\, a 1974 drama based on the Hindi novel Athara Sooraj Ke Paudhe. The film is centred around Sanjay\, a railway employee who is battling between his duty towards his authoritarian father and his desire for freedom. 27 Down is popular for its unique cinematography\, themes of societal expectations\, pursuit of dreams and self-discovery.\n\nThis film screening is the second in our six-month long series\, ‘The Radical Seventies’\, a collaboration between MAP and Bangalore Film Forum\, co-curated by Ashish Rajadhyaksha. \n\nThis series has been conceptualised as part of MAP’s youth engagement programming.\n\nThe Radical Seventies is a series that is specially crafted for youth to engage with older classics that resonate with our contemporary times\, in familiar and unexpected ways. Through the 1970s\, Indian cinema saw several major experiments in cinema — often made in direct conversation with radical politics. The decade began in the late 1960s and spilled over into the early 1980s. With 27 Down\, we embark on another chapter of this journey\, exploring questions around evolving identities\, migration\, and the push and pull between independence\, empowering anonymity and the loneliness of the urban experience.
-DTEND:20241026T143000Z
-DTSTART:20241026T120000Z
-SUMMARY:27 Down
-UID:587@map-india.org
-URL:https://map-india.org/map-events/27-down/
 END:VEVENT
 END:VCALENDAR

@@ -1,19 +1,5 @@
 [
   {
-    "id": "8d95a4f2-47bd-4d2c-94b3-10f2db1a23f6",
-    "image": "https://cdn.sanity.io/images/x2qnegor/production/e5cff2ddcb47f938ab758021e5604330102b12b3-2000x3000.jpg",
-    "location": {
-      "name": "Casa Karaoke",
-      "url": "https://www.google.com/maps/place/Casa+Karaoke,+AI+1,+2nd+floor,+15th+Cross,+100+Feet+Ring+Rd,+above+Pizza+Hut,+J.+P.+Nagar,+Bengaluru,+Karnataka+560078/@12.9060934,77.5952996,17z/data=!4m9!1m2!2m1!1scasa+karaoke!3m5!1s0x3bae150c309f99f7:0xa30a464902bb59f4!8m2!3d12.9060934!4d77.5952996!16s%2Fg%2F11vc00w0xn"
-    },
-    "link": null,
-    "date": "2024-10-12T06:20:00.000Z",
-    "theme": "Curators’ Selections",
-    "city": "Bangalore",
-    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-    "director": "Stanley Kubrick"
-  },
-  {
     "id": "9461bbf6-71d5-420e-a36c-1186712ccd24",
     "image": "https://cdn.sanity.io/images/x2qnegor/production/580f2f9a9120c45a589d607820dc2f3f5399f52f-1080x1540.png",
     "location": {
