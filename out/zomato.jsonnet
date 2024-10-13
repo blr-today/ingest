@@ -410,8 +410,8 @@
   {
     "name": "Jubin Nautiyal Live in Pune",
     "description": "Prepare yourselves, Pune, as you are about to witness Jubin Nautiyal concert for the first time in Maharashtra. Jubin is ready to captivate you with his beats and provide you with an unforgettable experience. This show promises to be a magnificent blend of music and vibes at a specially curated venue, offering you a once-in-a-lifetime experience.\n\nSchedule:\n\u2022\u2060  \u2060Gates open: 6:00 PM\n\u2022\u2060  \u2060DJ Rage: 6:00 - 6:30 PM\n\u2022\u2060  \u2060DJ Rtek: 6:30 - 7:00 PM\n\u2022\u2060  \u2060Jubin Nautiyal Live: 7:00 - 9:45 PM",
-    "startDate": "2024-10-13T17:00:00+05:30",
-    "endDate": "2024-10-13T22:00:00+05:30",
+    "startDate": "2024-10-13 17:00:00",
+    "endDate": "2024-10-13 22:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1195,50 +1195,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.94538528,
         "longitude": 77.62014593
-      }
-    }
-  },
-  {
-    "name": "Sunny Tunes",
-    "description": "Make some noise and have fun, since the music gets two times better when the band lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Cartridge and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
-    "startDate": "2024-10-13T13:00:00+05:30",
-    "endDate": "2024-10-13T16:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/417126744544b39c1dac27c6c38b6b781727431187.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et51903/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-27 15:49:48",
-        "availability": "INSTOCK",
-        "inventory": 194
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et51903",
-    "id": "com.zomato.51903",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
       }
     }
   },
@@ -2209,48 +2165,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97480423,
         "longitude": 77.62066549
-      }
-    }
-  },
-  {
-    "name": "Kettle Painting",
-    "description": "Join our Kettle Painting Workshop! We\u2019ll supply all the painting materials, a tasty meal, and a chance to connect with new friends. Our artists will guide you through creating your own unique kettle design, making it a fun and laid-back way to spend your afternoon. Head over to Paint The Town Art Cafe for an enjoyable day of art, food, and friendly conversations. \ud83c\udfa8\ud83c\udf7d\ufe0f\u2615",
-    "startDate": "2024-10-13T13:00:00+05:30",
-    "endDate": "2024-10-13T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f8a0b4d297a5d0ff01b9daa7a304abcf1727676561.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/kettle-painting-bengaluru-et52010/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-09-30 11:45:49",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/kettle-painting-bengaluru-et52010",
-    "id": "com.zomato.52010",
-    "location": {
-      "name": "Paint The Town Restaurant",
-      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93753285,
-        "longitude": 77.61234518
       }
     }
   },
@@ -3491,6 +3405,50 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97710202,
         "longitude": 77.59923012
+      }
+    }
+  },
+  {
+    "name": "We Jam",
+    "description": "We Jam is the ultimate haven for music lovers!\n\nCome enjoy a relaxing and fun evening with us. A space where you can be yourself and feel at home.\nJoin our welcoming community for a lively jamming session; bring your guitars, cajones, and most importantly yourself to jam along. \n\nThe event features three parts:\n\nOpen Mic: Perform for a warm and supportive audience, no matter where you are on your musical journey. Reach out to @wejam.blr on Instagram to book your slot.\nSocial Mixer: Connect with fellow music lovers and jam along on your favourite songs. Be a part of fun and exciting music based games and get a chance to win exciting goodies. \nJamming Session: Sing, play instruments, and join the community in a warm and cozy, free-flowing musical experience. Together, we create music and memories.",
+    "startDate": "2024-10-19T16:30:00+05:30",
+    "endDate": "2024-10-19T20:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "We Jam Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for We Jam Bengaluru on Zomato which is a Music event happening at Building, 4th Floor, NTR Royal Plaza, Home, Outer Ring Rd, Marathahalli, Bengaluru, Karnataka 560037",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/a6cfaebe826382af298ea316889b1fa21728796639.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/we-jam-bengaluru-et52363/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-10-13 11:02:00",
+        "availability": "INSTOCK",
+        "inventory": 220
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/we-jam-bengaluru-et52363",
+    "id": "com.zomato.52363",
+    "location": {
+      "name": "Foxtrot",
+      "address": "Building, 4th Floor, NTR Royal Plaza, Home, Outer Ring Rd, Marathahalli, Bengaluru, Karnataka 560037",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.95016517,
+        "longitude": 77.69905362
       }
     }
   }
