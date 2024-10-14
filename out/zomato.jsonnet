@@ -686,58 +686,6 @@
     }
   },
   {
-    "name": "Ethnic Dandiya At White Lotus HSR - Season - 2",
-    "description": "Get ready to groove to the beats of Ethnic Dandiya at White Lotus Club, HSR! \ud83e\udd41 It`s going to be an incredible night of infectious beats, exhilarating moves, and the perfect blend of tradition and fun!",
-    "startDate": "2024-10-04 17:30:00",
-    "endDate": "2024-10-14 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Ethnic Dandiya At White Lotus HSR - Season - 2 Party and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Ethnic Dandiya At White Lotus HSR - Season - 2 Bengaluru on Zomato which is a Party and Trending event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/5996a826d8b5e10dfb026e17a4ecb7271724823961.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-10-10 18:18:33",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-10-10 18:18:33",
-        "availability": "INSTOCK",
-        "inventory": 198
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/ethnic-dandiya-at-white-lotus-hsr-season-2-bengaluru-et49962",
-    "id": "com.zomato.49962",
-    "location": {
-      "name": "White Lotus Club",
-      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.91607507,
-        "longitude": 77.66613533
-      }
-    }
-  },
-  {
     "name": "Kingfisher OctoBeer Fest",
     "description": "Get ready for an unforgettable experience at OctoBeer Fest 2024! We\u2019re bringing together a stellar lineup of artists, including Raftaar, Jasleen Royal, Taba Chake, Osho Jain, Oaff x Savera, Dee MC, Mary Ann, Jordan Arts, Calm Chor, and many more, performing across two epic stages. \n\nBut it\u2019s not just about the music!  Dive into a massive flea market, enjoy carnival games, and explore unique beer experiences across the festival.  And don\u2019t miss the Beer Garden where you can indulge in refreshing beers and exciting cocktails. Plus, a massive food pop-up awaits to tantalize your taste buds!",
     "startDate": "2024-10-19T12:00:00+05:30",
@@ -2876,66 +2824,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.9739914,
         "longitude": 77.6198638
-      }
-    }
-  },
-  {
-    "name": "Sunset by Moments",
-    "description": "Join us at HIGH ULTRA LOUNGE on Sunday, October 13th, from 5 PM for Sunset by mOMENTS featuring KATALYST.\n\nExperience a magical night of great music, vibrant energy, and unforgettable vibes.\n\nBook your tickets now and don\u2019t miss out on turning your Sunday into something special!",
-    "startDate": "2024-10-13 20:00:00",
-    "endDate": "2024-10-14 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Sunset by Moments Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sunset by Moments Bengaluru on Zomato which is a Trending event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3cbb0ad83fe13fd2a93f0f3432664cb71728476487.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/sunset-by-moments-bengaluru-et52308/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-10-09 17:56:08",
-        "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/sunset-by-moments-bengaluru-et52308/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-09 17:56:08",
-        "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/sunset-by-moments-bengaluru-et52308/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-10-09 17:56:09",
-        "availability": "INSTOCK",
-        "inventory": 96
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/sunset-by-moments-bengaluru-et52308",
-    "id": "com.zomato.52308",
-    "location": {
-      "name": "High Ultra Lounge",
-      "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.0122829,
-        "longitude": 77.5561431
       }
     }
   },

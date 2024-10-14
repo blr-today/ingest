@@ -12,19 +12,5 @@
     "city": "Bangalore",
     "title": "Filmscapes of India",
     "director": "Mani Kaul"
-  },
-  {
-    "id": "a42b3ff9-49d3-40f5-9aa3-985ed180a3e2",
-    "image": "https://cdn.sanity.io/images/x2qnegor/production/8e44716f76e2cc309b0f26059ba7f8765752bbcd-667x1000.jpg",
-    "location": {
-      "name": "Underline Center",
-      "url": "https://maps.app.goo.gl/orRqJsJXN7h2pP6N9"
-    },
-    "link": null,
-    "date": "2024-10-13T14:00:00.000Z",
-    "theme": "Book Reading",
-    "city": "Bangalore",
-    "title": "Pale Blue Dot",
-    "director": "Carl Sagan"
   }
 ]
