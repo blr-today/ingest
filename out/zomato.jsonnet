@@ -35,7 +35,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 139
+        "inventory": 134
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -43,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 336
+        "inventory": 335
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -51,7 +51,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 435
+        "inventory": 430
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -320,7 +320,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 33
+        "inventory": 18
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -328,7 +328,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "INSTOCK",
-        "inventory": 104
+        "inventory": 102
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -431,136 +431,7 @@
       "https://b.zmtcdn.com/data/zomaland/32d5b230d7a4dc6aeb2ae881b28dbbbd1723112621.png",
       "https://b.zmtcdn.com/data/zomaland/2364cdeade40679d09b14646949e017d1724220867.png"
     ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 1199,
-        "currency": "INR",
-        "validFrom": "2024-07-30 22:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 1608
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 1699,
-        "currency": "INR",
-        "validFrom": "2024-09-10 10:30:00",
-        "availability": "SELLING_FAST",
-        "inventory": 1741
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 2699,
-        "currency": "INR",
-        "validFrom": "2024-07-30 22:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 722
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 3999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 22:00:00",
-        "availability": "INSTOCK",
-        "inventory": 123
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 5500,
-        "currency": "INR",
-        "validFrom": "2024-10-07 21:01:52",
-        "availability": "INSTOCK",
-        "inventory": 18
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 6999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 22:00:00",
-        "availability": "INSTOCK",
-        "inventory": 40
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 6999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 22:00:00",
-        "availability": "INSTOCK",
-        "inventory": 26
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 8000,
-        "currency": "INR",
-        "validFrom": "2024-10-07 21:01:53",
-        "availability": "INSTOCK",
-        "inventory": 16
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 9999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 22:00:00",
-        "availability": "INSTOCK",
-        "inventory": 29
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 10000,
-        "currency": "INR",
-        "validFrom": "2024-10-07 21:01:53",
-        "availability": "INSTOCK",
-        "inventory": 20
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 15000,
-        "currency": "INR",
-        "validFrom": "2024-10-07 21:01:54",
-        "availability": "INSTOCK",
-        "inventory": 18
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 3999,
-        "currency": "INR",
-        "validFrom": "2024-07-30 22:00:00",
-        "availability": "INSTOCK",
-        "inventory": 108
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 4000,
-        "currency": "INR",
-        "validFrom": "2024-08-29 15:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 6500,
-        "currency": "INR",
-        "validFrom": "2024-08-29 15:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 7000,
-        "currency": "INR",
-        "validFrom": "2024-08-29 15:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/jubin-nautiyal-live-in-pune-pune-et46946/details",
-        "price": 12000,
-        "currency": "INR",
-        "validFrom": "2024-08-29 15:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
+    "tickets": [],
     "performers": [],
     "organizer": [
       {
@@ -709,7 +580,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:04",
         "availability": "INSTOCK",
-        "inventory": 2485
+        "inventory": 2473
       },
       {
         "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
@@ -717,7 +588,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:05",
         "availability": "INSTOCK",
-        "inventory": 2486
+        "inventory": 2478
       },
       {
         "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
@@ -769,7 +640,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:46",
         "availability": "INSTOCK",
-        "inventory": 19
+        "inventory": 17
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -785,7 +656,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:47",
         "availability": "INSTOCK",
-        "inventory": 37
+        "inventory": 35
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -979,7 +850,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9994
+        "inventory": 9993
       }
     ],
     "performers": [],
@@ -1023,7 +894,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:49",
         "availability": "INSTOCK",
-        "inventory": 191
+        "inventory": 189
       }
     ],
     "performers": [],
@@ -1155,7 +1026,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:52",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 193
       }
     ],
     "performers": [],
@@ -1199,7 +1070,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:52",
         "availability": "INSTOCK",
-        "inventory": 194
+        "inventory": 193
       }
     ],
     "performers": [],
@@ -1375,7 +1246,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:55",
         "availability": "INSTOCK",
-        "inventory": 197
+        "inventory": 192
       }
     ],
     "performers": [],
@@ -1683,7 +1554,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 22:02:27",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 199
       }
     ],
     "performers": [],
@@ -2449,7 +2320,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 22:01:21",
         "availability": "INSTOCK",
-        "inventory": 6
+        "inventory": 5
       },
       {
         "url": "https://www.zomato.com/events/yoga-with-kittens-by-pawasana-bengaluru-et52188/details",
@@ -2624,7 +2495,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 13:17:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/bengaluru-pre-party-to-pet-fed-kitty-edition-bengaluru-et52224/details",
@@ -2692,7 +2563,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 21:11:48",
         "availability": "INSTOCK",
-        "inventory": 47
+        "inventory": 44
       }
     ],
     "performers": [],
@@ -2736,7 +2607,7 @@
         "currency": "INR",
         "validFrom": "2024-10-08 15:31:55",
         "availability": "INSTOCK",
-        "inventory": 187
+        "inventory": 186
       },
       {
         "url": "https://www.zomato.com/events/casa-bacardi-halloween-ft-ankytrixx-bengaluru-et52281/details",
@@ -2744,7 +2615,7 @@
         "currency": "INR",
         "validFrom": "2024-10-08 15:31:55",
         "availability": "INSTOCK",
-        "inventory": 161
+        "inventory": 157
       }
     ],
     "performers": [],
@@ -2864,7 +2735,7 @@
         "currency": "INR",
         "validFrom": "2024-10-09 21:44:10",
         "availability": "INSTOCK",
-        "inventory": 94
+        "inventory": 93
       }
     ],
     "performers": [],
@@ -2891,7 +2762,7 @@
     "name": "One8 Commune Sunsets X SoMAD - RAJA \ud83c\uddfa\ud83c\udde6 Live",
     "description": "Commune Sunsets is a stop Solution for all your music Exploration needs, Where SoMAD With its immersive expertise in Curation and Event production brings you an unparalleled experience with the city's best Sound Audio and Visual appeal, come be a part of the commune and socialise with the city\u2019s finest creators, music enthusiasts & the Glam! \n\nYour Day to Sundowner/Night party just got elevated! \n\nThis is the Hottest Rooftop and you don\u2019t want to miss being a part of the Community. \n\nAbout RAJA Music : \nA Ukrainian musician and producer based in Berlin, is a visionary artist known for pushing the boundaries of electronic music.\n\nDrawing inspiration from ancient cultures, rituals, and traditions worldwide, Raja creates immersive sonic experiences that captivate audiences with a deep ethnic atmosphere.\nRaja's project blends techno with ethnic rhythms, aiming for global unity. ",
     "startDate": "2024-10-20T17:00:00+05:30",
-    "endDate": "2024-10-21T00:30:00+05:30",
+    "endDate": "2024-10-21T00:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2905,35 +2776,19 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/one8-commune-sunsets-x-somad-raja-live-bengaluru-et52315/details",
-        "price": 299,
+        "price": 399,
         "currency": "INR",
-        "validFrom": "2024-10-10 11:10:06",
+        "validFrom": "2024-10-13 18:00:36",
         "availability": "INSTOCK",
-        "inventory": 295
+        "inventory": 49
       },
       {
         "url": "https://www.zomato.com/events/one8-commune-sunsets-x-somad-raja-live-bengaluru-et52315/details",
-        "price": 499,
+        "price": 799,
         "currency": "INR",
-        "validFrom": "2024-10-10 11:10:06",
+        "validFrom": "2024-10-13 18:00:37",
         "availability": "INSTOCK",
-        "inventory": 294
-      },
-      {
-        "url": "https://www.zomato.com/events/one8-commune-sunsets-x-somad-raja-live-bengaluru-et52315/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-10 11:10:06",
-        "availability": "INSTOCK",
-        "inventory": 290
-      },
-      {
-        "url": "https://www.zomato.com/events/one8-commune-sunsets-x-somad-raja-live-bengaluru-et52315/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-10-10 11:10:07",
-        "availability": "INSTOCK",
-        "inventory": 292
+        "inventory": 49
       }
     ],
     "performers": [],
