@@ -2832,7 +2832,7 @@
         "currency": "INR",
         "validFrom": "2024-10-13 11:02:00",
         "availability": "INSTOCK",
-        "inventory": 220
+        "inventory": 207
       }
     ],
     "performers": [],

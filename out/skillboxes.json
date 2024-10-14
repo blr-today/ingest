@@ -153,7 +153,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants dedicated entry for one individual into VIP Area ( Closest to stage ) at the event.\n",
-            "inventoryLevel": 90,
+            "inventoryLevel": 89,
             "name": "Early Bird Ticket || VIP",
             "url": "https://www.skillboxes.com/events/ticket/livebox-festival-bangalore-1"
          }
@@ -326,6 +326,67 @@
       ],
       "startDate": "2024-11-23T15:00:00",
       "url": "https://www.skillboxes.com/events/lunaland-the-carnival-of-dreams-awaits"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "The Indie TapesRicky, a dynamic performer and full-time artist, began her professional journey at the age of 10. After residing in Shanghai, China for",
+      "endDate": "2024-11-02T23:30:00",
+      "identifier": "com.skillboxes.16437",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c05XMEQ4a3E4eWpQNmY3SDhtSFY0dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728909682BaMRO0wECzt15XEn.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9313063",
+            "longitude": "77.6329297"
+         },
+         "name": "Bira 91 Taproom, Koramangala"
+      },
+      "name": "The Indie Tapes - Feat. Ricky, Dayve, Noel Emmanuel< WalterBrown",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional 300 cover charge to be paid at the gates (Fully Redeemable)\nMust be 21 or older and must possess a valid hard ID or DigiLocker",
+            "inventoryLevel": 150,
+            "name": "The Indie Tapes - Feat. Ricky, Dayve, Noel Emmanuel, WalterBrown",
+            "url": "https://www.skillboxes.com/events/ticket/the-indie-tapes"
+         }
+      ],
+      "startDate": "2024-11-02T19:00:00",
+      "url": "https://www.skillboxes.com/events/the-indie-tapes"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Prepare to unleash your inner rockstar at Rocktoberfest, the ultimate rock festival celebrating all things music and community! Taking place on O",
+      "endDate": "2024-10-26T22:30:00",
+      "identifier": "com.skillboxes.16435",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/bm5scjdWdFptQUJZK0VSYUpvRm53QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728902772dyfBOuFOrCAgMYlB.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Festival & Fair"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Whitefield Main Road, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9957867",
+            "longitude": "77.6964011"
+         },
+         "name": "Phoenix Marketcity"
+      },
+      "name": "ROCKTOBERFEST",
+      "offers": [ ],
+      "startDate": "2024-10-26T16:00:00",
+      "url": "https://www.skillboxes.com/events/rocktoberfest"
    },
    {
       "@context": "https://schema.org",
