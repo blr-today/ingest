@@ -35,7 +35,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 134
+        "inventory": 128
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -43,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 335
+        "inventory": 331
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -63,11 +63,19 @@
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
+        "price": 13168,
+        "currency": "INR",
+        "validFrom": "2024-10-14 17:46:00",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
         "price": 14113,
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 69
+        "inventory": 68
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -75,7 +83,7 @@
         "currency": "INR",
         "validFrom": "2024-10-04 11:30:00",
         "availability": "INSTOCK",
-        "inventory": 12
+        "inventory": 11
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -320,7 +328,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 18
+        "inventory": 155
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -328,7 +336,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "INSTOCK",
-        "inventory": 102
+        "inventory": 101
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -580,7 +588,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:04",
         "availability": "INSTOCK",
-        "inventory": 2473
+        "inventory": 2466
       },
       {
         "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
@@ -588,7 +596,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:05",
         "availability": "INSTOCK",
-        "inventory": 2478
+        "inventory": 2474
       },
       {
         "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
@@ -596,7 +604,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:05",
         "availability": "INSTOCK",
-        "inventory": 2986
+        "inventory": 2979
       }
     ],
     "performers": [],
@@ -648,7 +656,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:47",
         "availability": "INSTOCK",
-        "inventory": 39
+        "inventory": 36
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -842,7 +850,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9979
+        "inventory": 9977
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -894,7 +902,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:49",
         "availability": "INSTOCK",
-        "inventory": 189
+        "inventory": 187
       }
     ],
     "performers": [],
@@ -1026,7 +1034,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:52",
         "availability": "INSTOCK",
-        "inventory": 193
+        "inventory": 192
       }
     ],
     "performers": [],
@@ -1422,7 +1430,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 22:02:25",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 196
       }
     ],
     "performers": [],
@@ -1554,7 +1562,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 22:02:27",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 198
       }
     ],
     "performers": [],
@@ -1776,7 +1784,7 @@
         "currency": "INR",
         "validFrom": "2024-09-29 19:41:43",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 8
       }
     ],
     "performers": [],
@@ -2543,17 +2551,41 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/hari-shankar-live-in-bangalore-nexus-kormangala-bengaluru-et52225/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-10-15 11:28:11",
+        "availability": "INSTOCK",
+        "inventory": 300
+      },
+      {
+        "url": "https://www.zomato.com/events/hari-shankar-live-in-bangalore-nexus-kormangala-bengaluru-et52225/details",
+        "price": 799,
+        "currency": "INR",
+        "validFrom": "2024-10-15 11:28:11",
+        "availability": "INSTOCK",
+        "inventory": 300
+      },
+      {
+        "url": "https://www.zomato.com/events/hari-shankar-live-in-bangalore-nexus-kormangala-bengaluru-et52225/details",
+        "price": 1599,
+        "currency": "INR",
+        "validFrom": "2024-10-15 11:28:12",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/hari-shankar-live-in-bangalore-nexus-kormangala-bengaluru-et52225/details",
         "price": 499,
         "currency": "INR",
-        "validFrom": "2024-10-07 21:11:47",
+        "validFrom": "2024-10-07 21:11:00",
         "availability": "INSTOCK",
-        "inventory": 91
+        "inventory": 88
       },
       {
         "url": "https://www.zomato.com/events/hari-shankar-live-in-bangalore-nexus-kormangala-bengaluru-et52225/details",
         "price": 699,
         "currency": "INR",
-        "validFrom": "2024-10-07 21:11:48",
+        "validFrom": "2024-10-07 21:11:00",
         "availability": "INSTOCK",
         "inventory": 100
       },
@@ -2561,7 +2593,7 @@
         "url": "https://www.zomato.com/events/hari-shankar-live-in-bangalore-nexus-kormangala-bengaluru-et52225/details",
         "price": 1499,
         "currency": "INR",
-        "validFrom": "2024-10-07 21:11:48",
+        "validFrom": "2024-10-07 21:11:00",
         "availability": "INSTOCK",
         "inventory": 44
       }
@@ -2607,7 +2639,7 @@
         "currency": "INR",
         "validFrom": "2024-10-08 15:31:55",
         "availability": "INSTOCK",
-        "inventory": 186
+        "inventory": 180
       },
       {
         "url": "https://www.zomato.com/events/casa-bacardi-halloween-ft-ankytrixx-bengaluru-et52281/details",
@@ -2615,7 +2647,7 @@
         "currency": "INR",
         "validFrom": "2024-10-08 15:31:55",
         "availability": "INSTOCK",
-        "inventory": 157
+        "inventory": 144
       }
     ],
     "performers": [],
@@ -2727,7 +2759,7 @@
         "currency": "INR",
         "validFrom": "2024-10-09 21:44:10",
         "availability": "INSTOCK",
-        "inventory": 97
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/core-open-air-bengaluru-et52309/details",
@@ -2735,7 +2767,7 @@
         "currency": "INR",
         "validFrom": "2024-10-09 21:44:10",
         "availability": "INSTOCK",
-        "inventory": 93
+        "inventory": 90
       }
     ],
     "performers": [],
@@ -2788,7 +2820,7 @@
         "currency": "INR",
         "validFrom": "2024-10-13 18:00:37",
         "availability": "INSTOCK",
-        "inventory": 49
+        "inventory": 42
       }
     ],
     "performers": [],
@@ -2832,7 +2864,7 @@
         "currency": "INR",
         "validFrom": "2024-10-13 11:02:00",
         "availability": "INSTOCK",
-        "inventory": 207
+        "inventory": 195
       }
     ],
     "performers": [],
@@ -2852,6 +2884,488 @@
         "@type": "GeoCoordinates",
         "latitude": 12.95016517,
         "longitude": 77.69905362
+      }
+    }
+  },
+  {
+    "name": "Starry Night",
+    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
+    "startDate": "2024-11-02T16:00:00+05:30",
+    "endDate": "2024-11-02T18:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/9d79b2b14c261881fe2235f6e8732bb81728980196.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/starry-night-bengaluru-et52430/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-10-15 14:09:42",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/starry-night-bengaluru-et52430",
+    "id": "com.zomato.52430",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "I'd Give you the Moon",
+    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
+    "startDate": "2024-11-03T13:00:00+05:30",
+    "endDate": "2024-11-03T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/303ae7deebd3d332588daf0d18b6672d1728980346.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/id-give-you-the-moon-bengaluru-et52431/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-10-15 14:09:43",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/id-give-you-the-moon-bengaluru-et52431",
+    "id": "com.zomato.52431",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "1000 Wishes",
+    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
+    "startDate": "2024-11-09T16:00:00+05:30",
+    "endDate": "2024-11-09T18:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f459df4aff1fbf5ba9974e04a50d5fcb1728980395.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/1000-wishes-bengaluru-et52432/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-10-15 14:09:43",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/1000-wishes-bengaluru-et52432",
+    "id": "com.zomato.52432",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "Rose Vine",
+    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
+    "startDate": "2024-11-10T13:00:00+05:30",
+    "endDate": "2024-11-10T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/6b502badfc626d69a2c68ff94e1e4d381728980452.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/rose-vine-bengaluru-et52433/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-10-15 14:09:44",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/rose-vine-bengaluru-et52433",
+    "id": "com.zomato.52433",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "Van Gogh Tote Bag Painting",
+    "description": "Join our Tote Bag Workshop! We\u2019ll provide all the materials, a delicious meal, and the perfect opportunity to make new friends. Our artists will guide you in creating your own personalized tote bag, making it a fun and relaxing way to spend your afternoon. Come to Paint The Town Art Cafe for a delightful time filled with creativity, food, and great conversations. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83d\udc5c",
+    "startDate": "2024-11-16T16:00:00+05:30",
+    "endDate": "2024-11-16T18:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/ef4973b2ed3053445707b40d1e5a6e4f1728980493.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/van-gogh-tote-bag-painting-bengaluru-et52434/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-10-15 14:09:44",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/van-gogh-tote-bag-painting-bengaluru-et52434",
+    "id": "com.zomato.52434",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "Beneath the Blues",
+    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
+    "startDate": "2024-11-17T13:00:00+05:30",
+    "endDate": "2024-11-17T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b20be0b408312b10f977ff50346228f81728980545.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/beneath-the-blues-bengaluru-et52435/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-10-15 14:09:45",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/beneath-the-blues-bengaluru-et52435",
+    "id": "com.zomato.52435",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "Mason Jar Painting",
+    "description": "Join our Mason Jar Painting Workshop! We\u2019ll provide all the painting supplies, a delicious meal, and a chance to meet new friends. Our artists will help you create your own personalized Mason Jar, making it a fun and relaxing way to spend your afternoon. Come to Paint The Town Art Cafe for a creative experience filled with art, food, and great conversations. \ud83c\udfa8\ud83c\udf7d\ufe0f\u2615",
+    "startDate": "2024-11-23T16:00:00+05:30",
+    "endDate": "2024-11-23T18:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/c5bd3ffdf89d0491edf5384bf580cdbe1728980584.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/mason-jar-painting-bengaluru-et52436/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-10-15 14:09:45",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/mason-jar-painting-bengaluru-et52436",
+    "id": "com.zomato.52436",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "Whispers of the Spring",
+    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
+    "startDate": "2024-11-24T13:00:00+05:30",
+    "endDate": "2024-11-24T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/2aacc7a3d4f47dd5d4ae78a2d61586e61728980621.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/whispers-of-the-spring-bengaluru-et52437/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-10-15 14:09:46",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/whispers-of-the-spring-bengaluru-et52437",
+    "id": "com.zomato.52437",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "Fabric Paintig",
+    "description": "Join our Fabric Painting Workshop! We\u2019ll supply all the art materials, a tasty meal, and a chance to meet new friends. Bring your own fabric, preferably denim or any thick cloth, and our artists will guide you in creating your unique design. It\u2019s a fun and relaxed way to spend your afternoon. Head over to Paint The Town Art Cafe for a creative day filled with art, food, and friendly conversations. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83d\udc56",
+    "startDate": "2024-11-30T16:00:00+05:30",
+    "endDate": "2024-11-30T18:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/0fe6ba100031b2b304158ac9b1b315a01728980674.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/fabric-paintig-bengaluru-et52438/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-10-15 14:09:46",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/fabric-paintig-bengaluru-et52438",
+    "id": "com.zomato.52438",
+    "location": {
+      "name": "Paint The Town Restaurant",
+      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93753285,
+        "longitude": 77.61234518
+      }
+    }
+  },
+  {
+    "name": "Light It Up - Diwali 2024",
+    "description": "Join us for an enchanting evening of celebration- Light It Up, where we blend the vibrant spirit of Diwali with the infectious energy of Bollywood music. Set against the stunning backdrop of the poolside at Taj MG Road, we promise to illuminate your night with unforgettable memories and joyous moments.\n\nFeaturing Bengaluru's top DJs: Prakhar and Sunny Zahir\nDress Code: Ethnic\n\nDance the night away to electrifying Bollywood beats, as our super-talented DJs spin the perfect soundtrack to elevate your spirits, and bring out the Bollywood lover in you.\n\nHighlights:\n\u2022\u2060  \u2060Exquisite Poolside Ambience\n\u2022\u2060  \u2060Captivating Bollywood Beats\n\u2022\u2060  \u2060Delicious food and Signature drinks\n\u2022\u2060  \u2060Stunning Diwali inspired decor\n\u2022\u2060  Bangalore's most premium Diwali Bash",
+    "startDate": "2024-10-26T20:00:00+05:30",
+    "endDate": "2024-10-27T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Light It Up - Diwali 2024 Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Light It Up - Diwali 2024 Bengaluru on Zomato which is a Party event happening at 7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/631a09c5f075aadcb2cdea95c30b732d1728983661.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/light-it-up-diwali-2024-bengaluru-et52442/details",
+        "price": 249,
+        "currency": "INR",
+        "validFrom": "2024-10-15 14:52:59",
+        "availability": "INSTOCK",
+        "inventory": 25
+      },
+      {
+        "url": "https://www.zomato.com/events/light-it-up-diwali-2024-bengaluru-et52442/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-10-15 14:53:00",
+        "availability": "INSTOCK",
+        "inventory": 25
+      },
+      {
+        "url": "https://www.zomato.com/events/light-it-up-diwali-2024-bengaluru-et52442/details",
+        "price": 1749,
+        "currency": "INR",
+        "validFrom": "2024-10-15 14:53:00",
+        "availability": "INSTOCK",
+        "inventory": 25
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/light-it-up-diwali-2024-bengaluru-et52442",
+    "id": "com.zomato.52442",
+    "location": {
+      "name": "Seven Rivers Brewing Co.",
+      "address": "7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97326,
+        "longitude": 77.619667
+      }
+    }
+  },
+  {
+    "name": "Coldplay Tribute Night",
+    "description": "Get ready for a night of Coldplay magic with Alan-Kevin\nFrom hits like \"Yellow\" to \"Viva La Vida,\" Alan-Kevin will bring the energy, passion, and all the Coldplay vibes you love. \ud83c\udf1f\ud83c\udfb6\nWith stunning vocals, a lively atmosphere, and a setlist that will keep you singing all night, this is the ultimate Coldplay experience you won\u2019t want to miss. Be prepared for an unforgettable evening that feels just like the real thing.\nPlease bring your friends and let\u2019s light up the night together! \ud83c\udfb8\n\n\ud83c\udfb7Ft. Alan-Kevin\n\ud83d\uddd3\ufe0f18th October, Friday\n\ud83d\udd579pm onwards\n\ud83d\udccdRadio Bar, RMZ Ecoworld, Bellandur",
+    "startDate": "2024-10-18T21:00:00+05:30",
+    "endDate": "2024-10-18T23:50:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Coldplay Tribute Night Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Coldplay Tribute Night Bengaluru on Zomato which is a Music event happening at Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/6841112b132adfd98d34b5dbefc42c931728986651.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/coldplay-tribute-night-bengaluru-et52445/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-10-15 15:39:04",
+        "availability": "INSTOCK",
+        "inventory": 25
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/coldplay-tribute-night-bengaluru-et52445",
+    "id": "com.zomato.52445",
+    "location": {
+      "name": "Radio bar, RMZ Ecoworld",
+      "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9208664,
+        "longitude": 77.6859185
       }
     }
   }

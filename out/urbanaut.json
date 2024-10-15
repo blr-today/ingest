@@ -2959,5 +2959,110 @@
       "Local",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Analog Club",
+    "description": "Step back in time at The Analog Club, a new event series by the Studio by Copper + Cloves. Imagine walking into a busy cafe and seeing not a single phone, no-one taking selfies and no one around you scrolling. Disconnect from devices for 3 hours of unplugged experience\u2014we'll have books, board games, music, crochet, and of course, food! But this isn't about structured activities or organised fun, just genuine connection and relaxation. The event will be fluid- you can dip into activities if you want, or you can just chat to new people or graze at our high tea counter!Meet new friends, sketch, or read a book in quiet solitude (without being surrounded by people lost in their phones). We will not be doing social media on our phones at the event, we will only take photos with a camera.Embrace the analog experience, slow down, and reconnect in this crazy digital age! **Strictly no devices (no laptops, ipads, and you will be asked to keep your phone in a basket or in your bag- not in your pocket and no where on a table**Tickets are for entry and unlimited high tea from our renowned deli counter. ",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/30EF77D42F924AD19F79067FB7F4AA0F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/47D20AD0C9F144B5A7B382301F126D0E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C8319552619644A49ABA3E375EBA1BF8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/65595A7B86C34D63A7A516CC6DA25192_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B4E887B815874182B5B41CF91D1C76F7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/49601DECF5E142A6880A23D355027796_converted_webp.webp"
+    ],
+    "startDate": "2024-10-27T15:30:00+05:30",
+    "endDate": "2024-10-27T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/copy-of-the-analog-club",
+    "keywords": [
+      "Food & drink",
+      "Leisure",
+      "Wellness",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Brew & Bite: The Ultimate Caf\u00e9 Crawl",
+    "description": "Attention coffee connoisseurs and food enthusiasts! \ud83c\udf1fGet ready for Blend's Brew & Bite \u2013 the ultimate cafe crawl experience in Bangalore! Join us on October 26th from 11 AM to 1 PM for an exclusive journey through MG Road's finest cafes. Discover hidden culinary gems, savor artisanal brews, and indulge in mouthwatering delights. \ud83d\ude0bWhat's brewing?Expertly curated cafe tourExclusive tastings and demos\u00a0Insider stories from local baristas\u00a0Special offers and branded giveaways\u00a0Unforgettable coffee experiencesDon't miss this chance to elevate your coffee game and explore Bangalore's vibrant cafe culture.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EF38F78F23CD47228B3858C19FAC181F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F551F96CC2334118A21ECEEF6250CF39_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/25C9526306174B02BA97FDBA77DA3F4E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4007A267755B4F19BF6E3F14FBEE4633_converted_webp.webp"
+    ],
+    "startDate": "2024-10-26T11:00:00+05:30",
+    "endDate": "2024-10-26T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ElBDaHVyY2ggU3QsIEhhcmlkZXZwdXIsIFNoYW50aGFsYSBOYWdhciwgQXNob2sgTmFnYXIsIEJlbmdhbHVydSwgS2FybmF0YWthLCBJbmRpYSIuKiwKFAoSCXMsck18Fq47EW1rQwGxnqQyEhQKEglBGmZNfBauOxFcg2Z97fwQYQ",
+      "latitude": "12.97521460000000000000",
+      "longitude": "77.60416390000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Blend Community",
+      "description": "At Blend, we excel in spearheading innovation in Food, Fashion, and Fiction. Our portfolio comprises a diverse range of brands, and we specialize in tailoring unique experiences that seamlessly blend into their online presence.",
+      "url": "https://urbanaut.app/partner/blendexperiences",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/yysnqnwzxo-1713939165423untitleddesignjpg.jpg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96209-91119"
+      }
+    },
+    "url": "https://urbanaut.app/spot/brew-bite-the-ultimate-cafe-crawl-5308",
+    "keywords": [
+      "Food & drink",
+      "Guided tour",
+      "Walking Tour",
+      "URBANAUT"
+    ]
   }
 ]

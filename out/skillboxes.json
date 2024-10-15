@@ -5,7 +5,7 @@
       "description": "Step into the world of Korean-pop at India’s Biggest K-Pop Festival, where music, culture, and creativity collide! Featuring exhilarating perfor",
       "endDate": "2024-10-20T23:59:00",
       "identifier": "com.skillboxes.15372",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727940551mI9Hl2EYslCN53qq.jpg.webp",
+      "image": "http://www.skillboxes.com/servers/v3/app/phplib/placeholders/video.svg",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"
@@ -25,7 +25,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 200,
+            "inventoryLevel": 198,
             "name": "Phase 3 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/k-wave-festival-2024-bangalore"
          },
@@ -33,7 +33,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Dedicated Entry\nClosest to the stage",
-            "inventoryLevel": 73,
+            "inventoryLevel": 72,
             "name": "Phase 3 VIP Ticket",
             "url": "https://www.skillboxes.com/events/ticket/k-wave-festival-2024-bangalore"
          },
@@ -41,7 +41,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows access for 2 people in the festival\n",
-            "inventoryLevel": 473,
+            "inventoryLevel": 472,
             "name": "Group of 2 (GA Tickets)",
             "url": "https://www.skillboxes.com/events/ticket/k-wave-festival-2024-bangalore"
          },
@@ -49,7 +49,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows access for 2 people in the festival\nDedicated Entry | Closest to the Stage",
-            "inventoryLevel": 494,
+            "inventoryLevel": 493,
             "name": "Group of 2 (VIP Tickets)",
             "url": "https://www.skillboxes.com/events/ticket/k-wave-festival-2024-bangalore"
          },
@@ -153,7 +153,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants dedicated entry for one individual into VIP Area ( Closest to stage ) at the event.\n",
-            "inventoryLevel": 89,
+            "inventoryLevel": 87,
             "name": "Early Bird Ticket || VIP",
             "url": "https://www.skillboxes.com/events/ticket/livebox-festival-bangalore-1"
          }
@@ -188,7 +188,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 Cover Charges Per Person Applicable At The Gates.\n",
-            "inventoryLevel": 594,
+            "inventoryLevel": 583,
             "name": "Phase 3 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-india-tour-bangalore"
          },
@@ -196,7 +196,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 Cover Charges Per Person Applicable At The Gates.\nThis ticket will allow 2 people.",
-            "inventoryLevel": 739,
+            "inventoryLevel": 735,
             "name": "Buddy Ticket (2 Pax)",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-india-tour-bangalore"
          },
@@ -204,7 +204,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 Cover Charges Per Person Applicable At The Gates.\nThis ticket will allow 4 people.",
-            "inventoryLevel": 782,
+            "inventoryLevel": 780,
             "name": "Group Ticket (4 Pax)",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-india-tour-bangalore"
          },
@@ -329,6 +329,189 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "\"Salsa Thursdays at The Studio by C+C\"The Studio by Copper + Cloves in association with shArA Salsa and Latin Dance Institute presents Salsa T",
+      "endDate": "2024-12-12T21:15:00",
+      "identifier": "com.skillboxes.16465",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RGlKWS9ySXhtSklYdGRNdHBSaHp2dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728988973CFmLCvKYzLkEkV0w.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Health & Wellness"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9639148",
+            "longitude": "77.6384238"
+         },
+         "name": "the Studio by Copper + Cloves"
+      },
+      "name": "Salsa Thursdays at The Studio by C+C Indiranagar",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This is completely non-refundable ticket\nNo refunds please",
+            "inventoryLevel": 100,
+            "name": "Per head for 2 months",
+            "url": "https://www.skillboxes.com/events/ticket/salsa-thursdays-at-the-studio-by-c-c-indiranagar"
+         }
+      ],
+      "startDate": "2024-10-17T19:45:00",
+      "url": "https://www.skillboxes.com/events/salsa-thursdays-at-the-studio-by-c-c-indiranagar"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "This Friday, get ready to groove to the best of Commercial and Hip-hop music at the hottest spot in B'town—Hard Rock Cafe! St. Ma",
+      "endDate": "2024-10-18T23:59:00",
+      "identifier": "com.skillboxes.16462",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17289786359o6qYu6TwLH5L4E6.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "40 St. Marks Road Bangalore, India",
+         "name": "Hard Rock Cafe Bengaluru"
+      },
+      "name": "Bootleg Fridays at Hardrock Cafe",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable throughout the event\n",
+            "inventoryLevel": 50,
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free entry till 0930pm, post cover charges applicable\n",
+            "inventoryLevel": 50,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "One pass allow one single entry\n",
+            "inventoryLevel": 100,
+            "name": "Ladies",
+            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe"
+         }
+      ],
+      "startDate": "2024-10-18T20:00:00",
+      "url": "https://www.skillboxes.com/events/bootleg-fridays-at-hardrock-cafe"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "AltSpaces Presents Yash Nirwan (Live) + River Glass (Live), Shiv Hari, Adi G and Yumvee",
+      "endDate": "2024-10-20T23:59:00",
+      "identifier": "com.skillboxes.16461",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728978445GMm7E30M6W4a4smc.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9705141",
+            "longitude": "77.6464228"
+         },
+         "name": "Sly Granny, Indiranagar"
+      },
+      "name": "AltSpaces Presents Yash Nirwan (Live) + River Glass (Live), Shiv Hari, Adi G and Yumvee",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Early Birds",
+            "url": "https://www.skillboxes.com/events/ticket/altspaces-presents-yash-nirwan-live-river-glass-live-shiv-hari-adi-g-and-yumvee"
+         }
+      ],
+      "startDate": "2024-10-20T17:00:00",
+      "url": "https://www.skillboxes.com/events/altspaces-presents-yash-nirwan-live-river-glass-live-shiv-hari-adi-g-and-yumvee"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The Burrow Presents Fright Night Halloween Edition Ft Eva Toya, Wilderness Girl, Vazify & Shayna",
+      "endDate": "2024-10-26T23:59:00",
+      "identifier": "com.skillboxes.16460",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17289774865HBe4irljcanTZDX.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9849438",
+            "longitude": "77.5808105"
+         },
+         "name": "The Burrow"
+      },
+      "name": "The Burrow Presents Fright Night Halloween Edition Ft Eva Toya, Wilderness Girl, Vazify & Shayna",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 300,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-fright-night-halloween-edition-ft-eva-toya-wilderness-girl-vazify-shayna"
+         }
+      ],
+      "startDate": "2024-10-26T20:00:00",
+      "url": "https://www.skillboxes.com/events/the-burrow-presents-fright-night-halloween-edition-ft-eva-toya-wilderness-girl-vazify-shayna"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Debuting this Saturday at Sly Granny’s House Party Series, Disko Samosa is set to bring his radiant, soulful energy to the decks! Known for his ",
+      "endDate": "2024-10-19T23:59:00",
+      "identifier": "com.skillboxes.16459",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728975984YMlb6sx42Wfx0TSZ.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9705141",
+            "longitude": "77.6464228"
+         },
+         "name": "Sly Granny, Indiranagar"
+      },
+      "name": "House Party Series Ft Disko Samosa, XS, Joven Roy & Chan",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 400,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/house-party-series-ft-disko-samosa-xs-joven-roy-chan"
+         }
+      ],
+      "startDate": "2024-10-19T20:00:00",
+      "url": "https://www.skillboxes.com/events/house-party-series-ft-disko-samosa-xs-joven-roy-chan"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "The Burrow & Nineoeight pres. Arra, Daisho, Fushi, Nich & Raka Ashok",
       "endDate": "2024-10-25T23:59:00",
@@ -360,6 +543,41 @@
       ],
       "startDate": "2024-10-25T20:00:00",
       "url": "https://www.skillboxes.com/events/the-burrow-nineoeight-pres-raka-arra-fushi-daisho-nich"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "\n\n\nFESTIVAL ENTRY TICKET (VIP or GA) MANDATORY FOR THIS TICKET TO BE VALID.\n\nGROUP PHOTO WITH HYOLYN WILL INCLUDE 10 FANS + ARTIST",
+      "endDate": "2024-10-20T23:59:00",
+      "identifier": "com.skillboxes.16445",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17289136540bjQGlcGwcXhCaIi.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Whitefield Main Road, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9957867",
+            "longitude": "77.6964011"
+         },
+         "name": "Phoenix Marketcity (Back Area)"
+      },
+      "name": "Photo op with Hyolyn | Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "**Main Festival Pass is mandatory for entry to the event\n**This Photo Session Pass does not grant access to the festival on its own.",
+            "inventoryLevel": 87,
+            "name": "Photo Op Pass",
+            "url": "https://www.skillboxes.com/events/ticket/k-wave-festival-2024-bangalore-photo-op-with-hyolyn"
+         }
+      ],
+      "startDate": "2024-10-20T13:00:00",
+      "url": "https://www.skillboxes.com/events/k-wave-festival-2024-bangalore-photo-op-with-hyolyn"
    },
    {
       "@context": "https://schema.org",
@@ -415,10 +633,10 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "The Indie TapesRicky, a dynamic performer and full-time artist, began her professional journey at the age of 10. After residing in Shanghai, China for",
+      "description": "The Indie Tapes\r\n\r\nRicky, a dynamic performer and full-time artist, began her professional journey at the age of 10. After residing in Shanghai, China",
       "endDate": "2024-11-02T23:30:00",
       "identifier": "com.skillboxes.16437",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c05XMEQ4a3E4eWpQNmY3SDhtSFY0dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728909682BaMRO0wECzt15XEn.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c05XMEQ4a3E4eWpQNmY3SDhtSFY0dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728924920VNfBufgTBtxCjrIW.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"
@@ -433,13 +651,13 @@
          },
          "name": "Bira 91 Taproom, Koramangala"
       },
-      "name": "The Indie Tapes - Feat. Ricky, Dayve, Noel Emmanuel< WalterBrown",
+      "name": "The Indie Tapes - Feat. Ricky, DAYVE, Noel Emmanuel, WalterBrown",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional 300 cover charge to be paid at the gates (Fully Redeemable)\nMust be 21 or older and must possess a valid hard ID or DigiLocker",
-            "inventoryLevel": 150,
+            "inventoryLevel": 148,
             "name": "The Indie Tapes - Feat. Ricky, Dayve, Noel Emmanuel, WalterBrown",
             "url": "https://www.skillboxes.com/events/ticket/the-indie-tapes"
          }
@@ -454,7 +672,7 @@
       "endDate": "2024-10-26T22:30:00",
       "identifier": "com.skillboxes.16435",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/bm5scjdWdFptQUJZK0VSYUpvRm53QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728902772dyfBOuFOrCAgMYlB.jpg.webp",
-      "isAccessibleForFree": true,
+      "isAccessibleForFree": false,
       "keywords": [
          "Festival & Fair"
       ],
@@ -469,7 +687,23 @@
          "name": "Phoenix Marketcity"
       },
       "name": "ROCKTOBERFEST",
-      "offers": [ ],
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each Ticket entitles entry for One Person at the Venue on the event date\n",
+            "inventoryLevel": 1000,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/rocktoberfest"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Meet and Greet",
+            "url": "https://www.skillboxes.com/events/ticket/rocktoberfest"
+         }
+      ],
       "startDate": "2024-10-26T16:00:00",
       "url": "https://www.skillboxes.com/events/rocktoberfest"
    },
@@ -949,7 +1183,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Only 289 pennies!\nAdmits one.",
-            "inventoryLevel": 98,
+            "inventoryLevel": 94,
             "name": "Early Birdie",
             "url": "https://www.skillboxes.com/events/ticket/penny-for-your-love-4th-edition-nupur-azadi-reya-s-ensemble"
          }
@@ -1154,7 +1388,7 @@
       "description": "Awaaz-E-Musiqi (Sound of Music) - \n\n \n\nBadal Kashyap is a singer-songwriter, performing artist, and the frontman for Ma",
       "endDate": "2024-11-09T23:30:00",
       "identifier": "com.skillboxes.16341",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c05XMEQ4a3E4eWpQNmY3SDhtSFY0dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728725009QfVW4tbDXZQosvLK.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c05XMEQ4a3E4eWpQNmY3SDhtSFY0dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17289118996FQeTUNlwuL5pKrB.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"
@@ -1437,6 +1671,41 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Prepare to be mesmerized by the soulful artistry of Samar Mehdi. Known for his distinct fusion of indie folk and percussive acoustic rhythms, Samar&rs",
+      "endDate": "2024-10-19T23:59:00",
+      "identifier": "com.skillboxes.16290",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728303693CjqeFQK3KBSqQa5E.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9313063",
+            "longitude": "77.6329297"
+         },
+         "name": "Bira 91 Taproom, Koramangala"
+      },
+      "name": "Samar Mehdi & Sangram Malik Live in Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional Redeemable Cover Charge INR 500/- Per Individual Applicable At Gate.\n",
+            "inventoryLevel": 93,
+            "name": "Entry Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/samar-mehdi-sangram-malik-live-in-bangalore"
+         }
+      ],
+      "startDate": "2024-10-19T21:00:00",
+      "url": "https://www.skillboxes.com/events/samar-mehdi-sangram-malik-live-in-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Experience the magic of Coldplay through a live tribute concert by Silence of Chaos on October 20th, starting 8 PM at BIRA 91 Taproom, Koramangala. Br",
       "endDate": "2024-10-20T23:00:00",
       "identifier": "com.skillboxes.16287",
@@ -1535,7 +1804,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 143,
+            "inventoryLevel": 139,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/azadi-tour-ditty-live-at-blr-creative-circus"
          },
@@ -1576,8 +1845,15 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 30,
-            "name": "Phase 1",
+            "inventoryLevel": 47,
+            "name": "Phase 2",
+            "url": "https://www.skillboxes.com/events/ticket/mixmag-presents-lab-bengaluru"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "Phase 3",
             "url": "https://www.skillboxes.com/events/ticket/mixmag-presents-lab-bengaluru"
          },
          {
@@ -1739,7 +2015,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 75,
+            "inventoryLevel": 73,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/musical-tribute-to-sanjay-chandrakanth"
          },
@@ -2014,7 +2290,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry to one person throughout the event. (Cover charge applicable by venue)\nTickets are non-cancelable, non-refundable and non-transferable",
-            "inventoryLevel": 176,
+            "inventoryLevel": 174,
             "name": "Phase 1 GA",
             "url": "https://www.skillboxes.com/events/ticket/hardground-bengaluru"
          },
@@ -2242,7 +2518,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 23,
+            "inventoryLevel": 22,
             "name": "Regular Entry",
             "url": "https://www.skillboxes.com/events/ticket/luru-beats-Floating-Folks-Ep-3"
          }
