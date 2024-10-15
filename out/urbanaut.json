@@ -3064,5 +3064,57 @@
       "Walking Tour",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "\u2728enVie\u2728 x Cafe Noir Tipsy Parisian Brunch",
+    "description": "Escape to Paris in Bangalore: A Boozy Brunch at Caf\u00e9 NoirImagine a cozy Parisian caf\u00e9, nestled amidst the bustling city of Bangalore. The gentle pitter-patter of rain outside creates a serene ambiance as you savor a delectable French breakfast.Indulge in a boozy brunch featuring classic French delicacies like croissants, eggs made to order, and a selection of hot / cold beverages to choose from. Pair your meal with a glass of breakfast cocktail for a truly Parisian touch.Connect with fellow diners, forge new friendships, and create lasting memories. Our brunch is more than just a meal; it's an escape to Paris without leaving Bangalore.Book your spot now and escape to Paris without leaving Bangalore.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7FC5322925694DF1947FBC09D4BA181D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/49CA36260EAE4CFF9F595EB7F09E99F0_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0AD4617E415C499185A7B60B6C9656F6_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BAC02ABEB64F4CDA85CAC9F66518C429_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1C690A157110470297C3BBAF478FDB28_converted_webp.webp"
+    ],
+    "startDate": "2024-10-20T11:00:00+05:30",
+    "endDate": "2024-10-20T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3275, 1st Floor, 12th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3Tg2nYwXrjsR6IFy6nWA1KI",
+      "latitude": "12.97000760000000000000",
+      "longitude": "77.63627040000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 8,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1899.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "enVie",
+      "description": "Come meet interesting peeps over curated food & drinks at the best restaurants & bars in your city!",
+      "url": "https://urbanaut.app/partner/envie",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/FE1F93309AD941EDAAC21C6869CE8325_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99878-79181"
+      }
+    },
+    "url": "https://urbanaut.app/spot/envie-x-cafe-noir-tipsy-parisian-brunch",
+    "keywords": [
+      "Food & drink",
+      "Leisure",
+      "Premium",
+      "URBANAUT"
+    ]
   }
 ]
