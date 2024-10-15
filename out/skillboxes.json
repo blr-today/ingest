@@ -329,6 +329,40 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "The Burrow & Nineoeight pres. Arra, Daisho, Fushi, Nich & Raka Ashok",
+      "endDate": "2024-10-25T23:59:00",
+      "identifier": "com.skillboxes.16457",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728971088NXrD6QaZYmYj7v8R.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9849438",
+            "longitude": "77.5808105"
+         },
+         "name": "The Burrow"
+      },
+      "name": "The Burrow & Nineoeight pres. Arra, Daisho, Fushi, Nich & Raka Ashok",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Early Birds",
+            "url": "https://www.skillboxes.com/events/ticket/the-burrow-nineoeight-pres-raka-arra-fushi-daisho-nich"
+         }
+      ],
+      "startDate": "2024-10-25T20:00:00",
+      "url": "https://www.skillboxes.com/events/the-burrow-nineoeight-pres-raka-arra-fushi-daisho-nich"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Bangalore💥 Join us on the 19th October, Saturday at Hyatt Centric, Bangalore, as we embark on an unforgettable journey into the world of ",
       "endDate": "2024-10-20T01:00:00",
