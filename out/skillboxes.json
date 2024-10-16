@@ -5,7 +5,7 @@
       "description": "Step into the world of Korean-pop at India’s Biggest K-Pop Festival, where music, culture, and creativity collide! Featuring exhilarating perfor",
       "endDate": "2024-10-20T23:59:00",
       "identifier": "com.skillboxes.15372",
-      "image": "http://www.skillboxes.com/servers/v3/app/phplib/placeholders/video.svg",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c0lGYzlCZU9aNVlnNnBWd2hYQkFrQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728917995S65pYr77bEiS5jog.png.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"
@@ -25,7 +25,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 198,
+            "inventoryLevel": 196,
             "name": "Phase 3 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/k-wave-festival-2024-bangalore"
          },
@@ -33,7 +33,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Dedicated Entry\nClosest to the stage",
-            "inventoryLevel": 72,
+            "inventoryLevel": 66,
             "name": "Phase 3 VIP Ticket",
             "url": "https://www.skillboxes.com/events/ticket/k-wave-festival-2024-bangalore"
          },
@@ -41,7 +41,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows access for 2 people in the festival\n",
-            "inventoryLevel": 472,
+            "inventoryLevel": 471,
             "name": "Group of 2 (GA Tickets)",
             "url": "https://www.skillboxes.com/events/ticket/k-wave-festival-2024-bangalore"
          },
@@ -145,7 +145,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants general entry for one individual into General Area at the event.\n",
-            "inventoryLevel": 96,
+            "inventoryLevel": 78,
             "name": "Early Bird Ticket || GA",
             "url": "https://www.skillboxes.com/events/ticket/livebox-festival-bangalore-1"
          },
@@ -153,7 +153,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants dedicated entry for one individual into VIP Area ( Closest to stage ) at the event.\n",
-            "inventoryLevel": 87,
+            "inventoryLevel": 74,
             "name": "Early Bird Ticket || VIP",
             "url": "https://www.skillboxes.com/events/ticket/livebox-festival-bangalore-1"
          }
@@ -188,15 +188,15 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 Cover Charges Per Person Applicable At The Gates.\n",
-            "inventoryLevel": 583,
-            "name": "Phase 3 Ticket",
+            "inventoryLevel": 792,
+            "name": "Final Phase",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-india-tour-bangalore"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 Cover Charges Per Person Applicable At The Gates.\nThis ticket will allow 2 people.",
-            "inventoryLevel": 735,
+            "inventoryLevel": 718,
             "name": "Buddy Ticket (2 Pax)",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-india-tour-bangalore"
          },
@@ -230,6 +230,14 @@
             "description": "Additional INR 500 Cover Charges Per Person Applicable At The Gates.\n",
             "inventoryLevel": 392,
             "name": "Phase 2 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-india-tour-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional INR 500 Cover Charges Per Person Applicable At The Gates.\n",
+            "inventoryLevel": 577,
+            "name": "Phase 3 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-india-tour-bangalore"
          },
          {
@@ -271,7 +279,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Students (Any College/Institute) must carry a valid ID card - No Re-Entry - Allows one individual to the event area - Venue rules applicable\n",
-            "inventoryLevel": 3793,
+            "inventoryLevel": 3789,
             "name": "Phase 1 : Student Pass",
             "url": "https://www.skillboxes.com/events/ticket/lunaland-the-carnival-of-dreams-awaits"
          },
@@ -326,6 +334,100 @@
       ],
       "startDate": "2024-11-23T15:00:00",
       "url": "https://www.skillboxes.com/events/lunaland-the-carnival-of-dreams-awaits"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "The Biggest Halloween Bash Ft. Black Hertz at Kitty Ko Bangalore.",
+      "endDate": "2024-10-25T23:59:00",
+      "identifier": "com.skillboxes.16499",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1729089616TqtwzUXqv4G38Tkd.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "The Biggest Halloween Bash Ft. Black Hertz at Kitty Ko Bangalore.",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Female, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
+            "inventoryLevel": 1000,
+            "name": "EARLY BIRD FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/the-biggest-halloween-bash-ft-black-hertz-at-kitty-ko-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Couple, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/the-biggest-halloween-bash-ft-black-hertz-at-kitty-ko-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Male, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD MALE",
+            "url": "https://www.skillboxes.com/events/ticket/the-biggest-halloween-bash-ft-black-hertz-at-kitty-ko-bangalore"
+         }
+      ],
+      "startDate": "2024-10-25T19:00:00",
+      "url": "https://www.skillboxes.com/events/the-biggest-halloween-bash-ft-black-hertz-at-kitty-ko-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": " Pre Diwali Bash With Zaffar Ki MehfilCelebrates the spirit of Diwali and the mystical traditions of Sufi music",
+      "endDate": "2024-10-25T23:50:00",
+      "identifier": "com.skillboxes.16488",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Z1U1QmJGQWVDOWhZSGFneWRGREExdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17290779033ERulcrnZf3mObhV.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9208664",
+            "longitude": "77.6859185"
+         },
+         "name": "Radio Bar Bangalore"
+      },
+      "name": "Pre Diwali Bash With Zaffar Ki Mehfil",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry Only\n",
+            "inventoryLevel": 25,
+            "name": "Pre Diwali Bash With Zaffar Ki Mehfil",
+            "url": "https://www.skillboxes.com/events/ticket/pre-diwali-bash-with-zaffar-ki-mehfil"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry and F&B Redeemption\n",
+            "inventoryLevel": 50,
+            "name": "Pre Diwali Bash With Zaffar Ki Mehfil",
+            "url": "https://www.skillboxes.com/events/ticket/pre-diwali-bash-with-zaffar-ki-mehfil"
+         }
+      ],
+      "startDate": "2024-10-25T20:30:00",
+      "url": "https://www.skillboxes.com/events/pre-diwali-bash-with-zaffar-ki-mehfil"
    },
    {
       "@context": "https://schema.org",
@@ -384,7 +486,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable throughout the event\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 48,
             "name": "Stag",
             "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe"
          },
@@ -392,7 +494,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Free entry till 0930pm, post cover charges applicable\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Couple",
             "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe"
          },
@@ -411,7 +513,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "AltSpaces Presents Yash Nirwan (Live) + River Glass (Live), Shiv Hari, Adi G and Yumvee",
+      "description": "Yash Nirwan and his Sarod magic are going to graces us for the next edition of AltSpaces.He's going to be supported on the decks by Shivhari&#160",
       "endDate": "2024-10-20T23:59:00",
       "identifier": "com.skillboxes.16461",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728978445GMm7E30M6W4a4smc.jpg.webp",
@@ -434,7 +536,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 200,
+            "inventoryLevel": 195,
             "name": "Early Birds",
             "url": "https://www.skillboxes.com/events/ticket/altspaces-presents-yash-nirwan-live-river-glass-live-shiv-hari-adi-g-and-yumvee"
          }
@@ -468,7 +570,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 300,
+            "inventoryLevel": 296,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-fright-night-halloween-edition-ft-eva-toya-wilderness-girl-vazify-shayna"
          }
@@ -502,7 +604,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 400,
+            "inventoryLevel": 392,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/house-party-series-ft-disko-samosa-xs-joven-roy-chan"
          }
@@ -571,7 +673,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "**Main Festival Pass is mandatory for entry to the event\n**This Photo Session Pass does not grant access to the festival on its own.",
-            "inventoryLevel": 87,
+            "inventoryLevel": 82,
             "name": "Photo Op Pass",
             "url": "https://www.skillboxes.com/events/ticket/k-wave-festival-2024-bangalore-photo-op-with-hyolyn"
          }
@@ -692,7 +794,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Each Ticket entitles entry for One Person at the Venue on the event date\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 992,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/rocktoberfest"
          },
@@ -784,7 +886,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 430,
+            "inventoryLevel": 416,
             "name": "General Admission",
             "url": "https://www.skillboxes.com/events/ticket/rumble-sessions-ft-cronic-nrj-and-xan"
          }
@@ -819,7 +921,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Each pass permits one stag to the event. Cover charges applicable at the venue throughout the event.\n",
-            "inventoryLevel": 200,
+            "inventoryLevel": 199,
             "name": "STAGS",
             "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-3"
          },
@@ -1122,7 +1224,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "F&B Redeemption\nEntry with Cover charge",
-            "inventoryLevel": 44,
+            "inventoryLevel": 41,
             "name": "Earlybird Pasess",
             "url": "https://www.skillboxes.com/events/ticket/coldplay-tribute-night"
          }
@@ -1157,7 +1259,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Only 289 pennies!\nAdmits one.",
-            "inventoryLevel": 94,
+            "inventoryLevel": 91,
             "name": "Early Birdie",
             "url": "https://www.skillboxes.com/events/ticket/penny-for-your-love-4th-edition-nupur-azadi-reya-s-ensemble"
          }
@@ -1255,7 +1357,7 @@
       "description": "ZOZO The Club Presents Cosmonaut\r\n\r\nSat, 19-Oct-2024",
       "endDate": "2024-10-19T23:59:00",
       "identifier": "com.skillboxes.16366",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728544520EwYhph3dLFqGc8XC.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1729079128Nepp5VENaBCfh0pD.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"
@@ -1276,21 +1378,42 @@
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 1000,
-            "name": "Female Pass",
+            "name": "Phase 1 Ticket (Female)",
             "url": "https://www.skillboxes.com/events/ticket/zozo-the-club-presents-cosmonaut"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 1000,
-            "name": "Couple Pass",
+            "name": "Phase 1 Ticket (Male)",
             "url": "https://www.skillboxes.com/events/ticket/zozo-the-club-presents-cosmonaut"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 1000,
-            "name": "Male Pass",
+            "name": "Phase 1 Ticket (Couple)",
+            "url": "https://www.skillboxes.com/events/ticket/zozo-the-club-presents-cosmonaut"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Ticket (Female)",
+            "url": "https://www.skillboxes.com/events/ticket/zozo-the-club-presents-cosmonaut"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Ticket (Couple)",
+            "url": "https://www.skillboxes.com/events/ticket/zozo-the-club-presents-cosmonaut"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Ticket (Male)",
             "url": "https://www.skillboxes.com/events/ticket/zozo-the-club-presents-cosmonaut"
          }
       ],
@@ -1495,7 +1618,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 197,
+            "inventoryLevel": 193,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/beyond-thriller-the-ultimate-michael-jackson-tribute"
          }
@@ -1669,7 +1792,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge INR 500/- Per Individual Applicable At Gate.\n",
-            "inventoryLevel": 93,
+            "inventoryLevel": 91,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/samar-mehdi-sangram-malik-live-in-bangalore"
          }
@@ -1819,14 +1942,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 47,
-            "name": "Phase 2",
-            "url": "https://www.skillboxes.com/events/ticket/mixmag-presents-lab-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 50,
+            "inventoryLevel": 43,
             "name": "Phase 3",
             "url": "https://www.skillboxes.com/events/ticket/mixmag-presents-lab-bengaluru"
          },
@@ -1836,6 +1952,13 @@
             "description": "Entry permitted for one individual\nCover Charges Applicable at gate after 9pm",
             "inventoryLevel": 0,
             "name": "Early Birds",
+            "url": "https://www.skillboxes.com/events/ticket/mixmag-presents-lab-bengaluru"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 42,
+            "name": "Phase 2",
             "url": "https://www.skillboxes.com/events/ticket/mixmag-presents-lab-bengaluru"
          }
       ],
@@ -1989,7 +2112,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 73,
+            "inventoryLevel": 68,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/musical-tribute-to-sanjay-chandrakanth"
          },
@@ -2030,8 +2153,43 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "GA - Phase 2 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "VIP - Phase 2 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Phase 1 Seating",
+            "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "GA - Super Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "inventoryLevel": 98,
             "name": "GA - Phase 1 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "VIP - Super Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
          },
          {
@@ -2046,20 +2204,6 @@
             "availability": "InStock",
             "inventoryLevel": 100,
             "name": "Seating Super Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "GA - Super Early Bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "VIP - Super Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
          }
       ],
@@ -2127,7 +2271,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "No cover charge till 6pm\n",
-            "inventoryLevel": 41,
+            "inventoryLevel": 40,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/cruisy-sundowner"
          }
@@ -2240,10 +2384,10 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Bengaluru's Biggest Halloween festival\r\n\r\nHeadliners : STAN CHRIST\r\n\r\n                  LENA\r\n\r\n&nbsp",
+      "description": "🎃 Bengaluru, the ultimate hard techno Halloween experience is here! Get ready for the HARDGROUND Halloween Edition powered by DARKK ENERGY &am",
       "endDate": "2024-10-26T23:59:00",
       "identifier": "com.skillboxes.16151",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dFovTkt6QWcyQW8rVnFNSEdMWnppQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728238906M3ezVlqm9HUwdUVf.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dFovTkt6QWcyQW8rVnFNSEdMWnppQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17290146561GLNkXDrXygd4K8F.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"
@@ -2293,7 +2437,7 @@
             "url": "https://www.skillboxes.com/events/ticket/hardground-bengaluru"
          }
       ],
-      "startDate": "2024-10-26T14:00:00",
+      "startDate": "2024-10-26T13:00:00",
       "url": "https://www.skillboxes.com/events/hardground-bengaluru"
    },
    {
@@ -2424,7 +2568,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 29,
+            "inventoryLevel": 28,
             "name": "Regular Entry",
             "url": "https://www.skillboxes.com/events/ticket/luru-beats-Floating-Folks-Ep-6"
          }
@@ -2526,7 +2670,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 982,
+            "inventoryLevel": 977,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/dee-en-saturn-return-tour-supported-by-preacher-and-her-creature-feature"
          }
@@ -2602,7 +2746,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Each ticket entitles entry of one person to the event. - Entry before 7 pm. - Access to GA area only.\n",
-            "inventoryLevel": 98,
+            "inventoryLevel": 5,
             "name": "GA || Early Entry",
             "url": "https://www.skillboxes.com/events/ticket/21yearsofsubmerge-feat-joris-voorn-bangalore"
          },
@@ -2610,7 +2754,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Each ticket entitles entry to one person to the event. - Access to GA area only\n",
-            "inventoryLevel": 196,
+            "inventoryLevel": 195,
             "name": "GA || Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/21yearsofsubmerge-feat-joris-voorn-bangalore"
          },
@@ -2684,9 +2828,25 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Permits entry to the venue for 4 person at the gold area.\n",
+            "inventoryLevel": 50,
+            "name": "Diwali Offer -Buy 3 Get 1 Free - Gold (Seating) - Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/shankar-ehsaan-loy-live-in-concert-bangalore-2024"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "Permits entry to the venue for one person at the VIP area.\n",
             "inventoryLevel": 50,
             "name": "VIP (Seating) - Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/shankar-ehsaan-loy-live-in-concert-bangalore-2024"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits entry to the venue for 4 person at the platinum area.\n",
+            "inventoryLevel": 50,
+            "name": "Diwali Offer -Buy 3 Get 1 Free - Platinum (Seating) - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/shankar-ehsaan-loy-live-in-concert-bangalore-2024"
          },
          {

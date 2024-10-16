@@ -31,11 +31,27 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
+        "price": 2773,
+        "currency": "INR",
+        "validFrom": "2024-10-16 11:47:29",
+        "availability": "INSTOCK",
+        "inventory": 335
+      },
+      {
+        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
+        "price": 2773,
+        "currency": "INR",
+        "validFrom": "2024-10-16 11:47:30",
+        "availability": "INSTOCK",
+        "inventory": 349
+      },
+      {
+        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
         "price": 3650,
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 128
+        "inventory": 126
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -43,7 +59,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 331
+        "inventory": 327
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -51,7 +67,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 430
+        "inventory": 428
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -59,7 +75,7 @@
         "currency": "INR",
         "validFrom": "2024-10-04 11:30:00",
         "availability": "INSTOCK",
-        "inventory": 32
+        "inventory": 29
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -91,7 +107,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 69
+        "inventory": 67
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -328,7 +344,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 155
+        "inventory": 137
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -336,7 +352,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "INSTOCK",
-        "inventory": 101
+        "inventory": 98
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -541,7 +557,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 17:18:27",
         "availability": "INSTOCK",
-        "inventory": 36
+        "inventory": 34
       }
     ],
     "performers": [],
@@ -588,7 +604,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:04",
         "availability": "INSTOCK",
-        "inventory": 2466
+        "inventory": 2438
       },
       {
         "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
@@ -596,7 +612,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:05",
         "availability": "INSTOCK",
-        "inventory": 2474
+        "inventory": 2463
       },
       {
         "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
@@ -604,7 +620,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:05",
         "availability": "INSTOCK",
-        "inventory": 2979
+        "inventory": 2978
       }
     ],
     "performers": [],
@@ -647,8 +663,8 @@
         "price": 999,
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:46",
-        "availability": "INSTOCK",
-        "inventory": 17
+        "availability": "SELLING_FAST",
+        "inventory": 13
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -664,7 +680,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:47",
         "availability": "INSTOCK",
-        "inventory": 35
+        "inventory": 34
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -850,7 +866,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9977
+        "inventory": 9976
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -858,7 +874,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9993
+        "inventory": 9992
       }
     ],
     "performers": [],
@@ -878,50 +894,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.99784934,
         "longitude": 77.59742123
-      }
-    }
-  },
-  {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-10-16T20:30:00+05:30",
-    "endDate": "2024-10-16T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/74f4a62da96b9504dc3d536bc7ff250b1727431295.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et51905/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-27 15:49:49",
-        "availability": "INSTOCK",
-        "inventory": 187
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et51905",
-    "id": "com.zomato.51905",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
       }
     }
   },
@@ -1034,7 +1006,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:52",
         "availability": "INSTOCK",
-        "inventory": 192
+        "inventory": 189
       }
     ],
     "performers": [],
@@ -1078,7 +1050,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:52",
         "availability": "INSTOCK",
-        "inventory": 193
+        "inventory": 191
       }
     ],
     "performers": [],
@@ -1254,7 +1226,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:55",
         "availability": "INSTOCK",
-        "inventory": 192
+        "inventory": 189
       }
     ],
     "performers": [],
@@ -1386,7 +1358,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 22:02:24",
         "availability": "INSTOCK",
-        "inventory": 197
+        "inventory": 196
       }
     ],
     "performers": [],
@@ -1430,7 +1402,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 22:02:25",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 194
       }
     ],
     "performers": [],
@@ -1518,7 +1490,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 22:02:26",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 198
       }
     ],
     "performers": [],
@@ -1650,7 +1622,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 22:02:28",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 196
       }
     ],
     "performers": [],
@@ -1742,7 +1714,7 @@
         "currency": "INR",
         "validFrom": "2024-09-29 19:41:43",
         "availability": "INSTOCK",
-        "inventory": 8
+        "inventory": 6
       }
     ],
     "performers": [],
@@ -1774,6 +1746,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
+    "ogTitle": "SCC SkyCinema - Diwali Special Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for SCC SkyCinema - Diwali Special Bengaluru on Zomato which is a Trending event happening at 1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru, Karnataka 560008",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/c53c47c111c85532fa474b45541eb0a31727618876.jpeg"
     ],
@@ -1783,8 +1757,8 @@
         "price": 600,
         "currency": "INR",
         "validFrom": "2024-09-29 19:41:43",
-        "availability": "INSTOCK",
-        "inventory": 8
+        "availability": "SELLING_FAST",
+        "inventory": 1
       }
     ],
     "performers": [],
@@ -2336,7 +2310,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 22:01:55",
         "availability": "INSTOCK",
-        "inventory": 16
+        "inventory": 15
       }
     ],
     "performers": [],
@@ -2380,7 +2354,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 22:03:46",
         "availability": "INSTOCK",
-        "inventory": 7
+        "inventory": 5
       },
       {
         "url": "https://www.zomato.com/events/paint-with-puppies-by-pawasana-bengaluru-et52189/details",
@@ -2388,7 +2362,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 22:03:47",
         "availability": "INSTOCK",
-        "inventory": 19
+        "inventory": 18
       }
     ],
     "performers": [],
@@ -2639,7 +2613,7 @@
         "currency": "INR",
         "validFrom": "2024-10-08 15:31:55",
         "availability": "INSTOCK",
-        "inventory": 180
+        "inventory": 177
       },
       {
         "url": "https://www.zomato.com/events/casa-bacardi-halloween-ft-ankytrixx-bengaluru-et52281/details",
@@ -2647,7 +2621,7 @@
         "currency": "INR",
         "validFrom": "2024-10-08 15:31:55",
         "availability": "INSTOCK",
-        "inventory": 144
+        "inventory": 142
       }
     ],
     "performers": [],
@@ -2759,7 +2733,7 @@
         "currency": "INR",
         "validFrom": "2024-10-09 21:44:10",
         "availability": "INSTOCK",
-        "inventory": 96
+        "inventory": 95
       },
       {
         "url": "https://www.zomato.com/events/core-open-air-bengaluru-et52309/details",
@@ -2767,7 +2741,7 @@
         "currency": "INR",
         "validFrom": "2024-10-09 21:44:10",
         "availability": "INSTOCK",
-        "inventory": 90
+        "inventory": 88
       }
     ],
     "performers": [],
@@ -2812,7 +2786,7 @@
         "currency": "INR",
         "validFrom": "2024-10-13 18:00:36",
         "availability": "INSTOCK",
-        "inventory": 49
+        "inventory": 48
       },
       {
         "url": "https://www.zomato.com/events/one8-commune-sunsets-x-somad-raja-live-bengaluru-et52315/details",
@@ -2820,7 +2794,7 @@
         "currency": "INR",
         "validFrom": "2024-10-13 18:00:37",
         "availability": "INSTOCK",
-        "inventory": 42
+        "inventory": 39
       }
     ],
     "performers": [],
@@ -2864,7 +2838,7 @@
         "currency": "INR",
         "validFrom": "2024-10-13 11:02:00",
         "availability": "INSTOCK",
-        "inventory": 195
+        "inventory": 187
       }
     ],
     "performers": [],
@@ -3294,7 +3268,7 @@
         "currency": "INR",
         "validFrom": "2024-10-15 14:53:00",
         "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 24
       },
       {
         "url": "https://www.zomato.com/events/light-it-up-diwali-2024-bengaluru-et52442/details",
@@ -3346,7 +3320,7 @@
         "currency": "INR",
         "validFrom": "2024-10-15 15:39:04",
         "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 21
       }
     ],
     "performers": [],
