@@ -3368,5 +3368,89 @@
         "longitude": 77.6859185
       }
     }
+  },
+  {
+    "name": "SoMAD Diwali Celebration Party 2024",
+    "description": "#SoMADDiwali\n\nArtist LineUp :\nGURBAX\nAFTERALL\nKAMPAI\nYNG DAKU\nAPCN \n& Friends\n\nIt's that time of the year again when we get to dress in our best ETHINC WEAR, get together with our loved ones, listen to some melodious music and celebrate the Festival of Lights!\n\nBring in those good vibes with some intoxicating tunes by the best artists in the game at our DAY PARTY!\n\nBengaluru\u2019s first and focused sustainable Diwali party !\nCome be a part of the Change. \ud83e\ude94",
+    "startDate": "2024-11-03T16:00:00+05:30",
+    "endDate": "2024-11-03T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "SoMAD Diwali Celebration Party 2024 Music and Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for SoMAD Diwali Celebration Party 2024 Bengaluru on Zomato which is a Music and Experiences event happening at 963, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/0d3aad05f0aa7463273c809f40dae3501729058557.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-10-16 12:34:55",
+        "availability": "INSTOCK",
+        "inventory": 5
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-10-16 12:34:55",
+        "availability": "INSTOCK",
+        "inventory": 5
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-10-16 12:34:56",
+        "availability": "INSTOCK",
+        "inventory": 5
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-10-16 12:34:57",
+        "availability": "INSTOCK",
+        "inventory": 5
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-10-16 12:34:56",
+        "availability": "INSTOCK",
+        "inventory": 5
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
+        "price": 799,
+        "currency": "INR",
+        "validFrom": "2024-10-16 12:34:57",
+        "availability": "INSTOCK",
+        "inventory": 5
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449",
+    "id": "com.zomato.52449",
+    "location": {
+      "name": "Daddy Bangalore",
+      "address": "963, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9708291,
+        "longitude": 77.63977439
+      }
+    }
   }
 ]
