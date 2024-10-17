@@ -898,50 +898,6 @@
     }
   },
   {
-    "name": "Severed",
-    "description": "Catch Severed performing live your favourite tracks at Hard Rock Cafe, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-10-17T20:30:00+05:30",
-    "endDate": "2024-10-17T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Severed Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Severed Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/8acda5e95ecc8f48fda03b8a2bc78b1f1727431331.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/severed-bengaluru-et51906/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-09-27 15:49:49",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/severed-bengaluru-et51906",
-    "id": "com.zomato.51906",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Sunny Tunes",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Presentense and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
     "startDate": "2024-10-20T13:00:00+05:30",
@@ -1334,50 +1290,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97595324,
         "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-10-17T20:30:00+05:30",
-    "endDate": "2024-10-17T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/aef1db1819f58cc271a92b623283b1111727453933.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et51927/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-27 22:02:24",
-        "availability": "INSTOCK",
-        "inventory": 196
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et51927",
-    "id": "com.zomato.51927",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
       }
     }
   },
@@ -3512,6 +3424,148 @@
         "@type": "GeoCoordinates",
         "latitude": 13.02937297,
         "longitude": 77.76017264
+      }
+    }
+  },
+  {
+    "name": "Rahul dit-o live in Bangalore",
+    "description": "The kingpin of Kannada Rap music, Rahul Dit-O is Kannada's first Gangsta rapper. He is well-known for his rap songs like Thago, Rock Bhai, Bro Bro, Nande, Obbane & many more. The biggest kanada rapping show on kannda rajostva.\nWe are bringing the best Kannada concert for the first time in banglore.",
+    "startDate": "2024-11-01T17:00:00+05:30",
+    "endDate": "2024-11-01T22:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3785455365942080f988004f41d4ff1a1729166635.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/rahul-dit-o-live-in-bangalore-bengaluru-et52506/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-10-17 18:31:02",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/rahul-dit-o-live-in-bangalore-bengaluru-et52506/details",
+        "price": 149,
+        "currency": "INR",
+        "validFrom": "2024-10-17 18:31:03",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/rahul-dit-o-live-in-bangalore-bengaluru-et52506",
+    "id": "com.zomato.52506",
+    "location": {
+      "name": "Forum South JP Nagar",
+      "address": "Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte, Bengaluru, Karnataka 560062",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.888352,
+        "longitude": 77.5633138
+      }
+    }
+  },
+  {
+    "name": "The Beatles Revival",
+    "description": "Get ready to twist and shout at The Beatles Revival with Sweston & Lemon Chai \u2013 a nostalgic, fun-filled tribute to the Fab Four that'll have you singing along to every classic hit!",
+    "startDate": "2024-10-20T19:00:00+05:30",
+    "endDate": "2024-10-20T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/1e893dc2593738491ac7bd695bd5eb701729166685.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/the-beatles-revival-bengaluru-et52507/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-10-17 18:31:03",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/the-beatles-revival-bengaluru-et52507",
+    "id": "com.zomato.52507",
+    "location": {
+      "name": "Gilly's St. Marks Road",
+      "address": "2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9718485,
+        "longitude": 77.6009258
+      }
+    }
+  },
+  {
+    "name": "Pre Diwali Bash With Zaffar Ki Mehfil",
+    "description": "Pre Diwali celebration Sufi Night \ud83c\udfa4\u2728\nBring your friends and let\u2019s light up the night together! \ud83c\udfb8\n\n\ud83c\udfb7Ft. Zaffar Ki Mehfil \n\ud83d\uddd3\ufe0f25th October, Friday\n\ud83d\udd579pm onwards\n\ud83d\udccdRadio Bar, RMZ Ecoworld, Bellandur\n\nEvent Start Date and Time - 25th October, Friday| 9:00pm onwards",
+    "startDate": "2024-10-25T21:00:00+05:30",
+    "endDate": "2024-10-25T23:50:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/26cff2722cd157ec4bc7fe478d5403791729169636.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/pre-diwali-bash-with-zaffar-ki-mehfil-bengaluru-et52510/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-10-17 18:31:04",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/pre-diwali-bash-with-zaffar-ki-mehfil-bengaluru-et52510/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-10-17 18:31:04",
+        "availability": "INSTOCK",
+        "inventory": 25
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/pre-diwali-bash-with-zaffar-ki-mehfil-bengaluru-et52510",
+    "id": "com.zomato.52510",
+    "location": {
+      "name": "Radio bar, RMZ Ecoworld",
+      "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9208664,
+        "longitude": 77.6859185
       }
     }
   }
