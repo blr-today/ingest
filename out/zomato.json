@@ -2662,6 +2662,48 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Get ready to travel back in time and relive the golden era of Bollywood! On November 16, immerse yourself in an unforgettable musical journey featuring the biggest hits from the 70s, 80s, and 90s. From soulful melodies to foot-tapping beats, Ek Shaam Mastani promises an evening filled with nostalgia, live performances, and electrifying energy. Whether you're a die-hard Bollywood fan or just love timeless music, this night will have you singing along and dancing to your favorite classics. Don't miss the chance to experience Bollywood magic like never before!",
+      "endDate": "2024-11-17T00:30:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/7317dae0ff3fa611227143906dd82ea71728650670.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "4th, Block 413, 100 Feet Rd, off Gillys redefined, KHB Block Koramangala, Koramangala 4-B Block, Koramangala, Bengaluru, Karnataka 560034",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.933341,
+            "longitude": 68.6588043
+         },
+         "name": "Gilly's Fandom"
+      },
+      "name": "Ek Shaam Mastani",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-11T18:16:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 100,
+      "startDate": "2024-11-16T19:00:00+05:30",
+      "url": "https://www.zomato.com/events/ek-shaam-mastani-bengaluru-et52355"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "We Jam is the ultimate haven for music lovers!\n\nCome enjoy a relaxing and fun evening with us. A space where you can be yourself and feel at home.\nJoin our welcoming community for a lively jamming session; bring your guitars, cajones, and most importantly yourself to jam along. \n\nThe event features three parts:\n\nOpen Mic: Perform for a warm and supportive audience, no matter where you are on your musical journey. Reach out to @wejam.blr on Instagram to book your slot.\nSocial Mixer: Connect with fellow music lovers and jam along on your favourite songs. Be a part of fun and exciting music based games and get a chance to win exciting goodies. \nJamming Session: Sing, play instruments, and join the community in a warm and cozy, free-flowing musical experience. Together, we create music and memories.",
       "endDate": "2024-10-19T20:30:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -3265,5 +3307,47 @@
       "performers": [ ],
       "startDate": "2024-11-03T16:00:00+05:30",
       "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready to be mesmerized by the soulful renditions of A.R. Rahman's iconic songs,\nperformed by the talented 3 Shots Bourbon Band.\nFrom \"Roja\" to \"Slumdog Millionaire\", relive the magic of India's most celebrated music composer.",
+      "endDate": "2024-10-19T23:30:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/0fce66ece4d8ac57b63402acc5ba20e71729165299.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd, Bengaluru, Karnataka 560067",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 13.029372970000001,
+            "longitude": 77.760172639999993
+         },
+         "name": "PrimeGolf Brewing and Golfing"
+      },
+      "name": "Tribute to AR Rahman",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 1000
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-17T17:16:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 1000,
+      "startDate": "2024-10-19T20:00:00+05:30",
+      "url": "https://www.zomato.com/events/tribute-to-ar-rahman-bengaluru-et52498"
    }
 ]
