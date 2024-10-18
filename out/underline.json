@@ -2,7 +2,7 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2024-10-18T13:30:00.000Z",
+      "endDate": "2024-10-18T17:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -68,6 +68,41 @@
       "sameAs": "https://underline.center/t/177",
       "startDate": "2024-10-19T06:30:00.000Z",
       "url": "https://insider.in/weekend-showtime-with-improv-lore-oct19-2024/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2024-10-20T17:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Sunday Game Night",
+      "sameAs": "https://underline.center/t/141",
+      "startDate": "2024-10-20T12:30:00.000Z",
+      "url": "https://insider.in/sunday-game-night-with-reroll-board-games/event"
    },
    {
       "@context": "https://schema.org",
@@ -173,5 +208,40 @@
       "sameAs": "https://underline.center/t/17",
       "startDate": "2024-10-24T13:30:00.000Z",
       "url": "https://insider.in/tabletop-thursday-with-reroll-board-games/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2024-10-26T07:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "[online] Storytelling & Social Media Best Practices with Vishaka George (The People’s Archive of Rural India)",
+      "sameAs": "https://underline.center/t/178",
+      "startDate": "2024-10-26T04:30:00.000Z",
+      "url": "https://insider.in/online-workshop-storytelling-social-media-best-practices-oct26-2024/event"
    }
 ]

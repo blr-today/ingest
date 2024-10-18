@@ -3392,5 +3392,67 @@
         "longitude": 77.6859185
       }
     }
+  },
+  {
+    "name": "Musicathon",
+    "description": "Musicathon Bir, a vibrant music festival set against the stunning backdrop of Bir, Himachal Pradesh. This unique event celebrates the fusion of music, nature, and cultural diversity, offering a one-of-a-kind experience for attendees.\n\nLineup: \nBombay Bandook \nSwastik \nAkash Chopra \nDesi Delay \nYuvraj\nBuland himalay\nChintan Chauhan\nAhmad Parvez",
+    "startDate": "2024-11-15T10:00:00+05:30",
+    "endDate": "2024-11-16T22:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Musicathon Music and Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Musicathon Bengaluru on Zomato which is a Music and Experiences event happening at The heart of Bir , Lake side cafe, near Learn Well Public Sr. Sec. School,, Chaugan, Bir, Himachal Pradesh 176077",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/28cf24670ea27942130adb982a44fddc1729233431.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/998b44cdbeb86d0b8b113bdbcc6f2bab1729236203.png",
+      "https://b.zmtcdn.com/data/zomaland/e90697593a881465282022dc41f692da1729236205.png",
+      "https://b.zmtcdn.com/data/zomaland/60b82363cb421c98436c7dd53ca9da251729236208.png",
+      "https://b.zmtcdn.com/data/zomaland/608b9fa619bb131447edd134d758c03c1729236210.png",
+      "https://b.zmtcdn.com/data/zomaland/c8024e260e997d762e0dd1ae13cf29da1729236213.png",
+      "https://b.zmtcdn.com/data/zomaland/338811b2f4757740a449a8c4fbb0b2f91729236215.png",
+      "https://b.zmtcdn.com/data/zomaland/36309cd05d11f48a9a0725e0a74f2eb91729236218.png",
+      "https://b.zmtcdn.com/data/zomaland/3e649238f06726e6b85ee8136e939a541729236221.png",
+      "https://b.zmtcdn.com/data/zomaland/7f2d2bfad0cc24123bc5c56c31cec03a1729236224.png",
+      "https://b.zmtcdn.com/data/zomaland/28a9a989a185a8e21df10ec897a7e8e11729236227.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/musicathon-bengaluru-et52515/details",
+        "price": 3199,
+        "currency": "INR",
+        "validFrom": "2024-10-18 12:12:01",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/musicathon-bengaluru-et52515/details",
+        "price": 5399,
+        "currency": "INR",
+        "validFrom": "2024-10-18 12:12:01",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/musicathon-bengaluru-et52515",
+    "id": "com.zomato.52515",
+    "location": {
+      "name": "The Heart of Bir , Lake Side Cafe",
+      "address": "The heart of Bir , Lake side cafe, near Learn Well Public Sr. Sec. School,, Chaugan, Bir, Himachal Pradesh 176077",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 32.03782499,
+        "longitude": 76.72285442
+      }
+    }
   }
 ]

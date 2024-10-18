@@ -3239,5 +3239,55 @@
       "performers": [ ],
       "startDate": "2024-10-25T21:00:00+05:30",
       "url": "https://www.zomato.com/events/pre-diwali-bash-with-zaffar-ki-mehfil-bengaluru-et52510"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Musicathon Bir, a vibrant music festival set against the stunning backdrop of Bir, Himachal Pradesh. This unique event celebrates the fusion of music, nature, and cultural diversity, offering a one-of-a-kind experience for attendees.\n\nLineup: \nBombay Bandook \nSwastik \nAkash Chopra \nDesi Delay \nYuvraj\nBuland himalay\nChintan Chauhan\nAhmad Parvez",
+      "endDate": "2024-11-16T22:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/28cf24670ea27942130adb982a44fddc1729233431.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "The heart of Bir , Lake side cafe, near Learn Well Public Sr. Sec. School,, Chaugan, Bir, Himachal Pradesh 176077",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 32.037824989999997,
+            "longitude": 76.722854420000004
+         },
+         "name": "The Heart of Bir , Lake Side Cafe"
+      },
+      "name": "Musicathon",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-18T12:12:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-18T12:12:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-11-15T10:00:00+05:30",
+      "url": "https://www.zomato.com/events/musicathon-bengaluru-et52515"
    }
 ]
