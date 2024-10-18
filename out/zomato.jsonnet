@@ -35,7 +35,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 11:47:29",
         "availability": "INSTOCK",
-        "inventory": 335
+        "inventory": 328
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -43,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 11:47:30",
         "availability": "INSTOCK",
-        "inventory": 349
+        "inventory": 346
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -51,7 +51,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 126
+        "inventory": 125
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -59,7 +59,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 327
+        "inventory": 322
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -83,7 +83,7 @@
         "currency": "INR",
         "validFrom": "2024-10-14 17:46:00",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 8
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -91,7 +91,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 68
+        "inventory": 67
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -99,7 +99,7 @@
         "currency": "INR",
         "validFrom": "2024-10-04 11:30:00",
         "availability": "INSTOCK",
-        "inventory": 11
+        "inventory": 10
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -604,7 +604,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:04",
         "availability": "INSTOCK",
-        "inventory": 2438
+        "inventory": 2432
       },
       {
         "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
@@ -612,7 +612,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:05",
         "availability": "INSTOCK",
-        "inventory": 2463
+        "inventory": 2456
       },
       {
         "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
@@ -620,7 +620,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:05",
         "availability": "INSTOCK",
-        "inventory": 2978
+        "inventory": 2973
       }
     ],
     "performers": [],
@@ -664,7 +664,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:46",
         "availability": "SELLING_FAST",
-        "inventory": 13
+        "inventory": 11
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -676,19 +676,11 @@
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
-        "price": 2999,
+        "price": 8997,
         "currency": "INR",
-        "validFrom": "2024-09-25 15:03:47",
+        "validFrom": "2024-10-17 13:46:00",
         "availability": "INSTOCK",
-        "inventory": 34
-      },
-      {
-        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
-        "price": 4999,
-        "currency": "INR",
-        "validFrom": "2024-09-25 15:03:48",
-        "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 49
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -697,6 +689,14 @@
         "validFrom": "2024-09-25 15:03:48",
         "availability": "INSTOCK",
         "inventory": 25
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 14997,
+        "currency": "INR",
+        "validFrom": "2024-10-17 13:46:27",
+        "availability": "INSTOCK",
+        "inventory": 50
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -866,7 +866,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9976
+        "inventory": 9975
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -918,7 +918,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:51",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 196
       }
     ],
     "performers": [],
@@ -962,7 +962,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:52",
         "availability": "INSTOCK",
-        "inventory": 189
+        "inventory": 180
       }
     ],
     "performers": [],
@@ -1314,7 +1314,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 22:02:25",
         "availability": "INSTOCK",
-        "inventory": 194
+        "inventory": 181
       }
     ],
     "performers": [],
@@ -1402,7 +1402,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 22:02:26",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 196
       }
     ],
     "performers": [],
@@ -1490,7 +1490,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 22:02:27",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 29
       }
     ],
     "performers": [],
@@ -1626,7 +1626,7 @@
         "currency": "INR",
         "validFrom": "2024-09-29 19:41:43",
         "availability": "INSTOCK",
-        "inventory": 6
+        "inventory": 4
       }
     ],
     "performers": [],
@@ -1639,50 +1639,6 @@
     ],
     "url": "https://www.zomato.com/events/scc-skycinema-up-bengaluru-et51973",
     "id": "com.zomato.51973",
-    "location": {
-      "name": "1 MG - Lido Mall",
-      "address": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru, Karnataka 560008",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97480423,
-        "longitude": 77.62066549
-      }
-    }
-  },
-  {
-    "name": "SCC SkyCinema - Diwali Special",
-    "description": "\"Jiyo! Khush Raho! Muskurao! Kya Pata Kal Ho Naa Ho.\"\n\nThis Diwali, come home to nostalgia as Sunset Cinema Club brings to you a movie very close to our hearts meant to be relished with your loved ones.\n\nThe space will  be decorated with diyas and candles all set to welcome you to the screenings of these golden films that will add even more light, feeling and cheer to your diwali celebrations!\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the skyline of the city as your backdrop.",
-    "startDate": "2024-10-27T19:00:00+05:30",
-    "endDate": "2024-10-27T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC SkyCinema - Diwali Special Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC SkyCinema - Diwali Special Bengaluru on Zomato which is a Trending event happening at 1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru, Karnataka 560008",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/c53c47c111c85532fa474b45541eb0a31727618876.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-diwali-special-bengaluru-et51974/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-09-29 19:41:43",
-        "availability": "SELLING_FAST",
-        "inventory": 1
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-diwali-special-bengaluru-et51974",
-    "id": "com.zomato.51974",
     "location": {
       "name": "1 MG - Lido Mall",
       "address": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru, Karnataka 560008",
@@ -2038,7 +1994,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 10:07:54",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 8
       }
     ],
     "performers": [],
@@ -2222,7 +2178,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 22:01:55",
         "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 13
       }
     ],
     "performers": [],
@@ -2266,7 +2222,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 22:03:46",
         "availability": "INSTOCK",
-        "inventory": 5
+        "inventory": 4
       },
       {
         "url": "https://www.zomato.com/events/paint-with-puppies-by-pawasana-bengaluru-et52189/details",
@@ -2274,7 +2230,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 22:03:47",
         "availability": "INSTOCK",
-        "inventory": 18
+        "inventory": 16
       }
     ],
     "performers": [],
@@ -2533,7 +2489,7 @@
         "currency": "INR",
         "validFrom": "2024-10-08 15:31:55",
         "availability": "INSTOCK",
-        "inventory": 142
+        "inventory": 139
       }
     ],
     "performers": [],
@@ -2653,7 +2609,7 @@
         "currency": "INR",
         "validFrom": "2024-10-09 21:44:10",
         "availability": "INSTOCK",
-        "inventory": 88
+        "inventory": 87
       }
     ],
     "performers": [],
@@ -2706,7 +2662,7 @@
         "currency": "INR",
         "validFrom": "2024-10-13 18:00:37",
         "availability": "INSTOCK",
-        "inventory": 39
+        "inventory": 38
       }
     ],
     "performers": [],
@@ -2794,7 +2750,7 @@
         "currency": "INR",
         "validFrom": "2024-10-13 11:02:00",
         "availability": "INSTOCK",
-        "inventory": 187
+        "inventory": 157
       }
     ],
     "performers": [],
@@ -3252,50 +3208,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97326,
         "longitude": 77.619667
-      }
-    }
-  },
-  {
-    "name": "Coldplay Tribute Night",
-    "description": "Get ready for a night of Coldplay magic with Alan-Kevin\nFrom hits like \"Yellow\" to \"Viva La Vida,\" Alan-Kevin will bring the energy, passion, and all the Coldplay vibes you love. \ud83c\udf1f\ud83c\udfb6\nWith stunning vocals, a lively atmosphere, and a setlist that will keep you singing all night, this is the ultimate Coldplay experience you won\u2019t want to miss. Be prepared for an unforgettable evening that feels just like the real thing.\nPlease bring your friends and let\u2019s light up the night together! \ud83c\udfb8\n\n\ud83c\udfb7Ft. Alan-Kevin\n\ud83d\uddd3\ufe0f18th October, Friday\n\ud83d\udd579pm onwards\n\ud83d\udccdRadio Bar, RMZ Ecoworld, Bellandur",
-    "startDate": "2024-10-18T21:00:00+05:30",
-    "endDate": "2024-10-18T23:50:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Coldplay Tribute Night Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Coldplay Tribute Night Bengaluru on Zomato which is a Music event happening at Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/6841112b132adfd98d34b5dbefc42c931728986651.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/coldplay-tribute-night-bengaluru-et52445/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-15 15:39:04",
-        "availability": "INSTOCK",
-        "inventory": 21
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/coldplay-tribute-night-bengaluru-et52445",
-    "id": "com.zomato.52445",
-    "location": {
-      "name": "Radio bar, RMZ Ecoworld",
-      "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9208664,
-        "longitude": 77.6859185
       }
     }
   },
