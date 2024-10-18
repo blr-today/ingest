@@ -1294,50 +1294,6 @@
     }
   },
   {
-    "name": "Unplugged Duo's",
-    "description": "Catch Firstnote performing live your favourite tracks at Hard Rock Cafe, Whitefield, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-10-18T20:30:00+05:30",
-    "endDate": "2024-10-18T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Unplugged Duo's Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Unplugged Duo's Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/7e4084754dac3addcef1ccfcfbe6e3b21727453993.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et51928/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-27 22:02:25",
-        "availability": "INSTOCK",
-        "inventory": 181
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et51928",
-    "id": "com.zomato.51928",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
-  },
-  {
     "name": "Bollywood Rock & Pop",
     "description": "Embark on a captivating journey as Hard Rock Cafe is celebrating Bollywood night with extremely talented KANYAA.\nPrepare to be swept away by the soul-stirring melodies of Bollywood perfectly complemented by the enchanting ambiance of this unique venue.\nDelight your senses with a delectable array of culinary delights, including mouthwatering bites, best cocktails, and a great bar fare with best beverages in the menu.\nJoin us for an evening of pure bliss, delectable treats, and a serene atmosphere promises an unforgettable experience.",
     "startDate": "2024-10-19T21:00:00+05:30",
@@ -3360,7 +3316,7 @@
         "url": "https://www.zomato.com/events/pre-diwali-bash-with-zaffar-ki-mehfil-bengaluru-et52510/details",
         "price": 499,
         "currency": "INR",
-        "validFrom": "2024-10-17 18:31:04",
+        "validFrom": "2024-10-17 18:31:00",
         "availability": "INSTOCK",
         "inventory": 50
       },
@@ -3452,6 +3408,55 @@
         "@type": "GeoCoordinates",
         "latitude": 32.03782499,
         "longitude": 76.72285442
+      }
+    }
+  },
+  {
+    "name": "Soul Jams Festival Diwali Edition",
+    "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
+    "startDate": "2024-10-26T17:30:00+05:30",
+    "endDate": "2024-10-26T21:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/950a0bf40de27142ffefd916ce3817cb1729252672.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/soul-jams-i-diwali-edition-bengaluru-et52519/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-10-18 17:38:57",
+        "availability": "INSTOCK",
+        "inventory": 787
+      }
+    ],
+    "performers": [
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381729253202.png",
+        "name": "Soul Jams",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381729253202.png"
+      }
+    ],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/soul-jams-i-diwali-edition-bengaluru-et52519",
+    "id": "com.zomato.52519",
+    "location": {
+      "name": "1 MG - Lido Mall",
+      "address": "1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru, Karnataka 560008",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9745326,
+        "longitude": 77.62049423
       }
     }
   }
