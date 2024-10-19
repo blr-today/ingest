@@ -23,7 +23,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 328
+               "value": 325
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-16T11:47:00+05:30"
@@ -32,7 +32,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 346
+               "value": 343
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-16T11:47:00+05:30"
@@ -59,7 +59,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 428
+               "value": 426
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -326,7 +326,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 137
+               "value": 134
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-18T17:36:00+05:30"
@@ -570,7 +570,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 2432
+               "value": 2380
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-07T20:23:00+05:30"
@@ -579,7 +579,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 2456
+               "value": 2446
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-07T20:23:00+05:30"
@@ -588,7 +588,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 2973
+               "value": 2969
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-07T20:23:00+05:30"
@@ -629,7 +629,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 11
+               "value": 8
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-25T15:03:00+05:30"
@@ -638,7 +638,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 36
+               "value": 34
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-25T15:03:00+05:30"
@@ -752,14 +752,74 @@
       "endDate": "2025-01-12T22:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/5c0210f90c2db7c1192988ca4a0a5a8d1725902348.png",
+      "image": "https://b.zmtcdn.com/data/zomaland/4036a5e4291ebcb10adcec8662b2ee711729261833.png",
       "isAccessibleForFree": false,
       "location": {
-         "@type": "Place",
-         "address": "Bangalore"
+         "address": "Gift City, Near Metro station, Ahmedabad - Gandhinagar",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 23.153445829110002,
+            "longitude": 72.685587144175997
+         },
+         "name": "Gift City"
       },
       "name": "Arijit Singh Live",
-      "offers": [ ],
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 1330
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-18T17:46:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 2691
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-18T18:45:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 218
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-18T18:40:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-18T17:46:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-18T18:45:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-18T18:40:00+05:30"
+         }
+      ],
       "organizer": [
          {
             "name": "Zomato Live",
@@ -795,7 +855,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 9975
+               "value": 9972
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T00:00:00+05:30"
@@ -845,7 +905,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 196
+               "value": 189
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-27T15:49:00+05:30"
@@ -859,7 +919,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 196,
+      "remainingAttendeeCapacity": 189,
       "startDate": "2024-10-20T13:00:00+05:30",
       "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et51908"
    },
@@ -887,7 +947,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 180
+               "value": 169
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-27T15:49:00+05:30"
@@ -901,7 +961,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 180,
+      "remainingAttendeeCapacity": 169,
       "startDate": "2024-10-20T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et51909"
    },
@@ -929,7 +989,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 191
+               "value": 189
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-27T15:49:00+05:30"
@@ -943,7 +1003,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 191,
+      "remainingAttendeeCapacity": 189,
       "startDate": "2024-10-23T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et51910"
    },
@@ -1307,7 +1367,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 198
+               "value": 190
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-27T22:02:00+05:30"
@@ -1321,7 +1381,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 198,
+      "remainingAttendeeCapacity": 190,
       "startDate": "2024-10-25T20:30:00+05:30",
       "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et51931"
    },
@@ -1702,7 +1762,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 10
+               "value": 8
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T10:07:00+05:30"
@@ -1902,56 +1962,6 @@
       "remainingAttendeeCapacity": 10,
       "startDate": "2024-10-25T19:00:00+05:30",
       "url": "https://www.zomato.com/events/scc-picnic-cinema-midnight-in-paris-bengaluru-et52104"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Welcome to the most pawsitively delightful yoga experience: Downward kitties! Picture yourself on your yoga mat, surrounded by adorable, adoptable puppies frolicking around you. As you flow through your poses, their playful energy infuses each movement with joy and warmth.\n\nBut this isn't just about yoga; it's about spreading love and support for our furry friends. Every ticket sold helps support local animal shelters and rescue organizations, ensuring these precious pups find their forever homes.\n\nFeel the stress melt away as you sink into your poses, with kitty kisses and tail wags adding an extra dose of happiness to your practice. It's not just about finding your inner zen; it's about embracing the love and companionship that these furry yogis bring to your mat.",
-      "endDate": "2024-10-19T13:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/bfc65d76b9a3f8f71b76cb111c795bc51727972514.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "Miller's Tank, 16/A, Bund Road, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560052",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.992748778992,
-            "longitude": 77.596895118470002
-         },
-         "name": "Breathing Spaces"
-      },
-      "name": "Yoga with Kittens by Pawasana",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 5
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-10-03T22:01:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 13
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-10-03T22:01:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-10-19T11:00:00+05:30",
-      "url": "https://www.zomato.com/events/yoga-with-kittens-by-pawasana-bengaluru-et52188"
    },
    {
       "@context": "https://schema.org",
@@ -2213,7 +2223,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 177
+               "value": 159
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-08T15:31:00+05:30"
@@ -2222,7 +2232,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 139
+               "value": 125
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-08T15:31:00+05:30"
@@ -2331,7 +2341,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 95
+               "value": 90
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-09T21:44:00+05:30"
@@ -2340,7 +2350,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 87
+               "value": 84
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-09T21:44:00+05:30"
@@ -2381,7 +2391,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 48
+               "value": 46
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-13T18:00:00+05:30"
@@ -2390,7 +2400,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 38
+               "value": 36
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-13T18:00:00+05:30"
@@ -2473,7 +2483,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 157
+               "value": 86
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-13T11:02:00+05:30"
@@ -2487,7 +2497,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 157,
+      "remainingAttendeeCapacity": 86,
       "startDate": "2024-10-19T16:30:00+05:30",
       "url": "https://www.zomato.com/events/we-jam-bengaluru-et52363"
    },
@@ -2902,7 +2912,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 24
+               "value": 22
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-15T14:53:00+05:30"

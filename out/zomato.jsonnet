@@ -35,7 +35,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 11:47:29",
         "availability": "INSTOCK",
-        "inventory": 328
+        "inventory": 325
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -43,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 11:47:30",
         "availability": "INSTOCK",
-        "inventory": 346
+        "inventory": 343
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -67,7 +67,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 428
+        "inventory": 426
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -344,7 +344,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 137
+        "inventory": 134
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -583,8 +583,8 @@
   {
     "name": "Kingfisher OctoBeer Fest",
     "description": "Get ready for an unforgettable experience at OctoBeer Fest 2024! We\u2019re bringing together a stellar lineup of artists, including Raftaar, Jasleen Royal, Taba Chake, Osho Jain, Oaff x Savera, Dee MC, Mary Ann, Jordan Arts, Calm Chor, and many more, performing across two epic stages. \n\nBut it\u2019s not just about the music!  Dive into a massive flea market, enjoy carnival games, and explore unique beer experiences across the festival.  And don\u2019t miss the Beer Garden where you can indulge in refreshing beers and exciting cocktails. Plus, a massive food pop-up awaits to tantalize your taste buds!",
-    "startDate": "2024-10-19T12:00:00+05:30",
-    "endDate": "2024-10-20T23:00:00+05:30",
+    "startDate": "2024-10-19 12:00:00",
+    "endDate": "2024-10-20 23:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -604,7 +604,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:04",
         "availability": "INSTOCK",
-        "inventory": 2432
+        "inventory": 2380
       },
       {
         "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
@@ -612,7 +612,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:05",
         "availability": "INSTOCK",
-        "inventory": 2456
+        "inventory": 2446
       },
       {
         "url": "https://www.zomato.com/events/kingfisher-octobeer-fest-bengaluru-et50273/details",
@@ -620,7 +620,7 @@
         "currency": "INR",
         "validFrom": "2024-10-07 20:23:05",
         "availability": "INSTOCK",
-        "inventory": 2973
+        "inventory": 2969
       }
     ],
     "performers": [],
@@ -664,7 +664,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:46",
         "availability": "SELLING_FAST",
-        "inventory": 11
+        "inventory": 8
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -672,7 +672,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:47",
         "availability": "INSTOCK",
-        "inventory": 36
+        "inventory": 34
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -784,13 +784,62 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Arijit Singh Live Trending event Tickets Ahmedabad - Zomato",
-    "ogDesc": "Book online tickets for Arijit Singh Live Ahmedabad on Zomato which is a Trending event happening at Ahmedabad",
+    "ogTitle": "Arijit Singh Live Best seller and Trending event Tickets Ahmedabad - Zomato",
+    "ogDesc": "Book online tickets for Arijit Singh Live Ahmedabad on Zomato which is a Best seller and Trending event happening at Gift City, Near Metro station, Ahmedabad - Gandhinagar",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/5c0210f90c2db7c1192988ca4a0a5a8d1725902348.png",
-      "https://b.zmtcdn.com/data/zomaland/e6877fcb9a04cb089d81813af40bb46f1725902746.png"
+      "https://b.zmtcdn.com/data/zomaland/4036a5e4291ebcb10adcec8662b2ee711729261833.png",
+      "https://b.zmtcdn.com/data/zomaland/4036a5e4291ebcb10adcec8662b2ee711729261903.png"
     ],
-    "tickets": [],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
+        "price": 1500,
+        "currency": "INR",
+        "validFrom": "2024-10-18 17:46:00",
+        "availability": "SELLING_FAST",
+        "inventory": 1330
+      },
+      {
+        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
+        "price": 3000,
+        "currency": "INR",
+        "validFrom": "2024-10-18 18:45:00",
+        "availability": "INSTOCK",
+        "inventory": 2691
+      },
+      {
+        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
+        "price": 5000,
+        "currency": "INR",
+        "validFrom": "2024-10-18 18:40:00",
+        "availability": "SELLING_FAST",
+        "inventory": 218
+      },
+      {
+        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
+        "price": 1000,
+        "currency": "INR",
+        "validFrom": "2024-10-18 17:46:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
+        "price": 2000,
+        "currency": "INR",
+        "validFrom": "2024-10-18 18:45:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
+        "price": 3500,
+        "currency": "INR",
+        "validFrom": "2024-10-18 18:40:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      }
+    ],
     "performers": [],
     "organizer": [
       {
@@ -800,7 +849,16 @@
       }
     ],
     "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346",
-    "id": "com.zomato.51346"
+    "id": "com.zomato.51346",
+    "location": {
+      "name": "Gift City",
+      "address": "Gift City, Near Metro station, Ahmedabad - Gandhinagar",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 23.15344582911,
+        "longitude": 72.685587144176
+      }
+    }
   },
   {
     "name": "Pet Fed Bengaluru 2024",
@@ -866,7 +924,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9975
+        "inventory": 9972
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -918,7 +976,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:51",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 189
       }
     ],
     "performers": [],
@@ -962,7 +1020,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:52",
         "availability": "INSTOCK",
-        "inventory": 180
+        "inventory": 169
       }
     ],
     "performers": [],
@@ -1006,7 +1064,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:52",
         "availability": "INSTOCK",
-        "inventory": 191
+        "inventory": 189
       }
     ],
     "performers": [],
@@ -1402,7 +1460,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 22:02:27",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 190
       }
     ],
     "performers": [],
@@ -1802,7 +1860,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 10:07:49",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 8
       }
     ],
     "performers": [],
@@ -2014,58 +2072,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.14365198,
         "longitude": 77.58441173
-      }
-    }
-  },
-  {
-    "name": "Yoga with Kittens by Pawasana",
-    "description": "Welcome to the most pawsitively delightful yoga experience: Downward kitties! Picture yourself on your yoga mat, surrounded by adorable, adoptable puppies frolicking around you. As you flow through your poses, their playful energy infuses each movement with joy and warmth.\n\nBut this isn't just about yoga; it's about spreading love and support for our furry friends. Every ticket sold helps support local animal shelters and rescue organizations, ensuring these precious pups find their forever homes.\n\nFeel the stress melt away as you sink into your poses, with kitty kisses and tail wags adding an extra dose of happiness to your practice. It's not just about finding your inner zen; it's about embracing the love and companionship that these furry yogis bring to your mat.",
-    "startDate": "2024-10-19T11:00:00+05:30",
-    "endDate": "2024-10-19T13:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Yoga with Kittens by Pawasana Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Yoga with Kittens by Pawasana Bengaluru on Zomato which is a Experiences event happening at Miller's Tank, 16/A, Bund Road, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560052",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/bfc65d76b9a3f8f71b76cb111c795bc51727972514.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/yoga-with-kittens-by-pawasana-bengaluru-et52188/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-10-03 22:01:21",
-        "availability": "INSTOCK",
-        "inventory": 5
-      },
-      {
-        "url": "https://www.zomato.com/events/yoga-with-kittens-by-pawasana-bengaluru-et52188/details",
-        "price": 1800,
-        "currency": "INR",
-        "validFrom": "2024-10-03 22:01:55",
-        "availability": "INSTOCK",
-        "inventory": 13
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/yoga-with-kittens-by-pawasana-bengaluru-et52188",
-    "id": "com.zomato.52188",
-    "location": {
-      "name": "Breathing Spaces",
-      "address": "Miller's Tank, 16/A, Bund Road, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560052",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.992748778992,
-        "longitude": 77.59689511847
       }
     }
   },
@@ -2349,7 +2355,7 @@
         "currency": "INR",
         "validFrom": "2024-10-08 15:31:55",
         "availability": "INSTOCK",
-        "inventory": 177
+        "inventory": 159
       },
       {
         "url": "https://www.zomato.com/events/casa-bacardi-halloween-ft-ankytrixx-bengaluru-et52281/details",
@@ -2357,7 +2363,7 @@
         "currency": "INR",
         "validFrom": "2024-10-08 15:31:55",
         "availability": "INSTOCK",
-        "inventory": 139
+        "inventory": 125
       }
     ],
     "performers": [],
@@ -2469,7 +2475,7 @@
         "currency": "INR",
         "validFrom": "2024-10-09 21:44:10",
         "availability": "INSTOCK",
-        "inventory": 95
+        "inventory": 90
       },
       {
         "url": "https://www.zomato.com/events/core-open-air-bengaluru-et52309/details",
@@ -2477,7 +2483,7 @@
         "currency": "INR",
         "validFrom": "2024-10-09 21:44:10",
         "availability": "INSTOCK",
-        "inventory": 87
+        "inventory": 84
       }
     ],
     "performers": [],
@@ -2522,7 +2528,7 @@
         "currency": "INR",
         "validFrom": "2024-10-13 18:00:36",
         "availability": "INSTOCK",
-        "inventory": 48
+        "inventory": 46
       },
       {
         "url": "https://www.zomato.com/events/one8-commune-sunsets-x-somad-raja-live-bengaluru-et52315/details",
@@ -2530,7 +2536,7 @@
         "currency": "INR",
         "validFrom": "2024-10-13 18:00:37",
         "availability": "INSTOCK",
-        "inventory": 38
+        "inventory": 36
       }
     ],
     "performers": [],
@@ -2618,7 +2624,7 @@
         "currency": "INR",
         "validFrom": "2024-10-13 11:02:00",
         "availability": "INSTOCK",
-        "inventory": 157
+        "inventory": 86
       }
     ],
     "performers": [],
@@ -3048,7 +3054,7 @@
         "currency": "INR",
         "validFrom": "2024-10-15 14:53:00",
         "availability": "INSTOCK",
-        "inventory": 24
+        "inventory": 22
       },
       {
         "url": "https://www.zomato.com/events/light-it-up-diwali-2024-bengaluru-et52442/details",
