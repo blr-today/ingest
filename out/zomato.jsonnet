@@ -992,50 +992,6 @@
     }
   },
   {
-    "name": "Unplugged Duo's",
-    "description": "Catch Bollywood Mela performing live your favourite tracks at Hard Rock Cafe, Whitefield, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-10-25T20:30:00+05:30",
-    "endDate": "2024-10-25T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Unplugged Duo's Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Unplugged Duo's Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/83f4d731f55b8376a0e7b12480cd2f151727454137.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et51931/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-27 22:02:27",
-        "availability": "INSTOCK",
-        "inventory": 182
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/unplugged-duos-bengaluru-et51931",
-    "id": "com.zomato.51931",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
-  },
-  {
     "name": "Karaoke Nights",
     "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
     "startDate": "2024-10-31T20:30:00+05:30",
@@ -1306,94 +1262,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.989743793341,
         "longitude": 77.72806416
-      }
-    }
-  },
-  {
-    "name": "SCC SkyCinema - Cocktail",
-    "description": "\"Main perfect nahi hoon, lekin mere dost mere flaws ko perfect samajhte hain.\" - Cocktail\n\nSunset Cinema Club invites you to immerse in a vibrant tale of love, friendship, and self-discovery at Chapter 6. This romantic comedy-drama follows the journey of three friends whose lives intertwine in unexpected ways, leading to a rollercoaster of emotions and unforgettable moments.\n\nSit back and relax on comfy bean bags and bask in the romance and nostalgia as you enjoy your favourite classics or discover new hidden gems. \n\nMovies and food make a great combination, so drinks and snacks, at reasonable prices, will be flowing from the moment the gates open.  \n\nEnjoy a super chill vibe in the lovely outdoors, as the sun dissolves and the stars appear just in time for the film to begin!",
-    "startDate": "2024-10-25T18:45:00+05:30",
-    "endDate": "2024-10-25T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC SkyCinema - Cocktail Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC SkyCinema - Cocktail Bengaluru on Zomato which is a Experiences event happening at Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/1cc792bcaba3e5cbbb8a94904bc791e71727755377.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-cocktail-bengaluru-et52100/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-10-01 10:07:54",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-cocktail-bengaluru-et52100",
-    "id": "com.zomato.52100",
-    "location": {
-      "name": "Chapter 6",
-      "address": "Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93531356,
-        "longitude": 77.62135638
-      }
-    }
-  },
-  {
-    "name": "SCC Picnic Cinema - Midnight In Paris",
-    "description": "\"You know, it's not the past that I idealize. It's the future.\" - Midnight in Paris.\n\nLooking for the perfect date night that combines romance, laughter, and the magic of cinema? Sunset Cinema Club brings you a special weekend of romantic movies to enjoy with your loved ones at Garden City Beer Collective (GCBC).\n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favorite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
-    "startDate": "2024-10-25T19:00:00+05:30",
-    "endDate": "2024-10-25T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC Picnic Cinema - Midnight In Paris Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC Picnic Cinema - Midnight In Paris Bengaluru on Zomato which is a Experiences event happening at Garden City Beer Collective (GCBC),82/2, Gantiganahalli, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/75a78d80b3ce7843220cbee790a556c01727755695.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-picnic-cinema-midnight-in-paris-bengaluru-et52104/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-10-01 10:07:56",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-picnic-cinema-midnight-in-paris-bengaluru-et52104",
-    "id": "com.zomato.52104",
-    "location": {
-      "name": "Garden City Beer Collective (GCBC)",
-      "address": "Garden City Beer Collective (GCBC),82/2, Gantiganahalli, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.14365198,
-        "longitude": 77.58441173
       }
     }
   },
@@ -2198,56 +2066,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.888352,
         "longitude": 77.5633138
-      }
-    }
-  },
-  {
-    "name": "Pre Diwali Bash With Zaffar Ki Mehfil",
-    "description": "Pre Diwali celebration Sufi Night \ud83c\udfa4\u2728\nBring your friends and let\u2019s light up the night together! \ud83c\udfb8\n\n\ud83c\udfb7Ft. Zaffar Ki Mehfil \n\ud83d\uddd3\ufe0f25th October, Friday\n\ud83d\udd579pm onwards\n\ud83d\udccdRadio Bar, RMZ Ecoworld, Bellandur\n\nEvent Start Date and Time - 25th October, Friday| 9:00pm onwards",
-    "startDate": "2024-10-25T21:00:00+05:30",
-    "endDate": "2024-10-25T23:50:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/26cff2722cd157ec4bc7fe478d5403791729169636.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/pre-diwali-bash-with-zaffar-ki-mehfil-bengaluru-et52510/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-17 18:31:00",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/pre-diwali-bash-with-zaffar-ki-mehfil-bengaluru-et52510/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-10-17 18:31:04",
-        "availability": "INSTOCK",
-        "inventory": 25
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/pre-diwali-bash-with-zaffar-ki-mehfil-bengaluru-et52510",
-    "id": "com.zomato.52510",
-    "location": {
-      "name": "Radio bar, RMZ Ecoworld",
-      "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9208664,
-        "longitude": 77.6859185
       }
     }
   },
