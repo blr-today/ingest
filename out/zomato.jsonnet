@@ -2496,8 +2496,8 @@
   {
     "name": "Dil Se Diwali",
     "description": "Step into the festive magic of Dil Se Diwali, where every moment sparkles with joy! \n\nFrom stunning decor that sets the perfect festive vibe to electrifying DJ beats and captivating dance performances, we\u2019ve crafted an experience that\u2019s pure Diwali bliss. \n\nExplore vibrant flea markets, savour delicious food, and immerse yourself in the live dhol beats. Mingle, network, and celebrate this festival of lights with people who share your love for all things festive. \n\nDon\u2019t miss out on a night filled with joy, music, and unforgettable memories! ",
-    "startDate": "2024-10-25T18:00:00+05:30",
-    "endDate": "2024-10-26T01:00:00+05:30",
+    "startDate": "2024-10-25 18:00:00",
+    "endDate": "2024-10-26 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
