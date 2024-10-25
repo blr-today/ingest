@@ -1,128 +1,111 @@
 [
   {
     "@type": "EducationEvent",
-    "name": "Wearing skeletons on the outside and tasting with their feet: Insects and Their Impact on Humanity",
+    "name": "OMG: One Million Galaxies - Interactive Demo of a Citizen Science Programme",
     "location": {
       "@type": "Place",
       "name": "Science Gallery Bengaluru",
       "address": "Science Gallery Bengaluru, Bangalore",
       "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
     },
-    "startDate": "2024-10-20T16:00:00+05:30",
-    "endDate": "2024-10-20T18:00:00+05:30",
-    "description": "Do you reach for repellant everytime you see an insect? Does the mere mention of insects make you shudder? Whether insects cause fear or fascination, this lecture is for you.<br>Learn about the first animals to farm, to use antibiotics and live in societies. With over a million species and being the most diverse group of animals on earth, these critters are not to be easily dismissed. Come listen to Divya Uma about the fascinating world of insects and how they wear their skeletons on the outside, breathe with holes in their bodies, taste with their feet and much more!",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=wearing-skeletons",
+    "startDate": "2024-10-26T11:00:00+05:30",
+    "endDate": "2024-10-26T13:30:00+05:30",
+    "description": "Ever wondered how to analyse galaxy features from deep imaging surveys? Join us in the exciting \"OMG: One Million Galaxies\" workshop, where you'll work with real data from the 8-meter Subaru telescope! This citizen science project, developed by the Indian Institute of Astrophysics (IIA) in collaboration with the Pune Knowledge Cluster and led by Prof. Sudhanshu Barway, invites you to dive into the cosmos.<br>With telescopes worldwide generating terabytes to petabytes of data every night, astronomy is more accessible than ever. Citizen science empowers anyone with a passion for space to explore multi-wavelength data, contributing to groundbreaking discoveries. OMG, one of India's key initiatives, engages volunteers in understanding the science behind galaxy pattern recognition. <br><br>Participants are required to bring their personal laptops for this programme.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=omg-citizen-science",
     "performer": [
       {
         "@type": "Person",
-        "name": "Divya-Uma"
+        "name": "Sudhanshu-Barway"
       }
     ],
-    "maximumAttendeeCapacity": 80
+    "maximumAttendeeCapacity": 45
   },
   {
     "@type": "EducationEvent",
-    "name": "Wearing skeletons on the outside and tasting with their feet: Insects and Their Impact on Humanity",
+    "name": "Exploring the Universe since 1786: A History of Modern Astronomy in India through IIA's eyes",
     "location": {
       "@type": "Place",
       "name": "Science Gallery Bengaluru",
       "address": "Science Gallery Bengaluru, Bangalore",
       "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
     },
-    "startDate": "2024-10-20T17:00:00+05:30",
-    "endDate": "2024-10-20T18:00:00+05:30",
-    "description": "Do you reach for repellant everytime you see an insect? Does the mere mention of insects make you shudder? Whether insects cause fear or fascination, this lecture is for you.<br>Learn about the animals to farm, to use antibiotics and live in societies.With over a million species and being the most diverse group of animals on earth, these critters are not to be easily dismissed. Come listen to Divya Uma about the fascinating world of insects and how they wear their skeletons on the outside, breathe with holes in their bodies, taste with their feet and much more!",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=wearing-skeletons-ama",
+    "startDate": "2024-10-26T16:00:00+05:30",
+    "endDate": "2024-10-26T18:00:00+05:30",
+    "description": "Curious about the fascinating history of modern astronomy in India? From a private observatory in Chennai in 1786 to the establishment of the Madras Observatory by the East India Company in 1792 and its century of achievements, India\u2019s astronomical journey is captivating. The founding of the Kodaikanal Observatory in 1899 to study the Sun led to the formation of the Indian Institute of Astrophysics (IIA) in 1971, now located in Koramangala, Bengaluru.<br>Join facilitators from IIA  as they explore its rich and diverse roots, shaped by colonial endeavours, European scientific advancements, indigenous knowledge, and the global spread of scientific practices. They will take you on a journey through key milestones in this history, focusing on IIA\u2019s role, from the Madras Observatory\u2019s discoveries to the two 1800s instruments loaned to Sci560. Along the way, you'll uncover the discovery of Helium, the intersection of traditional and modern astronomical calculations, and the longest continuous solar observations. Don\u2019t miss this opportunity to delve into India's astronomical legacy!",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=exploring-the-universe",
     "performer": [
       {
         "@type": "Person",
-        "name": "Divya-Uma"
+        "name": "Rc-Kapoor"
+      },
+      {
+        "@type": "Person",
+        "name": "Bs-Shylaja"
+      }
+    ],
+    "maximumAttendeeCapacity": 50
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "The Sun, Space Weather, and India\u2019s Solar Quest",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2024-10-27T17:00:00+05:30",
+    "endDate": "2024-10-27T19:00:00+05:30",
+    "description": "Have you ever wondered how the Sun influences life on Earth beyond just providing light and warmth? The Sun's magnetic activities, such as solar flares and coronal mass ejections, can cause space weather events that disrupt satellites, power grids, and communication systems. Understanding the science behind space weather and its effects on modern technology is key to grasping Earth\u2019s relationship with the Sun. India has made significant contributions to solar research\u2014from over a century of observations at the Kodaikanal Solar Observatory to the Aditya-L1 mission and the proposed National Large Solar Telescope\u2014highlighting the need for continued solar exploration. Join Jayant Joshi to explore the Sun, space weather, and India\u2019s efforts to understand our nearest star.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=sun-space-solar",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Jayant-Joshi"
+      }
+    ],
+    "maximumAttendeeCapacity": 60
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "The Sun, Space Weather, and India\u2019s Solar Quest",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2024-10-27T18:00:00+05:30",
+    "endDate": "2024-10-27T19:00:00+05:30",
+    "description": "Have you ever wondered how the Sun influences life on Earth beyond just providing light and warmth? The Sun's magnetic activities, such as solar flares and coronal mass ejections, can cause space weather events that disrupt satellites, power grids, and communication systems. Understanding the science behind space weather and its effects on modern technology is key to grasping Earth\u2019s relationship with the Sun. India has made significant contributions to solar research\u2014from over a century of observations at the Kodaikanal Solar Observatory to the Aditya-L1 mission and the proposed National Large Solar Telescope\u2014highlighting the need for continued solar exploration. Join Jayant Joshi to explore the Sun, space weather, and India\u2019s efforts to understand our nearest star.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=sun-space-solar-ama",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Jayant-Joshi"
       }
     ],
     "maximumAttendeeCapacity": 20
   },
   {
-    "@type": "EducationEvent",
-    "name": "Small but Mighty: Engineered Nanoparticles in the Human Body",
+    "@type": "Event",
+    "name": "Into the Cosmos: The Ultimate Astronomy Quiz",
     "location": {
       "@type": "Place",
       "name": "Science Gallery Bengaluru",
       "address": "Science Gallery Bengaluru, Bangalore",
       "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
     },
-    "startDate": "2024-10-20T11:00:00+05:30",
-    "endDate": "2024-10-20T13:00:00+05:30",
-    "description": "Can we look at biology from the lens of materials science? How can materials on the nanoscale pose risks to health as well as potentially revolutionise cancer therapy?<br>Using everyday examples like cigarette smoke, sunscreen, air pollutants and wound dressings, Aahana Ganguly takes us on a journey through the multidisciplinary field of nanoparticles. She explores where nanoscience meets medicine with a particular focus on cancer therapy while also analysing the challenges that arise in their development. She also identifies gaps where young aspiring scientists can make their contributions.",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=small-but-mighty",
+    "startDate": "2024-10-27T14:30:00+05:30",
+    "endDate": "2024-10-27T16:00:00+05:30",
+    "description": "Are you an astronomy enthusiast or a passionate stargazer? Join the facilitators of Indian Institute of Astrophysics for an exciting quiz that will challenge your understanding of the cosmos! This quiz will feature questions on the latest astronomical discoveries, iconic telescopes, renowned astronomers, and famous celestial objects. Form a team of three people and dive into the wonders of the universe. Whether you're a seasoned space buff or a curious learner, this quiz is designed for all ages to explore the mysteries of our cosmos!",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=astronomy-and-space",
     "performer": [
       {
         "@type": "Person",
-        "name": "Aahana-Ganguly"
+        "name": "Iia"
       }
     ],
-    "maximumAttendeeCapacity": 80
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Small but Mighty: Engineered Nanoparticles in the Human Body",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery Bengaluru, Bangalore",
-      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
-    },
-    "startDate": "2024-10-20T12:00:00+05:30",
-    "endDate": "2024-10-20T13:00:00+05:30",
-    "description": "Can we look at biology from the lens of materials science? How can materials on the nanoscale pose risks to health as well as potentially revolutionise cancer therapy?<br>Using everyday examples like cigarette smoke, sunscreen, air pollutants and wound dressings, Aahana Ganguly takes us on a journey through the multidisciplinary field of nanoparticles. She explores where nanoscience meets medicine with a particular focus on cancer therapy while also analysing the challenges that arise in their development. She also identifies gaps where young aspiring scientists can make their contributions.",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=small-but-mighty-ama",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Aahana-Ganguly"
-      }
-    ],
-    "maximumAttendeeCapacity": 20
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Who Gets (or does not Get) to do Science, and Why: Feminist Perspectives",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery Bengaluru, Bangalore",
-      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
-    },
-    "startDate": "2024-10-19T16:00:00+05:30",
-    "endDate": "2024-10-19T18:00:00+05:30",
-    "description": "Talent and hard work is enough to do science, right? Is this indeed the case?Come look under the sociological microscope with Gita Chadha to understand the relationship between privilege and  the pursuit of science. She uses feminist perspectives to address the questions of marginality and exclusion in science.",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=who-gets-who-does-not",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Gita-Chadha"
-      }
-    ],
-    "maximumAttendeeCapacity": 80
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "Who Gets (or does not Get) to do Science, and Why: Feminist Perspectives",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery Bengaluru, Bangalore",
-      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
-    },
-    "startDate": "2024-10-19T17:00:00+05:30",
-    "endDate": "2024-10-19T18:00:00+05:30",
-    "description": "Talent and hard work is enough to do science, right? Is this indeed the case?Come look under the sociological microscope with Gita Chadha to understand the relationship between privilege and  the pursuit of science. She uses feminist perspectives to address the questions of marginality and exclusion in science.",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=who-gets-who-does-not-ama",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Gita-Chadha"
-      }
-    ],
-    "maximumAttendeeCapacity": 20
+    "maximumAttendeeCapacity": 60
   }
 ]
