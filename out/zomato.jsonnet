@@ -2312,66 +2312,6 @@
     }
   },
   {
-    "name": "Dil Se Diwali",
-    "description": "Step into the festive magic of Dil Se Diwali, where every moment sparkles with joy! \n\nFrom stunning decor that sets the perfect festive vibe to electrifying DJ beats and captivating dance performances, we\u2019ve crafted an experience that\u2019s pure Diwali bliss. \n\nExplore vibrant flea markets, savour delicious food, and immerse yourself in the live dhol beats. Mingle, network, and celebrate this festival of lights with people who share your love for all things festive. \n\nDon\u2019t miss out on a night filled with joy, music, and unforgettable memories! ",
-    "startDate": "2024-10-25 18:00:00",
-    "endDate": "2024-10-26 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Dil Se Diwali Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Dil Se Diwali Bengaluru on Zomato which is a Music event happening at No 1, Golf Avenue, adjoining KGA Golf Course, HAL Old Airport Rd, Domlur, Bengaluru, Karnataka 560008",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/bac7b341c758bb13aedc1755038427ab1729597232.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/dil-se-diwali-bengaluru-et52611/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-10-22 17:12:52",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/dil-se-diwali-bengaluru-et52611/details",
-        "price": 199,
-        "currency": "INR",
-        "validFrom": "2024-10-22 17:12:52",
-        "availability": "INSTOCK",
-        "inventory": 500
-      },
-      {
-        "url": "https://www.zomato.com/events/dil-se-diwali-bengaluru-et52611/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-10-22 17:12:53",
-        "availability": "INSTOCK",
-        "inventory": 500
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/dil-se-diwali-bengaluru-et52611",
-    "id": "com.zomato.52611",
-    "location": {
-      "name": "Hotel Royal Orchid",
-      "address": "No 1, Golf Avenue, adjoining KGA Golf Course, HAL Old Airport Rd, Domlur, Bengaluru, Karnataka 560008",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.96331699,
-        "longitude": 77.63903662
-      }
-    }
-  },
-  {
     "name": "Tribute to AC/DC & Guns N' Roses",
     "description": "Lee & Hard Rock Cafe Presents The Ultimate Tribute to AC/DC & Guns N\u2019 Roses ft. 2Blue\nYOU WILL LOVE HIM! Because he is not just a great singer! Tirthankar Poddar (aka 2Blue) is a muscular statement like a raised fist! With his four-octave militant-like voice and provocative storytelling, he is known to dazzle. Small wonder when Paul Di`Anno of Iron Maiden and George Lynch of Dokken came to India, it was 2Blue they performed with. As did Bumblefoot of Guns N\u2019 Roses.\nIf you were born in the `80s and raised on vintage rock, this could be emotional. Because chances are 2Blue is the artist you laughed and cried with when you were young. Chances are he is who you connected with on MySpace and Orkut when you needed a friend. And over the years, chances are he is who you grew old with the lead singer of Vayu who went solo, the man who was crazy enough to quit his lucrative day job to headline your college festival.",
     "startDate": "2024-12-21T21:00:00+05:30",
