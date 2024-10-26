@@ -76,6 +76,40 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Loading Arcade 140 Level 28!!!This one is gonna be huge.Stay tuned for more Info",
+      "endDate": "2024-11-16T23:59:00",
+      "identifier": "com.skillboxes.16688",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1729946982kGoxUYoLVuP291ph.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9707322",
+            "longitude": "77.6476391"
+         },
+         "name": "Indiranagar Social"
+      },
+      "name": "ARCADE 140: Level 28 Ft ??????",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10,
+            "name": "Super Early Birds",
+            "url": "https://www.skillboxes.com/events/ticket/arcade-140-level-28-ft"
+         }
+      ],
+      "startDate": "2024-11-16T20:00:00",
+      "url": "https://www.skillboxes.com/events/arcade-140-level-28-ft"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Step into the spirit of light and joy this Diwali with Dil Se Diwali - House Party Edition.' Celebrate the festival in style with the man himself @aar",
       "endDate": "2024-10-27T23:59:00",
@@ -101,7 +135,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Step into the spirit of Light and Joy this Diwali! Only at 2Moons by Juliet, 1MG mall\nAdd us on instagram! @advaithx @infinight.in",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 993,
             "name": "Dil Se Diwali -House Party Edition",
             "url": "https://www.skillboxes.com/events/ticket/dil-se-diwali-house-party-edition"
          }
@@ -130,7 +164,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 40,
+            "inventoryLevel": 39,
             "name": "Audience",
             "url": "https://www.skillboxes.com/events/ticket/swayambhu-a-1-hour-poetry-special"
          }
@@ -172,41 +206,6 @@
       ],
       "startDate": "2024-10-27T15:00:00",
       "url": "https://www.skillboxes.com/events/oktoberfest-sundowner-to-midnight-party"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "The Skydeck Bollywood Carnival: Saturday Night Fever!Get ready for a night of Desi glamour and excitement! Join us at Skydeck by Sherlock's this Satur",
-      "endDate": "2024-10-26T23:59:00",
-      "identifier": "com.skillboxes.16647",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1729757690IIOsMXDhLm6D0hQw.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Party or Social Gathering"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750296",
-            "longitude": "77.6075339"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "The Skydeck Bollywood Carnival",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Get a complimentary Beer or a Mocktail on every booking!\n",
-            "inventoryLevel": 100,
-            "name": "Entry Charge",
-            "url": "https://www.skillboxes.com/events/ticket/the-skydeck-bollywood-carnival"
-         }
-      ],
-      "startDate": "2024-10-26T20:00:00",
-      "url": "https://www.skillboxes.com/events/the-skydeck-bollywood-carnival"
    },
    {
       "@context": "https://schema.org",
@@ -302,65 +301,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": " Join us for a spooktacular Halloween party like no other!House of horrorsWhen: Saturday, October 26thTime: 8:00pm onwardsWhere: F",
-      "endDate": "2024-10-26T23:59:00",
-      "identifier": "com.skillboxes.16616",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0JDVVVMbXI5Q1ZtWXJNS1A1QTJzUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17296506314uHxY5LjlyA5XEGC.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Party or Social Gathering"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "MSR Building, FLO, #3, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9743377",
-            "longitude": "77.6068167"
-         },
-         "name": "FLO Church Street"
-      },
-      "name": "Superclub Saturday (HALLOWEEN EDITION)",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One ticket allows only one boy entry\n",
-            "inventoryLevel": 196,
-            "name": "Boys",
-            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-14"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One ticket allows only one girl entry\nFree till 10:00",
-            "inventoryLevel": 194,
-            "name": "Girls",
-            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-14"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One ticket allows one male n one female entry\nFree till 9:00",
-            "inventoryLevel": 196,
-            "name": "Couples",
-            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-14"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Extra\n",
-            "inventoryLevel": 200,
-            "name": "Others",
-            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-14"
-         }
-      ],
-      "startDate": "2024-10-26T20:00:00",
-      "url": "https://www.skillboxes.com/events/superclub-saturday-14"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "🎃 Indo Tech Warriors Unite for Halloween! 🎃This October 31st, step into the darkness and let your inner beast take over with a night o",
       "endDate": "2024-10-31T11:59:00",
@@ -395,7 +335,7 @@
             "availability": "InStock",
             "description": "COVER CHARGES APPLICABLE POST 10:00pm\nDRESS CODE - Black | Dark | Gothic",
             "inventoryLevel": 20,
-            "name": "GA - EARLY BIRD",
+            "name": "GA - PHASE 1",
             "url": "https://www.skillboxes.com/events/ticket/rage-of-raga"
          },
          {
@@ -403,7 +343,7 @@
             "availability": "InStock",
             "description": "DANCE WITH THE DJ\nACCESS TO HALLOWEEN PROPS",
             "inventoryLevel": 20,
-            "name": "VIP - EARLY BIRD",
+            "name": "VIP -PHASE 1",
             "url": "https://www.skillboxes.com/events/ticket/rage-of-raga"
          }
       ],
@@ -447,170 +387,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "Unleash your inner ghoul at 'Halloween Trick or Treat'! Siva Prayojan takes the stage at High Ultra Lounge on October 25th, 7 PM onwards. Get ready fo",
-      "endDate": "2024-10-26T00:45:00",
-      "identifier": "com.skillboxes.16593",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/R3YxblZSbnhqTC9KRWFDT0pZUndnUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17295436869jKgrLJuRmohgz0a.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Party or Social Gathering"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0122829",
-            "longitude": "77.5561431"
-         },
-         "name": "High Ultra Lounge"
-      },
-      "name": "Halloween Trick or Treat ft. Ultranova & Friend's",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges applicable post 9PM\n",
-            "inventoryLevel": 96,
-            "name": "Entry Pass - Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/halloween-trick-or-treat-ft-siva-prayojan-friend-s"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable post 9PM\n",
-            "inventoryLevel": 100,
-            "name": "Entry Pass - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/halloween-trick-or-treat-ft-siva-prayojan-friend-s"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry for one male individual. Cover Charges Applicable post 9PM.\n",
-            "inventoryLevel": 39,
-            "name": "Early Bird Entry Pass - Male",
-            "url": "https://www.skillboxes.com/events/ticket/halloween-trick-or-treat-ft-siva-prayojan-friend-s"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "Cover Charges applicable post 9PM\n",
-            "inventoryLevel": 0,
-            "name": "Entry Pass - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/halloween-trick-or-treat-ft-siva-prayojan-friend-s"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry for one male Individual. Cover Charges applicable post 9PM\n",
-            "inventoryLevel": 100,
-            "name": "Entry Pass - Male",
-            "url": "https://www.skillboxes.com/events/ticket/halloween-trick-or-treat-ft-siva-prayojan-friend-s"
-         }
-      ],
-      "startDate": "2024-10-25T19:00:00",
-      "url": "https://www.skillboxes.com/events/halloween-trick-or-treat-ft-siva-prayojan-friend-s"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "What’s up, music fam!Join us this Friday, 25th October from 8 PM onwards at I-BAR, The Park Bangalore for ELECTRIC BOOGIE !Featuring: FUNKSUN |&",
-      "endDate": "2024-10-26T01:00:00",
-      "identifier": "com.skillboxes.16591",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1729536527f1U3cDabMcQkEmDs.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "DJ/Producer"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "iBAR, THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9740179",
-            "longitude": "77.619422"
-         },
-         "name": "i-Bar THE Park Bangalore"
-      },
-      "name": "ELECTRIC BOOGIE !",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one stag to the event. Cover charges applicable at the venue throughout the event.\n",
-            "inventoryLevel": 198,
-            "name": "SATGS",
-            "url": "https://www.skillboxes.com/events/ticket/electric-boogie-2"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one lady to the event.\n",
-            "inventoryLevel": 200,
-            "name": "LADIES",
-            "url": "https://www.skillboxes.com/events/ticket/electric-boogie-2"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass allows entry to 1 Couple. Each pass permits one couple to the event. Cover charges applicable at the venue post 9:30 PM.\n",
-            "inventoryLevel": 200,
-            "name": "COUPLES",
-            "url": "https://www.skillboxes.com/events/ticket/electric-boogie-2"
-         }
-      ],
-      "startDate": "2024-10-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/electric-boogie-2"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "This Friday, get ready to groove to the best of Commercial and Hip-hop music at the hottest spot in B'town—Hard Rock Cafe! St. Ma",
-      "endDate": "2024-10-26T00:30:00",
-      "identifier": "com.skillboxes.16590",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17295339886mrdC7vH4qpSP6pl.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "40 St. Marks Road Bangalore, India",
-         "name": "Hard Rock Cafe Bengaluru"
-      },
-      "name": "Bootleg Fridays at Hardrock Cafe",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable at the venue\n",
-            "inventoryLevel": 100,
-            "name": "Stag",
-            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow one single entry\n",
-            "inventoryLevel": 100,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry till 0930pm post cover charges applicable\n",
-            "inventoryLevel": 100,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-1"
-         }
-      ],
-      "startDate": "2024-10-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/bootleg-fridays-at-hardrock-cafe-1"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Hello, Bangalore!Get ready for another unforgettable live performance this Saturday, 26th October, from 8 PM onwards.CLUB CODE SATURDAY / PRE DIWALI B",
       "endDate": "2024-10-27T01:00:00",
@@ -631,32 +407,7 @@
          "name": "i-Bar THE Park Bangalore"
       },
       "name": "CLUB CODE SATURDAY / PRE DIWALI BASH !",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one stag to the event. Cover charges applicable at the venue throughout the event.\n",
-            "inventoryLevel": 197,
-            "name": "stags",
-            "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-pre-diwali-bash"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one lady to the event.\n",
-            "inventoryLevel": 200,
-            "name": "ladies",
-            "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-pre-diwali-bash"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass allows entry to 1 Couple. Each pass permits one couple to the event. Cover charges applicable at the venue post 9:30 PM.\n",
-            "inventoryLevel": 191,
-            "name": "couples",
-            "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-pre-diwali-bash"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-10-26T20:00:00",
       "url": "https://www.skillboxes.com/events/club-code-saturday-pre-diwali-bash"
    },
@@ -747,40 +498,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Intergalactic futures arrives at our next destination, Alien Garden of Xenora on Saturday 26th Oct.\r\n\r\n \r\n\r\nYour travelling party will include na",
-      "endDate": "2024-10-26T23:59:00",
-      "identifier": "com.skillboxes.16569",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17294900595gnsLucY0rm6KWQu.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9705141",
-            "longitude": "77.6464228"
-         },
-         "name": "Sly Granny, Indiranagar"
-      },
-      "name": "Intergalactic Ft Chan, DJ OUT OF OFFICE, Boddah, Gacho Libre, Synths Back And Name Gravity",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 347,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/house-party-presents-intergalactic-ft-chan-naren-krishna-boddah-gacho-libre-synths-back-name-gravity-and-cosmic"
-         }
-      ],
-      "startDate": "2024-10-26T20:00:00",
-      "url": "https://www.skillboxes.com/events/house-party-presents-intergalactic-ft-chan-naren-krishna-boddah-gacho-libre-synths-back-name-gravity-and-cosmic"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "SocialEvent",
       "description": "Step back in time and join us for \"Retro Revelry: A Night of Nostalgia\"! This is your chance to relive the magic of the past as we celebrate t",
       "endDate": "2024-10-28T01:00:00",
@@ -835,15 +552,7 @@
          "name": "Mollys Rooftop Bar and Lounge"
       },
       "name": "GLOW IN THE DARK - BOLLYWOOD",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 50,
-            "name": "FREE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/glow-in-the-dark-bollywood-1"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-10-26T19:00:00",
       "url": "https://www.skillboxes.com/events/glow-in-the-dark-bollywood-1"
    },
@@ -874,7 +583,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Early Bird\n",
-            "inventoryLevel": 17,
+            "inventoryLevel": 16,
             "name": "Echoes of Grunge - Zed Axis & Seattle Wildfire",
             "url": "https://www.skillboxes.com/events/ticket/echoes-of-grunge-zed-axis-seattle-wildfire"
          }
@@ -910,7 +619,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 999,
+            "inventoryLevel": 998,
             "name": "Performer Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-12"
          },
@@ -924,41 +633,6 @@
       ],
       "startDate": "2024-11-10T14:00:00",
       "url": "https://www.skillboxes.com/events/the-bean-grill-open-mic-12"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "🎃Get ready to rumble this Halloween! On the 26th, Capo- By Chance venture makes its grand debut at MG Road, bringing you an unforgettable",
-      "endDate": "2024-10-26T23:59:00",
-      "identifier": "com.skillboxes.16535",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MmZDVyswU3dQV1FqSUE4VmFFR0JBUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1729249853i6ir4ZR4Sd6y15lO.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No 51 & 52, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9730089",
-            "longitude": "77.6073656"
-         },
-         "name": "By Chance - Resto Pub"
-      },
-      "name": "HALLOWEEN RUMBLE",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges Applicable post 21:00 PM\nDress code : Halloween Themed",
-            "inventoryLevel": 313,
-            "name": "HALLOWEEN PHASE",
-            "url": "https://www.skillboxes.com/events/ticket/halloween-rumble"
-         }
-      ],
-      "startDate": "2024-10-26T19:00:00",
-      "url": "https://www.skillboxes.com/events/halloween-rumble"
    },
    {
       "@context": "https://schema.org",
@@ -981,7 +655,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 23,
+            "inventoryLevel": 16,
             "name": "Audience",
             "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-16"
          },
@@ -1040,40 +714,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "The Burrow Presents Fright Night Halloween Edition Ft Eva Toya, Wilderness Girl, Vazify & Shayna",
-      "endDate": "2024-10-26T23:59:00",
-      "identifier": "com.skillboxes.16460",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17289774865HBe4irljcanTZDX.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Event"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9849438",
-            "longitude": "77.5808105"
-         },
-         "name": "The Burrow"
-      },
-      "name": "The Burrow Presents Fright Night Halloween Edition Ft Eva Toya, Wilderness Girl, Vazify & Shayna",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 211,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-fright-night-halloween-edition-ft-eva-toya-wilderness-girl-vazify-shayna"
-         }
-      ],
-      "startDate": "2024-10-26T20:00:00",
-      "url": "https://www.skillboxes.com/events/the-burrow-presents-fright-night-halloween-edition-ft-eva-toya-wilderness-girl-vazify-shayna"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "The Indie Tapes\r\n\r\nRicky, a dynamic performer and full-time artist, began her professional journey at the age of 10. After residing in Shanghai, China",
       "endDate": "2024-11-02T23:30:00",
@@ -1099,55 +739,13 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional 300 cover charge to be paid at the gates (Fully Redeemable)\nMust be 21 or older and must possess a valid hard ID or DigiLocker",
-            "inventoryLevel": 148,
+            "inventoryLevel": 146,
             "name": "The Indie Tapes - Feat. Ricky, Dayve, Noel Emmanuel, WalterBrown",
             "url": "https://www.skillboxes.com/events/ticket/the-indie-tapes"
          }
       ],
       "startDate": "2024-11-02T19:00:00",
       "url": "https://www.skillboxes.com/events/the-indie-tapes"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Prepare to unleash your inner rockstar at Rocktoberfest, the ultimate rock festival celebrating all things music and community! Taking place on O",
-      "endDate": "2024-10-26T22:30:00",
-      "identifier": "com.skillboxes.16435",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/bm5scjdWdFptQUJZK0VSYUpvRm53QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728902772dyfBOuFOrCAgMYlB.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Festival & Fair"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Whitefield Main Road, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9957867",
-            "longitude": "77.6964011"
-         },
-         "name": "Phoenix Marketcity"
-      },
-      "name": "ROCKTOBERFEST",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each Ticket entitles entry for One Person at the Venue on the event date\n",
-            "inventoryLevel": 977,
-            "name": "Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/rocktoberfest"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Meet and Greet",
-            "url": "https://www.skillboxes.com/events/ticket/rocktoberfest"
-         }
-      ],
-      "startDate": "2024-10-26T16:00:00",
-      "url": "https://www.skillboxes.com/events/rocktoberfest"
    },
    {
       "@context": "https://schema.org",
@@ -1253,6 +851,13 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "inventoryLevel": 43,
+            "name": "Limited Free Entry",
+            "url": "https://www.skillboxes.com/events/ticket/bf002-the-ritual"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "inventoryLevel": 100,
             "name": "GA",
             "url": "https://www.skillboxes.com/events/ticket/bf002-the-ritual"
@@ -1295,22 +900,6 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "We expect you to buy a cup of coffee at Starbucks to support organizing free open mics\n",
-            "inventoryLevel": 7,
-            "name": "Free Entry For Performer",
-            "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-4"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "We expect you to buy a cup of coffee at Starbucks to support organizing free open mics\n",
-            "inventoryLevel": 9,
-            "name": "Free Entry For Guest",
-            "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-4"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "We expect you to buy a cup of coffee at Starbucks to support organizing free open mics\n",
             "inventoryLevel": 20,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-4"
@@ -1346,7 +935,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional 300 cover charge to be paid at the gates (Fully Redeemable)\nMust be 21 or older and must possess a valid hard ID or DigiLocker",
-            "inventoryLevel": 146,
+            "inventoryLevel": 142,
             "name": "Awaaz-E-Musiqi - Feat. Badal Kashyap, Joy Hanson, Fishhhita, Panchee (Ft. Sxggy)",
             "url": "https://www.skillboxes.com/events/ticket/awaaz-e-musiqi"
          }
@@ -1472,24 +1061,7 @@
          "name": "Gawky Goose"
       },
       "name": "Casa Bacardi Halloween ft. Ankytrixx | 26th Oct | Gawky Goose",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 98,
-            "name": "Guestlist - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/casa-bacardi-halloween-ft-ankytrixx-26th-oct-gawky-goose"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM\n",
-            "inventoryLevel": 100,
-            "name": "Guestlist - Female",
-            "url": "https://www.skillboxes.com/events/ticket/casa-bacardi-halloween-ft-ankytrixx-26th-oct-gawky-goose"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-10-26T20:00:00",
       "url": "https://www.skillboxes.com/events/casa-bacardi-halloween-ft-ankytrixx-26th-oct-gawky-goose"
    },
@@ -1554,7 +1126,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 14,
+            "inventoryLevel": 8,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/Social-Selects-The-Karan-Kanchan-Kitty-Party-2"
          },
@@ -1596,7 +1168,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 135,
+            "inventoryLevel": 133,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/azadi-tour-ditty-live-at-blr-creative-circus"
          },
@@ -1653,89 +1225,6 @@
       ],
       "startDate": "2024-10-27T20:00:00",
       "url": "https://www.skillboxes.com/events/crossover-halloween-ft-anyasa-27th-oct-kitty-ko"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Kannamangalam Sreekumar Harisankar  is an Indian playback singer popular mainly in South Indian cinema. He is quite familiar to the Malayali audi",
-      "endDate": "2024-10-26T23:59:00",
-      "identifier": "com.skillboxes.16227",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728056430DlXTPBcr77cWr9SR.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Hosur Rd, Chikku Lakshmaiah Layout, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.934692",
-            "longitude": "77.6111212"
-         },
-         "name": "Nexus Mall Koramangala"
-      },
-      "name": "Hari Shankar Live in Bangalore : the musical Saga",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 97,
-            "name": "GA - Phase 2 Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "VIP - Phase 2 Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Phase 1 Seating",
-            "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "GA - Super Early Bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 98,
-            "name": "GA - Phase 1 Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "VIP - Super Early Bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "VIP - Phase 1Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Seating Super Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/hari-shankar-live-in-bangalore-the-musical-saga"
-         }
-      ],
-      "startDate": "2024-10-26T16:30:00",
-      "url": "https://www.skillboxes.com/events/hari-shankar-live-in-bangalore-the-musical-saga"
    },
    {
       "@context": "https://schema.org",
@@ -1877,7 +1366,7 @@
       "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "🎃 Bengaluru, the ultimate hard techno Halloween experience is here! Get ready for the HARDGROUND Halloween Edition powered by DARKK ENERGY &am",
-      "endDate": "2024-10-26T23:59:00",
+      "endDate": "2024-10-27T01:00:00",
       "identifier": "com.skillboxes.16151",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dFovTkt6QWcyQW8rVnFNSEdMWnppQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17290146561GLNkXDrXygd4K8F.jpg.webp",
       "isAccessibleForFree": false,
@@ -1900,7 +1389,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry to one person throughout the event. (Cover charge applicable by venue)\nTickets are non-cancelable, non-refundable and non-transferable.",
-            "inventoryLevel": 50,
+            "inventoryLevel": 64,
             "name": "Final Phase GA",
             "url": "https://www.skillboxes.com/events/ticket/hardground-bengaluru"
          },
@@ -1908,7 +1397,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry to one person to VIP arena throughout the event. (Cover charge applicable by venue)Tickets are non-cancelable, non-refundable and non-transferable.\n",
-            "inventoryLevel": 49,
+            "inventoryLevel": 489,
             "name": "Final Phase VIP",
             "url": "https://www.skillboxes.com/events/ticket/hardground-bengaluru"
          },
@@ -1916,23 +1405,15 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry to 3 people throughout the event. (Cover charge applicable by venue)Tickets are non-cancelable, non-refundable and non-transferable.\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 94,
             "name": "Final Phase Group (3)",
             "url": "https://www.skillboxes.com/events/ticket/hardground-bengaluru"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Allows entry to 5 people throughout the event. (Cover charge applicable by venue)Tickets are non-cancelable, non-refundable and non-transferable.\n",
-            "inventoryLevel": 10,
-            "name": "Final Phase Group (5)",
-            "url": "https://www.skillboxes.com/events/ticket/hardground-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "Allows entry to 3 people throughout the event. (Cover charge applicable by venue)Tickets are non-cancelable, non-refundable and non-transferable.\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 97,
             "name": "Final Phase VIP Group (3)",
             "url": "https://www.skillboxes.com/events/ticket/hardground-bengaluru"
          },
@@ -1940,7 +1421,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry to 5 people throughout the event. (Cover charge applicable by venue)Tickets are non-cancelable, non-refundable and non-transferable.\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 99,
             "name": "Final Phase VIP Group (5)",
             "url": "https://www.skillboxes.com/events/ticket/hardground-bengaluru"
          },
@@ -2059,7 +1540,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This is a RSVP event with entry on first-cum-first serve basis.\n",
-            "inventoryLevel": 183,
+            "inventoryLevel": 180,
             "name": "ALT EFF Ticket",
             "url": "https://www.skillboxes.com/events/ticket/alt-eff-2024-x-atree"
          }
@@ -2093,47 +1574,13 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 26,
+            "inventoryLevel": 24,
             "name": "Regular Entry",
             "url": "https://www.skillboxes.com/events/ticket/luru-beats-Floating-Folks-Ep-7"
          }
       ],
       "startDate": "2024-10-27T17:00:00",
       "url": "https://www.skillboxes.com/events/luru-beats-Floating-Folks-Ep-7"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Join us for 'LURU BEATS, an exciting acoustic music festival happening at various Starbucks outlets across the city! Every Saturday and Sunday, experi",
-      "endDate": "2024-10-26T20:00:00",
-      "identifier": "com.skillboxes.16070",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1727697927qe4R8nUr40JocKch.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "55 & 51 Ground Prestige Rr Building MG Road, Church St, near Anjappar Chettinad Restaurant, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9752166",
-            "longitude": "77.604164"
-         },
-         "name": "Starbucks"
-      },
-      "name": "Luru Beats - Ep#6 ft. Aaron Joseph + J and N",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 22,
-            "name": "Regular Entry",
-            "url": "https://www.skillboxes.com/events/ticket/luru-beats-Floating-Folks-Ep-6"
-         }
-      ],
-      "startDate": "2024-10-26T17:00:00",
-      "url": "https://www.skillboxes.com/events/luru-beats-Floating-Folks-Ep-6"
    },
    {
       "@context": "https://schema.org",
@@ -2430,31 +1877,5 @@
       ],
       "startDate": "2025-07-06T19:00:00",
       "url": "https://www.skillboxes.com/events/sunday-night-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "BigTree Entertainment presents XL Fridays - Ladies & Models Bollywood Punjabi Music Night Extravaganza with DJ Axle at one of the best clubs in Ba",
-      "endDate": "2024-10-26T01:00:00",
-      "identifier": "com.skillboxes.14273",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NlVlUVlGLy9UWTc1TFdXZVlyWXBFQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17238034621qM5S1gHFPMIuQyg.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Party or Social Gathering"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9348662",
-            "longitude": "77.6138885"
-         },
-         "name": "Plan B x Hangover XL Koramangala"
-      },
-      "name": "XL Fridays",
-      "offers": [ ],
-      "startDate": "2024-10-25T19:00:00",
-      "url": "https://www.skillboxes.com/events/xl-fridays"
    }
 ]
