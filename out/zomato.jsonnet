@@ -1315,58 +1315,6 @@
     }
   },
   {
-    "name": "Casa Bacardi Halloween ft. Ankytrixx",
-    "description": "Bangalore's most awaited & sought after Casa Bacardi Halloween is back this Halloween at Gawky Goose featuring ANKYTRIXX \ud83c\udf83\n\nDate: Saturday, 26th October | 8PM Onwards\nVenue: Gawky Goose, Bangalore\n\nEvent by: CentiGrade \n\n* Rights of Admission Reserved | Club Rules Apply\n* Limited Capacity Event. Entry through reservation only.",
-    "startDate": "2024-10-26 20:00:00",
-    "endDate": "2024-10-27 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Casa Bacardi Halloween ft. Ankytrixx Trending and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Casa Bacardi Halloween ft. Ankytrixx Bengaluru on Zomato which is a Trending and Music event happening at #77, Wind Tunnel Rd, Murugeshpalya, Muniyappa Layout, Bengaluru, Karnataka 560017",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/7973c3719321c8b56b783849b8d4f66e1728372167.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/casa-bacardi-halloween-ft-ankytrixx-bengaluru-et52281/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-10-08 15:31:55",
-        "availability": "INSTOCK",
-        "inventory": 121
-      },
-      {
-        "url": "https://www.zomato.com/events/casa-bacardi-halloween-ft-ankytrixx-bengaluru-et52281/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-10-08 15:31:55",
-        "availability": "INSTOCK",
-        "inventory": 91
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/casa-bacardi-halloween-ft-ankytrixx-bengaluru-et52281",
-    "id": "com.zomato.52281",
-    "location": {
-      "name": "Gawky Goose",
-      "address": "#77, Wind Tunnel Rd, Murugeshpalya, Muniyappa Layout, Bengaluru, Karnataka 560017",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9540402,
-        "longitude": 77.6527398
-      }
-    }
-  },
-  {
     "name": "Ek Shaam Mastani",
     "description": "Get ready to travel back in time and relive the golden era of Bollywood! On November 16, immerse yourself in an unforgettable musical journey featuring the biggest hits from the 70s, 80s, and 90s. From soulful melodies to foot-tapping beats, Ek Shaam Mastani promises an evening filled with nostalgia, live performances, and electrifying energy. Whether you're a die-hard Bollywood fan or just love timeless music, this night will have you singing along and dancing to your favorite classics. Don't miss the chance to experience Bollywood magic like never before!",
     "startDate": "2024-11-16T19:00:00+05:30",
@@ -2054,58 +2002,6 @@
     }
   },
   {
-    "name": "Dilon ki Diwali",
-    "description": "Diwali is finally here! Join us for a night of music, lights, and celebration and catch DJ Angel from Mumbai and Daiwik set the Floor ablaze!",
-    "startDate": "2024-10-26 20:00:00",
-    "endDate": "2024-10-27 00:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Dilon ki Diwali Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Dilon ki Diwali Bengaluru on Zomato which is a Experiences event happening at Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/10d2c5d23f6543f35e76a3bed6efa11b1729593448.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/dilon-ki-diwali-bengaluru-et52609/details",
-        "price": 1500,
-        "currency": "INR",
-        "validFrom": "2024-10-22 16:13:06",
-        "availability": "INSTOCK",
-        "inventory": 1000
-      },
-      {
-        "url": "https://www.zomato.com/events/dilon-ki-diwali-bengaluru-et52609/details",
-        "price": 2000,
-        "currency": "INR",
-        "validFrom": "2024-10-22 16:13:07",
-        "availability": "INSTOCK",
-        "inventory": 1000
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/dilon-ki-diwali-bengaluru-et52609",
-    "id": "com.zomato.52609",
-    "location": {
-      "name": "PrimeGolf Brewing and Golfing",
-      "address": "Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.02945659,
-        "longitude": 77.76030138
-      }
-    }
-  },
-  {
     "name": "Tribute to AC/DC & Guns N' Roses",
     "description": "Lee & Hard Rock Cafe Presents The Ultimate Tribute to AC/DC & Guns N\u2019 Roses ft. 2Blue\nYOU WILL LOVE HIM! Because he is not just a great singer! Tirthankar Poddar (aka 2Blue) is a muscular statement like a raised fist! With his four-octave militant-like voice and provocative storytelling, he is known to dazzle. Small wonder when Paul Di`Anno of Iron Maiden and George Lynch of Dokken came to India, it was 2Blue they performed with. As did Bumblefoot of Guns N\u2019 Roses.\nIf you were born in the `80s and raised on vintage rock, this could be emotional. Because chances are 2Blue is the artist you laughed and cried with when you were young. Chances are he is who you connected with on MySpace and Orkut when you needed a friend. And over the years, chances are he is who you grew old with the lead singer of Vayu who went solo, the man who was crazy enough to quit his lucrative day job to headline your college festival.",
     "startDate": "2024-12-21T21:00:00+05:30",
@@ -2234,66 +2130,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.9718485,
         "longitude": 77.6009258
-      }
-    }
-  },
-  {
-    "name": "Pataka",
-    "description": "Get ready to celebrate Diwali with a true cultural flair at PATAKA - Bangalore\u2019s most premium Diwali party on 26th October featuring SARTEK at the stunning High Ultra Lounge!\n\nSoar 31 floors above the city and dive into a night of traditional grandeur filled with vibrant energy and pure Diwali magic! \n\nThis is the ultimate Diwali party where tradition meets celebration!",
-    "startDate": "2024-10-26 20:00:00",
-    "endDate": "2024-10-27 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Pataka Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Pataka Bengaluru on Zomato which is a Party event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/d760e20155e339e19b38bfdc787f78c51729755869.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/pataka-bengaluru-et52658/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-24 14:33:23",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/pataka-bengaluru-et52658/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-10-24 14:33:24",
-        "availability": "INSTOCK",
-        "inventory": 196
-      },
-      {
-        "url": "https://www.zomato.com/events/pataka-bengaluru-et52658/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-10-24 14:33:25",
-        "availability": "INSTOCK",
-        "inventory": 196
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/pataka-bengaluru-et52658",
-    "id": "com.zomato.52658",
-    "location": {
-      "name": "High Ultra Lounge",
-      "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.0122829,
-        "longitude": 77.5561431
       }
     }
   },
