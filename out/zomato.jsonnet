@@ -907,50 +907,6 @@
     }
   },
   {
-    "name": "Sunny Tunes",
-    "description": "Make some noise and have fun, since the music gets two times better when the band lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Cartridge and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
-    "startDate": "2024-10-27T13:00:00+05:30",
-    "endDate": "2024-10-27T16:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/417126744544b39c1dac27c6c38b6b781727431665.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et51913/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-27 15:49:55",
-        "availability": "INSTOCK",
-        "inventory": 179
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et51913",
-    "id": "com.zomato.51913",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Rock Out Sundays",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-10-27T20:30:00+05:30",
@@ -1165,48 +1121,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97480423,
         "longitude": 77.62066549
-      }
-    }
-  },
-  {
-    "name": "Fabric Painting",
-    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple anJoin our Fabric Painting Workshop! We\u2019ll supply all the art materials, a tasty meal, and a chance to meet new friends. Bring your own fabric, preferably denim or any thick cloth, and our artists will guide you in creating your unique design. It\u2019s a fun and relaxed way to spend your afternoon. Head over to Paint The Town Art Cafe for a creative day filled with art, food, and friendly conversations. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83d\udc56d enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
-    "startDate": "2024-10-27T13:00:00+05:30",
-    "endDate": "2024-10-27T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/dd711c37b30f9103c867c57d1e487a831727676723.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/fabric-painting-bengaluru-et52015/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-09-30 11:45:51",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/fabric-painting-bengaluru-et52015",
-    "id": "com.zomato.52015",
-    "location": {
-      "name": "Paint The Town Restaurant",
-      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93753285,
-        "longitude": 77.61234518
       }
     }
   },
@@ -1935,8 +1849,8 @@
   {
     "name": "SoMAD Halloween Carnival 2024",
     "description": "It\u2019s time, and we\u2019ve curated the best Halloween Bengaluru has witnessed!\n\nWelcome to the Haunted Mansion!\n\nHere\u2019s why this is our best Halloween yet:\n\nTHIS EXCLUSIVE COSTUME + POOL PARTY EXPECT: \u2022 10hrs of nonstop music with 10+ artists! \ud83c\udf9b\ufe0f\ud83e\udd41\ud83c\udfb9\ud83e\udea9\n\u2022 World's best D&B sound systems at 3+ stages. \ud83d\udce2\n\u2022 BBQ, sushi rolling & grills! \ud83c\udf57\ud83c\udf2e\ud83e\uddc0\ud83c\udf61\n\u2022 Party at Bengaluru's most renowned elite venue. \ud83c\udf0f\n\u2022 10+ art showcases || 2+ fashion pop-ups.\n\u2022 Makeup glam station. \ud83d\udc84\ud83d\udc8b\u2728\n\nExpect an impeccable Halloween celebration!",
-    "startDate": "2024-10-27T15:00:00+05:30",
-    "endDate": "2024-10-28T01:00:00+05:30",
+    "startDate": "2024-10-27 15:00:00",
+    "endDate": "2024-10-28 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
