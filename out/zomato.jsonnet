@@ -907,50 +907,6 @@
     }
   },
   {
-    "name": "Rock Out Sundays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-10-27T20:30:00+05:30",
-    "endDate": "2024-10-27T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/15dd9a17c79b0f62d31891222ef6ce1d1727432839.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et51914/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-27 15:49:55",
-        "availability": "INSTOCK",
-        "inventory": 178
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et51914",
-    "id": "com.zomato.51914",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Karaoke Nights",
     "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
     "startDate": "2024-10-30T20:30:00+05:30",
@@ -1083,104 +1039,10 @@
     }
   },
   {
-    "name": "SCC SkyCinema - Diwali Special",
-    "description": "\"Jiyo! Khush Raho! Muskurao! Kya Pata Kal Ho Naa Ho.\"\n\nThis Diwali, come home to nostalgia as Sunset Cinema Club brings to you a movie very close to our hearts meant to be relished with your loved ones.\n\nThe space will  be decorated with diyas and candles all set to welcome you to the screenings of these golden films that will add even more light, feeling and cheer to your diwali celebrations!\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the skyline of the city as your backdrop.",
-    "startDate": "2024-10-27T19:00:00+05:30",
-    "endDate": "2024-10-27T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/c53c47c111c85532fa474b45541eb0a31727618876.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-diwali-special-bengaluru-et51974/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-09-29 19:41:00",
-        "availability": "INSTOCK",
-        "inventory": 18
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-diwali-special-bengaluru-et51974",
-    "id": "com.zomato.51974",
-    "location": {
-      "name": "1 MG - Lido Mall",
-      "address": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru, Karnataka 560008",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97480423,
-        "longitude": 77.62066549
-      }
-    }
-  },
-  {
-    "name": "SCC Picnic Cinema - Tanu Weds Manu",
-    "description": "\"Love marriage mein aadmi galti nahi karta. Uski majbooriyan badal jaati hain.\"- Tanu Weds Manu\n\nSunset Cinema Club is thrilled to invite you to an exclusive screening of the blockbuster hit, \"\"Tanu Weds Manu.\"\" Join us for a cinematic experience that promises laughter, romance, and a whole lot of entertainment at Nexus Shantiniketan Mall.\n\nLocated in the heart of Whitefield, this bustling mall transforms into a haven of relaxation and entertainment as the sun sets and the stars begin to emerge, and your movie screening begins. Enjoy your favourite film on a large screen with surround sound, as you sink into comfy bean bags or mattresses, in the great outdoors.",
-    "startDate": "2024-10-27T19:00:00+05:30",
-    "endDate": "2024-10-27T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC Picnic Cinema - Tanu Weds Manu Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC Picnic Cinema - Tanu Weds Manu Bengaluru on Zomato which is a Experiences event happening at NEXUS SHANTINIKETAN Mall Whitefield Main Rd, Thigalarapalya, Krishnarajapuram, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/fc47fca2f8921c0e6677f9fe438196441727755108.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-picnic-cinema-tanu-weds-manu-bengaluru-et52096/details",
-        "price": 500,
-        "currency": "INR",
-        "validFrom": "2024-10-01 10:07:52",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/scc-picnic-cinema-tanu-weds-manu-bengaluru-et52096/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-10-01 10:07:52",
-        "availability": "INSTOCK",
-        "inventory": 6
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-picnic-cinema-tanu-weds-manu-bengaluru-et52096",
-    "id": "com.zomato.52096",
-    "location": {
-      "name": "NEXUS SHANTINIKETAN Mall",
-      "address": "NEXUS SHANTINIKETAN Mall Whitefield Main Rd, Thigalarapalya, Krishnarajapuram, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.989743793341,
-        "longitude": 77.72806416
-      }
-    }
-  },
-  {
     "name": "Anyasa live at Kitty Ko",
     "description": "The most trending pop up in town is back this Halloween - CrossOver with the Anjunadeep sensation ANYASA live at Kitty Ko - Bengaluru this 27th October.\n\nAlso Featuring: Aditya Rajpal, Alterlife & Nick Lima",
-    "startDate": "2024-10-27T20:00:00+05:30",
-    "endDate": "2024-10-28T01:00:00+05:30",
+    "startDate": "2024-10-27 20:00:00",
+    "endDate": "2024-10-28 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2000,50 +1862,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.9705218,
         "longitude": 77.6458475
-      }
-    }
-  },
-  {
-    "name": "Staple Blues",
-    "description": "Kick back and groove with Bisi Bele Blues at Staple Blues: An Evening of Soulful Riffs. On a lazy Sunday evening, let the smooth, simmering blues carry you away\u2014served hot and soulful, just like the music!",
-    "startDate": "2024-10-27T19:00:00+05:30",
-    "endDate": "2024-10-27T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Staple Blues Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Staple Blues Bengaluru on Zomato which is a Music event happening at 2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/704b1954a0c2e2520d63b16c1d1d67151729677920.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/staple-blues-bengaluru-et52637/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-23 15:41:47",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/staple-blues-bengaluru-et52637",
-    "id": "com.zomato.52637",
-    "location": {
-      "name": "Gilly's St. Marks Road",
-      "address": "2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9718485,
-        "longitude": 77.6009258
       }
     }
   },
