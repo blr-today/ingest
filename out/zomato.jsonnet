@@ -35,7 +35,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 11:47:29",
         "availability": "INSTOCK",
-        "inventory": 300
+        "inventory": 297
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -43,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 11:47:30",
         "availability": "INSTOCK",
-        "inventory": 332
+        "inventory": 331
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -51,7 +51,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 120
+        "inventory": 118
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -59,7 +59,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 303
+        "inventory": 302
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -67,7 +67,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 420
+        "inventory": 418
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -91,7 +91,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 66
+        "inventory": 65
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -99,7 +99,7 @@
         "currency": "INR",
         "validFrom": "2024-10-04 11:30:00",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 9
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -345,7 +345,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 93
+        "inventory": 89
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -558,7 +558,7 @@
         "currency": "INR",
         "validFrom": "2024-10-21 11:44:55",
         "availability": "INSTOCK",
-        "inventory": 47
+        "inventory": 46
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -699,8 +699,8 @@
         "price": 5000,
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
-        "availability": "INSTOCK",
-        "inventory": 400
+        "availability": "SELLING_FAST",
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -708,7 +708,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 409
+        "inventory": 385
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -716,7 +716,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 461
+        "inventory": 451
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -875,7 +875,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9960
+        "inventory": 9959
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -927,7 +927,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:56",
         "availability": "INSTOCK",
-        "inventory": 193
+        "inventory": 192
       }
     ],
     "performers": [],
@@ -1015,7 +1015,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 22:02:28",
         "availability": "INSTOCK",
-        "inventory": 190
+        "inventory": 188
       }
     ],
     "performers": [],
@@ -1035,58 +1035,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.98717896,
         "longitude": 77.7364802
-      }
-    }
-  },
-  {
-    "name": "Anyasa live at Kitty Ko",
-    "description": "The most trending pop up in town is back this Halloween - CrossOver with the Anjunadeep sensation ANYASA live at Kitty Ko - Bengaluru this 27th October.\n\nAlso Featuring: Aditya Rajpal, Alterlife & Nick Lima",
-    "startDate": "2024-10-27 20:00:00",
-    "endDate": "2024-10-28 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Anyasa live at Kitty Ko Trending and Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Anyasa live at Kitty Ko Bengaluru on Zomato which is a Trending and Party event happening at Kumara Park East, Seshadripuram, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/1061e8dd4d3635ebed56b98007567ff51728270962.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/anyasa-live-at-kitty-ko-bengaluru-et52223/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-10-07 22:00:30",
-        "availability": "INSTOCK",
-        "inventory": 185
-      },
-      {
-        "url": "https://www.zomato.com/events/anyasa-live-at-kitty-ko-bengaluru-et52223/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-07 22:00:31",
-        "availability": "INSTOCK",
-        "inventory": 180
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/anyasa-live-at-kitty-ko-bengaluru-et52223",
-    "id": "com.zomato.52223",
-    "location": {
-      "name": "Kitty Ko",
-      "address": "Kumara Park East, Seshadripuram, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9923061,
-        "longitude": 77.58201
       }
     }
   },
@@ -1623,7 +1571,7 @@
         "currency": "INR",
         "validFrom": "2024-10-17 18:31:03",
         "availability": "INSTOCK",
-        "inventory": 48
+        "inventory": 45
       }
     ],
     "performers": [],
@@ -1709,75 +1657,6 @@
     }
   },
   {
-    "name": "SoMAD Halloween Carnival 2024",
-    "description": "It\u2019s time, and we\u2019ve curated the best Halloween Bengaluru has witnessed!\n\nWelcome to the Haunted Mansion!\n\nHere\u2019s why this is our best Halloween yet:\n\nTHIS EXCLUSIVE COSTUME + POOL PARTY EXPECT: \u2022 10hrs of nonstop music with 10+ artists! \ud83c\udf9b\ufe0f\ud83e\udd41\ud83c\udfb9\ud83e\udea9\n\u2022 World's best D&B sound systems at 3+ stages. \ud83d\udce2\n\u2022 BBQ, sushi rolling & grills! \ud83c\udf57\ud83c\udf2e\ud83e\uddc0\ud83c\udf61\n\u2022 Party at Bengaluru's most renowned elite venue. \ud83c\udf0f\n\u2022 10+ art showcases || 2+ fashion pop-ups.\n\u2022 Makeup glam station. \ud83d\udc84\ud83d\udc8b\u2728\n\nExpect an impeccable Halloween celebration!",
-    "startDate": "2024-10-27 15:00:00",
-    "endDate": "2024-10-28 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SoMAD Halloween Carnival 2024 Experiences, Trending and Best seller event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SoMAD Halloween Carnival 2024 Bengaluru on Zomato which is a Experiences, Trending and Best seller event happening at Oia, Hennur Main Road, New Airport Rd, opposite Mantri Webcity, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/fc875ed38eb986df0e14703f486d037c1729575583.png",
-      "https://b.zmtcdn.com/data/zomaland/340e0cea7453c94323561aa68cdb1ca61729921915.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/somad-halloween-carnival-2024-bengaluru-et52602/details",
-        "price": 1099,
-        "currency": "INR",
-        "validFrom": "2024-10-22 12:34:05",
-        "availability": "INSTOCK",
-        "inventory": 298
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-halloween-carnival-2024-bengaluru-et52602/details",
-        "price": 1649,
-        "currency": "INR",
-        "validFrom": "2024-10-22 12:34:06",
-        "availability": "INSTOCK",
-        "inventory": 300
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-halloween-carnival-2024-bengaluru-et52602/details",
-        "price": 2799,
-        "currency": "INR",
-        "validFrom": "2024-10-22 12:34:06",
-        "availability": "INSTOCK",
-        "inventory": 295
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-halloween-carnival-2024-bengaluru-et52602/details",
-        "price": 3899,
-        "currency": "INR",
-        "validFrom": "2024-10-22 12:34:07",
-        "availability": "INSTOCK",
-        "inventory": 297
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/somad-halloween-carnival-2024-bengaluru-et52602",
-    "id": "com.zomato.52602",
-    "location": {
-      "name": "Oia Mansion",
-      "address": "Oia, Hennur Main Road, New Airport Rd, opposite Mantri Webcity, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.07493998,
-        "longitude": 77.65222238
-      }
-    }
-  },
-  {
     "name": "Tribute to AC/DC & Guns N' Roses",
     "description": "Lee & Hard Rock Cafe Presents The Ultimate Tribute to AC/DC & Guns N\u2019 Roses ft. 2Blue\nYOU WILL LOVE HIM! Because he is not just a great singer! Tirthankar Poddar (aka 2Blue) is a muscular statement like a raised fist! With his four-octave militant-like voice and provocative storytelling, he is known to dazzle. Small wonder when Paul Di`Anno of Iron Maiden and George Lynch of Dokken came to India, it was 2Blue they performed with. As did Bumblefoot of Guns N\u2019 Roses.\nIf you were born in the `80s and raised on vintage rock, this could be emotional. Because chances are 2Blue is the artist you laughed and cried with when you were young. Chances are he is who you connected with on MySpace and Orkut when you needed a friend. And over the years, chances are he is who you grew old with the lead singer of Vayu who went solo, the man who was crazy enough to quit his lucrative day job to headline your college festival.",
     "startDate": "2024-12-21T21:00:00+05:30",
@@ -1842,7 +1721,7 @@
         "currency": "INR",
         "validFrom": "2024-10-23 15:41:46",
         "availability": "INSTOCK",
-        "inventory": 68
+        "inventory": 37
       }
     ],
     "performers": [],
@@ -1874,8 +1753,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
-    "ogTitle": "Halloween Night Madness Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Halloween Night Madness Bengaluru on Zomato which is a Experiences event happening at 203, 2nd Floor, The Collection, UB City, Vittal Mallya Rd, Bengaluru, Karnataka 560001",
+    "ogTitle": "Halloween Night Madness Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Halloween Night Madness Bengaluru on Zomato which is a Experiences and Trending event happening at 203, 2nd Floor, The Collection, UB City, Vittal Mallya Rd, Bengaluru, Karnataka 560001",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/f65755e707a0e9b36f1fa589264d8c8d1729767910.jpeg"
     ],
@@ -1886,7 +1765,7 @@
         "currency": "INR",
         "validFrom": "2024-10-24 19:58:36",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 196
       }
     ],
     "performers": [],
@@ -1930,7 +1809,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 17:15:52",
         "availability": "INSTOCK",
-        "inventory": 194
+        "inventory": 185
       }
     ],
     "performers": [],
