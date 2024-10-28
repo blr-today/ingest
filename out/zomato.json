@@ -1753,5 +1753,64 @@
       "remainingAttendeeCapacity": 185,
       "startDate": "2024-11-02T16:30:00+05:30",
       "url": "https://www.zomato.com/events/we-jam-bengaluru-et52691"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Join Us At Seven Rivers For A Night That’s Dripping With Sass, Style, And Spooky Vibes.\n\nUnder The Moonlight By The Poolside, We’re Turning Up The Heat With Dj Prithvi And Dj Raghu Achar, Spinning The Freshest Commercial, House, And Haunting Beats That’ll Have You Dancing With Creatures Of The Night. 🕸️\n\nCome Dressed In Your Spookiest, Most Jaw-dropping Attire—this Isn’t Your Typical Halloween. It’s All About Killer Looks, Cocktails, And Showing ‘em How It's Really Done. 🍸💀\n\nForget The Tricks, We’re All About The Treats. Gather Your Crew And Let’s Be Goofy, And Dance The Night Away.\nAnd If Anyone Tries To Bring You Down? Just Say Witch, Please!!!\n\nGet Ready To Slay, Because This Halloween Is Going To Be Anything But Basic! 🎃",
+      "endDate": "2024-10-31T01:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/1eecfdcd0aa7ad27666623dcb207d2c11730109171.png",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.97326,
+            "longitude": 77.619667000000007
+         },
+         "name": "Seven Rivers Brewing Co."
+      },
+      "name": "Witch Please!! Halloween special | Taj Mg Road",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 30
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-28T15:35:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 30
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-28T15:35:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 25
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-28T15:35:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-10-30T20:00:00+05:30",
+      "url": "https://www.zomato.com/events/witch-please-halloween-special-taj-mg-road-bengaluru-et52723"
    }
 ]

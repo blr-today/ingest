@@ -1831,5 +1831,65 @@
         "longitude": 77.62347594
       }
     }
+  },
+  {
+    "name": "Witch Please!! Halloween special | Taj Mg Road",
+    "description": "Join Us At Seven Rivers For A Night That\u2019s Dripping With Sass, Style, And Spooky Vibes.\n\nUnder The Moonlight By The Poolside, We\u2019re Turning Up The Heat With Dj Prithvi And Dj Raghu Achar, Spinning The Freshest Commercial, House, And Haunting Beats That\u2019ll Have You Dancing With Creatures Of The Night. \ud83d\udd78\ufe0f\n\nCome Dressed In Your Spookiest, Most Jaw-dropping Attire\u2014this Isn\u2019t Your Typical Halloween. It\u2019s All About Killer Looks, Cocktails, And Showing \u2018em How It's Really Done. \ud83c\udf78\ud83d\udc80\n\nForget The Tricks, We\u2019re All About The Treats. Gather Your Crew And Let\u2019s Be Goofy, And Dance The Night Away.\nAnd If Anyone Tries To Bring You Down? Just Say Witch, Please!!!\n\nGet Ready To Slay, Because This Halloween Is Going To Be Anything But Basic! \ud83c\udf83",
+    "startDate": "2024-10-30T20:00:00+05:30",
+    "endDate": "2024-10-31T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Witch Please!! Halloween special | Taj Mg Road Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Witch Please!! Halloween special | Taj Mg Road Bengaluru on Zomato which is a Music and Trending event happening at 7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/1eecfdcd0aa7ad27666623dcb207d2c11730109171.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/witch-please-halloween-special-taj-mg-road-bengaluru-et52723/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-10-28 15:35:00",
+        "availability": "INSTOCK",
+        "inventory": 30
+      },
+      {
+        "url": "https://www.zomato.com/events/witch-please-halloween-special-taj-mg-road-bengaluru-et52723/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-10-28 15:35:00",
+        "availability": "INSTOCK",
+        "inventory": 30
+      },
+      {
+        "url": "https://www.zomato.com/events/witch-please-halloween-special-taj-mg-road-bengaluru-et52723/details",
+        "price": 1500,
+        "currency": "INR",
+        "validFrom": "2024-10-28 15:35:00",
+        "availability": "INSTOCK",
+        "inventory": 25
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/witch-please-halloween-special-taj-mg-road-bengaluru-et52723",
+    "id": "com.zomato.52723",
+    "location": {
+      "name": "Seven Rivers Brewing Co.",
+      "address": "7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97326,
+        "longitude": 77.619667
+      }
+    }
   }
 ]
