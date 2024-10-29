@@ -77,6 +77,49 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Get ready for the ultimate techno showcase in your city - Protocol Sunday! Catch A.BECKER live at Kitty Ko this Sunday.Date: Sunday, 3rd November | 8P",
+      "endDate": "2024-11-04T01:00:00",
+      "identifier": "com.skillboxes.16710",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730140699ZPl9plK7ISQrv1OD.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Protocol Sunday ft. A.BECKER | 3rd Nov | Kitty Ko",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "GUESTLIST-COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/protocol-sunday-ft-a-becker-3rd-nov-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM\n",
+            "inventoryLevel": 100,
+            "name": "Female - Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/protocol-sunday-ft-a-becker-3rd-nov-kitty-ko"
+         }
+      ],
+      "startDate": "2024-11-03T20:00:00",
+      "url": "https://www.skillboxes.com/events/protocol-sunday-ft-a-becker-3rd-nov-kitty-ko"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Progressive Overload Pinka - Pinka is a Singer, Songwriter, Artist, and Architect from Mysore, India. She is also the lead vocalist for her ",
       "endDate": "2024-11-30T23:30:00",
       "identifier": "com.skillboxes.16708",
