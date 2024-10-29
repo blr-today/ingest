@@ -77,6 +77,78 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Step into the festive magic of Diwali, where every moment sparkles with joy!\nFrom stunning decor that sets the perfect festive vibe to electrifyin",
+      "endDate": "2024-11-03T01:00:00",
+      "identifier": "com.skillboxes.16719",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0JDVVVMbXI5Q1ZtWXJNS1A1QTJzUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730195033plcyfR9JibeVWABi.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "DJ/Producer"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "MSR Building, FLO, #3, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9743377",
+            "longitude": "77.6068167"
+         },
+         "name": "FLO Church Street"
+      },
+      "name": "SUPERCLUB SATURDAY(DIWALI BASH)",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable\n",
+            "inventoryLevel": 200,
+            "name": "Male",
+            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-diwali-bash"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free for girls till 10:00pm\n",
+            "inventoryLevel": 200,
+            "name": "Female",
+            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-diwali-bash"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free Couple entries till 9:00pm\n",
+            "inventoryLevel": 200,
+            "name": "Couples",
+            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-diwali-bash"
+         }
+      ],
+      "startDate": "2024-11-02T20:00:00",
+      "url": "https://www.skillboxes.com/events/superclub-saturday-diwali-bash"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Metallic packaging has emerged as a vital component in various industries, offering a unique blend of durability, aesthetic appeal, and sustainability",
+      "endDate": "2024-11-07T20:00:00",
+      "identifier": "com.skillboxes.16715",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UXNrWnVkRWl1QlVVMFBiYThPNVNaQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17301927295U48sR6ZqSV64vEo.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Online Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "Advantages of Metallic Packaging",
+      "offers": [ ],
+      "startDate": "2024-11-07T01:00:00",
+      "url": "https://www.skillboxes.com/events/advantages-of-metallic-packaging"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Get ready for the ultimate techno showcase in your city - Protocol Sunday! Catch A.BECKER live at Kitty Ko this Sunday.Date: Sunday, 3rd November | 8P",
       "endDate": "2024-11-04T01:00:00",
       "identifier": "com.skillboxes.16710",
@@ -456,7 +528,7 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Loading Arcade 140 Level 28!!!This one is gonna be huge.Stay tuned for more Info",
+      "description": "Loading Arcade 140 Level 28!!!\r\n\r\n \r\n\r\nThis one is gonna be huge.\r\n\r\nStay tuned for more Info",
       "endDate": "2024-11-16T23:59:00",
       "identifier": "com.skillboxes.16688",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1729946982kGoxUYoLVuP291ph.jpg.webp",
@@ -542,7 +614,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 2499,
+            "inventoryLevel": 2496,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/showcase"
          },
@@ -584,7 +656,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "LIMITED TICKETS\nNO COVER CHARGES APPLICABLE",
-            "inventoryLevel": 39,
+            "inventoryLevel": 37,
             "name": "GA - ENTRY BEFORE 8:00pm",
             "url": "https://www.skillboxes.com/events/ticket/rage-of-raga"
          },
@@ -593,7 +665,7 @@
             "availability": "InStock",
             "description": "COVER CHARGES APPLICABLE POST 10:00pm\nDRESS CODE - Black | Dark | Gothic",
             "inventoryLevel": 20,
-            "name": "GA - PHASE 1",
+            "name": "GA - PHASE 2",
             "url": "https://www.skillboxes.com/events/ticket/rage-of-raga"
          },
          {
@@ -601,7 +673,7 @@
             "availability": "InStock",
             "description": "DANCE WITH THE DJ\nACCESS TO HALLOWEEN PROPS",
             "inventoryLevel": 20,
-            "name": "VIP -PHASE 1",
+            "name": "VIP -PHASE 2",
             "url": "https://www.skillboxes.com/events/ticket/rage-of-raga"
          }
       ],
@@ -728,8 +800,16 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Phase 1\n",
+            "inventoryLevel": 99,
+            "name": "Echoes of Grunge - Zed Axis & Seattle Wildfire",
+            "url": "https://www.skillboxes.com/events/ticket/echoes-of-grunge-zed-axis-seattle-wildfire"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
             "description": "Early Bird\n",
-            "inventoryLevel": 9,
+            "inventoryLevel": 0,
             "name": "Echoes of Grunge - Zed Axis & Seattle Wildfire",
             "url": "https://www.skillboxes.com/events/ticket/echoes-of-grunge-zed-axis-seattle-wildfire"
          }
@@ -971,7 +1051,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional 300 cover charge to be paid at the gates (Fully Redeemable)\nMust be 21 or older and must possess a valid hard ID or DigiLocker",
-            "inventoryLevel": 142,
+            "inventoryLevel": 140,
             "name": "Awaaz-E-Musiqi - Feat. Badal Kashyap, Joy Hanson, Fishhhita, Panchee (Ft. Sxggy)",
             "url": "https://www.skillboxes.com/events/ticket/awaaz-e-musiqi"
          }
@@ -1002,6 +1082,13 @@
       },
       "name": "Beyond Thriller - The Ultimate Michael Jackson Tribute",
       "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Student Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/beyond-thriller-the-ultimate-michael-jackson-tribute"
+         },
          {
             "@type": "Offer",
             "availability": "InStock",
@@ -1178,7 +1265,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 130,
+            "inventoryLevel": 128,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/azadi-tour-ditty-live-at-blr-creative-circus"
          },
@@ -1356,7 +1443,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This is a RSVP event with entry on first-cum-first serve basis.\n",
-            "inventoryLevel": 178,
+            "inventoryLevel": 176,
             "name": "ALT EFF Ticket",
             "url": "https://www.skillboxes.com/events/ticket/alt-eff-2024-x-atree"
          }
@@ -1441,7 +1528,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 189,
+            "inventoryLevel": 187,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/nayaab-india-tour-ft-ashu-shukla-Bangalore"
          }

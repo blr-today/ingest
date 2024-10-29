@@ -35,7 +35,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 11:47:29",
         "availability": "INSTOCK",
-        "inventory": 297
+        "inventory": 290
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -43,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 11:47:30",
         "availability": "INSTOCK",
-        "inventory": 331
+        "inventory": 328
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -51,7 +51,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 118
+        "inventory": 116
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -59,7 +59,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 302
+        "inventory": 299
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -67,7 +67,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 418
+        "inventory": 417
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -75,15 +75,15 @@
         "currency": "INR",
         "validFrom": "2024-10-04 11:30:00",
         "availability": "INSTOCK",
-        "inventory": 27
+        "inventory": 26
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
         "price": 13168,
         "currency": "INR",
         "validFrom": "2024-10-14 17:46:00",
-        "availability": "INSTOCK",
-        "inventory": 4
+        "availability": "SELLING_FAST",
+        "inventory": 3
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -107,7 +107,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 66
+        "inventory": 65
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -345,7 +345,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 89
+        "inventory": 78
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -574,7 +574,7 @@
         "currency": "INR",
         "validFrom": "2024-10-17 13:46:00",
         "availability": "INSTOCK",
-        "inventory": 45
+        "inventory": 44
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -696,19 +696,11 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
-        "price": 5000,
-        "currency": "INR",
-        "validFrom": "2024-10-25 13:24:00",
-        "availability": "SELLING_FAST",
-        "inventory": 96
-      },
-      {
-        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
         "price": 10000,
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 385
+        "inventory": 373
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -716,7 +708,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 451
+        "inventory": 424
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -779,6 +771,14 @@
         "price": 5000,
         "currency": "INR",
         "validFrom": "2024-10-18 18:40:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
+        "price": 5000,
+        "currency": "INR",
+        "validFrom": "2024-10-25 13:24:00",
         "availability": "SOLDOUT",
         "inventory": 0
       },
@@ -875,7 +875,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9959
+        "inventory": 9951
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -883,7 +883,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9990
+        "inventory": 9989
       }
     ],
     "performers": [],
@@ -927,7 +927,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:56",
         "availability": "INSTOCK",
-        "inventory": 192
+        "inventory": 179
       }
     ],
     "performers": [],
@@ -1015,7 +1015,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 22:02:28",
         "availability": "INSTOCK",
-        "inventory": 188
+        "inventory": 182
       }
     ],
     "performers": [],
@@ -1143,7 +1143,7 @@
         "currency": "INR",
         "validFrom": "2024-10-15 14:09:43",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 48
       }
     ],
     "performers": [],
@@ -1497,7 +1497,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 12:34:56",
         "availability": "INSTOCK",
-        "inventory": 4
+        "inventory": 3
       },
       {
         "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
@@ -1701,50 +1701,6 @@
     }
   },
   {
-    "name": "Halloween at Nevermind",
-    "description": "\ud83c\udf83 Halloween at Nevermind \ud83c\udf83\n\nOn 31st Oct, step into a haunted haven as Nevermind transforms into a nightmarish playground of thrills and chills! With DJ Psymetric spinning spine-tingling beats, prepare for a night of eerie vibes, spooky surprises, and unforgettable Halloween magic.\ud83d\udc7b\n\nCome if you dare, and let the haunting begin! \ud83c\udfb6\ud83d\udc80",
-    "startDate": "2024-10-31T20:00:00+05:30",
-    "endDate": "2024-11-01T01:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Halloween at Nevermind Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Halloween at Nevermind Bengaluru on Zomato which is a Trending event happening at No.614-615, 12th Main Rd, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/9f2263cd99584e6530f5d2aefc53dd301729677682.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/halloween-at-nevermind-bengaluru-et52636/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-10-23 15:41:46",
-        "availability": "INSTOCK",
-        "inventory": 37
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/halloween-at-nevermind-bengaluru-et52636",
-    "id": "com.zomato.52636",
-    "location": {
-      "name": "Nevermind Bar & Social , Indiranagar",
-      "address": "No.614-615, 12th Main Rd, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9705218,
-        "longitude": 77.6458475
-      }
-    }
-  },
-  {
     "name": "Halloween Night Madness",
     "description": "\ud83c\udf83 Are you ready for Halloween Night Madness at One Night in Bangkok\ud83c\udf83\n\nJoin  us for Halloween Night Madness with DJ Andre on October 31st at One Night in Bangkok, starting at 10 PM! Get ready for a night of spine-chilling beats and electrifying energy as DJ Andre takes the stage, spinning a mix of hauntingly good tracks that will keep you dancing until the witching hour. Dress to impress in your best Halloween costume. Enjoy eerie cocktails and themed surprises throughout the night as the club transforms into a haunted haven.",
     "startDate": "2024-10-31T22:00:00+05:30",
@@ -1765,7 +1721,7 @@
         "currency": "INR",
         "validFrom": "2024-10-24 19:58:36",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 159
       }
     ],
     "performers": [],
@@ -1809,7 +1765,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 17:15:52",
         "availability": "INSTOCK",
-        "inventory": 185
+        "inventory": 180
       }
     ],
     "performers": [],
@@ -1853,7 +1809,7 @@
         "currency": "INR",
         "validFrom": "2024-10-28 15:35:00",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 18
       },
       {
         "url": "https://www.zomato.com/events/witch-please-halloween-special-taj-mg-road-bengaluru-et52723/details",
@@ -1861,7 +1817,7 @@
         "currency": "INR",
         "validFrom": "2024-10-28 15:35:00",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 27
       },
       {
         "url": "https://www.zomato.com/events/witch-please-halloween-special-taj-mg-road-bengaluru-et52723/details",
@@ -1889,6 +1845,55 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97326,
         "longitude": 77.619667
+      }
+    }
+  },
+  {
+    "name": "Friday Bollywood Night Ft. DJ Abhijit",
+    "description": "Come experience our \u2018Into The Wild\u2019 jungle themed 3rd anniversary party with the best in Bollywood beats by DJ Abhijit !",
+    "startDate": "2024-11-10T20:00:00+05:30",
+    "endDate": "2024-11-10T23:59:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Friday Bollywood Night Ft. DJ Abhijit Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Friday Bollywood Night Ft. DJ Abhijit Bengaluru on Zomato which is a Music event happening at H.No. 8-2-293/82/A/732/1 Plot No. 732, Rd Number 37, opposite GVPR Engineering's, Jubilee Hills, Hyderabad, Telangana 500033",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/8202f8003444bb4cc2ea56145ef031ad1730200967.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/6a730d53f0afb3e52e819102293b96381730203921.png",
+      "https://b.zmtcdn.com/data/zomaland/edaddbb60b903bce54a3340f07ae8b981730203922.png",
+      "https://b.zmtcdn.com/data/zomaland/38945977cf5b1273901196700968b5e31730203922.png",
+      "https://b.zmtcdn.com/data/zomaland/df95753430074fcacb323635ccce9bdb1730203922.png",
+      "https://b.zmtcdn.com/data/zomaland/0be42a8d5d63f72e1274d4899c028b281730203922.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/friday-bollywood-night-ft-dj-abhijit-bengaluru-et52742/details",
+        "price": 99,
+        "currency": "INR",
+        "validFrom": "2024-10-29 17:14:54",
+        "availability": "INSTOCK",
+        "inventory": 125
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/friday-bollywood-night-ft-dj-abhijit-bengaluru-et52742",
+    "id": "com.zomato.52742",
+    "location": {
+      "name": "Makau Kitchen and Bar",
+      "address": "H.No. 8-2-293/82/A/732/1 Plot No. 732, Rd Number 37, opposite GVPR Engineering's, Jubilee Hills, Hyderabad, Telangana 500033",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 17.43837035,
+        "longitude": 78.39981246
       }
     }
   }
