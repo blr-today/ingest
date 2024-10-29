@@ -1485,5 +1485,58 @@
       "Walking Tour",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Introduction to Tai Chi with Meera",
+    "description": "Are you someone who believes in exploring meditation in daily life through movement? Tai Chi is an ancient Chinese martial art and mind-body practice known for its slow, flowing movements, which promote relaxation, balance, and inner peace. Rooted in principles of mindfulness and energy flow, it combines gentle physical movements with deep breathing and focused awareness, making it both a form of physical exercise and moving meditation.Join Meera Krishna who has been learning and practicing Tai Chi or the last 17 years. She has facilitated and taught the art for the 8 years.Meera Krishna believes here life's calling is to facilitate health and conscious living through Tai Chi ( movement meditation) and Zen art as tools to be healthy, to connect with one's body, understand the mind, explore one's daily life, freeing one's spirit and reclaiming one's natural joyful state of well-being in sync with nature.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CAB885C4A9094770914337F881B4F200_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/61B4C427EFC5441A9DF9E1A30631EDEC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2F3D88EADEB547B7ADBD3732C38173E0_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6F7E6A104013416084425F2D040CDC3E_converted_webp.webp"
+    ],
+    "startDate": "2024-11-10T09:30:00+05:30",
+    "endDate": "2024-11-10T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1800.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/introduction-to-taichi",
+    "keywords": [
+      "Active",
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
   }
 ]
