@@ -907,50 +907,6 @@
     }
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-10-30T20:30:00+05:30",
-    "endDate": "2024-10-30T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/74f4a62da96b9504dc3d536bc7ff250b1727431737.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et51915/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-09-27 15:49:56",
-        "availability": "INSTOCK",
-        "inventory": 170
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et51915",
-    "id": "com.zomato.51915",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Encore",
     "description": "Catch Encore performing live your favourite tracks at Hard Rock Cafe, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-10-31T20:30:00+05:30",
@@ -1791,8 +1747,8 @@
   {
     "name": "Witch Please!! Halloween special | Taj Mg Road",
     "description": "Join Us At Seven Rivers For A Night That\u2019s Dripping With Sass, Style, And Spooky Vibes.\n\nUnder The Moonlight By The Poolside, We\u2019re Turning Up The Heat With Dj Prithvi And Dj Raghu Achar, Spinning The Freshest Commercial, House, And Haunting Beats That\u2019ll Have You Dancing With Creatures Of The Night. \ud83d\udd78\ufe0f\n\nCome Dressed In Your Spookiest, Most Jaw-dropping Attire\u2014this Isn\u2019t Your Typical Halloween. It\u2019s All About Killer Looks, Cocktails, And Showing \u2018em How It's Really Done. \ud83c\udf78\ud83d\udc80\n\nForget The Tricks, We\u2019re All About The Treats. Gather Your Crew And Let\u2019s Be Goofy, And Dance The Night Away.\nAnd If Anyone Tries To Bring You Down? Just Say Witch, Please!!!\n\nGet Ready To Slay, Because This Halloween Is Going To Be Anything But Basic! \ud83c\udf83",
-    "startDate": "2024-10-30T20:00:00+05:30",
-    "endDate": "2024-10-31T01:00:00+05:30",
+    "startDate": "2024-10-30 20:00:00",
+    "endDate": "2024-10-31 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1889,6 +1845,118 @@
         "@type": "GeoCoordinates",
         "latitude": 12.98271896,
         "longitude": 77.70943862
+      }
+    }
+  },
+  {
+    "name": "BuzzinUp Bangalore Bar Hop - Koramangala Edition",
+    "description": "Welcome to The BuzzinUp Bangalore Bar Hop: The Ultimate Pub Crawl, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favorite drinks, groove to fantastic music, and engage in fun games and activities. Walk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
+    "startDate": "2024-11-09T18:30:00+05:30",
+    "endDate": "2024-11-10T01:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "BuzzinUp Bangalore Bar Hop - Koramangala Edition Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for BuzzinUp Bangalore Bar Hop - Koramangala Edition Bengaluru on Zomato which is a Experiences event happening at 105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/b66c5bca539a693879afa93698b602401730308398.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774/details",
+        "price": 699,
+        "currency": "INR",
+        "validFrom": "2024-10-30 22:56:42",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-10-30 22:56:43",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774/details",
+        "price": 3999,
+        "currency": "INR",
+        "validFrom": "2024-10-30 22:56:43",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774",
+    "id": "com.zomato.52774",
+    "location": {
+      "name": "BOHO Koramangala",
+      "address": "105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9344374,
+        "longitude": 77.6159175
+      }
+    }
+  },
+  {
+    "name": "Christmas is Coming",
+    "description": "An evening of Christmas choral music featuring carols, popular songs of the season, and a Nativity Cantata, \"Because of Bethlehem\", directed by Wendy M Dickson & Tina Dickson Franco and presented by the popular Kiara Academy Choir. Also features the Kiara Dance & Theatre Ensemble in stunning choreography.",
+    "startDate": "2024-11-30T18:00:00+05:30",
+    "endDate": "2024-11-30T19:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Christmas is Coming Experiences and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Christmas is Coming Bengaluru on Zomato which is a Experiences and Music event happening at 18th Main Rd, John Nagar, Koramangala, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/c27c003079e2057915cf4742ed21df431730308656.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
+        "price": 350,
+        "currency": "INR",
+        "validFrom": "2024-10-30 22:56:44",
+        "availability": "INSTOCK",
+        "inventory": 281
+      },
+      {
+        "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-10-30 22:56:44",
+        "availability": "INSTOCK",
+        "inventory": 357
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775",
+    "id": "com.zomato.52775",
+    "location": {
+      "name": "St John's Auditorium",
+      "address": "18th Main Rd, John Nagar, Koramangala, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93242076,
+        "longitude": 77.62200106
       }
     }
   }
