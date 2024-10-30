@@ -1896,5 +1896,49 @@
         "longitude": 78.39981246
       }
     }
+  },
+  {
+    "name": "Carnival With Puppies",
+    "description": "Join us for a day filled with: \u2022\u2060 \u2060Interactive games and challenges for dogs and humans both\ud83c\udfa0 \u2022\u2060 \u2060Adoption drives featuring adorable Indie puppies looking for their forever homes\ud83d\udc15 \u2022\u2060 \u2060Educational sessions on the immorality of breeding and the importance of adopting Indies\ud83d\udc97 \u2022\u2060 \u2060Exclusive stalls and giveaways from top pet brands\ud83d\udecd\ufe0f \u2022\u2060 \u2060Live entertainment and fun activities for all ages\ud83c\udfaa \u2022\u2060 \u2060Delicious food and beverages to keep you energized throughout the day\ud83c\udf5d\ud83c\udf55 Don\u2019t miss out on being a part of India\u2019s first-ever Indie-themed pet carnival, where you can make a difference while having the time of your life with your furry friends\ud83d\udc3e\ud83d\udc97",
+    "startDate": "2024-11-24T15:00:00+05:30",
+    "endDate": "2024-11-24T18:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Carnival With Puppies Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Carnival With Puppies Bengaluru on Zomato which is a Experiences event happening at No. 2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/e0fb4607cedc92f8b9c29aa4691cd4511730268047.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/paint-with-puppies-by-pawasana-bengaluru-et52751/details",
+        "price": 749,
+        "currency": "INR",
+        "validFrom": "2024-10-30 10:39:34",
+        "availability": "INSTOCK",
+        "inventory": 20
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/paint-with-puppies-by-pawasana-bengaluru-et52751",
+    "id": "com.zomato.52751",
+    "location": {
+      "name": "BLR Brewing Co",
+      "address": "No. 2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.98271896,
+        "longitude": 77.70943862
+      }
+    }
   }
 ]

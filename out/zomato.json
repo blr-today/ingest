@@ -1812,5 +1812,47 @@
       "remainingAttendeeCapacity": 125,
       "startDate": "2024-11-10T20:00:00+05:30",
       "url": "https://www.zomato.com/events/friday-bollywood-night-ft-dj-abhijit-bengaluru-et52742"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Join us for a day filled with: •⁠ ⁠Interactive games and challenges for dogs and humans both🎠 •⁠ ⁠Adoption drives featuring adorable Indie puppies looking for their forever homes🐕 •⁠ ⁠Educational sessions on the immorality of breeding and the importance of adopting Indies💗 •⁠ ⁠Exclusive stalls and giveaways from top pet brands🛍️ •⁠ ⁠Live entertainment and fun activities for all ages🎪 •⁠ ⁠Delicious food and beverages to keep you energized throughout the day🍝🍕 Don’t miss out on being a part of India’s first-ever Indie-themed pet carnival, where you can make a difference while having the time of your life with your furry friends🐾💗",
+      "endDate": "2024-11-24T18:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/e0fb4607cedc92f8b9c29aa4691cd4511730268047.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "No. 2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.98271896,
+            "longitude": 77.70943862
+         },
+         "name": "BLR Brewing Co"
+      },
+      "name": "Carnival With Puppies",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 20
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-30T10:39:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 20,
+      "startDate": "2024-11-24T15:00:00+05:30",
+      "url": "https://www.zomato.com/events/paint-with-puppies-by-pawasana-bengaluru-et52751"
    }
 ]
