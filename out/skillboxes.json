@@ -76,6 +76,90 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Kannada DJ Party",
+      "endDate": "2024-11-16T23:59:00",
+      "identifier": "com.skillboxes.16746",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730291200X95SX08dQ0ydT3VP.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "J6JC+35R, Connaught Cir, Block N, Connaught Place, New Delhi, Delhi 110001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "28.6302337",
+            "longitude": "77.2203902"
+         },
+         "name": "Attitude Kitchen & Bar"
+      },
+      "name": "Kannada DJ Party",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Female Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/kannada-dj-party"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Male Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/kannada-dj-party"
+         }
+      ],
+      "startDate": "2024-11-16T12:00:00",
+      "url": "https://www.skillboxes.com/events/kannada-dj-party"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "First time in Bangalore , The most awaited event of the season is here.\r\n\r\n \r\n\r\nDay Dreamers Presents \r\n\r\n \r\n\r\nSky Lantern Festival - A",
+      "endDate": "2024-12-07T22:00:00",
+      "identifier": "com.skillboxes.16738",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZXVSSkZ6OEQ2M2ZpbTVsR2VzaWFCZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730276658sy9KA9oBVDjavHIm.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Hulimangala Rd, Vabasandra, Bengaluru, Bommasandra, Karnataka 560105, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.8130453",
+            "longitude": "77.6505109"
+         },
+         "name": "Utsavaa"
+      },
+      "name": "SKY LANTERN FESTIVAL IN BANGALORE",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass will allow one kid for the event + 1 Lantern\n",
+            "inventoryLevel": 2000,
+            "name": "SUPER EARLY BIRD PER KID (5-10Yrs)",
+            "url": "https://www.skillboxes.com/events/ticket/sky-lantern-festival-in-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass will allow one person for the event + 1 Lantern\n",
+            "inventoryLevel": 2000,
+            "name": "SUPER EARLY BIRD PER PERSON",
+            "url": "https://www.skillboxes.com/events/ticket/sky-lantern-festival-in-bangalore"
+         }
+      ],
+      "startDate": "2024-12-07T17:00:00",
+      "url": "https://www.skillboxes.com/events/sky-lantern-festival-in-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "SocialEvent",
       "description": "Spooky Nights Ahead! Pre-Halloween Party!Get ready for a thrilling night at Skydeck by Sherlock's this Wednesday!Step into a haunted rooftop ambiance,",
       "endDate": "2024-10-30T23:59:00",
@@ -180,6 +264,65 @@
       "offers": [ ],
       "startDate": "2024-11-07T01:00:00",
       "url": "https://www.skillboxes.com/events/advantages-of-metallic-packaging"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Brace yourselves, Bangalore! The BIGGEST INDOOR METAL FESTIVAL of 2024 is back this December, uniting emerging homegrown talent with massive",
+      "endDate": "2024-12-15T23:00:00",
+      "identifier": "com.skillboxes.16711",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c3N4V09TQy9TNWNzY2wvektOZXM5QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730278343DEdh2ZrmNCZ8ui8E.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9151523",
+            "longitude": "77.6660553"
+         },
+         "name": "White Lotus Club Bengaluru"
+      },
+      "name": "SLAUGHTERFEST 2024",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charge of 500 applied at Gate\n",
+            "inventoryLevel": 46,
+            "name": "Presale Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charge of INR 500 applied at gate.\n",
+            "inventoryLevel": 100,
+            "name": "Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charge of INR 500 applied at gate.\n",
+            "inventoryLevel": 150,
+            "name": "GA Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charge of INR 500 applied at gate.\n",
+            "inventoryLevel": 300,
+            "name": "GA Phase 2",
+            "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
+         }
+      ],
+      "startDate": "2024-12-15T17:00:00",
+      "url": "https://www.skillboxes.com/events/slaughterfest-2024"
    },
    {
       "@context": "https://schema.org",

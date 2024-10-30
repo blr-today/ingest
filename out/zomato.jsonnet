@@ -35,7 +35,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 11:47:29",
         "availability": "INSTOCK",
-        "inventory": 290
+        "inventory": 274
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -43,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 11:47:30",
         "availability": "INSTOCK",
-        "inventory": 328
+        "inventory": 326
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -51,7 +51,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 116
+        "inventory": 113
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -59,7 +59,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 299
+        "inventory": 294
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -75,7 +75,7 @@
         "currency": "INR",
         "validFrom": "2024-10-04 11:30:00",
         "availability": "INSTOCK",
-        "inventory": 26
+        "inventory": 25
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -83,7 +83,7 @@
         "currency": "INR",
         "validFrom": "2024-10-14 17:46:00",
         "availability": "SELLING_FAST",
-        "inventory": 3
+        "inventory": 2
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -345,7 +345,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 78
+        "inventory": 76
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -566,7 +566,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:47",
         "availability": "INSTOCK",
-        "inventory": 31
+        "inventory": 30
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -690,8 +690,8 @@
     "ogDesc": "Book online tickets for Arijit Singh Live Ahmedabad on Zomato which is a Best seller and Trending event happening at Gift City, Near Metro station, Ahmedabad - Gandhinagar",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/4036a5e4291ebcb10adcec8662b2ee711729843193.png",
-      "https://b.zmtcdn.com/data/zomaland/2d20860d858abc046da766821c02cb0e1729434057.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/4036a5e4291ebcb10adcec8662b2ee711729843253.png"
+      "https://b.zmtcdn.com/data/zomaland/4036a5e4291ebcb10adcec8662b2ee711729843253.png",
+      "https://b.zmtcdn.com/data/zomaland/62205750990e448c99161ab720be8ab91730208390.png"
     ],
     "tickets": [
       {
@@ -700,7 +700,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 373
+        "inventory": 353
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -883,7 +883,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9989
+        "inventory": 9988
       }
     ],
     "performers": [],
@@ -927,7 +927,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 15:49:56",
         "availability": "INSTOCK",
-        "inventory": 179
+        "inventory": 170
       }
     ],
     "performers": [],
@@ -1015,7 +1015,7 @@
         "currency": "INR",
         "validFrom": "2024-09-27 22:02:28",
         "availability": "INSTOCK",
-        "inventory": 182
+        "inventory": 178
       }
     ],
     "performers": [],
@@ -1059,7 +1059,7 @@
         "currency": "INR",
         "validFrom": "2024-10-11 18:16:31",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       }
     ],
     "performers": [],
@@ -1497,7 +1497,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 12:34:56",
         "availability": "INSTOCK",
-        "inventory": 3
+        "inventory": 2
       },
       {
         "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
@@ -1513,7 +1513,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 12:34:56",
         "availability": "INSTOCK",
-        "inventory": 4
+        "inventory": 3
       },
       {
         "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
@@ -1521,7 +1521,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 12:34:57",
         "availability": "INSTOCK",
-        "inventory": 5
+        "inventory": 2
       }
     ],
     "performers": [],
@@ -1721,7 +1721,7 @@
         "currency": "INR",
         "validFrom": "2024-10-24 19:58:36",
         "availability": "INSTOCK",
-        "inventory": 159
+        "inventory": 121
       }
     ],
     "performers": [],
@@ -1765,7 +1765,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 17:15:52",
         "availability": "INSTOCK",
-        "inventory": 180
+        "inventory": 154
       }
     ],
     "performers": [],
@@ -1805,25 +1805,25 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/witch-please-halloween-special-taj-mg-road-bengaluru-et52723/details",
-        "price": 0,
+        "price": 249,
         "currency": "INR",
-        "validFrom": "2024-10-28 15:35:00",
+        "validFrom": "2024-10-30 09:16:47",
         "availability": "INSTOCK",
-        "inventory": 18
+        "inventory": 29
       },
       {
         "url": "https://www.zomato.com/events/witch-please-halloween-special-taj-mg-road-bengaluru-et52723/details",
         "price": 0,
         "currency": "INR",
-        "validFrom": "2024-10-28 15:35:00",
+        "validFrom": "2024-10-30 09:16:47",
         "availability": "INSTOCK",
-        "inventory": 27
+        "inventory": 29
       },
       {
         "url": "https://www.zomato.com/events/witch-please-halloween-special-taj-mg-road-bengaluru-et52723/details",
-        "price": 1500,
+        "price": 1749,
         "currency": "INR",
-        "validFrom": "2024-10-28 15:35:00",
+        "validFrom": "2024-10-30 09:16:47",
         "availability": "INSTOCK",
         "inventory": 25
       }
@@ -1845,55 +1845,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97326,
         "longitude": 77.619667
-      }
-    }
-  },
-  {
-    "name": "Friday Bollywood Night Ft. DJ Abhijit",
-    "description": "Come experience our \u2018Into The Wild\u2019 jungle themed 3rd anniversary party with the best in Bollywood beats by DJ Abhijit !",
-    "startDate": "2024-11-10T20:00:00+05:30",
-    "endDate": "2024-11-10T23:59:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Friday Bollywood Night Ft. DJ Abhijit Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Friday Bollywood Night Ft. DJ Abhijit Bengaluru on Zomato which is a Music event happening at H.No. 8-2-293/82/A/732/1 Plot No. 732, Rd Number 37, opposite GVPR Engineering's, Jubilee Hills, Hyderabad, Telangana 500033",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/8202f8003444bb4cc2ea56145ef031ad1730200967.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/6a730d53f0afb3e52e819102293b96381730203921.png",
-      "https://b.zmtcdn.com/data/zomaland/edaddbb60b903bce54a3340f07ae8b981730203922.png",
-      "https://b.zmtcdn.com/data/zomaland/38945977cf5b1273901196700968b5e31730203922.png",
-      "https://b.zmtcdn.com/data/zomaland/df95753430074fcacb323635ccce9bdb1730203922.png",
-      "https://b.zmtcdn.com/data/zomaland/0be42a8d5d63f72e1274d4899c028b281730203922.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/friday-bollywood-night-ft-dj-abhijit-bengaluru-et52742/details",
-        "price": 99,
-        "currency": "INR",
-        "validFrom": "2024-10-29 17:14:54",
-        "availability": "INSTOCK",
-        "inventory": 125
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/friday-bollywood-night-ft-dj-abhijit-bengaluru-et52742",
-    "id": "com.zomato.52742",
-    "location": {
-      "name": "Makau Kitchen and Bar",
-      "address": "H.No. 8-2-293/82/A/732/1 Plot No. 732, Rd Number 37, opposite GVPR Engineering's, Jubilee Hills, Hyderabad, Telangana 500033",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 17.43837035,
-        "longitude": 78.39981246
       }
     }
   },
