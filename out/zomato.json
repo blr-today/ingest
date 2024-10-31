@@ -23,7 +23,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 274
+               "value": 263
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-16T11:47:00+05:30"
@@ -32,7 +32,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 326
+               "value": 320
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-16T11:47:00+05:30"
@@ -41,7 +41,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 113
+               "value": 111
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -50,7 +50,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 294
+               "value": 292
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-10T11:21:00+05:30"
@@ -59,7 +59,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 417
+               "value": 413
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -86,7 +86,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 65
+               "value": 63
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-10T11:21:00+05:30"
@@ -104,7 +104,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 65
+               "value": 64
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-10T11:21:00+05:30"
@@ -326,7 +326,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 76
+               "value": 74
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-18T17:36:00+05:30"
@@ -335,7 +335,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 84
+               "value": 82
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-09T05:00:00+05:30"
@@ -688,7 +688,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 353
+               "value": 324
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -697,7 +697,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 424
+               "value": 396
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -828,7 +828,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 9951
+               "value": 9945
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T00:00:00+05:30"
@@ -853,90 +853,6 @@
       "performers": [ ],
       "startDate": "2024-11-23T11:00:00+05:30",
       "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Catch Encore performing live your favourite tracks at Hard Rock Cafe, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-      "endDate": "2024-10-31T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/d219e928853707c5c0a5e46a3d3ffd681727431786.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.975953240000001,
-            "longitude": 77.601618579999993
-         },
-         "name": "Hard Rock Cafe"
-      },
-      "name": "Encore",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 100
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-27T15:49:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 100,
-      "startDate": "2024-10-31T20:30:00+05:30",
-      "url": "https://www.zomato.com/events/encore-bengaluru-et51916"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
-      "endDate": "2024-10-31T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/35a9d945ac3694f4c5174a6c7c6026751727454222.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.98717896,
-            "longitude": 77.736480200000003
-         },
-         "name": "Hard Rock Cafe"
-      },
-      "name": "Karaoke Nights",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 178
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-27T22:02:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 178,
-      "startDate": "2024-10-31T20:30:00+05:30",
-      "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et51933"
    },
    {
       "@context": "https://schema.org",
@@ -1385,25 +1301,7 @@
                "value": 5
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-10-16T12:34:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 4
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-10-16T12:34:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 2
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-10-16T12:34:00+05:30"
+            "validFrom": "2024-10-31T10:58:00+05:30"
          },
          {
             "availability": "InStock",
@@ -1412,16 +1310,43 @@
                "value": 5
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-10-16T12:34:00+05:30"
+            "validFrom": "2024-10-31T10:58:00+05:30"
          },
          {
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 3
+               "value": 4
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-10-16T12:34:00+05:30"
+            "validFrom": "2024-10-31T10:58:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 5
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-31T10:58:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 5
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-31T10:58:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 5
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-31T10:58:00+05:30"
          },
          {
             "availability": "InStock",
@@ -1430,7 +1355,25 @@
                "value": 2
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-10-16T12:34:00+05:30"
+            "validFrom": "2024-10-31T10:58:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 5
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-31T10:58:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 5
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-31T10:58:00+05:30"
          }
       ],
       "organizer": [
@@ -1477,7 +1420,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 45
+               "value": 41
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-17T18:31:00+05:30"
@@ -1610,7 +1553,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 121
+               "value": 8
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-24T19:58:00+05:30"
@@ -1624,7 +1567,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 121,
+      "remainingAttendeeCapacity": 8,
       "startDate": "2024-10-31T22:00:00+05:30",
       "url": "https://www.zomato.com/events/halloween-night-madness-bengaluru-et52668"
    },
@@ -1652,7 +1595,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 154
+               "value": 111
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T17:15:00+05:30"
@@ -1666,7 +1609,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 154,
+      "remainingAttendeeCapacity": 111,
       "startDate": "2024-11-02T16:30:00+05:30",
       "url": "https://www.zomato.com/events/we-jam-bengaluru-et52691"
    },
@@ -1736,7 +1679,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 97
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-30T22:56:00+05:30"
@@ -1804,7 +1747,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 357
+               "value": 355
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-30T22:56:00+05:30"

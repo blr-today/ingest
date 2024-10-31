@@ -77,6 +77,32 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Dive into the allure of the Middle East this Sunday at Pangeo! ✨ Join us for an unforgettable Arabic Night featuring the sensational Fiza, all ",
+      "endDate": "2024-11-03T23:59:00",
+      "identifier": "com.skillboxes.16757",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/WTNKdlJ5UiszbWtDTkZiZFF6T2xCQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730399700aJdGE0xo3ehpOUAF.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9726391",
+            "longitude": "77.6065987"
+         },
+         "name": "Pangeo"
+      },
+      "name": "PANGEO ARABIC NIGHT",
+      "offers": [ ],
+      "startDate": "2024-11-03T19:00:00",
+      "url": "https://www.skillboxes.com/events/pangeo-arabic-night"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Kannada DJ Party",
       "endDate": "2024-11-16T23:59:00",
       "identifier": "com.skillboxes.16746",
@@ -257,7 +283,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of 500 applied at Gate\n",
-            "inventoryLevel": 46,
+            "inventoryLevel": 43,
             "name": "Presale Ticket",
             "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
          },
@@ -586,32 +612,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "“Get ready to unleash your inner darkness this Halloween! Join us at The Park Bangalore for a haunting night filled with spine-tingling beats an",
-      "endDate": "2024-10-31T01:00:00",
-      "identifier": "com.skillboxes.16696",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730042614AlVTCLYFPvIGKAY0.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "DJ/Producer"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "iBAR, THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9740179",
-            "longitude": "77.619422"
-         },
-         "name": "i-Bar THE Park Bangalore"
-      },
-      "name": "Halloween Night!",
-      "offers": [ ],
-      "startDate": "2024-10-30T19:00:00",
-      "url": "https://www.skillboxes.com/events/halloween-night-2"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "Loading Arcade 140 Level 28!!!\r\n\r\n \r\n\r\nThis one is gonna be huge.\r\n\r\nStay tuned for more Info",
       "endDate": "2024-11-16T23:59:00",
       "identifier": "com.skillboxes.16688",
@@ -755,65 +755,6 @@
       ],
       "startDate": "2024-10-31T18:00:00",
       "url": "https://www.skillboxes.com/events/rage-of-raga"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Halloween Party\r\n\r\n31-Oct-2024 | 6 PM Onwards",
-      "endDate": "2024-10-31T23:59:00",
-      "identifier": "com.skillboxes.16578",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1729591314PweOj4a9vNAVIe9i.png.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "773, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560038, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9693669",
-            "longitude": "77.6410758"
-         },
-         "name": "Vapour Indiranagar"
-      },
-      "name": "Halloween Party",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry.\nCover charge applicable post 9 PM.",
-            "inventoryLevel": 1000,
-            "name": "Phase 1 Ticket (Female)",
-            "url": "https://www.skillboxes.com/events/ticket/halloween-party-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charge applicable post 9 PM.\n",
-            "inventoryLevel": 1000,
-            "name": "Phase 1 Ticket (Male)",
-            "url": "https://www.skillboxes.com/events/ticket/halloween-party-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charge applicable post 9 PM.\n",
-            "inventoryLevel": 1000,
-            "name": "Phase 1 Ticket (Couple)",
-            "url": "https://www.skillboxes.com/events/ticket/halloween-party-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry.\n",
-            "inventoryLevel": 1000,
-            "name": "Early Bird Ticket (Couple)",
-            "url": "https://www.skillboxes.com/events/ticket/halloween-party-1"
-         }
-      ],
-      "startDate": "2024-10-31T18:00:00",
-      "url": "https://www.skillboxes.com/events/halloween-party-1"
    },
    {
       "@context": "https://schema.org",

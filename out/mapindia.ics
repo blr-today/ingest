@@ -2,6 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:blr.today/map-india
 BEGIN:VEVENT
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-31-at-12.06.02-PM.jpeg
+CATEGORIES:Guided Walk,MAP
+DTSTAMP:20241031T063657Z
+DESCRIPTION:Join us for a guided walk of our latest exhibition\, “Chay Reds\, Ferrous Black” with curator Yash Sanhotra. This exhibition reveals the untold stories of Indian textiles found in Sri Lanka. Featuring exquisite Palampores and textile fragments\, dating back to the 18th century\, they once graced humble homes as well as sacred temples. Today\, they serve as storytellers\, weaving together the rich and intricate history shared between two ancient cultures.\n\nWhether you are fascinated by history\, drawn to myths and legends\, or a lover of textile craftsmanship\, “Chay Reds\, Ferrous Black” offers an evocative look into the ties that have bound India and Sri Lanka together for generations. Be a part of this interactive session and learn more about textiles and the tales they tell.
+DTEND:20241110T113000Z
+DTSTART:20241110T103000Z
+SUMMARY:A Curatorial Perspective: Chay Reds\, Ferrous Black
+UID:601@map-india.org
+URL:https://map-india.org/map-events/a-curatorial-perspective-chay-reds-ferrous-black-3/
+END:VEVENT
+BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/10/SBB.jpeg
 CATEGORIES:Performances,MAP
 DTSTAMP:20241030T102202Z
@@ -11,6 +22,17 @@ DTSTART:20241105T123000Z
 SUMMARY:The Sarjapur Blues Band
 UID:596@map-india.org
 URL:https://map-india.org/map-events/the-sarjapur-blues-band/
+END:VEVENT
+BEGIN:VEVENT
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-31-at-12.34.33-PM.jpeg
+CATEGORIES:Workshops,MAP
+DTSTAMP:20241031T081614Z
+DESCRIPTION:Join us for a hands-on block printing workshop with Pooja Gokul from Amoha Prints. Learn the ancient art of block printing\, from its rich history and techniques to designing your own patterns and creating your own block-printed masterpiece. Whether you’re an artist or a beginner\, this workshop offers an opportunity to explore your creativity and take home your own personalised print!\n\n&nbsp\;
+DTEND:20241110T110000Z
+DTSTART:20241110T093000Z
+SUMMARY:Block Printing Workshop (3:00 PM)
+UID:603@map-india.org
+URL:https://map-india.org/map-events/block-printing-workshop-300-pm/
 END:VEVENT
 BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-30-at-4.04.25-PM.jpeg
@@ -33,5 +55,16 @@ DTSTART:20241109T103000Z
 SUMMARY:A Curatorial Perspective: Chay Reds\, Ferrous Black
 UID:600@map-india.org
 URL:https://map-india.org/map-events/a-curatorial-perspective-chay-reds-ferrous-black-2/
+END:VEVENT
+BEGIN:VEVENT
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/10/WhatsApp-Image-2024-10-31-at-12.17.26-PM.jpeg
+CATEGORIES:Workshops,MAP
+DTSTAMP:20241031T070201Z
+DESCRIPTION:Join us for a hands-on block printing workshop with Pooja Gokul from Amoha Prints. Learn the ancient art of block printing\, from its rich history and techniques to designing your own patterns and creating your own block-printed masterpiece. Whether you’re an artist or a beginner\, this workshop offers an opportunity to explore your creativity and take home your own personalised print!\n\n&nbsp\;
+DTEND:20241110T070000Z
+DTSTART:20241110T053000Z
+SUMMARY:Block Printing Workshop (11:00 AM)
+UID:602@map-india.org
+URL:https://map-india.org/map-events/block-printing-workshop-1130-am/
 END:VEVENT
 END:VCALENDAR
