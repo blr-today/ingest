@@ -1820,5 +1820,47 @@
       "performers": [ ],
       "startDate": "2024-11-30T18:00:00+05:30",
       "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready for the ultimate evening with Kannada melodies at Kling Brewery on 1ST NOVEMBER! Join us at 27, Sattva Auro, Church Street, Bangalore for a night of electrifying music and all time favorites brought to you by BARFI - ALAAP Factory\n\nFrom romantic numbers to dancing tunes to all time favorites, Barfi will keep you dancing all night. Come to experience an unforgettable musical night.",
+      "endDate": "2024-11-01T22:30:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/bc679319af26a9e27b730ba807e98c491730353033.jpeg",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "27, Ground Floor, Sattva Auro, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.975362000000001,
+            "longitude": 77.604638320000007
+         },
+         "name": "KLING Brewery"
+      },
+      "name": "Desi Unplugged by Barfi (Alaap Factory)",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-31T11:12:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 500,
+      "startDate": "2024-11-01T20:00:00+05:30",
+      "url": "https://www.zomato.com/events/desi-unplugged-by-barfi-alaap-factory-bengaluru-et52777"
    }
 ]

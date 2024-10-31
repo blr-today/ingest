@@ -1899,5 +1899,49 @@
         "longitude": 77.62200106
       }
     }
+  },
+  {
+    "name": "Desi Unplugged by Barfi (Alaap Factory)",
+    "description": "Get ready for the ultimate evening with Kannada melodies at Kling Brewery on 1ST NOVEMBER! Join us at 27, Sattva Auro, Church Street, Bangalore for a night of electrifying music and all time favorites brought to you by BARFI - ALAAP Factory\n\nFrom romantic numbers to dancing tunes to all time favorites, Barfi will keep you dancing all night. Come to experience an unforgettable musical night.",
+    "startDate": "2024-11-01T20:00:00+05:30",
+    "endDate": "2024-11-01T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Desi Unplugged by Barfi (Alaap Factory) Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Desi Unplugged by Barfi (Alaap Factory) Bengaluru on Zomato which is a Music event happening at 27, Ground Floor, Sattva Auro, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/bc679319af26a9e27b730ba807e98c491730353033.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/desi-unplugged-by-barfi-alaap-factory-bengaluru-et52777/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-10-31 11:12:30",
+        "availability": "INSTOCK",
+        "inventory": 500
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/desi-unplugged-by-barfi-alaap-factory-bengaluru-et52777",
+    "id": "com.zomato.52777",
+    "location": {
+      "name": "KLING Brewery",
+      "address": "27, Ground Floor, Sattva Auro, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.975362,
+        "longitude": 77.60463832
+      }
+    }
   }
 ]
