@@ -1745,66 +1745,6 @@
     }
   },
   {
-    "name": "Witch Please!! Halloween special | Taj Mg Road",
-    "description": "Join Us At Seven Rivers For A Night That\u2019s Dripping With Sass, Style, And Spooky Vibes.\n\nUnder The Moonlight By The Poolside, We\u2019re Turning Up The Heat With Dj Prithvi And Dj Raghu Achar, Spinning The Freshest Commercial, House, And Haunting Beats That\u2019ll Have You Dancing With Creatures Of The Night. \ud83d\udd78\ufe0f\n\nCome Dressed In Your Spookiest, Most Jaw-dropping Attire\u2014this Isn\u2019t Your Typical Halloween. It\u2019s All About Killer Looks, Cocktails, And Showing \u2018em How It's Really Done. \ud83c\udf78\ud83d\udc80\n\nForget The Tricks, We\u2019re All About The Treats. Gather Your Crew And Let\u2019s Be Goofy, And Dance The Night Away.\nAnd If Anyone Tries To Bring You Down? Just Say Witch, Please!!!\n\nGet Ready To Slay, Because This Halloween Is Going To Be Anything But Basic! \ud83c\udf83",
-    "startDate": "2024-10-30 20:00:00",
-    "endDate": "2024-10-31 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Witch Please!! Halloween special | Taj Mg Road Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Witch Please!! Halloween special | Taj Mg Road Bengaluru on Zomato which is a Music and Trending event happening at 7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/1eecfdcd0aa7ad27666623dcb207d2c11730109171.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/witch-please-halloween-special-taj-mg-road-bengaluru-et52723/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-10-30 09:16:47",
-        "availability": "INSTOCK",
-        "inventory": 29
-      },
-      {
-        "url": "https://www.zomato.com/events/witch-please-halloween-special-taj-mg-road-bengaluru-et52723/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-10-30 09:16:47",
-        "availability": "INSTOCK",
-        "inventory": 29
-      },
-      {
-        "url": "https://www.zomato.com/events/witch-please-halloween-special-taj-mg-road-bengaluru-et52723/details",
-        "price": 1749,
-        "currency": "INR",
-        "validFrom": "2024-10-30 09:16:47",
-        "availability": "INSTOCK",
-        "inventory": 25
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/witch-please-halloween-special-taj-mg-road-bengaluru-et52723",
-    "id": "com.zomato.52723",
-    "location": {
-      "name": "Seven Rivers Brewing Co.",
-      "address": "7 Rivers Brewing Co., Taj MG Road, 41/3, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97326,
-        "longitude": 77.619667
-      }
-    }
-  },
-  {
     "name": "Carnival With Puppies",
     "description": "Join us for a day filled with: \u2022\u2060 \u2060Interactive games and challenges for dogs and humans both\ud83c\udfa0 \u2022\u2060 \u2060Adoption drives featuring adorable Indie puppies looking for their forever homes\ud83d\udc15 \u2022\u2060 \u2060Educational sessions on the immorality of breeding and the importance of adopting Indies\ud83d\udc97 \u2022\u2060 \u2060Exclusive stalls and giveaways from top pet brands\ud83d\udecd\ufe0f \u2022\u2060 \u2060Live entertainment and fun activities for all ages\ud83c\udfaa \u2022\u2060 \u2060Delicious food and beverages to keep you energized throughout the day\ud83c\udf5d\ud83c\udf55 Don\u2019t miss out on being a part of India\u2019s first-ever Indie-themed pet carnival, where you can make a difference while having the time of your life with your furry friends\ud83d\udc3e\ud83d\udc97",
     "startDate": "2024-11-24T15:00:00+05:30",

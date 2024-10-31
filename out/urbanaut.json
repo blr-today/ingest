@@ -720,7 +720,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1668,7 +1668,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1692,55 +1692,6 @@
       "Leisure",
       "Wellness",
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Enjoy Sunday Breakfast & Conversations with Strangers",
-    "description": "Start your Sunday with fun conversations over breakfast! \ud83c\udf73But it\u2019s not just about the food\u2014it\u2019s about creating connections and making memories that last. Join us for fun conversations as you savor a delicious spread featuring options like a fluffy Omelette or Croissant Sandwich, Pancakes, Waffles, or French Toast drizzled with syrup, and a Pastry of the Day to satisfy your sweet tooth. \ud83e\udd50\ud83e\uddc7\ud83c\udf70Pair it all with a refreshing Fresh Fruit Juice and your choice of Coffee or Tea for that perfect morning boost. \u2615\ud83c\udf75Don\u2019t miss this chance to kick off your day with hearty bites & uplifting company. Mark your calendar and come join us for a morning full of delicious flavors and delightful chats. \u2728",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C35449CB6662461296A32757FA77CD5D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D460A2A40AD94331B3647CEA805D4355_converted_webp.webp"
-    ],
-    "startDate": "2024-11-03T10:00:00+05:30",
-    "endDate": "2024-11-03T11:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Cunningham Hallmark, 35, Cunningham Rd, opp. Sweet Chariot, Vasanth Nagar, Bengaluru, Karnataka 560052, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJnRZayTIXrjsRqapseh0gB7o",
-      "latitude": "12.98660700000000000000",
-      "longitude": "77.59504910000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 4,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "TwoTablesClub",
-      "description": "Where a small group of strangers come together for genuine conversations & spontaneous connections  over a curated meal. Guided by a host every Table is a mix of locals & newcomers sharing stories of their roots & dreams",
-      "url": "https://urbanaut.app/partner/twotablesclub",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/wysxdsvnko-1707810356440ttclogojpg.jpg",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-81399-06300"
-      }
-    },
-    "url": "https://urbanaut.app/spot/copy-of-sunday-breakfast-with-strangers-5399",
-    "keywords": [
-      "Food & drink",
-      "Leisure",
-      "Local",
       "URBANAUT"
     ]
   },
@@ -1820,7 +1771,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 7,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1874,7 +1825,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1922,7 +1873,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 27,
+    "remainingAttendeeCapacity": 23,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1970,7 +1921,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 36,
-    "remainingAttendeeCapacity": 32,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
