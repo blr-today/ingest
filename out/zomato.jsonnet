@@ -1593,50 +1593,6 @@
     }
   },
   {
-    "name": "Halloween Night Madness",
-    "description": "\ud83c\udf83 Are you ready for Halloween Night Madness at One Night in Bangkok\ud83c\udf83\n\nJoin  us for Halloween Night Madness with DJ Andre on October 31st at One Night in Bangkok, starting at 10 PM! Get ready for a night of spine-chilling beats and electrifying energy as DJ Andre takes the stage, spinning a mix of hauntingly good tracks that will keep you dancing until the witching hour. Dress to impress in your best Halloween costume. Enjoy eerie cocktails and themed surprises throughout the night as the club transforms into a haunted haven.",
-    "startDate": "2024-10-31 22:00:00",
-    "endDate": "2024-11-01 01:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Halloween Night Madness Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Halloween Night Madness Bengaluru on Zomato which is a Experiences and Trending event happening at 203, 2nd Floor, The Collection, UB City, Vittal Mallya Rd, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f65755e707a0e9b36f1fa589264d8c8d1729767910.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/halloween-night-madness-bengaluru-et52668/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-10-24 19:58:36",
-        "availability": "SELLING_FAST",
-        "inventory": 8
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/halloween-night-madness-bengaluru-et52668",
-    "id": "com.zomato.52668",
-    "location": {
-      "name": "One Night In Bangkok",
-      "address": "203, 2nd Floor, The Collection, UB City, Vittal Mallya Rd, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97309329,
-        "longitude": 77.59619315
-      }
-    }
-  },
-  {
     "name": "We Jam",
     "description": "We Jam is the ultimate haven for music lovers!\n\nCome enjoy a relaxing and fun evening with us. A space where you can be yourself and feel at home.\nJoin our welcoming community for a lively jamming session; bring your guitars, cajones, and most importantly yourself to jam along. \n\nThe event features three parts:\n\nOpen Mic: Perform for a warm and supportive audience, no matter where you are on your musical journey. Reach out to @wejam.blr on Instagram to book your slot.\nSocial Mixer: Connect with fellow music lovers and jam along on your favourite songs. Be a part of fun and exciting music based games and get a chance to win exciting goodies. \nJamming Session: Sing, play instruments, and join the community in a warm and cozy, free-flowing musical experience. Together, we create music and memories.",
     "startDate": "2024-11-02T16:30:00+05:30",
