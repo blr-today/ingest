@@ -6,7 +6,7 @@
       "name": "Casa Karaoke",
       "url": "https://www.google.com/maps/place/Casa+Karaoke,+AI+1,+2nd+floor,+15th+Cross,+100+Feet+Ring+Rd,+above+Pizza+Hut,+J.+P.+Nagar,+Bengaluru,+Karnataka+560078/@12.9060934,77.5952996,17z/data=!4m9!1m2!2m1!1scasa+karaoke!3m5!1s0x3bae150c309f99f7:0xa30a464902bb59f4!8m2!3d12.9060934!4d77.5952996!16s%2Fg%2F11vc00w0xn"
     },
-    "link": null,
+    "link": "https://moviescreening-charulata.hytix.com/",
     "date": "2024-11-02T06:20:00.000Z",
     "theme": "Family Portraits",
     "city": "Bangalore",

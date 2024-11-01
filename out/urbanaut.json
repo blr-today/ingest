@@ -696,6 +696,53 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sando Club Delivery",
+    "description": "After many trials and tasting sessions, our kitchens are open for delivery. To ensure that you get the best Sando in town, we're only delivering a limited quantity.20 portions of Chicken Katsu Sando - \u20b9399/pc10 portions of Tiger Prawn Katsu - \u20b9499/pcWe will be delivering these on Sunday (3rd Nov), between 1.30 PM - 2 PMDelivery charge will be fixed at \u20b9120.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6D9C4983A7E04153BC513769CBD03FB2_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0D9AB77B225D405A94C9BFF54EAA9605_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A071D81C0D2B4FF58B4B08F7D1B5D0CE_converted_webp.webp"
+    ],
+    "startDate": "2024-11-03T13:30:00+05:30",
+    "endDate": "2024-11-03T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Ulsoor Lake, Halasuru, Sivanchetti Gardens, Bengaluru, Karnataka 560042",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJWwLHKpAWrjsRLHdwWyGN2lw",
+      "latitude": "12.98324680000000000000",
+      "longitude": "77.61996080000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sando Club",
+      "description": null,
+      "url": "https://urbanaut.app/partner/sandoclub",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/D68D8877AC914AC38E048ADD5C9FE0C3_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98955-13530"
+      }
+    },
+    "url": "https://urbanaut.app/spot/sando-club-delivery",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Food Nerd Festival - Immersives 2024 - Bangalore: Individual Passes",
     "description": "Food Nerd Festival is a celebration of all things food created by Goya & Edible Issues in collaboration with Two Tigers & Co.! So this festival is for anyone who\u2019s obsessed with food! Whether you're a chef, foodie, flavour geek, or love to nerd out over the latest culinary trends and techniques, the Food Nerd Festival is your jam.With 4 workshops centred around the basic cooking elements, these immersives will leave you with an elevated culinary game.Salt by Chef Gautam & Bala (@gonzogarbanzo & @saltycuredpigs) (11-12:30)Guided Overview & History Of Preservation TechniquesExploring Techniques Of Pickling & Preserving In India & Around The WorldUnderstanding Curing Salts & The Science Behind ThemExpert Tips On Mastering Salt, Time, & FermentationLive Demonstration Of A Traditional Pickling TechniqueLive Demonstration Of A Meat Curing TechniqueRecipes For Pickling & Curing Bacon At HomeFat by Heena Punwani (@tiffintales, founder of Maska Bakery) (1:00-2:30)Cracking The Code Of Baking Theory: The Science Behind ItThe History Of Fats In CookingUnderstanding Different Fats In Indian BakingCookie Tasting Session Showcasing Different FatsOil Vs. Ghee: Flavor ShowdownLive Fat-Washing Cocktail DemoAcid by Payal Shah (@kobofermentery) (3:00-4:30)Exploring Indian Vinegars & Its Usage In Indian Cooking & HistoryLive Demonstration Of Vinegar Making.Breakdown Of The Science Behind The TechniqueA Vinegar-Tasting Experience\u00a0of 5 vinegars.Hands-On Shrub-Based Drink MakingHeat by Chef Gresham Fernandes (@greshamfernandes) (5:00-6:30)Discover the Secrets of Heat SourcesUncover the chemistry behind how heat worksLearn the wonders of wood-fired cookingPro techniques for smoking foodUsing heat to create different textures: dry jerky vs fish roast. Disclaimer: Programming is subject to change, please watch out for an official email a few days before the actual workshop.",
