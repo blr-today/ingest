@@ -35,7 +35,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 11:47:29",
         "availability": "INSTOCK",
-        "inventory": 263
+        "inventory": 252
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -43,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 11:47:30",
         "availability": "INSTOCK",
-        "inventory": 320
+        "inventory": 317
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -59,7 +59,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 292
+        "inventory": 291
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -67,7 +67,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 413
+        "inventory": 407
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -99,7 +99,7 @@
         "currency": "INR",
         "validFrom": "2024-10-04 11:30:00",
         "availability": "INSTOCK",
-        "inventory": 9
+        "inventory": 8
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -107,7 +107,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:15",
         "availability": "INSTOCK",
-        "inventory": 64
+        "inventory": 63
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -345,7 +345,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 74
+        "inventory": 71
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -574,7 +574,7 @@
         "currency": "INR",
         "validFrom": "2024-10-17 13:46:00",
         "availability": "INSTOCK",
-        "inventory": 44
+        "inventory": 42
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -590,7 +590,7 @@
         "currency": "INR",
         "validFrom": "2024-10-17 13:46:27",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 49
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -700,7 +700,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 324
+        "inventory": 310
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -708,7 +708,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 396
+        "inventory": 394
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -875,7 +875,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9945
+        "inventory": 9937
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -883,7 +883,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9988
+        "inventory": 9987
       }
     ],
     "performers": [],
@@ -1349,7 +1349,7 @@
         "currency": "INR",
         "validFrom": "2024-10-31 10:58:14",
         "availability": "INSTOCK",
-        "inventory": 5
+        "inventory": 3
       },
       {
         "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
@@ -1358,14 +1358,6 @@
         "validFrom": "2024-10-31 10:58:15",
         "availability": "INSTOCK",
         "inventory": 5
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-31 10:58:15",
-        "availability": "INSTOCK",
-        "inventory": 4
       },
       {
         "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
@@ -1390,14 +1382,6 @@
         "validFrom": "2024-10-31 10:58:16",
         "availability": "INSTOCK",
         "inventory": 5
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
-        "price": 799,
-        "currency": "INR",
-        "validFrom": "2024-10-31 10:58:16",
-        "availability": "INSTOCK",
-        "inventory": 2
       },
       {
         "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
@@ -1414,6 +1398,22 @@
         "validFrom": "2024-10-31 10:58:17",
         "availability": "INSTOCK",
         "inventory": 5
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-10-31 10:58:15",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
+        "price": 799,
+        "currency": "INR",
+        "validFrom": "2024-10-31 10:58:16",
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -1551,8 +1551,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "We Jam Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for We Jam Bengaluru on Zomato which is a Experiences event happening at 413, 100 Feet Rd, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala, Bengaluru",
+    "ogTitle": "We Jam Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for We Jam Bengaluru on Zomato which is a Experiences and Trending event happening at 413, 100 Feet Rd, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/524ca7d6dcf3b749c4c5c86a414680661729855593.png"
     ],
@@ -1562,8 +1562,8 @@
         "price": 399,
         "currency": "INR",
         "validFrom": "2024-10-25 17:15:52",
-        "availability": "INSTOCK",
-        "inventory": 111
+        "availability": "SELLING_FAST",
+        "inventory": 33
       }
     ],
     "performers": [],
@@ -1651,7 +1651,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:42",
         "availability": "INSTOCK",
-        "inventory": 97
+        "inventory": 90
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774/details",
@@ -1711,7 +1711,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 281
+        "inventory": 278
       },
       {
         "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
@@ -1719,7 +1719,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 355
+        "inventory": 354
       }
     ],
     "performers": [],
