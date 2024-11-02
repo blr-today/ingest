@@ -1501,50 +1501,6 @@
     }
   },
   {
-    "name": "We Jam",
-    "description": "We Jam is the ultimate haven for music lovers!\n\nCome enjoy a relaxing and fun evening with us. A space where you can be yourself and feel at home.\nJoin our welcoming community for a lively jamming session; bring your guitars, cajones, and most importantly yourself to jam along. \n\nThe event features three parts:\n\nOpen Mic: Perform for a warm and supportive audience, no matter where you are on your musical journey. Reach out to @wejam.blr on Instagram to book your slot.\nSocial Mixer: Connect with fellow music lovers and jam along on your favourite songs. Be a part of fun and exciting music based games and get a chance to win exciting goodies. \nJamming Session: Sing, play instruments, and join the community in a warm and cozy, free-flowing musical experience. Together, we create music and memories.",
-    "startDate": "2024-11-02 16:30:00",
-    "endDate": "2024-11-02 20:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "We Jam Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for We Jam Bengaluru on Zomato which is a Experiences and Trending event happening at 413, 100 Feet Rd, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/524ca7d6dcf3b749c4c5c86a414680661729855593.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/we-jam-bengaluru-et52691/details",
-        "price": 399,
-        "currency": "INR",
-        "validFrom": "2024-10-25 17:15:52",
-        "availability": "SELLING_FAST",
-        "inventory": 33
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/we-jam-bengaluru-et52691",
-    "id": "com.zomato.52691",
-    "location": {
-      "name": "The Terrace at Gilly's Redefined",
-      "address": "413, 100 Feet Rd, KHB Block Koramangala, Koramangala 4-B Block, 4th Block, Koramangala, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9341412,
-        "longitude": 77.62347594
-      }
-    }
-  },
-  {
     "name": "Carnival With Puppies",
     "description": "Join us for a day filled with: \u2022\u2060 \u2060Interactive games and challenges for dogs and humans both\ud83c\udfa0 \u2022\u2060 \u2060Adoption drives featuring adorable Indie puppies looking for their forever homes\ud83d\udc15 \u2022\u2060 \u2060Educational sessions on the immorality of breeding and the importance of adopting Indies\ud83d\udc97 \u2022\u2060 \u2060Exclusive stalls and giveaways from top pet brands\ud83d\udecd\ufe0f \u2022\u2060 \u2060Live entertainment and fun activities for all ages\ud83c\udfaa \u2022\u2060 \u2060Delicious food and beverages to keep you energized throughout the day\ud83c\udf5d\ud83c\udf55 Don\u2019t miss out on being a part of India\u2019s first-ever Indie-themed pet carnival, where you can make a difference while having the time of your life with your furry friends\ud83d\udc3e\ud83d\udc97",
     "startDate": "2024-11-24T15:00:00+05:30",
@@ -2425,50 +2381,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93656731,
         "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "Remix Nights",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-11-02T20:30:00+05:30",
-    "endDate": "2024-11-02T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Remix Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Remix Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/12dd1a302485192aa1702d65813118a61730464404.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/remix-nights-bengaluru-et52847/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:23",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/remix-nights-bengaluru-et52847",
-    "id": "com.zomato.52847",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
       }
     }
   },
