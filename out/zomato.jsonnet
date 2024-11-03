@@ -951,48 +951,6 @@
     }
   },
   {
-    "name": "I'd Give you the Moon",
-    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
-    "startDate": "2024-11-03T13:00:00+05:30",
-    "endDate": "2024-11-03T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/303ae7deebd3d332588daf0d18b6672d1728980346.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/id-give-you-the-moon-bengaluru-et52431/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-10-15 14:09:43",
-        "availability": "INSTOCK",
-        "inventory": 48
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/id-give-you-the-moon-bengaluru-et52431",
-    "id": "com.zomato.52431",
-    "location": {
-      "name": "Paint The Town Restaurant",
-      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93753285,
-        "longitude": 77.61234518
-      }
-    }
-  },
-  {
     "name": "1000 Wishes",
     "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
     "startDate": "2024-11-09T16:00:00+05:30",
@@ -1289,8 +1247,8 @@
   {
     "name": "SoMAD Diwali Celebration Party 2024",
     "description": "#SoMADDiwali\n\nArtist LineUp :\nGURBAX\nAFTERALL\nKAMPAI\nYNG DAKU\nAPCN \n& Friends\n\nIt's that time of the year again when we get to dress in our best ETHINC WEAR, get together with our loved ones, listen to some melodious music and celebrate the Festival of Lights!\n\nBring in those good vibes with some intoxicating tunes by the best artists in the game at our DAY PARTY!\n\nBengaluru\u2019s first and focused sustainable Diwali party !\nCome be a part of the Change. \ud83e\ude94",
-    "startDate": "2024-11-03T16:00:00+05:30",
-    "endDate": "2024-11-03T23:30:00+05:30",
+    "startDate": "2024-11-03 16:00:00",
+    "endDate": "2024-11-03 23:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2255,8 +2213,8 @@
   {
     "name": "XOOX Unlimited Sunday Brunch",
     "description": "Hello Bangalore, Enjoy a scrumptious and lazy Sunday brunch @ XOOX every Sunday. Dance to the tunes of DJ Malik with our popular brews, exciting times ahead !",
-    "startDate": "2024-11-03T12:30:00+05:30",
-    "endDate": "2024-11-24T15:30:00+05:30",
+    "startDate": "2024-11-03 12:30:00",
+    "endDate": "2024-11-24 15:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2381,50 +2339,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93656731,
         "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "Sunny Tunes",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Presentense and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
-    "startDate": "2024-11-03T13:00:00+05:30",
-    "endDate": "2024-11-03T16:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3df03245abe1eca7902e470c7a857cf01730464460.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et52848/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:24",
-        "availability": "INSTOCK",
-        "inventory": 98
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et52848",
-    "id": "com.zomato.52848",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
       }
     }
   },
