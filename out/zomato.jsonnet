@@ -1245,114 +1245,6 @@
     }
   },
   {
-    "name": "SoMAD Diwali Celebration Party 2024",
-    "description": "#SoMADDiwali\n\nArtist LineUp :\nGURBAX\nAFTERALL\nKAMPAI\nYNG DAKU\nAPCN \n& Friends\n\nIt's that time of the year again when we get to dress in our best ETHINC WEAR, get together with our loved ones, listen to some melodious music and celebrate the Festival of Lights!\n\nBring in those good vibes with some intoxicating tunes by the best artists in the game at our DAY PARTY!\n\nBengaluru\u2019s first and focused sustainable Diwali party !\nCome be a part of the Change. \ud83e\ude94",
-    "startDate": "2024-11-03 16:00:00",
-    "endDate": "2024-11-03 23:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SoMAD Diwali Celebration Party 2024 Music and Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SoMAD Diwali Celebration Party 2024 Bengaluru on Zomato which is a Music and Experiences event happening at 963, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/0d3aad05f0aa7463273c809f40dae3501729058557.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
-        "price": 349,
-        "currency": "INR",
-        "validFrom": "2024-11-02 13:26:23",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-31 10:58:17",
-        "availability": "INSTOCK",
-        "inventory": 5
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-31 10:58:17",
-        "availability": "INSTOCK",
-        "inventory": 5
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
-        "price": 699,
-        "currency": "INR",
-        "validFrom": "2024-11-02 13:26:24",
-        "availability": "INSTOCK",
-        "inventory": 9
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-11-02 13:26:24",
-        "availability": "INSTOCK",
-        "inventory": 8
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-10-31 10:58:18",
-        "availability": "INSTOCK",
-        "inventory": 5
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-11-02 13:26:25",
-        "availability": "INSTOCK",
-        "inventory": 9
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-11-02 13:26:25",
-        "availability": "INSTOCK",
-        "inventory": 9
-      },
-      {
-        "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449/details",
-        "price": 1499,
-        "currency": "INR",
-        "validFrom": "2024-11-02 13:26:26",
-        "availability": "INSTOCK",
-        "inventory": 8
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/somad-diwali-celebration-party-2024-bengaluru-et52449",
-    "id": "com.zomato.52449",
-    "location": {
-      "name": "Daddy Bangalore",
-      "address": "963, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9708291,
-        "longitude": 77.63977439
-      }
-    }
-  },
-  {
     "name": "Musicathon",
     "description": "Musicathon Bir, a vibrant music festival set against the stunning backdrop of Bir, Himachal Pradesh. This unique event celebrates the fusion of music, nature, and cultural diversity, offering a one-of-a-kind experience for attendees.\n\nLineup: \nBombay Bandook \nSwastik \nAkash Chopra \nDesi Delay \nYuvraj\nBuland himalay\nChintan Chauhan\nAhmad Parvez",
     "startDate": "2024-11-15T10:00:00+05:30",
@@ -1863,7 +1755,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:06:58",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 9
       },
       {
         "url": "https://www.zomato.com/events/scc-kids-cinema-up-bengaluru-et52795/details",
@@ -1871,7 +1763,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:06:59",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 8
       }
     ],
     "performers": [],
@@ -2229,14 +2121,6 @@
         "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
         "price": 1199,
         "currency": "INR",
-        "validFrom": "2024-11-01 16:10:23",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
-        "price": 1199,
-        "currency": "INR",
         "validFrom": "2024-11-01 16:10:24",
         "availability": "INSTOCK",
         "inventory": 50
@@ -2254,14 +2138,6 @@
         "price": 1199,
         "currency": "INR",
         "validFrom": "2024-11-01 16:10:27",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
-        "price": 1799,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:10:24",
         "availability": "INSTOCK",
         "inventory": 50
       },
@@ -2286,14 +2162,6 @@
         "price": 1799,
         "currency": "INR",
         "validFrom": "2024-11-01 16:10:27",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
-        "price": 2299,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:10:24",
         "availability": "INSTOCK",
         "inventory": 50
       },
@@ -2339,50 +2207,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93656731,
         "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "Rock Out Sundays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-11-03T20:30:00+05:30",
-    "endDate": "2024-11-03T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/a246b56215a3ba6b2415d6a187ff2e511730464515.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et52849/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:24",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et52849",
-    "id": "com.zomato.52849",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
       }
     }
   },
