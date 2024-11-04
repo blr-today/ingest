@@ -76,6 +76,305 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "We're throwing a sick night of music that totally nails the vibe of polyphony—think multiple catchy melodies colliding in the best way.Get ready",
+      "endDate": "2024-11-30T23:30:00",
+      "identifier": "com.skillboxes.16797",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aGhPem40MW1LZzlxVDY1ODFYMWNSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730718772ARToxNOkOVBp7s5C.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st Main Cross",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9240906",
+            "longitude": "77.6366457"
+         },
+         "name": "The Raft"
+      },
+      "name": "Polyphony",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 49,
+            "name": "phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/polyphony"
+         }
+      ],
+      "startDate": "2024-11-30T18:45:00",
+      "url": "https://www.skillboxes.com/events/polyphony"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Get ready to light up the night at our Pre-Deepavali celebration with the amazing DJ Sumaya this Sunday! 🎉 Ladie",
+      "endDate": "2024-11-11T00:30:00",
+      "identifier": "com.skillboxes.16794",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730714868E58t7gsz1CCb6xUa.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "749, 10th Main road, 80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9331418",
+            "longitude": "77.6307246"
+         },
+         "name": "Bunny Bar"
+      },
+      "name": "Sunday Bunny Blast at Bunny Bar Kormangala",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable throughout the event\n",
+            "inventoryLevel": 100,
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/sunday-deepavali-blast-at-bunny-bar-kormangala-2"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "One pass allow one single entry\n",
+            "inventoryLevel": 100,
+            "name": "Ladies",
+            "url": "https://www.skillboxes.com/events/ticket/sunday-deepavali-blast-at-bunny-bar-kormangala-2"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free entry till 0930pm post cover charges applicable\n",
+            "inventoryLevel": 100,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/sunday-deepavali-blast-at-bunny-bar-kormangala-2"
+         }
+      ],
+      "startDate": "2024-11-10T20:00:00",
+      "url": "https://www.skillboxes.com/events/sunday-deepavali-blast-at-bunny-bar-kormangala-2"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "This Friday, get ready to groove to the best of Commercial and Hip-hop music at the hottest spot in B'town—Hard Rock Cafe! St. Ma",
+      "endDate": "2024-11-09T00:30:00",
+      "identifier": "com.skillboxes.16791",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730713438cX98ZFR7irwRkAuS.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "40 St. Marks Road Bangalore, India",
+         "name": "Hard Rock Cafe Bengaluru"
+      },
+      "name": "Bootleg Fridays at Hardrock Cafe",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable at the venue\n",
+            "inventoryLevel": 100,
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/sunday-bunny-blast-at-bunny-bar-kormangala"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "One pass allow one single entry\n",
+            "inventoryLevel": 100,
+            "name": "Ladies",
+            "url": "https://www.skillboxes.com/events/ticket/sunday-bunny-blast-at-bunny-bar-kormangala"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free entry till 0930pm post cover charges applciable\n",
+            "inventoryLevel": 100,
+            "name": "COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/sunday-bunny-blast-at-bunny-bar-kormangala"
+         }
+      ],
+      "startDate": "2024-11-08T20:00:00",
+      "url": "https://www.skillboxes.com/events/sunday-bunny-blast-at-bunny-bar-kormangala"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "Highlights:\r\n\r\n\r\n\tDJ Night Ft DJ DARKSIDEZ and MUISC MONK \r\n\tBOLLYTECH\r\n\tHipHop\r\n\tNon Stop Music\r\n\tGreat Ambeince\r\n\r\n\r\nThis SATURDAY, get re",
+      "endDate": "2024-11-10T01:00:00",
+      "identifier": "com.skillboxes.16790",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0JDVVVMbXI5Q1ZtWXJNS1A1QTJzUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730708142KUUAkFxB712jHisY.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "MSR Building, FLO, #3, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9743377",
+            "longitude": "77.6068167"
+         },
+         "name": "FLO Church Street"
+      },
+      "name": "SUPERCLUB SATURDAY (BOLLYTECH)",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Stags allows one person per ticket\n",
+            "inventoryLevel": 200,
+            "name": "Boys",
+            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-bollytech"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Girls are allowed one entry per ticket\n",
+            "inventoryLevel": 200,
+            "name": "Girls",
+            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-bollytech"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Per ticket allows one male n one female\n",
+            "inventoryLevel": 200,
+            "name": "Couples",
+            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-bollytech"
+         }
+      ],
+      "startDate": "2024-11-09T20:00:00",
+      "url": "https://www.skillboxes.com/events/superclub-saturday-bollytech"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Indie Fridays ft. Psychodrama\r\n\r\nFri, 08-Nov-2024",
+      "endDate": "2024-11-08T23:59:00",
+      "identifier": "com.skillboxes.16788",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730705166MGvreSMAeRxBJ9Mu.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9313063",
+            "longitude": "77.6329297"
+         },
+         "name": "Bira 91 Taproom, Koramangala"
+      },
+      "name": "Indie Fridays ft. Psychodrama",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 988,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/indie-fridays-ft-psychodrama"
+         }
+      ],
+      "startDate": "2024-11-08T20:00:00",
+      "url": "https://www.skillboxes.com/events/indie-fridays-ft-psychodrama"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Welcome to Sakura Screenings where we celebrate the rich tapestry of Asian cinema and the enchanting world of anime. Immerse yourself in a diverse arr",
+      "endDate": "2024-11-17T17:00:00",
+      "identifier": "com.skillboxes.16787",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730705167Lq59p0jEwHqG0LQY.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Movie Screening"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9711356",
+            "longitude": "77.598164"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Sakura Screenings",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "We expect you to buy a cup of coffee at Starbucks to support organizing Sakura Screenings\n",
+            "inventoryLevel": 20,
+            "name": "Club Entry",
+            "url": "https://www.skillboxes.com/events/ticket/sakura-screenings-3"
+         }
+      ],
+      "startDate": "2024-11-17T14:00:00",
+      "url": "https://www.skillboxes.com/events/sakura-screenings-3"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Showcase Anything ART!Join us for an open mic event celebrating all genres of art: Dance, Music, Storytelling, Theatre, Stand-up, and beyond. Whether ",
+      "endDate": "2024-11-06T20:30:00",
+      "identifier": "com.skillboxes.16786",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RDlBUmpBVVgvUlB5d0ltc0VBYUlKdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17307036218rYyL8eWeiaXBPzC.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Performing Art"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No.15, KHB MIG Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9381595",
+            "longitude": "77.617817"
+         },
+         "name": "Medai - The Stage Bengaluru"
+      },
+      "name": "Art Jam",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10,
+            "name": "Audience",
+            "url": "https://www.skillboxes.com/events/ticket/art-jam-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10,
+            "name": "Solo Performer",
+            "url": "https://www.skillboxes.com/events/ticket/art-jam-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10,
+            "name": "Solo Performer with video",
+            "url": "https://www.skillboxes.com/events/ticket/art-jam-3"
+         }
+      ],
+      "startDate": "2024-11-06T19:00:00",
+      "url": "https://www.skillboxes.com/events/art-jam-3"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "SocialEvent",
       "description": "Join us this Wednesday with 1+1 offer on all drinks & LED TV SCREENS TO KEEP YOU ENTERTAINED WITH BOLLYWOOD & COMMERCIAL NUMBERS 🤍&#98",
       "endDate": "2024-11-06T23:59:00",
@@ -527,32 +826,6 @@
       ],
       "startDate": "2024-11-09T19:00:00",
       "url": "https://www.skillboxes.com/events/area-313"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Loading Arcade 140 Level 28!!!\r\n\r\n \r\n\r\nThis one is gonna be huge.\r\n\r\nStay tuned for more Info",
-      "endDate": "2024-11-16T23:59:00",
-      "identifier": "com.skillboxes.16688",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1729946982kGoxUYoLVuP291ph.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9707322",
-            "longitude": "77.6476391"
-         },
-         "name": "Indiranagar Social"
-      },
-      "name": "ARCADE 140: Level 28 Ft ??????",
-      "offers": [ ],
-      "startDate": "2024-11-16T20:00:00",
-      "url": "https://www.skillboxes.com/events/arcade-140-level-28-ft"
    },
    {
       "@context": "https://schema.org",
@@ -1069,40 +1342,6 @@
       ],
       "startDate": "2024-11-30T17:00:00",
       "url": "https://www.skillboxes.com/events/21yearsofsubmerge-feat-joris-voorn-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Get ready to be enchanted by Ashu Shukla's heartfelt words and mesmerizing music on his eagerly anticipated Nayaab Tour. This marks Ashu's inaugural t",
-      "endDate": "2024-11-15T23:59:00",
-      "identifier": "com.skillboxes.15855",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1729352336JkYPT1IBX453V8TR.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9313063",
-            "longitude": "77.6329297"
-         },
-         "name": "Bira 91 Taproom, Koramangala"
-      },
-      "name": "Ashu Shukla - Nayaab India Tour || Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 187,
-            "name": "Early Bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/nayaab-india-tour-ft-ashu-shukla-Bangalore"
-         }
-      ],
-      "startDate": "2024-11-15T20:00:00",
-      "url": "https://www.skillboxes.com/events/nayaab-india-tour-ft-ashu-shukla-Bangalore"
    },
    {
       "@context": "https://schema.org",

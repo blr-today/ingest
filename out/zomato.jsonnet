@@ -3537,5 +3537,416 @@
         "longitude": 77.7364802
       }
     }
+  },
+  {
+    "name": "Ladies Wednesday Night",
+    "description": "To all the ladies out there, enjoy a 1+1 on all craft beers & cocktails every Wednesday night! Listen to popular Commercial & Hip Hop Sets played by DJ Malik, Fun night guaranteed !",
+    "startDate": "2024-11-06T20:00:00+05:30",
+    "endDate": "2024-11-06T23:59:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Ladies Wednesday Night Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Ladies Wednesday Night Bengaluru on Zomato which is a Music event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/5169bb67e68c9f2a17c1cc0acc0344541730722267.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52995/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-04 17:48:32",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52995",
+    "id": "com.zomato.52995",
+    "location": {
+      "name": "XOOX Brewmill",
+      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93656731,
+        "longitude": 77.61521573
+      }
+    }
+  },
+  {
+    "name": "Ladies Wednesday Night",
+    "description": "To all the ladies out there, enjoy a 1+1 on all craft beers & cocktails every Wednesday night! Listen to popular Commercial & Hip Hop Sets played by DJ Malik, Fun night guaranteed !",
+    "startDate": "2024-11-13T20:00:00+05:30",
+    "endDate": "2024-11-13T23:59:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Ladies Wednesday Night Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Ladies Wednesday Night Bengaluru on Zomato which is a Music event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/95d292fcf06329a239fb0a7641aef8e51730722344.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52996/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-04 17:48:33",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52996",
+    "id": "com.zomato.52996",
+    "location": {
+      "name": "XOOX Brewmill",
+      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93656731,
+        "longitude": 77.61521573
+      }
+    }
+  },
+  {
+    "name": "Ladies Wednesday Night",
+    "description": "To all the ladies out there, enjoy a 1+1 on all craft beers & cocktails every Wednesday night! Listen to popular Commercial & Hip Hop Sets played by DJ Malik, Fun night guaranteed !",
+    "startDate": "2024-11-20T20:00:00+05:30",
+    "endDate": "2024-11-20T23:59:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Ladies Wednesday Night Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Ladies Wednesday Night Bengaluru on Zomato which is a Music event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/5a7c24d0e87cc7f66a280125aba5f4a51730722371.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52997/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-04 17:48:33",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52997",
+    "id": "com.zomato.52997",
+    "location": {
+      "name": "XOOX Brewmill",
+      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93656731,
+        "longitude": 77.61521573
+      }
+    }
+  },
+  {
+    "name": "Ladies Wednesday Night",
+    "description": "To all the ladies out there, enjoy a 1+1 on all craft beers & cocktails every Wednesday night! Listen to popular Commercial & Hip Hop Sets played by DJ Malik, Fun night guaranteed !",
+    "startDate": "2024-11-27T20:00:00+05:30",
+    "endDate": "2024-11-27T23:59:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Ladies Wednesday Night Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Ladies Wednesday Night Bengaluru on Zomato which is a Music event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/8127dcf14815f0942963f02132f0f34f1730722412.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52998/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-04 17:48:34",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52998",
+    "id": "com.zomato.52998",
+    "location": {
+      "name": "XOOX Brewmill",
+      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93656731,
+        "longitude": 77.61521573
+      }
+    }
+  },
+  {
+    "name": "BOLLYXOOX Saturday Night",
+    "description": "DJ Mani & DJ Rashmi are all set to give you a Bollywood & Punjabi High this November. Enjoy a night full of fun & frolic and dance your heart out at the mill with our Craft!",
+    "startDate": "2024-11-08T20:00:00+05:30",
+    "endDate": "2024-11-08T23:59:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "BOLLYXOOX Saturday Night Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for BOLLYXOOX Saturday Night Bengaluru on Zomato which is a Party event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/cb7a5fbca50fc15ff5860959188a255c1730722489.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et52999/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-04 17:48:34",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et52999",
+    "id": "com.zomato.52999",
+    "location": {
+      "name": "XOOX Brewmill",
+      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93656731,
+        "longitude": 77.61521573
+      }
+    }
+  },
+  {
+    "name": "BOLLYXOOX Saturday Night",
+    "description": "DJ Mani & DJ Rashmi are all set to give you a Bollywood & Punjabi High this November. Enjoy a night full of fun & frolic and dance your heart out at the mill with our Craft!",
+    "startDate": "2024-11-15T20:00:00+05:30",
+    "endDate": "2024-11-15T23:59:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "BOLLYXOOX Saturday Night Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for BOLLYXOOX Saturday Night Bengaluru on Zomato which is a Party event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/318228178276b23fe26a20ab070d29551730722539.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53001/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-04 17:48:34",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53001",
+    "id": "com.zomato.53001",
+    "location": {
+      "name": "XOOX Brewmill",
+      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93656731,
+        "longitude": 77.61521573
+      }
+    }
+  },
+  {
+    "name": "BOLLYXOOX Saturday Night",
+    "description": "DJ Mani & DJ Rashmi are all set to give you a Bollywood & Punjabi High this November. Enjoy a night full of fun & frolic and dance your heart out at the mill with our Craft!",
+    "startDate": "2024-11-22T20:00:00+05:30",
+    "endDate": "2024-11-22T23:59:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "BOLLYXOOX Saturday Night Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for BOLLYXOOX Saturday Night Bengaluru on Zomato which is a Party event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/89f95ec126167c19af5e4adcc55b74491730722563.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53002/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-04 17:48:35",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53002",
+    "id": "com.zomato.53002",
+    "location": {
+      "name": "XOOX Brewmill",
+      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93656731,
+        "longitude": 77.61521573
+      }
+    }
+  },
+  {
+    "name": "BOLLYXOOX Saturday Night",
+    "description": "DJ Mani & DJ Rashmi are all set to give you a Bollywood & Punjabi High this November. Enjoy a night full of fun & frolic and dance your heart out at the mill with our Craft!",
+    "startDate": "2024-11-29T20:00:00+05:30",
+    "endDate": "2024-11-29T23:59:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "BOLLYXOOX Saturday Night Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for BOLLYXOOX Saturday Night Bengaluru on Zomato which is a Party event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/68d30a8c1be82ff8d34e9f294e6e46dd1730722588.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53003/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-04 17:48:35",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53003",
+    "id": "com.zomato.53003",
+    "location": {
+      "name": "XOOX Brewmill",
+      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93656731,
+        "longitude": 77.61521573
+      }
+    }
+  },
+  {
+    "name": "Bengaluru Pre Party to Pet Fed - Kitty Edition",
+    "description": "Hey Bengaluru! \ud83d\udc3e We\u2019re kicking things off with the ultimate Cat-tastic Pre-Party at Hungry Hippie! \ud83c\udf89 Get ready for whiskers, purrs, and loads of feline fun before the big day.\nInclusions: \nExciting games & gifts for your pets\n Free pet food buffet\nBasic health check-up\n A goodie bag for all attendees\nNo charges for pets!\n\nOngroud tickets will be priced at 700/- per person",
+    "startDate": "2024-11-10T12:00:00+05:30",
+    "endDate": "2024-11-10T15:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/a7b876ae7dd0db5d6b761dc1aff626d71730723051.png",
+      "https://b.zmtcdn.com/data/zomaland/8da796afbaceea145d06345dfa92a07d1730723582.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/a4204d6867058484c67e9a41edea02f41730723582.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/4d21345e809b73cdb0aa1fc5cf96d5f61730723582.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/08a811a56564ff0b0cd942dd72d737831730723582.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/0e0b8280fd50063d4d6a8c37425554c61730723582.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/a6d130eaedd967a654d2731294949ed11730723582.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/8b0a9a659ea7437c19df8dd84317ed761730723582.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/80fe0a5f556da25358666d7c45d87e2e1730723582.png",
+      "https://b.zmtcdn.com/data/zomaland/a7b876ae7dd0db5d6b761dc1aff626d71730723597.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bengaluru-pre-party-to-pet-fed-kitty-edition-bengaluru-et53005/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-11-04 18:00:12",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/bengaluru-pre-party-to-pet-fed-kitty-edition-bengaluru-et53005/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-11-04 18:00:12",
+        "availability": "INSTOCK",
+        "inventory": 35
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bengaluru-pre-party-to-pet-fed-kitty-edition-bengaluru-et53005",
+    "id": "com.zomato.53005",
+    "location": {
+      "name": "Hungry Hippie, Koramangala",
+      "address": "104, Vijay Building, 4th Floor, near Empire Hotel, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9354167,
+        "longitude": 77.61595875
+      }
+    }
   }
 ]
