@@ -3948,5 +3948,49 @@
         "longitude": 77.61595875
       }
     }
+  },
+  {
+    "name": "Prime Time Saturday",
+    "description": "Get ready to rock\nJoin us for Prime Time Saturday with Bandagi the band on November 9th Saturday.\nExperience and electrifying night of music, energy and excitement\nLet's make some unforgettable memories!",
+    "startDate": "2024-11-09T20:00:00+05:30",
+    "endDate": "2024-11-10T00:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Prime Time Saturday Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Prime Time Saturday Bengaluru on Zomato which is a Music event happening at Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd, Bengaluru, Karnataka 560067",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/12716ae68d5eeca3a9b0d355677be1501730724881.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/prime-time-saturday-bengaluru-et53006/details",
+        "price": 300,
+        "currency": "INR",
+        "validFrom": "2024-11-04 18:52:28",
+        "availability": "INSTOCK",
+        "inventory": 500
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/prime-time-saturday-bengaluru-et53006",
+    "id": "com.zomato.53006",
+    "location": {
+      "name": "PrimeGolf Brewing and Golfing",
+      "address": "Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd, Bengaluru, Karnataka 560067",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.02922664,
+        "longitude": 77.76064471
+      }
+    }
   }
 ]

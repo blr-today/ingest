@@ -3770,5 +3770,47 @@
       "performers": [ ],
       "startDate": "2024-11-10T12:00:00+05:30",
       "url": "https://www.zomato.com/events/bengaluru-pre-party-to-pet-fed-kitty-edition-bengaluru-et53005"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready to rock\nJoin us for Prime Time Saturday with Bandagi the band on November 9th Saturday.\nExperience and electrifying night of music, energy and excitement\nLet's make some unforgettable memories!",
+      "endDate": "2024-11-10T00:30:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/12716ae68d5eeca3a9b0d355677be1501730724881.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd, Bengaluru, Karnataka 560067",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 13.029226639999999,
+            "longitude": 77.760644709999994
+         },
+         "name": "PrimeGolf Brewing and Golfing"
+      },
+      "name": "Prime Time Saturday",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-04T18:52:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 500,
+      "startDate": "2024-11-09T20:00:00+05:30",
+      "url": "https://www.zomato.com/events/prime-time-saturday-bengaluru-et53006"
    }
 ]
