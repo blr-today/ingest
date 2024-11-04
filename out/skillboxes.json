@@ -76,6 +76,54 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "Join us this Wednesday with 1+1 offer on all drinks & LED TV SCREENS TO KEEP YOU ENTERTAINED WITH BOLLYWOOD & COMMERCIAL NUMBERS 🤍&#98",
+      "endDate": "2024-11-06T23:59:00",
+      "identifier": "com.skillboxes.16784",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NlhkcTlhOFBzbFowTzhwelh4UC9nZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730660604ACSnh07g1PN2kaCB.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "3rd Floor, Plot 99, 4th B Cross Road, KHB Colony Industrial Layout, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9342763",
+            "longitude": "77.6155893"
+         },
+         "name": "Gowild Bar & Lounge"
+      },
+      "name": "Girls Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "COUPLES ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/girls-night"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Girls",
+            "url": "https://www.skillboxes.com/events/ticket/girls-night"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Stag ( Male )",
+            "url": "https://www.skillboxes.com/events/ticket/girls-night"
+         }
+      ],
+      "startDate": "2024-11-06T20:00:00",
+      "url": "https://www.skillboxes.com/events/girls-night"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Redroom_BLR\r\n\r\nFridays \r\n\r\n \r\n\r\nFeaturing\r\n\r\n \r\n\r\nANGELOV\r\n\r\n(AFTERLIFE | DIYNAMIC)\r\n\r\n \r\n\r\nARTBLOT\r\n\r\nKISH\r\n\r\n \r\n\r\nFriday 8t",
       "endDate": "2024-11-08T23:59:00",
@@ -353,7 +401,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of 500 applied at Gate\n",
-            "inventoryLevel": 42,
+            "inventoryLevel": 36,
             "name": "Presale Ticket",
             "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
          },
@@ -407,24 +455,7 @@
          "name": "Kitty Ko"
       },
       "name": "Protocol Sunday ft. A.BECKER | 3rd Nov | Kitty Ko",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 99,
-            "name": "GUESTLIST-COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-sunday-ft-a-becker-3rd-nov-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM\n",
-            "inventoryLevel": 100,
-            "name": "Female - Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-sunday-ft-a-becker-3rd-nov-kitty-ko"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-11-03T20:00:00",
       "url": "https://www.skillboxes.com/events/protocol-sunday-ft-a-becker-3rd-nov-kitty-ko"
    },
@@ -579,7 +610,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Phase 1\n",
-            "inventoryLevel": 94,
+            "inventoryLevel": 93,
             "name": "Echoes of Grunge - Zed Axis & Seattle Wildfire",
             "url": "https://www.skillboxes.com/events/ticket/echoes-of-grunge-zed-axis-seattle-wildfire"
          },
@@ -735,7 +766,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Please bring a valid student ID for verification at the venue.\n",
-            "inventoryLevel": 996,
+            "inventoryLevel": 993,
             "name": "Student Ticket",
             "url": "https://www.skillboxes.com/events/ticket/beyond-thriller-the-ultimate-michael-jackson-tribute"
          },
@@ -819,7 +850,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 121,
+            "inventoryLevel": 117,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/azadi-tour-ditty-live-at-blr-creative-circus"
          },
@@ -946,7 +977,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This is a RSVP event with entry on first-cum-first serve basis.\n",
-            "inventoryLevel": 163,
+            "inventoryLevel": 159,
             "name": "ALT EFF Ticket",
             "url": "https://www.skillboxes.com/events/ticket/alt-eff-2024-x-atree"
          }

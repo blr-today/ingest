@@ -723,7 +723,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -839,7 +839,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -1517,7 +1517,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 99,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1587,7 +1587,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 99,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1898,58 +1898,6 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/75BE9C43F2E34CF08FDC4F78AAE0ABDA_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/073691DC783148D9BE93FDC0BF904B15_converted_webp.webp"
     ],
-    "startDate": "2024-11-03T09:00:00+05:30",
-    "endDate": "2024-11-03T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "XH5F+PFR, Tippu Sultan Palace Rd, Chamrajpet, Bengaluru, Karnataka 560018, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAeY0tOQVrjsRdZ8hleP7aRo",
-      "latitude": "12.95935130000000000000",
-      "longitude": "77.57364150000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 24,
-    "remainingAttendeeCapacity": 21,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "749.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bengaluru by foot",
-      "description": "Heritage, food & architectural walks in Bangalore.",
-      "url": "https://urbanaut.app/partner/benbyfoot",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/1B826865857D4C59838FFA44132C0F6E_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-70192-72365"
-      }
-    },
-    "url": "https://urbanaut.app/spot/in-the-footsteps-of-the-tiger-of-mysore#2024-11-03T0900",
-    "keywords": [
-      "Guided tour",
-      "History & heritage",
-      "Local",
-      "Walking Tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "In the footsteps of the Tiger of Mysore.",
-    "description": "Discover the history of Bangalore fort, its tales of glory & treachery over the past five centuries with us.The walk begins with a vegetarian breakfast. After that we take our guests to explore the remnants of Tipu's summer palace, the Bangalore fort & the armory.During the course of the walk learn how Anglo-French wars in Europe & North America had their impact in Southern India too.The guests get to learn more about Tipu's weapons on mass destruction of the 18th century & how they influenced the US national anthem & how one small Southern Indian kingdom was a thorn in the East India Company's rule.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8BC607EEE0A1487F932D1E7EAE083382_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A676370BA0C74AC282A4DAAE768A797F_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/75BE9C43F2E34CF08FDC4F78AAE0ABDA_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/073691DC783148D9BE93FDC0BF904B15_converted_webp.webp"
-    ],
     "startDate": "2024-11-10T09:00:00+05:30",
     "endDate": "2024-11-10T12:00:00+05:30",
     "location": {
@@ -1982,7 +1930,7 @@
         "telephone": "+91-70192-72365"
       }
     },
-    "url": "https://urbanaut.app/spot/in-the-footsteps-of-the-tiger-of-mysore#2024-11-10T0900",
+    "url": "https://urbanaut.app/spot/in-the-footsteps-of-the-tiger-of-mysore",
     "keywords": [
       "Guided tour",
       "History & heritage",
@@ -2067,7 +2015,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 7,
-    "remainingAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2420,7 +2368,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -2634,7 +2582,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 14,
-    "remainingAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2828,7 +2776,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 11,
-    "remainingAttendeeCapacity": 11,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2949,6 +2897,447 @@
       "Food & drink",
       "Leisure",
       "Local",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Breakfast Club 2.0",
+    "description": "Muro Caf\u00e9 Launches with a 3-Day Coffee Festival and Asian Breakfast CelebrationWe\u2019re excited to invite you to an exclusive breakfast and coffee preview of Muro Caf\u00e9, where Bangalore will experience the best of Asian breakfast and a three-day celebration of Single Origin Coffees of Karnataka\u2019s finest coffee estates.\u00a0Join us on November 8, 9, and 10 (Friday-Sunday) for a preview of our breakfast menu and join us in celebrating the rich flavours and stories behind exceptional coffee.From 9 a.m. to 12:00 p.m., experience Muro Cafe's unique twist on breakfast; from rich Crab Omelettes and indulgent Hong Kong French Toast to creamy Basque Cheesecake & more.Our expert partners from Ratnagiri, Balanoor, and Devarkhan Estates will join us to showcase the distinct flavours of each estate\u2019s coffee, guiding you through a masterclass that brings the artistry of coffee to life. Learn about the journey from bean to brew, and discover how to elevate your own morning ritual.\u00a0Celebrate food, community, and the joy of coming together.\u00a0Muro: https://www.instagram.com/murocafeblr/",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/93A7C241CBC74E8E8A01688A31205CA9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A29393D9B9DB4B5981B533915B15028A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2E991342EBF41F2A2BD12A3718CD99A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B0918D2EFB484A42BB6885B6FE66C907_converted_webp.webp"
+    ],
+    "startDate": "2024-11-08T09:00:00+05:30",
+    "endDate": "2024-11-08T09:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "5, Museum Rd, next to Toscano Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG4hY5igXrjsRcU9IFbg9Www",
+      "latitude": "12.97462110000000000000",
+      "longitude": "77.60314730000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Muro",
+      "description": null,
+      "url": "https://urbanaut.app/partner/muro",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/44122F4B9C4A445FB3C4876078E38008_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63648-32879"
+      }
+    },
+    "url": "https://urbanaut.app/spot/thebreakfastclub#2024-11-08T0900",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Breakfast Club 2.0",
+    "description": "Muro Caf\u00e9 Launches with a 3-Day Coffee Festival and Asian Breakfast CelebrationWe\u2019re excited to invite you to an exclusive breakfast and coffee preview of Muro Caf\u00e9, where Bangalore will experience the best of Asian breakfast and a three-day celebration of Single Origin Coffees of Karnataka\u2019s finest coffee estates.\u00a0Join us on November 8, 9, and 10 (Friday-Sunday) for a preview of our breakfast menu and join us in celebrating the rich flavours and stories behind exceptional coffee.From 9 a.m. to 12:00 p.m., experience Muro Cafe's unique twist on breakfast; from rich Crab Omelettes and indulgent Hong Kong French Toast to creamy Basque Cheesecake & more.Our expert partners from Ratnagiri, Balanoor, and Devarkhan Estates will join us to showcase the distinct flavours of each estate\u2019s coffee, guiding you through a masterclass that brings the artistry of coffee to life. Learn about the journey from bean to brew, and discover how to elevate your own morning ritual.\u00a0Celebrate food, community, and the joy of coming together.\u00a0Muro: https://www.instagram.com/murocafeblr/",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/93A7C241CBC74E8E8A01688A31205CA9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A29393D9B9DB4B5981B533915B15028A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2E991342EBF41F2A2BD12A3718CD99A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B0918D2EFB484A42BB6885B6FE66C907_converted_webp.webp"
+    ],
+    "startDate": "2024-11-08T10:00:00+05:30",
+    "endDate": "2024-11-08T10:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "5, Museum Rd, next to Toscano Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG4hY5igXrjsRcU9IFbg9Www",
+      "latitude": "12.97462110000000000000",
+      "longitude": "77.60314730000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 48,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Muro",
+      "description": null,
+      "url": "https://urbanaut.app/partner/muro",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/44122F4B9C4A445FB3C4876078E38008_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63648-32879"
+      }
+    },
+    "url": "https://urbanaut.app/spot/thebreakfastclub#2024-11-08T1000",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Breakfast Club 2.0",
+    "description": "Muro Caf\u00e9 Launches with a 3-Day Coffee Festival and Asian Breakfast CelebrationWe\u2019re excited to invite you to an exclusive breakfast and coffee preview of Muro Caf\u00e9, where Bangalore will experience the best of Asian breakfast and a three-day celebration of Single Origin Coffees of Karnataka\u2019s finest coffee estates.\u00a0Join us on November 8, 9, and 10 (Friday-Sunday) for a preview of our breakfast menu and join us in celebrating the rich flavours and stories behind exceptional coffee.From 9 a.m. to 12:00 p.m., experience Muro Cafe's unique twist on breakfast; from rich Crab Omelettes and indulgent Hong Kong French Toast to creamy Basque Cheesecake & more.Our expert partners from Ratnagiri, Balanoor, and Devarkhan Estates will join us to showcase the distinct flavours of each estate\u2019s coffee, guiding you through a masterclass that brings the artistry of coffee to life. Learn about the journey from bean to brew, and discover how to elevate your own morning ritual.\u00a0Celebrate food, community, and the joy of coming together.\u00a0Muro: https://www.instagram.com/murocafeblr/",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/93A7C241CBC74E8E8A01688A31205CA9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A29393D9B9DB4B5981B533915B15028A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2E991342EBF41F2A2BD12A3718CD99A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B0918D2EFB484A42BB6885B6FE66C907_converted_webp.webp"
+    ],
+    "startDate": "2024-11-08T11:00:00+05:30",
+    "endDate": "2024-11-08T11:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "5, Museum Rd, next to Toscano Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG4hY5igXrjsRcU9IFbg9Www",
+      "latitude": "12.97462110000000000000",
+      "longitude": "77.60314730000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Muro",
+      "description": null,
+      "url": "https://urbanaut.app/partner/muro",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/44122F4B9C4A445FB3C4876078E38008_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63648-32879"
+      }
+    },
+    "url": "https://urbanaut.app/spot/thebreakfastclub#2024-11-08T1100",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Breakfast Club 2.0",
+    "description": "Muro Caf\u00e9 Launches with a 3-Day Coffee Festival and Asian Breakfast CelebrationWe\u2019re excited to invite you to an exclusive breakfast and coffee preview of Muro Caf\u00e9, where Bangalore will experience the best of Asian breakfast and a three-day celebration of Single Origin Coffees of Karnataka\u2019s finest coffee estates.\u00a0Join us on November 8, 9, and 10 (Friday-Sunday) for a preview of our breakfast menu and join us in celebrating the rich flavours and stories behind exceptional coffee.From 9 a.m. to 12:00 p.m., experience Muro Cafe's unique twist on breakfast; from rich Crab Omelettes and indulgent Hong Kong French Toast to creamy Basque Cheesecake & more.Our expert partners from Ratnagiri, Balanoor, and Devarkhan Estates will join us to showcase the distinct flavours of each estate\u2019s coffee, guiding you through a masterclass that brings the artistry of coffee to life. Learn about the journey from bean to brew, and discover how to elevate your own morning ritual.\u00a0Celebrate food, community, and the joy of coming together.\u00a0Muro: https://www.instagram.com/murocafeblr/",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/93A7C241CBC74E8E8A01688A31205CA9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A29393D9B9DB4B5981B533915B15028A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2E991342EBF41F2A2BD12A3718CD99A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B0918D2EFB484A42BB6885B6FE66C907_converted_webp.webp"
+    ],
+    "startDate": "2024-11-09T09:00:00+05:30",
+    "endDate": "2024-11-09T09:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "5, Museum Rd, next to Toscano Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG4hY5igXrjsRcU9IFbg9Www",
+      "latitude": "12.97462110000000000000",
+      "longitude": "77.60314730000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Muro",
+      "description": null,
+      "url": "https://urbanaut.app/partner/muro",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/44122F4B9C4A445FB3C4876078E38008_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63648-32879"
+      }
+    },
+    "url": "https://urbanaut.app/spot/thebreakfastclub#2024-11-09T0900",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Breakfast Club 2.0",
+    "description": "Muro Caf\u00e9 Launches with a 3-Day Coffee Festival and Asian Breakfast CelebrationWe\u2019re excited to invite you to an exclusive breakfast and coffee preview of Muro Caf\u00e9, where Bangalore will experience the best of Asian breakfast and a three-day celebration of Single Origin Coffees of Karnataka\u2019s finest coffee estates.\u00a0Join us on November 8, 9, and 10 (Friday-Sunday) for a preview of our breakfast menu and join us in celebrating the rich flavours and stories behind exceptional coffee.From 9 a.m. to 12:00 p.m., experience Muro Cafe's unique twist on breakfast; from rich Crab Omelettes and indulgent Hong Kong French Toast to creamy Basque Cheesecake & more.Our expert partners from Ratnagiri, Balanoor, and Devarkhan Estates will join us to showcase the distinct flavours of each estate\u2019s coffee, guiding you through a masterclass that brings the artistry of coffee to life. Learn about the journey from bean to brew, and discover how to elevate your own morning ritual.\u00a0Celebrate food, community, and the joy of coming together.\u00a0Muro: https://www.instagram.com/murocafeblr/",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/93A7C241CBC74E8E8A01688A31205CA9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A29393D9B9DB4B5981B533915B15028A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2E991342EBF41F2A2BD12A3718CD99A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B0918D2EFB484A42BB6885B6FE66C907_converted_webp.webp"
+    ],
+    "startDate": "2024-11-09T10:00:00+05:30",
+    "endDate": "2024-11-09T10:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "5, Museum Rd, next to Toscano Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG4hY5igXrjsRcU9IFbg9Www",
+      "latitude": "12.97462110000000000000",
+      "longitude": "77.60314730000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Muro",
+      "description": null,
+      "url": "https://urbanaut.app/partner/muro",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/44122F4B9C4A445FB3C4876078E38008_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63648-32879"
+      }
+    },
+    "url": "https://urbanaut.app/spot/thebreakfastclub#2024-11-09T1000",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Breakfast Club 2.0",
+    "description": "Muro Caf\u00e9 Launches with a 3-Day Coffee Festival and Asian Breakfast CelebrationWe\u2019re excited to invite you to an exclusive breakfast and coffee preview of Muro Caf\u00e9, where Bangalore will experience the best of Asian breakfast and a three-day celebration of Single Origin Coffees of Karnataka\u2019s finest coffee estates.\u00a0Join us on November 8, 9, and 10 (Friday-Sunday) for a preview of our breakfast menu and join us in celebrating the rich flavours and stories behind exceptional coffee.From 9 a.m. to 12:00 p.m., experience Muro Cafe's unique twist on breakfast; from rich Crab Omelettes and indulgent Hong Kong French Toast to creamy Basque Cheesecake & more.Our expert partners from Ratnagiri, Balanoor, and Devarkhan Estates will join us to showcase the distinct flavours of each estate\u2019s coffee, guiding you through a masterclass that brings the artistry of coffee to life. Learn about the journey from bean to brew, and discover how to elevate your own morning ritual.\u00a0Celebrate food, community, and the joy of coming together.\u00a0Muro: https://www.instagram.com/murocafeblr/",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/93A7C241CBC74E8E8A01688A31205CA9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A29393D9B9DB4B5981B533915B15028A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2E991342EBF41F2A2BD12A3718CD99A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B0918D2EFB484A42BB6885B6FE66C907_converted_webp.webp"
+    ],
+    "startDate": "2024-11-09T11:00:00+05:30",
+    "endDate": "2024-11-09T11:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "5, Museum Rd, next to Toscano Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG4hY5igXrjsRcU9IFbg9Www",
+      "latitude": "12.97462110000000000000",
+      "longitude": "77.60314730000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Muro",
+      "description": null,
+      "url": "https://urbanaut.app/partner/muro",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/44122F4B9C4A445FB3C4876078E38008_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63648-32879"
+      }
+    },
+    "url": "https://urbanaut.app/spot/thebreakfastclub#2024-11-09T1100",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Breakfast Club 2.0",
+    "description": "Muro Caf\u00e9 Launches with a 3-Day Coffee Festival and Asian Breakfast CelebrationWe\u2019re excited to invite you to an exclusive breakfast and coffee preview of Muro Caf\u00e9, where Bangalore will experience the best of Asian breakfast and a three-day celebration of Single Origin Coffees of Karnataka\u2019s finest coffee estates.\u00a0Join us on November 8, 9, and 10 (Friday-Sunday) for a preview of our breakfast menu and join us in celebrating the rich flavours and stories behind exceptional coffee.From 9 a.m. to 12:00 p.m., experience Muro Cafe's unique twist on breakfast; from rich Crab Omelettes and indulgent Hong Kong French Toast to creamy Basque Cheesecake & more.Our expert partners from Ratnagiri, Balanoor, and Devarkhan Estates will join us to showcase the distinct flavours of each estate\u2019s coffee, guiding you through a masterclass that brings the artistry of coffee to life. Learn about the journey from bean to brew, and discover how to elevate your own morning ritual.\u00a0Celebrate food, community, and the joy of coming together.\u00a0Muro: https://www.instagram.com/murocafeblr/",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/93A7C241CBC74E8E8A01688A31205CA9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A29393D9B9DB4B5981B533915B15028A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2E991342EBF41F2A2BD12A3718CD99A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B0918D2EFB484A42BB6885B6FE66C907_converted_webp.webp"
+    ],
+    "startDate": "2024-11-10T09:00:00+05:30",
+    "endDate": "2024-11-10T09:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "5, Museum Rd, next to Toscano Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG4hY5igXrjsRcU9IFbg9Www",
+      "latitude": "12.97462110000000000000",
+      "longitude": "77.60314730000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Muro",
+      "description": null,
+      "url": "https://urbanaut.app/partner/muro",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/44122F4B9C4A445FB3C4876078E38008_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63648-32879"
+      }
+    },
+    "url": "https://urbanaut.app/spot/thebreakfastclub#2024-11-10T0900",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Breakfast Club 2.0",
+    "description": "Muro Caf\u00e9 Launches with a 3-Day Coffee Festival and Asian Breakfast CelebrationWe\u2019re excited to invite you to an exclusive breakfast and coffee preview of Muro Caf\u00e9, where Bangalore will experience the best of Asian breakfast and a three-day celebration of Single Origin Coffees of Karnataka\u2019s finest coffee estates.\u00a0Join us on November 8, 9, and 10 (Friday-Sunday) for a preview of our breakfast menu and join us in celebrating the rich flavours and stories behind exceptional coffee.From 9 a.m. to 12:00 p.m., experience Muro Cafe's unique twist on breakfast; from rich Crab Omelettes and indulgent Hong Kong French Toast to creamy Basque Cheesecake & more.Our expert partners from Ratnagiri, Balanoor, and Devarkhan Estates will join us to showcase the distinct flavours of each estate\u2019s coffee, guiding you through a masterclass that brings the artistry of coffee to life. Learn about the journey from bean to brew, and discover how to elevate your own morning ritual.\u00a0Celebrate food, community, and the joy of coming together.\u00a0Muro: https://www.instagram.com/murocafeblr/",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/93A7C241CBC74E8E8A01688A31205CA9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A29393D9B9DB4B5981B533915B15028A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2E991342EBF41F2A2BD12A3718CD99A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B0918D2EFB484A42BB6885B6FE66C907_converted_webp.webp"
+    ],
+    "startDate": "2024-11-10T10:00:00+05:30",
+    "endDate": "2024-11-10T10:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "5, Museum Rd, next to Toscano Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG4hY5igXrjsRcU9IFbg9Www",
+      "latitude": "12.97462110000000000000",
+      "longitude": "77.60314730000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Muro",
+      "description": null,
+      "url": "https://urbanaut.app/partner/muro",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/44122F4B9C4A445FB3C4876078E38008_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63648-32879"
+      }
+    },
+    "url": "https://urbanaut.app/spot/thebreakfastclub#2024-11-10T1000",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Breakfast Club 2.0",
+    "description": "Muro Caf\u00e9 Launches with a 3-Day Coffee Festival and Asian Breakfast CelebrationWe\u2019re excited to invite you to an exclusive breakfast and coffee preview of Muro Caf\u00e9, where Bangalore will experience the best of Asian breakfast and a three-day celebration of Single Origin Coffees of Karnataka\u2019s finest coffee estates.\u00a0Join us on November 8, 9, and 10 (Friday-Sunday) for a preview of our breakfast menu and join us in celebrating the rich flavours and stories behind exceptional coffee.From 9 a.m. to 12:00 p.m., experience Muro Cafe's unique twist on breakfast; from rich Crab Omelettes and indulgent Hong Kong French Toast to creamy Basque Cheesecake & more.Our expert partners from Ratnagiri, Balanoor, and Devarkhan Estates will join us to showcase the distinct flavours of each estate\u2019s coffee, guiding you through a masterclass that brings the artistry of coffee to life. Learn about the journey from bean to brew, and discover how to elevate your own morning ritual.\u00a0Celebrate food, community, and the joy of coming together.\u00a0Muro: https://www.instagram.com/murocafeblr/",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/93A7C241CBC74E8E8A01688A31205CA9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A29393D9B9DB4B5981B533915B15028A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2E991342EBF41F2A2BD12A3718CD99A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B0918D2EFB484A42BB6885B6FE66C907_converted_webp.webp"
+    ],
+    "startDate": "2024-11-10T11:00:00+05:30",
+    "endDate": "2024-11-10T11:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "5, Museum Rd, next to Toscano Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG4hY5igXrjsRcU9IFbg9Www",
+      "latitude": "12.97462110000000000000",
+      "longitude": "77.60314730000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Muro",
+      "description": null,
+      "url": "https://urbanaut.app/partner/muro",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/44122F4B9C4A445FB3C4876078E38008_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63648-32879"
+      }
+    },
+    "url": "https://urbanaut.app/spot/thebreakfastclub#2024-11-10T1100",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   }

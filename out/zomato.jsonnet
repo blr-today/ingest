@@ -33,48 +33,56 @@
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
         "price": 2773,
         "currency": "INR",
-        "validFrom": "2024-10-16 11:47:29",
-        "availability": "INSTOCK",
-        "inventory": 239
+        "validFrom": "2024-10-16 11:47:00",
+        "availability": "SELLING_FAST",
+        "inventory": 227
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
         "price": 2773,
         "currency": "INR",
-        "validFrom": "2024-10-16 11:47:30",
-        "availability": "INSTOCK",
-        "inventory": 310
-      },
-      {
-        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
-        "price": 3650,
-        "currency": "INR",
-        "validFrom": "2024-06-12 13:00:00",
-        "availability": "INSTOCK",
-        "inventory": 109
+        "validFrom": "2024-10-16 11:47:00",
+        "availability": "SELLING_FAST",
+        "inventory": 305
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
         "price": 4662,
         "currency": "INR",
-        "validFrom": "2024-10-10 11:21:15",
-        "availability": "INSTOCK",
-        "inventory": 287
+        "validFrom": "2024-10-10 11:21:00",
+        "availability": "SELLING_FAST",
+        "inventory": 281
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
         "price": 5850,
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
-        "availability": "INSTOCK",
-        "inventory": 405
+        "availability": "SELLING_FAST",
+        "inventory": 404
+      },
+      {
+        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
+        "price": 7560,
+        "currency": "INR",
+        "validFrom": "2024-11-04 11:44:00",
+        "availability": "SELLING_FAST",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
+        "price": 11026,
+        "currency": "INR",
+        "validFrom": "2024-11-04 11:44:00",
+        "availability": "SELLING_FAST",
+        "inventory": 200
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
         "price": 12600,
         "currency": "INR",
         "validFrom": "2024-10-04 11:30:00",
-        "availability": "INSTOCK",
+        "availability": "SELLING_FAST",
         "inventory": 24
       },
       {
@@ -83,30 +91,30 @@
         "currency": "INR",
         "validFrom": "2024-10-14 17:46:00",
         "availability": "SELLING_FAST",
-        "inventory": 1
+        "inventory": 3
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
         "price": 14113,
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:00",
-        "availability": "INSTOCK",
-        "inventory": 63
+        "availability": "SELLING_FAST",
+        "inventory": 61
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
         "price": 18900,
         "currency": "INR",
         "validFrom": "2024-10-04 11:30:00",
-        "availability": "INSTOCK",
-        "inventory": 8
+        "availability": "SELLING_FAST",
+        "inventory": 2
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
         "price": 19782,
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:00",
-        "availability": "INSTOCK",
+        "availability": "SELLING_FAST",
         "inventory": 62
       },
       {
@@ -345,7 +353,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 64
+        "inventory": 63
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -353,7 +361,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "INSTOCK",
-        "inventory": 82
+        "inventory": 80
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -505,7 +513,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 17:18:26",
         "availability": "INSTOCK",
-        "inventory": 41
+        "inventory": 40
       },
       {
         "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043/details",
@@ -574,7 +582,7 @@
         "currency": "INR",
         "validFrom": "2024-10-17 13:46:00",
         "availability": "INSTOCK",
-        "inventory": 42
+        "inventory": 41
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -700,7 +708,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 300
+        "inventory": 291
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -708,7 +716,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 387
+        "inventory": 376
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -875,7 +883,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9936
+        "inventory": 9932
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -1415,7 +1423,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:42",
         "availability": "INSTOCK",
-        "inventory": 86
+        "inventory": 80
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774/details",
@@ -1483,7 +1491,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 354
+        "inventory": 353
       }
     ],
     "performers": [],
@@ -2231,7 +2239,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:25",
         "availability": "INSTOCK",
-        "inventory": 96
+        "inventory": 82
       }
     ],
     "performers": [],
@@ -2363,7 +2371,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:26",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       }
     ],
     "performers": [],
@@ -3375,7 +3383,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 22:59:38",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 197
       }
     ],
     "performers": [],
@@ -3463,7 +3471,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 22:59:40",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 197
       }
     ],
     "performers": [],
