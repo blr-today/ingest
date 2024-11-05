@@ -2007,7 +2007,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:07:01",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 8
       }
     ],
     "performers": [],
@@ -3567,7 +3567,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:32",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 47
       }
     ],
     "performers": [],
@@ -3743,7 +3743,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:34",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 47
       }
     ],
     "performers": [],
