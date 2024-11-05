@@ -3992,5 +3992,101 @@
         "longitude": 77.76064471
       }
     }
+  },
+  {
+    "name": "Bunnyville Bollytech Saturday featuring Dj Kunal",
+    "description": "This November 9th, Kormangala\u2019s nightlife scene is about to explode! Bunyville presents an exclusive event headlined by DJ Kunal from Kolkata. Known for his electric sets and infectious beats, DJ Kunal promises to take you on a musical journey that you won\u2019t forget. Don\u2019t miss out on the chance to party with the best crowd and vibe in town. Doors open at 8 PM\u2014bring your energy and let\u2019s make it a night to remember!",
+    "startDate": "2024-11-09T20:00:00+05:30",
+    "endDate": "2024-11-10T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Bunnyville Bollytech Saturday featuring Dj Kunal Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bunnyville Bollytech Saturday featuring Dj Kunal Bengaluru on Zomato which is a Party event happening at 749, 10th Main road, 80 Feet Rd, 4th Block, Koramangala, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/938db4ff68a8019667621cdf901bc6fa1730776677.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bunnyville-bollytech-saturday-featuring-dj-kunal-bengaluru-et53008/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-05 09:01:09",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/bunnyville-bollytech-saturday-featuring-dj-kunal-bengaluru-et53008/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-05 09:01:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bunnyville-bollytech-saturday-featuring-dj-kunal-bengaluru-et53008",
+    "id": "com.zomato.53008",
+    "location": {
+      "name": "Bunny Bar",
+      "address": "749, 10th Main road, 80 Feet Rd, 4th Block, Koramangala, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9331418,
+        "longitude": 77.6307246
+      }
+    }
+  },
+  {
+    "name": "Chitrhaar Night | Radio Bar, RMZ Ecoworld",
+    "description": "The OG from Mumbai Radio Bar is coming to Bangalore Radio Bar CHITRAHAAR NIGHT \n\n\ud83c\udfb7Ft. bobbyk\n\ud83d\uddd3\ufe0f9th October , Saturday\n\ud83d\udd579pm onwards\n\ud83d\udccdRadio Bar, RMZ Ecoworld, Bellandur",
+    "startDate": "2024-11-09T21:00:00+05:30",
+    "endDate": "2024-11-09T23:50:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Chitrhaar Night | Radio Bar, RMZ Ecoworld Party event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Chitrhaar Night | Radio Bar, RMZ Ecoworld Bengaluru on Zomato which is a Party event happening at \"Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/48c56a9724c9e2baaa4776145ee532431730776823.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/chitrhaar-night-radio-bar-rmz-ecoworld-bengaluru-et53009/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-11-05 09:01:10",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/chitrhaar-night-radio-bar-rmz-ecoworld-bengaluru-et53009",
+    "id": "com.zomato.53009",
+    "location": {
+      "name": "Radio Bar, RMZ Ecoworld",
+      "address": "\"Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9208664,
+        "longitude": 77.6859185
+      }
+    }
   }
 ]

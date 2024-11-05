@@ -3812,5 +3812,97 @@
       "remainingAttendeeCapacity": 500,
       "startDate": "2024-11-09T20:00:00+05:30",
       "url": "https://www.zomato.com/events/prime-time-saturday-bengaluru-et53006"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "This November 9th, Kormangala’s nightlife scene is about to explode! Bunyville presents an exclusive event headlined by DJ Kunal from Kolkata. Known for his electric sets and infectious beats, DJ Kunal promises to take you on a musical journey that you won’t forget. Don’t miss out on the chance to party with the best crowd and vibe in town. Doors open at 8 PM—bring your energy and let’s make it a night to remember!",
+      "endDate": "2024-11-10T01:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/938db4ff68a8019667621cdf901bc6fa1730776677.png",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "749, 10th Main road, 80 Feet Rd, 4th Block, Koramangala, Bengaluru",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9331418,
+            "longitude": 77.630724599999994
+         },
+         "name": "Bunny Bar"
+      },
+      "name": "Bunnyville Bollytech Saturday featuring Dj Kunal",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-05T09:01:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-05T09:01:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-11-09T20:00:00+05:30",
+      "url": "https://www.zomato.com/events/bunnyville-bollytech-saturday-featuring-dj-kunal-bengaluru-et53008"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The OG from Mumbai Radio Bar is coming to Bangalore Radio Bar CHITRAHAAR NIGHT \n\n🎷Ft. bobbyk\n🗓️9th October , Saturday\n🕗9pm onwards\n📍Radio Bar, RMZ Ecoworld, Bellandur",
+      "endDate": "2024-11-09T23:50:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/48c56a9724c9e2baaa4776145ee532431730776823.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "\"Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9208664,
+            "longitude": 77.6859185
+         },
+         "name": "Radio Bar, RMZ Ecoworld"
+      },
+      "name": "Chitrhaar Night | Radio Bar, RMZ Ecoworld",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-05T09:01:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 50,
+      "startDate": "2024-11-09T21:00:00+05:30",
+      "url": "https://www.zomato.com/events/chitrhaar-night-radio-bar-rmz-ecoworld-bengaluru-et53009"
    }
 ]
