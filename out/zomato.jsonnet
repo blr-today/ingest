@@ -31,11 +31,11 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
-        "price": 2773,
+        "price": 881,
         "currency": "INR",
-        "validFrom": "2024-10-16 11:47:00",
-        "availability": "SELLING_FAST",
-        "inventory": 227
+        "validFrom": "2024-11-05 17:26:00",
+        "availability": "INSTOCK",
+        "inventory": 50
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -43,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 11:47:00",
         "availability": "SELLING_FAST",
-        "inventory": 305
+        "inventory": 266
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -51,7 +51,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:00",
         "availability": "SELLING_FAST",
-        "inventory": 281
+        "inventory": 264
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -59,7 +59,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 404
+        "inventory": 399
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -83,15 +83,7 @@
         "currency": "INR",
         "validFrom": "2024-10-04 11:30:00",
         "availability": "SELLING_FAST",
-        "inventory": 24
-      },
-      {
-        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
-        "price": 13168,
-        "currency": "INR",
-        "validFrom": "2024-10-14 17:46:00",
-        "availability": "SELLING_FAST",
-        "inventory": 3
+        "inventory": 21
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -103,19 +95,19 @@
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
-        "price": 18900,
-        "currency": "INR",
-        "validFrom": "2024-10-04 11:30:00",
-        "availability": "SELLING_FAST",
-        "inventory": 2
-      },
-      {
-        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
         "price": 19782,
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:00",
         "availability": "SELLING_FAST",
-        "inventory": 62
+        "inventory": 58
+      },
+      {
+        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
+        "price": 2773,
+        "currency": "INR",
+        "validFrom": "2024-10-16 11:47:00",
+        "availability": "INSTOCK",
+        "inventory": 224
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -132,6 +124,22 @@
         "validFrom": "2024-07-29 22:00:00",
         "availability": "INSTOCK",
         "inventory": 91
+      },
+      {
+        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
+        "price": 13168,
+        "currency": "INR",
+        "validFrom": "2024-10-14 17:46:00",
+        "availability": "INSTOCK",
+        "inventory": 3
+      },
+      {
+        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
+        "price": 18900,
+        "currency": "INR",
+        "validFrom": "2024-10-04 11:30:00",
+        "availability": "INSTOCK",
+        "inventory": 2
       }
     ],
     "performers": [
@@ -353,7 +361,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 63
+        "inventory": 45
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -449,8 +457,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Asal Kolar Live Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Asal Kolar Live Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
+    "ogTitle": "Asal Kolar Live Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Asal Kolar Live Bengaluru on Zomato which is a Music and Trending event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/596b7e3e2fff50324e1d8cefdb4d7ffc1722423888.jpeg"
     ],
@@ -461,7 +469,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 14:30:26",
         "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 22
       },
       {
         "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030/details",
@@ -469,7 +477,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 14:30:26",
         "availability": "INSTOCK",
-        "inventory": 23
+        "inventory": 18
       }
     ],
     "performers": [],
@@ -501,8 +509,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Chandan Shetty Live Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Chandan Shetty Live Bengaluru on Zomato which is a Music event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
+    "ogTitle": "Chandan Shetty Live Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Chandan Shetty Live Bengaluru on Zomato which is a Music and Trending event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/680fb7d69471e40b223631cfd25b59ee1722425915.jpeg"
     ],
@@ -574,7 +582,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:47",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 28
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -582,7 +590,7 @@
         "currency": "INR",
         "validFrom": "2024-10-17 13:46:00",
         "availability": "INSTOCK",
-        "inventory": 41
+        "inventory": 40
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -708,7 +716,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 291
+        "inventory": 287
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -716,7 +724,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 376
+        "inventory": 365
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -883,7 +891,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9932
+        "inventory": 9928
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -1367,8 +1375,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Carnival With Puppies Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Carnival With Puppies Bengaluru on Zomato which is a Experiences event happening at No. 2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru",
+    "ogTitle": "Carnival With Puppies Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Carnival With Puppies Bengaluru on Zomato which is a Experiences and Trending event happening at No. 2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/e0fb4607cedc92f8b9c29aa4691cd4511730268047.png"
     ],
@@ -1411,8 +1419,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "BuzzinUp Bangalore Bar Hop - Koramangala Edition Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for BuzzinUp Bangalore Bar Hop - Koramangala Edition Bengaluru on Zomato which is a Experiences event happening at 105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
+    "ogTitle": "BuzzinUp Bangalore Bar Hop - Koramangala Edition Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for BuzzinUp Bangalore Bar Hop - Koramangala Edition Bengaluru on Zomato which is a Experiences and Trending event happening at 105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/b66c5bca539a693879afa93698b602401730308398.png"
     ],
@@ -1423,7 +1431,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:42",
         "availability": "INSTOCK",
-        "inventory": 80
+        "inventory": 78
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774/details",
@@ -1471,8 +1479,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Christmas is Coming Experiences and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Christmas is Coming Bengaluru on Zomato which is a Experiences and Music event happening at 18th Main Rd, John Nagar, Koramangala, Bengaluru",
+    "ogTitle": "Christmas is Coming Experiences, Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Christmas is Coming Bengaluru on Zomato which is a Experiences, Music and Trending event happening at 18th Main Rd, John Nagar, Koramangala, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/c27c003079e2057915cf4742ed21df431730308656.jpeg"
     ],
@@ -2239,7 +2247,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:25",
         "availability": "INSTOCK",
-        "inventory": 82
+        "inventory": 73
       }
     ],
     "performers": [],
@@ -2371,7 +2379,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:26",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 97
       }
     ],
     "performers": [],
@@ -2459,7 +2467,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:27",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       }
     ],
     "performers": [],
@@ -2623,8 +2631,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Porcupine Tree Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Porcupine Tree Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
+    "ogTitle": "Tribute to Porcupine Tree Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to Porcupine Tree Bengaluru on Zomato which is a Music and Trending event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/13860007b44b74a1cf3e7108a72dd6b51730464938.jpeg"
     ],
@@ -3154,7 +3162,7 @@
     "ogTitle": "Rock & Pop Set Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Rock & Pop Set Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/efa86e0fc09c2778fd2c9374357fa6e61730465484.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/ccf83346e025680ce980bb547203471f1730794964.jpeg"
     ],
     "tickets": [
       {
@@ -3207,7 +3215,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 22:59:35",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 197
       }
     ],
     "performers": [],
@@ -3506,7 +3514,7 @@
     "ogTitle": "Tribute to Queen & Bon Jovi Music event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Tribute to Queen & Bon Jovi Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/a3479352041a2a8be3ae9e923cd44a9e1730480812.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/ea26edcb34d60d2eddd1daa5f726e5f81730795014.jpeg"
     ],
     "tickets": [
       {
@@ -4086,6 +4094,162 @@
         "@type": "GeoCoordinates",
         "latitude": 12.9208664,
         "longitude": 77.6859185
+      }
+    }
+  },
+  {
+    "name": "Haryanvi Music with RENUKA PANWAR",
+    "description": "Experience the electrifying voice of **Renuka Panwar**, the star behind viral hits that have taken the Haryanvi music scene by storm! \ud83c\udfa4\u2728 Don\u2019t miss her exclusive live performance on **November 15, 7 PM onwards at Sunburn Union Koramangala**.\n\n\n\n\u2728 **Highlights of the Night**:\n\n- \ud83c\udfb6 *Feel the energy of a live performance from the queen of Haryanvi music!*\n\n- \ud83d\udca5 *Unmatched musical vibes and electric atmosphere!*\n\n- \ud83d\udc83 *Dance to chart-topping hits like never before!*\n\n- \ud83c\udfb5 *Sing along with your favorite anthems!*",
+    "startDate": "2024-11-15T19:00:00+05:30",
+    "endDate": "2024-11-16T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Haryanvi Music with RENUKA PANWAR Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Haryanvi Music with RENUKA PANWAR Bengaluru on Zomato which is a Music event happening at passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/4a1451f2f61b564f6250e55491fb4e391730805029.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/haryanvi-music-with-renuka-panwar-bengaluru-et53010/details",
+        "price": 200,
+        "currency": "INR",
+        "validFrom": "2024-11-05 16:48:19",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/haryanvi-music-with-renuka-panwar-bengaluru-et53010/details",
+        "price": 400,
+        "currency": "INR",
+        "validFrom": "2024-11-05 16:48:19",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/haryanvi-music-with-renuka-panwar-bengaluru-et53010/details",
+        "price": 400,
+        "currency": "INR",
+        "validFrom": "2024-11-05 16:48:20",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/haryanvi-music-with-renuka-panwar-bengaluru-et53010",
+    "id": "com.zomato.53010",
+    "location": {
+      "name": "Sunburn Union",
+      "address": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.94589763,
+        "longitude": 77.61987771
+      }
+    }
+  },
+  {
+    "name": "Mixmag Lab Bengaluru",
+    "description": "SoMAD Brings you Bengaluru's Hottest Mixmag Rooftop Sundowner to Night Party at One8 Commune.  \n\nA Mixmag Showcase is an immersive event spotlighting the pulse of electronic music, featuring top-tier DJs and artists who redefine the dance music landscape. Curated with Mixmag\u2019s signature taste and authority in club culture, these showcases blend underground vibes with global sounds, creating a dynamic atmosphere where emerging talent meets renowned acts. The experience is designed to captivate from start to finish, with innovative lighting, cutting-edge sound systems, and unique visuals that amplify the music. Ideal for fans who crave authentic and genre-defining performances, a Mixmag Showcase is a celebration of electronic music\u2019s most vibrant elements and its powerful sense of community.",
+    "startDate": "2024-11-24T16:00:00+05:30",
+    "endDate": "2024-11-24T23:59:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Mixmag Lab Bengaluru Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Mixmag Lab Bengaluru Bengaluru on Zomato which is a Music event happening at One 8 Commune 10/5, 6th floor, Rathnam's Complex, Kasturba Road, Mahatma Gandhi Rd, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/03cb13cbf5a29ab81a4bc98279b3bdc11730805869.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/mixmag-lab-bengaluru-bengaluru-et53013/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-05 17:05:31",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/mixmag-lab-bengaluru-bengaluru-et53013/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-05 17:05:32",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/mixmag-lab-bengaluru-bengaluru-et53013",
+    "id": "com.zomato.53013",
+    "location": {
+      "name": "One8 Commune, Bangalore",
+      "address": "One 8 Commune 10/5, 6th floor, Rathnam's Complex, Kasturba Road, Mahatma Gandhi Rd, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97649562,
+        "longitude": 77.59913355
+      }
+    }
+  },
+  {
+    "name": "Dynamite Disco Club 097 at The Burrow",
+    "description": "Diwali may be over, but the real fireworks are just beginning! Get ready to light up the night by dancing all night at the latest edition of Dynamite Disco Club at The Burrow, Bangalore, on Saturday, the 16th. This time, we're thrilled to welcome the return of the mighty Dreamstates, known for his genre-blending and boundary-pushing DJ sets.\n\nStarting off the night is Satty, a rising star from Chennai\u2019s nu-dance music scene and a key member of Funk'n Around. Our host and DDC head honcho, Mr. Dynamite himself, Stalvart John, will close out the night.",
+    "startDate": "2024-11-16T20:30:00+05:30",
+    "endDate": "2024-11-17T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Dynamite Disco Club 097 at The Burrow Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Dynamite Disco Club 097 at The Burrow Bengaluru on Zomato which is a Music event happening at 37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/8e7712e6ce6b95cc4a2fdc8c9a52f2e71730806756.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/dynamite-disco-club-097-at-the-burrow-bengaluru-et53014/details",
+        "price": 300,
+        "currency": "INR",
+        "validFrom": "2024-11-05 17:16:46",
+        "availability": "INSTOCK",
+        "inventory": 150
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/dynamite-disco-club-097-at-the-burrow-bengaluru-et53014",
+    "id": "com.zomato.53014",
+    "location": {
+      "name": "The Burrow",
+      "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.98580107,
+        "longitude": 77.58076758
       }
     }
   }

@@ -23,7 +23,16 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 227
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-05T17:26:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 266
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-16T11:47:00+05:30"
@@ -32,16 +41,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 305
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-10-16T11:47:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 281
+               "value": 264
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-10T11:21:00+05:30"
@@ -50,7 +50,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 404
+               "value": 399
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
@@ -77,19 +77,10 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 24
+               "value": 21
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-04T11:30:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 3
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-10-14T17:46:00+05:30"
          },
          {
             "availability": "InStock",
@@ -104,19 +95,19 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 2
+               "value": 58
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-10-04T11:30:00+05:30"
+            "validFrom": "2024-10-10T11:21:00+05:30"
          },
          {
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 62
+               "value": 224
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-10-10T11:21:00+05:30"
+            "validFrom": "2024-10-16T11:47:00+05:30"
          },
          {
             "availability": "InStock",
@@ -135,6 +126,24 @@
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-29T22:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 3
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-14T17:46:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 2
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-04T11:30:00+05:30"
          }
       ],
       "organizer": [
@@ -335,7 +344,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 63
+               "value": 45
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-18T17:36:00+05:30"
@@ -448,7 +457,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 25
+               "value": 22
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-03T14:30:00+05:30"
@@ -457,7 +466,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 23
+               "value": 18
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-03T14:30:00+05:30"
@@ -557,7 +566,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 30
+               "value": 28
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-25T15:03:00+05:30"
@@ -566,7 +575,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 41
+               "value": 40
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-17T13:46:00+05:30"
@@ -697,7 +706,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 291
+               "value": 287
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -706,7 +715,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 376
+               "value": 365
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -837,7 +846,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 9932
+               "value": 9928
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T00:00:00+05:30"
@@ -1357,7 +1366,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 80
+               "value": 78
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-30T22:56:00+05:30"
@@ -2149,7 +2158,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 82
+               "value": 73
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -2163,7 +2172,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 82,
+      "remainingAttendeeCapacity": 73,
       "startDate": "2024-11-06T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52850"
    },
@@ -2275,7 +2284,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 98
+               "value": 97
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -2289,7 +2298,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 98,
+      "remainingAttendeeCapacity": 97,
       "startDate": "2024-11-09T21:00:00+05:30",
       "url": "https://www.zomato.com/events/remix-nights-bengaluru-et52853"
    },
@@ -2359,7 +2368,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 99
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -2373,7 +2382,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 100,
+      "remainingAttendeeCapacity": 99,
       "startDate": "2024-11-10T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et52855"
    },
@@ -3014,7 +3023,7 @@
       "endDate": "2024-11-30T23:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/efa86e0fc09c2778fd2c9374357fa6e61730465484.jpeg",
+      "image": "https://b.zmtcdn.com/data/zomaland/ccf83346e025680ce980bb547203471f1730794964.jpeg",
       "isAccessibleForFree": false,
       "location": {
          "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
@@ -3073,7 +3082,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 198
+               "value": 197
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T22:59:00+05:30"
@@ -3087,7 +3096,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 198,
+      "remainingAttendeeCapacity": 197,
       "startDate": "2024-11-07T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52880"
    },
@@ -3350,7 +3359,7 @@
       "endDate": "2024-11-30T23:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/a3479352041a2a8be3ae9e923cd44a9e1730480812.jpeg",
+      "image": "https://b.zmtcdn.com/data/zomaland/ea26edcb34d60d2eddd1daa5f726e5f81730795014.jpeg",
       "isAccessibleForFree": false,
       "location": {
          "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
@@ -3904,5 +3913,156 @@
       "remainingAttendeeCapacity": 50,
       "startDate": "2024-11-09T21:00:00+05:30",
       "url": "https://www.zomato.com/events/chitrhaar-night-radio-bar-rmz-ecoworld-bengaluru-et53009"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Experience the electrifying voice of **Renuka Panwar**, the star behind viral hits that have taken the Haryanvi music scene by storm! 🎤✨ Don’t miss her exclusive live performance on **November 15, 7 PM onwards at Sunburn Union Koramangala**.\n\n\n\n✨ **Highlights of the Night**:\n\n- 🎶 *Feel the energy of a live performance from the queen of Haryanvi music!*\n\n- 💥 *Unmatched musical vibes and electric atmosphere!*\n\n- 💃 *Dance to chart-topping hits like never before!*\n\n- 🎵 *Sing along with your favorite anthems!*",
+      "endDate": "2024-11-16T01:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/4a1451f2f61b564f6250e55491fb4e391730805029.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.945897629999999,
+            "longitude": 77.619877709999997
+         },
+         "name": "Sunburn Union"
+      },
+      "name": "Haryanvi Music with RENUKA PANWAR",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-05T16:48:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-05T16:48:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-05T16:48:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-11-15T19:00:00+05:30",
+      "url": "https://www.zomato.com/events/haryanvi-music-with-renuka-panwar-bengaluru-et53010"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "SoMAD Brings you Bengaluru's Hottest Mixmag Rooftop Sundowner to Night Party at One8 Commune.  \n\nA Mixmag Showcase is an immersive event spotlighting the pulse of electronic music, featuring top-tier DJs and artists who redefine the dance music landscape. Curated with Mixmag’s signature taste and authority in club culture, these showcases blend underground vibes with global sounds, creating a dynamic atmosphere where emerging talent meets renowned acts. The experience is designed to captivate from start to finish, with innovative lighting, cutting-edge sound systems, and unique visuals that amplify the music. Ideal for fans who crave authentic and genre-defining performances, a Mixmag Showcase is a celebration of electronic music’s most vibrant elements and its powerful sense of community.",
+      "endDate": "2024-11-24T23:59:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/03cb13cbf5a29ab81a4bc98279b3bdc11730805869.png",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "One 8 Commune 10/5, 6th floor, Rathnam's Complex, Kasturba Road, Mahatma Gandhi Rd, Bengaluru",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.97649562,
+            "longitude": 77.599133550000005
+         },
+         "name": "One8 Commune, Bangalore"
+      },
+      "name": "Mixmag Lab Bengaluru",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-05T17:05:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-05T17:05:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-11-24T16:00:00+05:30",
+      "url": "https://www.zomato.com/events/mixmag-lab-bengaluru-bengaluru-et53013"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Diwali may be over, but the real fireworks are just beginning! Get ready to light up the night by dancing all night at the latest edition of Dynamite Disco Club at The Burrow, Bangalore, on Saturday, the 16th. This time, we're thrilled to welcome the return of the mighty Dreamstates, known for his genre-blending and boundary-pushing DJ sets.\n\nStarting off the night is Satty, a rising star from Chennai’s nu-dance music scene and a key member of Funk'n Around. Our host and DDC head honcho, Mr. Dynamite himself, Stalvart John, will close out the night.",
+      "endDate": "2024-11-17T01:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/8e7712e6ce6b95cc4a2fdc8c9a52f2e71730806756.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.985801070000001,
+            "longitude": 77.58076758
+         },
+         "name": "The Burrow"
+      },
+      "name": "Dynamite Disco Club 097 at The Burrow",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 150
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-05T17:16:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 150,
+      "startDate": "2024-11-16T20:30:00+05:30",
+      "url": "https://www.zomato.com/events/dynamite-disco-club-097-at-the-burrow-bengaluru-et53014"
    }
 ]
