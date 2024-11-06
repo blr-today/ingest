@@ -2227,50 +2227,6 @@
     }
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-11-06T20:30:00+05:30",
-    "endDate": "2024-11-06T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/692d0659cac0cee0fcc67949bdb637481730464550.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52850/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:25",
-        "availability": "INSTOCK",
-        "inventory": 64
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52850",
-    "id": "com.zomato.52850",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Silence of Chaos",
     "description": "Prepare for an unforgettable Thursday night in Bengaluru where SILENCE OF CHAOS performing live at Bengaluru`s amazing entertainment hotspot Hard Rock Cafe.\nElectric Beats, Killer Tunes, Finger Licking Food, Spectacular Cocktails, And Many More!\nCome And Join The Party!",
     "startDate": "2024-11-07T20:30:00+05:30",
@@ -3549,50 +3505,6 @@
   {
     "name": "Ladies Wednesday Night",
     "description": "To all the ladies out there, enjoy a 1+1 on all craft beers & cocktails every Wednesday night! Listen to popular Commercial & Hip Hop Sets played by DJ Malik, Fun night guaranteed !",
-    "startDate": "2024-11-06T20:00:00+05:30",
-    "endDate": "2024-11-06T23:59:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Ladies Wednesday Night Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Ladies Wednesday Night Bengaluru on Zomato which is a Music event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/5169bb67e68c9f2a17c1cc0acc0344541730722267.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52995/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-04 17:48:32",
-        "availability": "INSTOCK",
-        "inventory": 47
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52995",
-    "id": "com.zomato.52995",
-    "location": {
-      "name": "XOOX Brewmill",
-      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93656731,
-        "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "Ladies Wednesday Night",
-    "description": "To all the ladies out there, enjoy a 1+1 on all craft beers & cocktails every Wednesday night! Listen to popular Commercial & Hip Hop Sets played by DJ Malik, Fun night guaranteed !",
     "startDate": "2024-11-13T20:00:00+05:30",
     "endDate": "2024-11-13T23:59:00+05:30",
     "timezone": "+05:30",
@@ -3655,7 +3567,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:33",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 48
       }
     ],
     "performers": [],
@@ -3743,7 +3655,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:34",
         "availability": "INSTOCK",
-        "inventory": 47
+        "inventory": 43
       }
     ],
     "performers": [],
@@ -4302,6 +4214,50 @@
         "@type": "GeoCoordinates",
         "latitude": 12.992748778992,
         "longitude": 77.59689511847
+      }
+    }
+  },
+  {
+    "name": "Dire Straits Tribute, Gilly's Superbar",
+    "description": "Tickets ain't costin' much, but the good vibes, they\u2019re free , Butterfingers up there, playin' it like it used to be.\nWith riffs so smooth and melodies tight, It's a Dire Straits tribute, rockin' through the night!",
+    "startDate": "2024-11-10T19:00:00+05:30",
+    "endDate": "2024-11-10T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Dire Straits Tribute, Gilly's Superbar Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Dire Straits Tribute, Gilly's Superbar Bengaluru on Zomato which is a Music event happening at \"2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001 \"",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/cb58353e9cb300e49b1465f43775e3651730901702.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/dire-straits-tribute-gillys-superbar-bengaluru-et53036/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-11-06 19:43:18",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/dire-straits-tribute-gillys-superbar-bengaluru-et53036",
+    "id": "com.zomato.53036",
+    "location": {
+      "name": "Gilly's St. Marks Road",
+      "address": "\"2nd Floor, Vasavi Complex, 17, St Mark's Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001 \"",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9718485,
+        "longitude": 77.6009258
       }
     }
   }

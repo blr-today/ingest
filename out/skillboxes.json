@@ -106,6 +106,40 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "THE  BOLLYWOOD LIGHT'S OUT SATURDAY NIGHT'S ON NOVEMBER 9TH STARTING AT 8:00 P.M., MACAW BY STORIES SINGASANDRA.WILL HOST BOLLYWOOD-EDM MUSIC EVE",
+      "endDate": "2024-11-09T23:59:00",
+      "identifier": "com.skillboxes.16843",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17309011328YeqllkHfh2bULqe.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No 2224 , 2225 AECS Layout Singasandra Hosur, Service Rd, Srinivasa Nagar, Hal Layout, Singasandra, Bengaluru, Karnataka 560068, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.8842461",
+            "longitude": "77.6434432"
+         },
+         "name": "Macaw By Stories"
+      },
+      "name": "LIGHT'S OUT SATURDAY",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/light-s-out-saturday"
+         }
+      ],
+      "startDate": "2024-11-09T20:00:00",
+      "url": "https://www.skillboxes.com/events/light-s-out-saturday"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "What's in it for YOU - The Audience\r\n\r\n(Or basically, why should you buy the ticket and come over)\r\n\r\n \r\n\r\n1. Witness the start of something ",
       "endDate": "2024-11-24T23:59:00",
@@ -138,41 +172,6 @@
       ],
       "startDate": "2024-11-24T14:00:00",
       "url": "https://www.skillboxes.com/events/brutal-mic-moving-on-from-open-mics"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "🎉 Get ready for the ultimate mid-week party at Ladies Night! Gather your squad and join us this Wednesday for a night full of fun, free drinks",
-      "endDate": "2024-11-06T23:00:00",
-      "identifier": "com.skillboxes.16834",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MHRGZVpHZVdRT29DdE1UZzlvc3UyQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730884347tB92LcVqYmRUuBfP.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Party or Social Gathering"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "1st Floor, BRS Towers, No 51, Sarjapur - Marathahalli Rd, above ICICI Wealth Management Bank, Kaikondrahalli, Bengaluru, Karnataka 560035, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9146752",
-            "longitude": "77.6760693"
-         },
-         "name": "Blue Rock's Fusion Restaurant and Bar"
-      },
-      "name": "Wednesday Ladies Night",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "T&C applied*\n",
-            "inventoryLevel": 50,
-            "name": "Free Entry Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/wednesday-ladies-night-3"
-         }
-      ],
-      "startDate": "2024-11-06T20:30:00",
-      "url": "https://www.skillboxes.com/events/wednesday-ladies-night-3"
    },
    {
       "@context": "https://schema.org",
@@ -369,8 +368,15 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 483,
-            "name": "RSVP",
+            "inventoryLevel": 446,
+            "name": "RSVP || 9th Nov 2024",
+            "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-aftermath"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 496,
+            "name": "RSVP || 10th Nov 2024",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-aftermath"
          }
       ],
@@ -635,7 +641,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 972,
+            "inventoryLevel": 950,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/indie-fridays-ft-psychodrama"
          }
@@ -677,102 +683,6 @@
       ],
       "startDate": "2024-11-17T14:00:00",
       "url": "https://www.skillboxes.com/events/sakura-screenings-3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Showcase Anything ART!Join us for an open mic event celebrating all genres of art: Dance, Music, Storytelling, Theatre, Stand-up, and beyond. Whether ",
-      "endDate": "2024-11-06T20:30:00",
-      "identifier": "com.skillboxes.16786",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RDlBUmpBVVgvUlB5d0ltc0VBYUlKdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17307036218rYyL8eWeiaXBPzC.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Performing Art"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No.15, KHB MIG Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9381595",
-            "longitude": "77.617817"
-         },
-         "name": "Medai - The Stage Bengaluru"
-      },
-      "name": "Art Jam",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 10,
-            "name": "Audience",
-            "url": "https://www.skillboxes.com/events/ticket/art-jam-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 10,
-            "name": "Solo Performer",
-            "url": "https://www.skillboxes.com/events/ticket/art-jam-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 10,
-            "name": "Solo Performer with video",
-            "url": "https://www.skillboxes.com/events/ticket/art-jam-3"
-         }
-      ],
-      "startDate": "2024-11-06T19:00:00",
-      "url": "https://www.skillboxes.com/events/art-jam-3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "Join us this Wednesday with 1+1 offer on all drinks & LED TV SCREENS TO KEEP YOU ENTERTAINED WITH BOLLYWOOD & COMMERCIAL NUMBERS 🤍&#98",
-      "endDate": "2024-11-06T23:59:00",
-      "identifier": "com.skillboxes.16784",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NlhkcTlhOFBzbFowTzhwelh4UC9nZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730660604ACSnh07g1PN2kaCB.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Party or Social Gathering"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "3rd Floor, Plot 99, 4th B Cross Road, KHB Colony Industrial Layout, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9342763",
-            "longitude": "77.6155893"
-         },
-         "name": "Gowild Bar & Lounge"
-      },
-      "name": "Girls Night",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 200,
-            "name": "COUPLES ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/girls-night"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 200,
-            "name": "Girls",
-            "url": "https://www.skillboxes.com/events/ticket/girls-night"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 200,
-            "name": "Stag ( Male )",
-            "url": "https://www.skillboxes.com/events/ticket/girls-night"
-         }
-      ],
-      "startDate": "2024-11-06T20:00:00",
-      "url": "https://www.skillboxes.com/events/girls-night"
    },
    {
       "@context": "https://schema.org",
@@ -824,32 +734,6 @@
       ],
       "startDate": "2024-11-08T19:00:00",
       "url": "https://www.skillboxes.com/events/redroom-ft-angelov-afterlife-at-kitty-ko-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "EducationEvent",
-      "description": "In the realm of machining and manufacturing, precision and versatility are paramount. Among the various tools available to machinists, the swivel mach",
-      "endDate": "2024-11-06T21:02:00",
-      "identifier": "com.skillboxes.16775",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UXNrWnVkRWl1QlVVMFBiYThPNVNaQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17306220180YP0zfYM8RepjGUi.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Workshops"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "",
-            "longitude": ""
-         },
-         "name": "To Be Decided"
-      },
-      "name": "Considerations When Using a Swivel Machine",
-      "offers": [ ],
-      "startDate": "2024-11-06T01:02:00",
-      "url": "https://www.skillboxes.com/events/considerations-when-using-a-swivel-machine"
    },
    {
       "@context": "https://schema.org",
