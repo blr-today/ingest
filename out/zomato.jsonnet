@@ -35,7 +35,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 17:26:00",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 34
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -43,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-10-16 11:47:00",
         "availability": "SELLING_FAST",
-        "inventory": 266
+        "inventory": 235
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -51,7 +51,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:00",
         "availability": "SELLING_FAST",
-        "inventory": 264
+        "inventory": 230
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -59,7 +59,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 399
+        "inventory": 396
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -67,7 +67,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 11:44:00",
         "availability": "SELLING_FAST",
-        "inventory": 200
+        "inventory": 199
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -83,7 +83,7 @@
         "currency": "INR",
         "validFrom": "2024-10-04 11:30:00",
         "availability": "SELLING_FAST",
-        "inventory": 21
+        "inventory": 20
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -91,7 +91,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:00",
         "availability": "SELLING_FAST",
-        "inventory": 61
+        "inventory": 59
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -99,7 +99,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:00",
         "availability": "SELLING_FAST",
-        "inventory": 58
+        "inventory": 54
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -361,7 +361,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 45
+        "inventory": 37
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -469,7 +469,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 14:30:26",
         "availability": "INSTOCK",
-        "inventory": 22
+        "inventory": 15
       },
       {
         "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030/details",
@@ -477,7 +477,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 14:30:26",
         "availability": "INSTOCK",
-        "inventory": 18
+        "inventory": 16
       }
     ],
     "performers": [],
@@ -712,11 +712,19 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
+        "price": 5000,
+        "currency": "INR",
+        "validFrom": "2024-11-05 21:18:00",
+        "availability": "INSTOCK",
+        "inventory": 946
+      },
+      {
+        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
         "price": 10000,
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 287
+        "inventory": 284
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -787,14 +795,6 @@
         "price": 5000,
         "currency": "INR",
         "validFrom": "2024-10-18 18:40:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
-        "price": 5000,
-        "currency": "INR",
-        "validFrom": "2024-10-25 13:24:00",
         "availability": "SOLDOUT",
         "inventory": 0
       },
@@ -891,7 +891,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9928
+        "inventory": 9926
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -899,7 +899,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9987
+        "inventory": 9985
       }
     ],
     "performers": [],
@@ -1431,7 +1431,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:42",
         "availability": "INSTOCK",
-        "inventory": 78
+        "inventory": 74
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774/details",
@@ -1439,7 +1439,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:43",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 48
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774/details",
@@ -1499,7 +1499,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 353
+        "inventory": 351
       }
     ],
     "performers": [],
@@ -2247,7 +2247,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:25",
         "availability": "INSTOCK",
-        "inventory": 73
+        "inventory": 64
       }
     ],
     "performers": [],
@@ -2467,7 +2467,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:27",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 95
       }
     ],
     "performers": [],
@@ -2731,7 +2731,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:31",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       }
     ],
     "performers": [],
@@ -4030,7 +4030,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 09:01:00",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 199
       }
     ],
     "performers": [],
@@ -4250,6 +4250,58 @@
         "@type": "GeoCoordinates",
         "latitude": 12.98580107,
         "longitude": 77.58076758
+      }
+    }
+  },
+  {
+    "name": "Yoga with Puppies by Pawasana",
+    "description": "\"Welcome to the most pawsitively delightful yoga experience: Downward Doggies! Picture yourself on your yoga mat, surrounded by adorable, adoptable puppies frolicking around you. As you flow through your poses, their playful energy infuses each movement with joy and warmth.\n\nBut this isn't just about yoga; it's about spreading love and support for our furry friends. Every ticket sold helps support local animal shelters and rescue organizations, ensuring these precious pups find their forever homes.\n\nFeel the stress melt away as you sink into your poses, with puppy kisses and tail wags adding an extra dose of happiness to your practice. It's not just about finding your inner zen; it's about embracing the love and companionship that these furry yogis bring to your mat.",
+    "startDate": "2024-11-16T12:00:00+05:30",
+    "endDate": "2024-11-16T13:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Yoga with Puppies by Pawasana Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Yoga with Puppies by Pawasana Bengaluru on Zomato which is a Experiences event happening at Miller's Tank, 16/A, Bund Road, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560052",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/2500a372466eea25bafdff953747c8ac1730891287.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/yoga-with-puppies-by-pawasana-bengaluru-et53028/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-11-06 16:43:11",
+        "availability": "INSTOCK",
+        "inventory": 7
+      },
+      {
+        "url": "https://www.zomato.com/events/yoga-with-puppies-by-pawasana-bengaluru-et53028/details",
+        "price": 1800,
+        "currency": "INR",
+        "validFrom": "2024-11-06 16:43:00",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/yoga-with-puppies-by-pawasana-bengaluru-et53028",
+    "id": "com.zomato.53028",
+    "location": {
+      "name": "Breathing Spaces",
+      "address": "Miller's Tank, 16/A, Bund Road, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560052",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.992748778992,
+        "longitude": 77.59689511847
       }
     }
   }

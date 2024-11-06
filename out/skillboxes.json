@@ -1,6 +1,36 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "LiveBox is proud to present the progressive rock supergroup THE ARISTOCRATS as part of their brand new DUCK Tour in March 2025.\r\n\r\nVenues and opening ",
+      "endDate": "2025-03-28T23:59:00",
+      "identifier": "com.skillboxes.16637",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1729686385O5eLoUuW9KJHLSey.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": null,
+         "name": "To Be Announced"
+      },
+      "name": "LiveBox feat. The Aristocrats | Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
+            "inventoryLevel": 100,
+            "name": "Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/livebox-feat-the-aristocrats-bangalore"
+         }
+      ],
+      "startDate": "2025-03-28T20:00:00",
+      "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Mark your calendars for October 5th, 2024, and get ready to step into a world of wonder and excitement at LUNALAND! \n\n \n\nEnj",
       "endDate": "2024-11-23T22:00:00",
@@ -73,6 +103,76 @@
       ],
       "startDate": "2024-11-23T15:00:00",
       "url": "https://www.skillboxes.com/events/lunaland-the-carnival-of-dreams-awaits"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "What's in it for YOU - The Audience\r\n\r\n(Or basically, why should you buy the ticket and come over)\r\n\r\n \r\n\r\n1. Witness the start of something ",
+      "endDate": "2024-11-24T23:59:00",
+      "identifier": "com.skillboxes.16841",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730897194wEgmAppFxwBKvHcl.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9313063",
+            "longitude": "77.6329297"
+         },
+         "name": "Bira 91 Taproom, Koramangala"
+      },
+      "name": "Brutal Mic - Moving on from Open-Mics",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Ticket includes 200/- cover charge, redeemable against your bill at the venue.\n",
+            "inventoryLevel": 1000,
+            "name": "Regular Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/brutal-mic-moving-on-from-open-mics"
+         }
+      ],
+      "startDate": "2024-11-24T14:00:00",
+      "url": "https://www.skillboxes.com/events/brutal-mic-moving-on-from-open-mics"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "🎉 Get ready for the ultimate mid-week party at Ladies Night! Gather your squad and join us this Wednesday for a night full of fun, free drinks",
+      "endDate": "2024-11-06T23:00:00",
+      "identifier": "com.skillboxes.16834",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MHRGZVpHZVdRT29DdE1UZzlvc3UyQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730884347tB92LcVqYmRUuBfP.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st Floor, BRS Towers, No 51, Sarjapur - Marathahalli Rd, above ICICI Wealth Management Bank, Kaikondrahalli, Bengaluru, Karnataka 560035, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9146752",
+            "longitude": "77.6760693"
+         },
+         "name": "Blue Rock's Fusion Restaurant and Bar"
+      },
+      "name": "Wednesday Ladies Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "T&C applied*\n",
+            "inventoryLevel": 50,
+            "name": "Free Entry Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/wednesday-ladies-night-3"
+         }
+      ],
+      "startDate": "2024-11-06T20:30:00",
+      "url": "https://www.skillboxes.com/events/wednesday-ladies-night-3"
    },
    {
       "@context": "https://schema.org",
@@ -165,7 +265,7 @@
       "description": "Indie Friday ft. Adi Rao\r\n\r\nFri, 29-Nov-2024",
       "endDate": "2024-11-29T23:59:00",
       "identifier": "com.skillboxes.16813",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17308020977b0iNPp35qKJxQKX.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730891268tBsB9KTXhEO6CPEX.png.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"
@@ -353,7 +453,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 991,
+            "inventoryLevel": 987,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/electric-boogie-shft-ft-haen-ria-groove-depot-and-flipknob-ibar-the-park-bangalore"
          }
@@ -952,7 +1052,15 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charge of 500 applied at Gate\n",
+            "description": "+ Black T-shirts only and Cover charge of INR 500 applied at Gate\n",
+            "inventoryLevel": 75,
+            "name": "Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "+ Black T-shirts only and Cover charge of INR 500 applied at Gate\n",
             "inventoryLevel": 33,
             "name": "Presale Ticket",
             "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
@@ -960,25 +1068,9 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charge of INR 500 applied at gate.\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charge of INR 500 applied at gate.\n",
+            "description": "+ Black T-shirts only and Cover charge of INR 500 applied at Gate\n",
             "inventoryLevel": 150,
             "name": "GA Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charge of INR 500 applied at gate.\n",
-            "inventoryLevel": 300,
-            "name": "GA Phase 2",
             "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
          }
       ],
@@ -1075,7 +1167,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 34,
+            "inventoryLevel": 33,
             "name": "Audience",
             "url": "https://www.skillboxes.com/events/ticket/swayambhu-a-1-hour-poetry-special"
          }
@@ -1085,33 +1177,37 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "LiveBox is proud to present the progressive rock supergroup THE ARISTOCRATS as part of their brand new DUCK Tour in March 2025.\r\n\r\nVenues and opening ",
-      "endDate": "2025-03-28T23:59:00",
-      "identifier": "com.skillboxes.16637",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1729686385O5eLoUuW9KJHLSey.jpg.webp",
-      "isAccessibleForFree": false,
+      "@type": "Event",
+      "description": "Get ready for a day of electrifying fun at the Bengaluru EV Festival! 🚗⚡🎶Join us for a free, action-packed day that celebrates t",
+      "endDate": "2024-11-17T21:30:00",
+      "identifier": "com.skillboxes.16612",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MlFaZkhRRzFiS0JRSkZWZUx3TEdLQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730893600vZ6cJOvLQ9CtufU4.jpg.webp",
+      "isAccessibleForFree": true,
       "keywords": [
-         "Music Events"
+         "Festival & Fair"
       ],
       "location": {
          "@type": "Place",
-         "address": null,
-         "name": "To Be Announced"
+         "address": "Dommasandra, Bengaluru, Karnataka 562125, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.8768181",
+            "longitude": "77.7430391"
+         },
+         "name": "Aruani Grid"
       },
-      "name": "LiveBox feat. The Aristocrats | Bangalore",
+      "name": "Bengaluru EV Festival",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/livebox-feat-the-aristocrats-bangalore"
+            "inventoryLevel": 1500,
+            "name": "General Admission",
+            "url": "https://www.skillboxes.com/events/ticket/bengaluru-ev-festival"
          }
       ],
-      "startDate": "2025-03-28T20:00:00",
-      "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+      "startDate": "2024-11-17T09:30:00",
+      "url": "https://www.skillboxes.com/events/bengaluru-ev-festival"
    },
    {
       "@context": "https://schema.org",
@@ -1140,7 +1236,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Phase 1\n",
-            "inventoryLevel": 89,
+            "inventoryLevel": 88,
             "name": "Echoes of Grunge - Zed Axis & Seattle Wildfire",
             "url": "https://www.skillboxes.com/events/ticket/echoes-of-grunge-zed-axis-seattle-wildfire"
          },
@@ -1177,14 +1273,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Audience Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-12"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 995,
+            "inventoryLevel": 994,
             "name": "Performer Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-12"
          },
@@ -1261,7 +1357,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional 300 cover charge to be paid at the gates (Fully Redeemable)\nMust be 21 or older and must possess a valid hard ID or DigiLocker",
-            "inventoryLevel": 138,
+            "inventoryLevel": 128,
             "name": "Awaaz-E-Musiqi - Feat. Badal Kashyap, Joy Hanson, Fishhhita, Panchee (Ft. Sxggy)",
             "url": "https://www.skillboxes.com/events/ticket/awaaz-e-musiqi"
          }
@@ -1296,14 +1392,14 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Please bring a valid student ID for verification at the venue.\n",
-            "inventoryLevel": 989,
+            "inventoryLevel": 988,
             "name": "Student Ticket",
             "url": "https://www.skillboxes.com/events/ticket/beyond-thriller-the-ultimate-michael-jackson-tribute"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 158,
+            "inventoryLevel": 151,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/beyond-thriller-the-ultimate-michael-jackson-tribute"
          }
@@ -1338,7 +1434,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 6,
+            "inventoryLevel": 3,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/Social-Selects-The-Karan-Kanchan-Kitty-Party-2"
          },
@@ -1380,7 +1476,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 117,
+            "inventoryLevel": 115,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/azadi-tour-ditty-live-at-blr-creative-circus"
          },
@@ -1507,7 +1603,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "23rd November\nThis is a RSVP event with entry on first-come-first serve basis.",
-            "inventoryLevel": 159,
+            "inventoryLevel": 155,
             "name": "ALT EFF Ticket",
             "url": "https://www.skillboxes.com/events/ticket/alt-eff-2024-x-atree"
          },
@@ -1515,7 +1611,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "22nd November\nThis is a RSVP event with entry on first-come-first serve basis.",
-            "inventoryLevel": 200,
+            "inventoryLevel": 197,
             "name": "ALT EFF Ticket",
             "url": "https://www.skillboxes.com/events/ticket/alt-eff-2024-x-atree"
          }
