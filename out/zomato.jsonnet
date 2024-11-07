@@ -4260,5 +4260,401 @@
         "longitude": 77.6009258
       }
     }
+  },
+  {
+    "name": "Karaoke Night",
+    "description": "Join us for an unforgettable evening of singing and fun at Escape Brewery's Karaoke Night, featuring the charismatic KJ Abhishek. Whether you're a shower singer or a seasoned vocalist, this is your chance to take the stage and belt out your favorite tunes in a vibrant, welcoming atmosphere",
+    "startDate": "2024-11-14T20:00:00+05:30",
+    "endDate": "2024-11-14T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Karaoke Night Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Night Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3395bf7781c929cbf2e25a77fd8e554c1730964265.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/karaoke-night-bengaluru-et53041/details",
+        "price": 249,
+        "currency": "INR",
+        "validFrom": "2024-11-07 13:25:37",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/karaoke-night-bengaluru-et53041",
+    "id": "com.zomato.53041",
+    "location": {
+      "name": "Escape by Brewklyn",
+      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.04059157,
+        "longitude": 77.61912205
+      }
+    }
+  },
+  {
+    "name": "Karaoke Night",
+    "description": "Join us for an unforgettable evening of singing and fun at Escape Brewery's Karaoke Night, featuring the charismatic KJ Abhishek. Whether you're a shower singer or a seasoned vocalist, this is your chance to take the stage and belt out your favorite tunes in a vibrant, welcoming atmosphere",
+    "startDate": "2024-11-21T20:00:00+05:30",
+    "endDate": "2024-11-21T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Karaoke Night Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Night Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3395bf7781c929cbf2e25a77fd8e554c1730964265.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/karaoke-night-bengaluru-et53042/details",
+        "price": 249,
+        "currency": "INR",
+        "validFrom": "2024-11-07 13:25:39",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/karaoke-night-bengaluru-et53042",
+    "id": "com.zomato.53042",
+    "location": {
+      "name": "Escape by Brewklyn",
+      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.04059157,
+        "longitude": 77.61912205
+      }
+    }
+  },
+  {
+    "name": "Karaoke Night",
+    "description": "Join us for an unforgettable evening of singing and fun at Escape Brewery's Karaoke Night, featuring the charismatic KJ Abhishek. Whether you're a shower singer or a seasoned vocalist, this is your chance to take the stage and belt out your favorite tunes in a vibrant, welcoming atmosphere",
+    "startDate": "2024-11-28T20:00:00+05:30",
+    "endDate": "2024-11-28T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Karaoke Night Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Karaoke Night Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3395bf7781c929cbf2e25a77fd8e554c1730964265.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/karaoke-night-bengaluru-et53043/details",
+        "price": 249,
+        "currency": "INR",
+        "validFrom": "2024-11-07 13:25:40",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/karaoke-night-bengaluru-et53043",
+    "id": "com.zomato.53043",
+    "location": {
+      "name": "Escape by Brewklyn",
+      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.04059157,
+        "longitude": 77.61912205
+      }
+    }
+  },
+  {
+    "name": "Bollywood Night",
+    "description": "Step into the world of glamour, dance, and the vibrant energy of Bollywood with our exclusive Bollywood DJ Night at Escape by Brewklyn. This is your invitation to experience the magic of Indian cinema through music, where every beat tells a story, and every song invites you to dance.",
+    "startDate": "2024-11-15T20:00:00+05:30",
+    "endDate": "2024-11-15T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Bollywood Night Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bollywood Night Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3fa97783c409f0d13878b6fff970e6551730964984.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53044/details",
+        "price": 249,
+        "currency": "INR",
+        "validFrom": "2024-11-07 13:25:38",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53044",
+    "id": "com.zomato.53044",
+    "location": {
+      "name": "Escape by Brewklyn",
+      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.04059157,
+        "longitude": 77.61912205
+      }
+    }
+  },
+  {
+    "name": "Bollywood Night",
+    "description": "Step into the world of glamour, dance, and the vibrant energy of Bollywood with our exclusive Bollywood DJ Night at Escape by Brewklyn. This is your invitation to experience the magic of Indian cinema through music, where every beat tells a story, and every song invites you to dance.",
+    "startDate": "2024-11-22T20:00:00+05:30",
+    "endDate": "2024-11-22T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Bollywood Night Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bollywood Night Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3fa97783c409f0d13878b6fff970e6551730964984.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53045/details",
+        "price": 249,
+        "currency": "INR",
+        "validFrom": "2024-11-07 13:25:39",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53045",
+    "id": "com.zomato.53045",
+    "location": {
+      "name": "Escape by Brewklyn",
+      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.04059157,
+        "longitude": 77.61912205
+      }
+    }
+  },
+  {
+    "name": "Bollywood Night",
+    "description": "Step into the world of glamour, dance, and the vibrant energy of Bollywood with our exclusive Bollywood DJ Night at Escape by Brewklyn. This is your invitation to experience the magic of Indian cinema through music, where every beat tells a story, and every song invites you to dance.",
+    "startDate": "2024-11-29T20:00:00+05:30",
+    "endDate": "2024-11-29T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Bollywood Night Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bollywood Night Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3fa97783c409f0d13878b6fff970e6551730964984.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53046/details",
+        "price": 249,
+        "currency": "INR",
+        "validFrom": "2024-11-07 13:25:41",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53046",
+    "id": "com.zomato.53046",
+    "location": {
+      "name": "Escape by Brewklyn",
+      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.04059157,
+        "longitude": 77.61912205
+      }
+    }
+  },
+  {
+    "name": "Saturday Vibes",
+    "description": "Get ready to dive into the heart of Bangalore's nightlife with Saturday Vibes at Escape by Brewklyn, where the beats are as bold as the brews! Every Saturday, we transform our space into a haven for music lovers, dance enthusiasts, and anyone looking to enjoy a night out with a difference.",
+    "startDate": "2024-11-16T20:00:00+05:30",
+    "endDate": "2024-11-16T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Saturday Vibes Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Saturday Vibes Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3694b8ccd594886ac337c5880ebb611d1730965096.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/saturday-vibes-bengaluru-et53047/details",
+        "price": 249,
+        "currency": "INR",
+        "validFrom": "2024-11-07 13:25:38",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/saturday-vibes-bengaluru-et53047",
+    "id": "com.zomato.53047",
+    "location": {
+      "name": "Escape by Brewklyn",
+      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.04059157,
+        "longitude": 77.61912205
+      }
+    }
+  },
+  {
+    "name": "Saturday Vibes",
+    "description": "Get ready to dive into the heart of Bangalore's nightlife with Saturday Vibes at Escape by Brewklyn, where the beats are as bold as the brews! Every Saturday, we transform our space into a haven for music lovers, dance enthusiasts, and anyone looking to enjoy a night out with a difference.",
+    "startDate": "2024-11-23T20:00:00+05:30",
+    "endDate": "2024-11-23T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Saturday Vibes Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Saturday Vibes Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3694b8ccd594886ac337c5880ebb611d1730965096.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/saturday-vibes-bengaluru-et53048/details",
+        "price": 249,
+        "currency": "INR",
+        "validFrom": "2024-11-07 13:25:40",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/saturday-vibes-bengaluru-et53048",
+    "id": "com.zomato.53048",
+    "location": {
+      "name": "Escape by Brewklyn",
+      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.04059157,
+        "longitude": 77.61912205
+      }
+    }
+  },
+  {
+    "name": "Saturday Vibes",
+    "description": "Get ready to dive into the heart of Bangalore's nightlife with Saturday Vibes at Escape by Brewklyn, where the beats are as bold as the brews! Every Saturday, we transform our space into a haven for music lovers, dance enthusiasts, and anyone looking to enjoy a night out with a difference.",
+    "startDate": "2024-11-30T20:00:00+05:30",
+    "endDate": "2024-11-30T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Saturday Vibes Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Saturday Vibes Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3694b8ccd594886ac337c5880ebb611d1730965096.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/saturday-vibes-bengaluru-et53049/details",
+        "price": 249,
+        "currency": "INR",
+        "validFrom": "2024-11-07 13:25:41",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/saturday-vibes-bengaluru-et53049",
+    "id": "com.zomato.53049",
+    "location": {
+      "name": "Escape by Brewklyn",
+      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.04059157,
+        "longitude": 77.61912205
+      }
+    }
   }
 ]
