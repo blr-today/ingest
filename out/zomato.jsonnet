@@ -31,19 +31,11 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
-        "price": 881,
+        "price": 3650,
         "currency": "INR",
-        "validFrom": "2024-11-05 17:26:00",
+        "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 34
-      },
-      {
-        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
-        "price": 2773,
-        "currency": "INR",
-        "validFrom": "2024-10-16 11:47:00",
-        "availability": "SELLING_FAST",
-        "inventory": 235
+        "inventory": 98
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -51,7 +43,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:00",
         "availability": "SELLING_FAST",
-        "inventory": 230
+        "inventory": 205
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -59,7 +51,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 396
+        "inventory": 381
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -67,7 +59,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 11:44:00",
         "availability": "SELLING_FAST",
-        "inventory": 199
+        "inventory": 198
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -75,7 +67,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 11:44:00",
         "availability": "SELLING_FAST",
-        "inventory": 200
+        "inventory": 199
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -83,7 +75,7 @@
         "currency": "INR",
         "validFrom": "2024-10-04 11:30:00",
         "availability": "SELLING_FAST",
-        "inventory": 20
+        "inventory": 17
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -91,7 +83,7 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:00",
         "availability": "SELLING_FAST",
-        "inventory": 59
+        "inventory": 57
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -99,6 +91,14 @@
         "currency": "INR",
         "validFrom": "2024-10-10 11:21:00",
         "availability": "SELLING_FAST",
+        "inventory": 52
+      },
+      {
+        "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
+        "price": 881,
+        "currency": "INR",
+        "validFrom": "2024-11-05 17:26:00",
+        "availability": "INSTOCK",
         "inventory": 54
       },
       {
@@ -337,12 +337,7 @@
     "ogTitle": "Bryan Adams - So Happy It Hurts Tour 2024 Trending event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Bryan Adams - So Happy It Hurts Tour 2024 Bengaluru on Zomato which is a Trending event happening at Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/83de6f0099b6724e504be070d99793291724313846.png",
-      "https://b.zmtcdn.com/data/zomaland/0dd73a8c18ac2ca4f1ec1564470de6e21721838390.png",
-      "https://b.zmtcdn.com/data/zomaland/fbeacb352da695c9f37ae286496d69661721838453.png",
-      "https://b.zmtcdn.com/data/zomaland/685753a9c0d8d2b91e8d855eb2543a6f1721838475.png",
-      "https://b.zmtcdn.com/data/zomaland/05bcb7d702207528135d730b3700e9421721838497.png",
-      "https://b.zmtcdn.com/data/zomaland/341226a810fa7d544181cedf86c546f01729842897.png",
+      "https://b.zmtcdn.com/data/zomaland/239863dd01a4a5ac942da78aca63b08e1730995771.png",
       "https://b.zmtcdn.com/data/zomaland/1e89dbbb75e5d516946eb3f76ae900ab1721839188.jpeg",
       "https://b.zmtcdn.com/data/zomaland/6478370318ea10219b35bd45963db86a1721839209.jpeg",
       "https://b.zmtcdn.com/data/zomaland/64da2fccfbcac50917728c80086f94161721839209.jpeg",
@@ -352,7 +347,8 @@
       "https://b.zmtcdn.com/data/zomaland/5ce52e330649ddc2a36fd58e45da96821721839209.jpeg",
       "https://b.zmtcdn.com/data/zomaland/5136a008fffbdbfdad9ca4edf5796d821721839209.jpeg",
       "https://b.zmtcdn.com/data/zomaland/2c1b4822f28bc102f2a77e151c56e76f1723452782.png",
-      "https://b.zmtcdn.com/data/zomaland/a60b79b088e8e1bfdb67f167c821c5531724315606.png"
+      "https://b.zmtcdn.com/data/zomaland/a60b79b088e8e1bfdb67f167c821c5531724315606.png",
+      "https://b.zmtcdn.com/data/zomaland/341226a810fa7d544181cedf86c546f01729842897.png"
     ],
     "tickets": [
       {
@@ -361,7 +357,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 37
+        "inventory": 34
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -469,7 +465,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 14:30:26",
         "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 14
       },
       {
         "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030/details",
@@ -606,7 +602,7 @@
         "currency": "INR",
         "validFrom": "2024-10-17 13:46:27",
         "availability": "INSTOCK",
-        "inventory": 49
+        "inventory": 48
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -716,7 +712,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 946
+        "inventory": 892
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -724,7 +720,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 284
+        "inventory": 283
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -732,7 +728,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 365
+        "inventory": 357
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -891,7 +887,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9926
+        "inventory": 9920
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -899,7 +895,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9985
+        "inventory": 9984
       }
     ],
     "performers": [],
@@ -1411,18 +1407,18 @@
     }
   },
   {
-    "name": "BuzzinUp Bangalore Bar Hop - Koramangala Edition",
-    "description": "Welcome to The BuzzinUp Bangalore Bar Hop: The Ultimate Pub Crawl, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favorite drinks, groove to fantastic music, and engage in fun games and activities. Walk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
+    "name": "BuzzinOn Bangalore Bar Hop - Koramangala Edition",
+    "description": "Welcome to The BuzzinOn Bangalore Bar Hop - Koramangala Edition, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favourite drinks, groove to fantastic music, and engage in fun games and activities. Walk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
     "startDate": "2024-11-09T18:30:00+05:30",
     "endDate": "2024-11-10T01:30:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "BuzzinUp Bangalore Bar Hop - Koramangala Edition Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for BuzzinUp Bangalore Bar Hop - Koramangala Edition Bengaluru on Zomato which is a Experiences and Trending event happening at 105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
+    "ogTitle": "BuzzinOn Bangalore Bar Hop - Koramangala Edition Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for BuzzinOn Bangalore Bar Hop - Koramangala Edition Bengaluru on Zomato which is a Experiences and Trending event happening at 105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/b66c5bca539a693879afa93698b602401730308398.png"
+      "https://b.zmtcdn.com/data/zomaland/fff68df6c7f43c9ee5a13a98997d4fe41730900704.jpeg"
     ],
     "tickets": [
       {
@@ -1431,7 +1427,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:42",
         "availability": "INSTOCK",
-        "inventory": 74
+        "inventory": 66
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774/details",
@@ -1499,7 +1495,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 351
+        "inventory": 349
       }
     ],
     "performers": [],
@@ -1543,7 +1539,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:06:56",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 8
       }
     ],
     "performers": [],
@@ -2227,50 +2223,6 @@
     }
   },
   {
-    "name": "Silence of Chaos",
-    "description": "Prepare for an unforgettable Thursday night in Bengaluru where SILENCE OF CHAOS performing live at Bengaluru`s amazing entertainment hotspot Hard Rock Cafe.\nElectric Beats, Killer Tunes, Finger Licking Food, Spectacular Cocktails, And Many More!\nCome And Join The Party!",
-    "startDate": "2024-11-07T20:30:00+05:30",
-    "endDate": "2024-11-07T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Silence of Chaos Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Silence of Chaos Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/04b1304974a392626dfe5d5457aa1fd11730464594.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/silence-of-chaos-bengaluru-et52851/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:25",
-        "availability": "INSTOCK",
-        "inventory": 20
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/silence-of-chaos-bengaluru-et52851",
-    "id": "com.zomato.52851",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Bootleg Fridays",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Rohith and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-11-08T20:30:00+05:30",
@@ -2335,7 +2287,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:26",
         "availability": "INSTOCK",
-        "inventory": 97
+        "inventory": 95
       }
     ],
     "performers": [],
@@ -2951,7 +2903,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:35",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       }
     ],
     "performers": [],
@@ -3147,50 +3099,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97595324,
         "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-11-07T20:30:00+05:30",
-    "endDate": "2024-11-07T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4ab8c62d08a698ae777b6c59e483e1601730480431.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52880/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-01 22:59:35",
-        "availability": "INSTOCK",
-        "inventory": 197
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52880",
-    "id": "com.zomato.52880",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
       }
     }
   },
@@ -3655,7 +3563,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:34",
         "availability": "INSTOCK",
-        "inventory": 43
+        "inventory": 40
       }
     ],
     "performers": [],
@@ -4046,7 +3954,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 16:48:20",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 199
       }
     ],
     "performers": [],

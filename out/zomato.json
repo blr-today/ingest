@@ -23,25 +23,16 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 34
+               "value": 98
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-11-05T17:26:00+05:30"
+            "validFrom": "2024-06-12T13:00:00+05:30"
          },
          {
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 235
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-10-16T11:47:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 230
+               "value": 205
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-10T11:21:00+05:30"
@@ -50,10 +41,19 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 396
+               "value": 381
             },
             "priceCurrency": "INR",
             "validFrom": "2024-06-12T13:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 198
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-04T11:44:00+05:30"
          },
          {
             "availability": "InStock",
@@ -68,16 +68,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 200
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-04T11:44:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 20
+               "value": 17
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-04T11:30:00+05:30"
@@ -86,7 +77,16 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 59
+               "value": 57
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-10T11:21:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 52
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-10T11:21:00+05:30"
@@ -98,7 +98,7 @@
                "value": 54
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-10-10T11:21:00+05:30"
+            "validFrom": "2024-11-05T17:26:00+05:30"
          },
          {
             "availability": "InStock",
@@ -327,7 +327,7 @@
       "endDate": "2024-12-14T22:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/83de6f0099b6724e504be070d99793291724313846.png",
+      "image": "https://b.zmtcdn.com/data/zomaland/239863dd01a4a5ac942da78aca63b08e1730995771.png",
       "isAccessibleForFree": false,
       "location": {
          "address": "Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
@@ -344,7 +344,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 37
+               "value": 34
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-18T17:36:00+05:30"
@@ -457,7 +457,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 15
+               "value": 14
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-03T14:30:00+05:30"
@@ -593,7 +593,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 49
+               "value": 48
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-17T13:46:00+05:30"
@@ -706,7 +706,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 946
+               "value": 892
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T21:18:00+05:30"
@@ -715,7 +715,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 284
+               "value": 283
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -724,7 +724,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 365
+               "value": 357
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -846,7 +846,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 9926
+               "value": 9920
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T00:00:00+05:30"
@@ -855,7 +855,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 9985
+               "value": 9984
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T00:00:00+05:30"
@@ -1345,11 +1345,11 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Welcome to The BuzzinUp Bangalore Bar Hop: The Ultimate Pub Crawl, where you’ll explore four of Bangalore’s most happening bars in one day! Meet new friends, enjoy great food paired with your favorite drinks, groove to fantastic music, and engage in fun games and activities. Walk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city’s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore’s most dynamic areas!",
+      "description": "Welcome to The BuzzinOn Bangalore Bar Hop - Koramangala Edition, where you’ll explore four of Bangalore’s most happening bars in one day! Meet new friends, enjoy great food paired with your favourite drinks, groove to fantastic music, and engage in fun games and activities. Walk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city’s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore’s most dynamic areas!",
       "endDate": "2024-11-10T01:30:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/b66c5bca539a693879afa93698b602401730308398.png",
+      "image": "https://b.zmtcdn.com/data/zomaland/fff68df6c7f43c9ee5a13a98997d4fe41730900704.jpeg",
       "isAccessibleForFree": false,
       "location": {
          "address": "105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
@@ -1360,13 +1360,13 @@
          },
          "name": "BOHO Koramangala"
       },
-      "name": "BuzzinUp Bangalore Bar Hop - Koramangala Edition",
+      "name": "BuzzinOn Bangalore Bar Hop - Koramangala Edition",
       "offers": [
          {
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 74
+               "value": 66
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-30T22:56:00+05:30"
@@ -1434,7 +1434,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 351
+               "value": 349
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-30T22:56:00+05:30"
@@ -1475,7 +1475,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 10
+               "value": 8
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T16:06:00+05:30"
@@ -1489,7 +1489,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 10,
+      "remainingAttendeeCapacity": 8,
       "startDate": "2024-11-09T19:00:00+05:30",
       "url": "https://www.zomato.com/events/scc-skycinema-jaane-tu-ya-jaane-na-bengaluru-et52790"
    },
@@ -2137,48 +2137,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Prepare for an unforgettable Thursday night in Bengaluru where SILENCE OF CHAOS performing live at Bengaluru`s amazing entertainment hotspot Hard Rock Cafe.\nElectric Beats, Killer Tunes, Finger Licking Food, Spectacular Cocktails, And Many More!\nCome And Join The Party!",
-      "endDate": "2024-11-07T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/04b1304974a392626dfe5d5457aa1fd11730464594.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.975953240000001,
-            "longitude": 77.601618579999993
-         },
-         "name": "Hard Rock Cafe"
-      },
-      "name": "Silence of Chaos",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 20
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-01T18:32:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 20,
-      "startDate": "2024-11-07T20:30:00+05:30",
-      "url": "https://www.zomato.com/events/silence-of-chaos-bengaluru-et52851"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Rohith and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
       "endDate": "2024-11-08T23:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -2242,7 +2200,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 97
+               "value": 95
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -2256,7 +2214,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 97,
+      "remainingAttendeeCapacity": 95,
       "startDate": "2024-11-09T21:00:00+05:30",
       "url": "https://www.zomato.com/events/remix-nights-bengaluru-et52853"
    },
@@ -2830,7 +2788,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 98
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -2844,7 +2802,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 100,
+      "remainingAttendeeCapacity": 98,
       "startDate": "2024-11-24T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et52867"
    },
@@ -3015,48 +2973,6 @@
       "remainingAttendeeCapacity": 20,
       "startDate": "2024-11-30T21:00:00+05:30",
       "url": "https://www.zomato.com/events/rock-pop-set-bengaluru-et52871"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
-      "endDate": "2024-11-07T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/4ab8c62d08a698ae777b6c59e483e1601730480431.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.98717896,
-            "longitude": 77.736480200000003
-         },
-         "name": "Hard Rock Cafe"
-      },
-      "name": "Karaoke Nights",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 197
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-01T22:59:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 197,
-      "startDate": "2024-11-07T20:30:00+05:30",
-      "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52880"
    },
    {
       "@context": "https://schema.org",
@@ -3502,7 +3418,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 43
+               "value": 40
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -3516,7 +3432,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 43,
+      "remainingAttendeeCapacity": 40,
       "startDate": "2024-11-08T20:00:00+05:30",
       "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et52999"
    },
@@ -3872,7 +3788,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 200
+               "value": 199
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T16:48:00+05:30"
