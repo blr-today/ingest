@@ -114,6 +114,47 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "It's time to celebrate chocolate!WE ARE BACK with our FOURTH edition of The Indian Cacao & Craft Chocolate Festival! Taking place in Bangalore thi",
+      "endDate": "2024-11-16T20:00:00",
+      "identifier": "com.skillboxes.16863",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MVVLTHhqK2FvY2dndTllaEVBL09lZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731043326FVKe22mBG8MXARBA.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Festival & Fair"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "7, 4th Main Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9666826",
+            "longitude": "77.6352903"
+         },
+         "name": "Bangalore International Centre"
+      },
+      "name": "The Indian Cacao & Craft Chocolate Festival 2024",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 400,
+            "name": "Entry Ticket - DAY 1",
+            "url": "https://www.skillboxes.com/events/ticket/the-indian-cacao-craft-chocolate-festival-2024"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 300,
+            "name": "Entry Ticket - DAY 2",
+            "url": "https://www.skillboxes.com/events/ticket/the-indian-cacao-craft-chocolate-festival-2024"
+         }
+      ],
+      "startDate": "2024-11-16T08:00:00",
+      "url": "https://www.skillboxes.com/events/the-indian-cacao-craft-chocolate-festival-2024"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Brace yourselves for the grand finale of Sound Clash – the ultimate music battle happening at Forum South Bengaluru! On November 10th, gear up f",
       "endDate": "2024-11-10T21:00:00",

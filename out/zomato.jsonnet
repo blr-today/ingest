@@ -4564,5 +4564,153 @@
         "longitude": 77.61912205
       }
     }
+  },
+  {
+    "name": "Punchliners Host To Roast ft Jeeveshu Ahluwalia",
+    "description": "Join us for a night of laughter at the Punchliners Comedy Show featuring the hilarious Jeeveshu Ahluwalia Live! Known for his witty observations and sharp humor, Jeeveshu Ahluwalia will take you on a rollercoaster of laughs with his unique style and relatable jokes. Whether you're a comedy enthusiast or just looking for a fun evening, this show promises to keep you entertained. Don't miss out on an unforgettable night filled with humor and joy. Grab your tickets now for an evening of non-stop laughter at Ecoworld, The Bay Food Court, Bengaluru",
+    "startDate": "2024-11-30T19:30:00+05:30",
+    "endDate": "2024-11-30T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Punchliners Host To Roast ft Jeeveshu Ahluwalia Comedy event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Punchliners Host To Roast ft Jeeveshu Ahluwalia Bengaluru on Zomato which is a Comedy event happening at RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/af9ab9a2ec4c422ba73c19d8d4266bd41731041570.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/punchliners-host-to-roast-ft-jeeveshu-ahluwalia-bengaluru-et53057/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-11-08 09:07:40",
+        "availability": "INSTOCK",
+        "inventory": 15
+      },
+      {
+        "url": "https://www.zomato.com/events/punchliners-host-to-roast-ft-jeeveshu-ahluwalia-bengaluru-et53057/details",
+        "price": 799,
+        "currency": "INR",
+        "validFrom": "2024-11-08 09:07:40",
+        "availability": "INSTOCK",
+        "inventory": 15
+      },
+      {
+        "url": "https://www.zomato.com/events/punchliners-host-to-roast-ft-jeeveshu-ahluwalia-bengaluru-et53057/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-11-08 09:07:39",
+        "availability": "INSTOCK",
+        "inventory": 15
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/punchliners-host-to-roast-ft-jeeveshu-ahluwalia-bengaluru-et53057",
+    "id": "com.zomato.53057",
+    "location": {
+      "name": "Ecoworld The Bay Food Court, Bengaluru",
+      "address": "RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.920132,
+        "longitude": 77.6846389
+      }
+    }
+  },
+  {
+    "name": "Bollywood Night",
+    "description": "Step into the world of glamour, dance, and the vibrant energy of Bollywood with our exclusive Bollywood DJ Night at Escape by Brewklyn. This is your invitation to experience the magic of Indian cinema through music, where every beat tells a story, and every song invites you to dance.",
+    "startDate": "2024-11-08T20:00:00+05:30",
+    "endDate": "2024-11-08T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Bollywood Night Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bollywood Night Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3fa97783c409f0d13878b6fff970e6551731038395.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53059/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-08 09:37:20",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53059",
+    "id": "com.zomato.53059",
+    "location": {
+      "name": "Escape by Brewklyn",
+      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.04059157,
+        "longitude": 77.61912205
+      }
+    }
+  },
+  {
+    "name": "Saturday Vibes",
+    "description": "Get ready to dive into the heart of Bangalore's nightlife with Saturday Vibes at Escape by Brewklyn, where the beats are as bold as the brews! Every Saturday, we transform our space into a haven for music lovers, dance enthusiasts, and anyone looking to enjoy a night out with a difference.",
+    "startDate": "2024-11-09T20:00:00+05:30",
+    "endDate": "2024-11-09T23:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Saturday Vibes Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Saturday Vibes Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3694b8ccd594886ac337c5880ebb611d1731038492.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/saturday-vibes-bengaluru-et53060/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-08 09:37:20",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/saturday-vibes-bengaluru-et53060",
+    "id": "com.zomato.53060",
+    "location": {
+      "name": "Escape by Brewklyn",
+      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.04059157,
+        "longitude": 77.61912205
+      }
+    }
   }
 ]
