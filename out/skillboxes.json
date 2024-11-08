@@ -21,7 +21,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 656,
+            "inventoryLevel": 651,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/livebox-feat-the-aristocrats-bangalore"
          },
@@ -111,6 +111,124 @@
       ],
       "startDate": "2024-11-23T15:00:00",
       "url": "https://www.skillboxes.com/events/lunaland-the-carnival-of-dreams-awaits"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Join Us for Starry Deck Nights at Skydeck by Sherlock’s!Get ready to groove under the stars this Sunday at the most groovy DJ night in town! Dan",
+      "endDate": "2024-11-10T23:59:00",
+      "identifier": "com.skillboxes.16873",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731070289F3fLqxEXHr1eVBGs.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750296",
+            "longitude": "77.6075339"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Starry Deck Nights | Party Under the Stars!",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Get a complimentary Beer or a Mocktail on every booking!\n",
+            "inventoryLevel": 100,
+            "name": "Regular Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/starry-deck-nights-party-under-the-stars-1"
+         }
+      ],
+      "startDate": "2024-11-10T20:00:00",
+      "url": "https://www.skillboxes.com/events/starry-deck-nights-party-under-the-stars-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "This Saturday!! Bring your best dance moves (and maybe an extra set of feet)! Nida’s got the beats, and Pangeo’s got the views. Saturday's",
+      "endDate": "2024-11-09T23:59:00",
+      "identifier": "com.skillboxes.16868",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/WTNKdlJ5UiszbWtDTkZiZFF6T2xCQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731056172B68A6KIHIBSWmo2p.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Festival & Fair"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9726391",
+            "longitude": "77.6065987"
+         },
+         "name": "Pangeo"
+      },
+      "name": "OG afters at Pangeo!",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Featuring Nida Merchant! SATURDAY SERENADE at Pangeo!\nThe most happening Saturday night in town!",
+            "inventoryLevel": 10000,
+            "name": "OG AFTERS AT PANGEO",
+            "url": "https://www.skillboxes.com/events/ticket/og-afters-at-pangeo"
+         }
+      ],
+      "startDate": "2024-11-09T20:00:00",
+      "url": "https://www.skillboxes.com/events/og-afters-at-pangeo"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Prepare yourself for an Unforgettable Experience with 1LINE, (Zamna records, Error) on 10th November, Sunday!\r\n\r\n \r\n\r\nCome along with your party ",
+      "endDate": "2024-11-11T00:00:00",
+      "identifier": "com.skillboxes.16864",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731049537vS40ZQ2VLF4O47ka.png.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd, Jayamahal, Bengaluru, Karnataka 560080, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.004424",
+            "longitude": "77.5848398"
+         },
+         "name": "PEBBLE The Jungle Lounge"
+      },
+      "name": "Afters in the Jungle Ft 1LINE (Zamna records)",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Female Pass",
+            "url": "https://www.skillboxes.com/events/ticket/afters-in-the-jungle-ft-1line-zamna-records"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Male Pass",
+            "url": "https://www.skillboxes.com/events/ticket/afters-in-the-jungle-ft-1line-zamna-records"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/afters-in-the-jungle-ft-1line-zamna-records"
+         }
+      ],
+      "startDate": "2024-11-10T20:00:00",
+      "url": "https://www.skillboxes.com/events/afters-in-the-jungle-ft-1line-zamna-records"
    },
    {
       "@context": "https://schema.org",
@@ -262,7 +380,7 @@
       "description": "THE MEDICINE WHEEL is a curated multisensory experience primarily focused on live music, in humble association with Grasa Courtyard - an open air rest",
       "endDate": "2024-11-22T23:59:00",
       "identifier": "com.skillboxes.16835",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/M1RzVkVERTBWcnlYNjdoWEk1YURwdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730970201VSr7Y5vM3E4w8KF0.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/M1RzVkVERTBWcnlYNjdoWEk1YURwdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731061900zZfDDCfib0rqpE1u.png.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"

@@ -4370,6 +4370,83 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Echoes of the Earth over the past 6 years has hosted over 300+ International & Indian Artists. This translates into multiple genres of music, engaging our community of musicians and their ardent listeners over two days of the festival. The past editions have seen musicians like Yussef Dayes, Klangphonics, Acid Pauli, Square Pusher, Shigeto Ensemble, and many more. \n\nThe festival also hosts various cultural & curated experiences that are nothing short of a portal for exploration, experimentation & knowledge transfer for our community\n\nSome of the highlights of the festival include - A solar-powered stage, larger-than-life art installations, 4 uniquely designed stages, education-led kids workshops, and an exclusive brunch with artists performing at Echoes on day two, a carefully curated flea market with organic, natural, artisanal and handmade products, and much more.",
+      "endDate": "2024-12-08T22:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/3aa19a1f389189a65bfecbe2d799bf051730978297.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "149/223, next to Stone Hill International School, Tarunhunse Village, Bengaluru, Papanahalli",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 13.1746955,
+            "longitude": 77.594999310000006
+         },
+         "name": "Embassy International Riding School"
+      },
+      "name": "Echoes of Earth, 2024 - Bangalore",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 1000
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-07T17:32:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-07T17:32:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-07T17:32:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-07T17:32:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 100
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-07T17:32:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-12-07T13:00:00+05:30",
+      "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Join us for a night of laughter at the Punchliners Comedy Show featuring the hilarious Jeeveshu Ahluwalia Live! Known for his witty observations and sharp humor, Jeeveshu Ahluwalia will take you on a rollercoaster of laughs with his unique style and relatable jokes. Whether you're a comedy enthusiast or just looking for a fun evening, this show promises to keep you entertained. Don't miss out on an unforgettable night filled with humor and joy. Grab your tickets now for an evening of non-stop laughter at Ecoworld, The Bay Food Court, Bengaluru",
       "endDate": "2024-11-30T21:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -4509,5 +4586,55 @@
       "remainingAttendeeCapacity": 50,
       "startDate": "2024-11-09T20:00:00+05:30",
       "url": "https://www.zomato.com/events/saturday-vibes-bengaluru-et53060"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "GroundXero is excited to bring the energy and sounds of Edu Imbernon to this beautiful country. Let’s create unforgettable memories together on the dance floor. We look forward to seeing you soon!  ",
+      "endDate": "2024-11-17T23:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/611b16900d7db5f64355b85ebb205c401731059910.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "Plot No. 36, 100 Feet Road, opposite Shilton Royale Hotel, SJR Junction, Srinivagilu, Chandra Reddy Layout, Ejipura, Bengaluru, Karnataka, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 2.9386960000000002,
+            "longitude": 77.629942999999997
+         },
+         "name": "Magique"
+      },
+      "name": "Edu Imbernon LIVE",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 30
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-08T17:42:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-08T17:42:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-11-17T20:00:00+05:30",
+      "url": "https://www.zomato.com/events/edu-imbernon-live-bengaluru-et53062"
    }
 ]

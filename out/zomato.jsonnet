@@ -4566,6 +4566,82 @@
     }
   },
   {
+    "name": "Echoes of Earth, 2024 - Bangalore",
+    "description": "Echoes of the Earth over the past 6 years has hosted over 300+ International & Indian Artists. This translates into multiple genres of music, engaging our community of musicians and their ardent listeners over two days of the festival. The past editions have seen musicians like Yussef Dayes, Klangphonics, Acid Pauli, Square Pusher, Shigeto Ensemble, and many more. \n\nThe festival also hosts various cultural & curated experiences that are nothing short of a portal for exploration, experimentation & knowledge transfer for our community\n\nSome of the highlights of the festival include - A solar-powered stage, larger-than-life art installations, 4 uniquely designed stages, education-led kids workshops, and an exclusive brunch with artists performing at Echoes on day two, a carefully curated flea market with organic, natural, artisanal and handmade products, and much more.",
+    "startDate": "2024-12-07T13:00:00+05:30",
+    "endDate": "2024-12-08T22:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Echoes of Earth, 2024 - Bangalore Music and Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Echoes of Earth, 2024 - Bangalore Bengaluru on Zomato which is a Music and Experiences event happening at 149/223, next to Stone Hill International School, Tarunhunse Village, Bengaluru, Papanahalli",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/3aa19a1f389189a65bfecbe2d799bf051730978297.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 3999,
+        "currency": "INR",
+        "validFrom": "2024-11-07 17:32:00",
+        "availability": "INSTOCK",
+        "inventory": 1000
+      },
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 5999,
+        "currency": "INR",
+        "validFrom": "2024-11-07 17:32:08",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 26999,
+        "currency": "INR",
+        "validFrom": "2024-11-07 17:32:00",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 52999,
+        "currency": "INR",
+        "validFrom": "2024-11-07 17:32:00",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 76499,
+        "currency": "INR",
+        "validFrom": "2024-11-07 17:32:00",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053",
+    "id": "com.zomato.53053",
+    "location": {
+      "name": "Embassy International Riding School",
+      "address": "149/223, next to Stone Hill International School, Tarunhunse Village, Bengaluru, Papanahalli",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.1746955,
+        "longitude": 77.59499931
+      }
+    }
+  },
+  {
     "name": "Punchliners Host To Roast ft Jeeveshu Ahluwalia",
     "description": "Join us for a night of laughter at the Punchliners Comedy Show featuring the hilarious Jeeveshu Ahluwalia Live! Known for his witty observations and sharp humor, Jeeveshu Ahluwalia will take you on a rollercoaster of laughs with his unique style and relatable jokes. Whether you're a comedy enthusiast or just looking for a fun evening, this show promises to keep you entertained. Don't miss out on an unforgettable night filled with humor and joy. Grab your tickets now for an evening of non-stop laughter at Ecoworld, The Bay Food Court, Bengaluru",
     "startDate": "2024-11-30T19:30:00+05:30",
@@ -4710,6 +4786,58 @@
         "@type": "GeoCoordinates",
         "latitude": 13.04059157,
         "longitude": 77.61912205
+      }
+    }
+  },
+  {
+    "name": "Edu Imbernon LIVE",
+    "description": "GroundXero is excited to bring the energy and sounds of Edu Imbernon to this beautiful country. Let\u2019s create unforgettable memories together on the dance floor. We look forward to seeing you soon!  ",
+    "startDate": "2024-11-17T20:00:00+05:30",
+    "endDate": "2024-11-17T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Edu Imbernon LIVE Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Edu Imbernon LIVE Bengaluru on Zomato which is a Music and Trending event happening at Plot No. 36, 100 Feet Road, opposite Shilton Royale Hotel, SJR Junction, Srinivagilu, Chandra Reddy Layout, Ejipura, Bengaluru, Karnataka, India",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/611b16900d7db5f64355b85ebb205c401731059910.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/edu-imbernon-live-bengaluru-et53062/details",
+        "price": 899,
+        "currency": "INR",
+        "validFrom": "2024-11-08 17:42:14",
+        "availability": "INSTOCK",
+        "inventory": 30
+      },
+      {
+        "url": "https://www.zomato.com/events/edu-imbernon-live-bengaluru-et53062/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-11-08 17:42:14",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/edu-imbernon-live-bengaluru-et53062",
+    "id": "com.zomato.53062",
+    "location": {
+      "name": "Magique",
+      "address": "Plot No. 36, 100 Feet Road, opposite Shilton Royale Hotel, SJR Junction, Srinivagilu, Chandra Reddy Layout, Ejipura, Bengaluru, Karnataka, India",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 2.938696,
+        "longitude": 77.629943
       }
     }
   }
