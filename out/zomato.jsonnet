@@ -35,7 +35,7 @@
         "currency": "INR",
         "validFrom": "2024-06-12 13:00:00",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 97
       },
       {
         "url": "https://www.zomato.com/events/dgtl-bangalore-2024-bengaluru-et40858/details",
@@ -327,7 +327,7 @@
   },
   {
     "name": "Bryan Adams - So Happy It Hurts Tour 2024",
-    "description": "Get ready to experience the International rock legend's live concert as part of his 6 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the \u2018So Happy It Hurts\u2019 World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.",
+    "description": "Get ready to experience the International rock legend's live concert as part of his 6 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the \u2018So Happy It Hurts\u2019 World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.\n\nOfficial offline partner - Team Innovation and Live Fiesta\nFor offline ticket inquiries, please reach out to these numbers: 9619272551, 9619272554, 9892555107, or 9004743800",
     "startDate": "2024-12-14T19:00:00+05:30",
     "endDate": "2024-12-14T22:00:00+05:30",
     "timezone": "+05:30",
@@ -357,7 +357,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 34
+        "inventory": 29
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -465,7 +465,7 @@
         "currency": "INR",
         "validFrom": "2024-10-03 14:30:26",
         "availability": "INSTOCK",
-        "inventory": 14
+        "inventory": 12
       },
       {
         "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030/details",
@@ -586,7 +586,7 @@
         "currency": "INR",
         "validFrom": "2024-10-17 13:46:00",
         "availability": "INSTOCK",
-        "inventory": 40
+        "inventory": 39
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -602,7 +602,7 @@
         "currency": "INR",
         "validFrom": "2024-10-17 13:46:27",
         "availability": "INSTOCK",
-        "inventory": 48
+        "inventory": 47
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -712,7 +712,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 892
+        "inventory": 861
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -720,7 +720,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 283
+        "inventory": 279
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -887,7 +887,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9920
+        "inventory": 9909
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -1418,32 +1418,32 @@
     "ogTitle": "BuzzinOn Bangalore Bar Hop - Koramangala Edition Experiences and Trending event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for BuzzinOn Bangalore Bar Hop - Koramangala Edition Bengaluru on Zomato which is a Experiences and Trending event happening at 105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/fff68df6c7f43c9ee5a13a98997d4fe41730900704.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/9deaef4790c988c7c1866ff212aa18801731075381.jpeg"
     ],
     "tickets": [
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774/details",
-        "price": 699,
+        "price": 799,
         "currency": "INR",
-        "validFrom": "2024-10-30 22:56:42",
+        "validFrom": "2024-10-30 22:56:00",
         "availability": "INSTOCK",
-        "inventory": 66
+        "inventory": 44
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774/details",
-        "price": 2499,
+        "price": 2999,
         "currency": "INR",
-        "validFrom": "2024-10-30 22:56:43",
+        "validFrom": "2024-10-30 22:56:00",
         "availability": "INSTOCK",
-        "inventory": 48
+        "inventory": 23
       },
       {
         "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774/details",
-        "price": 3999,
+        "price": 4499,
         "currency": "INR",
-        "validFrom": "2024-10-30 22:56:43",
+        "validFrom": "2024-10-30 22:56:00",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 25
       }
     ],
     "performers": [],
@@ -1539,7 +1539,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:06:56",
         "availability": "INSTOCK",
-        "inventory": 8
+        "inventory": 7
       }
     ],
     "performers": [],
@@ -1715,7 +1715,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:06:57",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 8
       },
       {
         "url": "https://www.zomato.com/events/scc-skycinema-20-years-of-veer-zaara-bengaluru-et52794/details",
@@ -1851,50 +1851,6 @@
     }
   },
   {
-    "name": "SCC SkyCinema - 50 First Dates",
-    "description": "\"I just want you to know, I would never do anything to hurt you intentionally. And I will always cherish you.\" - 50 First Dates\n\nRediscover the magic of love with an outdoor movie experience that stays with you .. Forever! Prepare for a heartwarming experience as Sunset Cinema Club presents the screening of this classic in Chapter 6.\n\nSit back and relax on comfy bean bags and bask in the romance and nostalgia as you enjoy your favorite classics or discover new hidden gems. \n\nMovies and food make a great combination, so drinks and snacks, at reasonable prices, will be flowing from the moment the gates open.  \n\nEnjoy a super chill vibe in the lovely outdoors, as the sun dissolves and the stars appear just in time for the film to begin!",
-    "startDate": "2024-11-08T19:00:00+05:30",
-    "endDate": "2024-11-08T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC SkyCinema - 50 First Dates Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC SkyCinema - 50 First Dates Bengaluru on Zomato which is a Experiences and Trending event happening at Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/8d4b665dd4713eefe7738b22d250a32a1730452314.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et52797/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:07:00",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et52797",
-    "id": "com.zomato.52797",
-    "location": {
-      "name": "Chapter 6",
-      "address": "Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93531356,
-        "longitude": 77.62135638
-      }
-    }
-  },
-  {
     "name": "SCC SkyCinema - Midnight In Paris",
     "description": "\"You know, it's not the past that I idealize. It's the future.\" - Midnight in Paris.\n\nLooking for the perfect date night that combines romance, laughter, and the magic of cinema? Sunset Cinema Club brings you a special weekend of romantic movies to enjoy with your loved ones at Chapter 6.\n\nSit back and relax on comfy bean bags and bask in the romance and nostalgia as you enjoy your favorite classics or discover new hidden gems. \n\nMovies and food make a great combination, so drinks and snacks, at reasonable prices, will be flowing from the moment the gates open.  \n\nEnjoy a super chill vibe in the lovely outdoors, as the sun dissolves and the stars appear just in time for the film to begin!",
     "startDate": "2024-11-15T19:00:00+05:30",
@@ -1979,50 +1935,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93531356,
         "longitude": 77.62135638
-      }
-    }
-  },
-  {
-    "name": "SCC Picnic Cinema - Love Aaj Kal",
-    "description": "\u201cJaane se pehle, ek aakhri baar milna kyun zaroori hota hai?\u201d - Love Aaj Kal\n\nPrepare to be swept away by the heartwarming story of love, choice, and destiny as Sunset Cinema Club brings to you an extraordinary screening of \u2018Love Aaj Kal\u2019 at Garden City Beer Collective. \n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favorite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
-    "startDate": "2024-11-08T19:00:00+05:30",
-    "endDate": "2024-11-08T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC Picnic Cinema - Love Aaj Kal Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC Picnic Cinema - Love Aaj Kal Bengaluru on Zomato which is a Experiences and Trending event happening at Garden City Beer Collective (GCBC),82/2, Gantiganahalli, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/214086d6632678e980ba26a79c7064a51730452631.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-picnic-cinema-love-aaj-kal-bengaluru-et52800/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:07:01",
-        "availability": "INSTOCK",
-        "inventory": 8
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-picnic-cinema-love-aaj-kal-bengaluru-et52800",
-    "id": "com.zomato.52800",
-    "location": {
-      "name": "Garden City Beer Collective (GCBC)",
-      "address": "Garden City Beer Collective (GCBC),82/2, Gantiganahalli, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.14365198,
-        "longitude": 77.58441173
       }
     }
   },
@@ -2223,50 +2135,6 @@
     }
   },
   {
-    "name": "Bootleg Fridays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Rohith and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-11-08T20:30:00+05:30",
-    "endDate": "2024-11-08T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Bootleg Fridays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bootleg Fridays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/9f8a7f0fe7c171bf94b5134503ebb4151730464631.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et52852/details",
-        "price": 1000,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:26",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et52852",
-    "id": "com.zomato.52852",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Remix Nights",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-11-09T21:00:00+05:30",
@@ -2287,7 +2155,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:26",
         "availability": "INSTOCK",
-        "inventory": 95
+        "inventory": 92
       }
     ],
     "performers": [],
@@ -3545,50 +3413,6 @@
   {
     "name": "BOLLYXOOX Saturday Night",
     "description": "DJ Mani & DJ Rashmi are all set to give you a Bollywood & Punjabi High this November. Enjoy a night full of fun & frolic and dance your heart out at the mill with our Craft!",
-    "startDate": "2024-11-08T20:00:00+05:30",
-    "endDate": "2024-11-08T23:59:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "BOLLYXOOX Saturday Night Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for BOLLYXOOX Saturday Night Bengaluru on Zomato which is a Party event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/cb7a5fbca50fc15ff5860959188a255c1730722489.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et52999/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-04 17:48:34",
-        "availability": "INSTOCK",
-        "inventory": 40
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et52999",
-    "id": "com.zomato.52999",
-    "location": {
-      "name": "XOOX Brewmill",
-      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93656731,
-        "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "BOLLYXOOX Saturday Night",
-    "description": "DJ Mani & DJ Rashmi are all set to give you a Bollywood & Punjabi High this November. Enjoy a night full of fun & frolic and dance your heart out at the mill with our Craft!",
     "startDate": "2024-11-15T20:00:00+05:30",
     "endDate": "2024-11-15T23:59:00+05:30",
     "timezone": "+05:30",
@@ -3850,7 +3674,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 09:01:00",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 194
       }
     ],
     "performers": [],
@@ -3938,7 +3762,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 16:48:19",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 198
       },
       {
         "url": "https://www.zomato.com/events/haryanvi-music-with-renuka-panwar-bengaluru-et53010/details",
@@ -4698,50 +4522,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.920132,
         "longitude": 77.6846389
-      }
-    }
-  },
-  {
-    "name": "Bollywood Night",
-    "description": "Step into the world of glamour, dance, and the vibrant energy of Bollywood with our exclusive Bollywood DJ Night at Escape by Brewklyn. This is your invitation to experience the magic of Indian cinema through music, where every beat tells a story, and every song invites you to dance.",
-    "startDate": "2024-11-08T20:00:00+05:30",
-    "endDate": "2024-11-08T23:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Bollywood Night Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bollywood Night Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3fa97783c409f0d13878b6fff970e6551731038395.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53059/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-08 09:37:20",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53059",
-    "id": "com.zomato.53059",
-    "location": {
-      "name": "Escape by Brewklyn",
-      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.04059157,
-        "longitude": 77.61912205
       }
     }
   },

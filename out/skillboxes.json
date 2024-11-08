@@ -115,6 +115,74 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Spend your Saturday Under The Sky with beats, vibes, and the city’s finest upcoming artists. From Progressive grooves to Techno highs,",
+      "endDate": "2024-11-23T21:35:00",
+      "identifier": "com.skillboxes.16876",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SjlXamV2emd6clhDdDlROUNQeHRLZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731079332Q2iATcwnHxS3pJT8.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "110A, 10th Cross Rd, Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka 560092, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0697522",
+            "longitude": "77.5752437"
+         },
+         "name": "Open Sky Studio"
+      },
+      "name": "Under The Sky",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "Under The Sky Pass",
+            "url": "https://www.skillboxes.com/events/ticket/under-the-sky"
+         }
+      ],
+      "startDate": "2024-11-23T18:00:00",
+      "url": "https://www.skillboxes.com/events/under-the-sky"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Get ready for a night of UK Garage, Breaks & more with Peach Blok, Dwij & Chan! Don't miss out—it's going to be a musical journey like n",
+      "endDate": "2024-11-09T23:59:00",
+      "identifier": "com.skillboxes.16874",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731077127BLRCLkI6PE8Sk9nt.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9705141",
+            "longitude": "77.6464228"
+         },
+         "name": "Sly Granny, Indiranagar"
+      },
+      "name": "House Party Series Ft Peach Blok, Dwij & Chan",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 291,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/house-party-series-ft-peach-blok-dwij-chan"
+         }
+      ],
+      "startDate": "2024-11-09T20:00:00",
+      "url": "https://www.skillboxes.com/events/house-party-series-ft-peach-blok-dwij-chan"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Join Us for Starry Deck Nights at Skydeck by Sherlock’s!Get ready to groove under the stars this Sunday at the most groovy DJ night in town! Dan",
       "endDate": "2024-11-10T23:59:00",
       "identifier": "com.skillboxes.16873",
@@ -366,7 +434,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Ticket includes 200/- cover charge, redeemable against your bill at the venue.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/brutal-mic-moving-on-from-open-mics"
          }
@@ -647,14 +715,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 372,
+            "inventoryLevel": 332,
             "name": "AFTERMATH day 1 featuring Tuhin Mehta & more",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-aftermath"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 461,
+            "inventoryLevel": 447,
             "name": "AFTERMATH day 2 featuring Sindhi Curry & more",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-aftermath"
          }
@@ -711,40 +779,6 @@
       ],
       "startDate": "2024-11-30T18:45:00",
       "url": "https://www.skillboxes.com/events/polyphony"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "The progressive crew is back and how. Come dance with us as we bring you Electric Boogie : SHFT ft Haen, Ria, Groove Depot and Flipknob, Ibar, Th",
-      "endDate": "2024-11-08T20:45:00",
-      "identifier": "com.skillboxes.16795",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cUdoaUx6bEw0NGlyaEw4R1VkVXpMUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730716457RIXffH49N7O8hNtB.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "14/7, Mahatma Gandhi Rd, near Andhra Bank",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9740179",
-            "longitude": "77.619422"
-         },
-         "name": "IBAR"
-      },
-      "name": "Electric Boogie : SHFT ft Haen, Ria, Groove Depot and Flipknob, Ibar, The Park, Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 973,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/electric-boogie-shft-ft-haen-ria-groove-depot-and-flipknob-ibar-the-park-bangalore"
-         }
-      ],
-      "startDate": "2024-11-08T19:30:00",
-      "url": "https://www.skillboxes.com/events/electric-boogie-shft-ft-haen-ria-groove-depot-and-flipknob-ibar-the-park-bangalore"
    },
    {
       "@context": "https://schema.org",
@@ -814,32 +848,7 @@
          "name": "Hard Rock Cafe Bengaluru"
       },
       "name": "Bootleg Fridays at Hardrock Cafe",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable at the venue\n",
-            "inventoryLevel": 100,
-            "name": "Stag",
-            "url": "https://www.skillboxes.com/events/ticket/sunday-bunny-blast-at-bunny-bar-kormangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow one single entry\n",
-            "inventoryLevel": 100,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/sunday-bunny-blast-at-bunny-bar-kormangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry till 0930pm post cover charges applciable\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/sunday-bunny-blast-at-bunny-bar-kormangala"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-11-08T20:00:00",
       "url": "https://www.skillboxes.com/events/sunday-bunny-blast-at-bunny-bar-kormangala"
    },
@@ -897,40 +906,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Indie Fridays ft. Psychodrama\r\n\r\nFri, 08-Nov-2024",
-      "endDate": "2024-11-08T23:59:00",
-      "identifier": "com.skillboxes.16788",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730705166MGvreSMAeRxBJ9Mu.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Event"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9313063",
-            "longitude": "77.6329297"
-         },
-         "name": "Bira 91 Taproom, Koramangala"
-      },
-      "name": "Indie Fridays ft. Psychodrama",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 934,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/indie-fridays-ft-psychodrama"
-         }
-      ],
-      "startDate": "2024-11-08T20:00:00",
-      "url": "https://www.skillboxes.com/events/indie-fridays-ft-psychodrama"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Welcome to Sakura Screenings where we celebrate the rich tapestry of Asian cinema and the enchanting world of anime. Immerse yourself in a diverse arr",
       "endDate": "2024-11-17T17:00:00",
       "identifier": "com.skillboxes.16787",
@@ -962,57 +937,6 @@
       ],
       "startDate": "2024-11-17T14:00:00",
       "url": "https://www.skillboxes.com/events/sakura-screenings-3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Redroom_BLR\r\n\r\nFridays \r\n\r\n \r\n\r\nFeaturing\r\n\r\n \r\n\r\nANGELOV\r\n\r\n(AFTERLIFE | DIYNAMIC)\r\n\r\n \r\n\r\nARTBLOT\r\n\r\nKISH\r\n\r\n \r\n\r\nFriday 8t",
-      "endDate": "2024-11-08T23:59:00",
-      "identifier": "com.skillboxes.16779",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730646291gbnChd6u2cDr7Nsk.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Redroom Ft. Angelov (Afterlife) at Kitty Ko Bangalore.",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to 1 Female, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD FEMALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-angelov-afterlife-at-kitty-ko-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to 1 Couple, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-angelov-afterlife-at-kitty-ko-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to 1 Male, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD MALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-angelov-afterlife-at-kitty-ko-bangalore"
-         }
-      ],
-      "startDate": "2024-11-08T19:00:00",
-      "url": "https://www.skillboxes.com/events/redroom-ft-angelov-afterlife-at-kitty-ko-bangalore"
    },
    {
       "@context": "https://schema.org",
@@ -1195,7 +1119,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "+ Black T-shirts only and Cover charge of INR 500 applied at Gate\n",
-            "inventoryLevel": 67,
+            "inventoryLevel": 58,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
          },
@@ -1309,7 +1233,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 32,
+            "inventoryLevel": 27,
             "name": "Audience",
             "url": "https://www.skillboxes.com/events/ticket/swayambhu-a-1-hour-poetry-special"
          }
@@ -1343,7 +1267,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1332,
+            "inventoryLevel": 1055,
             "name": "General Admission",
             "url": "https://www.skillboxes.com/events/ticket/bengaluru-ev-festival"
          }
@@ -1499,55 +1423,13 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional 300 cover charge to be paid at the gates (Fully Redeemable)\nMust be 21 or older and must possess a valid hard ID or DigiLocker",
-            "inventoryLevel": 126,
+            "inventoryLevel": 123,
             "name": "Awaaz-E-Musiqi - Feat. Badal Kashyap, Joy Hanson, Fishhhita, Panchee (Ft. Sxggy)",
             "url": "https://www.skillboxes.com/events/ticket/awaaz-e-musiqi"
          }
       ],
       "startDate": "2024-11-09T19:00:00",
       "url": "https://www.skillboxes.com/events/awaaz-e-musiqi"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Join us for “Beyond Thriller: The Ultimate Michael Jackson Tribute” and celebrate the music of the King of Pop with Funky Dory! This is mo",
-      "endDate": "2024-11-08T22:00:00",
-      "identifier": "com.skillboxes.16313",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RUZBUWhNRG5TZ0kza0ZmZ0ZCYkNHZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1728471823xxhyI3PnyjQkInfV.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "1st Main Cross",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9240906",
-            "longitude": "77.6366457"
-         },
-         "name": "The Raft"
-      },
-      "name": "Beyond Thriller - The Ultimate Michael Jackson Tribute",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Please bring a valid student ID for verification at the venue.\n",
-            "inventoryLevel": 983,
-            "name": "Student Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/beyond-thriller-the-ultimate-michael-jackson-tribute"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 143,
-            "name": "General Entry",
-            "url": "https://www.skillboxes.com/events/ticket/beyond-thriller-the-ultimate-michael-jackson-tribute"
-         }
-      ],
-      "startDate": "2024-11-08T19:30:00",
-      "url": "https://www.skillboxes.com/events/beyond-thriller-the-ultimate-michael-jackson-tribute"
    },
    {
       "@context": "https://schema.org",
@@ -1576,16 +1458,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 1,
-            "name": "Early Bird Ticket",
+            "inventoryLevel": 200,
+            "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/Social-Selects-The-Karan-Kanchan-Kitty-Party-2"
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
+            "availability": "SoldOut",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 200,
-            "name": "Phase 1 Ticket",
+            "inventoryLevel": 0,
+            "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/Social-Selects-The-Karan-Kanchan-Kitty-Party-2"
          }
       ],
@@ -1618,7 +1500,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 109,
+            "inventoryLevel": 107,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/azadi-tour-ditty-live-at-blr-creative-circus"
          },
@@ -1745,7 +1627,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "23rd November\nThis is a RSVP event with entry on first-come-first serve basis.",
-            "inventoryLevel": 146,
+            "inventoryLevel": 138,
             "name": "ALT EFF Ticket",
             "url": "https://www.skillboxes.com/events/ticket/alt-eff-2024-x-atree"
          },
@@ -1753,7 +1635,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "22nd November\nThis is a RSVP event with entry on first-come-first serve basis.",
-            "inventoryLevel": 188,
+            "inventoryLevel": 180,
             "name": "ALT EFF Ticket",
             "url": "https://www.skillboxes.com/events/ticket/alt-eff-2024-x-atree"
          }
@@ -1873,7 +1755,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 Cover charge payable at gate (100% redeemable on food and drinks).\n",
-            "inventoryLevel": 184,
+            "inventoryLevel": 178,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/nayaab-india-tour-ft-ashu-shukla-Bangalore"
          }
