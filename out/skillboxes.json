@@ -342,6 +342,75 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Get ready to groove at the most electrifying event of the year in The Garden City! 🎉\r\n\r\n \r\n\r\n✨ Presenting the \"Electronic Umbrella - Ba",
+      "endDate": "2024-11-17T23:59:00",
+      "identifier": "com.skillboxes.16859",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731010107CVCy3AGHrg3znc2Y.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd, Jayamahal, Bengaluru, Karnataka 560080, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.004424",
+            "longitude": "77.5848398"
+         },
+         "name": "PEBBLE The Jungle Lounge"
+      },
+      "name": "Electronic Umbrella",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "First Phase Day 1 Stag",
+            "url": "https://www.skillboxes.com/events/ticket/electronic-umbrella"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "First Phase Day 2 Stag",
+            "url": "https://www.skillboxes.com/events/ticket/electronic-umbrella"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "First Phase day 1 Couple",
+            "url": "https://www.skillboxes.com/events/ticket/electronic-umbrella"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "First Phase Day 2 Couple",
+            "url": "https://www.skillboxes.com/events/ticket/electronic-umbrella"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Both Days Pass Stag",
+            "url": "https://www.skillboxes.com/events/ticket/electronic-umbrella"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Both Days Pass Couple",
+            "url": "https://www.skillboxes.com/events/ticket/electronic-umbrella"
+         }
+      ],
+      "startDate": "2024-11-16T18:00:00",
+      "url": "https://www.skillboxes.com/events/electronic-umbrella"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Brace yourselves for the grand finale of Sound Clash – the ultimate music battle happening at Forum South Bengaluru! On November 10th, gear up f",
       "endDate": "2024-11-10T21:00:00",
       "identifier": "com.skillboxes.16854",

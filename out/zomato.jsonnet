@@ -2,8 +2,8 @@
   {
     "name": "DGTL Bengaluru 2024",
     "description": "DGTL India 2023 saw over 15,000 attendees across 3 days enjoying world-class techno and electronic music, stunning lighting and stage designs, conceptual showcases, and vital sustainability initiatives, resulting in an immersive, audio-visual experience.\nBook your tickets now to secure your spot for this year!\nDGTL is a global electronic music festival with editions in Amsterdam, Santiago (Chile), S\u00e3o Paulo (Brazil), Bengaluru & Mumbai, and during the Amsterdam Dance Event. Besides its focus on music, DGTL features unique art installations and exciting sustainability projects. Its sustainability program sets it apart in the festival landscape.\nImportant Note: No entry without a wristband. If you lose, damage, remove, or tamper with your tickets/wristbands, no replacements will be issued, and entry will not be allowed.",
-    "startDate": "2024-11-09T14:00:00+05:30",
-    "endDate": "2024-11-10T22:00:00+05:30",
+    "startDate": "2024-11-09 14:00:00",
+    "endDate": "2024-11-10 22:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -963,48 +963,6 @@
     }
   },
   {
-    "name": "1000 Wishes",
-    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
-    "startDate": "2024-11-09T16:00:00+05:30",
-    "endDate": "2024-11-09T18:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f459df4aff1fbf5ba9974e04a50d5fcb1728980395.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/1000-wishes-bengaluru-et52432/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-10-15 14:09:43",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/1000-wishes-bengaluru-et52432",
-    "id": "com.zomato.52432",
-    "location": {
-      "name": "Paint The Town Restaurant",
-      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93753285,
-        "longitude": 77.61234518
-      }
-    }
-  },
-  {
     "name": "Rose Vine",
     "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
     "startDate": "2024-11-10T13:00:00+05:30",
@@ -1409,8 +1367,8 @@
   {
     "name": "BuzzinOn Bangalore Bar Hop - Koramangala Edition",
     "description": "Welcome to The BuzzinOn Bangalore Bar Hop - Koramangala Edition, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favourite drinks, groove to fantastic music, and engage in fun games and activities. Walk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
-    "startDate": "2024-11-09T18:30:00+05:30",
-    "endDate": "2024-11-10T01:30:00+05:30",
+    "startDate": "2024-11-09 18:30:00",
+    "endDate": "2024-11-10 01:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -4390,82 +4348,6 @@
     }
   },
   {
-    "name": "Echoes of Earth, 2024 - Bangalore",
-    "description": "Echoes of the Earth over the past 6 years has hosted over 300+ International & Indian Artists. This translates into multiple genres of music, engaging our community of musicians and their ardent listeners over two days of the festival. The past editions have seen musicians like Yussef Dayes, Klangphonics, Acid Pauli, Square Pusher, Shigeto Ensemble, and many more. \n\nThe festival also hosts various cultural & curated experiences that are nothing short of a portal for exploration, experimentation & knowledge transfer for our community\n\nSome of the highlights of the festival include - A solar-powered stage, larger-than-life art installations, 4 uniquely designed stages, education-led kids workshops, and an exclusive brunch with artists performing at Echoes on day two, a carefully curated flea market with organic, natural, artisanal and handmade products, and much more.",
-    "startDate": "2024-12-07T13:00:00+05:30",
-    "endDate": "2024-12-08T22:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Echoes of Earth, 2024 - Bangalore Music and Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Echoes of Earth, 2024 - Bangalore Bengaluru on Zomato which is a Music and Experiences event happening at 149/223, next to Stone Hill International School, Tarunhunse Village, Bengaluru, Papanahalli",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3aa19a1f389189a65bfecbe2d799bf051730978297.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
-        "price": 3999,
-        "currency": "INR",
-        "validFrom": "2024-11-07 17:32:00",
-        "availability": "INSTOCK",
-        "inventory": 1000
-      },
-      {
-        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
-        "price": 5999,
-        "currency": "INR",
-        "validFrom": "2024-11-07 17:32:08",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
-        "price": 26999,
-        "currency": "INR",
-        "validFrom": "2024-11-07 17:32:00",
-        "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
-        "price": 52999,
-        "currency": "INR",
-        "validFrom": "2024-11-07 17:32:00",
-        "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
-        "price": 76499,
-        "currency": "INR",
-        "validFrom": "2024-11-07 17:32:00",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053",
-    "id": "com.zomato.53053",
-    "location": {
-      "name": "Embassy International Riding School",
-      "address": "149/223, next to Stone Hill International School, Tarunhunse Village, Bengaluru, Papanahalli",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.1746955,
-        "longitude": 77.59499931
-      }
-    }
-  },
-  {
     "name": "Punchliners Host To Roast ft Jeeveshu Ahluwalia",
     "description": "Join us for a night of laughter at the Punchliners Comedy Show featuring the hilarious Jeeveshu Ahluwalia Live! Known for his witty observations and sharp humor, Jeeveshu Ahluwalia will take you on a rollercoaster of laughs with his unique style and relatable jokes. Whether you're a comedy enthusiast or just looking for a fun evening, this show promises to keep you entertained. Don't miss out on an unforgettable night filled with humor and joy. Grab your tickets now for an evening of non-stop laughter at Ecoworld, The Bay Food Court, Bengaluru",
     "startDate": "2024-11-30T19:30:00+05:30",
@@ -4502,7 +4384,7 @@
         "currency": "INR",
         "validFrom": "2024-11-08 09:07:39",
         "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 13
       }
     ],
     "performers": [],
