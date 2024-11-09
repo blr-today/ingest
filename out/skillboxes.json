@@ -21,7 +21,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 651,
+            "inventoryLevel": 637,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/livebox-feat-the-aristocrats-bangalore"
          },
@@ -115,6 +115,56 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Imagine the wildest, most unforgettable New Year's bash you've ever experienced in Bangalore—now take that and turn it up by a factor of 10! Tha",
+      "endDate": "2025-01-01T01:00:00",
+      "identifier": "com.skillboxes.16889",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/eHhaWGxsc0V4YWZ5VTgxZnlPc2tIUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17311601671AiTaYz6Z5dQk481.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "37, Hennur Bagalur Main Rd, Kuvempu Layout, Kothanur, Bengaluru, Karnataka 560077, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0698839",
+            "longitude": "77.6517917"
+         },
+         "name": "Circuit #7 Resto Pub"
+      },
+      "name": "Light it up New year eve at Circuit 7",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Unlimited Food and liquor\n",
+            "inventoryLevel": 50,
+            "name": "Female",
+            "url": "https://www.skillboxes.com/events/ticket/light-it-up-new-year-eve-at-circuit-7"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Unlimited food & imfl liquor\n",
+            "inventoryLevel": 40,
+            "name": "Male",
+            "url": "https://www.skillboxes.com/events/ticket/light-it-up-new-year-eve-at-circuit-7"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/light-it-up-new-year-eve-at-circuit-7"
+         }
+      ],
+      "startDate": "2024-12-31T20:00:00",
+      "url": "https://www.skillboxes.com/events/light-it-up-new-year-eve-at-circuit-7"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Spend your Saturday Under The Sky with beats, vibes, and the city’s finest upcoming artists. From Progressive grooves to Techno highs,",
       "endDate": "2024-11-23T21:35:00",
       "identifier": "com.skillboxes.16876",
@@ -145,40 +195,6 @@
       ],
       "startDate": "2024-11-23T18:00:00",
       "url": "https://www.skillboxes.com/events/under-the-sky"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Get ready for a night of UK Garage, Breaks & more with Peach Blok, Dwij & Chan! Don't miss out—it's going to be a musical journey like n",
-      "endDate": "2024-11-09T23:59:00",
-      "identifier": "com.skillboxes.16874",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731077127BLRCLkI6PE8Sk9nt.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9705141",
-            "longitude": "77.6464228"
-         },
-         "name": "Sly Granny, Indiranagar"
-      },
-      "name": "House Party Series Ft Peach Blok, Dwij & Chan",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 291,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/house-party-series-ft-peach-blok-dwij-chan"
-         }
-      ],
-      "startDate": "2024-11-09T20:00:00",
-      "url": "https://www.skillboxes.com/events/house-party-series-ft-peach-blok-dwij-chan"
    },
    {
       "@context": "https://schema.org",
@@ -214,41 +230,6 @@
       ],
       "startDate": "2024-11-10T20:00:00",
       "url": "https://www.skillboxes.com/events/starry-deck-nights-party-under-the-stars-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "This Saturday!! Bring your best dance moves (and maybe an extra set of feet)! Nida’s got the beats, and Pangeo’s got the views. Saturday's",
-      "endDate": "2024-11-09T23:59:00",
-      "identifier": "com.skillboxes.16868",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/WTNKdlJ5UiszbWtDTkZiZFF6T2xCQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731056172B68A6KIHIBSWmo2p.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Festival & Fair"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9726391",
-            "longitude": "77.6065987"
-         },
-         "name": "Pangeo"
-      },
-      "name": "OG afters at Pangeo!",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Featuring Nida Merchant! SATURDAY SERENADE at Pangeo!\nThe most happening Saturday night in town!",
-            "inventoryLevel": 10000,
-            "name": "OG AFTERS AT PANGEO",
-            "url": "https://www.skillboxes.com/events/ticket/og-afters-at-pangeo"
-         }
-      ],
-      "startDate": "2024-11-09T20:00:00",
-      "url": "https://www.skillboxes.com/events/og-afters-at-pangeo"
    },
    {
       "@context": "https://schema.org",
@@ -444,40 +425,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "THE  BOLLYWOOD LIGHT'S OUT SATURDAY NIGHT'S ON NOVEMBER 9TH STARTING AT 8:00 P.M., MACAW BY STORIES SINGASANDRA.WILL HOST BOLLYWOOD-EDM MUSIC EVE",
-      "endDate": "2024-11-09T23:59:00",
-      "identifier": "com.skillboxes.16843",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17309011328YeqllkHfh2bULqe.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Event"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No 2224 , 2225 AECS Layout Singasandra Hosur, Service Rd, Srinivasa Nagar, Hal Layout, Singasandra, Bengaluru, Karnataka 560068, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.8842461",
-            "longitude": "77.6434432"
-         },
-         "name": "Macaw By Stories"
-      },
-      "name": "LIGHT'S OUT SATURDAY",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 995,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/light-s-out-saturday"
-         }
-      ],
-      "startDate": "2024-11-09T20:00:00",
-      "url": "https://www.skillboxes.com/events/light-s-out-saturday"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "What's in it for YOU - The Audience\r\n\r\n(Or basically, why should you buy the ticket and come over)\r\n\r\n \r\n\r\n1. Witness the start of something ",
       "endDate": "2024-11-24T23:59:00",
@@ -610,32 +557,7 @@
          "name": "i-Bar THE Park Bangalore"
       },
       "name": "CLUB CODE SATURDAY !",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one stag to the event. Cover charges applicable at the venue throughout the event.\n",
-            "inventoryLevel": 194,
-            "name": "STAGS",
-            "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-4"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one lady to the event.\n",
-            "inventoryLevel": 198,
-            "name": "LADIES",
-            "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-4"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass allows entry to 1 Couple. Each pass permits one couple to the event. Cover charges applicable at the venue post 9:30 PM.\n",
-            "inventoryLevel": 199,
-            "name": "COUPLES",
-            "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-4"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-11-09T20:00:00",
       "url": "https://www.skillboxes.com/events/club-code-saturday-4"
    },
@@ -784,14 +706,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 332,
+            "inventoryLevel": 234,
             "name": "AFTERMATH day 1 featuring Tuhin Mehta & more",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-aftermath"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 447,
+            "inventoryLevel": 425,
             "name": "AFTERMATH day 2 featuring Sindhi Curry & more",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-aftermath"
          }
@@ -887,39 +809,10 @@
             "inventoryLevel": 100,
             "name": "Ladies",
             "url": "https://www.skillboxes.com/events/ticket/sunday-deepavali-blast-at-bunny-bar-kormangala-2"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry till 0930pm post cover charges applicable\n",
-            "inventoryLevel": 100,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/sunday-deepavali-blast-at-bunny-bar-kormangala-2"
          }
       ],
       "startDate": "2024-11-10T20:00:00",
       "url": "https://www.skillboxes.com/events/sunday-deepavali-blast-at-bunny-bar-kormangala-2"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "This Friday, get ready to groove to the best of Commercial and Hip-hop music at the hottest spot in B'town—Hard Rock Cafe! St. Ma",
-      "endDate": "2024-11-09T00:30:00",
-      "identifier": "com.skillboxes.16791",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730713438cX98ZFR7irwRkAuS.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "40 St. Marks Road Bangalore, India",
-         "name": "Hard Rock Cafe Bengaluru"
-      },
-      "name": "Bootleg Fridays at Hardrock Cafe",
-      "offers": [ ],
-      "startDate": "2024-11-08T20:00:00",
-      "url": "https://www.skillboxes.com/events/sunday-bunny-blast-at-bunny-bar-kormangala"
    },
    {
       "@context": "https://schema.org",
@@ -950,22 +843,6 @@
             "description": "Stags allows one person per ticket\n",
             "inventoryLevel": 200,
             "name": "Boys",
-            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-bollytech"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Girls are allowed one entry per ticket\n",
-            "inventoryLevel": 200,
-            "name": "Girls",
-            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-bollytech"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Per ticket allows one male n one female\n",
-            "inventoryLevel": 200,
-            "name": "Couples",
             "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-bollytech"
          }
       ],
@@ -999,7 +876,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "We expect you to buy a cup of coffee at Starbucks to support organizing Sakura Screenings\n",
-            "inventoryLevel": 17,
+            "inventoryLevel": 13,
             "name": "Club Entry",
             "url": "https://www.skillboxes.com/events/ticket/sakura-screenings-3"
          }
@@ -1034,7 +911,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Please arrive by 5:45 pm to secure your seat. Gates close at 6:15pm sharp. No parking available, please use public transport.\nVenue has mostly floor seating, with some chairs. As this is a house concert venue, we request that footwear be removed at the entrance. It tends to get cold, so do bring something warm. There is also one very friendly large dog at this venue.",
-            "inventoryLevel": 41,
+            "inventoryLevel": 38,
             "name": "Nush Lewis at The Blue Room",
             "url": "https://www.skillboxes.com/events/ticket/nush-lewis-at-the-blue-room"
          }
@@ -1129,6 +1006,41 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Get ready for an electrifying experience as Karma, one of India's most dynamic hip-hop sensations, embarks on his first-ever \"Warm-Up Tour&qu",
+      "endDate": "2024-12-06T23:59:00",
+      "identifier": "com.skillboxes.16729",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1729581686XzxNU5idOljxXYCt.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "968, 3rd & 4th Floor, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9699636",
+            "longitude": "77.6391935"
+         },
+         "name": "Secret Story Bar & Kitchen"
+      },
+      "name": "KARMA Live, The Warm Up Tour | Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional Redeemable Cover Charge INR 500/- Per Individual Applicable At Gates.\n",
+            "inventoryLevel": 2,
+            "name": "Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/karma-live-the-warm-up-tour-bangalore"
+         }
+      ],
+      "startDate": "2024-12-06T20:00:00",
+      "url": "https://www.skillboxes.com/events/karma-live-the-warm-up-tour-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Brace yourselves, Bangalore! The BIGGEST INDOOR METAL FESTIVAL of 2024 is back this December, uniting emerging homegrown talent with massive",
       "endDate": "2024-12-15T23:00:00",
       "identifier": "com.skillboxes.16711",
@@ -1153,7 +1065,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "+ Black T-shirts only and Cover charge of INR 500 applied at Gate\n",
-            "inventoryLevel": 58,
+            "inventoryLevel": 56,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
          },
@@ -1214,40 +1126,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Welcome to Area 313! an informal alliance forged between sonic adventurers, visual story tellers and raptured ravers. Area 313 intends to pay homage t",
-      "endDate": "2024-11-09T23:59:00",
-      "identifier": "com.skillboxes.16704",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Q1lUaFl1VjBWcTlUZEl1aUJZMVdjdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730119837lapSYK0L2XWUgSEy.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9707322",
-            "longitude": "77.6476391"
-         },
-         "name": "Indiranagar Social"
-      },
-      "name": "Area 313",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 149,
-            "name": "General",
-            "url": "https://www.skillboxes.com/events/ticket/area-313"
-         }
-      ],
-      "startDate": "2024-11-09T19:00:00",
-      "url": "https://www.skillboxes.com/events/area-313"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Pungidasa after 13 years of Poetic \"Tapassu\" presents his poems to you ! Like all his poems - These poems have also been Swayambhu... Exi",
       "endDate": "2024-11-10T18:00:00",
@@ -1267,7 +1145,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 27,
+            "inventoryLevel": 25,
             "name": "Audience",
             "url": "https://www.skillboxes.com/events/ticket/swayambhu-a-1-hour-poetry-special"
          }
@@ -1301,7 +1179,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1055,
+            "inventoryLevel": 852,
             "name": "General Admission",
             "url": "https://www.skillboxes.com/events/ticket/bengaluru-ev-festival"
          }
@@ -1332,14 +1210,6 @@
       },
       "name": "Echoes of Grunge - Zed Axis & Seattle Wildfire",
       "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Phase 1\n",
-            "inventoryLevel": 88,
-            "name": "Echoes of Grunge - Zed Axis & Seattle Wildfire",
-            "url": "https://www.skillboxes.com/events/ticket/echoes-of-grunge-zed-axis-seattle-wildfire"
-         },
          {
             "@type": "Offer",
             "availability": "SoldOut",
@@ -1433,41 +1303,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Awaaz-E-Musiqi (Sound of Music) - \n\n \n\nBadal Kashyap is a singer-songwriter, performing artist, and the frontman for Ma",
-      "endDate": "2024-11-09T23:30:00",
-      "identifier": "com.skillboxes.16341",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c05XMEQ4a3E4eWpQNmY3SDhtSFY0dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17289118996FQeTUNlwuL5pKrB.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9313063",
-            "longitude": "77.6329297"
-         },
-         "name": "Bira 91 Taproom, Koramangala"
-      },
-      "name": "Awaaz-E-Musiqi - Feat. Badal Kashyap, Joy Hanson, Fishhhita, Nihal S Kashyap",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional 300 cover charge to be paid at the gates (Fully Redeemable)\nMust be 21 or older and must possess a valid hard ID or DigiLocker",
-            "inventoryLevel": 123,
-            "name": "Awaaz-E-Musiqi - Feat. Badal Kashyap, Joy Hanson, Fishhhita, Panchee (Ft. Sxggy)",
-            "url": "https://www.skillboxes.com/events/ticket/awaaz-e-musiqi"
-         }
-      ],
-      "startDate": "2024-11-09T19:00:00",
-      "url": "https://www.skillboxes.com/events/awaaz-e-musiqi"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "New-age parties broke away from lifeless adult gatherings, but what happens when they become predictable? Enter your saviour, Karan Kanchan, with his ",
       "endDate": "2024-11-17T23:59:00",
       "identifier": "com.skillboxes.16281",
@@ -1492,7 +1327,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 200,
+            "inventoryLevel": 198,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/Social-Selects-The-Karan-Kanchan-Kitty-Party-2"
          },
@@ -1514,7 +1349,7 @@
       "description": "After her support tour with The Mighty Oaks in the EU, Ditty is back in India to play her 'AZADI' Tour! Catch her performing all new music from her up",
       "endDate": "2024-11-16T21:00:00",
       "identifier": "com.skillboxes.16267",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFdUQWFJMzlxd0V2QURMQjlPZ2t3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/172825650530kKzC1ZG11onE2E.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFdUQWFJMzlxd0V2QURMQjlPZ2t3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731165317IUBxWEsBuacQ8ALF.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"
@@ -1534,7 +1369,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 107,
+            "inventoryLevel": 101,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/azadi-tour-ditty-live-at-blr-creative-circus"
          },
@@ -1548,57 +1383,6 @@
       ],
       "startDate": "2024-11-16T18:00:00",
       "url": "https://www.skillboxes.com/events/azadi-tour-ditty-live-at-blr-creative-circus"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Bengaluru\n is set to witness a musical extravaganza as part of legendary Padmashri\n Hariharan's \"be-Misaal\" India tour. Celebrating an",
-      "endDate": "2024-11-09T23:59:00",
-      "identifier": "com.skillboxes.16186",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17277897226t9qmti1lUY5ea9i.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Whitefield Main Road, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9957867",
-            "longitude": "77.6964011"
-         },
-         "name": "Phoenix Marketcity"
-      },
-      "name": "Be Misaal",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry To One Individual\n",
-            "inventoryLevel": 1000,
-            "name": "Silver Pass",
-            "url": "https://www.skillboxes.com/events/ticket/be-misaal"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry To One Individual\n",
-            "inventoryLevel": 1000,
-            "name": "Gold Pass",
-            "url": "https://www.skillboxes.com/events/ticket/be-misaal"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry To One Individual\n",
-            "inventoryLevel": 1000,
-            "name": "Platinum Pass",
-            "url": "https://www.skillboxes.com/events/ticket/be-misaal"
-         }
-      ],
-      "startDate": "2024-11-09T19:00:00",
-      "url": "https://www.skillboxes.com/events/be-misaal"
    },
    {
       "@context": "https://schema.org",
@@ -1661,7 +1445,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "23rd November\nThis is a RSVP event with entry on first-come-first serve basis.",
-            "inventoryLevel": 138,
+            "inventoryLevel": 131,
             "name": "ALT EFF Ticket",
             "url": "https://www.skillboxes.com/events/ticket/alt-eff-2024-x-atree"
          },
@@ -1669,7 +1453,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "22nd November\nThis is a RSVP event with entry on first-come-first serve basis.",
-            "inventoryLevel": 180,
+            "inventoryLevel": 176,
             "name": "ALT EFF Ticket",
             "url": "https://www.skillboxes.com/events/ticket/alt-eff-2024-x-atree"
          }
@@ -1746,7 +1530,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Each ticket entitles entry to one person to the event. - Access to GA area only\n",
-            "inventoryLevel": 194,
+            "inventoryLevel": 191,
             "name": "GA || Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/21yearsofsubmerge-feat-joris-voorn-bangalore"
          },
@@ -1789,7 +1573,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 Cover charge payable at gate (100% redeemable on food and drinks).\n",
-            "inventoryLevel": 178,
+            "inventoryLevel": 175,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/nayaab-india-tour-ft-ashu-shukla-Bangalore"
          }
