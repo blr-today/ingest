@@ -1373,66 +1373,6 @@
     }
   },
   {
-    "name": "BuzzinOn Bangalore Bar Hop - Koramangala Edition",
-    "description": "Welcome to The BuzzinOn Bangalore Bar Hop - Koramangala Edition, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favourite drinks, groove to fantastic music, and engage in fun games and activities. Walk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
-    "startDate": "2024-11-09 18:30:00",
-    "endDate": "2024-11-10 01:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "BuzzinOn Bangalore Bar Hop - Koramangala Edition Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for BuzzinOn Bangalore Bar Hop - Koramangala Edition Bengaluru on Zomato which is a Experiences and Trending event happening at 105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/9deaef4790c988c7c1866ff212aa18801731075381.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774/details",
-        "price": 799,
-        "currency": "INR",
-        "validFrom": "2024-10-30 22:56:00",
-        "availability": "SELLING_FAST",
-        "inventory": 13
-      },
-      {
-        "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774/details",
-        "price": 2999,
-        "currency": "INR",
-        "validFrom": "2024-10-30 22:56:00",
-        "availability": "INSTOCK",
-        "inventory": 22
-      },
-      {
-        "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774/details",
-        "price": 4499,
-        "currency": "INR",
-        "validFrom": "2024-10-30 22:56:00",
-        "availability": "INSTOCK",
-        "inventory": 25
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/buzzinup-bangalore-bar-hop-koramangala-edition-bengaluru-et52774",
-    "id": "com.zomato.52774",
-    "location": {
-      "name": "BOHO Koramangala",
-      "address": "105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9344374,
-        "longitude": 77.6159175
-      }
-    }
-  },
-  {
     "name": "Christmas is Coming",
     "description": "An evening of Christmas choral music featuring carols, popular songs of the season, and a Nativity Cantata, \"Because of Bethlehem\", directed by Wendy M Dickson & Tina Dickson Franco and presented by the popular Kiara Academy Choir. Also features the Kiara Dance & Theatre Ensemble in stunning choreography.",
     "startDate": "2024-11-30T18:00:00+05:30",
@@ -3380,58 +3320,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.9354167,
         "longitude": 77.61595875
-      }
-    }
-  },
-  {
-    "name": "Bunnyville Bollytech Saturday featuring Dj Kunal",
-    "description": "This November 9th, Kormangala\u2019s nightlife scene is about to explode! Bunyville presents an exclusive event headlined by DJ Kunal from Kolkata. Known for his electric sets and infectious beats, DJ Kunal promises to take you on a musical journey that you won\u2019t forget. Don\u2019t miss out on the chance to party with the best crowd and vibe in town. Doors open at 8 PM\u2014bring your energy and let\u2019s make it a night to remember!",
-    "startDate": "2024-11-09 20:00:00",
-    "endDate": "2024-11-10 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Bunnyville Bollytech Saturday featuring Dj Kunal Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bunnyville Bollytech Saturday featuring Dj Kunal Bengaluru on Zomato which is a Party event happening at 749, 10th Main road, 80 Feet Rd, 4th Block, Koramangala, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/938db4ff68a8019667621cdf901bc6fa1730776677.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bunnyville-bollytech-saturday-featuring-dj-kunal-bengaluru-et53008/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-05 09:01:09",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/bunnyville-bollytech-saturday-featuring-dj-kunal-bengaluru-et53008/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-05 09:01:00",
-        "availability": "INSTOCK",
-        "inventory": 192
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bunnyville-bollytech-saturday-featuring-dj-kunal-bengaluru-et53008",
-    "id": "com.zomato.53008",
-    "location": {
-      "name": "Bunny Bar",
-      "address": "749, 10th Main road, 80 Feet Rd, 4th Block, Koramangala, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9331418,
-        "longitude": 77.6307246
       }
     }
   },
