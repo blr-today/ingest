@@ -3267,8 +3267,8 @@
   {
     "name": "Bengaluru Pre Party to Pet Fed - Kitty Edition",
     "description": "Hey Bengaluru! \ud83d\udc3e We\u2019re kicking things off with the ultimate Cat-tastic Pre-Party at Hungry Hippie! \ud83c\udf89 Get ready for whiskers, purrs, and loads of feline fun before the big day.\nInclusions: \nExciting games & gifts for your pets\n Free pet food buffet\nBasic health check-up\n A goodie bag for all attendees\nNo charges for pets!\n\nOngroud tickets will be priced at 700/- per person",
-    "startDate": "2024-11-10T12:00:00+05:30",
-    "endDate": "2024-11-10T15:00:00+05:30",
+    "startDate": "2024-11-10 12:00:00",
+    "endDate": "2024-11-10 15:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
