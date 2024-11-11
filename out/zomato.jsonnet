@@ -3439,5 +3439,57 @@
         "longitude": 77.629943
       }
     }
+  },
+  {
+    "name": "Soul Jams | Koramangala",
+    "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
+    "startDate": "2024-11-16T16:30:00+05:30",
+    "endDate": "2024-11-16T20:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Soul Jams | Koramangala Music, Experiences and Best seller event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Soul Jams | Koramangala Bengaluru on Zomato which is a Music, Experiences and Best seller event happening at Ground Floor 1st Main Road 23, Ganapathi Temple Rd, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/2846088cd485da689c1f90bc3962fcf71731136157.png",
+      "https://b.zmtcdn.com/data/zomaland/0a4e9d36c8d2b48ab6e7fe06742c568b1731297724.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/soul-jams-koramangala-bengaluru-et53084/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-11-09 12:45:00",
+        "availability": "INSTOCK",
+        "inventory": 165
+      }
+    ],
+    "performers": [
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381731136705.png",
+        "name": "Soul Jams",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381731136705.png"
+      }
+    ],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/soul-jams-koramangala-bengaluru-et53084",
+    "id": "com.zomato.53084",
+    "location": {
+      "name": "Hangover XL Koramangala",
+      "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.93568181,
+        "longitude": 77.6138885
+      }
+    }
   }
 ]

@@ -114,6 +114,40 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Kalyan Sabareeshan is a Musician & a Magician who has been actively performing across Bangalore over the last 2 years. He has been composing music",
+      "endDate": "2024-11-24T21:00:00",
+      "identifier": "com.skillboxes.16915",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b21SL25rNGFkWHpybTE0Mk9DbWhFQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17313049289F1V8BxiUKsFsld3.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Performing & Visual Arts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9325445",
+            "longitude": "77.6319325"
+         },
+         "name": "Dialogues Cafe Koramangala"
+      },
+      "name": "An Evening of Magic & Music with Kalyan Sabareeshan",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "Regular",
+            "url": "https://www.skillboxes.com/events/ticket/an-evening-of-magic-music-with-kalyan-sabareeshan"
+         }
+      ],
+      "startDate": "2024-11-24T20:00:00",
+      "url": "https://www.skillboxes.com/events/an-evening-of-magic-music-with-kalyan-sabareeshan"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "SocialEvent",
       "description": "Free Entry for Everyone: Gather your friends and dive into a night filled with electrifying tunes and amazing vibes. Everyone is welcome!Ladies S",
       "endDate": "2024-11-17T01:00:00",

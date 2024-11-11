@@ -3280,5 +3280,54 @@
       "performers": [ ],
       "startDate": "2024-11-17T20:00:00+05:30",
       "url": "https://www.zomato.com/events/edu-imbernon-live-bengaluru-et53062"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
+      "endDate": "2024-11-16T20:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/2846088cd485da689c1f90bc3962fcf71731136157.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, Bengaluru",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.93568181,
+            "longitude": 77.613888500000002
+         },
+         "name": "Hangover XL Koramangala"
+      },
+      "name": "Soul Jams | Koramangala",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 165
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-09T12:45:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381731136705.png",
+            "name": "Soul Jams",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381731136705.png"
+         }
+      ],
+      "remainingAttendeeCapacity": 165,
+      "startDate": "2024-11-16T16:30:00+05:30",
+      "url": "https://www.zomato.com/events/soul-jams-koramangala-bengaluru-et53084"
    }
 ]
