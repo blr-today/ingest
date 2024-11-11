@@ -31,7 +31,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 29
+        "inventory": 23
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -115,74 +115,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.174349,
         "longitude": 77.597596
-      }
-    }
-  },
-  {
-    "name": "Asal Kolar Live",
-    "description": "Asal Kolaar aka Asal Kolar is an Indian film Singer/Lyricst, who has worked predominantly in the Tamil movie industry. Asal has worked in popular movies like Coffee With Kadhal and Gulu Gulu. Asal`s previous film to hit the theatres was Coffee With Kadhal in the year 2022.\n\nAsal Kolaar is one of the contestants in Bigg Boss Tamil season 6, hosted by Kamal Haasan which airs on Vijay Television.\n\nOver 10 million people have viewed \u201cJorthaale,\u201d a Tamil independent music track offered by the Chennai-based label Atti Culture. On social media, the song almost surpassed 10 million views and 481k likes. The positive song, which was published in August of last year, quickly\ngained popularity on social media. Tamil independent musicians Asal Kolaar (Vasantkumar P) and OfRo, who is well-known for their undertaking known as the Casteless Collective, later wrote the song \u201cJorthaale.",
-    "startDate": "2024-11-10 20:00:00",
-    "endDate": "2024-11-11 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Asal Kolar Live Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Asal Kolar Live Bengaluru on Zomato which is a Music and Trending event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/596b7e3e2fff50324e1d8cefdb4d7ffc1722423888.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-11-09 17:46:00",
-        "availability": "INSTOCK",
-        "inventory": 20
-      },
-      {
-        "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-11-09 17:46:00",
-        "availability": "INSTOCK",
-        "inventory": 20
-      },
-      {
-        "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030/details",
-        "price": 399,
-        "currency": "INR",
-        "validFrom": "2024-10-03 14:30:00",
-        "availability": "INSTOCK",
-        "inventory": 12
-      },
-      {
-        "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-10-03 14:30:00",
-        "availability": "INSTOCK",
-        "inventory": 16
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/asal-kolar-live-bengaluru-et47030",
-    "id": "com.zomato.47030",
-    "location": {
-      "name": "WL Superclub",
-      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9151339,
-        "longitude": 77.6660495
       }
     }
   },
@@ -402,7 +334,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 813
+        "inventory": 743
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -410,7 +342,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 268
+        "inventory": 266
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -418,7 +350,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 337
+        "inventory": 324
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -577,7 +509,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9896
+        "inventory": 9888
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -585,7 +517,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9978
+        "inventory": 9974
       }
     ],
     "performers": [],
@@ -629,7 +561,7 @@
         "currency": "INR",
         "validFrom": "2024-10-11 18:16:31",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 97
       }
     ],
     "performers": [],
@@ -1033,7 +965,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 275
+        "inventory": 269
       },
       {
         "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
@@ -1129,7 +1061,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:06:57",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 8
       }
     ],
     "performers": [],
@@ -1495,14 +1427,6 @@
         "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
         "price": 1199,
         "currency": "INR",
-        "validFrom": "2024-11-01 16:10:24",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
-        "price": 1199,
-        "currency": "INR",
         "validFrom": "2024-11-01 16:10:26",
         "availability": "INSTOCK",
         "inventory": 50
@@ -1519,14 +1443,6 @@
         "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
         "price": 1799,
         "currency": "INR",
-        "validFrom": "2024-11-01 16:10:25",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
-        "price": 1799,
-        "currency": "INR",
         "validFrom": "2024-11-01 16:10:26",
         "availability": "INSTOCK",
         "inventory": 50
@@ -1536,14 +1452,6 @@
         "price": 1799,
         "currency": "INR",
         "validFrom": "2024-11-01 16:10:27",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
-        "price": 2299,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:10:25",
         "availability": "INSTOCK",
         "inventory": 50
       },
@@ -1605,7 +1513,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:28",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       }
     ],
     "performers": [],
@@ -2309,7 +2217,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 22:59:37",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 195
       }
     ],
     "performers": [],
@@ -2573,7 +2481,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:33",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 49
       }
     ],
     "performers": [],
@@ -2793,7 +2701,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:35",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 48
       }
     ],
     "performers": [],
@@ -2993,7 +2901,7 @@
         "currency": "INR",
         "validFrom": "2024-11-06 16:43:11",
         "availability": "INSTOCK",
-        "inventory": 7
+        "inventory": 6
       },
       {
         "url": "https://www.zomato.com/events/yoga-with-puppies-by-pawasana-bengaluru-et53028/details",

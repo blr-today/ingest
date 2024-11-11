@@ -21,7 +21,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 637,
+            "inventoryLevel": 634,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/livebox-feat-the-aristocrats-bangalore"
          },
@@ -72,7 +72,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows one family of 4 to the event. No re-entry. Venue rules applicable\n",
-            "inventoryLevel": 197,
+            "inventoryLevel": 196,
             "name": "Family Pass (Group of 4)",
             "url": "https://www.skillboxes.com/events/ticket/lunaland-the-carnival-of-dreams-awaits"
          },
@@ -111,6 +111,105 @@
       ],
       "startDate": "2024-11-23T15:00:00",
       "url": "https://www.skillboxes.com/events/lunaland-the-carnival-of-dreams-awaits"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "Free Entry for Everyone: Gather your friends and dive into a night filled with electrifying tunes and amazing vibes. Everyone is welcome!Ladies S",
+      "endDate": "2024-11-17T01:00:00",
+      "identifier": "com.skillboxes.16910",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0JDVVVMbXI5Q1ZtWXJNS1A1QTJzUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731273043KZeU7NzkK6Wcka9X.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "MSR Building, FLO, #3, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9743377",
+            "longitude": "77.6068167"
+         },
+         "name": "FLO Church Street"
+      },
+      "name": "SUPERCLUB SATURDAY",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Boys",
+            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-15"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Girls",
+            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-15"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Couples",
+            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-15"
+         }
+      ],
+      "startDate": "2024-11-16T20:00:00",
+      "url": "https://www.skillboxes.com/events/superclub-saturday-15"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "🌟 **One Night in DXB: NYE 2025 at Ottoman Restobar** 🌟Step into the New Year with the ultimate **Dubai-inspired party** right here at ",
+      "endDate": "2025-01-01T00:45:00",
+      "identifier": "com.skillboxes.16909",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/eUNyeHBvMU9oVm1MRGhiV3VZYVFKUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731265757pZu3I6U1LDbKcfnE.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th Floor, Ganapa Tower, Bellandur, Bengaluru, Karnataka 560103, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9245948",
+            "longitude": "77.673019"
+         },
+         "name": "Ottoman Restobar"
+      },
+      "name": "One Night in DXB",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Entry to One Lady, Cover Charges of INR 2000 Applicable post 8PM\n",
+            "inventoryLevel": 20,
+            "name": "Early Bird Ladies",
+            "url": "https://www.skillboxes.com/events/ticket/one-night-in-dxb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Entry to One Stag, Cover Charges of INR 2000 Applicable post 8PM\n",
+            "inventoryLevel": 20,
+            "name": "Early Birld - Stag Male",
+            "url": "https://www.skillboxes.com/events/ticket/one-night-in-dxb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Entry to One Couple, Cover Charges of INR 3000 Applicable post 8PM\n",
+            "inventoryLevel": 20,
+            "name": "Early Bird Couple",
+            "url": "https://www.skillboxes.com/events/ticket/one-night-in-dxb"
+         }
+      ],
+      "startDate": "2024-12-31T18:00:00",
+      "url": "https://www.skillboxes.com/events/one-night-in-dxb"
    },
    {
       "@context": "https://schema.org",
@@ -902,24 +1001,7 @@
          "name": "Kitty Ko"
       },
       "name": "Protocol ft. MKSHFT | Nov10th | Kitty Ko",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 97,
-            "name": "Guestlist - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-mkshft-nov10th-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM\n",
-            "inventoryLevel": 100,
-            "name": "Guestlist - Female",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-mkshft-nov10th-kitty-ko"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-11-10T20:00:00",
       "url": "https://www.skillboxes.com/events/protocol-ft-mkshft-nov10th-kitty-ko"
    },
@@ -976,7 +1058,7 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Get ready to light up the night at our Pre-Deepavali celebration with the amazing DJ Sumaya this Sunday! 🎉 Ladie",
+      "description": "Highlights:DJ Night Ft DJ Sumaya and Kunal GoyalLadies Night - Free Drinks For LadiesNew Party SpotAmazing AmbianceBollywood MusicGet ready to li",
       "endDate": "2024-11-11T00:30:00",
       "identifier": "com.skillboxes.16794",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730817419vaog8M4m5CGmzTHS.jpg.webp",
@@ -995,24 +1077,7 @@
          "name": "Bunny Bar"
       },
       "name": "Sunday Bunny Blast at Bunny Bar Kormangala",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable throughout the event\n",
-            "inventoryLevel": 100,
-            "name": "Stag",
-            "url": "https://www.skillboxes.com/events/ticket/sunday-deepavali-blast-at-bunny-bar-kormangala-2"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow one single entry\n",
-            "inventoryLevel": 100,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/sunday-deepavali-blast-at-bunny-bar-kormangala-2"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-11-10T20:00:00",
       "url": "https://www.skillboxes.com/events/sunday-deepavali-blast-at-bunny-bar-kormangala-2"
    },
@@ -1197,7 +1262,15 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge INR 500/- Per Individual Applicable At Gates.\n",
-            "inventoryLevel": 2,
+            "inventoryLevel": 983,
+            "name": "Phase 1 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/karma-live-the-warm-up-tour-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Additional Redeemable Cover Charge INR 500/- Per Individual Applicable At Gates.\n",
+            "inventoryLevel": 0,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/karma-live-the-warm-up-tour-bangalore"
          }
@@ -1232,7 +1305,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "+ Black T-shirts only and Cover charge of INR 500 applied at Gate\n",
-            "inventoryLevel": 56,
+            "inventoryLevel": 53,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
          },
@@ -1297,7 +1370,7 @@
       "description": "Get ready for a day of electrifying fun at the Bengaluru EV Festival! 🚗⚡🎶Join us for a free, action-packed day that celebrates t",
       "endDate": "2024-11-17T21:30:00",
       "identifier": "com.skillboxes.16612",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MlFaZkhRRzFiS0JRSkZWZUx3TEdLQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730893600vZ6cJOvLQ9CtufU4.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MlFaZkhRRzFiS0JRSkZWZUx3TEdLQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731233816Hgc31fqQlE9Q5duj.jpg.webp",
       "isAccessibleForFree": true,
       "keywords": [
          "Festival & Fair"
@@ -1317,7 +1390,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 852,
+            "inventoryLevel": 1669,
             "name": "General Admission",
             "url": "https://www.skillboxes.com/events/ticket/bengaluru-ev-festival"
          }
@@ -1348,6 +1421,14 @@
       },
       "name": "Echoes of Grunge - Zed Axis & Seattle Wildfire",
       "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Phase 1\n",
+            "inventoryLevel": 81,
+            "name": "Echoes of Grunge - Zed Axis & Seattle Wildfire",
+            "url": "https://www.skillboxes.com/events/ticket/echoes-of-grunge-zed-axis-seattle-wildfire"
+         },
          {
             "@type": "Offer",
             "availability": "SoldOut",
@@ -1464,7 +1545,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 101,
+            "inventoryLevel": 98,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/azadi-tour-ditty-live-at-blr-creative-circus"
          },
@@ -1540,7 +1621,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "23rd November\nThis is a RSVP event with entry on first-come-first serve basis.",
-            "inventoryLevel": 131,
+            "inventoryLevel": 125,
             "name": "ALT EFF Ticket",
             "url": "https://www.skillboxes.com/events/ticket/alt-eff-2024-x-atree"
          },
@@ -1548,7 +1629,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "22nd November\nThis is a RSVP event with entry on first-come-first serve basis.",
-            "inventoryLevel": 176,
+            "inventoryLevel": 173,
             "name": "ALT EFF Ticket",
             "url": "https://www.skillboxes.com/events/ticket/alt-eff-2024-x-atree"
          }
@@ -1634,7 +1715,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 Cover charge payable at gate (100% redeemable on food and drinks).\n",
-            "inventoryLevel": 175,
+            "inventoryLevel": 170,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/nayaab-india-tour-ft-ashu-shukla-Bangalore"
          }
