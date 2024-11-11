@@ -3329,5 +3329,113 @@
       "remainingAttendeeCapacity": 165,
       "startDate": "2024-11-16T16:30:00+05:30",
       "url": "https://www.zomato.com/events/soul-jams-koramangala-bengaluru-et53084"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
+      "endDate": "2024-11-16T20:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/70a098bcd0716b241bc81fba1598a09b1731136367.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "74, 4th Floor, above ICICI Bank, Green Glen Layout, Bellandur, Bengaluru",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.924361729999999,
+            "longitude": 77.671619609999993
+         },
+         "name": "Tipsy Bull - The Bar Exchange - Bellandur"
+      },
+      "name": "Soul Jams | Bellandur",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 166
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-09T12:45:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381731136794.png",
+            "name": "Soul Jams",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381731136794.png"
+         }
+      ],
+      "remainingAttendeeCapacity": 166,
+      "startDate": "2024-11-16T16:30:00+05:30",
+      "url": "https://www.zomato.com/events/soul-jams-i-sarjapur-bengaluru-et53085"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The wait is over! The Third edition of The White Party is happening this weekend at High Ultra Lounge! Join us on 16th November, from 8 pm onwards, as we bring you an unforgettable night of music, dancing, and luxury! International DJ Nirvaan will be performing live, so don't miss out! Dress code: All-White Attire (Strictly Enforced). See you there!\n\nDISCLAIMER: Please make sure to follow club rules.",
+      "endDate": "2024-11-17T01:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/41e1465aa6f04d4f69786b8209e56da21731309063.jpeg",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 13.012282900000001,
+            "longitude": 77.5561431
+         },
+         "name": "High Ultra Lounge"
+      },
+      "name": "The White Party Ft. Dj Nirvaan (Afterlyf)",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-11T12:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-11T12:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-11T12:50:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-11-16T20:00:00+05:30",
+      "url": "https://www.zomato.com/events/the-white-party-ft-dj-nirvaan-afterlyf-bengaluru-et53099"
    }
 ]
