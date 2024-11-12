@@ -23,7 +23,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 23
+               "value": 18
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-18T17:36:00+05:30"
@@ -165,6 +165,135 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Attention Dua Lipa fans - get ready to levitate! The Feeding India Concert, organised by Zomato's Feeding India initiative to fight malnutrition, is back.\nThis time, global pop icon Dua Lipa is here to make you ‘dance the night away’ in Mumbai. Witness the chart-topping artist light up the stage with her electrifying hits, and don’t miss the amazing support acts: the sensational JONITA and the dynamic Talwiinder.\n\nWe’ve just got one ‘new rule’ – don't miss the chance to be part of this incredible experience, with a great cause.",
+      "endDate": "2024-11-30T22:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/abfe2e3c5a55ffdcd1100dd80f9a6f181731339955.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 19.067272119999998,
+            "longitude": 72.861524900000006
+         },
+         "name": "MMRDA Ground"
+      },
+      "name": "Feeding India Concert with Dua Lipa",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T15:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T15:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T15:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T15:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T15:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T15:00:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T15:00:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T15:00:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png",
+            "name": "Dua Lipa",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png"
+         },
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png",
+            "name": "Jonita",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png"
+         },
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png",
+            "name": "Talwiinder",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png"
+         },
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png",
+            "name": "More",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png"
+         }
+      ],
+      "startDate": "2024-11-30T15:00:00+05:30",
+      "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "RED LIVE in concert with Shankar Ehsaan Loy by Superhits 93.5 RED FM.\nPrepare to be swept off your feet by the legendary trio of Shankar Mahadevan, Ehsaan\nNoorani, and Loy Mendonsa as they set the stage on fire with their electrifying music\nand soul-stirring melodies.\n\nRED FM, India's premier FM radio network, brings its vibrant programming and\ninnovative content to millions of listeners across 69 cities, entertaining and engaging\naudiences with a unique mix of music, humour, and social commentary. Committed to\nmaking a positive impact, RED FM actively supports various social causes, enriching\ncommunities and fostering positive change.",
       "endDate": "2024-12-21T22:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -186,7 +315,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 43
+               "value": 41
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-21T11:44:00+05:30"
@@ -199,6 +328,15 @@
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-25T15:03:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-11T12:43:00+05:30"
          },
          {
             "availability": "InStock",
@@ -335,7 +473,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 743
+               "value": 674
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T21:18:00+05:30"
@@ -344,7 +482,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 266
+               "value": 262
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -353,7 +491,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 324
+               "value": 322
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -475,7 +613,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 9888
+               "value": 9862
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T00:00:00+05:30"
@@ -484,7 +622,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 9974
+               "value": 9973
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T00:00:00+05:30"
@@ -920,7 +1058,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 346
+               "value": 338
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-30T22:56:00+05:30"
@@ -1045,7 +1183,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 10
+               "value": 9
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T16:06:00+05:30"
@@ -1059,7 +1197,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 10,
+      "remainingAttendeeCapacity": 9,
       "startDate": "2024-11-30T19:00:00+05:30",
       "url": "https://www.zomato.com/events/scc-skycinema-serendipity-bengaluru-et52793"
    },
@@ -1096,7 +1234,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 8
+               "value": 7
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T16:06:00+05:30"
@@ -1271,7 +1409,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 10
+               "value": 9
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T16:07:00+05:30"
@@ -1285,7 +1423,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 10,
+      "remainingAttendeeCapacity": 9,
       "startDate": "2024-11-29T19:00:00+05:30",
       "url": "https://www.zomato.com/events/scc-picnic-cinema-ps-i-love-you-bengaluru-et52801"
    },
@@ -1441,7 +1579,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 98
+               "value": 90
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -1455,7 +1593,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 98,
+      "remainingAttendeeCapacity": 90,
       "startDate": "2024-11-13T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52856"
    },
@@ -1609,7 +1747,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 98
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -1623,7 +1761,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 100,
+      "remainingAttendeeCapacity": 98,
       "startDate": "2024-11-17T13:00:00+05:30",
       "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et52860"
    },
@@ -2113,7 +2251,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 195
+               "value": 194
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T22:59:00+05:30"
@@ -2127,7 +2265,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 195,
+      "remainingAttendeeCapacity": 194,
       "startDate": "2024-11-14T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52882"
    },
@@ -2365,7 +2503,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 49
+               "value": 45
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -2379,7 +2517,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 49,
+      "remainingAttendeeCapacity": 45,
       "startDate": "2024-11-13T20:00:00+05:30",
       "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52996"
    },
@@ -2491,7 +2629,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 40
+               "value": 34
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -2505,7 +2643,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 40,
+      "remainingAttendeeCapacity": 34,
       "startDate": "2024-11-15T20:00:00+05:30",
       "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53001"
    },
@@ -2575,7 +2713,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 48
+               "value": 45
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -2589,7 +2727,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 48,
+      "remainingAttendeeCapacity": 45,
       "startDate": "2024-11-29T20:00:00+05:30",
       "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53003"
    },
@@ -2617,7 +2755,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 198
+               "value": 195
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T16:48:00+05:30"
@@ -3305,7 +3443,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 165
+               "value": 133
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-09T12:45:00+05:30"
@@ -3326,7 +3464,7 @@
             "url": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381731136705.png"
          }
       ],
-      "remainingAttendeeCapacity": 165,
+      "remainingAttendeeCapacity": 133,
       "startDate": "2024-11-16T16:30:00+05:30",
       "url": "https://www.zomato.com/events/soul-jams-koramangala-bengaluru-et53084"
    },

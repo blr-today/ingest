@@ -31,7 +31,7 @@
         "currency": "INR",
         "validFrom": "2024-09-18 17:36:00",
         "availability": "SELLING_FAST",
-        "inventory": 23
+        "inventory": 18
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -171,6 +171,138 @@
     }
   },
   {
+    "name": "Feeding India Concert with Dua Lipa",
+    "description": "Attention Dua Lipa fans - get ready to levitate! The Feeding India Concert, organised by Zomato's Feeding India initiative to fight malnutrition, is back.\nThis time, global pop icon Dua Lipa is here to make you \u2018dance the night away\u2019 in Mumbai. Witness the chart-topping artist light up the stage with her electrifying hits, and don\u2019t miss the amazing support acts: the sensational JONITA and the dynamic Talwiinder.\n\nWe\u2019ve just got one \u2018new rule\u2019 \u2013 don't miss the chance to be part of this incredible experience, with a great cause.",
+    "startDate": "2024-11-30T15:00:00+05:30",
+    "endDate": "2024-11-30T22:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Feeding India Concert with Dua Lipa Music, Trending and Best seller event Tickets Mumbai - Zomato",
+    "ogDesc": "Book online tickets for Feeding India Concert with Dua Lipa Mumbai on Zomato which is a Music, Trending and Best seller event happening at New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/abfe2e3c5a55ffdcd1100dd80f9a6f181731339955.png",
+      "https://b.zmtcdn.com/data/zomaland/0c2ae00635ef4aee1fffa8bb266ffc641724335426.png",
+      "https://b.zmtcdn.com/data/zomaland/b4454ca93f87b57dbacf89c658d91fb61724335445.png",
+      "https://b.zmtcdn.com/data/zomaland/502ce90275c6e620055d4a7c8562584a1724335474.png",
+      "https://b.zmtcdn.com/data/zomaland/e3fa669fa71173925953e87f874384001724335474.png",
+      "https://b.zmtcdn.com/data/zomaland/cedaa72666b1954a845beb9f5fbcce061724335474.png",
+      "https://b.zmtcdn.com/data/zomaland/905835bd13100813bb656faf1cbaf1af1724658596.png",
+      "https://b.zmtcdn.com/data/zomaland/abfe2e3c5a55ffdcd1100dd80f9a6f181731385762.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
+        "price": 6000,
+        "currency": "INR",
+        "validFrom": "2024-08-26 15:00:00",
+        "availability": "SELLING_FAST",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
+        "price": 7500,
+        "currency": "INR",
+        "validFrom": "2024-08-26 15:00:00",
+        "availability": "SELLING_FAST",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
+        "price": 10000,
+        "currency": "INR",
+        "validFrom": "2024-08-26 15:00:00",
+        "availability": "SELLING_FAST",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
+        "price": 36000,
+        "currency": "INR",
+        "validFrom": "2024-08-26 15:00:00",
+        "availability": "SELLING_FAST",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
+        "price": 40000,
+        "currency": "INR",
+        "validFrom": "2024-08-26 15:00:00",
+        "availability": "SELLING_FAST",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
+        "price": 45000,
+        "currency": "INR",
+        "validFrom": "2024-08-26 15:00:00",
+        "availability": "SELLING_FAST",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
+        "price": 13500,
+        "currency": "INR",
+        "validFrom": "2024-08-26 15:00:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
+        "price": 17000,
+        "currency": "INR",
+        "validFrom": "2024-08-26 15:00:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      }
+    ],
+    "performers": [
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png",
+        "name": "Dua Lipa",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png",
+        "name": "Jonita",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png",
+        "name": "Talwiinder",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png",
+        "name": "More",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png"
+      }
+    ],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042",
+    "id": "com.zomato.49042",
+    "location": {
+      "name": "MMRDA Ground",
+      "address": "New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.06727212,
+        "longitude": 72.8615249
+      }
+    }
+  },
+  {
     "name": "Shankar Ehsaan Loy Live",
     "description": "RED LIVE in concert with Shankar Ehsaan Loy by Superhits 93.5 RED FM.\nPrepare to be swept off your feet by the legendary trio of Shankar Mahadevan, Ehsaan\nNoorani, and Loy Mendonsa as they set the stage on fire with their electrifying music\nand soul-stirring melodies.\n\nRED FM, India's premier FM radio network, brings its vibrant programming and\ninnovative content to millions of listeners across 69 cities, entertaining and engaging\naudiences with a unique mix of music, humour, and social commentary. Committed to\nmaking a positive impact, RED FM actively supports various social causes, enriching\ncommunities and fostering positive change.",
     "startDate": "2024-12-21T19:00:00+05:30",
@@ -192,7 +324,7 @@
         "currency": "INR",
         "validFrom": "2024-10-21 11:44:55",
         "availability": "INSTOCK",
-        "inventory": 43
+        "inventory": 41
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -201,6 +333,14 @@
         "validFrom": "2024-09-25 15:03:47",
         "availability": "INSTOCK",
         "inventory": 28
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 5997,
+        "currency": "INR",
+        "validFrom": "2024-11-11 12:43:00",
+        "availability": "INSTOCK",
+        "inventory": 50
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -334,7 +474,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 743
+        "inventory": 674
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -342,7 +482,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 266
+        "inventory": 262
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -350,7 +490,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 324
+        "inventory": 322
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -500,7 +640,8 @@
       "https://b.zmtcdn.com/data/zomaland/d8dd53fc5814f22ccb8d5da7a80349f71726904801.png",
       "https://b.zmtcdn.com/data/zomaland/ba9f5776d4efff6b38006eba9c67e4071726904801.png",
       "https://b.zmtcdn.com/data/zomaland/6f491a85f73cc801ac632b873443aeb71726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/983e7122fbdf1540ca0060e5654098b21726998233.png"
+      "https://b.zmtcdn.com/data/zomaland/983e7122fbdf1540ca0060e5654098b21726998233.png",
+      "https://b.zmtcdn.com/data/zomaland/af6843985474c81373aa4e3449217c681731297603.png"
     ],
     "tickets": [
       {
@@ -509,7 +650,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9888
+        "inventory": 9862
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -517,7 +658,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9974
+        "inventory": 9973
       }
     ],
     "performers": [],
@@ -973,7 +1114,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 346
+        "inventory": 338
       }
     ],
     "performers": [],
@@ -1105,7 +1246,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:06:57",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 9
       }
     ],
     "performers": [],
@@ -1157,7 +1298,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:06:59",
         "availability": "INSTOCK",
-        "inventory": 8
+        "inventory": 7
       }
     ],
     "performers": [],
@@ -1341,7 +1482,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:07:02",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 9
       }
     ],
     "performers": [],
@@ -1513,7 +1654,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:28",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 90
       }
     ],
     "performers": [],
@@ -1689,7 +1830,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:30",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       }
     ],
     "performers": [],
@@ -2217,7 +2358,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 22:59:37",
         "availability": "INSTOCK",
-        "inventory": 195
+        "inventory": 194
       }
     ],
     "performers": [],
@@ -2481,7 +2622,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:33",
         "availability": "INSTOCK",
-        "inventory": 49
+        "inventory": 45
       }
     ],
     "performers": [],
@@ -2613,7 +2754,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:34",
         "availability": "INSTOCK",
-        "inventory": 40
+        "inventory": 34
       }
     ],
     "performers": [],
@@ -2701,7 +2842,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:35",
         "availability": "INSTOCK",
-        "inventory": 48
+        "inventory": 45
       }
     ],
     "performers": [],
@@ -2745,7 +2886,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 16:48:19",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 195
       },
       {
         "url": "https://www.zomato.com/events/haryanvi-music-with-renuka-panwar-bengaluru-et53010/details",
@@ -3462,7 +3603,7 @@
         "currency": "INR",
         "validFrom": "2024-11-09 12:45:00",
         "availability": "INSTOCK",
-        "inventory": 165
+        "inventory": 133
       }
     ],
     "performers": [
