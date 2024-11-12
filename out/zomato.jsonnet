@@ -3470,6 +3470,99 @@
     }
   },
   {
+    "name": "Echoes of Earth, 2024 - Bangalore",
+    "description": "Echoes of the Earth over the past 6 years has hosted over 300+ International & Indian Artists. This translates into multiple genres of music, engaging our community of musicians and their ardent listeners over two days of the festival. The past editions have seen musicians like Yussef Dayes, Klangphonics, Acid Pauli, Square Pusher, Shigeto Ensemble, and many more. \n\nThe festival also hosts various cultural & curated experiences that are nothing short of a portal for exploration, experimentation & knowledge transfer for our community\n\nSome of the highlights of the festival include - A solar-powered stage, larger-than-life art installations, 4 uniquely designed stages, education-led kids workshops, and an exclusive brunch with artists performing at Echoes on day two, a carefully curated flea market with organic, natural, artisanal and handmade products, and much more.",
+    "startDate": "2024-12-07T13:00:00+05:30",
+    "endDate": "2024-12-08T22:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Echoes of Earth, 2024 - Bangalore Music, Experiences and Best seller event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Echoes of Earth, 2024 - Bangalore Bengaluru on Zomato which is a Music, Experiences and Best seller event happening at 149/223, next to Stone Hill International School, Tarunhunse Village, Bengaluru, Papanahalli",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/64ecd7ae2d038947a47738621e576cca1731410217.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/01e366420506a45b8975dab0de71edc31731326564.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/3912d855951338e9a806b1311c28b3871731326564.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/f910e54a581fcf158018a9aeb94d43c41731326565.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/896519f819fe1098f5c9c1488bae0a081731326565.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/b09049ed87a07bcd9d622e0f8edb5d431731326565.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/eb18c8e7aebe15b50a98671e98e6488a1731326565.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/4138bcc149001687bf8fcf39092477c11731326565.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/11bed86b453e6a73f6694a46f46429361731326565.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/63914dd62ec011477113be366f8fc8de1731410329.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-11-11 18:14:44",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 3999,
+        "currency": "INR",
+        "validFrom": "2024-11-07 17:32:00",
+        "availability": "INSTOCK",
+        "inventory": 1000
+      },
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 5999,
+        "currency": "INR",
+        "validFrom": "2024-11-07 17:32:08",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 26999,
+        "currency": "INR",
+        "validFrom": "2024-11-07 17:32:00",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 52999,
+        "currency": "INR",
+        "validFrom": "2024-11-07 17:32:00",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 76499,
+        "currency": "INR",
+        "validFrom": "2024-11-07 17:32:00",
+        "availability": "INSTOCK",
+        "inventory": 100
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053",
+    "id": "com.zomato.53053",
+    "location": {
+      "name": "Embassy International Riding School",
+      "address": "149/223, next to Stone Hill International School, Tarunhunse Village, Bengaluru, Papanahalli",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.1746955,
+        "longitude": 77.59499931
+      }
+    }
+  },
+  {
     "name": "Punchliners Host To Roast ft Jeeveshu Ahluwalia",
     "description": "Join us for a night of laughter at the Punchliners Comedy Show featuring the hilarious Jeeveshu Ahluwalia Live! Known for his witty observations and sharp humor, Jeeveshu Ahluwalia will take you on a rollercoaster of laughs with his unique style and relatable jokes. Whether you're a comedy enthusiast or just looking for a fun evening, this show promises to keep you entertained. Don't miss out on an unforgettable night filled with humor and joy. Grab your tickets now for an evening of non-stop laughter at Ecoworld, The Bay Food Court, Bengaluru",
     "startDate": "2024-11-30T19:30:00+05:30",
@@ -3582,6 +3675,58 @@
     }
   },
   {
+    "name": "Red Flags Featuring. Vishal Tyagi",
+    "description": "Get ready for a night of wit and wordplay with Red Flags Ft. Vishal Tyagi! Join us as Vishal hilariously dissects the quirks and pitfalls of language, exploring the absurdities in our everyday expressions and the \u201cred flags\u201d we overlook in conversations. From twisted meanings to accidental misunderstandings, this stand-up show will leave you laughing at the crazy things we say\u2014and what they really mean. Don\u2019t miss out on the laughs as Vishal takes language and turns it on its head!",
+    "startDate": "2025-02-08T19:00:00+05:30",
+    "endDate": "2025-02-08T20:15:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Red Flags Featuring. Vishal Tyagi Comedy event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Red Flags Featuring. Vishal Tyagi Bengaluru on Zomato which is a Comedy event happening at 6, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Bengaluru",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/4a0554d475ec8ad294d20ae0514dac2c1731060147.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/red-flags-featuring-vishal-tyagi-bengaluru-et53079/details",
+        "price": 299,
+        "currency": "INR",
+        "validFrom": "2024-11-08 16:14:49",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/red-flags-featuring-vishal-tyagi-bengaluru-et53079/details",
+        "price": 549,
+        "currency": "INR",
+        "validFrom": "2024-11-08 16:14:56",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/red-flags-featuring-vishal-tyagi-bengaluru-et53079",
+    "id": "com.zomato.53079",
+    "location": {
+      "name": "Drunkling Comedy Club",
+      "address": "6, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.933402,
+        "longitude": 77.620959
+      }
+    }
+  },
+  {
     "name": "Soul Jams | Koramangala",
     "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
     "startDate": "2024-11-16T16:30:00+05:30",
@@ -3654,7 +3799,7 @@
         "currency": "INR",
         "validFrom": "2024-11-09 12:45:00",
         "availability": "INSTOCK",
-        "inventory": 166
+        "inventory": 146
       }
     ],
     "performers": [
@@ -3721,7 +3866,7 @@
         "currency": "INR",
         "validFrom": "2024-11-11 12:50:50",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 199
       }
     ],
     "performers": [],
@@ -3741,6 +3886,66 @@
         "@type": "GeoCoordinates",
         "latitude": 13.0122829,
         "longitude": 77.5561431
+      }
+    }
+  },
+  {
+    "name": "Open Air Festival with Nils Hoffmann (Anjunadeep)",
+    "description": "Get Ready for Bangalore's Biggest Rooftop Festival! \n\nJoin us on the 31st floor of the World Trade Centre for an unforgettable night headlined by Bangalore\u2019s very own Anjunadeep favourite, Nils Hoffmann. This unique rooftop experience promises incredible vibes, stellar music, and a view of Bangalore like no other.\n\nWhat\u2019s in Store:\nMassive Production & Premium Sound \u2013 Expect best-in-class sound and immersive lighting.\nTwo Stages \u2013 Experience both outdoor and indoor vibes across two stages.\nFlea Market & Interactive Experiences \u2013 Explore pop-up stalls, fun interactions, and more!\nSpectacular City Views \u2013 Soak in breathtaking views of Bangalore from 31 floors up!",
+    "startDate": "2024-11-14T18:00:00+05:30",
+    "endDate": "2024-11-15T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Open Air Festival with Nils Hoffmann (Anjunadeep) Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Open Air Festival with Nils Hoffmann (Anjunadeep) Bengaluru on Zomato which is a Music event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/4c99369f4183bf8027e77f0e9cdcba1d1731408176.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
+        "price": 399,
+        "currency": "INR",
+        "validFrom": "2024-11-12 16:34:39",
+        "availability": "INSTOCK",
+        "inventory": 30
+      },
+      {
+        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-11-12 16:34:39",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
+        "price": 1299,
+        "currency": "INR",
+        "validFrom": "2024-11-12 16:34:39",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166",
+    "id": "com.zomato.53166",
+    "location": {
+      "name": "High Ultra Lounge",
+      "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.01305645,
+        "longitude": 77.55622893
       }
     }
   }
