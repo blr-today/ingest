@@ -3948,5 +3948,109 @@
         "longitude": 77.55622893
       }
     }
+  },
+  {
+    "name": "SCC Picnic Cinema - Yeh Jawaani Hai Deewani",
+    "description": "\"Main udna chahta hoon, daudna chahta hoon, girna bhi chahta hoon\u2026bus rukna nahi chahta\" - Yeh Jawaani Hai Deewani \n\nWitness the heartwarming tale of Bunny and Naina as they navigate the complexities of love and friendship. Experience the highs and lows, the laughter and tears with Sunset Cinema Club at Nexus Shantiniketan Mall.\n\nLocated in the heart of Whitefield, this bustling mall transforms into a haven of relaxation and entertainment as the sun sets and the stars begin to emerge, and your movie screening begins. Enjoy your favourite film on a large screen with surround sound, as you sink into comfy bean bags or mattresses, in the great outdoors.",
+    "startDate": "2024-11-17T19:00:00+05:30",
+    "endDate": "2024-11-17T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "SCC Picnic Cinema - Yeh Jawaani Hai Deewani Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for SCC Picnic Cinema - Yeh Jawaani Hai Deewani Bengaluru on Zomato which is a Experiences event happening at Nexus Shantiniketan Mall Whitefield Main Rd, Thigalarapalya, Krishnarajapuram, Bengaluru, Karnataka 560067",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/cbd456e0f7cb3b6f8965a04ef8c4b14a1731414459.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-picnic-cinema-yeh-jawaani-hai-deewani-bengaluru-et53176/details",
+        "price": 500,
+        "currency": "INR",
+        "validFrom": "2024-11-12 19:43:47",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/scc-picnic-cinema-yeh-jawaani-hai-deewani-bengaluru-et53176/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-11-12 19:43:48",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-picnic-cinema-yeh-jawaani-hai-deewani-bengaluru-et53176",
+    "id": "com.zomato.53176",
+    "location": {
+      "name": "Nexus Shantiniketan Mall",
+      "address": "Nexus Shantiniketan Mall Whitefield Main Rd, Thigalarapalya, Krishnarajapuram, Bengaluru, Karnataka 560067",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.989743793341,
+        "longitude": 77.72806416
+      }
+    }
+  },
+  {
+    "name": "SCC Picnic Cinema - Hum Tum",
+    "description": "\"Hum ek baar jeete hain, ek baar marte hain, shaadi bhi ek hi baar hoti hai, aur pyar... ek hi baar hota hai.\" - Hum Tum\n\nJoin us for an unforgettable cinematic experience as Sunset Cinema Club presents a special screening of the Bollywood romantic comedy classic at Nexus Shantiniketan Mall. Immerse in an enchanting tale that weaves together the complexities of love and humor!\n\nLocated in the heart of Whitefield, this bustling mall transforms into a haven of relaxation and entertainment as the sun sets and the stars begin to emerge, and your movie screening begins. Enjoy your favourite film on a large screen with surround sound, as you sink into comfy bean bags or mattresses, in the great outdoors.",
+    "startDate": "2024-11-24T19:00:00+05:30",
+    "endDate": "2024-11-24T22:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "SCC Picnic Cinema - Hum Tum Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for SCC Picnic Cinema - Hum Tum Bengaluru on Zomato which is a Experiences event happening at Nexus Shantiniketan Mall Whitefield Main Rd, Thigalarapalya, Krishnarajapuram, Bengaluru, Karnataka 560067",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/09814cc75001fe24d9ae2afcabfbafe01731416092.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/scc-picnic-cinema-hum-tum-bengaluru-et53177/details",
+        "price": 500,
+        "currency": "INR",
+        "validFrom": "2024-11-12 19:43:48",
+        "availability": "INSTOCK",
+        "inventory": 10
+      },
+      {
+        "url": "https://www.zomato.com/events/scc-picnic-cinema-hum-tum-bengaluru-et53177/details",
+        "price": 600,
+        "currency": "INR",
+        "validFrom": "2024-11-12 19:43:49",
+        "availability": "INSTOCK",
+        "inventory": 10
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/scc-picnic-cinema-hum-tum-bengaluru-et53177",
+    "id": "com.zomato.53177",
+    "location": {
+      "name": "Nexus Shantiniketan Mall",
+      "address": "Nexus Shantiniketan Mall Whitefield Main Rd, Thigalarapalya, Krishnarajapuram, Bengaluru, Karnataka 560067",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.989743793341,
+        "longitude": 77.72806416
+      }
+    }
   }
 ]
