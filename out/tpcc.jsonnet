@@ -28,20 +28,6 @@
     "director": "Mani Kaul"
   },
   {
-    "id": "8e59d0b0-c800-4f15-b6cb-4df442416e31",
-    "image": "https://cdn.sanity.io/images/x2qnegor/production/cf50d8489bfc44e802df40d21d4d160325984141-998x1497.jpg",
-    "location": {
-      "name": "Underline Center",
-      "url": "https://maps.app.goo.gl/orRqJsJXN7h2pP6N9"
-    },
-    "link": null,
-    "date": "2024-11-11T14:15:00.000Z",
-    "theme": "Director Retrospective - Mani Kaul",
-    "city": "Bangalore",
-    "title": "Siddheshwari",
-    "director": "Mani Kaul"
-  },
-  {
     "id": "8ea7cfd8-47aa-4318-87fb-420af4a13870",
     "image": "https://cdn.sanity.io/images/x2qnegor/production/9b46791f4e34a720c421ef86fb13665488f5780c-1280x1920.jpg",
     "location": {

@@ -1389,6 +1389,41 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "🎉 Get ready for the ultimate mid-week party at Ladies Night! Gather your squad and join us this Wednesday for a night full of fun, free drinks",
+      "endDate": "2024-11-13T23:00:00",
+      "identifier": "com.skillboxes.16834",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MHRGZVpHZVdRT29DdE1UZzlvc3UyQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730884347tB92LcVqYmRUuBfP.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st Floor, BRS Towers, No 51, Sarjapur - Marathahalli Rd, above ICICI Wealth Management Bank, Kaikondrahalli, Bengaluru, Karnataka 560035, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9146752",
+            "longitude": "77.6760693"
+         },
+         "name": "Blue Rock's Fusion Restaurant and Bar"
+      },
+      "name": "Wednesday Ladies Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "T&C applied*\n",
+            "inventoryLevel": 50,
+            "name": "Free Entry Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/wednesday-ladies-night-3"
+         }
+      ],
+      "startDate": "2024-11-13T20:30:00",
+      "url": "https://www.skillboxes.com/events/wednesday-ladies-night-3"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Rainbow Bridge Artist sessions Presents BluesGhat, hailing from Bangalore, blends traditional blues with Carnatic influences and original compositions",
       "endDate": "2024-11-29T20:00:00",
