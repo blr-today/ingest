@@ -102,5 +102,47 @@
       }
     ],
     "maximumAttendeeCapacity": 60
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Electricity in Brain Cells",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2024-11-16T11:00:00+05:30",
+    "endDate": "2024-11-16T13:00:00+05:30",
+    "description": "How does electricity in the brain work? How can lab research lead to real-world treatments?<br>Join Manasadeepika from NIMHANS in a Masterclass as we explore the fascinating science behind brain health, diving into topics like, how action potentials are generated, the role of ion channels, and how our cells produce the energy that keeps us going. She connects the dots between complex science and real-life impact, showing how research translates into solutions that can change lives.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=electricity-in-brain-cells",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Manasadeepika"
+      }
+    ],
+    "maximumAttendeeCapacity": 40
+  },
+  {
+    "@type": "Event",
+    "name": "Power Shifts in Bengaluru: Sci560 Exhibition walkthrough",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2024-11-17T12:00:00+05:30",
+    "endDate": "2024-11-17T14:00:00+05:30",
+    "description": "Mediators Aditi and Pravallika take you on an exhibition walkthrough exploring how power struggles have shaped science, technology, and culture in Bengaluru. The walkthrough focuses on the colonial era, post-independence progress, and contemporary issues. Through key objects and stories, the walkthrough highlights themes of gender inequality in science, the digital divide & the labor question. Join us as we explore the stories about power struggle, oppression and empowerment in Bengaluru.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=power-shifts-walkthrough",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sgb-Team"
+      }
+    ],
+    "maximumAttendeeCapacity": 60
   }
 ]
