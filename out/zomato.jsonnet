@@ -4052,5 +4052,49 @@
         "longitude": 77.72806416
       }
     }
+  },
+  {
+    "name": "Prime time Saturday",
+    "description": "Get ready to rock Join us for an electrifying night of live music , craft beer and golf as , Unmukt the Band takes over our stage for our Prime Time Saturday ,bringing their unique sound and infectious energy Let's make some unforgettable memories!",
+    "startDate": "2024-11-16T20:00:00+05:30",
+    "endDate": "2024-11-17T00:30:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Prime time Saturday Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Prime time Saturday Bengaluru on Zomato which is a Music event happening at Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd, Bengaluru, Karnataka 560067",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/8997024e548a0f8609cf6d35256735d91731490612.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/prime-time-saturday-bengaluru-et53213/details",
+        "price": 1000,
+        "currency": "INR",
+        "validFrom": "2024-11-13 15:09:35",
+        "availability": "INSTOCK",
+        "inventory": 500
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/prime-time-saturday-bengaluru-et53213",
+    "id": "com.zomato.53213",
+    "location": {
+      "name": "PrimeGolf Brewing and Golfing",
+      "address": "Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd, Bengaluru, Karnataka 560067",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.02954022,
+        "longitude": 77.76047305
+      }
+    }
   }
 ]
