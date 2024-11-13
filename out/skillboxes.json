@@ -114,6 +114,41 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Ring in the New Year at **Oney by Hammered**, Cunningham Road’s premier destination for an electrifying night of celebration! Set\n in a chic",
+      "endDate": "2024-12-31T23:59:00",
+      "identifier": "com.skillboxes.16991",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731508749CaNCQDntTtsAzEW6.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "New Year"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "18, Ali Asker Rd, Opposite Canarabank, Vasanth Nagar, Bengaluru, Karnataka 560052, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9864025",
+            "longitude": "77.5949499"
+         },
+         "name": "Hammered Pub And Grub"
+      },
+      "name": "New Year's Eve Bash 2025 at Oney by Hammered",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket allows one person and gives you a cover charge of 1000 INR which is fully redeemable at the bar on the day of the event.\n",
+            "inventoryLevel": 1000,
+            "name": "New Years Eve Entry for One Person",
+            "url": "https://www.skillboxes.com/events/ticket/new-year-s-eve-bash-2025-at-oney-by-hammered"
+         }
+      ],
+      "startDate": "2024-12-31T19:30:00",
+      "url": "https://www.skillboxes.com/events/new-year-s-eve-bash-2025-at-oney-by-hammered"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Join us for an unforgettable night of live music with Shivam Chowhan, where he will perform a blend of his most popular Bollywood tracks and brand-new",
       "endDate": "2024-11-30T23:59:00",
@@ -310,7 +345,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 994,
             "name": "Couple - Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/Hypervibez-Presents-Furcoat-Botany-Bangalore"
          }
@@ -344,7 +379,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 30,
+            "inventoryLevel": 15,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/brainbow-x-param-live"
          },
@@ -551,7 +586,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 25,
+            "inventoryLevel": 24,
             "name": "Audience",
             "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-17"
          }
@@ -763,7 +798,7 @@
          },
          "name": "Sarjapur Social"
       },
-      "name": "Social Tadka Bangalore Takeover | 22nd Nov | Surajpur Social",
+      "name": "Social Tadka Bangalore Takeover | 22nd Nov | Sarjapur Social",
       "offers": [
          {
             "@type": "Offer",
@@ -833,13 +868,13 @@
          },
          "name": "Sarjapur Social"
       },
-      "name": "Social Tadka Bangalore Takeover | 15th Nov | Surajpur Social",
+      "name": "Social Tadka Bangalore Takeover | 15th Nov | Sarjapur Social",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 21+ Cover applicable at gates.\n",
-            "inventoryLevel": 986,
+            "inventoryLevel": 883,
             "name": "RSVP/ Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/social-tadka-bangalore-takeover-1"
          }
@@ -874,7 +909,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 21+ Cover applicable at gates.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 965,
             "name": "RSVP/ Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/social-tadka-bangalore-takeover"
          }
@@ -991,111 +1026,6 @@
       ],
       "startDate": "2024-12-31T20:30:00",
       "url": "https://www.skillboxes.com/events/royal-affair-the-masquerade-ball-nye-2025"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "For the first time at Byg Brewski Brewing Company, laughter is going to be coursing through your veins. Standup comedians will run riot, and the beer ",
-      "endDate": "2024-11-13T22:00:00",
-      "identifier": "com.skillboxes.16922",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731309340bqt0kHOLkEvWJB32.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "10/62/2A/2 & 3, Sarjapur Main Rd, behind MK Retail, near WIpro Corporate Office, Kaikondrahalli, Bengaluru, Karnataka 560035, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.913142",
-            "longitude": "77.6830757"
-         },
-         "name": "Byg Brewski Brewing Company"
-      },
-      "name": "Byg Roast Nights || Sarjapur",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticket includes one complimentary beer or mocktail. Please note that alcoholic beverages will only be served to individuals who are above the legal drinking age.\n",
-            "inventoryLevel": 100,
-            "name": "Cover Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/byg-roast-nights-2"
-         }
-      ],
-      "startDate": "2024-11-13T20:00:00",
-      "url": "https://www.skillboxes.com/events/byg-roast-nights-2"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "For the first time at Byg Brewski Brewing Company, laughter is going to be coursing through your veins. Standup comedians will run riot, and the beer ",
-      "endDate": "2024-11-13T22:00:00",
-      "identifier": "com.skillboxes.16921",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731309565lk1FFrpN9H6KTzgY.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "4th Floor, Vaishnavi Sapphire Centre, 9, 36, Tumkur Rd, Yeshwanthpur Industrial Area, Phase 1, Yeswanthpur, Bengaluru, Karnataka 560022, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0242256",
-            "longitude": "77.5487707"
-         },
-         "name": "Byg Brewski Brewing Company"
-      },
-      "name": "Byg Roast Nights || Yeshwantpur",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticket includes one complimentary beer or mocktail. Please note that alcoholic beverages will only be served to individuals who are above the legal drinking age.\n",
-            "inventoryLevel": 100,
-            "name": "Cover Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/byg-roast-nights-1"
-         }
-      ],
-      "startDate": "2024-11-13T20:00:00",
-      "url": "https://www.skillboxes.com/events/byg-roast-nights-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "For the first time at Byg Brewski Brewing Company, laughter is going to be coursing through your veins. Standup comedians will run riot, and the beer ",
-      "endDate": "2024-11-13T22:00:00",
-      "identifier": "com.skillboxes.16920",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731309090ec1FSiwudgZ840tb.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "SOUTHERN ASIA BIBLE COLLEGE, 22, Hennur Bagalur Main Rd, Visthar, Byrathi, Bengaluru, Karnataka 560077, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0708303",
-            "longitude": "77.6518661"
-         },
-         "name": "Byg Brewski Brewing Company"
-      },
-      "name": "Byg Roast Nights || Hennur",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticket includes one complimentary beer or mocktail. Please note that alcoholic beverages will only be served to individuals who are above the legal drinking age.\n",
-            "inventoryLevel": 100,
-            "name": "Cover Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/byg-roast-nights"
-         }
-      ],
-      "startDate": "2024-11-13T20:00:00",
-      "url": "https://www.skillboxes.com/events/byg-roast-nights"
    },
    {
       "@context": "https://schema.org",
@@ -1267,41 +1197,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Experience the Magic of \"Deck Gigs\" Live at Skydeck by Sherlock’s!Get ready to elevate your midweek vibes! Join us this Wednesday for an",
-      "endDate": "2024-11-13T23:59:00",
-      "identifier": "com.skillboxes.16905",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731257522BJAR49qyMKPvf9AX.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Musician/Band"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750296",
-            "longitude": "77.6075339"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "Deck Gigs | LIVE Music Experience",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Get a complementary Beer or a Mocktail on every booking!\n",
-            "inventoryLevel": 100,
-            "name": "Entry",
-            "url": "https://www.skillboxes.com/events/ticket/deck-gigs-live-music-experience"
-         }
-      ],
-      "startDate": "2024-11-13T20:00:00",
-      "url": "https://www.skillboxes.com/events/deck-gigs-live-music-experience"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Hello, Bangalore!Get ready for another unforgettable live performance this Saturday, 16th November, from 8 PM onwards.CLUB CODE SATURDAY !Featuring - ",
       "endDate": "2024-11-17T01:00:00",
@@ -1377,7 +1272,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 14,
+            "inventoryLevel": 10,
             "name": "Early Birds",
             "url": "https://www.skillboxes.com/events/ticket/obscura-ft-rico-casazza-watashi-simhwave-vedik-b2b-boddah"
          }
@@ -1804,41 +1699,6 @@
       ],
       "startDate": "2024-11-22T18:00:00",
       "url": "https://www.skillboxes.com/events/grasa-presents-the-medicine-wheel-1-0"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "🎉 Get ready for the ultimate mid-week party at Ladies Night! Gather your squad and join us this Wednesday for a night full of fun, free drinks",
-      "endDate": "2024-11-13T23:00:00",
-      "identifier": "com.skillboxes.16834",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MHRGZVpHZVdRT29DdE1UZzlvc3UyQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730884347tB92LcVqYmRUuBfP.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Party or Social Gathering"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "1st Floor, BRS Towers, No 51, Sarjapur - Marathahalli Rd, above ICICI Wealth Management Bank, Kaikondrahalli, Bengaluru, Karnataka 560035, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9146752",
-            "longitude": "77.6760693"
-         },
-         "name": "Blue Rock's Fusion Restaurant and Bar"
-      },
-      "name": "Wednesday Ladies Night",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "T&C applied*\n",
-            "inventoryLevel": 50,
-            "name": "Free Entry Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/wednesday-ladies-night-3"
-         }
-      ],
-      "startDate": "2024-11-13T20:30:00",
-      "url": "https://www.skillboxes.com/events/wednesday-ladies-night-3"
    },
    {
       "@context": "https://schema.org",

@@ -1634,50 +1634,6 @@
     }
   },
   {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-11-13T20:30:00+05:30",
-    "endDate": "2024-11-13T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/692d0659cac0cee0fcc67949bdb637481730464806.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52856/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:28",
-        "availability": "INSTOCK",
-        "inventory": 88
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52856",
-    "id": "com.zomato.52856",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Soul Smoke",
     "description": "Prepare for an unforgettable Thursday night in Bengaluru where Soul Smoke performing live at Bengaluru`s amazing entertainment hotspot Hard Rock Cafe .\nElectric Beats, Killer Tunes, Finger Licking Food, Spectacular Cocktails, And Many More!\nCome And Join The Party!",
     "startDate": "2024-11-14T20:30:00+05:30",
@@ -2604,50 +2560,6 @@
   {
     "name": "Ladies Wednesday Night",
     "description": "To all the ladies out there, enjoy a 1+1 on all craft beers & cocktails every Wednesday night! Listen to popular Commercial & Hip Hop Sets played by DJ Malik, Fun night guaranteed !",
-    "startDate": "2024-11-13T20:00:00+05:30",
-    "endDate": "2024-11-13T23:59:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Ladies Wednesday Night Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Ladies Wednesday Night Bengaluru on Zomato which is a Music event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/95d292fcf06329a239fb0a7641aef8e51730722344.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52996/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-04 17:48:33",
-        "availability": "INSTOCK",
-        "inventory": 45
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52996",
-    "id": "com.zomato.52996",
-    "location": {
-      "name": "XOOX Brewmill",
-      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93656731,
-        "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "Ladies Wednesday Night",
-    "description": "To all the ladies out there, enjoy a 1+1 on all craft beers & cocktails every Wednesday night! Listen to popular Commercial & Hip Hop Sets played by DJ Malik, Fun night guaranteed !",
     "startDate": "2024-11-20T20:00:00+05:30",
     "endDate": "2024-11-20T23:59:00+05:30",
     "timezone": "+05:30",
@@ -3471,7 +3383,7 @@
   },
   {
     "name": "Echoes of Earth, 2024 - Bangalore",
-    "description": "Echoes of the Earth over the past 6 years has hosted over 300+ International & Indian Artists. This translates into multiple genres of music, engaging our community of musicians and their ardent listeners over two days of the festival. The past editions have seen musicians like Yussef Dayes, Klangphonics, Acid Pauli, Square Pusher, Shigeto Ensemble, and many more. \n\nThe festival also hosts various cultural & curated experiences that are nothing short of a portal for exploration, experimentation & knowledge transfer for our community\n\nSome of the highlights of the festival include - A solar-powered stage, larger-than-life art installations, 4 uniquely designed stages, education-led kids workshops, and an exclusive brunch with artists performing at Echoes on day two, a carefully curated flea market with organic, natural, artisanal and handmade products, and much more.",
+    "description": "Echoes of Earth over the past 6 years has hosted over 300+ International & Indian Artists. This translates into multiple genres of music, engaging our community of musicians and their ardent listeners over two days of the festival. The past editions have seen musicians like Yussef Dayes, Klangphonics, Acid Pauli, Square Pusher, Shigeto Ensemble, and many more. \n\nThe festival also hosts various cultural & curated experiences that are nothing short of a portal for exploration, experimentation & knowledge transfer for our community\n\nSome of the highlights of the festival include - A solar-powered stage, larger-than-life art installations, 4 uniquely designed stages, education-led kids workshops, and an exclusive brunch with artists performing at Echoes on day two, a carefully curated flea market with organic, natural, artisanal and handmade products, and much more.",
     "startDate": "2024-12-07T13:00:00+05:30",
     "endDate": "2024-12-08T22:00:00+05:30",
     "timezone": "+05:30",
@@ -3591,7 +3503,7 @@
         "currency": "INR",
         "validFrom": "2024-11-08 09:07:40",
         "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 13
       },
       {
         "url": "https://www.zomato.com/events/punchliners-host-to-roast-ft-jeeveshu-ahluwalia-bengaluru-et53057/details",
@@ -3799,7 +3711,7 @@
         "currency": "INR",
         "validFrom": "2024-11-09 12:45:00",
         "availability": "INSTOCK",
-        "inventory": 146
+        "inventory": 123
       }
     ],
     "performers": [
@@ -3858,7 +3770,7 @@
         "currency": "INR",
         "validFrom": "2024-11-11 12:50:49",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 196
       },
       {
         "url": "https://www.zomato.com/events/the-white-party-ft-dj-nirvaan-afterlyf-bengaluru-et53099/details",
@@ -3866,7 +3778,7 @@
         "currency": "INR",
         "validFrom": "2024-11-11 12:50:50",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 192
       }
     ],
     "performers": [],
@@ -3926,7 +3838,7 @@
         "currency": "INR",
         "validFrom": "2024-11-12 16:34:39",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 48
       }
     ],
     "performers": [],
