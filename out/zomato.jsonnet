@@ -4052,5 +4052,57 @@
         "longitude": 77.60434087
       }
     }
+  },
+  {
+    "name": "Caged Overdrive Festival ft. Temudo & more",
+    "description": "Caged Overdrive takes place in its greatest format of line ups and experience on Nov 23 & 24 at The Park Ballroom with our good friends from Octave and Mob Mind.\n\nGear for a long line up of classified techno musicians taking centre stage at the hotspot!\n\n\u2022 This is a 21+ show. ID checks are mandatory.\n\u2022 We follow strict adherence to zero tolerance on drugs & prohibited substances.",
+    "startDate": "2024-11-23T18:00:00+05:30",
+    "endDate": "2024-11-25T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Caged Overdrive Festival ft. Temudo & more Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Caged Overdrive Festival ft. Temudo & more Bengaluru on Zomato which is a Trending event happening at \"14/7, The Park, MG Road, Bhaskaran Rd, Sivanchetti Gardens, Bengaluru, Karnataka 560042 \"",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/8368d4b057e4cb2bddc652821a7a41041731569719.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/caged-overdrive-festival-ft-temudo-more-bengaluru-et53235/details",
+        "price": 799,
+        "currency": "INR",
+        "validFrom": "2024-11-14 13:08:20",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/caged-overdrive-festival-ft-temudo-more-bengaluru-et53235/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-11-14 13:08:20",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/caged-overdrive-festival-ft-temudo-more-bengaluru-et53235",
+    "id": "com.zomato.53235",
+    "location": {
+      "name": "The Park Ballroom, MG Road",
+      "address": "\"14/7, The Park, MG Road, Bhaskaran Rd, Sivanchetti Gardens, Bengaluru, Karnataka 560042 \"",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9739914,
+        "longitude": 77.6198638
+      }
+    }
   }
 ]
