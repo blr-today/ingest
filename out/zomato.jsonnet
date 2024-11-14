@@ -3804,8 +3804,8 @@
   {
     "name": "Open Air Festival with Nils Hoffmann (Anjunadeep)",
     "description": "Get Ready for Bangalore's Biggest Rooftop Festival! \n\nJoin us on the 31st floor of the World Trade Centre for an unforgettable night headlined by Bangalore\u2019s very own Anjunadeep favourite, Nils Hoffmann. This unique rooftop experience promises incredible vibes, stellar music, and a view of Bangalore like no other.\n\nWhat\u2019s in Store:\nMassive Production & Premium Sound \u2013 Expect best-in-class sound and immersive lighting.\nTwo Stages \u2013 Experience both outdoor and indoor vibes across two stages.\nFlea Market & Interactive Experiences \u2013 Explore pop-up stalls, fun interactions, and more!\nSpectacular City Views \u2013 Soak in breathtaking views of Bangalore from 31 floors up!",
-    "startDate": "2024-11-14T18:00:00+05:30",
-    "endDate": "2024-11-15T01:00:00+05:30",
+    "startDate": "2024-11-14 18:00:00",
+    "endDate": "2024-11-15 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -4102,6 +4102,58 @@
         "@type": "GeoCoordinates",
         "latitude": 12.9739914,
         "longitude": 77.6198638
+      }
+    }
+  },
+  {
+    "name": "Sairaah Live| Radio Bar, RMZ Ecoworld",
+    "description": "The Magic Returns with SAIRAAH LIVE! \n\n\ud83c\udfb7Ft. Sairaah\n\ud83d\uddd3\ufe0f15th October, Friday\n\ud83d\udd57 9 pm onwards\n\ud83d\udccdRadio Bar, RMZ Ecoworld, Bellandur",
+    "startDate": "2024-11-15T21:00:00+05:30",
+    "endDate": "2024-11-15T23:50:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Sairaah Live| Radio Bar, RMZ Ecoworld Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sairaah Live| Radio Bar, RMZ Ecoworld Bengaluru on Zomato which is a Music event happening at Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/8563210f8d79c1614d817502abbe3d7a1731581703.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/sairaah-live-radio-bar-rmz-ecoworld-bengaluru-et53240/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-11-14 16:33:18",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/sairaah-live-radio-bar-rmz-ecoworld-bengaluru-et53240/details",
+        "price": 999,
+        "currency": "INR",
+        "validFrom": "2024-11-14 16:33:19",
+        "availability": "INSTOCK",
+        "inventory": 25
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/sairaah-live-radio-bar-rmz-ecoworld-bengaluru-et53240",
+    "id": "com.zomato.53240",
+    "location": {
+      "name": "Radio Bar, RMZ Ecoworld",
+      "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9208664,
+        "longitude": 77.6859185
       }
     }
   }

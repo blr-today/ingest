@@ -3920,5 +3920,55 @@
       "performers": [ ],
       "startDate": "2024-11-23T18:00:00+05:30",
       "url": "https://www.zomato.com/events/caged-overdrive-festival-ft-temudo-more-bengaluru-et53235"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The Magic Returns with SAIRAAH LIVE! \n\n🎷Ft. Sairaah\n🗓️15th October, Friday\n🕗 9 pm onwards\n📍Radio Bar, RMZ Ecoworld, Bellandur",
+      "endDate": "2024-11-15T23:50:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/8563210f8d79c1614d817502abbe3d7a1731581703.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9208664,
+            "longitude": 77.6859185
+         },
+         "name": "Radio Bar, RMZ Ecoworld"
+      },
+      "name": "Sairaah Live| Radio Bar, RMZ Ecoworld",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-14T16:33:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 25
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-14T16:33:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-11-15T21:00:00+05:30",
+      "url": "https://www.zomato.com/events/sairaah-live-radio-bar-rmz-ecoworld-bengaluru-et53240"
    }
 ]
