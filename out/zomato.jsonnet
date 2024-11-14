@@ -27,14 +27,6 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 14999,
-        "currency": "INR",
-        "validFrom": "2024-09-18 17:36:00",
-        "availability": "SELLING_FAST",
-        "inventory": 9
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
         "price": 24999,
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
@@ -88,6 +80,14 @@
         "validFrom": "2024-08-07 17:00:00",
         "availability": "INSTOCK",
         "inventory": 231
+      },
+      {
+        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
+        "price": 14999,
+        "currency": "INR",
+        "validFrom": "2024-09-18 17:36:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -324,7 +324,7 @@
         "currency": "INR",
         "validFrom": "2024-10-21 11:44:55",
         "availability": "INSTOCK",
-        "inventory": 41
+        "inventory": 39
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -474,7 +474,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 644
+        "inventory": 596
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -490,7 +490,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 313
+        "inventory": 304
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -650,7 +650,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9855
+        "inventory": 9849
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -658,7 +658,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9969
+        "inventory": 9967
       }
     ],
     "performers": [],
@@ -2622,7 +2622,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:34",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 49
       }
     ],
     "performers": [],
@@ -2666,7 +2666,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:34",
         "availability": "INSTOCK",
-        "inventory": 29
+        "inventory": 20
       }
     ],
     "performers": [],
@@ -2866,7 +2866,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 17:05:32",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 197
       }
     ],
     "performers": [],
@@ -2910,7 +2910,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 17:16:46",
         "availability": "INSTOCK",
-        "inventory": 150
+        "inventory": 149
       }
     ],
     "performers": [],
@@ -2954,7 +2954,7 @@
         "currency": "INR",
         "validFrom": "2024-11-06 16:43:11",
         "availability": "INSTOCK",
-        "inventory": 6
+        "inventory": 5
       },
       {
         "url": "https://www.zomato.com/events/yoga-with-puppies-by-pawasana-bengaluru-et53028/details",
@@ -3659,8 +3659,8 @@
         "price": 499,
         "currency": "INR",
         "validFrom": "2024-11-09 12:45:00",
-        "availability": "INSTOCK",
-        "inventory": 87
+        "availability": "SELLING_FAST",
+        "inventory": 2
       }
     ],
     "performers": [
@@ -4006,6 +4006,50 @@
         "@type": "GeoCoordinates",
         "latitude": 13.02954022,
         "longitude": 77.76047305
+      }
+    }
+  },
+  {
+    "name": "Sunday Kannada Special Live Music",
+    "description": "Kannada Special Live Music\nEnjoy the all time specials and cherish great music.",
+    "startDate": "2024-11-17T14:00:00+05:30",
+    "endDate": "2024-11-17T16:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Sunday Kannada Special Live Music Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Sunday Kannada Special Live Music Bengaluru on Zomato which is a Music event happening at 27, Ground Floor, Sattva Auro, Shanthala Nagar, Ashok Nagar, Church Street, Bangalore",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/73cb725a48401c5f01d260a1f80c3bbe1731564170.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/sunday-kannada-special-live-music-bengaluru-et53233/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-14 11:35:26",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/sunday-kannada-special-live-music-bengaluru-et53233",
+    "id": "com.zomato.53233",
+    "location": {
+      "name": "Kling, Bengaluru",
+      "address": "27, Ground Floor, Sattva Auro, Shanthala Nagar, Ashok Nagar, Church Street, Bangalore",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97550044,
+        "longitude": 77.60434087
       }
     }
   }

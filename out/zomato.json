@@ -23,15 +23,6 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 9
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-18T17:36:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
                "value": 80
             },
             "priceCurrency": "INR",
@@ -90,6 +81,15 @@
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-07T17:00:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-09-18T17:36:00+05:30"
          },
          {
             "availability": "Sold Out",
@@ -315,7 +315,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 41
+               "value": 39
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-21T11:44:00+05:30"
@@ -473,7 +473,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 644
+               "value": 596
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T21:18:00+05:30"
@@ -491,7 +491,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 313
+               "value": 304
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -613,7 +613,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 9855
+               "value": 9849
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T00:00:00+05:30"
@@ -622,7 +622,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 9969
+               "value": 9967
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T00:00:00+05:30"
@@ -2503,7 +2503,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 50
+               "value": 49
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -2517,7 +2517,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 50,
+      "remainingAttendeeCapacity": 49,
       "startDate": "2024-11-27T20:00:00+05:30",
       "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52998"
    },
@@ -2545,7 +2545,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 29
+               "value": 20
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -2559,7 +2559,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 29,
+      "remainingAttendeeCapacity": 20,
       "startDate": "2024-11-15T20:00:00+05:30",
       "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53001"
    },
@@ -2739,7 +2739,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 199
+               "value": 197
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T17:05:00+05:30"
@@ -2780,7 +2780,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 150
+               "value": 149
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T17:16:00+05:30"
@@ -2794,7 +2794,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 150,
+      "remainingAttendeeCapacity": 149,
       "startDate": "2024-11-16T20:30:00+05:30",
       "url": "https://www.zomato.com/events/dynamite-disco-club-097-at-the-burrow-bengaluru-et53014"
    },
@@ -2822,7 +2822,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 6
+               "value": 5
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-06T16:43:00+05:30"
@@ -3495,7 +3495,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 87
+               "value": 2
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-09T12:45:00+05:30"
@@ -3516,7 +3516,7 @@
             "url": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381731136705.png"
          }
       ],
-      "remainingAttendeeCapacity": 87,
+      "remainingAttendeeCapacity": 2,
       "startDate": "2024-11-16T16:30:00+05:30",
       "url": "https://www.zomato.com/events/soul-jams-koramangala-bengaluru-et53084"
    },
@@ -3828,5 +3828,47 @@
       "remainingAttendeeCapacity": 500,
       "startDate": "2024-11-16T20:00:00+05:30",
       "url": "https://www.zomato.com/events/prime-time-saturday-bengaluru-et53213"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Kannada Special Live Music\nEnjoy the all time specials and cherish great music.",
+      "endDate": "2024-11-17T16:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/73cb725a48401c5f01d260a1f80c3bbe1731564170.png",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "27, Ground Floor, Sattva Auro, Shanthala Nagar, Ashok Nagar, Church Street, Bangalore",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.975500439999999,
+            "longitude": 77.604340870000001
+         },
+         "name": "Kling, Bengaluru"
+      },
+      "name": "Sunday Kannada Special Live Music",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-14T11:35:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 200,
+      "startDate": "2024-11-17T14:00:00+05:30",
+      "url": "https://www.zomato.com/events/sunday-kannada-special-live-music-bengaluru-et53233"
    }
 ]

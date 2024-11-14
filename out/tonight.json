@@ -75,30 +75,67 @@
   },
   {
     "@type": "MusicEvent",
-    "name": "Innellea - Bangalore",
-    "about": "Experience the electrifying debut album and innovative live tour concept, \"The Belonging\", by Innellea. Join us for a mesmerizing night on November 17th at Manpho Convention Centre in Bengaluru.",
-    "url": "https://insider.in/event/innellea-bangalore-nov17-2024/buy-page",
-    "startDate": "2024-11-17T18:00:00+05:30",
-    "endDate": "2024-11-18T00:00:00+05:30",
-    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2F6zLf44aJgokJxC7jt2z3%2FbannerImages%2F9oX0UhPX37WkNlwfT6st-INNELLEA-Bangalore.jpg?alt=media&token=dc86fd34-aaec-4af2-9f4e-ecb50fcbd847",
+    "name": "CrossOver Ft. Furcoat | 15Th Nov | Botany",
+    "about": "Get ready for the most trending pop-up party in town this November! Join CrossOver with Furcoat on 15th November at Botany Bengaluru. The event starts at 8 PM at Botany Brew & Kitchen, Bangalore. Remember, it's a 21+ event with limited capacity, so make sure to reserve your spot!",
+    "url": "https://insider.in/event/crossover-ft-furcoat-15th-nov-botany-nov15-2024/buy-page",
+    "startDate": "2024-11-15T20:00:00+05:30",
+    "endDate": "2024-11-16T01:00:00+05:30",
+    "image": null,
     "performer": {
       "@type": "MusicGroup",
-      "name": "Innellea"
+      "name": "Various Artists"
     },
     "location": {
       "@type": "Place",
-      "name": "Manpho Convention Centre",
+      "name": "Botany Brew and Kitchen",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Opp BEL Corporate Office, Hebbal Flyover, Manayata Tech Park, Nagavara",
+        "streetAddress": "18th Floor, SKAV Seethalakshmi, Kasturba Rd, opposite Vishveshwariah Museum, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
         "addressLocality": "Bangalore",
         "addressRegion": "Karnataka",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "13.042803786838052",
-        "longitude": "77.61688572929992"
+        "latitude": "12.9749809",
+        "longitude": "77.59734139999999"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Various Organisers"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://insider.in/event/crossover-ft-furcoat-15th-nov-botany-nov15-2024/buy-page"
+    }
+  },
+  {
+    "@type": "MusicEvent",
+    "name": "Innellea - Bangalore",
+    "about": "Experience the electrifying debut album and innovative live tour concept, \"The Belonging\", by Innellea. Join us for a mesmerizing night on November 17th at Manpho Convention Centre in Bengaluru.",
+    "url": "https://insider.in/event/innellea-bangalore-nov17-2024/buy-page",
+    "startDate": "2024-11-17T18:00:00+05:30",
+    "endDate": "2024-11-18T00:00:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2F6zLf44aJgokJxC7jt2z3%2FbannerImages%2FFF9QbBRor9950NI1G8WD-INNELLEA-Bangalore.jpg?alt=media&token=723821fb-e0dc-4291-956e-94250f1a73d8",
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Innellea"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "JW Marriott Hotel Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "24/1, Vittal Mallya Rd, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9723618",
+        "longitude": "77.5949211"
       }
     },
     "organizer": {
@@ -108,6 +145,43 @@
     "offers": {
       "@type": "Offer",
       "url": "https://insider.in/event/innellea-bangalore-nov17-2024/buy-page"
+    }
+  },
+  {
+    "@type": "MusicEvent",
+    "name": "Mari Ferrari Live At Sunburn Union",
+    "about": "Get ready to vibe with Mari Ferrari from Portugal at Sunburn Union Bengaluru! Join us on Saturday, Nov 16, at 7 PM for a night filled with dark beats, neon lights, and pure energy. Let's keep it classy yet wild on the dance floor. See you there!",
+    "url": "https://insider.in/event/mari-ferrari-live-at-sunburn-union-nov16-2024/buy-page",
+    "startDate": "2024-11-16T19:30:00+05:30",
+    "endDate": "2024-11-17T00:45:00+05:30",
+    "image": null,
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Various Artists"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Sunburn Union",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Passport office, Mantri Avenue, KHB Games Village, Koramangala",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9451786760031",
+        "longitude": "77.62013704583424"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Skydance Hospitality LLP (Sunburn Union)"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://insider.in/event/mari-ferrari-live-at-sunburn-union-nov16-2024/buy-page"
     }
   },
   {
@@ -149,6 +223,43 @@
   },
   {
     "@type": "MusicEvent",
+    "name": "Redroom Open Air Festival Ft. Pretty Pink.",
+    "about": "Join us at the Redroom_BLR Open Air Festival featuring Pretty Pink on Saturday, 23rd November 2024, from 7PM onwards at High Ultra Lounge. Get ready for a melodic techno and progressive house experience by the renowned artist Pretty Pink. Don't miss out on this electrifying event brought to you by Redroom_Blr, NK Production, and M6Music.",
+    "url": "https://insider.in/event/redroom-open-air-festival-ft-pretty-pink-nov23-2024/buy-page",
+    "startDate": "2024-11-23T18:00:00+05:30",
+    "endDate": "2024-11-24T01:00:00+05:30",
+    "image": null,
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Various Artists"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "High Ultra Lounge",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.01236650000127",
+        "longitude": "77.55627184722628"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "NK Production"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://insider.in/event/redroom-open-air-festival-ft-pretty-pink-nov23-2024/buy-page"
+    }
+  },
+  {
+    "@type": "MusicEvent",
     "name": "EK SHAAM MASTANI",
     "about": "Step back in time at \"Ek Shaam Mastani: A Night of Retro Bollywood Magic\" on November 16. Relive the iconic tunes of the 70s, 80s, and 90s with live performances and energetic vibes. Whether you're a Bollywood enthusiast or a music lover, this nostalgic evening promises a magical experience you won't forget.",
     "url": "https://insider.in/event/ek-shaam-mastani-nov16-2024/buy-page",
@@ -182,6 +293,43 @@
     "offers": {
       "@type": "Offer",
       "url": "https://insider.in/event/ek-shaam-mastani-nov16-2024/buy-page"
+    }
+  },
+  {
+    "@type": "MusicEvent",
+    "name": "The White Party FT NIRVAAN(AFTERLIFE)",
+    "about": "Get ready for the third edition of The White Party at High Ultra Lounge this weekend! Experience a night filled with music, dancing, and luxury on 16th November starting at 8pm. Don't miss the live performance by international DJ Nirvaan. Remember, the dress code is all-white attire, so come prepared for an unforgettable evening!",
+    "url": "https://insider.in/event/the-white-party-ft-nirvaanafterlyf-nov16-2024/buy-page",
+    "startDate": "2024-11-16T20:00:00+05:30",
+    "endDate": "2024-11-17T01:00:00+05:30",
+    "image": null,
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Various Artists"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "High Ultra Lounge",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.01236650000127",
+        "longitude": "77.55627184722628"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cult 17 Entertainment Media & Communication Pvt Ltd"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://insider.in/event/the-white-party-ft-nirvaanafterlyf-nov16-2024/buy-page"
     }
   },
   {
@@ -626,6 +774,43 @@
     "offers": {
       "@type": "Offer",
       "url": "https://in.bookmyshow.com/events/bandland-2024/ET00406791"
+    }
+  },
+  {
+    "@type": "MusicEvent",
+    "name": "Nikhil Chinapa - Grand Launch at HOD",
+    "about": "Experience the grand launch of House of Dopamine with India\u2019s EDM icon, Nikhil Chinapa, in Koramangala on November 15th! Join us for a night of high-energy beats and electrifying vibes at the hottest party in town. Secure your tickets now and elevate your night with VIP table reservations available.",
+    "url": "https://insider.in/event/nikhil-chinapa-grand-launch-at-hod-nov15-2024/buy-page",
+    "startDate": "2024-11-15T20:00:00+05:30",
+    "endDate": "2024-11-16T01:30:00+05:30",
+    "image": null,
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Various Artists"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "HOD - House Of Dopamine Brewery LLP",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9336478",
+        "longitude": "77.6148833"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Various Organisers"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://insider.in/event/nikhil-chinapa-grand-launch-at-hod-nov15-2024/buy-page"
     }
   },
   {
