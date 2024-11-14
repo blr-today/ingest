@@ -114,6 +114,40 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Clear your schedule, shine your shoes, and prepare to break out those Bollywood moves! Desi Beats is hitting Wasabi Lounge, Bengaluru, on November 17t",
+      "endDate": "2024-11-17T17:00:00",
+      "identifier": "com.skillboxes.16995",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UlcwdldlTnd5cHp0bTNlekw1RTlYZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731538458cDHhrRa0DgYRiVHM.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No: 27, Rest House Rd, off Brigade Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9738717",
+            "longitude": "77.6065956"
+         },
+         "name": "Wasabi Lounge"
+      },
+      "name": "Desi Beats (Bollywood Party)",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 500,
+            "name": "Bootee head",
+            "url": "https://www.skillboxes.com/events/ticket/desi-beats-bollywood-party"
+         }
+      ],
+      "startDate": "2024-11-17T12:30:00",
+      "url": "https://www.skillboxes.com/events/desi-beats-bollywood-party"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Ring in the New Year at **Oney by Hammered**, Cunningham Road’s premier destination for an electrifying night of celebration! Set\n in a chic",
       "endDate": "2024-12-31T23:59:00",

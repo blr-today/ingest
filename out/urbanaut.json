@@ -133,8 +133,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 10,
+    "maximumAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -193,7 +193,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -255,7 +255,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 11,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -317,7 +317,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -379,7 +379,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -441,7 +441,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -499,7 +499,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 52,
+    "remainingAttendeeCapacity": 49,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -557,7 +557,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 497,
+    "remainingAttendeeCapacity": 495,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -697,7 +697,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 98,
+    "remainingAttendeeCapacity": 95,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -828,7 +828,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 160,
-    "remainingAttendeeCapacity": 160,
+    "remainingAttendeeCapacity": 157,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1051,55 +1051,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "ScreeningEvent",
-    "name": "Screening: The Perks of Being a Wallflower (2012) | Movie Under the Stars",
-    "description": "Join us for an open-air screening of The Perks of Being a Wallflower (2012), with a three-course dinner and popcorn.*Wines and other beverages will be available for purchase at the venue.About the movieThe Perks of Being a Wallflower follows the story of Charlie, an introverted high school freshman who struggles with mental health issues and traumatic memories from his past. As he begins his first year of high school, he feels isolated and lost until he befriends two charismatic seniors, Sam and her stepbrother Patrick. With their help, Charlie begins to open up, discovering friendship, love, and acceptance.Set in the early 1990s, the film delves into themes of mental health, trauma, and the impact of relationships, capturing the highs and lows of teenage life. Through the course of the story, Charlie learns to embrace his experiences and his unique perspective, ultimately finding his voice. Based on Stephen Chbosky\u2019s bestselling novel, the story is a powerful exploration of self-discovery and resilience.3-Course Dinner MenuCourse 1Nachos with bean chili & cheese dipCourse 2Macaroni & cheese served with potatoes wedges & garlic bread (Veg.)Baked Ziti, pasta baked with chicken, marinara sauce & cheese, Served with potatoes wedges & garlic bread (Non-Veg.)Course 3Devil food cake with red wine & cherries______Terms and ConditionsThe management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Valet service is available at a charge of Rs. 200 per vehicle.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Tickets are non-refundable in case of cancellation or no-show.In case of rain, the event will be moved indoors.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2B3EABC826524A6FB97DEFEFFD8424E3_converted_webp.webp"
-    ],
-    "startDate": "2024-11-15T20:00:00+05:30",
-    "endDate": "2024-11-15T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Courtyard",
-      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
-      "latitude": "12.95843050000000000000",
-      "longitude": "77.59289509999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 36,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2000.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Courtyard",
-      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
-      "url": "https://urbanaut.app/partner/courtyard",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-73386-77996"
-      }
-    },
-    "url": "https://urbanaut.app/spot/screening-the-perks-of-being-a-wallflower-2012-movie-under-the-stars",
-    "keywords": [
-      "Art & culture",
-      "Food & drink",
-      "Leisure",
-      "COURTYARD",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Courtyard Picnic | November Edition",
     "description": "About November PicnicJoin us under the canopy of our lush city oasis for a sun-soaked (fingers crossed!) afternoon filled with board games, wine, coffee, and irresistible picnic plates Menu to be announced soon_________And don\u2019t forget\u2014your furry friends are welcome to join the fun too!See you at the yard for a perfect day out with great food, great coffee, and even better company. Terms and Conditions:The management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Children above the age of 3 need a ticket to attend the event.Valet service is available at a charge of Rs. 200 per vehicle.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Bringing outside food into the yard area is not permitted.Tickets are non-refundable in case of cancellation or no-show.In case of rain or other unforeseen conditions, the event will be moved indoors.",
@@ -1167,7 +1118,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 38,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1218,7 +1169,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1366,7 +1317,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1677,7 +1628,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 29,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2550,7 +2501,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 99,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
