@@ -1634,50 +1634,6 @@
     }
   },
   {
-    "name": "Soul Smoke",
-    "description": "Prepare for an unforgettable Thursday night in Bengaluru where Soul Smoke performing live at Bengaluru`s amazing entertainment hotspot Hard Rock Cafe .\nElectric Beats, Killer Tunes, Finger Licking Food, Spectacular Cocktails, And Many More!\nCome And Join The Party!",
-    "startDate": "2024-11-14T20:30:00+05:30",
-    "endDate": "2024-11-14T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Soul Smoke Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Soul Smoke Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/779e62984734573f978c314cc1e1d7bd1730464844.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/soul-smoke-bengaluru-et52857/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:28",
-        "availability": "INSTOCK",
-        "inventory": 20
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/soul-smoke-bengaluru-et52857",
-    "id": "com.zomato.52857",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Bootleg Fridays",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Rohith and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-11-15T20:30:00+05:30",
@@ -2290,50 +2246,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97595324,
         "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-11-14T20:30:00+05:30",
-    "endDate": "2024-11-14T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4ab8c62d08a698ae777b6c59e483e1601730480583.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52882/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-01 22:59:37",
-        "availability": "INSTOCK",
-        "inventory": 193
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52882",
-    "id": "com.zomato.52882",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
       }
     }
   },
@@ -2982,50 +2894,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.992748778992,
         "longitude": 77.59689511847
-      }
-    }
-  },
-  {
-    "name": "Karaoke Night",
-    "description": "Join us for an unforgettable evening of singing and fun at Escape Brewery's Karaoke Night, featuring the charismatic KJ Abhishek. Whether you're a shower singer or a seasoned vocalist, this is your chance to take the stage and belt out your favorite tunes in a vibrant, welcoming atmosphere",
-    "startDate": "2024-11-14T20:00:00+05:30",
-    "endDate": "2024-11-14T23:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Karaoke Night Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Night Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3395bf7781c929cbf2e25a77fd8e554c1730964265.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-night-bengaluru-et53041/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-11-07 13:25:37",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-night-bengaluru-et53041",
-    "id": "com.zomato.53041",
-    "location": {
-      "name": "Escape by Brewklyn",
-      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.04059157,
-        "longitude": 77.61912205
       }
     }
   },
@@ -3711,7 +3579,7 @@
         "currency": "INR",
         "validFrom": "2024-11-09 12:45:00",
         "availability": "INSTOCK",
-        "inventory": 123
+        "inventory": 85
       }
     ],
     "performers": [
@@ -3770,7 +3638,7 @@
         "currency": "INR",
         "validFrom": "2024-11-11 12:50:49",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 194
       },
       {
         "url": "https://www.zomato.com/events/the-white-party-ft-dj-nirvaan-afterlyf-bengaluru-et53099/details",
@@ -3778,7 +3646,7 @@
         "currency": "INR",
         "validFrom": "2024-11-11 12:50:50",
         "availability": "INSTOCK",
-        "inventory": 192
+        "inventory": 190
       }
     ],
     "performers": [],
@@ -3804,8 +3672,8 @@
   {
     "name": "Open Air Festival with Nils Hoffmann (Anjunadeep)",
     "description": "Get Ready for Bangalore's Biggest Rooftop Festival! \n\nJoin us on the 31st floor of the World Trade Centre for an unforgettable night headlined by Bangalore\u2019s very own Anjunadeep favourite, Nils Hoffmann. This unique rooftop experience promises incredible vibes, stellar music, and a view of Bangalore like no other.\n\nWhat\u2019s in Store:\nMassive Production & Premium Sound \u2013 Expect best-in-class sound and immersive lighting.\nTwo Stages \u2013 Experience both outdoor and indoor vibes across two stages.\nFlea Market & Interactive Experiences \u2013 Explore pop-up stalls, fun interactions, and more!\nSpectacular City Views \u2013 Soak in breathtaking views of Bangalore from 31 floors up!",
-    "startDate": "2024-11-14 18:00:00",
-    "endDate": "2024-11-15 01:00:00",
+    "startDate": "2024-12-14T18:00:00+05:30",
+    "endDate": "2024-12-15T01:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3820,25 +3688,25 @@
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
         "price": 399,
         "currency": "INR",
-        "validFrom": "2024-11-12 16:34:39",
+        "validFrom": "2024-11-14 16:05:00",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 15
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
         "price": 499,
         "currency": "INR",
-        "validFrom": "2024-11-12 16:34:39",
+        "validFrom": "2024-11-14 16:05:00",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 20
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
         "price": 1299,
         "currency": "INR",
-        "validFrom": "2024-11-12 16:34:39",
+        "validFrom": "2024-11-14 16:05:00",
         "availability": "INSTOCK",
-        "inventory": 48
+        "inventory": 10
       }
     ],
     "performers": [],
