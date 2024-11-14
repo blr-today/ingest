@@ -32,6 +32,7 @@ DELETE FROM events
 WHERE
   url IN (
     'https://insider.in/isl-2024-25-bengaluru-fc-membership-season-12/event' -- Memberships are not events
+    ,'https://together.buzz/event/test-ghofp8gg' -- Test event
   );
 
 -- Ideally,we would mark them using sameAs, but too much work for now
