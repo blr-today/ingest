@@ -8,8 +8,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Bryan Adams - So Happy It Hurts Tour 2024 Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bryan Adams - So Happy It Hurts Tour 2024 Bengaluru on Zomato which is a Trending event happening at Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
+    "ogTitle": "Bryan Adams - So Happy It Hurts Tour 2024 Trending and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bryan Adams - So Happy It Hurts Tour 2024 Bengaluru on Zomato which is a Trending and Music event happening at Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/239863dd01a4a5ac942da78aca63b08e1730995771.png",
       "https://b.zmtcdn.com/data/zomaland/1e89dbbb75e5d516946eb3f76ae900ab1721839188.jpeg",
@@ -31,7 +31,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "INSTOCK",
-        "inventory": 80
+        "inventory": 77
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -139,7 +139,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 17:18:26",
         "availability": "INSTOCK",
-        "inventory": 38
+        "inventory": 36
       },
       {
         "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043/details",
@@ -324,7 +324,7 @@
         "currency": "INR",
         "validFrom": "2024-10-21 11:44:55",
         "availability": "INSTOCK",
-        "inventory": 39
+        "inventory": 37
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -336,19 +336,19 @@
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 3999,
+        "currency": "INR",
+        "validFrom": "2024-09-25 15:03:00",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
         "price": 5997,
         "currency": "INR",
         "validFrom": "2024-11-11 12:43:00",
         "availability": "INSTOCK",
         "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
-        "price": 8997,
-        "currency": "INR",
-        "validFrom": "2024-10-17 13:46:00",
-        "availability": "INSTOCK",
-        "inventory": 38
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -424,6 +424,14 @@
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 8997,
+        "currency": "INR",
+        "validFrom": "2024-10-17 13:46:00",
+        "availability": "INSTOCK",
+        "inventory": 35
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
         "price": 14999,
         "currency": "INR",
         "validFrom": "2024-09-09 17:22:00",
@@ -474,7 +482,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 596
+        "inventory": 582
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -482,7 +490,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 251
+        "inventory": 245
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -490,7 +498,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 304
+        "inventory": 288
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -594,8 +602,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Pet Fed Bengaluru 2024 Best seller and Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Pet Fed Bengaluru 2024 Bengaluru on Zomato which is a Best seller and Experiences event happening at 1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru",
+    "ogTitle": "Pet Fed Bengaluru 2024 Best seller, Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Pet Fed Bengaluru 2024 Bengaluru on Zomato which is a Best seller, Experiences and Trending event happening at 1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/aa24e05a15ea0fc0df8eac9126e3cc361726998071.jpeg",
       "https://b.zmtcdn.com/data/zomaland/2c93c8638d243698aaac4f30920bccca1726904190.png",
@@ -646,19 +654,19 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
-        "price": 699,
+        "price": 499,
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9849
+        "inventory": 950
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
-        "price": 2499,
+        "price": 1999,
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 9967
+        "inventory": 992
       }
     ],
     "performers": [],
@@ -702,7 +710,7 @@
         "currency": "INR",
         "validFrom": "2024-10-11 18:16:31",
         "availability": "INSTOCK",
-        "inventory": 95
+        "inventory": 87
       }
     ],
     "performers": [],
@@ -938,8 +946,8 @@
   {
     "name": "Musicathon",
     "description": "Musicathon Bir, a vibrant music festival set against the stunning backdrop of Bir, Himachal Pradesh. This unique event celebrates the fusion of music, nature, and cultural diversity, offering a one-of-a-kind experience for attendees.\n\nLineup: \nBombay Bandook \nSwastik \nAkash Chopra \nDesi Delay \nYuvraj\nBuland himalay\nChintan Chauhan\nAhmad Parvez",
-    "startDate": "2024-11-15T10:00:00+05:30",
-    "endDate": "2024-11-16T22:00:00+05:30",
+    "startDate": "2024-11-15 10:00:00",
+    "endDate": "2024-11-16 22:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1114,7 +1122,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 320
+        "inventory": 306
       }
     ],
     "performers": [],
@@ -1786,7 +1794,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:31",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 88
       }
     ],
     "performers": [],
@@ -2050,7 +2058,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:35",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 88
       }
     ],
     "performers": [],
@@ -2314,7 +2322,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 22:59:38",
         "availability": "INSTOCK",
-        "inventory": 197
+        "inventory": 194
       }
     ],
     "performers": [],
@@ -2490,7 +2498,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:33",
         "availability": "INSTOCK",
-        "inventory": 47
+        "inventory": 46
       }
     ],
     "performers": [],
@@ -2566,8 +2574,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
-    "ogTitle": "BOLLYXOOX Saturday Night Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for BOLLYXOOX Saturday Night Bengaluru on Zomato which is a Party event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "ogTitle": "BOLLYXOOX Saturday Night Party and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for BOLLYXOOX Saturday Night Bengaluru on Zomato which is a Party and Trending event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/318228178276b23fe26a20ab070d29551730722539.png"
     ],
@@ -2577,8 +2585,8 @@
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:34",
-        "availability": "INSTOCK",
-        "inventory": 20
+        "availability": "SELLING_FAST",
+        "inventory": 8
       }
     ],
     "performers": [],
@@ -2622,7 +2630,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:35",
         "availability": "INSTOCK",
-        "inventory": 48
+        "inventory": 42
       }
     ],
     "performers": [],
@@ -2726,7 +2734,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 16:48:20",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 198
       }
     ],
     "performers": [],
@@ -2822,7 +2830,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 17:16:46",
         "availability": "INSTOCK",
-        "inventory": 149
+        "inventory": 142
       }
     ],
     "performers": [],
@@ -2874,7 +2882,7 @@
         "currency": "INR",
         "validFrom": "2024-11-06 16:43:00",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 9
       }
     ],
     "performers": [],
@@ -3524,11 +3532,19 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/soul-jams-koramangala-bengaluru-et53084/details",
+        "price": 755,
+        "currency": "INR",
+        "validFrom": "2024-11-09 12:45:00",
+        "availability": "INSTOCK",
+        "inventory": 66
+      },
+      {
+        "url": "https://www.zomato.com/events/soul-jams-koramangala-bengaluru-et53084/details",
         "price": 499,
         "currency": "INR",
         "validFrom": "2024-11-09 12:45:00",
-        "availability": "SELLING_FAST",
-        "inventory": 2
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [
