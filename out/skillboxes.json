@@ -114,6 +114,92 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Experience a world-class journey crafted by our homegrown talents! 🔥It’s time to celebrate the brilliance of our native magicians of the",
+      "endDate": "2024-11-24T01:00:00",
+      "identifier": "com.skillboxes.17009",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NStvQ0pCSFhPM0t2YVhkNzV3RUlBQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731653771fvD38CSk5pOUy00Q.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2nd floor, Aloft Bengaluru, Cessna Business Park Sarjapur, Outer Ring Rd, near Marathahalli, Kaverappa Layout, Kadubeesanahalli, Bellandur, Bengaluru, Karnataka 560103, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9368105",
+            "longitude": "77.6951061"
+         },
+         "name": "Echo Lounge Bar"
+      },
+      "name": "INCARNATION: Homegrown talent showcase V1 | FrequenZ x Phoneix ent | Bangalore | Powered by Spacenaut and KAUMODAKI",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 9:00pm\nContact us for group or table bookings",
+            "inventoryLevel": 150,
+            "name": "Guestlist: Female",
+            "url": "https://www.skillboxes.com/events/ticket/incarnation-homegrown-talent-showcase-v1-frequenz-x-phoneix-ent-bangalore-powered-by-spacenaut-and-kaumodaki"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 9:00pm\nContact us for group or table bookings",
+            "inventoryLevel": 300,
+            "name": "Guestlist: Stags",
+            "url": "https://www.skillboxes.com/events/ticket/incarnation-homegrown-talent-showcase-v1-frequenz-x-phoneix-ent-bangalore-powered-by-spacenaut-and-kaumodaki"
+         }
+      ],
+      "startDate": "2024-11-23T17:00:00",
+      "url": "https://www.skillboxes.com/events/incarnation-homegrown-talent-showcase-v1-frequenz-x-phoneix-ent-bangalore-powered-by-spacenaut-and-kaumodaki"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Indie Friday || Corner Cafe Chronicles X Lotus",
+      "endDate": "2024-12-06T23:59:00",
+      "identifier": "com.skillboxes.17002",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731588708YgjoX6s2MlpUVeB5.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9313063",
+            "longitude": "77.6329297"
+         },
+         "name": "Bira 91 Taproom, Koramangala"
+      },
+      "name": "Indie Friday || Corner Cafe Chronicles X Lotus",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional Redeemable Cover Charge  INR 500 Applicable At Gates.\n",
+            "inventoryLevel": 28,
+            "name": "Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/indie-friday-corner-cafe-chronicles-x-lotus"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional Redeemable Cover Charge  INR 500 Applicable At Gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Regular Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/indie-friday-corner-cafe-chronicles-x-lotus"
+         }
+      ],
+      "startDate": "2024-12-06T20:30:00",
+      "url": "https://www.skillboxes.com/events/indie-friday-corner-cafe-chronicles-x-lotus"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "SocialEvent",
       "description": "Experience \"Starry Deck Nights\" - This Sunday at Skydeck by Sherlock's!Join us this Sunday night for an unforgettable Commercial DJ Night at S",
       "endDate": "2024-11-17T23:59:00",
@@ -145,6 +231,40 @@
       ],
       "startDate": "2024-11-17T20:00:00",
       "url": "https://www.skillboxes.com/events/starry-deck-nights-party-under-the-stars-2"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "DUMMY DUMMY ",
+      "endDate": "2024-11-14T18:00:00",
+      "identifier": "com.skillboxes.16999",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YU5zdVBYZGI1d1ZIWlBOMXpSRlFNdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17315814329NXvbH6yqxMLiAPe.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Festival & Fair"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.980109",
+            "longitude": "77.6393497"
+         },
+         "name": "Atta Galatta- The Bookstore"
+      },
+      "name": "DUMMY",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 9,
+            "name": "dummy",
+            "url": "https://www.skillboxes.com/events/ticket/dummy"
+         }
+      ],
+      "startDate": "2024-11-14T17:00:00",
+      "url": "https://www.skillboxes.com/events/dummy"
    },
    {
       "@context": "https://schema.org",
