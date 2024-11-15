@@ -1382,50 +1382,6 @@
     }
   },
   {
-    "name": "SCC SkyCinema - Midnight In Paris",
-    "description": "\"You know, it's not the past that I idealize. It's the future.\" - Midnight in Paris.\n\nLooking for the perfect date night that combines romance, laughter, and the magic of cinema? Sunset Cinema Club brings you a special weekend of romantic movies to enjoy with your loved ones at Chapter 6.\n\nSit back and relax on comfy bean bags and bask in the romance and nostalgia as you enjoy your favorite classics or discover new hidden gems. \n\nMovies and food make a great combination, so drinks and snacks, at reasonable prices, will be flowing from the moment the gates open.  \n\nEnjoy a super chill vibe in the lovely outdoors, as the sun dissolves and the stars appear just in time for the film to begin!",
-    "startDate": "2024-11-15T19:00:00+05:30",
-    "endDate": "2024-11-15T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC SkyCinema - Midnight In Paris Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC SkyCinema - Midnight In Paris Bengaluru on Zomato which is a Experiences and Trending event happening at Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/d9c5b989a77fc709b811d63076f878691730452381.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et52798/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:07:00",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et52798",
-    "id": "com.zomato.52798",
-    "location": {
-      "name": "Chapter 6",
-      "address": "Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93531356,
-        "longitude": 77.62135638
-      }
-    }
-  },
-  {
     "name": "SCC SkyCinema - Salaam Namaste",
     "description": "\"Main perfect nahi hoon, tum perfect nahi ho aur zindagi kabhi perfect nahi hogi ... par tum mere liye hamesha perfect hogi - Salaam Namaste\n\nRevisit the vibrant and heartwarming story of Nikhil and Ambar. Join us for a screening of the iconic film that celebrates Indian culture and the complexities of modern love. Experience the laughter, tears, and the enduring power of human connection under the starry night sky.\n\nSit back and relax on comfy bean bags and bask in the romance and nostalgia as you enjoy your favorite classics or discover new hidden gems. \n\nMovies and food make a great combination, so drinks and snacks, at reasonable prices, will be flowing from the moment the gates open.  \n\nEnjoy a super chill vibe in the lovely outdoors, as the sun dissolves and the stars appear just in time for the film to begin!",
     "startDate": "2024-11-22T19:00:00+05:30",
@@ -1503,50 +1459,6 @@
     ],
     "url": "https://www.zomato.com/events/scc-picnic-cinema-ps-i-love-you-bengaluru-et52801",
     "id": "com.zomato.52801",
-    "location": {
-      "name": "Garden City Beer Collective (GCBC)",
-      "address": "Garden City Beer Collective (GCBC),82/2, Gantiganahalli, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.14365198,
-        "longitude": 77.58441173
-      }
-    }
-  },
-  {
-    "name": "SCC Picnic Cinema - 500 Days Of Summer",
-    "description": "\u201cI love how she makes me feel like anything is possible or like life is worth it\u201d \u2014 500 Days of Summer\n\nSunset Cinema Club invites you for a heartfelt romantic comedy-drama at the Garden City Beer Collective (GCBC). This indie gem offers a refreshing take on love, with its honest portrayal of the joys and struggles of modern dating. \n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favorite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
-    "startDate": "2024-11-15T19:00:00+05:30",
-    "endDate": "2024-11-15T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC Picnic Cinema - 500 Days Of Summer Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC Picnic Cinema - 500 Days Of Summer Bengaluru on Zomato which is a Experiences and Trending event happening at Garden City Beer Collective (GCBC),82/2, Gantiganahalli, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/01ba96e81b990c6a7bc8aa3556cd942b1730452803.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-picnic-cinema-500-days-of-summer-bengaluru-et52802/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:07:02",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-picnic-cinema-500-days-of-summer-bengaluru-et52802",
-    "id": "com.zomato.52802",
     "location": {
       "name": "Garden City Beer Collective (GCBC)",
       "address": "Garden City Beer Collective (GCBC),82/2, Gantiganahalli, Bengaluru",
@@ -1638,50 +1550,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93656731,
         "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "Bootleg Fridays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Rohith and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-11-15T20:30:00+05:30",
-    "endDate": "2024-11-15T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Bootleg Fridays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bootleg Fridays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/9f8a7f0fe7c171bf94b5134503ebb4151730464879.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et52858/details",
-        "price": 1000,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:29",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et52858",
-    "id": "com.zomato.52858",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
       }
     }
   },
@@ -2568,50 +2436,6 @@
   {
     "name": "BOLLYXOOX Saturday Night",
     "description": "DJ Mani & DJ Rashmi are all set to give you a Bollywood & Punjabi High this November. Enjoy a night full of fun & frolic and dance your heart out at the mill with our Craft!",
-    "startDate": "2024-11-15T20:00:00+05:30",
-    "endDate": "2024-11-15T23:59:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "BOLLYXOOX Saturday Night Party and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for BOLLYXOOX Saturday Night Bengaluru on Zomato which is a Party and Trending event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/318228178276b23fe26a20ab070d29551730722539.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53001/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-04 17:48:34",
-        "availability": "SELLING_FAST",
-        "inventory": 8
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53001",
-    "id": "com.zomato.53001",
-    "location": {
-      "name": "XOOX Brewmill",
-      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93656731,
-        "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "BOLLYXOOX Saturday Night",
-    "description": "DJ Mani & DJ Rashmi are all set to give you a Bollywood & Punjabi High this November. Enjoy a night full of fun & frolic and dance your heart out at the mill with our Craft!",
     "startDate": "2024-11-22T20:00:00+05:30",
     "endDate": "2024-11-22T23:59:00+05:30",
     "timezone": "+05:30",
@@ -2700,8 +2524,8 @@
   {
     "name": "Haryanvi Music with RENUKA PANWAR",
     "description": "Experience the electrifying voice of **Renuka Panwar**, the star behind viral hits that have taken the Haryanvi music scene by storm! \ud83c\udfa4\u2728 Don\u2019t miss her exclusive live performance on **November 15, 7 PM onwards at Sunburn Union Koramangala**.\n\n\n\n\u2728 **Highlights of the Night**:\n\n- \ud83c\udfb6 *Feel the energy of a live performance from the queen of Haryanvi music!*\n\n- \ud83d\udca5 *Unmatched musical vibes and electric atmosphere!*\n\n- \ud83d\udc83 *Dance to chart-topping hits like never before!*\n\n- \ud83c\udfb5 *Sing along with your favorite anthems!*",
-    "startDate": "2024-11-15T19:00:00+05:30",
-    "endDate": "2024-11-16T01:00:00+05:30",
+    "startDate": "2024-11-15 19:00:00",
+    "endDate": "2024-11-16 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2983,50 +2807,6 @@
     ],
     "url": "https://www.zomato.com/events/karaoke-night-bengaluru-et53043",
     "id": "com.zomato.53043",
-    "location": {
-      "name": "Escape by Brewklyn",
-      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.04059157,
-        "longitude": 77.61912205
-      }
-    }
-  },
-  {
-    "name": "Bollywood Night",
-    "description": "Step into the world of glamour, dance, and the vibrant energy of Bollywood with our exclusive Bollywood DJ Night at Escape by Brewklyn. This is your invitation to experience the magic of Indian cinema through music, where every beat tells a story, and every song invites you to dance.",
-    "startDate": "2024-11-15T20:00:00+05:30",
-    "endDate": "2024-11-15T23:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Bollywood Night Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bollywood Night Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3fa97783c409f0d13878b6fff970e6551730964984.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53044/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-11-07 13:25:38",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53044",
-    "id": "com.zomato.53044",
     "location": {
       "name": "Escape by Brewklyn",
       "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
@@ -3990,35 +3770,27 @@
     }
   },
   {
-    "name": "Sairaah Live| Radio Bar, RMZ Ecoworld",
-    "description": "The Magic Returns with SAIRAAH LIVE! \n\n\ud83c\udfb7Ft. Sairaah\n\ud83d\uddd3\ufe0f15th October, Friday\n\ud83d\udd57 9 pm onwards\n\ud83d\udccdRadio Bar, RMZ Ecoworld, Bellandur",
-    "startDate": "2024-11-15T21:00:00+05:30",
-    "endDate": "2024-11-15T23:50:00+05:30",
+    "name": "We Jam",
+    "description": "We Jam is the ultimate haven for music lovers!\n\nEnjoy a relaxing and fun evening with us. This is a space where you can be yourself and feel at home.\nJoin our welcoming community for a lively jamming session. Bring your guitars, cajones, and, most importantly, yourself to jam along. \n\nThe event features three parts:\n\nOpen Mic: Perform for a warm and supportive audience, no matter where you are on your musical journey. Reach out to @wejam.blr on Instagram to book your slot.\nSocial Mixer: Connect with fellow music lovers and jam along on your favourite songs. Be a part of fun and exciting music based games and get a chance to win exciting goodies. \nJamming Session: Sing, play instruments, and join the community in a warm and cozy, free-flowing musical experience. Together, we create music and memories.",
+    "startDate": "2024-11-23T17:00:00+05:30",
+    "endDate": "2024-11-23T20:30:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Sairaah Live| Radio Bar, RMZ Ecoworld Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sairaah Live| Radio Bar, RMZ Ecoworld Bengaluru on Zomato which is a Music event happening at Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+    "ogTitle": "We Jam Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for We Jam Bengaluru on Zomato which is a Music event happening at 4th Floor,Badmaash, Ashrith, Aries 53, 1, Sarjapur Main Rd, opposite HP Petrol Pump, Countryside Layout, Rainbow Drive, Doddakannelli, Bengaluru",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/8563210f8d79c1614d817502abbe3d7a1731581703.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/ee737a6691583924a1cf0f6bf5ef0f9d1731666925.png"
     ],
     "tickets": [
       {
-        "url": "https://www.zomato.com/events/sairaah-live-radio-bar-rmz-ecoworld-bengaluru-et53240/details",
-        "price": 499,
+        "url": "https://www.zomato.com/events/we-jam-bengaluru-et53249/details",
+        "price": 399,
         "currency": "INR",
-        "validFrom": "2024-11-14 16:33:18",
+        "validFrom": "2024-11-15 16:06:00",
         "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/sairaah-live-radio-bar-rmz-ecoworld-bengaluru-et53240/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-11-14 16:33:19",
-        "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 248
       }
     ],
     "performers": [],
@@ -4029,15 +3801,15 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/sairaah-live-radio-bar-rmz-ecoworld-bengaluru-et53240",
-    "id": "com.zomato.53240",
+    "url": "https://www.zomato.com/events/we-jam-bengaluru-et53249",
+    "id": "com.zomato.53249",
     "location": {
-      "name": "Radio Bar, RMZ Ecoworld",
-      "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103",
+      "name": "Badmaash, Sarjapur",
+      "address": "4th Floor,Badmaash, Ashrith, Aries 53, 1, Sarjapur Main Rd, opposite HP Petrol Pump, Countryside Layout, Rainbow Drive, Doddakannelli, Bengaluru",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 12.9208664,
-        "longitude": 77.6859185
+        "latitude": 12.9094249,
+        "longitude": 77.68764279
       }
     }
   }
