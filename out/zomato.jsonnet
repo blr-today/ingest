@@ -2620,8 +2620,8 @@
   {
     "name": "Yoga with Puppies by Pawasana",
     "description": "\"Welcome to the most pawsitively delightful yoga experience: Downward Doggies! Picture yourself on your yoga mat, surrounded by adorable, adoptable puppies frolicking around you. As you flow through your poses, their playful energy infuses each movement with joy and warmth.\n\nBut this isn't just about yoga; it's about spreading love and support for our furry friends. Every ticket sold helps support local animal shelters and rescue organizations, ensuring these precious pups find their forever homes.\n\nFeel the stress melt away as you sink into your poses, with puppy kisses and tail wags adding an extra dose of happiness to your practice. It's not just about finding your inner zen; it's about embracing the love and companionship that these furry yogis bring to your mat.",
-    "startDate": "2024-11-16T12:00:00+05:30",
-    "endDate": "2024-11-16T13:30:00+05:30",
+    "startDate": "2024-11-16 12:00:00",
+    "endDate": "2024-11-16 13:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2666,6 +2666,42 @@
         "@type": "GeoCoordinates",
         "latitude": 12.992748778992,
         "longitude": 77.59689511847
+      }
+    }
+  },
+  {
+    "name": "DGTL Goa 2024",
+    "description": "Pre-register to be notified first when the tickets drop. The line-up is to be announced soon.\n\nDGTL India 2023 saw over 15,000 attendees across 3 days enjoying world-class techno and electronic music, stunning lighting and stage designs, conceptual showcases, and vital sustainability initiatives, resulting in an immersive, audio-visual experience.\nBook your tickets now to secure your spot for this year!\nDGTL is a global electronic music festival with editions in Amsterdam, Santiago (Chile), S\u00e3o Paulo (Brazil), Bengaluru & Mumbai, and during the Amsterdam Dance Event. Besides its focus on music, DGTL features unique art installations and exciting sustainability projects. Its sustainability program sets it apart in the festival landscape.",
+    "startDate": "2024-12-27T16:00:00+05:30",
+    "endDate": "2024-12-28T04:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "DGTL Goa 2024 Best seller, Music and Experiences event Tickets Goa - Zomato",
+    "ogDesc": "Book online tickets for DGTL Goa 2024 Goa on Zomato which is a Best seller, Music and Experiences event happening at House No. 600/1, Ground Floor, Vagator, Goa",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/45057d606fe932f241ed176c7314091e1731497359.png",
+      "https://b.zmtcdn.com/data/zomaland/893083f4cfd1c54493de844d33456d1a1731389560.png"
+    ],
+    "tickets": [],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037",
+    "id": "com.zomato.53037",
+    "location": {
+      "name": "Vamos by Echo, Goa",
+      "address": "House No. 600/1, Ground Floor, Vagator, Goa",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 15.594919225551,
+        "longitude": 73.736698683197
       }
     }
   },

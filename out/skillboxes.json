@@ -76,6 +76,41 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Hello Music Enthusiasts!! JINGLE LAND Season 2 is here!!\r\n\r\nFrom Bollywood to Telugu, From Kannada to Malayalam...Experience the electrifying atmosphe",
+      "endDate": "2025-02-15T22:00:00",
+      "identifier": "com.skillboxes.17022",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SUtQWG52emxaSGJZcUdFcW9scjEzQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731738084zFEqGgAUZdO8q150.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Whitefield Main Road, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9957867",
+            "longitude": "77.6964011"
+         },
+         "name": "Phoenix Marketcity"
+      },
+      "name": "JINGLE LAND - Bangalore's Biggest Music Festival",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Actual tickets will be live soon.\nAnd Pre-Registration buyers will be notified before the tickets go live for early access.",
+            "inventoryLevel": 198,
+            "name": "Pre Registration",
+            "url": "https://www.skillboxes.com/events/ticket/jingle-land-bangalore-s-biggest-music-festival"
+         }
+      ],
+      "startDate": "2025-02-15T15:30:00",
+      "url": "https://www.skillboxes.com/events/jingle-land-bangalore-s-biggest-music-festival"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Come unleash your inner talent at The Bean grill open mic happening on 15 December at Pops of Pastel. \r\n\r\nSpread colours of your talent and rock ",
       "endDate": "2024-12-15T16:00:00",
@@ -294,10 +329,10 @@
       "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Clear your schedule, shine your shoes, and prepare to break out those Bollywood moves! Desi Beats is hitting Wasabi Lounge, Bengaluru, on November 17t",
-      "endDate": "2024-11-17T17:00:00",
+      "endDate": "2024-11-16T01:55:00",
       "identifier": "com.skillboxes.16995",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UlcwdldlTnd5cHp0bTNlekw1RTlYZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731538458cDHhrRa0DgYRiVHM.jpg.webp",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "keywords": [
          "Music Events"
       ],
@@ -312,16 +347,8 @@
          "name": "Wasabi Lounge"
       },
       "name": "Desi Beats (Bollywood Party)",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 500,
-            "name": "Regular",
-            "url": "https://www.skillboxes.com/events/ticket/desi-beats-bollywood-party"
-         }
-      ],
-      "startDate": "2024-11-17T12:30:00",
+      "offers": [ ],
+      "startDate": "2024-11-16T00:55:00",
       "url": "https://www.skillboxes.com/events/desi-beats-bollywood-party"
    },
    {
