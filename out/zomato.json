@@ -23,7 +23,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 77
+               "value": 76
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-09T05:00:00+05:30"
@@ -315,7 +315,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 37
+               "value": 32
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-21T11:44:00+05:30"
@@ -333,7 +333,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 98
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-25T15:03:00+05:30"
@@ -360,7 +360,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 47
+               "value": 43
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-17T13:46:00+05:30"
@@ -482,7 +482,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 582
+               "value": 1433
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T21:18:00+05:30"
@@ -491,7 +491,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 245
+               "value": 223
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -500,7 +500,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 288
+               "value": 264
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -622,7 +622,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 950
+               "value": 887
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T00:00:00+05:30"
@@ -631,7 +631,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 992
+               "value": 985
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T00:00:00+05:30"
@@ -672,7 +672,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 87
+               "value": 76
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-11T18:16:00+05:30"
@@ -686,51 +686,9 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 87,
+      "remainingAttendeeCapacity": 76,
       "startDate": "2024-11-16T19:00:00+05:30",
       "url": "https://www.zomato.com/events/ek-shaam-mastani-bengaluru-et52355"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Join our Tote Bag Workshop! We’ll provide all the materials, a delicious meal, and the perfect opportunity to make new friends. Our artists will guide you in creating your own personalized tote bag, making it a fun and relaxing way to spend your afternoon. Come to Paint The Town Art Cafe for a delightful time filled with creativity, food, and great conversations. 🎨🍽️👜",
-      "endDate": "2024-11-16T18:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/ef4973b2ed3053445707b40d1e5a6e4f1728980493.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.93753285,
-            "longitude": 77.612345180000005
-         },
-         "name": "Paint The Town Restaurant"
-      },
-      "name": "Van Gogh Tote Bag Painting",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 50
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-10-15T14:09:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 50,
-      "startDate": "2024-11-16T16:00:00+05:30",
-      "url": "https://www.zomato.com/events/van-gogh-tote-bag-painting-bengaluru-et52434"
    },
    {
       "@context": "https://schema.org",
@@ -1108,7 +1066,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 8
+               "value": 3
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T16:06:00+05:30"
@@ -1122,7 +1080,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 8,
+      "remainingAttendeeCapacity": 3,
       "startDate": "2024-11-16T19:00:00+05:30",
       "url": "https://www.zomato.com/events/scc-skycinema-20-years-of-veer-zaara-bengaluru-et52791"
    },
@@ -1418,7 +1376,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 50
+               "value": 48
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T16:10:00+05:30"
@@ -1588,7 +1546,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 88
+               "value": 82
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -1602,7 +1560,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 88,
+      "remainingAttendeeCapacity": 82,
       "startDate": "2024-11-17T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et52861"
    },
@@ -1840,7 +1798,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 88
+               "value": 87
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -1854,7 +1812,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 88,
+      "remainingAttendeeCapacity": 87,
       "startDate": "2024-11-24T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et52867"
    },
@@ -2386,7 +2344,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 41
+               "value": 34
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -2400,7 +2358,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 41,
+      "remainingAttendeeCapacity": 34,
       "startDate": "2024-11-29T20:00:00+05:30",
       "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53003"
    },
@@ -2437,7 +2395,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 197
+               "value": 194
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T17:05:00+05:30"
@@ -2478,7 +2436,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 142
+               "value": 127
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T17:16:00+05:30"
@@ -2492,59 +2450,9 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 142,
+      "remainingAttendeeCapacity": 127,
       "startDate": "2024-11-16T20:30:00+05:30",
       "url": "https://www.zomato.com/events/dynamite-disco-club-097-at-the-burrow-bengaluru-et53014"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "\"Welcome to the most pawsitively delightful yoga experience: Downward Doggies! Picture yourself on your yoga mat, surrounded by adorable, adoptable puppies frolicking around you. As you flow through your poses, their playful energy infuses each movement with joy and warmth.\n\nBut this isn't just about yoga; it's about spreading love and support for our furry friends. Every ticket sold helps support local animal shelters and rescue organizations, ensuring these precious pups find their forever homes.\n\nFeel the stress melt away as you sink into your poses, with puppy kisses and tail wags adding an extra dose of happiness to your practice. It's not just about finding your inner zen; it's about embracing the love and companionship that these furry yogis bring to your mat.",
-      "endDate": "2024-11-16T13:30:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/2500a372466eea25bafdff953747c8ac1730891287.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "Miller's Tank, 16/A, Bund Road, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560052",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.992748778992,
-            "longitude": 77.596895118470002
-         },
-         "name": "Breathing Spaces"
-      },
-      "name": "Yoga with Puppies by Pawasana",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 5
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-06T16:43:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 9
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-06T16:43:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-11-16T12:00:00+05:30",
-      "url": "https://www.zomato.com/events/yoga-with-puppies-by-pawasana-bengaluru-et53028"
    },
    {
       "@context": "https://schema.org",
@@ -3168,63 +3076,6 @@
       "endDate": "2024-11-16T20:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/2846088cd485da689c1f90bc3962fcf71731136157.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, Bengaluru",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.93568181,
-            "longitude": 77.613888500000002
-         },
-         "name": "Hangover XL Koramangala"
-      },
-      "name": "Soul Jams | Koramangala",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 66
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-09T12:45:00+05:30"
-         },
-         {
-            "availability": "Sold Out",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-09T12:45:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [
-         {
-            "image": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381731136705.png",
-            "name": "Soul Jams",
-            "type": "PERSON",
-            "url": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381731136705.png"
-         }
-      ],
-      "startDate": "2024-11-16T16:30:00+05:30",
-      "url": "https://www.zomato.com/events/soul-jams-koramangala-bengaluru-et53084"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
-      "endDate": "2024-11-16T20:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
       "image": "https://b.zmtcdn.com/data/zomaland/70a098bcd0716b241bc81fba1598a09b1731136367.png",
       "isAccessibleForFree": false,
       "location": {
@@ -3551,7 +3402,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 200
+               "value": 196
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-14T11:35:00+05:30"
@@ -3565,7 +3416,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 200,
+      "remainingAttendeeCapacity": 196,
       "startDate": "2024-11-17T14:00:00+05:30",
       "url": "https://www.zomato.com/events/sunday-kannada-special-live-music-bengaluru-et53233"
    },

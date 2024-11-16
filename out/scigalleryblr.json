@@ -26,64 +26,6 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "The Good, The Bad & The Ugly: Mental Illness in Indian Cinema",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery Bengaluru, Bangalore",
-      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
-    },
-    "startDate": "2024-11-16T16:00:00+05:30",
-    "endDate": "2024-11-16T18:00:00+05:30",
-    "description": "How does Indian cinema shape our understanding of mental health? From intense portrayals of characters grappling with depression and anxiety to the evolution of therapy on screen, films have a unique power to influence societal beliefs. But are these portrayals helping us break down stigma, or are they reinforcing harmful stereotypes? Join Anushka Banerjee, Chethan B and Kadambari Patil as they examine the impact of cinematic portrayals of public perception and stigma surrounding mental health issues.",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=good-bad-ugly",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Chethan-B"
-      },
-      {
-        "@type": "Person",
-        "name": "Anushka-Banerjee"
-      },
-      {
-        "@type": "Person",
-        "name": "Kadambari-Patil"
-      }
-    ],
-    "maximumAttendeeCapacity": 60
-  },
-  {
-    "@type": "EducationEvent",
-    "name": "The Good, The Bad & The Ugly: Mental Illness in Indian Cinema",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery Bengaluru, Bangalore",
-      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
-    },
-    "startDate": "2024-11-16T17:30:00+05:30",
-    "endDate": "2024-11-16T18:00:00+05:30",
-    "description": "How does Indian cinema shape our understanding of mental health? From intense portrayals of characters grappling with depression and anxiety to the evolution of therapy on screen, films have a unique power to influence societal beliefs. But are these portrayals helping us break down stigma, or are they reinforcing harmful stereotypes? Join Anushka Banerjee, Chethan B and Kadambari Patil as they examine the impact of cinematic portrayals of public perception and stigma surrounding mental health issues.",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=good-bad-ugly-ama",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Chethan-B"
-      },
-      {
-        "@type": "Person",
-        "name": "Anushka-Banerjee"
-      },
-      {
-        "@type": "Person",
-        "name": "Kadambari-Patil"
-      }
-    ],
-    "maximumAttendeeCapacity": 20
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Mental Health: From Genes to Electrical and Magnetic Stimulation",
     "location": {
       "@type": "Place",
@@ -127,5 +69,26 @@
       }
     ],
     "maximumAttendeeCapacity": 60
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Pandemics in Perspective: History of Contagion Before and After Covid",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2024-12-06T18:00:00+05:30",
+    "endDate": "2024-12-06T19:00:00+05:30",
+    "description": "How has living through a pandemic reshaped our understanding of the history of contagion and the broader discipline of the history of medicine? Join Flurin Condrau as he examines the profound impact of the recent Covid-19 pandemic. Condrau will explore how the experience of living through a pandemic shifts historical perspectives on infection. <br><br>The pandemic has not only created new avenues for public engagement but also inspired profound reconsideration of the purpose and scope of medical history.<br> Come be a part of this thought-provoking lecture and gain fresh insights into the ways global health crises reshape our understanding of disease, society, and the role of history in public health.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=pandemics-in-perspective",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Flurin-Condrau"
+      }
+    ],
+    "maximumAttendeeCapacity": 70
   }
 ]

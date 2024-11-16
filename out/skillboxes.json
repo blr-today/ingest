@@ -77,6 +77,40 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Electric Boogie \r\n\r\nFri, 22-Nov-2024 | 8 PM Onwards",
+      "endDate": "2024-11-22T23:59:00",
+      "identifier": "com.skillboxes.17026",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731751139gP0Dd7nXdjZul5rj.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "iBAR, THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9740179",
+            "longitude": "77.619422"
+         },
+         "name": "i-Bar THE Park"
+      },
+      "name": "Electric Boogie",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/electric-boogie-3"
+         }
+      ],
+      "startDate": "2024-11-22T20:00:00",
+      "url": "https://www.skillboxes.com/events/electric-boogie-3"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Hello Music Enthusiasts!! JINGLE LAND Season 2 is here!!\r\n\r\nFrom Bollywood to Telugu, From Kannada to Malayalam...Experience the electrifying atmosphe",
       "endDate": "2025-02-15T22:00:00",
       "identifier": "com.skillboxes.17022",
@@ -642,7 +676,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 458,
+            "inventoryLevel": 437,
             "name": "General Admission",
             "url": "https://www.skillboxes.com/events/ticket/pink-city"
          }
@@ -653,7 +687,7 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "More explorations as another Altspaces is underway.We have the amazing didgeridoo dance music of Two Eyed WizardXen Cat is going to give us a spe",
+      "description": "More explorations as another Altspaces is underway.\r\n\r\nWe have the amazing didgeridoo dance music of Two Eyed Wizard\r\n\r\nXen Cat is going to give ",
       "endDate": "2024-11-17T23:00:00",
       "identifier": "com.skillboxes.16955",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731388013hQC7LlkmnlQGvUL8.jpg.webp",
@@ -671,12 +705,12 @@
          },
          "name": "Sly Granny, Indiranagar"
       },
-      "name": "AltSpaces Presents Two Eyed Wizard, Shivhari, Xencat, Roquentropy & SND CHK MNJ",
+      "name": "AltSpaces Presents Two Eyed Wizard, Shivhari, Xencat, Roguentropy & SND CHK MNJ",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 296,
+            "inventoryLevel": 285,
             "name": "Early Birds",
             "url": "https://www.skillboxes.com/events/ticket/altspaces-presents-two-eyed-wizard-shivhari-xencat-roquentropy-snd-chk-mnj"
          }
@@ -710,7 +744,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 248,
+            "inventoryLevel": 225,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/house-party-series-ft-tasnneem-brahma-htarp"
          }
@@ -1136,13 +1170,6 @@
             "availability": "InStock",
             "inventoryLevel": 200,
             "name": "Girls",
-            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-15"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 200,
-            "name": "Couples",
             "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-15"
          }
       ],
@@ -1690,7 +1717,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 23,
+            "inventoryLevel": 22,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/indie-friday-ft-adi-rao"
          },
@@ -1782,7 +1809,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "We expect you to buy a cup of coffee at Starbucks to support organizing Sakura Screenings\n",
-            "inventoryLevel": 11,
+            "inventoryLevel": 10,
             "name": "Club Entry",
             "url": "https://www.skillboxes.com/events/ticket/sakura-screenings-3"
          }
@@ -1817,7 +1844,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Please arrive by 5:45 pm to secure your seat. Gates close at 6:15pm sharp. No parking available, please use public transport.\nVenue has mostly floor seating, with some chairs. As this is a house concert venue, we request that footwear be removed at the entrance. It tends to get cold, so do bring something warm. There is also one very friendly large dog at this venue.",
-            "inventoryLevel": 27,
+            "inventoryLevel": 18,
             "name": "Nush Lewis at The Blue Room",
             "url": "https://www.skillboxes.com/events/ticket/nush-lewis-at-the-blue-room"
          }
@@ -1936,7 +1963,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge INR 500/- Per Individual Applicable At Gates.\n",
-            "inventoryLevel": 963,
+            "inventoryLevel": 952,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/karma-live-the-warm-up-tour-bangalore"
          },
@@ -1979,7 +2006,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "+ Black T-shirts only + Fully Redeemable on F&B, cover charge of INR 500 applied at gate.\n",
-            "inventoryLevel": 136,
+            "inventoryLevel": 127,
             "name": "GA Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
          },
@@ -1987,7 +2014,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Get exclusive full venue access for shooting content. Fully Redeemable on F&B, cover charge of INR 500 applied at gate.\n- Call on 9380376585 to avail your All access Creator badges.",
-            "inventoryLevel": 6,
+            "inventoryLevel": 5,
             "name": "Creator Pass",
             "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
          },
@@ -2080,7 +2107,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1227,
+            "inventoryLevel": 1015,
             "name": "General Admission",
             "url": "https://www.skillboxes.com/events/ticket/bengaluru-ev-festival"
          }
@@ -2115,7 +2142,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Phase 1\n",
-            "inventoryLevel": 70,
+            "inventoryLevel": 110,
             "name": "Echoes of Grunge - Zed Axis & Seattle Wildfire",
             "url": "https://www.skillboxes.com/events/ticket/echoes-of-grunge-zed-axis-seattle-wildfire"
          },
@@ -2193,7 +2220,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 154,
+            "inventoryLevel": 127,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/Social-Selects-The-Karan-Kanchan-Kitty-Party-2"
          },
@@ -2212,7 +2239,7 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "After her support tour with The Mighty Oaks in the EU, Ditty is back in India to play her 'AZADI' Tour! Catch her performing all new music from her up",
+      "description": "After her support tour with The Mighty Oaks in the EU, Ditty is back in India to play her 'AZADI' Tour! Catch her performing all new music fro",
       "endDate": "2024-11-16T21:00:00",
       "identifier": "com.skillboxes.16267",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFdUQWFJMzlxd0V2QURMQjlPZ2t3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731165317IUBxWEsBuacQ8ALF.jpg.webp",
@@ -2234,16 +2261,16 @@
       "offers": [
          {
             "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 83,
-            "name": "Phase 1",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/azadi-tour-ditty-live-at-blr-creative-circus"
          },
          {
             "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Early Bird",
+            "availability": "InStock",
+            "inventoryLevel": 38,
+            "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/azadi-tour-ditty-live-at-blr-creative-circus"
          }
       ],
@@ -2311,15 +2338,15 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "22nd November | ENTRY ON FIRST-COME-FIRST SERVE BASIS\n",
-            "inventoryLevel": 21,
+            "inventoryLevel": 14,
             "name": "ALT EFF PASS (DAY 1)",
             "url": "https://www.skillboxes.com/events/ticket/alt-eff-2024-x-atree"
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
+            "availability": "SoldOut",
             "description": "23rd November | ENTRY ON FIRST-COME-FIRST SERVE BASIS\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 0,
             "name": "ALT EFF PASS (DAY 2)",
             "url": "https://www.skillboxes.com/events/ticket/alt-eff-2024-x-atree"
          }

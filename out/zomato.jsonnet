@@ -31,7 +31,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "INSTOCK",
-        "inventory": 77
+        "inventory": 76
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -324,7 +324,7 @@
         "currency": "INR",
         "validFrom": "2024-10-21 11:44:55",
         "availability": "INSTOCK",
-        "inventory": 37
+        "inventory": 32
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -340,7 +340,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:00",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 98
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -364,7 +364,7 @@
         "currency": "INR",
         "validFrom": "2024-10-17 13:46:27",
         "availability": "INSTOCK",
-        "inventory": 47
+        "inventory": 43
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -482,7 +482,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 582
+        "inventory": 1433
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -490,7 +490,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 245
+        "inventory": 223
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -498,7 +498,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 288
+        "inventory": 264
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -658,7 +658,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 950
+        "inventory": 887
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -666,7 +666,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 992
+        "inventory": 985
       }
     ],
     "performers": [],
@@ -710,7 +710,7 @@
         "currency": "INR",
         "validFrom": "2024-10-11 18:16:31",
         "availability": "INSTOCK",
-        "inventory": 87
+        "inventory": 76
       }
     ],
     "performers": [],
@@ -730,48 +730,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.933341,
         "longitude": 68.6588043
-      }
-    }
-  },
-  {
-    "name": "Van Gogh Tote Bag Painting",
-    "description": "Join our Tote Bag Workshop! We\u2019ll provide all the materials, a delicious meal, and the perfect opportunity to make new friends. Our artists will guide you in creating your own personalized tote bag, making it a fun and relaxing way to spend your afternoon. Come to Paint The Town Art Cafe for a delightful time filled with creativity, food, and great conversations. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83d\udc5c",
-    "startDate": "2024-11-16T16:00:00+05:30",
-    "endDate": "2024-11-16T18:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/ef4973b2ed3053445707b40d1e5a6e4f1728980493.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/van-gogh-tote-bag-painting-bengaluru-et52434/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-10-15 14:09:44",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/van-gogh-tote-bag-painting-bengaluru-et52434",
-    "id": "com.zomato.52434",
-    "location": {
-      "name": "Paint The Town Restaurant",
-      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93753285,
-        "longitude": 77.61234518
       }
     }
   },
@@ -1165,8 +1123,8 @@
         "price": 600,
         "currency": "INR",
         "validFrom": "2024-11-01 16:06:56",
-        "availability": "INSTOCK",
-        "inventory": 8
+        "availability": "SELLING_FAST",
+        "inventory": 3
       }
     ],
     "performers": [],
@@ -1490,7 +1448,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:10:26",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 48
       },
       {
         "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
@@ -1662,7 +1620,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:31",
         "availability": "INSTOCK",
-        "inventory": 88
+        "inventory": 82
       }
     ],
     "performers": [],
@@ -1926,7 +1884,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:35",
         "availability": "INSTOCK",
-        "inventory": 88
+        "inventory": 87
       }
     ],
     "performers": [],
@@ -2498,7 +2456,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:35",
         "availability": "INSTOCK",
-        "inventory": 41
+        "inventory": 34
       }
     ],
     "performers": [],
@@ -2550,7 +2508,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 17:05:32",
         "availability": "INSTOCK",
-        "inventory": 197
+        "inventory": 194
       }
     ],
     "performers": [],
@@ -2594,7 +2552,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 17:16:46",
         "availability": "INSTOCK",
-        "inventory": 142
+        "inventory": 127
       }
     ],
     "performers": [],
@@ -2614,58 +2572,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.98580107,
         "longitude": 77.58076758
-      }
-    }
-  },
-  {
-    "name": "Yoga with Puppies by Pawasana",
-    "description": "\"Welcome to the most pawsitively delightful yoga experience: Downward Doggies! Picture yourself on your yoga mat, surrounded by adorable, adoptable puppies frolicking around you. As you flow through your poses, their playful energy infuses each movement with joy and warmth.\n\nBut this isn't just about yoga; it's about spreading love and support for our furry friends. Every ticket sold helps support local animal shelters and rescue organizations, ensuring these precious pups find their forever homes.\n\nFeel the stress melt away as you sink into your poses, with puppy kisses and tail wags adding an extra dose of happiness to your practice. It's not just about finding your inner zen; it's about embracing the love and companionship that these furry yogis bring to your mat.",
-    "startDate": "2024-11-16 12:00:00",
-    "endDate": "2024-11-16 13:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Yoga with Puppies by Pawasana Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Yoga with Puppies by Pawasana Bengaluru on Zomato which is a Experiences event happening at Miller's Tank, 16/A, Bund Road, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560052",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2500a372466eea25bafdff953747c8ac1730891287.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/yoga-with-puppies-by-pawasana-bengaluru-et53028/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-11-06 16:43:11",
-        "availability": "INSTOCK",
-        "inventory": 5
-      },
-      {
-        "url": "https://www.zomato.com/events/yoga-with-puppies-by-pawasana-bengaluru-et53028/details",
-        "price": 1800,
-        "currency": "INR",
-        "validFrom": "2024-11-06 16:43:00",
-        "availability": "INSTOCK",
-        "inventory": 9
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/yoga-with-puppies-by-pawasana-bengaluru-et53028",
-    "id": "com.zomato.53028",
-    "location": {
-      "name": "Breathing Spaces",
-      "address": "Miller's Tank, 16/A, Bund Road, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560052",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.992748778992,
-        "longitude": 77.59689511847
       }
     }
   },
@@ -3311,70 +3217,10 @@
     }
   },
   {
-    "name": "Soul Jams | Koramangala",
-    "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
-    "startDate": "2024-11-16T16:30:00+05:30",
-    "endDate": "2024-11-16T20:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Soul Jams | Koramangala Music, Experiences and Best seller event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Soul Jams | Koramangala Bengaluru on Zomato which is a Music, Experiences and Best seller event happening at Ground Floor 1st Main Road 23, Ganapathi Temple Rd, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2846088cd485da689c1f90bc3962fcf71731136157.png",
-      "https://b.zmtcdn.com/data/zomaland/0a4e9d36c8d2b48ab6e7fe06742c568b1731297724.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/soul-jams-koramangala-bengaluru-et53084/details",
-        "price": 755,
-        "currency": "INR",
-        "validFrom": "2024-11-09 12:45:00",
-        "availability": "INSTOCK",
-        "inventory": 66
-      },
-      {
-        "url": "https://www.zomato.com/events/soul-jams-koramangala-bengaluru-et53084/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-11-09 12:45:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381731136705.png",
-        "name": "Soul Jams",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381731136705.png"
-      }
-    ],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/soul-jams-koramangala-bengaluru-et53084",
-    "id": "com.zomato.53084",
-    "location": {
-      "name": "Hangover XL Koramangala",
-      "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93568181,
-        "longitude": 77.6138885
-      }
-    }
-  },
-  {
     "name": "Soul Jams | Bellandur",
     "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
-    "startDate": "2024-11-16T16:30:00+05:30",
-    "endDate": "2024-11-16T20:00:00+05:30",
+    "startDate": "2024-11-16 16:30:00",
+    "endDate": "2024-11-16 20:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3710,7 +3556,7 @@
         "currency": "INR",
         "validFrom": "2024-11-14 11:35:26",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 196
       }
     ],
     "performers": [],
