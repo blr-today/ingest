@@ -77,6 +77,108 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Hello, Bangalore!\r\n\r\nGet ready for another unforgettable live performance this Saturday, 23rd November, from 8 PM onwards.\r\n\r\nCLUB CODE SATURDAY !\r\n\r\n",
+      "endDate": "2024-11-23T23:59:00",
+      "identifier": "com.skillboxes.17033",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731774232LC6gTw6Qwy9aq1b2.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "iBAR, THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9740179",
+            "longitude": "77.619422"
+         },
+         "name": "i-Bar THE Park Bangalore"
+      },
+      "name": "CLUB CODE SATURDAY",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one lady to the event.\n",
+            "inventoryLevel": 999,
+            "name": "Female RSVP Pass",
+            "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-6"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one stag to the event. Cover charges applicable at the venue throughout the event.\n",
+            "inventoryLevel": 1000,
+            "name": "Male RSVP Pass",
+            "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-6"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass allows entry to 1 Couple. Each pass permits one couple to the event. Cover charges applicable at the venue post 9:30 PM.\n",
+            "inventoryLevel": 1000,
+            "name": "Couple RSVP Pass",
+            "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-6"
+         }
+      ],
+      "startDate": "2024-11-23T20:00:00",
+      "url": "https://www.skillboxes.com/events/club-code-saturday-6"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "The most trending pop up in town is back this December with a banger - CrossOver Winter Edition with the Cercle sensation TEHO at Kitty Ko.\r\n\r\n \r",
+      "endDate": "2024-12-01T23:59:00",
+      "identifier": "com.skillboxes.17032",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731767361yiFeeo2IOGjsV7Tv.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "CrossOver ft. TEHO | 1st Dec | Kitty Ko",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 1000,
+            "name": "Female - Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-teho-1st-dec-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 9PM. Cover charges applicable at the venue post 9PM.\n",
+            "inventoryLevel": 1000,
+            "name": "Couple - Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-teho-1st-dec-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles entry for 1 Male till 9PM. Cover charges applicable at the venue post 9PM.\n",
+            "inventoryLevel": 1000,
+            "name": "Male - Pass",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-teho-1st-dec-kitty-ko"
+         }
+      ],
+      "startDate": "2024-12-01T19:00:00",
+      "url": "https://www.skillboxes.com/events/crossover-ft-teho-1st-dec-kitty-ko"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Electric Boogie \r\n\r\nFri, 22-Nov-2024 | 8 PM Onwards",
       "endDate": "2024-11-22T23:59:00",
       "identifier": "com.skillboxes.17026",
@@ -229,6 +331,14 @@
             "inventoryLevel": 300,
             "name": "Guestlist: Stags",
             "url": "https://www.skillboxes.com/events/ticket/incarnation-homegrown-talent-showcase-v1-frequenz-x-phoneix-ent-bangalore-powered-by-spacenaut-and-kaumodaki"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 9:00pm\nContact us for group or table bookings",
+            "inventoryLevel": 150,
+            "name": "Guestlist: Couples",
+            "url": "https://www.skillboxes.com/events/ticket/incarnation-homegrown-talent-showcase-v1-frequenz-x-phoneix-ent-bangalore-powered-by-spacenaut-and-kaumodaki"
          }
       ],
       "startDate": "2024-11-23T17:00:00",
@@ -261,7 +371,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge  INR 500 Applicable At Gates.\n",
-            "inventoryLevel": 28,
+            "inventoryLevel": 27,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/indie-friday-corner-cafe-chronicles-x-lotus"
          },
@@ -358,32 +468,6 @@
       ],
       "startDate": "2024-12-14T18:30:00",
       "url": "https://www.skillboxes.com/events/its-s-vidhu-prathap-25-years-of-musical-journey"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Clear your schedule, shine your shoes, and prepare to break out those Bollywood moves! Desi Beats is hitting Wasabi Lounge, Bengaluru, on November 17t",
-      "endDate": "2024-11-16T01:55:00",
-      "identifier": "com.skillboxes.16995",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UlcwdldlTnd5cHp0bTNlekw1RTlYZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731538458cDHhrRa0DgYRiVHM.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No: 27, Rest House Rd, off Brigade Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9738717",
-            "longitude": "77.6065956"
-         },
-         "name": "Wasabi Lounge"
-      },
-      "name": "Desi Beats (Bollywood Party)",
-      "offers": [ ],
-      "startDate": "2024-11-16T00:55:00",
-      "url": "https://www.skillboxes.com/events/desi-beats-bollywood-party"
    },
    {
       "@context": "https://schema.org",
@@ -652,40 +736,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "Join us at Pink City this Saturday, 16th November 2024, for a high-energy DJ event that’s sure to keep you on your feet all night long!Music: Gr",
-      "endDate": "2024-11-16T23:59:00",
-      "identifier": "com.skillboxes.16956",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MmZDVyswU3dQV1FqSUE4VmFFR0JBUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/173138871084WzgQUpg3fyzGNJ.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Party or Social Gathering"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Plot No, 36, 100 Feet Rd, opp. to Shilton Royale Hotel, Srinivagilu, Chandra Reddy Layout, S T Bed Layout, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.937676",
-            "longitude": "77.6269862"
-         },
-         "name": "Magique"
-      },
-      "name": "PINK CITY",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 437,
-            "name": "General Admission",
-            "url": "https://www.skillboxes.com/events/ticket/pink-city"
-         }
-      ],
-      "startDate": "2024-11-16T20:00:00",
-      "url": "https://www.skillboxes.com/events/pink-city"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "More explorations as another Altspaces is underway.\r\n\r\nWe have the amazing didgeridoo dance music of Two Eyed Wizard\r\n\r\nXen Cat is going to give ",
       "endDate": "2024-11-17T23:00:00",
@@ -717,40 +767,6 @@
       ],
       "startDate": "2024-11-17T17:30:00",
       "url": "https://www.skillboxes.com/events/altspaces-presents-two-eyed-wizard-shivhari-xencat-roquentropy-snd-chk-mnj"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "House Party Series ft. Tasnneem, Brahma, and HTÄRP for a night of rich beats and crafted cocktails at Grannys'. 🎶🍸Get ready for a",
-      "endDate": "2024-11-16T23:59:00",
-      "identifier": "com.skillboxes.16954",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/173138763622Eky0WTRS3H6VCl.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9705141",
-            "longitude": "77.6464228"
-         },
-         "name": "Sly Granny, Indiranagar"
-      },
-      "name": "House Party Series Ft Tasnneem, Brahma & HTÄRP",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 225,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/house-party-series-ft-tasnneem-brahma-htarp"
-         }
-      ],
-      "startDate": "2024-11-16T20:00:00",
-      "url": "https://www.skillboxes.com/events/house-party-series-ft-tasnneem-brahma-htarp"
    },
    {
       "@context": "https://schema.org",
@@ -1281,27 +1297,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "This Friday, get ready to groove to the best of Commercial and Hip-hop music at the hottest spot in B'town—Hard Rock Cafe! St. Ma",
-      "endDate": "2024-11-16T00:30:00",
-      "identifier": "com.skillboxes.16899",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731231237xg6mu3mOPrNNj16a.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "40 St. Marks Road Bangalore, India",
-         "name": "Hard Rock Cafe Bengaluru"
-      },
-      "name": "Bootleg Fridays at Hardrock Cafe",
-      "offers": [ ],
-      "startDate": "2024-11-15T20:00:00",
-      "url": "https://www.skillboxes.com/events/bootleg-fridays-at-hardrock-cafe-3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "Highlights:DJ Night Ft DJ Sumaya and Kunal GoyalLadies Night - Free Drinks For LadiesNew Party SpotAmazing AmbianceBollywood MusicGet ready to li",
       "endDate": "2024-11-18T00:30:00",
       "identifier": "com.skillboxes.16898",
@@ -1433,47 +1428,6 @@
       ],
       "startDate": "2024-11-23T18:00:00",
       "url": "https://www.skillboxes.com/events/under-the-sky"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "It's time to celebrate chocolate!WE ARE BACK with our FOURTH edition of The Indian Cacao & Craft Chocolate Festival! Taking place in Bangalore thi",
-      "endDate": "2024-11-16T20:00:00",
-      "identifier": "com.skillboxes.16863",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MVVLTHhqK2FvY2dndTllaEVBL09lZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731043326FVKe22mBG8MXARBA.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Festival & Fair"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "7, 4th Main Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9666826",
-            "longitude": "77.6352903"
-         },
-         "name": "Bangalore International Centre"
-      },
-      "name": "The Indian Cacao & Craft Chocolate Festival 2024",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 400,
-            "name": "Entry Ticket - DAY 1",
-            "url": "https://www.skillboxes.com/events/ticket/the-indian-cacao-craft-chocolate-festival-2024"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 300,
-            "name": "Entry Ticket - DAY 2",
-            "url": "https://www.skillboxes.com/events/ticket/the-indian-cacao-craft-chocolate-festival-2024"
-         }
-      ],
-      "startDate": "2024-11-16T08:00:00",
-      "url": "https://www.skillboxes.com/events/the-indian-cacao-craft-chocolate-festival-2024"
    },
    {
       "@context": "https://schema.org",
@@ -1855,47 +1809,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Kannada DJ Party",
-      "endDate": "2024-11-16T23:59:00",
-      "identifier": "com.skillboxes.16746",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730291200X95SX08dQ0ydT3VP.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "J6JC+35R, Connaught Cir, Block N, Connaught Place, New Delhi, Delhi 110001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28.6302337",
-            "longitude": "77.2203902"
-         },
-         "name": "Attitude Kitchen & Bar"
-      },
-      "name": "Kannada DJ Party",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Female Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/kannada-dj-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Male Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/kannada-dj-party"
-         }
-      ],
-      "startDate": "2024-11-16T12:00:00",
-      "url": "https://www.skillboxes.com/events/kannada-dj-party"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "First time in Bangalore , The most awaited event of the season is here.\r\n\r\n \r\n\r\nDay Dreamers Presents \r\n\r\n \r\n\r\nSky Lantern Festival - A",
       "endDate": "2024-12-07T22:00:00",
       "identifier": "com.skillboxes.16738",
@@ -2117,49 +2030,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Mark your calendars for November 16th at the Bira 91 Taproom Koramangala, where local band \"Zed Axis\" will perform a Grunge Superset and Che",
-      "endDate": "2024-11-16T23:59:00",
-      "identifier": "com.skillboxes.16562",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SnBOcGRpQUdvR3c0bW41ZEJCdmZlZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1729426400IjVv3AZ0n8qkosrA.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9313063",
-            "longitude": "77.6329297"
-         },
-         "name": "Bira 91 Taproom, Koramangala"
-      },
-      "name": "Echoes of Grunge - Zed Axis & Seattle Wildfire",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Phase 1\n",
-            "inventoryLevel": 110,
-            "name": "Echoes of Grunge - Zed Axis & Seattle Wildfire",
-            "url": "https://www.skillboxes.com/events/ticket/echoes-of-grunge-zed-axis-seattle-wildfire"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "Early Bird\n",
-            "inventoryLevel": 0,
-            "name": "Echoes of Grunge - Zed Axis & Seattle Wildfire",
-            "url": "https://www.skillboxes.com/events/ticket/echoes-of-grunge-zed-axis-seattle-wildfire"
-         }
-      ],
-      "startDate": "2024-11-16T20:00:00",
-      "url": "https://www.skillboxes.com/events/echoes-of-grunge-zed-axis-seattle-wildfire"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "Event",
       "description": "\"Salsa Thursdays at The Studio by C+C\"The Studio by Copper + Cloves in association with shArA Salsa and Latin Dance Institute presents Salsa T",
       "endDate": "2024-12-12T21:15:00",
@@ -2235,47 +2105,6 @@
       ],
       "startDate": "2024-11-17T20:00:00",
       "url": "https://www.skillboxes.com/events/Social-Selects-The-Karan-Kanchan-Kitty-Party-2"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "After her support tour with The Mighty Oaks in the EU, Ditty is back in India to play her 'AZADI' Tour! Catch her performing all new music fro",
-      "endDate": "2024-11-16T21:00:00",
-      "identifier": "com.skillboxes.16267",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFdUQWFJMzlxd0V2QURMQjlPZ2t3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731165317IUBxWEsBuacQ8ALF.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "12/2, Yeshwanthpur Industrial Suburb, Estate, Bengaluru, Karnataka 560086, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0138897",
-            "longitude": "77.5481114"
-         },
-         "name": "Bangalore Creative Circus"
-      },
-      "name": "AZADI Tour | DITTY Live at BLR Creative Circus",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/azadi-tour-ditty-live-at-blr-creative-circus"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 38,
-            "name": "Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/azadi-tour-ditty-live-at-blr-creative-circus"
-         }
-      ],
-      "startDate": "2024-11-16T18:00:00",
-      "url": "https://www.skillboxes.com/events/azadi-tour-ditty-live-at-blr-creative-circus"
    },
    {
       "@context": "https://schema.org",

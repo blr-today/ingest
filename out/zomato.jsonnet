@@ -692,8 +692,8 @@
   {
     "name": "Ek Shaam Mastani",
     "description": "Get ready to travel back in time and relive the golden era of Bollywood! On November 16, immerse yourself in an unforgettable musical journey featuring the biggest hits from the 70s, 80s, and 90s. From soulful melodies to foot-tapping beats, Ek Shaam Mastani promises an evening filled with nostalgia, live performances, and electrifying energy. Whether you're a die-hard Bollywood fan or just love timeless music, this night will have you singing along and dancing to your favorite classics. Don't miss the chance to experience Bollywood magic like never before!",
-    "startDate": "2024-11-16T19:00:00+05:30",
-    "endDate": "2024-11-17T00:30:00+05:30",
+    "startDate": "2024-11-16 19:00:00",
+    "endDate": "2024-11-17 00:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -902,68 +902,6 @@
     }
   },
   {
-    "name": "Musicathon",
-    "description": "Musicathon Bir, a vibrant music festival set against the stunning backdrop of Bir, Himachal Pradesh. This unique event celebrates the fusion of music, nature, and cultural diversity, offering a one-of-a-kind experience for attendees.\n\nLineup: \nBombay Bandook \nSwastik \nAkash Chopra \nDesi Delay \nYuvraj\nBuland himalay\nChintan Chauhan\nAhmad Parvez",
-    "startDate": "2024-11-15 10:00:00",
-    "endDate": "2024-11-16 22:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Musicathon Music and Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Musicathon Bengaluru on Zomato which is a Music and Experiences event happening at The heart of Bir , Lake side cafe, near Learn Well Public Sr. Sec. School,, Chaugan, Bir, Himachal Pradesh 176077",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/28cf24670ea27942130adb982a44fddc1729233431.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/998b44cdbeb86d0b8b113bdbcc6f2bab1729236203.png",
-      "https://b.zmtcdn.com/data/zomaland/e90697593a881465282022dc41f692da1729236205.png",
-      "https://b.zmtcdn.com/data/zomaland/60b82363cb421c98436c7dd53ca9da251729236208.png",
-      "https://b.zmtcdn.com/data/zomaland/608b9fa619bb131447edd134d758c03c1729236210.png",
-      "https://b.zmtcdn.com/data/zomaland/c8024e260e997d762e0dd1ae13cf29da1729236213.png",
-      "https://b.zmtcdn.com/data/zomaland/338811b2f4757740a449a8c4fbb0b2f91729236215.png",
-      "https://b.zmtcdn.com/data/zomaland/36309cd05d11f48a9a0725e0a74f2eb91729236218.png",
-      "https://b.zmtcdn.com/data/zomaland/3e649238f06726e6b85ee8136e939a541729236221.png",
-      "https://b.zmtcdn.com/data/zomaland/7f2d2bfad0cc24123bc5c56c31cec03a1729236224.png",
-      "https://b.zmtcdn.com/data/zomaland/28a9a989a185a8e21df10ec897a7e8e11729236227.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/musicathon-bengaluru-et52515/details",
-        "price": 3199,
-        "currency": "INR",
-        "validFrom": "2024-10-18 12:12:00",
-        "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/musicathon-bengaluru-et52515/details",
-        "price": 5399,
-        "currency": "INR",
-        "validFrom": "2024-10-18 12:12:00",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/musicathon-bengaluru-et52515",
-    "id": "com.zomato.52515",
-    "location": {
-      "name": "The Heart of Bir , Lake Side Cafe",
-      "address": "The heart of Bir , Lake side cafe, near Learn Well Public Sr. Sec. School,, Chaugan, Bir, Himachal Pradesh 176077",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 32.03782499,
-        "longitude": 76.72285442
-      }
-    }
-  },
-  {
     "name": "Tribute to AC/DC & Guns N' Roses",
     "description": "Lee & Hard Rock Cafe Presents The Ultimate Tribute to AC/DC & Guns N\u2019 Roses ft. 2Blue\nYOU WILL LOVE HIM! Because he is not just a great singer! Tirthankar Poddar (aka 2Blue) is a muscular statement like a raised fist! With his four-octave militant-like voice and provocative storytelling, he is known to dazzle. Small wonder when Paul Di`Anno of Iron Maiden and George Lynch of Dokken came to India, it was 2Blue they performed with. As did Bumblefoot of Guns N\u2019 Roses.\nIf you were born in the `80s and raised on vintage rock, this could be emotional. Because chances are 2Blue is the artist you laughed and cried with when you were young. Chances are he is who you connected with on MySpace and Orkut when you needed a friend. And over the years, chances are he is who you grew old with the lead singer of Vayu who went solo, the man who was crazy enough to quit his lucrative day job to headline your college festival.",
     "startDate": "2024-12-21T21:00:00+05:30",
@@ -1104,50 +1042,6 @@
     }
   },
   {
-    "name": "SCC SkyCinema - 20 Years of Veer Zaara",
-    "description": "\"Aaj se meri har raahein, meri manzilein, aur meri kahani sirf tumse.\"- Veer Zaara\n\nRekindle the timeless romance of Veer and Zara. Join us for a special screening of the iconic film that captured hearts worldwide. Celebrate 20 years of love, sacrifice, and the enduring power of human connection under the starry night sky. Experience the magic of Veer Zara once again.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the skyline of the city as your backdrop.",
-    "startDate": "2024-11-16T19:00:00+05:30",
-    "endDate": "2024-11-16T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC SkyCinema - 20 Years of Veer Zaara Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC SkyCinema - 20 Years of Veer Zaara Bengaluru on Zomato which is a Experiences and Trending event happening at 1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/102eb14a6d38bc64002ccee00e7de26e1730451903.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-20-years-of-veer-zaara-bengaluru-et52791/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:06:56",
-        "availability": "SELLING_FAST",
-        "inventory": 3
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-20-years-of-veer-zaara-bengaluru-et52791",
-    "id": "com.zomato.52791",
-    "location": {
-      "name": "1 MG - Lido Mall",
-      "address": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97480423,
-        "longitude": 77.62066549
-      }
-    }
-  },
-  {
     "name": "SCC SkyCinema - The Proposal",
     "description": "\"Marry me. Because I'd like to date you.\"- The Proposal\n\nSunset Cinema Club invites you to immerse yourself in a heartwarming love story that will leave you smiling. Get ready for plenty of laughs and an unforgettable night of cinematic joy at 1 MG - Lido Mall .\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the skyline of the city as your backdrop.",
     "startDate": "2024-11-23T19:00:00+05:30",
@@ -1232,58 +1126,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97480423,
         "longitude": 77.62066549
-      }
-    }
-  },
-  {
-    "name": "SCC Kids Cinema - Up!",
-    "description": "\"Adventure is out there. It's waiting for us!\" - Up!\n\nJoin us for a kid-tastic outdoor movie screening where the only thing bigger than the screen is the smiles on your little ones' faces. Experience the magic of cinema in a super-duper fun and relaxed atmosphere. Let your kids explore the awesome world of movies in a totally safe and welcoming environment. Get ready for an out-of-this-world adventure with your little munchkins!\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.",
-    "startDate": "2024-11-16T19:00:00+05:30",
-    "endDate": "2024-11-16T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC Kids Cinema - Up! Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC Kids Cinema - Up! Bengaluru on Zomato which is a Experiences and Trending event happening at Forum South Bengaluru Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/7a9aa12b66d548bd4edc09224f5dc61f1730452172.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-kids-cinema-up-bengaluru-et52795/details",
-        "price": 500,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:06:58",
-        "availability": "INSTOCK",
-        "inventory": 9
-      },
-      {
-        "url": "https://www.zomato.com/events/scc-kids-cinema-up-bengaluru-et52795/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:06:59",
-        "availability": "INSTOCK",
-        "inventory": 7
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-kids-cinema-up-bengaluru-et52795",
-    "id": "com.zomato.52795",
-    "location": {
-      "name": "Forum South Bengaluru",
-      "address": "Forum South Bengaluru Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.25228833,
-        "longitude": 77.7606939
       }
     }
   },
@@ -1512,50 +1354,6 @@
     }
   },
   {
-    "name": "Tribute to Porcupine Tree",
-    "description": "Dark Light is a five-piece psychedelic/progressive rock band from Bangalore whose music has been compared to a soulful blend of stadium rock`s ferocity and fury with progressive elements and ambient psychedelic soundscapes. They significantly draw inspiration from artists such as Porcupine Tree, Pink Floyd, U2, Opeth, Guns N` Roses, Radiohead, and Led Zeppelin and aim to make music that will captivate you and leave you wanting more.",
-    "startDate": "2024-11-16T21:00:00+05:30",
-    "endDate": "2024-11-16T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Porcupine Tree Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Porcupine Tree Bengaluru on Zomato which is a Music and Trending event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/13860007b44b74a1cf3e7108a72dd6b51730464938.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-porcupine-tree-bengaluru-et52859/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:30",
-        "availability": "INSTOCK",
-        "inventory": 20
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-porcupine-tree-bengaluru-et52859",
-    "id": "com.zomato.52859",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Sunny Tunes",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Presentense and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
     "startDate": "2024-11-17T13:00:00+05:30",
@@ -1633,50 +1431,6 @@
     ],
     "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et52861",
     "id": "com.zomato.52861",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-11-20T20:30:00+05:30",
-    "endDate": "2024-11-20T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/692d0659cac0cee0fcc67949bdb637481730465086.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52862/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:31",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52862",
-    "id": "com.zomato.52862",
     "location": {
       "name": "Hard Rock Cafe",
       "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
@@ -2080,50 +1834,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97595324,
         "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Mixed Rock",
-    "description": "The Einstein`s\u2019 Experience (TEE) is emerging among the best bands in Bangalore. The Band started its journey in 2010 in Bangalore and played over 500+ stage shows across India. Worked 0n several projects with some of the most respected Musicians and Artists in Bangalore. Catch them live on the 16th of November at Hard Rock Cafe Bengaluru.",
-    "startDate": "2024-11-16T21:00:00+05:30",
-    "endDate": "2024-11-16T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Mixed Rock Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Mixed Rock Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2fd3831fac4d89d491be544caed0a0721730480637.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/mixed-rock-bengaluru-et52883/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-11-01 22:59:37",
-        "availability": "INSTOCK",
-        "inventory": 20
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/mixed-rock-bengaluru-et52883",
-    "id": "com.zomato.52883",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
       }
     }
   },
@@ -2534,8 +2244,8 @@
   {
     "name": "Dynamite Disco Club 097 at The Burrow",
     "description": "Diwali may be over, but the real fireworks are just beginning! Get ready to light up the night by dancing all night at the latest edition of Dynamite Disco Club at The Burrow, Bangalore, on Saturday, the 16th. This time, we're thrilled to welcome the return of the mighty Dreamstates, known for his genre-blending and boundary-pushing DJ sets.\n\nStarting off the night is Satty, a rising star from Chennai\u2019s nu-dance music scene and a key member of Funk'n Around. Our host and DDC head honcho, Mr. Dynamite himself, Stalvart John, will close out the night.",
-    "startDate": "2024-11-16T20:30:00+05:30",
-    "endDate": "2024-11-17T01:00:00+05:30",
+    "startDate": "2024-11-16 20:30:00",
+    "endDate": "2024-11-17 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2777,50 +2487,6 @@
     ],
     "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53046",
     "id": "com.zomato.53046",
-    "location": {
-      "name": "Escape by Brewklyn",
-      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.04059157,
-        "longitude": 77.61912205
-      }
-    }
-  },
-  {
-    "name": "Saturday Vibes",
-    "description": "Get ready to dive into the heart of Bangalore's nightlife with Saturday Vibes at Escape by Brewklyn, where the beats are as bold as the brews! Every Saturday, we transform our space into a haven for music lovers, dance enthusiasts, and anyone looking to enjoy a night out with a difference.",
-    "startDate": "2024-11-16T20:00:00+05:30",
-    "endDate": "2024-11-16T23:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Saturday Vibes Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Saturday Vibes Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3694b8ccd594886ac337c5880ebb611d1730965096.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/saturday-vibes-bengaluru-et53047/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-11-07 13:25:38",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/saturday-vibes-bengaluru-et53047",
-    "id": "com.zomato.53047",
     "location": {
       "name": "Escape by Brewklyn",
       "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
@@ -3217,61 +2883,10 @@
     }
   },
   {
-    "name": "Soul Jams | Bellandur",
-    "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_live on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
-    "startDate": "2024-11-16 16:30:00",
-    "endDate": "2024-11-16 20:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Soul Jams | Bellandur Music and Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Soul Jams | Bellandur Bengaluru on Zomato which is a Music and Experiences event happening at 74, 4th Floor, above ICICI Bank, Green Glen Layout, Bellandur, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/70a098bcd0716b241bc81fba1598a09b1731136367.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/soul-jams-i-sarjapur-bengaluru-et53085/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-11-09 12:45:00",
-        "availability": "SELLING_FAST",
-        "inventory": 42
-      }
-    ],
-    "performers": [
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381731136794.png",
-        "name": "Soul Jams",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381731136794.png"
-      }
-    ],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/soul-jams-i-sarjapur-bengaluru-et53085",
-    "id": "com.zomato.53085",
-    "location": {
-      "name": "Tipsy Bull - The Bar Exchange - Bellandur",
-      "address": "74, 4th Floor, above ICICI Bank, Green Glen Layout, Bellandur, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.92436173,
-        "longitude": 77.67161961
-      }
-    }
-  },
-  {
     "name": "The White Party Ft. Dj Nirvaan (Afterlyf)",
     "description": "The wait is over! The Third edition of The White Party is happening this weekend at High Ultra Lounge! Join us on 16th November, from 8 pm onwards, as we bring you an unforgettable night of music, dancing, and luxury! International DJ Nirvaan will be performing live, so don't miss out! Dress code: All-White Attire (Strictly Enforced). See you there!\n\nDISCLAIMER: Please make sure to follow club rules.",
-    "startDate": "2024-11-16T20:00:00+05:30",
-    "endDate": "2024-11-17T01:00:00+05:30",
+    "startDate": "2024-11-16 20:00:00",
+    "endDate": "2024-11-17 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -3494,8 +3109,8 @@
   {
     "name": "Prime time Saturday",
     "description": "Get ready to rock Join us for an electrifying night of live music , craft beer and golf as , Unmukt the Band takes over our stage for our Prime Time Saturday ,bringing their unique sound and infectious energy Let's make some unforgettable memories!",
-    "startDate": "2024-11-16T20:00:00+05:30",
-    "endDate": "2024-11-17T00:30:00+05:30",
+    "startDate": "2024-11-16 20:00:00",
+    "endDate": "2024-11-17 00:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
