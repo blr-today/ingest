@@ -2522,66 +2522,6 @@
     }
   },
   {
-    "name": "Haryanvi Music with RENUKA PANWAR",
-    "description": "Experience the electrifying voice of **Renuka Panwar**, the star behind viral hits that have taken the Haryanvi music scene by storm! \ud83c\udfa4\u2728 Don\u2019t miss her exclusive live performance on **November 15, 7 PM onwards at Sunburn Union Koramangala**.\n\n\n\n\u2728 **Highlights of the Night**:\n\n- \ud83c\udfb6 *Feel the energy of a live performance from the queen of Haryanvi music!*\n\n- \ud83d\udca5 *Unmatched musical vibes and electric atmosphere!*\n\n- \ud83d\udc83 *Dance to chart-topping hits like never before!*\n\n- \ud83c\udfb5 *Sing along with your favorite anthems!*",
-    "startDate": "2024-11-15 19:00:00",
-    "endDate": "2024-11-16 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Haryanvi Music with RENUKA PANWAR Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Haryanvi Music with RENUKA PANWAR Bengaluru on Zomato which is a Music event happening at passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4a1451f2f61b564f6250e55491fb4e391730805029.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/haryanvi-music-with-renuka-panwar-bengaluru-et53010/details",
-        "price": 200,
-        "currency": "INR",
-        "validFrom": "2024-11-05 16:48:19",
-        "availability": "INSTOCK",
-        "inventory": 195
-      },
-      {
-        "url": "https://www.zomato.com/events/haryanvi-music-with-renuka-panwar-bengaluru-et53010/details",
-        "price": 400,
-        "currency": "INR",
-        "validFrom": "2024-11-05 16:48:19",
-        "availability": "INSTOCK",
-        "inventory": 200
-      },
-      {
-        "url": "https://www.zomato.com/events/haryanvi-music-with-renuka-panwar-bengaluru-et53010/details",
-        "price": 400,
-        "currency": "INR",
-        "validFrom": "2024-11-05 16:48:20",
-        "availability": "INSTOCK",
-        "inventory": 198
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/haryanvi-music-with-renuka-panwar-bengaluru-et53010",
-    "id": "com.zomato.53010",
-    "location": {
-      "name": "Sunburn Union",
-      "address": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.94589763,
-        "longitude": 77.61987771
-      }
-    }
-  },
-  {
     "name": "Mixmag Lab Bengaluru",
     "description": "SoMAD Brings you Bengaluru's Hottest Mixmag Rooftop Sundowner to Night Party at One8 Commune.  \n\nA Mixmag Showcase is an immersive event spotlighting the pulse of electronic music, featuring top-tier DJs and artists who redefine the dance music landscape. Curated with Mixmag\u2019s signature taste and authority in club culture, these showcases blend underground vibes with global sounds, creating a dynamic atmosphere where emerging talent meets renowned acts. The experience is designed to captivate from start to finish, with innovative lighting, cutting-edge sound systems, and unique visuals that amplify the music. Ideal for fans who crave authentic and genre-defining performances, a Mixmag Showcase is a celebration of electronic music\u2019s most vibrant elements and its powerful sense of community.",
     "startDate": "2024-11-24T16:00:00+05:30",
@@ -3073,6 +3013,46 @@
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
         "price": 3999,
         "currency": "INR",
+        "validFrom": "2024-11-15 15:34:27",
+        "availability": "INSTOCK",
+        "inventory": 1000
+      },
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 6599,
+        "currency": "INR",
+        "validFrom": "2024-11-15 15:04:42",
+        "availability": "INSTOCK",
+        "inventory": 2000
+      },
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 29999,
+        "currency": "INR",
+        "validFrom": "2024-11-15 15:04:42",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 57999,
+        "currency": "INR",
+        "validFrom": "2024-11-15 15:04:43",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 83999,
+        "currency": "INR",
+        "validFrom": "2024-11-15 15:04:43",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
+        "price": 3999,
+        "currency": "INR",
         "validFrom": "2024-11-07 17:32:00",
         "availability": "INSTOCK",
         "inventory": 1000
@@ -3081,7 +3061,7 @@
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
         "price": 5999,
         "currency": "INR",
-        "validFrom": "2024-11-07 17:32:08",
+        "validFrom": "2024-11-07 17:32:00",
         "availability": "INSTOCK",
         "inventory": 50
       },
@@ -3374,8 +3354,8 @@
         "price": 499,
         "currency": "INR",
         "validFrom": "2024-11-09 12:45:00",
-        "availability": "INSTOCK",
-        "inventory": 85
+        "availability": "SELLING_FAST",
+        "inventory": 42
       }
     ],
     "performers": [
@@ -3426,7 +3406,7 @@
         "currency": "INR",
         "validFrom": "2024-11-11 12:50:49",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 197
       },
       {
         "url": "https://www.zomato.com/events/the-white-party-ft-dj-nirvaan-afterlyf-bengaluru-et53099/details",
@@ -3434,7 +3414,7 @@
         "currency": "INR",
         "validFrom": "2024-11-11 12:50:49",
         "availability": "INSTOCK",
-        "inventory": 194
+        "inventory": 190
       },
       {
         "url": "https://www.zomato.com/events/the-white-party-ft-dj-nirvaan-afterlyf-bengaluru-et53099/details",
@@ -3442,7 +3422,7 @@
         "currency": "INR",
         "validFrom": "2024-11-11 12:50:50",
         "availability": "INSTOCK",
-        "inventory": 190
+        "inventory": 183
       }
     ],
     "performers": [],

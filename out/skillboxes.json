@@ -1,44 +1,6 @@
 [
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "LiveBox is proud to present the progressive rock supergroup THE ARISTOCRATS as part of their brand new DUCK Tour in March 2025.\r\n\r\nVenues and opening ",
-      "endDate": "2025-03-28T23:59:00",
-      "identifier": "com.skillboxes.16637",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1729686385O5eLoUuW9KJHLSey.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "name": "To Be Announced"
-      },
-      "name": "LiveBox feat. The Aristocrats | Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 628,
-            "name": "Phase 1 Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/livebox-feat-the-aristocrats-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 0,
-            "name": "Early Bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/livebox-feat-the-aristocrats-bangalore"
-         }
-      ],
-      "startDate": "2025-03-28T20:00:00",
-      "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Mark your calendars for October 5th, 2024, and get ready to step into a world of wonder and excitement at LUNALAND! \n\n \n\nEnj",
       "endDate": "2024-11-23T22:00:00",
@@ -111,6 +73,54 @@
       ],
       "startDate": "2024-11-23T15:00:00",
       "url": "https://www.skillboxes.com/events/lunaland-the-carnival-of-dreams-awaits"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Come unleash your inner talent at The Bean grill open mic happening on 15 December at Pops of Pastel. \r\n\r\nSpread colours of your talent and rock ",
+      "endDate": "2024-12-15T16:00:00",
+      "identifier": "com.skillboxes.17021",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c0FLb0lFN1lKeDBFWEszVUh5QmQvQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731695476FrN3UqV21XGTHYwt.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Meet-ups"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No. 53, 1st Floor, Shree Chambers, Subbarama Chetty Road, 1st Floor, Nettakallappa Cir, above Karnataka Bank - Basavanagudi Branch, Basavanagudi, Bengaluru, Karnataka 560004, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9394742",
+            "longitude": "77.5716604"
+         },
+         "name": "Pops of Pastel"
+      },
+      "name": "The Bean grill open mic",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Audience Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-13"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Performer Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-13"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Combo Ticket - Audience + Performer",
+            "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-13"
+         }
+      ],
+      "startDate": "2024-12-15T14:00:00",
+      "url": "https://www.skillboxes.com/events/the-bean-grill-open-mic-13"
    },
    {
       "@context": "https://schema.org",
@@ -564,7 +574,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 12,
+            "inventoryLevel": 1,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/brainbow-x-param-live"
          },
@@ -912,7 +922,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 21+ Cover applicable at gates.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "RSVP/ Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/social-tadka-bangalore-takeover-2"
          }
@@ -1231,32 +1241,7 @@
          "name": "Hard Rock Cafe Bengaluru"
       },
       "name": "Bootleg Fridays at Hardrock Cafe",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry till 0930pm, post cover charges applciable\n",
-            "inventoryLevel": 100,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable through out the event\n",
-            "inventoryLevel": 100,
-            "name": "Stag",
-            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow one single entry\n",
-            "inventoryLevel": 100,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-3"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-11-15T20:00:00",
       "url": "https://www.skillboxes.com/events/bootleg-fridays-at-hardrock-cafe-3"
    },
