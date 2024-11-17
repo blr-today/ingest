@@ -30,8 +30,8 @@
         "price": 24999,
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
-        "availability": "INSTOCK",
-        "inventory": 76
+        "availability": "SELLING_FAST",
+        "inventory": 68
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -147,7 +147,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 17:18:27",
         "availability": "INSTOCK",
-        "inventory": 34
+        "inventory": 33
       }
     ],
     "performers": [],
@@ -167,138 +167,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.9151339,
         "longitude": 77.6660495
-      }
-    }
-  },
-  {
-    "name": "Feeding India Concert with Dua Lipa",
-    "description": "Attention Dua Lipa fans - get ready to levitate! The Feeding India Concert, organised by Zomato's Feeding India initiative to fight malnutrition, is back.\nThis time, global pop icon Dua Lipa is here to make you \u2018dance the night away\u2019 in Mumbai. Witness the chart-topping artist light up the stage with her electrifying hits, and don\u2019t miss the amazing support acts: the sensational JONITA and the dynamic Talwiinder.\n\nWe\u2019ve just got one \u2018new rule\u2019 \u2013 don't miss the chance to be part of this incredible experience, with a great cause.",
-    "startDate": "2024-11-30T15:00:00+05:30",
-    "endDate": "2024-11-30T22:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Feeding India Concert with Dua Lipa Music, Trending and Best seller event Tickets Mumbai - Zomato",
-    "ogDesc": "Book online tickets for Feeding India Concert with Dua Lipa Mumbai on Zomato which is a Music, Trending and Best seller event happening at New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/abfe2e3c5a55ffdcd1100dd80f9a6f181731339955.png",
-      "https://b.zmtcdn.com/data/zomaland/0c2ae00635ef4aee1fffa8bb266ffc641724335426.png",
-      "https://b.zmtcdn.com/data/zomaland/b4454ca93f87b57dbacf89c658d91fb61724335445.png",
-      "https://b.zmtcdn.com/data/zomaland/502ce90275c6e620055d4a7c8562584a1724335474.png",
-      "https://b.zmtcdn.com/data/zomaland/e3fa669fa71173925953e87f874384001724335474.png",
-      "https://b.zmtcdn.com/data/zomaland/cedaa72666b1954a845beb9f5fbcce061724335474.png",
-      "https://b.zmtcdn.com/data/zomaland/905835bd13100813bb656faf1cbaf1af1724658596.png",
-      "https://b.zmtcdn.com/data/zomaland/abfe2e3c5a55ffdcd1100dd80f9a6f181731385762.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
-        "price": 6000,
-        "currency": "INR",
-        "validFrom": "2024-08-26 15:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
-        "price": 7500,
-        "currency": "INR",
-        "validFrom": "2024-08-26 15:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
-        "price": 10000,
-        "currency": "INR",
-        "validFrom": "2024-08-26 15:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
-        "price": 36000,
-        "currency": "INR",
-        "validFrom": "2024-08-26 15:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
-        "price": 40000,
-        "currency": "INR",
-        "validFrom": "2024-08-26 15:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
-        "price": 45000,
-        "currency": "INR",
-        "validFrom": "2024-08-26 15:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
-        "price": 13500,
-        "currency": "INR",
-        "validFrom": "2024-08-26 15:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
-        "price": 17000,
-        "currency": "INR",
-        "validFrom": "2024-08-26 15:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png",
-        "name": "Dua Lipa",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png"
-      },
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png",
-        "name": "Jonita",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png"
-      },
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png",
-        "name": "Talwiinder",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png"
-      },
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png",
-        "name": "More",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png"
-      }
-    ],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042",
-    "id": "com.zomato.49042",
-    "location": {
-      "name": "MMRDA Ground",
-      "address": "New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 19.06727212,
-        "longitude": 72.8615249
       }
     }
   },
@@ -324,7 +192,7 @@
         "currency": "INR",
         "validFrom": "2024-10-21 11:44:55",
         "availability": "INSTOCK",
-        "inventory": 32
+        "inventory": 30
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -332,7 +200,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:47",
         "availability": "INSTOCK",
-        "inventory": 28
+        "inventory": 26
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -482,7 +350,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 1433
+        "inventory": 1296
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -490,7 +358,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 223
+        "inventory": 205
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -498,7 +366,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 264
+        "inventory": 197
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -658,7 +526,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 887
+        "inventory": 829
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -666,7 +534,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 985
+        "inventory": 974
       }
     ],
     "performers": [],
@@ -924,7 +792,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 269
+        "inventory": 267
       },
       {
         "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
@@ -932,7 +800,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 306
+        "inventory": 297
       }
     ],
     "performers": [],
@@ -1158,14 +1026,6 @@
         "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
         "price": 1199,
         "currency": "INR",
-        "validFrom": "2024-11-01 16:10:26",
-        "availability": "INSTOCK",
-        "inventory": 48
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
-        "price": 1199,
-        "currency": "INR",
         "validFrom": "2024-11-01 16:10:27",
         "availability": "INSTOCK",
         "inventory": 50
@@ -1174,23 +1034,7 @@
         "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
         "price": 1799,
         "currency": "INR",
-        "validFrom": "2024-11-01 16:10:26",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
-        "price": 1799,
-        "currency": "INR",
         "validFrom": "2024-11-01 16:10:27",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
-        "price": 2299,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:10:26",
         "availability": "INSTOCK",
         "inventory": 50
       },
@@ -1220,50 +1064,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93656731,
         "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "Rock Out Sundays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-11-17T20:30:00+05:30",
-    "endDate": "2024-11-17T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/a246b56215a3ba6b2415d6a187ff2e511730465041.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et52861/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:31",
-        "availability": "INSTOCK",
-        "inventory": 82
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et52861",
-    "id": "com.zomato.52861",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
       }
     }
   },
@@ -1420,7 +1220,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:34",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       }
     ],
     "performers": [],
@@ -1464,7 +1264,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:35",
         "availability": "INSTOCK",
-        "inventory": 87
+        "inventory": 86
       }
     ],
     "performers": [],
@@ -1508,7 +1308,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:35",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 94
       }
     ],
     "performers": [],
@@ -1684,7 +1484,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 22:59:38",
         "availability": "INSTOCK",
-        "inventory": 194
+        "inventory": 191
       }
     ],
     "performers": [],
@@ -1772,7 +1572,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 22:59:40",
         "availability": "INSTOCK",
-        "inventory": 197
+        "inventory": 195
       }
     ],
     "performers": [],
@@ -1860,7 +1660,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:33",
         "availability": "INSTOCK",
-        "inventory": 46
+        "inventory": 42
       }
     ],
     "performers": [],
@@ -1904,7 +1704,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:34",
         "availability": "INSTOCK",
-        "inventory": 49
+        "inventory": 46
       }
     ],
     "performers": [],
@@ -1948,7 +1748,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:35",
         "availability": "INSTOCK",
-        "inventory": 42
+        "inventory": 35
       }
     ],
     "performers": [],
@@ -1992,7 +1792,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:35",
         "availability": "INSTOCK",
-        "inventory": 34
+        "inventory": 33
       }
     ],
     "performers": [],
@@ -2044,7 +1844,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 17:05:32",
         "availability": "INSTOCK",
-        "inventory": 194
+        "inventory": 193
       }
     ],
     "performers": [],
@@ -2561,58 +2361,6 @@
     }
   },
   {
-    "name": "Edu Imbernon LIVE",
-    "description": "GroundXero is excited to bring the energy and sounds of Edu Imbernon to this beautiful country. Let\u2019s create unforgettable memories together on the dance floor. We look forward to seeing you soon!  ",
-    "startDate": "2024-11-17T20:00:00+05:30",
-    "endDate": "2024-11-17T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Edu Imbernon LIVE Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Edu Imbernon LIVE Bengaluru on Zomato which is a Music and Trending event happening at Plot No. 36, 100 Feet Road, opposite Shilton Royale Hotel, SJR Junction, Srinivagilu, Chandra Reddy Layout, Ejipura, Bengaluru, Karnataka, India",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/611b16900d7db5f64355b85ebb205c401731059910.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/edu-imbernon-live-bengaluru-et53062/details",
-        "price": 899,
-        "currency": "INR",
-        "validFrom": "2024-11-08 17:42:14",
-        "availability": "INSTOCK",
-        "inventory": 30
-      },
-      {
-        "url": "https://www.zomato.com/events/edu-imbernon-live-bengaluru-et53062/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-11-08 17:42:14",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/edu-imbernon-live-bengaluru-et53062",
-    "id": "com.zomato.53062",
-    "location": {
-      "name": "Magique",
-      "address": "Plot No. 36, 100 Feet Road, opposite Shilton Royale Hotel, SJR Junction, Srinivagilu, Chandra Reddy Layout, Ejipura, Bengaluru, Karnataka, India",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 2.938696,
-        "longitude": 77.629943
-      }
-    }
-  },
-  {
     "name": "Red Flags Featuring. Vishal Tyagi",
     "description": "Get ready for a night of wit and wordplay with Red Flags Ft. Vishal Tyagi! Join us as Vishal hilariously dissects the quirks and pitfalls of language, exploring the absurdities in our everyday expressions and the \u201cred flags\u201d we overlook in conversations. From twisted meanings to accidental misunderstandings, this stand-up show will leave you laughing at the crazy things we say\u2014and what they really mean. Don\u2019t miss out on the laughs as Vishal takes language and turns it on its head!",
     "startDate": "2025-02-08T19:00:00+05:30",
@@ -2721,58 +2469,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.01305645,
         "longitude": 77.55622893
-      }
-    }
-  },
-  {
-    "name": "SCC Picnic Cinema - Yeh Jawaani Hai Deewani",
-    "description": "\"Main udna chahta hoon, daudna chahta hoon, girna bhi chahta hoon\u2026bus rukna nahi chahta\" - Yeh Jawaani Hai Deewani \n\nWitness the heartwarming tale of Bunny and Naina as they navigate the complexities of love and friendship. Experience the highs and lows, the laughter and tears with Sunset Cinema Club at Nexus Shantiniketan Mall.\n\nLocated in the heart of Whitefield, this bustling mall transforms into a haven of relaxation and entertainment as the sun sets and the stars begin to emerge, and your movie screening begins. Enjoy your favourite film on a large screen with surround sound, as you sink into comfy bean bags or mattresses, in the great outdoors.",
-    "startDate": "2024-11-17T19:00:00+05:30",
-    "endDate": "2024-11-17T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC Picnic Cinema - Yeh Jawaani Hai Deewani Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC Picnic Cinema - Yeh Jawaani Hai Deewani Bengaluru on Zomato which is a Experiences event happening at Nexus Shantiniketan Mall Whitefield Main Rd, Thigalarapalya, Krishnarajapuram, Bengaluru, Karnataka 560067",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/cbd456e0f7cb3b6f8965a04ef8c4b14a1731414459.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-picnic-cinema-yeh-jawaani-hai-deewani-bengaluru-et53176/details",
-        "price": 500,
-        "currency": "INR",
-        "validFrom": "2024-11-12 19:43:47",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/scc-picnic-cinema-yeh-jawaani-hai-deewani-bengaluru-et53176/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-11-12 19:43:48",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-picnic-cinema-yeh-jawaani-hai-deewani-bengaluru-et53176",
-    "id": "com.zomato.53176",
-    "location": {
-      "name": "Nexus Shantiniketan Mall",
-      "address": "Nexus Shantiniketan Mall Whitefield Main Rd, Thigalarapalya, Krishnarajapuram, Bengaluru, Karnataka 560067",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.989743793341,
-        "longitude": 77.72806416
       }
     }
   },

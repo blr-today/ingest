@@ -23,7 +23,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 76
+               "value": 68
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-09T05:00:00+05:30"
@@ -145,7 +145,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 34
+               "value": 33
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-31T17:18:00+05:30"
@@ -161,135 +161,6 @@
       "performers": [ ],
       "startDate": "2024-11-24T20:00:00+05:30",
       "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Attention Dua Lipa fans - get ready to levitate! The Feeding India Concert, organised by Zomato's Feeding India initiative to fight malnutrition, is back.\nThis time, global pop icon Dua Lipa is here to make you ‘dance the night away’ in Mumbai. Witness the chart-topping artist light up the stage with her electrifying hits, and don’t miss the amazing support acts: the sensational JONITA and the dynamic Talwiinder.\n\nWe’ve just got one ‘new rule’ – don't miss the chance to be part of this incredible experience, with a great cause.",
-      "endDate": "2024-11-30T22:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/abfe2e3c5a55ffdcd1100dd80f9a6f181731339955.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 19.067272119999998,
-            "longitude": 72.861524900000006
-         },
-         "name": "MMRDA Ground"
-      },
-      "name": "Feeding India Concert with Dua Lipa",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-26T15:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-26T15:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-26T15:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-26T15:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-26T15:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-26T15:00:00+05:30"
-         },
-         {
-            "availability": "Sold Out",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-26T15:00:00+05:30"
-         },
-         {
-            "availability": "Sold Out",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-26T15:00:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [
-         {
-            "image": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png",
-            "name": "Dua Lipa",
-            "type": "PERSON",
-            "url": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png"
-         },
-         {
-            "image": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png",
-            "name": "Jonita",
-            "type": "PERSON",
-            "url": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png"
-         },
-         {
-            "image": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png",
-            "name": "Talwiinder",
-            "type": "PERSON",
-            "url": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png"
-         },
-         {
-            "image": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png",
-            "name": "More",
-            "type": "PERSON",
-            "url": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png"
-         }
-      ],
-      "startDate": "2024-11-30T15:00:00+05:30",
-      "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042"
    },
    {
       "@context": "https://schema.org",
@@ -315,7 +186,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 32
+               "value": 30
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-21T11:44:00+05:30"
@@ -324,7 +195,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 28
+               "value": 26
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-25T15:03:00+05:30"
@@ -482,7 +353,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1433
+               "value": 1296
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T21:18:00+05:30"
@@ -491,7 +362,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 223
+               "value": 205
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -500,7 +371,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 264
+               "value": 197
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -622,7 +493,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 887
+               "value": 829
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T00:00:00+05:30"
@@ -631,7 +502,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 985
+               "value": 974
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T00:00:00+05:30"
@@ -882,7 +753,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 269
+               "value": 267
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-30T22:56:00+05:30"
@@ -891,7 +762,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 306
+               "value": 297
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-30T22:56:00+05:30"
@@ -1108,33 +979,6 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 48
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-01T16:10:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 50
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-01T16:10:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 50
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-01T16:10:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
                "value": 50
             },
             "priceCurrency": "INR",
@@ -1169,48 +1013,6 @@
       "performers": [ ],
       "startDate": "2024-11-03T12:30:00+05:30",
       "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-      "endDate": "2024-11-17T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/a246b56215a3ba6b2415d6a187ff2e511730465041.jpeg",
-      "isAccessibleForFree": true,
-      "location": {
-         "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.975953240000001,
-            "longitude": 77.601618579999993
-         },
-         "name": "Hard Rock Cafe"
-      },
-      "name": "Rock Out Sundays",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 82
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-01T18:32:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 82,
-      "startDate": "2024-11-17T20:30:00+05:30",
-      "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et52861"
    },
    {
       "@context": "https://schema.org",
@@ -1362,7 +1164,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 99
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -1376,7 +1178,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 100,
+      "remainingAttendeeCapacity": 99,
       "startDate": "2024-11-24T13:00:00+05:30",
       "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et52866"
    },
@@ -1404,7 +1206,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 87
+               "value": 86
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -1418,7 +1220,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 87,
+      "remainingAttendeeCapacity": 86,
       "startDate": "2024-11-24T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et52867"
    },
@@ -1446,7 +1248,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 100
+               "value": 94
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -1460,7 +1262,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 100,
+      "remainingAttendeeCapacity": 94,
       "startDate": "2024-11-27T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52868"
    },
@@ -1614,7 +1416,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 194
+               "value": 191
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T22:59:00+05:30"
@@ -1628,7 +1430,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 194,
+      "remainingAttendeeCapacity": 191,
       "startDate": "2024-11-21T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52884"
    },
@@ -1698,7 +1500,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 197
+               "value": 195
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T22:59:00+05:30"
@@ -1712,7 +1514,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 197,
+      "remainingAttendeeCapacity": 195,
       "startDate": "2024-11-28T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52886"
    },
@@ -1782,7 +1584,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 46
+               "value": 42
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -1796,7 +1598,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 46,
+      "remainingAttendeeCapacity": 42,
       "startDate": "2024-11-20T20:00:00+05:30",
       "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52997"
    },
@@ -1824,7 +1626,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 49
+               "value": 46
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -1838,7 +1640,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 49,
+      "remainingAttendeeCapacity": 46,
       "startDate": "2024-11-27T20:00:00+05:30",
       "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52998"
    },
@@ -1866,7 +1668,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 42
+               "value": 35
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -1880,7 +1682,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 42,
+      "remainingAttendeeCapacity": 35,
       "startDate": "2024-11-22T20:00:00+05:30",
       "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53002"
    },
@@ -1908,7 +1710,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 34
+               "value": 33
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -1922,7 +1724,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 34,
+      "remainingAttendeeCapacity": 33,
       "startDate": "2024-11-29T20:00:00+05:30",
       "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53003"
    },
@@ -1959,7 +1761,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 194
+               "value": 193
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T17:05:00+05:30"
@@ -2452,56 +2254,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "GroundXero is excited to bring the energy and sounds of Edu Imbernon to this beautiful country. Let’s create unforgettable memories together on the dance floor. We look forward to seeing you soon!  ",
-      "endDate": "2024-11-17T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/611b16900d7db5f64355b85ebb205c401731059910.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "Plot No. 36, 100 Feet Road, opposite Shilton Royale Hotel, SJR Junction, Srinivagilu, Chandra Reddy Layout, Ejipura, Bengaluru, Karnataka, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 2.9386960000000002,
-            "longitude": 77.629942999999997
-         },
-         "name": "Magique"
-      },
-      "name": "Edu Imbernon LIVE",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 30
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-08T17:42:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 50
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-08T17:42:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-11-17T20:00:00+05:30",
-      "url": "https://www.zomato.com/events/edu-imbernon-live-bengaluru-et53062"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Get ready for a night of wit and wordplay with Red Flags Ft. Vishal Tyagi! Join us as Vishal hilariously dissects the quirks and pitfalls of language, exploring the absurdities in our everyday expressions and the “red flags” we overlook in conversations. From twisted meanings to accidental misunderstandings, this stand-up show will leave you laughing at the crazy things we say—and what they really mean. Don’t miss out on the laughs as Vishal takes language and turns it on its head!",
       "endDate": "2025-02-08T20:15:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -2607,56 +2359,6 @@
       "performers": [ ],
       "startDate": "2024-12-14T18:00:00+05:30",
       "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "\"Main udna chahta hoon, daudna chahta hoon, girna bhi chahta hoon…bus rukna nahi chahta\" - Yeh Jawaani Hai Deewani \n\nWitness the heartwarming tale of Bunny and Naina as they navigate the complexities of love and friendship. Experience the highs and lows, the laughter and tears with Sunset Cinema Club at Nexus Shantiniketan Mall.\n\nLocated in the heart of Whitefield, this bustling mall transforms into a haven of relaxation and entertainment as the sun sets and the stars begin to emerge, and your movie screening begins. Enjoy your favourite film on a large screen with surround sound, as you sink into comfy bean bags or mattresses, in the great outdoors.",
-      "endDate": "2024-11-17T22:30:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/cbd456e0f7cb3b6f8965a04ef8c4b14a1731414459.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "Nexus Shantiniketan Mall Whitefield Main Rd, Thigalarapalya, Krishnarajapuram, Bengaluru, Karnataka 560067",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.989743793341001,
-            "longitude": 77.728064160000002
-         },
-         "name": "Nexus Shantiniketan Mall"
-      },
-      "name": "SCC Picnic Cinema - Yeh Jawaani Hai Deewani",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 10
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-12T19:43:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 10
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-12T19:43:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-11-17T19:00:00+05:30",
-      "url": "https://www.zomato.com/events/scc-picnic-cinema-yeh-jawaani-hai-deewani-bengaluru-et53176"
    },
    {
       "@context": "https://schema.org",
