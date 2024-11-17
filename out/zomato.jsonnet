@@ -690,48 +690,6 @@
     }
   },
   {
-    "name": "Beneath the Blues",
-    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
-    "startDate": "2024-11-17T13:00:00+05:30",
-    "endDate": "2024-11-17T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b20be0b408312b10f977ff50346228f81728980545.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/beneath-the-blues-bengaluru-et52435/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-10-15 14:09:45",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/beneath-the-blues-bengaluru-et52435",
-    "id": "com.zomato.52435",
-    "location": {
-      "name": "Paint The Town Restaurant",
-      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93753285,
-        "longitude": 77.61234518
-      }
-    }
-  },
-  {
     "name": "Mason Jar Painting",
     "description": "Join our Mason Jar Painting Workshop! We\u2019ll provide all the painting supplies, a delicious meal, and a chance to meet new friends. Our artists will help you create your own personalized Mason Jar, making it a fun and relaxing way to spend your afternoon. Come to Paint The Town Art Cafe for a creative experience filled with art, food, and great conversations. \ud83c\udfa8\ud83c\udf7d\ufe0f\u2615",
     "startDate": "2024-11-23T16:00:00+05:30",
@@ -1262,50 +1220,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93656731,
         "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "Sunny Tunes",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Presentense and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
-    "startDate": "2024-11-17T13:00:00+05:30",
-    "endDate": "2024-11-17T16:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3df03245abe1eca7902e470c7a857cf01730464994.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et52860/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:30",
-        "availability": "INSTOCK",
-        "inventory": 98
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et52860",
-    "id": "com.zomato.52860",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
       }
     }
   },
@@ -2911,50 +2825,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.989743793341,
         "longitude": 77.72806416
-      }
-    }
-  },
-  {
-    "name": "Sunday Kannada Special Live Music",
-    "description": "Kannada Special Live Music\nEnjoy the all time specials and cherish great music.",
-    "startDate": "2024-11-17T14:00:00+05:30",
-    "endDate": "2024-11-17T16:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Sunday Kannada Special Live Music Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sunday Kannada Special Live Music Bengaluru on Zomato which is a Music event happening at 27, Ground Floor, Sattva Auro, Shanthala Nagar, Ashok Nagar, Church Street, Bangalore",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/73cb725a48401c5f01d260a1f80c3bbe1731564170.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/sunday-kannada-special-live-music-bengaluru-et53233/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-14 11:35:26",
-        "availability": "INSTOCK",
-        "inventory": 196
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/sunday-kannada-special-live-music-bengaluru-et53233",
-    "id": "com.zomato.53233",
-    "location": {
-      "name": "Kling, Bengaluru",
-      "address": "27, Ground Floor, Sattva Auro, Shanthala Nagar, Ashok Nagar, Church Street, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97550044,
-        "longitude": 77.60434087
       }
     }
   },
