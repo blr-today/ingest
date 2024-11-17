@@ -1042,50 +1042,6 @@
     }
   },
   {
-    "name": "SCC SkyCinema - Serendipity",
-    "description": "\"If we're meant to meet again, we'll meet again.\" - Serendipity\n\nEscape into a world of serendipitous love and whimsical destiny as Sunset Cinema Club presents screening of the beloved classic at 1 MG - Lido Mall . Join us for a magical evening where fate, laughter and the sweet allure of love take center stage.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the skyline of the city as your backdrop.",
-    "startDate": "2024-11-30T19:00:00+05:30",
-    "endDate": "2024-11-30T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC SkyCinema - Serendipity Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC SkyCinema - Serendipity Bengaluru on Zomato which is a Experiences and Trending event happening at 1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/a8a2c6cc4ab523d572cbacb50e40e8e31730452024.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-serendipity-bengaluru-et52793/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:06:57",
-        "availability": "INSTOCK",
-        "inventory": 9
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-serendipity-bengaluru-et52793",
-    "id": "com.zomato.52793",
-    "location": {
-      "name": "1 MG - Lido Mall",
-      "address": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97480423,
-        "longitude": 77.62066549
-      }
-    }
-  },
-  {
     "name": "SCC SkyCinema - Zindagi Na Milegi Dobara",
     "description": "\"Seize the day, my friend. Pehle is din ko poori tarah jiyo, phir chalis ke bare mein sochna.\" - Zindagi Na Milegi Dobara\n\nGet ready to groove under the stars at Sunset Cinema Club's ZNMD  'dance along' screening! Join us for a night of watching this classic under the stars with its unforgettable music. As your favorite film unfolds, prepare to be transported back in time with iconic songs that will have you dancing in the aisles. Grab your friends, bring your dancing shoes, and prepare to immerse yourself in a night of nostalgia, fun, and unforgettable memories.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.",
     "startDate": "2024-11-23T19:00:00+05:30",
