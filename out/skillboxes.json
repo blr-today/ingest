@@ -719,15 +719,15 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1,
-            "name": "Early Bird Ticket",
+            "inventoryLevel": 999,
+            "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/brainbow-x-param-live"
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Regular Ticket",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/brainbow-x-param-live"
          }
       ],
@@ -789,7 +789,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 24,
+            "inventoryLevel": 19,
             "name": "Audience",
             "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-17"
          }
@@ -824,7 +824,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 21+ Cover applicable at gates.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 997,
             "name": "RSVP/ Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/social-tadka-bangalore-takeover-7"
          }
@@ -1265,32 +1265,7 @@
          "name": "i-Bar THE Park Bangalore"
       },
       "name": "CLUB CODE SATURDAY !",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one stag to the event. Cover charges applicable at the venue throughout the event.\n",
-            "inventoryLevel": 198,
-            "name": "STAGS",
-            "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-5"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one lady to the event.\n",
-            "inventoryLevel": 200,
-            "name": "LADIES",
-            "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-5"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass allows entry to 1 Couple. Each pass permits one couple to the event. Cover charges applicable at the venue post 9:30 PM.\n",
-            "inventoryLevel": 200,
-            "name": "COUPLES",
-            "url": "https://www.skillboxes.com/events/ticket/club-code-saturday-5"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-11-16T20:00:00",
       "url": "https://www.skillboxes.com/events/club-code-saturday-5"
    },

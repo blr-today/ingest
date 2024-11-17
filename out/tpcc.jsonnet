@@ -82,19 +82,5 @@
     "city": "Bangalore",
     "title": "Caché",
     "director": "Michael Haneke"
-  },
-  {
-    "id": "e0c85d56-9100-422a-8c30-56b2ce65a972",
-    "image": "https://cdn.sanity.io/images/x2qnegor/production/896b517cb2e3b5b7ec255c1b18b52b61e5c1728f-1280x1920.jpg",
-    "location": {
-      "name": "Casa Karaoke",
-      "url": "https://www.google.com/maps/place/Casa+Karaoke,+AI+1,+2nd+floor,+15th+Cross,+100+Feet+Ring+Rd,+above+Pizza+Hut,+J.+P.+Nagar,+Bengaluru,+Karnataka+560078/@12.9060934,77.5952996,17z/data=!4m9!1m2!2m1!1scasa+karaoke!3m5!1s0x3bae150c309f99f7:0xa30a464902bb59f4!8m2!3d12.9060934!4d77.5952996!16s%2Fg%2F11vc00w0xn"
-    },
-    "link": "https://bit.ly/4fLUrzq",
-    "date": "2024-11-16T06:20:00.000Z",
-    "theme": "Family Portraits",
-    "city": "Bangalore",
-    "title": "Mommy",
-    "director": "Xavier Dolan"
   }
 ]

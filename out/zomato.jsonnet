@@ -690,50 +690,6 @@
     }
   },
   {
-    "name": "Ek Shaam Mastani",
-    "description": "Get ready to travel back in time and relive the golden era of Bollywood! On November 16, immerse yourself in an unforgettable musical journey featuring the biggest hits from the 70s, 80s, and 90s. From soulful melodies to foot-tapping beats, Ek Shaam Mastani promises an evening filled with nostalgia, live performances, and electrifying energy. Whether you're a die-hard Bollywood fan or just love timeless music, this night will have you singing along and dancing to your favorite classics. Don't miss the chance to experience Bollywood magic like never before!",
-    "startDate": "2024-11-16 19:00:00",
-    "endDate": "2024-11-17 00:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Ek Shaam Mastani Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Ek Shaam Mastani Bengaluru on Zomato which is a Music event happening at 4th, Block 413, 100 Feet Rd, off Gillys redefined, KHB Block Koramangala, Koramangala 4-B Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/7317dae0ff3fa611227143906dd82ea71728650670.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/ek-shaam-mastani-bengaluru-et52355/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-11 18:16:31",
-        "availability": "INSTOCK",
-        "inventory": 76
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/ek-shaam-mastani-bengaluru-et52355",
-    "id": "com.zomato.52355",
-    "location": {
-      "name": "Gilly's Fandom",
-      "address": "4th, Block 413, 100 Feet Rd, off Gillys redefined, KHB Block Koramangala, Koramangala 4-B Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.933341,
-        "longitude": 68.6588043
-      }
-    }
-  },
-  {
     "name": "Beneath the Blues",
     "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
     "startDate": "2024-11-17T13:00:00+05:30",
@@ -2242,50 +2198,6 @@
     }
   },
   {
-    "name": "Dynamite Disco Club 097 at The Burrow",
-    "description": "Diwali may be over, but the real fireworks are just beginning! Get ready to light up the night by dancing all night at the latest edition of Dynamite Disco Club at The Burrow, Bangalore, on Saturday, the 16th. This time, we're thrilled to welcome the return of the mighty Dreamstates, known for his genre-blending and boundary-pushing DJ sets.\n\nStarting off the night is Satty, a rising star from Chennai\u2019s nu-dance music scene and a key member of Funk'n Around. Our host and DDC head honcho, Mr. Dynamite himself, Stalvart John, will close out the night.",
-    "startDate": "2024-11-16 20:30:00",
-    "endDate": "2024-11-17 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Dynamite Disco Club 097 at The Burrow Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Dynamite Disco Club 097 at The Burrow Bengaluru on Zomato which is a Music event happening at 37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/8e7712e6ce6b95cc4a2fdc8c9a52f2e71730806756.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/dynamite-disco-club-097-at-the-burrow-bengaluru-et53014/details",
-        "price": 300,
-        "currency": "INR",
-        "validFrom": "2024-11-05 17:16:46",
-        "availability": "INSTOCK",
-        "inventory": 127
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/dynamite-disco-club-097-at-the-burrow-bengaluru-et53014",
-    "id": "com.zomato.53014",
-    "location": {
-      "name": "The Burrow",
-      "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98580107,
-        "longitude": 77.58076758
-      }
-    }
-  },
-  {
     "name": "DGTL Goa 2024",
     "description": "Pre-register to be notified first when the tickets drop. The line-up is to be announced soon.\n\nDGTL India 2023 saw over 15,000 attendees across 3 days enjoying world-class techno and electronic music, stunning lighting and stage designs, conceptual showcases, and vital sustainability initiatives, resulting in an immersive, audio-visual experience.\nBook your tickets now to secure your spot for this year!\nDGTL is a global electronic music festival with editions in Amsterdam, Santiago (Chile), S\u00e3o Paulo (Brazil), Bengaluru & Mumbai, and during the Amsterdam Dance Event. Besides its focus on music, DGTL features unique art installations and exciting sustainability projects. Its sustainability program sets it apart in the festival landscape.",
     "startDate": "2024-12-27T16:00:00+05:30",
@@ -2883,66 +2795,6 @@
     }
   },
   {
-    "name": "The White Party Ft. Dj Nirvaan (Afterlyf)",
-    "description": "The wait is over! The Third edition of The White Party is happening this weekend at High Ultra Lounge! Join us on 16th November, from 8 pm onwards, as we bring you an unforgettable night of music, dancing, and luxury! International DJ Nirvaan will be performing live, so don't miss out! Dress code: All-White Attire (Strictly Enforced). See you there!\n\nDISCLAIMER: Please make sure to follow club rules.",
-    "startDate": "2024-11-16 20:00:00",
-    "endDate": "2024-11-17 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "The White Party Ft. Dj Nirvaan (Afterlyf) Trending and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for The White Party Ft. Dj Nirvaan (Afterlyf) Bengaluru on Zomato which is a Trending and Music event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/41e1465aa6f04d4f69786b8209e56da21731309063.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/the-white-party-ft-dj-nirvaan-afterlyf-bengaluru-et53099/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-11-11 12:50:49",
-        "availability": "INSTOCK",
-        "inventory": 197
-      },
-      {
-        "url": "https://www.zomato.com/events/the-white-party-ft-dj-nirvaan-afterlyf-bengaluru-et53099/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-11 12:50:49",
-        "availability": "INSTOCK",
-        "inventory": 190
-      },
-      {
-        "url": "https://www.zomato.com/events/the-white-party-ft-dj-nirvaan-afterlyf-bengaluru-et53099/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-11 12:50:50",
-        "availability": "INSTOCK",
-        "inventory": 183
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/the-white-party-ft-dj-nirvaan-afterlyf-bengaluru-et53099",
-    "id": "com.zomato.53099",
-    "location": {
-      "name": "High Ultra Lounge",
-      "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.0122829,
-        "longitude": 77.5561431
-      }
-    }
-  },
-  {
     "name": "Open Air Festival with Nils Hoffmann (Anjunadeep)",
     "description": "Get Ready for Bangalore's Biggest Rooftop Festival! \n\nJoin us on the 31st floor of the World Trade Centre for an unforgettable night headlined by Bangalore\u2019s very own Anjunadeep favourite, Nils Hoffmann. This unique rooftop experience promises incredible vibes, stellar music, and a view of Bangalore like no other.\n\nWhat\u2019s in Store:\nMassive Production & Premium Sound \u2013 Expect best-in-class sound and immersive lighting.\nTwo Stages \u2013 Experience both outdoor and indoor vibes across two stages.\nFlea Market & Interactive Experiences \u2013 Explore pop-up stalls, fun interactions, and more!\nSpectacular City Views \u2013 Soak in breathtaking views of Bangalore from 31 floors up!",
     "startDate": "2024-12-14T18:00:00+05:30",
@@ -3107,50 +2959,6 @@
     }
   },
   {
-    "name": "Prime time Saturday",
-    "description": "Get ready to rock Join us for an electrifying night of live music , craft beer and golf as , Unmukt the Band takes over our stage for our Prime Time Saturday ,bringing their unique sound and infectious energy Let's make some unforgettable memories!",
-    "startDate": "2024-11-16 20:00:00",
-    "endDate": "2024-11-17 00:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Prime time Saturday Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Prime time Saturday Bengaluru on Zomato which is a Music event happening at Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd, Bengaluru, Karnataka 560067",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/8997024e548a0f8609cf6d35256735d91731490612.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/prime-time-saturday-bengaluru-et53213/details",
-        "price": 1000,
-        "currency": "INR",
-        "validFrom": "2024-11-13 15:09:35",
-        "availability": "INSTOCK",
-        "inventory": 500
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/prime-time-saturday-bengaluru-et53213",
-    "id": "com.zomato.53213",
-    "location": {
-      "name": "PrimeGolf Brewing and Golfing",
-      "address": "Ardendale Kannamangala SH-35, Whitefield - Hoskote Rd, Bengaluru, Karnataka 560067",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.02954022,
-        "longitude": 77.76047305
-      }
-    }
-  },
-  {
     "name": "Sunday Kannada Special Live Music",
     "description": "Kannada Special Live Music\nEnjoy the all time specials and cherish great music.",
     "startDate": "2024-11-17T14:00:00+05:30",
@@ -3267,7 +3075,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 16:06:00",
         "availability": "INSTOCK",
-        "inventory": 248
+        "inventory": 246
       }
     ],
     "performers": [],
