@@ -145,7 +145,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 33
+               "value": 32
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-31T17:18:00+05:30"
@@ -161,6 +161,43 @@
       "performers": [ ],
       "startDate": "2024-11-24T20:00:00+05:30",
       "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "For the first time ever, global music icon Diljit Dosanjh brings his blockbuster Dil-Luminati Tour to 11 cities across India! After smashing records with sold-out shows across North America, Australia, and New Zealand, he's ready to set India ablaze with his electrifying energy.\n\nWhat to expect:\n\n☞ High-energy performances of fan favorites and chart-topping hits\n\n☞ Stunning visuals and world-class sound production\n\n☞ Unforgettable memories celebrating Desi music for all ages\n\nBrought to you by Saregama India and Ripple Effect Studios.\n\n\n**Gates open at 6 pm**",
+      "endDate": "2024-12-06T22:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/41d832c50e146682ed80f4ee445ff60e1728294913.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "@type": "Place",
+         "address": "Bangalore"
+      },
+      "name": "Dil-Luminati Tour - India",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 96
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-18T14:56:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 96,
+      "startDate": "2024-12-06T19:00:00+05:30",
+      "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398"
    },
    {
       "@context": "https://schema.org",
@@ -353,7 +390,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1296
+               "value": 1138
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T21:18:00+05:30"
@@ -362,7 +399,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 205
+               "value": 174
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -371,7 +408,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 197
+               "value": 162
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -493,7 +530,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 829
+               "value": 788
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T00:00:00+05:30"
@@ -502,7 +539,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 974
+               "value": 965
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-01T00:00:00+05:30"
@@ -753,7 +790,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 267
+               "value": 264
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-30T22:56:00+05:30"
@@ -803,7 +840,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 8
+               "value": 6
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T16:06:00+05:30"
@@ -817,7 +854,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 8,
+      "remainingAttendeeCapacity": 6,
       "startDate": "2024-11-23T19:00:00+05:30",
       "url": "https://www.zomato.com/events/scc-skycinema-the-proposal-bengaluru-et52792"
    },
@@ -1164,7 +1201,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 99
+               "value": 96
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -1178,7 +1215,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 99,
+      "remainingAttendeeCapacity": 96,
       "startDate": "2024-11-24T13:00:00+05:30",
       "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et52866"
    },
@@ -1416,7 +1453,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 191
+               "value": 189
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T22:59:00+05:30"
@@ -1430,7 +1467,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 191,
+      "remainingAttendeeCapacity": 189,
       "startDate": "2024-11-21T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52884"
    },
@@ -1584,7 +1621,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 42
+               "value": 38
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -1598,7 +1635,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 42,
+      "remainingAttendeeCapacity": 38,
       "startDate": "2024-11-20T20:00:00+05:30",
       "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52997"
    },

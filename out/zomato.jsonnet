@@ -147,7 +147,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 17:18:27",
         "availability": "INSTOCK",
-        "inventory": 33
+        "inventory": 32
       }
     ],
     "performers": [],
@@ -169,6 +169,46 @@
         "longitude": 77.6660495
       }
     }
+  },
+  {
+    "name": "Dil-Luminati Tour - India",
+    "description": "For the first time ever, global music icon Diljit Dosanjh brings his blockbuster Dil-Luminati Tour to 11 cities across India! After smashing records with sold-out shows across North America, Australia, and New Zealand, he's ready to set India ablaze with his electrifying energy.\n\nWhat to expect:\n\n\u261e High-energy performances of fan favorites and chart-topping hits\n\n\u261e Stunning visuals and world-class sound production\n\n\u261e Unforgettable memories celebrating Desi music for all ages\n\nBrought to you by Saregama India and Ripple Effect Studios.\n\n\n**Gates open at 6 pm**",
+    "startDate": "2024-12-06T19:00:00+05:30",
+    "endDate": "2024-12-06T22:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Dil-Luminati Tour - India Trending and Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Dil-Luminati Tour - India Bengaluru on Zomato which is a Trending and Music event happening at To be announced",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/41d832c50e146682ed80f4ee445ff60e1728294913.png",
+      "https://b.zmtcdn.com/data/zomaland/1972f38023c561f25b5c96e0b99cad471725427265.png",
+      "https://b.zmtcdn.com/data/zomaland/598208eb93184b88270c8c55b97291811725427285.png",
+      "https://b.zmtcdn.com/data/zomaland/ab381f8144719e5c0b1d6fceb0520a141725427285.png",
+      "https://b.zmtcdn.com/data/zomaland/b425b174ef1a559f34631fbebd26fd2e1726556915.png",
+      "https://b.zmtcdn.com/data/zomaland/188e8f711ff032165a9cde93c84f54021728405436.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398/details",
+        "price": 50000,
+        "currency": "INR",
+        "validFrom": "2024-11-18 14:56:00",
+        "availability": "INSTOCK",
+        "inventory": 96
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398",
+    "id": "com.zomato.50398"
   },
   {
     "name": "Shankar Ehsaan Loy Live",
@@ -350,7 +390,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 1296
+        "inventory": 1138
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -358,7 +398,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 205
+        "inventory": 174
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -366,7 +406,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 197
+        "inventory": 162
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -526,7 +566,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 829
+        "inventory": 788
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -534,7 +574,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 974
+        "inventory": 965
       }
     ],
     "performers": [],
@@ -792,7 +832,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 267
+        "inventory": 264
       },
       {
         "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
@@ -844,7 +884,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:06:57",
         "availability": "INSTOCK",
-        "inventory": 8
+        "inventory": 6
       }
     ],
     "performers": [],
@@ -1220,7 +1260,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:34",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 96
       }
     ],
     "performers": [],
@@ -1484,7 +1524,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 22:59:38",
         "availability": "INSTOCK",
-        "inventory": 191
+        "inventory": 189
       }
     ],
     "performers": [],
@@ -1660,7 +1700,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:33",
         "availability": "INSTOCK",
-        "inventory": 42
+        "inventory": 38
       }
     ],
     "performers": [],
