@@ -2094,7 +2094,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1000
+               "value": 997
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-15T15:34:00+05:30"
@@ -2225,7 +2225,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 13
+               "value": 11
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-08T09:07:00+05:30"
@@ -2325,6 +2325,24 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
+               "value": 30
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-17T16:12:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 20
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-17T16:12:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
                "value": 15
             },
             "priceCurrency": "INR",
@@ -2343,7 +2361,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 10
+               "value": 9
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-14T16:05:00+05:30"
@@ -2484,7 +2502,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 246
+               "value": 241
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-15T16:06:00+05:30"
@@ -2498,7 +2516,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 246,
+      "remainingAttendeeCapacity": 241,
       "startDate": "2024-11-23T17:00:00+05:30",
       "url": "https://www.zomato.com/events/we-jam-bengaluru-et53249"
    }

@@ -2205,7 +2205,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:34:27",
         "availability": "INSTOCK",
-        "inventory": 1000
+        "inventory": 997
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -2329,7 +2329,7 @@
         "currency": "INR",
         "validFrom": "2024-11-08 09:07:40",
         "availability": "INSTOCK",
-        "inventory": 13
+        "inventory": 11
       },
       {
         "url": "https://www.zomato.com/events/punchliners-host-to-roast-ft-jeeveshu-ahluwalia-bengaluru-et53057/details",
@@ -2429,6 +2429,22 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
+        "price": 699,
+        "currency": "INR",
+        "validFrom": "2024-11-17 16:12:28",
+        "availability": "INSTOCK",
+        "inventory": 30
+      },
+      {
+        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-11-17 16:12:28",
+        "availability": "INSTOCK",
+        "inventory": 20
+      },
+      {
+        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
         "price": 399,
         "currency": "INR",
         "validFrom": "2024-11-14 16:05:00",
@@ -2449,7 +2465,7 @@
         "currency": "INR",
         "validFrom": "2024-11-14 16:05:00",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 9
       }
     ],
     "performers": [],
@@ -2597,7 +2613,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 16:06:00",
         "availability": "INSTOCK",
-        "inventory": 246
+        "inventory": 241
       }
     ],
     "performers": [],
