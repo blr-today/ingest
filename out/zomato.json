@@ -2556,5 +2556,47 @@
       "remainingAttendeeCapacity": 241,
       "startDate": "2024-11-23T17:00:00+05:30",
       "url": "https://www.zomato.com/events/we-jam-bengaluru-et53249"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Epic Afters takes you beyond the show into the real world of electrifying music and high-energy vibes—a world where the party never ends!\n\nJoin us for a multi-sensory experience, featuring (artist names), immersive hospitality, and a crowd that knows how to keep the night alive",
+      "endDate": "2024-11-23T01:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/f73f859060e72f611464631b7b8edfe51731986595.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd, Bengaluru, Karnataka 560080",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 13.00532301,
+            "longitude": 77.584796879999999
+         },
+         "name": "PEBBLE The Jungle Lounge"
+      },
+      "name": "Epic Afters",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-19T08:58:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "remainingAttendeeCapacity": 50,
+      "startDate": "2024-11-22T19:00:00+05:30",
+      "url": "https://www.zomato.com/events/epic-afters-bengaluru-et53284"
    }
 ]

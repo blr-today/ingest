@@ -2675,5 +2675,49 @@
         "longitude": 77.68764279
       }
     }
+  },
+  {
+    "name": "Epic Afters",
+    "description": "Epic Afters takes you beyond the show into the real world of electrifying music and high-energy vibes\u2014a world where the party never ends!\n\nJoin us for a multi-sensory experience, featuring (artist names), immersive hospitality, and a crowd that knows how to keep the night alive",
+    "startDate": "2024-11-22T19:00:00+05:30",
+    "endDate": "2024-11-23T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Epic Afters Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Epic Afters Bengaluru on Zomato which is a Music event happening at Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd, Bengaluru, Karnataka 560080",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/f73f859060e72f611464631b7b8edfe51731986595.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/epic-afters-bengaluru-et53284/details",
+        "price": 1000,
+        "currency": "INR",
+        "validFrom": "2024-11-19 08:58:06",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/epic-afters-bengaluru-et53284",
+    "id": "com.zomato.53284",
+    "location": {
+      "name": "PEBBLE The Jungle Lounge",
+      "address": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd, Bengaluru, Karnataka 560080",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.00532301,
+        "longitude": 77.58479688
+      }
+    }
   }
 ]
