@@ -1834,7 +1834,26 @@
          "name": "Vamos by Echo, Goa"
       },
       "name": "DGTL Goa 2024",
-      "offers": [ ],
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-18T12:00:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-18T12:00:00+05:30"
+         }
+      ],
       "organizer": [
          {
             "name": "Zomato Live",
@@ -2131,7 +2150,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 997
+               "value": 995
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-15T15:34:00+05:30"
@@ -2539,7 +2558,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 241
+               "value": 236
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-15T16:06:00+05:30"
@@ -2553,7 +2572,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 241,
+      "remainingAttendeeCapacity": 236,
       "startDate": "2024-11-23T17:00:00+05:30",
       "url": "https://www.zomato.com/events/we-jam-bengaluru-et53249"
    },

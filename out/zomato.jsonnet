@@ -1922,7 +1922,24 @@
       "https://b.zmtcdn.com/data/zomaland/45057d606fe932f241ed176c7314091e1731497359.png",
       "https://b.zmtcdn.com/data/zomaland/893083f4cfd1c54493de844d33456d1a1731389560.png"
     ],
-    "tickets": [],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
+        "price": 2520,
+        "currency": "INR",
+        "validFrom": "2024-11-18 12:00:00",
+        "availability": "INSTOCK",
+        "inventory": 500
+      },
+      {
+        "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
+        "price": 1890,
+        "currency": "INR",
+        "validFrom": "2024-11-18 12:00:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
+      }
+    ],
     "performers": [],
     "organizer": [
       {
@@ -2245,7 +2262,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:34:27",
         "availability": "INSTOCK",
-        "inventory": 997
+        "inventory": 995
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -2653,7 +2670,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 16:06:00",
         "availability": "INSTOCK",
-        "inventory": 241
+        "inventory": 236
       }
     ],
     "performers": [],
