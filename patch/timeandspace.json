@@ -1,0 +1,32 @@
+{
+    "@type": "ExhibitionEvent",
+    "keywords": ["TIMEANDSPACE"],
+    "location": {
+      "@type": "Place",
+      "name": "Gallery Time and Space",
+      "url": "https://timeandspace.gallery/about/",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd Floor, The Guild, 55, Lavelle Road",
+        "addressLocality": "Bangalore",
+        "addressRegion": "karnataka",
+        "postalCode": "560001",
+        "addressCountry": "India"
+      },
+      "telephone": "+917760394808",
+      "geo": {
+        "latitude": 12.970187,
+        "longitude": 77.597687
+      },
+      "sameAs": "https://timeandspace.gallery"
+    },
+    "organizer": {
+        "@type": "Organization",
+        "name": "Gallery Time and Space",
+        "url": "https://timeandspace.gallery/",
+        "contactPoint": {
+            "email": "team@timeandspace.gallery",
+            "telephone": "+917760394808"
+        }
+    }
+}

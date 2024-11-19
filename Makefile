@@ -104,6 +104,9 @@ out/sofar.json:
 out/sumukha.json:
 	python src/sumukha.py || $(call restore-file,$@)
 
+out/timeandspace.json:
+	python src/timeandspace.py || $(call restore-file,$@)
+
 out/townscript.txt:
 	python src/townscript.py | sort -u > $@ || $(call restore-file,$@)
 	echo "[TOWNSCRIPT] $$(wc -l $@ | cut -d ' ' -f 1)"
@@ -204,7 +207,8 @@ fetch: out/allevents.txt \
  out/pumarun.txt \
  out/tpcc.json \
  out/skillboxes.json \
- out/thewhitebox.json
+ out/thewhitebox.json \
+ out/timeandspace.json
 	@echo "Done"
 
 clean:
