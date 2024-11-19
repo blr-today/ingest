@@ -79,7 +79,7 @@
         "currency": "INR",
         "validFrom": "2024-08-07 17:00:00",
         "availability": "INSTOCK",
-        "inventory": 231
+        "inventory": 233
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -232,7 +232,7 @@
         "currency": "INR",
         "validFrom": "2024-10-21 11:44:55",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 25
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -240,7 +240,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:47",
         "availability": "INSTOCK",
-        "inventory": 26
+        "inventory": 20
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -256,7 +256,7 @@
         "currency": "INR",
         "validFrom": "2024-11-11 12:43:00",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 49
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -272,7 +272,7 @@
         "currency": "INR",
         "validFrom": "2024-10-17 13:46:27",
         "availability": "INSTOCK",
-        "inventory": 43
+        "inventory": 42
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -390,15 +390,15 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 1138
+        "inventory": 1040
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
         "price": 10000,
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
-        "availability": "INSTOCK",
-        "inventory": 174
+        "availability": "SELLING_FAST",
+        "inventory": 146
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -406,7 +406,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 162
+        "inventory": 153
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -566,7 +566,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 788
+        "inventory": 734
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -574,7 +574,7 @@
         "currency": "INR",
         "validFrom": "2024-10-01 00:00:00",
         "availability": "INSTOCK",
-        "inventory": 965
+        "inventory": 955
       }
     ],
     "performers": [],
@@ -832,7 +832,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 264
+        "inventory": 252
       },
       {
         "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
@@ -840,7 +840,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 297
+        "inventory": 289
       }
     ],
     "performers": [],
@@ -884,7 +884,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:06:57",
         "availability": "INSTOCK",
-        "inventory": 6
+        "inventory": 4
       }
     ],
     "performers": [],
@@ -1260,7 +1260,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:34",
         "availability": "INSTOCK",
-        "inventory": 96
+        "inventory": 94
       }
     ],
     "performers": [],
@@ -1304,7 +1304,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:35",
         "availability": "INSTOCK",
-        "inventory": 86
+        "inventory": 84
       }
     ],
     "performers": [],
@@ -1700,7 +1700,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:33",
         "availability": "INSTOCK",
-        "inventory": 38
+        "inventory": 33
       }
     ],
     "performers": [],
@@ -1744,7 +1744,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:34",
         "availability": "INSTOCK",
-        "inventory": 46
+        "inventory": 45
       }
     ],
     "performers": [],
@@ -1788,7 +1788,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:35",
         "availability": "INSTOCK",
-        "inventory": 35
+        "inventory": 27
       }
     ],
     "performers": [],
@@ -1832,7 +1832,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:35",
         "availability": "INSTOCK",
-        "inventory": 33
+        "inventory": 32
       }
     ],
     "performers": [],
@@ -1884,7 +1884,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 17:05:32",
         "availability": "INSTOCK",
-        "inventory": 193
+        "inventory": 191
       }
     ],
     "performers": [],
