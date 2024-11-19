@@ -439,6 +439,18 @@ WHERE (
   event_json->>'$.location' LIKE '%church street%' OR
   event_json->>'$.location' LIKE '%cubbon park%' OR
   event_json->>'$.location' LIKE '%church st%'
-  );
+);
 
-
+-- Electronic City
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'ECITY')
+  )
+WHERE (
+  event_json->>'$.location' LIKE '%electronic city%' OR
+  event_json->>'$.location' LIKE '%e-city%' OR
+  event_json->>'$.location' LIKE '%electroniccity%' OR
+  event_json->>'$.location' LIKE '%electronic-city%'
+);
