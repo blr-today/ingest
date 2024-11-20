@@ -114,29 +114,138 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "Hello, Bangalore!Get ready for another unforgettable live performance this Wednesday , 20th November, from 7 PM onwards.CLUB CODE WEDNESDAY!Featuring ",
-      "endDate": "2024-11-20T23:55:00",
-      "identifier": "com.skillboxes.17112",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NlhkcTlhOFBzbFowTzhwelh4UC9nZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17320948936vfyWE8RDvRPEIiu.jpg.webp",
-      "isAccessibleForFree": true,
+      "@type": "MusicEvent",
+      "description": "GLOWAL live in BANGALOREItalian producers Fabio Giannelli and Alessandro Gasperini merge forces as the artistic audio alliance, Glowal. In their soul-",
+      "endDate": "2024-12-01T23:59:00",
+      "identifier": "com.skillboxes.17127",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QnI5eW4yM1h2dE1xS1NKNUZ5dmNGdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732126350nNdiVJpGmswETC0e.jpg.webp",
+      "isAccessibleForFree": false,
       "keywords": [
-         "Party or Social Gathering"
+         "Music Events"
       ],
       "location": {
          "@type": "Place",
-         "address": "3rd Floor, Plot 99, 4th B Cross Road, KHB Colony Industrial Layout, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "12.9342763",
-            "longitude": "77.6155893"
+            "latitude": "12.9151523",
+            "longitude": "77.6660553"
          },
-         "name": "Gowild Bar & Lounge"
+         "name": "White Lotus Club Bengaluru"
       },
-      "name": "WILD WEDNESDAY",
-      "offers": [ ],
-      "startDate": "2024-11-20T19:00:00",
-      "url": "https://www.skillboxes.com/events/wild-wednesday-1"
+      "name": "GLOWAL live in BANGALORE",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 9 PM\n",
+            "inventoryLevel": 100,
+            "name": "Early Bird GA",
+            "url": "https://www.skillboxes.com/events/ticket/glowal-live-in-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 9 PM\n",
+            "inventoryLevel": 100,
+            "name": "Early Bird VIP",
+            "url": "https://www.skillboxes.com/events/ticket/glowal-live-in-bangalore"
+         }
+      ],
+      "startDate": "2024-12-01T20:00:00",
+      "url": "https://www.skillboxes.com/events/glowal-live-in-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Hello Bangalore!Get ready for an unforgettable Saturday night at Botany Brew & Kitchen’s luxurious rooftop! Date: 23rd November (Saturday) T",
+      "endDate": "2024-11-23T23:59:00",
+      "identifier": "com.skillboxes.17124",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732116580UAY1BCrkgmZeMb8F.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "18th Floor, SKAV Seethalakshmi, Kasturba Rd, opposite Vishveshwariah Museum, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9749809",
+            "longitude": "77.5973414"
+         },
+         "name": "Botany Brew and Kitchen"
+      },
+      "name": "Rohit Barker & Varun - Botany Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Couple RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/rohit-barker-varun-botany-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Ladies RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/rohit-barker-varun-botany-bangalore"
+         }
+      ],
+      "startDate": "2024-11-23T18:00:00",
+      "url": "https://www.skillboxes.com/events/rohit-barker-varun-botany-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Redroom_BLR\r\n\r\nFridays \r\n\r\n \r\n\r\nFeaturing\r\n\r\n \r\n\r\n \r\n\r\nALMOST HUMAN\r\n\r\n \r\n\r\n \r\n\r\nWILDERNESS GIRL\r\n\r\n \r\n\r\nARTBLOT\r\n\r",
+      "endDate": "2024-11-29T23:59:00",
+      "identifier": "com.skillboxes.17122",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17321140276oRko5yK19UD9UdT.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Redroom Ft. Almost Human at Kitty Ko Bangalore.",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Female, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
+            "inventoryLevel": 1000,
+            "name": "EARLY BIRD FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-almost-human-at-kitty-ko-bangalore-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Couple, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
+            "inventoryLevel": 1000,
+            "name": "EARLY BIRD COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-almost-human-at-kitty-ko-bangalore-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Male, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
+            "inventoryLevel": 1000,
+            "name": "EARLY BIRD MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-almost-human-at-kitty-ko-bangalore-1"
+         }
+      ],
+      "startDate": "2024-11-29T19:00:00",
+      "url": "https://www.skillboxes.com/events/redroom-ft-almost-human-at-kitty-ko-bangalore-1"
    },
    {
       "@context": "https://schema.org",
@@ -385,6 +494,41 @@
       ],
       "startDate": "2024-11-24T20:00:00",
       "url": "https://www.skillboxes.com/events/sequ3l-answer-live-at-gawky-goose-23rd-november"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Venue : Bira 91 Tap Room, KoramangalaTiming : 11 AM OnwardsPromoter: F1 CommuneEarly Bird: INR 299/-  [ Additional INR 300/- Cover fully redeemab",
+      "endDate": "2024-11-24T15:00:00",
+      "identifier": "com.skillboxes.17090",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732107365oMoX4hirNxD3947p.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Sports"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9313063",
+            "longitude": "77.6329297"
+         },
+         "name": "Bira 91 Taproom, Koramangala"
+      },
+      "name": "F1 Grand Prix Live Screening - Las Vegas Grand Prix | BIRA 91 Taproom, Koramangala",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional 300/- Cover will be charged at gate (Fully redeemable)\n",
+            "inventoryLevel": 98,
+            "name": "Early Birds",
+            "url": "https://www.skillboxes.com/events/ticket/f1-grand-prix-live-screening-las-vegas-grand-prix-bira91-taproom-koramangala"
+         }
+      ],
+      "startDate": "2024-11-24T11:00:00",
+      "url": "https://www.skillboxes.com/events/f1-grand-prix-live-screening-las-vegas-grand-prix-bira91-taproom-koramangala"
    },
    {
       "@context": "https://schema.org",
@@ -690,7 +834,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 296,
+            "inventoryLevel": 286,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/house-party-series-ft-vachan-chinnappa-chan-karun-mahtani"
          }
@@ -1038,7 +1182,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Actual tickets will be live soon.\nAnd Pre-Registration buyers will be notified before the tickets go live for early access.",
-            "inventoryLevel": 168,
+            "inventoryLevel": 162,
             "name": "Pre Registration",
             "url": "https://www.skillboxes.com/events/ticket/jingle-land-bangalore-s-biggest-music-festival"
          }
@@ -1079,7 +1223,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Performer Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-13"
          },
@@ -1452,7 +1596,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 21+ Cover applicable at gates.\n",
-            "inventoryLevel": 993,
+            "inventoryLevel": 978,
             "name": "RSVP/ Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/social-tadka-bangalore-takeover-7"
          }
@@ -1487,7 +1631,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 21+ Cover applicable at gates.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 981,
             "name": "RSVP/ Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/social-tadka-bangalore-takeover-6"
          }
@@ -1557,7 +1701,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 21+ Cover applicable at gates.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 982,
             "name": "RSVP/ Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/social-tadka-bangalore-takeover-4"
          }
@@ -1592,7 +1736,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 21+ Cover applicable at gates.\n",
-            "inventoryLevel": 989,
+            "inventoryLevel": 966,
             "name": "RSVP/ Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/social-tadka-bangalore-takeover-3"
          }
@@ -1627,7 +1771,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 21+ Cover applicable at gates.\n",
-            "inventoryLevel": 985,
+            "inventoryLevel": 969,
             "name": "RSVP/ Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/social-tadka-bangalore-takeover-2"
          }

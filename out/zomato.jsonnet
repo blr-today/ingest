@@ -1682,50 +1682,6 @@
   {
     "name": "Ladies Wednesday Night",
     "description": "To all the ladies out there, enjoy a 1+1 on all craft beers & cocktails every Wednesday night! Listen to popular Commercial & Hip Hop Sets played by DJ Malik, Fun night guaranteed !",
-    "startDate": "2024-11-20T20:00:00+05:30",
-    "endDate": "2024-11-20T23:59:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Ladies Wednesday Night Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Ladies Wednesday Night Bengaluru on Zomato which is a Music event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/5a7c24d0e87cc7f66a280125aba5f4a51730722371.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52997/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-04 17:48:33",
-        "availability": "INSTOCK",
-        "inventory": 33
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52997",
-    "id": "com.zomato.52997",
-    "location": {
-      "name": "XOOX Brewmill",
-      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93656731,
-        "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "Ladies Wednesday Night",
-    "description": "To all the ladies out there, enjoy a 1+1 on all craft beers & cocktails every Wednesday night! Listen to popular Commercial & Hip Hop Sets played by DJ Malik, Fun night guaranteed !",
     "startDate": "2024-11-27T20:00:00+05:30",
     "endDate": "2024-11-27T23:59:00+05:30",
     "timezone": "+05:30",
@@ -1929,7 +1885,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 500
+        "inventory": 479
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -2262,7 +2218,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:34:27",
         "availability": "INSTOCK",
-        "inventory": 995
+        "inventory": 992
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -2270,7 +2226,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:04:42",
         "availability": "INSTOCK",
-        "inventory": 2000
+        "inventory": 1999
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -2378,7 +2334,7 @@
         "currency": "INR",
         "validFrom": "2024-11-08 09:07:40",
         "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 9
       },
       {
         "url": "https://www.zomato.com/events/punchliners-host-to-roast-ft-jeeveshu-ahluwalia-bengaluru-et53057/details",
@@ -2490,7 +2446,7 @@
         "currency": "INR",
         "validFrom": "2024-11-17 16:12:28",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 29
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -2574,7 +2530,7 @@
         "currency": "INR",
         "validFrom": "2024-11-12 19:43:49",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 7
       }
     ],
     "performers": [],
@@ -2670,7 +2626,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 16:06:00",
         "availability": "INSTOCK",
-        "inventory": 236
+        "inventory": 204
       }
     ],
     "performers": [],
