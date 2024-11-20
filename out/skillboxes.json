@@ -114,6 +114,83 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "Hello, Bangalore!Get ready for another unforgettable live performance this Wednesday , 20th November, from 7 PM onwards.CLUB CODE WEDNESDAY!Featuring ",
+      "endDate": "2024-11-20T23:55:00",
+      "identifier": "com.skillboxes.17112",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NlhkcTlhOFBzbFowTzhwelh4UC9nZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17320948936vfyWE8RDvRPEIiu.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "3rd Floor, Plot 99, 4th B Cross Road, KHB Colony Industrial Layout, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9342763",
+            "longitude": "77.6155893"
+         },
+         "name": "Gowild Bar & Lounge"
+      },
+      "name": "WILD WEDNESDAY",
+      "offers": [ ],
+      "startDate": "2024-11-20T19:00:00",
+      "url": "https://www.skillboxes.com/events/wild-wednesday-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "What’s up, Bangalore!Join us this Sunday, 24th November, for an incredible event: AQUA SUNSETS !5:00 PM onwardsFeaturing: FELIX | GACHO LIBRE | ",
+      "endDate": "2024-11-24T22:00:00",
+      "identifier": "com.skillboxes.17107",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732088461sbBqfnVXWuUsjAlJ.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "DJ/Producer"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "iBAR, THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9740179",
+            "longitude": "77.619422"
+         },
+         "name": "i-Bar THE Park Bangalore"
+      },
+      "name": "AQUA SUNSETS !",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one stag to the event. Cover charges applicable at the venue throughout the event.\n",
+            "inventoryLevel": 200,
+            "name": "STAGS",
+            "url": "https://www.skillboxes.com/events/ticket/aqua-sunsets-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one lady to the event.\n",
+            "inventoryLevel": 200,
+            "name": "LADIES",
+            "url": "https://www.skillboxes.com/events/ticket/aqua-sunsets-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass allows entry to 1 Couple. Each pass permits one couple to the event. Cover charges applicable at the venue post 9:30 PM.\n",
+            "inventoryLevel": 200,
+            "name": "COUPLES",
+            "url": "https://www.skillboxes.com/events/ticket/aqua-sunsets-3"
+         }
+      ],
+      "startDate": "2024-11-24T17:00:00",
+      "url": "https://www.skillboxes.com/events/aqua-sunsets-3"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Redroom_BLR\r\n\r\nOpen Air Festival.\r\n\r\n \r\n\r\nFeaturing\r\n\r\n \r\n\r\n \r\n\r\nPRETTY PINK\r\n\r\n \r\n\r\n \r\n\r\nSaturday 23rd November 2024 | 7PM o",
       "endDate": "2024-11-23T23:59:00",
@@ -308,41 +385,6 @@
       ],
       "startDate": "2024-11-24T20:00:00",
       "url": "https://www.skillboxes.com/events/sequ3l-answer-live-at-gawky-goose-23rd-november"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Venue : Bira 91 Tap Room, KoramangalaTiming : 11 AM OnwardsPromoter: F1 CommuneEarly Bird: INR 299/-  [ Additional INR 300/- Cover fully redeemab",
-      "endDate": "2024-11-24T15:00:00",
-      "identifier": "com.skillboxes.17090",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732019314Iu9mdg62uy2aLrSk.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Sports"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9313063",
-            "longitude": "77.6329297"
-         },
-         "name": "Bira 91 Taproom, Koramangala"
-      },
-      "name": "F1 Grand Prix Live Screening - Las Vegas Grand Prix | BIRA 91 Taproom, Koramangala",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional 300/- Cover will be charged at gate (Fully redeemable)\n",
-            "inventoryLevel": 100,
-            "name": "Early Birds",
-            "url": "https://www.skillboxes.com/events/ticket/f1-grand-prix-live-screening-las-vegas-grand-prix-bira91-taproom-koramangala"
-         }
-      ],
-      "startDate": "2024-11-24T11:00:00",
-      "url": "https://www.skillboxes.com/events/f1-grand-prix-live-screening-las-vegas-grand-prix-bira91-taproom-koramangala"
    },
    {
       "@context": "https://schema.org",
@@ -551,6 +593,41 @@
       ],
       "startDate": "2024-11-22T20:00:00",
       "url": "https://www.skillboxes.com/events/bootleg-fridays-at-hardrock-cafe-4"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Get ready for a night like no other at The Drag Dynasty! Join us for an unforgettable experience featuring the incredible Laganja Estranja, the iconic",
+      "endDate": "2024-12-07T23:59:00",
+      "identifier": "com.skillboxes.17063",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732093198VYrnzbqyUvwaGlld.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Ground, HOTEL, THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9920522",
+            "longitude": "77.5819328"
+         },
+         "name": "Sutra"
+      },
+      "name": "Kitty Su Pop Up’s - The Drag Dynasty",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry pass with standing access, no seating included.\n",
+            "inventoryLevel": 98,
+            "name": "Early Bird - Entry Only",
+            "url": "https://www.skillboxes.com/events/ticket/kitty-su-pop-up-s-the-drag-dynasty"
+         }
+      ],
+      "startDate": "2024-12-07T20:00:00",
+      "url": "https://www.skillboxes.com/events/kitty-su-pop-up-s-the-drag-dynasty"
    },
    {
       "@context": "https://schema.org",
