@@ -2666,7 +2666,7 @@
         "currency": "INR",
         "validFrom": "2024-11-19 08:58:06",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 49
       }
     ],
     "performers": [],
