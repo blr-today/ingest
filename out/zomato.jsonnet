@@ -1104,50 +1104,6 @@
     }
   },
   {
-    "name": "Uprooted",
-    "description": "Catch Uprooted performing live your favourite tracks at Hard Rock Cafe, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-11-21T20:30:00+05:30",
-    "endDate": "2024-11-21T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Uprooted Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Uprooted Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2f0556168a2406082b4931a44324f8dd1730465131.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/uprooted-bengaluru-et52863/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:32",
-        "availability": "INSTOCK",
-        "inventory": 20
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/uprooted-bengaluru-et52863",
-    "id": "com.zomato.52863",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Bootleg Fridays",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Rohith and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-11-22T20:30:00+05:30",
@@ -1496,50 +1452,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97595324,
         "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-11-21T20:30:00+05:30",
-    "endDate": "2024-11-21T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4ab8c62d08a698ae777b6c59e483e1601730480680.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52884/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-01 22:59:38",
-        "availability": "INSTOCK",
-        "inventory": 189
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52884",
-    "id": "com.zomato.52884",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
       }
     }
   },
@@ -1909,50 +1821,6 @@
         "@type": "GeoCoordinates",
         "latitude": 15.594919225551,
         "longitude": 73.736698683197
-      }
-    }
-  },
-  {
-    "name": "Karaoke Night",
-    "description": "Join us for an unforgettable evening of singing and fun at Escape Brewery's Karaoke Night, featuring the charismatic KJ Abhishek. Whether you're a shower singer or a seasoned vocalist, this is your chance to take the stage and belt out your favorite tunes in a vibrant, welcoming atmosphere",
-    "startDate": "2024-11-21T20:00:00+05:30",
-    "endDate": "2024-11-21T23:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Karaoke Night Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Night Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3395bf7781c929cbf2e25a77fd8e554c1730964265.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-night-bengaluru-et53042/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-11-07 13:25:39",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-night-bengaluru-et53042",
-    "id": "com.zomato.53042",
-    "location": {
-      "name": "Escape by Brewklyn",
-      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.04059157,
-        "longitude": 77.61912205
       }
     }
   },
@@ -2686,6 +2554,178 @@
         "@type": "GeoCoordinates",
         "latitude": 13.00532301,
         "longitude": 77.58479688
+      }
+    }
+  },
+  {
+    "name": "BuzzinOn Bangalore Bar Hop - Indiranagar Edition",
+    "description": "Welcome to The BuzzinOn Bangalore Bar Hop: The Ultimate Pub Crawl, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favourite drinks, groove to fantastic music, and engage in fun games and activities. Walk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
+    "startDate": "2024-11-30T18:30:00+05:30",
+    "endDate": "2024-12-01T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "BuzzinOn Bangalore Bar Hop - Indiranagar Edition Experiences event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for BuzzinOn Bangalore Bar Hop - Indiranagar Edition Bengaluru on Zomato which is a Experiences event happening at 777/I, 2nd Floor, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/42337c0040ad93d5889d263088a36a961732194744.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
+        "price": 699,
+        "currency": "INR",
+        "validFrom": "2024-11-21 19:15:31",
+        "availability": "INSTOCK",
+        "inventory": 100
+      },
+      {
+        "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-11-21 19:15:31",
+        "availability": "INSTOCK",
+        "inventory": 50
+      },
+      {
+        "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
+        "price": 3999,
+        "currency": "INR",
+        "validFrom": "2024-11-21 19:15:32",
+        "availability": "INSTOCK",
+        "inventory": 50
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323",
+    "id": "com.zomato.53323",
+    "location": {
+      "name": "Watson's Indiranagar",
+      "address": "777/I, 2nd Floor, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.967276,
+        "longitude": 77.6412768
+      }
+    }
+  },
+  {
+    "name": "Bunnyville Bollytech Saturday",
+    "description": "This November 23rd, Kormangala\u2019s nightlife scene is about to explode! Bunyville presents an exclusive event headlined by DJ Ansick and Dj Nash. Known for there electric sets and infectious beats, Ansick and Nash promises to take you on a musical journey that you won\u2019t forget. Don\u2019t miss out on the chance to party with the best crowd and vibe in town. Doors open at 8 PM\u2014bring your energy and let\u2019s make it a night to remember!",
+    "startDate": "2024-11-23T20:00:00+05:30",
+    "endDate": "2024-11-24T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "Bunnyville Bollytech Saturday Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Bunnyville Bollytech Saturday Bengaluru on Zomato which is a Music event happening at 749, 10th Main road, 80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/9271023f021952a1329340ecbc059ac81732194911.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/bunnyville-bollytech-saturday-bengaluru-et53324/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-21 19:15:34",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/bunnyville-bollytech-saturday-bengaluru-et53324/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-21 19:15:34",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/bunnyville-bollytech-saturday-bengaluru-et53324",
+    "id": "com.zomato.53324",
+    "location": {
+      "name": "Bunny Bar",
+      "address": "749, 10th Main road, 80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9331418,
+        "longitude": 77.6307246
+      }
+    }
+  },
+  {
+    "name": "CrossOver ft. TEHO",
+    "description": "The most trending pop up in town is back this December with a banger - CrossOver Winter Edition with the Cercle sensation TEHO at Kitty Ko.",
+    "startDate": "2024-12-01T20:00:00+05:30",
+    "endDate": "2024-12-02T01:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": true,
+    "ogTitle": "CrossOver ft. TEHO Music event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for CrossOver ft. TEHO Bengaluru on Zomato which is a Music event happening at Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/854b9d55e7c552d69889d2e01ebdbbb91732195100.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-21 19:15:32",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325/details",
+        "price": 0,
+        "currency": "INR",
+        "validFrom": "2024-11-21 19:15:33",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-11-21 19:15:33",
+        "availability": "INSTOCK",
+        "inventory": 200
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325",
+    "id": "com.zomato.53325",
+    "location": {
+      "name": "Kitty Ko",
+      "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.9923061,
+        "longitude": 77.58201
       }
     }
   }

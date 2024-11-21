@@ -115,6 +115,129 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Experience the magic of Zubeen Garg, the heartthrob of Assam, live in concert at Alive India in Concert Season 10! Known for his powerful voice and ch",
+      "endDate": "2024-12-14T23:59:00",
+      "identifier": "com.skillboxes.17140",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732200230D7cLFXkblVXsVCX1.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Garuda Mall, Magrath Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9700946",
+            "longitude": "77.6094332"
+         },
+         "name": "Garuda Outdoor Courtyard"
+      },
+      "name": "Zubeen Garg Live In Concert",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Rocker Standing",
+            "url": "https://www.skillboxes.com/events/ticket/zubeen-garg-live-in-concert"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Gold Seating",
+            "url": "https://www.skillboxes.com/events/ticket/zubeen-garg-live-in-concert"
+         }
+      ],
+      "startDate": "2024-12-14T18:00:00",
+      "url": "https://www.skillboxes.com/events/zubeen-garg-live-in-concert"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Get ready for an unforgettable evening with the soulful voice of Kunal Ganjawala, live in concert at Alive India in Concert Season 10! Renowned for hi",
+      "endDate": "2024-12-21T23:59:00",
+      "identifier": "com.skillboxes.17139",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732199642Yrjl43gx97iRZQ9d.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Magrath Rd, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9700946",
+            "longitude": "77.6094332"
+         },
+         "name": "Garuda Outdoor Courtyard"
+      },
+      "name": "Kunal Ganjawalla Live In Concert",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10000,
+            "name": "Rocker Standing",
+            "url": "https://www.skillboxes.com/events/ticket/kunal-ganjawalla-live-in-concert"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Gold Seating",
+            "url": "https://www.skillboxes.com/events/ticket/kunal-ganjawalla-live-in-concert"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "VIP Seating",
+            "url": "https://www.skillboxes.com/events/ticket/kunal-ganjawalla-live-in-concert"
+         }
+      ],
+      "startDate": "2024-12-21T18:00:00",
+      "url": "https://www.skillboxes.com/events/kunal-ganjawalla-live-in-concert"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Unleash your inner god! 🔱This Saturday, we’re transforming OURO into Mount Olympus for a night of epic mythological vibes. Let the legen",
+      "endDate": "2024-11-23T23:59:00",
+      "identifier": "com.skillboxes.17138",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/U1hzVldzNDcxTHJFc0MyU0g4MGNYQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732194848cozqEimiU8Yph6EE.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th Floor, Forum Rex Walk, Brigade Rd, A Block, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9723708",
+            "longitude": "77.6067631"
+         },
+         "name": "Ouro"
+      },
+      "name": "GODS AND MYTHS",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 147,
+            "name": "PHASE 1",
+            "url": "https://www.skillboxes.com/events/ticket/gods-and-myths"
+         }
+      ],
+      "startDate": "2024-11-23T19:00:00",
+      "url": "https://www.skillboxes.com/events/gods-and-myths"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "This holiday season get ready for the ultimate event experience with the world famous superstar producer from Brazil - Henrique Camacho coming to bang",
       "endDate": "2024-12-21T23:59:00",
       "identifier": "com.skillboxes.17135",
