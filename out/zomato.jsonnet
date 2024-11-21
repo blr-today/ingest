@@ -171,6 +171,98 @@
     }
   },
   {
+    "name": "Feeding India Concert with Dua Lipa",
+    "description": "**LIMITED TICKETS NOW AVAILABLE**\n\nAttention Dua Lipa fans - get ready to levitate! The Feeding India Concert, organised by Zomato's Feeding India initiative to fight malnutrition, is back.\nThis time, global pop icon Dua Lipa is here to make you \u2018dance the night away\u2019 in Mumbai. Witness the chart-topping artist light up the stage with her electrifying hits, and don\u2019t miss the amazing support acts: the sensational JONITA and the dynamic Talwiinder.\n\nWe\u2019ve just got one \u2018new rule\u2019 \u2013 don't miss the chance to be part of this incredible experience, with a great cause.",
+    "startDate": "2024-11-30T15:00:00+05:30",
+    "endDate": "2024-11-30T22:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Feeding India Concert with Dua Lipa Music and Trending event Tickets Mumbai - Zomato",
+    "ogDesc": "Book online tickets for Feeding India Concert with Dua Lipa Mumbai on Zomato which is a Music and Trending event happening at New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/dd2c968d23ba7d20d4657473f4a149c61732085367.png",
+      "https://b.zmtcdn.com/data/zomaland/0c2ae00635ef4aee1fffa8bb266ffc641724335426.png",
+      "https://b.zmtcdn.com/data/zomaland/b4454ca93f87b57dbacf89c658d91fb61724335445.png",
+      "https://b.zmtcdn.com/data/zomaland/502ce90275c6e620055d4a7c8562584a1724335474.png",
+      "https://b.zmtcdn.com/data/zomaland/e3fa669fa71173925953e87f874384001724335474.png",
+      "https://b.zmtcdn.com/data/zomaland/cedaa72666b1954a845beb9f5fbcce061724335474.png",
+      "https://b.zmtcdn.com/data/zomaland/905835bd13100813bb656faf1cbaf1af1724658596.png",
+      "https://b.zmtcdn.com/data/zomaland/abfe2e3c5a55ffdcd1100dd80f9a6f181731385762.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
+        "price": 10000,
+        "currency": "INR",
+        "validFrom": "2024-08-26 15:00:00",
+        "availability": "INSTOCK",
+        "inventory": 1167
+      },
+      {
+        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
+        "price": 17000,
+        "currency": "INR",
+        "validFrom": "2024-08-26 15:00:00",
+        "availability": "INSTOCK",
+        "inventory": 629
+      },
+      {
+        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
+        "price": 45000,
+        "currency": "INR",
+        "validFrom": "2024-08-26 15:00:00",
+        "availability": "INSTOCK",
+        "inventory": 241
+      }
+    ],
+    "performers": [
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png",
+        "name": "Dua Lipa",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png",
+        "name": "Jonita",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png",
+        "name": "Talwiinder",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png"
+      },
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png",
+        "name": "More",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png"
+      }
+    ],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042",
+    "id": "com.zomato.49042",
+    "location": {
+      "name": "MMRDA Ground",
+      "address": "New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 19.06727212,
+        "longitude": 72.8615249
+      }
+    }
+  },
+  {
     "name": "Dil-Luminati Tour - India",
     "description": "For the first time ever, global music icon Diljit Dosanjh brings his blockbuster Dil-Luminati Tour to 11 cities across India! After smashing records with sold-out shows across North America, Australia, and New Zealand, he's ready to set India ablaze with his electrifying energy.\n\nWhat to expect:\n\n\u261e High-energy performances of fan favorites and chart-topping hits\n\n\u261e Stunning visuals and world-class sound production\n\n\u261e Unforgettable memories celebrating Desi music for all ages\n\nBrought to you by Saregama India and Ripple Effect Studios.\n\n\n**Gates open at 6 pm**",
     "startDate": "2024-12-06T19:00:00+05:30",
@@ -180,7 +272,7 @@
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
     "ogTitle": "Dil-Luminati Tour - India Trending and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Dil-Luminati Tour - India Bengaluru on Zomato which is a Trending and Music event happening at To be announced",
+    "ogDesc": "Book online tickets for Dil-Luminati Tour - India Bengaluru on Zomato which is a Trending and Music event happening at Venue to be announced",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/41d832c50e146682ed80f4ee445ff60e1728294913.png",
       "https://b.zmtcdn.com/data/zomaland/1972f38023c561f25b5c96e0b99cad471725427265.png",
@@ -196,7 +288,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 14:56:00",
         "availability": "INSTOCK",
-        "inventory": 96
+        "inventory": 94
       }
     ],
     "performers": [],
@@ -240,7 +332,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:47",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 16
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -390,7 +482,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 1040
+        "inventory": 950
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -398,15 +490,15 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "SELLING_FAST",
-        "inventory": 146
+        "inventory": 109
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
         "price": 15000,
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
-        "availability": "INSTOCK",
-        "inventory": 153
+        "availability": "SELLING_FAST",
+        "inventory": 141
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -498,102 +590,6 @@
         "@type": "GeoCoordinates",
         "latitude": 23.15344582911,
         "longitude": 72.685587144176
-      }
-    }
-  },
-  {
-    "name": "Pet Fed Bengaluru 2024",
-    "description": "Bengaluru, brace yourselves because Pet Fed is Back and it's bigger, better, and greener than ever! \ud83c\udf89 #PetFedIndiaisBack\n\nThis year, we\u2019re not just celebrating our return\u2014we\u2019re celebrating 10 incredible years of Pet Fed! \ud83e\udd73\n\nJoin us at Jayamahal Palace on 23rd & 24th November 2024 for two days of non-stop love and fun with your fur babies. \ud83d\udc3e\n\nHere\u2019s what we\u2019ve got lined up for you:\n\n- 3 Acres of Festival Bliss\n- Expert-Led Master Classes\n- Exciting Dog & Cat Play Zones\n- International Cat Show\n- Fashion Show\n- Police Dog Show\n- Agility Ring\n- Adoption Camps\n- Tons of Games\n- 100+ Global Pet Stalls\n- Food, Drinks & Unmatched Fun\n\nCome with or without your pet\u2014but don\u2019t miss out on the decade celebration! \ud83c\udf82\n\n#PetFedBengaluru2024",
-    "startDate": "2024-11-23T11:00:00+05:30",
-    "endDate": "2024-11-24T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Pet Fed Bengaluru 2024 Best seller, Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Pet Fed Bengaluru 2024 Bengaluru on Zomato which is a Best seller, Experiences and Trending event happening at 1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/aa24e05a15ea0fc0df8eac9126e3cc361726998071.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/2c93c8638d243698aaac4f30920bccca1726904190.png",
-      "https://b.zmtcdn.com/data/zomaland/56d92881a5cf5fb729974ff169050eae1726904202.png",
-      "https://b.zmtcdn.com/data/zomaland/76c599fca915a2684333a9e25b5c4ddb1726904215.png",
-      "https://b.zmtcdn.com/data/zomaland/d68d3408955360070b98883830aac06e1726904215.png",
-      "https://b.zmtcdn.com/data/zomaland/c85d797ce1b33bb700d06c5fcab2c1bf1726904215.png",
-      "https://b.zmtcdn.com/data/zomaland/d6af22155de2dba4e295684d50fb1fc71726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/f6b5fad67109245924a4636947a001231726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/87df7d5ceaee173d475b25bb5f85c2901726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/9b384eb326f86452d51ecfb040b2b3301726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/d3e8293c8923240f227d18aba712a33a1726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/da5a055db5cdaa85008de1660ae7fda51726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/be643f6da8789074dde93a1a4b8f4b171726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/80cfaacbee45e45c920c270cfc805f721726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/4dc820ddc956d056081b2bbf730882e81726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/da0caa12866568e3ebb98d6b7976f8321726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/01155049c92bf52087a1c75a5380cb381726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/a8e27b615a482f32390b6bf4356df2911726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/9bc847764a200b5a1457d004b2b138611726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/1d60ef570e85d3dd1e82b44ffb238bfb1726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/78dbc436bbeac06a7ee2726381b461111726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/9e1b511a36e075f5137f70a21a58d0bf1726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/c59d4f1dff532777a0b8196ebca3d8bd1726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/5187223b2975b38afa3c31528518d3ce1726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/14a8726b9afedc6ee49934c6180612821726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/0e4bffa543fd232ddef4f9655eb21eba1726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/6e6eb20c369fcba4f0b9a3550273f1911726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/9e7816dd6bac6eae5ac4ba987ced24021726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/4e80382d69b57e19490c9197e8b12a3f1726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/3f98a702381179ef42005423c194ee731726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/49d9e09b6076eb91559732c2072399551726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/8fb178eab8dea37814917a24e97d88c91726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/ef78397abefe98377cdcf23e280702021726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/aa8b3c1b41c1394bcb32ff809f07e5031726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/daf7b5171dca6563bbe5b2fa046fbbbd1726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/0b6043775a66b0eaa89015156f51adcb1726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/3e8f56def7983fccfc01451e37173eb41726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/473f010797bc4299376f320d47df69bc1726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/f7cc41da573805a9fb78065d3882b5c21726904801.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/7c95067192779513ff82ffe3346653bf1726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/d8dd53fc5814f22ccb8d5da7a80349f71726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/ba9f5776d4efff6b38006eba9c67e4071726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/6f491a85f73cc801ac632b873443aeb71726904801.png",
-      "https://b.zmtcdn.com/data/zomaland/983e7122fbdf1540ca0060e5654098b21726998233.png",
-      "https://b.zmtcdn.com/data/zomaland/af6843985474c81373aa4e3449217c681731297603.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-01 00:00:00",
-        "availability": "INSTOCK",
-        "inventory": 734
-      },
-      {
-        "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-10-01 00:00:00",
-        "availability": "INSTOCK",
-        "inventory": 955
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736",
-    "id": "com.zomato.51736",
-    "location": {
-      "name": "Jayamahal Palace",
-      "address": "1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.99784934,
-        "longitude": 77.59742123
       }
     }
   },
@@ -840,7 +836,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 289
+        "inventory": 272
       }
     ],
     "performers": [],
@@ -936,7 +932,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:07:00",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 7
       }
     ],
     "performers": [],
@@ -1304,7 +1300,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:35",
         "availability": "INSTOCK",
-        "inventory": 84
+        "inventory": 82
       }
     ],
     "performers": [],
@@ -1348,7 +1344,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:35",
         "availability": "INSTOCK",
-        "inventory": 94
+        "inventory": 91
       }
     ],
     "performers": [],
@@ -1732,8 +1728,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
-    "ogTitle": "BOLLYXOOX Saturday Night Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for BOLLYXOOX Saturday Night Bengaluru on Zomato which is a Party event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "ogTitle": "BOLLYXOOX Saturday Night Party and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for BOLLYXOOX Saturday Night Bengaluru on Zomato which is a Party and Trending event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/89f95ec126167c19af5e4adcc55b74491730722563.jpeg"
     ],
@@ -1743,8 +1739,8 @@
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:35",
-        "availability": "INSTOCK",
-        "inventory": 27
+        "availability": "SELLING_FAST",
+        "inventory": 11
       }
     ],
     "performers": [],
@@ -1788,7 +1784,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:35",
         "availability": "INSTOCK",
-        "inventory": 32
+        "inventory": 24
       }
     ],
     "performers": [],
@@ -1832,7 +1828,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 17:05:31",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 199
       },
       {
         "url": "https://www.zomato.com/events/mixmag-lab-bengaluru-bengaluru-et53013/details",
@@ -1840,7 +1836,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 17:05:32",
         "availability": "INSTOCK",
-        "inventory": 191
+        "inventory": 186
       }
     ],
     "performers": [],

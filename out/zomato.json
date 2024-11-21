@@ -165,6 +165,90 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "**LIMITED TICKETS NOW AVAILABLE**\n\nAttention Dua Lipa fans - get ready to levitate! The Feeding India Concert, organised by Zomato's Feeding India initiative to fight malnutrition, is back.\nThis time, global pop icon Dua Lipa is here to make you ‘dance the night away’ in Mumbai. Witness the chart-topping artist light up the stage with her electrifying hits, and don’t miss the amazing support acts: the sensational JONITA and the dynamic Talwiinder.\n\nWe’ve just got one ‘new rule’ – don't miss the chance to be part of this incredible experience, with a great cause.",
+      "endDate": "2024-11-30T22:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/dd2c968d23ba7d20d4657473f4a149c61732085367.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 19.067272119999998,
+            "longitude": 72.861524900000006
+         },
+         "name": "MMRDA Ground"
+      },
+      "name": "Feeding India Concert with Dua Lipa",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 1167
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T15:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 629
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T15:00:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 241
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-08-26T15:00:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png",
+            "name": "Dua Lipa",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png"
+         },
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png",
+            "name": "Jonita",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png"
+         },
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png",
+            "name": "Talwiinder",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png"
+         },
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png",
+            "name": "More",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png"
+         }
+      ],
+      "startDate": "2024-11-30T15:00:00+05:30",
+      "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "For the first time ever, global music icon Diljit Dosanjh brings his blockbuster Dil-Luminati Tour to 11 cities across India! After smashing records with sold-out shows across North America, Australia, and New Zealand, he's ready to set India ablaze with his electrifying energy.\n\nWhat to expect:\n\n☞ High-energy performances of fan favorites and chart-topping hits\n\n☞ Stunning visuals and world-class sound production\n\n☞ Unforgettable memories celebrating Desi music for all ages\n\nBrought to you by Saregama India and Ripple Effect Studios.\n\n\n**Gates open at 6 pm**",
       "endDate": "2024-12-06T22:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -181,7 +265,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 96
+               "value": 94
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-18T14:56:00+05:30"
@@ -195,7 +279,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 96,
+      "remainingAttendeeCapacity": 94,
       "startDate": "2024-12-06T19:00:00+05:30",
       "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398"
    },
@@ -232,7 +316,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 20
+               "value": 16
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-25T15:03:00+05:30"
@@ -390,7 +474,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1040
+               "value": 950
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T21:18:00+05:30"
@@ -399,7 +483,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 146
+               "value": 109
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -408,7 +492,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 153
+               "value": 141
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -505,56 +589,6 @@
       "performers": [ ],
       "startDate": "2025-01-12T19:00:00+05:30",
       "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Bengaluru, brace yourselves because Pet Fed is Back and it's bigger, better, and greener than ever! 🎉 #PetFedIndiaisBack\n\nThis year, we’re not just celebrating our return—we’re celebrating 10 incredible years of Pet Fed! 🥳\n\nJoin us at Jayamahal Palace on 23rd & 24th November 2024 for two days of non-stop love and fun with your fur babies. 🐾\n\nHere’s what we’ve got lined up for you:\n\n- 3 Acres of Festival Bliss\n- Expert-Led Master Classes\n- Exciting Dog & Cat Play Zones\n- International Cat Show\n- Fashion Show\n- Police Dog Show\n- Agility Ring\n- Adoption Camps\n- Tons of Games\n- 100+ Global Pet Stalls\n- Food, Drinks & Unmatched Fun\n\nCome with or without your pet—but don’t miss out on the decade celebration! 🎂\n\n#PetFedBengaluru2024",
-      "endDate": "2024-11-24T21:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/aa24e05a15ea0fc0df8eac9126e3cc361726998071.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.99784934,
-            "longitude": 77.597421229999995
-         },
-         "name": "Jayamahal Palace"
-      },
-      "name": "Pet Fed Bengaluru 2024",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 734
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-10-01T00:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 955
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-10-01T00:00:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "startDate": "2024-11-23T11:00:00+05:30",
-      "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736"
    },
    {
       "@context": "https://schema.org",
@@ -799,7 +833,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 289
+               "value": 272
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-30T22:56:00+05:30"
@@ -891,7 +925,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 10
+               "value": 7
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T16:07:00+05:30"
@@ -1243,7 +1277,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 84
+               "value": 82
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -1257,7 +1291,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 84,
+      "remainingAttendeeCapacity": 82,
       "startDate": "2024-11-24T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et52867"
    },
@@ -1285,7 +1319,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 94
+               "value": 91
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -1299,7 +1333,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 94,
+      "remainingAttendeeCapacity": 91,
       "startDate": "2024-11-27T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52868"
    },
@@ -1663,7 +1697,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 27
+               "value": 11
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -1677,7 +1711,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 27,
+      "remainingAttendeeCapacity": 11,
       "startDate": "2024-11-22T20:00:00+05:30",
       "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53002"
    },
@@ -1705,7 +1739,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 32
+               "value": 24
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -1719,7 +1753,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 32,
+      "remainingAttendeeCapacity": 24,
       "startDate": "2024-11-29T20:00:00+05:30",
       "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53003"
    },
@@ -1747,7 +1781,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 200
+               "value": 199
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T17:05:00+05:30"
@@ -1756,7 +1790,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 191
+               "value": 186
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T17:05:00+05:30"
