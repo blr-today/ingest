@@ -238,6 +238,40 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "For the first time, GQ is bringing its exclusive event experience to Bangalore, hosting an unforgettable evening at High Ultra Lounge on December 7th.",
+      "endDate": "2024-12-07T23:59:00",
+      "identifier": "com.skillboxes.17137",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732259277fw5UJGvLXbsRJrTs.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0122829",
+            "longitude": "77.5561431"
+         },
+         "name": "High Ultra Lounge"
+      },
+      "name": "Savor Series",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Regular Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/savor-series"
+         }
+      ],
+      "startDate": "2024-12-07T19:00:00",
+      "url": "https://www.skillboxes.com/events/savor-series"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "This holiday season get ready for the ultimate event experience with the world famous superstar producer from Brazil - Henrique Camacho coming to bang",
       "endDate": "2024-12-21T23:59:00",
       "identifier": "com.skillboxes.17135",
@@ -2613,49 +2647,6 @@
       ],
       "startDate": "2024-11-23T18:00:00",
       "url": "https://www.skillboxes.com/events/under-the-sky"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "THE MEDICINE WHEEL is a curated multisensory experience primarily focused on live music, in humble association with Grasa Courtyard - an open air rest",
-      "endDate": "2024-11-22T23:59:00",
-      "identifier": "com.skillboxes.16852",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730975342YHSxjvsTq0MeZrIU.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No 22/1&8, Doddaballapur Main Rd, opp. to Hp petrol pump, Honnenahalli, Bengaluru, Karnataka 560064, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.1643841",
-            "longitude": "77.565283"
-         },
-         "name": "GRASA"
-      },
-      "name": "Grasa presents ''The Medicine Wheel\" - 1.0",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "ENTRY ONLY. FOOD & BEVERAGE COUPONS AVAILABLE AT VENUE. EACH SERVING IS VALUED AT 200/- INR ONLY.\n",
-            "inventoryLevel": 100,
-            "name": "MODEL A",
-            "url": "https://www.skillboxes.com/events/ticket/grasa-presents-the-medicine-wheel-1-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "ENTRY GRANTED AT 499/- INR ONLY. FOOD & BEVERAGE COUPONS WORTH 1500/- INR REDEEMABLE AT VENUE EACH SERVING IS VALUED AT 200/- INR ONLY.\n",
-            "inventoryLevel": 100,
-            "name": "MODEL B",
-            "url": "https://www.skillboxes.com/events/ticket/grasa-presents-the-medicine-wheel-1-1"
-         }
-      ],
-      "startDate": "2024-11-22T18:00:00",
-      "url": "https://www.skillboxes.com/events/grasa-presents-the-medicine-wheel-1-1"
    },
    {
       "@context": "https://schema.org",
