@@ -1793,7 +1793,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 479
+        "inventory": 476
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -2082,7 +2082,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:34:27",
         "availability": "INSTOCK",
-        "inventory": 992
+        "inventory": 989
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -2310,7 +2310,7 @@
         "currency": "INR",
         "validFrom": "2024-11-17 16:12:28",
         "availability": "INSTOCK",
-        "inventory": 29
+        "inventory": 27
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -2490,7 +2490,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 16:06:00",
         "availability": "INSTOCK",
-        "inventory": 204
+        "inventory": 177
       }
     ],
     "performers": [],
