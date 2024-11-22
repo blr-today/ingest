@@ -956,50 +956,6 @@
     }
   },
   {
-    "name": "SCC SkyCinema - Salaam Namaste",
-    "description": "\"Main perfect nahi hoon, tum perfect nahi ho aur zindagi kabhi perfect nahi hogi ... par tum mere liye hamesha perfect hogi - Salaam Namaste\n\nRevisit the vibrant and heartwarming story of Nikhil and Ambar. Join us for a screening of the iconic film that celebrates Indian culture and the complexities of modern love. Experience the laughter, tears, and the enduring power of human connection under the starry night sky.\n\nSit back and relax on comfy bean bags and bask in the romance and nostalgia as you enjoy your favorite classics or discover new hidden gems. \n\nMovies and food make a great combination, so drinks and snacks, at reasonable prices, will be flowing from the moment the gates open.  \n\nEnjoy a super chill vibe in the lovely outdoors, as the sun dissolves and the stars appear just in time for the film to begin!",
-    "startDate": "2024-11-22T19:00:00+05:30",
-    "endDate": "2024-11-22T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC SkyCinema - Salaam Namaste Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC SkyCinema - Salaam Namaste Bengaluru on Zomato which is a Experiences and Trending event happening at Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/afb1fcf66bc5e8bb36a445da2e6aab4f1730452502.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et52799/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:07:01",
-        "availability": "INSTOCK",
-        "inventory": 10
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-50-first-dates-bengaluru-et52799",
-    "id": "com.zomato.52799",
-    "location": {
-      "name": "Chapter 6",
-      "address": "Chapter 6 , No. 6, 2nd floor, beside Drunkling Sizzlers & Pub, 1st Cross Rd, 5th Block, Koramangala, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93531356,
-        "longitude": 77.62135638
-      }
-    }
-  },
-  {
     "name": "SCC Picnic Cinema - P.S. I Love You",
     "description": "\u201cShoot for the moon, even if you fail, you'll land among the stars\u201d - Cecelia Ahern, P.S. I Love You\n\nExperience the bittersweet beauty of love and loss in \"P.S. I Love You.\" Join us for a screening of this heartwarming film that explores the power of love, hope, and the enduring bonds we create. Prepare to be moved by Holly's journey as she navigates life after the loss of her beloved husband, guided by his heartfelt letters.\n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favorite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
     "startDate": "2024-11-29T19:00:00+05:30",
@@ -1100,50 +1056,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93656731,
         "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "Bootleg Fridays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Rohith and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-11-22T20:30:00+05:30",
-    "endDate": "2024-11-22T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Bootleg Fridays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bootleg Fridays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/9f8a7f0fe7c171bf94b5134503ebb4151730465174.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et52864/details",
-        "price": 1000,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:33",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et52864",
-    "id": "com.zomato.52864",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
       }
     }
   },
@@ -1634,50 +1546,6 @@
   {
     "name": "BOLLYXOOX Saturday Night",
     "description": "DJ Mani & DJ Rashmi are all set to give you a Bollywood & Punjabi High this November. Enjoy a night full of fun & frolic and dance your heart out at the mill with our Craft!",
-    "startDate": "2024-11-22T20:00:00+05:30",
-    "endDate": "2024-11-22T23:59:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "BOLLYXOOX Saturday Night Party and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for BOLLYXOOX Saturday Night Bengaluru on Zomato which is a Party and Trending event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/89f95ec126167c19af5e4adcc55b74491730722563.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53002/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-04 17:48:35",
-        "availability": "SELLING_FAST",
-        "inventory": 8
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53002",
-    "id": "com.zomato.53002",
-    "location": {
-      "name": "XOOX Brewmill",
-      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93656731,
-        "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "BOLLYXOOX Saturday Night",
-    "description": "DJ Mani & DJ Rashmi are all set to give you a Bollywood & Punjabi High this November. Enjoy a night full of fun & frolic and dance your heart out at the mill with our Craft!",
     "startDate": "2024-11-29T20:00:00+05:30",
     "endDate": "2024-11-29T23:59:00+05:30",
     "timezone": "+05:30",
@@ -1806,50 +1674,6 @@
     ],
     "url": "https://www.zomato.com/events/karaoke-night-bengaluru-et53043",
     "id": "com.zomato.53043",
-    "location": {
-      "name": "Escape by Brewklyn",
-      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.04059157,
-        "longitude": 77.61912205
-      }
-    }
-  },
-  {
-    "name": "Bollywood Night",
-    "description": "Step into the world of glamour, dance, and the vibrant energy of Bollywood with our exclusive Bollywood DJ Night at Escape by Brewklyn. This is your invitation to experience the magic of Indian cinema through music, where every beat tells a story, and every song invites you to dance.",
-    "startDate": "2024-11-22T20:00:00+05:30",
-    "endDate": "2024-11-22T23:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Bollywood Night Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bollywood Night Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3fa97783c409f0d13878b6fff970e6551730964984.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53045/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-11-07 13:25:39",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53045",
-    "id": "com.zomato.53045",
     "location": {
       "name": "Escape by Brewklyn",
       "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
@@ -2464,8 +2288,8 @@
   {
     "name": "Epic Afters",
     "description": "Epic Afters takes you beyond the show into the real world of electrifying music and high-energy vibes\u2014a world where the party never ends!\n\nJoin us for a multi-sensory experience, featuring (artist names), immersive hospitality, and a crowd that knows how to keep the night alive",
-    "startDate": "2024-11-22T19:00:00+05:30",
-    "endDate": "2024-11-23T01:00:00+05:30",
+    "startDate": "2024-11-22 19:00:00",
+    "endDate": "2024-11-23 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -2482,7 +2306,7 @@
         "currency": "INR",
         "validFrom": "2024-11-19 08:58:06",
         "availability": "INSTOCK",
-        "inventory": 49
+        "inventory": 39
       }
     ],
     "performers": [],
