@@ -189,7 +189,7 @@
       "https://b.zmtcdn.com/data/zomaland/e3fa669fa71173925953e87f874384001724335474.png",
       "https://b.zmtcdn.com/data/zomaland/cedaa72666b1954a845beb9f5fbcce061724335474.png",
       "https://b.zmtcdn.com/data/zomaland/905835bd13100813bb656faf1cbaf1af1724658596.png",
-      "https://b.zmtcdn.com/data/zomaland/abfe2e3c5a55ffdcd1100dd80f9a6f181731385762.png"
+      "https://b.zmtcdn.com/data/zomaland/4a0c9491cbaa34561822c01a43535c491732255409.png"
     ],
     "tickets": [
       {
@@ -198,7 +198,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 1167
+        "inventory": 1146
       },
       {
         "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
@@ -206,7 +206,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 629
+        "inventory": 605
       },
       {
         "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
@@ -214,7 +214,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 241
+        "inventory": 239
       }
     ],
     "performers": [
@@ -288,7 +288,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 14:56:00",
         "availability": "INSTOCK",
-        "inventory": 94
+        "inventory": 90
       }
     ],
     "performers": [],
@@ -324,7 +324,7 @@
         "currency": "INR",
         "validFrom": "2024-10-21 11:44:55",
         "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 20
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -340,7 +340,7 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:00",
         "availability": "INSTOCK",
-        "inventory": 98
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -482,7 +482,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 950
+        "inventory": 857
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -490,7 +490,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "SELLING_FAST",
-        "inventory": 109
+        "inventory": 82
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -498,7 +498,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "SELLING_FAST",
-        "inventory": 141
+        "inventory": 112
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -740,7 +740,7 @@
         "currency": "INR",
         "validFrom": "2024-10-23 09:57:35",
         "availability": "INSTOCK",
-        "inventory": 10
+        "inventory": 5
       }
     ],
     "performers": [],
@@ -828,7 +828,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 252
+        "inventory": 248
       },
       {
         "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
@@ -836,7 +836,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 272
+        "inventory": 264
       }
     ],
     "performers": [],
@@ -1256,7 +1256,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:35",
         "availability": "INSTOCK",
-        "inventory": 82
+        "inventory": 76
       }
     ],
     "performers": [],
@@ -1608,7 +1608,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:34",
         "availability": "INSTOCK",
-        "inventory": 45
+        "inventory": 43
       }
     ],
     "performers": [],
@@ -1652,7 +1652,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:35",
         "availability": "SELLING_FAST",
-        "inventory": 11
+        "inventory": 8
       }
     ],
     "performers": [],
@@ -1696,7 +1696,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:35",
         "availability": "INSTOCK",
-        "inventory": 24
+        "inventory": 23
       }
     ],
     "performers": [],
@@ -1716,58 +1716,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93656731,
         "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "Mixmag Lab Bengaluru",
-    "description": "SoMAD Brings you Bengaluru's Hottest Mixmag Rooftop Sundowner to Night Party at One8 Commune.  \n\nA Mixmag Showcase is an immersive event spotlighting the pulse of electronic music, featuring top-tier DJs and artists who redefine the dance music landscape. Curated with Mixmag\u2019s signature taste and authority in club culture, these showcases blend underground vibes with global sounds, creating a dynamic atmosphere where emerging talent meets renowned acts. The experience is designed to captivate from start to finish, with innovative lighting, cutting-edge sound systems, and unique visuals that amplify the music. Ideal for fans who crave authentic and genre-defining performances, a Mixmag Showcase is a celebration of electronic music\u2019s most vibrant elements and its powerful sense of community.",
-    "startDate": "2024-11-24T16:00:00+05:30",
-    "endDate": "2024-11-24T23:59:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Mixmag Lab Bengaluru Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Mixmag Lab Bengaluru Bengaluru on Zomato which is a Music event happening at One 8 Commune 10/5, 6th floor, Rathnam's Complex, Kasturba Road, Mahatma Gandhi Rd, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/03cb13cbf5a29ab81a4bc98279b3bdc11730805869.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/mixmag-lab-bengaluru-bengaluru-et53013/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-05 17:05:31",
-        "availability": "INSTOCK",
-        "inventory": 199
-      },
-      {
-        "url": "https://www.zomato.com/events/mixmag-lab-bengaluru-bengaluru-et53013/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-05 17:05:32",
-        "availability": "INSTOCK",
-        "inventory": 186
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/mixmag-lab-bengaluru-bengaluru-et53013",
-    "id": "com.zomato.53013",
-    "location": {
-      "name": "One8 Commune, Bangalore",
-      "address": "One 8 Commune 10/5, 6th floor, Rathnam's Complex, Kasturba Road, Mahatma Gandhi Rd, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97649562,
-        "longitude": 77.59913355
       }
     }
   },
