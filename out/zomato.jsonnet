@@ -2286,50 +2286,6 @@
     }
   },
   {
-    "name": "Epic Afters",
-    "description": "Epic Afters takes you beyond the show into the real world of electrifying music and high-energy vibes\u2014a world where the party never ends!\n\nJoin us for a multi-sensory experience, featuring (artist names), immersive hospitality, and a crowd that knows how to keep the night alive",
-    "startDate": "2024-11-22 19:00:00",
-    "endDate": "2024-11-23 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Epic Afters Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Epic Afters Bengaluru on Zomato which is a Music event happening at Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd, Bengaluru, Karnataka 560080",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f73f859060e72f611464631b7b8edfe51731986595.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/epic-afters-bengaluru-et53284/details",
-        "price": 1000,
-        "currency": "INR",
-        "validFrom": "2024-11-19 08:58:06",
-        "availability": "INSTOCK",
-        "inventory": 39
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/epic-afters-bengaluru-et53284",
-    "id": "com.zomato.53284",
-    "location": {
-      "name": "PEBBLE The Jungle Lounge",
-      "address": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd, Bengaluru, Karnataka 560080",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.00532301,
-        "longitude": 77.58479688
-      }
-    }
-  },
-  {
     "name": "BuzzinOn Bangalore Bar Hop - Indiranagar Edition",
     "description": "Welcome to The BuzzinOn Bangalore Bar Hop: The Ultimate Pub Crawl, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favourite drinks, groove to fantastic music, and engage in fun games and activities. Walk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
     "startDate": "2024-11-30T18:30:00+05:30",
@@ -2350,7 +2306,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:31",
         "availability": "INSTOCK",
-        "inventory": 100
+        "inventory": 99
       },
       {
         "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
@@ -2410,7 +2366,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:34",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 190
       },
       {
         "url": "https://www.zomato.com/events/bunnyville-bollytech-saturday-bengaluru-et53324/details",
@@ -2418,7 +2374,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:34",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 188
       }
     ],
     "performers": [],
@@ -2462,7 +2418,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:32",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 199
       },
       {
         "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325/details",
