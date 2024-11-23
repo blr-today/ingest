@@ -1609,7 +1609,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 476
+        "inventory": 468
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -1854,7 +1854,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:34:27",
         "availability": "INSTOCK",
-        "inventory": 989
+        "inventory": 988
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -2070,19 +2070,36 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "Open Air Festival with Nils Hoffmann (Anjunadeep) Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Open Air Festival with Nils Hoffmann (Anjunadeep) Bengaluru on Zomato which is a Music event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
+    "ogTitle": "Open Air Festival with Nils Hoffmann (Anjunadeep) Music and Best seller event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Open Air Festival with Nils Hoffmann (Anjunadeep) Bengaluru on Zomato which is a Music and Best seller event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/4c99369f4183bf8027e77f0e9cdcba1d1731408176.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/4c99369f4183bf8027e77f0e9cdcba1d1731408176.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/273840239676d3d42d9b09489436cce61732300698.png"
     ],
     "tickets": [
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 699,
+        "price": 499,
         "currency": "INR",
-        "validFrom": "2024-11-17 16:12:28",
+        "validFrom": "2024-11-22 21:36:37",
         "availability": "INSTOCK",
-        "inventory": 27
+        "inventory": 20
+      },
+      {
+        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-11-22 21:36:36",
+        "availability": "INSTOCK",
+        "inventory": 20
+      },
+      {
+        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
+        "price": 899,
+        "currency": "INR",
+        "validFrom": "2024-11-22 21:36:37",
+        "availability": "INSTOCK",
+        "inventory": 20
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -2262,7 +2279,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 16:06:00",
         "availability": "INSTOCK",
-        "inventory": 177
+        "inventory": 137
       }
     ],
     "performers": [],

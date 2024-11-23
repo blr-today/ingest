@@ -2808,57 +2808,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Origami Kimono Workshop",
-    "description": "Experience the joy of crafting something beautiful out of paper. Origami is the japanese art of paper folding. A perfect activity for DIY and craft enthusiasts. In this fun filled session you will be introduced to some basic folding techniques in Origami and make a kimono jacket with hakama pants. This workshop is beginner friendly and does not require any prior knowledge of origami.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FBFC18C088AF4E2C9A387362B686A44C_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EBB6DF6118FA4C2FAB1212EB1C13AC09_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/07230314047F42E78B8EFD9CE8E99B62_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/65582DFA42FF44599F72323C882CBA48_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/ADA8600B6B2D42F9B05A945CACA77E85_converted_webp.webp"
-    ],
-    "startDate": "2024-11-23T15:00:00+05:30",
-    "endDate": "2024-11-23T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "73, 27th Main Rd, Phase 3, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJO9TiHSoVrjsRpCHSXSDGHbQ",
-      "latitude": "12.92075390000000000000",
-      "longitude": "77.65051400000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Roligami",
-      "description": "Roli Agrawal aka roligami is a multi-disciplinary designer and a craft enthusiast.  You can check her work at @roligami on instagram",
-      "url": "https://urbanaut.app/partner/roligami",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/734534EBFE4045C195256299835CDAB4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-93536-41550"
-      }
-    },
-    "url": "https://urbanaut.app/spot/origami-kimono-workshop",
-    "keywords": [
-      "Art & culture",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "PowerPoint Roulette by Improv Lore",
     "description": "PowerPoint Roulette is a fast-paced, creative show where improvisers deliver presentations from slides they\u2019ve never seen before. Each performer is faced with slides filled with bizarre graphs, meaningless acronyms, and unexpected themes. With no time to prepare, they must improvise convincing explanations, facts, stories, and insights on the spot.Serious business pitches, heartfelt eulogies, hard-hitting TED talks, and fanciful conspiracy theories - prepare yourselves for a night \u2018official\u2019 fun! The audience gets to join the revelry by asking questions, creating a truly unpredictable night of improvised theatrics.",
@@ -3629,53 +3578,6 @@
       }
     },
     "url": "https://urbanaut.app/spot/thebreakfastclubatmuro#2024-12-01T1100",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Chaat & Chat with Priya Bala (food critic, author)",
-    "description": "Join Priya Bala, food critic and author, for a flavorful ride through India\u2019s street food wonders! Hear her spicy tales of exploring iconic joints, chatting with passionate vendors, and savoring unforgettable bites. Discover how food isn\u2019t just delicious\u2014it\u2019s the ultimate connector bringing people, stories, and cultures together.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C3FB813A4D6046A3B5FA781AE60CF5EC_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B8EDFA6FAB9740C6BAC23FFA265BAF49_converted_webp.webp"
-    ],
-    "startDate": "2024-11-23T16:00:00+05:30",
-    "endDate": "2024-11-23T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Maratt Estate, Bannerghatta Rd, opposite Shell Petrol Pump, Dollar Layout, Phase 4, J. P. Nagar, Bengaluru, Karnataka 560076, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJCy1UwGoVrjsRIayqUd2gHVM",
-      "latitude": "12.90579110000000000000",
-      "longitude": "77.60141879999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 9,
-    "remainingAttendeeCapacity": 7,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1000.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "TwoTablesClub",
-      "description": "Where a small group of strangers come together for genuine conversations & spontaneous connections  over a curated meal. Guided by a host every Table is a mix of locals & newcomers sharing stories of their roots & dreams",
-      "url": "https://urbanaut.app/partner/twotablesclub",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/wysxdsvnko-1707810356440ttclogojpg.jpg",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-81399-06300"
-      }
-    },
-    "url": "https://urbanaut.app/spot/chaat-chat-with-priya-bala-food-critic-author",
     "keywords": [
       "Food & drink",
       "URBANAUT"
