@@ -23,7 +23,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 68
+               "value": 62
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-09T05:00:00+05:30"
@@ -145,7 +145,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 32
+               "value": 31
             },
             "priceCurrency": "INR",
             "validFrom": "2024-07-31T17:18:00+05:30"
@@ -186,7 +186,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1146
+               "value": 1113
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T15:00:00+05:30"
@@ -195,7 +195,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 605
+               "value": 577
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T15:00:00+05:30"
@@ -204,7 +204,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 239
+               "value": 235
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T15:00:00+05:30"
@@ -265,7 +265,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 90
+               "value": 80
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-18T14:56:00+05:30"
@@ -279,7 +279,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 90,
+      "remainingAttendeeCapacity": 80,
       "startDate": "2024-12-06T19:00:00+05:30",
       "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398"
    },
@@ -352,7 +352,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 42
+               "value": 41
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-17T13:46:00+05:30"
@@ -365,6 +365,15 @@
             },
             "priceCurrency": "INR",
             "validFrom": "2024-09-25T15:03:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 20
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-22T21:34:00+05:30"
          },
          {
             "availability": "InStock",
@@ -474,7 +483,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 857
+               "value": 781
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T21:18:00+05:30"
@@ -483,7 +492,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 82
+               "value": 45
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -492,7 +501,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 112
+               "value": 89
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -593,48 +602,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Join our Mason Jar Painting Workshop! We’ll provide all the painting supplies, a delicious meal, and a chance to meet new friends. Our artists will help you create your own personalized Mason Jar, making it a fun and relaxing way to spend your afternoon. Come to Paint The Town Art Cafe for a creative experience filled with art, food, and great conversations. 🎨🍽️☕",
-      "endDate": "2024-11-23T18:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/c5bd3ffdf89d0491edf5384bf580cdbe1728980584.png",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.93753285,
-            "longitude": 77.612345180000005
-         },
-         "name": "Paint The Town Restaurant"
-      },
-      "name": "Mason Jar Painting",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 50
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-10-15T14:09:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 50,
-      "startDate": "2024-11-23T16:00:00+05:30",
-      "url": "https://www.zomato.com/events/mason-jar-painting-bengaluru-et52436"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Join our Sip & Paint Party! We’ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it’s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. 🎨🍽️🥂",
       "endDate": "2024-11-24T15:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -656,7 +623,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 50
+               "value": 46
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-15T14:09:00+05:30"
@@ -670,7 +637,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 50,
+      "remainingAttendeeCapacity": 46,
       "startDate": "2024-11-24T13:00:00+05:30",
       "url": "https://www.zomato.com/events/whispers-of-the-spring-bengaluru-et52437"
    },
@@ -740,7 +707,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 5
+               "value": 1
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-23T09:57:00+05:30"
@@ -754,7 +721,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 5,
+      "remainingAttendeeCapacity": 1,
       "startDate": "2024-12-21T21:00:00+05:30",
       "url": "https://www.zomato.com/events/tribute-to-acdc-guns-n-roses-bengaluru-et52623"
    },
@@ -782,7 +749,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 18
+               "value": 12
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-30T10:39:00+05:30"
@@ -796,7 +763,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 18,
+      "remainingAttendeeCapacity": 12,
       "startDate": "2024-11-24T15:00:00+05:30",
       "url": "https://www.zomato.com/events/paint-with-puppies-by-pawasana-bengaluru-et52751"
    },
@@ -824,7 +791,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 248
+               "value": 242
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-30T22:56:00+05:30"
@@ -833,7 +800,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 264
+               "value": 248
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-30T22:56:00+05:30"
@@ -874,7 +841,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 4
+               "value": 3
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T16:06:00+05:30"
@@ -888,7 +855,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 4,
+      "remainingAttendeeCapacity": 3,
       "startDate": "2024-11-23T19:00:00+05:30",
       "url": "https://www.zomato.com/events/scc-skycinema-the-proposal-bengaluru-et52792"
    },
@@ -1046,48 +1013,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "KISHANBAALAJI COLLECTIVE is a five-piece psychedelic/progressive rock band from Bengaluru whose music has been compared to a soulful blend of stadium rock`s ferocity and fury with progressive elements and ambient psychedelic soundscapes. They significantly draw inspiration from artists such as Pink Floyd, Porcupine Tree, U2, Opeth, Guns N` Roses, Radiohead, and Led Zeppelin and aim to make music that will captivate you and leave you wanting more.\nAnd of course, enjoy some beer and great bar fare as the ticket cost includes cover charges as well.",
-      "endDate": "2024-11-23T23:00:00+05:30",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventStatusScheduled",
-      "image": "https://b.zmtcdn.com/data/zomaland/e14929deeb441e109cdc012ed0db3f1c1730465214.jpeg",
-      "isAccessibleForFree": false,
-      "location": {
-         "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.975953240000001,
-            "longitude": 77.601618579999993
-         },
-         "name": "Hard Rock Cafe"
-      },
-      "name": "Mixtape Hits",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 20
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-01T18:32:00+05:30"
-         }
-      ],
-      "organizer": [
-         {
-            "name": "Zomato Live",
-            "type": "ORGANIZATION",
-            "url": "https://www.zomato.com/events"
-         }
-      ],
-      "performers": [ ],
-      "remainingAttendeeCapacity": 20,
-      "startDate": "2024-11-23T21:00:00+05:30",
-      "url": "https://www.zomato.com/events/mixtape-hits-bengaluru-et52865"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Fingerchips and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
       "endDate": "2024-11-24T16:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -1109,7 +1034,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 94
+               "value": 88
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -1123,7 +1048,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 94,
+      "remainingAttendeeCapacity": 88,
       "startDate": "2024-11-24T13:00:00+05:30",
       "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et52866"
    },
@@ -1151,7 +1076,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 76
+               "value": 62
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -1165,7 +1090,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 76,
+      "remainingAttendeeCapacity": 62,
       "startDate": "2024-11-24T20:30:00+05:30",
       "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et52867"
    },
@@ -1193,7 +1118,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 91
+               "value": 86
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T18:32:00+05:30"
@@ -1207,7 +1132,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 91,
+      "remainingAttendeeCapacity": 86,
       "startDate": "2024-11-27T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52868"
    },
@@ -1403,7 +1328,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 195
+               "value": 193
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T22:59:00+05:30"
@@ -1417,7 +1342,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 195,
+      "remainingAttendeeCapacity": 193,
       "startDate": "2024-11-28T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52886"
    },
@@ -1487,7 +1412,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 43
+               "value": 42
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -1501,7 +1426,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 43,
+      "remainingAttendeeCapacity": 42,
       "startDate": "2024-11-27T20:00:00+05:30",
       "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52998"
    },
@@ -1529,7 +1454,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 23
+               "value": 18
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-04T17:48:00+05:30"
@@ -1543,9 +1468,59 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 23,
+      "remainingAttendeeCapacity": 18,
       "startDate": "2024-11-29T20:00:00+05:30",
       "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53003"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "SoMAD Brings you Bengaluru's Hottest Mixmag Rooftop Sundowner to Night Party at One8 Commune.  \n\nA Mixmag Showcase is an immersive event spotlighting the pulse of electronic music, featuring top-tier DJs and artists who redefine the dance music landscape. Curated with Mixmag’s signature taste and authority in club culture, these showcases blend underground vibes with global sounds, creating a dynamic atmosphere where emerging talent meets renowned acts. The experience is designed to captivate from start to finish, with innovative lighting, cutting-edge sound systems, and unique visuals that amplify the music. Ideal for fans who crave authentic and genre-defining performances, a Mixmag Showcase is a celebration of electronic music’s most vibrant elements and its powerful sense of community.",
+      "endDate": "2024-11-24T23:59:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/03cb13cbf5a29ab81a4bc98279b3bdc11730805869.png",
+      "isAccessibleForFree": true,
+      "location": {
+         "address": "One 8 Commune 10/5, 6th floor, Rathnam's Complex, Kasturba Road, Mahatma Gandhi Rd, Bengaluru",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.97649562,
+            "longitude": 77.599133550000005
+         },
+         "name": "One8 Commune, Bangalore"
+      },
+      "name": "Mixmag Lab Bengaluru",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 192
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-05T17:05:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 169
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-05T17:05:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-11-24T16:00:00+05:30",
+      "url": "https://www.zomato.com/events/mixmag-lab-bengaluru-bengaluru-et53013"
    },
    {
       "@context": "https://schema.org",
@@ -2409,5 +2384,163 @@
       "performers": [ ],
       "startDate": "2024-12-01T20:00:00+05:30",
       "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Spanning three magical days and 65+ immersive hours, the festival invites you to explore, experiment, and grow through:\n2 Dynamic Music Stages with groundbreaking performances by Indian and international artists \n4 Workshop Shaalas offering hands-on experiences across art, wellness, and innovation \nLarger-than-Life Art Installations to inspire and transport you \nCurated Experiences including drum circles, highline performances, ecstatic dance, and more \nA Dedicated Kids Zone with interactive workshops and fun-filled activities for our youngest attendees\nA Vibrant Flea Market featuring organic, artisanal, and handmade treasures \nCamping Village under the stars, with options ranging from pitch-your-own tents to luxury glamping",
+      "endDate": "2024-12-22T12:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/1c16448d2ec9131b65fa968607b6bcd51732362438.png",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "Chembaltradi Rd, Kodiga Timmanapalli, Tamil Nadu 635117",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.6973427,
+            "longitude": 78.061626099999998
+         },
+         "name": "Sanctity Ferme"
+      },
+      "name": "Bloom in Green Festival 2024",
+      "offers": [
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 1500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-23T16:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 1500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-23T16:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 1000
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-23T16:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 1500
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-23T16:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 1000
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-23T16:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 1000
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-23T16:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 50
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-23T16:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 20
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-23T16:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 800
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-23T16:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 15
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-23T16:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 800
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-23T16:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-23T16:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 25
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-23T16:50:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 5
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-23T16:50:00+05:30"
+         }
+      ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [ ],
+      "startDate": "2024-12-20T07:00:00+05:30",
+      "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358"
    }
 ]
