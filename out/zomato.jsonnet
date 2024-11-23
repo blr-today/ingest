@@ -826,102 +826,6 @@
     }
   },
   {
-    "name": "SCC SkyCinema - The Proposal",
-    "description": "\"Marry me. Because I'd like to date you.\"- The Proposal\n\nSunset Cinema Club invites you to immerse yourself in a heartwarming love story that will leave you smiling. Get ready for plenty of laughs and an unforgettable night of cinematic joy at 1 MG - Lido Mall .\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of 1 mg- Lido Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags and watch the movie on a large screen with the skyline of the city as your backdrop.",
-    "startDate": "2024-11-23T19:00:00+05:30",
-    "endDate": "2024-11-23T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC SkyCinema - The Proposal Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC SkyCinema - The Proposal Bengaluru on Zomato which is a Experiences and Trending event happening at 1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2fdede59f8c6a3fca675be2efb7f662e1730451967.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-the-proposal-bengaluru-et52792/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:06:57",
-        "availability": "SELLING_FAST",
-        "inventory": 3
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-the-proposal-bengaluru-et52792",
-    "id": "com.zomato.52792",
-    "location": {
-      "name": "1 MG - Lido Mall",
-      "address": "1 MG - Lido Mall , 1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97480423,
-        "longitude": 77.62066549
-      }
-    }
-  },
-  {
-    "name": "SCC SkyCinema - Zindagi Na Milegi Dobara",
-    "description": "\"Seize the day, my friend. Pehle is din ko poori tarah jiyo, phir chalis ke bare mein sochna.\" - Zindagi Na Milegi Dobara\n\nGet ready to groove under the stars at Sunset Cinema Club's ZNMD  'dance along' screening! Join us for a night of watching this classic under the stars with its unforgettable music. As your favorite film unfolds, prepare to be transported back in time with iconic songs that will have you dancing in the aisles. Grab your friends, bring your dancing shoes, and prepare to immerse yourself in a night of nostalgia, fun, and unforgettable memories.\n\nEnjoy your favorite movie on a breezy terrace, perched on the rooftop of Forum South Bengaluru Mall. Here you'll have an unobstructed view of the night sky, creating a unique and immersive cinema experience as you sink into comfy bean bags or mattresses and watch the movie on a large screen with the skyline of the city as your backdrop.",
-    "startDate": "2024-11-23T19:00:00+05:30",
-    "endDate": "2024-11-23T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC SkyCinema - Zindagi Na Milegi Dobara Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC SkyCinema - Zindagi Na Milegi Dobara Bengaluru on Zomato which is a Experiences and Trending event happening at Forum South Bengaluru Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4e7bae172c41733c17edca2962b01e151730452246.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-zindagi-na-milegi-dobara-bengaluru-et52796/details",
-        "price": 500,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:06:59",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/scc-skycinema-zindagi-na-milegi-dobara-bengaluru-et52796/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:07:00",
-        "availability": "INSTOCK",
-        "inventory": 7
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-skycinema-zindagi-na-milegi-dobara-bengaluru-et52796",
-    "id": "com.zomato.52796",
-    "location": {
-      "name": "Forum South Bengaluru",
-      "address": "Forum South Bengaluru Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.25228833,
-        "longitude": 77.7606939
-      }
-    }
-  },
-  {
     "name": "SCC Picnic Cinema - P.S. I Love You",
     "description": "\u201cShoot for the moon, even if you fail, you'll land among the stars\u201d - Cecelia Ahern, P.S. I Love You\n\nExperience the bittersweet beauty of love and loss in \"P.S. I Love You.\" Join us for a screening of this heartwarming film that explores the power of love, hope, and the enduring bonds we create. Prepare to be moved by Holly's journey as she navigates life after the loss of her beloved husband, guided by his heartfelt letters.\n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favorite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
     "startDate": "2024-11-29T19:00:00+05:30",
@@ -1290,50 +1194,6 @@
     }
   },
   {
-    "name": "Tribute to Bryan Adams",
-    "description": "Catch Six Blade Knife band paying tribute to none other than Bryan Adams on 23rd November i.e. Saturday, 9 pm onwards only at Hard Rock Cafe, Whitefield, Bengaluru.\n\u26a1\ufe0fJoin us for an evening full of great music, lip-smacking food & refreshing cocktails.\nBryan Adams - Adams is ranked 48th on the list of all-time top artists on the Billboard Hot 100. Adams has won 20 Juno Awards and a Grammy Award for Best Song Written for Visual Media amongst 16 Grammy nominations, and has been nominated for five Golden Globe Awards and three Academy Awards for his songwriting for films. Adams has been inducted into the Hollywood Walk of Fame, Canada`s Walk of Fame, the Canadian Broadcast Hall of Fame, the Canadian Music Hall of Fame and the Canadian Songwriters Hall of Fame. On May 1, 2010, Adams received the Governor General`s Awards in Performing Arts \u2013 Lifetime Artistic Achievement for his 30 years of contributions to the arts.",
-    "startDate": "2024-11-23T21:00:00+05:30",
-    "endDate": "2024-11-23T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Bryan Adams Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Bryan Adams Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/b6c2b7746250fe2a00ebc94d2629e1551730480720.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-bryan-adams-bengaluru-et52885/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-11-01 22:59:39",
-        "availability": "INSTOCK",
-        "inventory": 20
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-bryan-adams-bengaluru-et52885",
-    "id": "com.zomato.52885",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
-  },
-  {
     "name": "Karaoke Nights",
     "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
     "startDate": "2024-11-28T20:30:00+05:30",
@@ -1692,50 +1552,6 @@
     ],
     "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53046",
     "id": "com.zomato.53046",
-    "location": {
-      "name": "Escape by Brewklyn",
-      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.04059157,
-        "longitude": 77.61912205
-      }
-    }
-  },
-  {
-    "name": "Saturday Vibes",
-    "description": "Get ready to dive into the heart of Bangalore's nightlife with Saturday Vibes at Escape by Brewklyn, where the beats are as bold as the brews! Every Saturday, we transform our space into a haven for music lovers, dance enthusiasts, and anyone looking to enjoy a night out with a difference.",
-    "startDate": "2024-11-23T20:00:00+05:30",
-    "endDate": "2024-11-23T23:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Saturday Vibes Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Saturday Vibes Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3694b8ccd594886ac337c5880ebb611d1730965096.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/saturday-vibes-bengaluru-et53048/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-11-07 13:25:40",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/saturday-vibes-bengaluru-et53048",
-    "id": "com.zomato.53048",
     "location": {
       "name": "Escape by Brewklyn",
       "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
@@ -2233,50 +2049,6 @@
     }
   },
   {
-    "name": "We Jam",
-    "description": "We Jam is the ultimate haven for music lovers!\n\nEnjoy a relaxing and fun evening with us. This is a space where you can be yourself and feel at home.\nJoin our welcoming community for a lively jamming session. Bring your guitars, cajones, and, most importantly, yourself to jam along. \n\nThe event features three parts:\n\nOpen Mic: Perform for a warm and supportive audience, no matter where you are on your musical journey. Reach out to @wejam.blr on Instagram to book your slot.\nSocial Mixer: Connect with fellow music lovers and jam along on your favourite songs. Be a part of fun and exciting music based games and get a chance to win exciting goodies. \nJamming Session: Sing, play instruments, and join the community in a warm and cozy, free-flowing musical experience. Together, we create music and memories.",
-    "startDate": "2024-11-23 17:00:00",
-    "endDate": "2024-11-23 20:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "We Jam Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for We Jam Bengaluru on Zomato which is a Music event happening at 4th Floor,Badmaash, Ashrith, Aries 53, 1, Sarjapur Main Rd, opposite HP Petrol Pump, Countryside Layout, Rainbow Drive, Doddakannelli, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/ee737a6691583924a1cf0f6bf5ef0f9d1731666925.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/we-jam-bengaluru-et53249/details",
-        "price": 399,
-        "currency": "INR",
-        "validFrom": "2024-11-15 16:06:00",
-        "availability": "INSTOCK",
-        "inventory": 137
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/we-jam-bengaluru-et53249",
-    "id": "com.zomato.53249",
-    "location": {
-      "name": "Badmaash, Sarjapur",
-      "address": "4th Floor,Badmaash, Ashrith, Aries 53, 1, Sarjapur Main Rd, opposite HP Petrol Pump, Countryside Layout, Rainbow Drive, Doddakannelli, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9094249,
-        "longitude": 77.68764279
-      }
-    }
-  },
-  {
     "name": "BuzzinOn Bangalore Bar Hop - Indiranagar Edition",
     "description": "Welcome to The BuzzinOn Bangalore Bar Hop: The Ultimate Pub Crawl, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favourite drinks, groove to fantastic music, and engage in fun games and activities. Walk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
     "startDate": "2024-11-30T18:30:00+05:30",
@@ -2339,8 +2111,8 @@
   {
     "name": "Bunnyville Bollytech Saturday",
     "description": "This November 23rd, Kormangala\u2019s nightlife scene is about to explode! Bunyville presents an exclusive event headlined by DJ Ansick and Dj Nash. Known for there electric sets and infectious beats, Ansick and Nash promises to take you on a musical journey that you won\u2019t forget. Don\u2019t miss out on the chance to party with the best crowd and vibe in town. Doors open at 8 PM\u2014bring your energy and let\u2019s make it a night to remember!",
-    "startDate": "2024-11-23T20:00:00+05:30",
-    "endDate": "2024-11-24T01:00:00+05:30",
+    "startDate": "2024-11-23 20:00:00",
+    "endDate": "2024-11-24 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
