@@ -602,48 +602,6 @@
     }
   },
   {
-    "name": "Whispers of the Spring",
-    "description": "Join our Sip & Paint Party! We\u2019ve got all the art supplies, a yummy meal, and a chance to meet new friends. Our artists will help you paint, and it\u2019s a relaxed way to have a good time. Come to Paint The Town Art Cafe for a simple and enjoyable afternoon of art, food, and friendly chats. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83e\udd42",
-    "startDate": "2024-11-24T13:00:00+05:30",
-    "endDate": "2024-11-24T15:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/2aacc7a3d4f47dd5d4ae78a2d61586e61728980621.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/whispers-of-the-spring-bengaluru-et52437/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-10-15 14:09:46",
-        "availability": "INSTOCK",
-        "inventory": 46
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/whispers-of-the-spring-bengaluru-et52437",
-    "id": "com.zomato.52437",
-    "location": {
-      "name": "Paint The Town Restaurant",
-      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93753285,
-        "longitude": 77.61234518
-      }
-    }
-  },
-  {
     "name": "Fabric Paintig",
     "description": "Join our Fabric Painting Workshop! We\u2019ll supply all the art materials, a tasty meal, and a chance to meet new friends. Bring your own fabric, preferably denim or any thick cloth, and our artists will guide you in creating your unique design. It\u2019s a fun and relaxed way to spend your afternoon. Head over to Paint The Town Art Cafe for a creative day filled with art, food, and friendly conversations. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83d\udc56",
     "startDate": "2024-11-30T16:00:00+05:30",
@@ -726,50 +684,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.98717896,
         "longitude": 77.7364802
-      }
-    }
-  },
-  {
-    "name": "Carnival With Puppies",
-    "description": "Join us for a day filled with: \u2022\u2060 \u2060Interactive games and challenges for dogs and humans both\ud83c\udfa0 \u2022\u2060 \u2060Adoption drives featuring adorable Indie puppies looking for their forever homes\ud83d\udc15 \u2022\u2060 \u2060Educational sessions on the immorality of breeding and the importance of adopting Indies\ud83d\udc97 \u2022\u2060 \u2060Exclusive stalls and giveaways from top pet brands\ud83d\udecd\ufe0f \u2022\u2060 \u2060Live entertainment and fun activities for all ages\ud83c\udfaa \u2022\u2060 \u2060Delicious food and beverages to keep you energized throughout the day\ud83c\udf5d\ud83c\udf55 Don\u2019t miss out on being a part of India\u2019s first-ever Indie-themed pet carnival, where you can make a difference while having the time of your life with your furry friends\ud83d\udc3e\ud83d\udc97",
-    "startDate": "2024-11-24T15:00:00+05:30",
-    "endDate": "2024-11-24T18:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Carnival With Puppies Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Carnival With Puppies Bengaluru on Zomato which is a Experiences and Trending event happening at No. 2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/e0fb4607cedc92f8b9c29aa4691cd4511730268047.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/paint-with-puppies-by-pawasana-bengaluru-et52751/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-10-30 10:39:34",
-        "availability": "INSTOCK",
-        "inventory": 12
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/paint-with-puppies-by-pawasana-bengaluru-et52751",
-    "id": "com.zomato.52751",
-    "location": {
-      "name": "BLR Brewing Co",
-      "address": "No. 2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98271896,
-        "longitude": 77.70943862
       }
     }
   },
@@ -866,110 +780,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.14365198,
         "longitude": 77.58441173
-      }
-    }
-  },
-  {
-    "name": "XOOX Unlimited Sunday Brunch",
-    "description": "Hello Bangalore, Enjoy a scrumptious and lazy Sunday brunch @ XOOX every Sunday. Dance to the tunes of DJ Malik with our popular brews, exciting times ahead !",
-    "startDate": "2024-11-03 12:30:00",
-    "endDate": "2024-11-24 15:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "XOOX Unlimited Sunday Brunch Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for XOOX Unlimited Sunday Brunch Bengaluru on Zomato which is a Experiences and Trending event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/6a8df5264be71c1d9992b0cb9cca071f1730457084.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
-        "price": 1199,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:10:27",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
-        "price": 1799,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:10:27",
-        "availability": "INSTOCK",
-        "inventory": 50
-      },
-      {
-        "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829/details",
-        "price": 2299,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:10:28",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/xoox-unlimited-sunday-brunch-bengaluru-et52829",
-    "id": "com.zomato.52829",
-    "location": {
-      "name": "XOOX Brewmill",
-      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93656731,
-        "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "Sunny Tunes",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 1 p.m., Hard Rock Cafe, Bengaluru is happy to host Fingerchips and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks",
-    "startDate": "2024-11-24T13:00:00+05:30",
-    "endDate": "2024-11-24T16:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Sunny Tunes Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Sunny Tunes Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/f8e872c8065ecda8c7b6585cfd8c740a1730465254.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et52866/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:34",
-        "availability": "INSTOCK",
-        "inventory": 88
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/sunny-tunes-bengaluru-et52866",
-    "id": "com.zomato.52866",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
       }
     }
   },
@@ -1372,8 +1182,8 @@
   {
     "name": "Mixmag Lab Bengaluru",
     "description": "SoMAD Brings you Bengaluru's Hottest Mixmag Rooftop Sundowner to Night Party at One8 Commune.  \n\nA Mixmag Showcase is an immersive event spotlighting the pulse of electronic music, featuring top-tier DJs and artists who redefine the dance music landscape. Curated with Mixmag\u2019s signature taste and authority in club culture, these showcases blend underground vibes with global sounds, creating a dynamic atmosphere where emerging talent meets renowned acts. The experience is designed to captivate from start to finish, with innovative lighting, cutting-edge sound systems, and unique visuals that amplify the music. Ideal for fans who crave authentic and genre-defining performances, a Mixmag Showcase is a celebration of electronic music\u2019s most vibrant elements and its powerful sense of community.",
-    "startDate": "2024-11-24T16:00:00+05:30",
-    "endDate": "2024-11-24T23:59:00+05:30",
+    "startDate": "2024-11-24 16:00:00",
+    "endDate": "2024-11-24 23:59:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",

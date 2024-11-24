@@ -39,6 +39,158 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Byg Brewski Brewing Company and The Mango Tree are joining forces to bring you a unique experience where creativity flows like our craft beer.Immerse ",
+      "endDate": "2024-12-01T12:00:00",
+      "identifier": "com.skillboxes.17171",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OUdyUWV5eEx0b1AwczRHekdpeGxDUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17324498998mfrsrKucjlwrZXJ.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Festival"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "SOUTHERN ASIA BIBLE COLLEGE, 22, Hennur Bagalur Main Rd, Visthar, Byrathi, Bengaluru, Karnataka 560077, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0708303",
+            "longitude": "77.6518661"
+         },
+         "name": "Byg Brewski Brewing Company"
+      },
+      "name": "ABC Collective",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket includes one complimentary beer or mocktail. Please note that alcoholic beverages will only be served to individuals above the legal drinking age.\n",
+            "inventoryLevel": 500,
+            "name": "Redeemable Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/abc-collective"
+         }
+      ],
+      "startDate": "2024-12-01T12:00:00",
+      "url": "https://www.skillboxes.com/events/abc-collective"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Electric Boogie \r\n\r\n29-Nov-2024 | 8 PM Onwards",
+      "endDate": "2024-11-29T23:59:00",
+      "identifier": "com.skillboxes.17166",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732432317JKteYtKII9lwr7Jk.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "iBAR, THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9740179",
+            "longitude": "77.619422"
+         },
+         "name": "i-Bar THE Park"
+      },
+      "name": "Electric Boogie",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 999,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/electric-boogie-4"
+         }
+      ],
+      "startDate": "2024-11-29T20:00:00",
+      "url": "https://www.skillboxes.com/events/electric-boogie-4"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Hotel Davanam Sarovar Portico Suites\r\n\r\nPresents \r\n\r\n \r\n\r\nNEW YEAR EVE 2025 BASH\r\n\r\n \r\n\r\nOn 31st Dec, Step Into The Enchanting World Of",
+      "endDate": "2024-12-31T23:59:00",
+      "identifier": "com.skillboxes.17158",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/173235128188wParIGo2LwnMg1.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Hosur Rd, opp. Madiwala Traffic Police Station, Sidharata Colony, Santhosapuram, 2nd Block, Koramangala, Bengaluru, Karnataka 560068, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9216186",
+            "longitude": "77.6207146"
+         },
+         "name": "Hotel Davanam Sarovar Portico Suites"
+      },
+      "name": "KORMANGALA BIGGEST POOLSIDE-ROOFTOP NEW YEAR EVE PARTY 2025 | NY2025",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "- Entry Permits to 1 kid - Kids pass valid for age between 5 - 10 years . - Carry your Valid ID. - Access to all Stages and Rooftop - Poolside Area. - Event Happening on 8th Floor\n",
+            "inventoryLevel": 100,
+            "name": "Kids Entry Pass",
+            "url": "https://www.skillboxes.com/events/ticket/kormangala-biggest-poolside-rooftop-new-year-eve-party-2025-ny2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "- Entry Permits to 1 Female. - Cover Charges Fully Redeemable on Food and Drinks. - Access To All The Stages and Rooftop-Poolside.\n",
+            "inventoryLevel": 100,
+            "name": "Female Cover Charge",
+            "url": "https://www.skillboxes.com/events/ticket/kormangala-biggest-poolside-rooftop-new-year-eve-party-2025-ny2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "- Entry Permits to 1 Male - Cover Charges Fully Redeemable on Food and Drinks. - Access To All The Stages and Rooftop-Poolside.\n",
+            "inventoryLevel": 100,
+            "name": "Male Cover Charge",
+            "url": "https://www.skillboxes.com/events/ticket/kormangala-biggest-poolside-rooftop-new-year-eve-party-2025-ny2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "2,000   - Entry Permits to 1 Couple - Cover Charges Fully Redeemable on Food and Drinks. - Access To All The Stages and Rooftop-Poolside.\n",
+            "inventoryLevel": 100,
+            "name": "Couple Cover Charge",
+            "url": "https://www.skillboxes.com/events/ticket/kormangala-biggest-poolside-rooftop-new-year-eve-party-2025-ny2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "- Entry Permits to 5 People - Cover Charges Fully Redeemable on Food and Drinks. - Access To All The Stages and Rooftop-Poolside.\n",
+            "inventoryLevel": 100,
+            "name": "Cover Charge : Group of 5",
+            "url": "https://www.skillboxes.com/events/ticket/kormangala-biggest-poolside-rooftop-new-year-eve-party-2025-ny2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "₹10,000   - Entry Permits to 1 - 5 Pax - Cover Charges Fully Redeemable on Food and Drinks. - Access To All The Stages and Rooftop-Poolside. - Table Setup in Open Air /PoolSide. - Limited Tables Available - Self Service\n",
+            "inventoryLevel": 100,
+            "name": "VIP Table Cover Charge ( 1-5 People)",
+            "url": "https://www.skillboxes.com/events/ticket/kormangala-biggest-poolside-rooftop-new-year-eve-party-2025-ny2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "- Room Package is For 2 People. - Include Unlimited Free Drinks and Food on 4th Floor Karoke at Tangerine. - Allow Free Entry on 8th Floor and access to all the Stages and Poolside. - Check in on 31st December 2024 12 pm. - Check out on 1st January 2025 12 pm.\n",
+            "inventoryLevel": 100,
+            "name": "Premium Room Package",
+            "url": "https://www.skillboxes.com/events/ticket/kormangala-biggest-poolside-rooftop-new-year-eve-party-2025-ny2025"
+         }
+      ],
+      "startDate": "2024-12-31T14:00:00",
+      "url": "https://www.skillboxes.com/events/kormangala-biggest-poolside-rooftop-new-year-eve-party-2025-ny2025"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "!!!!!...GIG UPDATE..!!!!!\r\n\r\n \r\n\r\n🔱Om Namo Narayan 🔱 \r\n\r\n \r\n\r\n🔱 JOURNEY TOWARDS KUMBH 🔱 (THE RITUAL) 🔱\r\n\r\n \r\n\r\nWher",
       "endDate": "2025-02-08T23:59:00",
@@ -691,32 +843,6 @@
       ],
       "startDate": "2024-12-21T20:00:00",
       "url": "https://www.skillboxes.com/events/bella-humble-poet-2-0-tour-3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Get ready for the ultimate techno showcase in your city!!! Catch the remarkable artists SEQU3L & ANSWER live at Gawky Goose this Saturday. &#12787",
-      "endDate": "2024-11-25T01:00:00",
-      "identifier": "com.skillboxes.17092",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732019758WrZivJQJkx2enHWJ.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "#77, Wind Tunnel Rd, Murugeshpalya, Muniyappa Layout, Bengaluru, Karnataka 560017, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9540402",
-            "longitude": "77.6527398"
-         },
-         "name": "Gawky Goose"
-      },
-      "name": "SEQU3L & ANSWER live at Gawky Goose // 23rd November",
-      "offers": [ ],
-      "startDate": "2024-11-24T20:00:00",
-      "url": "https://www.skillboxes.com/events/sequ3l-answer-live-at-gawky-goose-23rd-november"
    },
    {
       "@context": "https://schema.org",
