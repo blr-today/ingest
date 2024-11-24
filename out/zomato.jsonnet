@@ -2060,7 +2060,7 @@
     "ogTitle": "BuzzinOn Bangalore Bar Hop - Indiranagar Edition Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for BuzzinOn Bangalore Bar Hop - Indiranagar Edition Bengaluru on Zomato which is a Experiences event happening at 777/I, 2nd Floor, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/42337c0040ad93d5889d263088a36a961732194744.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/44a2a48e651dbfa415a3b6000663506a1732376910.jpeg"
     ],
     "tickets": [
       {
@@ -2069,7 +2069,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:31",
         "availability": "INSTOCK",
-        "inventory": 99
+        "inventory": 96
       },
       {
         "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
@@ -2077,7 +2077,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:31",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 49
       },
       {
         "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
@@ -2109,58 +2109,6 @@
     }
   },
   {
-    "name": "Bunnyville Bollytech Saturday",
-    "description": "This November 23rd, Kormangala\u2019s nightlife scene is about to explode! Bunyville presents an exclusive event headlined by DJ Ansick and Dj Nash. Known for there electric sets and infectious beats, Ansick and Nash promises to take you on a musical journey that you won\u2019t forget. Don\u2019t miss out on the chance to party with the best crowd and vibe in town. Doors open at 8 PM\u2014bring your energy and let\u2019s make it a night to remember!",
-    "startDate": "2024-11-23 20:00:00",
-    "endDate": "2024-11-24 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Bunnyville Bollytech Saturday Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bunnyville Bollytech Saturday Bengaluru on Zomato which is a Music event happening at 749, 10th Main road, 80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/9271023f021952a1329340ecbc059ac81732194911.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bunnyville-bollytech-saturday-bengaluru-et53324/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-21 19:15:34",
-        "availability": "INSTOCK",
-        "inventory": 190
-      },
-      {
-        "url": "https://www.zomato.com/events/bunnyville-bollytech-saturday-bengaluru-et53324/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-21 19:15:34",
-        "availability": "INSTOCK",
-        "inventory": 188
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bunnyville-bollytech-saturday-bengaluru-et53324",
-    "id": "com.zomato.53324",
-    "location": {
-      "name": "Bunny Bar",
-      "address": "749, 10th Main road, 80 Feet Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560034",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9331418,
-        "longitude": 77.6307246
-      }
-    }
-  },
-  {
     "name": "CrossOver ft. TEHO",
     "description": "The most trending pop up in town is back this December with a banger - CrossOver Winter Edition with the Cercle sensation TEHO at Kitty Ko.",
     "startDate": "2024-12-01T20:00:00+05:30",
@@ -2181,7 +2129,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:32",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 197
       },
       {
         "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325/details",
@@ -2189,7 +2137,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:33",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 199
       },
       {
         "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325/details",

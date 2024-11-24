@@ -42,20 +42,6 @@
     "director": "Mani Kaul"
   },
   {
-    "id": "8ea7cfd8-47aa-4318-87fb-420af4a13870",
-    "image": "https://cdn.sanity.io/images/x2qnegor/production/9b46791f4e34a720c421ef86fb13665488f5780c-1280x1920.jpg",
-    "location": {
-      "name": "Casa Karaoke",
-      "url": "https://www.google.com/maps/place/Casa+Karaoke,+AI+1,+2nd+floor,+15th+Cross,+100+Feet+Ring+Rd,+above+Pizza+Hut,+J.+P.+Nagar,+Bengaluru,+Karnataka+560078/@12.9060934,77.5952996,17z/data=!4m9!1m2!2m1!1scasa+karaoke!3m5!1s0x3bae150c309f99f7:0xa30a464902bb59f4!8m2!3d12.9060934!4d77.5952996!16s%2Fg%2F11vc00w0xn"
-    },
-    "link": null,
-    "date": "2024-11-23T06:20:00.000Z",
-    "theme": "Family Portraits",
-    "city": "Bangalore",
-    "title": "Still Walking",
-    "director": "Hirokazu Kore-eda"
-  },
-  {
     "id": "9645db0b-d745-4edc-8988-ec48957a7063",
     "image": "https://cdn.sanity.io/images/x2qnegor/production/50ca09722df9e490b1f8f68ad1961e552e601776-1000x1500.jpg",
     "location": {
