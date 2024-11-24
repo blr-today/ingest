@@ -31,7 +31,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 62
+        "inventory": 54
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -121,8 +121,8 @@
   {
     "name": "Chandan Shetty Live",
     "description": "Chandan Shetty, also known as \"Kannada Rapper Chandan Shetty\" is an Indian film score and soundtrack composer, lyricist, and singer who mainly composes music in the Kannada language. He started his career as a lyricist and assistant music director with the movie Alemari, under music director Arjun Janya. Then he worked for Varadanayaka, Power, Chakravyuha, and Bhajarangi.",
-    "startDate": "2024-11-24T20:00:00+05:30",
-    "endDate": "2024-11-25T01:00:00+05:30",
+    "startDate": "2024-11-24 20:00:00",
+    "endDate": "2024-11-25 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -147,7 +147,7 @@
         "currency": "INR",
         "validFrom": "2024-07-31 17:18:27",
         "availability": "INSTOCK",
-        "inventory": 31
+        "inventory": 30
       }
     ],
     "performers": [],
@@ -198,7 +198,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 1113
+        "inventory": 1093
       },
       {
         "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
@@ -206,7 +206,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 577
+        "inventory": 559
       },
       {
         "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
@@ -214,7 +214,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 235
+        "inventory": 233
       }
     ],
     "performers": [
@@ -288,7 +288,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 14:56:00",
         "availability": "INSTOCK",
-        "inventory": 80
+        "inventory": 77
       }
     ],
     "performers": [],
@@ -323,8 +323,8 @@
         "price": 1499,
         "currency": "INR",
         "validFrom": "2024-10-21 11:44:55",
-        "availability": "INSTOCK",
-        "inventory": 20
+        "availability": "SELLING_FAST",
+        "inventory": 14
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -348,7 +348,7 @@
         "currency": "INR",
         "validFrom": "2024-11-11 12:43:00",
         "availability": "INSTOCK",
-        "inventory": 49
+        "inventory": 48
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -490,7 +490,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 781
+        "inventory": 722
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -498,7 +498,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "SELLING_FAST",
-        "inventory": 45
+        "inventory": 30
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -506,7 +506,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "SELLING_FAST",
-        "inventory": 89
+        "inventory": 87
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -708,7 +708,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 242
+        "inventory": 238
       },
       {
         "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
@@ -716,7 +716,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 248
+        "inventory": 228
       }
     ],
     "performers": [],
@@ -760,7 +760,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:07:02",
         "availability": "INSTOCK",
-        "inventory": 9
+        "inventory": 7
       }
     ],
     "performers": [],
@@ -780,50 +780,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.14365198,
         "longitude": 77.58441173
-      }
-    }
-  },
-  {
-    "name": "Rock Out Sundays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Franky and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-11-24T20:30:00+05:30",
-    "endDate": "2024-11-24T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Rock Out Sundays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rock Out Sundays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/a246b56215a3ba6b2415d6a187ff2e511730465296.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et52867/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:35",
-        "availability": "INSTOCK",
-        "inventory": 62
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/rock-out-sundays-bengaluru-et52867",
-    "id": "com.zomato.52867",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
       }
     }
   },
@@ -848,7 +804,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:35",
         "availability": "INSTOCK",
-        "inventory": 86
+        "inventory": 79
       }
     ],
     "performers": [],
@@ -1024,7 +980,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 22:59:40",
         "availability": "INSTOCK",
-        "inventory": 193
+        "inventory": 191
       }
     ],
     "performers": [],
@@ -1112,7 +1068,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:34",
         "availability": "INSTOCK",
-        "inventory": 42
+        "inventory": 30
       }
     ],
     "performers": [],
@@ -1144,8 +1100,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
-    "ogTitle": "BOLLYXOOX Saturday Night Party event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for BOLLYXOOX Saturday Night Bengaluru on Zomato which is a Party event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "ogTitle": "BOLLYXOOX Saturday Night Party and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for BOLLYXOOX Saturday Night Bengaluru on Zomato which is a Party and Trending event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/68d30a8c1be82ff8d34e9f294e6e46dd1730722588.png"
     ],
@@ -1155,8 +1111,8 @@
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:35",
-        "availability": "INSTOCK",
-        "inventory": 18
+        "availability": "SELLING_FAST",
+        "inventory": 7
       }
     ],
     "performers": [],
@@ -1176,58 +1132,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93656731,
         "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "Mixmag Lab Bengaluru",
-    "description": "SoMAD Brings you Bengaluru's Hottest Mixmag Rooftop Sundowner to Night Party at One8 Commune.  \n\nA Mixmag Showcase is an immersive event spotlighting the pulse of electronic music, featuring top-tier DJs and artists who redefine the dance music landscape. Curated with Mixmag\u2019s signature taste and authority in club culture, these showcases blend underground vibes with global sounds, creating a dynamic atmosphere where emerging talent meets renowned acts. The experience is designed to captivate from start to finish, with innovative lighting, cutting-edge sound systems, and unique visuals that amplify the music. Ideal for fans who crave authentic and genre-defining performances, a Mixmag Showcase is a celebration of electronic music\u2019s most vibrant elements and its powerful sense of community.",
-    "startDate": "2024-11-24 16:00:00",
-    "endDate": "2024-11-24 23:59:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Mixmag Lab Bengaluru Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Mixmag Lab Bengaluru Bengaluru on Zomato which is a Music event happening at One 8 Commune 10/5, 6th floor, Rathnam's Complex, Kasturba Road, Mahatma Gandhi Rd, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/03cb13cbf5a29ab81a4bc98279b3bdc11730805869.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/mixmag-lab-bengaluru-bengaluru-et53013/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-05 17:05:31",
-        "availability": "INSTOCK",
-        "inventory": 192
-      },
-      {
-        "url": "https://www.zomato.com/events/mixmag-lab-bengaluru-bengaluru-et53013/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-05 17:05:32",
-        "availability": "INSTOCK",
-        "inventory": 169
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/mixmag-lab-bengaluru-bengaluru-et53013",
-    "id": "com.zomato.53013",
-    "location": {
-      "name": "One8 Commune, Bangalore",
-      "address": "One 8 Commune 10/5, 6th floor, Rathnam's Complex, Kasturba Road, Mahatma Gandhi Rd, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97649562,
-        "longitude": 77.59913355
       }
     }
   },
@@ -1755,58 +1659,6 @@
     }
   },
   {
-    "name": "SCC Picnic Cinema - Hum Tum",
-    "description": "\"Hum ek baar jeete hain, ek baar marte hain, shaadi bhi ek hi baar hoti hai, aur pyar... ek hi baar hota hai.\" - Hum Tum\n\nJoin us for an unforgettable cinematic experience as Sunset Cinema Club presents a special screening of the Bollywood romantic comedy classic at Nexus Shantiniketan Mall. Immerse in an enchanting tale that weaves together the complexities of love and humor!\n\nLocated in the heart of Whitefield, this bustling mall transforms into a haven of relaxation and entertainment as the sun sets and the stars begin to emerge, and your movie screening begins. Enjoy your favourite film on a large screen with surround sound, as you sink into comfy bean bags or mattresses, in the great outdoors.",
-    "startDate": "2024-11-24T19:00:00+05:30",
-    "endDate": "2024-11-24T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC Picnic Cinema - Hum Tum Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC Picnic Cinema - Hum Tum Bengaluru on Zomato which is a Experiences event happening at Nexus Shantiniketan Mall Whitefield Main Rd, Thigalarapalya, Krishnarajapuram, Bengaluru, Karnataka 560067",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/09814cc75001fe24d9ae2afcabfbafe01731416092.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-picnic-cinema-hum-tum-bengaluru-et53177/details",
-        "price": 500,
-        "currency": "INR",
-        "validFrom": "2024-11-12 19:43:48",
-        "availability": "INSTOCK",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/scc-picnic-cinema-hum-tum-bengaluru-et53177/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-11-12 19:43:49",
-        "availability": "INSTOCK",
-        "inventory": 5
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-picnic-cinema-hum-tum-bengaluru-et53177",
-    "id": "com.zomato.53177",
-    "location": {
-      "name": "Nexus Shantiniketan Mall",
-      "address": "Nexus Shantiniketan Mall Whitefield Main Rd, Thigalarapalya, Krishnarajapuram, Bengaluru, Karnataka 560067",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.989743793341,
-        "longitude": 77.72806416
-      }
-    }
-  },
-  {
     "name": "Caged Overdrive Festival ft. Temudo & more",
     "description": "Caged Overdrive takes place in its greatest format of line ups and experience on Nov 23 & 24 at The Park Ballroom with our good friends from Octave and Mob Mind.\n\nGear for a long line up of classified techno musicians taking centre stage at the hotspot!\n\n\u2022 This is a 21+ show. ID checks are mandatory.\n\u2022 We follow strict adherence to zero tolerance on drugs & prohibited substances.",
     "startDate": "2024-11-23 18:00:00",
@@ -1827,7 +1679,7 @@
         "currency": "INR",
         "validFrom": "2024-11-14 13:08:20",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 48
       },
       {
         "url": "https://www.zomato.com/events/caged-overdrive-festival-ft-temudo-more-bengaluru-et53235/details",
@@ -2013,7 +1865,7 @@
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
         "price": 5899,
         "currency": "INR",
-        "validFrom": "2024-11-23 16:50:07",
+        "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
         "inventory": 1000
       },
@@ -2029,7 +1881,7 @@
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
         "price": 5899,
         "currency": "INR",
-        "validFrom": "2024-11-23 16:50:12",
+        "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
         "inventory": 1000
       },
@@ -2037,7 +1889,7 @@
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
         "price": 5899,
         "currency": "INR",
-        "validFrom": "2024-11-23 16:50:13",
+        "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
         "inventory": 1000
       },
@@ -2045,7 +1897,7 @@
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
         "price": 7080,
         "currency": "INR",
-        "validFrom": "2024-11-23 16:50:11",
+        "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
         "inventory": 50
       },
@@ -2053,7 +1905,7 @@
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
         "price": 7080,
         "currency": "INR",
-        "validFrom": "2024-11-23 16:50:12",
+        "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
         "inventory": 20
       },
@@ -2061,7 +1913,7 @@
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
         "price": 10029,
         "currency": "INR",
-        "validFrom": "2024-11-23 16:50:07",
+        "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
         "inventory": 800
       },
@@ -2069,7 +1921,7 @@
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
         "price": 11799,
         "currency": "INR",
-        "validFrom": "2024-11-23 16:50:10",
+        "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
         "inventory": 15
       },
@@ -2077,7 +1929,7 @@
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
         "price": 12979,
         "currency": "INR",
-        "validFrom": "2024-11-23 16:50:06",
+        "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
         "inventory": 800
       },
@@ -2085,7 +1937,7 @@
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
         "price": 17699,
         "currency": "INR",
-        "validFrom": "2024-11-23 16:50:09",
+        "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
         "inventory": 200
       },
@@ -2093,7 +1945,7 @@
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
         "price": 26549,
         "currency": "INR",
-        "validFrom": "2024-11-23 16:50:11",
+        "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
         "inventory": 25
       },

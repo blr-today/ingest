@@ -21,7 +21,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 616,
+            "inventoryLevel": 615,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/livebox-feat-the-aristocrats-bangalore"
          },
@@ -36,6 +36,52 @@
       ],
       "startDate": "2025-03-28T20:00:00",
       "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "This Friday, get ready to groove to the best of Commercial and Hip-hop music at the hottest spot in B'town—Hard Rock Cafe! St. Ma",
+      "endDate": "2024-11-30T00:30:00",
+      "identifier": "com.skillboxes.17177",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732468128CM7MAo9ZOmprMRny.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "40 St. Marks Road Bangalore, India",
+         "name": "Hard Rock Cafe Bengaluru"
+      },
+      "name": "Bootleg Fridays at Hardrock Cafe",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "One pass allow one single entry\n",
+            "inventoryLevel": 100,
+            "name": "Ladies",
+            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-5"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free entry till 0930pm post cover charges applicable\n",
+            "inventoryLevel": 100,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-5"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable throughout the event\n",
+            "inventoryLevel": 100,
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-5"
+         }
+      ],
+      "startDate": "2024-11-29T20:00:00",
+      "url": "https://www.skillboxes.com/events/bootleg-fridays-at-hardrock-cafe-5"
    },
    {
       "@context": "https://schema.org",
@@ -709,98 +755,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "What’s up, Bangalore!Join us this Sunday, 24th November, for an incredible event: AQUA SUNSETS !5:00 PM onwardsFeaturing: FELIX | GACHO LIBRE | ",
-      "endDate": "2024-11-24T22:00:00",
-      "identifier": "com.skillboxes.17107",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732088461sbBqfnVXWuUsjAlJ.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "DJ/Producer"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "iBAR, THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9740179",
-            "longitude": "77.619422"
-         },
-         "name": "i-Bar THE Park Bangalore"
-      },
-      "name": "AQUA SUNSETS !",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one stag to the event. Cover charges applicable at the venue throughout the event.\n",
-            "inventoryLevel": 200,
-            "name": "STAGS",
-            "url": "https://www.skillboxes.com/events/ticket/aqua-sunsets-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one lady to the event.\n",
-            "inventoryLevel": 197,
-            "name": "LADIES",
-            "url": "https://www.skillboxes.com/events/ticket/aqua-sunsets-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass allows entry to 1 Couple. Each pass permits one couple to the event. Cover charges applicable at the venue post 9:30 PM.\n",
-            "inventoryLevel": 198,
-            "name": "COUPLES",
-            "url": "https://www.skillboxes.com/events/ticket/aqua-sunsets-3"
-         }
-      ],
-      "startDate": "2024-11-24T17:00:00",
-      "url": "https://www.skillboxes.com/events/aqua-sunsets-3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Sunset Saga",
-      "endDate": "2024-11-24T23:59:00",
-      "identifier": "com.skillboxes.17100",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732032319D89pVyGqmlBtxKFP.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0122829",
-            "longitude": "77.5561431"
-         },
-         "name": "High Ultra Lounge"
-      },
-      "name": "Sunset Saga",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Ladies And Couple Entry",
-            "url": "https://www.skillboxes.com/events/ticket/sunset-saga"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Stag Entry Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/sunset-saga"
-         }
-      ],
-      "startDate": "2024-11-24T16:00:00",
-      "url": "https://www.skillboxes.com/events/sunset-saga"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "After the resounding success of Humble Poet 1.0, Bella, the powerhouse of Indian hip-hop and winner of MTV Hustle Season 1, is back to take the stage ",
       "endDate": "2024-12-21T23:59:00",
       "identifier": "com.skillboxes.17099",
@@ -820,6 +774,30 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 16 +\nRedeemable Cover Charge Applicable At Gates.",
+            "inventoryLevel": 72,
+            "name": "Phase 1 : Single",
+            "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "For Age(s) 16 +\nRedeemable Cover Charge Applicable At Gates.",
+            "inventoryLevel": 75,
+            "name": "Phase 1 : Group of 4",
+            "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "For Age(s) 16 +\nRedeemable Cover Charge Applicable At Gates.",
+            "inventoryLevel": 14,
+            "name": "Meet & Greet",
+            "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "For Age(s) 16 +\nRedeemable Cover Charge Applicable At Gates.",
             "inventoryLevel": 2,
             "name": "Early Bird : Single",
             "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
@@ -831,44 +809,10 @@
             "inventoryLevel": 23,
             "name": "Early Bird : Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "For Age(s) 16 +\nRedeemable Cover Charge Applicable At Gates.",
-            "inventoryLevel": 14,
-            "name": "Meet & Greet",
-            "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
          }
       ],
       "startDate": "2024-12-21T20:00:00",
       "url": "https://www.skillboxes.com/events/bella-humble-poet-2-0-tour-3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Venue : Bira 91 Tap Room, Koramangala\r\nTiming : 11 AM Onwards\r\nPromoter: F1 Commune\r\nEarly Bird: INR 299/-  [ Additional INR 300/- Cover fully re",
-      "endDate": "2024-11-24T15:00:00",
-      "identifier": "com.skillboxes.17090",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732107365oMoX4hirNxD3947p.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Sports"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9313063",
-            "longitude": "77.6329297"
-         },
-         "name": "Bira 91 Taproom, Koramangala"
-      },
-      "name": "F1 Grand Prix Live Screening - Las Vegas Grand Prix | BIRA 91 Taproom, Koramangala",
-      "offers": [ ],
-      "startDate": "2024-11-24T11:00:00",
-      "url": "https://www.skillboxes.com/events/f1-grand-prix-live-screening-las-vegas-grand-prix-bira91-taproom-koramangala"
    },
    {
       "@context": "https://schema.org",
@@ -973,7 +917,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 58,
+            "inventoryLevel": 56,
             "name": "Roots Unplugged",
             "url": "https://www.skillboxes.com/events/ticket/roots-unplugged"
          }
@@ -1003,32 +947,7 @@
          "name": "Bunny Bar"
       },
       "name": "Sunday Bunny Blast at Bunny Bar Koramangala",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable through out the event\n",
-            "inventoryLevel": 100,
-            "name": "STAG",
-            "url": "https://www.skillboxes.com/events/ticket/sunday-bunny-blast-at-bunny-bar-koramangala-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry till 0930pm post cover charges applicable\n",
-            "inventoryLevel": 100,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/sunday-bunny-blast-at-bunny-bar-koramangala-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow one single entry\n",
-            "inventoryLevel": 100,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/sunday-bunny-blast-at-bunny-bar-koramangala-1"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-11-24T20:00:00",
       "url": "https://www.skillboxes.com/events/sunday-bunny-blast-at-bunny-bar-koramangala-1"
    },
@@ -1066,32 +985,6 @@
       ],
       "startDate": "2024-12-07T20:00:00",
       "url": "https://www.skillboxes.com/events/kitty-su-pop-up-s-the-drag-dynasty"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "DJ Night Bollywood NightOffersCocktails and MocktailsGreat AmbeinceSUPERCLUB SATURDAY Come celebrate your special day with us! Yes, it's&#16",
-      "endDate": "2024-11-24T01:00:00",
-      "identifier": "com.skillboxes.17051",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0JDVVVMbXI5Q1ZtWXJNS1A1QTJzUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731916800Tp5HY9nsmIWghtZT.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Party or Social Gathering"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "MSR Building, FLO, #3, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9743377",
-            "longitude": "77.6068167"
-         },
-         "name": "FLO Church Street"
-      },
-      "name": "SUPERCLUB SATURDAY (BIG BOLLYWOOD NIGHT)",
-      "offers": [ ],
-      "startDate": "2024-11-23T20:00:00",
-      "url": "https://www.skillboxes.com/events/superclub-saturday-big-bollywood-night-2"
    },
    {
       "@context": "https://schema.org",
@@ -1514,57 +1407,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Experience a world-class journey crafted by our homegrown talents! 🔥It’s time to celebrate the brilliance of our native magicians of the",
-      "endDate": "2024-11-24T01:00:00",
-      "identifier": "com.skillboxes.17009",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NStvQ0pCSFhPM0t2YVhkNzV3RUlBQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731653771fvD38CSk5pOUy00Q.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "2nd floor, Aloft Bengaluru, Cessna Business Park Sarjapur, Outer Ring Rd, near Marathahalli, Kaverappa Layout, Kadubeesanahalli, Bellandur, Bengaluru, Karnataka 560103, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9368105",
-            "longitude": "77.6951061"
-         },
-         "name": "Echo Lounge Bar"
-      },
-      "name": "INCARNATION: Homegrown talent showcase V1 | FrequenZ x Phoneix ent | Bangalore | Powered by Spacenaut and KAUMODAKI",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable post 9:00pm\nContact us for group or table bookings",
-            "inventoryLevel": 145,
-            "name": "Guestlist: Female",
-            "url": "https://www.skillboxes.com/events/ticket/incarnation-homegrown-talent-showcase-v1-frequenz-x-phoneix-ent-bangalore-powered-by-spacenaut-and-kaumodaki"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable post 9:00pm\nContact us for group or table bookings",
-            "inventoryLevel": 282,
-            "name": "Guestlist: Stags",
-            "url": "https://www.skillboxes.com/events/ticket/incarnation-homegrown-talent-showcase-v1-frequenz-x-phoneix-ent-bangalore-powered-by-spacenaut-and-kaumodaki"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable post 9:00pm\nContact us for group or table bookings",
-            "inventoryLevel": 142,
-            "name": "Guestlist: Couples",
-            "url": "https://www.skillboxes.com/events/ticket/incarnation-homegrown-talent-showcase-v1-frequenz-x-phoneix-ent-bangalore-powered-by-spacenaut-and-kaumodaki"
-         }
-      ],
-      "startDate": "2024-11-23T17:00:00",
-      "url": "https://www.skillboxes.com/events/incarnation-homegrown-talent-showcase-v1-frequenz-x-phoneix-ent-bangalore-powered-by-spacenaut-and-kaumodaki"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "Indie Friday || Corner Cafe Chronicles X Lotus",
       "endDate": "2024-12-06T23:59:00",
       "identifier": "com.skillboxes.17002",
@@ -1726,49 +1568,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "JackfruitDanceParty anniversary #3 ft. Roi Perez #KoramangalaSOCIAL\r\n\r\n \r\n\r\nCover Charges are applicable at the venue.\r\n\r\n \r\n\r\nThis is a 21+",
-      "endDate": "2024-11-24T23:59:00",
-      "identifier": "com.skillboxes.16972",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731420848bgorbNjSYWnnFAf6.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Seventh Block, Plot 118, 80 Feet Rd, above Bodyworks Spa, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9354765",
-            "longitude": "77.6141533"
-         },
-         "name": "Koramangala Social"
-      },
-      "name": "JackfruitDanceParty anniversary #3 ft. Roi Perez #KoramangalaSOCIAL | IEHPL",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges are applicable at the venue.  This is a 21+ event. ID checks are mandatory.  We have a zero-tolerance policy on drugs or illegal substances.\n",
-            "inventoryLevel": 1000,
-            "name": "General Admission",
-            "url": "https://www.skillboxes.com/events/ticket/jackfruitdanceparty-anniversary-3-ft-roi-perez-koramangalasocial-iehpl"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Your tickets are fully redeemable at the venue  This is a 21+ event. ID checks are mandatory.  We have a zero-tolerance policy on drugs or illegal substances.\n",
-            "inventoryLevel": 100,
-            "name": "Full Cover",
-            "url": "https://www.skillboxes.com/events/ticket/jackfruitdanceparty-anniversary-3-ft-roi-perez-koramangalasocial-iehpl"
-         }
-      ],
-      "startDate": "2024-11-24T14:00:00",
-      "url": "https://www.skillboxes.com/events/jackfruitdanceparty-anniversary-3-ft-roi-perez-koramangalasocial-iehpl"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "Find Brainbow & Param - Live on 7 Dec, Saturday at Bira 91 Taproom. The night filled of fusion music. \r\n\r\nRock! Electronic! Indian!\r\n\r\nBrainb",
       "endDate": "2024-12-07T23:59:00",
       "identifier": "com.skillboxes.16967",
@@ -1876,40 +1675,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Kalyan Sabareeshan is a Musician & a Magician who has been actively performing across Bangalore over the last 2 years. He has been composing music",
-      "endDate": "2024-11-24T21:00:00",
-      "identifier": "com.skillboxes.16915",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b21SL25rNGFkWHpybTE0Mk9DbWhFQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17313049289F1V8BxiUKsFsld3.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Performing & Visual Arts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9325445",
-            "longitude": "77.6319325"
-         },
-         "name": "Dialogues Cafe Koramangala"
-      },
-      "name": "An Evening of Magic & Music with Kalyan Sabareeshan",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 30,
-            "name": "Regular",
-            "url": "https://www.skillboxes.com/events/ticket/an-evening-of-magic-music-with-kalyan-sabareeshan"
-         }
-      ],
-      "startDate": "2024-11-24T20:00:00",
-      "url": "https://www.skillboxes.com/events/an-evening-of-magic-music-with-kalyan-sabareeshan"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "SocialEvent",
       "description": "🌟 **One Night in DXB: NYE 2025 at Ottoman Restobar** 🌟Step into the New Year with the ultimate **Dubai-inspired party** right here at ",
       "endDate": "2025-01-01T00:45:00",
@@ -2012,41 +1777,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "What's in it for YOU - The Audience\r\n\r\n(Or basically, why should you buy the ticket and come over)\r\n\r\n \r\n\r\n1. Witness the start of something ",
-      "endDate": "2024-11-24T23:59:00",
-      "identifier": "com.skillboxes.16841",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730897194wEgmAppFxwBKvHcl.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9313063",
-            "longitude": "77.6329297"
-         },
-         "name": "Bira 91 Taproom, Koramangala"
-      },
-      "name": "Brutal Mic - Moving on from Open-Mics",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Ticket includes 200/- cover charge, redeemable against your bill at the venue.\n",
-            "inventoryLevel": 997,
-            "name": "Regular Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/brutal-mic-moving-on-from-open-mics"
-         }
-      ],
-      "startDate": "2024-11-24T14:00:00",
-      "url": "https://www.skillboxes.com/events/brutal-mic-moving-on-from-open-mics"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "Rainbow Bridge Artist sessions Presents BluesGhat, hailing from Bangalore, blends traditional blues with Carnatic influences and original compositions",
       "endDate": "2024-11-29T20:00:00",
       "identifier": "com.skillboxes.16824",
@@ -2070,7 +1800,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 49,
+            "inventoryLevel": 47,
             "name": "Rainbow Bridge Artist Sessions",
             "url": "https://www.skillboxes.com/events/ticket/rainbow-bridge-artist-session-with-blues-ghat"
          }
@@ -2139,7 +1869,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 4,
+            "inventoryLevel": 3,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/indie-friday-ft-adi-rao"
          },
@@ -2274,7 +2004,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge INR 500/- Per Individual Applicable At Gates.\n",
-            "inventoryLevel": 932,
+            "inventoryLevel": 929,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/karma-live-the-warm-up-tour-bangalore"
          },
@@ -2454,7 +2184,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Each ticket entitles entry of one person to the event. - Entry before 7 pm. - Access to GA area only.\n",
-            "inventoryLevel": 18,
+            "inventoryLevel": 14,
             "name": "GA || Early Entry",
             "url": "https://www.skillboxes.com/events/ticket/21yearsofsubmerge-feat-joris-voorn-bangalore"
          },
@@ -2462,7 +2192,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Each ticket entitles entry to one person to the event. - Access to GA area only\nCover Charge of Rs. 1,000 will apply for entry post 9pm",
-            "inventoryLevel": 180,
+            "inventoryLevel": 178,
             "name": "GA || Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/21yearsofsubmerge-feat-joris-voorn-bangalore"
          },
@@ -2472,6 +2202,22 @@
             "description": "- Each ticket entitles entry to one person to the event - Access to a dedicated backstage area.\nCover Charge of Rs. 1,000 will apply for entry post 9pm",
             "inventoryLevel": 98,
             "name": "Backstage || Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/21yearsofsubmerge-feat-joris-voorn-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "- Each ticket entitles entry to 4 persons to the event. - Cover charge of INR 1000 per person applicable post 9 pm. - Access to GA area only.\n",
+            "inventoryLevel": 200,
+            "name": "GA- Group of 4",
+            "url": "https://www.skillboxes.com/events/ticket/21yearsofsubmerge-feat-joris-voorn-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "- Each ticket entitles entry to 4 persons to the event. - Cover charge of INR 1000 per person applicable post 9 pm. - Access to a dedicated Backstage area.\n",
+            "inventoryLevel": 200,
+            "name": "Backstage - Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/21yearsofsubmerge-feat-joris-voorn-bangalore"
          }
       ],
