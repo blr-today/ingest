@@ -1443,7 +1443,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 468
+        "inventory": 455
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -1644,7 +1644,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:34:27",
         "availability": "INSTOCK",
-        "inventory": 988
+        "inventory": 987
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -1873,7 +1873,7 @@
         "currency": "INR",
         "validFrom": "2024-11-22 21:36:37",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 19
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -1881,7 +1881,7 @@
         "currency": "INR",
         "validFrom": "2024-11-22 21:36:36",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 17
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -1889,7 +1889,7 @@
         "currency": "INR",
         "validFrom": "2024-11-22 21:36:37",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 18
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -1973,7 +1973,7 @@
         "currency": "INR",
         "validFrom": "2024-11-12 19:43:49",
         "availability": "INSTOCK",
-        "inventory": 7
+        "inventory": 5
       }
     ],
     "performers": [],
