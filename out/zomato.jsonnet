@@ -119,58 +119,6 @@
     }
   },
   {
-    "name": "Chandan Shetty Live",
-    "description": "Chandan Shetty, also known as \"Kannada Rapper Chandan Shetty\" is an Indian film score and soundtrack composer, lyricist, and singer who mainly composes music in the Kannada language. He started his career as a lyricist and assistant music director with the movie Alemari, under music director Arjun Janya. Then he worked for Varadanayaka, Power, Chakravyuha, and Bhajarangi.",
-    "startDate": "2024-11-24 20:00:00",
-    "endDate": "2024-11-25 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Chandan Shetty Live Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Chandan Shetty Live Bengaluru on Zomato which is a Music and Trending event happening at 26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/680fb7d69471e40b223631cfd25b59ee1722425915.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043/details",
-        "price": 399,
-        "currency": "INR",
-        "validFrom": "2024-07-31 17:18:26",
-        "availability": "INSTOCK",
-        "inventory": 36
-      },
-      {
-        "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-07-31 17:18:27",
-        "availability": "INSTOCK",
-        "inventory": 30
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/chandan-shetty-live-bengaluru-et47043",
-    "id": "com.zomato.47043",
-    "location": {
-      "name": "WL Superclub",
-      "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9151339,
-        "longitude": 77.6660495
-      }
-    }
-  },
-  {
     "name": "Feeding India Concert with Dua Lipa",
     "description": "**LIMITED TICKETS NOW AVAILABLE**\n\nAttention Dua Lipa fans - get ready to levitate! The Feeding India Concert, organised by Zomato's Feeding India initiative to fight malnutrition, is back.\nThis time, global pop icon Dua Lipa is here to make you \u2018dance the night away\u2019 in Mumbai. Witness the chart-topping artist light up the stage with her electrifying hits, and don\u2019t miss the amazing support acts: the sensational JONITA and the dynamic Talwiinder.\n\nWe\u2019ve just got one \u2018new rule\u2019 \u2013 don't miss the chance to be part of this incredible experience, with a great cause.",
     "startDate": "2024-11-30T15:00:00+05:30",
@@ -1655,58 +1603,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.01305645,
         "longitude": 77.55622893
-      }
-    }
-  },
-  {
-    "name": "Caged Overdrive Festival ft. Temudo & more",
-    "description": "Caged Overdrive takes place in its greatest format of line ups and experience on Nov 23 & 24 at The Park Ballroom with our good friends from Octave and Mob Mind.\n\nGear for a long line up of classified techno musicians taking centre stage at the hotspot!\n\n\u2022 This is a 21+ show. ID checks are mandatory.\n\u2022 We follow strict adherence to zero tolerance on drugs & prohibited substances.",
-    "startDate": "2024-11-23 18:00:00",
-    "endDate": "2024-11-25 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Caged Overdrive Festival ft. Temudo & more Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Caged Overdrive Festival ft. Temudo & more Bengaluru on Zomato which is a Trending event happening at \"14/7, The Park, MG Road, Bhaskaran Rd, Sivanchetti Gardens, Bengaluru, Karnataka 560042 \"",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/8368d4b057e4cb2bddc652821a7a41041731569719.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/caged-overdrive-festival-ft-temudo-more-bengaluru-et53235/details",
-        "price": 799,
-        "currency": "INR",
-        "validFrom": "2024-11-14 13:08:20",
-        "availability": "INSTOCK",
-        "inventory": 48
-      },
-      {
-        "url": "https://www.zomato.com/events/caged-overdrive-festival-ft-temudo-more-bengaluru-et53235/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-11-14 13:08:20",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/caged-overdrive-festival-ft-temudo-more-bengaluru-et53235",
-    "id": "com.zomato.53235",
-    "location": {
-      "name": "The Park Ballroom, MG Road",
-      "address": "\"14/7, The Park, MG Road, Bhaskaran Rd, Sivanchetti Gardens, Bengaluru, Karnataka 560042 \"",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9739914,
-        "longitude": 77.6198638
       }
     }
   },
