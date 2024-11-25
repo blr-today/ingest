@@ -1105,7 +1105,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 455
+        "inventory": 448
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -1306,7 +1306,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:34:27",
         "availability": "INSTOCK",
-        "inventory": 987
+        "inventory": 981
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -1314,7 +1314,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:04:42",
         "availability": "INSTOCK",
-        "inventory": 1999
+        "inventory": 1998
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -1533,23 +1533,23 @@
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
         "price": 499,
         "currency": "INR",
-        "validFrom": "2024-11-22 21:36:37",
+        "validFrom": "2024-11-24 18:08:32",
         "availability": "INSTOCK",
-        "inventory": 19
+        "inventory": 20
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 599,
+        "price": 699,
         "currency": "INR",
-        "validFrom": "2024-11-22 21:36:36",
+        "validFrom": "2024-11-24 18:08:32",
         "availability": "INSTOCK",
         "inventory": 17
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 899,
+        "price": 999,
         "currency": "INR",
-        "validFrom": "2024-11-22 21:36:37",
+        "validFrom": "2024-11-24 18:08:00",
         "availability": "INSTOCK",
         "inventory": 18
       },
@@ -1557,7 +1557,15 @@
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
         "price": 1999,
         "currency": "INR",
-        "validFrom": "2024-11-17 16:12:28",
+        "validFrom": "2024-11-24 18:08:33",
+        "availability": "INSTOCK",
+        "inventory": 20
+      },
+      {
+        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-11-24 18:08:00",
         "availability": "INSTOCK",
         "inventory": 20
       },
@@ -1579,11 +1587,43 @@
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-11-22 21:36:00",
+        "availability": "INSTOCK",
+        "inventory": 19
+      },
+      {
+        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
+        "price": 599,
+        "currency": "INR",
+        "validFrom": "2024-11-22 21:36:00",
+        "availability": "INSTOCK",
+        "inventory": 17
+      },
+      {
+        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
+        "price": 899,
+        "currency": "INR",
+        "validFrom": "2024-11-22 21:36:00",
+        "availability": "INSTOCK",
+        "inventory": 18
+      },
+      {
+        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
         "price": 1299,
         "currency": "INR",
         "validFrom": "2024-11-14 16:05:00",
         "availability": "INSTOCK",
         "inventory": 9
+      },
+      {
+        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-11-17 16:12:00",
+        "availability": "INSTOCK",
+        "inventory": 20
       }
     ],
     "performers": [],
@@ -1627,7 +1667,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:31",
         "availability": "INSTOCK",
-        "inventory": 96
+        "inventory": 94
       },
       {
         "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
@@ -1635,7 +1675,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:31",
         "availability": "INSTOCK",
-        "inventory": 49
+        "inventory": 48
       },
       {
         "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
@@ -1687,7 +1727,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:32",
         "availability": "INSTOCK",
-        "inventory": 197
+        "inventory": 186
       },
       {
         "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325/details",
