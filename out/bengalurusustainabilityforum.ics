@@ -21,7 +21,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241003T100000
 DTEND;TZID=Asia/Kolkata:20241224T170000
-DTSTAMP:20241125T121118
+DTSTAMP:20241125T182549
 CREATED:20241015T131031Z
 LAST-MODIFIED:20241015T131031Z
 UID:11730-1727949600-1735059600@www.bengalurusustainabilityforum.org
@@ -36,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241113T090000
 DTEND;TZID=Asia/Kolkata:20241126T170000
-DTSTAMP:20241125T121118
+DTSTAMP:20241125T182549
 CREATED:20240914T090728Z
 LAST-MODIFIED:20240914T090728Z
 UID:11162-1731488400-1732640400@www.bengalurusustainabilityforum.org
@@ -50,7 +50,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241122
 DTEND;VALUE=DATE:20241202
-DTSTAMP:20241125T121118
+DTSTAMP:20241125T182549
 CREATED:20241118T135940Z
 LAST-MODIFIED:20241118T135940Z
 UID:11922-1732233600-1733097599@www.bengalurusustainabilityforum.org
@@ -63,7 +63,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241122
 DTEND;VALUE=DATE:20241205
-DTSTAMP:20241125T121118
+DTSTAMP:20241125T182549
 CREATED:20241106T044625Z
 LAST-MODIFIED:20241106T045158Z
 UID:11767-1732233600-1733356799@www.bengalurusustainabilityforum.org
@@ -76,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241128T160000
 DTEND;TZID=Asia/Kolkata:20241128T170000
-DTSTAMP:20241125T121118
+DTSTAMP:20241125T182549
 CREATED:20241118T144431Z
 LAST-MODIFIED:20241120T040814Z
 UID:11926-1732809600-1732813200@www.bengalurusustainabilityforum.org
@@ -88,23 +88,37 @@ CATEGORIES:BSF event,Online Event
 ORGANIZER;CN="Bengaluru Sustainability Forum":MAILTO:bsf@ncbs.res.in
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20241128T190000
+DTEND;TZID=Asia/Kolkata:20241128T200000
+DTSTAMP:20241125T182549
+CREATED:20241125T073415Z
+LAST-MODIFIED:20241125T073415Z
+UID:12039-1732820400-1732824000@www.bengalurusustainabilityforum.org
+SUMMARY:Data Jam on Bengaluru Lakes ~ by Open City
+DESCRIPTION:OpenCity invites you to their next Datajam on “Bengaluru Lakes” in collaboration with Citizen Matters\, Biome Environment Trust\, Friends of Lakes\, Paani.Earth and WELL Labs. This time they are combining the datajam with an online lakes workshop on the 28th Nov 2024 at 7 PM. \nLakes Workshop:\n📅: Nov 28th\, Thursday\, 7 PM – 8 PM\n📍: Online \nDatajam:\n📅: Dec 7th 2024\, 10 AM to 5 PM.\n📍: Church Street\, Bengaluru – 560001. \nThe registration page has more details about the two events and what you can expect from each. \nLink for the workshop and details on the datajam will be sent on registering.\nREGISTER NOW!
+URL:https://www.bengalurusustainabilityforum.org/event/data-jam-on-bengaluru-lakes-by-open-city/2024-11-28/
+LOCATION:Online
+CATEGORIES:External event,In-person Event,Online Event
+ATTACH;FMTTYPE=image/png:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/11/Screenshot-2024-11-25-at-13.02.04.png
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241130T070000
 DTEND;TZID=Asia/Kolkata:20241130T090000
-DTSTAMP:20241125T121118
+DTSTAMP:20241125T182549
 CREATED:20240914T093249Z
-LAST-MODIFIED:20241018T062304Z
+LAST-MODIFIED:20241125T065658Z
 UID:11165-1732950000-1732957200@www.bengalurusustainabilityforum.org
 SUMMARY:Water Testing Walk ~ by ATREE
 DESCRIPTION:Join this walk at the Jakkuru lake – guided by Priyanka Jamwal of ATREE \nREGISTER NOW
 URL:https://www.bengalurusustainabilityforum.org/event/water-testing-walk-by-atree/
 LOCATION:Jakkuru Lake
 CATEGORIES:External event,In-person Event
-ATTACH;FMTTYPE=image/png:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/09/Screenshot-2024-09-14-at-15.00.59.png
+ATTACH;FMTTYPE=image/png:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/09/Screenshot-2024-11-25-at-12.09.37.png
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241130T080000
 DTEND;TZID=Asia/Kolkata:20241130T170000
-DTSTAMP:20241125T121118
+DTSTAMP:20241125T182549
 CREATED:20241118T135034Z
 LAST-MODIFIED:20241118T135034Z
 UID:11915-1732953600-1732986000@www.bengalurusustainabilityforum.org
@@ -118,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241201T080000
 DTEND;TZID=Asia/Kolkata:20241205T170000
-DTSTAMP:20241125T121118
+DTSTAMP:20241125T182549
 CREATED:20241108T155310Z
 LAST-MODIFIED:20241108T155310Z
 UID:11807-1733040000-1733418000@www.bengalurusustainabilityforum.org
@@ -133,7 +147,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241201T100000
 DTEND;TZID=Asia/Kolkata:20241201T170000
-DTSTAMP:20241125T121118
+DTSTAMP:20241125T182549
 CREATED:20241106T051023Z
 LAST-MODIFIED:20241106T051023Z
 UID:11777-1733047200-1733072400@www.bengalurusustainabilityforum.org
@@ -146,9 +160,23 @@ ATTACH;FMTTYPE=image/png:https://www.bengalurusustainabilityforum.org/wp-content
 ORGANIZER;CN="Spudnik Farms":MAILTO:spudnikfarms@gmail.com
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20241203T150000
+DTEND;TZID=Asia/Kolkata:20241203T190000
+DTSTAMP:20241125T182549
+CREATED:20241125T071017Z
+LAST-MODIFIED:20241125T071017Z
+UID:12033-1733238000-1733252400@www.bengalurusustainabilityforum.org
+SUMMARY:
+DESCRIPTION:Attend the 21st Annual TN Khoshoo Memorial Lecture and Award themed\, ‘Reviving India’s Ecosystems’. \nREGISTER NOW! \nThe annual T N Khoshoo Memorial Award is given to an academician or a practitioner whose work has had an impact in the fields of environment\, conservation\, or development. The T N Khoshoo Memorial Award was started by the Khoshoo family and ATREE to honour Dr Khoshoo’s legacy. The T N Khoshoo Memorial Award and Lecture was instituted in 2004 to honour the legacy of the world-renowned environmental scientist\, Dr Triloki Nath Khoshoo. Dr Khoshoo was the first Secretary of the Indian Government’s newly created Department of Environment\, in 1982. He played a significant role in the development of India’s environmental policy. Dr Khoshoo was also one of the early trustees of ATREE.
+URL:https://www.bengalurusustainabilityforum.org/event/12033/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Rd\, Stage 2\, Domlur\, Bengaluru\, Karnataka 560071
+CATEGORIES:External event,In-person Event
+ATTACH;FMTTYPE=image/jpeg:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/11/TNK-invite-2024.jpg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241207T093000
 DTEND;TZID=Asia/Kolkata:20241207T190000
-DTSTAMP:20241125T121118
+DTSTAMP:20241125T182549
 CREATED:20241125T061223Z
 LAST-MODIFIED:20241125T063415Z
 UID:12024-1733563800-1733598000@www.bengalurusustainabilityforum.org
@@ -161,9 +189,23 @@ ATTACH;FMTTYPE=image/png:https://www.bengalurusustainabilityforum.org/wp-content
 ORGANIZER;CN="Green Literature Festival":MAILTO:contact@greenlitfest.com
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20241207T100000
+DTEND;TZID=Asia/Kolkata:20241207T170000
+DTSTAMP:20241125T182549
+CREATED:20241125T073415Z
+LAST-MODIFIED:20241125T073415Z
+UID:12043-1733565600-1733590800@www.bengalurusustainabilityforum.org
+SUMMARY:Data Jam on Bengaluru Lakes ~ by Open City
+DESCRIPTION:OpenCity invites you to their next Datajam on “Bengaluru Lakes” in collaboration with Citizen Matters\, Biome Environment Trust\, Friends of Lakes\, Paani.Earth and WELL Labs. This time they are combining the datajam with an online lakes workshop on the 28th Nov 2024 at 7 PM. \nLakes Workshop:\n📅: Nov 28th\, Thursday\, 7 PM – 8 PM\n📍: Online \nDatajam:\n📅: Dec 7th 2024\, 10 AM to 5 PM.\n📍: Church Street\, Bengaluru – 560001. \nThe registration page has more details about the two events and what you can expect from each. \nLink for the workshop and details on the datajam will be sent on registering.\nREGISTER NOW!
+URL:https://www.bengalurusustainabilityforum.org/event/data-jam-on-bengaluru-lakes-by-open-city/2024-12-07/
+LOCATION:Online
+CATEGORIES:External event,In-person Event,Online Event
+ATTACH;FMTTYPE=image/png:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/11/Screenshot-2024-11-25-at-13.02.04.png
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241209T090000
 DTEND;TZID=Asia/Kolkata:20241213T170000
-DTSTAMP:20241125T121118
+DTSTAMP:20241125T182549
 CREATED:20240914T085053Z
 LAST-MODIFIED:20240914T085904Z
 UID:11160-1733734800-1734109200@www.bengalurusustainabilityforum.org

@@ -39,6 +39,57 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "This Saturday Catch All Fun And Action On Biggest Dance Floor At Hangover Kormangala.Bollywood Blockbuster  with DJ Milan and Fema",
+      "endDate": "2024-12-01T00:30:00",
+      "identifier": "com.skillboxes.17191",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/173253517674b15ZD8vVozqqbm.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9348662",
+            "longitude": "77.6138885"
+         },
+         "name": "Plan B x Hangover XL Koramangala"
+      },
+      "name": "Saturday Hangover Blockbuster Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free entry till 0930pm post cover charges applicable\n",
+            "inventoryLevel": 100,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/saturday-hangover-blockbuster-night"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable throughout the event\n",
+            "inventoryLevel": 100,
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/saturday-hangover-blockbuster-night"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "One pass allow one single entry\n",
+            "inventoryLevel": 100,
+            "name": "Ladies",
+            "url": "https://www.skillboxes.com/events/ticket/saturday-hangover-blockbuster-night"
+         }
+      ],
+      "startDate": "2024-11-30T20:00:00",
+      "url": "https://www.skillboxes.com/events/saturday-hangover-blockbuster-night"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "This Friday, get ready to groove to the best of Commercial and Hip-hop music at the hottest spot in B'town—Hard Rock Cafe! St. Ma",
       "endDate": "2024-11-30T00:30:00",
@@ -86,8 +137,8 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Byg Brewski Brewing Company and The Mango Tree are joining forces to bring you a unique experience where creativity flows like our craft beer.Immerse ",
-      "endDate": "2024-12-01T12:00:00",
+      "description": "Byg Brewski Brewing Company Hennur and The Mango Tree are joining forces to bring you a unique experience where creativity flows like our craft beer.I",
+      "endDate": "2024-12-29T12:00:00",
       "identifier": "com.skillboxes.17171",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OUdyUWV5eEx0b1AwczRHekdpeGxDUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17324498998mfrsrKucjlwrZXJ.jpg.webp",
       "isAccessibleForFree": false,
@@ -111,7 +162,39 @@
             "availability": "InStock",
             "description": "This ticket includes one complimentary beer or mocktail. Please note that alcoholic beverages will only be served to individuals above the legal drinking age.\n",
             "inventoryLevel": 500,
-            "name": "Redeemable Ticket",
+            "name": "1st December || Redeemable Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/abc-collective"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket includes one complimentary beer or mocktail. Please note that alcoholic beverages will only be served to individuals above the legal drinking age.\n",
+            "inventoryLevel": 500,
+            "name": "8th December || Redeemable Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/abc-collective"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket includes one complimentary beer or mocktail. Please note that alcoholic beverages will only be served to individuals above the legal drinking age.\n",
+            "inventoryLevel": 500,
+            "name": "15th December || Redeemable Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/abc-collective"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket includes one complimentary beer or mocktail. Please note that alcoholic beverages will only be served to individuals above the legal drinking age.\n",
+            "inventoryLevel": 500,
+            "name": "22nd December || Redeemable Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/abc-collective"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket includes one complimentary beer or mocktail. Please note that alcoholic beverages will only be served to individuals above the legal drinking age.\n",
+            "inventoryLevel": 500,
+            "name": "29th December || Redeemable Ticket",
             "url": "https://www.skillboxes.com/events/ticket/abc-collective"
          }
       ],

@@ -4657,5 +4657,57 @@
       "Pop-up Event",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Pettah walk in Cottonpet : In search of faith.",
+    "description": "In our fourth walk in the Pettah area we take the guests on a journey in search of \"Faith\".On this walk in the western part of Kempe Gowda's Pettah area we visit the shrine of the biggest Sufi dargah in Bangalore. We not only learn more about Sufism but learn about how this dargah has promoted communal harmony since the past two centuries and more.We then visit an ayurvedic massage center to see how bones are set right. Legend has it that at one of these centers was patronized by the Maharaja of Mysore as would the pehelwans in these areas who practiced khusti in the numerous akhadas.We also visit an old temple/s associated with a saint/s who left his/their mark on the locality. If time permits we will also visit a garadi mane & a heritage lodge close by.Last but not the least we treat our guests to a nice traditional South Indian breakfast at a heritage restaurant in the area.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8D55F2F9DCA448A7B073E839E7EE2FA1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F8B2633A5A584A28A3C3099CED0BCCAA_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4073CE9CB4D94FD98D1D768CEF69289A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/339D32171B1549ACA9FD80D3246B86C1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/84D735C41BFA48E7AEF7D5889A43223B_converted_webp.webp"
+    ],
+    "startDate": "2024-12-15T09:00:00+05:30",
+    "endDate": "2024-12-15T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "XHFF+G4V, Tulasi Thota Rd, Upparpete, Chickpet, Bengaluru, Karnataka 560053, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJnab774sXrjsRrf_WjR-DXXs",
+      "latitude": "12.97386580000000000000",
+      "longitude": "77.57278720000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 24,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "750.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru by foot",
+      "description": "Heritage, food & architectural walks in Bangalore.",
+      "url": "https://urbanaut.app/partner/benbyfoot",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/1B826865857D4C59838FFA44132C0F6E_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-70192-72365"
+      }
+    },
+    "url": "https://urbanaut.app/spot/pettah-walk-in-cottonpet-in-search-of-faith",
+    "keywords": [
+      "Guided tour",
+      "History & heritage",
+      "Walking Tour",
+      "URBANAUT"
+    ]
   }
 ]
