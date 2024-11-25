@@ -31,7 +31,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 54
+        "inventory": 51
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -146,7 +146,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 1093
+        "inventory": 1067
       },
       {
         "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
@@ -154,7 +154,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 559
+        "inventory": 537
       },
       {
         "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
@@ -162,7 +162,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 233
+        "inventory": 216
       }
     ],
     "performers": [
@@ -272,7 +272,7 @@
         "currency": "INR",
         "validFrom": "2024-10-21 11:44:55",
         "availability": "SELLING_FAST",
-        "inventory": 14
+        "inventory": 11
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -312,7 +312,7 @@
         "currency": "INR",
         "validFrom": "2024-10-17 13:46:27",
         "availability": "INSTOCK",
-        "inventory": 41
+        "inventory": 40
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -438,7 +438,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 722
+        "inventory": 635
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -446,7 +446,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "SELLING_FAST",
-        "inventory": 30
+        "inventory": 27
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -454,7 +454,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "SELLING_FAST",
-        "inventory": 87
+        "inventory": 76
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -656,7 +656,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 238
+        "inventory": 235
       },
       {
         "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
@@ -664,7 +664,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 228
+        "inventory": 222
       }
     ],
     "performers": [],
@@ -708,7 +708,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 16:07:02",
         "availability": "INSTOCK",
-        "inventory": 7
+        "inventory": 5
       }
     ],
     "performers": [],
@@ -752,7 +752,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:35",
         "availability": "INSTOCK",
-        "inventory": 79
+        "inventory": 78
       }
     ],
     "performers": [],
@@ -928,7 +928,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 22:59:40",
         "availability": "INSTOCK",
-        "inventory": 191
+        "inventory": 186
       }
     ],
     "performers": [],
@@ -1016,7 +1016,7 @@
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:34",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 17
       }
     ],
     "performers": [],
@@ -1029,50 +1029,6 @@
     ],
     "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52998",
     "id": "com.zomato.52998",
-    "location": {
-      "name": "XOOX Brewmill",
-      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93656731,
-        "longitude": 77.61521573
-      }
-    }
-  },
-  {
-    "name": "BOLLYXOOX Saturday Night",
-    "description": "DJ Mani & DJ Rashmi are all set to give you a Bollywood & Punjabi High this November. Enjoy a night full of fun & frolic and dance your heart out at the mill with our Craft!",
-    "startDate": "2024-11-29T20:00:00+05:30",
-    "endDate": "2024-11-29T23:59:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "BOLLYXOOX Saturday Night Party and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for BOLLYXOOX Saturday Night Bengaluru on Zomato which is a Party and Trending event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/68d30a8c1be82ff8d34e9f294e6e46dd1730722588.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53003/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-04 17:48:35",
-        "availability": "SELLING_FAST",
-        "inventory": 7
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bollyxoox-saturday-night-bengaluru-et53003",
-    "id": "com.zomato.53003",
     "location": {
       "name": "XOOX Brewmill",
       "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
@@ -1778,7 +1734,25 @@
     "ogTitle": "Bloom in Green Festival 2024 Trending, Music and Experiences event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for Bloom in Green Festival 2024 Bengaluru on Zomato which is a Trending, Music and Experiences event happening at Chembaltradi Rd, Kodiga Timmanapalli, Tamil Nadu 635117",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/1c16448d2ec9131b65fa968607b6bcd51732362438.png"
+      "https://b.zmtcdn.com/data/zomaland/1c16448d2ec9131b65fa968607b6bcd51732362438.png",
+      "https://b.zmtcdn.com/data/zomaland/ede84c253e3c3bf068c56876b65d49c31732516827.png",
+      "https://b.zmtcdn.com/data/zomaland/23dfda28d6ce426d92af006896eb67fd1732540575.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/cc375b0ec81d14353b47289d73f507ca1732540575.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/d044937b735fae6937e67edd76a174101732540575.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/acf1543c7a31c7f03420b08167754b351732540575.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/61f3f5e28808e98354579a05e55902911732540575.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/5edd35f5b328f3b00e067ccd3fb366581732540576.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/8a4cf1784a779a3f5b510d0bc334a9251732540576.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/bbdc1bf1536c404ca7d19600221c95331732540576.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/957416d4551ef897aab4571f770a1e731732540576.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/d68758dc84d24f178040fc52ddcb922b1732540576.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/c449ec43d6457f8cab91156ff93f977b1732540576.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/5280219c991b8a1110a89f61170c95f01732540576.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/15b27991adcd6e41fb4ffd4c985a1f881732540576.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/ef48d3b2bdcd0172026481e7d1444b401732540576.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/3d997a07b59cc802057f0b000505eee11732540576.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/216142420f249344f1ae1ca8ae7db8d61732540576.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/1be9d66f739a48445f5e578be9fb1b1c1732540576.jpeg"
     ],
     "tickets": [
       {
