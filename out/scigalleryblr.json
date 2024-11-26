@@ -124,5 +124,30 @@
       }
     ],
     "maximumAttendeeCapacity": 40
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Teaching AI to K-12 Learners: Lessons Issues and Guidance",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2024-12-01T11:00:00+05:30",
+    "endDate": "2024-12-01T12:00:00+05:30",
+    "description": "There is growing recognition of the need to teach about artificial intelligence and machine learning (AI/ML) at the school level in light of the meteoric growth in the range and diversity of application of machine learning (ML) in all industries and everyday consumer products, with Large Language Models (LLMs) being only the latest and most compelling example yet. Efforts to bring AI, especially ML education to school learners are being propelled by substantial industry interest as well as technological developments that make AI tools readily available to learners of all ages. These efforts span a variety of learning goals including developing a foundational AI literacy as well as AI concepts as a part of computer science curricula, aimed at developing students' understanding of AI and machine learning as well as AI ethics.<br><br>Join Shuchi Grover in a talk where she shares insights from research on helping students develop competencies to navigate the future in the age of AI. Post the talk, Sujata Kelkar Shetty in conversation with Shuchi Grover, dive deeper into the theme through a QnA.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=teaching-ai-lessons",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sujatha-Kelkar"
+      },
+      {
+        "@type": "Person",
+        "name": "Shuchi-Grover"
+      }
+    ],
+    "maximumAttendeeCapacity": 60
   }
 ]

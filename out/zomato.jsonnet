@@ -31,7 +31,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 51
+        "inventory": 46
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -146,7 +146,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 1067
+        "inventory": 1043
       },
       {
         "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
@@ -154,7 +154,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 537
+        "inventory": 515
       },
       {
         "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
@@ -162,7 +162,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 216
+        "inventory": 193
       }
     ],
     "performers": [
@@ -236,7 +236,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 14:56:00",
         "availability": "INSTOCK",
-        "inventory": 77
+        "inventory": 75
       }
     ],
     "performers": [],
@@ -438,7 +438,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 635
+        "inventory": 606
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -446,7 +446,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "SELLING_FAST",
-        "inventory": 27
+        "inventory": 19
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -656,7 +656,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 235
+        "inventory": 214
       },
       {
         "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
@@ -664,7 +664,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 222
+        "inventory": 199
       }
     ],
     "performers": [],
@@ -752,7 +752,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 18:32:35",
         "availability": "INSTOCK",
-        "inventory": 78
+        "inventory": 71
       }
     ],
     "performers": [],
@@ -972,7 +972,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 22:59:40",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 18
       }
     ],
     "performers": [],
@@ -1004,8 +1004,8 @@
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": true,
-    "ogTitle": "Ladies Wednesday Night Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Ladies Wednesday Night Bengaluru on Zomato which is a Music event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+    "ogTitle": "Ladies Wednesday Night Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Ladies Wednesday Night Bengaluru on Zomato which is a Music and Trending event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/8127dcf14815f0942963f02132f0f34f1730722412.png"
     ],
@@ -1015,8 +1015,8 @@
         "price": 0,
         "currency": "INR",
         "validFrom": "2024-11-04 17:48:34",
-        "availability": "INSTOCK",
-        "inventory": 17
+        "availability": "SELLING_FAST",
+        "inventory": 12
       }
     ],
     "performers": [],
@@ -1201,7 +1201,7 @@
         "currency": "INR",
         "validFrom": "2024-11-07 13:25:41",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 49
       }
     ],
     "performers": [],
@@ -1724,7 +1724,7 @@
   },
   {
     "name": "Bloom in Green Festival 2024",
-    "description": "Spanning three magical days and 65+ immersive hours, the festival invites you to explore, experiment, and grow through:\n2 Dynamic Music Stages with groundbreaking performances by Indian and international artists \n4 Workshop Shaalas offering hands-on experiences across art, wellness, and innovation \nLarger-than-Life Art Installations to inspire and transport you \nCurated Experiences including drum circles, highline performances, ecstatic dance, and more \nA Dedicated Kids Zone with interactive workshops and fun-filled activities for our youngest attendees\nA Vibrant Flea Market featuring organic, artisanal, and handmade treasures \nCamping Village under the stars, with options ranging from pitch-your-own tents to luxury glamping",
+    "description": "Welcome to Bloom in Green Festival 2024\nStep into a transformative three-day celebration of art, music, and connection. With 65+ hours of immersive experiences, enjoy two music stages featuring global and Indian talent, Workshop Shaalas for creativity and wellness, and awe-inspiring art installations. Every moment is designed to spark joy and inspire growth.\nExplore vibrant flea markets, engage in unique activities like drum circles and ecstatic dance, and relax under the stars at the Camping Village. Families will love the dedicated kids' zone, and attendees can choose from various camping options. Join us for an unforgettable journey of creativity, community, and transformation!",
     "startDate": "2024-12-20T07:00:00+05:30",
     "endDate": "2024-12-22T12:00:00+05:30",
     "timezone": "+05:30",
