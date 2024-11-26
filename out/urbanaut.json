@@ -4664,5 +4664,55 @@
       "Walking Tour",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Roots of Resilience: Grow Your Garden, Grow Within",
+    "description": "Immerse yourself in the serene beauty of nature with a hands-on gardening workshop designed to help you cultivate both thriving plants and a sense of inner calm.This 90-minute experience is perfect for anyone looking to learn the fundamentals of gardening while exploring how this mindful practice can reduce stress, enhance well-being, and nurture personal growth. From connecting with the earth to tending to your own patch of greenery, you\u2019ll walk away with practical skills and a renewed sense of balance.\ud83c\udf31 What You\u2019ll Experience:A calming, outdoor space perfect for learning and relaxation.Step-by-step guidance on gardening essentials, from planting to care.The joy of digging into the soil and reconnecting with nature\u2019s rhythms.Insights into how gardening fosters resilience and mindfulness.Whether you're an experienced gardener or new to the practice, this workshop is tailored for all skill levels. Tools and materials are provided, and activities are adapted to ensure accessibility and comfort for everyone.What to Bring:Comfortable, outdoor-appropriate clothing.A willingness to get your hands dirty and your heart refreshed.Join us for this grounding experience, where you\u2019ll grow more than just a garden\u2014you\u2019ll grow yourself.\ud83c\udf3f Spaces are limited\u2014reserve your spot now!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F44893189F0A4637B107BF99762CACFC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/42872307D7454ECCBF34022D0688F846_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/48C43D8570854C5482D44BD3005225CE_converted_webp.webp"
+    ],
+    "startDate": "2024-12-14T10:30:00+05:30",
+    "endDate": "2024-12-14T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJbU60yXAWrjsR4E9-UejD3_g",
+      "latitude": "12.97159870000000000000",
+      "longitude": "77.59456270000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1750.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zuva Life",
+      "description": "Zuva Life is redefining what it means to thrive across the life continuum. By rethinking purpose and reimagining living, we offer experiences that inspire people to rediscover their passions and build meaningful communities.",
+      "url": "https://urbanaut.app/partner/zuvalife",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/779F6F6E344F4386BCFBCCE7E0E0E57F_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99454-10037"
+      }
+    },
+    "url": "https://urbanaut.app/spot/roots-of-resilience",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]

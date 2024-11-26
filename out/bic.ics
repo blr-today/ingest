@@ -9,7 +9,7 @@ X-WR-CALDESC:Events for Bangalore International Centre
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241126T183000
 DTEND;TZID=Asia/Kolkata:20241126T200000
-DTSTAMP:20241126T020143
+DTSTAMP:20241126T063949
 CREATED:20241115T072535Z
 LAST-MODIFIED:20241115T115349Z
 UID:66710-1732645800-1732651200@bangaloreinternationalcentre.org
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241127T183000
 DTEND;TZID=Asia/Kolkata:20241127T200000
-DTSTAMP:20241126T020143
+DTSTAMP:20241126T063949
 CREATED:20241108T131628Z
 LAST-MODIFIED:20241114T161300Z
 UID:65564-1732732200-1732737600@bangaloreinternationalcentre.org
@@ -37,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241127T190000
 DTEND;TZID=Asia/Kolkata:20241127T201500
-DTSTAMP:20241126T020143
+DTSTAMP:20241126T063949
 CREATED:20241115T053430Z
 LAST-MODIFIED:20241115T053430Z
 UID:66636-1732734000-1732738500@bangaloreinternationalcentre.org
@@ -51,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241128T190000
 DTEND;TZID=Asia/Kolkata:20241128T200000
-DTSTAMP:20241126T020143
+DTSTAMP:20241126T063949
 CREATED:20241115T060306Z
 LAST-MODIFIED:20241125T122827Z
 UID:66645-1732820400-1732824000@bangaloreinternationalcentre.org
@@ -65,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241129T183000
 DTEND;TZID=Asia/Kolkata:20241129T200000
-DTSTAMP:20241126T020143
+DTSTAMP:20241126T063949
 CREATED:20241111T082225Z
 LAST-MODIFIED:20241114T193125Z
 UID:65954-1732905000-1732910400@bangaloreinternationalcentre.org
@@ -77,9 +77,23 @@ CATEGORIES:Health & Wellness,Sports
 ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-654.jpg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241216
+DTSTAMP:20241126T063949
+CREATED:20241126T043524Z
+LAST-MODIFIED:20241126T043524Z
+UID:67214-1732924800-1734307199@bangaloreinternationalcentre.org
+SUMMARY:BIC @ BLR Hubba
+DESCRIPTION:This winter\, experience a 16-day celebration of Bengaluru’s vibrant cultural landscape as BLR Hubba returns from November 30 to December 15\, 2024. The festival transforms the city into a living canvas\, bringing together diverse expressions of performing and visual arts\, literature\, theatre\, science\, music\, technology\, and design. \nTrue to our BIC ELSEWHERE initiative\, this year’s festival extends beyond traditional venues to bring arts and culture directly to the heart of our communities. Through strategic partnerships with venues across Bengaluru\, we’re creating accessible cultural spaces that invite diverse audiences to engage with the arts in their own neighborhoods. \nFrom intimate theatre performances in community spaces to large-scale art installations\, from literary discussions to cutting-edge technology showcases\, BLR Hubba 2024 celebrates the multifaceted spirit of Bengaluru. Join us as we turn the city’s community spaces into vibrant hubs of cultural exchange and creative expression. \nDetails to the events can be found here. \nIn collaboration with: \n \n
+URL:https://bangaloreinternationalcentre.org/event/bic-blr-hubba/
+LOCATION:7\, 4th Main Road\, Domlur II Stage\, Bengaluru\, Karnataka\, 560 071\, India
+CATEGORIES:Bangalore,Culture,Dance,Heritage,Music,Performing Arts,Theatre
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-667.jpg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241130T190000
 DTEND;TZID=Asia/Kolkata:20241130T204500
-DTSTAMP:20241126T020143
+DTSTAMP:20241126T063949
 CREATED:20241113T134100Z
 LAST-MODIFIED:20241125T160559Z
 UID:66471-1732993200-1732999500@bangaloreinternationalcentre.org
@@ -93,7 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241201T173000
 DTEND;TZID=Asia/Kolkata:20241201T210000
-DTSTAMP:20241126T020143
+DTSTAMP:20241126T063949
 CREATED:20241114T085340Z
 LAST-MODIFIED:20241125T142415Z
 UID:66624-1733074200-1733086800@bangaloreinternationalcentre.org
@@ -107,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241207T190000
 DTEND;TZID=Asia/Kolkata:20241207T203000
-DTSTAMP:20241126T020143
+DTSTAMP:20241126T063949
 CREATED:20241125T122646Z
 LAST-MODIFIED:20241125T122646Z
 UID:67264-1733598000-1733603400@bangaloreinternationalcentre.org
@@ -121,7 +135,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241211T190000
 DTEND;TZID=Asia/Kolkata:20241211T200000
-DTSTAMP:20241126T020143
+DTSTAMP:20241126T063949
 CREATED:20241125T123029Z
 LAST-MODIFIED:20241125T123122Z
 UID:67300-1733943600-1733947200@bangaloreinternationalcentre.org
@@ -135,9 +149,9 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241212T183000
 DTEND;TZID=Asia/Kolkata:20241212T200000
-DTSTAMP:20241126T020143
+DTSTAMP:20241126T063949
 CREATED:20241119T130353Z
-LAST-MODIFIED:20241124T124059Z
+LAST-MODIFIED:20241126T042010Z
 UID:66898-1734028200-1734033600@bangaloreinternationalcentre.org
 SUMMARY:Universal Food Security
 DESCRIPTION:Imagine a world without hunger and malnutrition. What would it take to achieve a genuinely food-secure world—where every person gets to consume the right quantity and quality of food to live a healthy\, active\, and productive life? \nAchieving and sustaining such a future requires transforming how our food is grown\, managed\, distributed\, and consumed. From production to consumption\, our food systems must be more sustainable\, halting environmental degradation\, and even repairing the damage we have previously done. \nGlenn Denning’s Universal Food Security: How to End Hunger While Protecting the Planet presents a bold\, evidence-based\, practical guide to food systems transformation. He bridges the divisive worlds of science\, policy\, and practice. By synthesizing the most relevant literature\, consulting the world’s foremost experts\, and sharing personal insights gained over four decades\, Denning lays out five priority areas for action and investment. \nBut in Universal Food Security\, Denning goes beyond what needs to change. He goes on to tackle the challenges of implementation. Echoing the words of his mentor\, the late Professor MS Swaminathan\, Denning argues that we need the knowhow and the do-how to transform our food systems.  \nUniversal Food Security calls for a new generation of enlightened practitioner-leaders—acting on their own and with others\, through institutions—to achieve a food-secure world. \nImage Captions:\nThumbnail\, Poster and Header: Rice crops in Cambodia\nInstastory: Maize crops in Malawi \nIn collaboration with: \n \n
@@ -145,5 +159,19 @@ URL:https://bangaloreinternationalcentre.org/event/universal-food-security/
 LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
 CATEGORIES:Agriculture,Food,Policy & Regulation,Science,Sustainability
 ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-663.jpg
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20241222T190000
+DTEND;TZID=Asia/Kolkata:20241222T203000
+DTSTAMP:20241126T063949
+CREATED:20241126T061743Z
+LAST-MODIFIED:20241126T061743Z
+UID:67098-1734894000-1734899400@bangaloreinternationalcentre.org
+SUMMARY:Our Eternal Musical Tale
+DESCRIPTION:\nAny musical piece has the power to teleport us to a certain moment or phase from our lifetimes. From being ecstatic to being in despair\, from being confused to being determined\, these musical pieces have the ability to take us through all those moments and phases from our lives instantly. \nThrough this concert\, each person in the audience revisits the countless emotions they once experienced in their lifetimes through the life story of the fictional character named ‘Rachanachar’. The epic journey that this hero went through in his lifetime\, and all the challenges he faced and conquered\, will be revisited through all original instrumental compositions. \nEach instrumental composition takes us through a certain point in the hero’s life journey and his mindset during that phase. The inter-reflective storyline lets us step inside the shoes of Rachanachar\, making us the hero of this eternal musical tale. \nSupported by: \n\n\n
+URL:https://bangaloreinternationalcentre.org/event/our-eternal-musical-tale/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Music,Performing Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-668.jpg
 END:VEVENT
 END:VCALENDAR
