@@ -1061,7 +1061,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 448
+        "inventory": 439
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -1262,7 +1262,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:34:27",
         "availability": "INSTOCK",
-        "inventory": 981
+        "inventory": 979
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -1270,7 +1270,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:04:42",
         "availability": "INSTOCK",
-        "inventory": 1998
+        "inventory": 1996
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -1386,7 +1386,7 @@
         "currency": "INR",
         "validFrom": "2024-11-08 09:07:40",
         "availability": "INSTOCK",
-        "inventory": 11
+        "inventory": 7
       },
       {
         "url": "https://www.zomato.com/events/punchliners-host-to-roast-ft-jeeveshu-ahluwalia-bengaluru-et53057/details",
@@ -1438,7 +1438,7 @@
         "currency": "INR",
         "validFrom": "2024-11-08 16:14:49",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 49
       },
       {
         "url": "https://www.zomato.com/events/red-flags-featuring-vishal-tyagi-bengaluru-et53079/details",
@@ -1683,7 +1683,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:32",
         "availability": "INSTOCK",
-        "inventory": 186
+        "inventory": 183
       },
       {
         "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325/details",
