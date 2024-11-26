@@ -84,7 +84,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 464,
+    "remainingAttendeeCapacity": 461,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -357,7 +357,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 160,
-    "remainingAttendeeCapacity": 158,
+    "remainingAttendeeCapacity": 153,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1161,7 +1161,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 96,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1602,7 +1602,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 98,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2043,7 +2043,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 400,
-    "remainingAttendeeCapacity": 283,
+    "remainingAttendeeCapacity": 274,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2094,8 +2094,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 1,
+    "maximumAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 12,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3918,7 +3918,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 75,
-    "remainingAttendeeCapacity": 75,
+    "remainingAttendeeCapacity": 64,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4079,51 +4079,6 @@
     "keywords": [
       "Food & drink",
       "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "YDI x Oorjaa: Bengaluru Design Meetup",
-    "description": "If you've ever wondered what \"Circular Design\" really means, our next meetup in Bengaluru in collaboration with Oorjaa Design tackles just that.Oorjaa is a lighting design company that works\u00a0towards\u00a0being circular in material and process.\u00a0They strongly believe that circular and regenerative design is the future and that design holds the key to solving the ecological problems the world faces.This event will include a quick session to discuss, question, and critique all things Circularity, bringing out the essence of regenerative design in practice. Post this, you will of course get to ask questions, hang out with fellow designers, and just have a good time. If you've attended our events before, you know what to expect. If you haven't, this is your chance to experience it!This meetup will be held at The Purple Turtles store in Indiranagar, Bangalore and starts at 4PM. Grab your tickets now!We can't wait to have you with us :)",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5FE65FEDEFED4F1FBEA4D4248E75FB3D_converted_webp.webp"
-    ],
-    "startDate": "2024-11-30T16:00:00+05:30",
-    "endDate": "2024-11-30T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "128, 1st Main Rd, Paramahansa Yogananda Rd, Stage 2, Domlur, Bengaluru, Karnataka 560008, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJEWrRhhwUrjsRNz6T6lrRDws",
-      "latitude": "12.96426050000000000000",
-      "longitude": "77.63954199999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 55,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "699.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Young Designers India",
-      "description": null,
-      "url": "https://urbanaut.app/partner/youngdesignersindia",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/47BE4F77160E46F39A9D3BD4049F9AEF_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99692-22120"
-      }
-    },
-    "url": "https://urbanaut.app/spot/ydi-x-oorjaa-bengaluru-design-meetup",
-    "keywords": [
       "URBANAUT"
     ]
   },

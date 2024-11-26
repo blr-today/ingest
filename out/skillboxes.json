@@ -39,6 +39,47 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "DJ Night Bollywood NightOffersCocktails and MocktailsGreat AmbeinceSUPERCLUB SATURDAYCome celebrate your special day with us! Yes, it's  Bol",
+      "endDate": "2024-11-30T01:00:00",
+      "identifier": "com.skillboxes.17206",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0JDVVVMbXI5Q1ZtWXJNS1A1QTJzUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732584540YeijLJHDeQcXanNB.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "MSR Building, FLO, #3, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9743377",
+            "longitude": "77.6068167"
+         },
+         "name": "FLO Church Street"
+      },
+      "name": "SUPERCLUB SATURDAY",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Boys",
+            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-16"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Girls",
+            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-16"
+         }
+      ],
+      "startDate": "2024-11-26T07:00:00",
+      "url": "https://www.skillboxes.com/events/superclub-saturday-16"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "ಇದು ಹಾಸ್ಯದ ಹೊಸ ಅಧ್ಯಾಯ!Relatable Comedy Mee",
       "endDate": "2024-12-08T16:30:00",
