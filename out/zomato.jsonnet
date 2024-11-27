@@ -31,7 +31,7 @@
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 46
+        "inventory": 44
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -146,7 +146,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 1043
+        "inventory": 1009
       },
       {
         "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
@@ -154,7 +154,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 515
+        "inventory": 474
       },
       {
         "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
@@ -162,7 +162,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 193
+        "inventory": 188
       }
     ],
     "performers": [
@@ -272,15 +272,15 @@
         "currency": "INR",
         "validFrom": "2024-10-21 11:44:55",
         "availability": "SELLING_FAST",
-        "inventory": 11
+        "inventory": 6
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
         "price": 1999,
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:47",
-        "availability": "INSTOCK",
-        "inventory": 16
+        "availability": "SELLING_FAST",
+        "inventory": 14
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -312,7 +312,7 @@
         "currency": "INR",
         "validFrom": "2024-10-17 13:46:27",
         "availability": "INSTOCK",
-        "inventory": 40
+        "inventory": 39
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -437,8 +437,8 @@
         "price": 5000,
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
-        "availability": "INSTOCK",
-        "inventory": 606
+        "availability": "SELLING_FAST",
+        "inventory": 562
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -446,7 +446,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "SELLING_FAST",
-        "inventory": 19
+        "inventory": 6
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -454,7 +454,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "SELLING_FAST",
-        "inventory": 76
+        "inventory": 60
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -751,7 +751,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 214
+        "inventory": 198
       },
       {
         "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
@@ -759,7 +759,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 177
       }
     ],
     "performers": [],
@@ -823,50 +823,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.14365198,
         "longitude": 77.58441173
-      }
-    }
-  },
-  {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-11-27T20:30:00+05:30",
-    "endDate": "2024-11-27T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/692d0659cac0cee0fcc67949bdb637481730465337.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52868/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:35",
-        "availability": "INSTOCK",
-        "inventory": 71
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52868",
-    "id": "com.zomato.52868",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
       }
     }
   },
@@ -1023,7 +979,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 22:59:40",
         "availability": "INSTOCK",
-        "inventory": 186
+        "inventory": 181
       }
     ],
     "performers": [],
@@ -1087,50 +1043,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.98717896,
         "longitude": 77.7364802
-      }
-    }
-  },
-  {
-    "name": "Ladies Wednesday Night",
-    "description": "To all the ladies out there, enjoy a 1+1 on all craft beers & cocktails every Wednesday night! Listen to popular Commercial & Hip Hop Sets played by DJ Malik, Fun night guaranteed !",
-    "startDate": "2024-11-27T20:00:00+05:30",
-    "endDate": "2024-11-27T23:59:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Ladies Wednesday Night Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Ladies Wednesday Night Bengaluru on Zomato which is a Music and Trending event happening at 8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/8127dcf14815f0942963f02132f0f34f1730722412.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52998/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-04 17:48:34",
-        "availability": "SELLING_FAST",
-        "inventory": 12
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/ladies-wednesday-night-bengaluru-et52998",
-    "id": "com.zomato.52998",
-    "location": {
-      "name": "XOOX Brewmill",
-      "address": "8, 20th Main Road Koramanagala Industrial Layout, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93656731,
-        "longitude": 77.61521573
       }
     }
   },
