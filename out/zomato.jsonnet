@@ -550,6 +550,101 @@
     }
   },
   {
+    "name": "Pet Fed Bengaluru 2024",
+    "description": "The event has been postponed, new dates are coming soon!\n\nBengaluru, brace yourselves because Pet Fed is Back and it's bigger, better, and greener than ever! \ud83c\udf89 #PetFedIndiaisBack\n\nThis year, we\u2019re not just celebrating our return\u2014we\u2019re celebrating 10 incredible years of Pet Fed! \ud83e\udd73\n\nJoin us at Jayamahal Palace for two days of non-stop love and fun with your fur babies. \ud83d\udc3e\n\nHere\u2019s what we\u2019ve got lined up for you:\n\n- 3 Acres of Festival Bliss\n- Expert-Led Master Classes\n- Exciting Dog & Cat Play Zones\n- International Cat Show\n- Fashion Show\n- Police Dog Show\n- Agility Ring\n- Adoption Camps\n- Tons of Games\n- 100+ Global Pet Stalls\n- Food, Drinks & Unmatched Fun\n\nCome with or without your pet\u2014but don\u2019t miss out on the decade celebration! \ud83c\udf82\n\n#PetFedBengaluru2024",
+    "startDate": "2024-12-07T11:00:00+05:30",
+    "endDate": "2024-12-08T21:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Pet Fed Bengaluru 2024 Best seller, Experiences and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Pet Fed Bengaluru 2024 Bengaluru on Zomato which is a Best seller, Experiences and Trending event happening at Venue to be announced",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/d4bca5327c0bbdfb1b68a30834ee31b91732709602.png",
+      "https://b.zmtcdn.com/data/zomaland/2c93c8638d243698aaac4f30920bccca1726904190.png",
+      "https://b.zmtcdn.com/data/zomaland/56d92881a5cf5fb729974ff169050eae1726904202.png",
+      "https://b.zmtcdn.com/data/zomaland/76c599fca915a2684333a9e25b5c4ddb1726904215.png",
+      "https://b.zmtcdn.com/data/zomaland/d68d3408955360070b98883830aac06e1726904215.png",
+      "https://b.zmtcdn.com/data/zomaland/c85d797ce1b33bb700d06c5fcab2c1bf1726904215.png",
+      "https://b.zmtcdn.com/data/zomaland/d6af22155de2dba4e295684d50fb1fc71726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/f6b5fad67109245924a4636947a001231726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/87df7d5ceaee173d475b25bb5f85c2901726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/9b384eb326f86452d51ecfb040b2b3301726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/d3e8293c8923240f227d18aba712a33a1726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/da5a055db5cdaa85008de1660ae7fda51726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/be643f6da8789074dde93a1a4b8f4b171726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/80cfaacbee45e45c920c270cfc805f721726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/4dc820ddc956d056081b2bbf730882e81726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/da0caa12866568e3ebb98d6b7976f8321726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/01155049c92bf52087a1c75a5380cb381726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/a8e27b615a482f32390b6bf4356df2911726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/9bc847764a200b5a1457d004b2b138611726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/1d60ef570e85d3dd1e82b44ffb238bfb1726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/78dbc436bbeac06a7ee2726381b461111726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/9e1b511a36e075f5137f70a21a58d0bf1726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/c59d4f1dff532777a0b8196ebca3d8bd1726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/5187223b2975b38afa3c31528518d3ce1726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/14a8726b9afedc6ee49934c6180612821726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/0e4bffa543fd232ddef4f9655eb21eba1726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/6e6eb20c369fcba4f0b9a3550273f1911726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/9e7816dd6bac6eae5ac4ba987ced24021726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/4e80382d69b57e19490c9197e8b12a3f1726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/3f98a702381179ef42005423c194ee731726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/49d9e09b6076eb91559732c2072399551726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/8fb178eab8dea37814917a24e97d88c91726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/ef78397abefe98377cdcf23e280702021726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/aa8b3c1b41c1394bcb32ff809f07e5031726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/daf7b5171dca6563bbe5b2fa046fbbbd1726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/0b6043775a66b0eaa89015156f51adcb1726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/3e8f56def7983fccfc01451e37173eb41726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/473f010797bc4299376f320d47df69bc1726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/f7cc41da573805a9fb78065d3882b5c21726904801.jpeg",
+      "https://b.zmtcdn.com/data/zomaland/7c95067192779513ff82ffe3346653bf1726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/d8dd53fc5814f22ccb8d5da7a80349f71726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/ba9f5776d4efff6b38006eba9c67e4071726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/6f491a85f73cc801ac632b873443aeb71726904801.png",
+      "https://b.zmtcdn.com/data/zomaland/63ca1d3b748fa7af3df2ca70caad0fde1732709675.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-11-27 17:41:32",
+        "availability": "INSTOCK",
+        "inventory": 1000
+      },
+      {
+        "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
+        "price": 1999,
+        "currency": "INR",
+        "validFrom": "2024-11-27 17:41:33",
+        "availability": "INSTOCK",
+        "inventory": 1000
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736",
+    "id": "com.zomato.51736",
+    "location": {
+      "name": "Bengaluru",
+      "address": "Venue to be announced",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.99784934,
+        "longitude": 77.59742123
+      }
+    }
+  },
+  {
     "name": "Fabric Paintig",
     "description": "Join our Fabric Painting Workshop! We\u2019ll supply all the art materials, a tasty meal, and a chance to meet new friends. Bring your own fabric, preferably denim or any thick cloth, and our artists will guide you in creating your unique design. It\u2019s a fun and relaxed way to spend your afternoon. Head over to Paint The Town Art Cafe for a creative day filled with art, food, and friendly conversations. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83d\udc56",
     "startDate": "2024-11-30T16:00:00+05:30",
@@ -1270,7 +1365,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:04:42",
         "availability": "INSTOCK",
-        "inventory": 1996
+        "inventory": 1994
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -1491,7 +1586,7 @@
         "currency": "INR",
         "validFrom": "2024-11-24 18:08:32",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 18
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -1499,7 +1594,7 @@
         "currency": "INR",
         "validFrom": "2024-11-24 18:08:32",
         "availability": "INSTOCK",
-        "inventory": 17
+        "inventory": 16
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -1507,7 +1602,7 @@
         "currency": "INR",
         "validFrom": "2024-11-24 18:08:00",
         "availability": "INSTOCK",
-        "inventory": 18
+        "inventory": 17
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -1623,7 +1718,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:31",
         "availability": "INSTOCK",
-        "inventory": 94
+        "inventory": 90
       },
       {
         "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
@@ -1631,7 +1726,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:31",
         "availability": "INSTOCK",
-        "inventory": 48
+        "inventory": 47
       },
       {
         "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
@@ -1719,6 +1814,58 @@
         "@type": "GeoCoordinates",
         "latitude": 12.9923061,
         "longitude": 77.58201
+      }
+    }
+  },
+  {
+    "name": "Soul Jams | MG Road",
+    "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. To book your slot, reach out to @souljams_live on Instagram.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
+    "startDate": "2024-11-30T16:30:00+05:30",
+    "endDate": "2024-11-30T20:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Soul Jams | MG Road Music, Experiences and Best seller event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Soul Jams | MG Road Bengaluru on Zomato which is a Music, Experiences and Best seller event happening at No. 67/1, Brigade Solitare, Residency Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/4770e22ccd91c94aa72945a77325a2c91732282536.png",
+      "https://b.zmtcdn.com/data/zomaland/aa76dacfdf2b21d5f02a6c84d005693d1732692716.png"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/soul-jams-mg-road-bengaluru-et53337/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-11-22 12:12:00",
+        "availability": "SELLING_FAST",
+        "inventory": 54
+      }
+    ],
+    "performers": [
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/2ed350ec42395212cedd6b26db23ef671732257973.png",
+        "name": "Soul Jams",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/2ed350ec42395212cedd6b26db23ef671732257973.png"
+      }
+    ],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/soul-jams-mg-road-bengaluru-et53337",
+    "id": "com.zomato.53337",
+    "location": {
+      "name": "We:Neighborhood",
+      "address": "No. 67/1, Brigade Solitare, Residency Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.97309392,
+        "longitude": 77.60821118
       }
     }
   },
