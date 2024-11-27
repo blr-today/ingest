@@ -1,19 +1,5 @@
 [
   {
-    "id": "0011bc34-4ba5-4530-9648-de7f26ea74e2",
-    "image": "https://cdn.sanity.io/images/x2qnegor/production/a539d01ebdc5ff8ddfd58b3566f7b0599d9c8b57-600x900.jpg",
-    "location": {
-      "name": "Underline Center",
-      "url": "https://maps.app.goo.gl/orRqJsJXN7h2pP6N9"
-    },
-    "link": "https://insider.in/event/mani-kaul-retrospective-dhrupad-1983-by-the-parallel-cinema-club-nov26-2024/buy-page",
-    "date": "2024-11-26T14:15:00.000Z",
-    "theme": "Director Retrospective - Mani Kaul",
-    "city": "Bangalore",
-    "title": "Dhrupad",
-    "director": "Mani Kaul"
-  },
-  {
     "id": "0243cc2a-bc59-489f-98a5-23b5afeae5bb",
     "image": "https://cdn.sanity.io/images/x2qnegor/production/515003ef307692ef972e29e7eff9f40287329544-600x900.jpg",
     "location": {
