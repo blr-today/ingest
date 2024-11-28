@@ -512,7 +512,7 @@
   },
   {
     "name": "Pet Fed Bengaluru 2024",
-    "description": "The event has been postponed, new dates are coming soon!\n\nBengaluru, brace yourselves because Pet Fed is Back and it's bigger, better, and greener than ever! \ud83c\udf89 #PetFedIndiaisBack\n\nThis year, we\u2019re not just celebrating our return\u2014we\u2019re celebrating 10 incredible years of Pet Fed! \ud83e\udd73\n\nJoin us at Jayamahal Palace for two days of non-stop love and fun with your fur babies. \ud83d\udc3e\n\nHere\u2019s what we\u2019ve got lined up for you:\n\n- 3 Acres of Festival Bliss\n- Expert-Led Master Classes\n- Exciting Dog & Cat Play Zones\n- International Cat Show\n- Fashion Show\n- Police Dog Show\n- Agility Ring\n- Adoption Camps\n- Tons of Games\n- 100+ Global Pet Stalls\n- Food, Drinks & Unmatched Fun\n\nCome with or without your pet\u2014but don\u2019t miss out on the decade celebration! \ud83c\udf82\n\n#PetFedBengaluru2024",
+    "description": "NOW HAPPENING ON 7th & 8th December 2024 at Jayamahal Palace Grounds!\n\nPet Fed is Back and it's bigger, better, and greener than ever! \ud83c\udf89 #PetFedIndiaisBack\n\nThis year, we\u2019re not just celebrating our return\u2014we\u2019re celebrating 10 incredible years of Pet Fed! \ud83e\udd73\n\nJoin us at Jayamahal Palace on 7th & 8th December 2024 from 11am to 9pm at Jayamahal Palace Grounds for two days of non-stop love and fun with your fur babies. \ud83d\udc3e\n\nHere\u2019s what we\u2019ve got lined up for you:\n\n- 3 Acres of Festival Bliss\n- Expert-Led Master Classes\n- Exciting Dog & Cat Play Zones\n- International Cat Show\n- Fashion Show\n- Security Dog Show\n- Agility Ring\n- Adoption Camps\n- Tons of Games\n- 100+ Global Pet Stalls\n- Food, Drinks & Unmatched Fun\n\nCome with or without your pet\u2014but don\u2019t miss out on the decade celebration! \ud83c\udf82\n\n#PetFedBengaluru2024",
     "startDate": "2024-12-07T11:00:00+05:30",
     "endDate": "2024-12-08T21:00:00+05:30",
     "timezone": "+05:30",
@@ -520,7 +520,7 @@
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
     "ogTitle": "Pet Fed Bengaluru 2024 Best seller, Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Pet Fed Bengaluru 2024 Bengaluru on Zomato which is a Best seller, Experiences and Trending event happening at Venue to be announced",
+    "ogDesc": "Book online tickets for Pet Fed Bengaluru 2024 Bengaluru on Zomato which is a Best seller, Experiences and Trending event happening at 1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/d4bca5327c0bbdfb1b68a30834ee31b91732709602.png",
       "https://b.zmtcdn.com/data/zomaland/2c93c8638d243698aaac4f30920bccca1726904190.png",
@@ -574,7 +574,7 @@
         "currency": "INR",
         "validFrom": "2024-11-27 17:41:32",
         "availability": "INSTOCK",
-        "inventory": 1000
+        "inventory": 950
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -582,7 +582,7 @@
         "currency": "INR",
         "validFrom": "2024-11-27 17:41:33",
         "availability": "INSTOCK",
-        "inventory": 1000
+        "inventory": 994
       }
     ],
     "performers": [],
@@ -596,12 +596,12 @@
     "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736",
     "id": "com.zomato.51736",
     "location": {
-      "name": "Bengaluru",
-      "address": "Venue to be announced",
+      "name": "Jayamahal Palace Hotel",
+      "address": "1, Jayamahal Main Rd, near Cantonment Railway Station Road, Nandi Durga Road Extension, Jayamahal, Bengaluru",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 12.99784934,
-        "longitude": 77.59742123
+        "latitude": 12.997141759493,
+        "longitude": 77.597309564957
       }
     }
   },
@@ -788,50 +788,6 @@
     }
   },
   {
-    "name": "Wild Things",
-    "description": "Catch Wild Things performing live your favourite tracks at Hard Rock Cafe, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-11-28T20:30:00+05:30",
-    "endDate": "2024-11-28T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Wild Things Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Wild Things Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/87ce7750bfc61adb729ea67be07e83911730465387.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/wild-things-bengaluru-et52869/details",
-        "price": 749,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:36",
-        "availability": "INSTOCK",
-        "inventory": 20
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/wild-things-bengaluru-et52869",
-    "id": "com.zomato.52869",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
     "name": "Bootleg Fridays",
     "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Rohith and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
     "startDate": "2024-11-29T20:30:00+05:30",
@@ -916,50 +872,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.97595324,
         "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Karaoke Nights",
-    "description": "Have you ever let your inner bathroom singer play for the rest of the world?\nIf not, our Karaoke Nights are the perfect opportunity to let loose and sing like no one is watching with a group of people who care about your passion of singing and want to share it with you.\nBring your friends and family to Hard Rock Cafe, Whitefield, Bengaluru for an unforgettable Karaoke night.",
-    "startDate": "2024-11-28T20:30:00+05:30",
-    "endDate": "2024-11-28T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "Karaoke Nights Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Nights Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4ab8c62d08a698ae777b6c59e483e1601730481817.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52886/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-01 22:59:40",
-        "availability": "INSTOCK",
-        "inventory": 180
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52886",
-    "id": "com.zomato.52886",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
       }
     }
   },
@@ -1057,50 +969,6 @@
         "@type": "GeoCoordinates",
         "latitude": 15.594919225551,
         "longitude": 73.736698683197
-      }
-    }
-  },
-  {
-    "name": "Karaoke Night",
-    "description": "Join us for an unforgettable evening of singing and fun at Escape Brewery's Karaoke Night, featuring the charismatic KJ Abhishek. Whether you're a shower singer or a seasoned vocalist, this is your chance to take the stage and belt out your favorite tunes in a vibrant, welcoming atmosphere",
-    "startDate": "2024-11-28T20:00:00+05:30",
-    "endDate": "2024-11-28T23:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Karaoke Night Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Karaoke Night Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3395bf7781c929cbf2e25a77fd8e554c1730964265.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/karaoke-night-bengaluru-et53043/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-11-07 13:25:40",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/karaoke-night-bengaluru-et53043",
-    "id": "com.zomato.53043",
-    "location": {
-      "name": "Escape by Brewklyn",
-      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.04059157,
-        "longitude": 77.61912205
       }
     }
   },
