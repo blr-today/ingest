@@ -2,7 +2,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get ready to experience the International rock legend's live concert as part of his 6 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the ‘So Happy It Hurts’ World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.\n\nOfficial offline partner - Team Innovation and Live Fiesta\nFor offline ticket inquiries, please reach out to these numbers: 9619272551, 9619272554, 9892555107, or 9004743800",
+      "description": "Get ready to experience the International rock legend's live concert as part of his 7 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the ‘So Happy It Hurts’ World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.\n\nOfficial offline partner - Team Innovation and Live Fiesta\nFor offline ticket inquiries, please reach out to these numbers: 9619272551, 9619272554, 9892555107, or 9004743800",
       "endDate": "2024-12-14T22:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventStatusScheduled",
@@ -23,82 +23,28 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 44
+               "value": 498
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-28T11:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 200
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-28T11:28:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 48
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-09T05:00:00+05:30"
-         },
-         {
-            "availability": "Sold Out",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-07T11:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 69
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-07T11:00:00+05:30"
-         },
-         {
-            "availability": "Sold Out",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-07T17:00:00+05:30"
-         },
-         {
-            "availability": "Sold Out",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-02T17:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 155
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-07T11:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 233
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-07T17:00:00+05:30"
-         },
-         {
-            "availability": "Sold Out",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-09-18T17:36:00+05:30"
-         },
-         {
-            "availability": "Sold Out",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-08-07T18:00:00+05:30"
          }
       ],
       "organizer": [
@@ -136,7 +82,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1009
+               "value": 980
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T15:00:00+05:30"
@@ -145,7 +91,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 474
+               "value": 451
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T15:00:00+05:30"
@@ -154,7 +100,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 188
+               "value": 186
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-26T15:00:00+05:30"
@@ -206,8 +152,13 @@
       "image": "https://b.zmtcdn.com/data/zomaland/41d832c50e146682ed80f4ee445ff60e1728294913.png",
       "isAccessibleForFree": false,
       "location": {
-         "@type": "Place",
-         "address": "Bangalore"
+         "address": "04, Madavara, NICE grounds, Bengaluru",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 13.057728763198,
+            "longitude": 77.473718719062006
+         },
+         "name": "NICE grounds"
       },
       "name": "Dil-Luminati Tour - India",
       "offers": [
@@ -215,7 +166,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 75
+               "value": 72
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-18T14:56:00+05:30"
@@ -229,7 +180,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 75,
+      "remainingAttendeeCapacity": 72,
       "startDate": "2024-12-06T19:00:00+05:30",
       "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398"
    },
@@ -433,19 +384,10 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 562
+               "value": 530
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T21:18:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 6
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-10-25T13:24:00+05:30"
          },
          {
             "availability": "InStock",
@@ -536,6 +478,15 @@
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-18T18:40:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-10-25T13:24:00+05:30"
          }
       ],
       "organizer": [
@@ -707,7 +658,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 198
+               "value": 195
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-30T22:56:00+05:30"
@@ -716,7 +667,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 177
+               "value": 164
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-30T22:56:00+05:30"
@@ -757,7 +708,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 5
+               "value": 3
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T16:07:00+05:30"
@@ -771,7 +722,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 5,
+      "remainingAttendeeCapacity": 3,
       "startDate": "2024-11-29T19:00:00+05:30",
       "url": "https://www.zomato.com/events/scc-picnic-cinema-ps-i-love-you-bengaluru-et52801"
    },
@@ -925,7 +876,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 181
+               "value": 180
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-01T22:59:00+05:30"
@@ -939,7 +890,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 181,
+      "remainingAttendeeCapacity": 180,
       "startDate": "2024-11-28T20:30:00+05:30",
       "url": "https://www.zomato.com/events/karaoke-nights-bengaluru-et52886"
    },
@@ -1009,7 +960,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 439
+               "value": 436
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-18T12:00:00+05:30"
@@ -1194,7 +1145,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 979
+               "value": 977
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-15T15:34:00+05:30"
@@ -1203,7 +1154,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1994
+               "value": 1992
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-15T15:04:00+05:30"
@@ -1325,7 +1276,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 7
+               "value": 6
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-08T09:07:00+05:30"
@@ -1434,7 +1385,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 16
+               "value": 15
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-24T18:08:00+05:30"
@@ -1565,7 +1516,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 90
+               "value": 87
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-21T19:15:00+05:30"
@@ -1574,7 +1525,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 47
+               "value": 46
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-21T19:15:00+05:30"
@@ -1583,7 +1534,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 50
+               "value": 49
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-21T19:15:00+05:30"
@@ -1624,7 +1575,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 183
+               "value": 180
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-21T19:15:00+05:30"
@@ -1683,7 +1634,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 54
+               "value": 27
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-22T12:12:00+05:30"
@@ -1704,7 +1655,7 @@
             "url": "https://b.zmtcdn.com/data/zomaland/2ed350ec42395212cedd6b26db23ef671732257973.png"
          }
       ],
-      "remainingAttendeeCapacity": 54,
+      "remainingAttendeeCapacity": 27,
       "startDate": "2024-11-30T16:30:00+05:30",
       "url": "https://www.zomato.com/events/soul-jams-mg-road-bengaluru-et53337"
    },

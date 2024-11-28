@@ -1,7 +1,7 @@
 [
   {
     "name": "Bryan Adams - So Happy It Hurts Tour 2024",
-    "description": "Get ready to experience the International rock legend's live concert as part of his 6 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the \u2018So Happy It Hurts\u2019 World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.\n\nOfficial offline partner - Team Innovation and Live Fiesta\nFor offline ticket inquiries, please reach out to these numbers: 9619272551, 9619272554, 9892555107, or 9004743800",
+    "description": "Get ready to experience the International rock legend's live concert as part of his 7 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the \u2018So Happy It Hurts\u2019 World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.\n\nOfficial offline partner - Team Innovation and Live Fiesta\nFor offline ticket inquiries, please reach out to these numbers: 9619272551, 9619272554, 9892555107, or 9004743800",
     "startDate": "2024-12-14T19:00:00+05:30",
     "endDate": "2024-12-14T22:00:00+05:30",
     "timezone": "+05:30",
@@ -27,75 +27,27 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
+        "price": 5999,
+        "currency": "INR",
+        "validFrom": "2024-11-28 11:28:00",
+        "availability": "INSTOCK",
+        "inventory": 498
+      },
+      {
+        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
+        "price": 9999,
+        "currency": "INR",
+        "validFrom": "2024-11-28 11:28:00",
+        "availability": "INSTOCK",
+        "inventory": 200
+      },
+      {
+        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
         "price": 24999,
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
         "availability": "SELLING_FAST",
-        "inventory": 44
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 2999,
-        "currency": "INR",
-        "validFrom": "2024-08-07 11:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 3999,
-        "currency": "INR",
-        "validFrom": "2024-08-07 11:00:00",
-        "availability": "INSTOCK",
-        "inventory": 69
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 5299,
-        "currency": "INR",
-        "validFrom": "2024-08-07 17:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 6999,
-        "currency": "INR",
-        "validFrom": "2024-09-02 17:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 7499,
-        "currency": "INR",
-        "validFrom": "2024-08-07 11:00:00",
-        "availability": "INSTOCK",
-        "inventory": 155
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 9499,
-        "currency": "INR",
-        "validFrom": "2024-08-07 17:00:00",
-        "availability": "INSTOCK",
-        "inventory": 233
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 14999,
-        "currency": "INR",
-        "validFrom": "2024-09-18 17:36:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 19999,
-        "currency": "INR",
-        "validFrom": "2024-08-07 18:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
+        "inventory": 48
       }
     ],
     "performers": [],
@@ -146,7 +98,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 1009
+        "inventory": 980
       },
       {
         "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
@@ -154,7 +106,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 474
+        "inventory": 451
       },
       {
         "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
@@ -162,7 +114,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 188
+        "inventory": 186
       }
     ],
     "performers": [
@@ -220,7 +172,7 @@
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
     "ogTitle": "Dil-Luminati Tour - India Trending and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Dil-Luminati Tour - India Bengaluru on Zomato which is a Trending and Music event happening at Venue to be announced",
+    "ogDesc": "Book online tickets for Dil-Luminati Tour - India Bengaluru on Zomato which is a Trending and Music event happening at 04, Madavara, NICE grounds, Bengaluru",
     "images": [
       "https://b.zmtcdn.com/data/zomaland/41d832c50e146682ed80f4ee445ff60e1728294913.png",
       "https://b.zmtcdn.com/data/zomaland/1972f38023c561f25b5c96e0b99cad471725427265.png",
@@ -236,7 +188,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 14:56:00",
         "availability": "INSTOCK",
-        "inventory": 75
+        "inventory": 72
       }
     ],
     "performers": [],
@@ -248,7 +200,16 @@
       }
     ],
     "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398",
-    "id": "com.zomato.50398"
+    "id": "com.zomato.50398",
+    "location": {
+      "name": "NICE grounds",
+      "address": "04, Madavara, NICE grounds, Bengaluru",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.057728763198,
+        "longitude": 77.473718719062
+      }
+    }
   },
   {
     "name": "Shankar Ehsaan Loy Live",
@@ -438,15 +399,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "SELLING_FAST",
-        "inventory": 562
-      },
-      {
-        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
-        "price": 10000,
-        "currency": "INR",
-        "validFrom": "2024-10-25 13:24:00",
-        "availability": "SELLING_FAST",
-        "inventory": 6
+        "inventory": 530
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -527,6 +480,14 @@
         "validFrom": "2024-10-18 18:40:00",
         "availability": "INSTOCK",
         "inventory": 907
+      },
+      {
+        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
+        "price": 10000,
+        "currency": "INR",
+        "validFrom": "2024-10-25 13:24:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [],
@@ -751,7 +712,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 198
+        "inventory": 195
       },
       {
         "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
@@ -759,7 +720,7 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 177
+        "inventory": 164
       }
     ],
     "performers": [],
@@ -802,8 +763,8 @@
         "price": 600,
         "currency": "INR",
         "validFrom": "2024-11-01 16:07:02",
-        "availability": "INSTOCK",
-        "inventory": 5
+        "availability": "SELLING_FAST",
+        "inventory": 3
       }
     ],
     "performers": [],
@@ -979,7 +940,7 @@
         "currency": "INR",
         "validFrom": "2024-11-01 22:59:40",
         "availability": "INSTOCK",
-        "inventory": 181
+        "inventory": 180
       }
     ],
     "performers": [],
@@ -1068,7 +1029,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 439
+        "inventory": 436
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -1269,7 +1230,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:34:27",
         "availability": "INSTOCK",
-        "inventory": 979
+        "inventory": 977
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -1277,7 +1238,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:04:42",
         "availability": "INSTOCK",
-        "inventory": 1994
+        "inventory": 1992
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -1393,7 +1354,7 @@
         "currency": "INR",
         "validFrom": "2024-11-08 09:07:40",
         "availability": "INSTOCK",
-        "inventory": 7
+        "inventory": 6
       },
       {
         "url": "https://www.zomato.com/events/punchliners-host-to-roast-ft-jeeveshu-ahluwalia-bengaluru-et53057/details",
@@ -1506,7 +1467,7 @@
         "currency": "INR",
         "validFrom": "2024-11-24 18:08:32",
         "availability": "INSTOCK",
-        "inventory": 16
+        "inventory": 15
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -1630,7 +1591,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:31",
         "availability": "INSTOCK",
-        "inventory": 90
+        "inventory": 87
       },
       {
         "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
@@ -1638,7 +1599,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:31",
         "availability": "INSTOCK",
-        "inventory": 47
+        "inventory": 46
       },
       {
         "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
@@ -1646,7 +1607,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:32",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 49
       }
     ],
     "performers": [],
@@ -1690,7 +1651,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:32",
         "availability": "INSTOCK",
-        "inventory": 183
+        "inventory": 180
       },
       {
         "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325/details",
@@ -1751,7 +1712,7 @@
         "currency": "INR",
         "validFrom": "2024-11-22 12:12:00",
         "availability": "SELLING_FAST",
-        "inventory": 54
+        "inventory": 27
       }
     ],
     "performers": [

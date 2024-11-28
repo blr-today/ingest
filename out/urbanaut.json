@@ -84,7 +84,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 427,
+    "remainingAttendeeCapacity": 422,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -143,7 +143,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 79,
+    "remainingAttendeeCapacity": 77,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -571,7 +571,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 132,
+    "remainingAttendeeCapacity": 129,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2043,7 +2043,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 400,
-    "remainingAttendeeCapacity": 219,
+    "remainingAttendeeCapacity": 211,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2099,7 +2099,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2357,7 +2357,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 46,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -2408,7 +2408,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 46,
+    "remainingAttendeeCapacity": 44,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3798,7 +3798,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 75,
-    "remainingAttendeeCapacity": 67,
+    "remainingAttendeeCapacity": 61,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3867,7 +3867,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 75,
-    "remainingAttendeeCapacity": 55,
+    "remainingAttendeeCapacity": 47,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4005,7 +4005,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 75,
-    "remainingAttendeeCapacity": 68,
+    "remainingAttendeeCapacity": 66,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4028,6 +4028,52 @@
     "keywords": [
       "Food & drink",
       "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Magic: The Gathering with ReRoll Board Games",
+    "description": "After many years of talking about this, we\u2019re finally starting a\u00a0Magic: The Gathering\u00a0meetup. If you are curious about this massively popular card game, or are already a player looking to find others to play with in-person, this is for you!For people who\u2019ve never played before:This is designed for new players to explore the game. We\u2019ll teach you the rules, and will pair up new players with each other. We\u2019ll be playing the with 40-card decks, using the Jumpstart 2022 set - which is a great way to learn the game without too much time on deck building.For experienced playersWe have a few premade standard (60 card) decks to play, as well a few commander decks.This is a light, friendly environment for players to explore the game and meet the community - it is not a competitive event. Be helpful, and expect people to make mistakes.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EABDE862FEAD4EB3A8E2F9162DE5E462_converted_webp.webp"
+    ],
+    "startDate": "2024-11-29T19:00:00+05:30",
+    "endDate": "2024-11-29T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "24, 1st Main, 3rd Cross Road, 3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96725760000000000000",
+      "longitude": "77.63667939999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "We're a community center for thoughtful, kind, and interesting events.",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/magic-the-gathering-with-reroll-board-games",
+    "keywords": [
+      "Leisure",
       "URBANAUT"
     ]
   },
@@ -4275,8 +4321,8 @@
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5E2E9E51626F40D595E744285C3C1C3E_converted_webp.webp"
     ],
-    "startDate": "2024-12-22T19:30:00+05:30",
-    "endDate": "2024-12-22T21:30:00+05:30",
+    "startDate": "2024-12-15T19:30:00+05:30",
+    "endDate": "2024-12-15T21:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -4307,7 +4353,7 @@
         "telephone": "+91-63635-56436"
       }
     },
-    "url": "https://urbanaut.app/spot/dialogues-poetry-open-mic#2024-12-22T1930",
+    "url": "https://urbanaut.app/spot/dialogues-poetry-open-mic#2024-12-15T1930",
     "keywords": [
       "Active",
       "Art & culture",
@@ -4540,7 +4586,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 24,
-    "remainingAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4593,7 +4639,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 12,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4747,7 +4793,7 @@
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
-      "price": "2999.00",
+      "price": "2499.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -4932,7 +4978,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Beyond Winning Saturdays - Board Games Meetup",
-    "description": "\ud83c\udf1f Dive into an evening of board games, fun, and new friendships at Beyond Winning Saturdays, hosted at the cozy Dialogues Cafe. Unwind, connect, and rediscover joy in a space where every move counts!Why We\u2019re Different:- Beyond the Basics: Unlike others, we focus on creating a warm, inclusive atmosphere where everyone feels at home.- Guided Gaming: Our friendly admins ensure you enjoy every game, whether you\u2019re a first-timer or a pro.- Redeemable Entry: Your \u20b9300 ticket includes \u20b9100 cover for delicious food & drinks from our fresh, community-focused menu.- Stay as You Like: Access games anytime between 4 PM and 10 PM \u2014 come early or drop in later!- Personal Touch: Play with our curated selection or bring your own favorite games to share and bond over.\ud83c\udf9f Ticket: \u20b9299 (\u20b9100 redeemable for food & drinks)\ud83d\udcc5 Every Saturday | 4 PM - 10 PMWhether you're strategizing to win or just enjoying the moment, this is your Saturday night well spent. Bring your game face and a smile \u2014 let\u2019s play!",
+    "description": "\ud83c\udf1f Dive into an evening of board games, fun, and new friendships at Beyond Winning Saturdays, hosted at the cozy Dialogues Cafe. Unwind, connect, and rediscover joy in a space where every move counts!Why We\u2019re Different:- Beyond the Basics: Unlike others, we focus on creating a warm, inclusive atmosphere where everyone feels at home.- Guided Gaming: Our friendly admins ensure you enjoy every game, whether you\u2019re a first-timer or a pro.- Redeemable Entry: Your \u20b9299 ticket includes \u20b9100 cover for delicious food & drinks from our fresh, community-focused menu.- Stay as You Like: Access games anytime between 4 PM and 10 PM \u2014 come early or drop in later!- Personal Touch: Play with our curated selection or bring your own favorite games to share and bond over.\ud83c\udf9f Ticket: \u20b9299 (\u20b9100 redeemable for food & drinks)\ud83d\udcc5 Every Saturday | 4 PM - 10 PMWhether you're strategizing to win or just enjoying the moment, this is your Saturday night well spent. Bring your game face and a smile \u2014 let\u2019s play!",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EA350CBA26C34ED6972962A796F81642_converted_webp.webp"
     ],
@@ -4979,7 +5025,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Beyond Winning Saturdays - Board Games Meetup",
-    "description": "\ud83c\udf1f Dive into an evening of board games, fun, and new friendships at Beyond Winning Saturdays, hosted at the cozy Dialogues Cafe. Unwind, connect, and rediscover joy in a space where every move counts!Why We\u2019re Different:- Beyond the Basics: Unlike others, we focus on creating a warm, inclusive atmosphere where everyone feels at home.- Guided Gaming: Our friendly admins ensure you enjoy every game, whether you\u2019re a first-timer or a pro.- Redeemable Entry: Your \u20b9300 ticket includes \u20b9100 cover for delicious food & drinks from our fresh, community-focused menu.- Stay as You Like: Access games anytime between 4 PM and 10 PM \u2014 come early or drop in later!- Personal Touch: Play with our curated selection or bring your own favorite games to share and bond over.\ud83c\udf9f Ticket: \u20b9299 (\u20b9100 redeemable for food & drinks)\ud83d\udcc5 Every Saturday | 4 PM - 10 PMWhether you're strategizing to win or just enjoying the moment, this is your Saturday night well spent. Bring your game face and a smile \u2014 let\u2019s play!",
+    "description": "\ud83c\udf1f Dive into an evening of board games, fun, and new friendships at Beyond Winning Saturdays, hosted at the cozy Dialogues Cafe. Unwind, connect, and rediscover joy in a space where every move counts!Why We\u2019re Different:- Beyond the Basics: Unlike others, we focus on creating a warm, inclusive atmosphere where everyone feels at home.- Guided Gaming: Our friendly admins ensure you enjoy every game, whether you\u2019re a first-timer or a pro.- Redeemable Entry: Your \u20b9299 ticket includes \u20b9100 cover for delicious food & drinks from our fresh, community-focused menu.- Stay as You Like: Access games anytime between 4 PM and 10 PM \u2014 come early or drop in later!- Personal Touch: Play with our curated selection or bring your own favorite games to share and bond over.\ud83c\udf9f Ticket: \u20b9299 (\u20b9100 redeemable for food & drinks)\ud83d\udcc5 Every Saturday | 4 PM - 10 PMWhether you're strategizing to win or just enjoying the moment, this is your Saturday night well spent. Bring your game face and a smile \u2014 let\u2019s play!",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EA350CBA26C34ED6972962A796F81642_converted_webp.webp"
     ],
@@ -5026,7 +5072,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "Beyond Winning Saturdays - Board Games Meetup",
-    "description": "\ud83c\udf1f Dive into an evening of board games, fun, and new friendships at Beyond Winning Saturdays, hosted at the cozy Dialogues Cafe. Unwind, connect, and rediscover joy in a space where every move counts!Why We\u2019re Different:- Beyond the Basics: Unlike others, we focus on creating a warm, inclusive atmosphere where everyone feels at home.- Guided Gaming: Our friendly admins ensure you enjoy every game, whether you\u2019re a first-timer or a pro.- Redeemable Entry: Your \u20b9300 ticket includes \u20b9100 cover for delicious food & drinks from our fresh, community-focused menu.- Stay as You Like: Access games anytime between 4 PM and 10 PM \u2014 come early or drop in later!- Personal Touch: Play with our curated selection or bring your own favorite games to share and bond over.\ud83c\udf9f Ticket: \u20b9299 (\u20b9100 redeemable for food & drinks)\ud83d\udcc5 Every Saturday | 4 PM - 10 PMWhether you're strategizing to win or just enjoying the moment, this is your Saturday night well spent. Bring your game face and a smile \u2014 let\u2019s play!",
+    "description": "\ud83c\udf1f Dive into an evening of board games, fun, and new friendships at Beyond Winning Saturdays, hosted at the cozy Dialogues Cafe. Unwind, connect, and rediscover joy in a space where every move counts!Why We\u2019re Different:- Beyond the Basics: Unlike others, we focus on creating a warm, inclusive atmosphere where everyone feels at home.- Guided Gaming: Our friendly admins ensure you enjoy every game, whether you\u2019re a first-timer or a pro.- Redeemable Entry: Your \u20b9299 ticket includes \u20b9100 cover for delicious food & drinks from our fresh, community-focused menu.- Stay as You Like: Access games anytime between 4 PM and 10 PM \u2014 come early or drop in later!- Personal Touch: Play with our curated selection or bring your own favorite games to share and bond over.\ud83c\udf9f Ticket: \u20b9299 (\u20b9100 redeemable for food & drinks)\ud83d\udcc5 Every Saturday | 4 PM - 10 PMWhether you're strategizing to win or just enjoying the moment, this is your Saturday night well spent. Bring your game face and a smile \u2014 let\u2019s play!",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EA350CBA26C34ED6972962A796F81642_converted_webp.webp"
     ],
@@ -5162,6 +5208,365 @@
     "keywords": [
       "Food & drink",
       "Premium",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Crochet Workshop",
+    "description": "Unlock your creativity with our beginner-friendly crochet workshop! Learn the essential techniques to craft beautiful, handmade accessories. Perfect for anyone looking to pick up a relaxing and rewarding skill.What You\u2019ll Learn:\u2022 Basics of using\u00a0crochet tools and techniques.\u2022 Key stitches like chain, single, and double crochet.\u2022 Crafting and finishing your own accessory.Terms & Conditions\u2022 Limited seats; register in advance.\u2022 No refunds for last-minute cancellations.What will be Provided:1 Crochet DIY kit.Crochet kit contains.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02 x 30g yarn balls1 x 4.0mm crochet hook1 x yarn cutter1 x printed flower bookmark pattern",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/63EEA0C5470C44BEB0EFDE703AEBD5CE_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1FC921C650534B468722E4AEF4B07479_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F76FC4313FB84FF588E38A844C826FCC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0CA75E8F303349F8A740E5B178912DF1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4E9EA6DEAE274F59BE98543D9BE32A46_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/44D085C629B64C1C96227F7D0E187D3A_converted_webp.webp"
+    ],
+    "startDate": "2024-12-14T14:00:00+05:30",
+    "endDate": "2024-12-14T15:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No. 136, Evergreen PARC, Rooftop, 1st Cross Road, 5th Block,, Koramangala, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGVzyK04UrjsRdvT82NJs8YE",
+      "latitude": "12.93370000000000000000",
+      "longitude": "77.62154500000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mindful E Commerce",
+      "description": "This curated market series celebrates our collaborations and propels us towards an upward swing!",
+      "url": null,
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EBC11EF2FCD94464B9A30EF28E23E66A_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99017-99404"
+      }
+    },
+    "url": "https://urbanaut.app/spot/crochet-workshop#2024-12-14T1400",
+    "keywords": [
+      "Art & culture",
+      "Workshop",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Crochet Workshop",
+    "description": "Unlock your creativity with our beginner-friendly crochet workshop! Learn the essential techniques to craft beautiful, handmade accessories. Perfect for anyone looking to pick up a relaxing and rewarding skill.What You\u2019ll Learn:\u2022 Basics of using\u00a0crochet tools and techniques.\u2022 Key stitches like chain, single, and double crochet.\u2022 Crafting and finishing your own accessory.Terms & Conditions\u2022 Limited seats; register in advance.\u2022 No refunds for last-minute cancellations.What will be Provided:1 Crochet DIY kit.Crochet kit contains.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02 x 30g yarn balls1 x 4.0mm crochet hook1 x yarn cutter1 x printed flower bookmark pattern",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/63EEA0C5470C44BEB0EFDE703AEBD5CE_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1FC921C650534B468722E4AEF4B07479_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F76FC4313FB84FF588E38A844C826FCC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0CA75E8F303349F8A740E5B178912DF1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4E9EA6DEAE274F59BE98543D9BE32A46_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/44D085C629B64C1C96227F7D0E187D3A_converted_webp.webp"
+    ],
+    "startDate": "2024-12-14T18:00:00+05:30",
+    "endDate": "2024-12-14T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No. 136, Evergreen PARC, Rooftop, 1st Cross Road, 5th Block,, Koramangala, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGVzyK04UrjsRdvT82NJs8YE",
+      "latitude": "12.93370000000000000000",
+      "longitude": "77.62154500000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mindful E Commerce",
+      "description": "This curated market series celebrates our collaborations and propels us towards an upward swing!",
+      "url": null,
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EBC11EF2FCD94464B9A30EF28E23E66A_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99017-99404"
+      }
+    },
+    "url": "https://urbanaut.app/spot/crochet-workshop#2024-12-14T1800",
+    "keywords": [
+      "Art & culture",
+      "Workshop",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Crochet Workshop",
+    "description": "Unlock your creativity with our beginner-friendly crochet workshop! Learn the essential techniques to craft beautiful, handmade accessories. Perfect for anyone looking to pick up a relaxing and rewarding skill.What You\u2019ll Learn:\u2022 Basics of using\u00a0crochet tools and techniques.\u2022 Key stitches like chain, single, and double crochet.\u2022 Crafting and finishing your own accessory.Terms & Conditions\u2022 Limited seats; register in advance.\u2022 No refunds for last-minute cancellations.What will be Provided:1 Crochet DIY kit.Crochet kit contains.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a02 x 30g yarn balls1 x 4.0mm crochet hook1 x yarn cutter1 x printed flower bookmark pattern",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/63EEA0C5470C44BEB0EFDE703AEBD5CE_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1FC921C650534B468722E4AEF4B07479_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F76FC4313FB84FF588E38A844C826FCC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0CA75E8F303349F8A740E5B178912DF1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4E9EA6DEAE274F59BE98543D9BE32A46_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/44D085C629B64C1C96227F7D0E187D3A_converted_webp.webp"
+    ],
+    "startDate": "2024-12-15T16:00:00+05:30",
+    "endDate": "2024-12-15T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No. 136, Evergreen PARC, Rooftop, 1st Cross Road, 5th Block,, Koramangala, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGVzyK04UrjsRdvT82NJs8YE",
+      "latitude": "12.93370000000000000000",
+      "longitude": "77.62154500000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mindful E Commerce",
+      "description": "This curated market series celebrates our collaborations and propels us towards an upward swing!",
+      "url": null,
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EBC11EF2FCD94464B9A30EF28E23E66A_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99017-99404"
+      }
+    },
+    "url": "https://urbanaut.app/spot/crochet-workshop#2024-12-15T1600",
+    "keywords": [
+      "Art & culture",
+      "Workshop",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Harakiri(1962) with The Parallel Cinema Club",
+    "description": "In 17th century feudal Japan, a desperate ronin seeks to perform ritual suicide at a prosperous lord\u2019s estate. As the narrative unfolds, a tale of great personal tragedy is revealed.In Harakiri, Maskai Kobayashi challenges romanticised depictions of samurai culture, instead providing a critique of social hierarchy and blind adherence to tradition.Who are The Parallel Cinema Club?We are a community-run film society based out of Bangalore and Hyderabad. We are a group of film enthusiasts who meet up once a week to discuss the reel world, auteurs and themes, and occasionally host guest lectures.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7D3AE3DA20784922AFF6DA8AFD1A1761_converted_webp.webp"
+    ],
+    "startDate": "2024-11-30T19:00:00+05:30",
+    "endDate": "2024-11-30T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "24, 1st Main, 3rd Cross Road, 3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96725760000000000000",
+      "longitude": "77.63667939999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "We're a community center for thoughtful, kind, and interesting events.",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/harakiri-1962-with-the-parallel-cinema-club",
+    "keywords": [
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Terracotta Workshop by  Janbo",
+    "description": "Join us at\u00a0Conscious Souk Bengaluru\u00a0for an immersive\u00a0Terracotta Workshop\u00a0at\u00a0Love Ooru\u00a0on\u00a014th & 15th December 2024. Whether you`re a beginner or just curious about pottery, this hands-on session is perfect for exploring your creative side.What You\u2019ll Learn:Introduction to Hand Building TechniquesCreate a Mug, Bowl, or Any Unique DesignMaster Pinching and Slab-Making TechniquesSchedule:\ud83d\udcc5\u00a0Saturday, 14th December | 3 PM \u2013 5 PM\ud83d\udcc5\u00a0Sunday, 15th December | 1 PM \u2013 3 PMPrice: \u00a0\u20b91,500 per person",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BE99B5D76EA447D3A8EA7AF19EB3C390_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/280D6A80144C4948B8F7E95ABF6B6AB2_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6A65651E73CE4C8995203CAD380BDF65_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6EE59EB4241E47BEB8E7F7B013C6331C_converted_webp.webp"
+    ],
+    "startDate": "2024-12-14T15:00:00+05:30",
+    "endDate": "2024-12-14T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No. 136, Evergreen PARC, Rooftop, 1st Cross Road, 5th Block,, Koramangala, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGVzyK04UrjsRdvT82NJs8YE",
+      "latitude": "12.93370000000000000000",
+      "longitude": "77.62154500000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mindful E Commerce",
+      "description": "This curated market series celebrates our collaborations and propels us towards an upward swing!",
+      "url": null,
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EBC11EF2FCD94464B9A30EF28E23E66A_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99017-99404"
+      }
+    },
+    "url": "https://urbanaut.app/spot/terracotta-workshop-by-janbo#2024-12-14T1500",
+    "keywords": [
+      "Art & culture",
+      "Workshop",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Terracotta Workshop by  Janbo",
+    "description": "Join us at\u00a0Conscious Souk Bengaluru\u00a0for an immersive\u00a0Terracotta Workshop\u00a0at\u00a0Love Ooru\u00a0on\u00a014th & 15th December 2024. Whether you`re a beginner or just curious about pottery, this hands-on session is perfect for exploring your creative side.What You\u2019ll Learn:Introduction to Hand Building TechniquesCreate a Mug, Bowl, or Any Unique DesignMaster Pinching and Slab-Making TechniquesSchedule:\ud83d\udcc5\u00a0Saturday, 14th December | 3 PM \u2013 5 PM\ud83d\udcc5\u00a0Sunday, 15th December | 1 PM \u2013 3 PMPrice: \u00a0\u20b91,500 per person",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BE99B5D76EA447D3A8EA7AF19EB3C390_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/280D6A80144C4948B8F7E95ABF6B6AB2_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6A65651E73CE4C8995203CAD380BDF65_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6EE59EB4241E47BEB8E7F7B013C6331C_converted_webp.webp"
+    ],
+    "startDate": "2024-12-15T13:00:00+05:30",
+    "endDate": "2024-12-15T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No. 136, Evergreen PARC, Rooftop, 1st Cross Road, 5th Block,, Koramangala, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGVzyK04UrjsRdvT82NJs8YE",
+      "latitude": "12.93370000000000000000",
+      "longitude": "77.62154500000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mindful E Commerce",
+      "description": "This curated market series celebrates our collaborations and propels us towards an upward swing!",
+      "url": null,
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EBC11EF2FCD94464B9A30EF28E23E66A_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99017-99404"
+      }
+    },
+    "url": "https://urbanaut.app/spot/terracotta-workshop-by-janbo#2024-12-15T1300",
+    "keywords": [
+      "Art & culture",
+      "Workshop",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Ceramic Workshop by  Janbo",
+    "description": "Explore the art of ceramic hand-building at\u00a0Conscious Souk Bengaluru\u00a0on\u00a014th December 2024, hosted at\u00a0Love Ooru.Perfect for art enthusiasts and beginners alike, this workshop lets you craft a unique ceramic piece while learning mindful and creative techniques.What You\u2019ll Learn:Introduction to Hand Building TechniquesBuild a Ceramic Lamp Base or Tea Light HolderHands-on Pinching and Slab-Making PracticeSchedule:\ud83d\udcc5\u00a0Saturday, 14th December 2024\ud83d\udd54 6 PM \u2013 8 PMPrice:\u00a0\u20b92,200 per person",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/973AFDDFFC394DC3A415B2BE7AD85DA7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1BF55B8475874B9496433FF8BD2C4EE5_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AA9C92CF01FD4C69A393598C764BD899_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2503CBB8FA3D4AA5B986D008FCE8E143_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1D5E5D28D9894985AEDEADA66F474B76_converted_webp.webp"
+    ],
+    "startDate": "2024-12-14T18:00:00+05:30",
+    "endDate": "2024-12-14T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No. 136, Evergreen PARC, Rooftop, 1st Cross Road, 5th Block,, Koramangala, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGVzyK04UrjsRdvT82NJs8YE",
+      "latitude": "12.93370000000000000000",
+      "longitude": "77.62154500000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mindful E Commerce",
+      "description": "This curated market series celebrates our collaborations and propels us towards an upward swing!",
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EBC11EF2FCD94464B9A30EF28E23E66A_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99017-99404"
+      }
+    },
+    "url": "https://urbanaut.app/spot/ceramic-workshop-by-janbo",
+    "keywords": [
+      "Art & culture",
+      "Workshop",
+      "Pop-up Event",
       "URBANAUT"
     ]
   }
