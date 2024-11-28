@@ -2,6 +2,44 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "#Bengaluru Bringing the spirit of the northeast India to you with the very first edition of Bloomverse Express in your city on the 16th of February, 2",
+      "endDate": "2025-02-16T22:00:00",
+      "identifier": "com.skillboxes.17126",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732345257230rY2yOwgWfvVYf.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": null,
+         "name": "To Be Announced"
+      },
+      "name": "Bloomverse Express Bengaluru feat. MR. BIG",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "◉ Grants access to one individual in General Zone.\n◉ General access to bars, f&b counters.",
+            "inventoryLevel": 142,
+            "name": "Early Bird | Single - GA",
+            "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "◉ Grants access to one individual in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
+            "inventoryLevel": 766,
+            "name": "Early Bird | Single - Fan Zone",
+            "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
+         }
+      ],
+      "startDate": "2025-02-16T17:00:00",
+      "url": "https://www.skillboxes.com/events/bloomverse-express-bengaluru-feat-mr-big"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "LiveBox is proud to present the progressive rock supergroup THE ARISTOCRATS as part of their brand new DUCK Tour in March 2025.\r\n\r\nVenues and opening ",
       "endDate": "2025-03-28T23:59:00",
       "identifier": "com.skillboxes.16637",
@@ -36,6 +74,41 @@
       ],
       "startDate": "2025-03-28T20:00:00",
       "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Simba presents Leena Punks and Gndhi at Sunburn Union Bangalore\r\n\r\nSun, 01-Dec-2024 | 7 PM Onwards",
+      "endDate": "2024-12-01T23:59:00",
+      "identifier": "com.skillboxes.17247",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732774164IQBa1jPcqh14gsiX.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Mantri Avenue",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9453634",
+            "longitude": "77.6198713"
+         },
+         "name": "Sunburn Union Bengaluru"
+      },
+      "name": "Simba presents Leena Punks and Gndhi at Sunburn Union Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional mandatory cover charges applicable at the gates.\n",
+            "inventoryLevel": 100,
+            "name": "Regular Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/simba-presents-leena-punks-and-gndhi-at-sunburn-union-bangalore"
+         }
+      ],
+      "startDate": "2024-12-01T19:00:00",
+      "url": "https://www.skillboxes.com/events/simba-presents-leena-punks-and-gndhi-at-sunburn-union-bangalore"
    },
    {
       "@context": "https://schema.org",
