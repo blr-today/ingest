@@ -121,6 +121,102 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "This Saturday, Pangeo transforms into a global groove hub as Diass takes the stage! 🎶🔥 Get ready for an unforgettable night with massi",
+      "endDate": "2024-12-01T01:00:00",
+      "identifier": "com.skillboxes.17287",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/WTNKdlJ5UiszbWtDTkZiZFF6T2xCQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732879516udx2vpqMH5CMZP1j.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9726391",
+            "longitude": "77.6065987"
+         },
+         "name": "Pangeo"
+      },
+      "name": "PANGEO SATURDAY - DIASS",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "https://sklbx.com/FjfA5g7m\n",
+            "inventoryLevel": 49999,
+            "name": "PANGEO SATURDAY - DIASS",
+            "url": "https://www.skillboxes.com/events/ticket/pangeo-saturday-diass"
+         }
+      ],
+      "startDate": "2024-11-30T20:30:00",
+      "url": "https://www.skillboxes.com/events/pangeo-saturday-diass"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Mary\nSmith is a dedicated editor, publisher and leaflet flyer printing expert with a passion for literature and design. With a keen",
+      "endDate": "2026-11-29T17:30:00",
+      "identifier": "com.skillboxes.17285",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QnRSTFZPc3g0SlB5NzlVT3lLK1pkUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732879149e8ulxVtk2txWuyAQ.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Education"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "",
+            "longitude": ""
+         },
+         "name": "To Be Decided"
+      },
+      "name": "Book Printing Service Canada",
+      "offers": [ ],
+      "startDate": "2026-11-29T09:00:00",
+      "url": "https://www.skillboxes.com/events/book-printing-service-canada"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Venue : Bira 91 Tap Room, KoramangalaTiming : 9:30 PM OnwardsPromoter: F1 CommuneEarly Bird: INR 299/-  [ Additional INR 300/- Cover fully redeem",
+      "endDate": "2024-12-01T23:59:00",
+      "identifier": "com.skillboxes.17278",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732867455RjzekJCDktUnOWeB.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Sports"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9313063",
+            "longitude": "77.6329297"
+         },
+         "name": "Bira 91 Taproom, Koramangala"
+      },
+      "name": "F1 Grand Prix Live Screening - Qatar Grand Prix | BIRA 91 Taproom, Koramangala",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional 300/- Cover will be charged at gate (Fully redeemable)\n",
+            "inventoryLevel": 200,
+            "name": "Early Birds",
+            "url": "https://www.skillboxes.com/events/ticket/f1-grand-prix-live-screening-qatar-grand-prix-bira-91-taproom-koramangala"
+         }
+      ],
+      "startDate": "2024-12-01T21:30:00",
+      "url": "https://www.skillboxes.com/events/f1-grand-prix-live-screening-qatar-grand-prix-bira-91-taproom-koramangala"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "\"Ready to party like it’s 1999? 🌐✨ Join us for the ultimate Y2K throwback — neon lights, frosted tips, and all the early 2000s v",
       "endDate": "2024-11-30T23:59:00",
       "identifier": "com.skillboxes.17262",
