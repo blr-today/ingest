@@ -73,8 +73,8 @@
   {
     "name": "Feeding India Concert with Dua Lipa",
     "description": "**LIMITED TICKETS NOW AVAILABLE**\n\nAttention Dua Lipa fans - get ready to levitate! The Feeding India Concert, organised by Zomato's Feeding India initiative to fight malnutrition, is back.\nThis time, global pop icon Dua Lipa is here to make you \u2018dance the night away\u2019 in Mumbai. Witness the chart-topping artist light up the stage with her electrifying hits, and don\u2019t miss the amazing support acts: the sensational JONITA and the dynamic Talwiinder.\n\nWe\u2019ve just got one \u2018new rule\u2019 \u2013 don't miss the chance to be part of this incredible experience, with a great cause.",
-    "startDate": "2024-11-30T15:00:00+05:30",
-    "endDate": "2024-11-30T22:00:00+05:30",
+    "startDate": "2024-11-30 15:00:00",
+    "endDate": "2024-11-30 22:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -606,48 +606,6 @@
     }
   },
   {
-    "name": "Fabric Paintig",
-    "description": "Join our Fabric Painting Workshop! We\u2019ll supply all the art materials, a tasty meal, and a chance to meet new friends. Bring your own fabric, preferably denim or any thick cloth, and our artists will guide you in creating your unique design. It\u2019s a fun and relaxed way to spend your afternoon. Head over to Paint The Town Art Cafe for a creative day filled with art, food, and friendly conversations. \ud83c\udfa8\ud83c\udf7d\ufe0f\ud83d\udc56",
-    "startDate": "2024-11-30T16:00:00+05:30",
-    "endDate": "2024-11-30T18:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/0fe6ba100031b2b304158ac9b1b315a01728980674.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/fabric-paintig-bengaluru-et52438/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-10-15 14:09:46",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/fabric-paintig-bengaluru-et52438",
-    "id": "com.zomato.52438",
-    "location": {
-      "name": "Paint The Town Restaurant",
-      "address": "No. 101, 1st floor, Money Center, 7th Block, Koramangala, Bengaluru, Karnataka 560104",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93753285,
-        "longitude": 77.61234518
-      }
-    }
-  },
-  {
     "name": "Tribute to AC/DC & Guns N' Roses",
     "description": "Lee & Hard Rock Cafe Presents The Ultimate Tribute to AC/DC & Guns N\u2019 Roses ft. 2Blue\nYOU WILL LOVE HIM! Because he is not just a great singer! Tirthankar Poddar (aka 2Blue) is a muscular statement like a raised fist! With his four-octave militant-like voice and provocative storytelling, he is known to dazzle. Small wonder when Paul Di`Anno of Iron Maiden and George Lynch of Dokken came to India, it was 2Blue they performed with. As did Bumblefoot of Guns N\u2019 Roses.\nIf you were born in the `80s and raised on vintage rock, this could be emotional. Because chances are 2Blue is the artist you laughed and cried with when you were young. Chances are he is who you connected with on MySpace and Orkut when you needed a friend. And over the years, chances are he is who you grew old with the lead singer of Vayu who went solo, the man who was crazy enough to quit his lucrative day job to headline your college festival.",
     "startDate": "2024-12-21T21:00:00+05:30",
@@ -694,8 +652,8 @@
   {
     "name": "Christmas is Coming",
     "description": "An evening of Christmas choral music featuring carols, popular songs of the season, and a Nativity Cantata, \"Because of Bethlehem\", directed by Wendy M Dickson & Tina Dickson Franco and presented by the popular Kiara Academy Choir. Also features the Kiara Dance & Theatre Ensemble in stunning choreography.",
-    "startDate": "2024-11-30T18:00:00+05:30",
-    "endDate": "2024-11-30T19:30:00+05:30",
+    "startDate": "2024-11-30 18:00:00",
+    "endDate": "2024-11-30 19:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1429,8 +1387,8 @@
   {
     "name": "Soul Jams | MG Road",
     "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. To book your slot, reach out to @souljams_live on Instagram.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
-    "startDate": "2024-11-30T16:30:00+05:30",
-    "endDate": "2024-11-30T20:00:00+05:30",
+    "startDate": "2024-11-30 16:30:00",
+    "endDate": "2024-11-30 20:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
