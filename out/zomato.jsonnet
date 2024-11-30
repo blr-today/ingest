@@ -31,7 +31,7 @@
         "currency": "INR",
         "validFrom": "2024-11-28 11:28:00",
         "availability": "INSTOCK",
-        "inventory": 498
+        "inventory": 458
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -39,7 +39,7 @@
         "currency": "INR",
         "validFrom": "2024-11-28 11:28:00",
         "availability": "INSTOCK",
-        "inventory": 200
+        "inventory": 181
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -61,7 +61,7 @@
     "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352",
     "id": "com.zomato.46352",
     "location": {
-      "name": "Terraform",
+      "name": "Terraform Arena",
       "address": "Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
       "geo": {
         "@type": "GeoCoordinates",
@@ -98,7 +98,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 980
+        "inventory": 915
       },
       {
         "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
@@ -106,7 +106,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 451
+        "inventory": 384
       },
       {
         "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
@@ -114,7 +114,7 @@
         "currency": "INR",
         "validFrom": "2024-08-26 15:00:00",
         "availability": "INSTOCK",
-        "inventory": 186
+        "inventory": 166
       }
     ],
     "performers": [
@@ -188,7 +188,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 14:56:00",
         "availability": "INSTOCK",
-        "inventory": 72
+        "inventory": 70
       }
     ],
     "performers": [],
@@ -233,7 +233,7 @@
         "currency": "INR",
         "validFrom": "2024-10-21 11:44:55",
         "availability": "SELLING_FAST",
-        "inventory": 6
+        "inventory": 4
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -398,16 +398,16 @@
         "price": 5000,
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
-        "availability": "SELLING_FAST",
-        "inventory": 530
+        "availability": "INSTOCK",
+        "inventory": 1484
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
         "price": 15000,
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
-        "availability": "SELLING_FAST",
-        "inventory": 60
+        "availability": "INSTOCK",
+        "inventory": 245
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -574,7 +574,7 @@
         "currency": "INR",
         "validFrom": "2024-11-27 17:41:32",
         "availability": "INSTOCK",
-        "inventory": 950
+        "inventory": 937
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -582,7 +582,7 @@
         "currency": "INR",
         "validFrom": "2024-11-27 17:41:33",
         "availability": "INSTOCK",
-        "inventory": 994
+        "inventory": 991
       }
     ],
     "performers": [],
@@ -712,15 +712,15 @@
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
         "availability": "INSTOCK",
-        "inventory": 195
+        "inventory": 178
       },
       {
         "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
         "price": 499,
         "currency": "INR",
         "validFrom": "2024-10-30 22:56:44",
-        "availability": "INSTOCK",
-        "inventory": 164
+        "availability": "SELLING_FAST",
+        "inventory": 98
       }
     ],
     "performers": [],
@@ -740,94 +740,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.93242076,
         "longitude": 77.62200106
-      }
-    }
-  },
-  {
-    "name": "SCC Picnic Cinema - P.S. I Love You",
-    "description": "\u201cShoot for the moon, even if you fail, you'll land among the stars\u201d - Cecelia Ahern, P.S. I Love You\n\nExperience the bittersweet beauty of love and loss in \"P.S. I Love You.\" Join us for a screening of this heartwarming film that explores the power of love, hope, and the enduring bonds we create. Prepare to be moved by Holly's journey as she navigates life after the loss of her beloved husband, guided by his heartfelt letters.\n\nCome for an evening of cinematic delight, as the sun goes down, and the show comes on! Enjoy a picnic-y ambiance, where you can sit or even lie down on comfy bean bags, surrounded by lush green grass! String lights illuminate the area, casting a warm glow that sets the perfect mood for the evening, while you enjoy your favorite film on a large screen with surround sound accompanied with delicious munchies and drinks!",
-    "startDate": "2024-11-29T19:00:00+05:30",
-    "endDate": "2024-11-29T22:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "SCC Picnic Cinema - P.S. I Love You Experiences and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for SCC Picnic Cinema - P.S. I Love You Bengaluru on Zomato which is a Experiences and Trending event happening at Garden City Beer Collective (GCBC),82/2, Gantiganahalli, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/059afb4a138b742b371cbef1125900d31730452758.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/scc-picnic-cinema-ps-i-love-you-bengaluru-et52801/details",
-        "price": 600,
-        "currency": "INR",
-        "validFrom": "2024-11-01 16:07:02",
-        "availability": "SELLING_FAST",
-        "inventory": 3
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/scc-picnic-cinema-ps-i-love-you-bengaluru-et52801",
-    "id": "com.zomato.52801",
-    "location": {
-      "name": "Garden City Beer Collective (GCBC)",
-      "address": "Garden City Beer Collective (GCBC),82/2, Gantiganahalli, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.14365198,
-        "longitude": 77.58441173
-      }
-    }
-  },
-  {
-    "name": "Bootleg Fridays",
-    "description": "Make some noise and have fun, since the music gets two times better when a DJ lifts his hands in the air.\nStarting at 8:30 p.m., Hard Rock Cafe, Bengaluru is happy to host DJ Rohith and his incredible sounds for the musically charged Blockbusters.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-11-29T20:30:00+05:30",
-    "endDate": "2024-11-29T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Bootleg Fridays Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bootleg Fridays Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/9f8a7f0fe7c171bf94b5134503ebb4151730465433.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et52870/details",
-        "price": 1000,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:36",
-        "availability": "INSTOCK",
-        "inventory": 100
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bootleg-fridays-bengaluru-et52870",
-    "id": "com.zomato.52870",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
       }
     }
   },
@@ -941,7 +853,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 436
+        "inventory": 433
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -969,50 +881,6 @@
         "@type": "GeoCoordinates",
         "latitude": 15.594919225551,
         "longitude": 73.736698683197
-      }
-    }
-  },
-  {
-    "name": "Bollywood Night",
-    "description": "Step into the world of glamour, dance, and the vibrant energy of Bollywood with our exclusive Bollywood DJ Night at Escape by Brewklyn. This is your invitation to experience the magic of Indian cinema through music, where every beat tells a story, and every song invites you to dance.",
-    "startDate": "2024-11-29T20:00:00+05:30",
-    "endDate": "2024-11-29T23:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Bollywood Night Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bollywood Night Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3fa97783c409f0d13878b6fff970e6551730964984.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53046/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-11-07 13:25:41",
-        "availability": "INSTOCK",
-        "inventory": 50
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bollywood-night-bengaluru-et53046",
-    "id": "com.zomato.53046",
-    "location": {
-      "name": "Escape by Brewklyn",
-      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.04059157,
-        "longitude": 77.61912205
       }
     }
   },
@@ -1088,7 +956,7 @@
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
         "price": 2499,
         "currency": "INR",
-        "validFrom": "2024-11-11 18:14:44",
+        "validFrom": "2024-11-11 18:14:00",
         "availability": "INSTOCK",
         "inventory": 50
       },
@@ -1096,15 +964,15 @@
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
         "price": 3999,
         "currency": "INR",
-        "validFrom": "2024-11-15 15:34:27",
+        "validFrom": "2024-11-15 15:34:00",
         "availability": "INSTOCK",
-        "inventory": 977
+        "inventory": 976
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
         "price": 6599,
         "currency": "INR",
-        "validFrom": "2024-11-15 15:04:42",
+        "validFrom": "2024-11-15 15:04:00",
         "availability": "INSTOCK",
         "inventory": 1992
       },
@@ -1112,7 +980,7 @@
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
         "price": 29999,
         "currency": "INR",
-        "validFrom": "2024-11-15 15:04:42",
+        "validFrom": "2024-11-15 15:04:00",
         "availability": "INSTOCK",
         "inventory": 100
       },
@@ -1120,7 +988,7 @@
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
         "price": 57999,
         "currency": "INR",
-        "validFrom": "2024-11-15 15:04:43",
+        "validFrom": "2024-11-15 15:04:00",
         "availability": "INSTOCK",
         "inventory": 100
       },
@@ -1128,7 +996,7 @@
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
         "price": 83999,
         "currency": "INR",
-        "validFrom": "2024-11-15 15:04:43",
+        "validFrom": "2024-11-15 15:04:00",
         "availability": "INSTOCK",
         "inventory": 100
       },
@@ -1214,7 +1082,7 @@
         "currency": "INR",
         "validFrom": "2024-11-08 09:07:40",
         "availability": "INSTOCK",
-        "inventory": 9
+        "inventory": 7
       },
       {
         "url": "https://www.zomato.com/events/punchliners-host-to-roast-ft-jeeveshu-ahluwalia-bengaluru-et53057/details",
@@ -1343,7 +1211,7 @@
         "currency": "INR",
         "validFrom": "2024-11-24 18:08:00",
         "availability": "INSTOCK",
-        "inventory": 17
+        "inventory": 16
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -1359,7 +1227,7 @@
         "currency": "INR",
         "validFrom": "2024-11-24 18:08:00",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 19
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -1459,7 +1327,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:31",
         "availability": "INSTOCK",
-        "inventory": 87
+        "inventory": 68
       },
       {
         "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
@@ -1467,7 +1335,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:31",
         "availability": "INSTOCK",
-        "inventory": 46
+        "inventory": 41
       },
       {
         "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
@@ -1519,7 +1387,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:32",
         "availability": "INSTOCK",
-        "inventory": 180
+        "inventory": 169
       },
       {
         "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325/details",
@@ -1527,7 +1395,7 @@
         "currency": "INR",
         "validFrom": "2024-11-21 19:15:33",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 189
       },
       {
         "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325/details",
@@ -1576,11 +1444,19 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/soul-jams-mg-road-bengaluru-et53337/details",
+        "price": 755,
+        "currency": "INR",
+        "validFrom": "2024-11-22 12:12:00",
+        "availability": "INSTOCK",
+        "inventory": 51
+      },
+      {
+        "url": "https://www.zomato.com/events/soul-jams-mg-road-bengaluru-et53337/details",
         "price": 499,
         "currency": "INR",
         "validFrom": "2024-11-22 12:12:00",
-        "availability": "SELLING_FAST",
-        "inventory": 27
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [
