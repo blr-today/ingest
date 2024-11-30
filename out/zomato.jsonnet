@@ -650,146 +650,6 @@
     }
   },
   {
-    "name": "Christmas is Coming",
-    "description": "An evening of Christmas choral music featuring carols, popular songs of the season, and a Nativity Cantata, \"Because of Bethlehem\", directed by Wendy M Dickson & Tina Dickson Franco and presented by the popular Kiara Academy Choir. Also features the Kiara Dance & Theatre Ensemble in stunning choreography.",
-    "startDate": "2024-11-30 18:00:00",
-    "endDate": "2024-11-30 19:30:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Christmas is Coming Experiences, Music and Trending event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Christmas is Coming Bengaluru on Zomato which is a Experiences, Music and Trending event happening at 18th Main Rd, John Nagar, Koramangala, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/c27c003079e2057915cf4742ed21df431730308656.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
-        "price": 350,
-        "currency": "INR",
-        "validFrom": "2024-10-30 22:56:44",
-        "availability": "INSTOCK",
-        "inventory": 178
-      },
-      {
-        "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-10-30 22:56:44",
-        "availability": "SELLING_FAST",
-        "inventory": 98
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/christmas-is-coming-bengaluru-et52775",
-    "id": "com.zomato.52775",
-    "location": {
-      "name": "St John's Auditorium",
-      "address": "18th Main Rd, John Nagar, Koramangala, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.93242076,
-        "longitude": 77.62200106
-      }
-    }
-  },
-  {
-    "name": "Rock & Pop Set",
-    "description": "Catch Tidal Waves performing live your favourite tracks at Hard Rock Cafe, Bengaluru.\nPrepare to party and enjoy the evening with excellent food, live music, and cool drinks.",
-    "startDate": "2024-11-30T21:00:00+05:30",
-    "endDate": "2024-11-30T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Rock & Pop Set Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Rock & Pop Set Bengaluru on Zomato which is a Music event happening at 40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/ccf83346e025680ce980bb547203471f1730794964.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/rock-pop-set-bengaluru-et52871/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-11-01 18:32:37",
-        "availability": "INSTOCK",
-        "inventory": 20
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/rock-pop-set-bengaluru-et52871",
-    "id": "com.zomato.52871",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "40-3, St Mark's Rd, Srinivas Nagar, Shanthala Nagar, Ashok Nagar, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97595324,
-        "longitude": 77.60161858
-      }
-    }
-  },
-  {
-    "name": "Tribute to Queen & Bon Jovi",
-    "description": "Get ready for a night of melodic goodness as the city`s favourite fusion band performs live at Hard Rock Cafe, Whitefield.\nJoin us for our Live Band Night featuring the renowned Moksha All Stars! Known for their captivating performances and sold-out shows, Moksha promises to deliver tight vibes and an unforgettable experience.\nFrom their soulful renditions to their innovative approach to fusion music, Moksha is set to captivate hearts and minds alike.\nGather your friends, bring your enthusiasm, and join us at Hard Rock Cafe for an extraordinary night filled with anticipation and melodic wonder.",
-    "startDate": "2024-11-30T21:00:00+05:30",
-    "endDate": "2024-11-30T23:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Tribute to Queen & Bon Jovi Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Tribute to Queen & Bon Jovi Bengaluru on Zomato which is a Music event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/ea26edcb34d60d2eddd1daa5f726e5f81730795014.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/tribute-to-queen-bon-jovi-bengaluru-et52887/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-11-01 22:59:40",
-        "availability": "INSTOCK",
-        "inventory": 18
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/tribute-to-queen-bon-jovi-bengaluru-et52887",
-    "id": "com.zomato.52887",
-    "location": {
-      "name": "Hard Rock Cafe",
-      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.98717896,
-        "longitude": 77.7364802
-      }
-    }
-  },
-  {
     "name": "DGTL Goa 2024",
     "description": "Pre-register to be notified first when the tickets drop. The line-up is to be announced soon.\n\nDGTL India 2023 saw over 15,000 attendees across 3 days enjoying world-class techno and electronic music, stunning lighting and stage designs, conceptual showcases, and vital sustainability initiatives, resulting in an immersive, audio-visual experience.\nBook your tickets now to secure your spot for this year!\nDGTL is a global electronic music festival with editions in Amsterdam, Santiago (Chile), S\u00e3o Paulo (Brazil), Bengaluru & Mumbai, and during the Amsterdam Dance Event. Besides its focus on music, DGTL features unique art installations and exciting sustainability projects. Its sustainability program sets it apart in the festival landscape.",
     "startDate": "2024-12-27T16:00:00+05:30",
@@ -839,50 +699,6 @@
         "@type": "GeoCoordinates",
         "latitude": 15.594919225551,
         "longitude": 73.736698683197
-      }
-    }
-  },
-  {
-    "name": "Saturday Vibes",
-    "description": "Get ready to dive into the heart of Bangalore's nightlife with Saturday Vibes at Escape by Brewklyn, where the beats are as bold as the brews! Every Saturday, we transform our space into a haven for music lovers, dance enthusiasts, and anyone looking to enjoy a night out with a difference.",
-    "startDate": "2024-11-30T20:00:00+05:30",
-    "endDate": "2024-11-30T23:30:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Saturday Vibes Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Saturday Vibes Bengaluru on Zomato which is a Music event happening at Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/3694b8ccd594886ac337c5880ebb611d1730965096.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/saturday-vibes-bengaluru-et53049/details",
-        "price": 249,
-        "currency": "INR",
-        "validFrom": "2024-11-07 13:25:41",
-        "availability": "INSTOCK",
-        "inventory": 49
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/saturday-vibes-bengaluru-et53049",
-    "id": "com.zomato.53049",
-    "location": {
-      "name": "Escape by Brewklyn",
-      "address": "Bheemaneni Towers, 78/1, 14th Cross Rd, Chanakya Layout, Nagavara, Bengaluru, Karnataka 560045",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.04059157,
-        "longitude": 77.61912205
       }
     }
   },
@@ -1016,66 +832,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.1746955,
         "longitude": 77.59499931
-      }
-    }
-  },
-  {
-    "name": "Punchliners Host To Roast ft Jeeveshu Ahluwalia",
-    "description": "Join us for a night of laughter at the Punchliners Comedy Show featuring the hilarious Jeeveshu Ahluwalia Live! Known for his witty observations and sharp humor, Jeeveshu Ahluwalia will take you on a rollercoaster of laughs with his unique style and relatable jokes. Whether you're a comedy enthusiast or just looking for a fun evening, this show promises to keep you entertained. Don't miss out on an unforgettable night filled with humor and joy. Grab your tickets now for an evening of non-stop laughter at Ecoworld, The Bay Food Court, Bengaluru",
-    "startDate": "2024-11-30T19:30:00+05:30",
-    "endDate": "2024-11-30T21:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Punchliners Host To Roast ft Jeeveshu Ahluwalia Comedy event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Punchliners Host To Roast ft Jeeveshu Ahluwalia Bengaluru on Zomato which is a Comedy event happening at RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/af9ab9a2ec4c422ba73c19d8d4266bd41731041570.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/punchliners-host-to-roast-ft-jeeveshu-ahluwalia-bengaluru-et53057/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-11-08 09:07:40",
-        "availability": "INSTOCK",
-        "inventory": 7
-      },
-      {
-        "url": "https://www.zomato.com/events/punchliners-host-to-roast-ft-jeeveshu-ahluwalia-bengaluru-et53057/details",
-        "price": 799,
-        "currency": "INR",
-        "validFrom": "2024-11-08 09:07:40",
-        "availability": "INSTOCK",
-        "inventory": 6
-      },
-      {
-        "url": "https://www.zomato.com/events/punchliners-host-to-roast-ft-jeeveshu-ahluwalia-bengaluru-et53057/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-11-08 09:07:39",
-        "availability": "INSTOCK",
-        "inventory": 11
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/punchliners-host-to-roast-ft-jeeveshu-ahluwalia-bengaluru-et53057",
-    "id": "com.zomato.53057",
-    "location": {
-      "name": "Ecoworld The Bay Food Court, Bengaluru",
-      "address": "RMZ Eco World Rd, Adarsh Palm Retreat, Bellandur, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.920132,
-        "longitude": 77.6846389
       }
     }
   },
@@ -1267,8 +1023,8 @@
   {
     "name": "BuzzinOn Bangalore Bar Hop - Indiranagar Edition",
     "description": "Welcome to The BuzzinOn Bangalore Bar Hop: The Ultimate Pub Crawl, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favourite drinks, groove to fantastic music, and engage in fun games and activities. Walk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
-    "startDate": "2024-11-30T18:30:00+05:30",
-    "endDate": "2024-12-01T01:00:00+05:30",
+    "startDate": "2024-11-30 18:30:00",
+    "endDate": "2024-12-01 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
@@ -1381,66 +1137,6 @@
         "@type": "GeoCoordinates",
         "latitude": 12.9923061,
         "longitude": 77.58201
-      }
-    }
-  },
-  {
-    "name": "Soul Jams | MG Road",
-    "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. To book your slot, reach out to @souljams_live on Instagram.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
-    "startDate": "2024-11-30 16:30:00",
-    "endDate": "2024-11-30 20:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Soul Jams | MG Road Music, Experiences and Best seller event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Soul Jams | MG Road Bengaluru on Zomato which is a Music, Experiences and Best seller event happening at No. 67/1, Brigade Solitare, Residency Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4770e22ccd91c94aa72945a77325a2c91732282536.png",
-      "https://b.zmtcdn.com/data/zomaland/aa76dacfdf2b21d5f02a6c84d005693d1732692716.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/soul-jams-mg-road-bengaluru-et53337/details",
-        "price": 755,
-        "currency": "INR",
-        "validFrom": "2024-11-22 12:12:00",
-        "availability": "INSTOCK",
-        "inventory": 51
-      },
-      {
-        "url": "https://www.zomato.com/events/soul-jams-mg-road-bengaluru-et53337/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-11-22 12:12:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      }
-    ],
-    "performers": [
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/2ed350ec42395212cedd6b26db23ef671732257973.png",
-        "name": "Soul Jams",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/2ed350ec42395212cedd6b26db23ef671732257973.png"
-      }
-    ],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/soul-jams-mg-road-bengaluru-et53337",
-    "id": "com.zomato.53337",
-    "location": {
-      "name": "We:Neighborhood",
-      "address": "No. 67/1, Brigade Solitare, Residency Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.97309392,
-        "longitude": 77.60821118
       }
     }
   },
