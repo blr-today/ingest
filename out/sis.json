@@ -1,42 +1,5 @@
 [
   {
-    "name": "Sweat Fest",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.in/session_details/fitness/SweatFestBangalore",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SESSION"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.in"
-    },
-    "description": "Get set Ladies!! The SIS Anniversary Month edition of our much awaited Sweat Fest\u00a0is HERE and all set to take off! \nWhat exactly is the Sweat Fest? \nWe\u2019re bringing 3 different workout formats to you! So get ready to have a smashing 2 hour workout through mini experiences of our standout fitness formats Mat57 > HIIT > Dance in this crazy sweat dripping party! All of this packaged in a fun-filled Sunday morning with music, a wellness market and\u00a0refreshments from our brand partners! \nRegistration time is 7.45 am. \n \nEVENT DETAILS \n1. Date: 1st December 2024, Sunday \n2. Time:\u00a08 am-12 pm \n3. Venue: WeWork Galaxy, Ashok Nagar \n4. The 3 formats for the workout: Mat57, HIIT and Dance. \n \nWorkout flow:\u00a0Each workout will be for 30-40 mins each and will take place one after the other. You will be given a break between each session to get ready for the next. \nApart from the workout, as mentioned we will have music, some super cool brands and prizes for you ladies to have the experience of the best ever fest!!\u200b \nWe are absolutely STOKED and extremely EXCITED to bring this event to you ladies!! We can't wait for you to experience this with us! What are you waiting for then?! SIGN UP and JOIN US! \n*Please bring a yoga mat & a water bottle! \nReach out to Saachi (+919513334690) for any queries!",
-    "image": "https://sistersinsweat.in/products/ffd52f3c7e12435a724a8f30fddadd9c1732782210New Sweat Fest event Image & Brands @ Sweat Fest' Dec 24 Carousel (BLR) (1).png",
-    "location": {
-      "name": "WeWork Galaxy",
-      "address": "Shanthala Nagar,  Ashok Nagar,  Bengaluru,  Karnataka 560001",
-      "type": "Place"
-    },
-    "startDate": "2024-12-01T08:00:00+05:30",
-    "endDate": "2024-12-01T12:00:00+05:30",
-    "offers": [
-      {
-        "price": 699,
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
     "name": "SIS Baddy Tournament - Women's Doubles",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.in/session_details/badminton/Mini Badminton Tournament",
@@ -227,44 +190,6 @@
     ]
   },
   {
-    "name": "Footy with the Sisters - Intermediate - Ulsoor",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.in/session_details/football/Football Thursday Sessions",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.in"
-    },
-    "sport": "Football",
-    "description": "FOOTY\u00a0GAME DAY! \n \nBring out those football boots or shoes and remember to clean 'em nice! We're getting on the field to play the Beautiful game! No drills, no frills, just pure Game-Time! \u00a0 \n \nLevel: Intermediate \n \nWhat to wear? Comfortable workout clothes, incase you don't have access to football studs/turf shoes, training shoes would be sufficient. \n \nWhat to bring? A bottle of water, a towel to wipe off sweat (if required) and loads of enthusiasm to play :) \n \nSee you on the field Sisters!! \n \nContact: \nTanvie \n8800199418",
-    "image": "https://sistersinsweat.in/products/5ec91aac30eae62f4140325d09b9afd01732775523WhatsApp Image 2024-11-28 at 11.57.09 AM.jpeg",
-    "location": {
-      "name": "RBANM\u2019s Ground",
-      "address": "Gate,  South United Football Club,  3,  Gangadhar Chetty Rd,  Halasuru,  Rukmani Colony,  Lake,  Bengaluru,  Karnataka 560042",
-      "type": "Place"
-    },
-    "startDate": "2024-12-06T07:00:00+05:30",
-    "endDate": "2024-12-06T08:30:00+05:30",
-    "offers": [
-      {
-        "price": 360,
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
     "name": "B'Ball with the Sisters - Intermediate",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.in/session_details/basketball/Basketball Sessions",
@@ -298,6 +223,44 @@
     "offers": [
       {
         "price": 550,
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "name": "Footy with the Sisters - Intermediate - Ulsoor",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session_details/football/Football Thursday Sessions",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Football",
+    "description": "FOOTY\u00a0GAME DAY! \n \nBring out those football boots or shoes and remember to clean 'em nice! We're getting on the field to play the Beautiful game! No drills, no frills, just pure Game-Time! \u00a0 \n \nLevel: Intermediate \n \nWhat to wear? Comfortable workout clothes, incase you don't have access to football studs/turf shoes, training shoes would be sufficient. \n \nWhat to bring? A bottle of water, a towel to wipe off sweat (if required) and loads of enthusiasm to play :) \n \nSee you on the field Sisters!! \n \nContact: \nTanvie \n8800199418",
+    "image": "https://sistersinsweat.in/products/5ec91aac30eae62f4140325d09b9afd01732775523WhatsApp Image 2024-11-28 at 11.57.09 AM.jpeg",
+    "location": {
+      "name": "RBANM\u2019s Ground",
+      "address": "Gate,  South United Football Club,  3,  Gangadhar Chetty Rd,  Halasuru,  Rukmani Colony,  Lake,  Bengaluru,  Karnataka 560042",
+      "type": "Place"
+    },
+    "startDate": "2024-12-06T07:00:00+05:30",
+    "endDate": "2024-12-06T08:30:00+05:30",
+    "offers": [
+      {
+        "price": 360,
         "priceCurrency": "INR"
       }
     ]
