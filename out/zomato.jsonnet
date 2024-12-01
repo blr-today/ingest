@@ -931,8 +931,8 @@
   {
     "name": "CrossOver ft. TEHO",
     "description": "The most trending pop up in town is back this December with a banger - CrossOver Winter Edition with the Cercle sensation TEHO at Kitty Ko.",
-    "startDate": "2024-12-01T20:00:00+05:30",
-    "endDate": "2024-12-02T01:00:00+05:30",
+    "startDate": "2024-12-01 20:00:00",
+    "endDate": "2024-12-02 01:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",

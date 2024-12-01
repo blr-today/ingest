@@ -121,6 +121,98 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Redroom Ft. Tori Levett at Kitty Ko Bangalore.",
+      "endDate": "2024-12-06T23:59:00",
+      "identifier": "com.skillboxes.17336",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733072034iJONhZ5h0NffKFVo.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Redroom Ft. Tori Levett at Kitty Ko Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Female, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-tori-levett-at-kitty-ko-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Couple, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-tori-levett-at-kitty-ko-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Male, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-tori-levett-at-kitty-ko-bangalore"
+         }
+      ],
+      "startDate": "2024-12-06T19:00:00",
+      "url": "https://www.skillboxes.com/events/redroom-ft-tori-levett-at-kitty-ko-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Suit & Panda",
+      "endDate": "2024-12-28T23:59:00",
+      "identifier": "com.skillboxes.17331",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733061655X4yfJhs0nj6v3rqB.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "A-1, D Rajgopala, nagar, Sanjay Nagar Main Rd, AECS Layout, KEB Layout, Sanjayanagara, Bengaluru, Karnataka 560094, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0314698",
+            "longitude": "77.5771977"
+         },
+         "name": "ZOZO THE CLUB"
+      },
+      "name": "Suit & Panda",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Early Bird Single",
+            "url": "https://www.skillboxes.com/events/ticket/suit-panda"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Early Bird Couple",
+            "url": "https://www.skillboxes.com/events/ticket/suit-panda"
+         }
+      ],
+      "startDate": "2024-12-28T19:00:00",
+      "url": "https://www.skillboxes.com/events/suit-panda"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "SOLIQUE Live",
       "endDate": "2024-12-07T23:59:00",
       "identifier": "com.skillboxes.17317",
@@ -576,102 +668,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "This Saturday, Pangeo transforms into a global groove hub as Diass takes the stage! 🎶🔥 Get ready for an unforgettable night with massi",
-      "endDate": "2024-12-01T01:00:00",
-      "identifier": "com.skillboxes.17287",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/WTNKdlJ5UiszbWtDTkZiZFF6T2xCQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732879516udx2vpqMH5CMZP1j.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9726391",
-            "longitude": "77.6065987"
-         },
-         "name": "Pangeo"
-      },
-      "name": "PANGEO SATURDAY - DIASS",
-      "offers": [ ],
-      "startDate": "2024-11-30T20:30:00",
-      "url": "https://www.skillboxes.com/events/pangeo-saturday-diass"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Venue : Bira 91 Tap Room, KoramangalaTiming : 9:30 PM OnwardsPromoter: F1 CommuneEarly Bird: INR 299/-  [ Additional INR 300/- Cover fully redeem",
-      "endDate": "2024-12-01T23:59:00",
-      "identifier": "com.skillboxes.17278",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732867455RjzekJCDktUnOWeB.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Sports"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9313063",
-            "longitude": "77.6329297"
-         },
-         "name": "Bira 91 Taproom, Koramangala"
-      },
-      "name": "F1 Grand Prix Live Screening - Qatar Grand Prix | BIRA 91 Taproom, Koramangala",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional 300/- Cover will be charged at gate (Fully redeemable)\n",
-            "inventoryLevel": 197,
-            "name": "Early Birds",
-            "url": "https://www.skillboxes.com/events/ticket/f1-grand-prix-live-screening-qatar-grand-prix-bira-91-taproom-koramangala"
-         }
-      ],
-      "startDate": "2024-12-01T21:30:00",
-      "url": "https://www.skillboxes.com/events/f1-grand-prix-live-screening-qatar-grand-prix-bira-91-taproom-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Simba presents Leena Punks and Gndhi at Sunburn Union Bangalore\r\n\r\nSun, 01-Dec-2024 | 7 PM Onwards",
-      "endDate": "2024-12-01T23:59:00",
-      "identifier": "com.skillboxes.17247",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732774164IQBa1jPcqh14gsiX.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Mantri Avenue",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9453634",
-            "longitude": "77.6198713"
-         },
-         "name": "Sunburn Union Bengaluru"
-      },
-      "name": "Simba presents Leena Punks and Gndhi at Sunburn Union Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional mandatory cover charges applicable at the gates.\n",
-            "inventoryLevel": 100,
-            "name": "Regular Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/simba-presents-leena-punks-and-gndhi-at-sunburn-union-bangalore"
-         }
-      ],
-      "startDate": "2024-12-01T19:00:00",
-      "url": "https://www.skillboxes.com/events/simba-presents-leena-punks-and-gndhi-at-sunburn-union-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Biggest Bollywood New Year Party In Town\r\n\r\nTop Bollywood Mixes By DJ Tousif\r\n\r\nOut Standing Venue Ibar In The Gorgeous Park Hotel\r\n\r\n5 Star Expe",
       "endDate": "2024-12-31T23:59:00",
@@ -756,49 +752,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "🚀 This Saturday, let’s take it to the skies! Get ready for an unforgettable night with @rocketman.music , spinning high-energy beats at @high",
-      "endDate": "2024-12-01T23:59:00",
-      "identifier": "com.skillboxes.17213",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17326116678vUCSBpP1f0ZgvDe.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Event"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0122829",
-            "longitude": "77.5561431"
-         },
-         "name": "High Ultra Lounge"
-      },
-      "name": "Rocketman | High Ultra Lounge - 31st Floor Sky High Experience",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "** Club Rules Applicable\n",
-            "inventoryLevel": 725,
-            "name": "Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/rocketman-high-ultra-lounge-31st-floor-sky-high-experience"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "** Club Rules Applicable\n",
-            "inventoryLevel": 914,
-            "name": "Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/rocketman-high-ultra-lounge-31st-floor-sky-high-experience"
-         }
-      ],
-      "startDate": "2024-11-30T20:00:00",
-      "url": "https://www.skillboxes.com/events/rocketman-high-ultra-lounge-31st-floor-sky-high-experience"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "ಇದು ಹಾಸ್ಯದ ಹೊಸ ಅಧ್ಯಾಯ!Relatable Comedy Mee",
       "endDate": "2024-12-08T16:30:00",
       "identifier": "com.skillboxes.17200",
@@ -870,32 +823,6 @@
       ],
       "startDate": "2024-12-01T20:00:00",
       "url": "https://www.skillboxes.com/events/wild-sunday-nolimits-magrath-road"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "This Saturday Catch All Fun And Action On Biggest Dance Floor At Hangover Kormangala.Bollywood Blockbuster  with DJ Milan and Fema",
-      "endDate": "2024-12-01T00:30:00",
-      "identifier": "com.skillboxes.17191",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732644388MW4VXeCbs28xv2bF.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Event"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9348662",
-            "longitude": "77.6138885"
-         },
-         "name": "Plan B x Hangover XL Koramangala"
-      },
-      "name": "Saturday Hangover Blockbuster Night",
-      "offers": [ ],
-      "startDate": "2024-11-30T20:00:00",
-      "url": "https://www.skillboxes.com/events/saturday-hangover-blockbuster-night"
    },
    {
       "@context": "https://schema.org",
@@ -1597,49 +1524,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "GLOWAL live in BANGALOREItalian producers Fabio Giannelli and Alessandro Gasperini merge forces as the artistic audio alliance, Glowal. In their soul-",
-      "endDate": "2024-12-01T23:59:00",
-      "identifier": "com.skillboxes.17127",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QnI5eW4yM1h2dE1xS1NKNUZ5dmNGdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732126350nNdiVJpGmswETC0e.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9151523",
-            "longitude": "77.6660553"
-         },
-         "name": "White Lotus Club Bengaluru"
-      },
-      "name": "GLOWAL live in BANGALORE",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable post 9 PM\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird GA",
-            "url": "https://www.skillboxes.com/events/ticket/glowal-live-in-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable post 9 PM\n",
-            "inventoryLevel": 99,
-            "name": "Early Bird VIP",
-            "url": "https://www.skillboxes.com/events/ticket/glowal-live-in-bangalore"
-         }
-      ],
-      "startDate": "2024-12-01T20:00:00",
-      "url": "https://www.skillboxes.com/events/glowal-live-in-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "Event",
       "description": "🌸 Otaku Hunt: An Anime Meetup! 🌸Calling all anime fans, cosplayers, and Otakus! Join us for Otaku Hunt, an anime lover's paradise wher",
       "endDate": "2024-12-07T18:00:00",
@@ -1999,57 +1883,6 @@
       ],
       "startDate": "2024-12-31T19:30:00",
       "url": "https://www.skillboxes.com/events/one-night-in-vegas-2025"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "The most trending pop up in town is back this December with a banger - CrossOver Winter Edition with the Cercle sensation TEHO at Kitty Ko.\r\n\r\n \r",
-      "endDate": "2024-12-01T23:59:00",
-      "identifier": "com.skillboxes.17032",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1731767361yiFeeo2IOGjsV7Tv.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "CrossOver ft. TEHO | 1st Dec | Kitty Ko",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 1000,
-            "name": "Female - Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-teho-1st-dec-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 9PM. Cover charges applicable at the venue post 9PM.\n",
-            "inventoryLevel": 999,
-            "name": "Couple - Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-teho-1st-dec-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles entry for 1 Male till 9PM. Cover charges applicable at the venue post 9PM.\n",
-            "inventoryLevel": 1000,
-            "name": "Male - Pass",
-            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-teho-1st-dec-kitty-ko"
-         }
-      ],
-      "startDate": "2024-12-01T19:00:00",
-      "url": "https://www.skillboxes.com/events/crossover-ft-teho-1st-dec-kitty-ko"
    },
    {
       "@context": "https://schema.org",
