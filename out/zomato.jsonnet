@@ -31,7 +31,7 @@
         "currency": "INR",
         "validFrom": "2024-11-28 11:28:00",
         "availability": "INSTOCK",
-        "inventory": 458
+        "inventory": 431
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -39,7 +39,7 @@
         "currency": "INR",
         "validFrom": "2024-11-28 11:28:00",
         "availability": "INSTOCK",
-        "inventory": 181
+        "inventory": 161
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -67,98 +67,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.174349,
         "longitude": 77.597596
-      }
-    }
-  },
-  {
-    "name": "Feeding India Concert with Dua Lipa",
-    "description": "**LIMITED TICKETS NOW AVAILABLE**\n\nAttention Dua Lipa fans - get ready to levitate! The Feeding India Concert, organised by Zomato's Feeding India initiative to fight malnutrition, is back.\nThis time, global pop icon Dua Lipa is here to make you \u2018dance the night away\u2019 in Mumbai. Witness the chart-topping artist light up the stage with her electrifying hits, and don\u2019t miss the amazing support acts: the sensational JONITA and the dynamic Talwiinder.\n\nWe\u2019ve just got one \u2018new rule\u2019 \u2013 don't miss the chance to be part of this incredible experience, with a great cause.",
-    "startDate": "2024-11-30 15:00:00",
-    "endDate": "2024-11-30 22:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Feeding India Concert with Dua Lipa Music, Trending and Best seller event Tickets Mumbai - Zomato",
-    "ogDesc": "Book online tickets for Feeding India Concert with Dua Lipa Mumbai on Zomato which is a Music, Trending and Best seller event happening at New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/dd2c968d23ba7d20d4657473f4a149c61732085367.png",
-      "https://b.zmtcdn.com/data/zomaland/0c2ae00635ef4aee1fffa8bb266ffc641724335426.png",
-      "https://b.zmtcdn.com/data/zomaland/b4454ca93f87b57dbacf89c658d91fb61724335445.png",
-      "https://b.zmtcdn.com/data/zomaland/502ce90275c6e620055d4a7c8562584a1724335474.png",
-      "https://b.zmtcdn.com/data/zomaland/e3fa669fa71173925953e87f874384001724335474.png",
-      "https://b.zmtcdn.com/data/zomaland/cedaa72666b1954a845beb9f5fbcce061724335474.png",
-      "https://b.zmtcdn.com/data/zomaland/905835bd13100813bb656faf1cbaf1af1724658596.png",
-      "https://b.zmtcdn.com/data/zomaland/4a0c9491cbaa34561822c01a43535c491732255409.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
-        "price": 10000,
-        "currency": "INR",
-        "validFrom": "2024-08-26 15:00:00",
-        "availability": "INSTOCK",
-        "inventory": 915
-      },
-      {
-        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
-        "price": 17000,
-        "currency": "INR",
-        "validFrom": "2024-08-26 15:00:00",
-        "availability": "INSTOCK",
-        "inventory": 384
-      },
-      {
-        "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042/details",
-        "price": 45000,
-        "currency": "INR",
-        "validFrom": "2024-08-26 15:00:00",
-        "availability": "INSTOCK",
-        "inventory": 166
-      }
-    ],
-    "performers": [
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png",
-        "name": "Dua Lipa",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/6b3dfa3d4b2d0c9ddf32171f8c431a1b1724327137.png"
-      },
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png",
-        "name": "Jonita",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/9be4d73aefb6cba52bb73b4de229542a1724327148.png"
-      },
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png",
-        "name": "Talwiinder",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/62a5c2249d98ae842a214024789d49f01724327162.png"
-      },
-      {
-        "image": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png",
-        "name": "More",
-        "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/247cd3577ede3a340c4d2952ef91a5831724342076.png"
-      }
-    ],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/feeding-india-concert-with-dua-lipa-mumbai-et49042",
-    "id": "com.zomato.49042",
-    "location": {
-      "name": "MMRDA Ground",
-      "address": "New Administrative Building, New Administrative Building MMRDA, E Block BKC, Bandra Kurla Complex, Bandra East",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 19.06727212,
-        "longitude": 72.8615249
       }
     }
   },
@@ -233,7 +141,7 @@
         "currency": "INR",
         "validFrom": "2024-10-21 11:44:55",
         "availability": "SELLING_FAST",
-        "inventory": 4
+        "inventory": 3
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -399,7 +307,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 1484
+        "inventory": 1449
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -407,7 +315,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 245
+        "inventory": 237
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -574,7 +482,7 @@
         "currency": "INR",
         "validFrom": "2024-11-27 17:41:32",
         "availability": "INSTOCK",
-        "inventory": 937
+        "inventory": 926
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -582,7 +490,7 @@
         "currency": "INR",
         "validFrom": "2024-11-27 17:41:33",
         "availability": "INSTOCK",
-        "inventory": 991
+        "inventory": 987
       }
     ],
     "performers": [],
@@ -671,7 +579,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 433
+        "inventory": 430
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -740,7 +648,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:34:00",
         "availability": "INSTOCK",
-        "inventory": 976
+        "inventory": 975
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -909,7 +817,7 @@
         "currency": "INR",
         "validFrom": "2024-11-24 18:08:32",
         "availability": "INSTOCK",
-        "inventory": 18
+        "inventory": 15
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -1017,66 +925,6 @@
         "@type": "GeoCoordinates",
         "latitude": 13.01305645,
         "longitude": 77.55622893
-      }
-    }
-  },
-  {
-    "name": "BuzzinOn Bangalore Bar Hop - Indiranagar Edition",
-    "description": "Welcome to The BuzzinOn Bangalore Bar Hop: The Ultimate Pub Crawl, where you\u2019ll explore four of Bangalore\u2019s most happening bars in one day! Meet new friends, enjoy great food paired with your favourite drinks, groove to fantastic music, and engage in fun games and activities. Walk through the vibrant streets of Bangalore, making unforgettable memories as you go. This pub crawl is your ticket to experience the best of the city\u2019s nightlife in a single, exhilarating day. Get ready for a themed adventure every month in Bangalore\u2019s most dynamic areas!",
-    "startDate": "2024-11-30 18:30:00",
-    "endDate": "2024-12-01 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "BuzzinOn Bangalore Bar Hop - Indiranagar Edition Experiences event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for BuzzinOn Bangalore Bar Hop - Indiranagar Edition Bengaluru on Zomato which is a Experiences event happening at 777/I, 2nd Floor, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/44a2a48e651dbfa415a3b6000663506a1732376910.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
-        "price": 699,
-        "currency": "INR",
-        "validFrom": "2024-11-21 19:15:31",
-        "availability": "INSTOCK",
-        "inventory": 68
-      },
-      {
-        "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-11-21 19:15:31",
-        "availability": "INSTOCK",
-        "inventory": 41
-      },
-      {
-        "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323/details",
-        "price": 3999,
-        "currency": "INR",
-        "validFrom": "2024-11-21 19:15:32",
-        "availability": "INSTOCK",
-        "inventory": 49
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/buzzinon-bangalore-bar-hop-indiranagar-edition-bengaluru-et53323",
-    "id": "com.zomato.53323",
-    "location": {
-      "name": "Watson's Indiranagar",
-      "address": "777/I, 2nd Floor, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.967276,
-        "longitude": 77.6412768
       }
     }
   },

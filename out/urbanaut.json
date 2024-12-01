@@ -31,8 +31,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 12,
+    "maximumAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -146,7 +146,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 401,
+    "remainingAttendeeCapacity": 387,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -518,7 +518,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 126,
+    "remainingAttendeeCapacity": 119,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -618,7 +618,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 93,
+    "remainingAttendeeCapacity": 87,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -667,7 +667,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 81,
+    "remainingAttendeeCapacity": 79,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -814,7 +814,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 97,
+    "remainingAttendeeCapacity": 95,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1990,7 +1990,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 400,
-    "remainingAttendeeCapacity": 164,
+    "remainingAttendeeCapacity": 128,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2045,8 +2045,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 29,
-    "remainingAttendeeCapacity": 5,
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 1,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2087,159 +2087,6 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B5B6B5EBD7694A84A472108B5BC2825A_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1552F28D66CC439AA6A8AAD4FE5D3B3E_converted_webp.webp"
     ],
-    "startDate": "2024-11-30T09:00:00+05:30",
-    "endDate": "2024-11-30T09:55:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "5, Museum Rd, next to Toscano Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG4hY5igXrjsRcU9IFbg9Www",
-      "latitude": "12.97462110000000000000",
-      "longitude": "77.60314730000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Muro",
-      "description": null,
-      "url": "https://urbanaut.app/partner/muro",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/44122F4B9C4A445FB3C4876078E38008_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-63648-32879"
-      }
-    },
-    "url": "https://urbanaut.app/spot/thebreakfastclubatmuro#2024-11-30T0900",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Breakfast Club",
-    "description": "We\u2019re excited to invite you to an exclusive breakfast and coffee preview of Muro Caf\u00e9, where Bangalore will experience the best of Asian breakfast and a celebration of Single Origin Coffees of Karnataka\u2019s finest coffee estates.\u00a0Join us on every Saturday & Sunday for our Asian breakfast menu.From 9 a.m. to 12:00 p.m., experience Muro Cafe's unique twist on breakfast; from rich Crab Omelettes and indulgent Hong Kong French Toast to creamy Basque Cheesecake & more.Celebrate food, community, and the joy of coming together.\u00a0Muro: https://www.instagram.com/murocafeblr/",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A62CBEC464A0498EBEE456224C499203_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A29393D9B9DB4B5981B533915B15028A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2E991342EBF41F2A2BD12A3718CD99A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B0918D2EFB484A42BB6885B6FE66C907_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B5B6B5EBD7694A84A472108B5BC2825A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1552F28D66CC439AA6A8AAD4FE5D3B3E_converted_webp.webp"
-    ],
-    "startDate": "2024-11-30T10:00:00+05:30",
-    "endDate": "2024-11-30T10:55:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "5, Museum Rd, next to Toscano Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG4hY5igXrjsRcU9IFbg9Www",
-      "latitude": "12.97462110000000000000",
-      "longitude": "77.60314730000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 44,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Muro",
-      "description": null,
-      "url": "https://urbanaut.app/partner/muro",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/44122F4B9C4A445FB3C4876078E38008_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-63648-32879"
-      }
-    },
-    "url": "https://urbanaut.app/spot/thebreakfastclubatmuro#2024-11-30T1000",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Breakfast Club",
-    "description": "We\u2019re excited to invite you to an exclusive breakfast and coffee preview of Muro Caf\u00e9, where Bangalore will experience the best of Asian breakfast and a celebration of Single Origin Coffees of Karnataka\u2019s finest coffee estates.\u00a0Join us on every Saturday & Sunday for our Asian breakfast menu.From 9 a.m. to 12:00 p.m., experience Muro Cafe's unique twist on breakfast; from rich Crab Omelettes and indulgent Hong Kong French Toast to creamy Basque Cheesecake & more.Celebrate food, community, and the joy of coming together.\u00a0Muro: https://www.instagram.com/murocafeblr/",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A62CBEC464A0498EBEE456224C499203_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A29393D9B9DB4B5981B533915B15028A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2E991342EBF41F2A2BD12A3718CD99A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B0918D2EFB484A42BB6885B6FE66C907_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B5B6B5EBD7694A84A472108B5BC2825A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1552F28D66CC439AA6A8AAD4FE5D3B3E_converted_webp.webp"
-    ],
-    "startDate": "2024-11-30T11:00:00+05:30",
-    "endDate": "2024-11-30T11:55:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "5, Museum Rd, next to Toscano Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG4hY5igXrjsRcU9IFbg9Www",
-      "latitude": "12.97462110000000000000",
-      "longitude": "77.60314730000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 38,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Muro",
-      "description": null,
-      "url": "https://urbanaut.app/partner/muro",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/44122F4B9C4A445FB3C4876078E38008_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-63648-32879"
-      }
-    },
-    "url": "https://urbanaut.app/spot/thebreakfastclubatmuro#2024-11-30T1100",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Breakfast Club",
-    "description": "We\u2019re excited to invite you to an exclusive breakfast and coffee preview of Muro Caf\u00e9, where Bangalore will experience the best of Asian breakfast and a celebration of Single Origin Coffees of Karnataka\u2019s finest coffee estates.\u00a0Join us on every Saturday & Sunday for our Asian breakfast menu.From 9 a.m. to 12:00 p.m., experience Muro Cafe's unique twist on breakfast; from rich Crab Omelettes and indulgent Hong Kong French Toast to creamy Basque Cheesecake & more.Celebrate food, community, and the joy of coming together.\u00a0Muro: https://www.instagram.com/murocafeblr/",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A62CBEC464A0498EBEE456224C499203_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A29393D9B9DB4B5981B533915B15028A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2E991342EBF41F2A2BD12A3718CD99A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B0918D2EFB484A42BB6885B6FE66C907_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B5B6B5EBD7694A84A472108B5BC2825A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1552F28D66CC439AA6A8AAD4FE5D3B3E_converted_webp.webp"
-    ],
     "startDate": "2024-12-01T09:00:00+05:30",
     "endDate": "2024-12-01T09:55:00+05:30",
     "location": {
@@ -2253,7 +2100,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 47,
+    "remainingAttendeeCapacity": 44,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -2304,7 +2151,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 41,
+    "remainingAttendeeCapacity": 34,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -2355,7 +2202,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 42,
+    "remainingAttendeeCapacity": 37,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -2661,7 +2508,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 47,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3613,55 +3460,6 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/90F5FB82AF00480ABB43B1B077C6A3B5_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/35D5FDAB0B8144899D951AF7C58F521E_converted_webp.webp"
     ],
-    "startDate": "2024-11-30T10:00:00+05:30",
-    "endDate": "2024-11-30T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "22, Kasturba Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJK3WK06kXrjsRtJJUPxlNE4A",
-      "latitude": "12.97460260000000000000",
-      "longitude": "77.59675370000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 498,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Museum of Art and Photography (MAP Bengaluru)",
-      "description": "MAP\u2019s mission is to harness the transformative potential of art, to enrich lives, ignite creativity, and connect people.  We make art accessible and engaging for everyone through innovative experiences, meaningful dialogue and building communities.",
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/FC4FD4DDA248480898821B02CC012FD2_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-80-6933-4100"
-      }
-    },
-    "url": "https://urbanaut.app/spot/art-is-life2024#2024-11-30T1000",
-    "keywords": [
-      "Art & culture",
-      "Music",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Art is Life",
-    "description": "November 30 & December 1Step into a world where art shapes life, and life inspires art. Join us for a weekend that celebrates art, culture, and community.Explore the Magic of Our Shared HeritageThis celebration invites you to dive into MAP\u2019s rich and diverse collection, filled with treasures like timeless sculptures, beautiful textiles, pop culture memorabilia, and iconic photographs. These aren\u2019t just museum pieces \u2014 they are a part of a collective cultural heritage that we all share.Be Part of the ArtThis year\u2019s festival is packed with exciting new exhibitions, film screenings, hands-on workshops, live performances, and so much more. It\u2019s not just a festival \u2014 it\u2019s an immersive cultural adventure where art, history, and creativity come together to spark inspiration. Whether you are a seasoned art lover or just curious to explore something new, there\u2019s no better place to experience the power of art than at Namma MAP.Come join us for Art is Life \u2014 where creativity blossoms, stories unfold, and art becomes a part of you!For more details and to register for workshops please visit https://map-india.org/art-is-life-2024/Art is Life 2024 is supported by Kingfisher Ultra Soda.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/90F5FB82AF00480ABB43B1B077C6A3B5_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/35D5FDAB0B8144899D951AF7C58F521E_converted_webp.webp"
-    ],
     "startDate": "2024-12-01T10:00:00+05:30",
     "endDate": "2024-12-01T21:00:00+05:30",
     "location": {
@@ -3694,7 +3492,7 @@
         "telephone": "+91-80-6933-4100"
       }
     },
-    "url": "https://urbanaut.app/spot/art-is-life2024#2024-12-01T1000",
+    "url": "https://urbanaut.app/spot/art-is-life2024",
     "keywords": [
       "Art & culture",
       "Music",
@@ -4263,8 +4061,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 5,
+    "maximumAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4545,53 +4343,6 @@
       "Leisure",
       "Wellness",
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Beyond Winning Saturdays - Board Games Meetup",
-    "description": "\ud83c\udf1f Dive into an evening of board games, fun, and new friendships at Beyond Winning Saturdays, hosted at the cozy Dialogues Cafe. Unwind, connect, and rediscover joy in a space where every move counts!Why We\u2019re Different:- Beyond the Basics: Unlike others, we focus on creating a warm, inclusive atmosphere where everyone feels at home.- Guided Gaming: Our friendly admins ensure you enjoy every game, whether you\u2019re a first-timer or a pro.- Redeemable Entry: Your \u20b9299 ticket includes \u20b9100 cover for delicious food & drinks from our fresh, community-focused menu.- Stay as You Like: Access games anytime between 4 PM and 10 PM \u2014 come early or drop in later!- Personal Touch: Play with our curated selection or bring your own favorite games to share and bond over.\ud83c\udf9f Ticket: \u20b9299 (\u20b9100 redeemable for food & drinks)\ud83d\udcc5 Every Saturday | 4 PM - 10 PMWhether you're strategizing to win or just enjoying the moment, this is your Saturday night well spent. Bring your game face and a smile \u2014 let\u2019s play!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EA350CBA26C34ED6972962A796F81642_converted_webp.webp"
-    ],
-    "startDate": "2024-11-30T16:00:00+05:30",
-    "endDate": "2024-11-30T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJHwc9qEQUrjsRmZ4YRQVDz9I",
-      "latitude": "12.93254450000000000000",
-      "longitude": "77.63193249999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "299.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Dialogues Cafe Private Limited",
-      "description": "Dialogues Cafe is a warm, homely space in Koramangala where natural light meets community vibes. Enjoy freshly made, minimalist cuisine while engaging in open mics, book clubs, and more. Whether you\u2019re here to work, create, or connect, Dialogues Cafe is your space to belong.",
-      "url": "https://urbanaut.app/partner/dialoguescafe",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C62E09DD429648FFA3524F75358888AE_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-63635-56436"
-      }
-    },
-    "url": "https://urbanaut.app/spot/beyond-winning-saturdays-board-games-meetup#2024-11-30T1600",
-    "keywords": [
-      "Active",
-      "Wellness",
       "URBANAUT"
     ]
   },
@@ -4992,55 +4743,6 @@
     "keywords": [
       "Food & drink",
       "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Sunday Breakfast & Conversations with Strangers",
-    "description": "Start your Sunday with fun conversations over breakfast! \ud83c\udf73But it\u2019s not just about the food\u2014it\u2019s about creating connections and making memories that last. Join us for fun conversations as you savor a delicious spread. Don\u2019t miss this chance to kick off your day with hearty bites & uplifting company. Mark your calendar and come join us for a morning full of delicious flavors and delightful chats. \u2728",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C35449CB6662461296A32757FA77CD5D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D460A2A40AD94331B3647CEA805D4355_converted_webp.webp"
-    ],
-    "startDate": "2024-12-01T10:00:00+05:30",
-    "endDate": "2024-12-01T11:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "46, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJwfF5p-MXrjsR3XFCQ91u6BU",
-      "latitude": "12.97572850000000000000",
-      "longitude": "77.60239330000002000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 6,
-    "remainingAttendeeCapacity": 1,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "TwoTablesClub",
-      "description": "Where a small group of strangers come together for genuine conversations & spontaneous connections  over a curated meal. Guided by a host every Table is a mix of locals & newcomers sharing stories of their roots & dreams",
-      "url": "https://urbanaut.app/partner/twotablesclub",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/wysxdsvnko-1707810356440ttclogojpg.jpg",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-81399-06300"
-      }
-    },
-    "url": "https://urbanaut.app/spot/copy-of-sunday-breakfast-conversations-with-strangers",
-    "keywords": [
-      "Food & drink",
-      "Leisure",
-      "Local",
       "URBANAUT"
     ]
   },
