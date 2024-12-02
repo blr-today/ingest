@@ -929,66 +929,6 @@
     }
   },
   {
-    "name": "CrossOver ft. TEHO",
-    "description": "The most trending pop up in town is back this December with a banger - CrossOver Winter Edition with the Cercle sensation TEHO at Kitty Ko.",
-    "startDate": "2024-12-01 20:00:00",
-    "endDate": "2024-12-02 01:00:00",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": true,
-    "ogTitle": "CrossOver ft. TEHO Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for CrossOver ft. TEHO Bengaluru on Zomato which is a Music event happening at Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/854b9d55e7c552d69889d2e01ebdbbb91732195100.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-21 19:15:32",
-        "availability": "INSTOCK",
-        "inventory": 169
-      },
-      {
-        "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325/details",
-        "price": 0,
-        "currency": "INR",
-        "validFrom": "2024-11-21 19:15:33",
-        "availability": "INSTOCK",
-        "inventory": 189
-      },
-      {
-        "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-11-21 19:15:33",
-        "availability": "INSTOCK",
-        "inventory": 200
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/crossover-ft-teho-bengaluru-et53325",
-    "id": "com.zomato.53325",
-    "location": {
-      "name": "Kitty Ko",
-      "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.9923061,
-        "longitude": 77.58201
-      }
-    }
-  },
-  {
     "name": "Bloom in Green Festival 2024",
     "description": "Welcome to Bloom in Green Festival 2024\nStep into a transformative three-day celebration of art, music, and connection. With 65+ hours of immersive experiences, enjoy two music stages featuring global and Indian talent, Workshop Shaalas for creativity and wellness, and awe-inspiring art installations. Every moment is designed to spark joy and inspire growth.\nExplore vibrant flea markets, engage in unique activities like drum circles and ecstatic dance, and relax under the stars at the Camping Village. Families will love the dedicated kids' zone, and attendees can choose from various camping options. Join us for an unforgettable journey of creativity, community, and transformation!",
     "startDate": "2024-12-20T07:00:00+05:30",

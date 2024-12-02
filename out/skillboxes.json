@@ -121,6 +121,87 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "This Friday, get ready to groove to the best of Commercial and Hip-hop music at the hottest spot in B'town—Hard Rock Cafe! St. Ma",
+      "endDate": "2024-12-07T00:30:00",
+      "identifier": "com.skillboxes.17340",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17330831946rFqJ5aM7GjTAd4d.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "40 St. Marks Road Bangalore, India",
+         "name": "Hard Rock Cafe Bengaluru"
+      },
+      "name": "Bootleg Fridays at Hardrock Cafe",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable through out the event\n",
+            "inventoryLevel": 100,
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-6"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "One pass allow one single entry\n",
+            "inventoryLevel": 100,
+            "name": "Ladies",
+            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-6"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free entry till 0930pm post cover charges applciable\n",
+            "inventoryLevel": 100,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-6"
+         }
+      ],
+      "startDate": "2024-12-06T08:00:00",
+      "url": "https://www.skillboxes.com/events/bootleg-fridays-at-hardrock-cafe-6"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready for an unforgettable night at Circuit 7 Hennur! 🔥 Join us on December 7th, 2024, as we bring you an underground gig blending the bes",
+      "endDate": "2024-12-07T23:59:00",
+      "identifier": "com.skillboxes.17339",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SlRkT256L2xEQjlMSnB6RVFWWWZzQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733078869fxfyjCLlm6Vbjwn1.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "37, Hennur Bagalur Main Rd, Kuvempu Layout, Kothanur, Bengaluru, Karnataka 560077, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0698379",
+            "longitude": "77.6518906"
+         },
+         "name": "Circuit #7 Resto Pub"
+      },
+      "name": "Grime Syndicate - I",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "STAY HYDRATED AND DRIVE SAFE!! (SORRY FOR THE BASS)\nFREE ENTRY FOR ALL",
+            "inventoryLevel": 496,
+            "name": "BASSLINE",
+            "url": "https://www.skillboxes.com/events/ticket/grime-syndicate-i"
+         }
+      ],
+      "startDate": "2024-12-07T19:00:00",
+      "url": "https://www.skillboxes.com/events/grime-syndicate-i"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Redroom Ft. Tori Levett at Kitty Ko Bangalore.",
       "endDate": "2024-12-06T23:59:00",
       "identifier": "com.skillboxes.17336",
