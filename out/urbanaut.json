@@ -5251,5 +5251,56 @@
       "Pop-up Event",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Intro to Bharatanatyam with Mary - All Levels",
+    "description": "Join Mary for a fun and beginner-friendly Bharatanatyam workshop! Learn simple choreography, basic steps, expressive storytelling, and enjoy a full-body workout that boosts strength and flexibility. Perfect for all level , no experience needed, just bring your enthusiasm!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/672B91D534E4470F84EC5617A32DCC43_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/27477EB4AE4B46349863C448950A1E18_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3B193883D3FF48C7A118A018F98DF32D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DF0CA5D499254745A446928607956055_converted_webp.webp"
+    ],
+    "startDate": "2024-12-08T11:00:00+05:30",
+    "endDate": "2024-12-08T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1600.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/intro-to-bharatanatyan",
+    "keywords": [
+      "Art & culture",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
