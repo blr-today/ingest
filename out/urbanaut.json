@@ -5302,5 +5302,53 @@
       "Workshop",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Swipe Right in Real Life hosted by \u2728enVie\u2728",
+    "description": "No awkward small talk, no bored peeks at your phone. Come enjoy dating the way it was meant to be done! In the REAL world. We VET our guests to make sure we have a safe & comfortableForget the apps. Real connections start here.  Join us for a night of unforgettable encounters and genuine conversations!Cheers \u2728enVie\u2728 ",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/029A9E04BDF9476CA9E71ABDB662710C_converted_webp.webp"
+    ],
+    "startDate": "2024-12-07T20:00:00+05:30",
+    "endDate": "2024-12-07T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "450, 1st Floor, 17th Cross Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZ_7TSoAVrjsRsWSn2_kyLnI",
+      "latitude": "12.91230770000000000000",
+      "longitude": "77.64161260000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 22,
+    "remainingAttendeeCapacity": 22,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "enVie",
+      "description": "Come meet interesting peeps over curated food & drinks at the best restaurants & bars in your city!",
+      "url": "https://urbanaut.app/partner/envie",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/FE1F93309AD941EDAAC21C6869CE8325_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99878-79181"
+      }
+    },
+    "url": "https://urbanaut.app/spot/swipe-right-in-real-life-hosted-by-envie",
+    "keywords": [
+      "Food & drink",
+      "Premium",
+      "Responsible",
+      "URBANAUT"
+    ]
   }
 ]
