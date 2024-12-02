@@ -31,7 +31,7 @@
         "currency": "INR",
         "validFrom": "2024-11-28 11:28:00",
         "availability": "INSTOCK",
-        "inventory": 431
+        "inventory": 396
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -39,15 +39,15 @@
         "currency": "INR",
         "validFrom": "2024-11-28 11:28:00",
         "availability": "INSTOCK",
-        "inventory": 161
+        "inventory": 153
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
         "price": 24999,
         "currency": "INR",
         "validFrom": "2024-08-09 05:00:00",
-        "availability": "SELLING_FAST",
-        "inventory": 48
+        "availability": "INSTOCK",
+        "inventory": 242
       }
     ],
     "performers": [],
@@ -96,7 +96,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 14:56:00",
         "availability": "INSTOCK",
-        "inventory": 70
+        "inventory": 65
       }
     ],
     "performers": [],
@@ -137,19 +137,19 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
-        "price": 1499,
+        "price": 1999,
         "currency": "INR",
-        "validFrom": "2024-10-21 11:44:55",
+        "validFrom": "2024-09-25 15:03:47",
         "availability": "SELLING_FAST",
         "inventory": 3
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
-        "price": 1999,
+        "price": 2499,
         "currency": "INR",
-        "validFrom": "2024-09-25 15:03:47",
-        "availability": "SELLING_FAST",
-        "inventory": 14
+        "validFrom": "2024-12-01 17:41:44",
+        "availability": "INSTOCK",
+        "inventory": 19
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -157,45 +157,45 @@
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:00",
         "availability": "INSTOCK",
-        "inventory": 96
+        "inventory": 94
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
-        "price": 5997,
+        "price": 5999,
         "currency": "INR",
-        "validFrom": "2024-11-11 12:43:00",
+        "validFrom": "2024-12-01 17:41:44",
         "availability": "INSTOCK",
-        "inventory": 48
+        "inventory": 20
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
-        "price": 9999,
+        "price": 10999,
         "currency": "INR",
-        "validFrom": "2024-09-25 15:03:48",
+        "validFrom": "2024-12-01 17:41:45",
         "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 20
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
-        "price": 14997,
+        "price": 20999,
         "currency": "INR",
-        "validFrom": "2024-10-17 13:46:27",
+        "validFrom": "2024-12-01 17:41:45",
         "availability": "INSTOCK",
-        "inventory": 39
+        "inventory": 20
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
-        "price": 19999,
+        "price": 21998,
         "currency": "INR",
-        "validFrom": "2024-09-25 15:03:49",
+        "validFrom": "2024-12-01 17:41:46",
         "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 20
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
-        "price": 39998,
+        "price": 41998,
         "currency": "INR",
-        "validFrom": "2024-11-22 21:34:58",
+        "validFrom": "2024-12-01 17:41:46",
         "availability": "INSTOCK",
         "inventory": 20
       },
@@ -225,6 +225,14 @@
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 1499,
+        "currency": "INR",
+        "validFrom": "2024-10-21 11:44:00",
+        "availability": "INSTOCK",
+        "inventory": 3
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
         "price": 2499,
         "currency": "INR",
         "validFrom": "2024-09-09 17:22:00",
@@ -238,6 +246,14 @@
         "validFrom": "2024-09-09 17:22:00",
         "availability": "INSTOCK",
         "inventory": 94
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 5997,
+        "currency": "INR",
+        "validFrom": "2024-11-11 12:43:00",
+        "availability": "INSTOCK",
+        "inventory": 45
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -257,11 +273,43 @@
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 9999,
+        "currency": "INR",
+        "validFrom": "2024-09-25 15:03:00",
+        "availability": "INSTOCK",
+        "inventory": 25
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 14997,
+        "currency": "INR",
+        "validFrom": "2024-10-17 13:46:00",
+        "availability": "INSTOCK",
+        "inventory": 38
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
         "price": 14999,
         "currency": "INR",
         "validFrom": "2024-09-09 17:22:00",
         "availability": "INSTOCK",
         "inventory": 25
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 19999,
+        "currency": "INR",
+        "validFrom": "2024-09-25 15:03:00",
+        "availability": "INSTOCK",
+        "inventory": 25
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 39998,
+        "currency": "INR",
+        "validFrom": "2024-11-22 21:34:00",
+        "availability": "INSTOCK",
+        "inventory": 20
       }
     ],
     "performers": [],
@@ -307,7 +355,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 1449
+        "inventory": 1388
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -315,7 +363,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "INSTOCK",
-        "inventory": 237
+        "inventory": 227
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -482,7 +530,7 @@
         "currency": "INR",
         "validFrom": "2024-11-27 17:41:32",
         "availability": "INSTOCK",
-        "inventory": 926
+        "inventory": 907
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
@@ -490,7 +538,7 @@
         "currency": "INR",
         "validFrom": "2024-11-27 17:41:33",
         "availability": "INSTOCK",
-        "inventory": 987
+        "inventory": 984
       }
     ],
     "performers": [],
@@ -579,7 +627,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 430
+        "inventory": 424
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -648,7 +696,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:34:00",
         "availability": "INSTOCK",
-        "inventory": 975
+        "inventory": 964
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -825,7 +873,7 @@
         "currency": "INR",
         "validFrom": "2024-11-24 18:08:32",
         "availability": "INSTOCK",
-        "inventory": 15
+        "inventory": 13
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -833,7 +881,7 @@
         "currency": "INR",
         "validFrom": "2024-11-24 18:08:00",
         "availability": "INSTOCK",
-        "inventory": 16
+        "inventory": 15
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
