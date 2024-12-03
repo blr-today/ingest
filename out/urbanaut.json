@@ -5317,7 +5317,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Sunday Breakfast with Strangers",
-    "description": "A casual, fun way to meet new people over Breakfast and coffee\u2014no awkwardness, just good vibes and great conversation!",
+    "description": "Kickstart your Sunday with New Connections! \ud83d\udcacJoin us for Sunday Breakfast with Strangers, where the morning is all about meeting new people, swapping stories, and enjoying a relaxed vibe.It's the perfect way to connect with a fresh crew of people to start your day off right! \ud83d\udcab",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/46D2A267F38F4536A71323F608C0D3E3_converted_webp.webp"
     ],
@@ -5364,7 +5364,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Business Over Coffee with Nayana Kulkarni",
-    "description": "Folks!If you\u2019re into startups, cool company cultures, and opportunities, this is the community for you! It\u2019s all about connecting, networking, and helping each other grow\u2014whether it\u2019s your business, ideas, or both!",
+    "description": "Hey Folks! \ud83d\udc4bIf you\u2019re into startups, cool company cultures, and opportunities, this is the table for you!It\u2019s all about connecting, networking, and helping each other grow\u2014whether it\u2019s your business, ideas, or both!",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/705987B51E6443168B960A4081C86C2B_converted_webp.webp"
     ],
@@ -5385,7 +5385,7 @@
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
-      "price": "2000.00",
+      "price": "1500.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -5412,7 +5412,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "From Strangers to Friends over Dinner with Ruchi",
-    "description": "Bring your appetites and your craziest travel stories!Get ready to meet a fresh new crew of adventure-seekers, and find inspiration for your next journey\u2014all while sharing laughs and unforgettable moments!",
+    "description": "Let\u2019s Make Some Memories!\u2728Bring your appetites and your craziest travel stories!Get ready to meet a fresh crew of adventure-seekers, and find inspiration for your next journey\u2014all while sharing laughs and unforgettable moments! \ud83e\udd73",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3051CF36D10F4002AB0699B2CC8ACDE8_converted_webp.webp"
     ],
@@ -5502,6 +5502,56 @@
       "Live GIG",
       "Music",
       "COURTYARD",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Salsa + Tapas Night with Nutty Gritties",
+    "description": "Join us for this an evening of salsa for beginners to nourish the body and soul. Archana and Raghu, of the ShArA Salsa and Latin Institute, will be leading the group to learn the basics of salsa partner work. This beautiful dance form is a great way to get you out of your head and into your body while learning a new skill with your partner or couple. The Copper + Cloves chef team will be putting together a tapas-style dinner afterwards, sponsored by Nutty Gritties!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D6D2BB7756B045D4B2D55FFF9D2F16A9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DF0CA5D499254745A446928607956055_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/653F9CAA09F148B3A4BF325BB350BDC9_converted_webp.webp"
+    ],
+    "startDate": "2024-12-08T16:30:00+05:30",
+    "endDate": "2024-12-08T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/salsa-tapas-evening-with-Nutty-Gritties",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
       "URBANAUT"
     ]
   }
