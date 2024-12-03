@@ -261,6 +261,57 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": ".. ",
+      "endDate": "2024-12-13T23:59:00",
+      "identifier": "com.skillboxes.17357",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733144680NDpLQn5FPEEyWC1P.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Redroom Ft. Mari Ferrari at Kitty Ko Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Female, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "Early Bird Female",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-mari-ferrari-at-kitty-ko-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Couple, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "Early Bird Couple",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-mari-ferrari-at-kitty-ko-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Male, Extra Cover charge applicable post 9.30pm walk-in at the venue\n",
+            "inventoryLevel": 100,
+            "name": "Early Bird Male",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-mari-ferrari-at-kitty-ko-bangalore"
+         }
+      ],
+      "startDate": "2024-12-13T18:00:00",
+      "url": "https://www.skillboxes.com/events/redroom-ft-mari-ferrari-at-kitty-ko-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "A High Energy Concert Freaturing Bollywood Songs Reimagined With Rock Music Elements ",
       "endDate": "2024-12-06T23:59:00",
       "identifier": "com.skillboxes.17356",
@@ -409,7 +460,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "STAY HYDRATED AND DRIVE SAFE!! (SORRY FOR THE BASS)\nFREE ENTRY FOR ALL",
-            "inventoryLevel": 496,
+            "inventoryLevel": 470,
             "name": "BASSLINE",
             "url": "https://www.skillboxes.com/events/ticket/grime-syndicate-i"
          }
