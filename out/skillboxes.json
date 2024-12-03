@@ -21,7 +21,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in General Zone.\n◉ General access to bars, f&b counters.",
-            "inventoryLevel": 1289,
+            "inventoryLevel": 1261,
             "name": "Phase 1 | Single - GA",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -29,7 +29,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
-            "inventoryLevel": 676,
+            "inventoryLevel": 660,
             "name": "Early Bird | Single - Fan Zone",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -72,7 +72,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge INR 500/- Per Individual Applicable At Gates.\n",
-            "inventoryLevel": 844,
+            "inventoryLevel": 815,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/karma-live-the-warm-up-tour-bangalore"
          },
@@ -125,6 +125,54 @@
       ],
       "startDate": "2025-03-28T20:00:00",
       "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "DJ NightBollywood and PunjabiDance FloorNon Stop MusicGet ready to groove to the hottest beats of Bollywood and Punjabi music at our biggest Saturday ",
+      "endDate": "2024-12-08T01:00:00",
+      "identifier": "com.skillboxes.17375",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0JDVVVMbXI5Q1ZtWXJNS1A1QTJzUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733220111YAomnNmFaPhuxmdP.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "MSR Building, FLO, #3, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9743377",
+            "longitude": "77.6068167"
+         },
+         "name": "FLO Church Street"
+      },
+      "name": "SUPERCLUB SATURDAY",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Boys",
+            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-17"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 198,
+            "name": "Girls",
+            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-17"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Couples",
+            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-17"
+         }
+      ],
+      "startDate": "2024-12-07T20:00:00",
+      "url": "https://www.skillboxes.com/events/superclub-saturday-17"
    },
    {
       "@context": "https://schema.org",
@@ -841,6 +889,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "This ticket grants entry for six individuals to the event and includes a reserved table for six. Food and beverages are available à la carte.\n",
+            "inventoryLevel": 5,
+            "name": "Entry Ticket - EarlyBird - Table for 6",
+            "url": "https://www.skillboxes.com/events/ticket/new-year-party-byg-bang-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "This ticket grants entry for eight individuals to the event and includes a reserved table for eight. Food and beverages are available à la carte.\n",
             "inventoryLevel": 5,
             "name": "Entry Ticket - EarlyBird - Table for 8",
@@ -1179,7 +1235,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 39,
+            "inventoryLevel": 38,
             "name": "Audience Ticket",
             "url": "https://www.skillboxes.com/events/ticket/3pegs-comedy-weekend"
          }
@@ -1372,7 +1428,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Please arrive by 5:45 pm to secure your seat. Gates close at 6:15pm sharp. No parking available, please use public transport.\nVenue has mostly floor seating, with some chairs. As this is a house concert venue, we request that footwear be removed at the entrance. It tends to get cold, so do bring something warm. There is also one very friendly large dog at this venue.",
-            "inventoryLevel": 40,
+            "inventoryLevel": 29,
             "name": "The Teacher: A Solo Piano Concert by Natallia Kapylova featuring Works by JS Bach",
             "url": "https://www.skillboxes.com/events/ticket/the-teacher-a-solo-piano-concert-by-natallia-khanna-featuring-works-by-js-bach"
          }
@@ -1406,7 +1462,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 46,
+            "inventoryLevel": 45,
             "name": "Shubh Saran Workshop",
             "url": "https://www.skillboxes.com/events/ticket/band-performance-techniques-live-tech-breakdown-and-songwriting-workshop-by-shubh-saran-meet-and-greet-later"
          }
@@ -1642,7 +1698,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry to the event, Unlimited Premium liquor, Unlimited food\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/savor-series"
          }
@@ -1835,7 +1891,7 @@
       "description": "This New Year 2024 Eve is going to be lit with an amazing lineup! Get ready to groove with incredible female DJs like Sumaya, DJ Zion, DJ Abby, and DJ",
       "endDate": "2025-01-01T01:00:00",
       "identifier": "com.skillboxes.17103",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Z2ZadTlBVXBIZE1vTlF5bThFSDZCZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732077337xFZlPAQTdewa4ldC.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Z2ZadTlBVXBIZE1vTlF5bThFSDZCZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733160234hHp7Df6CSrFfHoV1.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "New Year"
@@ -2002,15 +2058,15 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "For Age(s) 16 +\nRedeemable Cover Charge Applicable At Gates.",
-            "inventoryLevel": 58,
+            "description": "For Age(s) 18 +\nRedeemable Cover Charge Applicable At Gates.",
+            "inventoryLevel": 57,
             "name": "Phase 1 : Single",
             "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "For Age(s) 16 +\nRedeemable Cover Charge Applicable At Gates.",
+            "description": "For Age(s) 18 +\nRedeemable Cover Charge Applicable At Gates.",
             "inventoryLevel": 75,
             "name": "Phase 1 : Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
@@ -2018,7 +2074,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "For Age(s) 16 +\nRedeemable Cover Charge Applicable At Gates.",
+            "description": "For Age(s) 18 +\nRedeemable Cover Charge Applicable At Gates.",
             "inventoryLevel": 9,
             "name": "Meet & Greet",
             "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
@@ -2026,7 +2082,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "For Age(s) 16 +\nRedeemable Cover Charge Applicable At Gates.",
+            "description": "For Age(s) 18 +\nRedeemable Cover Charge Applicable At Gates.",
             "inventoryLevel": 2,
             "name": "Early Bird : Single",
             "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
@@ -2034,7 +2090,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "For Age(s) 16 +\nRedeemable Cover Charge Applicable At Gates.",
+            "description": "For Age(s) 18 +\nRedeemable Cover Charge Applicable At Gates.",
             "inventoryLevel": 23,
             "name": "Early Bird : Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
@@ -2070,7 +2126,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry pass with standing access, no seating included.\n",
-            "inventoryLevel": 54,
+            "inventoryLevel": 42,
             "name": "Early Bird - Entry Only",
             "url": "https://www.skillboxes.com/events/ticket/kitty-su-pop-up-s-the-drag-dynasty"
          }
@@ -2423,14 +2479,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 993,
             "name": "Audience Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-13"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 995,
+            "inventoryLevel": 992,
             "name": "Performer Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-13"
          },
@@ -2597,7 +2653,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 987,
+            "inventoryLevel": 986,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/brainbow-x-param-live"
          },
@@ -2842,7 +2898,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 applied at gate. Fully Redeemable on F&B\n",
-            "inventoryLevel": 300,
+            "inventoryLevel": 298,
             "name": "GA Phase 2",
             "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
          },
