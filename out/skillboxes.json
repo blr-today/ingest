@@ -129,6 +129,107 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Saturdays at RAAHI are about to get stellar!This Saturday, we’re bringing you an all-star lineup with Shaun Moses x Moscada, renowned for their ",
+      "endDate": "2024-12-08T00:30:00",
+      "identifier": "com.skillboxes.17437",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VWM3NjZkUklCMnp2VUhMWExIbm9CQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733331429LnDyMWfrX3hNXddB.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "15, State Bank of India Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9730788",
+            "longitude": "77.6024359"
+         },
+         "name": "Raahi Neo Kitchen & Bar"
+      },
+      "name": "Genesis Feat. Shuan Moses X Moscada",
+      "offers": [ ],
+      "startDate": "2024-12-07T20:00:00",
+      "url": "https://www.skillboxes.com/events/genesis-feat-shuan-moses-x-moscada"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "🌈✨ Join us for a vibrant morning of love, pride, and togetherness! 🎉QUEERS AT THE PARKLet’s celebrate inclusivity and cre",
+      "endDate": "2024-12-14T13:00:00",
+      "identifier": "com.skillboxes.17431",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733325316gfWrj54KBxf9fgeF.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9779291",
+            "longitude": "77.5951549"
+         },
+         "name": "Cubbon Park, Charmarajendra Wodeyar Statue"
+      },
+      "name": "Queers At The Park - A Queer Crush Mixer by BlrGrooveCo",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "Regular Entry",
+            "url": "https://www.skillboxes.com/events/ticket/queers-at-the-park-a-queer-crush-mixer-by-blrgrooveco"
+         }
+      ],
+      "startDate": "2024-12-14T11:00:00",
+      "url": "https://www.skillboxes.com/events/queers-at-the-park-a-queer-crush-mixer-by-blrgrooveco"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Let's Socialise is a platform meant for singles to socialise. We have curated more than 150+ chapters for singles across 15+ cities in India and are n",
+      "endDate": "2024-12-14T19:00:00",
+      "identifier": "com.skillboxes.17430",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SVlIdEVHRmNYQjFNOENLZWNhcUxnQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733323157iwqTKbbQDFV8op1f.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Meetup events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Maratt Estate, Bannerghatta Rd, Dollar Layout, Phase 4, J. P. Nagar, Bengaluru, Karnataka 560076, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9057826",
+            "longitude": "77.6011616"
+         },
+         "name": "URU Brewpark"
+      },
+      "name": "Let's Socialise singles meetup- Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 5,
+            "name": "Early Bird Female",
+            "url": "https://www.skillboxes.com/events/ticket/let-s-socialise-singles-meetup-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 5,
+            "name": "Early Bird Male",
+            "url": "https://www.skillboxes.com/events/ticket/let-s-socialise-singles-meetup-1"
+         }
+      ],
+      "startDate": "2024-12-14T16:00:00",
+      "url": "https://www.skillboxes.com/events/let-s-socialise-singles-meetup-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "DND Live Presents: Skivinnie and Friends\r\nGet ready for an unforgettable night of music and vibes as Skivinnie and Friends debuts and take t",
       "endDate": "2024-12-20T23:59:00",
       "identifier": "com.skillboxes.17417",
@@ -537,7 +638,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A fully redeemable cover charge of ₹500 is applicable at the gate until 9:30 PM; Post that, ₹700.\n",
-            "inventoryLevel": 38,
+            "inventoryLevel": 37,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/khoslaraghu-live-bangalore"
          },
@@ -545,7 +646,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A fully redeemable cover charge of ₹500 is applicable at the gate until 9:30 PM; Post that, ₹700.\nAdmits 2 People.",
-            "inventoryLevel": 46,
+            "inventoryLevel": 43,
             "name": "Phase 1 (Buddy Passes)",
             "url": "https://www.skillboxes.com/events/ticket/khoslaraghu-live-bangalore"
          },
@@ -3334,6 +3435,65 @@
       ],
       "startDate": "2024-12-08T19:30:00",
       "url": "https://www.skillboxes.com/events/old-school-freedom-sick-society-tour"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "First time in Bangalore , The most awaited event of the season is here.\r\n\r\n \r\n\r\nDay Dreamers Presents \r\n\r\n \r\n\r\nSky Lantern Festival - A",
+      "endDate": "2024-12-07T22:00:00",
+      "identifier": "com.skillboxes.16738",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZXVSSkZ6OEQ2M2ZpbTVsR2VzaWFCZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1730276658sy9KA9oBVDjavHIm.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Hulimangala Rd, Vabasandra, Bengaluru, Bommasandra, Karnataka 560105, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.8130453",
+            "longitude": "77.6505109"
+         },
+         "name": "Utsavaa"
+      },
+      "name": "SKY LANTERN FESTIVAL IN BANGALORE",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass will allow one kid for the event + 1 Lantern\n",
+            "inventoryLevel": 2000,
+            "name": "SUPER EARLY BIRD PER KID (5-10Yrs)",
+            "url": "https://www.skillboxes.com/events/ticket/sky-lantern-festival-in-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass will allow one kid to the event + 1 Sky Lantern\nNo outside food and drinks is allowed. No outside sky lantern is allowed",
+            "inventoryLevel": 992,
+            "name": "PHASE 1 - PER KID(5-12YRS)",
+            "url": "https://www.skillboxes.com/events/ticket/sky-lantern-festival-in-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass will allow one person for the event + 1 Lantern\n",
+            "inventoryLevel": 1996,
+            "name": "SUPER EARLY BIRD PER PERSON",
+            "url": "https://www.skillboxes.com/events/ticket/sky-lantern-festival-in-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass will allow one person to the event + 1 Sky Lantern\nNo outside food and drinks are allowed.  No outside sky lantern is allowed",
+            "inventoryLevel": 956,
+            "name": "PHASE 1 - PER PERSON",
+            "url": "https://www.skillboxes.com/events/ticket/sky-lantern-festival-in-bangalore"
+         }
+      ],
+      "startDate": "2024-12-07T17:00:00",
+      "url": "https://www.skillboxes.com/events/sky-lantern-festival-in-bangalore"
    },
    {
       "@context": "https://schema.org",
