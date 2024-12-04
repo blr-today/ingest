@@ -31,7 +31,7 @@
         "currency": "INR",
         "validFrom": "2024-11-28 11:28:00",
         "availability": "INSTOCK",
-        "inventory": 361
+        "inventory": 331
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -39,7 +39,7 @@
         "currency": "INR",
         "validFrom": "2024-11-28 11:28:00",
         "availability": "INSTOCK",
-        "inventory": 137
+        "inventory": 118
       },
       {
         "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
@@ -96,7 +96,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 14:56:00",
         "availability": "INSTOCK",
-        "inventory": 52
+        "inventory": 50
       }
     ],
     "performers": [],
@@ -141,7 +141,7 @@
         "currency": "INR",
         "validFrom": "2024-12-01 17:41:44",
         "availability": "INSTOCK",
-        "inventory": 19
+        "inventory": 15
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -355,15 +355,15 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 1346
+        "inventory": 1314
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
         "price": 15000,
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
-        "availability": "INSTOCK",
-        "inventory": 219
+        "availability": "SELLING_FAST",
+        "inventory": 210
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -530,15 +530,15 @@
         "currency": "INR",
         "validFrom": "2024-11-27 17:41:32",
         "availability": "INSTOCK",
-        "inventory": 879
+        "inventory": 821
       },
       {
         "url": "https://www.zomato.com/events/pet-fed-bengaluru-2024-bengaluru-et51736/details",
         "price": 1999,
         "currency": "INR",
-        "validFrom": "2024-11-27 17:41:33",
+        "validFrom": "2024-11-27 17:41:00",
         "availability": "INSTOCK",
-        "inventory": 979
+        "inventory": 971
       }
     ],
     "performers": [],
@@ -627,7 +627,7 @@
         "currency": "INR",
         "validFrom": "2024-11-18 12:00:00",
         "availability": "INSTOCK",
-        "inventory": 423
+        "inventory": 413
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -696,7 +696,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:34:00",
         "availability": "INSTOCK",
-        "inventory": 964
+        "inventory": 957
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -704,7 +704,7 @@
         "currency": "INR",
         "validFrom": "2024-11-15 15:04:00",
         "availability": "INSTOCK",
-        "inventory": 1992
+        "inventory": 1991
       },
       {
         "url": "https://www.zomato.com/events/echoes-of-earth-2024-bangalore-bengaluru-et53053/details",
@@ -865,15 +865,15 @@
         "currency": "INR",
         "validFrom": "2024-11-24 18:08:32",
         "availability": "INSTOCK",
-        "inventory": 14
+        "inventory": 12
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
         "price": 699,
         "currency": "INR",
         "validFrom": "2024-11-24 18:08:32",
-        "availability": "INSTOCK",
-        "inventory": 11
+        "availability": "SELLING_FAST",
+        "inventory": 6
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -881,7 +881,7 @@
         "currency": "INR",
         "validFrom": "2024-11-24 18:08:00",
         "availability": "INSTOCK",
-        "inventory": 11
+        "inventory": 10
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
@@ -889,7 +889,7 @@
         "currency": "INR",
         "validFrom": "2024-11-24 18:08:33",
         "availability": "INSTOCK",
-        "inventory": 20
+        "inventory": 19
       },
       {
         "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
