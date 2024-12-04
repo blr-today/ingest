@@ -375,6 +375,40 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Following the smash success of its debut, The Dank Show is back with a vengeance for its second rendition! Ajeemama and The Onslaught Crew a",
+      "endDate": "2025-01-04T23:00:00",
+      "identifier": "com.skillboxes.17370",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RW5hVlRNb1dITjNabzFGT0syem81UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733193806a6TdNtNJBpMYZmaG.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st Main Cross",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9240906",
+            "longitude": "77.6366457"
+         },
+         "name": "The Raft"
+      },
+      "name": "The Dank Show: Not Your Amma's Music",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Not Your Amma's Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/the-dank-show-not-your-amma-s-music"
+         }
+      ],
+      "startDate": "2025-01-04T19:00:00",
+      "url": "https://www.skillboxes.com/events/the-dank-show-not-your-amma-s-music"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Bangalore, we heard you! It took us some time to make this happen but we're here. \r\n\r\n \r\n\r\nWe’re Sanchit and Rishabh from KhoslaRa",
       "endDate": "2024-12-19T23:00:00",
       "identifier": "com.skillboxes.17365",
