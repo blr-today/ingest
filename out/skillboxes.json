@@ -128,6 +128,75 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "After Echoes Ft Chan, Cash Michael & Source",
+      "endDate": "2024-12-07T23:59:00",
+      "identifier": "com.skillboxes.17400",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733271054Q1dgzmIHThfY8Ywc.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9849438",
+            "longitude": "77.5808105"
+         },
+         "name": "The Burrow"
+      },
+      "name": "After Echoes Ft Chan, Cash Michael & Source",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover will be charged at gate (Fully redeemable)\n",
+            "inventoryLevel": 300,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/after-echoes-ft-chan-cash-michael-source"
+         }
+      ],
+      "startDate": "2024-12-07T08:00:00",
+      "url": "https://www.skillboxes.com/events/after-echoes-ft-chan-cash-michael-source"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "i-Bar Electric Boogie",
+      "endDate": "2024-12-06T23:59:00",
+      "identifier": "com.skillboxes.17398",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733251542QD4zw7aSo6w0YtYb.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "The Park, MG Road, 14/7, Bhaskaran Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9739914",
+            "longitude": "77.6198638"
+         },
+         "name": "THE Park Bangalore"
+      },
+      "name": "i-Bar Electric Boogie",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10000,
+            "name": "Guestlist Pass",
+            "url": "https://www.skillboxes.com/events/ticket/i-bar-electric-boogie"
+         }
+      ],
+      "startDate": "2024-12-06T20:00:00",
+      "url": "https://www.skillboxes.com/events/i-bar-electric-boogie"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "\"Masha Vincent\" The Queen from the UK is here in India, and an incredible techno act awaits you on 6th Dec 24 at Sunburn Union.",
       "endDate": "2024-12-06T23:59:00",
@@ -478,7 +547,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional 300/- Cover will be charged at gate (Fully redeemable)\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 92,
             "name": "Early Bird - Live Screening : Abu Dhabi GP 2024",
             "url": "https://www.skillboxes.com/events/ticket/f1-grand-prix-live-screening-abu-dhabi-grand-prix-bira-91-taproom-koramangala"
          }

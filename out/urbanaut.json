@@ -31,8 +31,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 1,
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -281,7 +281,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 160,
-    "remainingAttendeeCapacity": 152,
+    "remainingAttendeeCapacity": 147,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -491,104 +491,6 @@
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A8880542651B496582315C4639AFD0C0_converted_webp.webp"
     ],
-    "startDate": "2024-12-03T12:00:00+05:30",
-    "endDate": "2024-12-03T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "45, 15th Cross Rd, Maruthi Extension, Malleshwaram, Bengaluru, Karnataka 560003, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJgY9n1SsWrjsRyGVpPDEL7Y8",
-      "latitude": "13.00559220000000000000",
-      "longitude": "77.56459020000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 90,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Chaarana Labs",
-      "description": "Exclusive Immersive Media Studio for Apple Vision Pro Experiences",
-      "url": "https://urbanaut.app/partner/river_realms_bic",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/32E47869679B4D35AF29348E623FE84E_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-84311-96723"
-      }
-    },
-    "url": "https://urbanaut.app/spot/river-realms-immersive-sabha#2024-12-03T1200",
-    "keywords": [
-      "Art & culture",
-      "History & heritage",
-      "Responsible",
-      "Virtual",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "River Realms:An Immersive VR experience@Panchavati",
-    "description": "This event is a part of Bengaluru Habba, a citywide Arts and Culture fest from Nov 30 - Dec 16Bengaluru\u2014a city of innovation, growth, and resilience, sustaining millions each day. But have you ever wondered what truly fuels this metropolis? Over 100 km away lies its lifeline: the Cauvery River, the single source capable of quenching the city\u2019s vast thirst. Rising to an elevation of 920 meters above sea level, every drop that reaches Bengaluru is part of an awe-inspiring engineering feat, delivering life-giving water across immense distances and elevations. While this feat of human ingenuity is indeed impressive, it underscores a critical reality: the city\u2019s reliance on a distant water source is a fragile solution, one that becomes increasingly unsustainable as demand grows.In this immersive experience on the Apple Vision Pro, transport to the heart of the Cauvery in a way like never before. With stunning 16K 180\u00b0 video narration, stories of conservation and wildlife, you\u2019ll feel the river\u2019s currents as if you\u2019re standing on its banks, surrounded by the beauty of lush landscapes, misty hills, and abundant wildlife. Glide along the river and experience the peaceful yet powerful journey of its waters, as they make their way to our city.Dive Deeper with AR and 3D ModelsGet up close with interactive 3D models that reveal the rich wildlife, diverse plants, and the complex infrastructure behind this remarkable journey. Watch as dams, pipelines, and pumping stations come to life, illustrating the sophisticated system that transports Cauvery\u2019s finite waters over vast distances to sustain Bengaluru. Feel the river's flow, witness the delicate balance between nature and engineering, and understand both the marvel and the responsibility of relying on a distant water source.An Experience Like No OtherThis is more than just an experience\u2014it\u2019s an invitation to understand the delicate balance that keeps Bengaluru thriving. Join us at Bengaluru Hubba on the Apple Vision Pro for \u201cBengaluru: A City Fueled by the Cauvery\u201d Discover the lifeblood of our city, and be part of the journey that brings water, life, and hope to millions.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A8880542651B496582315C4639AFD0C0_converted_webp.webp"
-    ],
-    "startDate": "2024-12-03T17:00:00+05:30",
-    "endDate": "2024-12-03T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "45, 15th Cross Rd, Maruthi Extension, Malleshwaram, Bengaluru, Karnataka 560003, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJgY9n1SsWrjsRyGVpPDEL7Y8",
-      "latitude": "13.00559220000000000000",
-      "longitude": "77.56459020000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 87,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Chaarana Labs",
-      "description": "Exclusive Immersive Media Studio for Apple Vision Pro Experiences",
-      "url": "https://urbanaut.app/partner/river_realms_bic",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/32E47869679B4D35AF29348E623FE84E_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-84311-96723"
-      }
-    },
-    "url": "https://urbanaut.app/spot/river-realms-immersive-sabha#2024-12-03T1700",
-    "keywords": [
-      "Art & culture",
-      "History & heritage",
-      "Responsible",
-      "Virtual",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "River Realms:An Immersive VR experience@Panchavati",
-    "description": "This event is a part of Bengaluru Habba, a citywide Arts and Culture fest from Nov 30 - Dec 16Bengaluru\u2014a city of innovation, growth, and resilience, sustaining millions each day. But have you ever wondered what truly fuels this metropolis? Over 100 km away lies its lifeline: the Cauvery River, the single source capable of quenching the city\u2019s vast thirst. Rising to an elevation of 920 meters above sea level, every drop that reaches Bengaluru is part of an awe-inspiring engineering feat, delivering life-giving water across immense distances and elevations. While this feat of human ingenuity is indeed impressive, it underscores a critical reality: the city\u2019s reliance on a distant water source is a fragile solution, one that becomes increasingly unsustainable as demand grows.In this immersive experience on the Apple Vision Pro, transport to the heart of the Cauvery in a way like never before. With stunning 16K 180\u00b0 video narration, stories of conservation and wildlife, you\u2019ll feel the river\u2019s currents as if you\u2019re standing on its banks, surrounded by the beauty of lush landscapes, misty hills, and abundant wildlife. Glide along the river and experience the peaceful yet powerful journey of its waters, as they make their way to our city.Dive Deeper with AR and 3D ModelsGet up close with interactive 3D models that reveal the rich wildlife, diverse plants, and the complex infrastructure behind this remarkable journey. Watch as dams, pipelines, and pumping stations come to life, illustrating the sophisticated system that transports Cauvery\u2019s finite waters over vast distances to sustain Bengaluru. Feel the river's flow, witness the delicate balance between nature and engineering, and understand both the marvel and the responsibility of relying on a distant water source.An Experience Like No OtherThis is more than just an experience\u2014it\u2019s an invitation to understand the delicate balance that keeps Bengaluru thriving. Join us at Bengaluru Hubba on the Apple Vision Pro for \u201cBengaluru: A City Fueled by the Cauvery\u201d Discover the lifeblood of our city, and be part of the journey that brings water, life, and hope to millions.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A8880542651B496582315C4639AFD0C0_converted_webp.webp"
-    ],
     "startDate": "2024-12-04T12:00:00+05:30",
     "endDate": "2024-12-04T17:00:00+05:30",
     "location": {
@@ -602,7 +504,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 98,
+    "remainingAttendeeCapacity": 93,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -700,7 +602,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 98,
+    "remainingAttendeeCapacity": 94,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -896,7 +798,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 98,
+    "remainingAttendeeCapacity": 94,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1685,7 +1587,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 48,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1889,7 +1791,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 47,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3649,7 +3551,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3848,7 +3750,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3900,7 +3802,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4103,7 +4005,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4607,7 +4509,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -5286,7 +5188,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 22,
-    "remainingAttendeeCapacity": 22,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -5369,7 +5271,7 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/705987B51E6443168B960A4081C86C2B_converted_webp.webp"
     ],
     "startDate": "2024-12-07T11:00:00+05:30",
-    "endDate": "2024-12-07T13:00:00+05:30",
+    "endDate": "2024-12-07T12:30:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -5477,7 +5379,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 80,
+    "remainingAttendeeCapacity": 73,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
