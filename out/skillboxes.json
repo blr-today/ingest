@@ -21,7 +21,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in General Zone.\n◉ General access to bars, f&b counters.",
-            "inventoryLevel": 1252,
+            "inventoryLevel": 1236,
             "name": "Phase 1 | Single - GA",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -29,7 +29,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
-            "inventoryLevel": 655,
+            "inventoryLevel": 645,
             "name": "Phase 1 | Single - Fan Zone",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -72,7 +72,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge INR 500/- Per Individual Applicable At Gates.\n",
-            "inventoryLevel": 777,
+            "inventoryLevel": 734,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/karma-live-the-warm-up-tour-bangalore"
          },
@@ -125,6 +125,57 @@
       ],
       "startDate": "2025-03-28T20:00:00",
       "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": " Johnnie Walker Revibe Bengaluru ft. Ahadadream, Kampai & moreCouple ( Full Cover ) : 999/-Permits free entry to the event till 9PM only. Col",
+      "endDate": "2024-12-13T23:59:00",
+      "identifier": "com.skillboxes.17448",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733400452FbFZuc51kYFy6bCn.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "963, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9700136",
+            "longitude": "77.6400748"
+         },
+         "name": "Daddy Bangalore"
+      },
+      "name": "Johnnie Walker Revibe Bengaluru ft. Ahadadream, Kampai & more",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits free entry to the event till 9PM only. Collect you Full cover coupon of INR 500 upon arrival at gate.\nNote : Upon entry post 9PM additional cover applicable as per club rules and regulations.",
+            "inventoryLevel": 100,
+            "name": "Single Lady ( Full Cover )",
+            "url": "https://www.skillboxes.com/events/ticket/johnnie-walker-revibe-bengaluru-ft-ahadadream-kampai-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits free entry to the event till 9PM only. Collect you Full cover coupon of INR 1000 upon arrival at gate.\nNote : Upon entry post 9PM additional cover applicable as per club rules and regulations.",
+            "inventoryLevel": 100,
+            "name": "Stag ( Full Cover )",
+            "url": "https://www.skillboxes.com/events/ticket/johnnie-walker-revibe-bengaluru-ft-ahadadream-kampai-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits free entry to the event till 9PM only. Collect you Full cover coupon of INR 1000 upon arrival at gate.\nNote : Upon entry post 9PM additional cover applicable as per club rules and regulations.",
+            "inventoryLevel": 100,
+            "name": "Couple ( Full Cover )",
+            "url": "https://www.skillboxes.com/events/ticket/johnnie-walker-revibe-bengaluru-ft-ahadadream-kampai-more"
+         }
+      ],
+      "startDate": "2024-12-13T19:00:00",
+      "url": "https://www.skillboxes.com/events/johnnie-walker-revibe-bengaluru-ft-ahadadream-kampai-more"
    },
    {
       "@context": "https://schema.org",
@@ -331,7 +382,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges applicable post 9:30 pm\n",
-            "inventoryLevel": 150,
+            "inventoryLevel": 148,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/indie-fridays-ft-skivinnie-and-friends"
          }
@@ -342,7 +393,7 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "SHOW 1Friday the 13th | 8 pm to 10 pmSHOW 2Saturday the 14th | 12 pm to 2 pm  SHOW 3Saturday the 14th | 6 pm to 8 pmThese thr",
+      "description": "SHOW 1\r\n\r\nFriday the 13th | 8 pm to 10 pm\r\n\r\nSHOW 2\r\n\r\nSaturday the 14th | 12 pm to 2 pm  \r\n\r\nSHOW 3\r\n\r\nSaturday the 14th | 6",
       "endDate": "2024-12-14T20:00:00",
       "identifier": "com.skillboxes.17414",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RUZBUWhNRG5TZ0kza0ZmZ0ZCYkNHZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733310009o00aE7m9A5H3CdMq.jpg.webp",
@@ -365,21 +416,21 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 199,
+            "inventoryLevel": 187,
             "name": "Show 1 (13/12/24 | 8PM-10PM)",
             "url": "https://www.skillboxes.com/events/ticket/vineeth-vincent-x-the-area-boys"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 200,
+            "inventoryLevel": 196,
             "name": "Show 2 (14/12/24 | 12PM-2PM)",
             "url": "https://www.skillboxes.com/events/ticket/vineeth-vincent-x-the-area-boys"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 199,
+            "inventoryLevel": 192,
             "name": "Show 3 (14/12/24 | 6PM-8PM)",
             "url": "https://www.skillboxes.com/events/ticket/vineeth-vincent-x-the-area-boys"
          }
@@ -414,7 +465,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 993,
+            "inventoryLevel": 992,
             "name": "Female - Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/protocol-sunday-ft-hugo-cantarra-8th-dec-kitty-ko-2"
          },
@@ -422,7 +473,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 998,
+            "inventoryLevel": 996,
             "name": "Couple - Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/protocol-sunday-ft-hugo-cantarra-8th-dec-kitty-ko-2"
          }
@@ -433,22 +484,52 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "The Relaunch of RAAHI – This Friday!\r\n\r\n \r\n\r\nJoin us as we unveil an all-new RAAHI with cutting-edge sound and production that will elevate",
+      "description": "The Relaunch of RAAHI – This Friday!\r\nJoin us as we unveil an all-new RAAHI with cutting-edge sound and production that will elevate your night ",
       "endDate": "2024-12-07T00:30:00",
       "identifier": "com.skillboxes.17411",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VWM3NjZkUklCMnp2VUhMWExIbm9CQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733302882Hq3M7yG7MKUVss55.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VWM3NjZkUklCMnp2VUhMWExIbm9CQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733318174uc5AvCR3yRePXg1e.jpg.webp",
       "isAccessibleForFree": true,
       "keywords": [
          "Music Events"
       ],
       "location": {
          "@type": "Place",
-         "address": "Bangalore, Karnataka, India",
-         "name": "To Be Decided"
+         "address": "15, State Bank of India Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9730788",
+            "longitude": "77.6024359"
+         },
+         "name": "Raahi Neo Kitchen & Bar"
       },
       "name": "Chapter 1 Feat. ANSWER // SHRII",
-      "offers": [ ],
-      "startDate": "2024-12-06T21:00:00",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "**Cover Applicale At Gates Post 9:30Pm\n",
+            "inventoryLevel": 10000,
+            "name": "Couple Guestlist Pass",
+            "url": "https://www.skillboxes.com/events/ticket/chapter-1-feat-answer-shrii"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "**Cover Applicale At Gates Post 9:30Pm\n",
+            "inventoryLevel": 10000,
+            "name": "Female Guestlist Pass",
+            "url": "https://www.skillboxes.com/events/ticket/chapter-1-feat-answer-shrii"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "**Cover Applicale At Gates Throughout The Event\n",
+            "inventoryLevel": 30,
+            "name": "Male Guestlist Pass",
+            "url": "https://www.skillboxes.com/events/ticket/chapter-1-feat-answer-shrii"
+         }
+      ],
+      "startDate": "2024-12-06T20:00:00",
       "url": "https://www.skillboxes.com/events/chapter-1-feat-answer-shrii"
    },
    {
@@ -874,7 +955,7 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": ".. ",
+      "description": "Redroom_BLRFridays FeaturingMari FerrariWILDERNESS GIRLARTBLOTKISHFriday 13th December 2024 | 7PM onwards,At Kitty Ko ( Lalit Ashok Bangalore )Mu",
       "endDate": "2024-12-13T23:59:00",
       "identifier": "com.skillboxes.17357",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733144680NDpLQn5FPEEyWC1P.jpg.webp",
@@ -1073,7 +1154,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "STAY HYDRATED AND DRIVE SAFE!! (SORRY FOR THE BASS)\nFREE ENTRY FOR ALL",
-            "inventoryLevel": 436,
+            "inventoryLevel": 406,
             "name": "BASSLINE",
             "url": "https://www.skillboxes.com/events/ticket/grime-syndicate-i"
          }
@@ -1800,7 +1881,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 37,
+            "inventoryLevel": 35,
             "name": "Audience Ticket",
             "url": "https://www.skillboxes.com/events/ticket/3pegs-comedy-weekend"
          }
@@ -1982,8 +2063,8 @@
          "address": "441, 9th cross, Jayanagar 1st block Bangalore, India",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "12.9384681",
-            "longitude": "77.5875814"
+            "latitude": "12",
+            "longitude": "77"
          },
          "name": "The Blue Room"
       },
@@ -1993,7 +2074,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Please arrive by 5:45 pm to secure your seat. Gates close at 6:15pm sharp. No parking available, please use public transport.\nVenue has mostly floor seating, with some chairs. As this is a house concert venue, we request that footwear be removed at the entrance. It tends to get cold, so do bring something warm. There is also one very friendly large dog at this venue.",
-            "inventoryLevel": 29,
+            "inventoryLevel": 26,
             "name": "The Teacher: A Solo Piano Concert by Natallia Kapylova featuring Works by JS Bach",
             "url": "https://www.skillboxes.com/events/ticket/the-teacher-a-solo-piano-concert-by-natallia-khanna-featuring-works-by-js-bach"
          }
@@ -2017,8 +2098,8 @@
          "address": "441, 9th cross, Jayanagar 1st block Bangalore, India",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "12.9384681",
-            "longitude": "77.5875814"
+            "latitude": "12",
+            "longitude": "77"
          },
          "name": "The Blue Room"
       },
@@ -2473,7 +2554,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Stay in Deluxe room of Fairfield for a couple (Male and Female) Check-in Time: 1pm (31st Dec 2024) Check-Out: 11am (1st Jan 2025) Reserved Seating for a couple at pool side Access to One Couple (Male and Female) to party at Ballroom Buffet Dinner for Couple Buffet Breakfast on 1st Jan 2025 Unlimited Food and Beverages\n",
+            "description": "Stay in Deluxe room of Fairfield for a couple (Male and Female) Check-in Time: 2pm (31st Dec 2024) Check-Out: 11am (1st Jan 2025) Reserved Seating for a couple at pool side Access to One Couple (Male and Female) to party at Ballroom Buffet Dinner for Couple Buffet Breakfast on 1st Jan 2025 Unlimited Food and Beverages\n",
             "inventoryLevel": 50,
             "name": "Deluxe Couple Stay Package",
             "url": "https://www.skillboxes.com/events/ticket/unmask-the-night-edition-3-0-new-year-s-eve-2025"
@@ -2494,7 +2575,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "🌸 Otaku Hunt: An Anime Meetup! 🌸Calling all anime fans, cosplayers, and Otakus! Join us for Otaku Hunt, an anime lover's paradise wher",
-      "endDate": "2024-12-07T18:00:00",
+      "endDate": "2024-12-14T18:00:00",
       "identifier": "com.skillboxes.17123",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732114143kHPlU1t4PjETDWkk.jpg.webp",
       "isAccessibleForFree": false,
@@ -2522,7 +2603,7 @@
             "url": "https://www.skillboxes.com/events/ticket/otaku-hunt"
          }
       ],
-      "startDate": "2024-12-07T16:00:00",
+      "startDate": "2024-12-14T16:00:00",
       "url": "https://www.skillboxes.com/events/otaku-hunt"
    },
    {
@@ -2699,7 +2780,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 18 +\nRedeemable Cover Charge Applicable At Gates.",
-            "inventoryLevel": 57,
+            "inventoryLevel": 55,
             "name": "Phase 1 : Single",
             "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
          },
@@ -2765,8 +2846,16 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "(This is a standing category with no seating included. A mandatory cover charge of ₹500 applies at the gate.)\n",
+            "inventoryLevel": 995,
+            "name": "Phase 1 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/kitty-su-pop-up-s-the-drag-dynasty"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "Entry pass with standing access, no seating included.\n",
-            "inventoryLevel": 30,
+            "inventoryLevel": 15,
             "name": "Early Bird - Entry Only",
             "url": "https://www.skillboxes.com/events/ticket/kitty-su-pop-up-s-the-drag-dynasty"
          }
@@ -3168,7 +3257,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge  INR 500 Applicable At Gates.\n",
-            "inventoryLevel": 20,
+            "inventoryLevel": 16,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/indie-friday-corner-cafe-chronicles-x-lotus"
          },
@@ -3294,7 +3383,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500/- per individual payable at gate (100% redeemable)\n",
-            "inventoryLevel": 984,
+            "inventoryLevel": 980,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/brainbow-x-param-live"
          },
@@ -3564,14 +3653,14 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 applied at gate. Fully Redeemable on F&B\n",
-            "inventoryLevel": 291,
+            "inventoryLevel": 286,
             "name": "GA Phase 2",
             "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Get exclusive full venue access for shooting content. Fully Redeemable on F&B, cover charge of INR 500 applied at gate.\n- Call on 9380376585 to avail your All access Creator badges.",
+            "description": "Get exclusive full venue access for shooting content. Fully Redeemable on F&B, cover charge of INR 500 applied at gate.\nCall on 9380376585 to avail your All access Creator badges.",
             "inventoryLevel": 4,
             "name": "Creator Pass",
             "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
@@ -3579,15 +3668,15 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charge of INR 500 applied at gate. Fully Redeemable on F&B\n",
-            "inventoryLevel": 40,
+            "description": "Enjoy the madness with your bestie at discounted rates. Cover charge of INR 1000 applied at gate. Fully Redeemable on F&B.\n",
+            "inventoryLevel": 39,
             "name": "Buddy Pass",
             "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Includes 1 SlaughterFest2024 Official T-shirt + Cover charge of INR 500 applied at gate. Fully Redeemable on F&B\n",
+            "description": "Be a LEGEND! Includes 1 premium quality Official SlaughterFest2024 T-shirt + 1 Ticket. Cover charge of INR 500 applied at gate. Fully Redeemable on F&B\n",
             "inventoryLevel": 30,
             "name": "SlaughterFest SuperFan",
             "url": "https://www.skillboxes.com/events/ticket/slaughterfest-2024"

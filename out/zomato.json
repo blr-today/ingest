@@ -23,7 +23,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 331
+               "value": 291
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-28T11:28:00+05:30"
@@ -32,7 +32,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 118
+               "value": 96
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-28T11:28:00+05:30"
@@ -41,7 +41,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 236
+               "value": 232
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-09T05:00:00+05:30"
@@ -82,7 +82,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 50
+               "value": 41
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-18T14:56:00+05:30"
@@ -96,7 +96,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 50,
+      "remainingAttendeeCapacity": 41,
       "startDate": "2024-12-06T19:00:00+05:30",
       "url": "https://www.zomato.com/events/dil-luminati-tour-india-bengaluru-et50398"
    },
@@ -142,7 +142,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 20
+               "value": 18
             },
             "priceCurrency": "INR",
             "validFrom": "2024-12-01T17:41:00+05:30"
@@ -354,7 +354,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1314
+               "value": 1278
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T21:18:00+05:30"
@@ -363,7 +363,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 210
+               "value": 203
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -494,7 +494,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 821
+               "value": 735
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-27T17:41:00+05:30"
@@ -503,7 +503,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 971
+               "value": 960
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-27T17:41:00+05:30"
@@ -586,7 +586,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 413
+               "value": 411
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-18T12:00:00+05:30"
@@ -645,7 +645,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 957
+               "value": 943
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-15T15:34:00+05:30"
@@ -654,7 +654,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1991
+               "value": 1989
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-15T15:04:00+05:30"
@@ -817,7 +817,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 12
+               "value": 8
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-24T18:08:00+05:30"
@@ -826,16 +826,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 6
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-24T18:08:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 10
+               "value": 4
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-24T18:08:00+05:30"
@@ -853,7 +844,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 19
+               "value": 15
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-24T18:08:00+05:30"
@@ -893,6 +884,15 @@
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-22T21:36:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-24T18:08:00+05:30"
          },
          {
             "availability": "InStock",
