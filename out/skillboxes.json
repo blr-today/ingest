@@ -129,6 +129,83 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Camera starts rolling, Sunny smiles warmly at the camera.Hi Bangalore! I’ve got some super exciting news for you! 🎉This 7th December, I&",
+      "endDate": "2024-12-08T01:00:00",
+      "identifier": "com.skillboxes.17441",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QnI5eW4yM1h2dE1xS1NKNUZ5dmNGdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733351942tyrsjAyGOeXXKQRr.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9150698",
+            "longitude": "77.6664367"
+         },
+         "name": "IGNITE SUPER CLUB"
+      },
+      "name": "SUNNY LEONE live in BANGLORE",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/sunny-leone-live-in-banglore"
+         }
+      ],
+      "startDate": "2024-12-07T07:30:00",
+      "url": "https://www.skillboxes.com/events/sunny-leone-live-in-banglore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Get ready for an unforgettable night at Zozo Club as Epic Afters brings the house down on 8th December! Headlining the event is the sensational Hemaik",
+      "endDate": "2024-12-08T23:59:00",
+      "identifier": "com.skillboxes.17440",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733338987K1q7APeoFqKmS2sM.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "A-1, D Rajgopala, nagar, Sanjay Nagar Main Rd, AECS Layout, KEB Layout, Sanjayanagara, Bengaluru, Karnataka 560094, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0314698",
+            "longitude": "77.5771977"
+         },
+         "name": "ZOZO THE CLUB"
+      },
+      "name": "Epic Afters Ft Hemaiko",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one individual to the event.\n",
+            "inventoryLevel": 100,
+            "name": "Early Bird - Solo Pass",
+            "url": "https://www.skillboxes.com/events/ticket/epic-afters-ft-hemaiko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one couple to the event.\n",
+            "inventoryLevel": 100,
+            "name": "Early Bird - Couples",
+            "url": "https://www.skillboxes.com/events/ticket/epic-afters-ft-hemaiko"
+         }
+      ],
+      "startDate": "2024-12-08T19:00:00",
+      "url": "https://www.skillboxes.com/events/epic-afters-ft-hemaiko"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Saturdays at RAAHI are about to get stellar!This Saturday, we’re bringing you an all-star lineup with Shaun Moses x Moscada, renowned for their ",
       "endDate": "2024-12-08T00:30:00",
       "identifier": "com.skillboxes.17437",
@@ -377,10 +454,10 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "After Echoes Ft Chan, Cash Michael & Source",
+      "description": "Gear up for another round of afters at the Burrow.House, breaks and acid all night long.On the lineup we have@sundar_chan the OG BLR veteran know",
       "endDate": "2024-12-07T23:59:00",
       "identifier": "com.skillboxes.17400",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733271054Q1dgzmIHThfY8Ywc.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733315164LUm3VCtBA2A0gzGl.jpg.webp",
       "isAccessibleForFree": true,
       "keywords": [
          "Music Event"
@@ -395,13 +472,13 @@
          },
          "name": "The Burrow"
       },
-      "name": "After Echoes Ft Chan, Cash Michael & Source",
+      "name": "The Burrow Presents Chan, Cash Michael & Source",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover will be charged at gate (Fully redeemable)\n",
-            "inventoryLevel": 300,
+            "inventoryLevel": 291,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/after-echoes-ft-chan-cash-michael-source"
          }
@@ -435,7 +512,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 10000,
+            "inventoryLevel": 9990,
             "name": "Guestlist Pass",
             "url": "https://www.skillboxes.com/events/ticket/i-bar-electric-boogie"
          }
@@ -786,7 +863,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional 300/- Cover will be charged at gate (Fully redeemable)\n",
-            "inventoryLevel": 92,
+            "inventoryLevel": 86,
             "name": "Early Bird - Live Screening : Abu Dhabi GP 2024",
             "url": "https://www.skillboxes.com/events/ticket/f1-grand-prix-live-screening-abu-dhabi-grand-prix-bira-91-taproom-koramangala"
          }
