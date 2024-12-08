@@ -86,6 +86,54 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Thursday Exclusive Ladies Night",
+      "endDate": "2024-12-26T23:59:00",
+      "identifier": "com.skillboxes.17502",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733665302qUzy7xxRzZouESTL.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9336478",
+            "longitude": "77.6148833"
+         },
+         "name": "HOD - House Of Dopamine Brewery LLP"
+      },
+      "name": "LADIES NIGHT // AT HOD // BOLLYWOOD",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10000,
+            "name": "12th December || RSVP Pass",
+            "url": "https://www.skillboxes.com/events/ticket/ladies-night-at-hod-bollywood"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10000,
+            "name": "19th December || RSVP Pass",
+            "url": "https://www.skillboxes.com/events/ticket/ladies-night-at-hod-bollywood"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10000,
+            "name": "26th December || RSVP Pass",
+            "url": "https://www.skillboxes.com/events/ticket/ladies-night-at-hod-bollywood"
+         }
+      ],
+      "startDate": "2024-12-12T20:00:00",
+      "url": "https://www.skillboxes.com/events/ladies-night-at-hod-bollywood"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Highlights:DJ NightNon Stop MusicBollywood NightDance FloorMouth Watering AppetizersCocktails and MocktailsJoin us for an epic night of music and fun.",
       "endDate": "2024-12-16T00:30:00",
       "identifier": "com.skillboxes.17499",
@@ -602,101 +650,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Bangalore, Get Ready to Ignite the Night!Step into the future of nightlife as IGNITE Super Club opens its doors in the heart of Bangalore with an elec",
-      "endDate": "2024-12-08T01:00:00",
-      "identifier": "com.skillboxes.17441",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QnI5eW4yM1h2dE1xS1NKNUZ5dmNGdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733351942tyrsjAyGOeXXKQRr.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9150698",
-            "longitude": "77.6664367"
-         },
-         "name": "IGNITE SUPER CLUB"
-      },
-      "name": "SUNNY LEONE live in BANGLORE",
-      "offers": [ ],
-      "startDate": "2024-12-07T07:30:00",
-      "url": "https://www.skillboxes.com/events/sunny-leone-live-in-banglore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Get ready for an unforgettable night at Zozo Club as Epic Afters brings the house down on 8th December! Headlining the event is the sensational Hemaik",
-      "endDate": "2024-12-08T23:59:00",
-      "identifier": "com.skillboxes.17440",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733338987K1q7APeoFqKmS2sM.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "A-1, D Rajgopala, nagar, Sanjay Nagar Main Rd, AECS Layout, KEB Layout, Sanjayanagara, Bengaluru, Karnataka 560094, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0314698",
-            "longitude": "77.5771977"
-         },
-         "name": "ZOZO THE CLUB"
-      },
-      "name": "Epic Afters Ft Hemaiko",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one individual to the event.\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird - Solo Pass",
-            "url": "https://www.skillboxes.com/events/ticket/epic-afters-ft-hemaiko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one couple to the event.\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird - Couples",
-            "url": "https://www.skillboxes.com/events/ticket/epic-afters-ft-hemaiko"
-         }
-      ],
-      "startDate": "2024-12-08T19:00:00",
-      "url": "https://www.skillboxes.com/events/epic-afters-ft-hemaiko"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Saturdays at RAAHI are about to get stellar!This Saturday, we’re bringing you an all-star lineup with Shaun Moses x Moscada, renowned for their ",
-      "endDate": "2024-12-08T00:30:00",
-      "identifier": "com.skillboxes.17437",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VWM3NjZkUklCMnp2VUhMWExIbm9CQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733331429LnDyMWfrX3hNXddB.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "15, State Bank of India Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9730788",
-            "longitude": "77.6024359"
-         },
-         "name": "Raahi Neo Kitchen & Bar"
-      },
-      "name": "Genesis Feat. Shuan Moses X Moscada",
-      "offers": [ ],
-      "startDate": "2024-12-07T20:00:00",
-      "url": "https://www.skillboxes.com/events/genesis-feat-shuan-moses-x-moscada"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "Event",
       "description": "\"Whitefield`s Biggest Grand New Year Extravaganza 2025: One Night In Paris\"\r\n\r\n \r\n\r\nAfter the grand success of earlier seasons of One N",
       "endDate": "2024-12-31T23:59:00",
@@ -1032,54 +985,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "description": "DJ NightBollywood and PunjabiDance FloorNon Stop MusicGet ready to groove to the hottest beats of Bollywood and Punjabi music at our biggest Saturday ",
-      "endDate": "2024-12-08T01:00:00",
-      "identifier": "com.skillboxes.17375",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0JDVVVMbXI5Q1ZtWXJNS1A1QTJzUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733220111YAomnNmFaPhuxmdP.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Party or Social Gathering"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "MSR Building, FLO, #3, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9743377",
-            "longitude": "77.6068167"
-         },
-         "name": "FLO Church Street"
-      },
-      "name": "SUPERCLUB SATURDAY",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 200,
-            "name": "Boys",
-            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-17"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 198,
-            "name": "Girls",
-            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-17"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 200,
-            "name": "Couples",
-            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-17"
-         }
-      ],
-      "startDate": "2024-12-07T20:00:00",
-      "url": "https://www.skillboxes.com/events/superclub-saturday-17"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Following the smash success of its debut, The Dank Show is back with a vengeance for its second rendition! Ajeemama and The Onslaught Crew a",
       "endDate": "2025-01-04T23:00:00",
@@ -1277,41 +1182,6 @@
       ],
       "startDate": "2024-12-08T20:00:00",
       "url": "https://www.skillboxes.com/events/wild-sunday-nolimits-magrath-road-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Venue : Bira 91 Tap Room, KoramangalaTiming: 6:30 PM OnwardsPromoter: F1 CommuneEarly Bird: INR 299/-  [ Additional INR 300/- Cover fully redeema",
-      "endDate": "2024-12-08T21:00:00",
-      "identifier": "com.skillboxes.17359",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733146199pg9Yl7QmFmgL3Yhc.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Sports"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9313063",
-            "longitude": "77.6329297"
-         },
-         "name": "Bira 91 Taproom, Koramangala"
-      },
-      "name": "F1 Grand Prix Live Screening - Abu Dhabi Grand Prix | BIRA 91 Taproom, Koramangala",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional 300/- Cover will be charged at gate (Fully redeemable)\n",
-            "inventoryLevel": 13,
-            "name": "Early Bird - Live Screening : Abu Dhabi GP 2024",
-            "url": "https://www.skillboxes.com/events/ticket/f1-grand-prix-live-screening-abu-dhabi-grand-prix-bira-91-taproom-koramangala"
-         }
-      ],
-      "startDate": "2024-12-08T18:00:00",
-      "url": "https://www.skillboxes.com/events/f1-grand-prix-live-screening-abu-dhabi-grand-prix-bira-91-taproom-koramangala"
    },
    {
       "@context": "https://schema.org",
@@ -2004,35 +1874,6 @@
       ],
       "startDate": "2024-12-31T19:30:00",
       "url": "https://www.skillboxes.com/events/unlock-2025-new-year-s-eve"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "ಇದು ಹಾಸ್ಯದ ಹೊಸ ಅಧ್ಯಾಯ!Relatable Comedy Mee",
-      "endDate": "2024-12-08T16:30:00",
-      "identifier": "com.skillboxes.17200",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QXBDS0VnTlpYU2Q1bXlXQnMxdXhKQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732541713LAu6LXimpJrSC4KO.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Comedy Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No 53, 1st floor, Shree Chambers, Subbarama Chetty road, Basavanagudi, Bangalore - 560004",
-         "name": "Pops Of Pastel Studio"
-      },
-      "name": "3PEGS COMEDY WEEKEND",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 20,
-            "name": "Audience Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/3pegs-comedy-weekend"
-         }
-      ],
-      "startDate": "2024-12-08T14:30:00",
-      "url": "https://www.skillboxes.com/events/3pegs-comedy-weekend"
    },
    {
       "@context": "https://schema.org",
