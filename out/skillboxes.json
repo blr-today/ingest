@@ -85,6 +85,49 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "ಈ ಸಣ್-day ಅನ್ನು funn-day ಆಗಿಸಲು \"ಅರಳ&#",
+      "endDate": "2024-12-22T17:00:00",
+      "identifier": "com.skillboxes.17519",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/S1lWWlhJMjdYcTBpcHFoYzJTbE4zdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733752255MesHRD4BhsouG4GE.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Community & Culture"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No 53, 1st floor, Shree Chambers, Subbarama Chetty road, Basavanagudi, Bangalore - 560004",
+         "name": "Pops Of Pastel Studio"
+      },
+      "name": "ಅರಳಿ ಕಟ್ಟೆ- Kannada Open Mic",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 25,
+            "name": "Audience ticket",
+            "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-18"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 7,
+            "name": "Performer ticket",
+            "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-18"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 4,
+            "name": "Combo Ticket (Performer ticket+audience ticket)",
+            "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-18"
+         }
+      ],
+      "startDate": "2024-12-22T14:00:00",
+      "url": "https://www.skillboxes.com/events/kannada-open-mic-18"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Get ready for an unforgettable musical experience at Guruskool Farm, the legendary venue that once hosted the iconic Freedom Jams of the 90s! Kalayatr",
       "endDate": "2024-12-15T21:00:00",
@@ -1146,49 +1189,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Get ready for the ultimate techno showcase in your city - PROTOCOL SUNDAY! Catch the Anjunadeep Sensation HUGO CANTARRA live ",
-      "endDate": "2024-12-09T01:00:00",
-      "identifier": "com.skillboxes.17413",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733307461hSBM3G1eXHIQM5ge.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Protocol Sunday ft. Hugo Cantarra / 8th Dec / Kitty Ko",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 986,
-            "name": "Female - Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-sunday-ft-hugo-cantarra-8th-dec-kitty-ko-2"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 983,
-            "name": "Couple - Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-sunday-ft-hugo-cantarra-8th-dec-kitty-ko-2"
-         }
-      ],
-      "startDate": "2024-12-08T19:00:00",
-      "url": "https://www.skillboxes.com/events/protocol-sunday-ft-hugo-cantarra-8th-dec-kitty-ko-2"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "Meg and The Miracles is a rock and roll dream project of the vocal powerhouse \"Megan Rakesh\"\r\n\r\nM A T M is a band making waves with their un",
       "endDate": "2024-12-13T23:59:00",
       "identifier": "com.skillboxes.17389",
@@ -1450,27 +1450,6 @@
       ],
       "startDate": "2024-12-14T19:40:00",
       "url": "https://www.skillboxes.com/events/saturday-hangover-blockbuster-night-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Highlights:DJ NightNon Stop MusicBollywood NightDance FloorMouth Watering AppetizersCocktails and MocktailsJoin us for an epic night of music and fun.",
-      "endDate": "2024-12-09T00:30:00",
-      "identifier": "com.skillboxes.17360",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733148252mn7XJq35SzWr4AZZ.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "#8, 2nd Floor, Above Nalli SIlks Bangalore, India",
-         "name": "Nolimmits Lounge & Club"
-      },
-      "name": "Wild Sunday @ Nolimits Magrath Road",
-      "offers": [ ],
-      "startDate": "2024-12-08T20:00:00",
-      "url": "https://www.skillboxes.com/events/wild-sunday-nolimits-magrath-road-1"
    },
    {
       "@context": "https://schema.org",
@@ -2356,40 +2335,6 @@
       ],
       "startDate": "2024-12-15T18:00:00",
       "url": "https://www.skillboxes.com/events/the-teacher-a-solo-piano-concert-by-natallia-khanna-featuring-works-by-js-bach"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "EducationEvent",
-      "description": "The Blue Room is thrilled to welcome Shubh Saran back – and this time with his exceptional band! – to conduct a unique workshop on all the",
-      "endDate": "2024-12-09T21:00:00",
-      "identifier": "com.skillboxes.17159",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VDZqc1k2cjZnTGVzbE9PSFZJSmdQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17325244568mvPlBj7bfTrRC6f.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Workshops"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "441, 9th cross, Jayanagar 1st block Bangalore, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12",
-            "longitude": "77"
-         },
-         "name": "The Blue Room"
-      },
-      "name": "A Masterclass by Shubh Saran + Band on Performance Techniques, Songwriting, and Live Tech Breakdown (+meet and greet)",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 41,
-            "name": "Shubh Saran Workshop",
-            "url": "https://www.skillboxes.com/events/ticket/band-performance-techniques-live-tech-breakdown-and-songwriting-workshop-by-shubh-saran-meet-and-greet-later"
-         }
-      ],
-      "startDate": "2024-12-09T18:30:00",
-      "url": "https://www.skillboxes.com/events/band-performance-techniques-live-tech-breakdown-and-songwriting-workshop-by-shubh-saran-meet-and-greet-later"
    },
    {
       "@context": "https://schema.org",
