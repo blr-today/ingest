@@ -5488,5 +5488,52 @@
       "COURTYARD",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Travel Tales with Suman Raj",
+    "description": "Hey, fellow wanderer! Got a travel tale to tell? Welcome to the Travel Tales Table, where no luggage is required\ud83d\ude1cWhether you\u2019ve wandered the world or are just getting started, this is the spot for swapping travel stories, tips, bucket-list dreams and those 'I can't believe that happened' moments!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B96C4DB172A94B75B02B20EB75D7BB3F_converted_webp.webp"
+    ],
+    "startDate": "2024-12-13T18:00:00+05:30",
+    "endDate": "2024-12-13T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No 84, Sarrakki IV Phase, Dollars Colony, J P Nagar Phase 5, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBVzCIYsVrjsR1DoRk08_Iig",
+      "latitude": "12.90356530000000000000",
+      "longitude": "77.59482410000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 7,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is where plans get made, stories get shared, and connections just click. From chill dinners to epic meetups, we\u2019re all about turning strangers into friends and friends into family. Pull up a seat and let the good times roll!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/travel-tales",
+    "keywords": [
+      "Active",
+      "Adventure",
+      "URBANAUT"
+    ]
   }
 ]

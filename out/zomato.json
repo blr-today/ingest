@@ -23,7 +23,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 57
+               "value": 27
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-28T11:28:00+05:30"
@@ -32,16 +32,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 46
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-28T11:28:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 92
+               "value": 83
             },
             "priceCurrency": "INR",
             "validFrom": "2024-12-07T14:06:00+05:30"
@@ -54,6 +45,15 @@
             },
             "priceCurrency": "INR",
             "validFrom": "2024-08-09T05:00:00+05:30"
+         },
+         {
+            "availability": "Sold Out",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 0
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-11-28T11:28:00+05:30"
          }
       ],
       "organizer": [
@@ -321,7 +321,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 4316
+               "value": 4051
             },
             "priceCurrency": "INR",
             "validFrom": "2024-12-06T23:11:00+05:30"
@@ -330,7 +330,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1214
+               "value": 1178
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-05T21:18:00+05:30"
@@ -339,7 +339,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 187
+               "value": 183
             },
             "priceCurrency": "INR",
             "validFrom": "2024-10-25T13:24:00+05:30"
@@ -449,6 +449,98 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "RuPay Zomaland is back and it’s hotter, crunchier, and tastier than ever before!\nGet ready for a flavour packed adventure that will blow your mind.\n\nDiscover mouthwatering gourmet delicacies crafted by world renowned chefs, and treat your tastebuds to a fusion of flavours at this epic multi-city food festival.\n\nWhat’s more? This year we’re serving up thrilling experiences to go with the delish feast we’ve planned for you. From workshops with culinary legends to electrifying performances by your favourite artists, it’s gonna be a one-of-a-kind experience you won’t want to miss!\n\nWhat are you waiting for? Get your feast mode on and let’s get this party started!",
+      "endDate": "2025-03-16T22:00:00+05:30",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventStatusScheduled",
+      "image": "https://b.zmtcdn.com/data/zomaland/a12c0f3466d513d8f677c264655b91ac1733299559.jpeg",
+      "isAccessibleForFree": false,
+      "location": {
+         "address": "149/223, Tarunhunse Village, next to Stone Hill International School, Bengaluru",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 13.174361377153,
+            "longitude": 77.594987095174005
+         },
+         "name": "Embassy Grounds"
+      },
+      "name": "RuPay Zomaland by Zomato | Season 5",
+      "offers": [ ],
+      "organizer": [
+         {
+            "name": "Zomato Live",
+            "type": "ORGANIZATION",
+            "url": "https://www.zomato.com/events"
+         }
+      ],
+      "performers": [
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/08c57c3eee59e648638878dff543365f1732858120.png",
+            "name": "Divine",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/08c57c3eee59e648638878dff543365f1732858120.png"
+         },
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/1de630f97d7a93ff0359c59d063c68de1730173470.png",
+            "name": "Talwiinder",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/1de630f97d7a93ff0359c59d063c68de1730173470.png"
+         },
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/294566e21d9e97a091ae1d78a6346d571732858167.png",
+            "name": "Rawal",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/294566e21d9e97a091ae1d78a6346d571732858167.png"
+         },
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/988bd73396738a401ba0130d6cb2a77a1732858274.png",
+            "name": "Chaar Diwaari",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/988bd73396738a401ba0130d6cb2a77a1732858274.png"
+         },
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/6145f4f3a8874858ed38fc946765c6601732858188.png",
+            "name": "Parimal Shais",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/6145f4f3a8874858ed38fc946765c6601732858188.png"
+         },
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/bd0ec192367b0e879a33e3f2a4f7933d1732858291.png",
+            "name": "Madhur Virli",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/bd0ec192367b0e879a33e3f2a4f7933d1732858291.png"
+         },
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/d0ffb4428cdb8f5455df4cd150d274ca1732858205.png",
+            "name": "Aashish Solanki",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/d0ffb4428cdb8f5455df4cd150d274ca1732858205.png"
+         },
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/5aa112b2682e5eaca9005232ad5e27c81732858313.png",
+            "name": "Gubbi",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/5aa112b2682e5eaca9005232ad5e27c81732858313.png"
+         },
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/f5547a80c558ad7932759d86e3cd3cfa1732858222.png",
+            "name": "More",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/f5547a80c558ad7932759d86e3cd3cfa1732858222.png"
+         },
+         {
+            "image": "https://b.zmtcdn.com/data/zomaland/f5547a80c558ad7932759d86e3cd3cfa1732858325.png",
+            "name": "More",
+            "type": "PERSON",
+            "url": "https://b.zmtcdn.com/data/zomaland/f5547a80c558ad7932759d86e3cd3cfa1732858325.png"
+         }
+      ],
+      "startDate": "2025-03-15T14:00:00+05:30",
+      "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Pre-register to be notified first when the tickets drop. The line-up is to be announced soon.\n\nDGTL India 2023 saw over 15,000 attendees across 3 days enjoying world-class techno and electronic music, stunning lighting and stage designs, conceptual showcases, and vital sustainability initiatives, resulting in an immersive, audio-visual experience.\nBook your tickets now to secure your spot for this year!\nDGTL is a global electronic music festival with editions in Amsterdam, Santiago (Chile), São Paulo (Brazil), Bengaluru & Mumbai, and during the Amsterdam Dance Event. Besides its focus on music, DGTL features unique art installations and exciting sustainability projects. Its sustainability program sets it apart in the festival landscape.",
       "endDate": "2024-12-28T04:00:00+05:30",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -470,7 +562,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 398
+               "value": 393
             },
             "priceCurrency": "INR",
             "validFrom": "2024-11-18T12:00:00+05:30"
@@ -588,7 +680,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 97
+               "value": 94
             },
             "priceCurrency": "INR",
             "validFrom": "2024-12-06T14:33:00+05:30"
@@ -913,7 +1005,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 269
+               "value": 262
             },
             "priceCurrency": "INR",
             "validFrom": "2024-12-06T18:16:00+05:30"
@@ -927,7 +1019,7 @@
          }
       ],
       "performers": [ ],
-      "remainingAttendeeCapacity": 269,
+      "remainingAttendeeCapacity": 262,
       "startDate": "2024-12-14T16:30:00+05:30",
       "url": "https://www.zomato.com/events/we-jam-bengaluru-et53480"
    }

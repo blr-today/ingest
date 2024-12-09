@@ -23,5 +23,46 @@
       }
     ],
     "maximumAttendeeCapacity": 60
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Living in Space: Exploring Innovative Solutions to Tackle New Challenges",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2024-12-15T11:00:00+05:30",
+    "endDate": "2024-12-15T13:00:00+05:30",
+    "description": "What does it take to sustain human life in the vast expanse of space?<br>Join Italian experts as they divulge the forefront of space research, focusing on sustainable innovations designed to support life beyond Earth. This session explores cutting-edge solutions for cosmic radiation protection, contamination control, and overcoming the physiological and biomechanical challenges of low-gravity environments. Discover and gain insights into nutrition and food sustainability tailored for long-term space missions, paving the way for a future where humanity thrives among the stars.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=living-in-space",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Plinio-Innocenzi"
+      },
+      {
+        "@type": "Person",
+        "name": "Ugo-Della-Croce"
+      },
+      {
+        "@type": "Person",
+        "name": "Andrada-Pica"
+      },
+      {
+        "@type": "Person",
+        "name": "Antonella-Pantaleo"
+      },
+      {
+        "@type": "Person",
+        "name": "Alessia-Manca"
+      },
+      {
+        "@type": "Person",
+        "name": "In-Space"
+      }
+    ],
+    "maximumAttendeeCapacity": 60
   }
 ]

@@ -21,7 +21,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241003T100000
 DTEND;TZID=Asia/Kolkata:20241224T170000
-DTSTAMP:20241209T074252
+DTSTAMP:20241209T121313
 CREATED:20241015T131031Z
 LAST-MODIFIED:20241015T131031Z
 UID:11730-1727949600-1735059600@www.bengalurusustainabilityforum.org
@@ -36,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241209T090000
 DTEND;TZID=Asia/Kolkata:20241213T170000
-DTSTAMP:20241209T074252
+DTSTAMP:20241209T121313
 CREATED:20240914T085053Z
 LAST-MODIFIED:20240914T085904Z
 UID:11160-1733734800-1734109200@www.bengalurusustainabilityforum.org
@@ -46,5 +46,18 @@ URL:https://www.bengalurusustainabilityforum.org/event/basic-statistics-in-envir
 LOCATION:Azim Premji University\, Burugunte Village\, Survey No 66\, Bikkanahalli Main Rd\, Sarjapura\, Bengaluru\, Karnataka\, 562125\, India
 CATEGORIES:In-person Event,Partner Organisation Event
 ATTACH;FMTTYPE=image/png:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/09/Basic-Stats_R_24_SM-creative-APU.png
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20241221T080000
+DTEND;TZID=Asia/Kolkata:20250305T170000
+DTSTAMP:20241209T121313
+CREATED:20241209T034106Z
+LAST-MODIFIED:20241209T034106Z
+UID:12054-1734768000-1741194000@www.bengalurusustainabilityforum.org
+SUMMARY:CLIMATE LEADERSHIP PROGRAM x Resilient Cities (Bengaluru)~ SUSTERA
+DESCRIPTION:<aside> 💡 The Climate Leadership Program X on Resilient Cities is a professionally guided leadership program designed by SUSTERA Foundation to empower dedicated citizen leaders from Bangalore to tackle the city’s unique urban hazard challenges. In this 10-week intensive fellowship\, selected few individuals aged 22 to 45 will gain an in-depth understanding of urban climate risks and the skills to address pressing environmental issues that impact Bangalore’s communities daily. \nThis fellowship focuses on real\, actionable change\, equipping participants with tools to tackle urban hazards that threaten the city’s sustainability\, including water scarcity\, urban heat\, flooding\, and air pollution. By the end of the program\, participants will not only understand the complexities of these issues but also be prepared to lead community-driven initiatives for a resilient and sustainable Bangalore. \nCommitment Requirement: This program requires a commitment of approximately 10 hours per week along with 3 offline days for immersive\, hands-on learning. \nNote: This program is designed for those ready to take initiative\, build a resilient Bangalore\, and lead impactful citizen movements for climate resilience. \nAPPLY NOW!  \nRegistration closes on 10 Dec 2024
+URL:https://www.bengalurusustainabilityforum.org/event/climate-leadership-program-x-resilient-cities-bengaluru-sustera/
+CATEGORIES:External event,Hybrid Event
+ATTACH;FMTTYPE=image/jpeg:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/12/CLPBengaluru2024.jpg
 END:VEVENT
 END:VCALENDAR
