@@ -3503,7 +3503,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Bento Box Table",
-    "description": "Savor Connections at the Bento Box Table! \ud83c\udf71At the Bento Box Table, every bite comes with a side of connection.Each box brings surprises & laughter, as everyone discovers something different. It\u2019s food, fun & friendships all wrapped up in one!It's the perfect way to make new connections, share stories, and enjoy the best of bento-style dining\u2014all in one place.",
+    "description": "Savor Connections at the Bento Box Table! \ud83c\udf71At the Bento Box Table, every bite comes with a side of connection. Each box brings surprises & laughter, as everyone discovers something different. It\u2019s food, fun & friendships all wrapped up in one!It's the perfect way to make new connections, share stories, and enjoy the best of bento-style dining\u2014all in one place.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1AE2FD07BB1A4522B85D616AC12CDC51_converted_webp.webp"
     ],
@@ -3686,6 +3686,57 @@
       "Leisure",
       "Local",
       "COURTYARD",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Beyond Small Talk : Cocktails & Conversations",
+    "description": "Phew! that was some week (like every week)You deserve a few rounds :)Indulge in a curated selection of handcrafted cocktails, expertly paired with delectable appetizers, maincourse and a tasting platter for dessert. Enjoy the ambiance as we unwind and celebrate the end of the week together.This is a perfect opportunity to close the week and socialize with a group of like minded individuals in a relaxed and elegant setting. Each guest at this event has been invited and vetted personally by our Founder & CEO, Vrushali.Be rest assured, that this is the beginning of a great friendship & bond.Cheers and see you soon!Team \u2728enVie\u2728",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/75CCF476DB4E4DD6ACA86D19884079D2_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/38FEB04ED3644CBEBAC5111B582D0478_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/990778E212FD4D548BA020CFDA00095F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DFA054959CD046F8BEE627D3432079F2_converted_webp.webp"
+    ],
+    "startDate": "2024-12-14T20:00:00+05:30",
+    "endDate": "2024-12-14T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Ward 72, Plot 1209, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJzyDnxRwUrjsR8A3n-TCW5tE",
+      "latitude": "12.96555620000000000000",
+      "longitude": "77.64123730000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "enVie",
+      "description": "Come meet interesting peeps over curated food & drinks at the best restaurants & bars in your city!",
+      "url": "https://urbanaut.app/partner/envie",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/FE1F93309AD941EDAAC21C6869CE8325_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99878-79181"
+      }
+    },
+    "url": "https://urbanaut.app/spot/saturday-x-friends-social-mixer",
+    "keywords": [
+      "Food & drink",
+      "Leisure",
+      "Premium",
       "URBANAUT"
     ]
   },
