@@ -21,7 +21,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241003T100000
 DTEND;TZID=Asia/Kolkata:20241224T170000
-DTSTAMP:20241210T121200
+DTSTAMP:20241210T182723
 CREATED:20241015T131031Z
 LAST-MODIFIED:20241015T131031Z
 UID:11730-1727949600-1735059600@www.bengalurusustainabilityforum.org
@@ -36,7 +36,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241209T090000
 DTEND;TZID=Asia/Kolkata:20241213T170000
-DTSTAMP:20241210T121200
+DTSTAMP:20241210T182723
 CREATED:20240914T085053Z
 LAST-MODIFIED:20240914T085904Z
 UID:11160-1733734800-1734109200@www.bengalurusustainabilityforum.org
@@ -48,9 +48,24 @@ CATEGORIES:In-person Event,Partner Organisation Event
 ATTACH;FMTTYPE=image/png:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/09/Basic-Stats_R_24_SM-creative-APU.png
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20241214T150000
+DTEND;TZID=Asia/Kolkata:20241214T170000
+DTSTAMP:20241210T182723
+CREATED:20241209T115102Z
+LAST-MODIFIED:20241210T070757Z
+UID:12061-1734188400-1734195600@www.bengalurusustainabilityforum.org
+SUMMARY:Meaningfully Meet-up- A curated networking mixer for women in climate
+DESCRIPTION:Connect with like-minded women\, share ideas\, and learn from inspiring experts. No prior climate knowledge needed—just bring your curiosity and passion for impact! \n​SCAN QR code to register : \n​-Existing Members – Rs.399/pp; Non-Members – Rs 499/pp; Group of 3 or more – Flat fee of Rs. 350/pp (Member/Non-Members) \n​**Prior Registration is mandatory.
+URL:https://www.bengalurusustainabilityforum.org/event/meaningfully-meet-up-a-curated-networking-mixer-for-women-in-climate/
+LOCATION:Samagata
+CATEGORIES:External event,In-person Event
+ATTACH;FMTTYPE=image/png:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2024/12/Networking-BLR_1.png
+ORGANIZER;CN="Nadhi-SheforClimate":MAILTO:Nadhi.sheforclimate@gmail.com
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241221T080000
 DTEND;TZID=Asia/Kolkata:20250305T170000
-DTSTAMP:20241210T121200
+DTSTAMP:20241210T182723
 CREATED:20241209T034106Z
 LAST-MODIFIED:20241209T034106Z
 UID:12054-1734768000-1741194000@www.bengalurusustainabilityforum.org
