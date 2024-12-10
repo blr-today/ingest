@@ -86,6 +86,40 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Suzy Q Presents House of Dance FeaturingBeat InspectorSidbitEgmaNavya",
+      "endDate": "2024-12-16T23:59:00",
+      "identifier": "com.skillboxes.17556",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NkNjZDlqTkI1YmZteFhNSW5waWtOQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733839821DFtIHC5bdV0myLoG.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No.1, Express Building, Queens Rd, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9837428",
+            "longitude": "77.5966959"
+         },
+         "name": "Suzy Q"
+      },
+      "name": "House of Dance ft Beat Inspector",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 299,
+            "name": "House of Dance",
+            "url": "https://www.skillboxes.com/events/ticket/house-of-dance-ft-beat-inspector"
+         }
+      ],
+      "startDate": "2024-12-15T19:30:00",
+      "url": "https://www.skillboxes.com/events/house-of-dance-ft-beat-inspector"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Get ready for an unforgettable musical experience at Guruskool Farm, the legendary venue that once hosted the iconic Freedom Jams of the 90s! The Real",
       "endDate": "2024-12-15T21:00:00",
       "identifier": "com.skillboxes.17529",
@@ -145,15 +179,8 @@
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 7,
-            "name": "Performer ticket",
-            "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-18"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 4,
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
             "name": "Combo Ticket (Performer ticket+audience ticket)",
             "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-18"
          }
@@ -3610,56 +3637,6 @@
       ],
       "startDate": "2024-12-31T18:00:00",
       "url": "https://www.skillboxes.com/events/one-night-in-dxb"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Imagine the wildest, most unforgettable New Year's bash you've ever experienced in Bangalore—now take that and turn it up by a factor of 10! Tha",
-      "endDate": "2025-01-01T01:00:00",
-      "identifier": "com.skillboxes.16889",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/eHhaWGxsc0V4YWZ5VTgxZnlPc2tIUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733470481YjGklnqjH3o0DKpf.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "37, Hennur Bagalur Main Rd, Kuvempu Layout, Kothanur, Bengaluru, Karnataka 560077, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0698839",
-            "longitude": "77.6517917"
-         },
-         "name": "Circuit #7 Resto Pub"
-      },
-      "name": "Light It Up New Year Eve at Circuit 7",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Alacarte\n",
-            "inventoryLevel": 50,
-            "name": "Female",
-            "url": "https://www.skillboxes.com/events/ticket/light-it-up-new-year-eve-at-circuit-7"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 50,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/light-it-up-new-year-eve-at-circuit-7"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Alacarte\n",
-            "inventoryLevel": 40,
-            "name": "Male",
-            "url": "https://www.skillboxes.com/events/ticket/light-it-up-new-year-eve-at-circuit-7"
-         }
-      ],
-      "startDate": "2024-12-31T20:00:00",
-      "url": "https://www.skillboxes.com/events/light-it-up-new-year-eve-at-circuit-7"
    },
    {
       "@context": "https://schema.org",
