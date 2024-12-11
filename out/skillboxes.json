@@ -86,6 +86,49 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Get ready for the ultimate techno showcase in your city - PROTOCOL SUNDAY! Catch the techno wizard AERES live at Kitty Ko this Sunday.Also Featuring: ",
+      "endDate": "2024-12-16T01:00:00",
+      "identifier": "com.skillboxes.17579",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733897999bEI81e8qc3xBQOA7.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Protocol Sunday ft. AERES / 15th Dec / Kitty Ko",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 1000,
+            "name": "Guestlist - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/protocol-sunday-ft-aeres-15th-dec-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 1000,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/protocol-sunday-ft-aeres-15th-dec-kitty-ko"
+         }
+      ],
+      "startDate": "2024-12-15T20:00:00",
+      "url": "https://www.skillboxes.com/events/protocol-sunday-ft-aeres-15th-dec-kitty-ko"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Get ready, Bangalore! The internationally renowned electronic music sensation, Alex Kennon, is set to light up the city with an unforgettable night of",
       "endDate": "2024-12-22T01:00:00",
       "identifier": "com.skillboxes.17574",
@@ -181,6 +224,41 @@
       ],
       "startDate": "2024-12-15T19:30:00",
       "url": "https://www.skillboxes.com/events/house-of-dance-ft-beat-inspector"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "This Christmas, spend some quality time with your friends and paint a set of 2 Christmas themed wooden coasters with us! Sparkle up your home with you",
+      "endDate": "2024-12-22T15:00:00",
+      "identifier": "com.skillboxes.17542",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UzcvamVYbHFMc201R3V4YmF0b2o1Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733825328yw5DiiEisiGgeomb.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "152/24-1, Seegehalli, Krishnarajapuram, Attibele, Bengaluru, Karnataka 560067, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0193823",
+            "longitude": "77.7623395"
+         },
+         "name": "Tall Oaks | Kitchen + Bar"
+      },
+      "name": "Christmas Coaster Decoration Workshop | Hill Station Ciders x ArtBeat at Tall Oaks",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket entitles the participant to one pint of Hill Station and two 4 inch cork coasters, decorated during the event.\n",
+            "inventoryLevel": 20,
+            "name": "Entry Pass + 1 free Hill Station Cider",
+            "url": "https://www.skillboxes.com/events/ticket/christmas-coaster-decoration-workshop-hill-station-ciders-x-artbeat-at-tall-oaks"
+         }
+      ],
+      "startDate": "2024-12-22T12:00:00",
+      "url": "https://www.skillboxes.com/events/christmas-coaster-decoration-workshop-hill-station-ciders-x-artbeat-at-tall-oaks"
    },
    {
       "@context": "https://schema.org",
