@@ -86,6 +86,71 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Get ready, Bangalore! The internationally renowned electronic music sensation, Alex Kennon, is set to light up the city with an unforgettable night of",
+      "endDate": "2024-12-22T01:00:00",
+      "identifier": "com.skillboxes.17574",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QnI5eW4yM1h2dE1xS1NKNUZ5dmNGdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733866998YYmujK9qBGfwMYEA.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "ALEX KENON live in Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable\n",
+            "inventoryLevel": 100,
+            "name": "General",
+            "url": "https://www.skillboxes.com/events/ticket/alex-kenon-live-in-bangalore"
+         }
+      ],
+      "startDate": "2024-12-21T07:00:00",
+      "url": "https://www.skillboxes.com/events/alex-kenon-live-in-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "🎆 The Final Countdown is Here! 🎆This New Year’s Eve, get ready for an unforgettable NYE Fest at the stunning Hyatt Centric, MG R",
+      "endDate": "2024-12-31T23:59:00",
+      "identifier": "com.skillboxes.17573",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VjJGbGsrRjhtazZVVGRGMXZFdEhjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733863412YhdouO8F0uTIM3ho.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "New Year 2025"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1/1, Swami Vivekananda Road, Mahatma Gandhi Rd, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.973455",
+            "longitude": "77.621801"
+         },
+         "name": "Hyatt Centric MG Road Bangalore"
+      },
+      "name": "The Final Countdown - New Year’s Eve 2025",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows entry to one individual. Cover charges applicable at the venue.\n",
+            "inventoryLevel": 50,
+            "name": "Early Bird Passes",
+            "url": "https://www.skillboxes.com/events/ticket/the-final-countdown-new-year-s-eve-2025"
+         }
+      ],
+      "startDate": "2024-12-31T18:00:00",
+      "url": "https://www.skillboxes.com/events/the-final-countdown-new-year-s-eve-2025"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "Suzy Q Presents House of Dance FeaturingBeat InspectorSidbitEgmaNavya",
       "endDate": "2024-12-16T23:59:00",
       "identifier": "com.skillboxes.17556",
