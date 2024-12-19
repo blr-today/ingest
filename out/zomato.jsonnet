@@ -1,84 +1,5 @@
 [
   {
-    "name": "Bryan Adams - So Happy It Hurts Tour 2024",
-    "description": "Get ready to experience the International rock legend's live concert as part of his 7 City India Tour! The legendary Bryan Adams is set to storm Indian arenas once again, and this time, he's bringing not just a concert, but a full-fledged electrifying musical journey through his unparalleled career with the \u2018So Happy It Hurts\u2019 World Tour.  \n\nBryan Adams' music has a timeless quality that resonates with fans of all ages. His ability to craft songs that blend heartfelt lyrics with memorable melodies has made him a beloved figure in the world of rock music.\n\nOfficial offline partner - Team Innovation and Live Fiesta\nFor offline ticket inquiries, please reach out to these numbers: 9619272551, 9619272554, 9892555107, or 9004743800",
-    "startDate": "2024-12-14T19:00:00+05:30",
-    "endDate": "2024-12-14T22:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Bryan Adams - So Happy It Hurts Tour 2024 Trending and Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Bryan Adams - So Happy It Hurts Tour 2024 Bengaluru on Zomato which is a Trending and Music event happening at Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/239863dd01a4a5ac942da78aca63b08e1730995771.png",
-      "https://b.zmtcdn.com/data/zomaland/1e89dbbb75e5d516946eb3f76ae900ab1721839188.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/6478370318ea10219b35bd45963db86a1721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/64da2fccfbcac50917728c80086f94161721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/560cd9a43f6a76b464338ade211ab62e1721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/f183db711697510886ba2f8ded165fd91721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/59c72d8e56850aa8c7bd71a1d78d77d61721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/5ce52e330649ddc2a36fd58e45da96821721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/5136a008fffbdbfdad9ca4edf5796d821721839209.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/2c1b4822f28bc102f2a77e151c56e76f1723452782.png",
-      "https://b.zmtcdn.com/data/zomaland/a60b79b088e8e1bfdb67f167c821c5531724315606.png",
-      "https://b.zmtcdn.com/data/zomaland/341226a810fa7d544181cedf86c546f01729842897.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 5999,
-        "currency": "INR",
-        "validFrom": "2024-11-28 11:28:00",
-        "availability": "SELLING_FAST",
-        "inventory": 10
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 9999,
-        "currency": "INR",
-        "validFrom": "2024-11-28 11:28:00",
-        "availability": "SELLING_FAST",
-        "inventory": 3
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 14999,
-        "currency": "INR",
-        "validFrom": "2024-12-07 14:06:00",
-        "availability": "INSTOCK",
-        "inventory": 46
-      },
-      {
-        "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352/details",
-        "price": 24999,
-        "currency": "INR",
-        "validFrom": "2024-08-09 05:00:00",
-        "availability": "INSTOCK",
-        "inventory": 203
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/bryan-adams-so-happy-it-hurts-tour-2024-bengaluru-et46352",
-    "id": "com.zomato.46352",
-    "location": {
-      "name": "Terraform Arena",
-      "address": "Survey No - 147/15, Taluk, near Embassy Riding School, Jala Hobali, Yelahanka, Tharahunise",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.174349,
-        "longitude": 77.597596
-      }
-    }
-  },
-  {
     "name": "Shankar Ehsaan Loy Live",
     "description": "RED LIVE in concert with Shankar Ehsaan Loy by Superhits 93.5 RED FM.\nPrepare to be swept off your feet by the legendary trio of Shankar Mahadevan, Ehsaan\nNoorani, and Loy Mendonsa as they set the stage on fire with their electrifying music\nand soul-stirring melodies.\n\nRED FM, India's premier FM radio network, brings its vibrant programming and\ninnovative content to millions of listeners across 69 cities, entertaining and engaging\naudiences with a unique mix of music, humour, and social commentary. Committed to\nmaking a positive impact, RED FM actively supports various social causes, enriching\ncommunities and fostering positive change.",
     "startDate": "2024-12-21T19:00:00+05:30",
@@ -96,19 +17,11 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-12-01 17:41:44",
-        "availability": "SELLING_FAST",
-        "inventory": 6
-      },
-      {
-        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
         "price": 3999,
         "currency": "INR",
         "validFrom": "2024-09-25 15:03:00",
         "availability": "INSTOCK",
-        "inventory": 90
+        "inventory": 87
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -124,7 +37,7 @@
         "currency": "INR",
         "validFrom": "2024-12-01 17:41:45",
         "availability": "INSTOCK",
-        "inventory": 18
+        "inventory": 17
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -197,6 +110,14 @@
         "validFrom": "2024-09-09 17:22:00",
         "availability": "INSTOCK",
         "inventory": 183
+      },
+      {
+        "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
+        "price": 2499,
+        "currency": "INR",
+        "validFrom": "2024-12-01 17:41:44",
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
@@ -314,15 +235,15 @@
         "currency": "INR",
         "validFrom": "2024-12-06 23:11:00",
         "availability": "INSTOCK",
-        "inventory": 3735
+        "inventory": 1976
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
         "price": 5000,
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
-        "availability": "INSTOCK",
-        "inventory": 1108
+        "availability": "SELLING_FAST",
+        "inventory": 827
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -330,7 +251,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "SELLING_FAST",
-        "inventory": 171
+        "inventory": 111
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -466,7 +387,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:04",
         "availability": "INSTOCK",
-        "inventory": 500
+        "inventory": 496
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",
@@ -583,8 +504,52 @@
     }
   },
   {
+    "name": "Tribute to AC/DC & Guns N' Roses",
+    "description": "Lee & Hard Rock Cafe Presents The Ultimate Tribute to AC/DC & Guns N\u2019 Roses ft. 2Blue\nYOU WILL LOVE HIM! Because he is not just a great singer! Tirthankar Poddar (aka 2Blue) is a muscular statement like a raised fist! With his four-octave militant-like voice and provocative storytelling, he is known to dazzle. Small wonder when Paul Di`Anno of Iron Maiden and George Lynch of Dokken came to India, it was 2Blue they performed with. As did Bumblefoot of Guns N\u2019 Roses.\nIf you were born in the `80s and raised on vintage rock, this could be emotional. Because chances are 2Blue is the artist you laughed and cried with when you were young. Chances are he is who you connected with on MySpace and Orkut when you needed a friend. And over the years, chances are he is who you grew old with the lead singer of Vayu who went solo, the man who was crazy enough to quit his lucrative day job to headline your college festival.",
+    "startDate": "2024-12-21T21:00:00+05:30",
+    "endDate": "2024-12-21T23:00:00+05:30",
+    "timezone": "+05:30",
+    "eventStatus": "SCHEDULED",
+    "eventAttendanceMode": "OFFLINE",
+    "isAccessibleForFree": false,
+    "ogTitle": "Tribute to AC/DC & Guns N' Roses Music and Trending event Tickets Bengaluru - Zomato",
+    "ogDesc": "Book online tickets for Tribute to AC/DC & Guns N' Roses Bengaluru on Zomato which is a Music and Trending event happening at Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
+    "images": [
+      "https://b.zmtcdn.com/data/zomaland/17ad3c985ce16efbf79108b22d1a0a8b1729656867.jpeg"
+    ],
+    "tickets": [
+      {
+        "url": "https://www.zomato.com/events/tribute-to-acdc-guns-n-roses-bengaluru-et52623/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-12-16 17:44:38",
+        "availability": "INSTOCK",
+        "inventory": 40
+      }
+    ],
+    "performers": [],
+    "organizer": [
+      {
+        "type": "ORGANIZATION",
+        "name": "Zomato Live",
+        "url": "https://www.zomato.com/events"
+      }
+    ],
+    "url": "https://www.zomato.com/events/tribute-to-acdc-guns-n-roses-bengaluru-et52623",
+    "id": "com.zomato.52623",
+    "location": {
+      "name": "Hard Rock Cafe",
+      "address": "Unit G 25 & 26, Ground Floor, Park Square Mall, International Tech Park, Pattandur Agrahara, Whitefield, Bangalore",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 12.98717896,
+        "longitude": 77.7364802
+      }
+    }
+  },
+  {
     "name": "DGTL Goa 2024",
-    "description": "Pre-register to be notified first when the tickets drop. The line-up is to be announced soon.\n\nDGTL India 2023 saw over 15,000 attendees across 3 days enjoying world-class techno and electronic music, stunning lighting and stage designs, conceptual showcases, and vital sustainability initiatives, resulting in an immersive, audio-visual experience.\nBook your tickets now to secure your spot for this year!\nDGTL is a global electronic music festival with editions in Amsterdam, Santiago (Chile), S\u00e3o Paulo (Brazil), Bengaluru & Mumbai, and during the Amsterdam Dance Event. Besides its focus on music, DGTL features unique art installations and exciting sustainability projects. Its sustainability program sets it apart in the festival landscape.",
+    "description": "DGTL India 2023 saw over 15,000 attendees across 3 days enjoying world-class techno and electronic music, stunning lighting and stage designs, conceptual showcases, and vital sustainability initiatives, resulting in an immersive, audio-visual experience.\nGates open at 3 PM. You can come in early to enjoy some time-exclusive deals on beverages.\nBook your tickets now to secure your spot for this year!\nDGTL is a global electronic music festival with editions in Amsterdam, Santiago (Chile), S\u00e3o Paulo (Brazil), Bengaluru & Mumbai, and during the Amsterdam Dance Event. Besides its focus on music, DGTL features unique art installations and exciting sustainability projects. Its sustainability program sets it apart in the festival landscape.",
     "startDate": "2024-12-27T16:00:00+05:30",
     "endDate": "2024-12-28T04:00:00+05:30",
     "timezone": "+05:30",
@@ -594,17 +559,41 @@
     "ogTitle": "DGTL Goa 2024 Best seller, Music and Experiences event Tickets Goa - Zomato",
     "ogDesc": "Book online tickets for DGTL Goa 2024 Goa on Zomato which is a Best seller, Music and Experiences event happening at House No. 600/1, Ground Floor, Vagator, Goa",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/45057d606fe932f241ed176c7314091e1731497359.png",
-      "https://b.zmtcdn.com/data/zomaland/893083f4cfd1c54493de844d33456d1a1731389560.png"
+      "https://b.zmtcdn.com/data/zomaland/a028ad0922a8227c1c15c6c21fbe211f1733938881.png",
+      "https://b.zmtcdn.com/data/zomaland/a028ad0922a8227c1c15c6c21fbe211f1733938906.png"
     ],
     "tickets": [
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
-        "price": 2520,
+        "price": 1411,
         "currency": "INR",
-        "validFrom": "2024-11-18 12:00:00",
+        "validFrom": "2024-12-11 18:10:33",
         "availability": "INSTOCK",
-        "inventory": 387
+        "inventory": 181
+      },
+      {
+        "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
+        "price": 2829,
+        "currency": "INR",
+        "validFrom": "2024-12-11 18:01:40",
+        "availability": "INSTOCK",
+        "inventory": 232
+      },
+      {
+        "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
+        "price": 7497,
+        "currency": "INR",
+        "validFrom": "2024-12-11 18:01:40",
+        "availability": "INSTOCK",
+        "inventory": 95
+      },
+      {
+        "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
+        "price": 10332,
+        "currency": "INR",
+        "validFrom": "2024-12-11 18:01:40",
+        "availability": "INSTOCK",
+        "inventory": 94
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -613,6 +602,14 @@
         "validFrom": "2024-11-18 12:00:00",
         "availability": "SOLDOUT",
         "inventory": 0
+      },
+      {
+        "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
+        "price": 2520,
+        "currency": "INR",
+        "validFrom": "2024-11-18 12:00:00",
+        "availability": "INSTOCK",
+        "inventory": 373
       }
     ],
     "performers": [],
@@ -688,179 +685,6 @@
     }
   },
   {
-    "name": "Open Air Festival with Nils Hoffmann (Anjunadeep)",
-    "description": "Get Ready for Bangalore's Biggest Rooftop Festival! \n\nJoin us on the 31st floor of the World Trade Centre for an unforgettable night headlined by Bangalore\u2019s very own Anjunadeep favourite, Nils Hoffmann. This unique rooftop experience promises incredible vibes, stellar music, and a view of Bangalore like no other.\n\nWhat\u2019s in Store:\nMassive Production & Premium Sound \u2013 Expect best-in-class sound and immersive lighting.\nTwo Stages \u2013 Experience both outdoor and indoor vibes across two stages.\nFlea Market & Interactive Experiences \u2013 Explore pop-up stalls, fun interactions, and more!\nSpectacular City Views \u2013 Soak in breathtaking views of Bangalore from 31 floors up!",
-    "startDate": "2024-12-14T18:00:00+05:30",
-    "endDate": "2024-12-15T01:00:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Open Air Festival with Nils Hoffmann (Anjunadeep) Music and Best seller event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Open Air Festival with Nils Hoffmann (Anjunadeep) Bengaluru on Zomato which is a Music and Best seller event happening at 26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4c99369f4183bf8027e77f0e9cdcba1d1731408176.jpeg",
-      "https://b.zmtcdn.com/data/zomaland/273840239676d3d42d9b09489436cce61732300698.png"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-12-06 14:33:46",
-        "availability": "INSTOCK",
-        "inventory": 99
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 899,
-        "currency": "INR",
-        "validFrom": "2024-12-06 14:33:47",
-        "availability": "INSTOCK",
-        "inventory": 148
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 1199,
-        "currency": "INR",
-        "validFrom": "2024-12-06 14:33:47",
-        "availability": "INSTOCK",
-        "inventory": 89
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-12-06 14:33:48",
-        "availability": "INSTOCK",
-        "inventory": 34
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 2999,
-        "currency": "INR",
-        "validFrom": "2024-12-06 14:33:48",
-        "availability": "INSTOCK",
-        "inventory": 26
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 399,
-        "currency": "INR",
-        "validFrom": "2024-11-14 16:05:00",
-        "availability": "INSTOCK",
-        "inventory": 15
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-11-14 16:05:00",
-        "availability": "INSTOCK",
-        "inventory": 20
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-11-22 21:36:00",
-        "availability": "INSTOCK",
-        "inventory": 19
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 499,
-        "currency": "INR",
-        "validFrom": "2024-11-24 18:08:00",
-        "availability": "INSTOCK",
-        "inventory": 8
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 599,
-        "currency": "INR",
-        "validFrom": "2024-11-22 21:36:00",
-        "availability": "INSTOCK",
-        "inventory": 17
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 699,
-        "currency": "INR",
-        "validFrom": "2024-11-24 18:08:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 899,
-        "currency": "INR",
-        "validFrom": "2024-11-22 21:36:00",
-        "availability": "INSTOCK",
-        "inventory": 18
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 999,
-        "currency": "INR",
-        "validFrom": "2024-11-24 18:08:00",
-        "availability": "INSTOCK",
-        "inventory": 3
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 1299,
-        "currency": "INR",
-        "validFrom": "2024-11-14 16:05:00",
-        "availability": "INSTOCK",
-        "inventory": 9
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-11-17 16:12:00",
-        "availability": "INSTOCK",
-        "inventory": 20
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 1999,
-        "currency": "INR",
-        "validFrom": "2024-11-24 18:08:00",
-        "availability": "INSTOCK",
-        "inventory": 19
-      },
-      {
-        "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166/details",
-        "price": 2499,
-        "currency": "INR",
-        "validFrom": "2024-11-24 18:08:00",
-        "availability": "INSTOCK",
-        "inventory": 15
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/open-air-festival-with-nils-hoffmann-anjunadeep-bengaluru-et53166",
-    "id": "com.zomato.53166",
-    "location": {
-      "name": "High Ultra Lounge",
-      "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 13.01305645,
-        "longitude": 77.55622893
-      }
-    }
-  },
-  {
     "name": "Bloom in Green Festival 2024",
     "description": "Welcome to Bloom in Green Festival 2024\nStep into a transformative three-day celebration of art, music, and connection. With 65+ hours of immersive experiences, enjoy two music stages featuring global and Indian talent, Workshop Shaalas for creativity and wellness, and awe-inspiring art installations. Every moment is designed to spark joy and inspire growth.\nExplore vibrant flea markets, engage in unique activities like drum circles and ecstatic dance, and relax under the stars at the Camping Village. Families will love the dedicated kids' zone, and attendees can choose from various camping options. Join us for an unforgettable journey of creativity, community, and transformation!",
     "startDate": "2024-12-20T07:00:00+05:30",
@@ -899,7 +723,7 @@
         "currency": "INR",
         "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 1500
+        "inventory": 1498
       },
       {
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
@@ -979,7 +803,7 @@
         "currency": "INR",
         "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 800
+        "inventory": 799
       },
       {
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
@@ -1027,30 +851,35 @@
     }
   },
   {
-    "name": "We Jam",
-    "description": "We Jam is the ultimate haven for music lovers!\n\nCome enjoy a relaxing and fun evening with us. A space where you can be yourself and feel at home.\nJoin our welcoming community for a lively jamming session; bring your guitars, cajones, and most importantly yourself to jam along. \n\nThe event features three parts:\n\nOpen Mic: Perform for a warm and supportive audience, no matter where you are on your musical journey. Reach out to @wejam.blr on Instagram to book your slot.\nSocial Mixer: Connect with fellow music lovers and jam along on your favourite songs. Be a part of fun and exciting music based games and get a chance to win exciting goodies. \nJamming Session: Sing, play instruments, and join the community in a warm and cozy, free-flowing musical experience. Together, we create music and memories.\"",
-    "startDate": "2024-12-14T16:30:00+05:30",
-    "endDate": "2024-12-14T20:30:00+05:30",
+    "name": "Soul Jams",
+    "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_bengaluru on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
+    "startDate": "2024-12-21T17:30:00+05:30",
+    "endDate": "2024-12-21T21:30:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
     "isAccessibleForFree": false,
-    "ogTitle": "We Jam Music event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for We Jam Bengaluru on Zomato which is a Music event happening at No. 67/1, Brigade Solitare, Residency Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/6bb94351c3b9e30f4b35d33302aa6c381733491927.png"
+      "https://b.zmtcdn.com/data/zomaland/7486963e5896fe1a7113599caf0b10421734241286.png"
     ],
     "tickets": [
       {
-        "url": "https://www.zomato.com/events/we-jam-bengaluru-et53480/details",
-        "price": 399,
+        "url": "https://www.zomato.com/events/soul-jams-bengaluru-et53503/details",
+        "price": 499,
         "currency": "INR",
-        "validFrom": "2024-12-06 18:16:00",
-        "availability": "INSTOCK",
-        "inventory": 255
+        "validFrom": "2024-12-15 19:20:00",
+        "availability": "SELLING_FAST",
+        "inventory": 83
       }
     ],
-    "performers": [],
+    "performers": [
+      {
+        "image": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381734241377.png",
+        "name": "Soul Jams",
+        "type": "PERSON",
+        "url": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381734241377.png"
+      }
+    ],
     "organizer": [
       {
         "type": "ORGANIZATION",
@@ -1058,15 +887,15 @@
         "url": "https://www.zomato.com/events"
       }
     ],
-    "url": "https://www.zomato.com/events/we-jam-bengaluru-et53480",
-    "id": "com.zomato.53480",
+    "url": "https://www.zomato.com/events/soul-jams-bengaluru-et53503",
+    "id": "com.zomato.53503",
     "location": {
-      "name": "We:Neighborhood",
-      "address": "No. 67/1, Brigade Solitare, Residency Rd, Ashok Nagar, Bengaluru, Karnataka 560025",
+      "name": "Rooftop, 1 MG - Lido Mall",
+      "address": "1/2, Old Madras Rd, Halasuru, Someshwarpura, Sivanchetti Gardens, Bengaluru",
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 12.973428479589,
-        "longitude": 77.608339930683
+        "latitude": 12.9738778,
+        "longitude": 77.62053502
       }
     }
   }

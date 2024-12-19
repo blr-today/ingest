@@ -38,6 +38,43 @@
   },
   {
     "@type": "MusicEvent",
+    "name": "Suit & Panda Live at Zozo Club | Bangalore  | Ny2025",
+    "about": "Get ready for an unforgettable night as Suit and Panda take over on December 28th! Experience electrifying beats and unstoppable energy that will keep you dancing all night long. Use code EXPERTSP100 for Rs. 100 off your passes, but act fast\u2014spots are limited!",
+    "url": "https://insider.in/event/suit-panda-live-at-zozo-club-bangalore-dec28-2024/buy-page",
+    "startDate": "2024-12-28T19:00:00+05:30",
+    "endDate": "2024-12-29T01:00:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2F3tASe75Du7TG9mGntdN0%2FbannerImages%2Ffdxoekfm0xjys8as9rma.jpg?alt=media&token=58a9542b-69fc-4416-9f9a-d0f489d7a5a5",
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Suit & Panda"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "ZOZO THE CLUB",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "A-1, D Rajgopala, nagar, Sanjay Nagar Main Rd, Krishnamurthy Extension, Naidu Layout, Raj Mahal Vilas 2nd Stage, Sanjayanagara",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "13.03147090144244",
+        "longitude": "77.57719770040028"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HIDAYATHULLA MANDOTTIL (Expert Great)"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://insider.in/event/suit-panda-live-at-zozo-club-bangalore-dec28-2024/buy-page"
+    }
+  },
+  {
+    "@type": "MusicEvent",
     "name": "NOVAK Live in Bangalore by Souldout | Pandora Experiences | Lost Exit",
     "about": "Experience a night of electrifying beats and infectious rhythms with Novak, the viral sensation DJ/Producer renowned for his mastery in Afrohouse and House music, at One8 Commune in Bengaluru on December 20th.",
     "url": "https://insider.in/event/novak-live-in-bangalore-by-souldout-pandora-experiences-lost-exit-dec20-2024/buy-page",
@@ -112,43 +149,6 @@
   },
   {
     "@type": "MusicEvent",
-    "name": "AMNAP RECORDS & FRIENDS FT. DISCOSTAN(USA) + BAALTI(USA) + EBITDA + CARISSA",
-    "about": "Join AMNAP Records & Friends for an electrifying night featuring Discostan and Baalti from the USA, along with EBITDA and Carissa. Get ready to dance to the best disco, bass, electro, and more all night long!",
-    "url": "https://insider.in/event/amnap-records-friends-ft-discostanusa-baaltiusa-ebitda-carissa-dec13-2024/buy-page",
-    "startDate": "2024-12-13T20:00:00+05:30",
-    "endDate": "2024-12-14T00:30:00+05:30",
-    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2F866hH8mSxfHEkPtgHV4s%2FbannerImages%2F3s4lWjuFSyUx1JAUCBYg-AMNAP-RECORDS-FRIENDS-FT-DISCOSTANUSA-BAALTIUSA-EBITDA-CARISSA.jpg?alt=media&token=8b102e3b-a7fd-46ca-a3d9-f3a10315e22a",
-    "performer": {
-      "@type": "MusicGroup",
-      "name": "Discostan"
-    },
-    "location": {
-      "@type": "Place",
-      "name": "Indiranagar Social",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, New Tippasandra",
-        "addressLocality": "Bangalore",
-        "addressRegion": "Karnataka",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.970946516555484",
-        "longitude": "77.64785367242266"
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Optikal Asylum"
-    },
-    "offers": {
-      "@type": "Offer",
-      "url": "https://insider.in/event/amnap-records-friends-ft-discostanusa-baaltiusa-ebitda-carissa-dec13-2024/buy-page"
-    }
-  },
-  {
-    "@type": "MusicEvent",
     "name": "Catharsis Vol. 05",
     "about": "Experience the vibrant energy of CATHARSIS - Vol. 5, Bangalore's premier gig series celebrating original music across diverse genres. From folk to metal, this festival showcases talented artists like Sharmila Joshi and Badal Kashyap, offering a unique opportunity to support the local music scene while enjoying an unforgettable night of creativity and passion.",
     "url": "https://insider.in/event/catharsis-vol-05-dec22-2024/buy-page",
@@ -186,7 +186,7 @@
   },
   {
     "@type": "MusicEvent",
-    "name": "Massano Live in Bangalore",
+    "name": "Massano Live at Sunburn Union\n",
     "about": "Don't miss out on the electrifying performance by Massano Live in Bangalore! With a unique blend of aggressive sound design and hypnotic melodies, Massano has quickly become one of the biggest breakout stars in the music scene. From topping the Beatport charts to performing at renowned venues like Tomorrowland and Ultra, Massano's dynamic music is sure to leave you in awe.",
     "url": "https://insider.in/event/massano-live-in-bangalore-dec21-2024/buy-page",
     "startDate": "2024-12-21T18:30:00+05:30",
@@ -198,18 +198,18 @@
     },
     "location": {
       "@type": "Place",
-      "name": "Venue to be announced",
+      "name": "Sunburn Union Bangalore",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "",
+        "streetAddress": "Passport Office, Mantri Avenue, Next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047, India",
         "addressLocality": "Bangalore",
         "addressRegion": "Karnataka",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "0",
-        "longitude": "0"
+        "latitude": "12.9453",
+        "longitude": "77.6201"
       }
     },
     "organizer": {
@@ -223,224 +223,113 @@
   },
   {
     "@type": "MusicEvent",
-    "name": "Karaoke Night @ 21A Indiranagar",
-    "about": "Get ready for an exciting Thursday night at 21st Amendment, Indiranagar, where Karaoke takes the spotlight! \n\nLadies can enjoy free unlimited drinks all night, making it the perfect time to gather your friends and have some fun. \n\nSing your heart out for a chance to win a bottle of Fratelli wine for the best performance of the evening. \n\nWith Karaoke and a DJ set by Jonas Monterio, the energy will be high, and the music non-stop. It\u2019s set to be a night of great tunes, drinks, and unforgettable moments \u2014 don\u2019t miss out!",
-    "url": "https://rsvp.tonight.is/event/Ep7CwICLs4mFnAhBdGhv?src=app&referrer=App",
-    "startDate": "2024-12-12T21:30:00+05:30",
-    "endDate": "2024-12-12T00:30:00+05:30",
-    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FwcqndvSvJXrvhqBbLcYa%2FbannerImages%2FGBuBsKsdP42uz3PAaZJp-21a-karaoke.jpeg?alt=media&token=dd688dd3-3898-4ad8-8570-d1a481d13ca5",
+    "name": "Masquerade Christmas Ft. Innam at Kitty Ko Bangalore.",
+    "about": "Get ready, Bengaluru, for the ultimate Pre-Christmas Bash: Masquerade Christmas! Join us on Friday, December 20th, at Kitty Ko for an enchanting night featuring INNAM from Ukraine and ARTBLOTKISH. Experience the best production, top artists, and incredible music starting at 7 PM.",
+    "url": "https://insider.inundefined",
+    "startDate": "2024-12-20T19:00:00+05:30",
+    "endDate": "2024-12-21T01:00:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FCGDLYpClpFZ890Gb3icG%2FbannerImages%2Froxchaoeuxmtrehocicm.jpg?alt=media&token=1dac9b42-7d30-46b2-99bf-048128dd0e9f",
     "performer": {
       "@type": "MusicGroup",
-      "name": "Jonas Monteiro"
+      "name": "Innam"
     },
     "location": {
       "@type": "Place",
-      "name": "21st Amendment",
+      "name": "Kitty Ko",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "1211, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560038",
+        "streetAddress": "The Lalit Ashok, Kumara Krupa Road, Highgrounds, Seshadripuram",
         "addressLocality": "Bangalore",
         "addressRegion": "Karnataka",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.96595370929635",
-        "longitude": "77.6413056279215"
+        "latitude": "12.99247334178711",
+        "longitude": "77.58198854394276"
       }
     },
     "organizer": {
       "@type": "Organization",
-      "name": "21st Amendment"
+      "name": "NK Production"
     },
     "offers": {
       "@type": "Offer",
-      "url": "https://rsvp.tonight.is/event/Ep7CwICLs4mFnAhBdGhv?src=app&referrer=App"
+      "url": "https://insider.inundefined"
     }
   },
   {
     "@type": "MusicEvent",
-    "name": "Tribute to Arijit Singh Ft. Algorhythm",
-    "about": "Join us for a tribute to Arijit Singh featuring Algorhythm at Hard Rock Cafe in Whitefield. Sing along to your favorite hits like Channa Mereya and Tum Sath Ho with the talented band Algorhythm, known for their Rock/Folk/Hindi and Bengali music. Enjoy a night of live music, tasty food, and refreshing cocktails - an unforgettable experience celebrating the legendary Arijit Singh.",
-    "url": "https://insider.in/event/tribute-to-arijit-singh-ft-algorhythm-dec14-2024/buy-page",
-    "startDate": "2024-12-14T21:00:00+05:30",
-    "endDate": "2024-12-14T23:30:00+05:30",
-    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FIgjPxp0YhjhQQGFarFy4%2FbannerImages%2Fsx5aHVGKN3AZtAjiH3dQ-Tribute-to-Arijit-Singh-ft-Algorhythm.jpg?alt=media&token=ed8b2ad0-e5c5-4ce6-a0f8-d6f145b9560d",
+    "name": "Cristoph (Anjunadeep) at Raahi Bengaluru ",
+    "about": "Get ready, Bangalore! On Sunday, December 22nd, the progressive house legend Cristoph is back for an exclusive Darkroom Edition at Raahi Bangalore. Experience his signature atmospheric sounds live\u2014grab your tickets now on Insider and don't miss this chance to see a global icon perform!",
+    "url": "https://insider.in/event/cristoph-anjunadeep-at-raahi-bengaluru-dec22-2024/buy-page",
+    "startDate": "2024-12-22T19:00:00+05:30",
+    "endDate": "2024-12-23T00:45:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FFIf18YsqFPY3xao2HIAl%2FbannerImages%2Fbuujeyq5iyvp9n8uf4nn.jpg?alt=media&token=e20314e5-3f6e-4d20-bab6-b6a00d358a3e",
     "performer": {
       "@type": "MusicGroup",
-      "name": "Algorhythm"
+      "name": "Cristoph"
     },
     "location": {
       "@type": "Place",
-      "name": "Hard Rock Cafe Bengaluru Whitefield",
+      "name": "Raahi Neo Kitchen & Bar",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Unit G-25 & 26, Ground Floor, Park Square Mall International Tech Park, Bangalore, Pattandur Agrahara",
+        "streetAddress": "15, State Bank of India Rd, Shanthala Nagar, Ashok Nagar",
         "addressLocality": "Bangalore",
         "addressRegion": "Karnataka",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9867821",
-        "longitude": "77.735896"
+        "latitude": "12.973017",
+        "longitude": "77.6021717"
       }
     },
     "organizer": {
       "@type": "Organization",
-      "name": "JSM Corporation"
+      "name": "DARKROOM EVENTS (SREERAG GOPALAN)"
     },
     "offers": {
       "@type": "Offer",
-      "url": "https://insider.in/event/tribute-to-arijit-singh-ft-algorhythm-dec14-2024/buy-page"
+      "url": "https://insider.in/event/cristoph-anjunadeep-at-raahi-bengaluru-dec22-2024/buy-page"
     }
   },
   {
     "@type": "MusicEvent",
-    "name": "Bangalore Death Fest Ft. Malevolent Creation (USA)",
-    "about": "Get ready for the 2nd edition of Bangalore Death Fest presented by Extreme Underground India on December 15th, 2024. Witness the intense metal madness with performances by Malevolent Creation from the USA, Moral Putrefaction from Chennai, Obliterating Vortex, and Virodh. Don't miss out on this brutal lineup of death metal bands!",
-    "url": "https://insider.in/event/bangalore-death-fest-ft-malevolent-creation-usa-dec15-2024/buy-page",
-    "startDate": "2024-12-15T18:00:00+05:30",
-    "endDate": "2024-12-15T22:30:00+05:30",
-    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FJrHbqqgK5K21GY1LIWhd%2FbannerImages%2FgbKa3klnWn4AxbXaH9UR-Bangalore-Death-Fest-ft-Malevolent-Creation-USA.jpg?alt=media&token=06054368-237b-41fe-b72d-9dd794f0b010",
+    "name": "Gini | Cozy India Tour | Bengaluru",
+    "about": "Join us for an unforgettable evening with Gini, a talented singer-songwriter from Dehradun. Her soulful sound and heartfelt lyrics will take you on an emotional journey, creating a cozy yet powerful atmosphere. Experience a performance that embodies warmth, hope, and courage at The Hub Bengaluru.",
+    "url": "https://insider.in/event/gini-cozy-india-tour-bangalore-nov30-2024/buy-page",
+    "startDate": "2024-12-21T17:00:00+05:30",
+    "endDate": "2024-12-21T22:30:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FPZZEvBAm6K9Af22EU4Jf%2FbannerImages%2Fhmhcjw3pfdg6n6a9uff1.jpg?alt=media&token=42163c47-3717-4023-9fd5-74df88677d7d",
     "performer": {
       "@type": "MusicGroup",
-      "name": "Malevolent Creation "
+      "name": "Gini"
     },
     "location": {
       "@type": "Place",
-      "name": "Fandom at Gilly's Redefined",
+      "name": "The Hub Bengaluru",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "1st floor of Gillys redefined,# 413, 100 Feet Road,, 4th Block, Koramangala, KHB Block Koramangala, Koramangala 4-B Block, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+        "streetAddress": "Safina Plaza, 84/85, Infantry Rd, Tasker Town, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
         "addressLocality": "Bangalore",
         "addressRegion": "Karnataka",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "12.9333924",
-        "longitude": "77.6236291"
+        "latitude": "12.9796225",
+        "longitude": "77.6070132"
       }
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Sunder Raj Solomon"
+      "name": "Firstwav Music and Media Pvt. Ltd."
     },
     "offers": {
       "@type": "Offer",
-      "url": "https://insider.in/event/bangalore-death-fest-ft-malevolent-creation-usa-dec15-2024/buy-page"
-    }
-  },
-  {
-    "@type": "MusicEvent",
-    "name": "Korolova Live at Sunburn Union | Bangalore ",
-    "about": "Don't miss Krolova live at Sunburn Union Bengaluru on Saturday, 14th December! Hailing from Ukraine, Korolova is a breakout sensation in the melodic house and techno realms, with over 100 million YouTube views and 80 million audio streams. She has played on Tomorrowland\u2019s mainstage and collaborated with premium record labels, captivating audiences worldwide with her melodious masterpieces.",
-    "url": "https://insider.in/event/korolova-live-in-bangalore-dec14-2024/buy-page",
-    "startDate": "2024-12-14T19:00:00+05:30",
-    "endDate": "2024-12-14T23:59:00+05:30",
-    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FLnXyMjUFwdAmABZv9X1H%2FbannerImages%2Fw3VtZJjFKSvAbDxhcuXD-Korolova-Live-at-Sunburn-Union-Bangalore-%20(1).jpg?alt=media&token=e615185b-0405-4321-b4b2-1e2f668234a2",
-    "performer": {
-      "@type": "MusicGroup",
-      "name": "Korolova"
-    },
-    "location": {
-      "@type": "Place",
-      "name": "Sunburn Union",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "Passport office, Mantri Avenue, KHB Games Village, Koramangala",
-        "addressLocality": "Bangalore",
-        "addressRegion": "Karnataka",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9451786760031",
-        "longitude": "77.62013704583424"
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Skydance Hospitality LLP (Sunburn Union)"
-    },
-    "offers": {
-      "@type": "Offer",
-      "url": "https://insider.in/event/korolova-live-in-bangalore-dec14-2024/buy-page"
-    }
-  },
-  {
-    "@type": "MusicEvent",
-    "name": "I Built the Sky - Live in Bangalore",
-    "about": "I Built The Sky, known for his electrifying performance at Pune NH7 Weekender 2023, is set to headline the Hills Festival in Meghalaya 2024. Don't miss his exclusive Bangalore debut at Fandom, Gilly\u2019s Redefined on December 13th, featuring special guest YogiEatsProg, returning with a solo live show after seven years. Experience an unforgettable night of progressive music\u2014tickets are available now!",
-    "url": "https://insider.in/event/i-built-the-sky-live-in-bangalore-dec13-2024/buy-page",
-    "startDate": "2024-12-13T20:30:00+05:30",
-    "endDate": "2024-12-13T23:59:00+05:30",
-    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FOKxCYqggZ9UdxfDpnqOt%2FbannerImages%2Fwl4smfqorg6crafpi6ey.png?alt=media&token=939c5b86-110b-4cf1-9770-d8729358e16d",
-    "performer": {
-      "@type": "MusicGroup",
-      "name": "I Built The Sky"
-    },
-    "location": {
-      "@type": "Place",
-      "name": "Fandom at Gilly's Redefined",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "1st floor of Gillys redefined,# 413, 100 Feet Road,, 4th Block, Koramangala, KHB Block Koramangala, Koramangala 4-B Block, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-        "addressLocality": "Bangalore",
-        "addressRegion": "Karnataka",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9333924",
-        "longitude": "77.6236291"
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Aliza Test"
-    },
-    "offers": {
-      "@type": "Offer",
-      "url": "https://insider.in/event/i-built-the-sky-live-in-bangalore-dec13-2024/buy-page"
-    }
-  },
-  {
-    "@type": "MusicEvent",
-    "name": "Pride Jam",
-    "about": "Join us at Pride Jam, a 5-hour extravaganza celebrating love, talent, and individuality where the LGBTQ+ community shines! Featuring 5 sensational artists and 10 open-mic performers, this vibrant showcase of singing, performing, and recitation is a powerful celebration of diversity and pride. Save the date for this magical event on the 14th of December, Saturday, from 3 pm to 8 pm. Ticket price: \u20b9299.",
-    "url": "https://insider.in/event/pride-jam-dec14-2024/buy-page",
-    "startDate": "2024-12-14T15:00:00+05:30",
-    "endDate": "2024-12-14T20:00:00+05:30",
-    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FOrP1oJfPx7uWMA92mROw%2FbannerImages%2FOHXatA7qXvKka5fpqwFM-Pride-Jam.jpg?alt=media&token=7c27f889-5105-4642-bf20-370f0fe0650b",
-    "performer": {
-      "@type": "MusicGroup",
-      "name": "Various Artists"
-    },
-    "location": {
-      "@type": "Place",
-      "name": "Koramangala Social",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "118, 3rd Floor, Koramangala Industrial Area, 7th Block, Above Bodyworks Spa, 7th Block, Koramangala",
-        "addressLocality": "Bangalore",
-        "addressRegion": "Karnataka",
-        "addressCountry": "IN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": "12.9354677",
-        "longitude": "77.6141418"
-      }
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Avinash Singh"
-    },
-    "offers": {
-      "@type": "Offer",
-      "url": "https://insider.in/event/pride-jam-dec14-2024/buy-page"
+      "url": "https://insider.in/event/gini-cozy-india-tour-bangalore-nov30-2024/buy-page"
     }
   },
   {
@@ -482,6 +371,43 @@
   },
   {
     "@type": "MusicEvent",
+    "name": "Social Presents Members only Ft Donatello & Dj Kay || #churchstreetsocial  | Iehpl",
+    "about": "Join us for Members Only at SOCIAL, featuring Donatello and DJ Kay, where the vibes are electric and the music is non-stop. This 21+ event promises an unforgettable night, so make sure to bring your ID and leave any illegal substances at home. Your tickets are fully redeemable at the venue, ensuring a hassle-free experience.",
+    "url": "https://insider.in/event/social-presents-members-only-ft-donatello-dj-kay-churchstreetsocial-iehpl/buy-page",
+    "startDate": "2024-12-20T20:00:00+05:30",
+    "endDate": "2024-12-21T12:30:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FSQ3zxcbDpdDnbsW3FuI5%2FbannerImages%2Fs0jxvpbbagsjqzvudu2p.jpg?alt=media&token=7ee5e142-4873-430d-bd54-2b3ed172d711",
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Donatello"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Church Street Social",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "46/1, Cobalt, Church St, Haridevpur, Shanthala Nagar, Ashok Nagar",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.975739381260295",
+        "longitude": "77.60267999734313"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Impresario Entertainment & Hospitality Pvt. Ltd."
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://insider.in/event/social-presents-members-only-ft-donatello-dj-kay-churchstreetsocial-iehpl/buy-page"
+    }
+  },
+  {
+    "@type": "MusicEvent",
     "name": "Lollapalooza India 2025",
     "about": "Get ready, Mumbai! Lollapalooza India is back for its third edition on March 8-9, 2025. Featuring over 30 iconic artists across various genres like pop, rock, indie, hip-hop, and more, including headliners such as Green Day, Shawn Mendes, and Zedd. Join the ultimate music festival experience with amazing performances, food, beverages, and brand activations. Don't miss out on this two-day extravaganza celebrating live music and culture!",
     "url": "https://in.bookmyshow.com/events/lollapalooza-india-2025/ET00409511",
@@ -519,39 +445,39 @@
   },
   {
     "@type": "MusicEvent",
-    "name": "Ap Dhillon Live | the Brownprint | Delhi",
-    "about": "Join the Punjabi music sensation AP Dhillon in Delhi for an electrifying live concert that promises to be a game-changer. Experience his latest EP, \u2018The Brownprint,\u2019 on a groundbreaking 360-degree stage that enhances audience interaction and intimacy. Get ready to groove to hits like \u2018Brown Munde\u2019 and \u2018Excuses,\u2019 alongside fresh tracks from his new release\u2014this is one musical event you won't want to miss!",
-    "url": "https://insider.in/event/the-brownprint-ap-dhillon-live-delhi-dec14-2024/buy-page",
-    "startDate": "2024-12-14T17:00:00+05:30",
-    "endDate": "2024-12-14T22:00:00+05:30",
-    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FZAWdzVe4yLAfmMqs7Uv0%2FbannerImages%2Febolecpczp0xcayl7cpz.jpg?alt=media&token=820e9e7b-9b75-46ee-bab1-7b361bc0839a",
+    "name": "Jingle Jam Ft. Rohit Barker & Shiva Manvi at Gawky Goose ",
+    "about": "This Christmas, join us for the ultimate Jingle Jam featuring Rohith Barker and Shiva Manvi at the premium venue Gawky Goose. Gates open at 9:00 PM onwards. Don\u2019t miss the festive vibes and groovy beats this Christmas at Gawky Goose on Wind Tunnel Road, brought to you by Hypervibez. See you there!",
+    "url": "https://insider.inundefined",
+    "startDate": "2024-12-24T21:00:00+05:30",
+    "endDate": "2024-12-25T01:00:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2FbTV7PrfhALcqNidclJNJ%2FbannerImages%2FTQLd660GxCJCP7UDskgN-Jingle-Jam-ft-Rohit-Barker-Shiva-Manvi-at-Gawky-Goose-.png?alt=media&token=6dbcc084-ea04-42db-a698-0ace191084b2",
     "performer": {
       "@type": "MusicGroup",
-      "name": "Various Artists"
+      "name": "Rohit Barker"
     },
     "location": {
       "@type": "Place",
-      "name": "Indira Gandhi Arena",
+      "name": "Gawky Goose",
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "Indraprastha Estate, Grand Trunk Rd, near Raj Ghat, IG Indoor Stadium, ITO, IP Estate, New Delhi, Delhi 110002, India",
-        "addressLocality": "Delhi",
+        "streetAddress": "#77, Wind Tunnel Rd, Muniyappa Layout, Murgesh Pallya",
+        "addressLocality": "Bangalore",
         "addressRegion": "Karnataka",
         "addressCountry": "IN"
       },
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": "28.6311427",
-        "longitude": "77.2494529"
+        "latitude": "12.954249289409189",
+        "longitude": "77.6528578197282"
       }
     },
     "organizer": {
       "@type": "Organization",
-      "name": "White Fox Labs Private Limited"
+      "name": "Hypervibez (Akhil Jimmy)"
     },
     "offers": {
       "@type": "Offer",
-      "url": "https://insider.in/event/the-brownprint-ap-dhillon-live-delhi-dec14-2024/buy-page"
+      "url": "https://insider.inundefined"
     }
   }
 ]
