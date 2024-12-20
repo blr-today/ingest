@@ -60,8 +60,13 @@
       ],
       "location": {
          "@type": "Place",
-         "address": null,
-         "name": "To Be Announced"
+         "address": "Whitefield Main Road, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9957867",
+            "longitude": "77.6964011"
+         },
+         "name": "Phoenix Marketcity"
       },
       "name": "Bloomverse Express Bengaluru feat. MR. BIG",
       "offers": [
@@ -69,7 +74,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in General Zone.\n◉ General access to bars, f&b counters.",
-            "inventoryLevel": 1179,
+            "inventoryLevel": 1175,
             "name": "Phase 1 | Single - GA",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -77,7 +82,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
-            "inventoryLevel": 567,
+            "inventoryLevel": 564,
             "name": "Phase 1 | Single - Fan Zone",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -168,6 +173,75 @@
       ],
       "startDate": "2025-03-28T20:00:00",
       "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "A delightful Sunday at Pebble with some groovy bollywood and BollyTech music all night long to make Night more blissful.Register yourself for an unfor",
+      "endDate": "2024-12-22T23:59:00",
+      "identifier": "com.skillboxes.17877",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWgwaTJtcFZsR1ZUMkwyb3ZHbUYwZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734715740vYtEHqJ44kxE9IDP.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd, Jayamahal, Bengaluru, Karnataka 560080, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.004424",
+            "longitude": "77.5848398"
+         },
+         "name": "PEBBLE The Jungle Lounge"
+      },
+      "name": "BollyTech Masti",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover Charges at the gate will apply\n",
+            "inventoryLevel": 200,
+            "name": "General Acess",
+            "url": "https://www.skillboxes.com/events/ticket/bollytech-masti"
+         }
+      ],
+      "startDate": "2024-12-22T20:00:00",
+      "url": "https://www.skillboxes.com/events/bollytech-masti"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Hey Folks! After 2 successful housefull shows, we're back and our next show is gonna be in a contest format, wherein the audience will vote along",
+      "endDate": "2025-01-05T16:30:00",
+      "identifier": "com.skillboxes.17873",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QXBDS0VnTlpYU2Q1bXlXQnMxdXhKQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734701838GDdGwHUOkxJIkz3v.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Comedy Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st Floor, No.53, Shree Chambers, Subbarama Chetty Rd, above Karnataka Bank, Basavanagudi, Bengaluru, Karnataka 560004, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9394924",
+            "longitude": "77.5716859"
+         },
+         "name": "Dimension Studio"
+      },
+      "name": "3 PEG SUPER STAR",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "Audience Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/3-peg-super-star"
+         }
+      ],
+      "startDate": "2025-01-05T14:30:00",
+      "url": "https://www.skillboxes.com/events/3-peg-super-star"
    },
    {
       "@context": "https://schema.org",
@@ -631,6 +705,54 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "One Night in Eod- Koramangala biggest new year celebration \r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nVenue : Eod -end of the day , Koramangala \r\n\r\n&",
+      "endDate": "2024-12-31T23:59:00",
+      "identifier": "com.skillboxes.17852",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734682194x1gm40LC9eaHgCyZ.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2nd Floor, No, 146, Srirampuram, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9338052",
+            "longitude": "77.6197655"
+         },
+         "name": "EOD - End of the Day"
+      },
+      "name": "ONE NIGHT IN EOD NEW YEAR PARTY -2025",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Female Entry Free",
+            "url": "https://www.skillboxes.com/events/ticket/one-night-in-eod-new-year-party-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Male Entry Free",
+            "url": "https://www.skillboxes.com/events/ticket/one-night-in-eod-new-year-party-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Couple Entry Free",
+            "url": "https://www.skillboxes.com/events/ticket/one-night-in-eod-new-year-party-2025"
+         }
+      ],
+      "startDate": "2024-12-31T19:00:00",
+      "url": "https://www.skillboxes.com/events/one-night-in-eod-new-year-party-2025"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "NEW YEAR EVE DestinationBiggest new year party 2025Venue: Howln pub, church street, Brigade RoadDate :31st , December 2024Time: 6pm onwardsDescription",
       "endDate": "2024-12-31T23:59:00",
       "identifier": "com.skillboxes.17849",
@@ -1090,7 +1212,7 @@
       "description": "Little Bhatia the powerhouse of Indian hip-hop and participant of MTV Hustle Season 1V, is here to take the stage by storm with Campaign Tour! Known f",
       "endDate": "2024-12-28T23:59:00",
       "identifier": "com.skillboxes.17825",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NFRYYks4VFJlWk9XT2RDL2NwenJnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734605922K1PDRQFHUnC7Slpd.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NFRYYks4VFJlWk9XT2RDL2NwenJnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734698583Wi6LUGcqgrwQvlcL.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"
@@ -1111,7 +1233,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
-            "inventoryLevel": 99,
+            "inventoryLevel": 95,
             "name": "Phase 1 : Single",
             "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour"
          },
@@ -1119,7 +1241,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 48,
             "name": "COUPLE TICKETS",
             "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour"
          },
@@ -1277,7 +1399,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 98,
+            "inventoryLevel": 70,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/pangeo-saturday-featuring-alar"
          }
@@ -1311,7 +1433,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 247,
+            "inventoryLevel": 246,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-nineoeight-padmini-records-present-oceantied-angus-12-live-inspector-maal-double-t"
          }
@@ -1439,7 +1561,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "• THIS PASS ALLOWS ENTRY TO ONE PERSON. • COVER CHARGES APPLICABLE POST 9 PM. • THIS IS A 21+ SHOW. ID CHECKS ARE MANDATORY. CLUB RULES APPLY. • WE FOLLOW STRICT ADHERENCE TO ZERO TOLERANCE ON DRUGS & PROHIBITED SUBSTANCES.\n",
-            "inventoryLevel": 405,
+            "inventoryLevel": 389,
             "name": "Bass Head Community Pass",
             "url": "https://www.skillboxes.com/events/ticket/bass-baithak-ft-the-untitled-one-master-shifu-dwij-takezo"
          }
@@ -1799,7 +1921,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 996,
+            "inventoryLevel": 995,
             "name": "Female - Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/protocol-ft-mafaiza-ivan-22nd-dec-kitty-ko"
          },
@@ -1807,7 +1929,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 988,
+            "inventoryLevel": 975,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/protocol-ft-mafaiza-ivan-22nd-dec-kitty-ko"
          }
@@ -1977,32 +2099,7 @@
          "name": "Hard Rock Cafe Bengaluru"
       },
       "name": "Bootleg Fridays at Hardrock Cafe",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable through out the event\n",
-            "inventoryLevel": 100,
-            "name": "Stag",
-            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-8"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow one single entry\n",
-            "inventoryLevel": 100,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-8"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry till 0930pm post cover charges applicable\n",
-            "inventoryLevel": 100,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-8"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-12-20T08:00:00",
       "url": "https://www.skillboxes.com/events/bootleg-fridays-at-hardrock-cafe-8"
    },
@@ -2064,40 +2161,6 @@
       ],
       "startDate": "2024-12-31T08:00:00",
       "url": "https://www.skillboxes.com/events/nye-2025-featuring-basstronik"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "A musical experience of storytelling through fingerstyle guitar.Through this 80min concert, each person in the audience revisits the countless emotion",
-      "endDate": "2024-12-20T21:00:00",
-      "identifier": "com.skillboxes.17721",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MHNKeVd1VW02M1VJTGRkZkhwaHZJUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734350755KWTQjLfTfuhlqoL1.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No.476, 3rd Floor, Shashwatha, 10th Main, Jeevan Bima Nagar Main Road, HAL 3rd Stage, New Tippasandra, near BSNL Office, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9689622",
-            "longitude": "77.6482965"
-         },
-         "name": "Dhurii"
-      },
-      "name": "'Coming Home' - an Immersive music experience",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 30,
-            "name": "Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/coming-home-an-immersive-music-experience"
-         }
-      ],
-      "startDate": "2024-12-20T19:30:00",
-      "url": "https://www.skillboxes.com/events/coming-home-an-immersive-music-experience"
    },
    {
       "@context": "https://schema.org",
@@ -2406,7 +2469,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits free entry to the event without cover charges till 7PM only. Upon entry post 7PM additional cover charges applicable as per club rules and regulations. ( Cover charges are fully redeemable on Purchase of F&B )\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 99,
             "name": "Single Lady",
             "url": "https://www.skillboxes.com/events/ticket/somad-x-lumara-presents-xmas-bender-ft-adhd-uk-answer-vani-databass-arra-more-at-lumara-bengaluru"
          },
@@ -2532,57 +2595,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Hello Bengaluru !Mark your Calendar For the Biggest Pre Christmas Bash 😍(Masquerade Christmas)A Night so Captivating 💯Featur",
-      "endDate": "2024-12-20T23:59:00",
-      "identifier": "com.skillboxes.17685",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17341845065yDMT2pzyAjCL5Fm.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Masquerade Christmas Ft. Innam at Kitty Ko Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to 1 Female, Extra cover charge applicable post 9.30pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD FEMALE",
-            "url": "https://www.skillboxes.com/events/ticket/masquerade-christmas-ft-innam-at-kitty-ko-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to 1 Couple, Extra cover charge applicable post 9.30pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/masquerade-christmas-ft-innam-at-kitty-ko-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to 1 Male, Extra cover charge applicable post 9.30pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD MALE",
-            "url": "https://www.skillboxes.com/events/ticket/masquerade-christmas-ft-innam-at-kitty-ko-bangalore"
-         }
-      ],
-      "startDate": "2024-12-20T19:00:00",
-      "url": "https://www.skillboxes.com/events/masquerade-christmas-ft-innam-at-kitty-ko-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "This Saturday, Sly Granny is serving up a sonic feast of UK Garage, breakbeats, and deep basslines. 🔥✨With Raka, Shiv Hari, and Why Fac",
       "endDate": "2024-12-21T23:59:00",
       "identifier": "com.skillboxes.17681",
@@ -2606,7 +2618,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 208,
+            "inventoryLevel": 135,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/house-party-series-w-raka-ashok-shivhari-why-factor"
          }
@@ -2647,40 +2659,6 @@
       ],
       "startDate": "2024-12-25T17:00:00",
       "url": "https://www.skillboxes.com/events/a-not-so-silent-night-christmas-jam"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "i-Bar Electric Boogie",
-      "endDate": "2024-12-20T23:59:00",
-      "identifier": "com.skillboxes.17663",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734155040bdPnmBlHP6CqYsn7.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "The Park, MG Road, 14/7, Bhaskaran Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9739914",
-            "longitude": "77.6198638"
-         },
-         "name": "THE Park Bangalore"
-      },
-      "name": "i-Bar Electric Boogie",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 9880,
-            "name": "Guestlist Pass",
-            "url": "https://www.skillboxes.com/events/ticket/i-bar-electric-boogie-1"
-         }
-      ],
-      "startDate": "2024-12-20T20:00:00",
-      "url": "https://www.skillboxes.com/events/i-bar-electric-boogie-1"
    },
    {
       "@context": "https://schema.org",
@@ -2756,36 +2734,36 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 971,
-            "name": "Early Bird Ticket (Female)",
-            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 998,
-            "name": "Early Bird Ticket (Male)",
-            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 991,
-            "name": "Early Bird Ticket (Couple)",
-            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 50,
+            "inventoryLevel": 42,
             "name": "Phase 1 Single Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ajwavy"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 25,
+            "inventoryLevel": 24,
             "name": "Phase 1 Couple Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 970,
+            "name": "Early Bird Ticket (Female)",
+            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 996,
+            "name": "Early Bird Ticket (Male)",
+            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 989,
+            "name": "Early Bird Ticket (Couple)",
             "url": "https://www.skillboxes.com/events/ticket/ajwavy"
          }
       ],
@@ -3231,7 +3209,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable Post 9:30 pm\n",
-            "inventoryLevel": 88,
+            "inventoryLevel": 87,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/urban-rumble-6"
          }
@@ -3265,7 +3243,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 17,
+            "inventoryLevel": 14,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/freak-opera"
          }
@@ -3353,7 +3331,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 24,
+            "inventoryLevel": 23,
             "name": "Audience ticket",
             "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-18"
          },
@@ -4022,41 +4000,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "DND Live Presents: Skivinnie and Friends\r\nGet ready for an unforgettable night of music and vibes as Skivinnie and Friends debuts and take t",
-      "endDate": "2024-12-20T23:59:00",
-      "identifier": "com.skillboxes.17417",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MmZDVyswU3dQV1FqSUE4VmFFR0JBUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733311143mvGPq4oycdewWlad.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9313063",
-            "longitude": "77.6329297"
-         },
-         "name": "Bira 91 Taproom, Koramangala"
-      },
-      "name": "INDIE FRIDAYS FT. SKIVINNIE AND FRIENDS",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges applicable post 9:30 pm\n",
-            "inventoryLevel": 141,
-            "name": "Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/indie-fridays-ft-skivinnie-and-friends"
-         }
-      ],
-      "startDate": "2024-12-20T19:00:00",
-      "url": "https://www.skillboxes.com/events/indie-fridays-ft-skivinnie-and-friends"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "Communiti, a vibrant microbrewery in Bengaluru, is the perfect destination for craft beer enthusiasts and food lovers alike. Known for its dedication ",
       "endDate": "2024-12-24T23:30:00",
       "identifier": "com.skillboxes.17381",
@@ -4239,20 +4182,27 @@
          },
          "name": "WeNeighborhood"
       },
-      "name": "We:Neighborhood  | NYE 2025",
+      "name": "We:Neighborhood || NYE 2025 || Residency Road",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 1000,
-            "name": "NY Single Male Bash \"Entry ticket only\"",
+            "name": "NY Single Women Bash || Entry Only",
             "url": "https://www.skillboxes.com/events/ticket/we-neighborhood-nye-2025"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 1000,
-            "name": "NY Couple Bash \"Entry ticket only\"",
+            "name": "NY Couple Bash || Entry Only",
+            "url": "https://www.skillboxes.com/events/ticket/we-neighborhood-nye-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "NY Single Male Bash || Entry Only",
             "url": "https://www.skillboxes.com/events/ticket/we-neighborhood-nye-2025"
          }
       ],
@@ -4509,7 +4459,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 100,
+            "inventoryLevel": 94,
             "name": "Performer Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-14"
          },
@@ -4733,7 +4683,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants entry for one couple to the event. Food and beverages are available à la carte.\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Couple Entry Ticket - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/new-year-party-byg-bang-2025"
          },
@@ -5249,22 +5199,6 @@
             "description": "This ticket provides 1 COUPLE an access to both our venues - JW Lawns/Ballroom and Merak Poolside. This ticket is inclusive of unlimited food and beverages from our New Year's Eve Menu.\n",
             "inventoryLevel": 100,
             "name": "PLATINUM COUPLE PHASE 1",
-            "url": "https://www.skillboxes.com/events/ticket/Panache-New-Year-s-Eve-2025"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each ticket allows one Couple Entry to JW Lawn\nUnlimited F&B included in the package",
-            "inventoryLevel": 100,
-            "name": "Couple Entry (Early Bird)",
-            "url": "https://www.skillboxes.com/events/ticket/Panache-New-Year-s-Eve-2025"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each ticket allows one Couple Entry to Merak\nPremium Unlimited F&B included in the package",
-            "inventoryLevel": 100,
-            "name": "VIP Couple Entry (Early Bird)",
             "url": "https://www.skillboxes.com/events/ticket/Panache-New-Year-s-Eve-2025"
          }
       ],
@@ -5866,16 +5800,8 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 18 +\nCover Charge applies for Entries after 8:00PM",
-            "inventoryLevel": 2,
-            "name": "Phase 1 : Single",
-            "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "For Age(s) 18 +\nCover Charge applies for Entries after 8:00PM",
-            "inventoryLevel": 74,
-            "name": "Phase 1 : Group of 4",
+            "inventoryLevel": 99,
+            "name": "Phase 2 : Single",
             "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
          },
          {
@@ -5897,9 +5823,25 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "For Age(s) 18 +\nCover Charge applies for Entries after 8:00PM",
+            "inventoryLevel": 99,
+            "name": "Phase 1 : Single",
+            "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "For Age(s) 18 +\nRedeemable Cover Charge Applicable At Gates.",
             "inventoryLevel": 23,
             "name": "Early Bird : Group of 4",
+            "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "For Age(s) 18 +\nCover Charge applies for Entries after 8:00PM",
+            "inventoryLevel": 72,
+            "name": "Phase 1 : Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/bella-humble-poet-2-0-tour-3"
          }
       ],
@@ -6353,6 +6295,54 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Permits Entry to One Lady , Cover Charges of INR 2000 Applicable post 8PM\n",
+            "inventoryLevel": 21,
+            "name": "SINGLE LADY",
+            "url": "https://www.skillboxes.com/events/ticket/one-night-in-dxb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Entry to One Individual , Cover Charges of INR 2000 Applicable post 8PM\n",
+            "inventoryLevel": 25,
+            "name": "STAGS - PHASE 2",
+            "url": "https://www.skillboxes.com/events/ticket/one-night-in-dxb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Entry to One Couple, Cover Charges of INR 3000 Applicable post 8PM\n",
+            "inventoryLevel": 20,
+            "name": "COUPLES - PHASE 1",
+            "url": "https://www.skillboxes.com/events/ticket/one-night-in-dxb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "PERMITS ENTRY TO 4-5 INDIVIDUALS , COVER CHANGES OF INR 2000 EACH APPLICABLE POST 8PM\n",
+            "inventoryLevel": 5,
+            "name": "GROUP (4-5PAX)",
+            "url": "https://www.skillboxes.com/events/ticket/one-night-in-dxb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Includes entry to party for One Couple without dedicated seating/table + stay for two people\n",
+            "inventoryLevel": 5,
+            "name": "COUPLE ENTRY + STAY",
+            "url": "https://www.skillboxes.com/events/ticket/one-night-in-dxb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Includes entry to party for two individuals without dedicated seating/table + stay for two people\n",
+            "inventoryLevel": 5,
+            "name": "Pass For 2 + Stay",
+            "url": "https://www.skillboxes.com/events/ticket/one-night-in-dxb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "Permits Entry to One Lady, Cover Charges of INR 2000 Applicable post 8PM\n",
             "inventoryLevel": 20,
             "name": "Early Bird Ladies",
@@ -6532,49 +6522,6 @@
       ],
       "startDate": "2024-12-21T19:00:00",
       "url": "https://www.skillboxes.com/events/shankar-ehsaan-loy-live-in-concert-bangalore-2024"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Presenting :Salsa Dance & Learn Season : Chapter 8.Starts September 20th and goes on all the way till December 20th.A Season of more than 300 hour",
-      "endDate": "2024-12-20T08:00:00",
-      "identifier": "com.skillboxes.15605",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RGlKWS9ySXhtSklYdGRNdHBSaHp2dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17258767696qbZOHmQp0NlXCpH.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Community & Culture"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "shArA - Salsa & Latin Dance Institute",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.918339",
-            "longitude": "77.5845555"
-         },
-         "name": "SHARA SALSA AND LATIN DANCE INSTITUTE"
-      },
-      "name": "Salsa Dance & Learn Season : Chapter 8",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This is a non-refundable ticket\n",
-            "inventoryLevel": 100,
-            "name": "Per head for 2 sessions",
-            "url": "https://www.skillboxes.com/events/ticket/salsa-dance-learn-season-chapter-8"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This is a non-refundable ticket\n",
-            "inventoryLevel": 100,
-            "name": "Per head for 5 sessions",
-            "url": "https://www.skillboxes.com/events/ticket/salsa-dance-learn-season-chapter-8"
-         }
-      ],
-      "startDate": "2024-09-20T07:00:00",
-      "url": "https://www.skillboxes.com/events/salsa-dance-learn-season-chapter-8"
    },
    {
       "@context": "https://schema.org",

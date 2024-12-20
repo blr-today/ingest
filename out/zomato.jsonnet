@@ -27,7 +27,7 @@
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
         "price": 5999,
         "currency": "INR",
-        "validFrom": "2024-12-01 17:41:44",
+        "validFrom": "2024-12-01 17:41:00",
         "availability": "INSTOCK",
         "inventory": 15
       },
@@ -35,7 +35,7 @@
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
         "price": 10999,
         "currency": "INR",
-        "validFrom": "2024-12-01 17:41:45",
+        "validFrom": "2024-12-01 17:41:00",
         "availability": "INSTOCK",
         "inventory": 17
       },
@@ -43,7 +43,7 @@
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
         "price": 20999,
         "currency": "INR",
-        "validFrom": "2024-12-01 17:41:45",
+        "validFrom": "2024-12-01 17:41:00",
         "availability": "INSTOCK",
         "inventory": 20
       },
@@ -51,7 +51,7 @@
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
         "price": 21998,
         "currency": "INR",
-        "validFrom": "2024-12-01 17:41:46",
+        "validFrom": "2024-12-01 17:41:00",
         "availability": "INSTOCK",
         "inventory": 20
       },
@@ -59,7 +59,7 @@
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
         "price": 41998,
         "currency": "INR",
-        "validFrom": "2024-12-01 17:41:46",
+        "validFrom": "2024-12-01 17:41:00",
         "availability": "INSTOCK",
         "inventory": 20
       },
@@ -115,7 +115,7 @@
         "url": "https://www.zomato.com/events/shankar-ehsaan-loy-live-bengaluru-et51329/details",
         "price": 2499,
         "currency": "INR",
-        "validFrom": "2024-12-01 17:41:44",
+        "validFrom": "2024-12-01 17:41:00",
         "availability": "SOLDOUT",
         "inventory": 0
       },
@@ -235,7 +235,7 @@
         "currency": "INR",
         "validFrom": "2024-12-06 23:11:00",
         "availability": "INSTOCK",
-        "inventory": 1976
+        "inventory": 1615
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -243,7 +243,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "SELLING_FAST",
-        "inventory": 827
+        "inventory": 717
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -251,7 +251,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "SELLING_FAST",
-        "inventory": 111
+        "inventory": 97
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -569,7 +569,7 @@
         "currency": "INR",
         "validFrom": "2024-12-11 18:10:33",
         "availability": "INSTOCK",
-        "inventory": 181
+        "inventory": 177
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -755,15 +755,7 @@
         "currency": "INR",
         "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 1000
-      },
-      {
-        "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
-        "price": 5899,
-        "currency": "INR",
-        "validFrom": "2024-11-23 16:50:00",
-        "availability": "INSTOCK",
-        "inventory": 1000
+        "inventory": 999
       },
       {
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
@@ -868,16 +860,24 @@
         "price": 499,
         "currency": "INR",
         "validFrom": "2024-12-15 19:20:00",
-        "availability": "SELLING_FAST",
-        "inventory": 83
+        "availability": "INSTOCK",
+        "inventory": 166
+      },
+      {
+        "url": "https://www.zomato.com/events/soul-jams-bengaluru-et53503/details",
+        "price": 499,
+        "currency": "INR",
+        "validFrom": "2024-12-15 19:20:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
       }
     ],
     "performers": [
       {
-        "image": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381734241377.png",
+        "image": "https://b.zmtcdn.com/data/zomaland/7839336cde982207ba0fb885d2d10d611734675781.jpeg",
         "name": "Soul Jams",
         "type": "PERSON",
-        "url": "https://b.zmtcdn.com/data/zomaland/b8abc87fa5add360bcbf3975739579381734241377.png"
+        "url": "https://b.zmtcdn.com/data/zomaland/7839336cde982207ba0fb885d2d10d611734675781.jpeg"
       }
     ],
     "organizer": [
