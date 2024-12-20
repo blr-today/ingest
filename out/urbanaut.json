@@ -496,7 +496,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 48,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1177,7 +1177,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 9,
-    "remainingAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1313,55 +1313,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "ScreeningEvent",
-    "name": "Screening: Serendipity | Movie Under the Stars",
-    "description": "Join us for an open-air screening of Serendipity (2001), with a three-course dinner and popcorn.*Wines and other beverages will be available for purchase at the venue.About the movieSerendipity is a charming romantic comedy that tells the story of Jonathan (John Cusack) and Sara (Kate Beckinsale), who meet serendipitously while shopping for gloves during the holiday season in New York City. Despite their instant connection, they decide to leave their future to fate, parting ways with the hope that destiny will bring them back together if they\u2019re meant to be. Years later, both engaged to other people, they find themselves longing to reconnect and go on a whimsical journey filled with missed connections, heartfelt moments, and magical twists to see if fate still has plans for them.3-Course Dinner Menu by chef Rhea AaronCourse 1Spiced pumpkin soup | Buttered mushrooms | ParmesanCourse 2Truffle mac and cheeseCreamy pesto chicken mac and cheeseCourse 3Cold hot chocolate______Terms and ConditionsThe management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Valet service is available at a charge of Rs. 200 per vehicle.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Tickets are non-refundable in case of cancellation or no-show.In case of rain, the event will be moved indoors.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/43F6671EB44E4AABAADE49F171D6FB44_converted_webp.webp"
-    ],
-    "startDate": "2024-12-21T19:30:00+05:30",
-    "endDate": "2024-12-21T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Courtyard",
-      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
-      "latitude": "12.95843050000000000000",
-      "longitude": "77.59289509999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 36,
-    "remainingAttendeeCapacity": 2,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2000.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Courtyard",
-      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
-      "url": "https://urbanaut.app/partner/courtyard",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-73386-77996"
-      }
-    },
-    "url": "https://urbanaut.app/spot/screening-serendipity-movie-under-the-stars",
-    "keywords": [
-      "Art & culture",
-      "Food & drink",
-      "Leisure",
-      "COURTYARD",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Year-End Bake Sale",
     "description": "Join us at Courtyard for the year-end bake sale featuring some of Bangalore's most exciting bakeries and bakers, each bringing their unique flair to the city\u2019s culinary scene.Courtyard is a vibrant community space in the heart of Bangalore, hosting a diverse range of culinary events each month, from restaurant pop-ups to food takeovers and more. Over time, we\u2019ve cultivated a robust community and created a signature space for all things food, centered around our unique concepts, thoughtful themes, and carefully curated experiences.The Year-end Bake Sale Line-up :Juny's Bake House, BangaloreSAPA Sourdough & Pastry, MysoreBasque Bakery, BangaloreGerman BrezelHaus, BangaloreKlaa Kitchen, BangaloreThe Flying Apron, BangalorePar Caramel, BangalorePanader\u00eda Goku, ChennaiSee you at the yard!Terms & Conditions:The management is not responsible for any injury or damage that may occur during an eventThe event will continue until all stock is sold.Early arrival is recommended to enjoy the event and its full range of offerings.Do not purchase the tickets from anyone other than on the ticketing platform.No shows and cancellations are non-refundable by all means.Tickets are non-transferable and are for personal use only.The schedule and the menu are subject to change in case of an emergency or any event out of our control.Children over of the age 3 & above require a ticket.No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Paid Valet Parking at 200RS per car.The holder of this ticket grants organizers the right to use, in perpetuity, all or any part of the recording of any video or still footage made of the holder's appearance on any channel without any further approval of theirs.",
@@ -1381,7 +1332,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 360,
-    "remainingAttendeeCapacity": 103,
+    "remainingAttendeeCapacity": 97,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1431,7 +1382,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 1,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2031,7 +1982,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2681,7 +2632,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 24,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3061,7 +3012,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3110,7 +3061,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 184,
+    "remainingAttendeeCapacity": 177,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3571,7 +3522,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 6,
-    "remainingAttendeeCapacity": 2,
+    "remainingAttendeeCapacity": 1,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3619,7 +3570,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 47,
+    "remainingAttendeeCapacity": 35,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",

@@ -687,8 +687,8 @@
   {
     "name": "Bloom in Green Festival 2024",
     "description": "Welcome to Bloom in Green Festival 2024\nStep into a transformative three-day celebration of art, music, and connection. With 65+ hours of immersive experiences, enjoy two music stages featuring global and Indian talent, Workshop Shaalas for creativity and wellness, and awe-inspiring art installations. Every moment is designed to spark joy and inspire growth.\nExplore vibrant flea markets, engage in unique activities like drum circles and ecstatic dance, and relax under the stars at the Camping Village. Families will love the dedicated kids' zone, and attendees can choose from various camping options. Join us for an unforgettable journey of creativity, community, and transformation!",
-    "startDate": "2024-12-20T07:00:00+05:30",
-    "endDate": "2024-12-22T12:00:00+05:30",
+    "startDate": "2024-12-20 07:00:00",
+    "endDate": "2024-12-22 12:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
