@@ -845,8 +845,8 @@
   {
     "name": "Soul Jams",
     "description": "Soul Jams is the ultimate destination for music lovers! Join us for an evening of relaxation, unwinding, and rejuvenation. Our welcoming space allows you to be yourself and feel at home. \nBring your guitars, cajones, and voices to sing your heart out alongside our vibrant community in a beautiful jamming session. \n\nThe event comprises three soul-enriching parts: \n\n1. Soul Open Mic: Perform for a warm and appreciative audience, regardless of where you are on your musical journey. Reach out to @souljams_bengaluru on Instagram to book your slot.\n2. Social Mixers: Connect with like-minded individuals and find your tribe, fostering meaningful connections. \n3. Soul Jamming: Sing, play instruments, and join the community in a spontaneous, free-flowing musical experience. We create music together, fostering an atmosphere of refreshment and excitement.",
-    "startDate": "2024-12-21T17:30:00+05:30",
-    "endDate": "2024-12-21T21:30:00+05:30",
+    "startDate": "2024-12-21 17:30:00",
+    "endDate": "2024-12-21 21:30:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",

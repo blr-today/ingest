@@ -120,16 +120,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 34,
-            "name": "Early Bird Ticket",
+            "inventoryLevel": 200,
+            "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
+            "availability": "SoldOut",
             "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 350,
-            "name": "Phase 1 Ticket",
+            "inventoryLevel": 0,
+            "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
          }
       ],
@@ -173,6 +173,121 @@
       ],
       "startDate": "2025-03-28T20:00:00",
       "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Bier Loft NYE || Night under the Sky",
+      "endDate": "2024-12-31T23:00:00",
+      "identifier": "com.skillboxes.17890",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UFBudll1QU9qVlJZaU12SXJ2bm4zdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734770828L16GVTdOzw4vpoVU.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "New Year 2025"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th Floor, Nishaanth Elegance, Neeladri Rd, opposite Cloudnine Hospital, Neeladri Nagar, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.8415945",
+            "longitude": "77.6445556"
+         },
+         "name": "Bier Loft Brewing Company"
+      },
+      "name": "2025 New Year Celebration Party",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Above 6 years\n",
+            "inventoryLevel": 1000,
+            "name": "Kids",
+            "url": "https://www.skillboxes.com/events/ticket/2025-new-year-celebration-party"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Angles",
+            "url": "https://www.skillboxes.com/events/ticket/2025-new-year-celebration-party"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Stags",
+            "url": "https://www.skillboxes.com/events/ticket/2025-new-year-celebration-party"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Couples",
+            "url": "https://www.skillboxes.com/events/ticket/2025-new-year-celebration-party"
+         }
+      ],
+      "startDate": "2024-12-31T20:00:00",
+      "url": "https://www.skillboxes.com/events/2025-new-year-celebration-party"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Little Bhatia the powerhouse of Indian hip-hop and participant of MTV Hustle Season 1V, is here to take the stage by storm with Campaign Tour! Known f",
+      "endDate": "2024-12-28T23:59:00",
+      "identifier": "com.skillboxes.17883",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NFRYYks4VFJlWk9XT2RDL2NwenJnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734698583Wi6LUGcqgrwQvlcL.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9151523",
+            "longitude": "77.6660553"
+         },
+         "name": "White Lotus Club Bengaluru"
+      },
+      "name": "LITTLE BHATIA'S CAMPAIGN TOUR | Indram",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
+            "inventoryLevel": 100,
+            "name": "Phase 1 : Single",
+            "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour-indram"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
+            "inventoryLevel": 50,
+            "name": "COUPLE TICKETS",
+            "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour-indram"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
+            "inventoryLevel": 25,
+            "name": "Phase 1 : Group of 4",
+            "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour-indram"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
+            "inventoryLevel": 10,
+            "name": "MEET & GREET",
+            "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour-indram"
+         }
+      ],
+      "startDate": "2024-12-28T20:30:00",
+      "url": "https://www.skillboxes.com/events/little-bhatia-s-campaign-tour-indram"
    },
    {
       "@context": "https://schema.org",
