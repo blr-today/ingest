@@ -22,7 +22,7 @@
         "currency": "INR",
         "validFrom": "2024-12-06 23:11:00",
         "availability": "INSTOCK",
-        "inventory": 1615
+        "inventory": 1406
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -30,7 +30,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "SELLING_FAST",
-        "inventory": 717
+        "inventory": 675
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -38,7 +38,7 @@
         "currency": "INR",
         "validFrom": "2024-10-25 13:24:00",
         "availability": "SELLING_FAST",
-        "inventory": 97
+        "inventory": 90
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -312,7 +312,7 @@
         "currency": "INR",
         "validFrom": "2024-12-11 18:10:33",
         "availability": "INSTOCK",
-        "inventory": 177
+        "inventory": 175
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -320,7 +320,7 @@
         "currency": "INR",
         "validFrom": "2024-12-11 18:01:40",
         "availability": "INSTOCK",
-        "inventory": 232
+        "inventory": 230
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -328,7 +328,7 @@
         "currency": "INR",
         "validFrom": "2024-12-11 18:01:40",
         "availability": "INSTOCK",
-        "inventory": 95
+        "inventory": 94
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -336,7 +336,7 @@
         "currency": "INR",
         "validFrom": "2024-12-11 18:01:40",
         "availability": "INSTOCK",
-        "inventory": 94
+        "inventory": 93
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -462,23 +462,7 @@
     "tickets": [
       {
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
-        "price": 2359,
-        "currency": "INR",
-        "validFrom": "2024-11-23 16:50:00",
-        "availability": "INSTOCK",
-        "inventory": 1498
-      },
-      {
-        "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
-        "price": 3539,
-        "currency": "INR",
-        "validFrom": "2024-11-23 16:50:00",
-        "availability": "INSTOCK",
-        "inventory": 1500
-      },
-      {
-        "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
-        "price": 5899,
+        "price": 3000,
         "currency": "INR",
         "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
@@ -486,27 +470,11 @@
       },
       {
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
-        "price": 5899,
-        "currency": "INR",
-        "validFrom": "2024-11-23 16:50:00",
-        "availability": "INSTOCK",
-        "inventory": 1500
-      },
-      {
-        "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
-        "price": 5899,
-        "currency": "INR",
-        "validFrom": "2024-11-23 16:50:00",
-        "availability": "INSTOCK",
-        "inventory": 999
-      },
-      {
-        "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
         "price": 7080,
         "currency": "INR",
         "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 49
       },
       {
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
@@ -518,11 +486,11 @@
       },
       {
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
-        "price": 10029,
+        "price": 9440,
         "currency": "INR",
         "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 798
+        "inventory": 995
       },
       {
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
@@ -542,11 +510,11 @@
       },
       {
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
-        "price": 17699,
+        "price": 16520,
         "currency": "INR",
         "validFrom": "2024-11-23 16:50:00",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 795
       },
       {
         "url": "https://www.zomato.com/events/blooming-green-festival-2024-bengaluru-et53358/details",
