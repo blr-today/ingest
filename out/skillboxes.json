@@ -176,6 +176,32 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "8Day là nhà cái uy tín, được thành lập với sứ mệnh cung cấp trải ngh",
+      "endDate": "2024-12-31T19:59:00",
+      "identifier": "com.skillboxes.17900",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dFlpUnE0WG9YVE5hWTNpNXRya2xSdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734857820EMQjF1xfBa8BefSv.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "",
+            "longitude": ""
+         },
+         "name": "To Be Decided"
+      },
+      "name": "8day - START A DAY TO WIN",
+      "offers": [ ],
+      "startDate": "2024-12-31T18:58:00",
+      "url": "https://www.skillboxes.com/events/8day-start-a-day-to-win"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "REFLECTION 2025\r\n\r\n(The most luxurious New Years Eve)\r\n\r\n \r\n\r\nFeaturing\r\n\r\n \r\n\r\nANKYTRIXX\r\n\r\n \r\n\r\nVISHNU\r\n\r\n \r\n\r\nARTBLOT\r\n\r\nDRAMAT",
       "endDate": "2024-12-31T23:59:00",
@@ -280,6 +306,57 @@
       ],
       "startDate": "2024-12-31T20:00:00",
       "url": "https://www.skillboxes.com/events/2025-new-year-celebration-party"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The Burrow Presents New Year Bash",
+      "endDate": "2024-12-31T23:59:00",
+      "identifier": "com.skillboxes.17888",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734773827niEqvce2nZkvjWPg.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "New Year 2025"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Near 37, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9848935",
+            "longitude": "77.5808723"
+         },
+         "name": "37th Crescent Hotel"
+      },
+      "name": "The Burrow Presents New Year Bash",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Walk in anytime.\n",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Ticket (Female)",
+            "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-new-year-bash"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "a) Compulsory cover charge of INR 1000 before 9PM.   b) Compulsory cover charge of INR 2000 post 9PM.\n",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Ticket (Couple)",
+            "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-new-year-bash"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "a) Compulsory cover charge of INR 1000 before 9PM.   b) Compulsory cover charge of INR 2000 post 9PM.\n",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Ticket (Male)",
+            "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-new-year-bash"
+         }
+      ],
+      "startDate": "2024-12-31T20:00:00",
+      "url": "https://www.skillboxes.com/events/the-burrow-presents-new-year-bash"
    },
    {
       "@context": "https://schema.org",
@@ -2173,6 +2250,52 @@
       ],
       "startDate": "2024-12-22T08:00:00",
       "url": "https://www.skillboxes.com/events/uk-punjabi-night-nolimits-magrath-road"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "This Friday, get ready to groove to the best of Commercial and Hip-hop music at the hottest spot in B'town—Hard Rock Cafe! St. Ma",
+      "endDate": "2024-12-28T00:30:00",
+      "identifier": "com.skillboxes.17736",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734460373qbh2kDZyGG97XGy3.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "40 St. Marks Road Bangalore, India",
+         "name": "Hard Rock Cafe Bengaluru"
+      },
+      "name": "Bootleg Fridays at Hardrock Cafe",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable through out the event\n",
+            "inventoryLevel": 100,
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-8"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "One pass allow one single entry\n",
+            "inventoryLevel": 100,
+            "name": "Ladies",
+            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-8"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free entry till 0930pm post cover charges applicable\n",
+            "inventoryLevel": 100,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-8"
+         }
+      ],
+      "startDate": "2024-12-27T08:00:00",
+      "url": "https://www.skillboxes.com/events/bootleg-fridays-at-hardrock-cafe-8"
    },
    {
       "@context": "https://schema.org",
