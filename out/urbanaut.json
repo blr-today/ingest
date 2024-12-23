@@ -2267,10 +2267,10 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Sunday Breakfast Table",
-    "description": "Connect, Converse, Celebrate! \u2728Join us for the Sunday Breakfast Table, where fresh conversations, diverse stories from strangers and a relaxed atmosphere set the tone for a perfect start to your day \ud83e\udd29It\u2019s the perfect way to share stories, meet interesting people and enjoy a delicious breakfast in great company!",
+    "name": "Sunday Before New Year",
+    "description": "Ring in the New Year with New Connections! \u2728Join us for a special Sunday Breakfast Table, where fresh conversations, exciting stories and a relaxed vibe set the stage for a memorable morning.It\u2019s the perfect opportunity to reflect on the year gone by, meet new people and enjoy a laid-back breakfast with great company\u2014setting the tone for a fantastic start to the new year ahead! \ud83c\udf89",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B1F1CE7360BC4FDC8014DCC0A330AAB0_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/75DB56361D294B30832D3BF6709BF1A8_converted_webp.webp"
     ],
     "startDate": "2024-12-29T10:00:00+05:30",
     "endDate": "2024-12-29T11:30:00+05:30",
@@ -2971,6 +2971,111 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Christmas Party: Meet and Connect",
+    "description": "BLR Events Hub Christmas Party: A Celebration to Remember!Get ready to experience the magic of Christmas like never before! Join us for a vibrant and joy-filled Christmas Party hosted by BLR Events Hub\u2014A perfect way to celebrate, connect with amazing people, and immerse yourself in the festive spirit through engaging icebreakers and exciting activities planned for the evening.The dress code for the Christmas Party is festive and fun\u2014come dressed in shades of green, red, and white to embrace the holiday spirit!Note: One Appetiser and Mocktail is included in ticket price.The organizer reserves the right to deny entry or participation at their discretion to ensure the safety and comfort of all attendees and the smooth functioning of the event.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/328ADF97FC5E452FA2598C16E14E4CD2_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B4DBB0FFFA5C4DB5B5FC13FA47DA5842_converted_webp.webp"
+    ],
+    "startDate": "2024-12-25T19:00:00+05:30",
+    "endDate": "2024-12-25T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "450, 1st Floor, 17th Cross Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZ_7TSoAVrjsRsWSn2_kyLnI",
+      "latitude": "12.91230770000000000000",
+      "longitude": "77.64161260000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 4,
+    "remainingAttendeeCapacity": 4,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "BLR Events Hub",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/98430E903035463C9D4E7BD8D26B086F_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-70905-28592"
+      }
+    },
+    "url": "https://urbanaut.app/spot/christmas-party-meet-and-connect",
+    "keywords": [
+      "Food & drink",
+      "Leisure",
+      "Live GIG",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Christmas Day Session: Full Body Circuit Training",
+    "description": "Get fit this Christmas Day!!Join us for a body-weight circuit training session with the amazing Joseph Charles aka. Houvsep, visiting Bangalore for this exclusive event.Houvsep is the Founder and Head Coach of Zero, a revolutionary fitness centre in Kerala that blends traditional and modern disciplines- honestly we are very lucky to have him here in Bangalore! He will be taking us through a tough and highly effective workout - an intensive bodyweight circuit including Animal flow and Kalaripayattu movements for a full body strength, endurance and balance work.We hope you can join us for an active Christmas Day!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/31280ACB15B94F108EAC41279DD3DE71_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AE6ED7CEA72544959E9EAC8116F1776F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/948C96E8485442939CD702B65C3D4493_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E98E370A69954E1D9808B8F0BBC7998C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/17FBF1E85479484DAD60432FB420415D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/665B35E550654019AF8798D5A525D234_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BADF1E648C1E4AE1A22170AED7FED184_converted_webp.webp"
+    ],
+    "startDate": "2024-12-25T11:00:00+05:30",
+    "endDate": "2024-12-25T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/christmas-day-workout",
+    "keywords": [
+      "Active",
+      "Food & drink",
+      "Wellness",
+      "Workshop",
+      "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "A King in New York (1957) with The Parallel Cinema",
     "description": "Join us for a special screening of A King in New York, a delightful and thought-provoking classic. Charlie Chaplin\u2019s last leading role satirizes American politics and society through the story of a deposed king seeking refuge in the U.S.Who are The Parallel Cinema Club?We are a community-run film society based out of Bangalore and Hyderabad. We are a group of film enthusiasts who meet up once a week to discuss the reel world, auteurs and themes, and occasionally host guest lectures.",
@@ -3061,6 +3166,100 @@
       "Art & culture",
       "Leisure",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Clear the Clutter: A Year-End Reset",
+    "description": "Kick (or gently push) the old to the curb and roll out the red carpet for the new! \ud83c\udf89\u2728 Come out for a fun evening where strangers become confidants, conversations spark joy, and (sometimes) perspectives shift like magic. \ud83d\udcac\ud83c\udf08Think of it as an emotional yard sale: bring your stories, your baggage (metaphorical, of course), and let\u2019s declutter our minds together. \ud83e\uddf3\ud83d\udca1 You\u2019ll laugh, learn, share, and leave lighter, ready to waltz into the new year with a spring in your step. \ud83d\udc83\ud83d\udd7aSay goodbye to the blahs, hello to the highs, and end the year with good vibes and even better company. \ud83e\udd42\u270c\ufe0fDon\u2019t miss this feel-good fest of connections and clarity!Hosted by Parama - our in-house rant specialist determined to declutter for good.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/58BE713134B54984994E93653B95617B_converted_webp.webp"
+    ],
+    "startDate": "2024-12-26T19:00:00+05:30",
+    "endDate": "2024-12-26T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "263, 3rd Cross Rd, 2nd Stage, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJoYlH0R0UrjsRgxYyxd3AGXE",
+      "latitude": "12.96688870000000000000",
+      "longitude": "77.63685699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 6,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "Meet a small group of strangers offline, with no agendas\u2014just good conversations and genuine connections. Whether it\u2019s a random thought or a deep dive, you never know where it might lead. Sometimes, the best connections happen when you least expect them.",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/year-end-reset",
+    "keywords": [
+      "Food & drink",
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Christmas Day Breakfast\ud83c\udf84",
+    "description": "Start Your Christmas Morning with New Connections! \ud83c\udf8aJoin us at the Christmas Day Breakfast table, where the spirit of the season shines through in every conversation and connection.It\u2019s a space to celebrate and enjoy the warmth of the holidays with new faces and familiar smiles! \ud83d\udcab",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D6C9843D186841FBBC7C196567646563_converted_webp.webp"
+    ],
+    "startDate": "2024-12-25T10:00:00+05:30",
+    "endDate": "2024-12-25T11:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Cunningham Hallmark, 35, Cunningham Rd, opp. Sweet Chariot, Vasanth Nagar, Bengaluru, Karnataka 560052, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJnRZayTIXrjsRqapseh0gB7o",
+      "latitude": "12.98660700000000000000",
+      "longitude": "77.59504910000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "Meet a small group of strangers offline, with no agendas\u2014just good conversations and genuine connections. Whether it\u2019s a random thought or a deep dive, you never know where it might lead. Sometimes, the best connections happen when you least expect them.",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/christmas-day-breakfast-hightable",
+    "keywords": [
+      "Food & drink",
+      "Leisure",
       "URBANAUT"
     ]
   }
