@@ -1,6 +1,68 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "A UK-born South Asian DJ rose to fame on TikTok with such mini mixes in 2022. We're talking about AJ Wavy who you might know from the iconic mashu",
+      "endDate": "2024-12-25T23:59:00",
+      "identifier": "com.skillboxes.17657",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734114232j2PP5ScuhfZxlnco.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "One 8 Commune 10/5, 6th floor, Rathnam's Complex, Kasturba Road, Mahatma Gandhi Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9762029",
+            "longitude": "77.5991872"
+         },
+         "name": "One8 Commune"
+      },
+      "name": "AJWAVY",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "Phase 1 Single Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 18,
+            "name": "Phase 1 Couple Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 970,
+            "name": "Early Bird Ticket (Female)",
+            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 996,
+            "name": "Early Bird Ticket (Male)",
+            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 989,
+            "name": "Early Bird Ticket (Couple)",
+            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
+         }
+      ],
+      "startDate": "2024-12-25T20:00:00",
+      "url": "https://www.skillboxes.com/events/ajwavy"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Sunny side up pre party ft. Maximlany | Bangalore\r\n\r\nDate - 27 dec\r\n\r\nVenue- Magique Bangalore \r\n\r\nTime - 8pm onwards",
       "endDate": "2024-12-27T23:59:00",
@@ -173,6 +235,226 @@
       ],
       "startDate": "2025-03-28T20:00:00",
       "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Get ready for the ultimate techno showcase in your city - PROTOCOL SUNDAY! Catch the Afterlife Sensation N1RVAAN live at Kitty Ko this Sunday.Date: Su",
+      "endDate": "2024-12-30T01:00:00",
+      "identifier": "com.skillboxes.17937",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734978708DiO3bCJ5tTkPeA0c.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Protocol ft. N1RVAAN / 29th Dec / Kitty Ko",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-n1rvaan-29th-dec-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-n1rvaan-29th-dec-kitty-ko"
+         }
+      ],
+      "startDate": "2024-12-29T20:00:00",
+      "url": "https://www.skillboxes.com/events/protocol-ft-n1rvaan-29th-dec-kitty-ko"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Experience an electrifying night of beats and rhythms as CentiGrade Club Nights presents BABA ROBIJN live at PANGEO this Saturday.Get ready to dance t",
+      "endDate": "2024-12-29T01:00:00",
+      "identifier": "com.skillboxes.17933",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734968194HTb0RyJqoRItstDi.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9726391",
+            "longitude": "77.6065987"
+         },
+         "name": "Pangeo"
+      },
+      "name": "CentiGrade Club Nights ft. Baba Robijn / 28th Dec / Pangeo",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-baba-robijn-28th-dec-pangeo-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-baba-robijn-28th-dec-pangeo-1"
+         }
+      ],
+      "startDate": "2024-12-28T20:00:00",
+      "url": "https://www.skillboxes.com/events/centigrade-club-nights-ft-baba-robijn-28th-dec-pangeo-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Redroom_BLR\r\n\r\nFridays \r\n\r\n \r\n\r\nFeaturing\r\n\r\n \r\n\r\n \r\n\r\nTASNNEEM\r\n\r\n \r\n\r\n(QILLA RECORDS)\r\n\r\n \r\n\r\nARTBLOT\r\n\r\n \r\n\r\nKIS",
+      "endDate": "2024-12-27T23:59:00",
+      "identifier": "com.skillboxes.17931",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734967775wp9Yf30rYKB6MmWO.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Redroom Ft. Tasnneem (Qilla Records) at Kitty Ko Bangalore. | NY2025",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Female, Extra Cover charge applicable post 9.30pm walk-in at the venue\n",
+            "inventoryLevel": 1000,
+            "name": "GUESTLIST FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-tasnneem-qilla-records-at-kitty-ko-bangalore-ny2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Couple, Extra Cover charge applicable post 9.30pm walk-in at the venue\n",
+            "inventoryLevel": 100,
+            "name": "GUESTLIST COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-tasnneem-qilla-records-at-kitty-ko-bangalore-ny2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Male, Extra Cover charge applicable post 9.30pm walk-in at the venue\n",
+            "inventoryLevel": 100,
+            "name": "MALE TICKETS",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-tasnneem-qilla-records-at-kitty-ko-bangalore-ny2025"
+         }
+      ],
+      "startDate": "2024-12-27T19:00:00",
+      "url": "https://www.skillboxes.com/events/redroom-ft-tasnneem-qilla-records-at-kitty-ko-bangalore-ny2025"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Looking for the perfect way to ring in 2025? Look no further than Indian Craft Brewery's spectacular New Year's Eve event! Enjoy a night of unlimited ",
+      "endDate": "2024-12-31T23:59:00",
+      "identifier": "com.skillboxes.17930",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734967209tdSgfTgHK6pZVvuT.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "New Year 2025"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Sy no 90/3, K, 572/90, Outer Ring Rd, beside Manpo Convention Center, DadaMastan Layout, Manayata Tech Park, Nagawara, Bengaluru, Karnataka 560077, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0418227",
+            "longitude": "77.6161535"
+         },
+         "name": "ICB INDIAN CRAFT BREWERY"
+      },
+      "name": "Martin D’Souza Live! NYE at ICB",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Early Bird Ticket - Kids (8 to 16) Y/O",
+            "url": "https://www.skillboxes.com/events/ticket/martin-d-souza-live-nye-at-icb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Early Bird Ticket - Female",
+            "url": "https://www.skillboxes.com/events/ticket/martin-d-souza-live-nye-at-icb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Early Bird Ticket - Male",
+            "url": "https://www.skillboxes.com/events/ticket/martin-d-souza-live-nye-at-icb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Early Bird Ticket - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/martin-d-souza-live-nye-at-icb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Phase 1 Ticket - Kids (8 to 16) Y/O",
+            "url": "https://www.skillboxes.com/events/ticket/martin-d-souza-live-nye-at-icb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Phase 1 Ticket - Female",
+            "url": "https://www.skillboxes.com/events/ticket/martin-d-souza-live-nye-at-icb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Phase 1 Ticket - Male",
+            "url": "https://www.skillboxes.com/events/ticket/martin-d-souza-live-nye-at-icb"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Phase 1 Ticket - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/martin-d-souza-live-nye-at-icb"
+         }
+      ],
+      "startDate": "2024-12-31T21:00:00",
+      "url": "https://www.skillboxes.com/events/martin-d-souza-live-nye-at-icb"
    },
    {
       "@context": "https://schema.org",
@@ -2330,49 +2612,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Get ready for the ultimate XMAS Eve Edition in your city - PROTOCOL SUNDAY! Catch the legendary duo MAFAIZA & IVAN live a",
-      "endDate": "2024-12-23T01:00:00",
-      "identifier": "com.skillboxes.17740",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17344122235MyktN1F9Y4v5GsY.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Protocol ft. Mafaiza & Ivan / 22nd Dec / Kitty Ko",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 992,
-            "name": "Female - Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-mafaiza-ivan-22nd-dec-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 933,
-            "name": "Guestlist - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-mafaiza-ivan-22nd-dec-kitty-ko"
-         }
-      ],
-      "startDate": "2024-12-22T20:00:00",
-      "url": "https://www.skillboxes.com/events/protocol-ft-mafaiza-ivan-22nd-dec-kitty-ko"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "This Saturday Catch All Fun And Action On Biggest Dance Floor At Hangover Kormangala.Bollywood Blockbuster  with DJ Milan and Fema",
       "endDate": "2024-12-29T00:30:00",
       "identifier": "com.skillboxes.17738",
@@ -2420,27 +2659,6 @@
       ],
       "startDate": "2024-12-28T20:00:00",
       "url": "https://www.skillboxes.com/events/saturday-hangover-blockbuster-night-2"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Highlights:DJ NightNon Stop MusicBollywood NightDance FloorMouth Watering AppetizersCocktails and MocktailsJoin us for an epic night of music and fun.",
-      "endDate": "2024-12-23T00:00:00",
-      "identifier": "com.skillboxes.17737",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734460442ZZ1Y59NQciQkcDXW.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "#8, 2nd Floor, Above Nalli SIlks Bangalore, India",
-         "name": "Nolimmits Lounge & Club"
-      },
-      "name": "One night in paris  @ Nolimits Magrath Road",
-      "offers": [ ],
-      "startDate": "2024-12-22T08:00:00",
-      "url": "https://www.skillboxes.com/events/uk-punjabi-night-nolimits-magrath-road"
    },
    {
       "@context": "https://schema.org",
@@ -2906,68 +3124,6 @@
       ],
       "startDate": "2024-12-31T20:00:00",
       "url": "https://www.skillboxes.com/events/nye-bash-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "A UK-born South Asian DJ rose to fame on TikTok with such mini mixes in 2022. We're talking about AJ Wavy who you might know from the iconic mashu",
-      "endDate": "2024-12-25T23:59:00",
-      "identifier": "com.skillboxes.17657",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734114232j2PP5ScuhfZxlnco.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "One 8 Commune 10/5, 6th floor, Rathnam's Complex, Kasturba Road, Mahatma Gandhi Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9762029",
-            "longitude": "77.5991872"
-         },
-         "name": "One8 Commune"
-      },
-      "name": "AJWAVY",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 30,
-            "name": "Phase 1 Single Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 18,
-            "name": "Phase 1 Couple Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 970,
-            "name": "Early Bird Ticket (Female)",
-            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 996,
-            "name": "Early Bird Ticket (Male)",
-            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 989,
-            "name": "Early Bird Ticket (Couple)",
-            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
-         }
-      ],
-      "startDate": "2024-12-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/ajwavy"
    },
    {
       "@context": "https://schema.org",
