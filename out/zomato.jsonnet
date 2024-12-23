@@ -21,8 +21,8 @@
         "price": 2000,
         "currency": "INR",
         "validFrom": "2024-12-06 23:11:00",
-        "availability": "INSTOCK",
-        "inventory": 1406
+        "availability": "SELLING_FAST",
+        "inventory": 534
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -30,15 +30,15 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "SELLING_FAST",
-        "inventory": 675
+        "inventory": 458
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
         "price": 15000,
         "currency": "INR",
-        "validFrom": "2024-10-25 13:24:00",
-        "availability": "SELLING_FAST",
-        "inventory": 90
+        "validFrom": "2024-12-22 22:52:50",
+        "availability": "INSTOCK",
+        "inventory": 86
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -312,7 +312,7 @@
         "currency": "INR",
         "validFrom": "2024-12-11 18:10:33",
         "availability": "INSTOCK",
-        "inventory": 175
+        "inventory": 169
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -320,7 +320,7 @@
         "currency": "INR",
         "validFrom": "2024-12-11 18:01:40",
         "availability": "INSTOCK",
-        "inventory": 230
+        "inventory": 229
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
