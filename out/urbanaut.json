@@ -2873,7 +2873,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Christmas Party: Meet and Connect",
-    "description": "BLR Events Hub Christmas Party: A Celebration to Remember!Get ready to experience the magic of Christmas like never before! Join us for a vibrant and joy-filled Christmas Party hosted by BLR Events Hub\u2014A perfect way to celebrate, connect with amazing people, and immerse yourself in the festive spirit through engaging icebreakers and exciting activities planned for the evening.The dress code for the Christmas Party is festive and fun\u2014come dressed in shades of green, red, and white to embrace the holiday spirit!Note: One Appetiser and Mocktail is included in ticket price.The organizer reserves the right to deny entry or participation at their discretion to ensure the safety and comfort of all attendees and the smooth functioning of the event.",
+    "description": "\ud83c\udf84BLR Events Hub Christmas Party: A Celebration to Remember!Get ready to experience the magic of Christmas like never before! Join us for a vibrant and joy-filled Christmas Party hosted by BLR Events Hub\u2014A perfect way to celebrate, connect with amazing people, and immerse yourself in the festive spirit through engaging icebreakers and exciting activities planned for the evening.Don't miss the opportunity to meet and diverse set of people and enjoy the Christmas spirit! \ud83c\udf84\u2728The dress code for the Christmas Party is festive and fun\u2014come dressed in shades of green, red, and white to embrace the holiday spirit! We have limited tickets, book your seats at the earliest.Note: One Appetiser and Mocktail is included in ticket price.The organiser reserves the right to deny entry or participation at their discretion to ensure the safety and comfort of all attendees and the smooth functioning of the event.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/328ADF97FC5E452FA2598C16E14E4CD2_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B4DBB0FFFA5C4DB5B5FC13FA47DA5842_converted_webp.webp"
@@ -3314,6 +3314,64 @@
       "Art & culture",
       "Leisure",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "New Year's Day Yoga + Brunch",
+    "description": "Begin 2025 with a grounding and uplifting yoga flow, designed to clear away the past year's clutter and open your heart to the possibilities ahead. During this session, we\u2019ll guide you through intention setting\u2014a powerful practice to align your goals with your values.Afterward, savor a wholesome, plant-based brunch, crafted with freshness to fuel your year ahead.Join Sanchika, a Vinyasa, Breathwork, and Yoga Nidra teacher with over seven years of personal practice. She is passionate about exploring the connection between the mind, body, and breath, and she loves sharing that with others through creative and accessible Vinyasa flows.\u00a0\u00a0Let\u2019s celebrate new beginnings with mindfulness, meaningful connections, and delicious food. Here\u2019s to a year filled with growth, gratitude, and great moments.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6392C08077DB46D3B5B3C1EE2261C59D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AE6ED7CEA72544959E9EAC8116F1776F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/948C96E8485442939CD702B65C3D4493_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E98E370A69954E1D9808B8F0BBC7998C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/17FBF1E85479484DAD60432FB420415D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/665B35E550654019AF8798D5A525D234_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BADF1E648C1E4AE1A22170AED7FED184_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3ADE40E1094342A4B86618761EB71CD7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EA0E0E86E5E048368F77A5B5E823A18C_converted_webp.webp"
+    ],
+    "startDate": "2025-01-01T10:00:00+05:30",
+    "endDate": "2025-01-01T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/newyearsday-yogabrunch",
+    "keywords": [
+      "Active",
+      "Food & drink",
+      "Wellness",
+      "Workshop",
+      "Eco Friendly",
       "URBANAUT"
     ]
   }

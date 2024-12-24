@@ -238,6 +238,74 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Kalyan Sabareeshan is a Musician & a Magician who has been actively performing across Bangalore over the last 2 years. He has been composing music",
+      "endDate": "2024-12-29T21:00:00",
+      "identifier": "com.skillboxes.17943",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b21SL25rNGFkWHpybTE0Mk9DbWhFQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735012713XLsb78OlR741N6vp.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Performing & Visual Arts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "3rd Floor, 21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9324814",
+            "longitude": "77.6318261"
+         },
+         "name": "Dialogues Cafe Koramangala"
+      },
+      "name": "An Evening of Magic & Music with Kalyan Sabareeshan // Sunday Dec 29th",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "General",
+            "url": "https://www.skillboxes.com/events/ticket/an-evening-of-magic-music-with-kalyan-sabareeshan-1"
+         }
+      ],
+      "startDate": "2024-12-29T19:30:00",
+      "url": "https://www.skillboxes.com/events/an-evening-of-magic-music-with-kalyan-sabareeshan-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Note: The pass includs a food coupon worth INR 150 which can be redeemed for Food & Beverages at the venue.Get ready for a magical musical experie",
+      "endDate": "2024-12-29T21:00:00",
+      "identifier": "com.skillboxes.17942",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c1BiTmVRSVVmWHVORi9TV0JqSjFuQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735010912Seq0yHjoYGpYHloU.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Lower Ground Floor, 43, 7th Main Rd, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560038, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9722318",
+            "longitude": "77.6370575"
+         },
+         "name": "Dhwani - Bar & Kitchen"
+      },
+      "name": "Bajabies Candle Light Jam - Food Coupon Included",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "Pass with Food Coupon",
+            "url": "https://www.skillboxes.com/events/ticket/bajabies-candle-light-jam-food-coupon-included"
+         }
+      ],
+      "startDate": "2024-12-29T19:00:00",
+      "url": "https://www.skillboxes.com/events/bajabies-candle-light-jam-food-coupon-included"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Come and celebrate Christmas with us @ The Chill House HSR Layout. DJ Indefatigable is going to spin his tunes and ensure you have an amazing time. DM",
       "endDate": "2024-12-25T23:59:00",
@@ -5746,7 +5814,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Applicable for a single person. includes entry to the Fanpit arena : Barricaded front area with access to F&B counters Applicable age group [21 and above].\n",
-            "inventoryLevel": 199,
+            "inventoryLevel": 198,
             "name": "Early Bird FanPit - Single",
             "url": "https://www.skillboxes.com/events/ticket/jingle-land-bangalore-s-biggest-music-festival-1"
          },
