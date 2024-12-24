@@ -25,14 +25,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 30,
+            "inventoryLevel": 22,
             "name": "Phase 1 Single Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ajwavy"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 18,
+            "inventoryLevel": 12,
             "name": "Phase 1 Couple Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ajwavy"
          },
@@ -115,7 +115,7 @@
       "description": "#Bengaluru Bringing the spirit of the northeast India to you with the very first edition of Bloomverse Express in your city on the 16th of February, 2",
       "endDate": "2025-02-16T22:00:00",
       "identifier": "com.skillboxes.17126",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732345257230rY2yOwgWfvVYf.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735022009I4kB0JnzFnQd6mO4.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"
@@ -128,7 +128,7 @@
             "latitude": "12.9957867",
             "longitude": "77.6964011"
          },
-         "name": "Phoenix Marketcity"
+         "name": "Phoenix Marketcity (Back Area)"
       },
       "name": "Bloomverse Express Bengaluru feat. MR. BIG",
       "offers": [
@@ -136,7 +136,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in General Zone.\n◉ General access to bars, f&b counters.",
-            "inventoryLevel": 1156,
+            "inventoryLevel": 1143,
             "name": "Phase 1 | Single - GA",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -144,7 +144,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
-            "inventoryLevel": 522,
+            "inventoryLevel": 521,
             "name": "Phase 1 | Single - Fan Zone",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -235,6 +235,219 @@
       ],
       "startDate": "2025-03-28T20:00:00",
       "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "Get Ready for \"Mixtape Madness\" - This Friday at Skydeck by Sherlock's!Dive into an electrifying Bollytech & Commercial Music DJ Night at ",
+      "endDate": "2024-12-27T23:59:00",
+      "identifier": "com.skillboxes.17951",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735031621R5wlraU7fQ94CSCh.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750296",
+            "longitude": "77.6075339"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Mixtape Madness",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/mixtape-madness"
+         }
+      ],
+      "startDate": "2024-12-27T20:00:00",
+      "url": "https://www.skillboxes.com/events/mixtape-madness"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "description": "This New Year’s Eve, Granny’s cranking up the charm with a retro bash that’s anything but old news! 💃✨DJ Jay’s ",
+      "endDate": "2024-12-31T23:30:00",
+      "identifier": "com.skillboxes.17949",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VkM2ZUN4UHFBalY0NVFKWllwWG5SUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735028746q6Ssm4bKd61qf0k4.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Party or Social Gathering"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9705141",
+            "longitude": "77.6464228"
+         },
+         "name": "Sly Granny, Indiranagar"
+      },
+      "name": "Step into 2025 with a Retro Twist—Granny’s got the beats, the bites, and the best vibes in town!",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 296,
+            "name": "Granny’s Retro Ball",
+            "url": "https://www.skillboxes.com/events/ticket/step-into-2025-with-a-retro-twist-granny-s-got-the-beats-the-bites-and-the-best-vibes-in-town"
+         }
+      ],
+      "startDate": "2024-12-31T20:00:00",
+      "url": "https://www.skillboxes.com/events/step-into-2025-with-a-retro-twist-granny-s-got-the-beats-the-bites-and-the-best-vibes-in-town"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "THE SUGAR RUSH FILLED KORAMANGALA ON SATURDAY, THE DAY OF THE SUGAR FACTORY. THE BEST EDM, BOLLYWOOD, AND PUNJABI MUSIC SATURDAY NIGHT`S.RSVP-70265383",
+      "endDate": "2024-12-28T23:59:00",
+      "identifier": "com.skillboxes.17948",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17350291201fFAHSzK4ftdhFgc.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "93/A Ground floor, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9333762",
+            "longitude": "77.6140296"
+         },
+         "name": "Sugar Factory Reloaded"
+      },
+      "name": "The Sugar Affair",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "FREE DRINKS & FREE ENTRY FOR LADIES*    FREE ENTRY FOR COUPLES AND GIRLS ONLY UP TO 9:30 PM.& STAG FULLY COVER CHARGE APPLICABLE (FOOD & DRINKS REDEEMABLE).\nNOTE- AT THE VENUE, EVERY ONE COVER CHARGES APPLY AFTER NINE O`CL",
+            "inventoryLevel": 1000,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/the-sugar-affair"
+         }
+      ],
+      "startDate": "2024-12-28T20:00:00",
+      "url": "https://www.skillboxes.com/events/the-sugar-affair"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "A FRIDAY FIESTA / BOLLYWOOD-EDMAT GINZA PUB KORAMANGALA.STARTS AT 8PM TILL 1AM.FREE DRINK'S FOR GIRL'S.FREE ENTRY FOR COUPLES AND GIRLS ONLY UP Τ",
+      "endDate": "2024-12-27T23:59:00",
+      "identifier": "com.skillboxes.17947",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735028777A3IOwTIjmfUMjhMy.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "27, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9330592",
+            "longitude": "77.6138532"
+         },
+         "name": "Ginza"
+      },
+      "name": "Festival Friday",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "NOTE: COUPLES 500 ₹COVER CHARGES STAG 1000 ₹COVER CHARGES APPLY AFTER 8:30 PM. ENTRY OF FREE. (FOOD & DRINKS FULL REDEEMABLE).\n",
+            "inventoryLevel": 1000,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/festival-friday-1"
+         }
+      ],
+      "startDate": "2024-12-27T20:00:00",
+      "url": "https://www.skillboxes.com/events/festival-friday-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "SoMAD LAB Presents HAMDI (Bengaluru)Sun, 05-Jan-2025 | 5 PM Onwards ",
+      "endDate": "2025-01-05T23:59:00",
+      "identifier": "com.skillboxes.17944",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735025181qRr7A6dKZ3LfmW61.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Bengaluru, Karnataka, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9715987",
+            "longitude": "77.5945627"
+         },
+         "name": "To Be Announced"
+      },
+      "name": "SoMAD LAB Presents HAMDI (Bengaluru)",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable upon arrival at gate which is Fully redeemable on F&B.\n",
+            "inventoryLevel": 1000,
+            "name": "EARLY BIRD SINGLE LADY",
+            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable upon arrival at gate which is Fully redeemable on F&B.\n",
+            "inventoryLevel": 1000,
+            "name": "EARLY BIRD COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable upon arrival at gate which is Fully redeemable on F&B.\n",
+            "inventoryLevel": 1000,
+            "name": "EARLY BIRD STAG",
+            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Free entry to the event for one single lady all night long.  Walk-in Like a VIP!\n",
+            "inventoryLevel": 1000,
+            "name": "EARLY BIRD VIP SINGLE LADY (ANYTIME ENTRY)",
+            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Free entry to the event for one Single Male stag all night long. Walk-in Like a VIP!\n",
+            "inventoryLevel": 1000,
+            "name": "EARLY BIRD VIP STAG (ANYTIME ENTRY)",
+            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Free entry to the event for one Couple all night long. Walk-in Like a VIP!\n",
+            "inventoryLevel": 1000,
+            "name": "EARLY BIRD VIP COUPLE (ANYTIME ENTRY)",
+            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
+         }
+      ],
+      "startDate": "2025-01-05T17:00:00",
+      "url": "https://www.skillboxes.com/events/somad-lab-presents-hamdi-bengaluru"
    },
    {
       "@context": "https://schema.org",
@@ -1170,7 +1383,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Audience Ticket",
             "url": "https://www.skillboxes.com/events/ticket/3-peg-super-star"
          }
@@ -2121,7 +2334,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 495,
+            "inventoryLevel": 486,
             "name": "RSPV",
             "url": "https://www.skillboxes.com/events/ticket/sugar-room-x-teavaro-music-bubble-tea-conversations"
          }
@@ -2196,7 +2409,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 8,
+            "inventoryLevel": 1,
             "name": "Early Bird : Only Entry",
             "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour"
          },
@@ -2204,7 +2417,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
-            "inventoryLevel": 48,
+            "inventoryLevel": 47,
             "name": "COUPLE TICKETS",
             "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour"
          },
@@ -2362,7 +2575,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 245,
+            "inventoryLevel": 242,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-nineoeight-padmini-records-present-oceantied-angus-12-live-inspector-maal-double-t"
          }
@@ -2373,10 +2586,10 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Ending the year with excitement. We have the legendary @todhteri (live) performing at The Burrow for Mixmag LAB Bengaluru..Featuring along s",
+      "description": "Ending the year with excitement. We have the legendary @todhteri (live) performing at The Burrow for Mixmag LAB Bengaluru..\r\n\r\nFeaturing alo",
       "endDate": "2024-12-28T23:59:00",
       "identifier": "com.skillboxes.17783",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734503639L2MbQTI2IbSrMHJT.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735033339By180m28PxTZm0mJ.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"
@@ -2391,13 +2604,13 @@
          },
          "name": "The Burrow"
       },
-      "name": "Lab Bengaluru with Todh Teri Live & More",
+      "name": "MIXMAG LAB BLR  ft.  Todh Teri (Live)  & More",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Apply After 9PM (Fully Redeemable)\n",
-            "inventoryLevel": 14,
+            "inventoryLevel": 4,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/lab-bengaluru-with-todh-teri-live"
          },
@@ -2408,22 +2621,6 @@
             "inventoryLevel": 60,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/lab-bengaluru-with-todh-teri-live"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges Apply After 9PM (Fully Redeemable)\n",
-            "inventoryLevel": 50,
-            "name": "Phase 2",
-            "url": "https://www.skillboxes.com/events/ticket/lab-bengaluru-with-todh-teri-live"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges Apply After 9PM (Fully Redeemable)\n",
-            "inventoryLevel": 50,
-            "name": "Phase 3",
-            "url": "https://www.skillboxes.com/events/ticket/lab-bengaluru-with-todh-teri-live"
          }
       ],
       "startDate": "2024-12-28T20:00:00",
@@ -2432,23 +2629,23 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "✨ Bring Your 2025 Dreams to Life! ✨Join us for the Vision Board Workshop – A Creative Meetup 🎨✨🗓 When: 11 A",
-      "endDate": "2024-12-28T13:00:00",
+      "description": "✨ Bring Your 2025 Dreams to Life! ✨Join us for the Vision Board Workshop – A Creative Meetup 🎨✨🗓 When: 3 PM",
+      "endDate": "2024-12-28T17:00:00",
       "identifier": "com.skillboxes.17773",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734447250Fs3yB58THGNywXyK.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17349572568ri7XehxnWu721Lw.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Meet-ups"
       ],
       "location": {
          "@type": "Place",
-         "address": "Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "12.9779291",
-            "longitude": "77.5951549"
+            "latitude": "12.9711356",
+            "longitude": "77.598164"
          },
-         "name": "Sri Chamarajendra Park"
+         "name": "Starbucks"
       },
       "name": "Vision Board: A Creative Meetup",
       "offers": [
@@ -2460,7 +2657,7 @@
             "url": "https://www.skillboxes.com/events/ticket/vision-board-a-creative-meetup"
          }
       ],
-      "startDate": "2024-12-28T11:00:00",
+      "startDate": "2024-12-28T15:00:00",
       "url": "https://www.skillboxes.com/events/vision-board-a-creative-meetup"
    },
    {
@@ -3214,7 +3411,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 94,
+            "inventoryLevel": 83,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/a-not-so-silent-night-christmas-jam"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
             "name": "General Admission",
             "url": "https://www.skillboxes.com/events/ticket/a-not-so-silent-night-christmas-jam"
          }
@@ -3346,6 +3550,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Admit one female till 9PM\nAdditional cover charges apply post 9PM",
+            "inventoryLevel": 27,
+            "name": "Phase 1 - Female",
+            "url": "https://www.skillboxes.com/events/ticket/caged-new-years-eve-2025-at-the-park-ballroom-on-31-dec-the-park-hotel-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "Admit one couple till 8PM\nAdditional cover charges apply post 8PM",
             "inventoryLevel": 50,
             "name": "Early Bird - Couples",
@@ -3354,9 +3566,33 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Admit one male till 9PM\nAdditional cover charges apply post 9PM",
+            "inventoryLevel": 27,
+            "name": "Phase 1 - Male",
+            "url": "https://www.skillboxes.com/events/ticket/caged-new-years-eve-2025-at-the-park-ballroom-on-31-dec-the-park-hotel-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "Admit group of 3 till 8PM\nAdditional cover charges apply post 8PM",
             "inventoryLevel": 45,
             "name": "Early Bird - Group of 3",
+            "url": "https://www.skillboxes.com/events/ticket/caged-new-years-eve-2025-at-the-park-ballroom-on-31-dec-the-park-hotel-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Admit one couples till 9PM\nAdditional cover charges apply post 9PM",
+            "inventoryLevel": 27,
+            "name": "Phase 1 - Couples",
+            "url": "https://www.skillboxes.com/events/ticket/caged-new-years-eve-2025-at-the-park-ballroom-on-31-dec-the-park-hotel-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Admit 3 pax till 9PM\nAdditional cover charges apply post 9PM",
+            "inventoryLevel": 27,
+            "name": "Phase 1 - Group of 3",
             "url": "https://www.skillboxes.com/events/ticket/caged-new-years-eve-2025-at-the-park-ballroom-on-31-dec-the-park-hotel-bangalore"
          }
       ],
@@ -3565,6 +3801,46 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "* Each ticket allows one female individual's Entry to Poolside. * Unlimited Food & Premium Liquor - INR 5,000 applicable at Venue/Gate for Premium. * Seating based on availability * Venue rules applicable.\n",
+            "inventoryLevel": 100,
+            "name": "Phase 1 : Female Pass",
+            "url": "https://www.skillboxes.com/events/ticket/poolside-new-year-s-eve-2025-at-hyatt-centric-mg-road"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "* Each ticket allows one male individual's Entry to Poolside. * Unlimited Food & Premium Liquor - INR 5,000 applicable at Venue/Gate for Premium. * Seating based on availability * Venue rules applicable.\n",
+            "inventoryLevel": 100,
+            "name": "Phase 1 : Male Pass",
+            "url": "https://www.skillboxes.com/events/ticket/poolside-new-year-s-eve-2025-at-hyatt-centric-mg-road"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "* Each ticket allows one male & female individual's Entry to Poolside. * Unlimited Food & Premium Liquor - INR 10,000(Per Couple) applicable at Venue/Gate for Premium. * Seating based on availability * Venue rules applicable.\n",
+            "inventoryLevel": 40,
+            "name": "Phase 1 : Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/poolside-new-year-s-eve-2025-at-hyatt-centric-mg-road"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "• Reserve a dedicated table for 4 outdoor.  • Unlimited Food & Premium Liquor - INR 20,000 applicable at Venue/Gate for Premium.  • Allows access for 4 to the poolside venue. • Venue rules applicable.\n",
+            "inventoryLevel": 20,
+            "name": "Outdoor : Table for 4",
+            "url": "https://www.skillboxes.com/events/ticket/poolside-new-year-s-eve-2025-at-hyatt-centric-mg-road"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "• Reserve a dedicated table for 4 outdoor.  • Unlimited Food & Premium Liquor - INR 30,000 applicable at Venue/Gate for Premium.  • Allows access for 4 to the poolside venue. • Venue rules applicable.\n",
+            "inventoryLevel": 5,
+            "name": "Outdoor : Table for 6",
+            "url": "https://www.skillboxes.com/events/ticket/poolside-new-year-s-eve-2025-at-hyatt-centric-mg-road"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "•\tEach ticket allows one individual's Entry to Poolside. •\tINR 5,000 applicable at Venue/Gate for Premium Unlimited Food & Liquor. •\tSeating based on availability •\tVenue rules applicable.\n",
             "inventoryLevel": 24,
             "name": "Early Bird : Single Pass",
@@ -3576,22 +3852,6 @@
             "description": "•\tEach ticket allows one Male & Female Entry to Poolside. •\tINR 10,000(Per Couple) applicable at Venue/Gate for Premium Unlimited Food & Liquor. •\tAccess to Poolside with first-come seating. •\tVenue rules applicable.\n",
             "inventoryLevel": 12,
             "name": "Early Bird : Couple Pass",
-            "url": "https://www.skillboxes.com/events/ticket/poolside-new-year-s-eve-2025-at-hyatt-centric-mg-road"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "•\tEach ticket allows 4 individual's Entry to Poolside. •\tINR 20,000(For 4 PAX) applicable at Venue/Gate for Premium Unlimited Food & Liquor.   •\tVenue rules applicable.\n",
-            "inventoryLevel": 3,
-            "name": "Early Bird : Table for 4",
-            "url": "https://www.skillboxes.com/events/ticket/poolside-new-year-s-eve-2025-at-hyatt-centric-mg-road"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "•\tEach ticket allows 6 individual's Entry to Poolside. •\tINR 30,000(For 6 PAX) applicable at Venue/Gate for Premium Unlimited Food & Liquor.  •\tVenue rules applicable.\n",
-            "inventoryLevel": 2,
-            "name": "Early Bird : Table for 6",
             "url": "https://www.skillboxes.com/events/ticket/poolside-new-year-s-eve-2025-at-hyatt-centric-mg-road"
          }
       ],
@@ -3859,17 +4119,17 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "INR 2000 Worth Food & Beverages Coupon included In This Pass. Permits One Female. Club Rules Apply.\n",
-            "inventoryLevel": 999,
-            "name": "Female Cover Pass",
+            "description": "Permits One Female. Club Rules Apply.\nINR 2000 cover charge applicable at the gates.",
+            "inventoryLevel": 1000,
+            "name": "Female Pass",
             "url": "https://www.skillboxes.com/events/ticket/new-year-s-eve-2025-feat-black-box"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "INR 4000 Worth Food & Beverages Coupon included In This Pass. Permits One Male and One Female. Club Rules Apply.\n",
+            "description": "Permits One Male and One Female. Club Rules Apply.\nINR 4000 cover charge applicable at the gates.",
             "inventoryLevel": 1000,
-            "name": "Couple Cover Pass",
+            "name": "Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/new-year-s-eve-2025-feat-black-box"
          },
          {
@@ -4180,14 +4440,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Allows access to only The Lawns for One Male or Female stag. Includes Unlimited Premium alcohol and massive dinner spread and starters. Male stag allowed if accompanied by couple.\n",
-            "inventoryLevel": 20,
-            "name": "Lawns Single - Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/nye-2025-white-winter-wonderland-at-taj-mg-road-dec-31-ny2025"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "Allows all access to One Individual across all Three Areas namely - Seven Rivers : The Poolside, The Grand Ball Room and The Lawns . Priority Check in on arrival . Separate Ticket counter . Includes Unlimited Premium alcohol and massive dinner spread and starters. (If patron is below 21 years , Alcohol will not be served)\n",
             "inventoryLevel": 10,
             "name": "The Golden Ticket - All Access",
@@ -4199,14 +4451,6 @@
             "description": "Allows access to Seven Rivers , Poolside and Trinity square for One Couple (21yrs and above only).Includes Unlimited Premium alcohol and massive dinner spread and starters\n",
             "inventoryLevel": 20,
             "name": "7 Rivers Couple - Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/nye-2025-white-winter-wonderland-at-taj-mg-road-dec-31-ny2025"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows access to only The Lawns for One Couple. Includes Unlimited Premium alcohol and massive dinner spread and starters.\n",
-            "inventoryLevel": 20,
-            "name": "Lawns Couple - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/nye-2025-white-winter-wonderland-at-taj-mg-road-dec-31-ny2025"
          },
          {
@@ -5121,7 +5365,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "UNLIMITED FOOD AND IMFL BEVERAGES WILL BE SERVED ALL NIGHT LONG\n",
-            "inventoryLevel": 79,
+            "inventoryLevel": 78,
             "name": "PHASE 1 GOLD MALE",
             "url": "https://www.skillboxes.com/events/ticket/hydra-new-year-bash"
          },
@@ -5137,7 +5381,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "UNLIMITED FOOD AND PREMIUM LIQUOR AND BEVERAGES WILL BE SERVED ALL NIGHT LONG\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "PHASE 1 PLATINUM MALE",
             "url": "https://www.skillboxes.com/events/ticket/hydra-new-year-bash"
          },
@@ -5145,7 +5389,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "THIS TICKET PROVIDES 1 COUPLES ACESS TO THE EVENT. THIS TICKET IS INCLUSIVE OF UNLIMITED FOOD AND IMFL BEVERAGES ALL NIGHT LONG\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 46,
             "name": "PHASE 1 GOLD COUPLE",
             "url": "https://www.skillboxes.com/events/ticket/hydra-new-year-bash"
          },
@@ -5896,14 +6140,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Stay in Standard room of Fairfield for a couple (Male and Female) Check-in Time: 2pm (31st Dec 2024) Check-Out: 11am (1st Jan 2025) Reserved seating by the pool at the rooftop Access to One Couple (Male and Female) to party at Ballroom Buffet Dinner for Couple at Kava Buffet Breakfast on 1st Jan 2025 Unlimited Food and Beverages\n",
-            "inventoryLevel": 5,
-            "name": "Regular Stay + Reserved Seating at the pool",
-            "url": "https://www.skillboxes.com/events/ticket/unmask-the-night-edition-3-0-new-year-s-eve-2025"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "Reserved dedicated table for 10 people next to the Ballroom Permits 10 people to party at Ballroom Unlimited Food and PREMIUM Alcoholic/Non Alcoholic beverages Food and Beverages to be served on the table Buffet Dinner for 10 people at Kava\n",
             "inventoryLevel": 2,
             "name": "VVIP Table for 10",
@@ -5915,6 +6151,14 @@
             "description": "Stay in Deluxe room of Fairfield for a couple (Male and Female) Check-in Time: 2pm (31st Dec 2024) Check-Out: 11am (1st Jan 2025) Reserved Seating for a couple at pool side Access to One Couple (Male and Female) to party at Ballroom Buffet Dinner for Couple Buffet Breakfast on 1st Jan 2025 Unlimited Food and Beverages\n",
             "inventoryLevel": 50,
             "name": "Deluxe Couple Stay Package",
+            "url": "https://www.skillboxes.com/events/ticket/unmask-the-night-edition-3-0-new-year-s-eve-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Stay in Standard room of Fairfield for a couple (Male and Female) Check-in Time: 2pm (31st Dec 2024) Check-Out: 11am (1st Jan 2025) Reserved seating by the pool at the rooftop Access to One Couple (Male and Female) to party at Ballroom Buffet Dinner for Couple at Kava Buffet Breakfast on 1st Jan 2025 Unlimited Food and Beverages\n",
+            "inventoryLevel": 5,
+            "name": "Regular Stay + Reserved Seating at the pool",
             "url": "https://www.skillboxes.com/events/ticket/unmask-the-night-edition-3-0-new-year-s-eve-2025"
          }
       ],

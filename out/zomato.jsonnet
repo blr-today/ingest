@@ -22,7 +22,7 @@
         "currency": "INR",
         "validFrom": "2024-12-06 23:11:00",
         "availability": "SELLING_FAST",
-        "inventory": 534
+        "inventory": 269
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -30,7 +30,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "SELLING_FAST",
-        "inventory": 458
+        "inventory": 377
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -38,7 +38,7 @@
         "currency": "INR",
         "validFrom": "2024-12-22 22:52:50",
         "availability": "INSTOCK",
-        "inventory": 86
+        "inventory": 78
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -153,7 +153,7 @@
     "ogTitle": "RuPay Zomaland by Zomato | Season 5 Trending and Best seller event Tickets Bengaluru - Zomato",
     "ogDesc": "Book online tickets for RuPay Zomaland by Zomato | Season 5 Bengaluru on Zomato which is a Trending and Best seller event happening at 149/223, Tarunhunse Village, next to Stone Hill International School, Bengaluru",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/c1cd22fa1c14ea0bf5a8d5bfab7f0ba51733740487.png",
+      "https://b.zmtcdn.com/data/zomaland/e907fa5c3aa07f45923d1e2f4e5735cd1733730497.png",
       "https://b.zmtcdn.com/data/zomaland/c9c7f70e79cdc8dfebf4e5bb83e3cd921732859875.png",
       "https://b.zmtcdn.com/data/zomaland/7df5691cb2d5620e7be17b0abaa9447d1732862313.png",
       "https://b.zmtcdn.com/data/zomaland/e907fa5c3aa07f45923d1e2f4e5735cd1733730497.png",
@@ -312,7 +312,7 @@
         "currency": "INR",
         "validFrom": "2024-12-11 18:10:33",
         "availability": "INSTOCK",
-        "inventory": 169
+        "inventory": 161
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -320,7 +320,7 @@
         "currency": "INR",
         "validFrom": "2024-12-11 18:01:40",
         "availability": "INSTOCK",
-        "inventory": 229
+        "inventory": 225
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",

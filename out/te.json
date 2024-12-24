@@ -92,5 +92,99 @@
       ],
       "startDate": "2025-01-10T21:30:00+05:30",
       "url": "https://www.total-environment.com/music-and-events/sanjay-divecha-trio"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Their music epitomizes the spirit of Advaita -- unity in diversity --\nshowcasing mesmerizing improvisations and rich, textured arrangements that\nresonate with listeners worldwide.\n\n",
+      "eventStatus": "EventScheduled",
+      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/advait_8ADE9.jpg",
+      "keywords": [
+         "World Music",
+         "WINDMILLS"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "addressLocality": "Whitefield",
+            "streetAddress": "Windmills, 6th Floor, 331, Road 5B, EPIP ZoneBangalore"
+         },
+         "name": "Windmills"
+      },
+      "name": "Advaita Crescendo",
+      "offers": [
+         {
+            "@type": "Offer",
+            "name": "Standing",
+            "price": 636,
+            "priceCurrency": "INR"
+         },
+         {
+            "@type": "Offer",
+            "name": "Seating",
+            "price": 1695,
+            "priceCurrency": "INR"
+         }
+      ],
+      "performer": [
+         {
+            "@type": "MusicGroup",
+            "description": "Advaita Crescendo is a groundbreaking ensemble that harmoniously blends the intricate rhythms of Indian Carnatic music with the fluid spontaneity of European jazz. Featuring a stellar lineup on veena, flute, piano, bass, and percussion, this mixed-gender group crafts compositions that reflect a dynamic interplay of tradition and innovation.",
+            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/advait_61591.jpg",
+            "name": "Advaita Crescendo",
+            "url": "https://www.youtube.com/watch?v=Wp0pGvp6Js0"
+         }
+      ],
+      "startDate": "2025-01-24T21:30:00+05:30",
+      "url": "https://www.total-environment.com/music-and-events/advaita-crescendo"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Their music epitomizes the spirit of Advaita -- unity in diversity --\nshowcasing mesmerizing improvisations and rich, textured arrangements that\nresonate with listeners worldwide.\n\n",
+      "eventStatus": "EventScheduled",
+      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/advait_8ADE9.jpg",
+      "keywords": [
+         "World Music",
+         "WINDMILLS"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "addressLocality": "Whitefield",
+            "streetAddress": "Windmills, 6th Floor, 331, Road 5B, EPIP ZoneBangalore"
+         },
+         "name": "Windmills"
+      },
+      "name": "Advaita Crescendo",
+      "offers": [
+         {
+            "@type": "Offer",
+            "name": "Standing",
+            "price": 636,
+            "priceCurrency": "INR"
+         },
+         {
+            "@type": "Offer",
+            "name": "Seating",
+            "price": 1695,
+            "priceCurrency": "INR"
+         }
+      ],
+      "performer": [
+         {
+            "@type": "MusicGroup",
+            "description": "Advaita Crescendo is a groundbreaking ensemble that harmoniously blends the intricate rhythms of Indian Carnatic music with the fluid spontaneity of European jazz. Featuring a stellar lineup on veena, flute, piano, bass, and percussion, this mixed-gender group crafts compositions that reflect a dynamic interplay of tradition and innovation.",
+            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/advait_61591.jpg",
+            "name": "Advaita Crescendo",
+            "url": "https://www.youtube.com/watch?v=Wp0pGvp6Js0"
+         }
+      ],
+      "startDate": "2025-01-25T21:30:00+05:30",
+      "url": "https://www.total-environment.com/music-and-events/advaita-crescendo"
    }
 ]
