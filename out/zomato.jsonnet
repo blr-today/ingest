@@ -22,15 +22,15 @@
         "currency": "INR",
         "validFrom": "2024-12-06 23:11:00",
         "availability": "SELLING_FAST",
-        "inventory": 269
+        "inventory": 491
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
         "price": 5000,
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
-        "availability": "SELLING_FAST",
-        "inventory": 377
+        "availability": "INSTOCK",
+        "inventory": 1344
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -38,7 +38,7 @@
         "currency": "INR",
         "validFrom": "2024-12-22 22:52:50",
         "availability": "INSTOCK",
-        "inventory": 78
+        "inventory": 71
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -69,8 +69,8 @@
         "price": 2000,
         "currency": "INR",
         "validFrom": "2024-10-18 18:45:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
+        "availability": "INSTOCK",
+        "inventory": 3
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -166,7 +166,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:03",
         "availability": "INSTOCK",
-        "inventory": 500
+        "inventory": 498
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",
@@ -174,7 +174,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:04",
         "availability": "INSTOCK",
-        "inventory": 496
+        "inventory": 494
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",
@@ -312,7 +312,7 @@
         "currency": "INR",
         "validFrom": "2024-12-11 18:10:33",
         "availability": "INSTOCK",
-        "inventory": 161
+        "inventory": 158
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -320,7 +320,7 @@
         "currency": "INR",
         "validFrom": "2024-12-11 18:01:40",
         "availability": "INSTOCK",
-        "inventory": 225
+        "inventory": 218
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
@@ -336,7 +336,7 @@
         "currency": "INR",
         "validFrom": "2024-12-11 18:01:40",
         "availability": "INSTOCK",
-        "inventory": 93
+        "inventory": 92
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",

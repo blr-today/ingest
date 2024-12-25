@@ -1,68 +1,6 @@
 [
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "A UK-born South Asian DJ rose to fame on TikTok with such mini mixes in 2022. We're talking about AJ Wavy who you might know from the iconic mashu",
-      "endDate": "2024-12-25T23:59:00",
-      "identifier": "com.skillboxes.17657",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734114232j2PP5ScuhfZxlnco.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "One 8 Commune 10/5, 6th floor, Rathnam's Complex, Kasturba Road, Mahatma Gandhi Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9762029",
-            "longitude": "77.5991872"
-         },
-         "name": "One8 Commune"
-      },
-      "name": "AJWAVY",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 22,
-            "name": "Phase 1 Single Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 12,
-            "name": "Phase 1 Couple Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 970,
-            "name": "Early Bird Ticket (Female)",
-            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 996,
-            "name": "Early Bird Ticket (Male)",
-            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 989,
-            "name": "Early Bird Ticket (Couple)",
-            "url": "https://www.skillboxes.com/events/ticket/ajwavy"
-         }
-      ],
-      "startDate": "2024-12-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/ajwavy"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Sunny side up pre party ft. Maximlany | Bangalore\r\n\r\nDate - 27 dec\r\n\r\nVenue- Magique Bangalore \r\n\r\nTime - 8pm onwards",
       "endDate": "2024-12-27T23:59:00",
@@ -136,7 +74,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in General Zone.\n◉ General access to bars, f&b counters.",
-            "inventoryLevel": 1143,
+            "inventoryLevel": 1137,
             "name": "Phase 1 | Single - GA",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -144,7 +82,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
-            "inventoryLevel": 521,
+            "inventoryLevel": 516,
             "name": "Phase 1 | Single - Fan Zone",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -220,7 +158,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 590,
+            "inventoryLevel": 589,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/livebox-feat-the-aristocrats-bangalore"
          },
@@ -235,6 +173,40 @@
       ],
       "startDate": "2025-03-28T20:00:00",
       "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Electric Boogie",
+      "endDate": "2024-12-27T23:59:00",
+      "identifier": "com.skillboxes.18007",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735146892ofJ3wWliHWQ7hOpH.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "iBAR, THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9740179",
+            "longitude": "77.619422"
+         },
+         "name": "i-Bar THE Park Bangalore"
+      },
+      "name": "Electric Boogie",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 9999,
+            "name": "Guestlist Pass",
+            "url": "https://www.skillboxes.com/events/ticket/electric-boogie-5"
+         }
+      ],
+      "startDate": "2024-12-27T20:00:00",
+      "url": "https://www.skillboxes.com/events/electric-boogie-5"
    },
    {
       "@context": "https://schema.org",
@@ -742,7 +714,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 296,
+            "inventoryLevel": 292,
             "name": "Granny’s Retro Ball",
             "url": "https://www.skillboxes.com/events/ticket/step-into-2025-with-a-retro-twist-granny-s-got-the-beats-the-bites-and-the-best-vibes-in-town"
          }
@@ -855,7 +827,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable upon arrival at gate which is Fully redeemable on F&B.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "EARLY BIRD COUPLE",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
          },
@@ -863,7 +835,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable upon arrival at gate which is Fully redeemable on F&B.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "EARLY BIRD STAG",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
          },
@@ -962,40 +934,6 @@
       ],
       "startDate": "2024-12-29T19:00:00",
       "url": "https://www.skillboxes.com/events/bajabies-candle-light-jam-food-coupon-included"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Come and celebrate Christmas with us @ The Chill House HSR Layout. DJ Indefatigable is going to spin his tunes and ensure you have an amazing time. DM",
-      "endDate": "2024-12-25T23:59:00",
-      "identifier": "com.skillboxes.17941",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SUtJaldCWkRRTTAvUHI1OGh6RW1vQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734986141t55BzFNETBZgcJs3.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Rooftop # 1329, 24th Main Rd, opp. indiqube orion, Sector 2, HSR Layout, Bengaluru, Karnataka 560102, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9038487",
-            "longitude": "77.6489858"
-         },
-         "name": "The Chill House - Restaurant | HSR Layout"
-      },
-      "name": "Christmas Galore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 150,
-            "name": "Dj Night",
-            "url": "https://www.skillboxes.com/events/ticket/christmas-galore"
-         }
-      ],
-      "startDate": "2024-12-25T20:30:00",
-      "url": "https://www.skillboxes.com/events/christmas-galore"
    },
    {
       "@context": "https://schema.org",
@@ -2730,7 +2668,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Cover Charge Applicable At The Gates. Redeemable On F&B\n",
-            "inventoryLevel": 49,
+            "inventoryLevel": 47,
             "name": "Early Bird Couple",
             "url": "https://www.skillboxes.com/events/ticket/biergarten-nye-night-at-the-garten"
          },
@@ -2772,7 +2710,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 486,
+            "inventoryLevel": 483,
             "name": "RSPV",
             "url": "https://www.skillboxes.com/events/ticket/sugar-room-x-teavaro-music-bubble-tea-conversations"
          }
@@ -2847,8 +2785,9 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1,
-            "name": "Early Bird : Only Entry",
+            "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
+            "inventoryLevel": 94,
+            "name": "Phase 1 : Single",
             "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour"
          },
          {
@@ -2873,6 +2812,13 @@
             "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
             "inventoryLevel": 10,
             "name": "MEET & GREET",
+            "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "Early Bird : Only Entry",
             "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour"
          }
       ],
@@ -3013,7 +2959,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 242,
+            "inventoryLevel": 237,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-nineoeight-padmini-records-present-oceantied-angus-12-live-inspector-maal-double-t"
          }
@@ -3048,16 +2994,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Apply After 9PM (Fully Redeemable)\n",
-            "inventoryLevel": 4,
-            "name": "Early Bird",
+            "inventoryLevel": 55,
+            "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/lab-bengaluru-with-todh-teri-live"
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
+            "availability": "SoldOut",
             "description": "Cover Charges Apply After 9PM (Fully Redeemable)\n",
-            "inventoryLevel": 60,
-            "name": "Phase 1",
+            "inventoryLevel": 0,
+            "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/lab-bengaluru-with-todh-teri-live"
          }
       ],
@@ -3395,7 +3341,7 @@
       "description": "This Saturday Catch All Fun And Action On Biggest Dance Floor At Hangover Kormangala.Bollywood Blockbuster  with DJ Milan and Fema",
       "endDate": "2024-12-29T00:30:00",
       "identifier": "com.skillboxes.17738",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734378784VsyWrMCXzREWA7EY.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735134562X8NjVlSbqrtpQZ4W.jpg.webp",
       "isAccessibleForFree": true,
       "keywords": [
          "Music Events"
@@ -3594,10 +3540,10 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Celebrate New Year’s Eve in Ultimate Luxury at Glitterati 2025!Step\n into the world of glamour and sophistication as we bid farewell to 2024",
+      "description": "Celebrate New Year’s Eve in Ultimate Luxury at Glitterati 2025  at Courtyard & Fairfield Marriott Outer Ring Road : Christmas Discounts FLAT",
       "endDate": "2024-12-31T23:59:00",
       "identifier": "com.skillboxes.17711",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/eFkzZ09Ock5VRTZINkpONk1FdDJ2Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17343396329rZTFDXYhHl0dcU5.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/eFkzZ09Ock5VRTZINkpONk1FdDJ2Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734948560gNhSdoH3kanMFfkX.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "New Year 2025"
@@ -3617,7 +3563,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Entry for 1 child is included with parents, granting full access to the main ballroom entertainment & Access to the hotel’s specialty restaurants, as per the package booked by the couple.\n",
+            "description": "- Entry for 1 child is included with parents, granting full access to the main ballroom entertainment & Access to the hotel’s specialty restaurants with Unlimited F&B, as per the package booked by the couple. - Christmas Discounts FLAT 10% : GLAM10\n",
             "inventoryLevel": 50,
             "name": "Kids (12 years above)",
             "url": "https://www.skillboxes.com/events/ticket/new-years-eve-party-2025-courtyard-fairfield-marriott-orr"
@@ -3625,7 +3571,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Entry for 1 child is included with parents, granting full access to the main ballroom entertainment & Access to the hotel’s specialty restaurants, as per the package booked by the couple. - A 1-night stay with early check-in at the 5-star Courtyard/Fairfield By Marriott Bengaluru, ensuring a seamless and luxurious experience with Complimentary breakfast on 1st January.\n",
+            "description": "- Entry for 1 child is included with parents, granting full access to the main ballroom entertainment & Access to the hotel’s specialty restaurants with Unlimited F&B, as per the package booked by the couple. - A 1-night stay with early check-in at the 5-star Courtyard/Fairfield By Marriott Bengaluru, ensuring a seamless and luxurious experience with Complimentary breakfast on 1st January. - Christmas Discounts FLAT 10% : GLAM10\n",
             "inventoryLevel": 150,
             "name": "Kids with stay (6-12 years)",
             "url": "https://www.skillboxes.com/events/ticket/new-years-eve-party-2025-courtyard-fairfield-marriott-orr"
@@ -3633,7 +3579,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Entry for 1 child is included with parents, granting full access to the main ballroom entertainment & Access to the hotel’s specialty restaurants, as per the package booked by the couple. - A 1-night stay with early check-in at the 5-star Courtyard/Fairfield By Marriott Bengaluru, ensuring a seamless and luxurious experience with Complimentary breakfast on 1st January.\n",
+            "description": "- Entry for 1 child is included with parents, granting full access to the main ballroom entertainment & Access to the hotel’s specialty restaurants with Unlimited F&B, as per the package booked by the couple. - A 1-night stay with early check-in at the 5-star Courtyard/Fairfield By Marriott Bengaluru, ensuring a seamless and luxurious experience with Complimentary breakfast on 1st January. - Christmas Discounts FLAT 10% : GLAM10\n",
             "inventoryLevel": 150,
             "name": "Kids with stay (12 years above)",
             "url": "https://www.skillboxes.com/events/ticket/new-years-eve-party-2025-courtyard-fairfield-marriott-orr"
@@ -3641,15 +3587,15 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Entry for one female, including full access to the main ballroom entertainment and the hotel’s specialty restaurants, as per the selected package.\n",
+            "description": "- Entry for one, including full access to the main ballroom entertainment and the hotel’s specialty restaurants KAVA with Unlimited F&B, as per the selected package : Christmas Discounts FLAT 10% : GLAM10\n",
             "inventoryLevel": 50,
-            "name": "VIP Female Entry",
+            "name": "VIP Entry",
             "url": "https://www.skillboxes.com/events/ticket/new-years-eve-party-2025-courtyard-fairfield-marriott-orr"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Entry for one couple, including full access to the main ballroom entertainment and the hotel’s specialty restaurants, as per the selected package.\n",
+            "description": "- Entry for one couple, including full access to the main ballroom entertainment and the hotel’s specialty restaurants KAVA with Unlimited F&B, as per the selected package : Christmas Discounts FLAT 10% : GLAM10\n",
             "inventoryLevel": 50,
             "name": "VIP Couple Entry",
             "url": "https://www.skillboxes.com/events/ticket/new-years-eve-party-2025-courtyard-fairfield-marriott-orr"
@@ -3657,7 +3603,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Entry for two adults, including full access to the main ballroom entertainment and the hotel’s specialty restaurants, as per the selected package. - Enjoy a 1-night deluxe stay with early check-in at the 4-star Fairfield By Marriott Bengaluru, offering a seamless and luxurious experience. - Wake up to a delightful complimentary breakfast on 1st January, perfect for starting the new year on a high note. - Children up to 5 years can accompany guardian at no extra cost. For children above 5 years, an additi\n",
+            "description": "- Entry for two adults, including full access to the main ballroom entertainment and the hotel’s specialty restaurants with unlimited F&B, as per the selected package : Christmas Discounts FLAT 10% : GLAM10 - Enjoy a 1-night deluxe stay with early check-in at the 4-star Fairfield By Marriott Bengaluru, offering a seamless and luxurious experience. - Wake up to a delightful complimentary breakfast on 1st January, perfect for starting the new year on a high note. - Children up to 5 years can accompany guardi\n",
             "inventoryLevel": 125,
             "name": "Fairfield Deluxe Party + Room Package for two",
             "url": "https://www.skillboxes.com/events/ticket/new-years-eve-party-2025-courtyard-fairfield-marriott-orr"
@@ -3665,15 +3611,15 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Entry for two adults, including full access to the main ballroom entertainment and the hotel’s specialty restaurants, as per the selected package. - Enjoy a 1-night deluxe stay with early check-in at the 5-star Courtyard By Marriott Bengaluru, offering a seamless and luxurious experience. - Wake up to a delightful complimentary breakfast on 1st January, perfect for starting the new year on a high note. - Children up to 5 years can accompany guardian at no extra cost. For children above 5 years, an additi\n",
+            "description": "- Entry for two adults, including full access to the main ballroom entertainment and the hotel’s specialty restaurants with Unlimited F&B, as per the selected package : Christmas Discounts FLAT 10% : GLAM10 - Enjoy a 1-night deluxe stay with early check-in at the 5-star Courtyard By Marriott Bengaluru, offering a seamless and luxurious experience. - Wake up to a delightful complimentary breakfast on 1st January, perfect for starting the new year on a high note. - Children up to 5 years can accompany guardi\n",
             "inventoryLevel": 65,
-            "name": "Courtyard Delux Party + Room Package for two",
+            "name": "Courtyard Deluxe Party + Room Package for two",
             "url": "https://www.skillboxes.com/events/ticket/new-years-eve-party-2025-courtyard-fairfield-marriott-orr"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Entry for two adults, including full access to the main ballroom entertainment and the hotel’s specialty restaurants, as per the selected package. - Enjoy a 1-night executive stay with early check-in at the 5-star Courtyard By Marriott Bengaluru, offering a seamless and luxurious experience. - Wake up to a delightful complimentary breakfast on 1st January, perfect for starting the new year on a high note. - Children up to 5 years can accompany guardian at no extra cost. For children above 5 years, an add\n",
+            "description": "- Entry for two adults, including full access to the main ballroom entertainment and the hotel’s specialty restaurants with Unlimited F&B, as per the selected package : Christmas Discounts FLAT 10% : GLAM10 - Enjoy a 1-night executive stay with early check-in at the 5-star Courtyard By Marriott Bengaluru, offering a seamless and luxurious experience. - Wake up to a delightful complimentary breakfast on 1st January, perfect for starting the new year on a high note. - Children up to 5 years can accompany gua\n",
             "inventoryLevel": 50,
             "name": "Courtyard Executive Party + Room Package for two",
             "url": "https://www.skillboxes.com/events/ticket/new-years-eve-party-2025-courtyard-fairfield-marriott-orr"
@@ -3681,7 +3627,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Entry for two adults, including full access to the main ballroom entertainment and the hotel’s specialty restaurants, as per the selected package. - Enjoy a 1-night suite stay with early check-in at the 5-star Courtyard By Marriott Bengaluru, offering a seamless and luxurious experience. - Wake up to a delightful complimentary breakfast on 1st January, perfect for starting the new year on a high note. - Children up to 5 years can accompany guardian at no extra cost. For children above 5 years, an additio\n",
+            "description": "- Entry for two adults, including full access to the main ballroom entertainment and the hotel’s specialty restaurants with unlimited F&B, as per the selected package : Christmas Discounts FLAT 10% : GLAM10 - Enjoy a 1-night suite stay with early check-in at the 5-star Courtyard By Marriott Bengaluru, offering a seamless and luxurious experience. - Wake up to a delightful complimentary breakfast on 1st January, perfect for starting the new year on a high note. - Children up to 5 years can accompany guardia\n",
             "inventoryLevel": 12,
             "name": "Courtyard Suite Party + Room Package for two",
             "url": "https://www.skillboxes.com/events/ticket/new-years-eve-party-2025-courtyard-fairfield-marriott-orr"
@@ -3823,47 +3769,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "🎤 Christmas is about to hit different this year! 🎄🔥Pull up to Dhwani on December 25th at 5:00 PM for A Not So Silent Night, wh",
-      "endDate": "2024-12-25T19:30:00",
-      "identifier": "com.skillboxes.17664",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/bzJLY2wwWTYycXZRdzZtb3lRRnptdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734157932xRQM7MLxWmjViqyk.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Lower Ground Floor, 43, 7th Main Rd, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560038, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9722318",
-            "longitude": "77.6370575"
-         },
-         "name": "Dhwani - Bar & Kitchen"
-      },
-      "name": "A Not So Silent Night | Christmas Jam",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 83,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/a-not-so-silent-night-christmas-jam"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "General Admission",
-            "url": "https://www.skillboxes.com/events/ticket/a-not-so-silent-night-christmas-jam"
-         }
-      ],
-      "startDate": "2024-12-25T17:00:00",
-      "url": "https://www.skillboxes.com/events/a-not-so-silent-night-christmas-jam"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "SocialEvent",
       "description": "Ring in the New Year at Toca Brigade: A Night to Remember! 🎉Celebrate the arrival of 2025 in style at Toca Brigade’s NYE Bash – wh",
       "endDate": "2024-12-31T23:59:00",
@@ -3909,40 +3814,6 @@
       ],
       "startDate": "2024-12-31T20:00:00",
       "url": "https://www.skillboxes.com/events/nye-bash-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Celebrate Christmas at the \"Christmas Carnival\" DJ Party – Skydeck by Sherlock's!Make your Christmas unforgettable with an epic Commerci",
-      "endDate": "2024-12-25T23:59:00",
-      "identifier": "com.skillboxes.17640",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734032732OzSbNRfsPecS8EY7.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Festival"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750296",
-            "longitude": "77.6075339"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "Christmas Carnival",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 83,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/christmas-carnival"
-         }
-      ],
-      "startDate": "2024-12-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/christmas-carnival"
    },
    {
       "@context": "https://schema.org",
@@ -4187,32 +4058,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Highlights:DJ Night Ft DJ Sulectro Christmas DecoNon Stop MusicBollywood, Commercial and Punjabi NightDance FloorLadies Night - Free Drinks ",
-      "endDate": "2024-12-25T00:30:00",
-      "identifier": "com.skillboxes.17609",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733978514XJFwmILpSVcjYHoj.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9348662",
-            "longitude": "77.6138885"
-         },
-         "name": "Plan B x Hangover XL Koramangala"
-      },
-      "name": "Tuesday Secret Santa at Hangover Kormanagala",
-      "offers": [ ],
-      "startDate": "2024-12-24T20:00:00",
-      "url": "https://www.skillboxes.com/events/tuesday-secret-santa-at-hangover-kormanagala"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Join us for a Luxury Poolside New Year's Eve CelebrationStep into a world of elegance and celebration this New Year’s Eve at our luxury open-air",
       "endDate": "2025-01-01T01:00:00",
@@ -4396,7 +4241,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry to one couple. Cover charges are applicable at the venue.\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Phase 1: Couple Entry",
             "url": "https://www.skillboxes.com/events/ticket/the-final-countdown-new-year-s-eve-2025"
          },
@@ -5492,7 +5337,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants entry for one couple to the event. Food and beverages are available à la carte.\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Couple Entry Ticket - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/new-year-party-byg-bang-2025-2"
          },
@@ -5642,7 +5487,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket provides entry to the event for one child aged 6 to 12 years. Food and beverages are available à la carte.\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Entry Ticket - EarlyBird - Kids ( 6 to 12 Years )",
             "url": "https://www.skillboxes.com/events/ticket/new-year-party-byg-bang-2025"
          },
@@ -5666,7 +5511,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants entry for four individuals to the event and includes a reserved table for four. Food and beverages are available à la carte.\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Entry Ticket - Phase 1 - Table for 4",
             "url": "https://www.skillboxes.com/events/ticket/new-year-party-byg-bang-2025"
          },
@@ -5725,7 +5570,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "UNLIMITED FOOD AND IMFL BEVERAGES WILL  BE SERVED ALL NIGHT LONG\n",
-            "inventoryLevel": 200,
+            "inventoryLevel": 196,
             "name": "PHASE 1 GOLD FEMALE",
             "url": "https://www.skillboxes.com/events/ticket/hydra-new-year-bash"
          },
@@ -5733,7 +5578,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "UNLIMITED FOOD AND IMFL BEVERAGES WILL BE SERVED ALL NIGHT LONG\n",
-            "inventoryLevel": 78,
+            "inventoryLevel": 76,
             "name": "PHASE 1 GOLD MALE",
             "url": "https://www.skillboxes.com/events/ticket/hydra-new-year-bash"
          },
