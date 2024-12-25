@@ -182,7 +182,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 127,
+            "inventoryLevel": 103,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
          },
@@ -235,6 +235,80 @@
       ],
       "startDate": "2025-03-28T20:00:00",
       "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Bengaluru people, start the year right with our open mic! No genre/theme/language restrictions    About Us: Speaking Souls is a co",
+      "endDate": "2025-01-05T18:00:00",
+      "identifier": "com.skillboxes.17986",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aXpVdFNMZXQwTnFvV3RKOGVWaHhQdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735106642AckMvruKiK34ohY7.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Performing Art"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9711356",
+            "longitude": "77.598164"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Speaking Souls - Bengaluru Open Mic",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "Audience Slot",
+            "url": "https://www.skillboxes.com/events/ticket/speaking-souls-bengaluru-open-mic-15"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 16,
+            "name": "Performer Slot",
+            "url": "https://www.skillboxes.com/events/ticket/speaking-souls-bengaluru-open-mic-15"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 7,
+            "name": "Combo Ticket (One performer + One Audience)",
+            "url": "https://www.skillboxes.com/events/ticket/speaking-souls-bengaluru-open-mic-15"
+         }
+      ],
+      "startDate": "2025-01-05T15:00:00",
+      "url": "https://www.skillboxes.com/events/speaking-souls-bengaluru-open-mic-15"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "BOOM PARTIES PRESENTS“2025 NYE MELLOW CARNIVAL COUNTDOWN”FIRST TIME IN KORAMANGALA BIGGEST 2025 NEW YEAR PARTY EVER AT ROOF-TOP PREMIUM CL",
+      "endDate": "2024-12-31T23:59:00",
+      "identifier": "com.skillboxes.17983",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/eXFOTVZkOEh5SldRQS9sWVo3eUZpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735101481XnbjbvWxVIY1Enjt.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "New Year 2025"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "104, Vijay Building, 4th Floor, near Empire Hotel, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.934622",
+            "longitude": "77.61583"
+         },
+         "name": "Hungry Hippie"
+      },
+      "name": "2025 NYE MELLOW CARNIVAL COUNTDOWN",
+      "offers": [ ],
+      "startDate": "2024-12-31T20:00:00",
+      "url": "https://www.skillboxes.com/events/2025-nye-mellow-carnival-countdown"
    },
    {
       "@context": "https://schema.org",
@@ -847,7 +921,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 30,
+            "inventoryLevel": 28,
             "name": "General",
             "url": "https://www.skillboxes.com/events/ticket/an-evening-of-magic-music-with-kalyan-sabareeshan-1"
          }
@@ -1327,49 +1401,6 @@
       ],
       "startDate": "2024-12-31T20:00:00",
       "url": "https://www.skillboxes.com/events/new-year-2025"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Kathak Ballet and Ghazal, Sufi music along with Super hit songs of Celebrity Playback Singer Sadhana Sargam. Event graced by Guest of honour Actress M",
-      "endDate": "2025-01-19T23:59:00",
-      "identifier": "com.skillboxes.17913",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17349395895bFndo9HuJAB8qwW.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Gayatri Vihar Sagar, Gate No.4, Palace Grounds, near Enayathulla Mehkri Square Road, Jayamahal, Bengaluru, Karnataka 560080, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0094196",
-            "longitude": "77.5856813"
-         },
-         "name": "Gayatri Vihar Sagar - Palace Ground Bengaluru"
-      },
-      "name": "Rubaroo - 2",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry includes complimentary veg buffet.\n",
-            "inventoryLevel": 1000,
-            "name": "Early Bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/rubaroo-2"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entry includes complimentary veg buffet.\n",
-            "inventoryLevel": 1000,
-            "name": "Phase 1 Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/rubaroo-2"
-         }
-      ],
-      "startDate": "2025-01-19T17:30:00",
-      "url": "https://www.skillboxes.com/events/rubaroo-2"
    },
    {
       "@context": "https://schema.org",
