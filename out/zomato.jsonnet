@@ -22,7 +22,7 @@
         "currency": "INR",
         "validFrom": "2024-12-06 23:11:00",
         "availability": "SELLING_FAST",
-        "inventory": 491
+        "inventory": 371
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -30,7 +30,7 @@
         "currency": "INR",
         "validFrom": "2024-11-05 21:18:00",
         "availability": "INSTOCK",
-        "inventory": 1344
+        "inventory": 1304
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -38,7 +38,7 @@
         "currency": "INR",
         "validFrom": "2024-12-22 22:52:50",
         "availability": "INSTOCK",
-        "inventory": 71
+        "inventory": 63
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -198,7 +198,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:04",
         "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 24
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",
@@ -206,7 +206,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:05",
         "availability": "INSTOCK",
-        "inventory": 25
+        "inventory": 23
       }
     ],
     "performers": [
@@ -292,8 +292,8 @@
   },
   {
     "name": "DGTL Goa 2024",
-    "description": "DGTL India 2023 saw over 15,000 attendees across 3 days enjoying world-class techno and electronic music, stunning lighting and stage designs, conceptual showcases, and vital sustainability initiatives, resulting in an immersive, audio-visual experience.\nGates open at 3 PM. You can come in early to enjoy some time-exclusive deals on beverages.\nBook your tickets now to secure your spot for this year!\nDGTL is a global electronic music festival with editions in Amsterdam, Santiago (Chile), S\u00e3o Paulo (Brazil), Bengaluru & Mumbai, and during the Amsterdam Dance Event. Besides its focus on music, DGTL features unique art installations and exciting sustainability projects. Its sustainability program sets it apart in the festival landscape.",
-    "startDate": "2024-12-27T16:00:00+05:30",
+    "description": "DGTL India 2024 saw over 33,000 attendees across 3 days enjoying world-class techno and electronic music, stunning lighting and stage designs, conceptual showcases, and vital sustainability initiatives, resulting in an immersive, audio-visual experience.\n\nGates open at 3 PM. You can come in early to enjoy some time-exclusive deals on beverages.\n\nDGTL is a global electronic music festival with editions in Amsterdam, Santiago (Chile), S\u00e3o Paulo (Brazil), Bengaluru & Mumbai, and during the Amsterdam Dance Event. Besides its focus on music, DGTL features unique art installations and exciting sustainability projects. Its sustainability program sets it apart in the festival landscape.",
+    "startDate": "2024-12-27T15:00:00+05:30",
     "endDate": "2024-12-28T04:00:00+05:30",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
@@ -302,41 +302,41 @@
     "ogTitle": "DGTL Goa 2024 Best seller, Music and Experiences event Tickets Goa - Zomato",
     "ogDesc": "Book online tickets for DGTL Goa 2024 Goa on Zomato which is a Best seller, Music and Experiences event happening at House No. 600/1, Ground Floor, Vagator, Goa",
     "images": [
-      "https://b.zmtcdn.com/data/zomaland/a028ad0922a8227c1c15c6c21fbe211f1733938881.png",
-      "https://b.zmtcdn.com/data/zomaland/a028ad0922a8227c1c15c6c21fbe211f1733938906.png"
+      "https://b.zmtcdn.com/data/zomaland/dbbd45dff8c857391c7fba13bbbccafb1735183452.png",
+      "https://b.zmtcdn.com/data/zomaland/c85255d284d3a3ddfb798c61d51139f81735183510.png"
     ],
     "tickets": [
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
         "price": 1411,
         "currency": "INR",
-        "validFrom": "2024-12-11 18:10:33",
+        "validFrom": "2024-12-26 14:42:00",
         "availability": "INSTOCK",
-        "inventory": 158
+        "inventory": 198
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
         "price": 2829,
         "currency": "INR",
-        "validFrom": "2024-12-11 18:01:40",
+        "validFrom": "2024-12-26 14:42:00",
         "availability": "INSTOCK",
-        "inventory": 218
+        "inventory": 90
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
         "price": 7497,
         "currency": "INR",
-        "validFrom": "2024-12-11 18:01:40",
+        "validFrom": "2024-12-26 14:42:00",
         "availability": "INSTOCK",
-        "inventory": 94
+        "inventory": 100
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
         "price": 10332,
         "currency": "INR",
-        "validFrom": "2024-12-11 18:01:40",
+        "validFrom": "2024-12-26 14:42:00",
         "availability": "INSTOCK",
-        "inventory": 92
+        "inventory": 100
       },
       {
         "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
