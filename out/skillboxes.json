@@ -177,6 +177,72 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "GROUND FLOOR\n\n\nNew Year’s Eve Celebration at B Café & Alfresco\n\n \n\nRing in 2025 with a grand celebration at",
+      "endDate": "2024-12-31T23:59:00",
+      "identifier": "com.skillboxes.18033",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/bm5scjdWdFptQUJZK0VSYUpvRm53QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17352454030M6BOhuF2J4IO7Go.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "New Year 2025"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No. 56, 6B, Palace Rd, Abshot Layout, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.99187",
+            "longitude": "77.588293"
+         },
+         "name": "Shangri-La Bengaluru"
+      },
+      "name": "ELEVATE",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 300,
+            "name": "BCAFE",
+            "url": "https://www.skillboxes.com/events/ticket/elevate"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket is per head\n",
+            "inventoryLevel": 200,
+            "name": "HYPE - 19TH FLOOR",
+            "url": "https://www.skillboxes.com/events/ticket/elevate"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This is per head basis and is a base room\n",
+            "inventoryLevel": 100,
+            "name": "ROOM FOR TWO ADULTS WITH BCAFE PACKAGE",
+            "url": "https://www.skillboxes.com/events/ticket/elevate"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This is per head basis and is a base room\n",
+            "inventoryLevel": 20,
+            "name": "ROOM FOR TWO ADULTS WITH 19TH FLOOR PACKAGE",
+            "url": "https://www.skillboxes.com/events/ticket/elevate"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket is per head\n",
+            "inventoryLevel": 20,
+            "name": "HYPE 19TH FLOOR (PRIVATE)",
+            "url": "https://www.skillboxes.com/events/ticket/elevate"
+         }
+      ],
+      "startDate": "2024-12-31T19:30:00",
+      "url": "https://www.skillboxes.com/events/elevate"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Get Ready for \"Mixtape Madness\" - This Friday at Skydeck by Sherlock's!Dive into an electrifying Bollytech & Commercial Music DJ Night at ",
       "endDate": "2024-12-27T23:59:00",
       "identifier": "com.skillboxes.18031",
@@ -774,40 +840,6 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "description": "Get Ready for \"Mixtape Madness\" - This Friday at Skydeck by Sherlock's!Dive into an electrifying Bollytech & Commercial Music DJ Night at ",
-      "endDate": "2024-12-27T23:59:00",
-      "identifier": "com.skillboxes.17951",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735031621R5wlraU7fQ94CSCh.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Party or Social Gathering"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750296",
-            "longitude": "77.6075339"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "Mixtape Madness",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/mixtape-madness"
-         }
-      ],
-      "startDate": "2024-12-27T20:00:00",
-      "url": "https://www.skillboxes.com/events/mixtape-madness"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
       "description": "This New Year’s Eve, Granny’s cranking up the charm with a retro bash that’s anything but old news! 💃✨DJ Jay’s ",
       "endDate": "2024-12-31T23:30:00",
       "identifier": "com.skillboxes.17949",
@@ -1208,7 +1240,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 97,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-baba-robijn-28th-dec-pangeo-1"
          },
@@ -1216,7 +1248,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 95,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-baba-robijn-28th-dec-pangeo-1"
          }
@@ -1315,14 +1347,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 100,
+            "inventoryLevel": 94,
             "name": "Early Bird Ticket - Male",
             "url": "https://www.skillboxes.com/events/ticket/martin-d-souza-live-nye-at-icb"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 100,
+            "inventoryLevel": 99,
             "name": "Early Bird Ticket - Couple",
             "url": "https://www.skillboxes.com/events/ticket/martin-d-souza-live-nye-at-icb"
          },
@@ -1984,7 +2016,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "a) Compulsory cover charge of INR 1000 before 9PM.   b) Compulsory cover charge of INR 2000 post 9PM.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Early Bird Ticket (Couple)",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-new-year-bash"
          },
