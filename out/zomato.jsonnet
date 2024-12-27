@@ -293,8 +293,8 @@
   {
     "name": "DGTL Goa 2024",
     "description": "DGTL India 2024 saw over 33,000 attendees across 3 days enjoying world-class techno and electronic music, stunning lighting and stage designs, conceptual showcases, and vital sustainability initiatives, resulting in an immersive, audio-visual experience.\n\nGates open at 3 PM. You can come in early to enjoy some time-exclusive deals on beverages.\n\nDGTL is a global electronic music festival with editions in Amsterdam, Santiago (Chile), S\u00e3o Paulo (Brazil), Bengaluru & Mumbai, and during the Amsterdam Dance Event. Besides its focus on music, DGTL features unique art installations and exciting sustainability projects. Its sustainability program sets it apart in the festival landscape.",
-    "startDate": "2024-12-27T15:00:00+05:30",
-    "endDate": "2024-12-28T04:00:00+05:30",
+    "startDate": "2024-12-27 15:00:00",
+    "endDate": "2024-12-28 04:00:00",
     "timezone": "+05:30",
     "eventStatus": "SCHEDULED",
     "eventAttendanceMode": "OFFLINE",
