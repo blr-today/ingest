@@ -1,6 +1,31 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "@id": "67866-1735988400-1735993800@bangaloreinternationalcentre.org",
+    "name": "Samvad Music",
+    "startDate": "2025-01-04T11:00:00+05:30",
+    "endDate": "2025-01-04T12:30:00+05:30",
+    "description": "Igino Giovanni Brunori and Virginia Nicoli of Samvad are an innovative musical duo crafting new sounds from ancient materials. Their performances are journeys through a rich landscape of melody and rhythm, using bansuri (Indian bamboo flute), silver flute, saxophone and voice. \nThanks to their teachers, the Gundecha Brothers, they have forged their own musical language in which Raga (melodic frames of indian classical music) and tala (rhythm cycles) remain the core features. In this sense, their music is less of a fusion and more of a dynamic expression of these traditional principles. \nSamvad means to \u2018speak together\u2019 or \u2018accord\u2019 in Sanskrit. There is much accord between the art and life of Igino and Virginia. Music brought them together and continues to be the driving force in their lives. Their shared passions give a special tone to their sonic creations, at once deeply connected to ancient traditions and still pulsing with the present. \nThe exceptional quality of Samvad\u2019s music derives from their attention to sound quality, to micro-tonal detail and to the mysterious dialogue between the two. East and West, ancient music and contemporary sounds meet in a new interpretation of tradition and modernity. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/samvad-music/",
+    "keywords": [
+      "Culture",
+      "Music",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "Samvad Music"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy-3_POSTER-49.jpg"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "68569-1736276400-1736281800@bangaloreinternationalcentre.org",
     "name": "K-Art Beyond K-Culture",
@@ -19,51 +44,6 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy-3_POSTER-52.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "68537-1737570600-1737576000@bangaloreinternationalcentre.org",
-    "name": "Out of the Middling Middle",
-    "startDate": "2025-01-22T18:30:00+05:30",
-    "endDate": "2025-01-22T20:00:00+05:30",
-    "description": "Midlife is a phase when we find ourselves pulled in multiple directions\u2014across work, home, health, friendships, and hobbies. \nIn this session, Ravi Venkatesan delves into themes from Deepak Jayaraman\u2019s recent book, Play to Potential. The book offers a nuanced exploration of how to unlock human potential\u2014not just professionally but holistically\u2014by embracing life\u2019s highs and lows. Drawing from his acclaimed Play to Potential podcast and his experiences as a coach, Deepak introduces the FLAVOUR framework, a practical guide to navigating the intricate interplay of family, aspirations, values, and relationships. \nDeepak emphasises that life is a team sport, with family serving as an essential support system. He argues that personal growth and achievement are deeply intertwined with our family contexts, a perspective often overlooked in self-help literature, particularly in cultures where family plays a central role. \nA key insight of the book is the recognition that life unfolds in seasons, shaped by transitions\u2014some intentional, others unexpected. Using real-life examples and case studies, Deepak illustrates how navigating these transitions thoughtfully is vital to realising our potential. \nThis discussion will resonate with anyone in their 30s to 60s, offering valuable strategies to lead a multi-dimensional, purposeful life. \n",
-    "url": "https://bangaloreinternationalcentre.org/event/out-of-the-middling-middle/",
-    "keywords": [
-      "Books",
-      "Nonfiction",
-      "Philosophy",
-      "Society"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-691.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "68490-1736447400-1736452800@bangaloreinternationalcentre.org",
-    "name": "Emergent Practices in South Asia",
-    "startDate": "2025-01-09T18:30:00+05:30",
-    "endDate": "2025-01-09T20:00:00+05:30",
-    "description": "In South Asia, architectural practice is characterized by a rich pluralism of approaches. This event brings together leading studios\u2014CollectiveProject, Kamat and Rozario Architecture, M9 Design Studio, and Made in Earth Collective\u2014for a panel discussion moderated by Pranav Thole and Ela Singhal. The conversation aims to explore the evolving landscapes of practice, focusing on forms of patronage, methodologies, emerging technologies, innovative construction techniques, and the architect\u2019s role as a social catalyst. \nIn collaboration with: \n\u00a0 \u00a0 \nSupported by: \n\u00a0\u00a0 \n",
-    "url": "https://bangaloreinternationalcentre.org/event/emergent-practices-in-south-asia/",
-    "keywords": [
-      "Architecture",
-      "Design",
-      "Development",
-      "Sustainability",
-      "Technology"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy-3_POSTER-54.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -93,74 +73,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "@id": "68347-1736247600-1736712000@bangaloreinternationalcentre.org",
-    "name": "Architectures of Transition",
-    "startDate": "2025-01-07T11:00:00+05:30",
-    "endDate": "2025-01-12T20:00:00+05:30",
-    "description": "Exhibition Walkthroughs\nWed, Jan 8 | 4pm \u2013\u00a0Presentation by Pranav Thole, followed by a walkthrough\u00a0by Rahul Mehrotra\nThu, Jan 9 | 5pm \u2013\u00a0Presentation by Pranav Thole, followed by a walkthrough \nThe travelling exhibition displays the works of 41 emergent architecture practices in South Asia that have engaged in the making of architecture, landscape, and infrastructure in the public realm. The research offers insights into patronage, methodologies, emergent technologies, and construction techniques and also sheds light on how the humane and social aspects of architecture characterized by participatory frameworks are being approached by practitioners today. It attempts to highlight modes of engagement as well as transgressions and synergies between disparate cultures, ways of representation, and knowledge accumulation and production. The first edition of the exhibition was shown at the India International Centre, New Delhi in December 2023, followed by the first travel edition at the Alliance Francaise, Chennai in August 2024. \nThe exhibition is part of the research project \u2013 State of Architecture in South Asia, which aims to collectively ask, across South Asia, the question: Does Architecture matter in a state of transition? In the region, numerous transitions, and uncertainties, encompassing climate change, political transformations, and socio-economic shifts, manifest in a heightened form within the daily existence of its populace. \u00a0A project initiated by the Lakshmi Mittal and Family South Asia Institute, Harvard University \u00a0and the Architecture Foundation, \u00a0visit https://www.soasouthasia.com for more details on the project. \nThe Travelling exhibition is produced by Prakriti Foundation and the Architecture Foundation \nIn collaboration with: \n\u00a0 \u00a0 \nSupported by: \n\u00a0 \u00a0 \n",
-    "url": "https://bangaloreinternationalcentre.org/event/architectures-of-transition/",
-    "keywords": [
-      "Architecture",
-      "Sustainability",
-      "Technology",
-      "Visual Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-688.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "68506-1736681400-1736686800@bangaloreinternationalcentre.org",
-    "name": "Our Incredible Inheritance: India\u2019s Plant Wealth",
-    "startDate": "2025-01-12T11:30:00+05:30",
-    "endDate": "2025-01-12T13:00:00+05:30",
-    "description": "The lecture will explore efforts to engage the public in conserving India\u2019s extraordinary plant diversity. This diversity forms the foundation of our diverse ecosystems, nourishes us, sustains our health, mitigates climate change, and offers spiritual, recreational, and other invaluable benefits. Vijay Thiruvady utilized botanical gardens like Lalbagh to showcase India\u2019s plant wealth and inspire the public to contribute to safeguarding our natural heritage. Professor Bawa will highlight\u00a0 ATREE\u2019s recent, innovative initiatives aimed at connecting scientists, students, and the general public to the world of plants. These efforts could promote deeper interactions with nature and continue Vijay Thiruvady\u2019s enduring legacy. \nWith this programme, the Bangalore International Centre remembers the contributions of our member Vijay Thiruvady in three landmark lectures that he gave at the BIC, on the \u201cGreening of Bangalore\u201d with Girish Karnad and Capt. Prabhala (2015), on \u201cBotanical Illustrations\u201d with Nirupa Rao (2019), and on \u201cWhy Lalbagh Matters\u201d (2021). \nAmong the accounts of our city, Vijay Thiruvady\u2019s book, Lalbagh \u2013 Sultans\u2019 Garden to Public Park, published by the Bangalore Environment Trust, presents the most comprehensive history of Lalbagh written to date. Ranging across five centuries, it presents a panoramic view from Kempegowda\u2019s flower garden in 1537, through Haider and Tipu (1760 to 1799), to the East India Company years \u2014 Scottish army men and surgeons \u2014 and over a century by six Kew trained gardeners. The book is based on research from several archives, including Kew Gardens and the Royal Botanic Gardens Edinburgh, and of course on Vijay Thiruvady\u2019s intimate knowledge of Lalbagh having conducted inspiring nature walks for over 18 years that were attended by over 15,000 walkers.\u00a0 \nVijay Thiruvady was always interested in various aspects of nature and more specifically horticulture. In addition to the Green Heritage Walks in Lalbagh, he conducted Imperial Colonial Walks in Cubbon Park and Military Heritage Walks at the MEG&C, and participated in the various activities of Bangalore Environment Trust as a Trustee. These have included the publishing of notable books on Heritage Trees in and around Bangalore and on Devarakadus and Gundutopus in the vicinity of Bangalore.\u00a0 \nThiruvady spent his early years in Delhi.\u00a0 His academic interests were pursued at\nSt. Stephen\u2019s College, Delhi and School of Architecture, Ahmedabad.\u00a0 When in Delhi, he had exposure to the world of nature and environment through association with a number of distinguished people in the field and institutions.\u00a0 \nHe gave talks on Bangalore, its environment and history at many institutions, including the National Institute of Advanced Studies, Raman Research Institute, BIC, Bangalore Club, National Gallery of Modern Art, and Azim Premji University. A gifted raconteur, his encyclopedic knowledge of trees and of Bangalore\u2019s history were conveyed through stories that kindled a love of nature and made his walks, lectures and books memorable, connecting with young and old from around the world, from experts in the field to school children.\u00a0His passing in August 2023 is a profound loss to the city. \nVijay Thiruvady\u2019s talk on Lalbagh at the BIC, which has been widely viewed as an introduction to the botanical garden and to Bangalore and its history, is available here.\u00a0 \nHis short essays on trees are available here. \nAn article about him in Frontline magazine is available here. \nImage Captions \nThumbnail and Poster: Impatiens and Primula species from the Himalaya\u00a0 \nHeader and Instastory: Rhododendron arboreum in the Himalaya\u00a0 \n\u00a0 \nTea will be served at 11 am. \n",
-    "url": "https://bangaloreinternationalcentre.org/event/our-incredible-inheritance-indias-plant-wealth/",
-    "keywords": [
-      "Environment",
-      "In Memory",
-      "Science"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy-3_POSTER-56.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "@id": "67866-1735988400-1735993800@bangaloreinternationalcentre.org",
-    "name": "Samvad Music",
-    "startDate": "2025-01-04T11:00:00+05:30",
-    "endDate": "2025-01-04T12:30:00+05:30",
-    "description": "Igino Giovanni Brunori and Virginia Nicoli of Samvad are an innovative musical duo crafting new sounds from ancient materials. Their performances are journeys through a rich landscape of melody and rhythm, using bansuri (Indian bamboo flute), silver flute, saxophone and voice. \nThanks to their teachers, the Gundecha Brothers, they have forged their own musical language in which Raga (melodic frames of indian classical music) and tala (rhythm cycles) remain the core features. In this sense, their music is less of a fusion and more of a dynamic expression of these traditional principles. \nSamvad means to \u2018speak together\u2019 or \u2018accord\u2019 in Sanskrit. There is much accord between the art and life of Igino and Virginia. Music brought them together and continues to be the driving force in their lives. Their shared passions give a special tone to their sonic creations, at once deeply connected to ancient traditions and still pulsing with the present. \nThe exceptional quality of Samvad\u2019s music derives from their attention to sound quality, to micro-tonal detail and to the mysterious dialogue between the two. East and West, ancient music and contemporary sounds meet in a new interpretation of tradition and modernity. \n",
-    "url": "https://bangaloreinternationalcentre.org/event/samvad-music/",
-    "keywords": [
-      "Culture",
-      "Music",
-      "Performing Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "CreativeWork",
-      "name": "Samvad Music"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy-3_POSTER-49.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "@id": "68015-1735815600-1736107200@bangaloreinternationalcentre.org",
     "name": "Vibrant Books",
     "startDate": "2025-01-02T11:00:00+05:30",
@@ -178,26 +90,6 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-687.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "68518-1736533800-1736539200@bangaloreinternationalcentre.org",
-    "name": "The Beauty of Physics",
-    "startDate": "2025-01-10T18:30:00+05:30",
-    "endDate": "2025-01-10T20:00:00+05:30",
-    "description": "Embark on a journey through the evolution of physics, from the mysteries of electrostatics and magnetism to the groundbreaking discoveries of Oersted, Faraday, and Maxwell, culminating in the transformative framework of field theory that underpins modern physics.\u00a0 Michael Faraday\u2014arguably the greatest experimentalist of all time\u2014pursued an understanding of nature\u2019s beauty, unveiling a new perception of reality. His work demonstrates how pure, theoretical research often drives technological progress more effectively than direct attempts to invent. Faraday\u2019s story highlights the power of curiosity, offering timeless insights into science education that can guide us toward better educational opportunities for all students. \nThis lecture is a part of Azim Premji University\u2019s Public Lecture Series. \nPresented by: \n \n",
-    "url": "https://bangaloreinternationalcentre.org/event/the-beauty-of-physics/",
-    "keywords": [
-      "Education",
-      "Science"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy-3_POSTER-55.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -239,52 +131,6 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-690.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "68366-1736361000-1736366400@bangaloreinternationalcentre.org",
-    "name": "Research in Practice",
-    "startDate": "2025-01-08T18:30:00+05:30",
-    "endDate": "2025-01-08T20:00:00+05:30",
-    "description": "For complex projects in the public realm or at the scale of the city, actors become clearly differentiated, and hence the building of constituencies becomes crucial to engage different stakeholders in any project. This is often done through various media to put across ideas, and it is here that research and writing to communicate ideas of the city become an important part of the practice.  \nIn retrospect, publications become a way of creating partnerships, collaborations, and friendships which serve to keep alive the conversations on the issues at hand and engagement with the work we do. Similarly, these publications then go out into the world beyond the project and have a life of their own. But, most critically, in hindsight they allowed us to expand our \u2018sphere of influence\u2019 and equipped us to speculate about the future, simultaneously creating an archive of the present.  \nThe acts of archiving and reflecting, as well as simultaneously speculating and being propositional, are critical for us to gain agency as a profession. For, by committing to writing, drawing our speculations, or even discerning the patterns that surround us gives us agency as professionals in society. If we do not have agency or find ways to establish an agency, we will break down as a profession.  \nThis lecture will cover 30 years of Rahul Mehrotra\u2019s research and writings in the context of his engagement as a practitioner as well as advocate for various issues concerning Architecture and Urbanism in India. \nIn collaboration with: \n\u00a0 \u00a0\u00a0 \nSupported by: \n\u00a0 \u00a0 \n",
-    "url": "https://bangaloreinternationalcentre.org/event/research-in-practice/",
-    "keywords": [
-      "Architecture",
-      "Books",
-      "Design"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "7, 4th Main Road, Domlur II Stage, Bengaluru, Karnataka, 560 071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy-3_POSTER-53.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "ScreeningEvent",
-    "@id": "68408-1736074800-1736083800@bangaloreinternationalcentre.org",
-    "name": "\u0c9a\u0cbf\u0ca4\u0cc6\u0c97\u0cc2 \u0c9a\u0cbf\u0c82\u0ca4\u0cc6 | Chithegu Chinthe",
-    "startDate": "2025-01-05T11:00:00+05:30",
-    "endDate": "2025-01-05T13:30:00+05:30",
-    "description": "\nKannada with (English Subtitles) | 1978 |116 minutes  \nMovie star Gajasimha becomes a successful politician despite gangster Thimmaya\u2019s traps. Karate expert Avinash and foreign secret agent Mary work to expose the criminals. \nThis month\u2019s film featured in our informal film club is Chitegu Chinte (1978) \nChitegu Chinte, set in a fictitious country called Gajadweepa, is at once a razor sharp and a side splitting look at power and one man\u2019s relationship with it. The film follows a superstar into his newly fashioned life of a politician. \nA\u00a0parody of the times that it was made in, it uses all the tropes and elements that made up popular mainstream cinema to give us a keen allegorical satire. \nDirected by MS Sathyu \nWritten by Javed Siddiqui \nDialogue by S Ramaswami \nCinematography by Ashok Gunjal \nEditing by Chakravarti \nProduced by G N Lakshmipathy \nFeaturing CR Simha, Manjula, Paula Lindsay, Ramprakash \nAbout B\u2022Cinematic \n\nCalling all cinephiles! BIC is thrilled to present B\u2022Cinematic, an initiative dedicated to celebrating the most essential, impactful, and artistically significant cinematic works from across the state and the country. \nAt B\u2022Cinematic, our mission is to curate and share those remarkable films that is a must-watch (or re-watch) experience for every passionate cinema lover. From groundbreaking classics to under-appreciated gems, our carefully curated selection will take you on an unparalleled (pun not intended) cinematic journey through the ages. \nThrough curated screenings, insightful discussions, and engaging analyses from distinguished cinematic voices, we aim to not only watch these films together but to truly appreciate their craftsmanship, cultural impact, and intellectual depth. Our vibrant community of film aficionados will collectively rediscover Indian cinema\u2019s most stunning and enduring masterpieces. \nSo join us on this quest to experience the films that have defined and redefined the art form. Don\u2019t miss out on crossing these essential works off your bucket list. Because to truly live, you must first watch the films that make life worth living. \n",
-    "url": "https://bangaloreinternationalcentre.org/event/%e0%b2%9a%e0%b2%bf%e0%b2%a4%e0%b3%86%e0%b2%97%e0%b3%82-%e0%b2%9a%e0%b2%bf%e0%b2%82%e0%b2%a4%e0%b3%86-chithegu-chinthe/",
-    "keywords": [
-      "Film",
-      "Society"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "kn",
-    "workPresented": {
-      "@type": "Movie",
-      "name": "\u0c9a\u0cbf\u0ca4\u0cc6\u0c97\u0cc2 \u0c9a\u0cbf\u0c82\u0ca4\u0cc6 | Chithegu Chinthe"
-    },
-    "subtitleLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy_CC.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -342,6 +188,162 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "@id": "67244-1735430400-1735516799@bangaloreinternationalcentre.org",
+    "name": "341. Seeds of Insight",
+    "startDate": "2024-12-29T05:30:00+05:30",
+    "endDate": "2024-12-30T05:30:00+05:30",
+    "description": "By the canons of orthodox social science, countries like India are not supposed to have\u00a0an environmental consciousness. They are, as it were, \u201ctoo poor to be green.\u201d \nIn his new book,\u00a0Speaking with Nature,\u00a0Ramachandra\u00a0Guha\u00a0challenges this narrative by revealing a\u00a0virtually unknown prehistory of the global movement set far outside Europe or America.\u00a0Long before the publication of Rachel Carson\u2019s\u00a0Silent Spring\u00a0and well before climate\u00a0change, ten remarkable individuals wrote with deep insight about the dangers of\u00a0environmental abuse from within an Indian context.\u00a0In strikingly contemporary language,\u00a0Rabindranath Tagore, Radhakamal Mukerjee, J. C. Kumarappa, Patrick Geddes, Albert\u00a0and Gabrielle Howard, Mira, Verrier Elwin, K. M. Munshi, and M. Krishnan wrote about\u00a0the forest and the wild, soil and water, urbanisation and industrialisation.\u00a0Positing the\u00a0idea of what\u00a0Guha\u00a0calls \u201clivelihood environmentalism\u201d in contrast to the \u201cfull stomach\u00a0environmentalism\u201d of the affluent world, these writers, activists, and scientists played a\u00a0pioneering role in shaping global conversations about humanity\u2019s relationship with\u00a0nature. \nSpanning more than a century of Indian history, and decidedly transnational in reference, this book offers rich resources for considering the threat of climate change today. \nIn this episode of BIC Talks, Ramchandra Guha is in conversation with Harini Nagendra. This is an excerpt from a conversation that took place in the BIC premises in September 2024. \nSubscribe to the BIC Talks Podcast on your favorite podcast app!\nBIC Talks is available everywhere, including Apple Podcasts, Spotify, Google Podcasts, Castbox, Overcast, Audible, and Amazon Music. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/341-seeds-of-insight/",
+    "keywords": [
+      "Books",
+      "Climate Change",
+      "Environment",
+      "History",
+      "Nonfiction",
+      "Podcast"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/PODCAST_Thumbnail-4.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "68537-1737570600-1737576000@bangaloreinternationalcentre.org",
+    "name": "Out of the Middling Middle",
+    "startDate": "2025-01-22T18:30:00+05:30",
+    "endDate": "2025-01-22T20:00:00+05:30",
+    "description": "Midlife is a phase when we find ourselves pulled in multiple directions\u2014across work, home, health, friendships, and hobbies. \nIn this session, Ravi Venkatesan delves into themes from Deepak Jayaraman\u2019s recent book, Play to Potential. The book offers a nuanced exploration of how to unlock human potential\u2014not just professionally but holistically\u2014by embracing life\u2019s highs and lows. Drawing from his acclaimed Play to Potential podcast and his experiences as a coach, Deepak introduces the FLAVOUR framework, a practical guide to navigating the intricate interplay of family, aspirations, values, and relationships. \nDeepak emphasises that life is a team sport, with family serving as an essential support system. He argues that personal growth and achievement are deeply intertwined with our family contexts, a perspective often overlooked in self-help literature, particularly in cultures where family plays a central role. \nA key insight of the book is the recognition that life unfolds in seasons, shaped by transitions\u2014some intentional, others unexpected. Using real-life examples and case studies, Deepak illustrates how navigating these transitions thoughtfully is vital to realising our potential. \nThis discussion will resonate with anyone in their 30s to 60s, offering valuable strategies to lead a multi-dimensional, purposeful life. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/out-of-the-middling-middle/",
+    "keywords": [
+      "Books",
+      "Nonfiction",
+      "Philosophy",
+      "Society"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-691.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "68490-1736447400-1736452800@bangaloreinternationalcentre.org",
+    "name": "Emergent Practices in South Asia",
+    "startDate": "2025-01-09T18:30:00+05:30",
+    "endDate": "2025-01-09T20:00:00+05:30",
+    "description": "In South Asia, architectural practice is characterized by a rich pluralism of approaches. This event brings together leading studios\u2014CollectiveProject, Kamat and Rozario Architecture, M9 Design Studio, and Made in Earth Collective\u2014for a panel discussion moderated by Pranav Thole and Ela Singhal. The conversation aims to explore the evolving landscapes of practice, focusing on forms of patronage, methodologies, emerging technologies, innovative construction techniques, and the architect\u2019s role as a social catalyst. \nIn collaboration with: \n\u00a0 \u00a0 \nSupported by: \n\u00a0\u00a0 \n",
+    "url": "https://bangaloreinternationalcentre.org/event/emergent-practices-in-south-asia/",
+    "keywords": [
+      "Architecture",
+      "Design",
+      "Development",
+      "Sustainability",
+      "Technology"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy-3_POSTER-54.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "68506-1736681400-1736686800@bangaloreinternationalcentre.org",
+    "name": "Our Incredible Inheritance: India\u2019s Plant Wealth",
+    "startDate": "2025-01-12T11:30:00+05:30",
+    "endDate": "2025-01-12T13:00:00+05:30",
+    "description": "The lecture will explore efforts to engage the public in conserving India\u2019s extraordinary plant diversity. This diversity forms the foundation of our diverse ecosystems, nourishes us, sustains our health, mitigates climate change, and offers spiritual, recreational, and other invaluable benefits. Vijay Thiruvady utilized botanical gardens like Lalbagh to showcase India\u2019s plant wealth and inspire the public to contribute to safeguarding our natural heritage. Professor Bawa will highlight\u00a0 ATREE\u2019s recent, innovative initiatives aimed at connecting scientists, students, and the general public to the world of plants. These efforts could promote deeper interactions with nature and continue Vijay Thiruvady\u2019s enduring legacy. \nWith this programme, the Bangalore International Centre remembers the contributions of our member Vijay Thiruvady in three landmark lectures that he gave at the BIC, on the \u201cGreening of Bangalore\u201d with Girish Karnad and Capt. Prabhala (2015), on \u201cBotanical Illustrations\u201d with Nirupa Rao (2019), and on \u201cWhy Lalbagh Matters\u201d (2021). \nAmong the accounts of our city, Vijay Thiruvady\u2019s book, Lalbagh \u2013 Sultans\u2019 Garden to Public Park, published by the Bangalore Environment Trust, presents the most comprehensive history of Lalbagh written to date. Ranging across five centuries, it presents a panoramic view from Kempegowda\u2019s flower garden in 1537, through Haider and Tipu (1760 to 1799), to the East India Company years \u2014 Scottish army men and surgeons \u2014 and over a century by six Kew trained gardeners. The book is based on research from several archives, including Kew Gardens and the Royal Botanic Gardens Edinburgh, and of course on Vijay Thiruvady\u2019s intimate knowledge of Lalbagh having conducted inspiring nature walks for over 18 years that were attended by over 15,000 walkers.\u00a0 \nVijay Thiruvady was always interested in various aspects of nature and more specifically horticulture. In addition to the Green Heritage Walks in Lalbagh, he conducted Imperial Colonial Walks in Cubbon Park and Military Heritage Walks at the MEG&C, and participated in the various activities of Bangalore Environment Trust as a Trustee. These have included the publishing of notable books on Heritage Trees in and around Bangalore and on Devarakadus and Gundutopus in the vicinity of Bangalore.\u00a0 \nThiruvady spent his early years in Delhi.\u00a0 His academic interests were pursued at\nSt. Stephen\u2019s College, Delhi and School of Architecture, Ahmedabad.\u00a0 When in Delhi, he had exposure to the world of nature and environment through association with a number of distinguished people in the field and institutions.\u00a0 \nHe gave talks on Bangalore, its environment and history at many institutions, including the National Institute of Advanced Studies, Raman Research Institute, BIC, Bangalore Club, National Gallery of Modern Art, and Azim Premji University. A gifted raconteur, his encyclopedic knowledge of trees and of Bangalore\u2019s history were conveyed through stories that kindled a love of nature and made his walks, lectures and books memorable, connecting with young and old from around the world, from experts in the field to school children.\u00a0His passing in August 2023 is a profound loss to the city. \nVijay Thiruvady\u2019s talk on Lalbagh at the BIC, which has been widely viewed as an introduction to the botanical garden and to Bangalore and its history, is available here.\u00a0 \nHis short essays on trees are available here. \nAn article about him in Frontline magazine is available here. \nImage Captions \nThumbnail and Poster: Impatiens and Primula species from the Himalaya\u00a0 \nHeader and Instastory: Rhododendron arboreum in the Himalaya\u00a0 \n\u00a0 \nTea will be served at 11 am. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/our-incredible-inheritance-indias-plant-wealth/",
+    "keywords": [
+      "Environment",
+      "In Memory",
+      "Science"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy-3_POSTER-56.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "68366-1736361000-1736366400@bangaloreinternationalcentre.org",
+    "name": "Research in Practice",
+    "startDate": "2025-01-08T18:30:00+05:30",
+    "endDate": "2025-01-08T20:00:00+05:30",
+    "description": "For complex projects in the public realm or at the scale of the city, actors become clearly differentiated, and hence the building of constituencies becomes crucial to engage different stakeholders in any project. This is often done through various media to put across ideas, and it is here that research and writing to communicate ideas of the city become an important part of the practice.  \nIn retrospect, publications become a way of creating partnerships, collaborations, and friendships which serve to keep alive the conversations on the issues at hand and engagement with the work we do. Similarly, these publications then go out into the world beyond the project and have a life of their own. But, most critically, in hindsight they allowed us to expand our \u2018sphere of influence\u2019 and equipped us to speculate about the future, simultaneously creating an archive of the present.  \nThe acts of archiving and reflecting, as well as simultaneously speculating and being propositional, are critical for us to gain agency as a profession. For, by committing to writing, drawing our speculations, or even discerning the patterns that surround us gives us agency as professionals in society. If we do not have agency or find ways to establish an agency, we will break down as a profession.  \nThis lecture will cover 30 years of Rahul Mehrotra\u2019s research and writings in the context of his engagement as a practitioner as well as advocate for various issues concerning Architecture and Urbanism in India. \nIn collaboration with: \n\u00a0 \u00a0\u00a0 \nSupported by: \n\u00a0 \u00a0 \n",
+    "url": "https://bangaloreinternationalcentre.org/event/research-in-practice/",
+    "keywords": [
+      "Architecture",
+      "Books",
+      "Design"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "7, 4th Main Road, Domlur II Stage, Bengaluru, Karnataka, 560 071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy-3_POSTER-53.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "@id": "68408-1736074800-1736083800@bangaloreinternationalcentre.org",
+    "name": "\u0c9a\u0cbf\u0ca4\u0cc6\u0c97\u0cc2 \u0c9a\u0cbf\u0c82\u0ca4\u0cc6 | Chithegu Chinthe",
+    "startDate": "2025-01-05T11:00:00+05:30",
+    "endDate": "2025-01-05T13:30:00+05:30",
+    "description": "\nKannada with (English Subtitles) | 1978 |116 minutes  \nMovie star Gajasimha becomes a successful politician despite gangster Thimmaya\u2019s traps. Karate expert Avinash and foreign secret agent Mary work to expose the criminals. \nThis month\u2019s film featured in our informal film club is Chitegu Chinte (1978) \nChitegu Chinte, set in a fictitious country called Gajadweepa, is at once a razor sharp and a side splitting look at power and one man\u2019s relationship with it. The film follows a superstar into his newly fashioned life of a politician. \nA\u00a0parody of the times that it was made in, it uses all the tropes and elements that made up popular mainstream cinema to give us a keen allegorical satire. \nDirected by MS Sathyu \nWritten by Javed Siddiqui \nDialogue by S Ramaswami \nCinematography by Ashok Gunjal \nEditing by Chakravarti \nProduced by G N Lakshmipathy \nFeaturing CR Simha, Manjula, Paula Lindsay, Ramprakash \nAbout B\u2022Cinematic \n\nCalling all cinephiles! BIC is thrilled to present B\u2022Cinematic, an initiative dedicated to celebrating the most essential, impactful, and artistically significant cinematic works from across the state and the country. \nAt B\u2022Cinematic, our mission is to curate and share those remarkable films that is a must-watch (or re-watch) experience for every passionate cinema lover. From groundbreaking classics to under-appreciated gems, our carefully curated selection will take you on an unparalleled (pun not intended) cinematic journey through the ages. \nThrough curated screenings, insightful discussions, and engaging analyses from distinguished cinematic voices, we aim to not only watch these films together but to truly appreciate their craftsmanship, cultural impact, and intellectual depth. Our vibrant community of film aficionados will collectively rediscover Indian cinema\u2019s most stunning and enduring masterpieces. \nSo join us on this quest to experience the films that have defined and redefined the art form. Don\u2019t miss out on crossing these essential works off your bucket list. Because to truly live, you must first watch the films that make life worth living. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/%e0%b2%9a%e0%b2%bf%e0%b2%a4%e0%b3%86%e0%b2%97%e0%b3%82-%e0%b2%9a%e0%b2%bf%e0%b2%82%e0%b2%a4%e0%b3%86-chithegu-chinthe/",
+    "keywords": [
+      "Film",
+      "Society"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "kn",
+    "workPresented": {
+      "@type": "Movie",
+      "name": "\u0c9a\u0cbf\u0ca4\u0cc6\u0c97\u0cc2 \u0c9a\u0cbf\u0c82\u0ca4\u0cc6 | Chithegu Chinthe"
+    },
+    "subtitleLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy_CC.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "68518-1736533800-1736539200@bangaloreinternationalcentre.org",
+    "name": "The Beauty of Physics",
+    "startDate": "2025-01-10T18:30:00+05:30",
+    "endDate": "2025-01-10T20:00:00+05:30",
+    "description": "Embark on a journey through the evolution of physics, from the mysteries of electrostatics and magnetism to the groundbreaking discoveries of Oersted, Faraday, and Maxwell, culminating in the transformative framework of field theory that underpins modern physics.\u00a0 Michael Faraday\u2014arguably the greatest experimentalist of all time\u2014pursued an understanding of nature\u2019s beauty, unveiling a new perception of reality. His work demonstrates how pure, theoretical research often drives technological progress more effectively than direct attempts to invent. Faraday\u2019s story highlights the power of curiosity, offering timeless insights into science education that can guide us toward better educational opportunities for all students. \nThis lecture is a part of Azim Premji University\u2019s Public Lecture Series. \nPresented by: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/the-beauty-of-physics/",
+    "keywords": [
+      "Education",
+      "Science"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy-3_POSTER-55.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "@id": "68198-1736679600-1736685000@bangaloreinternationalcentre.org",
     "name": "Gandhi, the Philosopher",
     "startDate": "2025-01-12T11:00:00+05:30",
@@ -359,6 +361,28 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-copy_GP.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "68347-1736247600-1736712000@bangaloreinternationalcentre.org",
+    "name": "Architectures of Transition",
+    "startDate": "2025-01-07T11:00:00+05:30",
+    "endDate": "2025-01-12T20:00:00+05:30",
+    "description": "Exhibition Walkthroughs\nWed, Jan 8 | 4pm \u2013\u00a0Presentation by Pranav Thole, followed by a walkthrough\u00a0by Rahul Mehrotra\nThu, Jan 9 | 5pm \u2013\u00a0Presentation by Pranav Thole, followed by a walkthrough \nThe travelling exhibition displays the works of 41 emergent architecture practices in South Asia that have engaged in the making of architecture, landscape, and infrastructure in the public realm. The research offers insights into patronage, methodologies, emergent technologies, and construction techniques and also sheds light on how the humane and social aspects of architecture characterized by participatory frameworks are being approached by practitioners today. It attempts to highlight modes of engagement as well as transgressions and synergies between disparate cultures, ways of representation, and knowledge accumulation and production. The first edition of the exhibition was shown at the India International Centre, New Delhi in December 2023, followed by the first travel edition at the Alliance Francaise, Chennai in August 2024. \nThe exhibition is part of the research project \u2013 State of Architecture in South Asia, which aims to collectively ask, across South Asia, the question: Does Architecture matter in a state of transition? In the region, numerous transitions, and uncertainties, encompassing climate change, political transformations, and socio-economic shifts, manifest in a heightened form within the daily existence of its populace. \u00a0A project initiated by the Lakshmi Mittal and Family South Asia Institute, Harvard University \u00a0and the Architecture Foundation, \u00a0visit https://www.soasouthasia.com for more details on the project. \nThe Travelling exhibition is produced by Prakriti Foundation and the Architecture Foundation \nIn collaboration with: \n\u00a0 \u00a0 \nSupported by: \n\u00a0 \u00a0 \n",
+    "url": "https://bangaloreinternationalcentre.org/event/architectures-of-transition/",
+    "keywords": [
+      "Architecture",
+      "Sustainability",
+      "Technology",
+      "Visual Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-688.jpg"
   },
   {
     "@context": "https://schema.org",
