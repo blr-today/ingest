@@ -129,6 +129,42 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Come unleash your inner talent at 'The Bean Grill'open mic on January 26th 2025 at the all time happening and peppy studio @popsofpastelSpread the col",
+      "endDate": "2025-01-26T23:59:00",
+      "identifier": "com.skillboxes.18069",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735359517ebXRE9Ixi3fd3lA7.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Comedy Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No 53, 1st floor, Shree Chambers, Subbarama Chetty road, Basavanagudi, Bangalore - 560004",
+         "name": "Pops Of Pastel Studio"
+      },
+      "name": "The Bean Grill Open Mic",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Audience Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-15"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Performer Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-15"
+         }
+      ],
+      "startDate": "2025-01-26T14:00:00",
+      "url": "https://www.skillboxes.com/events/the-bean-grill-open-mic-15"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "GROUND FLOOR\n\n\nNew Year’s Eve Celebration at B Café & Alfresco\n\n \n\nRing in 2025 with a grand celebration at",
       "endDate": "2024-12-31T23:59:00",
       "identifier": "com.skillboxes.18033",
@@ -1108,24 +1144,7 @@
          "name": "Pangeo"
       },
       "name": "CentiGrade Club Nights ft. Baba Robijn / 28th Dec / Pangeo",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 97,
-            "name": "Guestlist - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-baba-robijn-28th-dec-pangeo-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 95,
-            "name": "Guestlist - Female",
-            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-baba-robijn-28th-dec-pangeo-1"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-12-28T20:00:00",
       "url": "https://www.skillboxes.com/events/centigrade-club-nights-ft-baba-robijn-28th-dec-pangeo-1"
    },
@@ -1169,7 +1188,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 94,
+            "inventoryLevel": 93,
             "name": "Early Bird Ticket - Male",
             "url": "https://www.skillboxes.com/events/ticket/martin-d-souza-live-nye-at-icb"
          },
@@ -1830,7 +1849,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Walk in anytime.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 996,
             "name": "Early Bird Ticket (Female)",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-new-year-bash"
          },
@@ -3477,32 +3496,7 @@
          "name": "Hard Rock Cafe Bengaluru"
       },
       "name": "Bootleg Fridays at Hardrock Cafe",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable through out the event\n",
-            "inventoryLevel": 100,
-            "name": "Stag",
-            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-8"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow one single entry\n",
-            "inventoryLevel": 100,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-8"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry till 0930pm post cover charges applicable\n",
-            "inventoryLevel": 100,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/bootleg-fridays-at-hardrock-cafe-8"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-12-27T08:00:00",
       "url": "https://www.skillboxes.com/events/bootleg-fridays-at-hardrock-cafe-8"
    },
