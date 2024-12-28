@@ -72,7 +72,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 78,
+            "inventoryLevel": 68,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
          },
@@ -129,10 +129,61 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Ring in the New Year under the magic of Aurora 2025!Join us at Lumara Bar & Kitchen for an unforgettable night of celebration, featuring dazzling ",
+      "endDate": "2024-12-31T23:59:00",
+      "identifier": "com.skillboxes.18085",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/WTgyN2RUQjMwZ3lkVG8vaklLUCtzQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17353986360v1fgJaU2mtlrScC.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "New Year 2025"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Trinity Pothraj, #154, 4th floor, Trinity Circle, Old Madras Rd, Gowthamapuram, Jogupalya, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9725259",
+            "longitude": "77.6202991"
+         },
+         "name": "Lumara Bar & Kitchen"
+      },
+      "name": "AURORA - NYE 2025",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This is a completely redeemable Cover Charge\n",
+            "inventoryLevel": 100,
+            "name": "FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/aurora-nye-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This is a completely redeemable Cover Charge\n",
+            "inventoryLevel": 100,
+            "name": "MALE",
+            "url": "https://www.skillboxes.com/events/ticket/aurora-nye-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This is a completely redeemable Cover Charge\n",
+            "inventoryLevel": 100,
+            "name": "COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/aurora-nye-2025"
+         }
+      ],
+      "startDate": "2024-12-31T19:00:00",
+      "url": "https://www.skillboxes.com/events/aurora-nye-2025"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "✨ Skyfall 2025 NYE at Gatsby – Elevate Your New Year’s Eve! ✨Step into 2025 with an unparalleled experience! Join us at Gats",
       "endDate": "2024-12-31T23:59:00",
       "identifier": "com.skillboxes.18074",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VEFlTlpXbVR3TFptRlRJQkMzajJlUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735373363JTn5fPlb8gvbvr6l.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VEFlTlpXbVR3TFptRlRJQkMzajJlUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735397453QztiCjh52EOipYiS.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "New Year 2025"
@@ -403,7 +454,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 14,
+            "inventoryLevel": 12,
             "name": "Performer Slot",
             "url": "https://www.skillboxes.com/events/ticket/speaking-souls-bengaluru-open-mic-15"
          },
@@ -877,41 +928,6 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "THE SUGAR RUSH FILLED KORAMANGALA ON SATURDAY, THE DAY OF THE SUGAR FACTORY. THE BEST EDM, BOLLYWOOD, AND PUNJABI MUSIC SATURDAY NIGHT`S.RSVP-70265383",
-      "endDate": "2024-12-28T23:59:00",
-      "identifier": "com.skillboxes.17948",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17350291201fFAHSzK4ftdhFgc.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "93/A Ground floor, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9333762",
-            "longitude": "77.6140296"
-         },
-         "name": "Sugar Factory Reloaded"
-      },
-      "name": "The Sugar Affair",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "FREE DRINKS & FREE ENTRY FOR LADIES*    FREE ENTRY FOR COUPLES AND GIRLS ONLY UP TO 9:30 PM.& STAG FULLY COVER CHARGE APPLICABLE (FOOD & DRINKS REDEEMABLE).\nNOTE- AT THE VENUE, EVERY ONE COVER CHARGES APPLY AFTER NINE O`CL",
-            "inventoryLevel": 998,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/the-sugar-affair"
-         }
-      ],
-      "startDate": "2024-12-28T20:00:00",
-      "url": "https://www.skillboxes.com/events/the-sugar-affair"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "SoMAD LAB Presents HAMDI (Bengaluru)Sun, 05-Jan-2025 | 5 PM Onwards ",
       "endDate": "2025-01-05T23:59:00",
       "identifier": "com.skillboxes.17944",
@@ -1010,7 +1026,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 28,
+            "inventoryLevel": 26,
             "name": "General",
             "url": "https://www.skillboxes.com/events/ticket/an-evening-of-magic-music-with-kalyan-sabareeshan-1"
          }
@@ -1044,7 +1060,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Pass with Food Coupon",
             "url": "https://www.skillboxes.com/events/ticket/bajabies-candle-light-jam-food-coupon-included"
          }
@@ -1632,30 +1648,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "> Allows entry for one female & male individuals to the event area.  > Cover charges applicable post 9PM.  > Club rules applicable\n",
-            "inventoryLevel": 28,
-            "name": "Early Bird Pass : Couple",
-            "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-steve-levi-open-air-festival-31st-floor-sky-high-experience"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "> Allows entry for one male individual to the event area.  > Cover charges applicable post 9PM.  > Club rules applicable\n",
-            "inventoryLevel": 300,
-            "name": "Phase 1 : Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-steve-levi-open-air-festival-31st-floor-sky-high-experience"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "> Allows entry for one individual to the event area any time. > No Cover charges applicable.  > Club rules applicable.\n",
-            "inventoryLevel": 20,
-            "name": "Gold Pass",
-            "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-steve-levi-open-air-festival-31st-floor-sky-high-experience"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "> Allows entry for one male individual to the event area.  > Cover charges applicable post 9PM.  > Club rules applicable\n",
             "inventoryLevel": 40,
             "name": "Early Bird Pass : Male",
@@ -1664,17 +1656,17 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "> Allows entry for one female individual to the event area.  > Cover charges applicable post 9PM.  > Club rules applicable\n",
-            "inventoryLevel": 200,
-            "name": "Phase 1 : Female Pass",
+            "description": "> Allows entry for one female & male individuals to the event area.  > Cover charges applicable post 9PM.  > Club rules applicable\n",
+            "inventoryLevel": 26,
+            "name": "Early Bird Pass : Couple",
             "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-steve-levi-open-air-festival-31st-floor-sky-high-experience"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "> Allows entry for one female & male to the event area.  > Cover charges applicable post 9PM.  > Club rules applicable\n",
-            "inventoryLevel": 300,
-            "name": "Phase 1 : Couple Pass",
+            "description": "> Allows entry for one female individual to the event area.  > Cover charges applicable post 9PM.  > Club rules applicable\n",
+            "inventoryLevel": 200,
+            "name": "Phase 1 : Female Pass",
             "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-steve-levi-open-air-festival-31st-floor-sky-high-experience"
          }
       ],
@@ -1931,65 +1923,6 @@
       ],
       "startDate": "2024-12-31T20:00:00",
       "url": "https://www.skillboxes.com/events/the-burrow-presents-new-year-bash"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Little Bhatia the powerhouse of Indian hip-hop and participant of MTV Hustle Season 1V, is here to take the stage by storm with Campaign Tour! Known f",
-      "endDate": "2024-12-28T23:59:00",
-      "identifier": "com.skillboxes.17883",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NFRYYks4VFJlWk9XT2RDL2NwenJnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734698583Wi6LUGcqgrwQvlcL.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9151523",
-            "longitude": "77.6660553"
-         },
-         "name": "White Lotus Club Bengaluru"
-      },
-      "name": "LITTLE BHATIA'S CAMPAIGN TOUR | Indram",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
-            "inventoryLevel": 100,
-            "name": "Phase 1 : Single",
-            "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour-indram"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
-            "inventoryLevel": 50,
-            "name": "COUPLE TICKETS",
-            "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour-indram"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
-            "inventoryLevel": 25,
-            "name": "Phase 1 : Group of 4",
-            "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour-indram"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
-            "inventoryLevel": 10,
-            "name": "MEET & GREET",
-            "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour-indram"
-         }
-      ],
-      "startDate": "2024-12-28T20:30:00",
-      "url": "https://www.skillboxes.com/events/little-bhatia-s-campaign-tour-indram"
    },
    {
       "@context": "https://schema.org",
@@ -2893,40 +2826,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "🎉 Sugar Room x Teavaro: Dance, Tea & Good Vibes! 🍹🪩Who says sundowners have to be fancy? Join us for a laid-back techno te",
-      "endDate": "2024-12-28T20:00:00",
-      "identifier": "com.skillboxes.17830",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anNMZkVrOGNBRzJSTmhpRmk1YmhrQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734627431HL5WQRLdKEZM7Hj5.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "480, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9338209",
-            "longitude": "77.6192728"
-         },
-         "name": "Teavaro - Global Brewhouse"
-      },
-      "name": "Sugar Room X Teavaro - Music, Bubble Tea & Conversations!",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 2,
-            "name": "RSPV",
-            "url": "https://www.skillboxes.com/events/ticket/sugar-room-x-teavaro-music-bubble-tea-conversations"
-         }
-      ],
-      "startDate": "2024-12-28T16:00:00",
-      "url": "https://www.skillboxes.com/events/sugar-room-x-teavaro-music-bubble-tea-conversations"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "Event",
       "description": "We:Neighborhood by Communiti in Bengaluru is a top-tier destination for craft beer enthusiasts and party lovers. Known for its vibrant ambiance and de",
       "endDate": "2025-01-01T00:15:00",
@@ -2965,72 +2864,6 @@
       ],
       "startDate": "2024-12-31T20:00:00",
       "url": "https://www.skillboxes.com/events/we-neighborhood-nye-2026"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Little Bhatia the powerhouse of Indian hip-hop and participant of MTV Hustle Season 1V, is here to take the stage by storm with Campaign Tour! Known f",
-      "endDate": "2024-12-28T23:59:00",
-      "identifier": "com.skillboxes.17825",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NFRYYks4VFJlWk9XT2RDL2NwenJnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734698583Wi6LUGcqgrwQvlcL.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9151523",
-            "longitude": "77.6660553"
-         },
-         "name": "White Lotus Club Bengaluru"
-      },
-      "name": "LITTLE BHATIA'S CAMPAIGN TOUR",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
-            "inventoryLevel": 87,
-            "name": "Phase 1 : Single",
-            "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
-            "inventoryLevel": 47,
-            "name": "COUPLE TICKETS",
-            "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
-            "inventoryLevel": 25,
-            "name": "Phase 1 : Group of 4",
-            "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "For Age(s) 18 + Cover Charge applies for Entries after 8:00PM\n",
-            "inventoryLevel": 9,
-            "name": "MEET & GREET",
-            "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Early Bird : Only Entry",
-            "url": "https://www.skillboxes.com/events/ticket/little-bhatia-s-campaign-tour"
-         }
-      ],
-      "startDate": "2024-12-28T20:30:00",
-      "url": "https://www.skillboxes.com/events/little-bhatia-s-campaign-tour"
    },
    {
       "@context": "https://schema.org",
@@ -3139,83 +2972,6 @@
       ],
       "startDate": "2024-12-31T18:00:00",
       "url": "https://www.skillboxes.com/events/nye-2025-dj-nights-live-band-spectacular"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Ending the year with excitement. We have the legendary @todhteri (live) performing at The Burrow for Mixmag LAB Bengaluru..\r\n\r\nFeaturing alo",
-      "endDate": "2024-12-28T23:59:00",
-      "identifier": "com.skillboxes.17783",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735033339By180m28PxTZm0mJ.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9849438",
-            "longitude": "77.5808105"
-         },
-         "name": "The Burrow"
-      },
-      "name": "MIXMAG LAB BLR  ft.  Todh Teri (Live)  & More",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges Apply After 9PM (Fully Redeemable)\n",
-            "inventoryLevel": 34,
-            "name": "Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/lab-bengaluru-with-todh-teri-live"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "Cover Charges Apply After 9PM (Fully Redeemable)\n",
-            "inventoryLevel": 0,
-            "name": "Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/lab-bengaluru-with-todh-teri-live"
-         }
-      ],
-      "startDate": "2024-12-28T20:00:00",
-      "url": "https://www.skillboxes.com/events/lab-bengaluru-with-todh-teri-live"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "✨ Bring Your 2025 Dreams to Life! ✨Join us for the Vision Board Workshop – A Creative Meetup 🎨✨🗓 When: 3 PM",
-      "endDate": "2024-12-28T17:00:00",
-      "identifier": "com.skillboxes.17773",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17349572568ri7XehxnWu721Lw.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Meet-ups"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9711356",
-            "longitude": "77.598164"
-         },
-         "name": "Starbucks"
-      },
-      "name": "Vision Board: A Creative Meetup",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 20,
-            "name": "Regular Entruy",
-            "url": "https://www.skillboxes.com/events/ticket/vision-board-a-creative-meetup"
-         }
-      ],
-      "startDate": "2024-12-28T15:00:00",
-      "url": "https://www.skillboxes.com/events/vision-board-a-creative-meetup"
    },
    {
       "@context": "https://schema.org",
@@ -3537,27 +3293,6 @@
       ],
       "startDate": "2024-12-29T08:00:00",
       "url": "https://www.skillboxes.com/events/uk-punjabi-night-nolimits-magrath-road"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "This Friday, get ready to groove to the best of Commercial and Hip-hop music at the hottest spot in B'town—Hard Rock Cafe! St. Ma",
-      "endDate": "2024-12-28T00:30:00",
-      "identifier": "com.skillboxes.17736",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735058501AE3WdeFJRjuiwxuc.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "40 St. Marks Road Bangalore, India",
-         "name": "Hard Rock Cafe Bengaluru"
-      },
-      "name": "Bootleg Fridays at Hardrock Cafe",
-      "offers": [ ],
-      "startDate": "2024-12-27T08:00:00",
-      "url": "https://www.skillboxes.com/events/bootleg-fridays-at-hardrock-cafe-8"
    },
    {
       "@context": "https://schema.org",
@@ -5189,95 +4924,6 @@
       ],
       "startDate": "2024-12-31T20:00:00",
       "url": "https://www.skillboxes.com/events/new-year-eve-2025-party-with-kj-nikhil-jose-ny2025"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Suit & Panda",
-      "endDate": "2024-12-28T23:59:00",
-      "identifier": "com.skillboxes.17331",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733563946Xl8R8BjQ6aNUpp80.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "A-1, D Rajgopala, nagar, Sanjay Nagar Main Rd, AECS Layout, KEB Layout, Sanjayanagara, Bengaluru, Karnataka 560094, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0314698",
-            "longitude": "77.5771977"
-         },
-         "name": "ZOZO THE CLUB"
-      },
-      "name": "Suit & Panda",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one lady to the event.\n",
-            "inventoryLevel": 100,
-            "name": "Ladies - Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/suit-panda"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one stag to the event.\n",
-            "inventoryLevel": 100,
-            "name": "Stags - Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/suit-panda"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one couple to the event.\n",
-            "inventoryLevel": 100,
-            "name": "Couples - Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/suit-panda"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits three ladies to the event.\n",
-            "inventoryLevel": 100,
-            "name": "Group of 3 - Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/suit-panda"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits three stags to the event.\n",
-            "inventoryLevel": 100,
-            "name": "Group of 3 - Stags",
-            "url": "https://www.skillboxes.com/events/ticket/suit-panda"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits three couples to the event.\n",
-            "inventoryLevel": 100,
-            "name": "Group of 3 - Couples",
-            "url": "https://www.skillboxes.com/events/ticket/suit-panda"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Early Bird Single",
-            "url": "https://www.skillboxes.com/events/ticket/suit-panda"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Early Bird Couple",
-            "url": "https://www.skillboxes.com/events/ticket/suit-panda"
-         }
-      ],
-      "startDate": "2024-12-28T19:00:00",
-      "url": "https://www.skillboxes.com/events/suit-panda"
    },
    {
       "@context": "https://schema.org",
