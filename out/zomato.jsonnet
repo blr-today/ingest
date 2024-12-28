@@ -22,23 +22,39 @@
         "currency": "INR",
         "validFrom": "2024-12-06 23:11:00",
         "availability": "SELLING_FAST",
-        "inventory": 371
+        "inventory": 260
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
         "price": 5000,
         "currency": "INR",
-        "validFrom": "2024-11-05 21:18:00",
+        "validFrom": "2024-12-27 10:31:37",
         "availability": "INSTOCK",
-        "inventory": 1304
+        "inventory": 580
+      },
+      {
+        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
+        "price": 5000,
+        "currency": "INR",
+        "validFrom": "2024-12-27 10:31:38",
+        "availability": "INSTOCK",
+        "inventory": 638
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
         "price": 15000,
         "currency": "INR",
-        "validFrom": "2024-12-22 22:52:50",
+        "validFrom": "2024-12-27 10:31:36",
         "availability": "INSTOCK",
-        "inventory": 63
+        "inventory": 32
+      },
+      {
+        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
+        "price": 15000,
+        "currency": "INR",
+        "validFrom": "2024-12-27 10:31:37",
+        "availability": "INSTOCK",
+        "inventory": 29
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -166,7 +182,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:03",
         "availability": "INSTOCK",
-        "inventory": 498
+        "inventory": 491
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",
@@ -198,7 +214,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:04",
         "availability": "INSTOCK",
-        "inventory": 24
+        "inventory": 23
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",
@@ -206,7 +222,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:05",
         "availability": "INSTOCK",
-        "inventory": 23
+        "inventory": 22
       }
     ],
     "performers": [
@@ -305,56 +321,7 @@
       "https://b.zmtcdn.com/data/zomaland/dbbd45dff8c857391c7fba13bbbccafb1735183452.png",
       "https://b.zmtcdn.com/data/zomaland/c85255d284d3a3ddfb798c61d51139f81735183510.png"
     ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
-        "price": 1411,
-        "currency": "INR",
-        "validFrom": "2024-12-26 14:42:00",
-        "availability": "INSTOCK",
-        "inventory": 198
-      },
-      {
-        "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
-        "price": 2829,
-        "currency": "INR",
-        "validFrom": "2024-12-26 14:42:00",
-        "availability": "INSTOCK",
-        "inventory": 90
-      },
-      {
-        "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
-        "price": 7497,
-        "currency": "INR",
-        "validFrom": "2024-12-26 14:42:00",
-        "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
-        "price": 10332,
-        "currency": "INR",
-        "validFrom": "2024-12-26 14:42:00",
-        "availability": "INSTOCK",
-        "inventory": 100
-      },
-      {
-        "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
-        "price": 1890,
-        "currency": "INR",
-        "validFrom": "2024-11-18 12:00:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
-      },
-      {
-        "url": "https://www.zomato.com/events/dgtl-goa-2024-goa-et53037/details",
-        "price": 2520,
-        "currency": "INR",
-        "validFrom": "2024-11-18 12:00:00",
-        "availability": "INSTOCK",
-        "inventory": 373
-      }
-    ],
+    "tickets": [],
     "performers": [],
     "organizer": [
       {

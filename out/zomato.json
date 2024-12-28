@@ -23,7 +23,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 371
+               "value": 260
             },
             "priceCurrency": "INR",
             "validFrom": "2024-12-06T23:11:00+05:30"
@@ -32,19 +32,37 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 1304
+               "value": 580
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-11-05T21:18:00+05:30"
+            "validFrom": "2024-12-27T10:31:00+05:30"
          },
          {
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 63
+               "value": 638
             },
             "priceCurrency": "INR",
-            "validFrom": "2024-12-22T22:52:00+05:30"
+            "validFrom": "2024-12-27T10:31:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 32
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-12-27T10:31:00+05:30"
+         },
+         {
+            "availability": "InStock",
+            "eligibleQuantity": {
+               "@type": "QuantitativeValue",
+               "value": 29
+            },
+            "priceCurrency": "INR",
+            "validFrom": "2024-12-27T10:31:00+05:30"
          },
          {
             "availability": "Sold Out",
@@ -172,7 +190,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 498
+               "value": 491
             },
             "priceCurrency": "INR",
             "validFrom": "2024-12-09T15:39:00+05:30"
@@ -208,7 +226,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 24
+               "value": 23
             },
             "priceCurrency": "INR",
             "validFrom": "2024-12-09T15:39:00+05:30"
@@ -217,7 +235,7 @@
             "availability": "InStock",
             "eligibleQuantity": {
                "@type": "QuantitativeValue",
-               "value": 23
+               "value": 22
             },
             "priceCurrency": "INR",
             "validFrom": "2024-12-09T15:39:00+05:30"
@@ -314,62 +332,7 @@
          "name": "Vamos by Echo, Goa"
       },
       "name": "DGTL Goa 2024",
-      "offers": [
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 198
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-12-26T14:42:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 90
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-12-26T14:42:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 100
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-12-26T14:42:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 100
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-12-26T14:42:00+05:30"
-         },
-         {
-            "availability": "Sold Out",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 0
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-18T12:00:00+05:30"
-         },
-         {
-            "availability": "InStock",
-            "eligibleQuantity": {
-               "@type": "QuantitativeValue",
-               "value": 373
-            },
-            "priceCurrency": "INR",
-            "validFrom": "2024-11-18T12:00:00+05:30"
-         }
-      ],
+      "offers": [ ],
       "organizer": [
          {
             "name": "Zomato Live",
