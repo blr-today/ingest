@@ -129,6 +129,75 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Cacha Mundinho, or “catch a small world”, breathes new life into practically forgotten musical routes. From songs that exude an Iberian am",
+      "endDate": "2025-01-12T20:00:00",
+      "identifier": "com.skillboxes.18099",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VDZqc1k2cjZnTGVzbE9PSFZJSmdQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735490461xpHUr9pGPWLE8wO6.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "441, 9th cross, Jayanagar 1st block Bangalore, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12",
+            "longitude": "77"
+         },
+         "name": "The Blue Room"
+      },
+      "name": "Cacha Mundinho: Catch a Small World",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Please arrive by 5:45 pm to secure your seat. Gates close at 6:15pm sharp. No parking available, please use public transport.\nVenue has mostly floor seating, with some chairs. As this is a house concert venue, we request that footwear be removed at the entrance. It tends to get cold, so do bring something warm. There is also one very friendly large dog at this venue.",
+            "inventoryLevel": 50,
+            "name": "Cacha Mundinho: Catch a Small World",
+            "url": "https://www.skillboxes.com/events/ticket/cacha-mundinho-catch-a-small-world"
+         }
+      ],
+      "startDate": "2025-01-12T18:00:00",
+      "url": "https://www.skillboxes.com/events/cacha-mundinho-catch-a-small-world"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Experience \"Starry Deck Nights\" - This Sunday at Skydeck by Sherlock's!Join us this Sunday night for an unforgettable Commercial DJ Night at S",
+      "endDate": "2025-01-05T23:59:00",
+      "identifier": "com.skillboxes.18095",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735477109wlEGdayZMXOaauFN.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750296",
+            "longitude": "77.6075339"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Starry Deck Nights | Party Under The Stars!",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/starry-deck-nights-party-under-the-stars-3"
+         }
+      ],
+      "startDate": "2025-01-05T20:00:00",
+      "url": "https://www.skillboxes.com/events/starry-deck-nights-party-under-the-stars-3"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Kickstart 2024 with the Ultimate \"New Year Bash\" Featuring STELLA at Skydeck by Sherlock's!This 1st January, 8:00 PM onwards, join us for an a",
       "endDate": "2025-01-01T23:59:00",
       "identifier": "com.skillboxes.18092",
@@ -1103,74 +1172,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Kalyan Sabareeshan is a Musician & a Magician who has been actively performing across Bangalore over the last 2 years. He has been composing music",
-      "endDate": "2024-12-29T21:00:00",
-      "identifier": "com.skillboxes.17943",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b21SL25rNGFkWHpybTE0Mk9DbWhFQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735012713XLsb78OlR741N6vp.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Performing & Visual Arts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "3rd Floor, 21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9324814",
-            "longitude": "77.6318261"
-         },
-         "name": "Dialogues Cafe Koramangala"
-      },
-      "name": "An Evening of Magic & Music with Kalyan Sabareeshan // Sunday Dec 29th",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 26,
-            "name": "General",
-            "url": "https://www.skillboxes.com/events/ticket/an-evening-of-magic-music-with-kalyan-sabareeshan-1"
-         }
-      ],
-      "startDate": "2024-12-29T19:30:00",
-      "url": "https://www.skillboxes.com/events/an-evening-of-magic-music-with-kalyan-sabareeshan-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Note: The pass includs a food coupon worth INR 150 which can be redeemed for Food & Beverages at the venue.Get ready for a magical musical experie",
-      "endDate": "2024-12-29T21:00:00",
-      "identifier": "com.skillboxes.17942",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c1BiTmVRSVVmWHVORi9TV0JqSjFuQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735010912Seq0yHjoYGpYHloU.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Lower Ground Floor, 43, 7th Main Rd, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560038, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9722318",
-            "longitude": "77.6370575"
-         },
-         "name": "Dhwani - Bar & Kitchen"
-      },
-      "name": "Bajabies Candle Light Jam - Food Coupon Included",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 49,
-            "name": "Pass with Food Coupon",
-            "url": "https://www.skillboxes.com/events/ticket/bajabies-candle-light-jam-food-coupon-included"
-         }
-      ],
-      "startDate": "2024-12-29T19:00:00",
-      "url": "https://www.skillboxes.com/events/bajabies-candle-light-jam-food-coupon-included"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "🔥 BANGALORE, GET READY! 🔥\r\n\r\nThe sensational SREENATH BHASI is back to light up NAMMA CITY! 🎤✨\r\n\r\n \r\n\r\n📍 IGNITE SUPERCLUB, HSR\r\n\r\n1",
       "endDate": "2025-01-11T20:30:00",
@@ -1214,49 +1215,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Get ready for the ultimate techno showcase in your city - PROTOCOL SUNDAY! Catch the Afterlife Sensation N1RVAAN live at Kitty Ko this Sunday.\r\n\r\n&nbs",
-      "endDate": "2024-12-29T23:59:00",
-      "identifier": "com.skillboxes.17938",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734980732laHpzutKdQ6RSfrp.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "New Year 2025"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Protocol ft. N1RVAAN / 29th Dec / Kitty Ko | NY2025",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 96,
-            "name": "Couple - Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-n1rvaan-29th-dec-kitty-ko-ny2025"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 100,
-            "name": "Female - Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-n1rvaan-29th-dec-kitty-ko-ny2025"
-         }
-      ],
-      "startDate": "2024-12-29T20:00:00",
-      "url": "https://www.skillboxes.com/events/protocol-ft-n1rvaan-29th-dec-kitty-ko-ny2025"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Get ready for the ultimate techno showcase in your city - PROTOCOL SUNDAY! Catch the Afterlife Sensation N1RVAAN live at Kitty Ko this Sunday.Date: Su",
       "endDate": "2024-12-30T01:00:00",
@@ -1297,32 +1255,6 @@
       ],
       "startDate": "2024-12-29T20:00:00",
       "url": "https://www.skillboxes.com/events/protocol-ft-n1rvaan-29th-dec-kitty-ko"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Experience an electrifying night of beats and rhythms as CentiGrade Club Nights presents BABA ROBIJN live at PANGEO this Saturday.Get ready to dance t",
-      "endDate": "2024-12-29T01:00:00",
-      "identifier": "com.skillboxes.17933",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734968194HTb0RyJqoRItstDi.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9726391",
-            "longitude": "77.6065987"
-         },
-         "name": "Pangeo"
-      },
-      "name": "CentiGrade Club Nights ft. Baba Robijn / 28th Dec / Pangeo",
-      "offers": [ ],
-      "startDate": "2024-12-28T20:00:00",
-      "url": "https://www.skillboxes.com/events/centigrade-club-nights-ft-baba-robijn-28th-dec-pangeo-1"
    },
    {
       "@context": "https://schema.org",
@@ -1406,49 +1338,6 @@
       ],
       "startDate": "2024-12-31T21:00:00",
       "url": "https://www.skillboxes.com/events/martin-d-souza-live-nye-at-icb"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "RECALLING THE WILD NYE EDITION WITH HENTAI CAMERA MAN LIVE \r\n\r\nGet ready to end the year on a high note with the most anticipated gig of the seas",
-      "endDate": "2024-12-29T12:30:00",
-      "identifier": "com.skillboxes.17924",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Y0pSVFJqRCtkNWRsaVQ1NUV6bjB5Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734956789RpcKxxaaotgnva62.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "DJ/Producer"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "New Airport Road, Hennur, Main Road, Mitganahalli, Bagalur, Bengaluru, Karnataka 562149, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.1134459",
-            "longitude": "77.6673536"
-         },
-         "name": "Wild Pour"
-      },
-      "name": "RECALLING THE WILD NYE EDITON",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 198,
-            "name": "Phase 1 Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/recalling-the-wild-nye-editon"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 250,
-            "name": "Early Bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/recalling-the-wild-nye-editon"
-         }
-      ],
-      "startDate": "2024-12-29T03:00:00",
-      "url": "https://www.skillboxes.com/events/recalling-the-wild-nye-editon"
    },
    {
       "@context": "https://schema.org",
@@ -1714,65 +1603,6 @@
       ],
       "startDate": "2024-12-31T20:00:00",
       "url": "https://www.skillboxes.com/events/nye-2025-the-big-countdown"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Join Us for a Sky-High Experience! Open-Air Festival ft. Steve LeviMark your calendars for December 28th—an unforgettable night awaits at our ex",
-      "endDate": "2024-12-29T00:59:00",
-      "identifier": "com.skillboxes.17911",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/R3YxblZSbnhqTC9KRWFDT0pZUndnUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734898267UfI7iXfIdNfljyjg.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0122829",
-            "longitude": "77.5561431"
-         },
-         "name": "High Ultra Lounge"
-      },
-      "name": "Ultra-High ft. Steve Levi - Open-Air Festival, 31st Floor Sky High Experience",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "> Allows entry for one female individual to the event area.  > Cover charges applicable post 9PM.  > Club rules applicable\n",
-            "inventoryLevel": 38,
-            "name": "Early Bird Pass - Female",
-            "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-steve-levi-open-air-festival-31st-floor-sky-high-experience"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "> Allows entry for one male individual to the event area.  > Cover charges applicable post 9PM.  > Club rules applicable\n",
-            "inventoryLevel": 40,
-            "name": "Early Bird Pass : Male",
-            "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-steve-levi-open-air-festival-31st-floor-sky-high-experience"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "> Allows entry for one female & male individuals to the event area.  > Cover charges applicable post 9PM.  > Club rules applicable\n",
-            "inventoryLevel": 26,
-            "name": "Early Bird Pass : Couple",
-            "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-steve-levi-open-air-festival-31st-floor-sky-high-experience"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "> Allows entry for one female individual to the event area.  > Cover charges applicable post 9PM.  > Club rules applicable\n",
-            "inventoryLevel": 200,
-            "name": "Phase 1 : Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-steve-levi-open-air-festival-31st-floor-sky-high-experience"
-         }
-      ],
-      "startDate": "2024-12-28T19:00:00",
-      "url": "https://www.skillboxes.com/events/ultra-high-ft-steve-levi-open-air-festival-31st-floor-sky-high-experience"
    },
    {
       "@context": "https://schema.org",
@@ -3297,32 +3127,6 @@
       ],
       "startDate": "2025-01-11T13:00:00",
       "url": "https://www.skillboxes.com/events/sirocco-a-food-music-festival-by-mcc"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "This Saturday Catch All Fun And Action On Biggest Dance Floor At Hangover Kormangala.Bollywood Blockbuster  with DJ Milan and Fema",
-      "endDate": "2024-12-29T00:30:00",
-      "identifier": "com.skillboxes.17738",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735134562X8NjVlSbqrtpQZ4W.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9348662",
-            "longitude": "77.6138885"
-         },
-         "name": "Plan B x Hangover XL Koramangala"
-      },
-      "name": "Saturday Hangover Blockbuster Night",
-      "offers": [ ],
-      "startDate": "2024-12-28T20:00:00",
-      "url": "https://www.skillboxes.com/events/saturday-hangover-blockbuster-night-2"
    },
    {
       "@context": "https://schema.org",
@@ -5811,65 +5615,6 @@
       ],
       "startDate": "2024-12-31T20:00:00",
       "url": "https://www.skillboxes.com/events/Panache-New-Year-s-Eve-2025"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Byg Brewski Brewing Company Hennur and The Mango Tree are joining forces to bring you a unique experience where creativity flows like our craft beer.I",
-      "endDate": "2024-12-29T12:00:00",
-      "identifier": "com.skillboxes.17171",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OUdyUWV5eEx0b1AwczRHekdpeGxDUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17324498998mfrsrKucjlwrZXJ.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Festival"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "SOUTHERN ASIA BIBLE COLLEGE, 22, Hennur Bagalur Main Rd, Visthar, Byrathi, Bengaluru, Karnataka 560077, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0708303",
-            "longitude": "77.6518661"
-         },
-         "name": "Byg Brewski Brewing Company"
-      },
-      "name": "ABC Collective",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticket includes one complimentary beer or mocktail. Please note that alcoholic beverages will only be served to individuals above the legal drinking age.\n",
-            "inventoryLevel": 496,
-            "name": "8th December || Redeemable Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/abc-collective"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticket includes one complimentary beer or mocktail. Please note that alcoholic beverages will only be served to individuals above the legal drinking age.\n",
-            "inventoryLevel": 500,
-            "name": "15th December || Redeemable Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/abc-collective"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticket includes one complimentary beer or mocktail. Please note that alcoholic beverages will only be served to individuals above the legal drinking age.\n",
-            "inventoryLevel": 500,
-            "name": "22nd December || Redeemable Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/abc-collective"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticket includes one complimentary beer or mocktail. Please note that alcoholic beverages will only be served to individuals above the legal drinking age.\n",
-            "inventoryLevel": 493,
-            "name": "29th December || Redeemable Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/abc-collective"
-         }
-      ],
-      "startDate": "2024-12-08T12:00:00",
-      "url": "https://www.skillboxes.com/events/abc-collective"
    },
    {
       "@context": "https://schema.org",
