@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in General Zone.\n◉ General access to bars, f&b counters.",
-            "inventoryLevel": 1124,
+            "inventoryLevel": 1123,
             "name": "Phase 1 | Single - GA",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -40,10 +40,18 @@
          },
          {
             "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "◉ Grants access to one individual in General Zone.\n◉ General access to bars, f&b counters.",
-            "inventoryLevel": 0,
-            "name": "Early Bird | Single - GA",
+            "availability": "InStock",
+            "description": "◉ Grants access to one couple (2 people) in General Zone. ◉ General access to bars, f&b counters.\n",
+            "inventoryLevel": 200,
+            "name": "Phase 1 | Couple - GA",
+            "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "◉ Grants access to one couple (2 people) in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
+            "inventoryLevel": 200,
+            "name": "Phase 1 | Couple - Fan Zone",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          }
       ],
@@ -331,7 +339,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Sky Lantern Festival - Season 3 Yes..We are back with the most awaited festival in the beach..!!Date : 15th Feb , 2025Pass Category :Pass A :Fest",
+      "description": "Sky Lantern Festival - Season 3Yes..We are back with the most awaited festival in the beach..!!Date : 15th Feb , 2025Pass Category : Pass A : Fes",
       "endDate": "2025-02-15T23:30:00",
       "identifier": "com.skillboxes.18089",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZXVSSkZ6OEQ2M2ZpbTVsR2VzaWFCZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735450662HSkT68f6MwaG7FXP.jpg.webp",
@@ -1186,7 +1194,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 280,
+            "inventoryLevel": 264,
             "name": "Granny’s Retro Ball",
             "url": "https://www.skillboxes.com/events/ticket/step-into-2025-with-a-retro-twist-granny-s-got-the-beats-the-bites-and-the-best-vibes-in-town"
          }
@@ -1229,7 +1237,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable upon arrival at gate which is Fully redeemable on F&B.\n",
-            "inventoryLevel": 996,
+            "inventoryLevel": 995,
             "name": "EARLY BIRD COUPLE",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
          },
@@ -1237,7 +1245,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable upon arrival at gate which is Fully redeemable on F&B.\n",
-            "inventoryLevel": 995,
+            "inventoryLevel": 993,
             "name": "EARLY BIRD STAG",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
          },
@@ -1334,24 +1342,7 @@
          "name": "Kitty Ko"
       },
       "name": "Protocol ft. N1RVAAN / 29th Dec / Kitty Ko",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 100,
-            "name": "Guestlist - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-n1rvaan-29th-dec-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 100,
-            "name": "Guestlist - Female",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-n1rvaan-29th-dec-kitty-ko"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-12-29T20:00:00",
       "url": "https://www.skillboxes.com/events/protocol-ft-n1rvaan-29th-dec-kitty-ko"
    },
@@ -1498,14 +1489,6 @@
             "availability": "InStock",
             "description": "Unlimited F&B\n",
             "inventoryLevel": 1000,
-            "name": "Early Bird VIP Male",
-            "url": "https://www.skillboxes.com/events/ticket/new-year-2025"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Unlimited F&B\n",
-            "inventoryLevel": 1000,
             "name": "Early Bird Gold Male",
             "url": "https://www.skillboxes.com/events/ticket/new-year-2025"
          },
@@ -1515,6 +1498,14 @@
             "description": "Unlimited F&B\n",
             "inventoryLevel": 1000,
             "name": "Early Bird VIP Female",
+            "url": "https://www.skillboxes.com/events/ticket/new-year-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Unlimited F&B\n",
+            "inventoryLevel": 1000,
+            "name": "Early Bird VIP Male",
             "url": "https://www.skillboxes.com/events/ticket/new-year-2025"
          },
          {
@@ -1930,7 +1921,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Walk in anytime.\n",
-            "inventoryLevel": 996,
+            "inventoryLevel": 994,
             "name": "Early Bird Ticket (Female)",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-new-year-bash"
          },
@@ -1938,7 +1929,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "a) Compulsory cover charge of INR 1000 before 9PM.   b) Compulsory cover charge of INR 2000 post 9PM.\n",
-            "inventoryLevel": 999,
+            "inventoryLevel": 997,
             "name": "Early Bird Ticket (Couple)",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-new-year-bash"
          },
@@ -2830,7 +2821,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Cover Charge Applicable At The Gates. Redeemable On F&B\n",
-            "inventoryLevel": 49,
+            "inventoryLevel": 46,
             "name": "Early Bird Female",
             "url": "https://www.skillboxes.com/events/ticket/biergarten-nye-night-at-the-garten"
          },
@@ -2838,7 +2829,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Cover Charge Applicable At The Gates. Redeemable On F&B\n",
-            "inventoryLevel": 46,
+            "inventoryLevel": 44,
             "name": "Early Bird Couple",
             "url": "https://www.skillboxes.com/events/ticket/biergarten-nye-night-at-the-garten"
          },
@@ -3109,7 +3100,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants entry for three couples to the event and includes a reserved table for six. Food and beverages are available à la carte.\n",
-            "inventoryLevel": 4,
+            "inventoryLevel": 3,
             "name": "Earlybird - Three Couples",
             "url": "https://www.skillboxes.com/events/ticket/adults-only-a-roaring-twenties-soiree"
          }
@@ -3244,32 +3235,7 @@
          "name": "Nolimmits Lounge & Club"
       },
       "name": "Farewell 2024 @ Nolimits Magrath Road",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "cover charges applicable through out the event\n",
-            "inventoryLevel": 99,
-            "name": "stag",
-            "url": "https://www.skillboxes.com/events/ticket/uk-punjabi-night-nolimits-magrath-road"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow one single entry.\n",
-            "inventoryLevel": 1000,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/uk-punjabi-night-nolimits-magrath-road"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free ebrry till 0930pm post cover charge applicable\n",
-            "inventoryLevel": 100,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/uk-punjabi-night-nolimits-magrath-road"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2024-12-29T08:00:00",
       "url": "https://www.skillboxes.com/events/uk-punjabi-night-nolimits-magrath-road"
    },
@@ -3637,7 +3603,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Admit one female till 9PM\nAdditional cover charges apply post 9PM",
-            "inventoryLevel": 27,
+            "inventoryLevel": 23,
             "name": "Phase 1 - Female",
             "url": "https://www.skillboxes.com/events/ticket/caged-new-years-eve-2025-at-the-park-ballroom-on-31-dec-the-park-hotel-bangalore"
          },
@@ -3663,6 +3629,14 @@
             "description": "Admit 3 pax till 9PM\nAdditional cover charges apply post 9PM",
             "inventoryLevel": 27,
             "name": "Phase 1 - Group of 3",
+            "url": "https://www.skillboxes.com/events/ticket/caged-new-years-eve-2025-at-the-park-ballroom-on-31-dec-the-park-hotel-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Admit 5 pax till 9PM\nAdditional cover charges apply post 9PM",
+            "inventoryLevel": 9,
+            "name": "Phase 1 - Group of 5",
             "url": "https://www.skillboxes.com/events/ticket/caged-new-years-eve-2025-at-the-park-ballroom-on-31-dec-the-park-hotel-bangalore"
          },
          {
@@ -4762,7 +4736,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 194,
+            "inventoryLevel": 189,
             "name": "Not Your Amma's Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-dank-show-not-your-amma-s-music"
          }
@@ -4979,7 +4953,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants entry for eight individuals to the event and includes a reserved table for eight. Food and beverages are available à la carte.\n",
-            "inventoryLevel": 5,
+            "inventoryLevel": 4,
             "name": "Entry Ticket - Phase 1 - Table for 8",
             "url": "https://www.skillboxes.com/events/ticket/new-year-party-byg-bang-2025-2"
          },
@@ -5038,7 +5012,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants entry for one couple to the event. Food and beverages are available à la carte.\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Couple Entry Ticket - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/new-year-party-byg-bang-2025-1"
          },
@@ -5105,7 +5079,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket provides entry to the event for one child aged 6 to 12 years. Food and beverages are available à la carte.\n",
-            "inventoryLevel": 49,
+            "inventoryLevel": 47,
             "name": "Entry Ticket - EarlyBird - Kids ( 6 to 12 Years )",
             "url": "https://www.skillboxes.com/events/ticket/new-year-party-byg-bang-2025"
          },
@@ -5113,7 +5087,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants entry for one couple to the event. Food and beverages are available à la carte.\n",
-            "inventoryLevel": 7,
+            "inventoryLevel": 4,
             "name": "Couple Entry Ticket - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/new-year-party-byg-bang-2025"
          },
@@ -5129,7 +5103,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants entry for six individuals to the event and includes a reserved table for six. Food and beverages are available à la carte.\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Entry Ticket - Phase 1 - Table for 6",
             "url": "https://www.skillboxes.com/events/ticket/new-year-party-byg-bang-2025"
          },
@@ -5145,7 +5119,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants entry for ten individuals to the event and includes a reserved table for ten. Food and beverages are available à la carte.\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Entry Ticket - Phase 1 - Table for 10",
             "url": "https://www.skillboxes.com/events/ticket/new-year-party-byg-bang-2025"
          },
@@ -5189,15 +5163,7 @@
             "availability": "InStock",
             "description": "Each pass permits one single lady to event + unlimited food and IMFL beverages all throughout the event\n",
             "inventoryLevel": 100,
-            "name": "PHASE 2 GOLD FEMALE",
-            "url": "https://www.skillboxes.com/events/ticket/hydra-new-year-bash"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one stag to the event + unlimited Food and IMFL beverages all throughout the event\n",
-            "inventoryLevel": 100,
-            "name": "PHASE 2 GOLD MALE",
+            "name": "PHASE 3 GOLD FEMALE",
             "url": "https://www.skillboxes.com/events/ticket/hydra-new-year-bash"
          },
          {
@@ -5205,7 +5171,15 @@
             "availability": "InStock",
             "description": "Each pass permits one single lady to the event + unlimited food & premium liquor and beverages all throughout the event\n",
             "inventoryLevel": 50,
-            "name": "PHASE 2 PLATINUM FEMALE",
+            "name": "PHASE 3 PLATINUM FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/hydra-new-year-bash"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one stag to the event + unlimited Food and IMFL beverages all throughout the event\n",
+            "inventoryLevel": 100,
+            "name": "PHASE 3 GOLD MALE",
             "url": "https://www.skillboxes.com/events/ticket/hydra-new-year-bash"
          },
          {
@@ -5213,15 +5187,7 @@
             "availability": "InStock",
             "description": "Each pass permits one couple to event + unlimited food & IMFL beverages all throughout the event\n",
             "inventoryLevel": 98,
-            "name": "PHASE 2 GOLD COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/hydra-new-year-bash"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one stag to the event + unlimited food and premium liquor and beverages all throughout the event\n",
-            "inventoryLevel": 50,
-            "name": "PHASE 2 PLATINUM MALE",
+            "name": "PHASE 3 GOLD COUPLE",
             "url": "https://www.skillboxes.com/events/ticket/hydra-new-year-bash"
          },
          {
@@ -5229,7 +5195,7 @@
             "availability": "InStock",
             "description": "Each pass permits one couple to the event + unlimited food & premium liquor and beverages all throughout the event\n",
             "inventoryLevel": 50,
-            "name": "PHASE 2 PLATINUM COUPLE",
+            "name": "PHASE 3 PLATINUM COUPLE",
             "url": "https://www.skillboxes.com/events/ticket/hydra-new-year-bash"
          },
          {
@@ -5302,6 +5268,14 @@
             "description": "THIS TICKET PROVIDES 1 COUPLES ACESS TO THE EVENT. THIS TICKET IS INCLUSIVE OF UNLIMITED FOOD AND IMFL BEVERAGES ALL NIGHT LONG\n",
             "inventoryLevel": 46,
             "name": "PHASE 1 GOLD COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/hydra-new-year-bash"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one stag to the event + unlimited food and premium liquor and beverages all throughout the event\n",
+            "inventoryLevel": 50,
+            "name": "PHASE 2 PLATINUM MALE",
             "url": "https://www.skillboxes.com/events/ticket/hydra-new-year-bash"
          },
          {
