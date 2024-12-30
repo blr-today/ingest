@@ -1095,5 +1095,106 @@
       "COURTYARD",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Yin Yoga + Sound Bath",
+    "description": "Come join us this Full Moon, for a yin yoga + sound bath experience.Deepika an experienced sound bath practitioner aims in blending creative expression and sound healing to manifest desires. Followed by a guided meditation and enhanced by the soothing tones of singing bowls. This deep relaxation and focus help you feel your dreams coming to life, fostering a powerful sense of connection to your goals. This session will also have a yin yoga practice, led by Julia, integrated into the sound healing session.What to bring:Yoga matSmall pillowBlindfold/ eye mask/ scarfWater bottle",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F79F7E9CD7E64EDDADF7911C2A964051_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/48615A409C1648458D381C21A5C0D5A3_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FDBCDFBB7FF240D9B70F7BF8A5C7A0FE_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CB1495B2BD774468AE71038D62646E95_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EA6A273A5A0F449D8A5158544481A94D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FE8A33053A3A4152ACB5DD6D7A759820_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/45B3E8ECEEED45029FFDD4EE6E71E4ED_converted_webp.webp"
+    ],
+    "startDate": "2025-01-11T18:30:00+05:30",
+    "endDate": "2025-01-11T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 7,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1900.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/yin-yoga-sound-bath-5880",
+    "keywords": [
+      "Food & drink",
+      "Premium",
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "End-of-Year Reflection",
+    "description": "Reflecting on the year gone by!As we close out another year, this table invites you to pause and reflect on the moments that defined 2024.It's a space for sharing stories, celebrating achievements, acknowledging challenges and looking ahead for the new year.Let\u2019s close the chapter of this year with gratitude and open the door to the possibilities of the new one.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0C090FE1C1E54D7D89790A0BC342A1E8_converted_webp.webp"
+    ],
+    "startDate": "2024-12-30T20:00:00+05:30",
+    "endDate": "2024-12-30T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No 84, Sarrakki IV Phase, Dollars Colony, J P Nagar Phase 5, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBVzCIYsVrjsR1DoRk08_Iig",
+      "latitude": "12.90356530000000000000",
+      "longitude": "77.59482410000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 4,
+    "remainingAttendeeCapacity": 4,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "Meet a small group of strangers offline, with no agendas\u2014just good conversations and genuine connections. Whether it\u2019s a random thought or a deep dive, you never know where it might lead. Sometimes, the best connections happen when you least expect them.",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/end-of-year-reflection",
+    "keywords": [
+      "Active",
+      "Adventure",
+      "URBANAUT"
+    ]
   }
 ]

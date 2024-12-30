@@ -137,6 +137,76 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "🔥 BENGALURU, READY TO ROCK? 🔥AVIAL IS COMING TO NAMMA OORU!📍 IGNITE WL SUPER CLUB, HSR Layout (formerly @wlclub_blr)Saturday, ",
+      "endDate": "2025-02-01T20:30:00",
+      "identifier": "com.skillboxes.18105",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dWxDOW5yT3RISVhGV1ZDaGZCMGczUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17355555752Abs5eqUljMfAR52.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9150698",
+            "longitude": "77.6664367"
+         },
+         "name": "IGNITE SUPER CLUB"
+      },
+      "name": "AVIAL LIVE in Concert at IGNITE Super Club, HSR Layout, Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry Only. Redeemable cover charge (MUST) applicable at the venue from 8:30PM starts at ₹500 & increases gradually. Please read TICKET TERMS in description.\nEntry Only. Redeemable cover charge (MUST) applicable at the venue from 8:30PM starts at ₹500 & increases gradually. Please read TICKET TERMS in description.",
+            "inventoryLevel": 40,
+            "name": "Standing - Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/avial-live-in-concert-at-ignite-super-club-hsr-layout-bangalore"
+         }
+      ],
+      "startDate": "2025-02-01T20:00:00",
+      "url": "https://www.skillboxes.com/events/avial-live-in-concert-at-ignite-super-club-hsr-layout-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "New Year Regional Mix Bag Night",
+      "endDate": "2025-01-01T23:59:00",
+      "identifier": "com.skillboxes.18104",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735562366DVfQG3kf1zeaSCiX.png.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "New Year 2025"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "253, 17th Cross Rd, 6th Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9125811",
+            "longitude": "77.6329743"
+         },
+         "name": "CatchUp- Club, Brew House and Rooftop HSR Layout Bangalore"
+      },
+      "name": "New Year Regional Mix Bag Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Post 9:30 Pm - Mandatory Redeemable Cover Charge Applicable At Gates.\n",
+            "inventoryLevel": 10000,
+            "name": "Guestlist Pass",
+            "url": "https://www.skillboxes.com/events/ticket/new-year-regional-mix-bag-night"
+         }
+      ],
+      "startDate": "2025-01-01T20:00:00",
+      "url": "https://www.skillboxes.com/events/new-year-regional-mix-bag-night"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Celebrate NYE 2025 at Just BLR: The Ultimate Tri-Zone ExperienceWelcome the New Year in style at Just BLR, your go-to destination for a night of unpar",
       "endDate": "2025-01-01T00:30:00",
       "identifier": "com.skillboxes.18101",
@@ -328,7 +398,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 200,
+            "inventoryLevel": 197,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/new-year-bash"
          }
