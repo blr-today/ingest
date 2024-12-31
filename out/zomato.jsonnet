@@ -1,7 +1,7 @@
 [
   {
     "name": "Arijit Singh Live",
-    "description": "Ahmedabad, get ready to sway to the music of love this winter. We bring to you Arijit Singh Live to the heritage city. This is an event that you must not miss, as you won\u2019t be just attending a music concert, but taking back memories of a magical music experience to cherish for years. He is back, with a bang to make romance bloom once again with his soulful voice and mellifluous tunes. \n\nCome, let\u2019s witness the magic of musical love.",
+    "description": "Ahmedabad, get ready to sway to the music of love this winter. We bring Arijit Singh Live to the heritage city. This is an event that you must not miss, as you won\u2019t just be attending a music concert but taking back memories of a magical music experience to cherish for years. He is back, with a bang, to make romance bloom once again with his soulful voice and mellifluous tunes. \n\nCome, let\u2019s witness the magic of musical love.\n\nVIP Box Tickets are available Offline: Contact on 8530853853 / 9574995749",
     "startDate": "2025-01-12T19:00:00+05:30",
     "endDate": "2025-01-12T22:00:00+05:30",
     "timezone": "+05:30",
@@ -13,24 +13,16 @@
     "images": [
       "https://b.zmtcdn.com/data/zomaland/4036a5e4291ebcb10adcec8662b2ee711729843193.png",
       "https://b.zmtcdn.com/data/zomaland/4036a5e4291ebcb10adcec8662b2ee711729843253.png",
-      "https://b.zmtcdn.com/data/zomaland/030b8f11ef7f582baa72db1af17014e91733570434.jpeg"
+      "https://b.zmtcdn.com/data/zomaland/4a9655a80ffb87d60d0229813ac6e8e31735563901.jpeg"
     ],
     "tickets": [
-      {
-        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
-        "price": 2000,
-        "currency": "INR",
-        "validFrom": "2024-12-06 23:11:00",
-        "availability": "SELLING_FAST",
-        "inventory": 41
-      },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
         "price": 5000,
         "currency": "INR",
         "validFrom": "2024-12-27 10:31:37",
         "availability": "INSTOCK",
-        "inventory": 531
+        "inventory": 505
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -38,7 +30,7 @@
         "currency": "INR",
         "validFrom": "2024-12-27 10:31:38",
         "availability": "INSTOCK",
-        "inventory": 635
+        "inventory": 629
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -46,7 +38,7 @@
         "currency": "INR",
         "validFrom": "2024-12-27 10:31:36",
         "availability": "INSTOCK",
-        "inventory": 30
+        "inventory": 21
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -54,7 +46,7 @@
         "currency": "INR",
         "validFrom": "2024-12-27 10:31:37",
         "availability": "INSTOCK",
-        "inventory": 26
+        "inventory": 19
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -70,7 +62,7 @@
         "currency": "INR",
         "validFrom": "2024-10-18 17:46:00",
         "availability": "INSTOCK",
-        "inventory": 5
+        "inventory": 9
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -78,7 +70,7 @@
         "currency": "INR",
         "validFrom": "2024-10-18 17:46:00",
         "availability": "INSTOCK",
-        "inventory": 1993
+        "inventory": 2001
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -86,7 +78,15 @@
         "currency": "INR",
         "validFrom": "2024-10-18 18:45:00",
         "availability": "INSTOCK",
-        "inventory": 14
+        "inventory": 18
+      },
+      {
+        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
+        "price": 2000,
+        "currency": "INR",
+        "validFrom": "2024-12-06 23:11:00",
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -102,7 +102,7 @@
         "currency": "INR",
         "validFrom": "2024-10-18 18:40:00",
         "availability": "INSTOCK",
-        "inventory": 9
+        "inventory": 11
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -158,7 +158,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:03",
         "availability": "INSTOCK",
-        "inventory": 491
+        "inventory": 485
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",
@@ -166,7 +166,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:04",
         "availability": "INSTOCK",
-        "inventory": 491
+        "inventory": 488
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",
@@ -197,8 +197,8 @@
         "price": 4498,
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:05",
-        "availability": "INSTOCK",
-        "inventory": 2
+        "availability": "SELLING_FAST",
+        "inventory": 1
       }
     ],
     "performers": [
