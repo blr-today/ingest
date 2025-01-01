@@ -22,7 +22,7 @@
         "currency": "INR",
         "validFrom": "2024-12-27 10:31:37",
         "availability": "INSTOCK",
-        "inventory": 505
+        "inventory": 434
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -30,7 +30,7 @@
         "currency": "INR",
         "validFrom": "2024-12-27 10:31:38",
         "availability": "INSTOCK",
-        "inventory": 629
+        "inventory": 625
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -38,7 +38,7 @@
         "currency": "INR",
         "validFrom": "2024-12-27 10:31:36",
         "availability": "INSTOCK",
-        "inventory": 21
+        "inventory": 20
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -53,8 +53,8 @@
         "price": 1000,
         "currency": "INR",
         "validFrom": "2024-10-18 17:46:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
+        "availability": "INSTOCK",
+        "inventory": 5
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -62,15 +62,7 @@
         "currency": "INR",
         "validFrom": "2024-10-18 17:46:00",
         "availability": "INSTOCK",
-        "inventory": 9
-      },
-      {
-        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
-        "price": 2000,
-        "currency": "INR",
-        "validFrom": "2024-10-18 17:46:00",
-        "availability": "INSTOCK",
-        "inventory": 2001
+        "inventory": 21
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -78,7 +70,7 @@
         "currency": "INR",
         "validFrom": "2024-10-18 18:45:00",
         "availability": "INSTOCK",
-        "inventory": 18
+        "inventory": 28
       },
       {
         "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
@@ -102,15 +94,7 @@
         "currency": "INR",
         "validFrom": "2024-10-18 18:40:00",
         "availability": "INSTOCK",
-        "inventory": 11
-      },
-      {
-        "url": "https://www.zomato.com/events/arijit-singh-live-ahmedabad-et51346/details",
-        "price": 10000,
-        "currency": "INR",
-        "validFrom": "2024-10-25 13:24:00",
-        "availability": "SOLDOUT",
-        "inventory": 0
+        "inventory": 26
       }
     ],
     "performers": [],
@@ -158,7 +142,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:03",
         "availability": "INSTOCK",
-        "inventory": 485
+        "inventory": 484
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",
@@ -166,7 +150,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:04",
         "availability": "INSTOCK",
-        "inventory": 488
+        "inventory": 483
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",
