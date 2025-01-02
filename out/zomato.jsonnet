@@ -32,7 +32,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:04",
         "availability": "INSTOCK",
-        "inventory": 483
+        "inventory": 481
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",

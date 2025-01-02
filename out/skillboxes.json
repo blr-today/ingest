@@ -102,7 +102,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in General Zone.\n◉ General access to bars, f&b counters.",
-            "inventoryLevel": 1117,
+            "inventoryLevel": 1110,
             "name": "Phase 1 | Single - GA",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -110,7 +110,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
-            "inventoryLevel": 505,
+            "inventoryLevel": 504,
             "name": "Phase 1 | Single - Fan Zone",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -118,7 +118,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one couple (2 people) in General Zone. ◉ General access to bars, f&b counters.\n",
-            "inventoryLevel": 199,
+            "inventoryLevel": 196,
             "name": "Phase 1 | Couple - GA",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -612,23 +612,23 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "SoMAD LAB Presents HAMDI (Bengaluru)Sun, 05-Jan-2025 | 5 PM Onwards ",
+      "description": "Kick off 2025 with a BANG as we're excited to bring back the sensational Bass music producer HAMDI 🇬🇧 (@hamdimusic) to India! Club tour, tig",
       "endDate": "2025-01-05T23:59:00",
       "identifier": "com.skillboxes.17944",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735025181qRr7A6dKZ3LfmW61.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735841186sw42kAtQPicphXF0.png.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"
       ],
       "location": {
          "@type": "Place",
-         "address": "Bengaluru, Karnataka, India",
+         "address": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047, India",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "12.9715987",
-            "longitude": "77.5945627"
+            "latitude": "12.9451657",
+            "longitude": "77.6201352"
          },
-         "name": "To Be Announced"
+         "name": "Sunburn Union"
       },
       "name": "SoMAD LAB Presents HAMDI (Bengaluru)",
       "offers": [
@@ -644,7 +644,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable upon arrival at gate which is Fully redeemable on F&B.\n",
-            "inventoryLevel": 994,
+            "inventoryLevel": 992,
             "name": "EARLY BIRD COUPLE",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
          },
@@ -652,7 +652,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable upon arrival at gate which is Fully redeemable on F&B.\n",
-            "inventoryLevel": 990,
+            "inventoryLevel": 981,
             "name": "EARLY BIRD STAG",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
          },
@@ -668,7 +668,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event for one Single Male stag all night long. Walk-in Like a VIP!\n",
-            "inventoryLevel": 998,
+            "inventoryLevel": 994,
             "name": "EARLY BIRD VIP STAG (ANYTIME ENTRY)",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
          },
@@ -845,7 +845,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Unleash your inner wild and grab the first swing at THUMP!\nLimited Early Bird Access to single person",
-            "inventoryLevel": 24,
+            "inventoryLevel": 23,
             "name": "PrimeApe",
             "url": "https://www.skillboxes.com/events/ticket/thump-1"
          },
@@ -1147,7 +1147,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 185,
+            "inventoryLevel": 180,
             "name": "Not Your Amma's Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-dank-show-not-your-amma-s-music"
          }
@@ -1218,7 +1218,29 @@
          "name": "QUBE CAFE"
       },
       "name": "The Bean grill open mic",
-      "offers": [ ],
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Audience Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-14"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 93,
+            "name": "Performer Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-14"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Combo Ticket - Audience + Performer",
+            "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-14"
+         }
+      ],
       "startDate": "2025-01-05T15:00:00",
       "url": "https://www.skillboxes.com/events/the-bean-grill-open-mic-14"
    },
