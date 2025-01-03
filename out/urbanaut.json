@@ -31,8 +31,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 15,
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -365,7 +365,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 4,
-    "remainingAttendeeCapacity": 4,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -404,62 +404,8 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F6B45F2CA412405887207AAC3B53F876_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/924E6E5D370A4470849A22D57CE9BCC4_converted_webp.webp"
     ],
-    "startDate": "2025-01-04T11:00:00+05:30",
-    "endDate": "2025-01-04T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Copper + Cloves",
-      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
-      "latitude": "12.96391480000000000000",
-      "longitude": "77.63842380000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1999.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Copper + Cloves",
-      "description": "We are all about nourishing food and creating spaces for connection!",
-      "url": "https://urbanaut.app/partner/copperandcloves",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97319-30303"
-      }
-    },
-    "url": "https://urbanaut.app/spot/UrbanKalaripayattuTheSTUDIO#2025-01-04T1100",
-    "keywords": [
-      "Active",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "A Window into Kalaripayatt with Robin Philip",
-    "description": "Step Into the World of Kalaripayatt with Urban KalariExperience the ancient wisdom of Kalaripayattu through a modern lens in this beginner-friendly workshop, A Window into Kalaripayatt. Guided by Robin Philip\u2014an expert with over a decade of training under esteemed Gurukkals\u2014this program breaks down the essence of this martial art into a relatable, accessible format.Workshop Highlights:Foundational Movements: Master basic stances, leg raises, jumps, and sequences.Precision and Form: Avoid common errors and engage correctly for maximum impact.Flow and Connection: Practice two full-body flows for a seamless integration of movement.Kalari Philosophy: Discover the principles of Kalaripayattu and Kalari Chikilsa to understand how to foster a deeper mind-body connection.Who Should Join?This workshop is perfect for anyone curious about Kalari, seeking a holistic workout or exploring animal-inspired movement. Whether you\u2019re reconnecting with movement or starting fresh, this is your gateway to the profound art of Kalaripayattu.Rediscover the balance of strength, agility, mobility, and mindfulness. Join us and take the first step into this transformative journey at our lovely Studio, we'll also be serving up some delicious healthy snacks.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/769ED251784747F3AE5D161725493474_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EF2DD84736194018982DF195EE56DE5E_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D873955FB8794F24901FDD84191BB169_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/484BBC1EB6A84098822C10759F9F0340_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/08A744C3BEA14B82A15ADE5CEFD40260_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F6B45F2CA412405887207AAC3B53F876_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/924E6E5D370A4470849A22D57CE9BCC4_converted_webp.webp"
-    ],
     "startDate": "2025-01-05T11:00:00+05:30",
-    "endDate": "2025-01-05T13:30:00+05:30",
+    "endDate": "2025-01-05T14:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": "Copper + Cloves",
@@ -471,7 +417,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -490,7 +436,7 @@
         "telephone": "+91-97319-30303"
       }
     },
-    "url": "https://urbanaut.app/spot/UrbanKalaripayattuTheSTUDIO#2025-01-05T1100",
+    "url": "https://urbanaut.app/spot/UrbanKalaripayattuTheSTUDIO",
     "keywords": [
       "Active",
       "Wellness",
@@ -568,7 +514,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 1,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -769,7 +715,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 7,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -869,7 +815,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 19,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -979,7 +925,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1032,7 +978,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 24,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
