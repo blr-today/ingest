@@ -59,7 +59,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 584,
+            "inventoryLevel": 583,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/livebox-feat-the-aristocrats-bangalore"
          },
@@ -102,7 +102,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in General Zone.\n◉ General access to bars, f&b counters.",
-            "inventoryLevel": 1110,
+            "inventoryLevel": 1107,
             "name": "Phase 1 | Single - GA",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -110,7 +110,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
-            "inventoryLevel": 504,
+            "inventoryLevel": 500,
             "name": "Phase 1 | Single - Fan Zone",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -126,7 +126,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one couple (2 people) in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
-            "inventoryLevel": 195,
+            "inventoryLevel": 194,
             "name": "Phase 1 | Couple - Fan Zone",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          }
@@ -137,10 +137,44 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Redroom_BLRFridays FeaturingELEKTRAAARTBLOTKISHFriday 3rd January 2025 | 7PM onwards,At Kitty Ko ( Lalit Ashok Bangalore )Music : Progressive Hou",
-      "endDate": "2025-01-03T23:59:00",
-      "identifier": "com.skillboxes.18155",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735909378ChUcOTivLicJiOYw.jpg.webp",
+      "description": "Rainbow BridgeIn proud collaboration with Music Strip ReconnectLaunched in December 2024, Rainbow Bridge revives and reimagines the spi",
+      "endDate": "2025-01-25T20:00:00",
+      "identifier": "com.skillboxes.18166",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MVRyeFJJWVk3RXdKbnVMR2JRSlcrUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735924578byK9r0sDM5WGghEB.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "140, Gangadhar Chetty Rd",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.978487",
+            "longitude": "77.6186879"
+         },
+         "name": "Rainbow Bridge"
+      },
+      "name": "Rainbow Bridge Artist Showcase",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "Rainbow Bridge Artist session",
+            "url": "https://www.skillboxes.com/events/ticket/rainbow-bridge-artist-showcase-3"
+         }
+      ],
+      "startDate": "2025-01-25T18:30:00",
+      "url": "https://www.skillboxes.com/events/rainbow-bridge-artist-showcase-3"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The most trending pop up in town is back this January with a banger - CrossOver Edition with the Watergate sensation MIA MENDI at Kitty Ko.Date: Sunda",
+      "endDate": "2025-01-12T20:00:00",
+      "identifier": "com.skillboxes.18163",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735916852F7bP3R3b2jd8POhz.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
@@ -155,67 +189,35 @@
          },
          "name": "Kitty Ko"
       },
-      "name": "Redroom Ft. Elektraa at Kitty Ko Bangalore",
+      "name": "CrossOver ft. Mia Mendi / 12th Jan / Kitty Ko",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 9.30PM. Cover charges applicable at the venue post 10PM.\n",
             "inventoryLevel": 100,
-            "name": "Phase 1 Female",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elektraa-at-kitty-ko-bangalore-2"
+            "name": "Guestlist - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-mia-mendi-12th-jan-kitty-ko"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
             "inventoryLevel": 100,
-            "name": "Phase 1 Couple",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elektraa-at-kitty-ko-bangalore-2"
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-mia-mendi-12th-jan-kitty-ko"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Entitles entry for 1 Male stag to the event. Cover charges applicable at the venue post 10PM.\n",
             "inventoryLevel": 100,
-            "name": "Phase 1 Male",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elektraa-at-kitty-ko-bangalore-2"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Group of 3 Female",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elektraa-at-kitty-ko-bangalore-2"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Group of 2 Couple",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elektraa-at-kitty-ko-bangalore-2"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Group of 3 Couple",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elektraa-at-kitty-ko-bangalore-2"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Group of 3 Male",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elektraa-at-kitty-ko-bangalore-2"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Group of 5 Male",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elektraa-at-kitty-ko-bangalore-2"
+            "name": "Male Pass",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-mia-mendi-12th-jan-kitty-ko"
          }
       ],
-      "startDate": "2025-01-03T20:00:00",
-      "url": "https://www.skillboxes.com/events/redroom-ft-elektraa-at-kitty-ko-bangalore-2"
+      "startDate": "2025-01-12T20:00:00",
+      "url": "https://www.skillboxes.com/events/crossover-ft-mia-mendi-12th-jan-kitty-ko"
    },
    {
       "@context": "https://schema.org",
@@ -762,7 +764,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable upon arrival at gate which is Fully redeemable on F&B.\n",
-            "inventoryLevel": 999,
+            "inventoryLevel": 996,
             "name": "EARLY BIRD SINGLE LADY",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
          },
@@ -770,7 +772,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable upon arrival at gate which is Fully redeemable on F&B.\n",
-            "inventoryLevel": 992,
+            "inventoryLevel": 989,
             "name": "EARLY BIRD COUPLE",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
          },
@@ -778,7 +780,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable upon arrival at gate which is Fully redeemable on F&B.\n",
-            "inventoryLevel": 981,
+            "inventoryLevel": 960,
             "name": "EARLY BIRD STAG",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
          },
@@ -786,7 +788,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event for one single lady all night long.  Walk-in Like a VIP!\n",
-            "inventoryLevel": 999,
+            "inventoryLevel": 997,
             "name": "EARLY BIRD VIP SINGLE LADY (ANYTIME ENTRY)",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
          },
@@ -794,7 +796,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event for one Single Male stag all night long. Walk-in Like a VIP!\n",
-            "inventoryLevel": 994,
+            "inventoryLevel": 993,
             "name": "EARLY BIRD VIP STAG (ANYTIME ENTRY)",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
          },
@@ -802,7 +804,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event for one Couple all night long. Walk-in Like a VIP!\n",
-            "inventoryLevel": 998,
+            "inventoryLevel": 992,
             "name": "EARLY BIRD VIP COUPLE (ANYTIME ENTRY)",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
          }
@@ -1273,7 +1275,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 180,
+            "inventoryLevel": 165,
             "name": "Not Your Amma's Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-dank-show-not-your-amma-s-music"
          }
@@ -1355,7 +1357,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 93,
+            "inventoryLevel": 90,
             "name": "Performer Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-14"
          },
