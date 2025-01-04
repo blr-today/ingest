@@ -21,7 +21,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 35,
+            "inventoryLevel": 26,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
          },
@@ -31,6 +31,14 @@
             "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
             "inventoryLevel": 0,
             "name": "Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
+            "inventoryLevel": 100,
+            "name": "Phase 2 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
          }
       ],
@@ -133,6 +141,76 @@
       ],
       "startDate": "2025-02-16T17:00:00",
       "url": "https://www.skillboxes.com/events/bloomverse-express-bengaluru-feat-mr-big"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "🎉 *Bollyboom Filmy Friday at Ottoman Restobar* 🎉  Get ready to kickstart your weekend at the *best place to party in Bengalu",
+      "endDate": "2025-01-10T23:59:00",
+      "identifier": "com.skillboxes.18180",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/eUNyeHBvMU9oVm1MRGhiV3VZYVFKUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735996553TOQWFGyupRvGAxc5.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th Floor, Ganapa Tower, Bellandur, Bengaluru, Karnataka 560103, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9245948",
+            "longitude": "77.673019"
+         },
+         "name": "Ottoman Restobar"
+      },
+      "name": "BollyBoom - Filmy Friday Ft DJ Malik",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Entry to One Individual , Cover Charges Applicable Post 9PM\n",
+            "inventoryLevel": 20,
+            "name": "Sign Up For One",
+            "url": "https://www.skillboxes.com/events/ticket/bollyboom-filmy-friday-ft-dj-malik"
+         }
+      ],
+      "startDate": "2025-01-10T20:00:00",
+      "url": "https://www.skillboxes.com/events/bollyboom-filmy-friday-ft-dj-malik"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "🚨 GIG ALERT! 🚨\nFirst gig of the year DND Entertainment returns to BIRA 91 TAPROOM this January 18th for a night of electrifying Ga",
+      "endDate": "2025-01-18T23:59:00",
+      "identifier": "com.skillboxes.18179",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MmZDVyswU3dQV1FqSUE4VmFFR0JBUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17359949335Nkl2cnoZNlT5JeC.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9313063",
+            "longitude": "77.6329297"
+         },
+         "name": "Bira 91 Taproom, Koramangala"
+      },
+      "name": "URBAN RUMBLE 7",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges Rs 500 Applicable, fully redeamble on F&B\n",
+            "inventoryLevel": 150,
+            "name": "Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/urban-rumble-12"
+         }
+      ],
+      "startDate": "2025-01-18T19:00:00",
+      "url": "https://www.skillboxes.com/events/urban-rumble-12"
    },
    {
       "@context": "https://schema.org",
@@ -289,7 +367,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "To support organizing the open mic, we expect you to buy a cup of coffee at Starbucks\nYou won't be able to perform with this ticket. Please buy Performer ticket if you would like to perform.",
-            "inventoryLevel": 16,
+            "inventoryLevel": 12,
             "name": "Guest",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-5"
          },
@@ -297,7 +375,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "To support organizing the open mic, we expect you to buy a cup of coffee at Starbucks\n",
-            "inventoryLevel": 15,
+            "inventoryLevel": 11,
             "name": "Performer",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-5"
          }
@@ -454,51 +532,9 @@
          "name": "Pangeo"
       },
       "name": "CentiGrade Club Nights ft. SEQU3L / 4th Jan / Pangeo",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM\n",
-            "inventoryLevel": 100,
-            "name": "Guestlist - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-sequ3l-4th-jan-pangeo"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Guestlist - Female",
-            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-sequ3l-4th-jan-pangeo"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2025-01-04T20:00:00",
       "url": "https://www.skillboxes.com/events/centigrade-club-nights-ft-sequ3l-4th-jan-pangeo"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Highlights:DJ Night Ft DJ LijohnBollywood and Commercial MusicRooftop Non Stop MusicGreat AmbienceThis Friday, get ready to groove to the be",
-      "endDate": "2025-01-04T00:30:00",
-      "identifier": "com.skillboxes.18110",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17355691041Cz1kAzfJqtam8RV.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750296",
-            "longitude": "77.6075339"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "Friday Welcome 2025- Skydeck Rooftop Mg road",
-      "offers": [ ],
-      "startDate": "2025-01-03T20:00:00",
-      "url": "https://www.skillboxes.com/events/friday-welcome-2025-skydeck-rooftop-mg-road"
    },
    {
       "@context": "https://schema.org",
@@ -733,21 +769,21 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 20,
+            "inventoryLevel": 15,
             "name": "Audience Slot",
             "url": "https://www.skillboxes.com/events/ticket/speaking-souls-bengaluru-open-mic-15"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 12,
+            "inventoryLevel": 8,
             "name": "Performer Slot",
             "url": "https://www.skillboxes.com/events/ticket/speaking-souls-bengaluru-open-mic-15"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 5,
+            "inventoryLevel": 4,
             "name": "Combo Ticket (One performer + One Audience)",
             "url": "https://www.skillboxes.com/events/ticket/speaking-souls-bengaluru-open-mic-15"
          }
@@ -1266,40 +1302,6 @@
       ],
       "startDate": "2025-02-01T18:00:00",
       "url": "https://www.skillboxes.com/events/vineeth-sreenivasan-live-in-concert-bengaluru"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Following the smash success of its debut, The Dank Show is back with a vengeance for its second rendition! Ajeemama and The Onslaught Crew a",
-      "endDate": "2025-01-04T23:00:00",
-      "identifier": "com.skillboxes.17370",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RW5hVlRNb1dITjNabzFGT0syem81UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1733193806a6TdNtNJBpMYZmaG.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "1st Main Cross",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9240906",
-            "longitude": "77.6366457"
-         },
-         "name": "The Raft"
-      },
-      "name": "The Dank Show: Not Your Amma's Music",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 165,
-            "name": "Not Your Amma's Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/the-dank-show-not-your-amma-s-music"
-         }
-      ],
-      "startDate": "2025-01-04T19:00:00",
-      "url": "https://www.skillboxes.com/events/the-dank-show-not-your-amma-s-music"
    },
    {
       "@context": "https://schema.org",
