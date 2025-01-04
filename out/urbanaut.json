@@ -1112,5 +1112,53 @@
       "COURTYARD",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Friday Dinner Table",
+    "description": "Friday Dinner Table: From Strangers to FriendsJoin us for an evening of great food, warm conversations, and meaningful connections! Whether you\u2019re new to the city, looking to meet like-minded people, or simply want to unwind after a busy week, this is the perfect space to relax and make new friends.At our Friday Dinner Table, strangers quickly become friends over shared stories, laughter, and delicious dishes. The setting is casual, the vibe is welcoming, and the goal is simple: genuine connections with wonderful people.Bring your appetite for food and friendship \u2013 we\u2019ll take care of the rest!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D1E8B7BC7DE041339E9970F56E47D4B1_converted_webp.webp"
+    ],
+    "startDate": "2025-01-10T19:00:00+05:30",
+    "endDate": "2025-01-10T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2617, 27th Main Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJnbaf2i0VrjsR4Xx86HPymws",
+      "latitude": "12.91370710000000000000",
+      "longitude": "77.65162300000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "BLR Events Hub",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/98430E903035463C9D4E7BD8D26B086F_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-70905-28592"
+      }
+    },
+    "url": "https://urbanaut.app/spot/friday-dinner-table",
+    "keywords": [
+      "Food & drink",
+      "Live GIG",
+      "Local",
+      "URBANAUT"
+    ]
   }
 ]
