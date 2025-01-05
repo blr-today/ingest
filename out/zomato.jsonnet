@@ -24,7 +24,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:03",
         "availability": "INSTOCK",
-        "inventory": 477
+        "inventory": 471
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",
@@ -48,15 +48,15 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:05",
         "availability": "INSTOCK",
-        "inventory": 199
+        "inventory": 198
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",
         "price": 4498,
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:04",
-        "availability": "INSTOCK",
-        "inventory": 2
+        "availability": "SOLDOUT",
+        "inventory": 0
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",

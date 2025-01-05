@@ -1,19 +1,5 @@
 [
   {
-    "id": "7301d1ad-bffe-4571-b5f7-8f206d5dd336",
-    "image": "https://cdn.sanity.io/images/x2qnegor/production/7e6709d06f510cc7e518e36cdce3c979ed784ae6-1650x2475.jpg",
-    "location": {
-      "name": "Underline Center",
-      "url": "https://maps.app.goo.gl/orRqJsJXN7h2pP6N9"
-    },
-    "link": "https://at.underline.center/nosferatu-1922-with-tpcc",
-    "date": "2025-01-04T12:30:23.377Z",
-    "theme": "Curators' Selections",
-    "city": "Bangalore",
-    "title": "Nosferatu (1922)",
-    "director": "FW Murnau"
-  },
-  {
     "id": "ef20b848-ac94-41c1-9bdc-f1aef5e1e473",
     "image": "https://cdn.sanity.io/images/x2qnegor/production/0215d102c1614f1cd0ebf1bcf6d54e2f927b5cc5-1000x1500.jpg",
     "location": {
