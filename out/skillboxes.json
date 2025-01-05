@@ -145,6 +145,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Get ready to rock! Zed Axis is hitting The Raft, Koramangala, with a high-energy blend of grunge and alternative rock. It’s BYOB, so grab your d",
+      "endDate": "2025-01-11T23:00:00",
+      "identifier": "com.skillboxes.18188",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RUZBUWhNRG5TZ0kza0ZmZ0ZCYkNHZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736093675EkHtTN3o8bzQDoBU.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st Main Cross",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9240906",
+            "longitude": "77.6366457"
+         },
+         "name": "The Raft"
+      },
+      "name": "ZED AXIS - Live at The Raft",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "General Admission",
+            "url": "https://www.skillboxes.com/events/ticket/zed-axis-live-at-the-raft-1"
+         }
+      ],
+      "startDate": "2025-01-11T20:00:00",
+      "url": "https://www.skillboxes.com/events/zed-axis-live-at-the-raft-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "🎉 *Bollyboom Filmy Friday at Ottoman Restobar* 🎉  Get ready to kickstart your weekend at the *best place to party in Bengalu",
       "endDate": "2025-01-10T23:59:00",
       "identifier": "com.skillboxes.18180",
@@ -240,14 +274,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 6,
+            "inventoryLevel": 2,
             "name": "Performer",
             "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-19"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 5,
+            "inventoryLevel": 4,
             "name": "Combo Ticket (Performer ticket+audience ticket)",
             "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-19"
          }
@@ -427,49 +461,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get ready for the ultimate techno showcase in your city - PROTOCOL SUNDAYS\r\n\r\n! Catch MISS BLISS live at Kitty Ko this Sunday.\r\n\r\n \r\n\r\nDate: Sund",
-      "endDate": "2025-01-05T23:59:00",
-      "identifier": "com.skillboxes.18120",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735747905xQkBAze45IWYRUBF.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Protocol Sundays ft. Miss Bliss / 5th Jan / Kitty Ko",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 9989,
-            "name": "Couple - Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-sundays-ft-miss-bliss-5th-jan-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 9986,
-            "name": "Female - Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-sundays-ft-miss-bliss-5th-jan-kitty-ko"
-         }
-      ],
-      "startDate": "2025-01-05T19:00:00",
-      "url": "https://www.skillboxes.com/events/protocol-sundays-ft-miss-bliss-5th-jan-kitty-ko"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Experience an electrifying night of beats and rhythms as NOSTALGIA presents Almost Human live at Raahi this January.Get ready to dance the night away ",
       "endDate": "2025-01-12T01:00:00",
       "identifier": "com.skillboxes.18118",
@@ -509,32 +500,6 @@
       ],
       "startDate": "2025-01-11T20:00:00",
       "url": "https://www.skillboxes.com/events/nostalgia-ft-almost-human-11th-jan-raahi"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Experience an electrifying night of beats and rhythms as CentiGrade Club Nights presents SEQU3L live at PANGEO this Saturday.Get ready to dance the ni",
-      "endDate": "2025-01-05T01:00:00",
-      "identifier": "com.skillboxes.18117",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735723335SgcHoPpxGM7psXhd.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9726391",
-            "longitude": "77.6065987"
-         },
-         "name": "Pangeo"
-      },
-      "name": "CentiGrade Club Nights ft. SEQU3L / 4th Jan / Pangeo",
-      "offers": [ ],
-      "startDate": "2025-01-04T20:00:00",
-      "url": "https://www.skillboxes.com/events/centigrade-club-nights-ft-sequ3l-4th-jan-pangeo"
    },
    {
       "@context": "https://schema.org",
@@ -598,47 +563,13 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Please arrive by 5:45 pm to secure your seat. Gates close at 6:15pm sharp. No parking available, please use public transport.\nVenue has mostly floor seating, with some chairs. As this is a house concert venue, we request that footwear be removed at the entrance. It tends to get cold, so do bring something warm. There is also one very friendly large dog at this venue.",
-            "inventoryLevel": 35,
+            "inventoryLevel": 29,
             "name": "Cacha Mundinho: Catch a Small World",
             "url": "https://www.skillboxes.com/events/ticket/cacha-mundinho-catch-a-small-world"
          }
       ],
       "startDate": "2025-01-12T18:00:00",
       "url": "https://www.skillboxes.com/events/cacha-mundinho-catch-a-small-world"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Experience \"Starry Deck Nights\" - This Sunday at Skydeck by Sherlock's!Join us this Sunday night for an unforgettable Commercial DJ Night at S",
-      "endDate": "2025-01-05T23:59:00",
-      "identifier": "com.skillboxes.18095",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735477109wlEGdayZMXOaauFN.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750296",
-            "longitude": "77.6075339"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "Starry Deck Nights | Party Under The Stars!",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 200,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/starry-deck-nights-party-under-the-stars-3"
-         }
-      ],
-      "startDate": "2025-01-05T20:00:00",
-      "url": "https://www.skillboxes.com/events/starry-deck-nights-party-under-the-stars-3"
    },
    {
       "@context": "https://schema.org",
@@ -742,161 +673,6 @@
       ],
       "startDate": "2025-01-26T14:00:00",
       "url": "https://www.skillboxes.com/events/the-bean-grill-open-mic-15"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Bengaluru people, start the year right with our open mic! No genre/theme/language restrictions    About Us: Speaking Souls is a co",
-      "endDate": "2025-01-05T18:00:00",
-      "identifier": "com.skillboxes.17986",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aXpVdFNMZXQwTnFvV3RKOGVWaHhQdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735106642AckMvruKiK34ohY7.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Performing Art"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9711356",
-            "longitude": "77.598164"
-         },
-         "name": "Starbucks"
-      },
-      "name": "Speaking Souls - Bengaluru Open Mic",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 15,
-            "name": "Audience Slot",
-            "url": "https://www.skillboxes.com/events/ticket/speaking-souls-bengaluru-open-mic-15"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 8,
-            "name": "Performer Slot",
-            "url": "https://www.skillboxes.com/events/ticket/speaking-souls-bengaluru-open-mic-15"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 4,
-            "name": "Combo Ticket (One performer + One Audience)",
-            "url": "https://www.skillboxes.com/events/ticket/speaking-souls-bengaluru-open-mic-15"
-         }
-      ],
-      "startDate": "2025-01-05T15:00:00",
-      "url": "https://www.skillboxes.com/events/speaking-souls-bengaluru-open-mic-15"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Kick off 2025 with a BANG as we're excited to bring back the sensational Bass music producer HAMDI 🇬🇧 (@hamdimusic) to India! Club tour, tig",
-      "endDate": "2025-01-05T23:59:00",
-      "identifier": "com.skillboxes.17944",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735841186sw42kAtQPicphXF0.png.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "passport office, Mantri Avenue, next to Koramangala, KHB Games Village, Koramangala, Bengaluru, Karnataka 560047, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9451657",
-            "longitude": "77.6201352"
-         },
-         "name": "Sunburn Union"
-      },
-      "name": "SoMAD LAB Presents HAMDI (Bengaluru)",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable upon arrival at gate which is Fully redeemable on F&B.\n",
-            "inventoryLevel": 994,
-            "name": "EARLY BIRD SINGLE LADY",
-            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable upon arrival at gate which is Fully redeemable on F&B.\n",
-            "inventoryLevel": 985,
-            "name": "EARLY BIRD COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable upon arrival at gate which is Fully redeemable on F&B.\n",
-            "inventoryLevel": 950,
-            "name": "EARLY BIRD STAG",
-            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Free entry to the event for one single lady all night long.  Walk-in Like a VIP!\n",
-            "inventoryLevel": 997,
-            "name": "EARLY BIRD VIP SINGLE LADY (ANYTIME ENTRY)",
-            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable per head upon arrival at gate which is Fully redeemable on F&B.\n",
-            "inventoryLevel": 1000,
-            "name": "Girls Night Out [Group of 3 Girls]",
-            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Free entry to the event for one Single Male stag all night long. Walk-in Like a VIP!\n",
-            "inventoryLevel": 991,
-            "name": "EARLY BIRD VIP STAG (ANYTIME ENTRY)",
-            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Free entry to the event for one Couple all night long. Walk-in Like a VIP!\n",
-            "inventoryLevel": 987,
-            "name": "EARLY BIRD VIP COUPLE (ANYTIME ENTRY)",
-            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable per head upon arrival at gate which is Fully redeemable on F&B.\n",
-            "inventoryLevel": 1000,
-            "name": "Double Date! [ Group of 2 Couples ]",
-            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Free entry to the event till 7PM only. Post 7PM Additional cover of INR 1000/- applicable Per head upon arrival at gate which is Fully redeemable on F&B.\n",
-            "inventoryLevel": 999,
-            "name": "Group Ticket of 5",
-            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Free entry to the event for one individual all night long. Walk-in Like a VIP!\nMeet & Greet the artists on the line-up including a personal picture with HAMDI. Get access to backstage and VIP Area.",
-            "inventoryLevel": 1000,
-            "name": "MIP [ ANYTIME ENTRY + BACKSTAGE ACCESS + MEET & GREET ]",
-            "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-hamdi-bengaluru"
-         }
-      ],
-      "startDate": "2025-01-05T17:00:00",
-      "url": "https://www.skillboxes.com/events/somad-lab-presents-hamdi-bengaluru"
    },
    {
       "@context": "https://schema.org",
@@ -1102,40 +878,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Hey Folks! After 2 successful housefull shows, we're back and our next show is gonna be in a contest format, wherein the audience will vote along",
-      "endDate": "2025-01-05T16:30:00",
-      "identifier": "com.skillboxes.17873",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QXBDS0VnTlpYU2Q1bXlXQnMxdXhKQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734701838GDdGwHUOkxJIkz3v.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Comedy Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "1st Floor, No.53, Shree Chambers, Subbarama Chetty Rd, above Karnataka Bank, Basavanagudi, Bengaluru, Karnataka 560004, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9394924",
-            "longitude": "77.5716859"
-         },
-         "name": "Dimension Studio"
-      },
-      "name": "3 PEG SUPER STAR",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 48,
-            "name": "Audience Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/3-peg-super-star"
-         }
-      ],
-      "startDate": "2025-01-05T14:30:00",
-      "url": "https://www.skillboxes.com/events/3-peg-super-star"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Lose yourself in the magic of Arabian Nights and immerse yourself in the world of captivating music, delectable cuisine, and unforgettable experiences",
       "endDate": "2025-01-11T20:00:00",
       "identifier": "com.skillboxes.17745",
@@ -1175,57 +917,6 @@
       ],
       "startDate": "2025-01-11T13:00:00",
       "url": "https://www.skillboxes.com/events/sirocco-a-food-music-festival-by-mcc"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "This Saturday Catch All Fun And Action On Biggest Dance Floor At Hangover Kormangala.Bollywood Blockbuster  with DJ Milan and Fema",
-      "endDate": "2025-01-05T00:30:00",
-      "identifier": "com.skillboxes.17738",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735134562X8NjVlSbqrtpQZ4W.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9348662",
-            "longitude": "77.6138885"
-         },
-         "name": "Plan B x Hangover XL Koramangala"
-      },
-      "name": "Saturday Hangover Blockbuster Night",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "one pass allow one single entry\n",
-            "inventoryLevel": 100,
-            "name": "ladies",
-            "url": "https://www.skillboxes.com/events/ticket/saturday-hangover-blockbuster-night-2"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry till 0930pm post cover charges applicable\n",
-            "inventoryLevel": 100,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/saturday-hangover-blockbuster-night-2"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry till 0930pm post cover charges applicable\n",
-            "inventoryLevel": 100,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/saturday-hangover-blockbuster-night-2"
-         }
-      ],
-      "startDate": "2025-01-04T20:00:00",
-      "url": "https://www.skillboxes.com/events/saturday-hangover-blockbuster-night-2"
    },
    {
       "@context": "https://schema.org",
@@ -1375,54 +1066,6 @@
       ],
       "startDate": "2025-01-11T19:00:00",
       "url": "https://www.skillboxes.com/events/suit-panda"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Come unleash your inner talent at 'The Bean grill' open mic and spread the colours of your talent and share stage and ideas with like minded p",
-      "endDate": "2025-01-05T17:00:00",
-      "identifier": "com.skillboxes.17316",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c0FLb0lFN1lKeDBFWEszVUh5QmQvQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1732982136Z69nt9lfX8yuhuTo.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Meet-ups"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Indiqube, South Summit, S End Rd, Vijayarangam Layout, Jayanagar, Bengaluru, Karnataka 560004, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9365592",
-            "longitude": "77.5773103"
-         },
-         "name": "QUBE CAFE"
-      },
-      "name": "The Bean grill open mic",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 99,
-            "name": "Audience Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-14"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 90,
-            "name": "Performer Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-14"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Combo Ticket - Audience + Performer",
-            "url": "https://www.skillboxes.com/events/ticket/the-bean-grill-open-mic-14"
-         }
-      ],
-      "startDate": "2025-01-05T15:00:00",
-      "url": "https://www.skillboxes.com/events/the-bean-grill-open-mic-14"
    },
    {
       "@context": "https://schema.org",
