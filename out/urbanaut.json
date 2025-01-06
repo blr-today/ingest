@@ -1027,5 +1027,51 @@
       "Workshop",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Dessert & Stories",
+    "description": "Dessert Delights & Good Vibes! \u2728A table where delicious desserts meet lively stories and laughter.Treat yourself to the sweetest desserts and let the conversation flow\u2014this is the spot for great company and even greater converstations.Hosted by Rajul: An absolute people\u2019s person at heart! She thrive\u2019s on connecting with others, exchanging stories, and learning from every conversation. Meeting new people and sharing experiences is her favorite thing to do.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6720A8A1F9D34041A4D06B4A2A20A71D_converted_webp.webp"
+    ],
+    "startDate": "2025-01-08T21:00:00+05:30",
+    "endDate": "2025-01-08T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1089/A, 12th Main Rd, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJE0KZuXIXrjsRUvgHPMkiRTM",
+      "latitude": "12.96986990000000000000",
+      "longitude": "77.63792790000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 9,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "Meet a small group of strangers offline, with no agendas\u2014just good conversations and genuine connections. Whether it\u2019s a random thought or a deep dive, you never know where it might lead. Sometimes, the best connections happen when you least expect them.",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/dessert-stories",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
   }
 ]

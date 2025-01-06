@@ -145,6 +145,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Songwriter Sessions: Handcrafted Flavors, Unforgettable Moments On 11th January, 8 PM onwards, join us at PizzaExpress Koramangala for ",
+      "endDate": "2025-01-11T23:00:00",
+      "identifier": "com.skillboxes.18196",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MlFrYVI3MHdFZ0FSZVkxMXpCSzhLQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736163999Obt98oCdqRldhv2p.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Ground Floor, 136, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9337113",
+            "longitude": "77.6214992"
+         },
+         "name": "PizzaExpress, Koramangala"
+      },
+      "name": "Songwriter Sessions at PizzaExpress, Koramangala",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/songwriter-sessions-at-pizzaexpress-koramangala"
+         }
+      ],
+      "startDate": "2025-01-11T19:00:00",
+      "url": "https://www.skillboxes.com/events/songwriter-sessions-at-pizzaexpress-koramangala"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Join Us for a Sky-High Experience ft. Dub PepperMark your calendars for January 11th—an unforgettable night awaits at our exclusive event featur",
       "endDate": "2025-01-12T00:50:00",
       "identifier": "com.skillboxes.18190",
@@ -976,6 +1010,49 @@
       ],
       "startDate": "2025-02-02T18:30:00",
       "url": "https://www.skillboxes.com/events/thump-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "#GIGALERT 🚨 REGGAE ROYALTY IS COMING!!!We’re beyond stoked to announce our upcoming Arcade 140 gig with the LEGENDARY - Channel One",
+      "endDate": "2025-01-11T20:59:00",
+      "identifier": "com.skillboxes.17840",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17346319284GzbRo7QNvmcvwU9.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9849438",
+            "longitude": "77.5808105"
+         },
+         "name": "The Burrow"
+      },
+      "name": "Arcade 140 Ft Channel One Sound System, Xs & Chan",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover Charges Apply After 9PM (Fully reddemable)\n",
+            "inventoryLevel": 15,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/arcade-140-ft-channel-one-sound-system-xs-chan"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover Charges Apply After 9PM (Fully Reddemable)\n",
+            "inventoryLevel": 60,
+            "name": "Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/arcade-140-ft-channel-one-sound-system-xs-chan"
+         }
+      ],
+      "startDate": "2025-01-11T20:00:00",
+      "url": "https://www.skillboxes.com/events/arcade-140-ft-channel-one-sound-system-xs-chan"
    },
    {
       "@context": "https://schema.org",
