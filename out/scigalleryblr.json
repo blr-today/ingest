@@ -60,5 +60,47 @@
       }
     ],
     "maximumAttendeeCapacity": 40
+  },
+  {
+    "@type": "Event",
+    "name": "Heritage Walk: Architecture at Cubbon Park",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-01-12T08:00:00+05:30",
+    "endDate": "2025-01-12T10:00:00+05:30",
+    "description": "Have you ever wondered how Cubbon Park became the heart of Bengaluru\u2019s history? Come join Meera Iyer as she takes you on a journey through time to uncover 200 years of history. She will explore architecture and planning in and around Cubbon Park from soon after the Bangalore cantonment was established to Independence and beyond. Along the way, you\u2019ll hear stories of people from near and far, and of events that have shaped our city.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=heritage-walk",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Meera-Iyer"
+      }
+    ],
+    "maximumAttendeeCapacity": 25
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Modelling and Managing Bengaluru\u2019s Transport through Travel Behaviour",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-01-11T16:00:00+05:30",
+    "endDate": "2025-01-11T18:00:00+05:30",
+    "description": "People Travel and Goods Move. Where? When? Why? How? and How much? These questions encompass the study of travel behaviour. How does this behaviour then inform us in modelling and managing city-scale transportation systems? <br>Join Abdul Rawoof Pinjari in answering these questions and to understand how travel in cities is analysed. Come explore how transportation models can be used to decide what type of transportation infrastructure to provide, where to provide it and how much. Especially, in the context of namma Bengaluru.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=modelling-managing-transport",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Abdul-Pinjari"
+      }
+    ],
+    "maximumAttendeeCapacity": 50
   }
 ]
