@@ -12,7 +12,7 @@
         {
   "@context": "https://schema.org",
   "@type": "SocialEvent",
-  "name": "Chess Connect: Making Chess Fun - Bangalore Chess Club",
+  "name": "Chess Connect: FreeStyle - Bangalore Chess Club",
   "startDate": "2025-01-11T16:00:00+05:30",
   "endDate": "2025-01-11T19:00:00+05:30",
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
@@ -193,6 +193,14 @@
     
   },
   "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_PdMZ4jpCeUwjSY/view/"
+  }],
   
   "organizer": {
     "@type": "Organization",
