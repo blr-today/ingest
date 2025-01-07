@@ -1073,5 +1073,52 @@
       "Food & drink",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Travel Tales",
+    "description": "Got a travel tale to tell?Welcome to the Travel Tales Table, where no luggage is required!Whether you\u2019ve wandered the world or are just getting started, this is the spot for swapping travel stories, tips, bucket-list dreams and those 'I can't believe that happened' moments.\u2728",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/356F013EE72A4E22A706F31D027BE2E4_converted_webp.webp"
+    ],
+    "startDate": "2025-01-10T21:00:00+05:30",
+    "endDate": "2025-01-10T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJHbtbfCEXrjsRenm8WX0l4EQ",
+      "latitude": "12.97113560000000000000",
+      "longitude": "77.59816400000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 9,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1399.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "Meet a small group of strangers offline, with no agendas\u2014just good conversations and genuine connections. Whether it\u2019s a random thought or a deep dive, you never know where it might lead. Sometimes, the best connections happen when you least expect them.",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/travel-tales-hightable",
+    "keywords": [
+      "Active",
+      "Food & drink",
+      "URBANAUT"
+    ]
   }
 ]

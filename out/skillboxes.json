@@ -21,7 +21,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 21,
+            "inventoryLevel": 14,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
          },
@@ -141,6 +141,40 @@
       ],
       "startDate": "2025-02-16T17:00:00",
       "url": "https://www.skillboxes.com/events/bloomverse-express-bengaluru-feat-mr-big"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Refuge is a contemplative set of compositions by Indian pianist Aman Mahajan, exploring an ever-evolving sense of 'home'. These pieces delve into univ",
+      "endDate": "2025-01-11T19:45:00",
+      "identifier": "com.skillboxes.18211",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmFyMzF3OUpuRXBnUmFvMW9sSDhTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736223847u5FmZkhCdW3UANMs.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "315, Cave Temple Rd, Muthurayya Swamy Layout, Hulimavu, Bengaluru, Karnataka 560076, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.8764236",
+            "longitude": "77.5999127"
+         },
+         "name": "Natallia Piano Studio"
+      },
+      "name": "Refuge",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 40,
+            "name": "Refuge at Natallia Piano Studio",
+            "url": "https://www.skillboxes.com/events/ticket/refuge"
+         }
+      ],
+      "startDate": "2025-01-11T18:30:00",
+      "url": "https://www.skillboxes.com/events/refuge"
    },
    {
       "@context": "https://schema.org",
@@ -398,7 +432,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable post 9PM. Club rules applicable.\n",
-            "inventoryLevel": 200,
+            "inventoryLevel": 199,
             "name": "Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-dub-pepper-31st-floor-sky-high-experience"
          },
@@ -406,7 +440,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge applicable post 9PM. Club rules applicable\n",
-            "inventoryLevel": 200,
+            "inventoryLevel": 197,
             "name": "Male Pass - Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-dub-pepper-31st-floor-sky-high-experience"
          }
@@ -510,7 +544,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges Rs 500 Applicable, fully redeamble on F&B\n",
-            "inventoryLevel": 148,
+            "inventoryLevel": 146,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/urban-rumble-12"
          }
@@ -564,6 +598,57 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "The most trending pop up in town is back this January with a banger - CrossOver Edition with the Watergate sensation&nbs",
+      "endDate": "2025-01-12T23:59:00",
+      "identifier": "com.skillboxes.18171",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735969217V6QVSnUpk7LK5jCB.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "CrossOver ft. Mia Mendi",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 98,
+            "name": "Couple Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-mia-mendi"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Female Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-mia-mendi"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles entry for 1 Male stag to the event. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Male Pass",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-mia-mendi"
+         }
+      ],
+      "startDate": "2025-01-12T20:00:00",
+      "url": "https://www.skillboxes.com/events/crossover-ft-mia-mendi"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Rainbow Bridge In proud collaboration with Music Strip ReconnectLaunched in December 2024, Rainbow Bridge revives and reimagines the spirit of the ico",
       "endDate": "2025-01-25T20:00:00",
       "identifier": "com.skillboxes.18166",
@@ -594,57 +679,6 @@
       ],
       "startDate": "2025-01-25T18:30:00",
       "url": "https://www.skillboxes.com/events/rainbow-bridge-artist-showcase-3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "The most trending pop up in town is back this January with a banger - CrossOver Edition with the Watergate sensation MIA MENDI at Kitty Ko.Date: Sunda",
-      "endDate": "2025-01-12T20:00:00",
-      "identifier": "com.skillboxes.18163",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735916852F7bP3R3b2jd8POhz.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "CrossOver ft. Mia Mendi / 12th Jan / Kitty Ko",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 9.30PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 100,
-            "name": "Guestlist - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-mia-mendi-12th-jan-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 100,
-            "name": "Guestlist - Female",
-            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-mia-mendi-12th-jan-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles entry for 1 Male stag to the event. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 100,
-            "name": "Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-mia-mendi-12th-jan-kitty-ko"
-         }
-      ],
-      "startDate": "2025-01-12T20:00:00",
-      "url": "https://www.skillboxes.com/events/crossover-ft-mia-mendi-12th-jan-kitty-ko"
    },
    {
       "@context": "https://schema.org",
@@ -765,7 +799,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 97,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/nostalgia-ft-almost-human-11th-jan-raahi"
          }
@@ -1517,73 +1551,6 @@
       ],
       "startDate": "2025-02-08T20:00:00",
       "url": "https://www.skillboxes.com/events/dattatreya"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Hello Music Enthusiasts!! JINGLE LAND Season 2 is here!!\r\n\r\n \r\n\r\nFrom Bollywood to Telugu, From Kannada to Malayalam...Experience the electrifyin",
-      "endDate": "2025-02-15T22:00:00",
-      "identifier": "com.skillboxes.17146",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734177125oWQ0MaJsIGuSXQDf.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Whitefield Main Road, Devasandra Industrial Estate, Mahadevapura, Bengaluru, Karnataka 560048, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9957867",
-            "longitude": "77.6964011"
-         },
-         "name": "Phoenix Marketcity"
-      },
-      "name": "JINGLE LAND - Bangalore's Biggest Music Festival",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Applicable for a Student. includes entry to the JingleLand General arena. Applicable age group [13-20]. It is mandatory to bring School/College ID card while arriving at the event.\n",
-            "inventoryLevel": 200,
-            "name": "Early Bird GA Pass - Student",
-            "url": "https://www.skillboxes.com/events/ticket/jingle-land-bangalore-s-biggest-music-festival-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Applicable for a single person. includes entry to the JingleLand General arena. Applicable age group [21 and above].\n",
-            "inventoryLevel": 298,
-            "name": "Early Bird GA Pass - Single",
-            "url": "https://www.skillboxes.com/events/ticket/jingle-land-bangalore-s-biggest-music-festival-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Applicable for a COUPLE (group of 2 persons). includes entry to the JingleLand General arena. Applicable age group [21 and above].\n",
-            "inventoryLevel": 80,
-            "name": "Early Bird GA Pass - Buddy",
-            "url": "https://www.skillboxes.com/events/ticket/jingle-land-bangalore-s-biggest-music-festival-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Applicable for a single person. includes entry to the Fanpit arena : Barricaded front area with access to F&B counters Applicable age group [21 and above].\n",
-            "inventoryLevel": 198,
-            "name": "Early Bird FanPit - Single",
-            "url": "https://www.skillboxes.com/events/ticket/jingle-land-bangalore-s-biggest-music-festival-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Applicable for a COUPLE (group of 2 persons). includes entry to the JingleLand Fanpit arena : Barricaded front area with access to F&B counters Applicable age group [21 and above].\n",
-            "inventoryLevel": 28,
-            "name": "Early Bird FanPit - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/jingle-land-bangalore-s-biggest-music-festival-1"
-         }
-      ],
-      "startDate": "2025-02-15T15:30:00",
-      "url": "https://www.skillboxes.com/events/jingle-land-bangalore-s-biggest-music-festival-1"
    },
    {
       "@context": "https://schema.org",
