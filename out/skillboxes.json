@@ -80,8 +80,8 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 5,
-            "name": "Phase 1 Ticket",
+            "inventoryLevel": 96,
+            "name": "Phase 2 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
          },
          {
@@ -94,10 +94,10 @@
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
+            "availability": "SoldOut",
             "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 100,
-            "name": "Phase 2 Ticket",
+            "inventoryLevel": 0,
+            "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
          }
       ],
@@ -141,6 +141,135 @@
       ],
       "startDate": "2025-03-28T20:00:00",
       "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Experience an electrifying night of beats and rhythms as CentiGrade Club Nights presents Afterlife sensation N1RVAAN live at PANGEO this January.Get r",
+      "endDate": "2025-01-26T01:00:00",
+      "identifier": "com.skillboxes.18277",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736443658wkGAQDEz9a9N38GJ.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9726391",
+            "longitude": "77.6065987"
+         },
+         "name": "Pangeo"
+      },
+      "name": "CentiGrade Club Nights ft. N1RVAAN / 25th Jan / Pangeo",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-n1rvaan-25th-jan-pangeo"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-n1rvaan-25th-jan-pangeo"
+         }
+      ],
+      "startDate": "2025-01-25T20:00:00",
+      "url": "https://www.skillboxes.com/events/centigrade-club-nights-ft-n1rvaan-25th-jan-pangeo"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready for the ultimate techno showcase in your city - PROTOCOL SUNDAYS! Catch the techno legend CHRISTØPHER live at Kitty Ko this January.\r",
+      "endDate": "2025-01-26T23:59:00",
+      "identifier": "com.skillboxes.18275",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736436199aCzj8WkKYefvqrk2.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Protocol ft. CHRSTPHR || 26th Jan || Kitty Ko",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Couple - Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-chrstphr-26th-jan-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 100,
+            "name": "Female - Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-chrstphr-26th-jan-kitty-ko"
+         }
+      ],
+      "startDate": "2025-01-26T19:00:00",
+      "url": "https://www.skillboxes.com/events/protocol-ft-chrstphr-26th-jan-kitty-ko"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready for the ultimate techno showcase in your city - PROTOCOL SUNDAY! Catch BLOODYY MASCARA live at Kitty Ko this Sunday.\r\n\r\n \r\n\r\nDate: Sund",
+      "endDate": "2025-01-19T23:59:00",
+      "identifier": "com.skillboxes.18274",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736435949rdDcsSjkfaohnqu0.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Protocol ft. Bloodyy Mascara | 19th Jan | Kitty Ko",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Couple - Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-bloodyy-mascara-19th-jan-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 100,
+            "name": "Female - Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-bloodyy-mascara-19th-jan-kitty-ko"
+         }
+      ],
+      "startDate": "2025-01-19T19:00:00",
+      "url": "https://www.skillboxes.com/events/protocol-ft-bloodyy-mascara-19th-jan-kitty-ko"
    },
    {
       "@context": "https://schema.org",
@@ -214,7 +343,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tRohh is a sing",
+      "description": "Rohh is a singer-songwriter from Delhi. Growing up in a metropolitan city exposed him to a variety of different soundscapes and genres. He combines th",
       "endDate": "2025-01-17T22:00:00",
       "identifier": "com.skillboxes.18252",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MzFxUXlBL01PWHhmSmZjWnROeEgydz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736324451lN7LN2YZSpf1ntvk.jpg.webp",
@@ -232,13 +361,13 @@
          },
          "name": "Bira 91 Taproom, Koramangala"
       },
-      "name": "In House Sessions | Rohh",
+      "name": "In House Sessions | Rohh | Bangalore",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Fully redeemable cover charge of Rs. 500 to be levied at the gate\nEntry to ages 21 and above",
-            "inventoryLevel": 30,
+            "inventoryLevel": 20,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/in-house-sessions-rohh"
          }
@@ -255,7 +384,7 @@
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17363193083i63DDBmTVjvIuI7.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
-         "Poetry Events"
+         "Club Gigs - Music"
       ],
       "location": {
          "@type": "Place",
@@ -272,7 +401,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/baat-niklegi-toh-ghazal-baithak-with-abhinav"
          }
@@ -482,7 +611,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 40,
+            "inventoryLevel": 34,
             "name": "Refuge at Natallia Piano Studio",
             "url": "https://www.skillboxes.com/events/ticket/refuge"
          }
@@ -537,40 +666,6 @@
       ],
       "startDate": "2025-01-07T01:07:00",
       "url": "https://www.skillboxes.com/events/superclub-saturday-18"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "🎸✨ Experience the Magic of Live Music at Chapter 6! ✨🎤\r\n\r\nThis Thursday, get ready to immerse yourself in the soulful sounds of Crosswaters:",
-      "endDate": "2025-01-09T23:59:00",
-      "identifier": "com.skillboxes.18207",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736183752kT3H7eghKmmanMXg.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "beside Drunkling Sizzlers & Pub, No. 6, 2nd floor, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9334732",
-            "longitude": "77.6211418"
-         },
-         "name": "Chapter6 - The Club, Dine in & Rooftop"
-      },
-      "name": "Country Classics Ft. Crosswaters: Cliff & Fred",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Exclusive Guestlist Pass",
-            "url": "https://www.skillboxes.com/events/ticket/country-classics-ft-crosswaters-cliff-fred"
-         }
-      ],
-      "startDate": "2025-01-09T20:00:00",
-      "url": "https://www.skillboxes.com/events/country-classics-ft-crosswaters-cliff-fred"
    },
    {
       "@context": "https://schema.org",
@@ -738,7 +833,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge applicable post 9.30PM. Club rules applicable.\n",
-            "inventoryLevel": 297,
+            "inventoryLevel": 289,
             "name": "Ladies Pass",
             "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-dub-pepper-31st-floor-sky-high-experience"
          },
@@ -746,7 +841,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable post 9PM. Club rules applicable.\n",
-            "inventoryLevel": 196,
+            "inventoryLevel": 188,
             "name": "Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-dub-pepper-31st-floor-sky-high-experience"
          },
@@ -754,7 +849,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge applicable post 9PM. Club rules applicable\n",
-            "inventoryLevel": 188,
+            "inventoryLevel": 184,
             "name": "Male Pass - Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-dub-pepper-31st-floor-sky-high-experience"
          }
@@ -858,7 +953,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges Rs 500 Applicable, fully redeamble on F&B\n",
-            "inventoryLevel": 146,
+            "inventoryLevel": 145,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/urban-rumble-12"
          }
@@ -936,7 +1031,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 93,
+            "inventoryLevel": 90,
             "name": "Couple Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/crossover-ft-mia-mendi"
          },
@@ -944,7 +1039,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 99,
+            "inventoryLevel": 95,
             "name": "Female Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/crossover-ft-mia-mendi"
          },
@@ -952,7 +1047,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles entry for 1 Male stag to the event. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 99,
             "name": "Male Pass",
             "url": "https://www.skillboxes.com/events/ticket/crossover-ft-mia-mendi"
          }
@@ -1021,7 +1116,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "To support organizing the open mic, we expect you to buy a cup of coffee at Starbucks\nYou won't be able to perform with this ticket. Please buy Performer ticket if you would like to perform.",
-            "inventoryLevel": 6,
+            "inventoryLevel": 5,
             "name": "Guest",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-5"
          },
@@ -1029,7 +1124,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "To support organizing the open mic, we expect you to buy a cup of coffee at Starbucks\n",
-            "inventoryLevel": 6,
+            "inventoryLevel": 5,
             "name": "Performer",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-5"
          }
