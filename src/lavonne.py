@@ -2,6 +2,7 @@ import json
 from datetime import datetime
 from bs4 import BeautifulSoup
 from common.tz import IST
+from common.session import get_cached_session
 
 URL = "https://www.lavonne.in/courses/short-term/weekend-calendar/"
 
