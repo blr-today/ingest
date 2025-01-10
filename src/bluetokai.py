@@ -38,6 +38,13 @@ LOCATIONS = [
         12.99609493,
         77.6954406
     ),
+    (
+        "https://bluetokaicoffee.com/pages/blue-tokai-coffee-roasters-ub-city-bangalore",
+        "Blue Tokai Coffee Roasters UB City",
+        r"\bub city\b",
+        12.9717222,
+        77.59425
+    ),
     # This is not a cafe but their Roastery itself
     (
         "https://maps.app.goo.gl/fssZvwfXuxhaC7G77",
@@ -99,6 +106,13 @@ LOCATIONS = [
         12.90694327,
         77.59912373
     ),
+    (
+        "https://bluetokaicoffee.com/pages/blue-tokai-coffee-roasters-aecs-layout"
+        "Blue Tokai Coffee Roasters AECS Layout",
+        r"\baecs\b",
+        12.9633889,
+        77.7095833
+    )
 ]
 
 
@@ -141,9 +155,11 @@ def extract_timing(body_html):
     )
     if timing_match:
         start_hour, start_period, end_hour, end_period = timing_match.groups()
-        # Convert to 24-hour format
         start_hour = int(start_hour) % 12 + (12 if start_period.upper() == "PM" else 0)
         end_hour = int(end_hour) % 12 + (12 if end_period.upper() == "PM" else 0)
+        # Sometimes we get a listing like Time: 11 PM - 4 PM 
+        if start_hour > end_hour:
+            start_hour -= 12
         return start_hour, end_hour
     return None
 
@@ -151,7 +167,7 @@ def extract_timing(body_html):
 def guess_location(body_html):
     body_text = BeautifulSoup(body_html, "html.parser").get_text()
     for line in body_text.split("\n"):
-        if "Bengaluru" in line:
+        if "Bengaluru" in line or "Koramangala" in line:
             for location in LOCATIONS:
                 if re.search(location[2], line, re.IGNORECASE):
                     return (location[0], location[1], location[3], location[4])
@@ -163,6 +179,7 @@ def generate_event_object(product_json, variant, date, start_hour, end_hour):
     )
     end_datetime = datetime(date.year, date.month, date.day, end_hour, 0, tzinfo=IST)
     (location_url, address, lat, lng) = guess_location(product_json["product"]["body_html"])
+
     event = {
         "url": f"https://bluetokaicoffee.com/products/{product_json['product']['handle']}",
         "name": product_json["product"]["title"],
