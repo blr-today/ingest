@@ -1,6 +1,7 @@
 import json
 from datetime import datetime
 from bs4 import BeautifulSoup
+import urllib.parse
 from common.tz import IST
 from common.session import get_cached_session
 
@@ -76,6 +77,9 @@ def parse_event(event_div):
     register_link = event_div.select_one("a.success.button")
     if register_link and 'href' in register_link.attrs:
         event["url"] = register_link["href"]
+    else:
+        title = urllib.parse.quote(title)
+        event["url"] = f"https://www.lavonne.in/courses/short-term/weekend-calendar/#:~:text={title}"
 
     return event
 
