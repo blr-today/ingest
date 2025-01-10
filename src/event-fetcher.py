@@ -58,7 +58,8 @@ EVENT_JSON_FILES = [
     "out/skillboxes.json",
     "out/thewhitebox.json",
     "out/timeandspace.json",
-    "out/lavonne.json"
+    "out/lavonne.json",
+    "out/bngbirds.json"
 ]
 
 KNOWN_EVENT_TYPES = [
