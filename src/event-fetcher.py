@@ -59,7 +59,8 @@ EVENT_JSON_FILES = [
     "out/thewhitebox.json",
     "out/timeandspace.json",
     "out/lavonne.json",
-    "out/bngbirds.json"
+    "out/bngbirds.json",
+    "out/paintbar.json"
 ]
 
 KNOWN_EVENT_TYPES = [

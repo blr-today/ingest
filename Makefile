@@ -177,6 +177,9 @@ out/lavonne.json:
 out/bngbirds.json:
 	python src/bngbirds.py || $(call restore-file,$@)
 
+out/paintbar.json:
+	python src/paintbar.py || $(call restore-file,$@)
+
 fetch: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
@@ -216,7 +219,8 @@ fetch: out/allevents.txt \
  out/thewhitebox.json \
  out/timeandspace.json \
  out/lavonne.json \
- out/bngbirds.json
+ out/bngbirds.json \
+ out/paintbar.json
 	@echo "Done"
 
 clean:
