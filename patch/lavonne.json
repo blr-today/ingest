@@ -1,0 +1,13 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FoodEvent",
+  "inLanguage": "en",
+  "additionalType": "EducationEvent"
+  "eventStatus": "EventScheduled",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Lavonne Academy",
+    "url": "https://www.lavonne.in"
+  },
+  "keywords": ["LAVONNE"]
+}

@@ -171,6 +171,9 @@ out/tpcc.jsonnet:
 out/tpcc.json: out/tpcc.jsonnet
 	python src/jsonnet.py out/tpcc.jsonnet || $(call restore-file,$@)
 
+out/lavonne.json:
+	python src/lavonne.py || $(call restore-file,$@)
+
 fetch: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
@@ -208,7 +211,8 @@ fetch: out/allevents.txt \
  out/tpcc.json \
  out/skillboxes.json \
  out/thewhitebox.json \
- out/timeandspace.json
+ out/timeandspace.json \
+ out/lavonne.json
 	@echo "Done"
 
 clean:
