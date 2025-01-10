@@ -111,3 +111,4 @@ if __name__ == "__main__":
     # Write output JSON file
     with open("out/lavonne.json", "w", encoding="utf-8") as f:
         json.dump(events, f, indent=2, ensure_ascii=False)
+        print(f"LAVONNE] {len(events)} events")

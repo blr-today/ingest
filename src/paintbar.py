@@ -55,8 +55,6 @@ def fetch_timings(date_str: str):
 
 def make_event(product, sp: Shopify):
     start_date, end_date = fetch_timings(product.title)
-    # URL may sometimes contain emojis, make sure they are encoded as EMOJI
-    print(product.url)
 
     return {
         "name": product.title,
