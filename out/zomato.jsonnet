@@ -147,57 +147,5 @@
         "longitude": 77.594987095174
       }
     }
-  },
-  {
-    "name": "Red Flags Featuring. Vishal Tyagi",
-    "description": "Get ready for a night of wit and wordplay with Red Flags Ft. Vishal Tyagi! Join us as Vishal hilariously dissects the quirks and pitfalls of language, exploring the absurdities in our everyday expressions and the \u201cred flags\u201d we overlook in conversations. From twisted meanings to accidental misunderstandings, this stand-up show will leave you laughing at the crazy things we say\u2014and what they really mean. Don\u2019t miss out on the laughs as Vishal takes language and turns it on its head!",
-    "startDate": "2025-02-08T19:00:00+05:30",
-    "endDate": "2025-02-08T20:15:00+05:30",
-    "timezone": "+05:30",
-    "eventStatus": "SCHEDULED",
-    "eventAttendanceMode": "OFFLINE",
-    "isAccessibleForFree": false,
-    "ogTitle": "Red Flags Featuring. Vishal Tyagi Comedy event Tickets Bengaluru - Zomato",
-    "ogDesc": "Book online tickets for Red Flags Featuring. Vishal Tyagi Bengaluru on Zomato which is a Comedy event happening at 6, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Bengaluru",
-    "images": [
-      "https://b.zmtcdn.com/data/zomaland/4a0554d475ec8ad294d20ae0514dac2c1731060147.jpeg"
-    ],
-    "tickets": [
-      {
-        "url": "https://www.zomato.com/events/red-flags-featuring-vishal-tyagi-bengaluru-et53079/details",
-        "price": 299,
-        "currency": "INR",
-        "validFrom": "2024-11-08 16:14:49",
-        "availability": "INSTOCK",
-        "inventory": 48
-      },
-      {
-        "url": "https://www.zomato.com/events/red-flags-featuring-vishal-tyagi-bengaluru-et53079/details",
-        "price": 549,
-        "currency": "INR",
-        "validFrom": "2024-11-08 16:14:56",
-        "availability": "INSTOCK",
-        "inventory": 49
-      }
-    ],
-    "performers": [],
-    "organizer": [
-      {
-        "type": "ORGANIZATION",
-        "name": "Zomato Live",
-        "url": "https://www.zomato.com/events"
-      }
-    ],
-    "url": "https://www.zomato.com/events/red-flags-featuring-vishal-tyagi-bengaluru-et53079",
-    "id": "com.zomato.53079",
-    "location": {
-      "name": "Drunkling Comedy Club",
-      "address": "6, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Bengaluru",
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 12.933402,
-        "longitude": 77.620959
-      }
-    }
   }
 ]
