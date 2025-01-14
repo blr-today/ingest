@@ -1,11 +1,11 @@
 from bs4 import BeautifulSoup
 import requests
 from common.tz import IST
+from html import escape
 import json
 import datetime
 import re
 import os
-from urllib.parse import urlencode
 import datefinder
 
 BASE_URL = "https://sistersinsweat.in"
@@ -26,9 +26,14 @@ def fix_date(date_str):
 
 
 def fetch_ajax_details(sku, _token):
-    data = {"_token": _token, "sku": sku, "location_name": "4"}
+    data = {"_token": _token, "sku": escape(sku, quote=False), "location_name": "4"}
     url = BASE_URL + "/getTimeSlotAjax"
-    e = session.post(url, data=data).json()[0]
+    e = session.post(url, data=json.dumps(data), headers={"content-type": "application/json"}).json()
+    try:
+        e = e[0]
+    except IndexError:
+        print("[SIS] Failed to get schedule for " + sku)
+        return None
 
     # The end_date is unreliable. The website uses the date from the start_date
     # and the time from the end_date as the actual endsAt
@@ -113,6 +118,8 @@ def fetch_event_details(session, l):
     sku = soup.select_one('input[name="sku"]').get("value")
     _token = soup.select_one('input[name="_token"]').get("value")
     event = event | fetch_ajax_details(sku, _token)
+    if 'startDate' not in event:
+        return None
     return event
 
 
