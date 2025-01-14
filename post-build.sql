@@ -454,3 +454,15 @@ WHERE (
   event_json->>'$.location' LIKE '%electroniccity%' OR
   event_json->>'$.location' LIKE '%electronic-city%'
 );
+
+-- Multi-day BSF events are marked as BSF/MULTIDAY
+-- so they can be excluded in the curated calendar.
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'BSF/MULTIDAY')
+  )
+WHERE event_json->>'$.keywords' LIKE '%BSF%' AND
+substr(event_json->>'$.startDate', 0, 10) 
+  != substr(event_json->>'$.endDate', 0, 10);
