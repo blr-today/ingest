@@ -141,13 +141,12 @@ def fix_online_schema(url, event):
                     event[x] = f"{event[x]}T{time}"
 
     # fix format to ISO and timezone to IST
-    print(event)
     for x in ["startDate", "endDate"]:
         if x in event:
             try:
                 event[x] = datetime.fromisoformat(event[x]).astimezone(IST).isoformat()
             except Exception as e:
-                if get_domain(event['url']) == 'bhaagoindia.com':
+                if get_domain(url) == 'bhaagoindia.com':
                     # replace all dots and commas
                     startdate = event[x].replace(".", "").replace(",", "").lower()
                     startdate = startdate.replace("sept", "sep")
@@ -157,7 +156,7 @@ def fix_online_schema(url, event):
                         .isoformat()
                     )
                 # Allevents has some events with wrong formatting + timezone
-                if get_domain(event['url']) == 'allevents.in':
+                if get_domain(url) == 'allevents.in':
                     if event[x].endswith('+.000+0'):
                         event[x] = datetime.fromisoformat(event[x][0:19]).astimezone(IST).isoformat()
                     else:
