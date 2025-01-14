@@ -24,7 +24,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:03",
         "availability": "INSTOCK",
-        "inventory": 452
+        "inventory": 423
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",
@@ -32,7 +32,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:04",
         "availability": "INSTOCK",
-        "inventory": 463
+        "inventory": 440
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",
@@ -48,7 +48,7 @@
         "currency": "INR",
         "validFrom": "2024-12-09 15:39:05",
         "availability": "INSTOCK",
-        "inventory": 196
+        "inventory": 195
       },
       {
         "url": "https://www.zomato.com/events/zomaland-bengaluru-et51772/details",
@@ -169,7 +169,7 @@
         "currency": "INR",
         "validFrom": "2024-11-08 16:14:49",
         "availability": "INSTOCK",
-        "inventory": 49
+        "inventory": 48
       },
       {
         "url": "https://www.zomato.com/events/red-flags-featuring-vishal-tyagi-bengaluru-et53079/details",
@@ -177,7 +177,7 @@
         "currency": "INR",
         "validFrom": "2024-11-08 16:14:56",
         "availability": "INSTOCK",
-        "inventory": 50
+        "inventory": 49
       }
     ],
     "performers": [],

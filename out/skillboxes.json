@@ -1,6 +1,35 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The Paper Kites Live in Bangalore\r\n\r\nLiveBox is proud to present the rock supergroup The Paper Kites\r\n\r\nVenues and opening acts to be announced.\r\n\r\nA ",
+      "endDate": "2025-03-20T23:59:00",
+      "identifier": "com.skillboxes.18284",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c0lGYzlCZU9aNVlnNnBWd2hYQkFrQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736846225iTeVWJRVrgCv6CLA.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": null,
+         "name": "To Be Announced"
+      },
+      "name": "The Paper Kites Live in Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 106,
+            "name": "Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/the-paper-kites-live-in-bangalore"
+         }
+      ],
+      "startDate": "2025-03-20T19:00:00",
+      "url": "https://www.skillboxes.com/events/the-paper-kites-live-in-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "#Bengaluru Bringing the spirit of the northeast India to you with the very first edition of Bloomverse Express in your city on the 16th of February, 2",
       "endDate": "2025-02-16T22:00:00",
@@ -26,7 +55,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in General Zone.\n◉ General access to bars, f&b counters.",
-            "inventoryLevel": 1097,
+            "inventoryLevel": 1077,
             "name": "Phase 1 | Single - GA",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -34,7 +63,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
-            "inventoryLevel": 488,
+            "inventoryLevel": 478,
             "name": "Phase 1 | Single - Fan Zone",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -42,7 +71,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one couple (2 people) in General Zone. ◉ General access to bars, f&b counters.\n",
-            "inventoryLevel": 186,
+            "inventoryLevel": 172,
             "name": "Phase 1 | Couple - GA",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -50,7 +79,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one couple (2 people) in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
-            "inventoryLevel": 184,
+            "inventoryLevel": 171,
             "name": "Phase 1 | Couple - Fan Zone",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          }
@@ -80,7 +109,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 96,
+            "inventoryLevel": 77,
             "name": "Phase 2 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
          },
@@ -126,7 +155,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 576,
+            "inventoryLevel": 556,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/livebox-feat-the-aristocrats-bangalore"
          },
@@ -141,6 +170,230 @@
       ],
       "startDate": "2025-03-28T20:00:00",
       "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "UBM Presents Pongal: ⏮️ The Spillover \r\n\r\n \r\n\r\nPongal isn’t just a festival—it’s so much more. A celebration of gratit",
+      "endDate": "2025-01-17T23:59:00",
+      "identifier": "com.skillboxes.18323",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736779890ClKO4lS3jG39ZGI5.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9849438",
+            "longitude": "77.5808105"
+         },
+         "name": "The Burrow"
+      },
+      "name": "UBM Presents Pongal: The Spillover",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover Charges of 1000 will be applicable post 9:30 pm\n",
+            "inventoryLevel": 413,
+            "name": "UBM Presents Pongal: The Spillover",
+            "url": "https://www.skillboxes.com/events/ticket/ubm-presents-pongal-the-spill-over"
+         }
+      ],
+      "startDate": "2025-01-17T20:00:00",
+      "url": "https://www.skillboxes.com/events/ubm-presents-pongal-the-spill-over"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "SUFI NIGHT WITH PRAYAAG ON STAGE Delhli's Pride - Prayaag on Stage Is Coming To bangalore Experince Magical Night of Soulful Melodies on 17t",
+      "endDate": "2025-01-17T23:59:00",
+      "identifier": "com.skillboxes.18320",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Z1U1QmJGQWVDOWhZSGFneWRGREExdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736776223bk6724nqNdpjOcYI.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9208664",
+            "longitude": "77.6859185"
+         },
+         "name": "Radio Bar Bangalore"
+      },
+      "name": "SUFI NIGHT WITH PRAYAAG ON STAGE",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry & F&B Redemption\n",
+            "inventoryLevel": 50,
+            "name": "SUFI NIGHT WITH PRAYAAG ON STAGE",
+            "url": "https://www.skillboxes.com/events/ticket/sufi-night-with-prayaag-on-stage"
+         }
+      ],
+      "startDate": "2025-01-17T21:00:00",
+      "url": "https://www.skillboxes.com/events/sufi-night-with-prayaag-on-stage"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "GIDDY HOOGiddy Hoo is a powerhouse quartet that delivers chaotic symphonies with an unmistakable edge. Fueled by screaming high vocals, soaring guitar",
+      "endDate": "2025-01-18T23:00:00",
+      "identifier": "com.skillboxes.18316",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RUZBUWhNRG5TZ0kza0ZmZ0ZCYkNHZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736767854k3zdc8ZvpW4FxNUa.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st Main Cross",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9240906",
+            "longitude": "77.6366457"
+         },
+         "name": "The Raft"
+      },
+      "name": "Giddy Hoo and 12th Main Live at The Raft",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 199,
+            "name": "General Admission",
+            "url": "https://www.skillboxes.com/events/ticket/giddy-hoo-and-12th-main-live-at-the-raft"
+         }
+      ],
+      "startDate": "2025-01-18T19:00:00",
+      "url": "https://www.skillboxes.com/events/giddy-hoo-and-12th-main-live-at-the-raft"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "House Party Saturday at Granny’s!Double the beats, double the groove: MOH, Techblot & Lavie, are spinning the decks this Satu",
+      "endDate": "2025-01-18T23:30:00",
+      "identifier": "com.skillboxes.18310",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VkM2ZUN4UHFBalY0NVFKWllwWG5SUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736755539RkoKKPa811e7YyO5.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9705141",
+            "longitude": "77.6464228"
+         },
+         "name": "Sly Granny, Indiranagar"
+      },
+      "name": "House Party Series Ft. MOH, Techblot & Lavie!",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 296,
+            "name": "Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/house-party-series-ft-moh-techblot-lavie"
+         }
+      ],
+      "startDate": "2025-01-18T20:00:00",
+      "url": "https://www.skillboxes.com/events/house-party-series-ft-moh-techblot-lavie"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready to experience an electrifying night of mind-bending rhythms, crushing riffs, and otherworldly soundscapes! Join us for an epic Prog Rock and",
+      "endDate": "2025-02-01T23:00:00",
+      "identifier": "com.skillboxes.18308",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/eExnSSt2WkJRSXJqZ1hDTzlrR3Nadz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736748396zJGcKn97kR9kyPT5.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No. 95, Crescent Eminence, After Joseph Commerce College, opposite to grill house, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9689195",
+            "longitude": "77.6063515"
+         },
+         "name": "SOUNDGLITZ - Brigade Road"
+      },
+      "name": "Chaos Reigns",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "1. Ticket Purchase:  All ticket sales are final. No refunds, exchanges, or cancellations are allowed unless the event is canceled or rescheduled. Tickets are sold on a first-come, first-served basis and are subject to availability. 2. Payment:  Accepted payment methods include credit/debit cards, and other specified payment options. All prices are inclusive of applicable taxes and fees unless otherwise stated. 3. Ticket Delivery:  Tickets may be delivered electronically, via mail, or available for pickup a\nBYOB",
+            "inventoryLevel": 197,
+            "name": "General Admission",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-reigns-2"
+         }
+      ],
+      "startDate": "2025-02-01T18:00:00",
+      "url": "https://www.skillboxes.com/events/chaos-reigns-2"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Redroom Fridays\r\n\r\nFeaturing \r\n\r\n \r\n\r\nKIKKAT\r\n\r\n \r\n\r\n \r\n\r\nARTBLOT\r\n\r\n \r\n\r\nKISH\r\n\r\n \r\n\r\nFriday 17th January 2025 | 7PM on",
+      "endDate": "2025-01-17T23:59:00",
+      "identifier": "com.skillboxes.18294",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736605126lM8c90hyKsrqKoz9.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Redroom Ft. Kikkat at Kitty Ko Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Female, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-kikkat-at-kitty-ko-bangalore-2"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Couple, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-kikkat-at-kitty-ko-bangalore-2"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Male, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-kikkat-at-kitty-ko-bangalore-2"
+         }
+      ],
+      "startDate": "2025-01-17T19:00:00",
+      "url": "https://www.skillboxes.com/events/redroom-ft-kikkat-at-kitty-ko-bangalore-2"
    },
    {
       "@context": "https://schema.org",
@@ -188,10 +441,10 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get ready for the ultimate techno showcase in your city - PROTOCOL SUNDAYS! Catch the techno legend CHRISTØPHER live at Kitty Ko this January.\r",
+      "description": "Get ready for the ultimate techno showcase in your city - PROTOCOL SUNDAYS! Catch the techno legend ALCHEMIAH live at Kitty Ko this January.Date: Sund",
       "endDate": "2025-01-26T23:59:00",
       "identifier": "com.skillboxes.18275",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736436199aCzj8WkKYefvqrk2.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17366089817n9OPVM9QpIZOSk6.jpg.webp",
       "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
@@ -206,7 +459,7 @@
          },
          "name": "Kitty Ko"
       },
-      "name": "Protocol ft. CHRSTPHR || 26th Jan || Kitty Ko",
+      "name": "Protocol ft. ALCHEMIAH || 26th Jan || Kitty Ko",
       "offers": [
          {
             "@type": "Offer",
@@ -255,7 +508,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 94,
             "name": "Couple - Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/protocol-ft-bloodyy-mascara-19th-jan-kitty-ko"
          },
@@ -263,47 +516,13 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 97,
             "name": "Female - Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/protocol-ft-bloodyy-mascara-19th-jan-kitty-ko"
          }
       ],
       "startDate": "2025-01-19T19:00:00",
       "url": "https://www.skillboxes.com/events/protocol-ft-bloodyy-mascara-19th-jan-kitty-ko"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "House Party Saturday at Granny’s!Double the beats, double the groove: Sourfunk B2B Carissa and YumVee B2B Disco Darman are spinning the decks th",
-      "endDate": "2025-01-11T23:00:00",
-      "identifier": "com.skillboxes.18268",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VkM2ZUN4UHFBalY0NVFKWllwWG5SUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17364123958jx6rWV3z1SePjOV.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "3rd Floor, 618, 12th Main Rd, above Chicco, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9705141",
-            "longitude": "77.6464228"
-         },
-         "name": "Sly Granny, Indiranagar"
-      },
-      "name": "HOUSE PARTY SERIES FT. Sourfunk B2B Carissa and YumVee B2B Disco Darman 🪩",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 276,
-            "name": "Rsvp",
-            "url": "https://www.skillboxes.com/events/ticket/house-party-series-ft-sourfunk-b2b-carissa-and-yumvee-b2b-disco-darman-1"
-         }
-      ],
-      "startDate": "2025-01-11T20:00:00",
-      "url": "https://www.skillboxes.com/events/house-party-series-ft-sourfunk-b2b-carissa-and-yumvee-b2b-disco-darman-1"
    },
    {
       "@context": "https://schema.org",
@@ -332,7 +551,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Please arrive by 5:45 pm to secure your seat. Gates close at 6:15pm sharp. No parking available, please use public transport.\nVenue has mostly floor seating, with some chairs. As this is a house concert venue, we request that footwear be removed at the entrance. It tends to get cold, so do bring something warm. There is also one very friendly large dog at this venue.",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Saudades",
             "url": "https://www.skillboxes.com/events/ticket/saudades-by-kirtana-krishna"
          }
@@ -367,7 +586,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Fully redeemable cover charge of Rs. 500 to be levied at the gate\nEntry to ages 21 and above",
-            "inventoryLevel": 20,
+            "inventoryLevel": 17,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/in-house-sessions-rohh"
          }
@@ -401,64 +620,13 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 999,
+            "inventoryLevel": 991,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/baat-niklegi-toh-ghazal-baithak-with-abhinav"
          }
       ],
       "startDate": "2025-01-18T18:30:00",
       "url": "https://www.skillboxes.com/events/baat-niklegi-toh-ghazal-baithak-with-abhinav"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "SoMAD Select Sundaze the infamous city hottest and safest Day Party space turned 3 Last October! We are making our return to Lumara this Sunday! The n",
-      "endDate": "2025-01-12T23:59:00",
-      "identifier": "com.skillboxes.18244",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736285923ZCsLY0FEDcylmZ9i.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Trinity Pothraj, #154, 4th floor, Trinity Circle, Old Madras Rd, Gowthamapuram, Jogupalya, Bengaluru, Karnataka 560008, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9725259",
-            "longitude": "77.6202991"
-         },
-         "name": "Lumara Bar & Kitchen"
-      },
-      "name": "SoMAD Select Sundaze Ft. SGAMO 🇮🇹 & Friends at Lumara Bar & Kitchen | MG Road - Bengaluru",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits free entry to one single lady without cover charges until 9:00PM to the event. Post 9:00PM cover charges applicable upon arrival at gate as per club rules and regulations\n",
-            "inventoryLevel": 96,
-            "name": "RSVP SINGLE LADY [ Free Entry ]",
-            "url": "https://www.skillboxes.com/events/ticket/somad-select-sundaze-ft-sgamo-friends-at-lumara-bar-kitchen-mg-road-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits free entry to one couple without cover charges until 9:00PM to the event. Post 9:00PM cover charges applicable upon arrival at gate as per club rules and regulations.\n",
-            "inventoryLevel": 100,
-            "name": "RSVP COUPLE [ Free Entry ]",
-            "url": "https://www.skillboxes.com/events/ticket/somad-select-sundaze-ft-sgamo-friends-at-lumara-bar-kitchen-mg-road-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits Anytime entry to one Individual [male or female] or even a couple free entry all night long with a cover coupon of INR 1500/- fully redeemable on F&B at the event. Kindly collect your cover coupon upon arrival at gate.\n",
-            "inventoryLevel": 100,
-            "name": "VIP ( Anytime Entry + Full Cover )",
-            "url": "https://www.skillboxes.com/events/ticket/somad-select-sundaze-ft-sgamo-friends-at-lumara-bar-kitchen-mg-road-bengaluru"
-         }
-      ],
-      "startDate": "2025-01-12T19:00:00",
-      "url": "https://www.skillboxes.com/events/somad-select-sundaze-ft-sgamo-friends-at-lumara-bar-kitchen-mg-road-bengaluru"
    },
    {
       "@context": "https://schema.org",
@@ -486,62 +654,20 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 26,
+            "inventoryLevel": 66,
+            "name": "Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/freak-opera-ft-gonno-osgut-ton-sanka-jp-open2close"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 4,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/freak-opera-ft-gonno-osgut-ton-sanka-jp-open2close"
          }
       ],
       "startDate": "2025-01-18T20:00:00",
       "url": "https://www.skillboxes.com/events/freak-opera-ft-gonno-osgut-ton-sanka-jp-open2close"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "We're back with a bang this 2025, and it's going to be absolutely LIT! 🔥 Kickstarting the year in style this Saturday at Pangeo featuring the ",
-      "endDate": "2025-01-11T23:59:00",
-      "identifier": "com.skillboxes.18233",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736260428gtyGuWH0M7WQAx3I.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9726391",
-            "longitude": "77.6065987"
-         },
-         "name": "Pangeo"
-      },
-      "name": "Assad Namazi Live",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 997,
-            "name": "Couple Guestlist Pass",
-            "url": "https://www.skillboxes.com/events/ticket/assad-namazi-live"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Female Guestlist Pass",
-            "url": "https://www.skillboxes.com/events/ticket/assad-namazi-live"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges Applicable At Gates.\n",
-            "inventoryLevel": 997,
-            "name": "Male Guestlist Pass",
-            "url": "https://www.skillboxes.com/events/ticket/assad-namazi-live"
-         }
-      ],
-      "startDate": "2025-01-11T20:00:00",
-      "url": "https://www.skillboxes.com/events/assad-namazi-live"
    },
    {
       "@context": "https://schema.org",
@@ -584,88 +710,6 @@
       ],
       "startDate": "2025-02-16T14:00:00",
       "url": "https://www.skillboxes.com/events/poet-s-table-s-brutal-mic-level-up-season-2"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Refuge is a contemplative set of compositions by Indian pianist Aman Mahajan, exploring an ever-evolving sense of 'home'. These pieces delve into univ",
-      "endDate": "2025-01-11T19:45:00",
-      "identifier": "com.skillboxes.18211",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmFyMzF3OUpuRXBnUmFvMW9sSDhTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736223847u5FmZkhCdW3UANMs.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "315, Cave Temple Rd, Muthurayya Swamy Layout, Hulimavu, Bengaluru, Karnataka 560076, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.8764236",
-            "longitude": "77.5999127"
-         },
-         "name": "Natallia Piano Studio"
-      },
-      "name": "Refuge",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 34,
-            "name": "Refuge at Natallia Piano Studio",
-            "url": "https://www.skillboxes.com/events/ticket/refuge"
-         }
-      ],
-      "startDate": "2025-01-11T18:30:00",
-      "url": "https://www.skillboxes.com/events/refuge"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Massive setup this Saturday night at FLO CHURCH STREET WITH TOPNOTCH DJ SPINNING LIVE MUSIC ",
-      "endDate": "2025-01-12T20:07:00",
-      "identifier": "com.skillboxes.18209",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0JDVVVMbXI5Q1ZtWXJNS1A1QTJzUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17361886641qDS8eKhwkr7SfJ1.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "MSR Building, FLO, #3, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9743377",
-            "longitude": "77.6068167"
-         },
-         "name": "FLO Church Street"
-      },
-      "name": "SUPERCLUB SATURDAY",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 200,
-            "name": "Boys",
-            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-18"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 200,
-            "name": "Girls",
-            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-18"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 200,
-            "name": "Couples",
-            "url": "https://www.skillboxes.com/events/ticket/superclub-saturday-18"
-         }
-      ],
-      "startDate": "2025-01-07T01:07:00",
-      "url": "https://www.skillboxes.com/events/superclub-saturday-18"
    },
    {
       "@context": "https://schema.org",
@@ -724,125 +768,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Songwriter Sessions: Handcrafted Flavors, Unforgettable Moments On 11th January, 8 PM onwards, join us at PizzaExpress Koramangala for ",
-      "endDate": "2025-01-11T23:00:00",
-      "identifier": "com.skillboxes.18196",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MlFrYVI3MHdFZ0FSZVkxMXpCSzhLQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736163999Obt98oCdqRldhv2p.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Ground Floor, 136, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9337113",
-            "longitude": "77.6214992"
-         },
-         "name": "PizzaExpress, Koramangala"
-      },
-      "name": "Songwriter Sessions at PizzaExpress, Koramangala",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/songwriter-sessions-at-pizzaexpress-koramangala"
-         }
-      ],
-      "startDate": "2025-01-11T19:00:00",
-      "url": "https://www.skillboxes.com/events/songwriter-sessions-at-pizzaexpress-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Join Us for a Sky-High Experience ft. Dub PepperMark your calendars for January 11th—an unforgettable night awaits at our exclusive event featur",
-      "endDate": "2025-01-12T00:50:00",
-      "identifier": "com.skillboxes.18190",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/R3YxblZSbnhqTC9KRWFDT0pZUndnUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736122051ULFUpXDKmwHqZoDW.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0122829",
-            "longitude": "77.5561431"
-         },
-         "name": "High Ultra Lounge"
-      },
-      "name": "Ultra-High ft. Dub Pepper, 31st Floor Sky High Experience",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charge applicable post 9.30PM. Club rules applicable.\n",
-            "inventoryLevel": 289,
-            "name": "Ladies Pass",
-            "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-dub-pepper-31st-floor-sky-high-experience"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable post 9PM. Club rules applicable.\n",
-            "inventoryLevel": 188,
-            "name": "Couple Pass",
-            "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-dub-pepper-31st-floor-sky-high-experience"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charge applicable post 9PM. Club rules applicable\n",
-            "inventoryLevel": 184,
-            "name": "Male Pass - Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/ultra-high-ft-dub-pepper-31st-floor-sky-high-experience"
-         }
-      ],
-      "startDate": "2025-01-11T20:00:00",
-      "url": "https://www.skillboxes.com/events/ultra-high-ft-dub-pepper-31st-floor-sky-high-experience"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Get ready to rock! Zed Axis is hitting The Raft, Koramangala, with a high-energy blend of grunge and alternative rock. It’s BYOB, so grab your d",
-      "endDate": "2025-01-11T23:00:00",
-      "identifier": "com.skillboxes.18188",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RUZBUWhNRG5TZ0kza0ZmZ0ZCYkNHZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1736093675EkHtTN3o8bzQDoBU.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "1st Main Cross",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9240906",
-            "longitude": "77.6366457"
-         },
-         "name": "The Raft"
-      },
-      "name": "ZED AXIS - Live at The Raft",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 180,
-            "name": "General Admission",
-            "url": "https://www.skillboxes.com/events/ticket/zed-axis-live-at-the-raft-1"
-         }
-      ],
-      "startDate": "2025-01-11T20:00:00",
-      "url": "https://www.skillboxes.com/events/zed-axis-live-at-the-raft-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "🚨 GIG ALERT! 🚨\nFirst gig of the year DND Entertainment returns to BIRA 91 TAPROOM this January 18th for a night of electrifying Ga",
       "endDate": "2025-01-18T23:59:00",
       "identifier": "com.skillboxes.18179",
@@ -867,107 +792,13 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges Rs 500 Applicable, fully redeamble on F&B\n",
-            "inventoryLevel": 145,
+            "inventoryLevel": 143,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/urban-rumble-12"
          }
       ],
       "startDate": "2025-01-18T19:00:00",
       "url": "https://www.skillboxes.com/events/urban-rumble-12"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "ಈ ಸಣ್-day ಅನ್ನು funn-day ಆಗಿಸಲು \"ಅರಳ&#",
-      "endDate": "2025-01-12T17:00:00",
-      "identifier": "com.skillboxes.18175",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/S1lWWlhJMjdYcTBpcHFoYzJTbE4zdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735977134I4q2yKgEpieHTnwf.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Performing Art"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No 53, 1st floor, Shree Chambers, Subbarama Chetty road, Basavanagudi, Bangalore - 560004",
-         "name": "Pops Of Pastel Studio"
-      },
-      "name": "ಅರಳಿ ಕಟ್ಟೆ- Kannada Open Mic",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 24,
-            "name": "Audience",
-            "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-19"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Performer",
-            "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-19"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 4,
-            "name": "Combo Ticket (Performer ticket+audience ticket)",
-            "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-19"
-         }
-      ],
-      "startDate": "2025-01-12T14:00:00",
-      "url": "https://www.skillboxes.com/events/kannada-open-mic-19"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "The most trending pop up in town is back this January with a banger - CrossOver Edition with the Watergate sensation&nbs",
-      "endDate": "2025-01-12T23:59:00",
-      "identifier": "com.skillboxes.18171",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735969217V6QVSnUpk7LK5jCB.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "CrossOver ft. Mia Mendi",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 90,
-            "name": "Couple Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-mia-mendi"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 95,
-            "name": "Female Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-mia-mendi"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles entry for 1 Male stag to the event. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 99,
-            "name": "Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-mia-mendi"
-         }
-      ],
-      "startDate": "2025-01-12T20:00:00",
-      "url": "https://www.skillboxes.com/events/crossover-ft-mia-mendi"
    },
    {
       "@context": "https://schema.org",
@@ -1002,49 +833,6 @@
       ],
       "startDate": "2025-01-25T18:30:00",
       "url": "https://www.skillboxes.com/events/rainbow-bridge-artist-showcase-3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "🎤 Mic Drop at Starbucks Saturday's 🌟 Join us for an evening of songs, poetry, and standup comedy. Whether you're a performer",
-      "endDate": "2025-01-11T19:00:00",
-      "identifier": "com.skillboxes.18145",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735889857iRx3GG5wpIb3Bxgz.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9711356",
-            "longitude": "77.598164"
-         },
-         "name": "Starbucks"
-      },
-      "name": "Mic Drop - Open Mic By BlrGrooveCo",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "To support organizing the open mic, we expect you to buy a cup of coffee at Starbucks\nYou won't be able to perform with this ticket. Please buy Performer ticket if you would like to perform.",
-            "inventoryLevel": 5,
-            "name": "Guest",
-            "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-5"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "To support organizing the open mic, we expect you to buy a cup of coffee at Starbucks\n",
-            "inventoryLevel": 5,
-            "name": "Performer",
-            "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-5"
-         }
-      ],
-      "startDate": "2025-01-11T17:00:00",
-      "url": "https://www.skillboxes.com/events/mic-drop-open-mic-by-blrgrooveco-5"
    },
    {
       "@context": "https://schema.org",
@@ -1090,51 +878,8 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Experience an electrifying night of beats and rhythms as NOSTALGIA presents Almost Human live at Raahi this January.Get ready to dance the night away ",
-      "endDate": "2025-01-12T01:00:00",
-      "identifier": "com.skillboxes.18118",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735726830nAWxhXkk4I3e2v0a.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "15, State Bank of India Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9730788",
-            "longitude": "77.6024359"
-         },
-         "name": "Raahi Neo Kitchen & Bar"
-      },
-      "name": "NOSTALGIA ft. Almost Human / 11th Jan / Raahi",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 9.30PM. Cover charges applicable at the venue post 9.30PM\n",
-            "inventoryLevel": 96,
-            "name": "Guestlist - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/nostalgia-ft-almost-human-11th-jan-raahi"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 97,
-            "name": "Guestlist - Female",
-            "url": "https://www.skillboxes.com/events/ticket/nostalgia-ft-almost-human-11th-jan-raahi"
-         }
-      ],
-      "startDate": "2025-01-11T20:00:00",
-      "url": "https://www.skillboxes.com/events/nostalgia-ft-almost-human-11th-jan-raahi"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Highlights:DJ Night Ft DJ LijohnBollywood and Commercial MusicRooftop Non Stop MusicGreat AmbienceThis Friday, get ready to groove to the be",
-      "endDate": "2025-01-11T00:30:00",
+      "endDate": "2025-01-18T00:30:00",
       "identifier": "com.skillboxes.18110",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17355691041Cz1kAzfJqtam8RV.jpg.webp",
       "isAccessibleForFree": true,
@@ -1157,7 +902,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "cover charges applicable throughout  the event\n",
-            "inventoryLevel": 97,
+            "inventoryLevel": 88,
             "name": "Stag",
             "url": "https://www.skillboxes.com/events/ticket/friday-welcome-2025-skydeck-rooftop-mg-road"
          },
@@ -1178,7 +923,7 @@
             "url": "https://www.skillboxes.com/events/ticket/friday-welcome-2025-skydeck-rooftop-mg-road"
          }
       ],
-      "startDate": "2025-01-10T20:00:00",
+      "startDate": "2025-01-17T20:00:00",
       "url": "https://www.skillboxes.com/events/friday-welcome-2025-skydeck-rooftop-mg-road"
    },
    {
@@ -1215,41 +960,6 @@
       ],
       "startDate": "2025-02-01T20:00:00",
       "url": "https://www.skillboxes.com/events/avial-live-in-concert-at-ignite-super-club-hsr-layout-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Cacha Mundinho, or “catch a small world”, breathes new life into practically forgotten musical routes. From songs that exude an Iberian am",
-      "endDate": "2025-01-12T20:00:00",
-      "identifier": "com.skillboxes.18099",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VDZqc1k2cjZnTGVzbE9PSFZJSmdQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735490461xpHUr9pGPWLE8wO6.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "441, 9th cross, Jayanagar 1st block Bangalore, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12",
-            "longitude": "77"
-         },
-         "name": "The Blue Room"
-      },
-      "name": "Cacha Mundinho: Catch a Small World",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "Please arrive by 5:45 pm to secure your seat. Gates close at 6:15pm sharp. No parking available, please use public transport.\nVenue has mostly floor seating, with some chairs. As this is a house concert venue, we request that footwear be removed at the entrance. It tends to get cold, so do bring something warm. There is also one very friendly large dog at this venue.",
-            "inventoryLevel": 0,
-            "name": "Cacha Mundinho: Catch a Small World",
-            "url": "https://www.skillboxes.com/events/ticket/cacha-mundinho-catch-a-small-world"
-         }
-      ],
-      "startDate": "2025-01-12T18:00:00",
-      "url": "https://www.skillboxes.com/events/cacha-mundinho-catch-a-small-world"
    },
    {
       "@context": "https://schema.org",
@@ -1515,7 +1225,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "One vibe, one ticket - Swing solo into THUMP!\nAccess to a single individual",
-            "inventoryLevel": 296,
+            "inventoryLevel": 294,
             "name": "Lone Swinger",
             "url": "https://www.skillboxes.com/events/ticket/thump-1"
          },
@@ -1557,100 +1267,14 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "#GIGALERT 🚨 REGGAE ROYALTY IS COMING!!!We’re beyond stoked to announce our upcoming Arcade 140 gig with the LEGENDARY - Channel One",
-      "endDate": "2025-01-11T20:59:00",
-      "identifier": "com.skillboxes.17840",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17346319284GzbRo7QNvmcvwU9.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9849438",
-            "longitude": "77.5808105"
-         },
-         "name": "The Burrow"
-      },
-      "name": "Arcade 140 Ft Channel One Sound System, Xs & Chan",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges Apply After 9PM (Fully Reddemable)\n",
-            "inventoryLevel": 57,
-            "name": "Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/arcade-140-ft-channel-one-sound-system-xs-chan"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "Cover Charges Apply After 9PM (Fully reddemable)\n",
-            "inventoryLevel": 0,
-            "name": "Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/arcade-140-ft-channel-one-sound-system-xs-chan"
-         }
-      ],
-      "startDate": "2025-01-11T20:00:00",
-      "url": "https://www.skillboxes.com/events/arcade-140-ft-channel-one-sound-system-xs-chan"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Lose yourself in the magic of Arabian Nights and immerse yourself in the world of captivating music, delectable cuisine, and unforgettable experiences",
-      "endDate": "2025-01-11T20:00:00",
-      "identifier": "com.skillboxes.17745",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NlVlUVlGLy9UWTc1TFdXZVlyWXBFQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734415837a61mJuKArL2uWuti.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Festival"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "58, Palace Rd, Abshot Layout, Vasanth Nagar, Bengaluru, Karnataka 560052, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9930006",
-            "longitude": "77.5885022"
-         },
-         "name": "Mount Carmel College Autonomous"
-      },
-      "name": "Sirocco - A food & music Festival by MCC",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "The ticket provides access to the General Access area of the festival.\n",
-            "inventoryLevel": 5000,
-            "name": "General Access (GA)",
-            "url": "https://www.skillboxes.com/events/ticket/sirocco-a-food-music-festival-by-mcc"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "The ticket provides access to the VIP area of the festival. VIP passes allow free access to the After-Party Event, held at a club in Bangalore.\n",
-            "inventoryLevel": 5000,
-            "name": "VIP",
-            "url": "https://www.skillboxes.com/events/ticket/sirocco-a-food-music-festival-by-mcc"
-         }
-      ],
-      "startDate": "2025-01-11T13:00:00",
-      "url": "https://www.skillboxes.com/events/sirocco-a-food-music-festival-by-mcc"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
       "description": "This Saturday Catch All Fun And Action On Biggest Dance Floor At Hangover Kormangala.Bollywood Blockbuster  with DJ Milan and Fema",
-      "endDate": "2025-01-12T00:30:00",
+      "endDate": "2025-01-19T00:30:00",
       "identifier": "com.skillboxes.17738",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735134562X8NjVlSbqrtpQZ4W.jpg.webp",
       "isAccessibleForFree": true,
       "keywords": [
-         "Music Events"
+         "Club Gigs - Music"
       ],
       "location": {
          "@type": "Place",
@@ -1689,8 +1313,54 @@
             "url": "https://www.skillboxes.com/events/ticket/saturday-hangover-blockbuster-night-2"
          }
       ],
-      "startDate": "2025-01-11T20:00:00",
+      "startDate": "2025-01-18T20:00:00",
       "url": "https://www.skillboxes.com/events/saturday-hangover-blockbuster-night-2"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Highlights:DJ NightNon Stop MusicBollywood NightDance FloorMouth Watering AppetizersCocktails and MocktailsJoin us for an epic night of music and fun.",
+      "endDate": "2025-01-20T00:30:00",
+      "identifier": "com.skillboxes.17737",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735058564Q3MHJxSBx35HD5QZ.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "#8, 2nd Floor, Above Nalli SIlks Bangalore, India",
+         "name": "Nolimmits Lounge & Club"
+      },
+      "name": "Sunday One Night in Paris @ Nolimits Magrath Road",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "cover charges applicable through out the event\n",
+            "inventoryLevel": 98,
+            "name": "stag",
+            "url": "https://www.skillboxes.com/events/ticket/uk-punjabi-night-nolimits-magrath-road"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "One pass allow one single entry.\n",
+            "inventoryLevel": 100,
+            "name": "Ladies",
+            "url": "https://www.skillboxes.com/events/ticket/uk-punjabi-night-nolimits-magrath-road"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free ebrry till 0930pm post cover charge applicable\n",
+            "inventoryLevel": 100,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/uk-punjabi-night-nolimits-magrath-road"
+         }
+      ],
+      "startDate": "2025-01-19T08:00:00",
+      "url": "https://www.skillboxes.com/events/uk-punjabi-night-nolimits-magrath-road"
    },
    {
       "@context": "https://schema.org",
@@ -1760,7 +1430,7 @@
       "description": "Suit & Panda",
       "endDate": "2025-01-18T23:59:00",
       "identifier": "com.skillboxes.17331",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1735646682L1jJjNP1ZIOrCkFS.png.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/173648312033BxPgV7i2qFR0gI.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Events"
