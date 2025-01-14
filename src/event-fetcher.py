@@ -103,6 +103,19 @@ URL_FILES = [
 IGNORED_EVENT_UIDS = ["60749-1718409600-1722470399@bangaloreinternationalcentre.org"]
 
 
+"""
+Returns the domain from a URL
+"""
+
+
+def get_domain(url):
+    from urllib.parse import urlparse
+    subdomain = urlparse(url).netloc
+    if subdomain.startswith('www.'):
+        return subdomain[4:]
+    return subdomain
+
+
 def fix_online_schema(url, event):
     # Insider events often include &apos; &quot; etc.
     if "name" in event and url.startswith("https://insider.in"):
@@ -128,22 +141,28 @@ def fix_online_schema(url, event):
                     event[x] = f"{event[x]}T{time}"
 
     # fix format to ISO and timezone to IST
+    print(event)
     for x in ["startDate", "endDate"]:
         if x in event:
             try:
                 event[x] = datetime.fromisoformat(event[x]).astimezone(IST).isoformat()
             except Exception as e:
-                # THIS IS BHAAGO INDIA SPECIFIC
-                # replace all dots and commas
-                startdate = event[x].replace(".", "").replace(",", "").lower()
-                startdate = startdate.replace("sept", "sep")
-                event[x] = (
-                    list(datefinder.find_dates(startdate))[0]
-                    .replace(tzinfo=IST)
-                    .isoformat()
-                )
+                if get_domain(event['url']) == 'bhaagoindia.com':
+                    # replace all dots and commas
+                    startdate = event[x].replace(".", "").replace(",", "").lower()
+                    startdate = startdate.replace("sept", "sep")
+                    event[x] = (
+                        list(datefinder.find_dates(startdate))[0]
+                        .replace(tzinfo=IST)
+                        .isoformat()
+                    )
+                # Allevents has some events with wrong formatting + timezone
+                if get_domain(event['url']) == 'allevents.in':
+                    if event[x].endswith('+.000+0'):
+                        event[x] = datetime.fromisoformat(event[x][0:19]).astimezone(IST).isoformat()
+                    else:
+                        print("[IMP] Broke while trying to parse date for " + event['url'])
 
-    # set endDate = startDate + 2h if no endDate
     if "endDate" not in event:
         event["endDate"] = (
             datetime.fromisoformat(event["startDate"]) + timedelta(hours=2)
@@ -161,7 +180,7 @@ def fix_online_schema(url, event):
     # so we drop that.
     try:
         if (
-            url.startswith("https://highape.com")
+            get_domain(url) == "highape.com"
             and event["offers"][-1]["price"] == "0"
             and event["offers"][-1]["name"] == "Entry"
         ):
