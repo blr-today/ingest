@@ -75,6 +75,44 @@
     ]
   },
   {
+    "name": "Bball Republic Day Tournament - Individual Booking",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session_details/basketball/Bball Republic Day Tournament-Individual Booking",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Basketball",
+    "description": "Republic Day Basketball Tournament - Individual\u00a0Registration\u00a0 \nREPORTING TIME: 8:15 AM \nSign up as an individual and if you don't have a team, we will assing you to a team. \nGame Details: \n \n Format: 5s games with teams of 8 (5 players, 3 subs). \n Level: Beginner + Intermediate \n At any given time, there must be 3 active Sisters and 2 active Misters on the court. \n Substitutions: \n  \n Sisters can replace only Sisters. \n Misters can replace only Misters. \n Additional subs can register as individuals. \n  \n  \n \nTournament Structure: \n \n Round Robin: Every team plays against every other team. \n Matches: Each team plays 4 matches, including a 3rd place match. \n Game Duration: \n  \n 8-2-8 (Two halves of 8 minutes each with a 2-minute halftime) \n  \n  \n \nTheme: \n \n Teams will represent one color of the Indian flag (4 teams total). \n \nFacilities: \n \n Changing rooms, washrooms, parking, and water will be available at the venue. \n Please carry your own water bottles. \n \nA detailed document with tournament rules will be shared closer to the event. \nFor any further queries contact - Vaibhavi: 9886520914",
+    "image": "https://sistersinsweat.in/products/5a4b25aaed25c2ee1b74de72dc03c14e1737118380WhatsApp Image 2025-01-17 at 14.10.46 (1).jpeg",
+    "location": {
+      "name": "St. Joseph's Arts And Science College",
+      "address": "#36,  Langford Rd,  opposite Axis Bank ATM,  Bheemanna Garden,  Langford Gardens,  Bengaluru,  Karnataka 560027",
+      "type": "Place"
+    },
+    "startDate": "2025-01-26T09:00:00+05:30",
+    "endDate": "2025-01-26T11:00:00+05:30",
+    "offers": [
+      {
+        "price": 600,
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
     "name": "Baddy Republic Day Tournament  - Team Booking",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.in/session_details/badminton/Baddy Republic Day Tournament  - Team Booking",
@@ -151,44 +189,6 @@
     ]
   },
   {
-    "name": "Footy Republic Day Tournament - Team Booking",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.in/session_details/football/Footy Republic Day Tournament ,Team Booking",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.in"
-    },
-    "sport": "Football",
-    "description": "Republic Day Footy Tournament - Team Registration\u00a0 \nREPORTING TIME: 4:15 PM \nGame Details: \n \n Format: 5v5 games with teams of 8 (5 players, 3 subs). \n Level: Beginner + Intermediate \n At any given time, there must be 3 active Sisters and 2 active Misters on the field. \n Substitutions: \n  \n Sisters can replace only Sisters. \n Misters can replace only Misters. \n Additional subs can register as individuals. \n  \n  \n \nTournament Structure: \n \n Round Robin: Every team plays against every other team. \n Matches: Each team plays 4 matches, including a 3rd place match. \n Game Duration: \n  \n 10-2-10 (Two halves of 10 minutes each with a 2-minute halftime) \n  \n  \n \nTheme: \n \n Teams will represent one color of the Indian flag (4 teams total). \n \nFacilities: \n \n Changing rooms, washrooms, parking, and water will be available at the venue. \n Please carry your own water bottles. \n \nA detailed document with tournament rules will be shared closer to the event. \nFor any further queries contact - Vaibhavi: 9886520914",
-    "image": "https://sistersinsweat.in/products/fde9264cf376fffe2ee4ddf4a988880d1737118098WhatsApp Image 2025-01-17 at 14.10.46.jpeg",
-    "location": {
-      "name": "Rush Arena",
-      "address": "Cooke Town, Jaibharath Nagar,  D Costa Layout,  Maruthi Sevanagar,  Bengaluru,  Karnataka 560084",
-      "type": "Place"
-    },
-    "startDate": "2025-01-26T15:00:00+05:30",
-    "endDate": "2025-01-26T17:00:00+05:30",
-    "offers": [
-      {
-        "price": 4800,
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
     "name": "Footy Republic Day Tournament - Individual Booking",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.in/session_details/football/Footy Republic Day Tournament-Individual Booking",
@@ -227,9 +227,9 @@
     ]
   },
   {
-    "name": "Footy With Sisters, Beginner - Indiranagar",
+    "name": "Footy Republic Day Tournament - Team Booking",
     "@type": "SportsEvent",
-    "url": "https://sistersinsweat.in/session_details/football/Footy With Sisters, Beginner - Indiranagar",
+    "url": "https://sistersinsweat.in/session_details/football/Footy Republic Day Tournament ,Team Booking",
     "@context": "https://schema.org",
     "keywords": [
       "SISTERSINSWEAT",
@@ -248,18 +248,18 @@
       "url": "https://sistersinsweat.in"
     },
     "sport": "Football",
-    "description": "FOOTY WITH THE SISTERS \nBring out those football boots or shoes and remember to clean 'em nice! We're getting on the field to play the Beautiful game! \nThese sessions are open to all women! The football drills will be designed to both have fun and at the same time, learn and build on your basics of the sport! \nEach session is 90mins long, and will consist of a warm-up, football drills which are fun and athletic, a small game and a cool down at the end. It is a super fun start to your day and apart from that, even helps you get in your cardio for the day! \nWhat to wear? Comfortable workout clothes, incase you don't have access to football studs/turf shoes, training shoes would be sufficient. \nWhat to bring? A bottle of water, a towel to wipe off sweat (if required) and loads of enthusiasm to play :) \nDon't miss this!! See you on the field Sisters!! \nFor any further queries contact \nVaibhavi - 9886520914",
-    "image": "https://sistersinsweat.in/products/a1d0c6e83f027327d8461063f4ac58a617361453775.png",
+    "description": "Republic Day Footy Tournament - Team Registration\u00a0 \nREPORTING TIME: 4:15 PM \nGame Details: \n \n Format: 5v5 games with teams of 8 (5 players, 3 subs). \n Level: Beginner + Intermediate \n At any given time, there must be 3 active Sisters and 2 active Misters on the field. \n Substitutions: \n  \n Sisters can replace only Sisters. \n Misters can replace only Misters. \n Additional subs can register as individuals. \n  \n  \n \nTournament Structure: \n \n Round Robin: Every team plays against every other team. \n Matches: Each team plays 4 matches, including a 3rd place match. \n Game Duration: \n  \n 10-2-10 (Two halves of 10 minutes each with a 2-minute halftime) \n  \n  \n \nTheme: \n \n Teams will represent one color of the Indian flag (4 teams total). \n \nFacilities: \n \n Changing rooms, washrooms, parking, and water will be available at the venue. \n Please carry your own water bottles. \n \nA detailed document with tournament rules will be shared closer to the event. \nFor any further queries contact - Vaibhavi: 9886520914",
+    "image": "https://sistersinsweat.in/products/fde9264cf376fffe2ee4ddf4a988880d1737118098WhatsApp Image 2025-01-17 at 14.10.46.jpeg",
     "location": {
-      "name": "The Bull Ring Arena:",
-      "address": "THE BULLRING,  36,  Old Madras Rd,  next to BMTC 6th Depot,  Indira Nagar II Stage,  Hoysala Nagar,  Indiranagar,  Bengaluru,  Karnataka 560038",
+      "name": "Rush Arena",
+      "address": "Cooke Town, Jaibharath Nagar,  D Costa Layout,  Maruthi Sevanagar,  Bengaluru,  Karnataka 560084",
       "type": "Place"
     },
-    "startDate": "2025-01-18T07:00:00+05:30",
-    "endDate": "2025-01-18T08:30:00+05:30",
+    "startDate": "2025-01-26T17:00:00+05:30",
+    "endDate": "2025-01-26T19:00:00+05:30",
     "offers": [
       {
-        "price": 550,
+        "price": 4800,
         "priceCurrency": "INR"
       }
     ]
@@ -291,6 +291,44 @@
     "location": {
       "name": "Rising Star Sports Arena",
       "address": "42,  Dinne Anjaneya Swamy Temple Rd,  Eastwood Twp,  Haralur,  Bengaluru,  Karnataka 560102",
+      "type": "Place"
+    },
+    "startDate": "2025-01-18T07:00:00+05:30",
+    "endDate": "2025-01-18T08:30:00+05:30",
+    "offers": [
+      {
+        "price": 550,
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "name": "Footy With Sisters, Beginner - Indiranagar",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session_details/football/Footy With Sisters, Beginner - Indiranagar",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Football",
+    "description": "FOOTY WITH THE SISTERS \nBring out those football boots or shoes and remember to clean 'em nice! We're getting on the field to play the Beautiful game! \nThese sessions are open to all women! The football drills will be designed to both have fun and at the same time, learn and build on your basics of the sport! \nEach session is 90mins long, and will consist of a warm-up, football drills which are fun and athletic, a small game and a cool down at the end. It is a super fun start to your day and apart from that, even helps you get in your cardio for the day! \nWhat to wear? Comfortable workout clothes, incase you don't have access to football studs/turf shoes, training shoes would be sufficient. \nWhat to bring? A bottle of water, a towel to wipe off sweat (if required) and loads of enthusiasm to play :) \nDon't miss this!! See you on the field Sisters!! \nFor any further queries contact \nVaibhavi - 9886520914",
+    "image": "https://sistersinsweat.in/products/a1d0c6e83f027327d8461063f4ac58a617361453775.png",
+    "location": {
+      "name": "The Bull Ring Arena:",
+      "address": "THE BULLRING,  36,  Old Madras Rd,  next to BMTC 6th Depot,  Indira Nagar II Stage,  Hoysala Nagar,  Indiranagar,  Bengaluru,  Karnataka 560038",
       "type": "Place"
     },
     "startDate": "2025-01-18T07:00:00+05:30",
@@ -450,44 +488,6 @@
     "offers": [
       {
         "price": 425,
-        "priceCurrency": "INR"
-      }
-    ]
-  },
-  {
-    "name": "Bball Republic Day Tournament - Individual Booking",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.in/session_details/basketball/Bball Republic Day Tournament - Individual Booking",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.in"
-    },
-    "sport": "Basketball",
-    "description": "Republic Day Basketball Tournament - Individual\u00a0Registration\u00a0 \nREPORTING TIME: 8:15 AM \nSign up as an individual and if you don't have a team, we will assing you to a team. \nGame Details: \n \n Format: 5s games with teams of 8 (5 players, 3 subs). \n Level: Beginner + Intermediate \n At any given time, there must be 3 active Sisters and 2 active Misters on the court. \n Substitutions: \n  \n Sisters can replace only Sisters. \n Misters can replace only Misters. \n Additional subs can register as individuals. \n  \n  \n \nTournament Structure: \n \n Round Robin: Every team plays against every other team. \n Matches: Each team plays 4 matches, including a 3rd place match. \n Game Duration: \n  \n 8-2-8 (Two halves of 8 minutes each with a 2-minute halftime) \n  \n  \n \nTheme: \n \n Teams will represent one color of the Indian flag (4 teams total). \n \nFacilities: \n \n Changing rooms, washrooms, parking, and water will be available at the venue. \n Please carry your own water bottles. \n \nA detailed document with tournament rules will be shared closer to the event. \nFor any further queries contact - Vaibhavi: 9886520914",
-    "image": "https://sistersinsweat.in/products/c3c59e5f8b3e9753913f4d435b53c3081737107530WhatsApp Image 2025-01-17 at 14.10.46 (1).jpeg",
-    "location": {
-      "name": "St. Joseph's Arts And Science College",
-      "address": "#36,  Langford Rd,  opposite Axis Bank ATM,  Bheemanna Garden,  Langford Gardens,  Bengaluru,  Karnataka 560027",
-      "type": "Place"
-    },
-    "startDate": "2025-01-26T08:00:00+05:30",
-    "endDate": "2025-01-26T11:00:00+05:30",
-    "offers": [
-      {
-        "price": 600,
         "priceCurrency": "INR"
       }
     ]
