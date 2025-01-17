@@ -184,7 +184,7 @@ def fix_online_schema(url, event):
             and event["offers"][-1]["name"] == "Entry"
         ):
             del event["offers"][-1]
-    except KeyError:
+    except (KeyError, IndexError):
         pass
     try:
         if isinstance(event["organizer"], list) and len(event["organizer"]) == 1:
