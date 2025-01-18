@@ -292,52 +292,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "The Foodie Hive",
-    "description": "Welcome to the Foodie Hive!\ud83c\udf79A table where food lovers unite to share stories, swap flavor tips, and connect over their passion for great food.Come hungry for conversation and ready to meet fellow foodies!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2006269516004668B1200D99CD61D7EA_converted_webp.webp"
-    ],
-    "startDate": "2025-01-18T19:30:00+05:30",
-    "endDate": "2025-01-18T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3275, 1st Floor, 12th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3Tg2nYwXrjsR6IFy6nWA1KI",
-      "latitude": "12.97000760000000000000",
-      "longitude": "77.63627040000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 7,
-    "remainingAttendeeCapacity": 6,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "Meet a small group of strangers offline, with no agendas\u2014just good conversations and genuine connections. Whether it\u2019s a random thought or a deep dive, you never know where it might lead. Sometimes, the best connections happen when you least expect them.",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/the-foodie-hive",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Evolving & Embracing",
     "description": "The Joy of Growing Older!Growing older brings its fair share of lessons, laughter, and unexpected moments.This table is all about sharing the wisdom we\u2019ve gained, laughing at life\u2019s little surprises, and celebrating the beauty of aging with grace and humor.Let\u2019s embrace the journey, learn from the past, and enjoy every surprise along the way!",
     "image": [
@@ -937,53 +891,6 @@
       "Food & drink",
       "Leisure",
       "Premium",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Shop Around The Corner (1940) with TPCC",
-    "description": "The Shop Around The Corner, set in the backdrop of the festivities of Christmas, will enamor you with its witticism, humor but most of all by its warmth. Starring the ever charming James Stewart as Alfred, who revels in his pettiness towards his coworker Klara, played by Maraget Sullavan, this Ernst Lubitsch classic, will take you through a hilarious series of misunderstandings, miscommunications and mishaps, but will leave you feeling closer than ever to the magic of cinema.Who are The Parallel Cinema Club?We are a community-run film society based out of Bangalore and Hyderabad. We are a group of film enthusiasts who meet up once a week to discuss the reel world, auteurs and themes, and occasionally host guest lectures.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FB853CB94F68492CBB0B47A80887C733_converted_webp.webp"
-    ],
-    "startDate": "2025-01-18T18:00:00+05:30",
-    "endDate": "2025-01-18T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
-      "latitude": "12.96722140000000000000",
-      "longitude": "77.63669820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "We're a community center for thoughtful, kind, and interesting events.",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97905-32594"
-      }
-    },
-    "url": "https://urbanaut.app/spot/shop-around-the-corner-1940-with-the-parallel-ci",
-    "keywords": [
-      "Art & culture",
-      "History & heritage",
       "URBANAUT"
     ]
   },
