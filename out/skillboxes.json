@@ -20,7 +20,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 754,
+            "inventoryLevel": 751,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-paper-kites-live-in-bangalore"
          },
@@ -62,7 +62,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in General Zone.\n◉ General access to bars, f&b counters.",
-            "inventoryLevel": 1060,
+            "inventoryLevel": 1053,
             "name": "Phase 1 | Single - GA",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -70,7 +70,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
-            "inventoryLevel": 466,
+            "inventoryLevel": 462,
             "name": "Phase 1 | Single - Fan Zone",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -78,7 +78,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one couple (2 people) in General Zone. ◉ General access to bars, f&b counters.\n",
-            "inventoryLevel": 160,
+            "inventoryLevel": 158,
             "name": "Phase 1 | Couple - GA",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -86,7 +86,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one couple (2 people) in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
-            "inventoryLevel": 167,
+            "inventoryLevel": 165,
             "name": "Phase 1 | Couple - Fan Zone",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          }
@@ -116,7 +116,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 58,
+            "inventoryLevel": 54,
             "name": "Phase 2 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
          },
@@ -162,7 +162,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 538,
+            "inventoryLevel": 522,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/livebox-feat-the-aristocrats-bangalore"
          },
@@ -177,6 +177,91 @@
       ],
       "startDate": "2025-03-28T20:00:00",
       "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Just Us League: 4th Edition at Indiranagar SOCIAL\r\n\r\nJoin us for the 4th edition of Just Us League, a music-forward party series that brings people to",
+      "endDate": "2025-01-25T23:59:00",
+      "identifier": "com.skillboxes.18432",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1737203813ML2W4QcUYUdgRiwB.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9707322",
+            "longitude": "77.6476391"
+         },
+         "name": "Indiranagar Social"
+      },
+      "name": "Just Us League",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Venue T&C Apply. For Age(s) 21+\nA fully redeemable cover charge will be charged at the venue post 9pm.",
+            "inventoryLevel": 50,
+            "name": "Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/just-us-league-2"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Venue T&C Apply. For Age(s) 21+\nA fully redeemable cover charge will be charged at the venue post 9pm.",
+            "inventoryLevel": 50,
+            "name": "Phase 1 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/just-us-league-2"
+         }
+      ],
+      "startDate": "2025-01-25T19:00:00",
+      "url": "https://www.skillboxes.com/events/just-us-league-2"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Ghhjbhjggjmbyujhgghmbhhjhgyh",
+      "endDate": "2025-02-15T21:00:00",
+      "identifier": "com.skillboxes.18429",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UDRtV1lsYXVadWhieXFsZ0dhM3FEZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17371962882ClNSAHvWtOjVHLf.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "Valentine’s Jams - Zygo",
+      "offers": [ ],
+      "startDate": "2025-02-15T18:00:00",
+      "url": "https://www.skillboxes.com/events/valentine-s-jams-zygo"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "As an international multimodal database, Medline Academics becomes an online resource to help professional in the healthcare field gain more knowledge",
+      "endDate": "2026-01-18T15:07:00",
+      "identifier": "com.skillboxes.18427",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UWo3aThIeDNNa2Z2MXhuclZ3QUs2UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1737193060Dcn3STHQmkCcatqv.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Education"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "Fellowship in Embryology - Get Special Discount",
+      "offers": [ ],
+      "startDate": "2025-01-18T10:07:00",
+      "url": "https://www.skillboxes.com/events/fellowship-in-embryology-get-special-discount"
    },
    {
       "@context": "https://schema.org",
@@ -413,7 +498,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry is on a first-come, first-served basis, Holding an RSVP does not guarantee entry if the venue reaches capacity\n",
-            "inventoryLevel": 187,
+            "inventoryLevel": 167,
             "name": "RSVP/ Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/vasundhara-das-live-in-concert"
          }
@@ -448,7 +533,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Gates open at 8:30pm\nPlease help keep the venue clean and tidy.",
-            "inventoryLevel": 250,
+            "inventoryLevel": 248,
             "name": "An Evening Of The music of CCR, by the Ananth Menon Quartet",
             "url": "https://www.skillboxes.com/events/ticket/an-evening-of-the-music-of-creedence-clearwater-revival-by-the-ananth-menon-quartet"
          }
@@ -573,7 +658,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "To support organizing this event, we expect you to buy a cup of coffee at Starbucks\n",
-            "inventoryLevel": 19,
+            "inventoryLevel": 18,
             "name": "Entry",
             "url": "https://www.skillboxes.com/events/ticket/jab-we-quiz-bollywood-trivia"
          }
@@ -642,7 +727,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 99,
+            "inventoryLevel": 98,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/garam-masala-2"
          },
@@ -650,7 +735,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Full Cover Included In This Ticket. Redeemable On F&B\n",
-            "inventoryLevel": 98,
+            "inventoryLevel": 96,
             "name": "Full Cover Ticket",
             "url": "https://www.skillboxes.com/events/ticket/garam-masala-2"
          }
@@ -684,7 +769,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 190,
+            "inventoryLevel": 169,
             "name": "General Admission",
             "url": "https://www.skillboxes.com/events/ticket/giddy-hoo-and-12th-main-live-at-the-raft"
          }
@@ -718,7 +803,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 274,
+            "inventoryLevel": 263,
             "name": "Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/house-party-series-ft-moh-techblot-lavie"
          }
@@ -874,7 +959,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 88,
+            "inventoryLevel": 87,
             "name": "Couple - Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/protocol-ft-bloodyy-mascara-19th-jan-kitty-ko"
          },
@@ -917,7 +1002,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Please arrive by 5:45 pm to secure your seat. Gates close at 6:15pm sharp. No parking available, please use public transport.\nVenue has mostly floor seating, with some chairs. As this is a house concert venue, we request that footwear be removed at the entrance. It tends to get cold, so do bring something warm. There is also one very friendly large dog at this venue.",
-            "inventoryLevel": 45,
+            "inventoryLevel": 41,
             "name": "Saudades",
             "url": "https://www.skillboxes.com/events/ticket/saudades-by-kirtana-krishna"
          }
@@ -944,14 +1029,14 @@
             "latitude": "12.9562128",
             "longitude": "77.6388245"
          },
-         "name": "Dhurii Space"
+         "name": "Dhurii Academy of Arts"
       },
       "name": "Baat Niklegi Toh || Ghazal Baithak With Abhinav",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 989,
+            "inventoryLevel": 987,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/baat-niklegi-toh-ghazal-baithak-with-abhinav"
          }
@@ -985,7 +1070,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 56,
+            "inventoryLevel": 32,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/freak-opera-ft-gonno-osgut-ton-sanka-jp-open2close"
          },
@@ -1123,7 +1208,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges Rs 500 Applicable, fully redeamble on F&B\n",
-            "inventoryLevel": 136,
+            "inventoryLevel": 128,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/urban-rumble-12"
          }
@@ -1226,7 +1311,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 48,
+            "inventoryLevel": 47,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/sundowner"
          }
@@ -1256,32 +1341,7 @@
          "name": "SkyDeck by Sherlock's"
       },
       "name": "Friday Welcome 2025- Skydeck Rooftop Mg road",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "cover charges applicable throughout  the event\n",
-            "inventoryLevel": 88,
-            "name": "Stag",
-            "url": "https://www.skillboxes.com/events/ticket/friday-welcome-2025-skydeck-rooftop-mg-road"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry till 0930pm post cover charges applicable\n",
-            "inventoryLevel": 92,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/friday-welcome-2025-skydeck-rooftop-mg-road"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow one single entry\n",
-            "inventoryLevel": 100,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/friday-welcome-2025-skydeck-rooftop-mg-road"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2025-01-17T20:00:00",
       "url": "https://www.skillboxes.com/events/friday-welcome-2025-skydeck-rooftop-mg-road"
    },
@@ -1450,8 +1510,8 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry Only. Redeemable cover charge (MUST) applicable at the venue from 8:30PM starts at ₹500 & increases gradually. Please read TICKET TERMS in description.\nEntry Only. Redeemable cover charge (MUST) applicable at the venue from 8:30PM starts at ₹500 & increases gradually. Please read TICKET TERMS in description.",
-            "inventoryLevel": 40,
-            "name": "Standing - Early Bird",
+            "inventoryLevel": 200,
+            "name": "Standing - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/sreenath-bhasi-live-concert-at-ignite-super-club-hsr"
          },
          {
@@ -1460,6 +1520,14 @@
             "description": "Entry Only. Redeemable cover charge (MUST) applicable at the venue from 8:30PM starts at ₹500 & increases gradually. Please read TICKET TERMS in description.\nEntry Only. Redeemable cover charge (MUST) applicable at the venue from 8:30PM starts at ₹500 & increases gradually. Please read TICKET TERMS in description.",
             "inventoryLevel": 30,
             "name": "Fan Pit - Standing",
+            "url": "https://www.skillboxes.com/events/ticket/sreenath-bhasi-live-concert-at-ignite-super-club-hsr"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry Only. Redeemable cover charge (MUST) applicable at the venue from 8:30PM starts at ₹500 & increases gradually. Please read TICKET TERMS in description.\nEntry Only. Redeemable cover charge (MUST) applicable at the venue from 8:30PM starts at ₹500 & increases gradually. Please read TICKET TERMS in description.",
+            "inventoryLevel": 40,
+            "name": "Standing - Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/sreenath-bhasi-live-concert-at-ignite-super-club-hsr"
          }
       ],
@@ -1584,7 +1652,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "One vibe, one ticket - Swing solo into THUMP!\nAccess to a single individual",
-            "inventoryLevel": 299,
+            "inventoryLevel": 296,
             "name": "Lone Swinger",
             "url": "https://www.skillboxes.com/events/ticket/thump-1"
          },
@@ -1608,7 +1676,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Bring your ultimate ape squad and get your THUMP ON!\nAccess to 5 individuals",
-            "inventoryLevel": 200,
+            "inventoryLevel": 199,
             "name": "Planet of the Apes - Troop of 5",
             "url": "https://www.skillboxes.com/events/ticket/thump-1"
          },
@@ -1826,7 +1894,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Each pass permits one stag to the event.\nAdditional Cover charge applicable post 8 PM at the venue.",
-            "inventoryLevel": 98,
+            "inventoryLevel": 95,
             "name": "Stags - Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/suit-panda"
          },
