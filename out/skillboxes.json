@@ -1,6 +1,52 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "SkillBox proudly presents a sensational modern guitarist from Japan - ICHIKA NITO on his first ever India tour across Mumbai, Delhi NCR and ",
+      "endDate": "2025-03-02T23:59:00",
+      "identifier": "com.skillboxes.17678",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c0lGYzlCZU9aNVlnNnBWd2hYQkFrQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734180243rIR3p7gry4xQ7hD7.png.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": null,
+         "name": "To Be Announced"
+      },
+      "name": "Ichika Nito Live in Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
+            "inventoryLevel": 54,
+            "name": "Phase 2 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
+            "inventoryLevel": 0,
+            "name": "Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
+            "inventoryLevel": 0,
+            "name": "Phase 1 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
+         }
+      ],
+      "startDate": "2025-03-02T20:00:00",
+      "url": "https://www.skillboxes.com/events/ichika-nito-live-in-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "The Paper Kites Live in Bangalore\r\n\r\nLiveBox is proud to present the rock supergroup The Paper Kites\r\n\r\nVenues and opening acts to be announced.\r\n\r\nA ",
       "endDate": "2025-03-20T23:59:00",
@@ -93,52 +139,6 @@
       ],
       "startDate": "2025-02-16T17:00:00",
       "url": "https://www.skillboxes.com/events/bloomverse-express-bengaluru-feat-mr-big"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "SkillBox proudly presents a sensational modern guitarist from Japan - ICHIKA NITO on his first ever India tour across Mumbai, Delhi NCR and ",
-      "endDate": "2025-03-02T23:59:00",
-      "identifier": "com.skillboxes.17678",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c0lGYzlCZU9aNVlnNnBWd2hYQkFrQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1734180243rIR3p7gry4xQ7hD7.png.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "name": "To Be Announced"
-      },
-      "name": "Ichika Nito Live in Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 54,
-            "name": "Phase 2 Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 0,
-            "name": "Early Bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 0,
-            "name": "Phase 1 Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
-         }
-      ],
-      "startDate": "2025-03-02T20:00:00",
-      "url": "https://www.skillboxes.com/events/ichika-nito-live-in-bangalore"
    },
    {
       "@context": "https://schema.org",

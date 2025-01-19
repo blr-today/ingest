@@ -138,30 +138,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "@id": "69606-1737916200-1737920700@bangaloreinternationalcentre.org",
-    "name": "Chamber Music through the Ages",
-    "startDate": "2025-01-26T18:30:00+05:30",
-    "endDate": "2025-01-26T19:45:00+05:30",
-    "description": "Chamber music from various eras, presented by pianist Natallia Kapylova, born in Belarus and now residing in Bangalore, with visiting artists from Sweden, Kristina Winiarski (cello), Maria Winiarski (viola) and Maria Forsstr\u00f6m (mezzo-soprano). \n \nSupported by Furtados, the Swedish Arts Council and the Swedish Arts Grants Committee \n\u00a0 \u00a0 \u00a0 \u00a0 \n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \n",
-    "url": "https://bangaloreinternationalcentre.org/event/chamber-music-through-the-ages/",
-    "keywords": [
-      "Music",
-      "Performing Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "CreativeWork",
-      "name": "Chamber Music through the Ages"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-62.png"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "69209-1737903600-1737909000@bangaloreinternationalcentre.org",
     "name": "The Constitution and its Makers",
@@ -306,6 +282,30 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-693.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "@id": "69606-1737916200-1737921600@bangaloreinternationalcentre.org",
+    "name": "Chamber Music through the Ages",
+    "startDate": "2025-01-26T18:30:00+05:30",
+    "endDate": "2025-01-26T20:00:00+05:30",
+    "description": "Chamber music from various eras, presented by pianist Natallia Kapylova, born in Belarus and now residing in Bangalore, with visiting artists from Sweden, Kristina Winiarski (cello), Maria Winiarski (viola) and Maria Forsstr\u00f6m (mezzo-soprano). \n \nSupported by Furtados, Steinway & Sons, the Swedish Arts Council and the Swedish Arts Grants Committee \n\u00a0 \u00a0 \u00a0 \u00a0 \n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \n",
+    "url": "https://bangaloreinternationalcentre.org/event/chamber-music-through-the-ages/",
+    "keywords": [
+      "Music",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "Chamber Music through the Ages"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-62.png"
   },
   {
     "@context": "https://schema.org",

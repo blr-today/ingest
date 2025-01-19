@@ -261,7 +261,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 22,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -309,8 +309,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 9,
-    "remainingAttendeeCapacity": 5,
+    "maximumAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 1,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -455,7 +455,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -506,7 +506,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -557,7 +557,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -631,110 +631,6 @@
     "keywords": [
       "Food & drink",
       "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Utta Atta by grand-mother & grand-daughter",
-    "description": "This is an experience centre run by grand mother & grand daughter more than place to just dine, an experience to taste/learn old Karnataka/South Indian vegetarian food from a homeprenuer who is passionate of cooking. This is going to add her portfolio of making/selling chutneys/powders & making/selling homemade food using Triveni's Kitchen. Another experience is to learn/play old traditional Indian games with her granddaughter. She is not a pro though, but can certainly ensure you fun by the end of the session. ",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C5C7256A3C41410EB23A774D8890B4C3_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C01F08C9252044688B81D8863D90159D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3FC6E5FFBBAF4A1C8E0C17D4917E136F_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DCED60FD25D1432AA7B7DC02595F22B4_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/47E34DD931FC4AFE94D9F371238326AD_converted_webp.webp"
-    ],
-    "startDate": "2025-01-18T12:15:00+05:30",
-    "endDate": "2025-01-18T13:15:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Mantri Tanquil, BLOCK-J, MANTRI TRANQUIL, Mantri Tranquil Rd, Gubbalala, Subramanyapura, Bengaluru, Karnataka 560061, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ1XSRxe0_rjsR0gtZsch96KQ",
-      "latitude": "12.88770280000000000000",
-      "longitude": "77.54376010000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 6,
-    "remainingAttendeeCapacity": 6,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Triveni's Kitchen",
-      "description": "Cooking with passion since 1980",
-      "url": null,
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/6B27F68EBBBF41C1B3EE7E196920CD4B_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-89393-08978"
-      }
-    },
-    "url": "https://urbanaut.app/spot/utta-atta-by-grand-mother-grand-daughter#2025-01-18T1215",
-    "keywords": [
-      "Art & culture",
-      "Food & drink",
-      "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Utta Atta by grand-mother & grand-daughter",
-    "description": "This is an experience centre run by grand mother & grand daughter more than place to just dine, an experience to taste/learn old Karnataka/South Indian vegetarian food from a homeprenuer who is passionate of cooking. This is going to add her portfolio of making/selling chutneys/powders & making/selling homemade food using Triveni's Kitchen. Another experience is to learn/play old traditional Indian games with her granddaughter. She is not a pro though, but can certainly ensure you fun by the end of the session. ",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C5C7256A3C41410EB23A774D8890B4C3_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C01F08C9252044688B81D8863D90159D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3FC6E5FFBBAF4A1C8E0C17D4917E136F_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DCED60FD25D1432AA7B7DC02595F22B4_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/47E34DD931FC4AFE94D9F371238326AD_converted_webp.webp"
-    ],
-    "startDate": "2025-01-18T13:30:00+05:30",
-    "endDate": "2025-01-18T14:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Mantri Tanquil, BLOCK-J, MANTRI TRANQUIL, Mantri Tranquil Rd, Gubbalala, Subramanyapura, Bengaluru, Karnataka 560061, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ1XSRxe0_rjsR0gtZsch96KQ",
-      "latitude": "12.88770280000000000000",
-      "longitude": "77.54376010000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 6,
-    "remainingAttendeeCapacity": 6,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Triveni's Kitchen",
-      "description": "Cooking with passion since 1980",
-      "url": null,
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/6B27F68EBBBF41C1B3EE7E196920CD4B_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-89393-08978"
-      }
-    },
-    "url": "https://urbanaut.app/spot/utta-atta-by-grand-mother-grand-daughter#2025-01-18T1330",
-    "keywords": [
-      "Art & culture",
-      "Food & drink",
-      "History & heritage",
       "URBANAUT"
     ]
   },
@@ -891,52 +787,6 @@
       "Food & drink",
       "Leisure",
       "Premium",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Murder at the Levion Hotel - A Murder Mystery!",
-    "description": "From\u00a0Varun Gwalani, the author of locked-room murder mystery\u00a0The Only Way Out is Death, comes an original murder mystery that you can participate in!Inspired by the fictional detectives from the novel, this interactive game features 20 unique characters, all suffering from amnesia surrounding a recent murder. Work together with your fellow detectives, piece by piece, to uncover the truth while navigating red herrings and the possibility that one of your own is the cunning killer\u00a0",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/23A43150CF6A489D9CAC11AAFD682C8F_converted_webp.webp"
-    ],
-    "startDate": "2025-01-19T18:00:00+05:30",
-    "endDate": "2025-01-19T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
-      "latitude": "12.96722140000000000000",
-      "longitude": "77.63669820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 3,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "We're a community center for thoughtful, kind, and interesting events.",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97905-32594"
-      }
-    },
-    "url": "https://urbanaut.app/spot/murder-at-the-levion-hotel-a-murder-mystery",
-    "keywords": [
-      "Leisure",
       "URBANAUT"
     ]
   },
