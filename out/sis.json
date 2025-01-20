@@ -228,6 +228,43 @@
     ]
   },
   {
+    "name": "Pole Workshop with Azdah",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session_details/events/PoleWorkshopBangalore",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SESSION"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "description": "Looking for a fun way to boost your fitness and confidence? Join us for a 90-minute pole workshop! This class is perfect for everyone, whether you're a complete beginner or looking to build on your skills. Azdah, our incredible instructor will be there to support you every step of the way, helping you learn new moves and have a great time. It\u2019s all about discovering your strength, feminity\u00a0and expressing yourself in a welcoming environment.\u00a0 \nDate: 2nd February\u00a0\u00a02025, Sunday \nTime: 3\u00a0- 4.30\u00a0pm (Please arrive at the studio by 2.45 pm) \nVenue: Azdah, Indiranagar \nAttire:\u00a0We\u2019d recommend tight clothing that exposes as much skin as possible, because the skin to bar contact is very important. So you can carry a sports bra and cycling shorts or something of the sort! \n*Be sure to bring a water bottle to stay hydrated! \nContact Saachi (9513334690) for more info",
+    "image": "https://sistersinsweat.in/products/c22abfa379f38b5b0411bc11fa9bf92f173736894027c19c5f-f129-4f6a-8deb-ae82b1d180df.jpeg",
+    "location": {
+      "name": "Azdah",
+      "address": "Third Floor,  North Portion,  549/3,  9th A Main Rd,  Stage 1,  Indiranagar,  Bengaluru,  Karnataka 560038",
+      "type": "Place"
+    },
+    "startDate": "2025-02-02T15:00:00+05:30",
+    "endDate": "2025-02-02T16:30:00+05:30",
+    "offers": [
+      {
+        "price": 850,
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
     "name": "Footy Game-Night Sisters and Misters",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.in/session_details/football/Footy Game-Night Sisters &amp; Misters",
@@ -565,6 +602,44 @@
     "offers": [
       {
         "price": 425,
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "name": "Run With The Sisters",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session_details/running/Run With The Sisters",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Running",
+    "description": "Bangalore Sisters! \n \nThere's nothing quite like starting your Sunday by running in Cubbon Park - the lungs of the city - with a group of amazing women! \n \nThe Run session is led by an instructor and includes warm up, a 3K/5K run in the park (based on your comfort) and cool down.\u00a0 \n \nMeeting Time: 6:50am \nMeeting Point: In front of Coffee Day Square, across Cubbon Park \n \nAfter everyone has collected at the meeting point, we walk across to Cubbon Park by around 7am, where the instructor will begin the Warm Up. \n \nLevel: This session is open to runners of all Levels, from absolute beginners to regular runners. \n \nWhat you should carry: \n\u2022 Bottle of water \n\u2022 Running shoes preferable \n \nIn case of any queries, feel free to contact: \nAdit: +91 89514 18918 \nTanvie: +91 8800199418",
+    "image": "https://sistersinsweat.in/products/fa14d4fe2f19414de3ebd9f63d5c01691736147525RUN creatives copy.jpg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2025-01-26T07:00:00+05:30",
+    "endDate": "2025-01-26T08:30:00+05:30",
+    "offers": [
+      {
+        "price": 200,
         "priceCurrency": "INR"
       }
     ]
