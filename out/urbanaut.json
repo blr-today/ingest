@@ -642,5 +642,59 @@
       "Food & drink",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Wellness Day Retreat",
+    "description": "Welcome to the first ever Wellness Day Retreat at the Studio.The intention of this retreat is help the attendees to leave feeling a sense of companionship and clarity on their wellness journey. Our goal is for them to feel seen in their struggles, let go of the pressure to \"race\" toward wellness, and embrace the belief that they are enough, just as they are.Event FlowOpening CircleWelcome and grounding and breathworkAcknowledge the \"wellness race\" and share the event\u2019s purpose.Set intentions using a prompt like: \u201cWhat\u2019s one thing about wellness you\u2019d like to unlearn?\u201dGentle movement practice (stretching/mindful walking).Movement PracticeGentle wellness activity: yin yoga, guided meditation, or breathwork.Sharing CircleOpen with personal reflections on \"wellness check boxing.\"Encourage shared experiences to foster connection.Mindful DinnerIntroduce mindful eating by Chef Sarah - Founder of Copper + Cloves.Quiet, introspective space by the window for those who prefer solitude.Closing CirclePopcorn-style or paired reflections.Connection Corner ElementsPalo Santo for cleansing.Journaling materials and prompts.Aromatherapy with essential oils.Relaxation tools: candles, eye covers, tarot cards.Nourishment: fresh fruit.We\u2019re excited to host you and nurture a holistic approach to wellness in this beautiful space.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7AE09BA75E2A47D18D0DD63C7F1F9439_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1EE2700039924332B38E7BB7F8A7642B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/92DBE3AA63954120A4087FA17247DC2F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/50CB6AE729DC4F75B997A2758A028129_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5CE52145FA4449139BB9F39EF589FF7D_converted_webp.webp"
+    ],
+    "startDate": "2025-02-02T15:00:00+05:30",
+    "endDate": "2025-02-02T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/the-wellness-day-retreat",
+    "keywords": [
+      "Food & drink",
+      "Responsible",
+      "Wellness",
+      "Workshop",
+      "Eco Friendly",
+      "URBANAUT"
+    ]
   }
 ]
