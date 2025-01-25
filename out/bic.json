@@ -23,30 +23,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "@id": "69767-1738782000-1738787400@bangaloreinternationalcentre.org",
-    "name": "Traversing Sonic Terrain",
-    "startDate": "2025-02-05T19:00:00+05:30",
-    "endDate": "2025-02-05T20:30:00+05:30",
-    "description": "\n\nNishad Pandey (guitar) and Aman Mahajan (piano) perform and delve into the creation of the abstract, contemporary, and often improvised music, that defines their signature style as\u00a0Tinctures. \n\n\nSupported by:\n\n",
-    "url": "https://bangaloreinternationalcentre.org/event/traversing-sonic-terrain/",
-    "keywords": [
-      "Music",
-      "Performing Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "CreativeWork",
-      "name": "Traversing Sonic Terrain"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-704.jpg"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "69209-1737903600-1737909000@bangaloreinternationalcentre.org",
     "name": "The Constitution and its Makers",
@@ -91,6 +67,30 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-695.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "@id": "63762-1740769200-1740772800@bangaloreinternationalcentre.org",
+    "name": "The Earthquake",
+    "startDate": "2025-02-28T19:00:00+05:30",
+    "endDate": "2025-02-28T20:00:00+05:30",
+    "description": "\n54 minutes |\u00a0English, Hindi, Kannada | Suitable for 13+ Years\nTrigger Warnings: Themes of Loneliness\u00a0\n\n\n\n\nDo you ever feel alone, even when surrounded by people? Do you crave connection, even when it cracks a little? \nMira and Sameer meet every week, their meeting as familiar as the apple they share. They speak. Someone leaves. They do this again. And again. Mira goes on a boat ride. Sameer stays in a bubble. There is silence. And again. Mira and Sameer are friends\u2026 Yet, their unspoken words scream louder than their conversations. \nThis is a story of cycles. Of coming together, drifting apart, and all the spaces in between. \nWhat happens when we finally face our truth? Maybe we hear a strange noise\u2026 \nThis is an adaptation of \u201cBh\u016bmikampa \u2013 Das Erdbeben\u201d which received funding for International Cultural Projects from The Department of Arts and Culture of the City of Munich \n\n\nFrom the Playwrights (Samragni Dasgupta and Marvin Krause):\nTwo young artists from India and Germany meet on a farm in Bengaluru as part of an exchange program. They get to know each other and realise that cultural differences are just one aspect of human connection. They come together to develop something together. But what?The idea for this collaboration started with a conversation about loneliness. Above all, how loneliness is a common factor for young people in all countries. From loneliness to the intricacies of human relationships, two people began an intensive writing process to explore the many facets of human connection.\n\nFrom the Director:\n\u201cMira and Sameer find themselves on a bench, surrounded by unspoken words. \u2018The Earthquake\u2019 delves into the essence of human relationships\u2014our connections, routines, distances, and all the spaces in between. It asks us what it means to be truly seen or heard. What happens when we finally face the unspoken truths in our interpersonal relationships?\u201d\n\n\n\u00a0 \nCredits: \nPlaywrights: Marvin Krause and Samragni Dasgupta\nDirector: Samragni Dasgupta \nCast: \nMira: Yamuna Kali\nSameer: Naman Roy \nThe Earthquake received the Internationaler Kulturprojekte Grant 2023 from the Landeshauptstadt M\u00fcnchen Kulturreferat (City of Munich). \nProduced by\u00a0 \u00a0\u00a0 \n\nWith Support from \n\n \n\n",
+    "url": "https://bangaloreinternationalcentre.org/event/the-earthquake/",
+    "keywords": [
+      "Performing Arts",
+      "Theatre"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "kn",
+    "workPerformed": {
+      "@type": "TheaterPlay",
+      "name": "The Earthquake"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-599.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -268,7 +268,10 @@
     "description": "Despite what many people think, India is a land of constant change, innovation and movement. Ephemerality and constant adaptation are woven into Indian philosophies, religions, and customs \u2013 whether darshan with a deity, drawing with powdered rangoli or kolams in the early morning, chanting a mantra, practicing yoga, immersing oneself in Aarthi or in offerings to the Divine. Each requires a pause in the rush of daily life. Duty to others, to society, and to the future, is suspended for the moment of being present. \nStephen Huyler has spent his life observing and listening, mesmerized by these very Indian expressions, resulting in six illustrated books, and over 25 museum exhibitions abroad as well as in India. \nThis session draws on Huyler\u2019s book Transformed By India,\u00a0exploring his many encounters, from maharajahs to musicians, Dalits to Brahmins, politicians to potters,\u00a0from layered traditions to recent innovations, of India\u2019s momentary arts. \nStephen Huyler will be in conversation with Sandhya Mendonca. This will be followed by a Q&A session with the audience. \n",
     "url": "https://bangaloreinternationalcentre.org/event/swept-away-being-in-the-moment/",
     "keywords": [
-      "Books"
+      "Books",
+      "Nonfiction",
+      "Philosophy",
+      "Society"
     ],
     "location": {
       "@type": "Place",

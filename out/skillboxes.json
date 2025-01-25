@@ -204,20 +204,71 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 49,
-            "name": "Early Bird || Single Pass",
+            "inventoryLevel": 45,
+            "name": "Phase 1 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/meet-the-artist-presents-boundless-by-sid-sriram-bangalore"
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Phase 1 || Single Pass",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "Early Bird || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/meet-the-artist-presents-boundless-by-sid-sriram-bangalore"
          }
       ],
       "startDate": "2025-02-20T20:00:00",
       "url": "https://www.skillboxes.com/events/meet-the-artist-presents-boundless-by-sid-sriram-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get Ready for the Biggest Modern Metal Festival in India brought to you by HoldStill Records! We are back with the Third Edition o",
+      "endDate": "2025-03-23T23:59:00",
+      "identifier": "com.skillboxes.18559",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/V3ZjTERBKzB3bFRFOWIxWXgxMTRWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17377212398DQ0MUawFxwRxcbZ.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9151581",
+            "longitude": "77.6664719"
+         },
+         "name": "White Lotus Club Bengaluru"
+      },
+      "name": "Modern Machines Volume 3",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Super Discounted Tickets for the exclusive metalheads.\nGrants entry to 1 person to the show. No cover charge required.",
+            "inventoryLevel": 15,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/modern-machines-volume-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Discounted Phase 1 tickets.\nGrants entry to 1 person to the show. An additional cover charge is applicable at the venue which is fully redeemable for food and beverages.",
+            "inventoryLevel": 150,
+            "name": "Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/modern-machines-volume-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Phase 2 tickets.\nGrants entry to 1 person to the show. An additional cover charge is applicable at the venue which is fully redeemable for food and beverages.",
+            "inventoryLevel": 200,
+            "name": "Phase 2",
+            "url": "https://www.skillboxes.com/events/ticket/modern-machines-volume-3"
+         }
+      ],
+      "startDate": "2025-03-23T18:00:00",
+      "url": "https://www.skillboxes.com/events/modern-machines-volume-3"
    },
    {
       "@context": "https://schema.org",
@@ -771,7 +822,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "XXL PRE GAME - ALARICO\r\n\r\nSat, 08-Feb-2025",
+      "description": "(FAST PACED GROOVY TECHNO)\r\n\r\n \r\n\r\nBEYONDVOIDxKLKTVxASTRALWORX Presents\r\n\r\n \r\n\r\nXXL PREGAME\r\n\r\n \r\n\r\nFEATURING\r\n\r\n \r\n\r\nALARICO stan",
       "endDate": "2025-02-08T23:59:00",
       "identifier": "com.skillboxes.18504",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1737696435Eyy1LOm3bNya834v.jpg.webp",
