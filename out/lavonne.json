@@ -1,51 +1,5 @@
 [
   {
-    "name": "Puff Pastry & Choux",
-    "description": "A session of classical french pastries – for Puff, a showcasing of hand lamination, achieving a flakey, buttery pastry with a sweet & savoury filling to add on to the deliciousness. For Choux, the beauty of making, piping & baking choux buns & good old eclairs alongside flavors of creme patissiere.\n• Savoury puff\n• Apple turnovers\n• Chocolate Profiteroles with chocolate pastry cream and Chocolate Namelaka\n• Mango Eclair with mango pastry cream with Vanilla Namelaka",
-    "startDate": "2025-01-25T09:00:00+05:30",
-    "endDate": "2025-01-25T17:00:00+05:30",
-    "offers": {
-      "@type": "Offer",
-      "price": "5000",
-      "priceCurrency": "INR"
-    },
-    "location": {
-      "@type": "Place",
-      "name": "Lavonne Academy",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "263, 3rd Cross Rd, Stage 2, Domlur",
-        "addressLocality": "Bangalore",
-        "addressRegion": "Karnataka",
-        "addressCountry": "IN"
-      }
-    },
-    "url": "https://www.lavonne.in/courses/short-term/weekend-calendar/#:~:text=Puff%20Pastry%20%26%20Choux"
-  },
-  {
-    "name": "Comfort Cookies (Eggless | LBS)",
-    "description": "From fully loaded hazelnut chocolate, to oatmeal cranberry, learn the most delicious cookies from the past and future, all eggless.\n• Chocolate Chip Cookie loaded with hazelnut praline, caramelised hazelnuts and milk chocolate ganache enrobed in a nutty chocolate coating\n• Oatmeal Raisin Cranberry Cookie topped with honey granola",
-    "startDate": "2025-01-25T10:00:00+05:30",
-    "endDate": "2025-01-25T13:00:00+05:30",
-    "offers": {
-      "@type": "Offer",
-      "price": "2950",
-      "priceCurrency": "INR"
-    },
-    "location": {
-      "@type": "Place",
-      "name": "Lavonne Academy",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "263, 3rd Cross Rd, Stage 2, Domlur",
-        "addressLocality": "Bangalore",
-        "addressRegion": "Karnataka",
-        "addressCountry": "IN"
-      }
-    },
-    "url": "https://rzp.io/l/LBS-cookies"
-  },
-  {
     "name": "Enriched Breads",
     "description": "From the classic sugar glazed donut to the most extravagant brioche! This workshop focuses on the techniques to create and work doughs with high fat content a.k.a enriched doughs! Learn to perfect your donut rings and make a bunch of delicious fillings to take your breads to the next level!\n• Classic Glazed\n• Cinnamon Sugar\n• Coffee Cocoa\n• Peanut Butter Jelly\n• Vanilla Blueberry\n• Berry Jam\n• Brioche à Tête\n• Mascarpone-filled",
     "startDate": "2025-02-01T09:00:00+05:30",
@@ -184,29 +138,6 @@
     "url": "https://rzp.io/l/LBS-tiramisu"
   },
   {
-    "name": "Entremets",
-    "description": "This between-the-layers workshop is all about constructing perfect entremets with different textures! Along with the right recipes and balanced ratios, you will also learn the glazing, garnishing and finishing techniques to make your entremets look the most exquisite!\n• Coffee & Hazelnut Moelleux\n• Coffee Cremeux\n• Hazelnut Praline Crunch\n• Milk Chocolate Coffee Mousse\n• Banana Sponge\n• Exotic Fruit Compote\n• Passion Cremeux\n• Caramelized White Chocolate Mousse\n• Mirror Glaze",
-    "startDate": "2025-02-22T09:00:00+05:30",
-    "endDate": "2025-02-22T17:00:00+05:30",
-    "offers": {
-      "@type": "Offer",
-      "price": "5500",
-      "priceCurrency": "INR"
-    },
-    "location": {
-      "@type": "Place",
-      "name": "Lavonne Academy",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "263, 3rd Cross Rd, Stage 2, Domlur",
-        "addressLocality": "Bangalore",
-        "addressRegion": "Karnataka",
-        "addressCountry": "IN"
-      }
-    },
-    "url": "https://www.lavonne.in/courses/short-term/weekend-calendar/#:~:text=Entremets"
-  },
-  {
     "name": "Savoury Bakes",
     "description": "Step into the ‘hot’ side of our kitchen where we’ll be making a variety of savory products like tarts, quiches and bagels! Dive into the techniques of working with shortcrust pastry and baking perfect bagels!\n• Mushroom Thyme & Spinach Tart\n• Oriental Chicken Tart\n• Caramelized Onions & Feta Cheese Tart\n• Calzone\n• Jerusalem Bagels",
     "startDate": "2025-03-01T09:00:00+05:30",
@@ -274,6 +205,29 @@
       }
     },
     "url": "https://www.lavonne.in/courses/short-term/weekend-calendar/#:~:text=Baked%20Desserts"
+  },
+  {
+    "name": "Entremets",
+    "description": "This between-the-layers workshop is all about constructing perfect entremets with different textures! Along with the right recipes and balanced ratios, you will also learn the glazing, garnishing and finishing techniques to make your entremets look the most exquisite!\n• Coffee & Hazelnut Moelleux\n• Coffee Cremeux\n• Hazelnut Praline Crunch\n• Milk Chocolate Coffee Mousse\n• Banana Sponge\n• Exotic Fruit Compote\n• Passion Cremeux\n• Caramelized White Chocolate Mousse\n• Mirror Glaze",
+    "startDate": "2025-03-22T09:00:00+05:30",
+    "endDate": "2025-03-22T17:00:00+05:30",
+    "offers": {
+      "@type": "Offer",
+      "price": "5500",
+      "priceCurrency": "INR"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Lavonne Academy",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "263, 3rd Cross Rd, Stage 2, Domlur",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      }
+    },
+    "url": "https://www.lavonne.in/courses/short-term/weekend-calendar/#:~:text=Entremets"
   },
   {
     "name": "Basics in Chocolate",
