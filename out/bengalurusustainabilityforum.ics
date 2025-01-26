@@ -21,7 +21,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241201
 DTEND;VALUE=DATE:20250301
-DTSTAMP:20250126T120453
+DTSTAMP:20250126T181711
 CREATED:20241214T062834Z
 LAST-MODIFIED:20241214T062834Z
 UID:12123-1733011200-1740787199@www.bengalurusustainabilityforum.org
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20241221T080000
 DTEND;TZID=Asia/Kolkata:20250305T170000
-DTSTAMP:20250126T120453
+DTSTAMP:20250126T181711
 CREATED:20241209T034106Z
 LAST-MODIFIED:20241209T034106Z
 UID:12054-1734768000-1741194000@www.bengalurusustainabilityforum.org
@@ -49,7 +49,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250111
 DTEND;VALUE=DATE:20250217
-DTSTAMP:20250126T120453
+DTSTAMP:20250126T181711
 CREATED:20241230T113546Z
 LAST-MODIFIED:20250103T073122Z
 UID:12387-1736553600-1739750399@www.bengalurusustainabilityforum.org
@@ -61,23 +61,9 @@ CATEGORIES:External event,Hybrid Event
 ATTACH;FMTTYPE=image/jpeg:https://www.bengalurusustainabilityforum.org/wp-content/uploads/2025/01/3.jpg
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20250126T100000
-DTEND;TZID=Asia/Kolkata:20250126T170000
-DTSTAMP:20250126T120453
-CREATED:20250123T043923Z
-LAST-MODIFIED:20250123T043923Z
-UID:12745-1737885600-1737910800@www.bengalurusustainabilityforum.org
-SUMMARY:Lalbagh Flower Show
-DESCRIPTION:Be part of this volunteering activity organised by Saahas in making Lalbagh litter-free during the ‘Lalbagh flower show’. Volunteers will raise awareness and participate in plogging activities to keep the premises clean. Choose from two slots: 10 AM–1 PM or 2 PM–5 PM (arrive 30 minutes early).  \nRegister here! \n  \n 
-URL:https://www.bengalurusustainabilityforum.org/event/lalbagh-flower-show/2025-01-26/
-LOCATION:Lalbagh West Gate (metro station gate) or East Gate – Bonsai Park Gate\, Bangalore
-CATEGORIES:External event
-ORGANIZER;CN="Saahas":MAILTO:sneha@saahas.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250126T160000
 DTEND;TZID=Asia/Kolkata:20250126T190000
-DTSTAMP:20250126T120453
+DTSTAMP:20250126T181711
 CREATED:20250123T061238Z
 LAST-MODIFIED:20250123T061238Z
 UID:12765-1737907200-1737918000@www.bengalurusustainabilityforum.org
@@ -90,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250130T090000
 DTEND;TZID=Asia/Kolkata:20250130T170000
-DTSTAMP:20250126T120453
+DTSTAMP:20250126T181711
 CREATED:20250123T042350Z
 LAST-MODIFIED:20250123T043043Z
 UID:12724-1738227600-1738256400@www.bengalurusustainabilityforum.org
@@ -103,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250131T090000
 DTEND;TZID=Asia/Kolkata:20250131T170000
-DTSTAMP:20250126T120453
+DTSTAMP:20250126T181711
 CREATED:20250123T042350Z
 LAST-MODIFIED:20250123T043043Z
 UID:12727-1738314000-1738342800@www.bengalurusustainabilityforum.org
@@ -112,5 +98,19 @@ DESCRIPTION:The “ClimatEd Summit: Envisioning New Pathways for Education” is
 URL:https://www.bengalurusustainabilityforum.org/event/climated-summit-envisioning-new-pathways-for-education/2025-01-31/
 LOCATION:Bangalore International Centre\, 7\, 4th Main Rd\, Stage 2\, Domlur\, Bengaluru\, Karnataka 560071
 CATEGORIES:External event,In-person Event
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20250201T100000
+DTEND;TZID=Asia/Kolkata:20250201T160000
+DTSTAMP:20250126T181711
+CREATED:20250126T070226Z
+LAST-MODIFIED:20250126T070653Z
+UID:12771-1738404000-1738425600@www.bengalurusustainabilityforum.org
+SUMMARY:Rise Pico Summit Bengaluru Pavillion
+DESCRIPTION:Join Saahas at Dialogues Cafe\, Koramangala\, between 10 AM to 4 PM for a sustainable forum. Have an exciting\, insightful and inspiring day with Master Classes by renowned speakers\, DIY Repair Workshops\, a Sustainable Fashion Show and absorb innovating learning methods at schools! \nRegister here \n  \n  \n  \n  \n \n  \n  \n  \n  \n  \n 
+URL:https://www.bengalurusustainabilityforum.org/event/rise-pico-summit-bengaluru-pavillion/
+LOCATION:Dialogues Cafe\, Dialogues Cafe\, 3rd floor\, 21\, 80 Feet Rd\, S.T. Bed\, 4th Block\, Koramangala\, Bengaluru\, Karnataka\, 560095\, India
+CATEGORIES:External event,Hybrid Event
+ORGANIZER;CN="Saahas":MAILTO:sneha@saahas.org
 END:VEVENT
 END:VCALENDAR

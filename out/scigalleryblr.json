@@ -40,5 +40,84 @@
       }
     ],
     "maximumAttendeeCapacity": 300
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Down The Drain",
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre",
+      "address": "Bangalore International Centre, Bangalore",
+      "url": "https://maps.app.goo.gl/ec1jzM7drH716qJQ9"
+    },
+    "startDate": "2025-02-01T11:05:00+05:30",
+    "endDate": "2025-02-01T12:05:00+05:30",
+    "description": "Down The Drain is a documentary-fiction film about Bangalore\u2019s sewage, told from the perspective of a woman who accidentally flushes a watch down the toilet.<br>In tracing the journey that the watch takes from the toilet, the woman gets glimpses into the pipes and people that make up the sewage system in the city, and observes the system as well as its parts through conversations with different people.<br><br>Join us for a discussion with filmmaker Nitya Misra and socio-hydrologist Veena Srinivasan as they explore the narratives, insights, and larger implications explored in the film.<br><br>This film is commissioned by Science Gallery Bengaluru.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=down-the-drain",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Nitya-Misra"
+      },
+      {
+        "@type": "Person",
+        "name": "Veena-Srinivasan"
+      }
+    ],
+    "maximumAttendeeCapacity": 200
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Fun @ Sun and July Boys",
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre",
+      "address": "Bangalore International Centre, Bangalore",
+      "url": "https://maps.app.goo.gl/ec1jzM7drH716qJQ9"
+    },
+    "startDate": "2025-02-02T11:45:00+05:30",
+    "endDate": "2025-02-02T13:15:00+05:30",
+    "description": "The Indian software outsourcing industry emerged as a key node of the global information economy around the turn of the century, and Indian software engineers became a highly visible category of global \u2018knowledge workers\u2019. The Coding Culture film series, shot during 2004-05, provides a glimpse into different segments and dimensions of Bangalore\u2019s software industry, its work culture, and the people who worked in it, during that period. Fun @ Sun is set in the software development centre of a large American multinational company, while July Boys exemplifies the new breed of venture capital-funded startups that emerged in Bangalore in the early 2000s. <br><br>Join filmmakers Gautam Sonti and Carol Upadhya as they reflect on the making of the Coding Culture film series and discuss the evolving landscape of Bangalore\u2019s software industry, its work culture, and its impact on the lives of those within.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=july-boys-fun-sun",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Gautam-Sonti"
+      },
+      {
+        "@type": "Person",
+        "name": "Carol-Upadhya"
+      }
+    ],
+    "maximumAttendeeCapacity": 200
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "In Search of Gold",
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre",
+      "address": "Bangalore International Centre, Bangalore",
+      "url": "https://maps.app.goo.gl/ec1jzM7drH716qJQ9"
+    },
+    "startDate": "2025-02-02T14:00:00+05:30",
+    "endDate": "2025-02-02T15:00:00+05:30",
+    "description": "Set in the once thriving colonial gold mining township of Kolar Gold Fields (KGF), In Search of Gold attempts to weave together the different lived and remembered histories of people who built this highly profitable enterprise. Against the background of the grim imagery of the now defunct mining operations, the film brings together narratives of collective socio-political struggles of the past, nostalgia for lost privileges and communities, and the anxiety of an uncertain future, of a fragmented society.<br><br>Join filmmaker Basav Biradar and physicists Nirmal Raj and Palahalli Vishwanath as they explore the legacy of Kolar Gold Fields (KGF) from both historical and scientific perspectives.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=in-search-gold",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Basav-Biradar"
+      },
+      {
+        "@type": "Person",
+        "name": "Nirmal-Raj"
+      },
+      {
+        "@type": "Person",
+        "name": "Palahalli-Vishwanath"
+      }
+    ],
+    "maximumAttendeeCapacity": 100
   }
 ]
