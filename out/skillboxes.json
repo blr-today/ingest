@@ -21,7 +21,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Cover Charges Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 171,
+            "inventoryLevel": 168,
             "name": "Phase 2 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
          },
@@ -66,7 +66,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 634,
+            "inventoryLevel": 618,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-paper-kites-live-in-bangalore"
          },
@@ -108,7 +108,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in General Zone.\n◉ General access to bars, f&b counters.",
-            "inventoryLevel": 1004,
+            "inventoryLevel": 1000,
             "name": "Phase 1 | Single - GA",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -116,7 +116,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one individual in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
-            "inventoryLevel": 410,
+            "inventoryLevel": 409,
             "name": "Phase 1 | Single - Fan Zone",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
@@ -124,16 +124,48 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "◉ Grants access to one couple (2 people) in General Zone. ◉ General access to bars, f&b counters.\n",
-            "inventoryLevel": 115,
+            "inventoryLevel": 110,
             "name": "Phase 1 | Couple - GA",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "◉ Grants access to three individuals in General Zone. ◉ General access to bars, f&b counters.\n",
+            "inventoryLevel": 200,
+            "name": "Group of 3 - GA",
+            "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "◉ Grants access to four individuals in General Zone. ◉ General access to bars, f&b counters.\n",
+            "inventoryLevel": 200,
+            "name": "Group of 4 - GA",
+            "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "◉ Grants access to one couple (2 people) in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
-            "inventoryLevel": 119,
+            "inventoryLevel": 117,
             "name": "Phase 1 | Couple - Fan Zone",
+            "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "◉ Grants access to three individuals in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
+            "inventoryLevel": 200,
+            "name": "Group of 3 - Fan Zone",
+            "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "◉ Grants access to four individuals in Fan Zone. ◉ Front of stage viewing zone. ◉ Exclusive access to bars. ◉ Dedicated entry lane to the event.\n",
+            "inventoryLevel": 200,
+            "name": "Group of 4 - Fan Zone",
             "url": "https://www.skillboxes.com/events/ticket/bloomverse-express-bengaluru-feat-mr-big"
          }
       ],
@@ -162,7 +194,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 489,
+            "inventoryLevel": 488,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/livebox-feat-the-aristocrats-bangalore"
          },
@@ -204,7 +236,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 199,
+            "inventoryLevel": 191,
             "name": "Phase 2 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/meet-the-artist-presents-boundless-by-sid-sriram-bangalore"
          },
@@ -225,6 +257,167 @@
       ],
       "startDate": "2025-02-20T20:00:00",
       "url": "https://www.skillboxes.com/events/meet-the-artist-presents-boundless-by-sid-sriram-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "We’re thrilled to bring you GEARMASTER, a mind-bending sonic journey presented by Entente.fm x KLKTV & Abdul Raeva! Get ready for a trippy S",
+      "endDate": "2025-02-02T23:59:00",
+      "identifier": "com.skillboxes.18610",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1738060471zP4O95xxvbQPzQ3w.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9849438",
+            "longitude": "77.5808105"
+         },
+         "name": "The Burrow"
+      },
+      "name": "Entente X KLKTV & Abdul Raeva Present: Gearmasters",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover Charges applicable at the gate\n",
+            "inventoryLevel": 14,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/entente-x-klktv-abdul-raeva-present-gearmasters"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover Charges applicable at the gate\n",
+            "inventoryLevel": 25,
+            "name": "Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/entente-x-klktv-abdul-raeva-present-gearmasters"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover Charges applicable at the gate\n",
+            "inventoryLevel": 40,
+            "name": "Phase 2",
+            "url": "https://www.skillboxes.com/events/ticket/entente-x-klktv-abdul-raeva-present-gearmasters"
+         }
+      ],
+      "startDate": "2025-02-02T17:00:00",
+      "url": "https://www.skillboxes.com/events/entente-x-klktv-abdul-raeva-present-gearmasters"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "HARDGROUND Ft Samantha Tongi",
+      "endDate": "2025-02-14T23:59:00",
+      "identifier": "com.skillboxes.18606",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1738053078HM3TH2c1ZIyGbI8q.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "A-1, D Rajgopala, nagar, Sanjay Nagar Main Rd, AECS Layout, KEB Layout, Sanjayanagara, Bengaluru, Karnataka 560094, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0314698",
+            "longitude": "77.5771977"
+         },
+         "name": "ZOZO THE CLUB"
+      },
+      "name": "HARDGROUND Ft Samantha Tongi",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable at the gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/hardground-ft-samantha-tongi"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable at the gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Male Pass",
+            "url": "https://www.skillboxes.com/events/ticket/hardground-ft-samantha-tongi"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable at the gates.\n",
+            "inventoryLevel": 1000,
+            "name": "VIP Pass",
+            "url": "https://www.skillboxes.com/events/ticket/hardground-ft-samantha-tongi"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable at the gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Group of 5 VIP",
+            "url": "https://www.skillboxes.com/events/ticket/hardground-ft-samantha-tongi"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable at the gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Group of 10 VIP",
+            "url": "https://www.skillboxes.com/events/ticket/hardground-ft-samantha-tongi"
+         }
+      ],
+      "startDate": "2025-02-14T18:00:00",
+      "url": "https://www.skillboxes.com/events/hardground-ft-samantha-tongi"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "All after-party roads lead straight to zozo this Saturday Featuring HOZAIRLet the “After party Session” take you over as we bring you",
+      "endDate": "2025-02-01T23:00:00",
+      "identifier": "com.skillboxes.18603",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QlVDVncvWVNVVlNTc3Fwcy8xS2M4QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17380491786qrQcnq932aPQJOa.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "A-1, D Rajgopala, nagar, Sanjay Nagar Main Rd, AECS Layout, KEB Layout, Sanjayanagara, Bengaluru, Karnataka 560094, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0314698",
+            "longitude": "77.5771977"
+         },
+         "name": "ZOZO THE CLUB"
+      },
+      "name": "AFTER SESSION - Techno & House",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Couple walk in Free until 10 pm - post 10 cover charges apply\ncover charger full redeemable",
+            "inventoryLevel": 100,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/after-session"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Stag free entry until 9 30 - post 9 30 cover chargers apply\ncovers fully redeemable",
+            "inventoryLevel": 195,
+            "name": "STAG",
+            "url": "https://www.skillboxes.com/events/ticket/after-session"
+         }
+      ],
+      "startDate": "2025-02-01T19:00:00",
+      "url": "https://www.skillboxes.com/events/after-session"
    },
    {
       "@context": "https://schema.org",
@@ -473,7 +666,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 30,
+            "inventoryLevel": 29,
             "name": "entry pass",
             "url": "https://www.skillboxes.com/events/ticket/tinctures-at-odyssey-school-of-music"
          }
@@ -552,13 +745,13 @@
          },
          "name": "Sunburn Union Bengaluru"
       },
-      "name": "Lifafa Live at Sunburn Unioin",
+      "name": "Lifafa Live at Sunburn Union",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry to one individual only. Mandatory cover charge applicable at the venue. Club rules apply.\n",
-            "inventoryLevel": 974,
+            "inventoryLevel": 962,
             "name": "GA Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/lifafa-live-at-sunburn-unioin"
          },
@@ -566,7 +759,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry to one individual only. Mandatory cover charge applicable at the venue. Club rules apply.\n",
-            "inventoryLevel": 67,
+            "inventoryLevel": 53,
             "name": "VIP Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/lifafa-live-at-sunburn-unioin"
          }
@@ -724,7 +917,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Cover Charge INR 500/- Per Individual Applicable At Gates. Redeemable On F&B\n",
-            "inventoryLevel": 244,
+            "inventoryLevel": 243,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-nineoeight-padmini-records-present-oceantied-angus-12-live-inspector-maal-double-t-1"
          },
@@ -767,7 +960,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Discounted Phase 1 tickets.\nGrants entry to 1 person to the show. An additional cover charge is applicable at the venue which is fully redeemable for food and beverages.",
-            "inventoryLevel": 143,
+            "inventoryLevel": 139,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/modern-machines-volume-3"
          },
@@ -895,7 +1088,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable at the gates.\n",
-            "inventoryLevel": 144,
+            "inventoryLevel": 142,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/karah-india-tour-2025-bangalore"
          },
@@ -903,7 +1096,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable at the gates.\n",
-            "inventoryLevel": 150,
+            "inventoryLevel": 147,
             "name": "VIP Ticket",
             "url": "https://www.skillboxes.com/events/ticket/karah-india-tour-2025-bangalore"
          },
@@ -1171,7 +1364,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "To support organizing the open mic, we expect you to buy a cup of coffee at Starbucks\n",
-            "inventoryLevel": 36,
+            "inventoryLevel": 35,
             "name": "Guest",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-6"
          },
@@ -1179,7 +1372,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "To support organizing the open mic, we expect you to buy a cup of coffee at Starbucks\n",
-            "inventoryLevel": 27,
+            "inventoryLevel": 26,
             "name": "Performer",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-open-mic-by-blrgrooveco-6"
          }
@@ -1442,7 +1635,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional redeemable cover charge INR 799/- applicable at gates\n",
-            "inventoryLevel": 181,
+            "inventoryLevel": 142,
             "name": "Main Event - Phase 1 Tickets",
             "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-the-f16s-1"
          },
@@ -1450,7 +1643,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Limited Slots Available! Get up-close with The F16s like never before. Dive into their life journey, hear untold stories and listen to their musical influences in an intimate setting with the band.\nAdditional redeemable cover charge INR 799/- applicable at gates",
-            "inventoryLevel": 35,
+            "inventoryLevel": 25,
             "name": "Main Event + Fan Experience (5pm onwards)",
             "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-the-f16s-1"
          },
@@ -1528,7 +1721,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable at gates\n",
-            "inventoryLevel": 99,
+            "inventoryLevel": 98,
             "name": "Male Free Entry",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit"
          },
@@ -1852,7 +2045,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry is on a first-come, first-served basis, Holding an RSVP does not guarantee entry if the venue reaches capacity\n",
-            "inventoryLevel": 121,
+            "inventoryLevel": 112,
             "name": "RSVP/ Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/vasundhara-das-live-in-concert"
          }
