@@ -261,6 +261,100 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "The Biggest Valentine’s Day Bash 💫📢\r\n\r\n \r\n\r\nJoin us for a night full of love, laughter, and unforgettable memories! Whether you&rsquo",
+      "endDate": "2025-02-14T23:59:00",
+      "identifier": "com.skillboxes.18617",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1738076508P1Q0G7Zl8l1Ewjny.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Valentine’s Day Bash Ft. Ma Faiza at Kitty Ko Bangalore.",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Female, Extra Cover charge applicable post 9.30pm Walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/valentine-s-day-bash-ft-ma-faiza-at-kitty-ko-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Couple, Extra Cover charge applicable post 9.30pm Walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/valentine-s-day-bash-ft-ma-faiza-at-kitty-ko-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows Entry to 1 Male, Extra Cover charge applicable post 9.30pm Walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD MALE",
+            "url": "https://www.skillboxes.com/events/ticket/valentine-s-day-bash-ft-ma-faiza-at-kitty-ko-bangalore"
+         }
+      ],
+      "startDate": "2025-02-14T19:00:00",
+      "url": "https://www.skillboxes.com/events/valentine-s-day-bash-ft-ma-faiza-at-kitty-ko-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready for the ultimate techno showcase in your city - PROTOCOL SUNDAY! Catch BABA ROBIJN live at Kitty Ko this Sunday.Date: Sunday, 2nd February |",
+      "endDate": "2025-02-03T01:00:00",
+      "identifier": "com.skillboxes.18616",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1738075762VofXv8iGvhCPU83Q.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Protocol ft. Baba Robijn / 2nd Feb / Kitty Ko",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-baba-robijn-2nd-feb-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-baba-robijn-2nd-feb-kitty-ko"
+         }
+      ],
+      "startDate": "2025-02-02T20:00:00",
+      "url": "https://www.skillboxes.com/events/protocol-ft-baba-robijn-2nd-feb-kitty-ko"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "We’re thrilled to bring you GEARMASTER, a mind-bending sonic journey presented by Entente.fm x KLKTV & Abdul Raeva! Get ready for a trippy S",
       "endDate": "2025-02-02T23:59:00",
       "identifier": "com.skillboxes.18610",
@@ -1827,7 +1921,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 30,
+            "inventoryLevel": 25,
             "name": "Student Discount || 15th March",
             "url": "https://www.skillboxes.com/events/ticket/bongyoung-park-india-groove-tour-3"
          },
@@ -1841,7 +1935,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 28,
+            "inventoryLevel": 26,
             "name": "Student Discount || 15th& 16th March",
             "url": "https://www.skillboxes.com/events/ticket/bongyoung-park-india-groove-tour-3"
          }
