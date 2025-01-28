@@ -561,6 +561,110 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Linocut Printing Beginner's Workshop",
+    "description": "Linocut Printing Beginners Workshop\u00a0\u00a0A linocut is a type of relief or block print, and bears a lot of similarities to woodblock printing. Essentially, the artist carves an image into a linoleum (lino) block and what's left of the block is inked and printed\u00a0In this workshop you will be learning to transfer, carve and print a lino block. All the materials will be provided. The tools will be provided only for use. No prior experience required, we will teach you from scratch. You take home your carved block with 2 prints. \ud83d\uddbc\ufe0f\ud83d\uddbc\ufe0f We\u2019ll be teaching a black and white composition.\u00a0If you have a composition in mind that you want to work on, you can get the sketch or a print out of it. If you don\u2019t have anything specific in mind, you choose from the references we have.\u00a0Join us at Studio Sakura \ud83c\udf38 to unleash your creativity and experience the magic of printmaking.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5F432F895F98413AB4FB187FF1FFB1B9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9DA095DEC1844FBB9AE03C7EAAF0D045_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A266619842D344F8B0679A1F7C63A331_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2C7CCE6A7F54B2EA25E3E0A7E82E711_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/235CB1C63A464567A04D45C32DF0AD01_converted_webp.webp"
+    ],
+    "startDate": "2025-02-08T11:00:00+05:30",
+    "endDate": "2025-02-08T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "34, Rest House Rd, Shanthala Nagar, Sampangi Rama Nagara, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJQVqlWGQWrjsRNmNTzeUOMI0",
+      "latitude": "12.97367800000000000000",
+      "longitude": "77.60735400000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2650.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Studio Sakura",
+      "description": "Printmaking Studio",
+      "url": "https://urbanaut.app/partner/sakurastudioblr",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/8016E3D0BB594A6387F8BD7BE63CA03F_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-81235-43587"
+      }
+    },
+    "url": "https://urbanaut.app/spot/linocut-printing#2025-02-08T1100",
+    "keywords": [
+      "Art & culture",
+      "Leisure",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Linocut Printing Beginner's Workshop",
+    "description": "Linocut Printing Beginners Workshop\u00a0\u00a0A linocut is a type of relief or block print, and bears a lot of similarities to woodblock printing. Essentially, the artist carves an image into a linoleum (lino) block and what's left of the block is inked and printed\u00a0In this workshop you will be learning to transfer, carve and print a lino block. All the materials will be provided. The tools will be provided only for use. No prior experience required, we will teach you from scratch. You take home your carved block with 2 prints. \ud83d\uddbc\ufe0f\ud83d\uddbc\ufe0f We\u2019ll be teaching a black and white composition.\u00a0If you have a composition in mind that you want to work on, you can get the sketch or a print out of it. If you don\u2019t have anything specific in mind, you choose from the references we have.\u00a0Join us at Studio Sakura \ud83c\udf38 to unleash your creativity and experience the magic of printmaking.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5F432F895F98413AB4FB187FF1FFB1B9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9DA095DEC1844FBB9AE03C7EAAF0D045_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A266619842D344F8B0679A1F7C63A331_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2C7CCE6A7F54B2EA25E3E0A7E82E711_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/235CB1C63A464567A04D45C32DF0AD01_converted_webp.webp"
+    ],
+    "startDate": "2025-02-09T11:00:00+05:30",
+    "endDate": "2025-02-09T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "34, Rest House Rd, Shanthala Nagar, Sampangi Rama Nagara, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJQVqlWGQWrjsRNmNTzeUOMI0",
+      "latitude": "12.97367800000000000000",
+      "longitude": "77.60735400000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2650.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Studio Sakura",
+      "description": "Printmaking Studio",
+      "url": "https://urbanaut.app/partner/sakurastudioblr",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/8016E3D0BB594A6387F8BD7BE63CA03F_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-81235-43587"
+      }
+    },
+    "url": "https://urbanaut.app/spot/linocut-printing#2025-02-09T1100",
+    "keywords": [
+      "Art & culture",
+      "Leisure",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Courtyard Baithak | An Evening of Ghazals",
     "description": "About Courtyard BaithakThe Courtyard Baithak series is curated by tabla wizard and prodigy Trilochan Kampli, who with his uncompromising standards in music, evokes the best from every artist that he invites to perform. We are bringing musicians and audiences together on a sublime musical journey.Exclusive gatherings, quiet strains of exquisite music, and dedicated artists across selected genres - The Courtyard Baithak series promises a true classical musical experience.Please note: The ticket includes performance onlyAbout the artistsUstaad Faiyaz KhanUstad Faiyaz Khan is known for preserving the purity of raagas, blending the lyrical \"Gayaki Ang\" with the intricate \"Tantrakari Ang.\" A master of vocals and sarangi in the Kirana Gharana, he is an \u201cA\u201d Grade A.I.R Artist, a celebrated composer, and a recipient of numerous awards. His collaborations with legends and global performances reflect his exceptional musicianship and dedication to tradition.Accompanied byTrilochan kampli on TablaSarfaraz Khan\u00a0on SarangiAnd, Sandeep Pillai on GuitarThis event is supported by Samagata Foundation.Terms and Conditions1. The management is not responsible for any injury or damage that may occur during the event.2. No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.3. Parking near the event premises is at the risk of the vehicle owner.4. Valet service is available at a charge of Rs. 200 per vehicle.5. Children aged 5 and older require a ticket.6. Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.7. Tickets are non-refundable in case of cancellation or no-show.8. In the event of rain leading to a complete washout, Courtyard reserves the right to cancel the event. In such cases, a full refund for the ticket will be issued.",
@@ -866,6 +970,160 @@
       "Leisure",
       "Live GIG",
       "COURTYARD",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Himalayan Table - A Garhwali Food Pop Up",
+    "description": "Welcome to Shades of Garhwal - a traveling kitchen to promote the culinary delights from the Garhwal region.We may have pursued very different careers, but we share a deep love for food and how it connects us to the world. For us, exploring a new country isn\u2019t complete without a visit to the local grocery stores to discover fresh produce and unique ingredients. Cooking and hosting have always been second nature to us, and as proud Pahadi women, we\u2019ve embarked on a journey to rediscover and preserve the rich culinary heritage of the Garhwal region.For us, food is more than just sustenance\u2014it\u2019s a way to connect, to share, and to bond. Through this pop-up, we want to bring people together to savor authentic Garhwali flavors while immersing in the history, culture, and traditions that make each dish special. It\u2019s not just a meal; it\u2019s a celebration of heritage and a chance to create meaningful memories around the table.We hope to see you soon!\u00a0\u2764\ufe0f- Salomi & Pushkina",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FA536F5BC9F84B3888E8F2C83F0B8E01_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/949B3EA9BE454972800CD498312E9D41_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6165328D6ACE4939A6E54CA0B8233E53_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5028432A6DA9407EB14F775323BF531E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0C65A11E23F04379BF5D2FFE639841AC_converted_webp.webp"
+    ],
+    "startDate": "2025-03-02T11:30:00+05:30",
+    "endDate": "2025-03-02T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "56, 1st Main Rd, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJjzs37BkUrjsRi2jT5-6AM8Y",
+      "latitude": "12.95909680000000000000",
+      "longitude": "77.63551100000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2100.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Shades of Garhwal",
+      "description": null,
+      "url": "https://urbanaut.app/partner/shades-of-garhwal",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/170C1905947F4D7A80AE5923B26F4D6E_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97418-41832"
+      }
+    },
+    "url": "https://urbanaut.app/spot/the-himalayan-table",
+    "keywords": [
+      "Food & drink",
+      "Responsible",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Colour Reduction Linocut Printing Workshop",
+    "description": "Colour Reduction Linocut Printing Workshop 1 day workshop\u00a0All the materials will be provided. The tools will be provided only for use.\u00a0No prior experience required, we will teach you from scratch.You take home your carved block with 2 prints.\u00a0We\u2019ll be teaching colour reduction linocut. The size of the block is A5. We will be printing a colour linocut with two layers of colour depending on the composition.\u00a0If you have a composition in mind that you want to work on, you can get the sketch or a print out of it. If you don\u2019t have anything specific in mind, you choose from the references we have.*Please keep in mind to choose a simple composition. Avoid compositions that require a lot of intricate carving.*Please reach the venue by 11am. Avoid wearing light coloured clothes.Join us at Studio Sakura \ud83c\udf38 to unleash your creativity and experience the magic of printmaking.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DB158B6D08954CCFBD2F746986F7BED7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/71B605C8770C490584A8C64541D7D89F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/36FE08BDE2874B19843C2ABCDE796555_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/92FA9DA483134D69902EB81E0A357C5C_converted_webp.webp"
+    ],
+    "startDate": "2025-02-22T11:00:00+05:30",
+    "endDate": "2025-02-22T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "34, Rest House Rd, Shanthala Nagar, Sampangi Rama Nagara, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJQVqlWGQWrjsRNmNTzeUOMI0",
+      "latitude": "12.97367800000000000000",
+      "longitude": "77.60735400000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 8,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Studio Sakura",
+      "description": "Printmaking Studio",
+      "url": "https://urbanaut.app/partner/sakurastudioblr",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/8016E3D0BB594A6387F8BD7BE63CA03F_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-81235-43587"
+      }
+    },
+    "url": "https://urbanaut.app/spot/colour-reduction-linocut#2025-02-22T1100",
+    "keywords": [
+      "Art & culture",
+      "Leisure",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Colour Reduction Linocut Printing Workshop",
+    "description": "Colour Reduction Linocut Printing Workshop 1 day workshop\u00a0All the materials will be provided. The tools will be provided only for use.\u00a0No prior experience required, we will teach you from scratch.You take home your carved block with 2 prints.\u00a0We\u2019ll be teaching colour reduction linocut. The size of the block is A5. We will be printing a colour linocut with two layers of colour depending on the composition.\u00a0If you have a composition in mind that you want to work on, you can get the sketch or a print out of it. If you don\u2019t have anything specific in mind, you choose from the references we have.*Please keep in mind to choose a simple composition. Avoid compositions that require a lot of intricate carving.*Please reach the venue by 11am. Avoid wearing light coloured clothes.Join us at Studio Sakura \ud83c\udf38 to unleash your creativity and experience the magic of printmaking.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DB158B6D08954CCFBD2F746986F7BED7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/71B605C8770C490584A8C64541D7D89F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/36FE08BDE2874B19843C2ABCDE796555_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/92FA9DA483134D69902EB81E0A357C5C_converted_webp.webp"
+    ],
+    "startDate": "2025-02-23T11:00:00+05:30",
+    "endDate": "2025-02-23T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "34, Rest House Rd, Shanthala Nagar, Sampangi Rama Nagara, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJQVqlWGQWrjsRNmNTzeUOMI0",
+      "latitude": "12.97367800000000000000",
+      "longitude": "77.60735400000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 8,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Studio Sakura",
+      "description": "Printmaking Studio",
+      "url": "https://urbanaut.app/partner/sakurastudioblr",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/8016E3D0BB594A6387F8BD7BE63CA03F_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-81235-43587"
+      }
+    },
+    "url": "https://urbanaut.app/spot/colour-reduction-linocut#2025-02-23T1100",
+    "keywords": [
+      "Art & culture",
+      "Leisure",
+      "Workshop",
       "URBANAUT"
     ]
   }
