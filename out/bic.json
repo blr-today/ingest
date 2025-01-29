@@ -213,27 +213,27 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "@id": "69353-1738407600-1738413000@bangaloreinternationalcentre.org",
-    "name": "The Grandeur of Gwalior",
-    "startDate": "2025-02-01T11:00:00+05:30",
-    "endDate": "2025-02-01T12:30:00+05:30",
-    "description": "Gwalior \u2013 A Land Where Even a Child\u2019s Cry Finds Tune \nExperience the grandeur of Gwalior, the cradle of Hindustani vocal music, where the echoes of enchanting ragas have resonated through time. Celebrating the legacy of the Gwalior Gharana, the evening promises a mesmerizing journey through a repertoire of compositions in its distinctive style. \nImmerse yourself in the rich tapestry of khayal, khayalnuma, tappa, tap-tarana, bandish ki thumri, bol-banaav ki thumri, and ashtapadi, each capturing the essence of this unparalleled tradition. The performance will be interwoven with anecdotes, stories of legendary masters, and rare compositions passed down through generations, showcasing the journey of this music from the courts of kings to the embrace of the common folk. \nRuturaj Kolpe, a disciple of Vidushi Dr. Meeta Pandit, will present this morning concert in an intimate baithak setting, accompanied by Shantanu Deshmukh on the tabla and Vighnesh Bhagwat on the harmonium. This is an invitation to step into a time warp, where the echoes of a bygone era and the majesty of Gwalior\u2019s musical heritage come alive. \nSupported by: \n \n",
-    "url": "https://bangaloreinternationalcentre.org/event/the-grandeur-of-gwalior/",
+    "@type": "ScreeningEvent",
+    "@id": "69836-1739989800-1739997000@bangaloreinternationalcentre.org",
+    "name": "Agents of Happiness",
+    "startDate": "2025-02-19T18:30:00+05:30",
+    "endDate": "2025-02-19T20:30:00+05:30",
+    "description": "2024 | 90 minutes |\u00a0Nepali and Dzongkha with English subtitles |\u00a0Bhutan/Hungary \nCan you measure happiness? The country of Bhutan invented Gross National Happiness to do just that, and Amber is one of the\u00a0agents\u00a0who travels door to door to meet people and see how they feel. However, he hasn\u2019t gotten around to measuring his own happiness level. Still living with his mother at the age of 40, he\u2019s nevertheless a hopeless romantic who dreams of finding love. But as one of the Nepali minority who were deprived of their citizenship, Amber isn\u2019t the most eligible bachelor. We embark with Amber on his bittersweet journey to encounter Bhutanese from all walks of life. At the end of the road we are reminded of the fragility and beauty of our own happiness. No matter where we live. \nFollowing the screening, the directors will participate in the discussion, followed by a Q&A session with the audience. \nProducers: Arun Bhattarai,\u00a0M\u00e1t\u00e9 Vince,\u00a0No\u00e9mi Veronika Szakonyi \nIn collaboration with: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/agents-of-happiness/",
     "keywords": [
-      "Music",
-      "Performing Arts"
+      "Film"
     ],
     "location": {
       "@type": "Place",
       "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "CreativeWork",
-      "name": "The Grandeur of Gwalior"
+    "inLanguage": "ne",
+    "workPresented": {
+      "@type": "Movie",
+      "name": "Agents of Happiness"
     },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-31.jpg"
+    "subtitleLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-34.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -263,12 +263,36 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "@id": "69353-1738407600-1738413000@bangaloreinternationalcentre.org",
+    "name": "The Grandeur of Gwalior",
+    "startDate": "2025-02-01T11:00:00+05:30",
+    "endDate": "2025-02-01T12:30:00+05:30",
+    "description": "Gwalior \u2013 A Land Where Even a Child\u2019s Cry Finds Tune \nExperience the grandeur of Gwalior, the cradle of Hindustani vocal music, where the echoes of enchanting ragas have resonated through time. Celebrating the legacy of the Gwalior Gharana, the evening promises a mesmerizing journey through a repertoire of compositions in its distinctive style. \nImmerse yourself in the rich tapestry of khayal, khayalnuma, tappa, tap-tarana, bandish ki thumri, bol-banaav ki thumri, and ashtapadi, each capturing the essence of this unparalleled tradition. The performance will be interwoven with anecdotes, stories of legendary masters, and rare compositions passed down through generations, showcasing the journey of this music from the courts of kings to the embrace of the common folk. \nRuturaj Kolpe, a disciple of Vidushi Dr. Meeta Pandit, will present this morning concert in an intimate baithak setting, accompanied by Shantanu Deshmukh on the tabla and Vighnesh Bhagwat on the harmonium. This is an invitation to step into a time warp, where the echoes of a bygone era and the majesty of Gwalior\u2019s musical heritage come alive. \nSupported by: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/the-grandeur-of-gwalior/",
+    "keywords": [
+      "Music",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "The Grandeur of Gwalior"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-31.jpg"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "69856-1738407600-1738519200@bangaloreinternationalcentre.org",
     "name": "Sci560 Film Festival",
     "startDate": "2025-02-01T11:00:00+05:30",
     "endDate": "2025-02-02T18:00:00+05:30",
-    "description": "Explore Bengaluru\u2019s scientific, cultural, and urban heritage through the lens of cinema at the Sci560 Film Festival! \nThis two-day event features a lineup of thought-provoking films, including Down the Drain by Nitya Misra and In Search of Gold by Basav Biradar, each followed by insightful discussions with the filmmakers and experts. The festival highlights stories of the city, its environmental challenges, and its historical legacy, offering a unique perspective on Bengaluru\u2019s multifaceted identity. \nEnd each day with engaging activities, including a Bengaluru-themed quiz and a virtual scavenger hunt to test your curiosity and knowledge. This festival is part of Sci560: Science in the City, an ongoing exhibition exploring the city\u2019s history through a military-industrial-academic lens. Don\u2019t miss this cinematic journey celebrating the spirit of Bengaluru! \nFestival Schedule:\u00a0Download the full schedule\u00a0here. \nDay 1 | 1 Feb | Saturday | 11:00 am \u2013 6:00 pm \n11:00 am \u2013 11:05 am:\u00a0Opening remarks \n11:05 am \u2013 11:27 am: Down the Drain\nDocu-fiction | English and Kannada | India | Nitya Misra\nThis is a documentary-fiction film about Bangalore\u2019s sewage, told from the perspective of a woman who accidentally flushes a watch down the toilet.\u00a0In tracing the journey that the watch takes from the toilet, the woman gets glimpses into the pipes and people that make up the sewage system in the city, and observes the system as well as its parts through conversations with different people. \n11:27 am \u2013 12:00 pm: Discussion with Nitya Misra\u00a0and Veena Srinivasan \n12:00 pm \u2013 12:05 pm: Introduction by Usha Rao\u00a0and Gautam Sonti \n12:05 pm \u2013 1:32 pm: Our Metropolis\nDocumentary | English, Kannada, Tamil,\u00a0Telugu, Hindi | India | Gautam Sonti and Usha Rao \n1:32 pm \u2013 2:15 pm:\u00a0Break \n2:15 pm \u2013 2:18 pm: A Stroke of Genius\nDocumentary Short | English | Vishnu Tenkalya \n2:18 pm \u2013 2:23 pm: HeadbangerLore\nDocumentary Short | English | Devadri Bhattacharya and Shrivathsa Srikanth \n2:23 pm \u2013 2:28 pm: Madiwalas of Bangalore\nDocumentary Short | English and Kannada | Rehaan Diaz \n2:28 pm \u2013 2:33 pm: Letter by Letter\nDocumentary Short | English | Pooja Saxena \n2:33 pm \u2013 2:38 pm:\u00a0Reviving Legends\nDocumentary Short | Kannada | Sharan G C \n2:38 pm \u2013 2:42 pm: Tale of Two Wheels\nDocumentary Short | English and Kannada | Jayavartheni Krishnakumar, Namrata Narendra\u00a0and Suraj Devaraj \n2:42 pm \u2013 3:16 pm: A Family in Bangalore \nDocumentary | English | India | Paul Zills \n3:16 pm \u2013 5:26 pm:\u00a0Pushpaka Vimana\nFeature | NA | India | Singeetam Srinivasa Rao \n5:30 pm \u2013 6 pm: Bengaluru Snap Hunt \n\nDay 2 | 2 Feb | Sunday | 11:00 am \u2013 6:00 pm \n11:00 am \u2013 11:36 am: Tracing the Arc\nDocumentary | English | India | Pankaj Bhutalia \n11:36 am \u2013 11:45 am: Anatomy + Humanities: The\u00a0Animated Life of SL Bhatia\nDocumentary Short | Kannada | India | Meera K \n11:45 am \u2013 11:50 pm:\u00a0Introduction by Gautam\u00a0Sonti and Carol Upadhya \n11:50 am \u2013 12:18 pm: Fun @ Sun\nDocumentary | English | India |\u00a0Gautam Sonti and Carol Upadhya \n12:18 pm \u2013 12:23 pm:\u00a0Introduction by Gautam\u00a0Sonti and Carol Upadhya \n12:23 pm \u2013 12:49 pm: July Boys\nDocumentary | English | India |\u00a0Gautam Sonti and Carol Upadhya \n12:49 pm \u2013 1:15 pm:\u00a0Discussion with Gautam\u00a0Sonti and Carol Upadhya \n1:15 pm \u2013 2:00 pm:\u00a0Break \n2:00 pm \u2013 2:34 pm: In Search of Gold\nDocumentary |\u00a0Tamil and English | India | Basav Biradar \n2:34 pm \u2013 3:00 pm:\u00a0Discussion with Basav\u00a0Biradar, Nirmal Raj and\u00a0Palahalli Vishwanath \n3:00 pm \u2013 3:05 pm: Babasaheb in Bangalore\nExperimental short | English and Kannada | India | Mahishaa \n3:05 pm \u2013 3:07 pm: Kaathu Mela Kuppai Keezha\nExperimental short | Kannada | India |\u00a0Group4 \n3:07 pm \u2013 3:24 pm: Presence\nDocumentary short | English, Hindi and\u00a0Kannada | India | Ekta Mittal and Yashaswini Raghunandan \n3:24 pm \u2013 4:00 pm: Distance\nDocumentary | English, Hindi and\u00a0Kannada | India | Ekta Mittal and Yashaswini Raghunandan \n4:00 pm \u2013 4:40 pm: Above the Din of Sewing Machines\nDocumentary | Kannada | India | Surabhi Sharma \n4:40 pm \u2013 5:00 pm:\u00a0Break \n5:00 pm \u2013 6:00 pm: Bengaluru Quiz: How Well Do You Know the City? \n\nInteractive Installations | 1 & 2 Feb | Sat & Sun | 11:00 am \u2013 6:00 pm \nStick-er-alli Bengaluru:\u00a0Mark your Bengaluru! Add stickers to a giant city map to highlight your most frequented areas and spots. \nHale Bengaluru, Fresh Memories:\u00a0Share your oldest Bengaluru memory on a post-it and stick it to our wall of nostalgia! \nCity Soundscapes:\u00a0Capture Bengaluru in 10 seconds! Record and upload your city\u2019s sounds to create an audio collage. Listen to how our city sounds! \nTime Capsule: Bengaluru 2025:\u00a0Leave a little piece of 2025 behind! Add notes, photos, or objects to our time capsule for future Bengalureans. \nIn collaboration with: \n \nScience Gallery Bengaluru (SGB) is a not-for-profit public institution for research-based engagement targeted at young adults working at the intersection of the human, natural, and social sciences, and engineering, art, and design.\u00a0SGB\u2019s public engagement model moves beyond participation, and towards proactive involvement through ever-changing research festivals anchored by interdisciplinary exhibitions, programmes, and public events consisting of research-based engagements led by artists and scholars from diverse backgrounds. SGB is established with the founding support of the Government of Karnataka and three academic partners\u2014Indian Institute of Science, National Centre for Biological Sciences, and Srishti Institute of Art, Design and Technology. \n",
+    "description": "Explore Bengaluru\u2019s scientific, cultural, and urban heritage through the lens of cinema at the Sci560 Film Festival, organised in collaboration with Science Gallery Bengaluru! \nThis two-day event features a lineup of thought-provoking films, including Down the Drain by Nitya Misra and In Search of Gold by Basav Biradar, each followed by insightful discussions with the filmmakers and experts. The festival highlights stories of the city, its environmental challenges, and its historical legacy, offering a unique perspective on Bengaluru\u2019s multifaceted identity. \nEnd each day with engaging activities, including a Bengaluru-themed quiz and a virtual scavenger hunt to test your curiosity and knowledge. This festival is part of Sci560: Science in the City, an ongoing exhibition exploring the city\u2019s history through a military-industrial-academic lens. Don\u2019t miss this cinematic journey celebrating the spirit of Bengaluru! \nFestival Schedule:\u00a0Download the full schedule\u00a0here. \nDay 1 | 1 Feb | Saturday | 11:00 am \u2013 6:00 pm \n11:00 am \u2013 11:05 am:\u00a0Opening remarks \n11:05 am \u2013 11:27 am: Down the Drain\nDocu-fiction | English and Kannada | India | Nitya Misra\nThis is a documentary-fiction film about Bangalore\u2019s sewage, told from the perspective of a woman who accidentally flushes a watch down the toilet.\u00a0In tracing the journey that the watch takes from the toilet, the woman gets glimpses into the pipes and people that make up the sewage system in the city, and observes the system as well as its parts through conversations with different people. \n11:27 am \u2013 12:00 pm: Discussion with Nitya Misra\u00a0and Veena Srinivasan \n12:00 pm \u2013 12:05 pm: Introduction by Usha Rao\u00a0and Gautam Sonti \n12:05 pm \u2013 1:32 pm: Our Metropolis\nDocumentary | English, Kannada, Tamil,\u00a0Telugu, Hindi | India | Gautam Sonti and Usha Rao \n1:32 pm \u2013 2:15 pm:\u00a0Break \n2:15 pm \u2013 2:18 pm: A Stroke of Genius\nDocumentary Short | English | Vishnu Tenkalya \n2:18 pm \u2013 2:23 pm: HeadbangerLore\nDocumentary Short | English | Devadri Bhattacharya and Shrivathsa Srikanth \n2:23 pm \u2013 2:28 pm: Madiwalas of Bangalore\nDocumentary Short | English and Kannada | Rehaan Diaz \n2:28 pm \u2013 2:33 pm: Letter by Letter\nDocumentary Short | English | Pooja Saxena \n2:33 pm \u2013 2:38 pm:\u00a0Reviving Legends\nDocumentary Short | Kannada | Sharan G C \n2:38 pm \u2013 2:42 pm: Tale of Two Wheels\nDocumentary Short | English and Kannada | Jayavartheni Krishnakumar, Namrata Narendra\u00a0and Suraj Devaraj \n2:42 pm \u2013 3:16 pm: A Family in Bangalore \nDocumentary | English | India | Paul Zills \n3:16 pm \u2013 5:26 pm:\u00a0Pushpaka Vimana\nFeature | NA | India | Singeetam Srinivasa Rao \n5:30 pm \u2013 6 pm: Bengaluru Snap Hunt \n\nDay 2 | 2 Feb | Sunday | 11:00 am \u2013 6:00 pm \n11:00 am \u2013 11:36 am: Tracing the Arc\nDocumentary | English | India | Pankaj Bhutalia \n11:36 am \u2013 11:45 am: Anatomy + Humanities: The\u00a0Animated Life of SL Bhatia\nDocumentary Short | Kannada | India | Meera K \n11:45 am \u2013 11:50 pm:\u00a0Introduction by Gautam\u00a0Sonti and Carol Upadhya \n11:50 am \u2013 12:18 pm: Fun @ Sun\nDocumentary | English | India |\u00a0Gautam Sonti and Carol Upadhya \n12:18 pm \u2013 12:23 pm:\u00a0Introduction by Gautam\u00a0Sonti and Carol Upadhya \n12:23 pm \u2013 12:49 pm: July Boys\nDocumentary | English | India |\u00a0Gautam Sonti and Carol Upadhya \n12:49 pm \u2013 1:15 pm:\u00a0Discussion with Gautam\u00a0Sonti and Carol Upadhya \n1:15 pm \u2013 2:00 pm:\u00a0Break \n2:00 pm \u2013 2:34 pm: In Search of Gold\nDocumentary |\u00a0Tamil and English | India | Basav Biradar \n2:34 pm \u2013 3:00 pm:\u00a0Discussion with Basav\u00a0Biradar, Nirmal Raj and\u00a0Palahalli Vishwanath \n3:00 pm \u2013 3:05 pm: Babasaheb in Bangalore\nExperimental short | English and Kannada | India | Mahishaa \n3:05 pm \u2013 3:07 pm: Kaathu Mela Kuppai Keezha\nExperimental short | Kannada | India |\u00a0Group4 \n3:07 pm \u2013 3:24 pm: Presence\nDocumentary short | English, Hindi and\u00a0Kannada | India | Ekta Mittal and Yashaswini Raghunandan \n3:24 pm \u2013 4:00 pm: Distance\nDocumentary | English, Hindi and\u00a0Kannada | India | Ekta Mittal and Yashaswini Raghunandan \n4:00 pm \u2013 4:40 pm: Above the Din of Sewing Machines\nDocumentary | Kannada | India | Surabhi Sharma \n4:40 pm \u2013 5:00 pm:\u00a0Break \n5:00 pm \u2013 6:00 pm: Bengaluru Quiz: How Well Do You Know the City? \n\nInteractive Installations | 1 & 2 Feb | Sat & Sun | 11:00 am \u2013 6:00 pm \nStick-er-alli Bengaluru:\u00a0Mark your Bengaluru! Add stickers to a giant city map to highlight your most frequented areas and spots. \nHale Bengaluru, Fresh Memories:\u00a0Share your oldest Bengaluru memory on a post-it and stick it to our wall of nostalgia! \nCity Soundscapes:\u00a0Capture Bengaluru in 10 seconds! Record and upload your city\u2019s sounds to create an audio collage. Listen to how our city sounds! \nTime Capsule: Bengaluru 2025:\u00a0Leave a little piece of 2025 behind! Add notes, photos, or objects to our time capsule for future Bengalureans. \nIn collaboration with: \n \nScience Gallery Bengaluru (SGB) is a not-for-profit public institution for research-based engagement targeted at young adults working at the intersection of the human, natural, and social sciences, and engineering, art, and design.\u00a0SGB\u2019s public engagement model moves beyond participation, and towards proactive involvement through ever-changing research festivals anchored by interdisciplinary exhibitions, programmes, and public events consisting of research-based engagements led by artists and scholars from diverse backgrounds. SGB is established with the founding support of the Government of Karnataka and three academic partners\u2014Indian Institute of Science, National Centre for Biological Sciences, and Srishti Institute of Art, Design and Technology. \n",
     "url": "https://bangaloreinternationalcentre.org/event/sci560-film-festival/",
     "keywords": [
       "Bangalore",
@@ -310,6 +334,29 @@
       "name": "All We Imagine as Khayal"
     },
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-702.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "69881-1739039400-1739044800@bangaloreinternationalcentre.org",
+    "name": "Unveiling Islamabad",
+    "startDate": "2025-02-08T18:30:00+05:30",
+    "endDate": "2025-02-08T20:00:00+05:30",
+    "description": "From 1997 to 2000, Ruchi Ghanashyam and her husband traversed the labyrinthine corridors of\u00a0Islamabad, bearing witness to seismic events that shook the region to its core. From the thunderous echoes of the India-Pakistan nuclear tests to the harrowing shadows of the Kargil conflict, their tale unfolds against the backdrop of geopolitical upheaval. As the first Indian woman diplomat stationed in\u00a0Islamabad, Ghanashyam unveils the intricacies of cross-border relationships and the relentless drumbeat of history as witnessed through the prism of political upheavals in her book, A Woman in Islamabad 1997-2000.\n\nIn a riveting twist, A.R. Ghanashyam, the author\u2019s husband, unveils his first-hand account of the tense moments preceding the Indian Airlines flight IC 814 hijacking, offering a gripping glimpse into the heart of crisis management. \n\nYet, amidst the tumult, Ambassador Ghanashyam\u2019s narrative delves deeper, unravelling gender dynamics in a society steeped in tradition and inviting us to contemplate not just the challenges facing Pakistan but also the boundless potential for change and understanding. This session delves deeper into their experiences, exposing the layers of tradition that shape societal norms, offering a compelling examination of the challenges and opportunities inherent in the region\u2019s sociopolitical landscape.\n\nIn this session,\u00a0Ruchi Ghanashyam and\u00a0A.R. Ghanashyam will be in conversation with Latha Reddy. A Q&A session with the audience will follow.\n",
+    "url": "https://bangaloreinternationalcentre.org/event/unveiling-islamabad/",
+    "keywords": [
+      "Books",
+      "Governance",
+      "Heritage",
+      "International Relations",
+      "Politics"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-709.jpg"
   },
   {
     "@context": "https://schema.org",
