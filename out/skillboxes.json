@@ -2,6 +2,57 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Experience live music like never before with Jack Daniel’s Merchandise Presents The Barrel Room, an intimate event bringing fans close",
+      "endDate": "2025-02-08T23:59:00",
+      "identifier": "com.skillboxes.18492",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17379765438xysOST2esxGqifG.png.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "22, Hennur Bagalur Rd, Visthar, Bengaluru, Karnataka 560077, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13",
+            "longitude": "77"
+         },
+         "name": "GYLT"
+      },
+      "name": "The Barrel Room with The F16s | Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional redeemable cover charge INR 799/- applicable at gates\n",
+            "inventoryLevel": 108,
+            "name": "Main Event - Phase 1 Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-the-f16s-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Limited Slots Available! Get up-close with The F16s like never before. Dive into their life journey, hear untold stories and listen to their musical influences in an intimate setting with the band.\nAdditional redeemable cover charge INR 799/- applicable at gates",
+            "inventoryLevel": 20,
+            "name": "Main Event + Fan Experience (5pm onwards)",
+            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-the-f16s-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Additional redeemable cover charge INR 500/- applicable at gates\n",
+            "inventoryLevel": 0,
+            "name": "Main Event - Early Bird Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-the-f16s-1"
+         }
+      ],
+      "startDate": "2025-02-08T19:00:00",
+      "url": "https://www.skillboxes.com/events/the-barrel-room-the-f16s-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "SkillBox proudly presents a sensational modern guitarist from Japan - ICHIKA NITO on his first ever India tour across Mumbai, Delhi NCR and ",
       "endDate": "2025-03-02T23:59:00",
       "identifier": "com.skillboxes.17678",
@@ -1907,57 +1958,6 @@
       ],
       "startDate": "2025-02-14T17:00:00",
       "url": "https://www.skillboxes.com/events/rainbow-bridge-masterclass"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Experience live music like never before with Jack Daniel’s Merchandise Presents The Barrel Room, an intimate event bringing fans close",
-      "endDate": "2025-02-08T23:59:00",
-      "identifier": "com.skillboxes.18492",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17379765438xysOST2esxGqifG.png.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "22, Hennur Bagalur Rd, Visthar, Bengaluru, Karnataka 560077, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13",
-            "longitude": "77"
-         },
-         "name": "GYLT"
-      },
-      "name": "The Barrel Room with The F16s | Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional redeemable cover charge INR 799/- applicable at gates\n",
-            "inventoryLevel": 108,
-            "name": "Main Event - Phase 1 Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-the-f16s-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Limited Slots Available! Get up-close with The F16s like never before. Dive into their life journey, hear untold stories and listen to their musical influences in an intimate setting with the band.\nAdditional redeemable cover charge INR 799/- applicable at gates",
-            "inventoryLevel": 20,
-            "name": "Main Event + Fan Experience (5pm onwards)",
-            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-the-f16s-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "Additional redeemable cover charge INR 500/- applicable at gates\n",
-            "inventoryLevel": 0,
-            "name": "Main Event - Early Bird Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-the-f16s-1"
-         }
-      ],
-      "startDate": "2025-02-08T19:00:00",
-      "url": "https://www.skillboxes.com/events/the-barrel-room-the-f16s-1"
    },
    {
       "@context": "https://schema.org",
