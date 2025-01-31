@@ -1388,52 +1388,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Lit Lounge: Readers Table",
-    "description": "Calling all book lovers!The Lit Lounge is where readers meet, connect, and share their passion for powerful storytelling.Whether you\u2019re a fan of classic novels or contemporary fiction, this is the perfect space to chat, exchange recommendations, and bond over books with new people.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6A4AB915C5DC4FA9A8FBA8ACA8E50E09_converted_webp.webp"
-    ],
-    "startDate": "2025-01-31T18:30:00+05:30",
-    "endDate": "2025-01-31T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
-      "latitude": "12.98010900000000000000",
-      "longitude": "77.63934970000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 9,
-    "remainingAttendeeCapacity": 7,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "899.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "Meet a small group of strangers offline, with no agendas\u2014just good conversations and genuine connections. Whether it\u2019s a random thought or a deep dive, you never know where it might lead. Sometimes, the best connections happen when you least expect them.",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/the-lit-lounge",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "The Girl Talk Chronicles: Let's Spill",
     "description": "*Only for Women* \ud83c\udf38This night is all about unfiltered conversations, authentic connections, and celebrating the incredible women we are.No judgments, no filters\u2014just real talk and genuine vibes.Whether you're here to share, listen, or just enjoy the energy, this night is for women to be unapologetically themselves.Hosted by Rajul: An absolute people\u2019s person at heart! She thrive\u2019s on connecting with others, exchanging stories, and learning from every conversation. Meeting new people and sharing experiences is her favorite thing to do.",

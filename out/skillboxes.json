@@ -312,6 +312,47 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Ekta’s Gatherings Presents Be/Long, My ValentineA Retro Classic Show and Dinner Date @ Urban Solace An Unforgettable Valentine’s Day Exper",
+      "endDate": "2025-02-14T23:59:00",
+      "identifier": "com.skillboxes.18701",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Poetry Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Hermit Colony, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9849907",
+            "longitude": "77.6183938"
+         },
+         "name": "Urban Solace"
+      },
+      "name": "A Retro Classic Show and Dinner Date @ Urban Solace",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10,
+            "name": "Early Bird || Single Pass",
+            "url": "https://www.skillboxes.com/events/ticket/a-retro-classic-show-and-dinner-date-urban-solace"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 5,
+            "name": "Early Bird || Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/a-retro-classic-show-and-dinner-date-urban-solace"
+         }
+      ],
+      "startDate": "2025-02-14T19:30:00",
+      "url": "https://www.skillboxes.com/events/a-retro-classic-show-and-dinner-date-urban-solace"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "A BOLLYWOOD MIRROR SATURDAY NIGHT\" IS HAPPENING ON FEB 1ST, STARTING AT 8:00 PM AT MIRROR PUB, KORAMANGALA. GET READY FOR AN ELECTRIFYING NIGHT OF",
       "endDate": "2025-02-01T23:59:00",
       "identifier": "com.skillboxes.18697",
@@ -346,7 +387,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Drip2hard Presents: The Ultimate Desi Hip-Hop Takeover Bengaluru, brace yourselves for a night that'll rewrite the rules of rap! Drip2hard i",
+      "description": "Drip2hard Presents: The Ultimate Desi Hip-Hop Takeover \r\n\r\nBengaluru, brace yourselves for a night that'll rewrite the rules of rap! \r\n\r",
       "endDate": "2025-02-22T23:59:00",
       "identifier": "com.skillboxes.18675",
       "image": "",
@@ -364,14 +405,27 @@
          },
          "name": "Ignite Super Club"
       },
-      "name": "MOSHPIT",
+      "name": "MOSHPIT feat. RAGA, YUNGSTA & MR. DOSS",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "drip2hardtm@gmail.com\n",
-            "inventoryLevel": 7,
+            "inventoryLevel": 2,
             "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/moshpit"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 39,
+            "name": "Early Bird VIP",
+            "url": "https://www.skillboxes.com/events/ticket/moshpit"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Fanpit (Standing)",
             "url": "https://www.skillboxes.com/events/ticket/moshpit"
          }
       ],
@@ -436,41 +490,6 @@
       ],
       "startDate": "2025-02-14T19:00:00",
       "url": "https://www.skillboxes.com/events/whispers-of-the-banyan"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "We’re beyond excited to bring you an electrifying Eric Clapton, Dire Straits & Santana Tribute Gig featuring the phenomenal Butter Fingers a",
-      "endDate": "2025-01-31T23:59:00",
-      "identifier": "com.skillboxes.18640",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "iBAR, THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9740179",
-            "longitude": "77.619422"
-         },
-         "name": "i-Bar THE Park Bangalore"
-      },
-      "name": "Live & Local Presents -  TRIBUTE GIG : Eric Clapton, Dire Straits, Santana & more ft. BUTTERFINGERS",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Redeemable Cover Charges of 500 is applicable at the venue.\n",
-            "inventoryLevel": 93,
-            "name": "General Admission",
-            "url": "https://www.skillboxes.com/events/ticket/live-local-presents-eric-clapton-dire-straits-santana-tribute-gig-ft-butter-fingers"
-         }
-      ],
-      "startDate": "2025-01-31T20:00:00",
-      "url": "https://www.skillboxes.com/events/live-local-presents-eric-clapton-dire-straits-santana-tribute-gig-ft-butter-fingers"
    },
    {
       "@context": "https://schema.org",
@@ -841,40 +860,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get Ready for \"Mixtape Madness\" - This Friday at Skydeck by Sherlock's!Dive into an electrifying Bollytech & Commercial Music DJ Night at ",
-      "endDate": "2025-01-31T23:59:00",
-      "identifier": "com.skillboxes.18596",
-      "image": "",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750296",
-            "longitude": "77.6075339"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "Mixtape Madness | The Ultimate Weekend Kick-off!",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/mixtape-madness-the-ultimate-weekend-kick-off-3"
-         }
-      ],
-      "startDate": "2025-01-31T20:00:00",
-      "url": "https://www.skillboxes.com/events/mixtape-madness-the-ultimate-weekend-kick-off-3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Hello Bengaluru.We Are Back Again after back to back successfull Holi Party at the same venue because of Your Love and Support.Yet AgainThis Time we c",
       "endDate": "2025-03-16T18:00:00",
       "identifier": "com.skillboxes.18593",
@@ -1063,56 +1048,6 @@
       ],
       "startDate": "2025-02-02T18:00:00",
       "url": "https://www.skillboxes.com/events/tinctures-at-odyssey-school-of-music"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Redroom FridaysFeaturing ROHAN KAPOOR( Purified | Atalant )WILDERNESS GIRLARTBLOTKISHFriday 31st January 2025 | 7PM onwards,At Kitty Ko ( Lalit A",
-      "endDate": "2025-01-31T23:59:00",
-      "identifier": "com.skillboxes.18580",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Redroom Ft. Rohan Kapoor at Kitty Ko Bangalore.",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to 1 Female, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD FEMALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-rohan-kapoor-at-kitty-ko-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows Entry to 1 Couple, Extra Cover charge applicable post 9.30pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-rohan-kapoor-at-kitty-ko-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD MALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-rohan-kapoor-at-kitty-ko-bangalore"
-         }
-      ],
-      "startDate": "2025-01-31T19:00:00",
-      "url": "https://www.skillboxes.com/events/redroom-ft-rohan-kapoor-at-kitty-ko-bangalore"
    },
    {
       "@context": "https://schema.org",
@@ -2017,41 +1952,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "AFREEN LIVE PUNJABI PULSE & BOLLYWOOD RHYTHMSTIME - STARTS 9:00 ONWORDS DATE - 31-01-2025",
-      "endDate": "2025-01-31T23:59:00",
-      "identifier": "com.skillboxes.18483",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9208664",
-            "longitude": "77.6859185"
-         },
-         "name": "Radio Bar Bangalore"
-      },
-      "name": "AFREEN LIVE",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "ENTRY + COVER CHARGES\nF&B REDEMPTION",
-            "inventoryLevel": 50,
-            "name": "AFREEN LIVE",
-            "url": "https://www.skillboxes.com/events/ticket/afreen-live"
-         }
-      ],
-      "startDate": "2025-01-31T21:00:00",
-      "url": "https://www.skillboxes.com/events/afreen-live"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Get ready for Chaos Circuit on February 1st at Hyatt Centric, as the sensational Ericca Chessari makes her debut in Bangalore for an electrifying Indi",
       "endDate": "2025-02-02T01:00:00",
       "identifier": "com.skillboxes.18482",
@@ -2382,96 +2282,6 @@
       ],
       "startDate": "2025-02-22T19:00:00",
       "url": "https://www.skillboxes.com/events/vasundhara-das-live-in-concert"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Welcome to The Mango Tree Festival🍃\r\n\r\n \r\n\r\nA festival for dreamers, alchemists, and seekers of joy in life’s smallest moments.\r\n\r\nUnder",
-      "endDate": "2025-02-09T23:23:00",
-      "identifier": "com.skillboxes.18351",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Festivals"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd, Jayamahal, Bengaluru, Karnataka 560080, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.004424",
-            "longitude": "77.5848398"
-         },
-         "name": "PEBBLE The Jungle Lounge"
-      },
-      "name": "The Mango Tree",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Grants general access to the festival\n",
-            "inventoryLevel": 1000,
-            "name": "Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Grants general access to the festival. Ticket value fully redeemable on the tattoo.  Timings: Open all day from 11am - 11pm\n",
-            "inventoryLevel": 50,
-            "name": "Tattoo slot",
-            "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 50,
-            "name": "Enchanted Painting Workshop",
-            "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Grants general access to the festival and the workshop. Timings: 5pm - 6pm\n",
-            "inventoryLevel": 50,
-            "name": "Dapo and Poi - Flow Arts Workshop",
-            "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Grants general access to the festival and the workshop Timings: 1pm - 2pm\n",
-            "inventoryLevel": 50,
-            "name": "DIY Aslato - Instrument Making Workshop",
-            "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Grants general access to the festival and the workshop. Timings: 2:30pm - 3:30pm\n",
-            "inventoryLevel": 50,
-            "name": "Tote Bag - Tie dye Workshop",
-            "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Grants general access to the festival and the workshop. Timings: 11:30am - 12:30pm\n",
-            "inventoryLevel": 50,
-            "name": "Terrarium Building Workshop",
-            "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-3"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Grants general access to the festival and the workshop Timings: 4pm - 5pm\n",
-            "inventoryLevel": 50,
-            "name": "Wardrobe Remix Workshop",
-            "url": "https://www.skillboxes.com/events/ticket/the-mango-tree-3"
-         }
-      ],
-      "startDate": "2025-02-09T11:11:00",
-      "url": "https://www.skillboxes.com/events/the-mango-tree-3"
    },
    {
       "@context": "https://schema.org",
