@@ -312,6 +312,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "A BOLLYWOOD MIRROR SATURDAY NIGHT\" IS HAPPENING ON FEB 1ST, STARTING AT 8:00 PM AT MIRROR PUB, KORAMANGALA. GET READY FOR AN ELECTRIFYING NIGHT OF",
+      "endDate": "2025-02-01T23:59:00",
+      "identifier": "com.skillboxes.18697",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No 24, PURUSHOTHAM ARCADE, KML INDUSTRIAL AREA, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.932941",
+            "longitude": "77.6134427"
+         },
+         "name": "Mirror Pub"
+      },
+      "name": "BOLLYWOOD MIRROR SATURDAY NIGHT",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/bollywood-mirror-saturday-night"
+         }
+      ],
+      "startDate": "2025-02-01T20:00:00",
+      "url": "https://www.skillboxes.com/events/bollywood-mirror-saturday-night"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Drip2hard Presents: The Ultimate Desi Hip-Hop Takeover Bengaluru, brace yourselves for a night that'll rewrite the rules of rap! Drip2hard i",
       "endDate": "2025-02-22T23:59:00",
       "identifier": "com.skillboxes.18675",
