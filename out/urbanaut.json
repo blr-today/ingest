@@ -1816,6 +1816,106 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "The Sassy Single's Table",
+    "description": "A seat for one, but a table full of flavor. Enjoy your meal exactly how you want it\u2014without any interruptions.Dining alone never looked this good\u2014just you, your meal, and all the sass.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7838ECC567EF407AA0BDCA8BD251AB0E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/448DAFD145BA4F1C93D1C2D2A7D1A3AC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/286535C3E1EE41058B04A183DE90C622_converted_webp.webp"
+    ],
+    "startDate": "2025-02-14T13:00:00+05:30",
+    "endDate": "2025-02-14T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "151 2nd stage 2nd cross, Domlur, Stage 2, Indiranagar, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJaXlwspUVrjsRhbUhVOwjvo4",
+      "latitude": "12.96395530000000000000",
+      "longitude": "77.63871240000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sante Spa Cuisine",
+      "description": null,
+      "url": null,
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E18C16D8ED2049FEA7A3164A27B6B0E6_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-90350-45329"
+      }
+    },
+    "url": "https://urbanaut.app/spot/santespacuisine#2025-02-14T1300",
+    "keywords": [
+      "Food & drink",
+      "Leisure",
+      "Premium",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Sassy Single's Table",
+    "description": "A seat for one, but a table full of flavor. Enjoy your meal exactly how you want it\u2014without any interruptions.Dining alone never looked this good\u2014just you, your meal, and all the sass.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7838ECC567EF407AA0BDCA8BD251AB0E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/448DAFD145BA4F1C93D1C2D2A7D1A3AC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/286535C3E1EE41058B04A183DE90C622_converted_webp.webp"
+    ],
+    "startDate": "2025-02-14T15:00:00+05:30",
+    "endDate": "2025-02-14T16:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "151 2nd stage 2nd cross, Domlur, Stage 2, Indiranagar, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJaXlwspUVrjsRhbUhVOwjvo4",
+      "latitude": "12.96395530000000000000",
+      "longitude": "77.63871240000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sante Spa Cuisine",
+      "description": null,
+      "url": null,
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E18C16D8ED2049FEA7A3164A27B6B0E6_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-90350-45329"
+      }
+    },
+    "url": "https://urbanaut.app/spot/santespacuisine#2025-02-14T1500",
+    "keywords": [
+      "Food & drink",
+      "Leisure",
+      "Premium",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Lobster Meets",
     "description": "For all the fans of popular sitcom FRIENDS you probably get why the name Lobster Meets.For all those looking for their lobster, new friends or just meet new people Lobster Meets is the place to be.Lobster Meets by Lobster Search is a socialising event for verified* singles.Our aim is to facilitate interaction amongst as many singles as possible in a warm, fun and lively environment.While we take no guarantees of cupid striking, we suggest you come with an open mind, as you may find a friend, a person with similar interests or potentially your forever person!We also pride in maintaining over 90% gender ratio at all our events!See you at the event!",
     "image": [
