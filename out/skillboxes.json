@@ -387,6 +387,49 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "February just got a whole lot hotter! We're thrilled to announce the Neckwreck February Tour, featuring the Baile Funk sensation KARAN all the way",
+      "endDate": "2025-02-23T23:59:00",
+      "identifier": "com.skillboxes.18693",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Seventh Block, Plot 118, 80 Feet Rd, above Bodyworks Spa, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9354765",
+            "longitude": "77.6141533"
+         },
+         "name": "Koramangala Social"
+      },
+      "name": "Neckwreck February Tour Ft. KARAN! (Bangalore)",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charge applicable at the gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/neckwreck-february-tour-ft-karan-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charge applicable at the gates.\n",
+            "inventoryLevel": 1000,
+            "name": "General Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/neckwreck-february-tour-ft-karan-bangalore"
+         }
+      ],
+      "startDate": "2025-02-23T20:00:00",
+      "url": "https://www.skillboxes.com/events/neckwreck-february-tour-ft-karan-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Drip2hard Presents: The Ultimate Desi Hip-Hop Takeover \r\n\r\nBengaluru, brace yourselves for a night that'll rewrite the rules of rap! \r\n\r",
       "endDate": "2025-02-22T23:59:00",
       "identifier": "com.skillboxes.18675",
