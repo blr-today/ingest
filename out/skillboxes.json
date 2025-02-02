@@ -458,7 +458,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 9,
+            "inventoryLevel": 4,
             "name": "Performer",
             "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-20"
          },
@@ -942,57 +942,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "We’re thrilled to bring you GEARMASTER, a mind-bending sonic journey presented by Entente.fm x KLKTV & Abdul Raeva! Get ready for a trippy S",
-      "endDate": "2025-02-02T23:59:00",
-      "identifier": "com.skillboxes.18610",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "iBAR, THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9740179",
-            "longitude": "77.619422"
-         },
-         "name": "i-Bar THE Park Bangalore"
-      },
-      "name": "Entente X KLKTV & Abdul Raeva Present: Gearmasters",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges applicable at the gate\n",
-            "inventoryLevel": 25,
-            "name": "Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/entente-x-klktv-abdul-raeva-present-gearmasters"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges applicable at the gate\n",
-            "inventoryLevel": 14,
-            "name": "Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/entente-x-klktv-abdul-raeva-present-gearmasters"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges applicable at the gate\n",
-            "inventoryLevel": 40,
-            "name": "Phase 2",
-            "url": "https://www.skillboxes.com/events/ticket/entente-x-klktv-abdul-raeva-present-gearmasters"
-         }
-      ],
-      "startDate": "2025-02-02T16:00:00",
-      "url": "https://www.skillboxes.com/events/entente-x-klktv-abdul-raeva-present-gearmasters"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "HARDGROUND Ft Samantha Togni",
       "endDate": "2025-02-14T23:59:00",
       "identifier": "com.skillboxes.18606",
@@ -1099,40 +1048,6 @@
       ],
       "startDate": "2025-02-16T19:00:00",
       "url": "https://www.skillboxes.com/events/oddvision-turns-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Highlights:DJ Night ft DJ Jonas Monteiro and DJ TraveNonstop MusicHip-HopCommercialRooftop Mouthwatering AppetizersCocktails and MoctailsGet read",
-      "endDate": "2025-02-02T23:59:00",
-      "identifier": "com.skillboxes.18597",
-      "image": "",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750296",
-            "longitude": "77.6075339"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "Starry Deck Nights | Party Under the Stars!",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 94,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/starry-deck-nights-party-under-the-stars-6"
-         }
-      ],
-      "startDate": "2025-02-02T20:00:00",
-      "url": "https://www.skillboxes.com/events/starry-deck-nights-party-under-the-stars-6"
    },
    {
       "@context": "https://schema.org",
@@ -1256,40 +1171,6 @@
       ],
       "startDate": "2025-03-14T11:00:00",
       "url": "https://www.skillboxes.com/events/rain-dance-open-air-holi-party-2025"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "TINCTURES is an eclectic duo from Bangalore/Berlin that explores the nature of consonance and dissonance on piano and guitar. Together, Nishad Pa",
-      "endDate": "2025-02-02T20:00:00",
-      "identifier": "com.skillboxes.18585",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "54, first floor, 9th Main Rd, above Bharat Co-operative Bank, 4th Block, 5th Block, Jayanagar, Bengaluru, Karnataka 560041, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.922371",
-            "longitude": "77.5839224"
-         },
-         "name": "Odyssey School of Music"
-      },
-      "name": "Tinctures at Odyssey School of Music",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 29,
-            "name": "entry pass",
-            "url": "https://www.skillboxes.com/events/ticket/tinctures-at-odyssey-school-of-music"
-         }
-      ],
-      "startDate": "2025-02-02T18:00:00",
-      "url": "https://www.skillboxes.com/events/tinctures-at-odyssey-school-of-music"
    },
    {
       "@context": "https://schema.org",
@@ -1531,32 +1412,6 @@
       ],
       "startDate": "2025-03-23T18:00:00",
       "url": "https://www.skillboxes.com/events/modern-machines-volume-3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "ALIVE AND XKOLLABS PRESENTS\"BROILING ROOM\"BIG RAVE! GET READY TO BE HYPNOTISEDGet ready to experience the BROILING ROOM AMBIENCEARTISTS -HEADL",
-      "endDate": "2025-02-02T12:45:00",
-      "identifier": "com.skillboxes.18552",
-      "image": "",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "24, New BEL Rd, Jaladarsini Layout, Mathikere, Bengaluru, Karnataka 560094, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0326554",
-            "longitude": "77.5694956"
-         },
-         "name": "ROX"
-      },
-      "name": "BROILING ROOM",
-      "offers": [ ],
-      "startDate": "2025-02-01T06:00:00",
-      "url": "https://www.skillboxes.com/events/broiling-room"
    },
    {
       "@context": "https://schema.org",
@@ -2099,32 +1954,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get ready for Chaos Circuit on February 1st at Hyatt Centric, as the sensational Ericca Chessari makes her debut in Bangalore for an electrifying Indi",
-      "endDate": "2025-02-02T01:00:00",
-      "identifier": "com.skillboxes.18482",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "1/1, Swami Vivekananda Road, Mahatma Gandhi Rd, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.973455",
-            "longitude": "77.621801"
-         },
-         "name": "Hyatt Centric MG Road Bangalore"
-      },
-      "name": "CHAOS CIRCUIT ft ERICCA",
-      "offers": [ ],
-      "startDate": "2025-02-01T19:00:00",
-      "url": "https://www.skillboxes.com/events/chaos-circuit"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "“Eventually you will come to understand that love heals everything, and love is all there is.” — Gary ZukavBengaluru people, the mon",
       "endDate": "2025-02-09T15:00:00",
       "identifier": "com.skillboxes.18472",
@@ -2217,41 +2046,6 @@
       ],
       "startDate": "2025-03-15T16:00:00",
       "url": "https://www.skillboxes.com/events/bongyoung-park-india-groove-tour-3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Don't miss this soulful presentation of a unique tabla and santoor duo performance by Pt. Suddhasil Chatterjee (santoor) and Pt. Nilimesh Chakroborty ",
-      "endDate": "2025-02-02T20:00:00",
-      "identifier": "com.skillboxes.18451",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "441, 9th cross, Jayanagar 1st block Bangalore, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12",
-            "longitude": "77"
-         },
-         "name": "The Blue Room"
-      },
-      "name": "Rhythm of Ecstasy: an Evening of Santoor and Tabla",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Please arrive by 5:45 pm to secure your seat. Gates close at 6:15pm sharp. No parking available, please use public transport.\nVenue has mostly floor seating, with some chairs. As this is a house concert venue, we request that footwear be removed at the entrance. It tends to get cold, so do bring something warm. There is also one very friendly large dog at this venue.",
-            "inventoryLevel": 36,
-            "name": "Rhythm of Ecstasy",
-            "url": "https://www.skillboxes.com/events/ticket/rhythm-of-ecstasy-an-evening-of-santoor-and-tabla"
-         }
-      ],
-      "startDate": "2025-02-02T18:00:00",
-      "url": "https://www.skillboxes.com/events/rhythm-of-ecstasy-an-evening-of-santoor-and-tabla"
    },
    {
       "@context": "https://schema.org",
@@ -2539,91 +2333,6 @@
       ],
       "startDate": "2025-02-15T19:00:00",
       "url": "https://www.skillboxes.com/events/sky-lantern-festival-in-gokarna-season-3"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Feel the THUMP! Swing into Action and Get Your Tickets Now!Bangalore's most electrifying\nIndie Rock festival is back—THUMP! Presented b",
-      "endDate": "2025-02-02T23:30:00",
-      "identifier": "com.skillboxes.17906",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9151523",
-            "longitude": "77.6660553"
-         },
-         "name": "White Lotus Club Bengaluru"
-      },
-      "name": "THUMP",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Grab your ultimate buddy and rule THUMP!\nAccess to 2 individuals",
-            "inventoryLevel": 182,
-            "name": "Silverback Duo - Pair",
-            "url": "https://www.skillboxes.com/events/ticket/thump-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Bring your ultimate ape squad and get your THUMP ON!\nAccess to 5 individuals",
-            "inventoryLevel": 197,
-            "name": "Planet of the Apes - Troop of 5",
-            "url": "https://www.skillboxes.com/events/ticket/thump-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Unleash your inner wild and grab the first swing at THUMP!\nLimited Early Bird Access to single person",
-            "inventoryLevel": 22,
-            "name": "PrimeApe",
-            "url": "https://www.skillboxes.com/events/ticket/thump-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Because great vibes are better experienced with your favourite ape!\nLimited Early Bird Access to 2 Individuals",
-            "inventoryLevel": 33,
-            "name": "Banana Split - Pair",
-            "url": "https://www.skillboxes.com/events/ticket/thump-1"
-         }
-      ],
-      "startDate": "2025-02-02T18:30:00",
-      "url": "https://www.skillboxes.com/events/thump-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "This Saturday Catch All Fun And Action On Biggest Dance Floor At Hangover Kormangala.Bollywood Blockbuster  with DJ Milan and Fema",
-      "endDate": "2025-02-02T00:30:00",
-      "identifier": "com.skillboxes.17738",
-      "image": "",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9348662",
-            "longitude": "77.6138885"
-         },
-         "name": "Plan B x Hangover XL Koramangala"
-      },
-      "name": "Saturday Hangover Blockbuster Night",
-      "offers": [ ],
-      "startDate": "2025-02-01T20:00:00",
-      "url": "https://www.skillboxes.com/events/saturday-hangover-blockbuster-night-2"
    },
    {
       "@context": "https://schema.org",
