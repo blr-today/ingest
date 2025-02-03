@@ -25,5 +25,33 @@
       "telephone": "+917760394808",
       "sameAs": "https://timeandspace.gallery"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "&#8216;A Separate Reality&#8217;, A De Sousa Family Show",
+    "description": "Gallery Time and Space presents its newest show! \\'A Separate Reality\\' A De Sousa Family Show Featuring artists - Francis, Verodina and Nadia de Sousa from Goa - and their...\\n",
+    "image": "https://timeandspace.gallery/wp-content/uploads/2025/02/Copy-of-Website-Banners-Presentation.png",
+    "url": "https://timeandspace.gallery/event/a-separate-reality-a-de-sousa-family-show/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2025-02-09T11:00:00+05:30",
+    "endDate": "2025-02-23T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Gallery Time and Space",
+      "description": "",
+      "url": "",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd Floor, The Guild, 55, Lavelle Road",
+        "addressLocality": "Bangalore",
+        "addressRegion": "karnataka",
+        "postalCode": "560001",
+        "addressCountry": "India"
+      },
+      "telephone": "+917760394808",
+      "sameAs": "https://timeandspace.gallery"
+    }
   }
 ]

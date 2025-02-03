@@ -476,6 +476,49 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "HARDGROUND Ft Pisapia",
+      "endDate": "2025-02-22T23:59:00",
+      "identifier": "com.skillboxes.18713",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "22, Hennur Bagalur Rd, Visthar, Bengaluru, Karnataka 560077, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13",
+            "longitude": "77"
+         },
+         "name": "GYLT"
+      },
+      "name": "HARDGROUND Ft Pisapia",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable at the gates.\n",
+            "inventoryLevel": 997,
+            "name": "Early Bird || GA",
+            "url": "https://www.skillboxes.com/events/ticket/hardground-ft-pisapia"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable at the gates.\n",
+            "inventoryLevel": 998,
+            "name": "Early Bird || VIP",
+            "url": "https://www.skillboxes.com/events/ticket/hardground-ft-pisapia"
+         }
+      ],
+      "startDate": "2025-02-22T18:00:00",
+      "url": "https://www.skillboxes.com/events/hardground-ft-pisapia"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Ekta’s Gatherings Presents Be/Long, My ValentineA Retro Classic Show and Dinner Date @ Urban Solace An Unforgettable Valentine’s Day Exper",
       "endDate": "2025-02-14T23:59:00",
       "identifier": "com.skillboxes.18701",
@@ -730,14 +773,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 2,
-            "name": "Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/moshpit"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 39,
+            "inventoryLevel": 38,
             "name": "Early Bird VIP",
             "url": "https://www.skillboxes.com/events/ticket/moshpit"
          },
@@ -746,6 +782,13 @@
             "availability": "InStock",
             "inventoryLevel": 200,
             "name": "Fanpit (Standing)",
+            "url": "https://www.skillboxes.com/events/ticket/moshpit"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/moshpit"
          }
       ],
@@ -837,7 +880,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 997,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/social-presents-the-honey-mustard-party-8th-feb-2025-indiranagar-social"
          }
