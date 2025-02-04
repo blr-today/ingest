@@ -328,6 +328,134 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Valentine's Day at Skydeck by Sherlocks: Love is in the AirCelebrate love with a romantic evening at Skydeck by Sherlock's this Valentine's Day!Experi",
+      "endDate": "2025-02-14T23:59:00",
+      "identifier": "com.skillboxes.18794",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750296",
+            "longitude": "77.6075339"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Valentine's Day Special Party",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/valentine-s-day-special-party"
+         }
+      ],
+      "startDate": "2025-02-14T20:00:00",
+      "url": "https://www.skillboxes.com/events/valentine-s-day-special-party"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "ladies night w/ digvijay\r\n ",
+      "endDate": "2025-02-27T23:59:00",
+      "identifier": "com.skillboxes.18793",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9336478",
+            "longitude": "77.6148833"
+         },
+         "name": "HOD - House Of Dopamine"
+      },
+      "name": "Biggest ladies night of the city",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket is valid for 6th feb only.\n",
+            "inventoryLevel": 1000,
+            "name": "RSVP/ Guestlist Pass || 6th Feb 2025",
+            "url": "https://www.skillboxes.com/events/ticket/biggest-ladies-night-of-the-city"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket is valid for 13th feb only.\n",
+            "inventoryLevel": 1000,
+            "name": "RSVP/ Guestlist Pass || 13th Feb 2025",
+            "url": "https://www.skillboxes.com/events/ticket/biggest-ladies-night-of-the-city"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket is valid for 20th feb only.\n",
+            "inventoryLevel": 1000,
+            "name": "RSVP/ Guestlist Pass || 20th Feb 2025",
+            "url": "https://www.skillboxes.com/events/ticket/biggest-ladies-night-of-the-city"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket is valid for 27th feb only.\n",
+            "inventoryLevel": 1000,
+            "name": "RSVP/ Guestlist Pass || 27th Feb 2025",
+            "url": "https://www.skillboxes.com/events/ticket/biggest-ladies-night-of-the-city"
+         }
+      ],
+      "startDate": "2025-02-06T21:00:00",
+      "url": "https://www.skillboxes.com/events/biggest-ladies-night-of-the-city"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Love, Lager & AR Rahman! 💖🍻 Join us this Valentine’s Day for a soulful tribute to the maestro by Stringed Up—live at&#",
+      "endDate": "2025-02-14T23:30:00",
+      "identifier": "com.skillboxes.18791",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Sy no 90/3, K, 572/90, Outer Ring Rd, beside Manpo Convention Center, DadaMastan Layout, Manayata Tech Park, Nagawara, Bengaluru, Karnataka 560077, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0418831",
+            "longitude": "77.6160627"
+         },
+         "name": "ICB INDIAN CRAFT BREWERY"
+      },
+      "name": "Love, Lager & AR Rahman!",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Full Cover Included. Redeemable On F&B\n",
+            "inventoryLevel": 1000,
+            "name": "Full Cover Pass",
+            "url": "https://www.skillboxes.com/events/ticket/love-lager-ar-rahman"
+         }
+      ],
+      "startDate": "2025-02-14T20:30:00",
+      "url": "https://www.skillboxes.com/events/love-lager-ar-rahman"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "#GIGALERT 🚨 BODY RYDM IS ABOUT TO TAKE OVER!We’re beyond excited to bring you BODY RYDM, an electrifying night curated by BWB (Booth Wit",
       "endDate": "2025-02-08T23:59:00",
       "identifier": "com.skillboxes.18781",
@@ -575,13 +703,13 @@
          },
          "name": "The Brown Table"
       },
-      "name": "Gypsy Jazz feat Unlimited Wine, Music and Snacks !",
+      "name": "Gipsy Jazz | A curated wine & music experience by Project Grape Juice",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Pass Includes Unlimited Wine And Snacks\n",
-            "inventoryLevel": 999,
+            "inventoryLevel": 998,
             "name": "Entry + Cover Pass",
             "url": "https://www.skillboxes.com/events/ticket/gypsy-jazz-wine-food-and-music"
          }
@@ -948,7 +1076,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 24,
+            "inventoryLevel": 23,
             "name": "Audience",
             "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-20"
          },
@@ -2943,6 +3071,57 @@
       ],
       "startDate": "2025-02-15T19:00:00",
       "url": "https://www.skillboxes.com/events/sky-lantern-festival-in-gokarna-season-3"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "This Saturday Catch All Fun And Action On Biggest Dance Floor At Hangover Kormangala.Bollywood Blockbuster  with DJ Milan and Fema",
+      "endDate": "2025-02-09T00:30:00",
+      "identifier": "com.skillboxes.17738",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9348662",
+            "longitude": "77.6138885"
+         },
+         "name": "Plan B x Hangover XL Koramangala"
+      },
+      "name": "Saturday Hangover Blockbuster Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "one pass allow one single entry\n",
+            "inventoryLevel": 100,
+            "name": "ladies",
+            "url": "https://www.skillboxes.com/events/ticket/saturday-hangover-blockbuster-night-2"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free entry till 0930pm post cover charges applicable\n",
+            "inventoryLevel": 100,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/saturday-hangover-blockbuster-night-2"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "cover charges applicable at venue\n",
+            "inventoryLevel": 100,
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/saturday-hangover-blockbuster-night-2"
+         }
+      ],
+      "startDate": "2025-02-08T20:00:00",
+      "url": "https://www.skillboxes.com/events/saturday-hangover-blockbuster-night-2"
    },
    {
       "@context": "https://schema.org",
