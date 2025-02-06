@@ -328,6 +328,57 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Get ready for an electrifying night at i-Bar, The Park! 🎶✨Join us on Feb 8, Saturday, 8 PM onwards for an unforgettable musical journey",
+      "endDate": "2025-02-09T01:00:00",
+      "identifier": "com.skillboxes.18826",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "iBAR, THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9740179",
+            "longitude": "77.619422"
+         },
+         "name": "i-Bar THE Park Bangalore"
+      },
+      "name": "Juke Boxed",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one stag to the event. Cover charges applicable at the venue throughout the event.\n",
+            "inventoryLevel": 200,
+            "name": "STAGS",
+            "url": "https://www.skillboxes.com/events/ticket/juke-boxed"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one lady to the event.\n",
+            "inventoryLevel": 200,
+            "name": "LADIES",
+            "url": "https://www.skillboxes.com/events/ticket/juke-boxed"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass allows entry to 1 Couple. Each pass permits one couple to the event. Cover charges applicable at the venue post 9:30 PM.\n",
+            "inventoryLevel": 200,
+            "name": "COUPLES",
+            "url": "https://www.skillboxes.com/events/ticket/juke-boxed"
+         }
+      ],
+      "startDate": "2025-02-08T20:00:00",
+      "url": "https://www.skillboxes.com/events/juke-boxed"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "BENGALURU GET READY !🎊Holi Mahotsav is Back🔥After Captivating 10000+ Attendees for 3 days last  Year. This time we are bringing b",
       "endDate": "2025-03-16T18:00:00",
       "identifier": "com.skillboxes.18816",
@@ -566,7 +617,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Love, Lager & AR Rahman! 💖🍻 Join us this Valentine’s Day for a soulful tribute to the maestro by Stringed Up—live at&#",
+      "description": "Love, Lager & AR Rahman! 💖\r\n\r\n🍻 Join us this Valentine’s Day for a soulful tribute to the maestro by Stringed Up—live at  I",
       "endDate": "2025-02-14T23:30:00",
       "identifier": "com.skillboxes.18791",
       "image": "",
@@ -854,7 +905,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Pass Includes Unlimited Wine And Snacks\n",
-            "inventoryLevel": 998,
+            "inventoryLevel": 996,
             "name": "Entry + Cover Pass",
             "url": "https://www.skillboxes.com/events/ticket/gypsy-jazz-wine-food-and-music"
          }
@@ -1223,6 +1274,13 @@
             "availability": "InStock",
             "inventoryLevel": 23,
             "name": "Audience",
+            "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-20"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 2,
+            "name": "Performer",
             "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-20"
          },
          {
