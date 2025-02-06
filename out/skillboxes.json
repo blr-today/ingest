@@ -328,6 +328,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Get ready for an electrifying night of heavy, grungy riffs and raw energy at this epic rock show. The lineup blends the best of alternative rock with ",
+      "endDate": "2025-04-05T23:00:00",
+      "identifier": "com.skillboxes.18830",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st Main Cross",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9240906",
+            "longitude": "77.6366457"
+         },
+         "name": "The Raft"
+      },
+      "name": "Live & Loud Vol.2",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "BYOB\n",
+            "inventoryLevel": 200,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/live-loud-vol-2"
+         }
+      ],
+      "startDate": "2025-04-05T19:30:00",
+      "url": "https://www.skillboxes.com/events/live-loud-vol-2"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Get ready for an electrifying night at i-Bar, The Park! 🎶✨Join us on Feb 8, Saturday, 8 PM onwards for an unforgettable musical journey",
       "endDate": "2025-02-09T01:00:00",
       "identifier": "com.skillboxes.18826",

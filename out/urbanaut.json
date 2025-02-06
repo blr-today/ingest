@@ -1409,15 +1409,69 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Wine Tasting: Wine, Cheese and Wanderlust",
+    "description": "Bangalore wine lovers \u2013 get ready for a sensory wine escapade like no other!Join us at the easy, breezy\u00a0Olive Beach\u00a0for a\u00a0super fun evening\u00a0of discovering\u00a05 stunning wines from around the world, each as breathtaking as the regions they come from. Sip along with\u00a0Sommelier Devati Mallick\u00a0(Founder, Drink With D Wine Experiences) as she takes you on a tasting journey\u00a0through some of the world\u2019s most picturesque wine regions\u2014from the rolling vineyards of\u00a0Tuscany\u00a0to the sun-drenched Rh\u00f4ne Valley, the whitewashed island wineries of\u00a0Greece, and the enchanting canals of\u00a0Venice.Bangalore-based Melchior Cheese\u00a0is putting together a\u00a0heavenly cheese grazing table, featuring their bestselling styles, while\u00a0Olive Beach\u00a0is serving up\u00a0delicious small plates\u00a0to complement the wines. Add to that the best company\u2014our fun and welcoming\u00a0wine community in the city\u2014and you've got an evening that's nothing short of magic.Pack your palate and join us for this epic wine and cheese escape\u2014no boarding pass required!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B3293EE679BE4C0EA5B17048B39BEB4B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/118E414916214B97B2FC738F0DA21748_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E549276087FF43BC89E86ABF261E7EBA_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/439E96A181934ED4BFC3C84DFB79287C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DC3F971B312E40B3A0A5D19FFF4B8751_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F39FCA0277C3410682D2B15D3DA32E40_converted_webp.webp"
+    ],
+    "startDate": "2025-02-22T17:00:00+05:30",
+    "endDate": "2025-02-22T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "16, Wood St, near Karnataka Bank, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ03xVrSoUrjsRfYzAUhym4eY",
+      "latitude": "12.96689200000000000000",
+      "longitude": "77.60808440000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 40,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2400.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Drink With D",
+      "description": "DWD is a Sommelier-led wine consulting and wine experience brand. Join us in exploring the fascinating world of wine through fun tastings and curated experiences!",
+      "url": "https://urbanaut.app/partner/drinkwithd",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/drwbzxdvf1-1707303470215dwdjpglogojpg.jpg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-88600-24590"
+      }
+    },
+    "url": "https://urbanaut.app/spot/wine-cheese-and-wanderlust",
+    "keywords": [
+      "Food & drink",
+      "Leisure",
+      "Premium",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "The Analog Club",
     "description": "Step back in time at The Analog Club, a new event series by the Studio by Copper + Cloves. Imagine walking into a busy cafe and seeing not a single phone, no-one taking selfies and no one around you scrolling. Disconnect from devices for 3 hours of unplugged experience\u2014we'll have books, board games, music, crochet, and of course, food! But this isn't about structured activities or organised fun, just genuine connection and relaxation. The event will be fluid- you can dip into activities if you want, or you can just chat to new people or graze at our high tea counter!Meet new friends, sketch, or read a book in quiet solitude (without being surrounded by people lost in their phones). We will not be doing social media on our phones at the event, we will only take photos with a camera.Embrace the analog experience, slow down, and reconnect in this crazy digital age! **Strictly no devices (no laptops, ipads, and you will be asked to keep your phone in a basket or in your bag- not in your pocket and no where on a table**Tickets are for entry and unlimited high tea from our renowned deli counter. ",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/30EF77D42F924AD19F79067FB7F4AA0F_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/47D20AD0C9F144B5A7B382301F126D0E_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C8319552619644A49ABA3E375EBA1BF8_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/65595A7B86C34D63A7A516CC6DA25192_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B4E887B815874182B5B41CF91D1C76F7_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/49601DECF5E142A6880A23D355027796_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9F7D749A61054A17B165FBF326865917_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AB4BBD0DBEC94317B9FD60139E7A6838_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7B16852218FA4AEBA57A1EA22902EBC2_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8AA650A890054B48AED87E6051FF8B6F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E19E81CCAA334CDC8F81823F580E754E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/232347104EF44374A78F17E08AD22A97_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9C2C40C1F3DD48F0AC8920413FF02C2B_converted_webp.webp"
     ],
     "startDate": "2025-02-16T15:30:00+05:30",
     "endDate": "2025-02-16T18:30:00+05:30",
