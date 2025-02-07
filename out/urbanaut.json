@@ -1564,6 +1564,58 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Unplugged Saturday's With The Living Room",
+    "description": "Music by The Living RoomJoin us for a magical evening at Karma & Kurry Resto Bar & Kitchen, where the vibe is relaxed, the food is exquisite, and the music is unplugged. Experience the soulful sounds of The Living Room, as they bring you acoustic renditions of your favorite tunes in an intimate, unplugged setting.The mellow, acoustic melodies will perfectly complement the cozy ambiance of our restaurant, allowing you to unwind and enjoy the best of both worlds\u2014tantalizing flavors and beautiful music. Whether you're here for a date night, a gathering with friends, or a peaceful evening of relaxation, this event promises to be a memorable experience.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/17D6DDF113C24FCA90FA3E11F877E1C3_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2F7C39AD61FD4F71B798CA4A4277DAC2_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/24BD82011D7D42DDA2EC9981E1C98620_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9BCF6D77D7CD41CCBBFD6806A5B7792F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A22C77C07B1145CB812F1EB5B4962E0C_converted_webp.webp"
+    ],
+    "startDate": "2025-02-08T20:00:00+05:30",
+    "endDate": "2025-02-08T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "4th Floor, Chandre Gowda Arcade, next to Vajram Tiara Road, Avalahalli, Bengaluru, Karnataka 560064, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJIWpnhxcZrjsRD-1doBgiBKk",
+      "latitude": "13.13869970000000000000",
+      "longitude": "77.56961079999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 150,
+    "remainingAttendeeCapacity": 150,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Karma & Kurry",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C9FE5FCEB66043F3BAE7C70C50B97D23_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-76762-01012"
+      }
+    },
+    "url": "https://urbanaut.app/spot/unplugged-saturdays-with-the-living-room",
+    "keywords": [
+      "Food & drink",
+      "Live GIG",
+      "Premium",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Minds in Motion - Breakfast with Founders, Creator",
     "description": "Dear Founders & Creators,Please Join the whatsapp group for more info-\u00a0https://chat.whatsapp.com/HhdR5vitXN4ExjOa4Hvh5eWe're excited to invite you to an exclusive\u00a0Breakfast with Founders and Creators\u00a0event, designed for collaboration, spark innovation, and build authentic connections in a relaxed, informal setting.This is an opportunity to connect with like-minded entrepreneurs and creators, share insights, discuss challenges, and celebrate each other\u2019s journeys. This gathering is all about sharing experiences, learning together, and growing as a community.Details:\u23f0\u00a0Time:\u00a011:00 AM \u2013 1:00 PM\ud83d\udccd\u00a0Venue:\u00a0The venue will be shared with confirmed participants.Our goal is to create a space where meaningful conversations happen, ideas flow freely, and we all leave inspired and connected. Whether you\u2019re looking for new collaborations, insights, or simply a supportive community, this meetup is for you.Looking forward to seeing you there!",
@@ -1664,6 +1716,104 @@
       "Leisure",
       "Wellness",
       "Workshop",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pop-Up Brunch with Chef Clive Fernandes",
+    "description": "Chef Clive Fernandes, a culinary expert in modern European cuisine, refined his craft at Auberge du Pommier in Toronto. He is known for blending classical techniques with contemporary creativity.\u00a0Chef Clive will helm the Chef\u2019s Table Dinner at the Pour Room presenting a three course meal, bringing deep respect for produce while crafting memorable dishes.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B75DBD0AF24D4A609FDBA18F85B6AC81_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DC9A0DFADAA443E3AECF603FBE6CDF05_converted_webp.webp"
+    ],
+    "startDate": "2025-02-22T11:00:00+05:30",
+    "endDate": "2025-02-22T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1st Floor, 5th, Block, 136, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJQRgfDgAVrjsRz1KBWADu4d4",
+      "latitude": "12.93371430000000000000",
+      "longitude": "77.62149930000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Pour Room",
+      "description": "A collaborative space by Blue Tokai and Fratelli, focused on coffee, wine, and experimental experiences.",
+      "url": "https://urbanaut.app/partner/thepourroom",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/15C8B4C18A914FDA8D19FB4E4B117CD3_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98187-02861"
+      }
+    },
+    "url": "https://urbanaut.app/spot/pop-up-brunch-with-chef-clive-fernandes#2025-02-22T1100",
+    "keywords": [
+      "Food & drink",
+      "Premium",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pop-Up Brunch with Chef Clive Fernandes",
+    "description": "Chef Clive Fernandes, a culinary expert in modern European cuisine, refined his craft at Auberge du Pommier in Toronto. He is known for blending classical techniques with contemporary creativity.\u00a0Chef Clive will helm the Chef\u2019s Table Dinner at the Pour Room presenting a three course meal, bringing deep respect for produce while crafting memorable dishes.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B75DBD0AF24D4A609FDBA18F85B6AC81_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DC9A0DFADAA443E3AECF603FBE6CDF05_converted_webp.webp"
+    ],
+    "startDate": "2025-02-23T11:00:00+05:30",
+    "endDate": "2025-02-23T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1st Floor, 5th, Block, 136, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJQRgfDgAVrjsRz1KBWADu4d4",
+      "latitude": "12.93371430000000000000",
+      "longitude": "77.62149930000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Pour Room",
+      "description": "A collaborative space by Blue Tokai and Fratelli, focused on coffee, wine, and experimental experiences.",
+      "url": "https://urbanaut.app/partner/thepourroom",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/15C8B4C18A914FDA8D19FB4E4B117CD3_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98187-02861"
+      }
+    },
+    "url": "https://urbanaut.app/spot/pop-up-brunch-with-chef-clive-fernandes#2025-02-23T1100",
+    "keywords": [
+      "Food & drink",
+      "Premium",
       "Pop-up Event",
       "URBANAUT"
     ]

@@ -320,6 +320,32 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Join us for \"The Ultimate Essay Workshop: From Idea to Excellence!\" a comprehensive session organised to help you master the art of essay",
+      "endDate": "2025-02-15T17:31:00",
+      "identifier": "com.skillboxes.18853",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Education"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "",
+            "longitude": ""
+         },
+         "name": "To Be Decided"
+      },
+      "name": "The Ultimate Essay Workshop: From Idea to Excellence!",
+      "offers": [ ],
+      "startDate": "2025-02-15T14:31:00",
+      "url": "https://www.skillboxes.com/events/the-ultimate-essay-workshop-from-idea-to-excellence"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "IND vs PAK: Witness the Rivalry Ignite!With every ticket, enjoy a complimentary Beer or MocktailGet ready for an adrenaline-pumping LIVE screening of ",
       "endDate": "2025-02-23T19:00:00",
       "identifier": "com.skillboxes.18847",
@@ -456,7 +482,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get ready for an electrifying night of heavy, grungy riffs and raw energy at this epic rock show. The lineup blends the best of alternative rock with ",
+      "description": "Get ready for an electrifying night of heavy riffs and raw energy at this epic rock show. The lineup blends the best of alternative rock with gritty m",
       "endDate": "2025-04-05T23:00:00",
       "identifier": "com.skillboxes.18830",
       "image": "",
@@ -480,7 +506,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "BYOB\n",
-            "inventoryLevel": 200,
+            "inventoryLevel": 199,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/live-loud-vol-2"
          }
@@ -649,7 +675,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable post 5PM.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Phase 1 Group of 5",
             "url": "https://www.skillboxes.com/events/ticket/mentalecho-blackout-records"
          },
