@@ -82,5 +82,30 @@
       }
     ],
     "maximumAttendeeCapacity": 20
+  },
+  {
+    "@type": "ScreeningEvent",
+    "name": "Cauvery: River of Life",
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre",
+      "address": "Bangalore International Centre, Bangalore",
+      "url": "https://maps.app.goo.gl/ec1jzM7drH716qJQ9"
+    },
+    "startDate": "2025-02-13T18:00:00+05:30",
+    "endDate": "2025-02-13T20:00:00+05:30",
+    "description": "This is the story of the mighty Cauvery River, a lifeline shaping extraordinary ecosystems and nurturing an astonishing diversity of wildlife. Set amidst the captivating and lesser-known habitats of MM Hills and Cauvery Wildlife Sanctuaries, the documentary takes viewers on a mesmerizing journey across all seasons, revealing how creatures great and small engage in a dramatic dance for survival. Through stunning visuals and unexpected encounters, the documentary reveals marvelous adaptations and uncovers nature\u2019s hidden wonders\u2014some bizarre, others deeply mysterious\u2014all intricately woven into a vibrant tapestry of life. Against the backdrop of this harsh landscape, \"Cauvery: River of Life\" portrays the fragile balance of existence, where survival hinges on this crystal thread that sustains countless lives.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=cauvery-river-of-life",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sara"
+      },
+      {
+        "@type": "Person",
+        "name": "Sanjay-Gubbi"
+      }
+    ],
+    "maximumAttendeeCapacity": 100
   }
 ]
