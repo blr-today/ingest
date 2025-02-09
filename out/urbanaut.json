@@ -815,53 +815,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Sunday Breakfast with Strangers",
-    "description": "Make Your Sunday Shine with New Connections!\u2728Join us for Sunday Breakfast with Strangers \u2013 a perfect chance to meet new people, share stories, and enjoy a relaxed morning together. It's the perfect way to start your day with new connections and great conversations! \ud83c\udf1f ",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/46D2A267F38F4536A71323F608C0D3E3_converted_webp.webp"
-    ],
-    "startDate": "2025-02-09T10:00:00+05:30",
-    "endDate": "2025-02-09T11:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "163, 15th Main Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ-UMGCUQVrjsRTI-9SL-bEhk",
-      "latitude": "12.93543670000000000000",
-      "longitude": "77.62841379999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 7,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "Meet a small group of strangers offline, with no agendas\u2014just good conversations and genuine connections. Whether it\u2019s a random thought or a deep dive, you never know where it might lead. Sometimes, the best connections happen when you least expect them.",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/sunday-breakfast-hightable",
-    "keywords": [
-      "Food & drink",
-      "Leisure",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Linocut Printing Workshop, Studio Sakura\u00d7MyBoTree",
     "description": "Celebrate the month of love in a creative way! Studio Sakura is teaming up with MyBoTree to bring you a unique linocut printing session on Saturday, 15th Feb.\ud83c\udf38Whether you're looking for a fun activity with your family, friends, or partner, this is the perfect way to get your hands inked and hearts inspired!  Create your own beautiful prints while enjoying a relaxing, artistic experience in a cozy environment.All the materials will be provided. The tools will be provided only for use. No prior experience required, we will teach you from scratch. You take home your carved A5 block with 1 print. We\u2019ll be teaching a black and white composition. If you have a composition in mind that you want to work on, please get the sketch or a print out of it. If you don\u2019t have anything specific in mind, you can choose from the references we have. Spaces are limited, so don\u2019t miss out on this amazing opportunity to make something special! Registrations close on 14th Feb.\u00a0",
@@ -957,52 +910,6 @@
     "url": "https://urbanaut.app/spot/translated-fiction-readers-table",
     "keywords": [
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Katte and Koffee\u2014Brewed Conversations",
-    "description": "Katte, in Kannada is a raised platform on which people take a seat and have conversations!So, come take a seat at Katte and enjoy a cup of Koffee with us while we chat about all things coffee and Monday coping mechanisms.Whether you're seeking meaningful conversations, new friendships, or simply a fresh perspective, this table offers a warm, welcoming space to connect, share, and vibe.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E90B1CBBC81B4E639BB39B0568A83616_converted_webp.webp"
-    ],
-    "startDate": "2025-02-09T17:00:00+05:30",
-    "endDate": "2025-02-09T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "425, 18th Main Rd, 4th T Block East, Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka 560041, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBbODRtYVrjsRciwbmh5Swt0",
-      "latitude": "12.92599500000000000000",
-      "longitude": "77.58938700000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 9,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "999.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "Meet a small group of strangers offline, with no agendas\u2014just good conversations and genuine connections. Whether it\u2019s a random thought or a deep dive, you never know where it might lead. Sometimes, the best connections happen when you least expect them.",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/katte-and-koffee-conversations",
-    "keywords": [
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1263,8 +1170,8 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Introduction to arm- balances and backbends",
-    "description": "Join us for an immersive workshop designed to unlock the strength and fluidity within your body as we explore the art of arm balances and the grace of backbends. This session combines playful exploration with focused techniques, guiding you through the mechanics, mindset, and alignment needed to deepen your practice.Meet Sanjana, the founder of Yogakalpa, a yoga studio and global community.A distinguished yoga teacher with Gold medal in National Yoga Championship and Silver medal in State Yoga Championship, Sanjana's expertise shines in advanced asanas empowering yogis to deepen their practice.\u00a0Now, Sanjana is bringing her expertise to the Studio by Copper + Cloves!Join her for an immersive inversion workshop where you'll learn the art of headstands, forearm stands, and everything in between. Whether you're a beginner or an experienced yogi, this workshop will provide valuable insights, modifications, and preparation strategies to safely and confidently explore the world of inversions.",
+    "name": "Unlock Strength & Mobility For Your Spine",
+    "description": "Our daily lives have us hunched over screens, desks, and phones, often without realizing the strain we put on our spines. Over time, this leads to stiffness, discomfort, and restricted mobility.This workshop is for anyone looking to counteract the effects of prolonged sitting and improve spinal health. Backbends aren\u2019t just about flexibility\u2014they help strengthen the back, improve posture, and create more space in the body. Whether you\u2019re a beginner or experienced in movement, this session will guide you through safe, intentional back-bending techniques to build strength, release tension, and feel more open and energized.Meet Sanjana, the founder of Yogakalpa, a yoga studio and global community. A distinguished yoga teacher with Gold medal in National Yoga Championship and Silver medal in State Yoga Championship, Sanjana's expertise shines in advanced asanas empowering yogis to deepen their practice.\u00a0",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/104EB7FCD4F1401E8325CBA625E306CD_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D465051215F04B389012A88B77B9D001_converted_webp.webp",
@@ -1288,7 +1195,7 @@
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 8,
     "remainingAttendeeCapacity": 8,
-    "typicalAgeRange": "12+",
+    "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
       "price": "1300.00",
@@ -1309,10 +1216,8 @@
     "url": "https://urbanaut.app/spot/introduction-to-arm-balances-and-backbends",
     "keywords": [
       "Active",
-      "Leisure",
       "Wellness",
       "Workshop",
-      "Pop-up Event",
       "URBANAUT"
     ]
   },
@@ -1320,7 +1225,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "KORAMANGALA BLOCK PARTY",
-    "description": "Join us for a first-of-its-kind Block Party in Koramangala! A block party brings the neighbourhood out to connect and socialize with other members of the community. Our day kicks off at The Bier Library, where you'll enjoy a selection of craft beer samples and unlimited food curated by Chef Rahul Mark Barua. Next, treat your palate to a refined wine tasting experience at the Pour Room Deck by Fratelli Wines. We will culminate with a rooftop sundowner at the beautiful Love Ooru, where you'll unwind with panoramic city views, cocktail bar with DJ Ron and a local Snack Bar by Chef Pooja.This COOL Block party is co-hosted by Shivam Desaii all the way from New York, Chef Rahul Mark Barua (Alum of C\u00e9sar Ritz Colleges Switzerland & chef behind 10Speakeasy, Bier Library, Khmer Kitchen ) & the folks at Love OORUDATE: 15TH FEB SATURDAY TIME: 1PM - SUNDOWNLOCATION AS MENTIONED BELOWSTOP 1: THE BIER LIBRARY - Party starts at 1pm. : Please get to Bier Library at 1pm where you will join the rest of the party crew and will continue onto the next stops. This stop includes a beer sampling session with bar style food ( both included in ticket price)STOP 2: SURPRISE BAR STOP *Think HYPER LOCAL - old Bangalore vibes*STOP 3: THE POUR ROOM - The new entry to the Koramangala bar scene is a wine & coffee experience space by Blue Tokai Coffee & Fratelli Wines. Here you will get to sample some of Fratelli's fine wines. ( included in ticket price)STOP 4: LOVE OORU ROOFTOP (5pm - Sundown) : We move the party to the rooftop to Love OORU - rooftop market. Watch the sun go down and unwind with DJ Ron on the sets, a local Snack Bar with bar bites ( included in the ticket price) & a cocktail wine bar.Movement between stops would be by foot or cab- whichever preferred. Do get to the party on time. If you get delayed please meet the party at the following stop.ABOUT THE HOSTS:Shivam Desaii - Future Globalist\u2122\ufe0f : https://www.instagram.com/shivam.desaii/Chef Rahul Mark Barua - https://www.instagram.com/chef_ra_mark/?hl=itLOVE OORU - https://www.instagram.com/love.ooru/?hl=enLocations :THE BIER LIBRARY https://maps.app.goo.gl/r6EJS42FBv8uRWV98THE POUR ROOM https://maps.app.goo.gl/AkQhPQwn9heCkNLH7LOVE OORU https://maps.app.goo.gl/7UbisaNPmSSNSejG7",
+    "description": "Join us for a first-of-its-kind Block Party in Koramangala! A block party brings the neighbourhood out to connect and socialize with other members of the community. Our day kicks off at The Bier Library, where you'll enjoy a selection of craft beer samples and unlimited food curated by Chef Rahul Mark Barua. Next, treat your palate to a refined wine tasting experience at the Pour Room Deck by Fratelli Wines. We will culminate with a rooftop sundowner at the beautiful Love Ooru, where you'll unwind with panoramic city views, cocktail bar with DJ Ron and a local Snack Bar by Chef Pooja.This COOL Block party is co-hosted by Shivam Desaii all the way from New York, Chef Rahul Mark Barua (Alum of C\u00e9sar Ritz Colleges Switzerland & chef behind 10Speakeasy, Bier Library, Khmer Kitchen ) & the folks at Love OORUDATE: 15TH FEB SATURDAY TIME: 1PM - SUNDOWNLOCATION AS MENTIONED BELOWSTOP 1: THE BIER LIBRARY - Party starts at 1pm. : Please get to Bier Library at 1pm where you will join the rest of the party crew and will continue onto the next stops. This stop includes a beer sampling session with bar style food ( both included in ticket price)STOP 2: SURPRISE BAR STOP *Think HYPER LOCAL - old Bangalore vibes*STOP 3: THE POUR ROOM - The new entry to the Koramangala bar scene is a wine & coffee experience space by Blue Tokai Coffee & Fratelli Wines. Here you will get to sample some of Fratelli's fine wines. ( included in ticket price)STOP 4: LOVE OORU ROOFTOP (5pm - Sundown) : We move the party to the rooftop to Love OORU - rooftop market. Watch the sun go down and unwind with DJ Ron on the sets, a local Snack Bar with bar bites ( included in the ticket price) & a cocktail wine bar.Movement between stops would be by foot or cab- whichever preferred. Do get to the party on time. If you get delayed please meet the party at the following stop.ABOUT THE HOSTS:Shivam Desaii - Future Globalist\u2122\ufe0fChef Rahul Mark BaruaLOVE OORULocations :THE BIER LIBRARYTHE POUR ROOMLOVE OORU",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EF75EB75013347868D52FACEE2A37C6A_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/876A89B053E1449890B300A0252FCDCD_converted_webp.webp",
@@ -1523,6 +1428,53 @@
       "Art & culture",
       "Leisure",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Breakfast with Strangers",
+    "description": "Make Your Sunday Shine with New Connections!\u2728Join us for Sunday Breakfast with Strangers \u2013 a perfect chance to meet new people, share stories, and enjoy a relaxed morning together. It's the perfect way to start your day with new connections and great conversations! \ud83c\udf1f ",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/46D2A267F38F4536A71323F608C0D3E3_converted_webp.webp"
+    ],
+    "startDate": "2025-02-16T10:00:00+05:30",
+    "endDate": "2025-02-16T11:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "163, 15th Main Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ-UMGCUQVrjsRTI-9SL-bEhk",
+      "latitude": "12.93543670000000000000",
+      "longitude": "77.62841379999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "Meet a small group of strangers offline, with no agendas\u2014just good conversations and genuine connections. Whether it\u2019s a random thought or a deep dive, you never know where it might lead. Sometimes, the best connections happen when you least expect them.",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/copy-of-breakfast-with-strangers-the-first-of-2025",
+    "keywords": [
+      "Food & drink",
+      "Leisure",
       "URBANAUT"
     ]
   }
