@@ -261,6 +261,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Hippie Holi CelebrationHey Bengaluru, it’s time to let loose and paint the town wild! 🌈 Join us for a Hippie Holi Bash where colors, bea",
+      "endDate": "2025-03-15T18:00:00",
+      "identifier": "com.skillboxes.18910",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Holi 2025"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No 22/1&8, Doddaballapur Main Rd, opp. to Hp petrol pump, Honnenahalli, Bengaluru, Karnataka 560064, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.1643841",
+            "longitude": "77.565283"
+         },
+         "name": "GRASA"
+      },
+      "name": "HIPPIE HOLI",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10,
+            "name": "HIPPIE HOLI",
+            "url": "https://www.skillboxes.com/events/ticket/hippie-holi-1"
+         }
+      ],
+      "startDate": "2025-03-15T12:00:00",
+      "url": "https://www.skillboxes.com/events/hippie-holi-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Biggest Anti-Valentines Party for SinglesYou must have come across many romantic events and parties happening in Bangalore by now.All of them claiming",
       "endDate": "2025-02-14T23:59:00",
       "identifier": "com.skillboxes.18896",
@@ -1129,7 +1163,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Pass Includes Unlimited Wine And Snacks\n",
-            "inventoryLevel": 986,
+            "inventoryLevel": 985,
             "name": "Entry + Cover Pass",
             "url": "https://www.skillboxes.com/events/ticket/gypsy-jazz-wine-food-and-music"
          }
@@ -3013,32 +3047,7 @@
          "name": "Nolimmits Lounge & Club"
       },
       "name": "Wild Sunday @ Nolimits Magrath Road",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "cover charges applicable through out the event\n",
-            "inventoryLevel": 98,
-            "name": "stag",
-            "url": "https://www.skillboxes.com/events/ticket/uk-punjabi-night-nolimits-magrath-road"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow one single entry.\n",
-            "inventoryLevel": 100,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/uk-punjabi-night-nolimits-magrath-road"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free ebrry till 0930pm post cover charge applicable\n",
-            "inventoryLevel": 100,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/uk-punjabi-night-nolimits-magrath-road"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2025-02-09T08:00:00",
       "url": "https://www.skillboxes.com/events/uk-punjabi-night-nolimits-magrath-road"
    },

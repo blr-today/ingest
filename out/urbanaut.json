@@ -1235,6 +1235,58 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "DINO-MITE PARTY with The Looroo Club",
+    "description": "Hey little palaeontologists! \ud83e\udd95\ud83e\udd96\u00a0Are you ready for a dino-mite adventure?\u00a0Join us for the most roaring fun day ever at our Dino Play Date! We\u2019ll tell amazing dino stories, get our hands messy with squishy sensory fun, and create some awesome dino art. There\u2019ll even be nature adventures where you can explore like a real dinosaur hunter! And guess what? There\u2019s yummy food from Karma & Kurry to chomp on while we\u2019re having all this fun.So grab your hats and let\u2019s dig up some prehistoric fun\u2014this is one dino adventure you don\u2019t want to miss! See you there, explorers!For children aged 3 to 8 years, accompanied by a parent.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E590041D9E09424688468B798152F7BC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/49683B789D1A4B649FC9BCB55971F452_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E7B8D629BB784C88A8E9C93737B89E79_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E9EB1BC96C8346F0AEDEC3BD3F8B4532_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D903A0F0A8BB4366BBF2063D863C409F_converted_webp.webp"
+    ],
+    "startDate": "2025-02-23T11:00:00+05:30",
+    "endDate": "2025-02-23T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "4th Floor, Chandre Gowda Arcade, next to Vajram Tiara Road, Avalahalli, Bengaluru, Karnataka 560064, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJIWpnhxcZrjsRD-1doBgiBKk",
+      "latitude": "13.13869970000000000000",
+      "longitude": "77.56961079999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "2499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Karma & Kurry",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C9FE5FCEB66043F3BAE7C70C50B97D23_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-76762-01012"
+      }
+    },
+    "url": "https://urbanaut.app/spot/dino-mite-party-with-the-looroo-club",
+    "keywords": [
+      "Art & culture",
+      "Food & drink",
+      "Adventure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Shod\u014d Serenity:Kanji Japanese Calligraphy workshop",
     "description": "Experience the meditative art of Japanese Kanji Calligraphy under the guidance of an N4-certified expert, Brinda in the tranquil setting of Hermitage India. Learn the beauty of brush strokes, master traditional techniques, and create your own kanji masterpiece. Perfect for beginners and enthusiasts alike. Join us for an immersive cultural experience that blends creativity with mindfulness.",
@@ -1327,6 +1379,197 @@
     "keywords": [
       "Food & drink",
       "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Let's MINGLE over Movies and Series",
+    "description": "A table where movie and TV lovers unite!Share your favorite films and shows, dive into reviews, and connect with new people who share your passion for entertainment.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/68C89F25EC604C6A90C73B9FEE8884CF_converted_webp.webp"
+    ],
+    "startDate": "2025-02-16T18:00:00+05:30",
+    "endDate": "2025-02-16T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3163, Paramahansa Yogananda Road, Double Road, 12th A Main Rd, HAL 2nd Stage, Defence Colony, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJU603NOcXrjsRFveo4o4Ts-4",
+      "latitude": "12.96930310000000000000",
+      "longitude": "77.63585010000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 4,
+    "remainingAttendeeCapacity": 4,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "899.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "Meet a small group of strangers offline, with no agendas\u2014just good conversations and genuine connections. Whether it\u2019s a random thought or a deep dive, you never know where it might lead. Sometimes, the best connections happen when you least expect them.",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/lets-mingle-over-movies-and-series",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Valentine\u2019s special Sip & Paint",
+    "description": "Looking for a unique Valentine's experience? Whether it's a date, a Galentine's celebration, or just a fun night out with friends, join us for a special evening of sip & paint. Unwind and paint popular artworks from the MAP collection. Enjoy drinks, inspiration from the MAP collection, and a fun, relaxed atmosphere.Limited spots available. Register now!This event is in collaboration with Happn",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/798600A188664B2F8B586559268C04BE_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E1759BA34DCE4CE9884FEA31C9E552DC_converted_webp.webp"
+    ],
+    "startDate": "2025-02-14T16:00:00+05:30",
+    "endDate": "2025-02-14T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "22, Kasturba Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJK3WK06kXrjsRtJJUPxlNE4A",
+      "latitude": "12.97460260000000000000",
+      "longitude": "77.59675370000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 80,
+    "remainingAttendeeCapacity": 80,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Museum of Art and Photography (MAP Bengaluru)",
+      "description": "MAP\u2019s mission is to harness the transformative potential of art, to enrich lives, ignite creativity, and connect people.  We make art accessible and engaging for everyone through innovative experiences, meaningful dialogue and building communities.",
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/FC4FD4DDA248480898821B02CC012FD2_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-80-6933-4100"
+      }
+    },
+    "url": "https://urbanaut.app/spot/valentines-special-sip-paint",
+    "keywords": [
+      "Art & culture",
+      "Food & drink",
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sip & Paint",
+    "description": "Get ready for an unforgettable afternoon filled with creativity, fun, and fabulous drinks! \ud83d\udd8c\ud83c\udf77 Join us at Bunny Bash in collaboration with Karma & Kurry for an exclusive Sip & Paint event that will ignite your artistic flair.Unleash your inner artist as you sip on carefully curated cocktails and delicious bites in a relaxed, social atmosphere. Whether you're a seasoned painter or a first-timer, our friendly instructors will guide you step by step through creating your masterpiece. All art supplies will be provided, so all you need to bring is your creativity and a love for fun!So, grab your friends, come for the sips, stay for the paints, and leave with a unique piece of art made by you! \ud83c\udfa8\u2728Spaces are limited, so be sure to book your spot in advance!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CA7961C5F8C542BCA0BC9D585A25F218_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8DC9AA0E4F0F4031885DF4C6AA515B15_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/00486E4FF7494BE8BC8273E4BEBE3E9D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EC0CB5FE492943558BBE8218EAA27019_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/973C0D0040BC4064BB58DE5ED1A0B911_converted_webp.webp"
+    ],
+    "startDate": "2025-02-22T12:00:00+05:30",
+    "endDate": "2025-02-22T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "4th Floor, Chandre Gowda Arcade, next to Vajram Tiara Road, Avalahalli, Bengaluru, Karnataka 560064, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJIWpnhxcZrjsRD-1doBgiBKk",
+      "latitude": "13.13869970000000000000",
+      "longitude": "77.56961079999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1249.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Karma & Kurry",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C9FE5FCEB66043F3BAE7C70C50B97D23_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-76762-01012"
+      }
+    },
+    "url": "https://urbanaut.app/spot/sip-paint",
+    "keywords": [
+      "Art & culture",
+      "Food & drink",
+      "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Go-Offline with HighTable",
+    "description": "Let\u2019s Disconnect to Reconnect! \ud83d\udcf5In a world full of screens, let\u2019s bring back the magic of face-to-face connections!The Go-Offline with HighTable is all about ditching the digital distractions and diving into real, meaningful conversations.No notifications, no scrolling\u2014just great conversation, good vibes, and the kind of interactions that only happen when you're really present.Grab a seat, leave your phone behind, and let\u2019s get to know each other the old-fashioned way\u2014face-to-face, no filter needed!\ud83d\udcab",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DE5A4D31B6424B768D7BBDB4677319A5_converted_webp.webp"
+    ],
+    "startDate": "2025-02-12T19:00:00+05:30",
+    "endDate": "2025-02-12T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "62, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJbfQdEaIVrjsRszi1HRHDPPI",
+      "latitude": "12.93344720000000000000",
+      "longitude": "77.61507510000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 25,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "Meet a small group of strangers offline, with no agendas\u2014just good conversations and genuine connections. Whether it\u2019s a random thought or a deep dive, you never know where it might lead. Sometimes, the best connections happen when you least expect them.",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/go-offline",
+    "keywords": [
       "URBANAUT"
     ]
   }
