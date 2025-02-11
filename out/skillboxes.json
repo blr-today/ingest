@@ -261,6 +261,83 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "The most trending pop up in town is back this February with a banger - CrossOver Edition with the Anjunadeep & This Never Happened sensation KIDNA",
+      "endDate": "2025-02-24T01:00:00",
+      "identifier": "com.skillboxes.18932",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "CrossOver ft. Kidnap / 23rd Feb / Kitty Ko",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist-Couple",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-kidnap-23rd-feb-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-kidnap-23rd-feb-kitty-ko"
+         }
+      ],
+      "startDate": "2025-02-23T20:00:00",
+      "url": "https://www.skillboxes.com/events/crossover-ft-kidnap-23rd-feb-kitty-ko"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Spacenaut - Open Air Festival Ft. Jasmin Blust & Stoked",
+      "endDate": "2025-02-22T23:59:00",
+      "identifier": "com.skillboxes.18931",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2nd floor, Aloft Bengaluru, Cessna Business Park Sarjapur, Outer Ring Rd, near Marathahalli, Kaverappa Layout, Kadubeesanahalli, Bellandur, Bengaluru, Karnataka 560103, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9368105",
+            "longitude": "77.6951061"
+         },
+         "name": "Echo Lounge Bar"
+      },
+      "name": "Spacenaut - Open Air Festival Ft. Jasmin Blust & Stoked",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/spacenaut-open-air-festival-ft-jasmin-blust-stoked"
+         }
+      ],
+      "startDate": "2025-02-22T18:00:00",
+      "url": "https://www.skillboxes.com/events/spacenaut-open-air-festival-ft-jasmin-blust-stoked"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Get ready for the ultimate techno showcase in your city - PROTOCOL SUNDAYS! Catch the Defected Sensation WHO ELSE live at Kitty Ko this Sunday.Date: S",
       "endDate": "2025-02-17T01:00:00",
       "identifier": "com.skillboxes.18930",
