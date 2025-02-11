@@ -260,6 +260,41 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Add-On Ticket – This is an additional purchase. Entry tickets must be purchased separately.\r\n\r\nEntry Ticket - Click Here\r\n\r\nSkillBox proudly pre",
+      "endDate": "2025-03-02T23:59:00",
+      "identifier": "com.skillboxes.18918",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "22, Hennur Bagalur Rd, Visthar, Bengaluru, Karnataka 560077, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13",
+            "longitude": "77"
+         },
+         "name": "GYLT"
+      },
+      "name": "Exclusive Meet & Greet with Ichika Nito - Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Add-On Ticket – This is an additional purchase. Entry tickets must be purchased separately.\nAll details will be communicated via email and SMS.",
+            "inventoryLevel": 80,
+            "name": "*Exclusive Add-On : Meet & Greet with Ichika Nito",
+            "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore-meet-and-greet"
+         }
+      ],
+      "startDate": "2025-03-02T20:00:00",
+      "url": "https://www.skillboxes.com/events/ichika-nito-live-in-bangalore-meet-and-greet"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "The most trending pop up in town is back this February with a banger - CrossOver Edition with the Anjunadeep & This Never Happened sensation KIDNA",
       "endDate": "2025-02-24T01:00:00",
@@ -3343,6 +3378,27 @@
       ],
       "startDate": "2025-02-15T20:00:00",
       "url": "https://www.skillboxes.com/events/saturday-hangover-blockbuster-night-2"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Highlights:DJ NightNon Stop MusicBollywood NightDance FloorMouth Watering AppetizersCocktails and MocktailsJoin us for an epic night of music and fun.",
+      "endDate": "2025-02-10T00:30:00",
+      "identifier": "com.skillboxes.17737",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "#8, 2nd Floor, Above Nalli SIlks Bangalore, India",
+         "name": "Nolimmits Lounge & Club"
+      },
+      "name": "Wild Sunday @ Nolimits Magrath Road",
+      "offers": [ ],
+      "startDate": "2025-02-09T08:00:00",
+      "url": "https://www.skillboxes.com/events/uk-punjabi-night-nolimits-magrath-road"
    },
    {
       "@context": "https://schema.org",
