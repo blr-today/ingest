@@ -688,7 +688,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 21,
-    "remainingAttendeeCapacity": 19,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -884,7 +884,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -938,7 +938,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1054,7 +1054,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 31,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1451,7 +1451,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 79,
+    "remainingAttendeeCapacity": 72,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1527,51 +1527,6 @@
       "Art & culture",
       "Food & drink",
       "Leisure",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Go-Offline with HighTable",
-    "description": "Let\u2019s Disconnect to Reconnect! \ud83d\udcf5In a world full of screens, let\u2019s bring back the magic of face-to-face connections!The Go-Offline with HighTable is all about ditching the digital distractions and diving into real, meaningful conversations.No notifications, no scrolling\u2014just great conversation, good vibes, and the kind of interactions that only happen when you're really present.Grab a seat, leave your phone behind, and let\u2019s get to know each other the old-fashioned way\u2014face-to-face, no filter needed!\ud83d\udcab",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DE5A4D31B6424B768D7BBDB4677319A5_converted_webp.webp"
-    ],
-    "startDate": "2025-02-12T19:00:00+05:30",
-    "endDate": "2025-02-12T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "62, Jyoti Nivas College Rd, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJbfQdEaIVrjsRszi1HRHDPPI",
-      "latitude": "12.93344720000000000000",
-      "longitude": "77.61507510000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 16,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "Meet a small group of strangers offline, with no agendas\u2014just good conversations and genuine connections. Whether it\u2019s a random thought or a deep dive, you never know where it might lead. Sometimes, the best connections happen when you least expect them.",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/go-offline",
-    "keywords": [
       "URBANAUT"
     ]
   },
