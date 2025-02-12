@@ -1,6 +1,82 @@
 [
   {
     "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "@id": "70475-1739991600-1739997000@bangaloreinternationalcentre.org",
+    "name": "Alma Trio",
+    "startDate": "2025-02-19T19:00:00+05:30",
+    "endDate": "2025-02-19T20:30:00+05:30",
+    "description": "Alma Trio is an eclectic confluence of Indian and Spanish jazz fusion sounds, by virtuosic performers Carola Ortiz from Spain (Vocals & Clarinet), Vishnu R (Navtar) & Charu Hariharan (Indian & World Percussion). \nRooted in tradition and with a contemporary outlook, Alma Trio weaves a rich tapestry of string, wind and percussive elements that take listeners on a journey from India to the Mediterranean. \nSupported by: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/alma-trio/",
+    "keywords": [
+      "Music",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "Alma Trio"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-1.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "@id": "70034-1739556000-1739563200@bangaloreinternationalcentre.org",
+    "name": "Yakshagana Sampoorna: From Ritual to Performance",
+    "startDate": "2025-02-14T18:00:00+05:30",
+    "endDate": "2025-02-14T20:00:00+05:30",
+    "description": "Ever wondered what it feels like to step into a 500-year-old theatrical tradition? Immerse yourself in the vibrant world of Yakshagana, the ancient theatrical art form from coastal Karnataka. This programme combines live performance, interactive demonstrations, and cultural education to bring you closer to one of India\u2019s most dynamic traditional art forms. \nBegin your journey in our foyer (6pm), where master artists demonstrate the intricate makeup techniques that transform performers into mythological characters. You can also get a close look at the authentic costumes and ornate headgear used in the performances. \nThe main program (6:30pm) takes you through the complete journey of a Yakshagana performance, from the sacred Chowki Pooje ritual to a captivating final act. Watch as artists demonstrate the art of transformation through costume and makeup, learn about the powerful musical traditions with live demonstrations of the Chende and Maddale, and even try your hand at basic Abhinaya (expressions) alongside seasoned performers. \nThe evening culminates in a spellbinding 30-minute Yakshagana performance, the perfect blend of music, dance, dialogue, and costume in this centuries-old storytelling tradition. Throughout the event, the\u00a0Sutradar (narrator) guides you through each element (in English and Kannada), offering insights into the cultural significance and artistic nuances of this magnificent art form. \nWhether you\u2019re a cultural enthusiast, performing arts lover, or simply curious about Indian traditional theater, this immersive experience offers a rare glimpse into the heart of Yakshagana, where tradition meets interaction, and ancient stories come alive through spectacular performance. \nThis is the first performance of our new series\u00a0BIC Jaanapada. \nBIC Jaanapada is a bi-monthly (once in two months) series celebrating Karnataka\u2019s folk traditions through the lens of regional identity and cultural preservation. Curated in collaboration with Tvarita Arts Collective India, the program combines scholarly discourse with live performances to explore the deep connections between geography and artistic expression.\u00a0Through demonstrations, performances, and academic discussions, each session examines how landscape and local culture have shaped these distinct artistic practices. \nIn collaboration with: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/yakshagana-sampoorna-from-ritual-to-performance/",
+    "keywords": [
+      "Dance",
+      "Music",
+      "Mythology",
+      "Performing Arts",
+      "Theatre"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "kn",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "Yakshagana Sampoorna: From Ritual to Performance"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Op1_options.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "@id": "70351-1740078000-1740083400@bangaloreinternationalcentre.org",
+    "name": "Khusro Ke Shyam",
+    "startDate": "2025-02-20T19:00:00+05:30",
+    "endDate": "2025-02-20T20:30:00+05:30",
+    "description": "Amir Khusro, a revered disciple of the great Sufi saint Hazrat Nizamuddin Auliya, was not only a mystic but also a spiritual poet whose works transcended boundaries.\u00a0After Auliya had a vision of Lord Krishna in a dream, he encouraged Khusro to compose songs and poems in honor of the deity. \nThis evening will feature a beautiful presentation of Khusro\u2019s heartfelt tribute to Krishna. Six distinctive compositions, created by renowned Hindustani Classical vocalist Madhumita Ray, will showcase Khusro\u2019s genius in various classical genres such as Khayal, Thumri, Hori, and Qawwali. Each piece will offer a unique musical journey, illustrating the depth and creativity of Khusro\u2019s work. \nSupported by : \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/khusro-ke-shyam/",
+    "keywords": [
+      "Heritage",
+      "Music",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "Khusro Ke Shyam"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-2.png"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "70594-1739728800-1739734200@bangaloreinternationalcentre.org",
     "name": "Vaadivaasal: The Arena",
@@ -72,6 +148,30 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "@id": "63762-1740769200-1740772800@bangaloreinternationalcentre.org",
+    "name": "The Earthquake",
+    "startDate": "2025-02-28T19:00:00+05:30",
+    "endDate": "2025-02-28T20:00:00+05:30",
+    "description": "\n54 minutes |\u00a0English, Hindi, Kannada | Suitable for 13+ Years\nTrigger Warnings: Themes of Loneliness\u00a0\n\n\n\n\nDo you ever feel alone, even when surrounded by people? Do you crave connection, even when it cracks a little? \nMira and Sameer meet every week, their meeting as familiar as the apple they share. They speak. Someone leaves. They do this again. And again. Mira goes on a boat ride. Sameer stays in a bubble. There is silence. And again. Mira and Sameer are friends\u2026 Yet, their unspoken words scream louder than their conversations. \nThis is a story of cycles. Of coming together, drifting apart, and all the spaces in between. \nWhat happens when we finally face our truth? Maybe we hear a strange noise\u2026 \nThis is an adaptation of \u201cBh\u016bmikampa \u2013 Das Erdbeben\u201d which received funding for International Cultural Projects from The Department of Arts and Culture of the City of Munich \n\n\nFrom the Playwrights (Samragni Dasgupta and Marvin Krause):\nTwo young artists from India and Germany meet on a farm in Bengaluru as part of an exchange program. They get to know each other and realise that cultural differences are just one aspect of human connection. They come together to develop something together. But what?The idea for this collaboration started with a conversation about loneliness. Above all, how loneliness is a common factor for young people in all countries. From loneliness to the intricacies of human relationships, two people began an intensive writing process to explore the many facets of human connection.\n\nFrom the Director:\n\u201cMira and Sameer find themselves surrounded by unspoken words. \u2018The Earthquake\u2019 delves into the essence of human relationships\u2014our connections, routines, distances, and all the spaces in between. It asks us what it means to be truly seen or heard. What happens when we finally face the unspoken truths in our interpersonal relationships?\u201d\n\n\n\u00a0 \nCredits: \nPlaywrights: Marvin Krause and Samragni Dasgupta\nDirector: Shania Mathew \nCast: \nMira: Samragni Dasgupta\nSameer: Naman Roy \nThe Earthquake received the Internationaler Kulturprojekte Grant 2023 from the Landeshauptstadt M\u00fcnchen Kulturreferat (City of Munich). \nProduced by\u00a0 \u00a0\u00a0 \n\nWith Support from \n\n \n\n",
+    "url": "https://bangaloreinternationalcentre.org/event/the-earthquake/",
+    "keywords": [
+      "Performing Arts",
+      "Theatre"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "kn",
+    "workPerformed": {
+      "@type": "TheaterPlay",
+      "name": "The Earthquake"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-599.jpg"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "70251-1740164400-1740169800@bangaloreinternationalcentre.org",
     "name": "Athaah",
@@ -93,49 +193,89 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "TheaterEvent",
-    "@id": "69580-1739386800-1739395800@bangaloreinternationalcentre.org",
-    "name": "Agni Aur Barkha",
-    "startDate": "2025-02-12T19:00:00+05:30",
-    "endDate": "2025-02-12T21:30:00+05:30",
-    "description": "140 minutes | English | Ages 16+ \nAgni Mattu Male (1994) was written by Girish Karnad in Kannada and later translated to Hindi as Agni Aur Barkha (1996) by Ram Gopal Bajaj and to English as The Fire and The Rain (1997) by Karnad himself. Among the most complex works of Karnad, it is based on the myth of Yavakri from the ancient Indian epic Mahabharata, and is an innovative reimagining of the epic\u2019s characters and events a retelling of a lesser-known episode from the epic in which the Khandava forest is burned down by Agni, the fire god, with the help of Arjuna and Krishna to provide a sacrificial alter. \nKarnad combines multiple myths to explore contemporary social, cultural, political, and psychological issues. Symbolism and allegories add to the depth of its narrative, making it a thought-provoking yet visually stunning experience. Known for its play-within-the-play method to depict the deception of brothers against brothers and fratricide and its timeless themes, the play continues to remain a significant work in the field of Indian theater and has been performed in multiple languages and at numerous theatre festivals. \nThere will be a 10 minute intermission during the play. \nDirector \u2013 Abhinav Grover\nLights \u2013 Trisha Shetty\nSound \u2013 Amrit\nCostumes, Make up & Set Design -Shruti Bangera\nAssistant Director \u2013\u00a0Trisha Shetty \nSupported by: \n \n",
-    "url": "https://bangaloreinternationalcentre.org/event/agni-aur-barkha/",
-    "keywords": [
-      "Mythology",
-      "Performing Arts",
-      "Theatre"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "kn",
-    "workPerformed": {
-      "@type": "TheaterPlay",
-      "name": "Agni Aur Barkha"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-712.jpg"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
-    "@id": "70444-1739385000-1739390400@bangaloreinternationalcentre.org",
-    "name": "Union Budget 2025",
-    "startDate": "2025-02-12T18:30:00+05:30",
-    "endDate": "2025-02-12T20:00:00+05:30",
-    "description": "The Union Budget on February 1 was crucial\u2014it marked the first full-fledged budget of PM Modi\u2019s third term and sets the course for Viksit Bharat@2047. The government has repeatedly claimed that India is on track to become the world\u2019s third-largest economy. \nYet, concerns persist. The second quarter of FY25 recorded a modest 5.4% growth\u2014raising the question: Is India losing momentum? Global economic uncertainties, shifting trade policies, and rising protectionism add further complexity. \nDoes this Budget introduce decisive measures to reignite growth amid these headwinds? Can a bold move\u2014such as significantly raising the non-taxable income threshold\u2014spur consumption? \nThis discussion will take a sharp, analytical look at Budget 2025\u2014its promises, its pitfalls, and its potential impact on India\u2019s economic trajectory. \n",
-    "url": "https://bangaloreinternationalcentre.org/event/union-budget-2025/",
+    "@id": "70485-1740076200-1740081600@bangaloreinternationalcentre.org",
+    "name": "The Nature of Clay",
+    "startDate": "2025-02-20T18:30:00+05:30",
+    "endDate": "2025-02-20T20:00:00+05:30",
+    "description": "Kate Malone, one of the UK\u2019s leading ceramic artists, speaks about her relationship with clay, what it is, where it is from, why it behaves the way it does, and how we live with it from day to day. She will discuss the wonders of her wide palette of crystalline glazes and provide a brief introduction to her own work in decorative arts, public arts, and her place within her ceramic community. She will also provide a personal overview of the spectrum of ceramic artists in the UK today, including their work in decorative arts, interiors, fine art, and installations. \nImage Credits: \nHeader and Instatory: Photo by Alun Callender \nThumbnail and Poster: Photo by William Taylor \n",
+    "url": "https://bangaloreinternationalcentre.org/event/the-nature-of-clay/",
     "keywords": [
-      "Development",
-      "Economics",
-      "Policy & Regulation"
+      "Design",
+      "Visual Arts"
     ],
     "location": {
       "@type": "Place",
       "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
     "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-720.jpg"
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-39.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "@id": "69716-1739646000-1739651400@bangaloreinternationalcentre.org",
+    "name": "All We Imagine as Khayal",
+    "startDate": "2025-02-15T19:00:00+05:30",
+    "endDate": "2025-02-15T20:30:00+05:30",
+    "description": "Hindustani (North Indian Classical) Music is a 2,000 year-old tradition that has thrived despite the\u00a0onslaught of invasions and uprisings \u2013 while constantly evolving into new forms. \u2018Khayal\u2019, meaning \u2018Imagination\u2019, is the art of improvising and elevating content, with the classical compositions as a\u00a0core. \nAshwin, Abhay and Gaurav will take you on a time-lapsed journey to and through Hindustani music\u00a0in its various forms, while pulling back the curtain and providing context through the imagery of\u00a0this timeless tradition. \nSupported by: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/all-we-imagine-as-khayal/",
+    "keywords": [
+      "Heritage",
+      "Music",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "All We Imagine as Khayal"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-702.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "69904-1739557800-1739563200@bangaloreinternationalcentre.org",
+    "name": "A Personal Journey into History",
+    "startDate": "2025-02-14T18:30:00+05:30",
+    "endDate": "2025-02-14T20:00:00+05:30",
+    "description": "Traders and professionals who followed indentured workers to Mauritius and South Africa were called \u2018passenger\u2019 Indians. A celebrated passenger Indian, Mohandas Gandhi, went to Natal in 1893. A decade later, an undistinguished passenger Indian, Mohanlal, the great-grandfather of author Amrita Shah, arrived in Natal. As a child growing up in India, she was fascinated by the mystery surrounding her ancestor\u2019s journey. Why had he gone there? What was the name of the woman he met along the way, who gave birth to her grandmother? And did he know Gandhi? \nThere were no clues at home\u2014no reminiscences, letters, documents, memorabilia, not even a photograph. She embarked on a search for her wandering forefather with limited expectations, but doors opened serendipitously, and a paper trail emerged, strewn across archives in South Africa, Mauritius, the UK, and India. This search provided answers but also revealed the immense value in researching a seemingly ordinary man\u2019s history. \nAmrita Shah, author of The Other Mohan: In Britain\u2019s Indian Ocean Empire, will be in conversation with Ramjee Chandran to discuss the book\u2019s findings, including new revelations about Gandhi\u2019s Satyagraha campaign. The discussion will be followed by an audience Q&A. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/a-personal-journey-into-history/",
+    "keywords": [
+      "Books",
+      "History",
+      "Nonfiction"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-716.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "70349-1739471400-1739476800@bangaloreinternationalcentre.org",
+    "name": "Cauvery: River of Life",
+    "startDate": "2025-02-13T18:30:00+05:30",
+    "endDate": "2025-02-13T20:00:00+05:30",
+    "description": "58 minutes | English \nThis is the story of the mighty Cauvery River, a lifeline shaping extraordinary ecosystems and nurturing an astonishing diversity of wildlife. \nSet amidst the captivating and lesser-known habitats of MM Hills and Cauvery Wildlife Sanctuaries, the documentary takes viewers on a mesmerizing journey across all seasons, revealing how creatures great and small engage in a dramatic dance for survival. Through stunning visuals and unexpected encounters, the documentary reveals marvelous adaptations and uncovers nature\u2019s hidden wonders\u2014some bizarre, others deeply mysterious\u2014all intricately woven into a vibrant tapestry of life. Against the backdrop of this harsh landscape, Cauvery: River of Life portrays the fragile balance of existence, where survival hinges on this crystal thread that sustains countless lives. \nThe film screening will be followed by a conversation between the Director and Executive Producer, and then an interactive discussion with the audience. \nCast and Crew details:\nDirector: Sara\nExecutive Producer & Scientific Advisor: Dr. Sanjay Gubbi\nMusic: Arun Suradhaa\nDirector of Photography: Sripad Sridhar & Arvind Mohanraj\nEditor: Ben Sarath \nIn collaboration with: \n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \n \nScience Gallery Bengaluru (SGB) is a not-for-profit public institution for research-based engagement targeted at young adults working at the intersection of the human, natural, and social sciences, and engineering, art, and design.\u00a0SGB\u2019s public engagement model moves beyond participation, and towards proactive involvement through ever-changing research festivals anchored by interdisciplinary exhibitions, programmes, and public events consisting of research-based engagements led by artists and scholars from diverse backgrounds. SGB is established with the founding support of the Government of Karnataka and three academic partners\u2014Indian Institute of Science, National Centre for Biological Sciences, and Srishti Institute of Art, Design and Technology. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/cauvery-river-of-life/",
+    "keywords": [
+      "Film",
+      "Wildlife"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-719.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -230,79 +370,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "@id": "70034-1739556000-1739563200@bangaloreinternationalcentre.org",
-    "name": "Yakshagana Sampoorna: From Ritual to Performance",
-    "startDate": "2025-02-14T18:00:00+05:30",
-    "endDate": "2025-02-14T20:00:00+05:30",
-    "description": "Ever wondered what it feels like to step into a 500-year-old theatrical tradition? Immerse yourself in the vibrant world of Yakshagana, the ancient theatrical art form from coastal Karnataka. This programme combines live performance, interactive demonstrations, and cultural education to bring you closer to one of India\u2019s most dynamic traditional art forms. \nBegin your journey in our foyer (6pm), where master artists demonstrate the intricate makeup techniques that transform performers into mythological characters. You can also get a close look at the authentic costumes and ornate headgear used in the performances. \nThe main program (6:30pm) takes you through the complete journey of a Yakshagana performance, from the sacred Chowki Pooje ritual to a captivating final act. Watch as artists demonstrate the art of transformation through costume and makeup, learn about the powerful musical traditions with live demonstrations of the Chende and Maddale, and even try your hand at basic Abhinaya (expressions) alongside seasoned performers. \nThe evening culminates in a spellbinding 30-minute Yakshagana performance, the perfect blend of music, dance, dialogue, and costume in this centuries-old storytelling tradition. Throughout the event, the\u00a0Sutradar (narrator) guides you through each element (in English and Kannada), offering insights into the cultural significance and artistic nuances of this magnificent art form. \nWhether you\u2019re a cultural enthusiast, performing arts lover, or simply curious about Indian traditional theater, this immersive experience offers a rare glimpse into the heart of Yakshagana, where tradition meets interaction, and ancient stories come alive through spectacular performance. \nThis is the first performance of our new series\u00a0BIC Jaanapada. \nBIC Jaanapada is a bi-monthly (once in two months) series celebrating Karnataka\u2019s folk traditions through the lens of regional identity and cultural preservation. Curated in collaboration with Tvarita Arts Collective India, the program combines scholarly discourse with live performances to explore the deep connections between geography and artistic expression.\u00a0Through demonstrations, performances, and academic discussions, each session examines how landscape and local culture have shaped these distinct artistic practices. \nIn collaboration with: \n \n",
-    "url": "https://bangaloreinternationalcentre.org/event/yakshagana-sampoorna-from-ritual-to-performance/",
-    "keywords": [
-      "Dance",
-      "Music",
-      "Mythology",
-      "Performing Arts",
-      "Theatre"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "kn",
-    "workPerformed": {
-      "@type": "CreativeWork",
-      "name": "Yakshagana Sampoorna: From Ritual to Performance"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Op1_options.png"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "@id": "70351-1740078000-1740083400@bangaloreinternationalcentre.org",
-    "name": "Khusro Ke Shyam",
-    "startDate": "2025-02-20T19:00:00+05:30",
-    "endDate": "2025-02-20T20:30:00+05:30",
-    "description": "Amir Khusro, a revered disciple of the great Sufi saint Hazrat Nizamuddin Auliya, was not only a mystic but also a spiritual poet whose works transcended boundaries.\u00a0After Auliya had a vision of Lord Krishna in a dream, he encouraged Khusro to compose songs and poems in honor of the deity. \nThis evening will feature a beautiful presentation of Khusro\u2019s heartfelt tribute to Krishna. Six distinctive compositions, created by renowned Hindustani Classical vocalist Madhumita Ray, will showcase Khusro\u2019s genius in various classical genres such as Khayal, Thumri, Hori, and Qawwali. Each piece will offer a unique musical journey, illustrating the depth and creativity of Khusro\u2019s work. \nSupported by : \n \n",
-    "url": "https://bangaloreinternationalcentre.org/event/khusro-ke-shyam/",
-    "keywords": [
-      "Heritage",
-      "Music",
-      "Performing Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "CreativeWork",
-      "name": "Khusro Ke Shyam"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-2.png"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "69904-1739557800-1739563200@bangaloreinternationalcentre.org",
-    "name": "A Personal Journey into History",
-    "startDate": "2025-02-14T18:30:00+05:30",
-    "endDate": "2025-02-14T20:00:00+05:30",
-    "description": "Traders and professionals who followed indentured workers to Mauritius and South Africa were called \u2018passenger\u2019 Indians. A celebrated passenger Indian, Mohandas Gandhi, went to Natal in 1893. A decade later, an undistinguished passenger Indian, Mohanlal, the great-grandfather of author Amrita Shah, arrived in Natal. As a child growing up in India, she was fascinated by the mystery surrounding her ancestor\u2019s journey. Why had he gone there? What was the name of the woman he met along the way, who gave birth to her grandmother? And did he know Gandhi? \nThere were no clues at home\u2014no reminiscences, letters, documents, memorabilia, not even a photograph. She embarked on a search for her wandering forefather with limited expectations, but doors opened serendipitously, and a paper trail emerged, strewn across archives in South Africa, Mauritius, the UK, and India. This search provided answers but also revealed the immense value in researching a seemingly ordinary man\u2019s history. \nAmrita Shah, author of The Other Mohan: In Britain\u2019s Indian Ocean Empire, will be in conversation with Ramjee Chandran to discuss the book\u2019s findings, including new revelations about Gandhi\u2019s Satyagraha campaign. The discussion will be followed by an audience Q&A. \n",
-    "url": "https://bangaloreinternationalcentre.org/event/a-personal-journey-into-history/",
-    "keywords": [
-      "Books",
-      "History",
-      "Nonfiction"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-716.jpg"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "70401-1739644200-1739649600@bangaloreinternationalcentre.org",
     "name": "Two Visions for the Future",
@@ -346,118 +413,5 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-705.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "@id": "70475-1739991600-1739997000@bangaloreinternationalcentre.org",
-    "name": "Alma Trio",
-    "startDate": "2025-02-19T19:00:00+05:30",
-    "endDate": "2025-02-19T20:30:00+05:30",
-    "description": "Alma Trio is an eclectic confluence of Indian and Spanish jazz fusion sounds, by virtuosic performers Carola Ortiz from Spain (Vocals & Clarinet), Vishnu R (Navtar) & Charu Hariharan (Indian & World Percussion). \nRooted in tradition and with a contemporary outlook, Alma Trio weaves a rich tapestry of string, wind and percussive elements that take listeners on a journey from India to the Mediterranean. \nSupported by: \n \n",
-    "url": "https://bangaloreinternationalcentre.org/event/alma-trio/",
-    "keywords": [
-      "Music",
-      "Performing Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "CreativeWork",
-      "name": "Alma Trio"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-1.png"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "TheaterEvent",
-    "@id": "63762-1740769200-1740772800@bangaloreinternationalcentre.org",
-    "name": "The Earthquake",
-    "startDate": "2025-02-28T19:00:00+05:30",
-    "endDate": "2025-02-28T20:00:00+05:30",
-    "description": "\n54 minutes |\u00a0English, Hindi, Kannada | Suitable for 13+ Years\nTrigger Warnings: Themes of Loneliness\u00a0\n\n\n\n\nDo you ever feel alone, even when surrounded by people? Do you crave connection, even when it cracks a little? \nMira and Sameer meet every week, their meeting as familiar as the apple they share. They speak. Someone leaves. They do this again. And again. Mira goes on a boat ride. Sameer stays in a bubble. There is silence. And again. Mira and Sameer are friends\u2026 Yet, their unspoken words scream louder than their conversations. \nThis is a story of cycles. Of coming together, drifting apart, and all the spaces in between. \nWhat happens when we finally face our truth? Maybe we hear a strange noise\u2026 \nThis is an adaptation of \u201cBh\u016bmikampa \u2013 Das Erdbeben\u201d which received funding for International Cultural Projects from The Department of Arts and Culture of the City of Munich \n\n\nFrom the Playwrights (Samragni Dasgupta and Marvin Krause):\nTwo young artists from India and Germany meet on a farm in Bengaluru as part of an exchange program. They get to know each other and realise that cultural differences are just one aspect of human connection. They come together to develop something together. But what?The idea for this collaboration started with a conversation about loneliness. Above all, how loneliness is a common factor for young people in all countries. From loneliness to the intricacies of human relationships, two people began an intensive writing process to explore the many facets of human connection.\n\nFrom the Director:\n\u201cMira and Sameer find themselves surrounded by unspoken words. \u2018The Earthquake\u2019 delves into the essence of human relationships\u2014our connections, routines, distances, and all the spaces in between. It asks us what it means to be truly seen or heard. What happens when we finally face the unspoken truths in our interpersonal relationships?\u201d\n\n\n\u00a0 \nCredits: \nPlaywrights: Marvin Krause and Samragni Dasgupta\nDirector: Shania Mathew \nCast: \nMira: Samragni Dasgupta\nSameer: Naman Roy \nThe Earthquake received the Internationaler Kulturprojekte Grant 2023 from the Landeshauptstadt M\u00fcnchen Kulturreferat (City of Munich). \nProduced by\u00a0 \u00a0\u00a0 \n\nWith Support from \n\n \n\n",
-    "url": "https://bangaloreinternationalcentre.org/event/the-earthquake/",
-    "keywords": [
-      "Performing Arts",
-      "Theatre"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "kn",
-    "workPerformed": {
-      "@type": "TheaterPlay",
-      "name": "The Earthquake"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-599.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "70485-1740076200-1740081600@bangaloreinternationalcentre.org",
-    "name": "The Nature of Clay",
-    "startDate": "2025-02-20T18:30:00+05:30",
-    "endDate": "2025-02-20T20:00:00+05:30",
-    "description": "Kate Malone, one of the UK\u2019s leading ceramic artists, speaks about her relationship with clay, what it is, where it is from, why it behaves the way it does, and how we live with it from day to day. She will discuss the wonders of her wide palette of crystalline glazes and provide a brief introduction to her own work in decorative arts, public arts, and her place within her ceramic community. She will also provide a personal overview of the spectrum of ceramic artists in the UK today, including their work in decorative arts, interiors, fine art, and installations. \nImage Credits: \nHeader and Instatory: Photo by Alun Callender \nThumbnail and Poster: Photo by William Taylor \n",
-    "url": "https://bangaloreinternationalcentre.org/event/the-nature-of-clay/",
-    "keywords": [
-      "Design",
-      "Visual Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-39.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "70349-1739471400-1739476800@bangaloreinternationalcentre.org",
-    "name": "Cauvery: River of Life",
-    "startDate": "2025-02-13T18:30:00+05:30",
-    "endDate": "2025-02-13T20:00:00+05:30",
-    "description": "58 minutes | English \nThis is the story of the mighty Cauvery River, a lifeline shaping extraordinary ecosystems and nurturing an astonishing diversity of wildlife. \nSet amidst the captivating and lesser-known habitats of MM Hills and Cauvery Wildlife Sanctuaries, the documentary takes viewers on a mesmerizing journey across all seasons, revealing how creatures great and small engage in a dramatic dance for survival. Through stunning visuals and unexpected encounters, the documentary reveals marvelous adaptations and uncovers nature\u2019s hidden wonders\u2014some bizarre, others deeply mysterious\u2014all intricately woven into a vibrant tapestry of life. Against the backdrop of this harsh landscape, Cauvery: River of Life portrays the fragile balance of existence, where survival hinges on this crystal thread that sustains countless lives. \nThe film screening will be followed by a conversation between the Director and Executive Producer, and then an interactive discussion with the audience. \nCast and Crew details:\nDirector: Sara\nExecutive Producer & Scientific Advisor: Dr. Sanjay Gubbi\nMusic: Arun Suradhaa\nDirector of Photography: Sripad Sridhar & Arvind Mohanraj\nEditor: Ben Sarath \nIn collaboration with: \n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \n \nScience Gallery Bengaluru (SGB) is a not-for-profit public institution for research-based engagement targeted at young adults working at the intersection of the human, natural, and social sciences, and engineering, art, and design.\u00a0SGB\u2019s public engagement model moves beyond participation, and towards proactive involvement through ever-changing research festivals anchored by interdisciplinary exhibitions, programmes, and public events consisting of research-based engagements led by artists and scholars from diverse backgrounds. SGB is established with the founding support of the Government of Karnataka and three academic partners\u2014Indian Institute of Science, National Centre for Biological Sciences, and Srishti Institute of Art, Design and Technology. \n",
-    "url": "https://bangaloreinternationalcentre.org/event/cauvery-river-of-life/",
-    "keywords": [
-      "Film",
-      "Wildlife"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-719.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "@id": "69716-1739646000-1739651400@bangaloreinternationalcentre.org",
-    "name": "All We Imagine as Khayal",
-    "startDate": "2025-02-15T19:00:00+05:30",
-    "endDate": "2025-02-15T20:30:00+05:30",
-    "description": "Hindustani (North Indian Classical) Music is a 2,000 year-old tradition that has thrived despite the\u00a0onslaught of invasions and uprisings \u2013 while constantly evolving into new forms. \u2018Khayal\u2019, meaning \u2018Imagination\u2019, is the art of improvising and elevating content, with the classical compositions as a\u00a0core. \nAshwin, Abhay and Gaurav will take you on a time-lapsed journey to and through Hindustani music\u00a0in its various forms, while pulling back the curtain and providing context through the imagery of\u00a0this timeless tradition. \nSupported by: \n \n",
-    "url": "https://bangaloreinternationalcentre.org/event/all-we-imagine-as-khayal/",
-    "keywords": [
-      "Heritage",
-      "Music",
-      "Performing Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "CreativeWork",
-      "name": "All We Imagine as Khayal"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-702.jpg"
   }
 ]
