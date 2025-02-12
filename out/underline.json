@@ -37,41 +37,6 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2025-02-14T17:30:00.000Z",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Queer-only Singles Mixer with Improv Lore",
-      "sameAs": "https://underline.center/t/304",
-      "startDate": "2025-02-14T13:30:00.000Z",
-      "url": "https://docs.google.com/forms/d/e/1FAIpQLSf1QQ0ZfojVPt1ZunX9U_AihwYJMFBEhA--TDeSQ2DF1P56ig/viewform"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
       "endDate": "2025-02-15T08:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",

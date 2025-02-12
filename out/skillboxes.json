@@ -301,6 +301,83 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "In celebration of women's day we bring you a one of a kind night featuring three incredible singer songwriters who will captivate you with their tunes",
+      "endDate": "2026-03-07T23:00:00",
+      "identifier": "com.skillboxes.18985",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st Main Cross",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9240906",
+            "longitude": "77.6366457"
+         },
+         "name": "The Raft"
+      },
+      "name": "Femme Fusion at The Raft",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "General Entry",
+            "url": "https://www.skillboxes.com/events/ticket/femme-fusion-at-the-raft"
+         }
+      ],
+      "startDate": "2026-03-07T20:00:00",
+      "url": "https://www.skillboxes.com/events/femme-fusion-at-the-raft"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The most trending pop up in town is back this February with a banger - CrossOver Edition with the Anjunadeep sensation ANYASA at Pangeo.Date: Saturday",
+      "endDate": "2025-02-23T01:00:00",
+      "identifier": "com.skillboxes.18975",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9726391",
+            "longitude": "77.6065987"
+         },
+         "name": "Pangeo"
+      },
+      "name": "CrossOver ft. Anyasa / 22nd Feb / Pangeo",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 100,
+            "name": "Female - Entry",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-anyasa-22nd-feb-pangeo"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles entry for 1 Couple till 9.30PM. Cover charges applicable at the venue post 9.30PM\n",
+            "inventoryLevel": 100,
+            "name": "Couple - Entry",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-anyasa-22nd-feb-pangeo"
+         }
+      ],
+      "startDate": "2025-02-22T20:00:00",
+      "url": "https://www.skillboxes.com/events/crossover-ft-anyasa-22nd-feb-pangeo"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "HOLIWOOD 3.0: Your Ticket to Unforgettable Fun!\r\n\r\n \r\n\r\n \r\n\r\nGet ready to SPLASH, DANCE, and COLOR your way into FUN at HOLIWOOD 3.0!\r\n\r\n&nb",
       "endDate": "2025-03-16T18:00:00",
       "identifier": "com.skillboxes.18970",
@@ -1245,28 +1322,37 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Join us for \"The Ultimate Essay Workshop: From Idea to Excellence!\" a comprehensive session organised to help you master the art of essay",
-      "endDate": "2025-02-15T17:31:00",
-      "identifier": "com.skillboxes.18853",
+      "description": "Prepare for a night of relentless, high-speed thrash metal carnage as Chaos Underground erupts for its first edition on March 2nd at ByChance, Brigade",
+      "endDate": "2025-03-02T23:59:00",
+      "identifier": "com.skillboxes.18852",
       "image": "",
-      "isAccessibleForFree": true,
+      "isAccessibleForFree": false,
       "keywords": [
-         "Education"
+         "Club Gigs - Music"
       ],
       "location": {
          "@type": "Place",
-         "address": "",
+         "address": "No 51 & 52, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "",
-            "longitude": ""
+            "latitude": "12.9730089",
+            "longitude": "77.6073656"
          },
-         "name": "To Be Decided"
+         "name": "By Chance - Resto Pub"
       },
-      "name": "The Ultimate Essay Workshop: From Idea to Excellence!",
-      "offers": [ ],
-      "startDate": "2025-02-15T14:31:00",
-      "url": "https://www.skillboxes.com/events/the-ultimate-essay-workshop-from-idea-to-excellence"
+      "name": "Chaos Underground V1",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "INR 500 cover charge fully redeemable.\n",
+            "inventoryLevel": 990,
+            "name": "Regular Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-underground-v1"
+         }
+      ],
+      "startDate": "2025-03-02T20:00:00",
+      "url": "https://www.skillboxes.com/events/chaos-underground-v1"
    },
    {
       "@context": "https://schema.org",
@@ -3606,27 +3692,6 @@
       "offers": [ ],
       "startDate": "2025-02-15T18:00:00",
       "url": "https://www.skillboxes.com/events/valentine-s-jams-zygo"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "As an international multimodal database, Medline Academics becomes an online resource to help professional in the healthcare field gain more knowledge",
-      "endDate": "2026-01-18T15:07:00",
-      "identifier": "com.skillboxes.18427",
-      "image": "",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Education"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "name": "To Be Decided"
-      },
-      "name": "Fellowship in Embryology - Get Special Discount",
-      "offers": [ ],
-      "startDate": "2025-01-18T10:07:00",
-      "url": "https://www.skillboxes.com/events/fellowship-in-embryology-get-special-discount"
    },
    {
       "@context": "https://schema.org",
