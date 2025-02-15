@@ -657,7 +657,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1242,7 +1242,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 21,
-    "remainingAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1336,7 +1336,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1356,59 +1356,6 @@
       }
     },
     "url": "https://urbanaut.app/spot/galentines-brunch",
-    "keywords": [
-      "Food & drink",
-      "Leisure",
-      "Premium",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Wine Tasting: Wine, Cheese and Wanderlust",
-    "description": "Bangalore wine lovers \u2013 get ready for a sensory wine escapade like no other!Join us at the easy, breezy\u00a0Olive Beach\u00a0for a\u00a0super fun evening\u00a0of discovering\u00a05 stunning wines from around the world, each as breathtaking as the regions they come from. Sip along with\u00a0Sommelier Devati Mallick\u00a0(Founder, Drink With D Wine Experiences) as she takes you on a tasting journey\u00a0through some of the world\u2019s most picturesque wine regions\u2014from the rolling vineyards of\u00a0Tuscany\u00a0to the sun-drenched Rh\u00f4ne Valley, the whitewashed island wineries of\u00a0Greece, and the enchanting canals of\u00a0Venice.Bangalore-based Melchior Cheese\u00a0is putting together a\u00a0heavenly cheese grazing table, featuring their bestselling styles, while\u00a0Olive Beach\u00a0is serving up\u00a0delicious small plates\u00a0to complement the wines. Add to that the best company\u2014our fun and welcoming\u00a0wine community in the city\u2014and you've got an evening that's nothing short of magic.Pack your palate and join us for this epic wine and cheese escape\u2014no boarding pass required!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B3293EE679BE4C0EA5B17048B39BEB4B_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/118E414916214B97B2FC738F0DA21748_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E549276087FF43BC89E86ABF261E7EBA_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/439E96A181934ED4BFC3C84DFB79287C_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DC3F971B312E40B3A0A5D19FFF4B8751_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F39FCA0277C3410682D2B15D3DA32E40_converted_webp.webp"
-    ],
-    "startDate": "2025-02-22T17:00:00+05:30",
-    "endDate": "2025-02-22T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "16, Wood St, near Karnataka Bank, Ashok Nagar, Bengaluru, Karnataka 560025, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ03xVrSoUrjsRfYzAUhym4eY",
-      "latitude": "12.96689200000000000000",
-      "longitude": "77.60808440000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 2,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2400.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Drink With D",
-      "description": "DWD is a Sommelier-led wine consulting and wine experience brand. Join us in exploring the fascinating world of wine through fun tastings and curated experiences!",
-      "url": "https://urbanaut.app/partner/drinkwithd",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/drwbzxdvf1-1707303470215dwdjpglogojpg.jpg",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-88600-24590"
-      }
-    },
-    "url": "https://urbanaut.app/spot/wine-cheese-and-wanderlust",
     "keywords": [
       "Food & drink",
       "Leisure",
@@ -1559,7 +1506,7 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 60,
+    "maximumAttendeeCapacity": 100,
     "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "21+",
     "offers": {
@@ -2015,7 +1962,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2039,52 +1986,6 @@
       "Active",
       "Wellness",
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Murder Mystery Party with Cryptickles",
-    "description": "Want to solve a murder? \ud83d\udc40\ud83d\udd2a\ud83d\udd75\u200d\u2642Professor Amar Chatterjee is throwing a fancy retirement party for his favourite high school batch (you) and his family, but plot twist\u2014this night is about to get real interesting. There\u2019s a lot going on under the surface. \ud83d\udc41\ud83d\udc80An immersive role playing and puzzle solving game where players will navigate the space, interrogate characters (played by the moderators), search for clues, and piece together the killer, the method, and the motive.About CrypticklesCryptickles\u00a0makes daily cryptic crossword puzzles for beginners and enthusiasts alike. The clues are designed to be relatable and fun!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BD234DDF494B4A7D9B67068C4C03F508_converted_webp.webp"
-    ],
-    "startDate": "2025-02-15T17:30:00+05:30",
-    "endDate": "2025-02-15T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
-      "latitude": "12.96722140000000000000",
-      "longitude": "77.63669820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 13,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "We're a community center for thoughtful, kind, and interesting events.",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97905-32594"
-      }
-    },
-    "url": "https://urbanaut.app/spot/murder-mystery-party-with-cryptickles",
-    "keywords": [
-      "Adventure",
       "URBANAUT"
     ]
   },
