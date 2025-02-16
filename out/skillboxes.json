@@ -316,6 +316,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "We’ve always believed that music is a time machine, and we wanted to create a night where we could all jump in and take a ride. Not just pl",
+      "endDate": "2025-02-22T23:59:00",
+      "identifier": "com.skillboxes.19052",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9849438",
+            "longitude": "77.5808105"
+         },
+         "name": "The Burrow"
+      },
+      "name": "UBM REWINDS – A Night of Retro Beats & Electronic Grooves!",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable from 9:30pm\n",
+            "inventoryLevel": 500,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/ubm-rewinds-a-night-of-retro-beats-electronic-grooves"
+         }
+      ],
+      "startDate": "2025-02-22T20:00:00",
+      "url": "https://www.skillboxes.com/events/ubm-rewinds-a-night-of-retro-beats-electronic-grooves"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Dhirasings and the collective joins us this friday, 21st of February for Live & Local at iBar, The Park BangaloreThe night will feature a tribute ",
       "endDate": "2025-02-21T23:59:00",
       "identifier": "com.skillboxes.19048",
