@@ -134,61 +134,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Introducing MEET THE ARTIST: The Front Row Show at Social\r\n\r\nWe’re thrilled to kick off our very first edition of MEET THE ARTIST —a serie",
-      "endDate": "2025-02-20T23:59:00",
-      "identifier": "com.skillboxes.18505",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Seventh Block, Plot 118, 80 Feet Rd, above Bodyworks Spa, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9354765",
-            "longitude": "77.6141533"
-         },
-         "name": "Koramangala Social"
-      },
-      "name": "Meet The Artist presents Boundless By Sid Sriram || Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 111,
-            "name": "Phase 2 || Single Pass",
-            "url": "https://www.skillboxes.com/events/ticket/meet-the-artist-presents-boundless-by-sid-sriram-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 200,
-            "name": "Group of 4",
-            "url": "https://www.skillboxes.com/events/ticket/meet-the-artist-presents-boundless-by-sid-sriram-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Early Bird || Single Pass",
-            "url": "https://www.skillboxes.com/events/ticket/meet-the-artist-presents-boundless-by-sid-sriram-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Phase 1 || Single Pass",
-            "url": "https://www.skillboxes.com/events/ticket/meet-the-artist-presents-boundless-by-sid-sriram-bangalore"
-         }
-      ],
-      "startDate": "2025-02-20T20:00:00",
-      "url": "https://www.skillboxes.com/events/meet-the-artist-presents-boundless-by-sid-sriram-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "Add-On Ticket – This is an additional purchase. Entry tickets must be purchased separately.\r\n\r\nEntry Ticket - Click Here\r\n\r\nSkillBox proudly pre",
       "endDate": "2025-03-02T23:59:00",
@@ -221,6 +166,74 @@
       ],
       "startDate": "2025-03-02T20:00:00",
       "url": "https://www.skillboxes.com/events/ichika-nito-live-in-bangalore-meet-and-greet"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Prahlad Singh Tipanya and his ensemble sing the poetry of Kabir, the great iconoclastic mystic of 15th-century North India, in the vigorous and joyful",
+      "endDate": "2025-03-16T23:59:00",
+      "identifier": "com.skillboxes.19070",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Poetry Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No.44/A, Kamaraj Rd, Bharati Nagar, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.983484",
+            "longitude": "77.611017"
+         },
+         "name": "Sabha Blr"
+      },
+      "name": "Kabir Vaani",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Regular Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/kabir-vaani"
+         }
+      ],
+      "startDate": "2025-03-16T18:30:00",
+      "url": "https://www.skillboxes.com/events/kabir-vaani"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Swiggy Presents: Salaam Souk Edition 6 – The Ramadan ExperienceStep into a world where tradition meets celebration at Salaam Souk Edition 6, hap",
+      "endDate": "2025-02-22T00:59:00",
+      "identifier": "com.skillboxes.19066",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Jayamahal, Bengaluru, Karnataka, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9998698",
+            "longitude": "77.5950525"
+         },
+         "name": "Jayamahal"
+      },
+      "name": "Salaam Souk -The Road To Ramadan with Swiggy",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/salaam-souk-the-road-to-ramadan-with-swiggy"
+         }
+      ],
+      "startDate": "2025-02-22T00:29:00",
+      "url": "https://www.skillboxes.com/events/salaam-souk-the-road-to-ramadan-with-swiggy"
    },
    {
       "@context": "https://schema.org",
@@ -316,7 +329,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable from 9:30pm\n",
-            "inventoryLevel": 500,
+            "inventoryLevel": 487,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/ubm-rewinds-a-night-of-retro-beats-electronic-grooves"
          }
