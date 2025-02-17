@@ -1,6 +1,27 @@
 [
   {
     "@type": "Event",
+    "name": "Science Beyond Labs: A Sci560 Exhibition Walkthrough",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-02-22T16:00:00+05:30",
+    "endDate": "2025-02-22T17:30:00+05:30",
+    "description": "Science is often envisioned as a pursuit carried out by individuals with extensive formal education and in controlled environments equipped with complex instruments. While this is one way science is practiced, there are many other ways it takes shape, ways that are often unnoticed.<br><br>This walkthrough is an attempt to highlight how science is often practiced in spaces far removed from sophisticated laboratories, driven by collaboration among individuals with diverse skills, perspectives, and knowledge. We will also explore how science reaches beyond these spaces to engage with the general public, fostering understanding and curiosity through science communication, and demonstrating how scientific discoveries translate into tangible benefits for society.<br><br>Through exhibits in the Gallery, you\u2019ll discover stories of science emerging in unexpected ways and through unique approaches. Join mediator Gokul as he invites you to reflect on the dynamic, collaborative, and applied nature of science, thriving in various forms and spaces, and ultimately shaping the world around us.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=science-beyond-labs",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sgb-Team"
+      }
+    ],
+    "maximumAttendeeCapacity": 50
+  },
+  {
+    "@type": "Event",
     "name": "River Landscapes: A New Glossary",
     "location": {
       "@type": "Place",
@@ -19,5 +40,26 @@
       }
     ],
     "maximumAttendeeCapacity": 60
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Geospatial Technologies: Transforming Data into Action",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-02-23T11:00:00+05:30",
+    "endDate": "2025-02-23T13:00:00+05:30",
+    "description": "How does geospatial technology leverage data to drive decision-making and how are these technologies used ?<br>In today\u2019s data-driven world, geospatial technology is transforming how we analyse information, make decisions, and address public challenges. From urban planning to disaster management, Geographic Information Systems (GIS) play a crucial role in shaping a smarter and more sustainable future. Join PG Diwakar as he explores the powerful applications of GIS in our country and discusses how these innovations will benefit future generations.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=geospatial-tech-data",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Pg-Diwakar"
+      }
+    ],
+    "maximumAttendeeCapacity": 30
   }
 ]
