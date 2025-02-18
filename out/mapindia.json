@@ -17,6 +17,42 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "@id": "750@map-india.org",
+    "name": "Yeh Woh Manzil To Nahin",
+    "startDate": "2025-02-23T16:30:00+05:30",
+    "endDate": "2025-02-23T19:30:00+05:30",
+    "description": "In collaboration with Bangalore Film Forum (BFF), MAP is excited to announce the screening of Yeh Woh Manzil To Nahin, followed by a conversation facilitated by Ashish Rajadhyakhsha with Sudhir Mishra.\n\nThe plot follows three old men, who used to be close friends during their school days, embark on a train journey from Bombay to Rajpur to attend the centenary celebration of their boarding school. As they travel, memories of their student activism and past failures flood their minds. Upon reaching their destination, they are confronted by political skirmishes that serve as a stark reminder of the occasions when they had failed to stay true to their conscience.\n\nThis screening is the sixth installment of \u2018The Radical Seventies,\u2019 a six-month series curated by Ashish Rajadhyaksha. A collaboration between MAP and Bangalore Film Forum, the series is specially crafted for youth to engage with older classics that resonate with our contemporary times, in familiar and unexpected ways. The Radical Seventies is part of our youth engagement programming for AUD/VID.",
+    "url": "https://map-india.org/map-events/yeh-woh-manzil-to-nahin/",
+    "keywords": [
+      "Film Screenings",
+      "MAP"
+    ],
+    "inLanguage": "en",
+    "workPresented": {
+      "@type": "Movie",
+      "name": "Yeh Woh Manzil To Nahin"
+    },
+    "image": "https://map-india.org/wp-content/uploads/2025/02/Website-cover-images-new-33.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "@id": "752@map-india.org",
+    "name": "Retro Reels: Grooves from Indian Cinema",
+    "startDate": "2025-02-22T18:30:00+05:30",
+    "endDate": "2025-02-22T20:00:00+05:30",
+    "description": "Get ready for a sonic journey through the vibrant world of Indian cinema! As part of The Many Lives of Cinema symposium, Nishant Mittal aka Digging In India will be spinning rare and electrifying records from his archives\u2014featuring Hindi disco, Kannada pop, and Tamil funk. Expect some serious grooves, plenty of nostalgia, and a soundtrack that\u2019ll keep your feet tapping!",
+    "url": "https://map-india.org/map-events/retro-reels-grooves-from-indian-cinema/",
+    "keywords": [
+      "MAP",
+      "Performances"
+    ],
+    "inLanguage": "ta",
+    "image": "https://map-india.org/wp-content/uploads/2025/02/Website-cover-images-new-31.png"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "748@map-india.org",
     "name": "Tuesday Tidbits",
@@ -34,18 +70,18 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "@id": "719@map-india.org",
-    "name": "Framing the Archive",
-    "startDate": "2025-02-22T09:00:00+05:30",
-    "endDate": "2025-02-23T17:00:00+05:30",
-    "description": "Join us for an essay filmmaking workshop with Falana Films, where they will introduce you to the essay film format and guide you in developing a short film (one to three minutes) while working with an archive.\n\nIn making your essay film, you will have access to a curated set of artworks from the MAP Collection, as well as a resource list of museum and other institutional archives available in the public domain. Additionally, you will be prompted to bring your own archival material\u2013found footage, home videos, family photographs, long-lost audio recordings, and any A/V material you feel is at the cusp of telling a story. You will also be encouraged to film additional footage throughout the workshop.\n\nThis four-day workshop extends across two weekends\u2013February 15\u201316 &amp; 22\u201323. Teams of four will be selected based on themes chosen by participants when they register for the workshop. These teams alongside the Falana team will work together to make the film.\n\nThe focus of this workshop is not as much on the technical aspects of filmmaking as it is on the meaning one can make from scattered archives when thematically exploring them.\u00a0\n\nExpanding on the thematic concerns of MAP\u2019s permanent exhibition, VISIBLE/INVISIBLE: Representation of Women in Art through the MAP Collection you can find the list of themes for the workshop below:\n\n&nbsp;\n\n- Body as Landscape: Gender Identity, Sexuality and Body-politics\n\n- Home and Away: Memory, Migration and Nostalgia\n\n- No Person\u2019s Land: Cities and Spaces\u00a0\n\n- \u2018Mad or What?\u2019: Mental Health and the City\n\n&nbsp;\n\nRegister soon as seats are limited.\n\nRead this document to find out more about the workshop, FAQs and a tentative schedule.",
-    "url": "https://map-india.org/map-events/framing-the-archive/",
+    "@id": "751@map-india.org",
+    "name": "Cut, Paste, Create!",
+    "startDate": "2025-02-22T14:00:00+05:30",
+    "endDate": "2025-02-22T15:30:00+05:30",
+    "description": "Design your very own iconic movie poster! Join us for a dynamic collage-making workshop led by digital artist, Prashanth C. The session will introduce you to poster art using film stills and posters from the MAP collection. You will learn techniques to layer and blend different elements of the vibrant film posters, songbooks, lobby cards and stills.\n\nAll you need to bring is your imagination, and of course, your best filmy dialogues.",
+    "url": "https://map-india.org/map-events/cut-paste-create/",
     "keywords": [
       "MAP",
       "Workshops"
     ],
     "inLanguage": "en",
-    "image": "https://map-india.org/wp-content/uploads/2025/01/Website-cover-images-new-10.png"
+    "image": "https://map-india.org/wp-content/uploads/2025/02/Website-cover-images-new-30.png"
   },
   {
     "@context": "https://schema.org",
@@ -62,6 +98,22 @@
     ],
     "inLanguage": "en",
     "image": "https://map-india.org/wp-content/uploads/2025/02/Website-cover-images-new-28.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "@id": "719@map-india.org",
+    "name": "Framing the Archive",
+    "startDate": "2025-02-22T09:00:00+05:30",
+    "endDate": "2025-02-23T17:00:00+05:30",
+    "description": "Join us for an essay filmmaking workshop with Falana Films, where they will introduce you to the essay film format and guide you in developing a short film (one to three minutes) while working with an archive.\n\nIn making your essay film, you will have access to a curated set of artworks from the MAP Collection, as well as a resource list of museum and other institutional archives available in the public domain. Additionally, you will be prompted to bring your own archival material\u2013found footage, home videos, family photographs, long-lost audio recordings, and any A/V material you feel is at the cusp of telling a story. You will also be encouraged to film additional footage throughout the workshop.\n\nThis four-day workshop extends across two weekends\u2013February 15\u201316 &amp; 22\u201323. Teams of four will be selected based on themes chosen by participants when they register for the workshop. These teams alongside the Falana team will work together to make the film.\n\nThe focus of this workshop is not as much on the technical aspects of filmmaking as it is on the meaning one can make from scattered archives when thematically exploring them.\u00a0\n\nExpanding on the thematic concerns of MAP\u2019s permanent exhibition, VISIBLE/INVISIBLE: Representation of Women in Art through the MAP Collection you can find the list of themes for the workshop below:\n\n&nbsp;\n\n- Body as Landscape: Gender Identity, Sexuality and Body-politics\n\n- Home and Away: Memory, Migration and Nostalgia\n\n- No Person\u2019s Land: Cities and Spaces\u00a0\n\n- \u2018Mad or What?\u2019: Mental Health and the City\n\n&nbsp;\n\nRead this document to find out more about the workshop, FAQs and a tentative schedule.\n\nRegistrations for this workshop is now closed.",
+    "url": "https://map-india.org/map-events/framing-the-archive/",
+    "keywords": [
+      "MAP",
+      "Workshops"
+    ],
+    "inLanguage": "en",
+    "image": "https://map-india.org/wp-content/uploads/2025/01/Website-cover-images-new-10.png"
   },
   {
     "@context": "https://schema.org",
