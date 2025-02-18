@@ -170,6 +170,57 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Bengaluru, get ready to rave Berlin-style at Chaos Circuit! Join us on the 1st of March at Hyatt Centric for an electrifying night featuring the under",
+      "endDate": "2025-03-02T01:00:00",
+      "identifier": "com.skillboxes.19096",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1/1, Swami Vivekananda Road, Mahatma Gandhi Rd, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.973455",
+            "longitude": "77.621801"
+         },
+         "name": "Hyatt Centric MG Road Bangalore"
+      },
+      "name": "Chaos Circuit ft Deborah Forti",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 8 PM\n",
+            "inventoryLevel": 69,
+            "name": "Early bird - Male",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable  post 9PM\n",
+            "inventoryLevel": 50,
+            "name": "Early bird - Female",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 8.30 PM\n",
+            "inventoryLevel": 47,
+            "name": "Early Bird - Couples",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
+         }
+      ],
+      "startDate": "2025-03-01T19:00:00",
+      "url": "https://www.skillboxes.com/events/chaos-circuit-ft-deborah-forti"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Prahlad Singh Tipanya and his ensemble sing the poetry of Kabir, the great iconoclastic mystic of 15th-century North India, in the vigorous and joyful",
       "endDate": "2025-03-16T23:59:00",
       "identifier": "com.skillboxes.19070",
@@ -508,7 +559,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 99,
+            "inventoryLevel": 96,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/beyondvoid-x-klktv-presents-spekki-webu"
          }
@@ -674,7 +725,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 200,
+            "inventoryLevel": 198,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/femme-fusion-at-the-raft"
          }
@@ -1334,6 +1385,57 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Experience live music like never before with Jack Daniel’s Merchandise Presents The Barrel Room, an intimate event bringing fans close",
+      "endDate": "2025-02-28T23:59:00",
+      "identifier": "com.skillboxes.18855",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9150698",
+            "longitude": "77.6664367"
+         },
+         "name": "Ignite WL Super Club"
+      },
+      "name": "The Barrel Room with Blackstratblues",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "INR 500 cover charge applicable at the gates.\n",
+            "inventoryLevel": 15,
+            "name": "Main Event - Early Bird Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Limited Slots Available! Experience the brilliance of Warren Mendonsa up close as he showcases his guitar mastery in this exclusive guitar workshop.\nINR 500 cover charge applicable at the gates.",
+            "inventoryLevel": 31,
+            "name": "Main Event + Fan Experience (7pm onwards)",
+            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "INR 500 cover charge applicable at the gates.\n",
+            "inventoryLevel": 75,
+            "name": "Main Event - Phase 1 Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
+         }
+      ],
+      "startDate": "2025-02-28T19:00:00",
+      "url": "https://www.skillboxes.com/events/the-barrel-room-blackstratblues"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Prepare for a night of relentless, high-speed thrash metal carnage as Chaos Underground erupts for its first edition on March 2nd at ByChance, Brigade",
       "endDate": "2025-03-02T23:59:00",
@@ -1359,7 +1461,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "INR 500 cover charge fully redeemable.\n",
-            "inventoryLevel": 987,
+            "inventoryLevel": 985,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/chaos-underground-v1"
          }
