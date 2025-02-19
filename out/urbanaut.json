@@ -461,7 +461,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -563,7 +563,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -587,57 +587,6 @@
       "Active",
       "Wellness",
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Pop-Up Brunch with Chef Clive Fernandes",
-    "description": "Chef Clive Fernandes, a culinary expert in modern European cuisine, refined his craft at Auberge du Pommier in Toronto. He is known for blending classical techniques with contemporary creativity.\u00a0Chef Clive will helm the Chef\u2019s Table Dinner at the Pour Room presenting a three course meal, bringing deep respect for produce while crafting memorable dishes.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B75DBD0AF24D4A609FDBA18F85B6AC81_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DC9A0DFADAA443E3AECF603FBE6CDF05_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/59816EC43FF447C389CD506A3E2EB41D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/23E5E545C90C472E82C8E42CB81E905D_converted_webp.webp"
-    ],
-    "startDate": "2025-02-22T11:00:00+05:30",
-    "endDate": "2025-02-22T13:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "1st Floor, 5th, Block, 136, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJQRgfDgAVrjsRz1KBWADu4d4",
-      "latitude": "12.93371430000000000000",
-      "longitude": "77.62149930000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 38,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Pour Room",
-      "description": "A collaborative space by Blue Tokai and Fratelli, focused on coffee, wine, and experimental experiences.",
-      "url": "https://urbanaut.app/partner/thepourroom",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/15C8B4C18A914FDA8D19FB4E4B117CD3_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98187-02861"
-      }
-    },
-    "url": "https://urbanaut.app/spot/pop-up-brunch-with-chef-clive-fernandes#2025-02-22T1100",
-    "keywords": [
-      "Food & drink",
-      "Premium",
-      "Pop-up Event",
       "URBANAUT"
     ]
   },
@@ -684,7 +633,7 @@
         "telephone": "+91-98187-02861"
       }
     },
-    "url": "https://urbanaut.app/spot/pop-up-brunch-with-chef-clive-fernandes#2025-02-23T1100",
+    "url": "https://urbanaut.app/spot/pop-up-brunch-with-chef-clive-fernandes",
     "keywords": [
       "Food & drink",
       "Premium",
@@ -798,6 +747,58 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "name": "A Camp Classic Screening with Boo Ya Watching",
+    "description": "Bring your camp out at this special screening of the cult classic \u2018Death Becomes Her\u2019 starring Meryl Streep, Goldie Hawn, and Bruce Willis at Underline Center with everybody\u2019s favourite cinema lover, Boo Ya Watching. Keep the evening of interesting conversations going with some fabulous company after the screening. Death Becomes Her is a brilliant commentary on the lengths that some will go to in the pursuit of beauty, which is ultimately the key to love and acceptance.Boo Ya Watching, the brainchild of Mahima.V is a Bangalore based film screening series that turns cult classics and hidden gems into shared, immersive experiences. More than just movies, it\u2019s about community, conversation, and cinematic obsession.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0FC727E4689F4C6D862C648BAB23A9FE_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/05B1F7ED9ED7437EBF895CCC7A62F3B4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/799D1641E98C4EDB83E6F74C1008D0AB_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6848870AB7FA4B8A95D067ED71235F0C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C24E096F11DB4E3A885FB526BED467B8_converted_webp.webp"
+    ],
+    "startDate": "2025-03-02T17:30:00+05:30",
+    "endDate": "2025-03-02T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96722140000000000000",
+      "longitude": "77.63669820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 14,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ladies Who Loiter",
+      "description": "",
+      "url": "https://urbanaut.app/partner/ladieswholoiter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/F2EF3567293A4E56BC2B08C2FE1D80C7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-88284-41416"
+      }
+    },
+    "url": "https://urbanaut.app/spot/a-camp-classic-screening-with-boo-ya-watching",
+    "keywords": [
+      "Art & culture",
+      "Leisure",
+      "Festival",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Courtyard Picnic with Dough Re Mi",
     "description": "About PicnicJoin us under the canopy of our lush city oasis for a sun-soaked (fingers crossed!) afternoon filled with board games, wine, coffee, and irresistible picnic platesPicnic Plates by Dough Re Mi- \u2060Thai Pani Puri (6 pcs) - \u20b9450- \u2060Avocado & Mango Tostadas (2 pcs) - \u20b9600- \u2060Sesame Crusted Tofu Bao (2 pcs) - \u20b9600- \u2060Corn Mousse with Roasted Potatoes - \u20b9400- \u2060Whipped Ricotta Toast with Grilled Vegetables & Rocket Leaves (per pc) - \u20b9400- \u2060Burrito Bowl - \u20b9500- \u2060Strawberry & Burrata Salad - \u20b9450- \u2060Chocolate Baton (per pc) - \u20b9350- \u2060Tres Leches Cake Jar - \u20b9550- \u2060Popsicles - \u20b9200/\u20b9250- \u2060Ice Cream (per scoop) - \u20b9200_________And don\u2019t forget\u2014your furry friends are welcome to join the fun too!See you at the yard for a perfect day out with great food, great coffee, and even better company. Terms and Conditions:The management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Children above the age of 3 need a ticket to attend the event.Valet service is available at a charge of Rs. 200 per vehicle.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Bringing outside food into the yard area is not permitted.Tickets are non-refundable in case of cancellation or no-show.In the event of rain leading to a complete washout, Courtyard reserves the right to cancel the event. In such cases, a full refund for the ticket will be issued.",
@@ -816,8 +817,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 43,
+    "maximumAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 33,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -865,8 +866,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 46,
+    "maximumAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 32,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -914,8 +915,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 42,
+    "maximumAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 29,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1073,7 +1074,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 19,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
