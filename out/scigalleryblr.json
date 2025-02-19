@@ -61,5 +61,26 @@
       }
     ],
     "maximumAttendeeCapacity": 30
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "WATER560",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-03-08T11:00:00+05:30",
+    "endDate": "2025-03-08T14:00:00+05:30",
+    "description": "How can we rethink Bengaluru\u2019s water crisis? Can we take action to create a more sustainable future?<br><br>Bengaluru often complains of too much water (flooding situations), too less water (shortage of water supply in summer), and also un-clean water. Where does the problem lie? How can WE work towards changing this narrative? <br>We often take water for granted\u2014until a crisis strikes. Too much water leads to floods, too little causes droughts, and contamination threatens the health of both humans and ecosystems. How can we shift our mindset to prioritise water security before it's too late? Join this interactive discussion and debate to understand these different threats to our water systems and participate in a unique role playing exercise that puts YOU in the driver's seat to solving these issues for our city.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=water560",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "The-Echo-Network"
+      }
+    ],
+    "maximumAttendeeCapacity": 40
   }
 ]

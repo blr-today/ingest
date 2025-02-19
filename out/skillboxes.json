@@ -60,42 +60,6 @@
    },
    {
       "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "The Paper Kites Live in Bangalore\r\n\r\nLiveBox is proud to present the rock supergroup The Paper Kites\r\n\r\nVenues and opening acts to be announced.\r\n\r\nA ",
-      "endDate": "2025-03-20T23:59:00",
-      "identifier": "com.skillboxes.18284",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "name": "To Be Announced"
-      },
-      "name": "The Paper Kites Live in Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 446,
-            "name": "Phase 1 Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/the-paper-kites-live-in-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Early Bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/the-paper-kites-live-in-bangalore"
-         }
-      ],
-      "startDate": "2025-03-20T19:00:00",
-      "url": "https://www.skillboxes.com/events/the-paper-kites-live-in-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "MusicEvent",
       "description": "LiveBox is proud to present the progressive rock supergroup THE ARISTOCRATS as part of their brand new DUCK Tour in March 2025.\r\n\r\nVenues and opening ",
       "endDate": "2025-03-28T23:59:00",
@@ -131,6 +95,42 @@
       ],
       "startDate": "2025-03-28T20:00:00",
       "url": "https://www.skillboxes.com/events/livebox-feat-the-aristocrats-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "The Paper Kites Live in Bangalore\r\n\r\nLiveBox is proud to present the rock supergroup The Paper Kites\r\n\r\nVenues and opening acts to be announced.\r\n\r\nA ",
+      "endDate": "2025-03-20T23:59:00",
+      "identifier": "com.skillboxes.18284",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": null,
+         "name": "To Be Announced"
+      },
+      "name": "The Paper Kites Live in Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 446,
+            "name": "Phase 1 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/the-paper-kites-live-in-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/the-paper-kites-live-in-bangalore"
+         }
+      ],
+      "startDate": "2025-03-20T19:00:00",
+      "url": "https://www.skillboxes.com/events/the-paper-kites-live-in-bangalore"
    },
    {
       "@context": "https://schema.org",
@@ -170,6 +170,75 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "🎶 Bollywood Retro Rewind ft. Kiran Waugh 🎤*  Get ready to travel back in time with *Bollywood Retro Rewind* at *Ottoman Rest",
+      "endDate": "2025-02-21T22:30:00",
+      "identifier": "com.skillboxes.19123",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th Floor, Ganapa Tower, Bellandur, Bengaluru, Karnataka 560103, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9245948",
+            "longitude": "77.673019"
+         },
+         "name": "Ottoman Restobar"
+      },
+      "name": "Bollywood Retro Rewind ft. Kiran",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits Entry To One Individual\n",
+            "inventoryLevel": 25,
+            "name": "Sign Up For One",
+            "url": "https://www.skillboxes.com/events/ticket/bollywood-retro-rewind-ft-kiran"
+         }
+      ],
+      "startDate": "2025-02-21T20:00:00",
+      "url": "https://www.skillboxes.com/events/bollywood-retro-rewind-ft-kiran"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Kalyan Sabareeshan is a Musician & a Magician who has been actively performing across Bangalore over the last 2 years. He has been composing music",
+      "endDate": "2025-02-23T21:00:00",
+      "identifier": "com.skillboxes.19120",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops & Meetups"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "3rd floor, 21, 80 Feet Rd, Nirguna Mandir Layout, 4th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9325581",
+            "longitude": "77.6320071"
+         },
+         "name": "Dialogues Cafe Koramangala"
+      },
+      "name": "An Evening of Magic & Music - Sunday, Feb 23rd // Dialogues Cafe, Koramangala",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "Regular",
+            "url": "https://www.skillboxes.com/events/ticket/an-evening-of-magic-music-sunday-feb-23rd-dialogues-cafe-koramangala-1"
+         }
+      ],
+      "startDate": "2025-02-23T19:30:00",
+      "url": "https://www.skillboxes.com/events/an-evening-of-magic-music-sunday-feb-23rd-dialogues-cafe-koramangala-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Bengaluru, get ready to rave Berlin-style at Chaos Circuit! Join us on the 1st of March at Hyatt Centric for an electrifying night featuring the under",
       "endDate": "2025-03-02T01:00:00",
       "identifier": "com.skillboxes.19096",
@@ -194,7 +263,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable post 8 PM\n",
-            "inventoryLevel": 69,
+            "inventoryLevel": 46,
             "name": "Early bird - Male",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          },
@@ -202,7 +271,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable  post 9PM\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 31,
             "name": "Early bird - Female",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          },
@@ -210,7 +279,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable post 8.30 PM\n",
-            "inventoryLevel": 47,
+            "inventoryLevel": 35,
             "name": "Early Bird - Couples",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          }
@@ -562,6 +631,13 @@
             "inventoryLevel": 96,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/beyondvoid-x-klktv-presents-spekki-webu"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Phase 1 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/beyondvoid-x-klktv-presents-spekki-webu"
          }
       ],
       "startDate": "2025-02-28T19:00:00",
@@ -628,7 +704,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 19,
+            "inventoryLevel": 18,
             "name": "Time Traveller",
             "url": "https://www.skillboxes.com/events/ticket/moments-before-the-coffee-gets-cold-a-blrgrooveco-initiative"
          }
@@ -1426,24 +1502,24 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 15,
-            "name": "Main Event - Early Bird Tickets",
+            "inventoryLevel": 46,
+            "name": "Main Event - Phase 1 Tickets",
             "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Limited Slots Available! Experience the brilliance of Warren Mendonsa up close as he showcases his guitar mastery in this exclusive guitar workshop.\nINR 500 cover charge applicable at the gates.",
-            "inventoryLevel": 31,
+            "inventoryLevel": 20,
             "name": "Main Event + Fan Experience (7pm onwards)",
             "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
+            "availability": "SoldOut",
             "description": "INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 75,
-            "name": "Main Event - Phase 1 Tickets",
+            "inventoryLevel": 0,
+            "name": "Main Event - Early Bird Tickets",
             "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
          }
       ],

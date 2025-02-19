@@ -1150,51 +1150,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Go-Offline with HighTable",
-    "description": "Let\u2019s Disconnect to Reconnect! \ud83d\udcf5In a world full of screens, let\u2019s bring back the magic of face-to-face connections!The Go-Offline with HighTable is all about ditching the digital distractions and diving into real, meaningful conversations.No notifications, no scrolling\u2014just great conversation, good vibes, and the kind of interactions that only happen when you're really present.Grab a seat, leave your phone behind, and let\u2019s get to know each other the old-fashioned way\u2014face-to-face, no filter needed!\ud83d\udcab",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DE5A4D31B6424B768D7BBDB4677319A5_converted_webp.webp"
-    ],
-    "startDate": "2025-02-19T19:00:00+05:30",
-    "endDate": "2025-02-19T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "No 84, Sarrakki IV Phase, Dollars Colony, J P Nagar Phase 5, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJBVzCIYsVrjsR1DoRk08_Iig",
-      "latitude": "12.90356530000000000000",
-      "longitude": "77.59482410000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "Meet a small group of strangers offline, with no agendas\u2014just good conversations and genuine connections. Whether it\u2019s a random thought or a deep dive, you never know where it might lead. Sometimes, the best connections happen when you least expect them.",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/copy-of-go-offline-with-hightable",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Catch up over Coffee",
     "description": "New to the city and looking to make new connections?Or maybe you just want to expand your social circle?Either way, this table is for you! Meet interesting people and form new connections over a cup of coffee.Bring your authentic self, share your story, and let the conversation flow as you enjoy your favorite brew!",
@@ -1237,6 +1192,55 @@
     "keywords": [
       "Food & drink",
       "Leisure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Movie Under the Stars | Film: No Reservations",
+    "description": "Join us for an open-air screening of No Reservations (2007), with a three-course dinner by Chef Rhea Aaron and popcorn.*Wines and other beverages will be available for purchase at the venue.About the moviePerfectionist chef Kate Armstrong (Catherine Zeta-Jones) runs her kitchen with precision and passion\u2014until life serves up an unexpected twist. When she becomes the guardian of her young niece, Kate\u2019s carefully curated world is turned upside down. Enter Nick (Aaron Eckhart), a free-spirited sous chef whose charm and spontaneity challenge Kate\u2019s strict ways. As simmering tensions give way to unexpected warmth, No Reservations becomes a heartwarming story about love, food, and finding joy in the unplanned moments of life.No Reservations is the ultimate comfort watch\u2014filled with stunning kitchen scenes, heartfelt moments, and a romance that unfolds over exquisite meals. Paired with a thoughtfully curated three-course dinner, this open-air screening promises an experience that\u2019s as rich and indulgent as the dishes on screen. Come hungry for both food and feels!Please note: This experience includes a special course by Hello Tempayy.3-Course Dinner Menu by Chef Rhea AaronCourse 1Salad | PanzanellaCourse 2 Chicken Parmigiana (Non-Veg)Eggplant Parmigiana (Veg)Course 3Tiramisu______Terms and ConditionsThe management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Valet service is available at a charge of Rs. 200 per vehicle.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Tickets are non-refundable in case of cancellation or no-show.In the event of rain leading to a complete washout, Courtyard reserves the right to cancel the event. In such cases, a full refund for the ticket will be issued.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/597ADA674C3B41FDBF66A1B5269BAC6A_converted_webp.webp"
+    ],
+    "startDate": "2025-02-27T20:15:00+05:30",
+    "endDate": "2025-02-27T22:15:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Courtyard",
+      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+      "latitude": "12.95843050000000000000",
+      "longitude": "77.59289509999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 34,
+    "remainingAttendeeCapacity": 32,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Courtyard",
+      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+      "url": "https://urbanaut.app/partner/courtyard",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-73386-77996"
+      }
+    },
+    "url": "https://urbanaut.app/spot/movie-under-the-stars-film-no-reservations-6256",
+    "keywords": [
+      "Art & culture",
+      "Food & drink",
+      "Leisure",
+      "COURTYARD",
       "URBANAUT"
     ]
   }
