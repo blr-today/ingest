@@ -82,5 +82,47 @@
       }
     ],
     "maximumAttendeeCapacity": 40
+  },
+  {
+    "@type": "Event",
+    "name": "Open Mic at Namma Oota",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-03-02T15:00:00+05:30",
+    "endDate": "2025-03-02T17:00:00+05:30",
+    "description": "Food is more than just sustenance; it symbolises unity, culture, and nostalgia. Just like food, music has the power to bring people together. Join us for an open mic session where food lovers, musicians, storytellers, and poets come together to celebrate the magic of flavours and melodies.<br><br>Whether it's a treasured family recipe, a comical culinary mishap, or a story about trying new flavours, this is your opportunity to take the stage and share your love of food with a passionate audience.<br><br>Every meal has a story to tell, so come talk, sing, listen and enjoy some storytelling!<br><br>Register here: <a href=\"https://forms.gle/nC6S69mmdLWBfXKZ8\" target=\"_blank\"><u>https://forms.gle/nC6S69mmdLWBfXKZ8</u></a>",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=namma-open-mic",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sgb-Team"
+      }
+    ],
+    "maximumAttendeeCapacity": 300
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "The Parental Brain: Understanding Parenthood and the Human Brain",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-03-09T16:00:00+05:30",
+    "endDate": "2025-03-09T18:00:00+05:30",
+    "description": "How does the transition to parenthood reshape the brain? What do these neurological changes mean for both birthing and non-birthing parents?<br><br>The transition to parenthood, particularly motherhood, involves significant neurological changes throughout pregnancy and into the postpartum period. Recent research has begun to uncover the profound alterations in the maternal brain during this time of matrescence, why they occur and what they mean. Furthermore, these changes are not exclusive to birthing parents\u2014fathers and adoptive parents experience similar brain adaptations. Join Jodi Pawluski as she explores the key transformations in the brain during the transition to parenthood.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=the-parental-brain",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Jodi-Pawluski"
+      }
+    ],
+    "maximumAttendeeCapacity": 50
   }
 ]
