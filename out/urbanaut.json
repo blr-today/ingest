@@ -1151,7 +1151,7 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Catch up over Coffee",
+    "name": "Catch up over Coffee with Strangers",
     "description": "New to the city and looking to make new connections?Or maybe you just want to expand your social circle?Either way, this table is for you! Meet interesting people and form new connections over a cup of coffee.Bring your authentic self, share your story, and let the conversation flow as you enjoy your favorite brew!",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F34A5A9353CA44DA97CC0A595B65F92D_converted_webp.webp"
@@ -1669,6 +1669,56 @@
       "Live GIG",
       "Local",
       "COURTYARD",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "An anxiety healing experience with Nupur",
+    "description": "INHALE PEACE\u00a0, EXHALE RESTLESSNESS - An anxiety healing experience with NupurFind the peace within.Nupur Bahuguna welcomes you to an anxiety healing workshop where we will perform :\u00a0* Meet & Greet with Intention settingAs we speak so we attractSetting our unified and individual intentions we begin our workshop.\u00a0\u2022\u00a0Breathwork\u00a0Enabling us to become consciously aware of our unsettling emotions, thoughts, memories and letting them go on a deep cellular levelLetting go of the conditioning and thoughts that keeps one stuck in the loop of unending thoughts.\u00a0* Chakra Frequency Alignment + Physically Letting go exercise\u00a0Working and balancing of Heart and Root chakrasTo let go of anything and to Welcome something new, a change is to be created either on an energetic level or on a physical level.Here we combine the two ( energetic change & physical change ) :To become aligned with our true desiresTo align our mind & heart, to yield desired resultsTo know oneself truly\u00a0* Inner Child healing meditation :\u00a0Our inner child carries our true heart desires and is a true happy, cheerful version of self\u00a0A window to meet & embrace our inner child, improving our connect with our inner child, connecting to our happier version of self to establish safe reality around us* Meditation with Flow Body movements.\u00a0\u00a0Opening up ourselves, physically, mentally & emotionally to attract stability, to be our true selves, to be secure from within.\u00a0Connect with the true joy, love and abundance within us.* Gratitude and self love expression\u00a0Ending our session with gratitude and coming face to face with the new version of self that awaits you.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E92B857777004F8A8E7DE2388C5A29ED_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/14AEAF892AF34EFF8AC9067182F0A9AA_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B9DD64B3A2B74C6E9CAD13C30C884B63_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2E5B9330814A406C9CECF6CBECBD2FB1_converted_webp.webp"
+    ],
+    "startDate": "2025-03-02T14:00:00+05:30",
+    "endDate": "2025-03-02T15:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 8,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2300.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/an-anxiety-healing-experience-with-nupur",
+    "keywords": [
+      "Wellness",
+      "Workshop",
       "URBANAUT"
     ]
   }

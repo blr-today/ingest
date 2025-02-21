@@ -1,41 +1,6 @@
 [
    {
       "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2025-02-21T17:00:00.000Z",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "SUPERSCENE with Improv Lore",
-      "sameAs": "https://underline.center/t/314",
-      "startDate": "2025-02-21T15:00:00.000Z",
-      "url": "https://insider.in/event/superscene-with-improv-lore-feb21-2025/buy-page/shows/67a896ac6d13eb7c5d57b5fa/Tickets"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "ScreeningEvent",
       "endDate": "2025-02-22T16:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
