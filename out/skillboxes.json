@@ -606,7 +606,7 @@
       "endDate": "2025-03-02T01:00:00",
       "identifier": "com.skillboxes.19096",
       "image": "",
-      "isAccessibleForFree": true,
+      "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -625,16 +625,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charges applicable post 8 PM\n",
-            "inventoryLevel": 25,
-            "name": "Early bird - Male",
-            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "Cover charges applicable  post 9PM\n",
-            "inventoryLevel": 20,
+            "inventoryLevel": 19,
             "name": "Early bird - Female",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          },
@@ -642,8 +634,40 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable post 8.30 PM\n",
-            "inventoryLevel": 27,
+            "inventoryLevel": 17,
             "name": "Early Bird - Couples",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable at gates from 7.30 PM\n",
+            "inventoryLevel": 90,
+            "name": "Phase 1 - Male",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable at Gates.\n",
+            "inventoryLevel": 94,
+            "name": "Backstage Access",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Backstage access + Cover charges applicable only after 9.30\n",
+            "inventoryLevel": 25,
+            "name": "VIP Group of 4",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 8 PM\n",
+            "inventoryLevel": 8,
+            "name": "Early bird - Male",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          }
       ],
@@ -941,7 +965,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable Post 9 Pm\n",
-            "inventoryLevel": 94,
+            "inventoryLevel": 86,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/beyondvoid-x-klktv-presents-spekki-webu"
          },
@@ -983,7 +1007,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 18,
+            "inventoryLevel": 17,
             "name": "Time Traveller",
             "url": "https://www.skillboxes.com/events/ticket/moments-before-the-coffee-gets-cold-a-blrgrooveco-initiative"
          }
@@ -1080,7 +1104,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 198,
+            "inventoryLevel": 197,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/femme-fusion-at-the-raft"
          }
@@ -1740,7 +1764,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge of INR 500 per individual is applicable at the gates. This includes a redeemable coupon for two JD straight drink.\n",
-            "inventoryLevel": 40,
+            "inventoryLevel": 21,
             "name": "Main Event - Phase 1 Tickets",
             "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
          },
@@ -1748,7 +1772,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Limited Slots Available! Experience the brilliance of Warren Mendonsa up close as he showcases his guitar mastery in this exclusive guitar workshop.\nAn additional cover charge of INR 500 per individual is applicable at the gates. This includes a redeemable coupon for one JD straight drink.",
-            "inventoryLevel": 13,
+            "inventoryLevel": 9,
             "name": "Main Event + Fan Experience (7pm onwards)",
             "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
          },
