@@ -209,17 +209,17 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charges applicable at the gates.\n",
-            "inventoryLevel": 7,
-            "name": "Early Bird Ticket",
+            "description": "Cover charge applicable at the gates.\n",
+            "inventoryLevel": 91,
+            "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/raman-negi-chaltey-purzay-tour-bangalore"
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charge applicable at the gates.\n",
-            "inventoryLevel": 100,
-            "name": "Phase 1 Ticket",
+            "availability": "SoldOut",
+            "description": "Cover charges applicable at the gates.\n",
+            "inventoryLevel": 0,
+            "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/raman-negi-chaltey-purzay-tour-bangalore"
          }
       ],
@@ -442,40 +442,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get ready for an electrifying night at the Bollywood Beats Spectacle! DJ Massy will take you on a musical journey, blending classic hits and contempor",
-      "endDate": "2025-02-22T23:59:00",
-      "identifier": "com.skillboxes.19155",
-      "image": "",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Third Floor, Global Malls, Magadi Main Rd, Gopalapura, Area, Bengaluru, Karnataka 560023, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9816628",
-            "longitude": "77.5638001"
-         },
-         "name": "Badmaash Lulu Mall"
-      },
-      "name": "BOLLY HEIST",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 50,
-            "name": "BOLLY HEIST",
-            "url": "https://www.skillboxes.com/events/ticket/bolly-heist"
-         }
-      ],
-      "startDate": "2025-02-22T20:00:00",
-      "url": "https://www.skillboxes.com/events/bolly-heist"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Future Dance Wave Fri, 28-Feb-2025",
       "endDate": "2025-02-28T23:59:00",
       "identifier": "com.skillboxes.19151",
@@ -596,57 +562,6 @@
       ],
       "startDate": "2025-02-22T17:00:00",
       "url": "https://www.skillboxes.com/events/kalimela-after-party-mahashivratri-edition-2025"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Get ready to groove at i-BAR, The Park Bangalore! 🎶 Join us on Feb 22, Saturday, 9 PM onwards for JUKEBOXED, featuring the electrifying ROHIT.",
-      "endDate": "2025-02-22T20:00:00",
-      "identifier": "com.skillboxes.19139",
-      "image": "",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "iBAR, THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9740179",
-            "longitude": "77.619422"
-         },
-         "name": "i-Bar THE Park Bangalore"
-      },
-      "name": "JUKEBOXED",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one stag to the event. Cover charges applicable at the venue throughout the event.\n",
-            "inventoryLevel": 190,
-            "name": "STAGS",
-            "url": "https://www.skillboxes.com/events/ticket/jukeboxed"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass permits one lady to the event.\n",
-            "inventoryLevel": 200,
-            "name": "LADIES",
-            "url": "https://www.skillboxes.com/events/ticket/jukeboxed"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass allows entry to 1 Couple. Each pass permits one couple to the event. Cover charges applicable at the venue post 9:30 PM.\n",
-            "inventoryLevel": 198,
-            "name": "COUPLES",
-            "url": "https://www.skillboxes.com/events/ticket/jukeboxed"
-         }
-      ],
-      "startDate": "2025-02-22T20:00:00",
-      "url": "https://www.skillboxes.com/events/jukeboxed"
    },
    {
       "@context": "https://schema.org",
@@ -829,40 +744,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Swiggy Presents: Salaam Souk Edition 6 – The Ramadan ExperienceStep into a world where tradition meets celebration at Salaam Souk Edition 6, hap",
-      "endDate": "2025-02-22T00:59:00",
-      "identifier": "com.skillboxes.19066",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Jayamahal, Bengaluru, Karnataka, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9998698",
-            "longitude": "77.5950525"
-         },
-         "name": "Jayamahal"
-      },
-      "name": "Salaam Souk -The Road To Ramadan with Swiggy",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Early Bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/salaam-souk-the-road-to-ramadan-with-swiggy"
-         }
-      ],
-      "startDate": "2025-02-22T00:29:00",
-      "url": "https://www.skillboxes.com/events/salaam-souk-the-road-to-ramadan-with-swiggy"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "The biggest Holi party with proper rain dance setup Holi party is here.Let’s celebrate Holi together with proper beat and with water and colour ",
       "endDate": "2025-03-15T17:00:00",
       "identifier": "com.skillboxes.19063",
@@ -926,41 +807,6 @@
       ],
       "startDate": "2025-03-14T11:00:00",
       "url": "https://www.skillboxes.com/events/balam-pichkari-2025-rain-dance-holi-party-with-colour"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "We’ve always believed that music is a time machine, and we wanted to create a night where we could all jump in and take a ride. Not just pl",
-      "endDate": "2025-02-22T23:59:00",
-      "identifier": "com.skillboxes.19052",
-      "image": "",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9849438",
-            "longitude": "77.5808105"
-         },
-         "name": "The Burrow"
-      },
-      "name": "UBM REWINDS – A Night of Retro Beats & Electronic Grooves!",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable from 9:30pm\n",
-            "inventoryLevel": 400,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/ubm-rewinds-a-night-of-retro-beats-electronic-grooves"
-         }
-      ],
-      "startDate": "2025-02-22T19:00:00",
-      "url": "https://www.skillboxes.com/events/ubm-rewinds-a-night-of-retro-beats-electronic-grooves"
    },
    {
       "@context": "https://schema.org",
@@ -1420,56 +1266,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Spacenaut - Open Air Festival Ft. Jasmin Blust & Stoked",
-      "endDate": "2025-02-22T23:59:00",
-      "identifier": "com.skillboxes.18931",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "2nd floor, Aloft Bengaluru, Cessna Business Park Sarjapur, Outer Ring Rd, near Marathahalli, Kaverappa Layout, Kadubeesanahalli, Bellandur, Bengaluru, Karnataka 560103, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9368105",
-            "longitude": "77.6951061"
-         },
-         "name": "Echo Lounge Bar"
-      },
-      "name": "Spacenaut - Open Air Festival Ft. Jasmin Blust & Stoked",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable after 9:30\n",
-            "inventoryLevel": 997,
-            "name": "Phase 1 Couple Entry",
-            "url": "https://www.skillboxes.com/events/ticket/spacenaut-open-air-festival-ft-jasmin-blust-stoked"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable after 9:30\n",
-            "inventoryLevel": 1000,
-            "name": "Phase 1 Girls",
-            "url": "https://www.skillboxes.com/events/ticket/spacenaut-open-air-festival-ft-jasmin-blust-stoked"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "PHASE 1 STAG ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/spacenaut-open-air-festival-ft-jasmin-blust-stoked"
-         }
-      ],
-      "startDate": "2025-02-22T18:00:00",
-      "url": "https://www.skillboxes.com/events/spacenaut-open-air-festival-ft-jasmin-blust-stoked"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "\n\n 1. Brigade Road biggest holi2. ⁠live djs3. ⁠best djs of the town 4. ⁠Non stop music5. ⁠food availability&",
       "endDate": "2025-03-14T18:00:00",
       "identifier": "com.skillboxes.18929",
@@ -1834,44 +1630,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "DND Entertainment presents: HUMBLE A night dedicated to UK Rap, Hip-Hop, and Bass House, bringing you high-energy beats and electrifying performa",
-      "endDate": "2025-02-22T23:59:00",
-      "identifier": "com.skillboxes.18877",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "1st floor of Gillys redefined,# 413, 100 Feet Road, 4th Block, Koramangala Bangalore, India",
-         "name": "Fandom At Gilly's Redefined"
-      },
-      "name": "HUMBLE : The Sound of UK Rap & Bass House",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges Applicable (Fully redeemable on F&B)\n",
-            "inventoryLevel": 185,
-            "name": "PHASE 1",
-            "url": "https://www.skillboxes.com/events/ticket/humble-the-sound-of-uk-rap-bass-house"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges Applicable (Fully redeemable on f&b)\n",
-            "inventoryLevel": 100,
-            "name": "Group of 5",
-            "url": "https://www.skillboxes.com/events/ticket/humble-the-sound-of-uk-rap-bass-house"
-         }
-      ],
-      "startDate": "2025-02-22T19:00:00",
-      "url": "https://www.skillboxes.com/events/humble-the-sound-of-uk-rap-bass-house"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Prepare for a night of relentless, high-speed thrash metal carnage as Chaos Underground erupts for its first edition on March 2nd at ByChance, Brigade",
       "endDate": "2025-03-02T23:59:00",
       "identifier": "com.skillboxes.18852",
@@ -2145,40 +1903,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Hailing from the vibrant and bustling city of Bangalore, India, Blind Graffiti is a dynamic quartet that has carved a niche for themselves in the cont",
-      "endDate": "2025-02-22T23:59:00",
-      "identifier": "com.skillboxes.18775",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9313063",
-            "longitude": "77.6329297"
-         },
-         "name": "Bira 91 Taproom, Koramangala"
-      },
-      "name": "Blind Graffiti Live",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 970,
-            "name": "Regular Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/blind-graffiti-live"
-         }
-      ],
-      "startDate": "2025-02-22T20:30:00",
-      "url": "https://www.skillboxes.com/events/blind-graffiti-live"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "After the great success of last season with 5000 pax, Day Dreamers PresentsRangila Utsav - Bangalore`s Biggest Holi Pool - Rain Dance Festival Season ",
       "endDate": "2025-03-15T18:00:00",
       "identifier": "com.skillboxes.18773",
@@ -2266,65 +1990,6 @@
       ],
       "startDate": "2025-03-14T11:00:00",
       "url": "https://www.skillboxes.com/events/rangila-utsav-holi-pool-rain-dance-festival-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "HARDGROUND Ft Pisapia",
-      "endDate": "2025-02-22T23:59:00",
-      "identifier": "com.skillboxes.18713",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "22, Hennur Bagalur Rd, Visthar, Bengaluru, Karnataka 560077, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13",
-            "longitude": "77"
-         },
-         "name": "GYLT"
-      },
-      "name": "Hardground Bengaluru ft Pisapia",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable at the gates.\n",
-            "inventoryLevel": 976,
-            "name": "Final Phase || GA",
-            "url": "https://www.skillboxes.com/events/ticket/hardground-ft-pisapia"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable at the gates.\n",
-            "inventoryLevel": 981,
-            "name": "Final Phase || VIP",
-            "url": "https://www.skillboxes.com/events/ticket/hardground-ft-pisapia"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable at the gates.\n",
-            "inventoryLevel": 988,
-            "name": "Early Bird || GA",
-            "url": "https://www.skillboxes.com/events/ticket/hardground-ft-pisapia"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable at the gates.\n",
-            "inventoryLevel": 994,
-            "name": "Early Bird || VIP",
-            "url": "https://www.skillboxes.com/events/ticket/hardground-ft-pisapia"
-         }
-      ],
-      "startDate": "2025-02-22T14:00:00",
-      "url": "https://www.skillboxes.com/events/hardground-ft-pisapia"
    },
    {
       "@context": "https://schema.org",
@@ -2556,61 +2221,6 @@
       ],
       "startDate": "2025-02-23T20:00:00",
       "url": "https://www.skillboxes.com/events/neckwreck-february-tour-ft-karan-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Drip2hard Presents: The Ultimate Desi Hip-Hop Takeover \r\n\r\nBengaluru, brace yourselves for a night that'll rewrite the rules of rap! \r\n\r",
-      "endDate": "2025-02-22T23:59:00",
-      "identifier": "com.skillboxes.18675",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9150698",
-            "longitude": "77.6664367"
-         },
-         "name": "Ignite Super Club"
-      },
-      "name": "MOSHPIT feat. RAGA, YUNGSTA & MR. DOSS",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 30,
-            "name": "Early Bird GA Individual",
-            "url": "https://www.skillboxes.com/events/ticket/moshpit"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 97,
-            "name": "PHASE 1",
-            "url": "https://www.skillboxes.com/events/ticket/moshpit"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 63,
-            "name": "Early Bird VIP Individual",
-            "url": "https://www.skillboxes.com/events/ticket/moshpit"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 39,
-            "name": "FANPIT (STANDING)",
-            "url": "https://www.skillboxes.com/events/ticket/moshpit"
-         }
-      ],
-      "startDate": "2025-02-22T20:00:00",
-      "url": "https://www.skillboxes.com/events/moshpit"
    },
    {
       "@context": "https://schema.org",
@@ -3286,41 +2896,6 @@
       ],
       "startDate": "2025-03-14T11:00:00",
       "url": "https://www.skillboxes.com/events/rang-de-barsaat"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Presenting Vasundhara Das live in concert with her all new band, featuring Shashank Kandachar on guitar, Prashanth Gnanamuthu on bass guitar, Anagh Na",
-      "endDate": "2025-02-22T21:00:00",
-      "identifier": "com.skillboxes.18365",
-      "image": "",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "7, 4th Main Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9666826",
-            "longitude": "77.6352903"
-         },
-         "name": "Bangalore International Centre"
-      },
-      "name": "Vasundhara Das Live in Concert",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "Entry is on a first-come, first-served basis, Holding an RSVP does not guarantee entry if the venue reaches capacity\n",
-            "inventoryLevel": 0,
-            "name": "RSVP/ Free Pass",
-            "url": "https://www.skillboxes.com/events/ticket/vasundhara-das-live-in-concert"
-         }
-      ],
-      "startDate": "2025-02-22T19:00:00",
-      "url": "https://www.skillboxes.com/events/vasundhara-das-live-in-concert"
    },
    {
       "@context": "https://schema.org",
