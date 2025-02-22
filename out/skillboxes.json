@@ -2,6 +2,57 @@
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
+      "description": "Experience live music like never before with Jack Daniel’s Merchandise Presents The Barrel Room, an intimate event bringing fans close",
+      "endDate": "2025-02-28T23:59:00",
+      "identifier": "com.skillboxes.18855",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9150698",
+            "longitude": "77.6664367"
+         },
+         "name": "Ignite WL Super Club"
+      },
+      "name": "The Barrel Room with Blackstratblues",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "An additional cover charge of INR 500 per individual is applicable at the gates. This includes a redeemable coupon for two JD straight drink.\n",
+            "inventoryLevel": 21,
+            "name": "Main Event - Phase 1 Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Limited Slots Available! Experience the brilliance of Warren Mendonsa up close as he showcases his guitar mastery in this exclusive guitar workshop.\nAn additional cover charge of INR 500 per individual is applicable at the gates. This includes a redeemable coupon for one JD straight drink.",
+            "inventoryLevel": 9,
+            "name": "Main Event + Fan Experience (7pm onwards)",
+            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "An additional cover charge of INR 500 per individual is applicable at the gates.\nThis includes a redeemable coupon for one JD straight drink.",
+            "inventoryLevel": 0,
+            "name": "Main Event - Early Bird Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
+         }
+      ],
+      "startDate": "2025-02-28T19:00:00",
+      "url": "https://www.skillboxes.com/events/the-barrel-room-blackstratblues"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
       "description": "SkillBox proudly presents a sensational modern guitarist from Japan - ICHIKA NITO on his first ever India tour across Mumbai, Delhi NCR and ",
       "endDate": "2025-03-02T23:59:00",
       "identifier": "com.skillboxes.17678",
@@ -209,6 +260,73 @@
       ],
       "startDate": "2025-03-02T20:00:00",
       "url": "https://www.skillboxes.com/events/ichika-nito-live-in-bangalore-meet-and-greet"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "HELLO BENGALURU - LETS PARTY UNDER THE SKY.RANG UTSAV 2025 ( THE BIGGEST RAIN DANCE HOLI PARTY IN BANGALORE )- 3 Days HOLI CELEBRATION- Open Air ",
+      "endDate": "2025-03-16T18:00:00",
+      "identifier": "com.skillboxes.19232",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Holi 2025"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Site no 5&6, The Emerald Inn, Alpine Eco Rd, next to Apollo Pharmacy, Chinnapanahalli, Doddanekundi, Marathahalli, Bengaluru, Karnataka 560037, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.973176",
+            "longitude": "77.6992746"
+         },
+         "name": "The Emerald Inn Hotel"
+      },
+      "name": "RANG UTSAV 2025",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry permits to 1 kid and get free Complimentary Colour Packet at the Entry.\n",
+            "inventoryLevel": 100,
+            "name": "Kids Entry Below 10 Years",
+            "url": "https://www.skillboxes.com/events/ticket/rang-utsav-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry permits to 1 kid and get free Complimentary Colour Packet at the Entry.\n",
+            "inventoryLevel": 100,
+            "name": "Ladies Entry Pass",
+            "url": "https://www.skillboxes.com/events/ticket/rang-utsav-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry permits to 1 Male and get free Complimentary Colour Packet at the Entry\n",
+            "inventoryLevel": 100,
+            "name": "Male Entry Pass",
+            "url": "https://www.skillboxes.com/events/ticket/rang-utsav-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry permits to 1 Couple and get free Complimentary Colour Packet at the Entry\n",
+            "inventoryLevel": 100,
+            "name": "Couple Entry Pass",
+            "url": "https://www.skillboxes.com/events/ticket/rang-utsav-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry permits to 5 People and get free Complimentary Colour Packet at the Entry\n",
+            "inventoryLevel": 100,
+            "name": "Group of 5 Entry Pass",
+            "url": "https://www.skillboxes.com/events/ticket/rang-utsav-2025"
+         }
+      ],
+      "startDate": "2025-03-14T11:00:00",
+      "url": "https://www.skillboxes.com/events/rang-utsav-2025"
    },
    {
       "@context": "https://schema.org",
@@ -1750,57 +1868,6 @@
       ],
       "startDate": "2025-02-22T19:00:00",
       "url": "https://www.skillboxes.com/events/humble-the-sound-of-uk-rap-bass-house"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "MusicEvent",
-      "description": "Experience live music like never before with Jack Daniel’s Merchandise Presents The Barrel Room, an intimate event bringing fans close",
-      "endDate": "2025-02-28T23:59:00",
-      "identifier": "com.skillboxes.18855",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9150698",
-            "longitude": "77.6664367"
-         },
-         "name": "Ignite WL Super Club"
-      },
-      "name": "The Barrel Room with Blackstratblues",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "An additional cover charge of INR 500 per individual is applicable at the gates. This includes a redeemable coupon for two JD straight drink.\n",
-            "inventoryLevel": 21,
-            "name": "Main Event - Phase 1 Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Limited Slots Available! Experience the brilliance of Warren Mendonsa up close as he showcases his guitar mastery in this exclusive guitar workshop.\nAn additional cover charge of INR 500 per individual is applicable at the gates. This includes a redeemable coupon for one JD straight drink.",
-            "inventoryLevel": 9,
-            "name": "Main Event + Fan Experience (7pm onwards)",
-            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "An additional cover charge of INR 500 per individual is applicable at the gates.\nThis includes a redeemable coupon for one JD straight drink.",
-            "inventoryLevel": 0,
-            "name": "Main Event - Early Bird Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
-         }
-      ],
-      "startDate": "2025-02-28T19:00:00",
-      "url": "https://www.skillboxes.com/events/the-barrel-room-blackstratblues"
    },
    {
       "@context": "https://schema.org",
