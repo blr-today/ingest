@@ -12,26 +12,26 @@
         {
   "@context": "https://schema.org",
   "@type": "SocialEvent",
-  "name": "Chess Connect - Rapid - Bangalore Chess Club",
-  "startDate": "2025-02-23T10:00:00+05:30",
-  "endDate": "2025-02-23T15:30:00+05:30",
+  "name": "Chess Connect - Blitz - Bangalore Chess Club",
+  "startDate": "2025-03-02T10:00:00+05:30",
+  "endDate": "2025-03-02T13:00:00+05:30",
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
 
   "location": {
     
     "@type": "Place",
     "name": "The Market Place",
-    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    "address": "RMZ Millenia, Kalhalli, Halasuru, Bengaluru, India"
     
   },
   "isAccessibleForFree": false,
   
   "offers": [{
     "@type": "Offer",
-    "price": "250",
+    "price": "150",
     "priceCurrency": "INR",
     "availability": "https://schema.org/InStock",
-    "url": "https://razorpay.com/payment-button/pl_PlHR1ChYXlnHzV/view/"
+    "url": "https://razorpay.com/payment-button/pl_PzcXcRBKF2PYOV/view/"
   }],
   
   "organizer": {
@@ -41,9 +41,9 @@
   },
   "keywords": ["bangalore chess club", "chess"],
   
-  "image": "https://bangalorechessclub.in/images/chessconnect_20250223.jpeg",
+  "image": "https://bangalorechessclub.in/images/chessconnect_20250302.jpeg",
   
-  "url": "https://bangalorechessclub.in/chess-connect/2025-02-23/"
+  "url": "https://bangalorechessclub.in/chess-connect/2025-03-02/"
 }
       
     

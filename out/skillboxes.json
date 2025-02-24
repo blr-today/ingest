@@ -85,7 +85,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Cover Charges 799/- Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 161,
+            "inventoryLevel": 153,
             "name": "Phase 3 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
          },
@@ -139,7 +139,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 398,
+            "inventoryLevel": 396,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/livebox-feat-the-aristocrats-bangalore"
          },
@@ -168,21 +168,28 @@
       ],
       "location": {
          "@type": "Place",
-         "address": null,
-         "name": "To Be Announced"
+         "address": "22, Hennur Bagalur Rd, Visthar, Bengaluru, Karnataka 560077, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0708512",
+            "longitude": "77.6517849"
+         },
+         "name": "GYLT"
       },
       "name": "The Paper Kites Live in Bangalore",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 436,
+            "description": "Additional INR 799 cover charge applicable at the gates.\n",
+            "inventoryLevel": 431,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-paper-kites-live-in-bangalore"
          },
          {
             "@type": "Offer",
             "availability": "SoldOut",
+            "description": "Additional INR 799 cover charge applicable at the gates.\n",
             "inventoryLevel": 0,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-paper-kites-live-in-bangalore"
@@ -218,7 +225,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge applicable at the gates.\n",
-            "inventoryLevel": 85,
+            "inventoryLevel": 79,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/raman-negi-chaltey-purzay-tour-bangalore"
          },
@@ -268,6 +275,76 @@
       ],
       "startDate": "2025-03-02T20:00:00",
       "url": "https://www.skillboxes.com/events/ichika-nito-live-in-bangalore-meet-and-greet"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Event Name: Chaos Reigns Date: April 6th, 2025 Time: 5:00 PM - 11:00 PM Venue: The Raft, BangaloreDescription:Get ready to experience a",
+      "endDate": "2025-04-06T23:00:00",
+      "identifier": "com.skillboxes.19292",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st Main Cross",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9240906",
+            "longitude": "77.6366457"
+         },
+         "name": "The Raft"
+      },
+      "name": "CHAOS REIGNS",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "1. Ticket Purchase:  All ticket sales are final. No refunds, exchanges, or cancellations are allowed unless the event is canceled or rescheduled. Tickets are sold on a first-come, first-served basis and are subject to availability. 2. Payment:  Accepted payment methods include credit/debit cards, and other specified payment options. All prices are inclusive of applicable taxes and fees unless otherwise stated. 3. Ticket Delivery:  Tickets may be delivered electronically, via mail, or available for pickup a\nBYOB",
+            "inventoryLevel": 200,
+            "name": "General Admission",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-reigns-3"
+         }
+      ],
+      "startDate": "2025-04-06T17:00:00",
+      "url": "https://www.skillboxes.com/events/chaos-reigns-3"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "We're bringing the debauchery back to homebase this coming Saturday!For the first time we have special guest, Priyansha along with our core crew: That",
+      "endDate": "2025-03-02T01:00:00",
+      "identifier": "com.skillboxes.19287",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9707322",
+            "longitude": "77.6476391"
+         },
+         "name": "Indiranagar Social"
+      },
+      "name": "Jackfruit Dance Party ft. GST, Priyansha, Rishi Sippy & That90's Kid #Indiranagar Social",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover Charge Applicable\n",
+            "inventoryLevel": 100,
+            "name": "General Access",
+            "url": "https://www.skillboxes.com/events/ticket/jackfruit-dance-party-ft-gst-priyansha-rishi-sippy-skye-that90-s-kid-indiranagar-social"
+         }
+      ],
+      "startDate": "2025-03-01T20:00:00",
+      "url": "https://www.skillboxes.com/events/jackfruit-dance-party-ft-gst-priyansha-rishi-sippy-skye-that90-s-kid-indiranagar-social"
    },
    {
       "@context": "https://schema.org",
@@ -817,6 +894,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "The Amithias Project is a vibrant fusion of Indian classical music and jazz, blending intricate South Indian rhythms with European harmonies. Led by v",
+      "endDate": "2025-03-09T20:00:00",
+      "identifier": "com.skillboxes.19136",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "441, 9th cross, Jayanagar 1st block Bangalore, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12",
+            "longitude": "77"
+         },
+         "name": "The Blue Room"
+      },
+      "name": "The Amithias Project",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Please arrive by 5:45 pm to secure your seat. Gates close at 6:15pm sharp. No parking available, please use public transport.\nVenue has mostly floor seating, with some chairs. As this is a house concert venue, we request that footwear be removed at the entrance. It tends to get cold, so do bring something warm. There is also one very friendly large dog at this venue.",
+            "inventoryLevel": 50,
+            "name": "The Amithias Project",
+            "url": "https://www.skillboxes.com/events/ticket/the-amithias-project-1"
+         }
+      ],
+      "startDate": "2025-03-09T18:00:00",
+      "url": "https://www.skillboxes.com/events/the-amithias-project-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "\n\t\t\n\t\n\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tAlma Trio is a",
       "endDate": "2025-03-02T20:00:00",
       "identifier": "com.skillboxes.19135",
@@ -974,7 +1086,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 987,
+            "inventoryLevel": 980,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/kabir-vaani"
          }
@@ -1076,7 +1188,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants entry to 1 individual at the event. Mandatory cover charge per person  applicable at the venue before entry.  The cover charge amount is redeemable against Food & Beverage at the event area.\n",
-            "inventoryLevel": 167,
+            "inventoryLevel": 165,
             "name": "Early Bird - General - Single Ticket",
             "url": "https://www.skillboxes.com/events/ticket/parikrama-tour-28th-march-bangalore"
          },
@@ -1386,32 +1498,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "The most trending pop up in town is back this February with a banger - CrossOver Edition with the Anjunadeep & This Never Happened sensation KIDNA",
-      "endDate": "2025-02-24T01:00:00",
-      "identifier": "com.skillboxes.18932",
-      "image": "",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "CrossOver ft. Kidnap / 23rd Feb / Kitty Ko",
-      "offers": [ ],
-      "startDate": "2025-02-23T20:00:00",
-      "url": "https://www.skillboxes.com/events/crossover-ft-kidnap-23rd-feb-kitty-ko"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "\n\n 1. Brigade Road biggest holi2. ⁠live djs3. ⁠best djs of the town 4. ⁠Non stop music5. ⁠food availability&",
       "endDate": "2025-03-14T18:00:00",
       "identifier": "com.skillboxes.18929",
@@ -1710,7 +1796,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 20,
+            "inventoryLevel": 19,
             "name": "EARLY BIRD COUPLE",
             "url": "https://www.skillboxes.com/events/ticket/abki-the-swankalicious-holi"
          },
@@ -2128,7 +2214,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 136,
+            "inventoryLevel": 96,
             "name": "Phase 2 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/manu-chao-india-tour-delhi-2"
          },
@@ -2570,7 +2656,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Discounted Phase 1 tickets.\nGrants entry to 1 person to the show. An additional cover charge is applicable at the venue which is fully redeemable for food and beverages.",
-            "inventoryLevel": 117,
+            "inventoryLevel": 112,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/modern-machines-volume-3"
          },
