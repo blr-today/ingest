@@ -26,8 +26,24 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge of INR 1000 per individual is applicable at the gates. This includes a redeemable coupon for two JD straight drink.\n",
-            "inventoryLevel": 57,
+            "inventoryLevel": 45,
             "name": "Main Event - Phase 2 Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "An additional cover charge of INR 1000 per individual is applicable at the gates. This includes a redeemable coupon for two JD straight drink.\n",
+            "inventoryLevel": 72,
+            "name": "Group of 2",
+            "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "An additional cover charge of INR 1000 per individual is applicable at the gates. This includes a redeemable coupon for four JD straight drink.\n",
+            "inventoryLevel": 75,
+            "name": "Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
          },
          {
@@ -275,6 +291,47 @@
       ],
       "startDate": "2025-03-02T20:00:00",
       "url": "https://www.skillboxes.com/events/ichika-nito-live-in-bangalore-meet-and-greet"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Sangam: A Confluence of Cultures In a time when linguistic and cultural divides are becoming more evident, music remains the one language th",
+      "endDate": "2025-03-08T20:30:00",
+      "identifier": "com.skillboxes.19300",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "110A, 10th Cross Rd, Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka 560092, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0697522",
+            "longitude": "77.5752437"
+         },
+         "name": "Open Sky Studio"
+      },
+      "name": "Sangam: Sound Sessions 05",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 35,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/sangam-sound-sessions-05"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 15,
+            "name": "Pass",
+            "url": "https://www.skillboxes.com/events/ticket/sangam-sound-sessions-05"
+         }
+      ],
+      "startDate": "2025-03-08T17:30:00",
+      "url": "https://www.skillboxes.com/events/sangam-sound-sessions-05"
    },
    {
       "@context": "https://schema.org",
@@ -586,7 +643,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Ladies Free entry throughout the event.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 996,
             "name": "Female Pass",
             "url": "https://www.skillboxes.com/events/ticket/limitless-unlock-the-experience-feat-axl-stace"
          },
@@ -594,7 +651,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Couples Guestlist till 10 PM.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 991,
             "name": "Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/limitless-unlock-the-experience-feat-axl-stace"
          }
@@ -629,7 +686,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover applicable post 10PM\n",
-            "inventoryLevel": 94,
+            "inventoryLevel": 55,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/sub-science-ft-big-trouble-dj-dwell-shivhari-adi-g-xan-hypno"
          }
@@ -768,32 +825,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Immediate X7 Avonex Trading Platform: Your Gateway to Efficient TradingImmediate X7 Avonex Reviews -Trading Platform is a top choice for traders. It o",
-      "endDate": "2025-03-31T22:10:00",
-      "identifier": "com.skillboxes.19212",
-      "image": "",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Residential Packages"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "",
-            "longitude": ""
-         },
-         "name": "To Be Decided"
-      },
-      "name": "Immediate X7 Avonex Reviews-{GROUNDBREAKING PLATFORM}-The Key Features That Make Immediate X7 Avonex Stand Out!",
-      "offers": [ ],
-      "startDate": "2025-02-21T18:15:00",
-      "url": "https://www.skillboxes.com/events/immediate-x7-avonex-reviews-groundbreaking-platform-the-key-features-that-make-immediate-x7-avonex-stand-out"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "🌈 Rang De 1.0 – The World’s Highest Holi Celebration! 🎉✨\r\n\r\nThis Holi, take the celebrations to new heights—literally! 🚀 ",
       "endDate": "2025-03-14T18:00:00",
       "identifier": "com.skillboxes.19203",
@@ -853,7 +884,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Future Dance Wave Fri, 28-Feb-2025",
+      "description": "Future Dance Wave \r\n\r\nFri, 28-Feb-2025",
       "endDate": "2025-02-28T23:59:00",
       "identifier": "com.skillboxes.19151",
       "image": "",
@@ -987,24 +1018,16 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charges applicable at Gates.\n",
-            "inventoryLevel": 33,
+            "description": "Cover charges applicable at Gates.l\n",
+            "inventoryLevel": 10,
             "name": "Backstage Access",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charges applicable at Gates from 7.30 PM\n",
-            "inventoryLevel": 78,
-            "name": "Final Phase - Male",
-            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "Cover charges applicable post 8.45 PM\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 24,
             "name": "Phase 1 - Female",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          },
@@ -1012,15 +1035,23 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable  at Gates from 8 PM\n",
-            "inventoryLevel": 75,
+            "inventoryLevel": 27,
             "name": "Final phase couples",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Cover charges applicable at gates throughout the night.\n",
+            "inventoryLevel": 80,
+            "name": "Final Phase - Male",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "Backstage access + Cover charges applicable only after 9.30\n",
-            "inventoryLevel": 25,
+            "inventoryLevel": 24,
             "name": "VIP Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          },
@@ -1054,6 +1085,14 @@
             "description": "Cover charges applicable at gates from 7.30 PM\n",
             "inventoryLevel": 0,
             "name": "Phase 1 - Male",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable at Gates from 7.30 PM\n",
+            "inventoryLevel": 2,
+            "name": "Final Phase - Male",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          }
       ],
@@ -1246,16 +1285,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover Charges Applicable Post 9 Pm\n",
-            "inventoryLevel": 84,
-            "name": "Early Bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/beyondvoid-x-klktv-presents-spekki-webu"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges Applicable Post 9 Pm\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/beyondvoid-x-klktv-presents-spekki-webu"
          }
@@ -1862,7 +1892,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Prepare for a night of relentless, high-speed thrash metal carnage as Chaos Underground erupts for its first edition on March 2nd at ByChance, Brigade",
+      "description": "Chaos, the highly acclaimed and multi-award-winning thrash metal band, is back after a hugely successful 10-city Europe tour. They are playing at By C",
       "endDate": "2025-03-02T23:59:00",
       "identifier": "com.skillboxes.18852",
       "image": "",
@@ -1886,7 +1916,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "INR 500 cover charge fully redeemable.\n",
-            "inventoryLevel": 984,
+            "inventoryLevel": 983,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/chaos-underground-v1"
          }
@@ -1987,7 +2017,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "BYOB\n",
-            "inventoryLevel": 199,
+            "inventoryLevel": 197,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/live-loud-vol-2"
          }

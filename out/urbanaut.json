@@ -981,10 +981,10 @@
     "location": {
       "@type": "Place",
       "name": null,
-      "address": "3275, 1st Floor, 12th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3Tg2nYwXrjsR6IFy6nWA1KI",
-      "latitude": "12.97000760000000000000",
-      "longitude": "77.63627040000000000000"
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "latitude": "12.97836920000000000000",
+      "longitude": "77.64083560000000000000"
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
@@ -1108,6 +1108,52 @@
       "Art & culture",
       "Adventure",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "KDrama and Konversations over Breakfast",
+    "description": "Your perfect Sunday morning escape!Grab your coffee, enjoy some delicious breakfast bites, and dive into lively discussions about your favorite episodes, plot twists, and characters.\ufeffIt\u2019s the perfect spot to chat, laugh, and bond over everything K-Drama with Strangers",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5F91061F665042128CA58DC69BB62505_converted_webp.webp"
+    ],
+    "startDate": "2025-03-02T10:00:00+05:30",
+    "endDate": "2025-03-02T11:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "37, Cunningham Rd, near Fortis Hospital Pvt Ltd, Abshot Layout, Vasanth Nagar, Bengaluru, Karnataka 560051, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG2DW81UXrjsRtrsEOHscXnw",
+      "latitude": "12.98757820000000000000",
+      "longitude": "77.59355330000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "Meet a small group of strangers offline, with no agendas\u2014just good conversations and genuine connections. Whether it\u2019s a random thought or a deep dive, you never know where it might lead. Sometimes, the best connections happen when you least expect them.",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/kdrama-and-konversations-over-breakfast",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   }
