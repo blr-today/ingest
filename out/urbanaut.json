@@ -1058,5 +1058,57 @@
       "Art & culture",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Gruffalo Party",
+    "description": "Embark on a whimsical journey with The LooRoo Club at \"The Gruffalo Party\" on March 2nd, 2025!AGE: 3 TO 8 YEARSAT Kaavu, BrookefieldImmerse little ones in the magic of storytelling, and let their creativity run wild with nature art, Gruffalo-inspired sensory play, and an imaginative mess-making extravaganza. Activities include crafting Gruffalo masks, setting up a \"Nature Kitchen\" for delightful concoctions, and even a \"Gruffalo Dance\" to groove to the forest beat!Let the wild adventures begin!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/39C8DE89920B4966A9851CFA0DA6C035_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5612D8E83E4E4E09BD7502388BD256A5_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/95539FF59A0B468F946081054B720A9B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F1626DCA10CC4C2589995BE0BD44DF22_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/063C152F560F43789308655C23F41041_converted_webp.webp"
+    ],
+    "startDate": "2025-03-02T11:00:00+05:30",
+    "endDate": "2025-03-02T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Pattandur Agrahara Village Main Rd, Siddapura, Brookefield, Bengaluru, Karnataka 560066, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJSaUs_LYTrjsRiIU1zCUr4rs",
+      "latitude": "12.96131520000000000000",
+      "longitude": "77.73248389999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The LooRoo Club",
+      "description": "The LooRoo Club (TLC) is a little world of big adventures. We create playful, nature-inspired experiences for kids - where stories come alive, curiosity runs wild, and messy hands mean happy hearts.",
+      "url": "https://urbanaut.app/partner/theloorooclub",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/bd4udfjhds-1711471103028page02jpg.JPG",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98865-01704"
+      }
+    },
+    "url": "https://urbanaut.app/spot/the-gruffalo-party",
+    "keywords": [
+      "Art & culture",
+      "Adventure",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
