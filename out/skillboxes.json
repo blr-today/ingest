@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge of INR 1000 per individual is applicable at the gates. This includes a redeemable coupon for two JD straight drink.\n",
-            "inventoryLevel": 45,
+            "inventoryLevel": 36,
             "name": "Main Event - Phase 2 Tickets",
             "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
          },
@@ -34,7 +34,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge of INR 1000 per individual is applicable at the gates. This includes a redeemable coupon for two JD straight drink.\n",
-            "inventoryLevel": 72,
+            "inventoryLevel": 64,
             "name": "Group of 2",
             "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
          },
@@ -42,7 +42,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge of INR 1000 per individual is applicable at the gates. This includes a redeemable coupon for four JD straight drink.\n",
-            "inventoryLevel": 75,
+            "inventoryLevel": 74,
             "name": "Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
          },
@@ -284,13 +284,273 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Add-On Ticket – This is an additional purchase. Entry tickets must be purchased separately.\nAll details will be communicated via email and SMS.",
-            "inventoryLevel": 74,
+            "inventoryLevel": 73,
             "name": "*Exclusive Add-On : Meet & Greet with Ichika Nito",
             "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore-meet-and-greet"
          }
       ],
       "startDate": "2025-03-02T20:00:00",
       "url": "https://www.skillboxes.com/events/ichika-nito-live-in-bangalore-meet-and-greet"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "🚀 March 1st – A night of deep grooves and melodic rhythms! 🌙🔥 Get ready for a sonic journey through Progressive & De",
+      "endDate": "2025-03-01T12:59:00",
+      "identifier": "com.skillboxes.19344",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9849438",
+            "longitude": "77.5808105"
+         },
+         "name": "The Burrow"
+      },
+      "name": "The Burrow Presents : RESONANCE ft Haen, Bassvibe & Ekaakshh",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges of 1000 applicable post 9:30pm\n",
+            "inventoryLevel": 300,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-resonance-ft-haen-bassvibe-ekaakshh"
+         }
+      ],
+      "startDate": "2025-03-01T08:00:00",
+      "url": "https://www.skillboxes.com/events/the-burrow-presents-resonance-ft-haen-bassvibe-ekaakshh"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "THE WAIT IS OVER! 🔥We’re beyond thrilled to bring back FLYPSHIP X AQUA for a Sunday Sundowner at Aqua | The Park, Bangalo",
+      "endDate": "2025-03-02T12:45:00",
+      "identifier": "com.skillboxes.19338",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9739812",
+            "longitude": "77.61989"
+         },
+         "name": "Aqua - THE Park Bangalore"
+      },
+      "name": "FLYPSHIP X AQUA Presents African Diaspora sounds",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover Charges applicable post 7pm\n",
+            "inventoryLevel": 300,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/flypship-x-aqua-presents-african-diaspora-sounds"
+         }
+      ],
+      "startDate": "2025-03-02T04:00:00",
+      "url": "https://www.skillboxes.com/events/flypship-x-aqua-presents-african-diaspora-sounds"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Bangalore, get ready for a night like no other! 🌙✨The Night Market is back—bigger, bolder, and buzzing with energy! Hosted by Buz",
+      "endDate": "2025-03-22T22:00:00",
+      "identifier": "com.skillboxes.19337",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "ITPL Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9858421",
+            "longitude": "77.7355549"
+         },
+         "name": "International Tech Park Bangalore (ITPB)"
+      },
+      "name": "The Night Market",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Solo",
+            "url": "https://www.skillboxes.com/events/ticket/the-night-market"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Group of 4",
+            "url": "https://www.skillboxes.com/events/ticket/the-night-market"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Group of 6",
+            "url": "https://www.skillboxes.com/events/ticket/the-night-market"
+         }
+      ],
+      "startDate": "2025-03-22T12:00:00",
+      "url": "https://www.skillboxes.com/events/the-night-market"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Hotel Davanam Sarovar Portico Presents Rang De Bengaluru 2025 - Biggest Open Air Holi Celebration.\r\n\r\n \r\n\r\nAfter Breaking All Records In New Year",
+      "endDate": "2025-03-15T18:00:00",
+      "identifier": "com.skillboxes.19335",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Holi 2025"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Hosur Rd, opp. Madiwala Traffic Police Station, Sidharata Colony, Santhosapuram, 2nd Block, Koramangala, Bengaluru, Karnataka 560068, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9216186",
+            "longitude": "77.6207146"
+         },
+         "name": "Hotel Davanam Sarovar Portico Suites"
+      },
+      "name": "Rang De Bengaluru 2025",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry permits to 1 kid and get free Complimentary Colour Packet at the Entry.\n",
+            "inventoryLevel": 100,
+            "name": "Kids below 10 years",
+            "url": "https://www.skillboxes.com/events/ticket/rang-de-bengaluru-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry permits to 1 kid and get free Complimentary Colour Packet at the Entry.\n",
+            "inventoryLevel": 100,
+            "name": "Ladies Entry Pass",
+            "url": "https://www.skillboxes.com/events/ticket/rang-de-bengaluru-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry permits to 1 Male and get free Complimentary Colour Packet at the Entry\n",
+            "inventoryLevel": 100,
+            "name": "Male Entry Pass",
+            "url": "https://www.skillboxes.com/events/ticket/rang-de-bengaluru-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry permits to 1 Couple and get free Complimentary Colour Packet at the Entry\n",
+            "inventoryLevel": 100,
+            "name": "Couple Entry Pass",
+            "url": "https://www.skillboxes.com/events/ticket/rang-de-bengaluru-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry permits to 5 People and get free Complimentary Colour Packet at the Entry\n",
+            "inventoryLevel": 100,
+            "name": "Group of 5 Entry Pass",
+            "url": "https://www.skillboxes.com/events/ticket/rang-de-bengaluru-2025"
+         }
+      ],
+      "startDate": "2025-03-14T11:00:00",
+      "url": "https://www.skillboxes.com/events/rang-de-bengaluru-2025"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Bengaluru!!! Forum South Bangalore !! SIA Entertainments. we are gearing for our another Season of Holi .we bring in some crazy stuff out here for the",
+      "endDate": "2025-03-15T23:59:00",
+      "identifier": "com.skillboxes.19325",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Holi 2025"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Konanakunte Cross Metro Station, Anjanadri Layout, Konanakunte, Bengaluru, Karnataka 560062, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.888352",
+            "longitude": "77.5633138"
+         },
+         "name": "Forum South Bengaluru"
+      },
+      "name": "Holi Habba 2025",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(INR 499 full cover and INR 500 entry charge)\n",
+            "inventoryLevel": 1000,
+            "name": "Kids Above 5-12YRS",
+            "url": "https://www.skillboxes.com/events/ticket/holi-habba-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(INR 499 full cover and INR 500 entry charge)\n",
+            "inventoryLevel": 1000,
+            "name": "Kids Above 5-12YRS",
+            "url": "https://www.skillboxes.com/events/ticket/holi-habba-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(INR 499 full cover and INR 500 entry charge)\n",
+            "inventoryLevel": 1000,
+            "name": "Ladies Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/holi-habba-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(INR 499 full cover and INR 500 entry charge)\n",
+            "inventoryLevel": 1000,
+            "name": "Ladies Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/holi-habba-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(INR 499 full cover and INR 500 entry charge)\n",
+            "inventoryLevel": 1000,
+            "name": "Male 1 Person",
+            "url": "https://www.skillboxes.com/events/ticket/holi-habba-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(INR 499 full cover and INR 500 entry charge)\n",
+            "inventoryLevel": 1000,
+            "name": "Male 1 Person",
+            "url": "https://www.skillboxes.com/events/ticket/holi-habba-2025"
+         }
+      ],
+      "startDate": "2025-03-14T20:00:00",
+      "url": "https://www.skillboxes.com/events/holi-habba-2025"
    },
    {
       "@context": "https://schema.org",
@@ -493,7 +753,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 35,
+            "inventoryLevel": 32,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/sangam-sound-sessions-05"
          },
@@ -826,13 +1086,54 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Couples Guestlist till 10 PM.\n",
-            "inventoryLevel": 991,
+            "inventoryLevel": 990,
             "name": "Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/limitless-unlock-the-experience-feat-axl-stace"
          }
       ],
       "startDate": "2025-03-01T20:00:00",
       "url": "https://www.skillboxes.com/events/limitless-unlock-the-experience-feat-axl-stace"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Friends and folks in Bangalore, gear up for a one of a kind prog experience at Prog Encounters 3.0, live at White Lotus on the 20th of April We h",
+      "endDate": "2025-04-20T23:59:00",
+      "identifier": "com.skillboxes.19254",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9151581",
+            "longitude": "77.6664719"
+         },
+         "name": "White Lotus Club Bengaluru"
+      },
+      "name": "Prog Encounters 3.0 Bangalore Edition",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 150,
+            "name": "Phase - 1",
+            "url": "https://www.skillboxes.com/events/ticket/prog-encounters-3-0-bangalore-edition"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Phase - 2",
+            "url": "https://www.skillboxes.com/events/ticket/prog-encounters-3-0-bangalore-edition"
+         }
+      ],
+      "startDate": "2025-04-20T19:00:00",
+      "url": "https://www.skillboxes.com/events/prog-encounters-3-0-bangalore-edition"
    },
    {
       "@context": "https://schema.org",
@@ -861,7 +1162,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover applicable post 10PM\n",
-            "inventoryLevel": 55,
+            "inventoryLevel": 44,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/sub-science-ft-big-trouble-dj-dwell-shivhari-adi-g-xan-hypno"
          }
@@ -1082,14 +1383,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 997,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/future-dance-wave"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Full Cover Pass",
             "url": "https://www.skillboxes.com/events/ticket/future-dance-wave"
          }
@@ -1159,7 +1460,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Please arrive by 5:45 pm to secure your seat. Gates close at 6:15pm sharp. No parking available, please use public transport.\nVenue has mostly floor seating, with some chairs. As this is a house concert venue, we request that footwear be removed at the entrance. It tends to get cold, so do bring something warm. There is also one very friendly large dog at this venue.",
-            "inventoryLevel": 46,
+            "inventoryLevel": 42,
             "name": "Alma Trio: World Jazz / Indo-Iberian Original Music",
             "url": "https://www.skillboxes.com/events/ticket/alma-trio-world-jazz-indo-iberian-original-music"
          }
@@ -1193,24 +1494,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charges applicable at Gates.l\n",
-            "inventoryLevel": 10,
-            "name": "Backstage Access",
-            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable post 8.45 PM\n",
-            "inventoryLevel": 24,
-            "name": "Phase 1 - Female",
-            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "Cover charges applicable  at Gates from 8 PM\n",
-            "inventoryLevel": 27,
+            "inventoryLevel": 44,
             "name": "Final phase couples",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          },
@@ -1218,15 +1503,31 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable at gates throughout the night.\n",
-            "inventoryLevel": 80,
+            "inventoryLevel": 8,
             "name": "Final Phase - Male",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Cover charges applicable post 9.00 PM\n",
+            "inventoryLevel": 47,
+            "name": "Final phase - Female",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 9.30 PM\n",
+            "inventoryLevel": 100,
+            "name": "Backstage access- Final phase",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "Backstage access + Cover charges applicable only after 9.30\n",
-            "inventoryLevel": 24,
+            "inventoryLevel": 22,
             "name": "VIP Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          },
@@ -1265,9 +1566,25 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Cover charges applicable at Gates.\n",
+            "inventoryLevel": 13,
+            "name": "Backstage Access",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "Cover charges applicable at Gates from 7.30 PM\n",
             "inventoryLevel": 2,
             "name": "Final Phase - Male",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 8.45 PM\n",
+            "inventoryLevel": 20,
+            "name": "Phase 1 - Female",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          }
       ],
@@ -1460,7 +1777,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 999,
+            "inventoryLevel": 996,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/beyondvoid-x-klktv-presents-spekki-webu"
          }
@@ -1494,7 +1811,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 17,
+            "inventoryLevel": 16,
             "name": "Time Traveller",
             "url": "https://www.skillboxes.com/events/ticket/moments-before-the-coffee-gets-cold-a-blrgrooveco-initiative"
          }
@@ -2098,7 +2415,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "INR 500 cover charge fully redeemable.\n",
-            "inventoryLevel": 983,
+            "inventoryLevel": 978,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/chaos-underground-v1"
          }
