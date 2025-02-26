@@ -44,6 +44,33 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "@id": "71038-1741442400-1741449600@bangaloreinternationalcentre.org",
+    "name": "Gulabi Gang",
+    "startDate": "2025-03-08T14:00:00+05:30",
+    "endDate": "2025-03-08T16:00:00+05:30",
+    "description": "96 minutes | Hindi/Bundelkhandi with English Subtitles | 2012 | Norway, India, Denmark | Documentary \nEnter the badlands of Bundelkhand in central India and you have entered a place of desolation, dust and despair. And yet it is hope that this film discovers, as it follows the Gulabi Gang, an unusual group of rural women. Led by the energetic and charismatic Sampat Pal, they travel long distances to fight for the rights of women and Dalits. They encounter resistance, apathy and corruption, even ridicule. Sometimes whole villages connive against them to protect the perpetrators of violence. The film pulls us into the centre of these blazing conflicts and uncovers a complex story, disturbing yet heartening. \nGulabi Gang was released in theatres in Norway in 2013, where it played for the entire year.\u00a0In India, it was released by Sohum Shah (Recyclewala Films) and had limited theatrical release in Indian Metros.\u00a0The film gained critical acclaim,\u00a0including two national awards. \nThe film has been screened at over 60 film festivals and international universities including\u00a0Stanford, NYU, Wellesley,\u00a0UCSB,\u00a0NW University,\u00a0UT Austin, Texas A&M, North Carolina, University of London,\u00a0Cambridge,\u00a0St. Andrews, Queens\u00a0Belfast, Coventry, Heidelberg, Danish Film School, FTII Pune, SRFTI, Kolkata, MCRC Delhi, JNU Delhi. \nCast: Sampat Pal, Jaiprakash, Suman Singh Chauhan, Usha Devi, Husna Jahan\nDirector: Nishtha Jain\nWriter: Nishtha Jain, Torstein Grude\nProducer: Torstein Grude, Bjarte Morner Tveit (Piraya Film)\nCo-Producer: Nishtha Jain (Raintree Films)\nCo-Producer: Signe Byrge Sorenson (Final Cut for Real)\nDOP: Rakesh Haridas\nLocation Sound: Niraj Gera\nAssistant Director: Aditya Kelgaonkar\nLine Producer: Neelima Goel\nSound Design: Peter Schultz\nEditor: Arjun Gourisaria\nMusic: Peter ScartabelloTranslation & Subtitles: Smriti Nevatia\nGrading: Tom Christer Lilletvedt\nAssistant Producer: Oddleiv Vik\nProduced by Piraya Film (Norway), Raintree Films (India), Final Cut for Real(Denmark)\nFestival Distribution: Norwegian Film Institute \nThe screening of the film will be followed by a Q&A with Director, Nishtha Jain. \nThis event is part of\u00a0Unheard Narratives, BIC\u2019s programmes to commemorate Women\u2019s Day 2025. It celebrates the power of unheard narratives\u2014spotlighting the resilience, artistry, and impact of women whose stories have shaped India\u2019s cultural and social fabric. Through performances, talks, and films, we bring these voices to the forefront. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/gulabi-gang/",
+    "keywords": [
+      "Film",
+      "Gender",
+      "History",
+      "Society"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "hi",
+    "workPresented": {
+      "@type": "Movie",
+      "name": "Gulabi Gang"
+    },
+    "subtitleLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-730.jpg"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "TheaterEvent",
     "@id": "63762-1740769200-1740772800@bangaloreinternationalcentre.org",
     "name": "The Earthquake",
@@ -65,6 +92,34 @@
       "name": "The Earthquake"
     },
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-599.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "@id": "71046-1741460400-1741465800@bangaloreinternationalcentre.org",
+    "name": "Ranis of India",
+    "startDate": "2025-03-08T19:00:00+05:30",
+    "endDate": "2025-03-08T20:30:00+05:30",
+    "description": "Ranis of India is a theatrical storytelling performance that brings to life the forgotten and lesser-known queens of India. Drawing from oral traditions and historical narratives, Vikram Sridhar weaves together tales of women rulers who shaped the course of history across different regions and time periods. \nOver the course of an hour, through the art of oral storytelling interwoven with folk songs, we embark on a journey across India\u2014uncovering the myths, histories, and contemporary echoes of remarkable queens whose legacies deserve to be remembered. From North to South, East to West, these powerful women left an indelible mark on history, yet their stories remain largely untold. This performance seeks to reclaim their voices and bring them to the forefront. \nThis event is part of\u00a0Unheard Narratives, BIC\u2019s programmes to commemorate Women\u2019s Day 2025. It celebrates the power of unheard narratives\u2014spotlighting the resilience, artistry, and impact of women whose stories have shaped India\u2019s cultural and social fabric. Through performances, talks, and films, we bring these voices to the forefront. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/ranis-of-india/",
+    "keywords": [
+      "Gender",
+      "Heritage",
+      "History",
+      "Performing Arts",
+      "Society",
+      "Theatre"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "TheaterPlay",
+      "name": "Ranis of India"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-731.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -90,26 +145,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "@id": "70972-1741199400-1741204800@bangaloreinternationalcentre.org",
-    "name": "Family Caregivers : A Silent Workforce",
-    "startDate": "2025-03-05T18:30:00+05:30",
-    "endDate": "2025-03-05T20:00:00+05:30",
-    "description": "In this talk, Norman Sartorius emphasizes the critical need to address the challenges faced by caregivers of individuals with mental illness. Often overlooked, these caregivers, typically family members, find themselves thrust into unfamiliar roles, grappling with feelings of guilt, shame, fear and burnout. Caregivers, often also women, also find themselves facing the harshest stigma and judgement. They navigate complex emotions and uncertainties about their impact on their loved one\u2019s illness. Sartorius advocates for focusing on supporting and empowering caregivers as a crucial starting point in improving mental health care. \nThe talk will be followed by a Q&A session with the audience. \n\u00a0\u00a0\u00a0\u00a0\n",
-    "url": "https://bangaloreinternationalcentre.org/event/caring-for-the-caregiver/",
-    "keywords": [
-      "Health & Wellness",
-      "Society"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-728.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "@id": "70819-1741372200-1741377600@bangaloreinternationalcentre.org",
     "name": "Quo Vadis Dravidian\u00a0Politics?",
     "startDate": "2025-03-07T18:30:00+05:30",
@@ -127,6 +162,26 @@
     },
     "inLanguage": "ta",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-727.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "70972-1741199400-1741204800@bangaloreinternationalcentre.org",
+    "name": "Family Caregivers : A Silent Workforce",
+    "startDate": "2025-03-05T18:30:00+05:30",
+    "endDate": "2025-03-05T20:00:00+05:30",
+    "description": "In this talk, Norman Sartorius emphasizes the critical need to address the challenges faced by caregivers of individuals with mental illness. Often overlooked, these caregivers, typically family members, find themselves thrust into unfamiliar roles, grappling with feelings of guilt, shame, fear and burnout. Caregivers, often also women, also find themselves facing the harshest stigma and judgement. They navigate complex emotions and uncertainties about their impact on their loved one\u2019s illness. Sartorius advocates for focusing on supporting and empowering caregivers as a crucial starting point in improving mental health care. \nThe talk will be followed by a Q&A session with the audience. \n\u00a0\u00a0\u00a0\u00a0\n",
+    "url": "https://bangaloreinternationalcentre.org/event/caring-for-the-caregiver/",
+    "keywords": [
+      "Health & Wellness",
+      "Society"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-728.jpg"
   },
   {
     "@context": "https://schema.org",

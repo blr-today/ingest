@@ -295,6 +295,49 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Get ready for the ultimate techno showcase in your city - PROTOCOL SUNDAYS! Catch the Innervisions Sensation Luke Garcia live at Kitty Ko this Sunday.",
+      "endDate": "2025-03-03T01:00:00",
+      "identifier": "com.skillboxes.19322",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Protocol ft. Luke Garcia / 2nd March / Kitty Ko",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist-Couple",
+            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-luke-garcia-2nd-march-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-luke-garcia-2nd-march-kitty-ko"
+         }
+      ],
+      "startDate": "2025-03-02T20:00:00",
+      "url": "https://www.skillboxes.com/events/protocol-ft-luke-garcia-2nd-march-kitty-ko"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "MASSIVE WEEKENDER 2025Celebrating 12 years of Drum and Bass India + 3rd Anniversary of #BangaloreMassive! 7th to 9th March, 20253 days, 3 Venues,",
       "endDate": "2025-03-09T23:30:00",
       "identifier": "com.skillboxes.19317",
@@ -2356,6 +2399,49 @@
       ],
       "startDate": "2025-03-14T11:00:00",
       "url": "https://www.skillboxes.com/events/rangila-utsav-holi-pool-rain-dance-festival-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Hardground Bangalore Women’s Day Edition",
+      "endDate": "2025-03-08T23:59:00",
+      "identifier": "com.skillboxes.18768",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Bengaluru, Karnataka, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9715987",
+            "longitude": "77.5945627"
+         },
+         "name": "To Be Announced"
+      },
+      "name": "Hardground Bangalore Women’s Day Edition",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable at the gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Early Bird || GA",
+            "url": "https://www.skillboxes.com/events/ticket/hardground-hardground-bangalore-womens-day-edition"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable at the gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Early Bird || VIP",
+            "url": "https://www.skillboxes.com/events/ticket/hardground-hardground-bangalore-womens-day-edition"
+         }
+      ],
+      "startDate": "2025-03-08T13:00:00",
+      "url": "https://www.skillboxes.com/events/hardground-hardground-bangalore-womens-day-edition"
    },
    {
       "@context": "https://schema.org",
