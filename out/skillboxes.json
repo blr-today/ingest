@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge of INR 1000 per individual is applicable at the gates. This includes a redeemable coupon for two JD straight drink.\n",
-            "inventoryLevel": 36,
+            "inventoryLevel": 28,
             "name": "Main Event - Phase 2 Tickets",
             "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
          },
@@ -34,7 +34,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge of INR 1000 per individual is applicable at the gates. This includes a redeemable coupon for two JD straight drink.\n",
-            "inventoryLevel": 64,
+            "inventoryLevel": 58,
             "name": "Group of 2",
             "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
          },
@@ -42,7 +42,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional cover charge of INR 1000 per individual is applicable at the gates. This includes a redeemable coupon for four JD straight drink.\n",
-            "inventoryLevel": 74,
+            "inventoryLevel": 73,
             "name": "Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/the-barrel-room-blackstratblues"
          },
@@ -295,6 +295,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "The night doesn’t end when the Sunburn Arena with Zedd wraps up—it's just getting started. ICB -  Indian Craft Brewery is happy to ho",
+      "endDate": "2025-03-06T23:59:00",
+      "identifier": "com.skillboxes.19367",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Unnamed Road, 122009, Sector 29, Gurugram, Haryana 122007, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "28.471714",
+            "longitude": "77.0708279"
+         },
+         "name": "SUNBURN ARENA"
+      },
+      "name": "Sunburn Arena Zedd Official Afterparty",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Full Redeemable Cover.\n",
+            "inventoryLevel": 1000,
+            "name": "Regular Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/sunburn-arena-zedd-official-afterparty"
+         }
+      ],
+      "startDate": "2025-03-06T20:00:00",
+      "url": "https://www.skillboxes.com/events/sunburn-arena-zedd-official-afterparty"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "🚀 March 1st – A night of deep grooves and melodic rhythms! 🌙🔥 Get ready for a sonic journey through Progressive & De",
       "endDate": "2025-03-01T12:59:00",
       "identifier": "com.skillboxes.19344",
@@ -319,7 +354,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of 1000 applicable post 9:30pm\n",
-            "inventoryLevel": 300,
+            "inventoryLevel": 292,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-resonance-ft-haen-bassvibe-ekaakshh"
          }
@@ -354,7 +389,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges applicable post 7pm\n",
-            "inventoryLevel": 300,
+            "inventoryLevel": 299,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/flypship-x-aqua-presents-african-diaspora-sounds"
          }
@@ -365,7 +400,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bangalore, get ready for a night like no other! 🌙✨The Night Market is back—bigger, bolder, and buzzing with energy! Hosted by Buz",
+      "description": "Bangalore, get ready for a night like no other! 🌙✨\r\n\r\n \r\n\r\n \r\n\r\n \r\n\r\nThe Night Market is back—bigger, bolder, and buzzing wi",
       "endDate": "2025-03-22T22:00:00",
       "identifier": "com.skillboxes.19337",
       "image": "",
@@ -727,7 +762,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 32,
+            "inventoryLevel": 29,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/sangam-sound-sessions-05"
          },
@@ -1060,7 +1095,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Couples Guestlist till 10 PM.\n",
-            "inventoryLevel": 990,
+            "inventoryLevel": 985,
             "name": "Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/limitless-unlock-the-experience-feat-axl-stace"
          }
@@ -1094,14 +1129,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 150,
+            "inventoryLevel": 140,
             "name": "Phase - 1",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-3-0-bangalore-edition"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 100,
+            "inventoryLevel": 98,
             "name": "Phase - 2",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-3-0-bangalore-edition"
          }
@@ -1136,7 +1171,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover applicable post 10PM\n",
-            "inventoryLevel": 44,
+            "inventoryLevel": 36,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/sub-science-ft-big-trouble-dj-dwell-shivhari-adi-g-xan-hypno"
          }
@@ -1434,7 +1469,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Please arrive by 5:45 pm to secure your seat. Gates close at 6:15pm sharp. No parking available, please use public transport.\nVenue has mostly floor seating, with some chairs. As this is a house concert venue, we request that footwear be removed at the entrance. It tends to get cold, so do bring something warm. There is also one very friendly large dog at this venue.",
-            "inventoryLevel": 42,
+            "inventoryLevel": 33,
             "name": "Alma Trio: World Jazz / Indo-Iberian Original Music",
             "url": "https://www.skillboxes.com/events/ticket/alma-trio-world-jazz-indo-iberian-original-music"
          }
@@ -1468,16 +1503,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charges applicable  at Gates from 8 PM\n",
-            "inventoryLevel": 44,
-            "name": "Final phase couples",
-            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "Cover charges applicable at gates throughout the night.\n",
-            "inventoryLevel": 8,
+            "inventoryLevel": 46,
             "name": "Final Phase - Male",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          },
@@ -1485,8 +1512,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable post 9.00 PM\n",
-            "inventoryLevel": 47,
+            "inventoryLevel": 39,
             "name": "Final phase - Female",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable at gates.\n",
+            "inventoryLevel": 100,
+            "name": "Couples Final phase",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          },
          {
@@ -1559,6 +1594,14 @@
             "description": "Cover charges applicable post 8.45 PM\n",
             "inventoryLevel": 20,
             "name": "Phase 1 - Female",
+            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable  at Gates from 8 PM\n",
+            "inventoryLevel": 12,
+            "name": "Final phase couples",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-deborah-forti"
          }
       ],
@@ -1751,7 +1794,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 996,
+            "inventoryLevel": 992,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/beyondvoid-x-klktv-presents-spekki-webu"
          }
@@ -1859,7 +1902,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "In celebration of women's day we bring you a one of a kind night featuring three incredible singer songwriters who will captivate you with their tunes",
+      "description": "In celebration of women's day we bring you a one of a kind night featuring three incredible singer songwriters who will captivate you with their t",
       "endDate": "2025-03-07T23:00:00",
       "identifier": "com.skillboxes.18985",
       "image": "",
@@ -1882,7 +1925,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 197,
+            "inventoryLevel": 194,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/femme-fusion-at-the-raft"
          }
@@ -2490,7 +2533,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "BYOB\n",
-            "inventoryLevel": 197,
+            "inventoryLevel": 192,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/live-loud-vol-2"
          }
@@ -2564,41 +2607,6 @@
       ],
       "startDate": "2025-03-14T11:00:00",
       "url": "https://www.skillboxes.com/events/holi-mahotsav-2025"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "ladies night w/ digvijay\r\n ",
-      "endDate": "2025-02-27T23:59:00",
-      "identifier": "com.skillboxes.18793",
-      "image": "",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "36, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9336478",
-            "longitude": "77.6148833"
-         },
-         "name": "HOD - House Of Dopamine"
-      },
-      "name": "Biggest ladies night of the city",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticket is valid for 27th feb only.\n",
-            "inventoryLevel": 1000,
-            "name": "RSVP/ Guestlist Pass || 27th Feb 2025",
-            "url": "https://www.skillboxes.com/events/ticket/biggest-ladies-night-of-the-city"
-         }
-      ],
-      "startDate": "2025-02-06T21:00:00",
-      "url": "https://www.skillboxes.com/events/biggest-ladies-night-of-the-city"
    },
    {
       "@context": "https://schema.org",

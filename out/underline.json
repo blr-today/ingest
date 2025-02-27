@@ -2,41 +2,6 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2025-02-27T17:30:00.000Z",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Tabletop Thursday with ReRoll Board Games",
-      "sameAs": "https://underline.center/t/17",
-      "startDate": "2025-02-27T13:30:00.000Z",
-      "url": "https://insider.in/tabletop-thursday-with-reroll-board-games/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
       "endDate": "2025-03-01T13:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -137,7 +102,7 @@
       "name": "Whimsical Weekend with Improv Lore",
       "sameAs": "https://underline.center/t/248",
       "startDate": "2025-03-01T14:00:00.000Z",
-      "url": "https://insider.in/event/whimsical-weekend-with-improv-lore/buy-page/shows/67792a3744a38f0c96965c7c/Ticket"
+      "url": "https://district.in/event/whimsical-weekend-with-improv-lore/buy-page/shows/67792a3744a38f0c96965c7c/Ticket"
    },
    {
       "@context": "https://schema.org",
@@ -208,5 +173,40 @@
       "sameAs": "https://underline.center/t/14",
       "startDate": "2025-03-03T12:30:00.000Z",
       "url": "https://insider.in/bangalore-puzzle-pals-with-playful-pursuits/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2025-03-06T17:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Tabletop Thursday with ReRoll Board Games",
+      "sameAs": "https://underline.center/t/17",
+      "startDate": "2025-03-06T13:30:00.000Z",
+      "url": "https://insider.in/tabletop-thursday-with-reroll-board-games/event"
    }
 ]
