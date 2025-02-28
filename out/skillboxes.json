@@ -295,6 +295,116 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Experience the ultimate electronic music event as Nexus and FrequenZ present RAMPAGE featuring LESTRANGE, supported by ZEG. This high-energy night pro",
+      "endDate": "2025-03-09T01:00:00",
+      "identifier": "com.skillboxes.19372",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Cessna Business Park",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12",
+            "longitude": "77"
+         },
+         "name": "Aloft Bengaluru Outer Ring Road"
+      },
+      "name": "Rampage featuring LESTRANGE: Curated by Nexus x FrequenZ",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Ladies free entry till 9pm. Cover applicable post 9pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
+            "inventoryLevel": 20,
+            "name": "Early Bird Female (Women's day waiver)",
+            "url": "https://www.skillboxes.com/events/ticket/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 7pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
+            "inventoryLevel": 30,
+            "name": "Early Bird Stags",
+            "url": "https://www.skillboxes.com/events/ticket/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 8pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
+            "inventoryLevel": 15,
+            "name": "Early Bird Couples",
+            "url": "https://www.skillboxes.com/events/ticket/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 9pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
+            "inventoryLevel": 10,
+            "name": "Early Bird Backstage Access",
+            "url": "https://www.skillboxes.com/events/ticket/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
+         }
+      ],
+      "startDate": "2025-03-08T17:00:00",
+      "url": "https://www.skillboxes.com/events/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Double the beats, double the vibe! 🔥🎧#JUKEBOXED is taking over i-BAR at The Park Bangalore this Saturday, 1st March! Featuring Cronic ",
+      "endDate": "2025-03-02T01:00:00",
+      "identifier": "com.skillboxes.19371",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "iBAR, THE Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9740179",
+            "longitude": "77.619422"
+         },
+         "name": "i-Bar THE Park Bangalore"
+      },
+      "name": "JUKEBOXED",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one stag to the event. Cover charges applicable at the venue throughout the event.\n",
+            "inventoryLevel": 200,
+            "name": "Stags",
+            "url": "https://www.skillboxes.com/events/ticket/jukeboxed-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one lady to the event.\n",
+            "inventoryLevel": 200,
+            "name": "ladies",
+            "url": "https://www.skillboxes.com/events/ticket/jukeboxed-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass allows entry to 1 Couple. Each pass permits one couple to the event. Cover charges applicable at the venue post 9:30 PM.\n",
+            "inventoryLevel": 200,
+            "name": "couples",
+            "url": "https://www.skillboxes.com/events/ticket/jukeboxed-1"
+         }
+      ],
+      "startDate": "2025-03-01T20:00:00",
+      "url": "https://www.skillboxes.com/events/jukeboxed-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "The night doesn’t end when the Sunburn Arena with Zedd wraps up—it's just getting started. ICB -  Indian Craft Brewery is happy to ho",
       "endDate": "2025-03-06T23:59:00",
       "identifier": "com.skillboxes.19367",
