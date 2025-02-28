@@ -44,6 +44,32 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "@id": "71132-1741537800-1741543200@bangaloreinternationalcentre.org",
+    "name": "Sangam",
+    "startDate": "2025-03-09T16:30:00+05:30",
+    "endDate": "2025-03-09T18:00:00+05:30",
+    "description": "Sangam is a sincere effort to present Carnatic and Hindustani classical traditions in an alternating format. Each piece will flow between the two styles, creating a harmonious fusion of these rich musical traditions. \nThis initiative seeks to celebrate the diversity of Indian classical music, providing a space where both forms can complement and inspire one another. \nSupported by:\n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/sangam/",
+    "keywords": [
+      "Culture",
+      "Heritage",
+      "Music",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "Sangam"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-740.jpg"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "ScreeningEvent",
     "@id": "71038-1741442400-1741449600@bangaloreinternationalcentre.org",
     "name": "Gulabi Gang",
@@ -125,34 +151,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "TheaterEvent",
-    "@id": "71046-1741460400-1741465800@bangaloreinternationalcentre.org",
-    "name": "Ranis of India",
-    "startDate": "2025-03-08T19:00:00+05:30",
-    "endDate": "2025-03-08T20:30:00+05:30",
-    "description": "Ranis of India is a theatrical storytelling performance that brings to life the forgotten and lesser-known queens of India. Drawing from oral traditions and historical narratives, Vikram Sridhar weaves together tales of women rulers who shaped the course of history across different regions and time periods. \nOver the course of an hour, through the art of oral storytelling interwoven with folk songs, we embark on a journey across India\u2014uncovering the myths, histories, and contemporary echoes of remarkable queens whose legacies deserve to be remembered. From North to South, East to West, these powerful women left an indelible mark on history, yet their stories remain largely untold. This performance seeks to reclaim their voices and bring them to the forefront. \nThis event is part of\u00a0Unheard Narratives, BIC\u2019s programmes to commemorate Women\u2019s Day 2025. It celebrates the power of unheard narratives\u2014spotlighting the resilience, artistry, and impact of women whose stories have shaped India\u2019s cultural and social fabric. Through performances, talks, and films, we bring these voices to the forefront. \n",
-    "url": "https://bangaloreinternationalcentre.org/event/ranis-of-india/",
-    "keywords": [
-      "Gender",
-      "Heritage",
-      "History",
-      "Performing Arts",
-      "Society",
-      "Theatre"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "TheaterPlay",
-      "name": "Ranis of India"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-736.jpg"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "70841-1741543200-1741550400@bangaloreinternationalcentre.org",
     "name": "Smriti Pravah 2025",
@@ -192,6 +190,34 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-738.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "@id": "71046-1741460400-1741465800@bangaloreinternationalcentre.org",
+    "name": "Ranis of India",
+    "startDate": "2025-03-08T19:00:00+05:30",
+    "endDate": "2025-03-08T20:30:00+05:30",
+    "description": "Ranis of India is a theatrical storytelling performance that brings to life the forgotten and lesser-known queens of India. Drawing from oral traditions and historical narratives, Vikram Sridhar weaves together tales of women rulers who shaped the course of history across different regions and time periods. \nOver the course of an hour, through the art of oral storytelling interwoven with folk songs, we embark on a journey across India\u2014uncovering the myths, histories, and contemporary echoes of remarkable queens whose legacies deserve to be remembered. From North to South, East to West, these powerful women left an indelible mark on history, yet their stories remain largely untold. This performance seeks to reclaim their voices and bring them to the forefront. \nThis event is part of\u00a0Unheard Narratives, BIC\u2019s programmes to commemorate Women\u2019s Day 2025. It celebrates the power of unheard narratives\u2014spotlighting the resilience, artistry, and impact of women whose stories have shaped India\u2019s cultural and social fabric. Through performances, talks, and films, we bring these voices to the forefront. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/ranis-of-india/",
+    "keywords": [
+      "Gender",
+      "Heritage",
+      "History",
+      "Performing Arts",
+      "Society",
+      "Theatre"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "TheaterPlay",
+      "name": "Ranis of India"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-736.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -236,27 +262,24 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "TheaterEvent",
-    "@id": "63762-1740769200-1740772800@bangaloreinternationalcentre.org",
-    "name": "The Earthquake",
-    "startDate": "2025-02-28T19:00:00+05:30",
-    "endDate": "2025-02-28T20:00:00+05:30",
-    "description": "\n54 minutes |\u00a0English, Hindi, Kannada | Suitable for 13+ Years\nTrigger Warnings: Themes of Loneliness\u00a0\n\n\n\n\nDo you ever feel alone, even when surrounded by people? Do you crave connection, even when it cracks a little? \nMira and Sameer meet every week, their meeting as familiar as the apple they share. They speak. Someone leaves. They do this again. And again. Mira goes on a boat ride. Sameer stays in a bubble. There is silence. And again. Mira and Sameer are friends\u2026 Yet, their unspoken words scream louder than their conversations. \nThis is a story of cycles. Of coming together, drifting apart, and all the spaces in between. \nWhat happens when we finally face our truth? Maybe we hear a strange noise\u2026 \nThis is an adaptation of \u201cBh\u016bmikampa \u2013 Das Erdbeben\u201d which received funding for International Cultural Projects from The Department of Arts and Culture of the City of Munich \n\n\nFrom the Playwrights (Samragni Dasgupta and Marvin Krause):\nTwo young artists from India and Germany meet on a farm in Bengaluru as part of an exchange program. They get to know each other and realise that cultural differences are just one aspect of human connection. They come together to develop something together. But what?The idea for this collaboration started with a conversation about loneliness. Above all, how loneliness is a common factor for young people in all countries. From loneliness to the intricacies of human relationships, two people began an intensive writing process to explore the many facets of human connection.\n\nFrom the Director:\n\u201cMira and Sameer find themselves surrounded by unspoken words. \u2018The Earthquake\u2019 delves into the essence of human relationships\u2014our connections, routines, distances, and all the spaces in between. It asks us what it means to be truly seen or heard. What happens when we finally face the unspoken truths in our interpersonal relationships?\u201d\n\n\n\u00a0 \nCredits: \nPlaywrights: Marvin Krause and Samragni Dasgupta\nDirector: Shania Mathew \nCast: \nMira: Samragni Dasgupta\nSameer: Naman Roy \nThe Earthquake received the Internationaler Kulturprojekte Grant 2023 from the Landeshauptstadt M\u00fcnchen Kulturreferat (City of Munich). \nProduced by\u00a0 \u00a0\u00a0 \n\nWith Support from \n\n \n\n",
-    "url": "https://bangaloreinternationalcentre.org/event/the-earthquake/",
+    "@type": "Event",
+    "@id": "70824-1740913200-1740918600@bangaloreinternationalcentre.org",
+    "name": "Grandmas\u2019 Grand Adventures",
+    "startDate": "2025-03-02T11:00:00+05:30",
+    "endDate": "2025-03-02T12:30:00+05:30",
+    "description": "Nanammal and Kamalathal are as different as they come. Except for one thing \u2013 they both love to travel! \nJoin us for three stories, all about Nanammal and Kamalathal\u2019s adventures through air, land and water as they set out to explore the world. \nWe\u2019ll also do a fun activity at the end for you to share something about your own grandmas! \n",
+    "url": "https://bangaloreinternationalcentre.org/event/grandmas-grand-adventures/",
     "keywords": [
-      "Performing Arts",
-      "Theatre"
+      "Books",
+      "Cities",
+      "Young BIC"
     ],
     "location": {
       "@type": "Place",
       "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
-    "inLanguage": "kn",
-    "workPerformed": {
-      "@type": "TheaterPlay",
-      "name": "The Earthquake"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-599.jpg"
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-722.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -287,48 +310,27 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "70824-1740913200-1740918600@bangaloreinternationalcentre.org",
-    "name": "Grandmas\u2019 Grand Adventures",
-    "startDate": "2025-03-02T11:00:00+05:30",
-    "endDate": "2025-03-02T12:30:00+05:30",
-    "description": "Nanammal and Kamalathal are as different as they come. Except for one thing \u2013 they both love to travel! \nJoin us for three stories, all about Nanammal and Kamalathal\u2019s adventures through air, land and water as they set out to explore the world. \nWe\u2019ll also do a fun activity at the end for you to share something about your own grandmas! \n",
-    "url": "https://bangaloreinternationalcentre.org/event/grandmas-grand-adventures/",
-    "keywords": [
-      "Books",
-      "Cities",
-      "Young BIC"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-722.jpg"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "MusicEvent",
-    "@id": "70636-1740769200-1740774600@bangaloreinternationalcentre.org",
-    "name": "Reeds and Keys",
-    "startDate": "2025-02-28T19:00:00+05:30",
-    "endDate": "2025-02-28T20:30:00+05:30",
-    "description": "This is a BIC Elsewhere event at Sabha: An Arts and Crafts Shaale. \nDmitry Rasul-Kareyev, Principal Clarinet with the Orchestre de la Suisse Romande in Geneva, and renowned Russian organist, Ekaterina Melnikova, will perform a range of music from Johann Sebastian Bach in the 17th century to Darius Milhaud in the 20th century, with a combination of instruments and repertoire rarely heard in Bangalore. The mother and son duo will also perform one of Ekaterina Melnikova\u2019s own compositions, \u201cMarch\u201d from Seasons. \n \n\u00a0 \nAbout BIC Elsewhere: \nWhile the majority of our events find a home at our premises in Domlur, BIC Elsewhere represents our commitment to bringing conversations, arts, and culture directly to diverse audiences. Through this initiative, we collaborate with various venues, extending the reach of our events beyond our own space. These partnerships not only breathe life into our gatherings but also play a crucial role in cultivating an environment for the flourishing of arts and culture in the city. \nIn collaboration with Shankaraa Foundation and Sabha \n\u00a0 \u00a0 \u00a0 \nSupported by Furtados and Steinway \n\u00a0 \u00a0\u00a0\u00a0 \n\u00a0 \n",
-    "url": "https://bangaloreinternationalcentre.org/event/reeds-and-keys/",
+    "@id": "71069-1741518000-1741525200@bangaloreinternationalcentre.org",
+    "name": "The Sarod Chronicles",
+    "startDate": "2025-03-09T11:00:00+05:30",
+    "endDate": "2025-03-09T13:00:00+05:30",
+    "description": "The Sarod, a relatively new introduction in the world of Hindustani classical music has established itself as one of the foremost instruments in this niche artform garnering love from all corners of the world. Originating from the Afghan Rebab, and demonstrated proficiently and intellectually by the masters of the senia Gwalior and Shahjahanpur gharanas, the Sarod was later received with open arms by the Maihar Gharana in the late 1800s, headed by Ustad Alauddin Khan, and popularised by his son Ustad Ali Akbar Khan as well as Pandit Ravi Shankar. \nThis morning concert features Abhishek Borkar, a pupil of the Sarod with roots in Maihar Gharana, through his father Pt. Shekhar Borkar, himself a disciple of Ustad Ali Akbar Khan. The performance will dive deep into the music of Maihar, as well as present intricate techniques of the Senia and Shahjahanpur gharanas, beautifully melding into a wholesome and rounded Sarod concert which will present tradition and modernity with just the right balance. \nYou will experience through this session, the impact and perception of an ancient tradition through a young lens, as well as the role global music plays in our everyday lives. \nSupported by: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/the-sarod-chronicles/",
     "keywords": [
       "Music",
       "Performing Arts"
     ],
     "location": {
       "@type": "Place",
-      "name": "Sabha: An Arts and Crafts Shaale, No.44/A, Kamaraj Rd, Bharati Nagar, Shivaji Nagar, Bengaluru, Karnataka, 560042, India"
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
     "inLanguage": "en",
     "workPerformed": {
       "@type": "CreativeWork",
-      "name": "Reeds and Keys"
+      "name": "The Sarod Chronicles"
     },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-726.jpg"
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-739.jpg"
   },
   {
     "@context": "https://schema.org",
