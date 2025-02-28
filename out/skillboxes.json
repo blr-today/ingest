@@ -101,7 +101,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Cover Charges 799/- Applicable At The Gates. Redeemable For F&B.\n",
-            "inventoryLevel": 132,
+            "inventoryLevel": 118,
             "name": "Phase 3 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ichika-nito-live-in-bangalore"
          },
@@ -155,7 +155,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Redeemable Cover Charge Applicable At Gates.\n",
-            "inventoryLevel": 393,
+            "inventoryLevel": 391,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/livebox-feat-the-aristocrats-bangalore"
          },
@@ -198,7 +198,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 799 cover charge applicable at the gates.\n",
-            "inventoryLevel": 419,
+            "inventoryLevel": 416,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-paper-kites-live-in-bangalore"
          },
@@ -291,6 +291,40 @@
       ],
       "startDate": "2025-03-02T20:00:00",
       "url": "https://www.skillboxes.com/events/ichika-nito-live-in-bangalore-meet-and-greet"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Caged x Mob Mind is back after a while with an incredible booking all the way from Portugal at Koramangala Social.LEWIS FAUTZIThe gleam of cosmic ligh",
+      "endDate": "2025-03-10T01:00:00",
+      "identifier": "com.skillboxes.19374",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Seventh Block, Plot 118, 80 Feet Rd, above Bodyworks Spa, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9354765",
+            "longitude": "77.6141533"
+         },
+         "name": "Koramangala Social"
+      },
+      "name": "Caged x Mob Mind ft. Lewis Fautzi + more",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/caged-x-mob-mind-ft-lewis-fautzi-more"
+         }
+      ],
+      "startDate": "2025-03-09T16:00:00",
+      "url": "https://www.skillboxes.com/events/caged-x-mob-mind-ft-lewis-fautzi-more"
    },
    {
       "@context": "https://schema.org",
@@ -949,7 +983,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charge Applicable\n",
-            "inventoryLevel": 99,
+            "inventoryLevel": 91,
             "name": "General Access",
             "url": "https://www.skillboxes.com/events/ticket/jackfruit-dance-party-ft-gst-priyansha-rishi-sippy-skye-that90-s-kid-indiranagar-social"
          }
@@ -1316,7 +1350,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Apply At Door\n",
-            "inventoryLevel": 296,
+            "inventoryLevel": 290,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/rock-n-roll-ode-to-80-s-rock-ft-six-blade-knife"
          }
@@ -1744,7 +1778,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 978,
+            "inventoryLevel": 965,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/kabir-vaani"
          }
@@ -1972,36 +2006,28 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Below 5 years only\n",
-            "inventoryLevel": 3000,
-            "name": "Early bird kids Entry",
-            "url": "https://www.skillboxes.com/events/ticket/rang-barse"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 500,
+            "inventoryLevel": 25,
             "name": "Early Bird Single Entry",
             "url": "https://www.skillboxes.com/events/ticket/rang-barse"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 500,
+            "inventoryLevel": 25,
             "name": "Early bird Couple entry",
             "url": "https://www.skillboxes.com/events/ticket/rang-barse"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 500,
+            "inventoryLevel": 25,
             "name": "Early bird group of 4 people entry",
             "url": "https://www.skillboxes.com/events/ticket/rang-barse"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 500,
+            "inventoryLevel": 25,
             "name": "Early bird Group of 6 people entry",
             "url": "https://www.skillboxes.com/events/ticket/rang-barse"
          }
@@ -2878,7 +2904,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 60,
+            "inventoryLevel": 37,
             "name": "Phase 2 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/manu-chao-india-tour-delhi-2"
          },
@@ -3320,7 +3346,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Discounted Phase 1 tickets.\nGrants entry to 1 person to the show. An additional cover charge is applicable at the venue which is fully redeemable for food and beverages.",
-            "inventoryLevel": 109,
+            "inventoryLevel": 107,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/modern-machines-volume-3"
          },
