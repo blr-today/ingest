@@ -126,6 +126,84 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "The most trending pop up in town is back this Sunday with a banger - CrossOver Edition with the Cercle Records sensation FEJKÁ (Live) at Kitty K",
+      "endDate": "2025-03-09T01:00:00",
+      "identifier": "com.skillboxes.19545",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "CrossOver ft. FEJKÁ / 9th Mar / Kitty Ko",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist-Couple",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-fejka-9th-mar-kitty-ko"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-fejka-9th-mar-kitty-ko"
+         }
+      ],
+      "startDate": "2025-03-08T20:00:00",
+      "url": "https://www.skillboxes.com/events/crossover-ft-fejka-9th-mar-kitty-ko"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "What if we redefined Women's Day? Not as a day of celebration alone, but as a catalyst for real conversation. UBM presents an event that challeng",
+      "endDate": "2025-03-09T23:59:00",
+      "identifier": "com.skillboxes.19539",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "14/7, Mahatma Gandhi Rd, near Andhra Bank",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12",
+            "longitude": "77"
+         },
+         "name": "AQUA"
+      },
+      "name": "Blooming - Women's Day event",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charge applicable post 7:30pm\n",
+            "inventoryLevel": 500,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/women-s-day-event"
+         }
+      ],
+      "startDate": "2025-03-09T17:00:00",
+      "url": "https://www.skillboxes.com/events/women-s-day-event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "The most trending pop up in town is back this Saturday with a banger – CrossOver Spring Edition featuring the electronic maestro BLOT! at the ic",
       "endDate": "2025-03-09T01:00:00",
       "identifier": "com.skillboxes.19524",
@@ -1163,32 +1241,6 @@
       ],
       "startDate": "2025-03-14T20:00:00",
       "url": "https://www.skillboxes.com/events/holi-habba-2025"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Get ready for the ultimate techno showcase in your city - PROTOCOL SUNDAYS! Catch the Innervisions Sensation Luke Garcia live at Kitty Ko this Sunday.",
-      "endDate": "2025-03-03T01:00:00",
-      "identifier": "com.skillboxes.19322",
-      "image": "",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Protocol ft. Luke Garcia / 2nd March / Kitty Ko",
-      "offers": [ ],
-      "startDate": "2025-03-02T20:00:00",
-      "url": "https://www.skillboxes.com/events/protocol-ft-luke-garcia-2nd-march-kitty-ko"
    },
    {
       "@context": "https://schema.org",
