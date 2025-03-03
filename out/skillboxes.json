@@ -1107,24 +1107,7 @@
          "name": "Kitty Ko"
       },
       "name": "Protocol ft. Luke Garcia / 2nd March / Kitty Ko",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM\n",
-            "inventoryLevel": 96,
-            "name": "Guestlist-Couple",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-luke-garcia-2nd-march-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 100,
-            "name": "Guestlist - Female",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-ft-luke-garcia-2nd-march-kitty-ko"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2025-03-02T20:00:00",
       "url": "https://www.skillboxes.com/events/protocol-ft-luke-garcia-2nd-march-kitty-ko"
    },
@@ -1321,7 +1304,42 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Open Air - Lawn Area - Rain Dance Setup Holi 2025\r\n\r\n \r\n\r\nWe are Back Once Again after\r\n\r\nBringing thousands of Smiles yet Again,\r\n\r\n \r\n\r\nWe",
+      "description": "Get ready for a day filled with 대박 (amazing) performances, cosplays, exciting games, hands-on workshops, and a high-energy afterparty. W",
+      "endDate": "2025-04-05T20:00:00",
+      "identifier": "com.skillboxes.19289",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Azure, Ground floor, Bellary Rd, next to Godrej Apartments, Hebbal Kempapura, Bengaluru, Karnataka 560092, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0554987",
+            "longitude": "77.5940471"
+         },
+         "name": "Hebbal SOCIAL"
+      },
+      "name": "K-Blossom by BlrGrooveCo",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges will be applicable at the Gates Post 4 PM\n",
+            "inventoryLevel": 19,
+            "name": "EARLY BIRDS",
+            "url": "https://www.skillboxes.com/events/ticket/k-blossom-by-blrgrooveco"
+         }
+      ],
+      "startDate": "2025-04-05T13:00:00",
+      "url": "https://www.skillboxes.com/events/k-blossom-by-blrgrooveco"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Open Air - Lawn Area - Setup Holi 2025\n\n \n\nWe are Back Once Again after\n\nBringing thousands of Smiles yet Again,\n&#10",
       "endDate": "2025-03-16T18:00:00",
       "identifier": "com.skillboxes.19278",
       "image": "",
@@ -1557,7 +1575,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 138,
+            "inventoryLevel": 136,
             "name": "Phase - 1",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-3-0-bangalore-edition"
          },
@@ -2008,7 +2026,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 189,
+            "inventoryLevel": 185,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/femme-fusion-at-the-raft"
          }
@@ -2774,7 +2792,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable throughout the event.\n",
-            "inventoryLevel": 965,
+            "inventoryLevel": 944,
             "name": "Guestlist - Male",
             "url": "https://www.skillboxes.com/events/ticket/hardground-hardground-bangalore-womens-day-edition"
          },
@@ -2782,7 +2800,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover starts from 9 PM.\n",
-            "inventoryLevel": 990,
+            "inventoryLevel": 978,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/hardground-hardground-bangalore-womens-day-edition"
          },
@@ -2790,7 +2808,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable throughout the event.\n",
-            "inventoryLevel": 989,
+            "inventoryLevel": 976,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/hardground-hardground-bangalore-womens-day-edition"
          },

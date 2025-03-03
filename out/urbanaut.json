@@ -1422,5 +1422,55 @@
       "Wellness",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Pop Art Painting Workshop",
+    "description": "\ud83c\udfa8\u2728 Unleash Your Inner Pop Icon! \u2728\ud83c\udfa8Join us for an exhilarating Pop Art Workshop at Fired Up in WhiteField, Bangalore! Get ready to dive into the vibrant world of pop art with an inspiring introduction on its history\u2014exploring legendary pop artists and their iconic works (yes, including the unforgettable Andy Warhol)! \ud83c\udf1f\ud83c\udfad\ud83d\udc69\u200d\ud83c\udfa8 Age Group: All Ages Welcome!Workshop Highlights:Introduction to Pop Art: Discover the evolution of pop art and learn about its legendary artists and their masterpieces.Hands-On Session: Follow a simple, step-by-step technique to create your own pop art portrait in Andy Warhol style using acrylic paints on cartridge sheets.Sketching Made Easy: Begin by drawing initial sketches. Not confident with sketching? No worries\u2014carbon papers will be provided!Personalized Artwork: Choose one image from 4 exclusive options provided to guide your portrait creation.Take Home: Your very own finished A3-size pop art masterpiece!So, what are you waiting for? Let\u2019s create, innovate, and bring the bold spirit of pop art to life!\ud83d\udcde Enroll Now!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B73A322E0F3741D0B101D5B2A3C7E176_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/96BF813163824B47AEF99A5A0DE437D7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/547FD9786E2449FFA0694DE85195DC0A_converted_webp.webp"
+    ],
+    "startDate": "2025-03-08T15:30:00+05:30",
+    "endDate": "2025-03-08T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Shop No. 5, 153 Biere St, Hagadur Main Rd, Prestige Ozone, Whitefield, Bengaluru, Karnataka 560066, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJmUUWvvoNrjsRrWm5L-WqRTU",
+      "latitude": "12.96278730000000000000",
+      "longitude": "77.75096800000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fired Up",
+      "description": "Dive into a world of creativity at Bangalore's premier craft studio. Our workshops provide all tools and supplies for a memorable experience, perfect for summer camps, weekend activities, birthdays, date activities, girls' nights out, or family fun.",
+      "url": "https://urbanaut.app/partner/firedup",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C2E1C2A73C73424E8B21B565BCD40306_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-72042-68464"
+      }
+    },
+    "url": "https://urbanaut.app/spot/pop-art-painting-workshop",
+    "keywords": [
+      "Art & culture",
+      "Leisure",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
