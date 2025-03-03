@@ -126,6 +126,127 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "The most trending pop up in town is back this Saturday with a banger – CrossOver Spring Edition featuring the electronic maestro BLOT! at the ic",
+      "endDate": "2025-03-09T01:00:00",
+      "identifier": "com.skillboxes.19524",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9726391",
+            "longitude": "77.6065987"
+         },
+         "name": "Pangeo"
+      },
+      "name": "CrossOver ft. BLOT / 8th Mar / Pangeo",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist-Couple",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-blot-8th-mar-pangeo"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/crossover-ft-blot-8th-mar-pangeo"
+         }
+      ],
+      "startDate": "2025-03-08T20:00:00",
+      "url": "https://www.skillboxes.com/events/crossover-ft-blot-8th-mar-pangeo"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "This Friday, we lock into a night of relentless rhythms and electrifying energy at GROOVE LOCK ⚡We’re beyond stoked to welcome the legenda",
+      "endDate": "2025-03-07T23:59:00",
+      "identifier": "com.skillboxes.19520",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9849438",
+            "longitude": "77.5808105"
+         },
+         "name": "The Burrow"
+      },
+      "name": "The Burrow Presents - Groove Lock ft. Tuhin Mehta, A.M. b2b Eratique Mynd & More",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover Charges applicable post 7pm\n",
+            "inventoryLevel": 497,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-groove-lock-ft-tuhin-mehta-a-m-b2b-eratique-mynd-more"
+         }
+      ],
+      "startDate": "2025-03-07T20:00:00",
+      "url": "https://www.skillboxes.com/events/the-burrow-presents-groove-lock-ft-tuhin-mehta-a-m-b2b-eratique-mynd-more"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Mic Drop - Naari Edition ✨This Women’s Day, let voices be heard and stories be celebrated! 🌸💜Step into an evening of poet",
+      "endDate": "2025-03-08T20:00:00",
+      "identifier": "com.skillboxes.19518",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9711356",
+            "longitude": "77.598164"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Mic Drop: Naari Edition - Open Mic By BlrGrooveCo",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "To support organizing the open mic, we expect you to buy a cup of coffee\n",
+            "inventoryLevel": 20,
+            "name": "Guest",
+            "url": "https://www.skillboxes.com/events/ticket/mic-drop-naari-edition-open-mic-by-blrgrooveco"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "To support organizing the open mic, we expect you to buy a cup of coffee\nYour performance theme should be \"Women\"",
+            "inventoryLevel": 19,
+            "name": "Performer",
+            "url": "https://www.skillboxes.com/events/ticket/mic-drop-naari-edition-open-mic-by-blrgrooveco"
+         }
+      ],
+      "startDate": "2025-03-08T17:00:00",
+      "url": "https://www.skillboxes.com/events/mic-drop-naari-edition-open-mic-by-blrgrooveco"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "*Rang Tarang Holi Carnival 2025*Get ready for the most epic Holi celebration in town!Join us at Aloft Whitefield on March 14th-16th, from 11am-7pm, as",
       "endDate": "2025-03-16T07:00:00",
       "identifier": "com.skillboxes.19515",
@@ -344,15 +465,25 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 50,
-            "name": "Single Early Bird (Full Cover - Food & Drinks)",
+            "description": "Includes food & drinks (alcoholic, non-alcoholic) worth Rs.399.\n",
+            "inventoryLevel": 19,
+            "name": "Early Bird Female (Full Cover - Food & Drinks)",
             "url": "https://www.skillboxes.com/events/ticket/sugar-room-x-locobear-loco-rave-dance-music-arcade"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 50,
-            "name": "Couple Early Bird (Full Cover - Food & Drinks)",
+            "description": "Includes food & drinks (alcoholic, non-alcoholic) worth Rs.499.\n",
+            "inventoryLevel": 20,
+            "name": "Early Bird Male (Full Cover - Food & Drinks)",
+            "url": "https://www.skillboxes.com/events/ticket/sugar-room-x-locobear-loco-rave-dance-music-arcade"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Includes food & drinks (alcoholic, non-alcoholic) worth Rs.799.\n",
+            "inventoryLevel": 19,
+            "name": "Early Bird Couple (Full Cover - Food & Drinks)",
             "url": "https://www.skillboxes.com/events/ticket/sugar-room-x-locobear-loco-rave-dance-music-arcade"
          }
       ],
@@ -576,58 +707,6 @@
       ],
       "startDate": "2025-03-08T11:00:00",
       "url": "https://www.skillboxes.com/events/rainbow-bridge-music-workshop-2"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Ratings of the Best Cricket Betting Platforms\n\n\n \n  \n   \n   Platform\n   \n   \n   Rating\n   \n   \n   Secu",
-      "endDate": "2025-03-04T21:06:00",
-      "identifier": "com.skillboxes.19432",
-      "image": "",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Festival & Fair"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "",
-            "longitude": ""
-         },
-         "name": "To Be Decided"
-      },
-      "name": "Why a Verified Cricket ID is Essential for Secure and Winning Online Bets",
-      "offers": [ ],
-      "startDate": "2025-03-04T11:06:00",
-      "url": "https://www.skillboxes.com/events/why-a-verified-cricket-id-is-essential-for-secure-and-winning-online-bets"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Rating: ⭐⭐⭐⭐⭐ (5/5)\n\nIntroduction\n\nCricket\nis one of the most beloved sports worldwide, with mi",
-      "endDate": "2025-03-06T22:00:00",
-      "identifier": "com.skillboxes.19428",
-      "image": "",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Festival & Fair"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "",
-            "longitude": ""
-         },
-         "name": "To Be Decided"
-      },
-      "name": "Top-Rated Cricket Betting Sites for Secure and Trustworthy Online Wagering",
-      "offers": [ ],
-      "startDate": "2025-03-06T08:02:00",
-      "url": "https://www.skillboxes.com/events/top-rated-cricket-betting-sites-for-secure-and-trustworthy-online-wagering"
    },
    {
       "@context": "https://schema.org",
