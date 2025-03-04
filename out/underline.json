@@ -1,41 +1,6 @@
 [
    {
       "@context": "https://schema.org",
-      "@type": "ScreeningEvent",
-      "endDate": "2025-03-04T17:00:00.000Z",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Funeral Parade of Roses (1969) with The Parallel Cinema Club",
-      "sameAs": "https://underline.center/t/334",
-      "startDate": "2025-03-04T14:15:00.000Z",
-      "url": "https://urbanaut.app/booking/funeral-parade-of-roses-1969-with-tpcc"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "SocialEvent",
       "endDate": "2025-03-05T17:00:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -107,7 +72,7 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2025-03-08T07:30:00.000Z",
+      "endDate": "2025-03-08T17:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -134,10 +99,10 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "The Sacred Body - An Expressive Arts Workshop by Swati Krishna Sharan",
-      "sameAs": "https://underline.center/t/332",
-      "startDate": "2025-03-08T05:30:00.000Z",
-      "url": "https://urbanaut.app/booking/the-sacred-body-an-expressive-arts-workshop"
+      "name": "Magic: The Gathering with ReRoll Board Games",
+      "sameAs": "https://underline.center/t/161",
+      "startDate": "2025-03-08T12:30:00.000Z",
+      "url": "https://forum.reroll.in/t/2201"
    },
    {
       "@context": "https://schema.org",
