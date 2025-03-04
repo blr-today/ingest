@@ -1531,5 +1531,103 @@
       "Wellness",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Rhythms of Her: Women\u2019s Day Dance Celebration",
+    "description": "Women's Day Special \u2728 Celebrate Women\u2019s Day with Every Step, as we Bring the best of Salsa, Bachata, Kizomba, Jive & Konpa Music by DJ Soma \ud83c\udfb6\ud83d\udd25 \ud83c\udf9f Entry: \u20b9500 (\u20b9300 Cover + \u20b9200 Entry) \ud83c\udf79 Offers: 2+1 on Cocktails & Select Beverages \ud83c\udf78\ud83c\udf77 \ud83c\udfbc Free Konpa Workshop (9:00 PM - 10:00 PM) \ud83c\udf1f SBK Nights (10:00 PM Onwards)  \ud83d\uddd3\ufe0f 8th March \ud83d\udcde For Reservations: +91 7348902555",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/59994199FC3A4DFA822B2085AF594FC0_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6F65A83DF170453393D6D912AA2319EC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EC620745943B4D07B65F07A6FBE09993_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E29209A2C13347969BA2BC253A48A06B_converted_webp.webp"
+    ],
+    "startDate": "2025-03-08T21:00:00+05:30",
+    "endDate": "2025-03-08T23:45:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "4th Floor, Magrath road, Garuda Mall Rd, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJA-a6lr4XrjsRyYiwBAzkf2A",
+      "latitude": "12.97005510000000000000",
+      "longitude": "77.61000410000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Karma & Kurry",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C9FE5FCEB66043F3BAE7C70C50B97D23_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-76762-01012"
+      }
+    },
+    "url": "https://urbanaut.app/spot/rhythms-of-her-womens-day-dance-celebration",
+    "keywords": [
+      "Food & drink",
+      "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Holi Pizza Picnic",
+    "description": "Holi + DIY Pizza Party at Lakehouse Garden Cafe!Get ready for a colourful, fun-filled Holi celebration like never before! Luca & Raf's Kitchen is teaming up with The LooRoo Club to bring you an exciting Holi + DIY Pizza Party at the beautiful Lakehouse Garden Cafe! For Kids Aged 3-8 \u2013 This isn\u2019t just a Holi party\u2026 it\u2019s a pizza adventure too!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4412EED7D3DA453CA7FDFC92519281EE_converted_webp.webp"
+    ],
+    "startDate": "2025-03-09T11:00:00+05:30",
+    "endDate": "2025-03-09T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Dr. Puneet Rajkumar Road, Dasarahalli Village, Lake, next to Rachenahalli, Rachenahalli, Hebbal, Bengaluru, Karnataka 560024, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJJ94qfqEZrjsRxskvcmSkq_o",
+      "latitude": "13.06226040000000000000",
+      "longitude": "77.61077310000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "1800.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The LooRoo Club",
+      "description": "The LooRoo Club (TLC) is a little world of big adventures. We create playful, nature-inspired experiences for kids - where stories come alive, curiosity runs wild, and messy hands mean happy hearts.",
+      "url": "https://urbanaut.app/partner/theloorooclub",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/bd4udfjhds-1711471103028page02jpg.JPG",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98865-01704"
+      }
+    },
+    "url": "https://urbanaut.app/spot/luca-rafs-holi-pizza-party",
+    "keywords": [
+      "Art & culture",
+      "Adventure",
+      "Festival",
+      "URBANAUT"
+    ]
   }
 ]

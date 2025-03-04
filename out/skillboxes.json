@@ -126,6 +126,97 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "We spend our lives building an identity perfecting an image and chasing an idea of ‘self’—but what if that self is nothing more than",
+      "endDate": "2025-03-07T20:00:00",
+      "identifier": "com.skillboxes.19571",
+      "image": "",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Religion & Spirituality"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "Beyond The Illusion I Free Webinar",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 30,
+            "name": "BTI FREE",
+            "url": "https://www.skillboxes.com/events/ticket/beyond-the-illusion-i-free-webinar"
+         }
+      ],
+      "startDate": "2025-03-07T19:00:00",
+      "url": "https://www.skillboxes.com/events/beyond-the-illusion-i-free-webinar"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "BOLLY HOLI B'LORE BIGGEST OPEN-AIR ROOFTOP HOLI PARTYGET READY FOR THE MOST VIBRANT HOLI CELEBRATION IN BANGALORE!  JOIN US AT AURUM BREW WO",
+      "endDate": "2025-03-16T17:00:00",
+      "identifier": "com.skillboxes.19570",
+      "image": "",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Holi 2025"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "3rd Floor, Gold Sand, Ambalipura - Sarjapur Rd, Doddakannelli, Bengaluru, Karnataka 560035, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9107114",
+            "longitude": "77.68565"
+         },
+         "name": "Aurum Brew Works"
+      },
+      "name": "Bolly Holi",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 111,
+            "name": "Early Bird Female",
+            "url": "https://www.skillboxes.com/events/ticket/bolly-holi"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 111,
+            "name": "Early Bird Male",
+            "url": "https://www.skillboxes.com/events/ticket/bolly-holi"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 111,
+            "name": "Early Bird Couple",
+            "url": "https://www.skillboxes.com/events/ticket/bolly-holi"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 111,
+            "name": "Group of 5",
+            "url": "https://www.skillboxes.com/events/ticket/bolly-holi"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 111,
+            "name": "Group of 10",
+            "url": "https://www.skillboxes.com/events/ticket/bolly-holi"
+         }
+      ],
+      "startDate": "2025-03-14T11:00:00",
+      "url": "https://www.skillboxes.com/events/bolly-holi"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "The most trending pop up in town is back this Sunday with a banger - CrossOver Edition with the Cercle Records sensation FEJKÁ (Live) at Kitty K",
       "endDate": "2025-03-09T01:00:00",
       "identifier": "com.skillboxes.19545",
@@ -271,7 +362,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges applicable post 7pm\n",
-            "inventoryLevel": 497,
+            "inventoryLevel": 487,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-groove-lock-ft-tuhin-mehta-a-m-b2b-eratique-mynd-more"
          }
@@ -306,7 +397,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "To support organizing the open mic, we expect you to buy a cup of coffee\n",
-            "inventoryLevel": 20,
+            "inventoryLevel": 14,
             "name": "Guest",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-naari-edition-open-mic-by-blrgrooveco"
          },
@@ -314,7 +405,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "To support organizing the open mic, we expect you to buy a cup of coffee\nYour performance theme should be \"Women\"",
-            "inventoryLevel": 19,
+            "inventoryLevel": 17,
             "name": "Performer",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-naari-edition-open-mic-by-blrgrooveco"
          }
@@ -1007,16 +1098,8 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Ladies free entry till 9pm. Cover applicable post 9pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
-            "inventoryLevel": 19,
+            "inventoryLevel": 13,
             "name": "Early Bird Female (Women's day waiver)",
-            "url": "https://www.skillboxes.com/events/ticket/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable post 7pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
-            "inventoryLevel": 30,
-            "name": "Early Bird Stags",
             "url": "https://www.skillboxes.com/events/ticket/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
          },
          {
@@ -1142,6 +1225,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Entry into a fun-filled day at The Night Market.\n",
             "inventoryLevel": 999,
             "name": "Early Bird Solo",
             "url": "https://www.skillboxes.com/events/ticket/the-night-market"
@@ -1149,6 +1233,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Group of 4 tickets provide entry for 4 people Perfect for enjoying The Night Market experience with your squad.\n",
             "inventoryLevel": 1000,
             "name": "Early Bird Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/the-night-market"
@@ -1156,8 +1241,17 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Group of 4 tickets provide entry for 4 people Perfect for enjoying The Night Market experience with your squad.\n",
             "inventoryLevel": 1000,
             "name": "Early Bird Group of 6",
+            "url": "https://www.skillboxes.com/events/ticket/the-night-market"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Regular Shopping Stall - You get a 10 X 10 Canopy with 3 tables (6X2), 2 chairs, a plug point and a light.\n",
+            "inventoryLevel": 1000,
+            "name": "Regular Shopping Stall",
             "url": "https://www.skillboxes.com/events/ticket/the-night-market"
          }
       ],
@@ -1446,7 +1540,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 29,
+            "inventoryLevel": 26,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/sangam-sound-sessions-05"
          },
@@ -1523,7 +1617,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges will be applicable at the Gates Post 4 PM\n",
-            "inventoryLevel": 19,
+            "inventoryLevel": 18,
             "name": "EARLY BIRDS",
             "url": "https://www.skillboxes.com/events/ticket/k-blossom-by-blrgrooveco"
          }
@@ -1770,7 +1864,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 136,
+            "inventoryLevel": 133,
             "name": "Phase - 1",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-3-0-bangalore-edition"
          },
@@ -2076,65 +2170,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Parikrama Tour | 28th March | Bangalore\r\n\r\n \r\n\r\nParikrama is a legendary Rock band and completes 34 years this season. The band was officially fo",
-      "endDate": "2025-03-28T23:59:00",
-      "identifier": "com.skillboxes.19025",
-      "image": "",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Mantri Avenue",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9453634",
-            "longitude": "77.6198713"
-         },
-         "name": "Sunburn Union Bengaluru"
-      },
-      "name": "Parikrama Tour | 28th March | Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticket grants entry to 1 individual at the event. Mandatory cover charge per person  applicable at the venue before entry.  The cover charge amount is redeemable against Food & Beverage at the event area.\n",
-            "inventoryLevel": 161,
-            "name": "Early Bird - General - Single Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/parikrama-tour-28th-march-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticket grants entry to 1 individual at the event. Mandatory cover charge per person applicable at the venue before entry.  The cover charge amount is redeemable against Food & Beverage at the event area. Includes 1 Parikarma T-Shirt delivered at your doorstep. Details will be shared over an email to book your T-Shirts.\n",
-            "inventoryLevel": 97,
-            "name": "Early Bird - Head Bangers - Single Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/parikrama-tour-28th-march-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticket grants entry to 1 individual at the event. Mandatory cover charge per person  applicable at the venue before entry.  The cover charge amount is redeemable against Food & Beverage at the event area.\n",
-            "inventoryLevel": 500,
-            "name": "Phase 1 - General - Single Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/parikrama-tour-28th-march-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "This ticket grants entry to 1 individual at the event. Mandatory cover charge per person applicable at the venue before entry.  The cover charge amount is redeemable against Food & Beverage at the event area. Includes 1 Parikarma T-Shirt delivered at your doorstep. Details will be shared over an email to book your T-Shirts.\n",
-            "inventoryLevel": 100,
-            "name": "Phase 1 - Head Bangers - Single Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/parikrama-tour-28th-march-bangalore"
-         }
-      ],
-      "startDate": "2025-03-28T20:00:00",
-      "url": "https://www.skillboxes.com/events/parikrama-tour-28th-march-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Holi 2025 – The Ultimate Festival of Colors!\r\n\r\nGet ready for the most electrifying Holi celebration in town on 14th & 15th March 2025! Imme",
       "endDate": "2025-03-14T16:00:00",
       "identifier": "com.skillboxes.18989",
@@ -2221,7 +2256,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 185,
+            "inventoryLevel": 183,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/femme-fusion-at-the-raft"
          }
@@ -2704,7 +2739,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Lemon Tree Suites \r\n\r\nPresents\r\n\r\n \r\n\r\nWhitefield Biggest Holi Celebration \r\n\r\nRANG DE 2025 : Season 7 \r\n\r\nOpen Air - Lawn Area - ",
+      "description": "Lemon Tree Suites \n\nPresents\n\n \n\nWhitefield Biggest Holi Celebration \n\nRANG DE 2025 : Season 7 &#1",
       "endDate": "2025-03-16T18:00:00",
       "identifier": "com.skillboxes.18836",
       "image": "",
@@ -2722,7 +2757,7 @@
          },
          "name": "Lemon Tree Suites ,Whitefield, Bengaluru"
       },
-      "name": "RANG DE 2025 : Season 7",
+      "name": "Rang De 2025 - Whitefield Biggest Holi Celebration",
       "offers": [
          {
             "@type": "Offer",
@@ -2794,7 +2829,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "BYOB\n",
-            "inventoryLevel": 190,
+            "inventoryLevel": 490,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/live-loud-vol-2"
          }
@@ -2987,7 +3022,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable throughout the event.\n",
-            "inventoryLevel": 944,
+            "inventoryLevel": 922,
             "name": "Guestlist - Male",
             "url": "https://www.skillboxes.com/events/ticket/hardground-hardground-bangalore-womens-day-edition"
          },
@@ -2995,7 +3030,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover starts from 9 PM.\n",
-            "inventoryLevel": 978,
+            "inventoryLevel": 971,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/hardground-hardground-bangalore-womens-day-edition"
          },
@@ -3003,7 +3038,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable throughout the event.\n",
-            "inventoryLevel": 976,
+            "inventoryLevel": 972,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/hardground-hardground-bangalore-womens-day-edition"
          },
