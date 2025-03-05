@@ -486,6 +486,55 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "The BOOB Talk you never got",
+    "description": "Join us for a fun evening on bra fit and breast health led by the incredible Aayushi Kanodia, an immunologist turned entrepreneur, certified lingerie designer, body positivity advocate, and Founder of Bands and Cups.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3D90154A663D4E94A2A66FC5308A08FF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AE6ED7CEA72544959E9EAC8116F1776F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/665B35E550654019AF8798D5A525D234_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EA0E0E86E5E048368F77A5B5E823A18C_converted_webp.webp"
+    ],
+    "startDate": "2025-03-08T16:00:00+05:30",
+    "endDate": "2025-03-08T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/boobtalk",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Streets, Stories & Sankey \u2013 Walk Through Bangalore",
     "description": "\u200bStep into the heart of Bangalore as we take a stroll through history, culture, and the city\u2019s hidden gems. We begin our journey at\u00a0Sankey Tank, a serene artificial lake in the western part of the city, surrounded by the vibrant neighborhoods of\u00a0Malleshwaram, Vyalikaval, and Sadashivnagar. With its lush greenery and peaceful waters, Sankey Tank sets the perfect tone for a walk through Bangalore\u2019s old-world charm.\u200bFrom here, we head to\u00a0Malleshwaram, a centuries-old residential area known for its rich local history,\u00a0ancient temples, and iconic South Indian eateries.\u200bOur journey then leads us through\u00a0Sadashivnagar, a striking contrast to Malleshwaram\u2019s energy. This elegant, tree-lined neighborhood is known for its expansive homes, tranquil ambiance, and glimpses of Bangalore\u2019s colonial and modern architectural influences. Here, you\u2019ll see how the city\u2019s legacy gracefully blends with contemporary living.\u200bWe complete our loop back at\u00a0Sankey Tank, where you can take in one last view of the lake as we wrap up this immersive experience.\u200b\ud83d\udccd\u00a0Starting Point:\u00a0Sankey Tank (Free parking available)\ud83d\udeb6\u200d\u2642\ufe0f\u00a0Route:\u00a0Sankey Tank \u2192 Malleshwaram \u2192 Sadashivnagar \u2192 Back to Sankey\ud83d\udcac\u00a0What to Expect:\u00a0Local perspective, hidden gems, and a taste of Bangalore\u2019s unique characterWhether you're a history buff, a food lover, or enjoy the nostalgia of Bangalore\u2019s past, you'll love it.Come walk with us.\u00a0Let the city tell you its story.\u00a0\ud83c\udf3f\u2728 \ud83c\udf3f\u2728",
     "image": [
@@ -1281,6 +1330,208 @@
       "Live GIG",
       "Music",
       "Festival",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pop-Up Brunch with Bao To Me",
+    "description": "Bao to Me started as an idea between three friends from Bangalore who wanted to bring vibrant Pan-Asian flavors to your plate\u2014going beyond just baos. It\u2019s a place where authenticity, tradition, and a touch of fun come together in every dish.Inspired by our chef\u2019s childhood and Bangalore\u2019s rich culinary heritage, our food philosophy is all about blending tradition with creativity. We serve the kind of food we\u2019ve always wanted to eat\u2014authentic, unpretentious, and ridiculously good.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5C36D47AA19041968ABE7A387C186C06_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C3A9FDDEEA2C42CF8D1438B79CFECC5F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EB1A3BB0DFA240C5B4229C2A2325B6C6_converted_webp.webp"
+    ],
+    "startDate": "2025-03-08T11:00:00+05:30",
+    "endDate": "2025-03-08T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1st Floor, 5th, Block, 136, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJQRgfDgAVrjsRz1KBWADu4d4",
+      "latitude": "12.93371430000000000000",
+      "longitude": "77.62149930000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Pour Room",
+      "description": "A collaborative space by Blue Tokai and Fratelli, focused on coffee, wine, and experimental experiences.",
+      "url": "https://urbanaut.app/partner/thepourroom",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/15C8B4C18A914FDA8D19FB4E4B117CD3_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98187-02861"
+      }
+    },
+    "url": "https://urbanaut.app/spot/pop-up-brunch-with-bao-to-me#2025-03-08T1100",
+    "keywords": [
+      "Food & drink",
+      "Premium",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pop-Up Brunch with Bao To Me",
+    "description": "Bao to Me started as an idea between three friends from Bangalore who wanted to bring vibrant Pan-Asian flavors to your plate\u2014going beyond just baos. It\u2019s a place where authenticity, tradition, and a touch of fun come together in every dish.Inspired by our chef\u2019s childhood and Bangalore\u2019s rich culinary heritage, our food philosophy is all about blending tradition with creativity. We serve the kind of food we\u2019ve always wanted to eat\u2014authentic, unpretentious, and ridiculously good.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5C36D47AA19041968ABE7A387C186C06_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C3A9FDDEEA2C42CF8D1438B79CFECC5F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EB1A3BB0DFA240C5B4229C2A2325B6C6_converted_webp.webp"
+    ],
+    "startDate": "2025-03-09T11:00:00+05:30",
+    "endDate": "2025-03-09T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1st Floor, 5th, Block, 136, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJQRgfDgAVrjsRz1KBWADu4d4",
+      "latitude": "12.93371430000000000000",
+      "longitude": "77.62149930000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Pour Room",
+      "description": "A collaborative space by Blue Tokai and Fratelli, focused on coffee, wine, and experimental experiences.",
+      "url": "https://urbanaut.app/partner/thepourroom",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/15C8B4C18A914FDA8D19FB4E4B117CD3_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98187-02861"
+      }
+    },
+    "url": "https://urbanaut.app/spot/pop-up-brunch-with-bao-to-me#2025-03-09T1100",
+    "keywords": [
+      "Food & drink",
+      "Premium",
+      "Pop-up Event",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Persian Mandala Painting Workshop",
+    "description": "Persian mandalas are a significant element in Persian art and architecture, known for their intricate geometric patterns and deep symbolic meanings. While mandalas are often associated with India and Buddhism, they have also been widely used in Persian design to represent harmony and the universe.In this workshop, you\u2019ll create your own Persian mandala painting on A3 cartridge sheets using acrylic colors.Perfect activity for Teens and Adults",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/548FF3E7225D412E934D8B83D30432CD_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/788702AE0947439BA0D82C2460A74DB9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/37841B41B7B24E759A1A3F4BBA036E07_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D8594BADDBDF42A09BBD97B5C512F78F_converted_webp.webp"
+    ],
+    "startDate": "2025-03-07T11:00:00+05:30",
+    "endDate": "2025-03-07T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Shop No. 5, 153 Biere St, Hagadur Main Rd, Prestige Ozone, Whitefield, Bengaluru, Karnataka 560066, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJmUUWvvoNrjsRrWm5L-WqRTU",
+      "latitude": "12.96278730000000000000",
+      "longitude": "77.75096800000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fired Up",
+      "description": "Dive into a world of creativity at Bangalore's premier craft studio. Our workshops provide all tools and supplies for a memorable experience, perfect for summer camps, weekend activities, birthdays, date activities, girls' nights out, or family fun.",
+      "url": "https://urbanaut.app/partner/firedup",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C2E1C2A73C73424E8B21B565BCD40306_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-72042-68464"
+      }
+    },
+    "url": "https://urbanaut.app/spot/persian-mandala-painting-workshop",
+    "keywords": [
+      "Art & culture",
+      "History & heritage",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Cuban Art Workshop",
+    "description": "\ud83c\udfa8 Escape to Havana Without Leaving Town! Experience the vibrant culture, colors, and stories of Cuba through art.Immerse yourself in the vibrant world of Cuban contemporary art, rich in history and bold expression. Choose between two iconic themes\u2014urban landscapes or the Cuban woman with cigars\u2014and bring them to life with acrylics on cartridge sheets. Experience the essence of Havana through color and culture in this unforgettable workshop and take home one A3 size masterpiece!\ud83c\udf08 Havana Hues & Expressive Views! Play with bold, fiery colors and expressive strokes to bring your artwork to life.\ud83d\udd8c No Experience? No Problem! Whether you're a pro or just love to dabble, this workshop is all about creativity and fun.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B04A22168B064253BB6D588F44CC438E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1017206961BD4BFE97D4940D4D2F3BE3_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B62766FEEC0B4192AE85A0544E94EF9A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9A78A3E001D44DDB9FD69B07B1DBDD76_converted_webp.webp"
+    ],
+    "startDate": "2025-03-07T15:30:00+05:30",
+    "endDate": "2025-03-07T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Shop No. 5, 153 Biere St, Hagadur Main Rd, Prestige Ozone, Whitefield, Bengaluru, Karnataka 560066, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJmUUWvvoNrjsRrWm5L-WqRTU",
+      "latitude": "12.96278730000000000000",
+      "longitude": "77.75096800000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fired Up",
+      "description": "Dive into a world of creativity at Bangalore's premier craft studio. Our workshops provide all tools and supplies for a memorable experience, perfect for summer camps, weekend activities, birthdays, date activities, girls' nights out, or family fun.",
+      "url": "https://urbanaut.app/partner/firedup",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C2E1C2A73C73424E8B21B565BCD40306_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-72042-68464"
+      }
+    },
+    "url": "https://urbanaut.app/spot/cuban-art-workshop",
+    "keywords": [
+      "Art & culture",
+      "Leisure",
+      "Workshop",
       "URBANAUT"
     ]
   }
