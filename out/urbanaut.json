@@ -1769,5 +1769,55 @@
       "Workshop",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Framing Motions",
+    "description": "Ronita Mookerji is a choreographer, performer, and contemporary dance artist with 16+ years of experience in interdisciplinary movement arts. She was a Senior Movement Artist at Attakkalari Dance Company for over seven years. Trained in Bharatanatyam for over 25 years and Odissi for two, she is also a certified yoga teacher and Animal Flow practitioner. A graduate of Attakkalari\u2019s Diploma in Movement Arts and Mixed Media, she has trained in Kalaripayattu, Ballet, and Contact Improvisation.As a movement educator, Ronita has taught at institutions like Drama School Mumbai, FTII Pune, and Christ University Bangalore. She has performed and conducted workshops internationally, integrating contemporary dance, Kalaripayattu, and movement exploration.In this unique workshop, Ronita brings her deep dance experience into Animal Flow, blending strength, fluidity, and expressive movement for a dynamic and immersive session.We will incorporate lip smacking dishes from our signature kitchen into the brunch. We're so excited about this unique event because it\u2019s more than just a dance, animal flow session or a brunch, it\u2019s an experience that designed to recharge your body, and syncing with some primal movements.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0A25D5E1F35D4322B783558AA4328509_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DF0CA5D499254745A446928607956055_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E5CC0B2EF77B41B88393DD528B795C89_converted_webp.webp"
+    ],
+    "startDate": "2025-03-23T12:00:00+05:30",
+    "endDate": "2025-03-23T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/framingmotion",
+    "keywords": [
+      "Active",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
