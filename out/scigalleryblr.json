@@ -82,5 +82,68 @@
       }
     ],
     "maximumAttendeeCapacity": 50
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Flexible Hybrid Perovskite Solar Cells: The Future of Renewable Energy",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-03-16T16:00:00+05:30",
+    "endDate": "2025-03-16T18:00:00+05:30",
+    "description": "What if solar panels weren\u2019t just rigid structures on rooftops, but lightweight, bendable materials that could wrap around buildings, power wearable devices, and generate energy in remote locations?<br><br>Flexible hybrid perovskite solar cells are making this possible by combining high-efficiency perovskite materials with lightweight, flexible properties.<br>With power conversion efficiencies exceeding 25% and low-cost, solution-based fabrication, these solar cells can adapt to curved and dynamic surfaces, opening up new possibilities for energy harvesting.<br><br>Join Laxman Gouda as he explores the world of flexible hybrid perovskite solar cells, uncovering their potential, challenges, and role in shaping a more sustainable future.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=flexible-hybrid-solar-cells",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Laxman-Gouda"
+      }
+    ],
+    "maximumAttendeeCapacity": 50
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Rethinking Urban Flooding: Towards a Resilient Bengaluru",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-03-15T11:00:00+05:30",
+    "endDate": "2025-03-15T14:00:00+05:30",
+    "description": "What makes a city resilient to floods, and What role does technology play in predicting and managing urban floods?<br><br>Join Rajarshi Das Bhowmick as he dives into the complexities of urban flooding, with a focus on Bangalore\u2019s unique challenges and mitigation strategies. He will explore the urban flood dynamics and introduce the Bangalore Urban Flood Model, demonstrating its role in forecasting and risk management. <br><br>Participants will engage in hands-on activities using Google Earth Engine to analyze flood-prone areas and evaluate mitigation measures. Furthermore, he will explore practical flood management solutions that integrate technology and policy approaches.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=rethinking-urban-flooding",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Rajarshi-Das-Bhowmik"
+      }
+    ],
+    "maximumAttendeeCapacity": 40
+  },
+  {
+    "@type": "Event",
+    "name": "Map-a-Lore: Sci560 Exhibition Walkthrough",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-03-16T12:00:00+05:30",
+    "endDate": "2025-03-16T13:30:00+05:30",
+    "description": "We have all seen maps, read them, and maybe even created a few. But have you ever stopped to wonder - what makes a map?<br><br>Is it just a way to represent places, or could it reveal something more? Maps don\u2019t just chart landscapes; they shape how we see the world, understand our history, and navigate the unknown.<br><br>Join Upasana and Akshad for Map-a-Lore, where they rethink mapping beyond borders and blueprints. From historical maps and masterplans that shaped Bengaluru to constellations in the night sky and biomolecules, we invite you to discover how mapping extends into science, culture, and even the cosmos.<br><br>Come explore, question, and see maps in a whole new way!",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=map-a-lore",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sgb-Team"
+      }
+    ],
+    "maximumAttendeeCapacity": 60
   }
 ]

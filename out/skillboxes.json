@@ -644,7 +644,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 100,
+            "inventoryLevel": 98,
             "name": "Female Guestlist Pass",
             "url": "https://www.skillboxes.com/events/ticket/lumara-blr-presents-sips-stilettos-an-international-women-s-day-celebration"
          },
@@ -821,7 +821,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge applicable post 7:30pm\n",
-            "inventoryLevel": 495,
+            "inventoryLevel": 486,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/women-s-day-event"
          }
@@ -899,7 +899,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges applicable post 7pm\n",
-            "inventoryLevel": 479,
+            "inventoryLevel": 455,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-presents-groove-lock-ft-tuhin-mehta-a-m-b2b-eratique-mynd-more"
          }
@@ -942,7 +942,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "To support organizing the open mic, we expect you to buy a cup of coffee\nYour performance theme should be \"Women\"",
-            "inventoryLevel": 13,
+            "inventoryLevel": 12,
             "name": "Performer",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-naari-edition-open-mic-by-blrgrooveco"
          }
@@ -1236,19 +1236,19 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "If you come before 5 PM, the entry will be free.\n",
-            "inventoryLevel": 46,
+            "inventoryLevel": 35,
             "name": "Free Entry Before 5 PM",
             "url": "https://www.skillboxes.com/events/ticket/sugar-room-x-locobear-loco-rave-dance-music-arcade"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 100,
+            "inventoryLevel": 99,
             "name": "FULL COVER (Alcohol & Food)",
             "url": "https://www.skillboxes.com/events/ticket/sugar-room-x-locobear-loco-rave-dance-music-arcade"
          }
       ],
-      "startDate": "2025-03-08T17:00:00",
+      "startDate": "2025-03-08T16:00:00",
       "url": "https://www.skillboxes.com/events/sugar-room-x-locobear-loco-rave-dance-music-arcade"
    },
    {
@@ -1625,24 +1625,64 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Ladies free entry till 9pm. Cover applicable post 9pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
-            "inventoryLevel": 13,
-            "name": "Early Bird Female (Women's day waiver)",
-            "url": "https://www.skillboxes.com/events/ticket/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable post 8pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
-            "inventoryLevel": 15,
-            "name": "Early Bird Couples",
+            "description": "Cover charges applicable post 7pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
+            "inventoryLevel": 24,
+            "name": "Phase 1: Stags - Limited Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable post 9pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
-            "inventoryLevel": 10,
+            "inventoryLevel": 50,
+            "name": "Phase 1: Ladies Women's Day Waiver",
+            "url": "https://www.skillboxes.com/events/ticket/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 9pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
+            "inventoryLevel": 28,
+            "name": "Phase 1: Couples (Limited Guestlist)",
+            "url": "https://www.skillboxes.com/events/ticket/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 9pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
+            "inventoryLevel": 15,
+            "name": "Phase 1: Backstage Access",
+            "url": "https://www.skillboxes.com/events/ticket/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Cover charges applicable post 7pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
+            "inventoryLevel": 0,
+            "name": "Early Bird Stags",
+            "url": "https://www.skillboxes.com/events/ticket/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Ladies free entry till 9pm. Cover applicable post 9pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
+            "inventoryLevel": 0,
+            "name": "Early Bird Female (Women's day waiver)",
+            "url": "https://www.skillboxes.com/events/ticket/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Cover charges applicable post 8pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
+            "inventoryLevel": 0,
+            "name": "Early Bird Couples",
+            "url": "https://www.skillboxes.com/events/ticket/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Cover charges applicable post 9pm\nContact for group discounts and table bookings: 9388325373, 7026745652",
+            "inventoryLevel": 0,
             "name": "Early Bird Backstage Access",
             "url": "https://www.skillboxes.com/events/ticket/rampage-featuring-lestrange-curated-by-nexus-x-frequenz"
          }
@@ -1758,7 +1798,7 @@
       "description": "Hotel Davanam Sarovar Portico Presents Rang De Bengaluru 2025 - Biggest Open Air Holi Celebration.\r\n\r\n \r\n\r\nAfter Breaking All Records In New Year",
       "endDate": "2025-03-15T18:00:00",
       "identifier": "com.skillboxes.19335",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17405745749nUXcuMvlDwRqejB.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17412487163DPfg3n9A6nYGfSM.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Holi 2025"
@@ -2082,7 +2122,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 16,
+            "inventoryLevel": 14,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/sangam-sound-sessions-05"
          },
@@ -2159,7 +2199,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges will be applicable at the Gates Post 4 PM\n",
-            "inventoryLevel": 17,
+            "inventoryLevel": 16,
             "name": "EARLY BIRDS",
             "url": "https://www.skillboxes.com/events/ticket/k-blossom-by-blrgrooveco"
          }
@@ -2173,7 +2213,7 @@
       "description": "Open Air - Lawn Area - Setup Holi 2025\n\n \n\nWe are Back Once Again after\n\nBringing thousands of Smiles yet Again,\n&#10",
       "endDate": "2025-03-16T18:00:00",
       "identifier": "com.skillboxes.19278",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1740983812WHz5yppzOTadqFUH.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/174124706708yO5Mnt6Dd3wJxt.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Holi 2025"
@@ -2228,7 +2268,7 @@
       "description": "HELLO BENGALURU - LETS PARTY UNDER THE SKY.\r\n\r\n \r\n\r\nRANG UTSAV 2025 \r\n\r\n( THE BIGGEST RAIN DANCE HOLI PARTY IN BANGALORE )\r\n\r\n \r\n\r\n- 3 ",
       "endDate": "2025-03-16T18:00:00",
       "identifier": "com.skillboxes.19277",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17403979561Gf7MjXKq1FFt5xs.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1741246610XVRHvTyyTGn3E7eZ.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Holi 2025"
@@ -2276,7 +2316,7 @@
       "description": "Get ready for the Biggest Holi Festival in Bengaluru! Immerse yourself in the vibrant spirit of Holi with an unforgettable lineup of events and perfor",
       "endDate": "2025-03-16T18:00:00",
       "identifier": "com.skillboxes.19276",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1740397718eFoKMWv5BJRB0x1H.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1741247412k2TvMCP4eOzk2kgG.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Holi 2025"
@@ -2331,7 +2371,7 @@
       "description": "Bengaluru Largest Bar & Kitchen , TALL OAKS WHITEFIELD \r\n\r\n \r\n\r\nPresents \r\n\r\n \r\n\r\nFOREST THEME HOLI PARTY.\r\n\r\nFirst Time Ever ",
       "endDate": "2025-03-15T18:00:00",
       "identifier": "com.skillboxes.19274",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1740397041l0MGBVoIL3zXmgBl.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1741247230yw4qwG9adBVdYtzw.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Holi 2025"
@@ -2857,7 +2897,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 182,
+            "inventoryLevel": 178,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/femme-fusion-at-the-raft"
          }
@@ -3343,7 +3383,7 @@
       "description": "Lemon Tree Suites \n\nPresents\n\n \n\nWhitefield Biggest Holi Celebration \n\nRANG DE 2025 : Season 7 &#1",
       "endDate": "2025-03-16T18:00:00",
       "identifier": "com.skillboxes.18836",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1740984923dMS0alE8jQdz0voD.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/174124916177zCSr0BYcqMoLOp.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Holi 2025"
@@ -3623,7 +3663,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable throughout the event.\n",
-            "inventoryLevel": 893,
+            "inventoryLevel": 870,
             "name": "Guestlist - Male",
             "url": "https://www.skillboxes.com/events/ticket/hardground-hardground-bangalore-womens-day-edition"
          },
@@ -3631,7 +3671,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover starts from 9 PM.\n",
-            "inventoryLevel": 961,
+            "inventoryLevel": 952,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/hardground-hardground-bangalore-womens-day-edition"
          },
@@ -3639,7 +3679,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable throughout the event.\n",
-            "inventoryLevel": 958,
+            "inventoryLevel": 947,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/hardground-hardground-bangalore-womens-day-edition"
          },
@@ -3647,7 +3687,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover starts from 9 PM.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 996,
             "name": "GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/hardground-hardground-bangalore-womens-day-edition"
          },
