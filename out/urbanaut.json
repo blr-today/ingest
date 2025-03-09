@@ -363,7 +363,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -414,7 +414,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -451,8 +451,8 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5D79A549BEC34457912573EB955B7236_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/91153DB1234D4E7EB9AD658F32744013_converted_webp.webp"
     ],
-    "startDate": "2025-03-08T10:00:00+05:30",
-    "endDate": "2025-03-08T12:00:00+05:30",
+    "startDate": "2025-03-09T10:00:00+05:30",
+    "endDate": "2025-03-09T12:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -463,7 +463,7 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 16,
+    "maximumAttendeeCapacity": 20,
     "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "5+",
     "offers": {
@@ -483,108 +483,10 @@
         "telephone": "+91-97416-19560"
       }
     },
-    "url": "https://urbanaut.app/spot/vizag-tiffin#2025-03-08T1000",
+    "url": "https://urbanaut.app/spot/vizag-tiffin",
     "keywords": [
       "Food & drink",
       "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Vizag's Non-Veg Tiffin Series",
-    "description": "Anu Aunty\u2019s Andhra Non-Veg Breakfast at TijouriThere\u2019s something deeply comforting about a meal made with love, and Anu Aunty has spent a lifetime doing just that. Hailing from Vizag, she mastered Andhra home cooking at 16, turning her passion into a small yet beloved business.While Bangalore has many Andhra restaurants, nowhere will you find a traditional non-veg Andhra breakfast\u2014a weekend ritual in many homes.For the first time, Tijouri brings you this nostalgic feast.Her menu features: Soft Pooris, Homemade Onion Vada, Upma, Idli & DosaMutton Curry, Natu Kodi Pulusu (country chicken curry), Prawns with Ridge Gourd, Bagara Rice & Potato CurrySignature Pickles \u2013 Tomato, Ginger & Chicken\u00a0Payasam, Boorelu & Bellam BoondhiTerms & Conditions:Please arrive punctually.Late arrivals may miss the first few courses.Booking Fee are non-refundable under all circumstances once booked.Tickets are transferrable to a third party.No shows/ cancellations will not be refunded, but you can reschedule your booking for within the week 48hrs before your slot is due.Alcohol will not be served to guests under the age of 21No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.The booking fee total includes the online transaction fee.Parking at the event premises is at the risk of the vehicle owner.Valet is available.Photographs and videos of ticket holders may be uploaded to social media. In case you do not wish to be featured, let our team know.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5D79A549BEC34457912573EB955B7236_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/91153DB1234D4E7EB9AD658F32744013_converted_webp.webp"
-    ],
-    "startDate": "2025-03-09T10:00:00+05:30",
-    "endDate": "2025-03-09T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "1, Palace Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJx154PW0WrjsREG4GX2L3FuI",
-      "latitude": "12.98023500000000000000",
-      "longitude": "77.58606100000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 16,
-    "remainingAttendeeCapacity": 2,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1700.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Tijouri",
-      "description": null,
-      "url": "https://urbanaut.app/partner/tijouri",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/985742089C9A4D15B189CA4035297B9A_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97416-19560"
-      }
-    },
-    "url": "https://urbanaut.app/spot/vizag-tiffin#2025-03-09T1000",
-    "keywords": [
-      "Food & drink",
-      "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Tribute to Midnight Diner: Tokyo by Chef Anumitra",
-    "description": "Bento Bento Presents: A Tribute to Midnight Diner \u2013 Tokyo Stories by Chef AnumitraDuring the days of pandemic binge-watching, one series that captured hearts worldwide was the gentle and deeply human\u00a0Midnight Diner: Tokyo Stories. Inspired by its warmth and storytelling, Chef Anumitra\u2014after her successful\u00a0Studio Ghibli\u00a0tribute pop-up\u2014now brings a heartfelt culinary homage to this beloved series at Bento Bento in 2025.Just like in\u00a0Midnight Diner, where a late-night eatery in Tokyo serves dishes that resonate deeply with its customers' emotions and stories, this pop-up will offer a curated menu featuring comfort dishes that bring both nostalgia and joy, featuring authentic Japanese ingredients, such as umeboshi, katsuobushi soyu, and Japanese mayo. Don't miss this chance to be a part of a comforting late-night community, in our cozy yet cute space, Bento Bento in Indiranagar.Menu: Midnight Diner \u2013 Tokyo StoriesStartersUmeboshi Onigiri\u00a0(Veg) \u2013 A traditional rice ball, sticky rice encases the iconic Japanese pickled plum, balancing tartness and umami.Corn Dog\u00a0(Veg) \u2013 A Japanese take on the classic street food, featuring a crispy, golden-brown batter.Ham Cutlet\u00a0\u2013 Breaded and fried ham, offering a crispy exterior and tender, flavourful inside.Chicken Cheese Katsu\u00a0\u2013 A Japanese-style chicken cutlet, with a melted cheese centre, encased in crisp panko.\u2018Octopus\u2019 Wieners\u00a0\u2013 Sausages carved into octopus shapes and deep-fried to perfection, a nostalgic favourite from Japanese lunchboxes.MainsTanmen (Veg Ramen)\u00a0\u2013 A light yet flavourful vegetable ramen, comforting and wholesome.Tonteki\u00a0\u2013 A pan-seared pork steak glazed with a savoury-sweet sauce, served with a side of greens.Crab Toshikoshi Soba\u00a0\u2013 A dish traditionally eaten on New Year's Eve, featuring soba noodles in a light broth with crabsticks.Oyakodon\u00a0\u2013 A beloved rice bowl dish featuring simmered chicken, egg, and onions in a savoury dashi sauce.Pork Miso Soup Set Menu\u00a0\u2013 A hearty miso soup enriched with tender pork, served with rice and pickles.Saut\u00e9ed Yam Set Menu\u00a0(Veg) \u2013 A simple yet nourishing dish highlighting the natural sweetness of saut\u00e9ed yam, served with rice and miso soup.Sides (Small Plates)Egg Tofu\u00a0\u2013 A silky, custard-like tofu made with eggs, served chilled, with a light soy-based sauce.Pickled Napa Cabbage\u00a0\u2013 A refreshing and crunchy pickled side dish to cleanse the palate.\u00a0Potato Salad\u00a0\u2013 A Japanese-style creamy potato salad with crunchy vegetables, eggs, and hints of mustard.Rice with Katsuobushi Soyu\u00a0\u2013 Steamed rice topped with bonito flakes and seasoned soy sauce.Rice with Butter Soyu\u00a0\u2013 A simple yet indulgent dish of warm rice mixed with butter and soy sauce. Boba, Beverages & Desserts also available!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/12A4F4DFEA014050B161897368A1BFCF_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/44951D6AD7A442FEAA37F8AC92FCC9C4_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DA46652AE47040B8875E43BD3C852111_converted_webp.webp"
-    ],
-    "startDate": "2025-03-08T23:00:00+05:30",
-    "endDate": "2025-03-09T01:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Bento Bento",
-      "address": "197, Paramahansa Yogananda Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3XwDRkIXrjsRYKund9FIcKs",
-      "latitude": "12.97795790000000000000",
-      "longitude": "77.63649000000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 26,
-    "remainingAttendeeCapacity": 11,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "250.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bento Bento",
-      "description": null,
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netuser/9931_BB logo.png",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-91138-87578"
-      }
-    },
-    "url": "https://urbanaut.app/spot/midnight-diner-tokyo-stories",
-    "keywords": [
-      "Art & culture",
-      "Food & drink",
-      "Leisure",
       "URBANAUT"
     ]
   },
@@ -663,7 +565,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 11,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1099,7 +1001,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",

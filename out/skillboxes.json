@@ -126,6 +126,49 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "ಈ ಸಣ್-day ಅನ್ನು funn-day ಆಗಿಸಲು \"ಅರಳ&#",
+      "endDate": "2025-03-16T17:00:00",
+      "identifier": "com.skillboxes.19714",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/S1lWWlhJMjdYcTBpcHFoYzJTbE4zdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1741468255EKqxcSwx3VMYhvHl.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Performing Art"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No 53, 1st floor, Shree Chambers, Subbarama Chetty road, Basavanagudi, Bangalore - 560004",
+         "name": "Pops Of Pastel Studio"
+      },
+      "name": "ಅರಳಿ ಕಟ್ಟೆ- Kannada Open Mic",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 25,
+            "name": "Audience",
+            "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-21"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 13,
+            "name": "Performer",
+            "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-21"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 5,
+            "name": "Combo Ticket (Performer ticket+audience ticket)",
+            "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-21"
+         }
+      ],
+      "startDate": "2025-03-16T14:00:00",
+      "url": "https://www.skillboxes.com/events/kannada-open-mic-21"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Redroom FridaysFeaturing GOLDEN HOUR(ZAMNA | MOBLACK)ARTBLOTZEENIXKISHFriday 14th March 2025 | 7PM onwards,At Kitty Ko ( Lalit Ashok Bangalore )M",
       "endDate": "2025-03-14T23:59:00",
       "identifier": "com.skillboxes.19711",
@@ -464,6 +507,30 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Each pass permits one lady to the event + Colours\n",
+            "inventoryLevel": 400,
+            "name": "Women's Day Special Offer - 50% Discount",
+            "url": "https://www.skillboxes.com/events/ticket/holi-glory-resonant-festival"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one lady to the event + Colours\n",
+            "inventoryLevel": 400,
+            "name": "Women's Day Special Offer - 50% Discount",
+            "url": "https://www.skillboxes.com/events/ticket/holi-glory-resonant-festival"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one lady to the event + Colours\n",
+            "inventoryLevel": 400,
+            "name": "Women's Day Special Offer - 50% Discount",
+            "url": "https://www.skillboxes.com/events/ticket/holi-glory-resonant-festival"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "Each pass permits one kid to the event + Colours\n",
             "inventoryLevel": 111,
             "name": "Kids ( 10yrs - 16yrs )",
@@ -676,7 +743,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "(Limited Slots Only)\n",
-            "inventoryLevel": 25,
+            "inventoryLevel": 22,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/tannison-mathews-rationality-tour-feat-badal-kashyap"
          },
