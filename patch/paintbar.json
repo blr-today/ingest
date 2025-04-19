@@ -1,6 +1,6 @@
 {
     "@context": "https://schema.org",
-    "@type": "SocialEvent",
+    "@type": "VisualArtsEvent",
     "inLanguage": "en",
     "eventStatus": "EventScheduled",
     "organizer": {
@@ -8,5 +8,6 @@
         "name": "Paint Bar",
         "url": "https://www.paintbar.in/"
     },
+    "additionalType": ["EducationEvent"],
     "keywords": ["PAINTBAR"]
 }
