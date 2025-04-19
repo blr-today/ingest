@@ -1,1 +1,508 @@
-[]
+[
+  {
+    "name": "Run Session",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Run-Beginner-Sunday20april",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Run",
+    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Run-Beginner-Sunday20april",
+    "image": "https://sistersinsweat.com/images/event/20250412154311146.jpg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "Yoga with Sisters & Misters",
+    "@type": "SocialEvent",
+    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Yoga-Beginner-Sunday-20-April",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SESSION"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Yoga-Beginner-Sunday-20-April",
+    "image": "https://sistersinsweat.com/images/event/20250415164159962.jpeg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "Football Game-Night Sisters & Misters",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Football-Intermediate-Tuesday22",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Football",
+    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Football-Intermediate-Tuesday22",
+    "image": "https://sistersinsweat.com/images/event/20250325181052464.jpeg",
+    "location": {
+      "name": "Rush Arena",
+      "address": "Rush Arena, Cooke TownJaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "Basketball Game, Night Sisters & Misters",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Basketball-Intermediate-Tuesday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Basketball",
+    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Basketball-Intermediate-Tuesday",
+    "image": "https://sistersinsweat.com/images/event/20250325181653811.jpeg",
+    "location": {
+      "name": "St. Joseph's Arts And Science College",
+      "address": "St. Joseph's Arts And Science College#36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "Pickleball at Game Theory",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Pickleball-Combined-Wednesday3",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Pickleball",
+    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Pickleball-Combined-Wednesday3",
+    "image": "https://sistersinsweat.com/images/event/20250327110036550.jpeg",
+    "location": {
+      "name": "Game Theory JP Nagar 7th Phase",
+      "address": "2nd Main Rd, Guru Raghavendra Nagar, Elita Promenade, Phase 7, J. P. Nagar, Kothnur, Karnataka 560078",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "B'ball With The Sisters - Beginners & Intermediate",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Basketball-Beginner-Wednesday23rdapril",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Basketball",
+    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Basketball-Beginner-Wednesday23rdapril",
+    "image": "https://sistersinsweat.com/images/event/20250325171044984.jpeg",
+    "location": {
+      "name": "St. Joseph's Arts And Science College",
+      "address": "St. Joseph's Arts And Science College#36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "Pickleball with the Sisters - Play Only",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Piackleball-Combined-Thursday1",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Piackleball",
+    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Piackleball-Combined-Thursday1",
+    "image": "https://sistersinsweat.com/images/event/20250325183615544.jpeg",
+    "location": {
+      "name": "Go Rally",
+      "address": "GoRally Pickleball Indiranagar (HAL Old Airport Rd)\u00a0Exit Road, No 52 MSIL Building, Old Airport Rd, near Blue Dart",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "B'ball With Sisters - Intermediate",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Basketball-Intermediate-Friday25thapril",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Basketball",
+    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Basketball-Intermediate-Friday25thapril",
+    "image": "https://sistersinsweat.com/images/event/20250325183353235.jpeg",
+    "location": {
+      "name": "St. Joseph's Arts And Science College",
+      "address": "St. Joseph's Arts & Science College36, Langford Rd, Langford Gardens",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "Footy Game-Day",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Football-Combined-Friday1",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Football",
+    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Football-Combined-Friday1",
+    "image": "https://sistersinsweat.com/images/event/20250325183851659.jpeg",
+    "location": {
+      "name": "SUFC, Ulsoor",
+      "address": "Gate No. 3, United Football Club, RBANM\u2019s Ground, South, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "Footy With Sisters, Beginner - HSR",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Football-Beginner-Saturday1",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Football",
+    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Football-Beginner-Saturday1",
+    "image": "https://sistersinsweat.com/images/event/20250325184705113.jpeg",
+    "location": {
+      "name": "Rising Star, HSR",
+      "address": "Rising Star Sports Arena42, Dinne Anjaneya Swamy Temple Rd, Eastwood Twp, Haralur",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "Footy Session",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Football-Beginner-Saturday9apr",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Football",
+    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Football-Beginner-Saturday9apr",
+    "image": "https://sistersinsweat.com/images/event/20250325184415347.jpeg",
+    "location": {
+      "name": "Bullring, Indiranagar",
+      "address": "The Bull Ring Arena:THE BULLRING, 36, Old Madras Rd, next to BMTC 6th Depot, Indira Nagar II Stage, Hoysala Nagar, Indiranagar",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "Baddy Session-Mix Level",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Badminton-Combined-Saturdays7",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Badminton",
+    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Badminton-Combined-Saturdays7",
+    "image": "https://sistersinsweat.com/images/event/20250325184944322.jpeg",
+    "location": {
+      "name": "Game Theory",
+      "address": "Paramahansa Yogananda Road, Above Sree Cauvery School, Stage 1, Indiranagar",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "Pizza Making Evening- Si Nonna's",
+    "@type": "FoodEvent",
+    "url": "https://sistersinsweat.in/event-detail/Women-Bangalore-PizzaMaking-Saturday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SESSION"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "description": "See more details at https://sistersinsweat.in/event-detail/Women-Bangalore-PizzaMaking-Saturday",
+    "image": "https://sistersinsweat.com/images/event/20250407130015264.jpeg",
+    "location": {
+      "name": "Si Nonna's - The Original Sourdough Pizza",
+      "address": "No.G-01 &G-02, Brigade Cornerstone Utopia, Ground Floor, Eden Block, Varthur & Gunjur Village, Gunjur, B.B, Main Road, M.P East, Mahadevapura",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "Yoga with The Sisters",
+    "@type": "SocialEvent",
+    "url": "https://sistersinsweat.in/session-detail/Yoga-with-Sisters",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SESSION"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "description": "See more details at https://sistersinsweat.in/session-detail/Yoga-with-Sisters",
+    "image": "https://sistersinsweat.com/images/event/20250412155302131.jpg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "Cooking Workshop With Hello Tempayy",
+    "@type": "FoodEvent",
+    "url": "https://sistersinsweat.in/event-detail/Women-bangalore-cookingworkshop-sunday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SESSION"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "description": "See more details at https://sistersinsweat.in/event-detail/Women-bangalore-cookingworkshop-sunday",
+    "image": "https://sistersinsweat.com/images/event/20250416154212819.jpeg",
+    "location": {
+      "name": "Nature\u2019s Basket, MG Road, Bengaluru",
+      "address": "MG Road Bengaluru, Monarch Centaurus Kensington Road, mall, opposite 1 Mg",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "7v7 All Women's Match Day",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/event-detail/Women-Bangalore-Football-Tournament-Sunday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Football",
+    "description": "See more details at https://sistersinsweat.in/event-detail/Women-Bangalore-Football-Tournament-Sunday",
+    "image": "https://sistersinsweat.com/images/event/20250409103850687.jpeg",
+    "location": {
+      "name": "Rush Arena Cooke Town",
+      "address": "Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "Pickleball at Game Theory",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Pickleball-Combined-Wednesday4",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Pickleball",
+    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Pickleball-Combined-Wednesday4",
+    "image": "https://sistersinsweat.com/images/event/20250327110036550.jpeg",
+    "location": {
+      "name": "Game Theory JP Nagar 7th Phase",
+      "address": "2nd Main Rd, Guru Raghavendra Nagar, Elita Promenade, Phase 7, J. P. Nagar, Kothnur, Karnataka 560078",
+      "type": "Place"
+    }
+  }
+]

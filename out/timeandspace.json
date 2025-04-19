@@ -2,34 +2,6 @@
   {
     "@context": "http://schema.org",
     "@type": "Event",
-    "name": "&#8216;A Separate Reality&#8217;, A De Sousa Family Show",
-    "description": "Gallery Time and Space presents its newest show! \\'A Separate Reality\\' A De Sousa Family Show Featuring artists - Francis, Verodina and Nadia de Sousa from Goa - and their...\\n",
-    "image": "https://timeandspace.gallery/wp-content/uploads/2025/02/Copy-of-Website-Banners-Presentation.png",
-    "url": "https://timeandspace.gallery/event/a-separate-reality-a-de-sousa-family-show/",
-    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-    "eventStatus": "https://schema.org/EventScheduled",
-    "startDate": "2025-02-09T11:00:00+05:30",
-    "endDate": "2025-03-02T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Gallery Time and Space",
-      "description": "",
-      "url": "",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "2nd Floor, The Guild, 55, Lavelle Road",
-        "addressLocality": "Bangalore",
-        "addressRegion": "karnataka",
-        "postalCode": "560001",
-        "addressCountry": "India"
-      },
-      "telephone": "+917760394808",
-      "sameAs": "https://timeandspace.gallery"
-    }
-  },
-  {
-    "@context": "http://schema.org",
-    "@type": "Event",
     "name": "&#8216;Interweave&#8217; : A Solo Show by Aditi Hazra",
     "description": "Gallery Time and Space is excited to present: Interweave A Solo Show by Aditi Hazra Aditi Hazra\u2019s hand-painted paper cut-outs can be interpreted to depict a playful dance, a ritualistic...\\n",
     "image": "https://timeandspace.gallery/wp-content/uploads/2025/03/Copy-of-Website-Banners.png",
@@ -38,5 +10,44 @@
     "eventStatus": "https://schema.org/EventScheduled",
     "startDate": "2025-03-15T11:00:00+05:30",
     "endDate": "2025-03-22T19:00:00+05:30"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "&#8216;Shared Echoes&#8217; : A Solo Show by Amitabh Sengupta",
+    "description": "Gallery Time and Space is delighted to present Amitabh Sengupta\u2019s Solo Show \u2018Shared Echoes\u2019. \ud83c\udf43 Opening at 12PM on 13th April 2025, \u2018Shared Echoes\u2019 showcases the artist\u2019s Inscription and Forest...\\n",
+    "image": "https://timeandspace.gallery/wp-content/uploads/2025/04/Shared-Echoes-Website-Banner.png",
+    "url": "https://timeandspace.gallery/event/shared-echoes-a-solo-show-by-amitabh-sengupta/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2025-04-13T12:00:00+05:30",
+    "endDate": "2025-05-11T19:00:00+05:30"
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "A Moment in Modernity: A Solo show of Haren Thakur",
+    "description": "Gallery Time and Space is collaborating with Delhi-based Gallery, Art Magnum for it\\'s next show! \\'A Moment in Modernity\\' is a Solo Show of eminent artist, Haren Thakur. The show...\\n",
+    "url": "https://timeandspace.gallery/event/a-moment-in-modernity-a-solo-show-of-haren-thakur/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2025-04-16T11:00:00+05:30",
+    "endDate": "2025-04-25T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "India Habitat Centre",
+      "description": "",
+      "url": "",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Lodhi Road",
+        "addressLocality": "New Delhi",
+        "addressRegion": "Delhi",
+        "postalCode": "110003",
+        "addressCountry": "India"
+      },
+      "telephone": "",
+      "sameAs": ""
+    }
   }
 ]
