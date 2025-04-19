@@ -30,6 +30,7 @@ jobs:
         && sudo apt update \
         && sudo apt install gh -y
 
+        # TODO: Consider switching to https://github.com/lexiforest/curl-impersonate fork
         wget "https://github.com/lwthiker/curl-impersonate/releases/download/v0.6.1/curl-impersonate-v0.6.1.x86_64-linux-gnu.tar.gz" -O /tmp/curl-impersonate.tar.gz
         echo "fa1e1614f7ba69ccc66721a0f38be457a3647eb64c75d66974b56186e3316b12  /tmp/curl-impersonate.tar.gz" | sha256sum --check --status
         sudo tar -xzf /tmp/curl-impersonate.tar.gz -C /usr/bin
@@ -46,7 +47,7 @@ jobs:
 
     - uses: actions/setup-python@v5
       with:
-        python-version: '3.12'
+        python-version: '3.13'
     - name: Setup
       run: |
         git config --global init.defaultBranch main
