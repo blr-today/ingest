@@ -2,12 +2,12 @@ local schemaOrgContext = {
   '@context': 'https://schema.org',
 };
 
-local BASE_URL = 'https://tpcc.club/events';
+local BASE_URL = 'https://tpcc.club/events/';
 
 local transformEvent(event) =
   {
     # This is a fake link, but we need something that points to tpcc.club
-    url: BASE_URL + 'events/#id=' + event.id,
+    url: BASE_URL + '#id=' + event.id,
     '@type': if event.theme == 'Book Reading' then 'LiteraryEvent' else 'ScreeningEvent',
     keywords: [event.theme, 'TPCC'],
     name: event.theme + ' - ' + event.title,
