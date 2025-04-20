@@ -53,6 +53,7 @@ jobs:
         git config --global init.defaultBranch main
         git config --global extensions.partialClone true
         pip install .
+        playwright install chromium
     - name: Fetch updates
       run: make clean && make -s all
       env:

@@ -21,6 +21,8 @@ dependencies = [
     "ujson~=5.10",
     "urllib3~=2.4",
     "w3lib~=2.3.1",
+    "playwright>=1.51.0",
+    "tf-playwright-stealth>=1.1.2",
 ]
 [project.optional-dependencies]
 test = [

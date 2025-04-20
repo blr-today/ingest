@@ -1,7 +1,8 @@
 import json
 from datetime import datetime
-from curl_cffi import requests
+import asyncio
 from common.tz import IST
+from common.headless import fetch_page
 
 BASE_URL = "https://www.adidas.co.in/adidasrunners"
 COMMUNITY_ID = "2e012594-d3fb-4185-b12b-78dead3499a3"
@@ -12,10 +13,11 @@ def _date(date_str):
     return datetime.fromisoformat(date_str).astimezone(IST).isoformat()
 
 
-def fetch_events(session):
+def fetch_events():
     events = []
     url = f"{BASE_URL}/ar-api/gw/default/gw-api/v2/events/communities/{COMMUNITY_ID}?countryCodes={COUNTRY_CODE}"
-    res = session.get(url, impersonate="chrome").json()
+    content = asyncio.run(fetch_page(url))
+    res = json.loads(content)
     for data in res["_embedded"]["events"]:
         location = data["meta"]["adidas_runners_locations"]
         _id = data["id"]
@@ -38,14 +40,9 @@ def fetch_events(session):
 
 
 def main():
-    session = requests.Session()
-    r = session.get(f"{BASE_URL}/community/bengaluru", impersonate="chrome")
-    if len(r.cookies) == 0:
-        print("Failed to fetch cookies for Adidas")
-        sys.exit(1)
-    events = fetch_events(session)
-
     with open("out/adidas.json", "w") as f:
+        events = fetch_events()
+        print(f"[ADIDAS] {len(events)} events")
         json.dump(events, f, indent=2)
 
 
