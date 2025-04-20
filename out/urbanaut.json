@@ -978,48 +978,52 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Sunday Breakfast: Unpacking Breakups in Friendship",
-    "description": "We\u2019ve all heard about romantic breakups\u2014some of us have lived through them, cried through them, and had entire support squads to lean on. But what about friendship breakups? The slow fades, the sudden ends, the \u201cwhat just happened?\u201d moments?This Sunday morning, we\u2019re making space for those stories. Join us for a soulful breakfast where we unpack the often-unspoken grief of drifting friendships, share what helped us cope, and maybe find healing (and some laughter) in the process.Come for the food, stay for the feels\u2014and who knows, you might leave with a new friend too. \ud83d\udc9b\u2600\ufe0f",
+    "@type": "Event",
+    "name": "Oota & Aata with Sabha BLR",
+    "description": "Oota & Aata is an intimate, hyper-local event series that invites people to pause, gather, and play like we used to \u2014 back in the day.A curated experience set in Sabha inspired by balmy Bangalore\u2019s late afternoons, games your ajji loved paired with comforting tea-time snacks inviting a slower kind of joy.Oota Aata Edition 1Oota & Aata invites you to explore a range of traditional board games that may stir up a childhood memory or pique your curiosity to learn something new!Created by Roll the Dice, the games accessible to participants double as an archive rooted in culture and yesteryear nostalgia.Recreate the memory of a childhood home where slow weekend evenings were spent in playful exploration with loved ones, as you choose from one of the games like Alaguli Mane/Pallanguzhi, Pagade, Aadu Huli/ Tiger & Goat to explore.The event will also feature snack platters inspired by authentic South Indian tea-time snacks like vadais, Mangalore buns, kuzhipaniyarams and ambient music to elevate the experience. Gather your game-night crew, a friend or come solo for an evening of playful (could get competitive) fun and discovery!About SabhaSabha is imagined as a cultural space housed in a meticulously restored 160-year-old CVS Sabha school, part of the RBANM's Educational Charities legacy. Envisioned as a hub for the arts, ideas, and community, Sabha is a place where heritage meets contemporary expression.About Roll the DiceRoll the dice dedicated to reinventing the experience of playing traditional Indian board games. These games are most enjoyable and beneficial when played by people across generations, offering memory boosts, sharper thinking, relaxation, and improved cognitive skills.",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/46D2A267F38F4536A71323F608C0D3E3_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A6B12D47FF8F4163AA7A946FD3752D7B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/07C7B81634464BF09DCFE3C700811480_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BA7405B90EA64FAE885F2297CCDDC202_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8E4F2A00601A4F28B8E9FF5E4D0C3D27_converted_webp.webp"
     ],
-    "startDate": "2025-04-20T10:00:00+05:30",
-    "endDate": "2025-04-20T11:30:00+05:30",
+    "startDate": "2025-05-04T16:00:00+05:30",
+    "endDate": "2025-05-04T18:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
-      "address": "Indiranagar, Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
-      "latitude": "12.97836920000000000000",
-      "longitude": "77.64083560000000000000"
+      "address": "No.44/A, Kamaraj Rd, Bharati Nagar, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "21+",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
-      "price": "1500.00",
+      "price": "500.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
     "organizer": {
       "@type": "Organization",
-      "name": "HighTable",
-      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "name": "Urbanaut Experiences",
+      "description": null,
+      "url": "https://urbanaut.app/partner/urbanautexperiences",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/9FC290C346294D74BCC4CC83BC433464_converted_webp.webp",
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
+        "telephone": "+91-74000-31416"
       }
     },
-    "url": "https://urbanaut.app/spot/sunday-breakfast-with-strangers-6798",
+    "url": "https://urbanaut.app/spot/oota-aata-with-sabha",
     "keywords": [
       "Leisure",
-      "Food & drink",
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   },
