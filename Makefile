@@ -180,12 +180,14 @@ out/bngbirds.json:
 out/paintbar.json:
 	python src/paintbar.py || $(call restore-file,$@)
 
+
+# Ignored
+# Site is dead: out/bengalurusustainabilityforum.json
 fetch: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
  out/bic.ics \
  out/insider.txt \
- out/bengalurusustainabilityforum.json \
  out/bhaagoindia.txt \
  out/scigalleryblr.json \
  out/mmb.txt \
@@ -232,8 +234,8 @@ build: fetch
 build-sqlite:
 	.github/sqlite.sh
 post-build: build-sqlite
-	python3 -c "import sqlite3;print(sqlite3.sqlite_version)"
-	python3 -m sqlite3 events.db < post-build.sql
+	LD_PRELOAD=/tmp/sqlite-amalgamation-3490100/libsqlite.so python3 -c "import sqlite3;print(sqlite3.sqlite_version)"
+	LD_PRELOAD=/tmp/sqlite-amalgamation-3490100/libsqlite.so python3 -m sqlite3 events.db < post-build.sql
 
 all: build post-build
 	@echo "Finished build"

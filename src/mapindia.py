@@ -19,7 +19,6 @@ def fetch_urls(exclude_ids = []):
         headers=HEADERS,
         data=data,
     ).json()
-    print(response)
     for post_id in response['current_posts']:
         yield f"https://map-india.org/?p={post_id}"
     if 'loadMore' in response and response['loadMore'] == True:
@@ -28,7 +27,6 @@ def fetch_urls(exclude_ids = []):
 def generate_calendar():
     c = Calendar(creator="blr.today/map-india")
     for url in fetch_urls():
-        print(url)
         # Since we are using post IDs, we have to check for redirects.
         url = session.head(url, headers=HEADERS).headers["Location"]
 

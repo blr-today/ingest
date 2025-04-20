@@ -2,11 +2,11 @@
 # Install latest release of SQLite using the amalgamation source code.
 
 cd /tmp
-DOWNLOAD_URL=https://www.sqlite.org/2024/sqlite-amalgamation-3460100.zip
+DOWNLOAD_URL=https://sqlite.org/2025/sqlite-amalgamation-3490100.zip
 wget -qnc "$DOWNLOAD_URL"
-rm -rf sqlite-amalgamation-3460100
-unzip sqlite-amalgamation-3460100.zip
-cd sqlite-amalgamation-3460100
+rm -rf sqlite-amalgamation-3490100
+unzip sqlite-amalgamation-3490100.zip
+cd sqlite-amalgamation-3490100
 # Compile options from Arch Linux
 gcc -shared -fPIC -o libsqlite.so \
 	-DSQLITE_ENABLE_COLUMN_METADATA=1 \
