@@ -75,31 +75,6 @@
     "maximumAttendeeCapacity": 180
   },
   {
-    "@type": "ScreeningEvent",
-    "name": "Technocats: Rough Cut Screening and Discussion",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery Bengaluru, Bangalore",
-      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
-    },
-    "startDate": "2025-04-20T17:00:00+05:30",
-    "endDate": "2025-04-20T19:30:00+05:30",
-    "description": "TechnoCats, by filmmaker Gautam Sonti, offers an intimate portrait of life at the Indian Institute of Technology, Delhi. It features seven students who crack the entrance exam against a million others - the \u201cSeven Samurai\u201d. We meet them in their first semester at IIT Delhi and then periodically over seven years, as they navigate intense academic and social pressures. Interwoven with stories from Sonti\u2019s own IIT batch 35 years ago, the film explores ambition, burnout, and the high cost of success. This is a special opportunity to view the film in its rough cut stage. Sonti looks forward to your feedback and support in helping bring TechnoCats to completion.",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=technocats-screening",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Gautam-Sonti"
-      },
-      {
-        "@type": "Person",
-        "name": "Tara-Rao"
-      }
-    ],
-    "maximumAttendeeCapacity": 100
-  },
-  {
     "@type": "EducationEvent",
     "name": "Future Bengaluru: Designing a People-Centric Sustainable City",
     "location": {
@@ -123,26 +98,5 @@
       }
     ],
     "maximumAttendeeCapacity": 60
-  },
-  {
-    "@type": "Event",
-    "name": "From Pete to Petabytes: Sci560 Exhibition Walkthrough",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery Bengaluru, Bangalore",
-      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
-    },
-    "startDate": "2025-04-20T17:30:00+05:30",
-    "endDate": "2025-04-20T19:30:00+05:30",
-    "description": "How did the transformation from 'pete' to 'petabytes' come about in Bengaluru?<br><br>Join our mediator, Likhith on a Sci560 exhibition walkthrough to explore Bengaluru\u2019s transformation from a medieval trading town to a global tech powerhouse. Through a selection of exhibits, we chart Bengaluru\u2019s historical and technological growth story over five centuries. We explore how scientific ambition and statecraft shaped the city\u2019s evolving identities as a military cantonment, garden city, research hub and more. At every turn, we reflect on the roles of visionary pioneers and administrators in building a city full of promise and prosperity.",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=pete-to-petah",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Sgb-Team"
-      }
-    ],
-    "maximumAttendeeCapacity": 50
   }
 ]
