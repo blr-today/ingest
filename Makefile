@@ -182,9 +182,9 @@ out/paintbar.json:
 
 
 # Ignored
-# Site is dead: out/bengalurusustainabilityforum.json
 fetch: out/allevents.txt \
  out/highape.txt \
+ out/bengalurusustainabilityforum.json \
  out/mapindia.json \
  out/bic.ics \
  out/insider.txt \
