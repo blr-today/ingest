@@ -86,12 +86,6 @@ out/mmb.txt:
 out/urbanaut.json:
 	python src/urbanaut.py  || $(call restore-file,$@)
 
-out/zomato.jsonnet:
-	python src/zomato.py || $(call restore-file,$@)
-
-out/zomato.json: out/zomato.jsonnet
-	python src/jsonnet.py out/zomato.jsonnet || $(call restore-file,$@)
-
 out/bic.ics:
 	curl_chrome116 --silent "https://bangaloreinternationalcentre.org/events/?ical=1" --output $@  || $(call restore-file,$@)
 
@@ -190,7 +184,6 @@ fetch: out/allevents.txt \
  out/scigalleryblr.json \
  out/mmb.txt \
  out/venn.json \
- out/zomato.json \
  out/urbanaut.json \
  out/champaca.json \
  out/bic.json \

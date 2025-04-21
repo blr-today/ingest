@@ -16,7 +16,6 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | Max Mueller Bhavan             | ✔️      | ✔️     | ✔️          |                                                                                                           |
 | Venn                           | ✔️      | ✔️     | ✔️           |                                                                                                           |
 | Atta Gallata                   | ✔️      | ✔️     | ✔️           |                                                                                                           |
-| Zomato                         | ✔️      | ✔️     | ✔️           | multi-day events don't have all "offers"
 | Champaca                       | ✔️      | ✔️     | ✔️           |                                                                                                           |
 | Ace of Pubs                    | ✔️      | ✔️     | ✔️           | Uses calendar, no description available
 | [Sofar][sofar]                 | ✔️      | ✔️     | ✔️          |                                                                                                           |

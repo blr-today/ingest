@@ -42,7 +42,6 @@ wherever necessary.
 - Total Environment Music Events (Windmills)
 - Trove Experiences
 - Venn
-- Zomato Events
 
 A lot more are in-progress, please see [`TODO.md`](TODO.md) for a more updated list.
 
