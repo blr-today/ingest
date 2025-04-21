@@ -180,8 +180,6 @@ out/bngbirds.json:
 out/paintbar.json:
 	python src/paintbar.py || $(call restore-file,$@)
 
-
-# Ignored
 fetch: out/allevents.txt \
  out/highape.txt \
  out/bengalurusustainabilityforum.json \
