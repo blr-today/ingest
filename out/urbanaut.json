@@ -1062,5 +1062,55 @@
       "Art & culture",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Peppa Play and Parent Pause",
+    "description": "We're back with one of your favourites - a cozy art caf\u00e9 for parents and a fun filled Peppe Pig playdate for the kids!While your little ones jump in muddy puddles (well, not real ones) and explore a world of Peppa inspired play, you get to unwindwith some art, coffee and conversation.For the parents: A surprise art experience just for you\u2014designed to let you relax, create, and enjoy the process without any expectations. Think of this as a mini retreat for your mind, where you can explore materials, textures and artistic expression in ways you might not think. Trust us- it's going to be a refreshing, hands-on and immersive experience!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A61E5F09D6174674B40B8FDD8BF7E483_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7F2A14004A6F4D218F8AEF5F69BBCB0F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/621ACF8965F249D5B4A340A27E34DF3B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A0CBCB83C22D4476B7A1F64917428BE8_converted_webp.webp"
+    ],
+    "startDate": "2025-04-26T11:00:00+05:30",
+    "endDate": "2025-04-26T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3S2OrvsVrjsRBOql1X-UnAM",
+      "latitude": "12.96068750000000000000",
+      "longitude": "77.63718750000001000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Coro",
+      "description": null,
+      "url": "https://urbanaut.app/partner/corospace",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/0F2E55DAAA19467D96CA7AFC8F33B7A0_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-94466-91720"
+      }
+    },
+    "url": "https://urbanaut.app/spot/art-cafe-with-looroo-and-coro-peppa",
+    "keywords": [
+      "Premium",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
