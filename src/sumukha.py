@@ -9,15 +9,19 @@ session = get_cached_session()
 
 
 # Function to parse and format date
+# The website only returns a month+date
+# So we find the one in the future and use that
 def parse_and_format_date(date_str):
+    year1 = datetime.now().year
     try:
-        d1 = datetime.strptime(date_str, "%d %B").replace(year=datetime.now().year)
-        d2 = d1.replace(year=datetime.now().year + 1)
+        year2 = datetime.now().year + 1
+        d1 = datetime.strptime(f"{year1} {date_str}", f"%Y %d %B")
+        d2 = datetime.strptime(f"{year2} {date_str}", f"%Y %d %B")
         if abs(d1 - datetime.now()) < abs(d2 - datetime.now()):
             return d1.strftime("%Y-%m-%d")
         else:
             return d2.strftime("%Y-%m-%d")
-    except:
+    except ValueError as e:
         return datetime.strptime(date_str, "%d %B %Y").strftime("%Y-%m-%d")
 
 
