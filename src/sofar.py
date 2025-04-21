@@ -30,6 +30,7 @@ def to_schema_org_music_event(event_info):
     try:
         neighbourhood = event_info["venue"]["neighborhood"]["title"]
         name += event_info["venue"]["neighborhood"]["title"]
+        # TODO: Check VenueName
     except Exception:
         name += event_info["city"]["title"]
 
@@ -64,7 +65,6 @@ def make_graphql_request(query, city, url):
                 "excludeSoldOut": False,
                 "globallyPromoted": True,
                 "includeNearbySecondaryCities": False,
-                "loadDynamicHeaderImages": False,
                 "page": 1,
                 "perPage": 12,
                 "published": True,
@@ -74,6 +74,8 @@ def make_graphql_request(query, city, url):
             "query": query,
         },
     )
+
+    print(response.text)
 
     return response.json()
 
@@ -93,7 +95,6 @@ query GetEventsForCityPage(
   $published: Boolean
   $globallyPromoted: Boolean
   $type: String
-  $loadDynamicHeaderImages: Boolean
   $page: Int
   $perPage: Int
   $skipPagination: Boolean
@@ -112,7 +113,6 @@ query GetEventsForCityPage(
     published: $published
     globallyPromoted: $globallyPromoted
     type: $type
-    loadDynamicHeaderImages: $loadDynamicHeaderImages
     page: $page
     perPage: $perPage
     skipPagination: $skipPagination
@@ -133,7 +133,6 @@ query GetEventsForCityPage(
         timezone
       }
       isVenueConfirmed
-      genres
       neighborhood {
         title
       }
@@ -141,7 +140,7 @@ query GetEventsForCityPage(
         neighborhood {
           title
         }
-        venueType
+        venueName
         venueCategories {
           name
         }
