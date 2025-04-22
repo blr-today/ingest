@@ -75,8 +75,6 @@ def make_graphql_request(query, city, url):
         },
     )
 
-    print(response.text)
-
     return response.json()
 
 
