@@ -13,7 +13,7 @@ WHERE
   event_json ->> '$.location.name' LIKE '%small world%'
   -- HighApe event listings do not include the organizer field 
   -- But we pick it up from meta tags into keywords
-  event_json ->> '$.keywords' LIKE '%small world%'
+  OR event_json ->> '$.keywords' LIKE '%small world%'
   OR event_json ->> '$.organizer.name' LIKE '%urban solace%' 
   -- Silly dating events: https://insider.in/free-speed-dating-events-in-bengaluru-sep7-2024/event
   OR event_json ->> '$.organizer.name' LIKE '%your dream partner%'
