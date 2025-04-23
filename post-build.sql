@@ -168,6 +168,7 @@ WHERE
   -- Jollywood Adventure Park tickets
   OR event_json ->> '$.organizer.name' LIKE '%vels studios and entertainment%'
   OR event_json ->> '$.organizer.name' LIKE 'manoj t s - escape2explore adventures'
+  OR event_json ->> '$.organizer.name' LIKE 'namma trip'
 
   -- All Travel events listed on HighApe
   OR (
@@ -178,6 +179,27 @@ WHERE
         )
       AND
       event_json ->>'$.keywords' LIKE '%"HIGHAPE"%');
+
+-- Music events listed on HIGHAPE that are
+-- Free Entry are low-quality
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+  )
+WHERE
+  event_json ->>'$.keywords' LIKE '%"highape"%'
+  AND event_json ->>'$.keywords' LIKE '%"free entry"%'
+  AND (
+    event_json->>'$.keywords' LIKE '%bollywood night%'
+    OR event_json->>'$.keywords' LIKE '%bollywood night%'
+    OR event_json->>'$.keywords' LIKE '%dj night%'
+    OR event_json->>'$.keywords' LIKE '%karaoke night%'
+    OR event_json->>'$.keywords' LIKE '%vro hospitality%'
+    OR event_json->>'$.keywords' LIKE '%OIEPL%' -- Gold Rush Brews
+  );
 
 -- MusicEvent is incorrectly used in many many allevents listings
 UPDATE events
@@ -299,6 +321,7 @@ WHERE
     OR event_json ->> '$.name' LIKE '%live ipl%'
     OR event_json ->> '$.name' LIKE '%ipl live%'
     OR event_json ->> '$.name' LIKE '%ipl screening%'
+    OR event_json ->> '$.keywords' LIKE '%ipl screening%'
   );
 
 -- Too Many Dandiya events, so we tag them out.
@@ -336,10 +359,12 @@ WHERE
   event_json ->> '$.name' LIKE '%ladies night%'
   OR event_json ->> '$.keywords' LIKE '%ladies night%'
   OR event_json ->> '$.description' LIKE '%ladies night%' 
+  OR event_json ->> '$.description' LIKE '%dj night%' 
   -- Secret Story Indiranagar
   OR event_json ->> '$.description' LIKE '%ladies & models night%' 
   OR event_json ->> '$.name' LIKE '%rock bottom monday%'
   OR event_json ->> '$.name' LIKE '%bollywood night%'
+  OR event_json ->> '$.keywords' LIKE '%bollywood night%'
   OR event_json ->> '$.name' LIKE '%bollywood bash%'
   OR event_json ->> '$.name' LIKE '%monsoon monday%'
   OR event_json ->> '$.name' LIKE '%pub crawl%'
@@ -347,10 +372,12 @@ WHERE
   OR event_json ->> '$.name' LIKE '%worth it monday%'
   OR event_json ->> '$.name' LIKE '%tashan tuesday%'
   OR event_json ->> '$.name' LIKE '%tashn tuesday%'
+  OR event_json ->> '$.name' LIKE '%tgif friday%'
   OR event_json ->> '$.name' LIKE '%navrang navratri%'
   OR event_json ->> '$.name' LIKE '%techno terrace%' -- indigo xp
   OR event_json ->> '$.name' LIKE '%athyachari monday%'
-  OR event_json ->> '$.organizer.name' LIKE 'VRO Hospitality'; -- highape music nights
+  OR event_json ->> '$.organizer.name' LIKE 'VRO Hospitality' -- highape music nights
+  OR event_json ->> '$.organizer.name' LIKE 'avikk hospitality llp'; -- Secret Story music nights
 
 -- THRIFTY-X is a shady event organizer
 -- Stranger Meets are events, but meh https://insider.in/search?q=Thrifty
