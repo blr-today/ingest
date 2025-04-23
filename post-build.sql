@@ -11,6 +11,9 @@ SET
   )
 WHERE
   event_json ->> '$.location.name' LIKE '%small world%'
+  -- HighApe event listings do not include the organizer field 
+  -- But we pick it up from meta tags into keywords
+  event_json ->> '$.keywords' LIKE '%small world%'
   OR event_json ->> '$.organizer.name' LIKE '%urban solace%' 
   -- Silly dating events: https://insider.in/free-speed-dating-events-in-bengaluru-sep7-2024/event
   OR event_json ->> '$.organizer.name' LIKE '%your dream partner%'
@@ -269,6 +272,7 @@ WHERE
     url LIKE '%network-meetup%'
     OR url LIKE '%networking-meetup%'
     OR url LIKE '%virtual-hackathon%'
+    OR url LIKE '%founders-investors%'
   );
 
 -- organizer = Games Lab, title contains "Board" or "Mafia" or "Game Night", tag as BOARDGAMES
@@ -438,9 +442,9 @@ UPDATE events SET
   event_json = json_replace(
     event_json,
     '$.keywords',
-    json_insert(event_json -> '$.keywords', '$[#]', 'JAYANGAR')
+    json_insert(event_json -> '$.keywords', '$[#]', 'JAYANAGAR')
   )
-WHERE event_json LIKE '%domlur%' or event_json LIKE '%jayangar%';
+WHERE event_json LIKE '%domlur%' or event_json LIKE '%jayanagar%';
 
 UPDATE events SET
   event_json = json_replace(
