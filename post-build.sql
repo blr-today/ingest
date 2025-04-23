@@ -33,7 +33,8 @@ WHERE
   url IN (
     'https://insider.in/isl-2024-25-bengaluru-fc-membership-season-12/event' -- Memberships are not events
     ,'https://together.buzz/event/test-ghofp8gg' -- Test event
-    , 'https://insider.in/summer-with-lvds-apr7-2025/event'
+    -- Music Camp is a very long event.
+    , 'https://attagalatta.com/event_page.php?eventid=EVT1078'
   );
 
 -- Ideally,we would mark them using sameAs, but too much work for now
@@ -280,6 +281,26 @@ WHERE
   lower(event_json ->> '$.name') LIKE '%live screening%'
   AND lower(event_json ->> '$.name') LIKE '%premier league%';
 
+-- Do the same as above but use IPL team names
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'SPORTS-SCREENING'
+    )
+  )
+WHERE
+  (
+    event_json ->> '$.name' LIKE '%live cricket screening%'
+    OR event_json ->> '$.name' LIKE '%live ipl%'
+    OR event_json ->> '$.name' LIKE '%ipl live%'
+    OR event_json ->> '$.name' LIKE '%ipl screening%'
+  );
+
 -- Too Many Dandiya events, so we tag them out.
 UPDATE events
 SET
@@ -328,7 +349,8 @@ WHERE
   OR event_json ->> '$.name' LIKE '%tashn tuesday%'
   OR event_json ->> '$.name' LIKE '%navrang navratri%'
   OR event_json ->> '$.name' LIKE '%techno terrace%' -- indigo xp
-  OR event_json ->> '$.name' LIKE '%athyachari monday%';
+  OR event_json ->> '$.name' LIKE '%athyachari monday%'
+  OR event_json ->> '$.organizer.name' LIKE 'VRO Hospitality'; -- highape music nights
 
 -- THRIFTY-X is a shady event organizer
 -- Stranger Meets are events, but meh https://insider.in/search?q=Thrifty
