@@ -33,6 +33,7 @@ WHERE
   url IN (
     'https://insider.in/isl-2024-25-bengaluru-fc-membership-season-12/event' -- Memberships are not events
     ,'https://together.buzz/event/test-ghofp8gg' -- Test event
+    , 'https://insider.in/summer-with-lvds-apr7-2025/event'
   );
 
 -- Ideally,we would mark them using sameAs, but too much work for now
@@ -314,9 +315,13 @@ WHERE
   event_json ->> '$.name' LIKE '%ladies night%'
   OR event_json ->> '$.keywords' LIKE '%ladies night%'
   OR event_json ->> '$.description' LIKE '%ladies night%' 
+  -- Secret Story Indiranagar
+  OR event_json ->> '$.description' LIKE '%ladies & models night%' 
   OR event_json ->> '$.name' LIKE '%rock bottom monday%'
   OR event_json ->> '$.name' LIKE '%bollywood night%'
+  OR event_json ->> '$.name' LIKE '%bollywood bash%'
   OR event_json ->> '$.name' LIKE '%monsoon monday%'
+  OR event_json ->> '$.name' LIKE '%pub crawl%'
   OR event_json ->> '$.name' LIKE '%episode monday%'
   OR event_json ->> '$.name' LIKE '%worth it monday%'
   OR event_json ->> '$.name' LIKE '%tashan tuesday%'
@@ -337,7 +342,9 @@ UPDATE events SET
     '$.keywords',
     json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
   )
-WHERE url LIKE '%thrifty-x-%';
+WHERE url LIKE '%thrifty-x-%'
+OR event_json ->> '$.organizer.name' LIKE '%Event Navigator%'
+OR event_json ->> '$.organizer.name' LIKE '%Bubblegum Circle%';
 
 -- I host Puzzled Pint BLR, and it is a 100% certified quality event.
 UPDATE events SET
@@ -466,3 +473,19 @@ UPDATE events SET
 WHERE event_json->>'$.keywords' LIKE '%BSF%' AND
 substr(event_json->>'$.startDate', 0, 10) 
   != substr(event_json->>'$.endDate', 0, 10);
+
+-- Comedy Theater makes duplicate listings for their events
+-- That are multiple days long.
+UPDATE events SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+  )
+WHERE (
+  event_json->>'$.location' LIKE '%comedy theater%'
+  -- LVDS multi-day events are courses
+  OR event_json ->> '$.location' LIKE '%LVDS%'
+) AND
+substr(event_json->>'$.startDate', 0, 10) 
+!= substr(event_json->>'$.endDate', 0, 10);
