@@ -795,53 +795,6 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Explore a New Cuisine with Strangers",
-    "description": "New flavors. New faces. Zero small talk.This table is all about stepping out of your comfort zone \u2014 one bite and one story at a time. Join a bunch of curious strangers (soon-to-be friends?) as we dive into a new cuisine and the conversations it inspires.Whether you're a foodie, a culture buff, or just here for the vibes, pull up a chair \u2014 there\u2019s always room at the table.Let\u2019s taste, talk, and explore something deliciously different together! \ud83d\udcab",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4C76860782194630BC56118AC8DD69F2_converted_webp.webp"
-    ],
-    "startDate": "2025-04-23T20:00:00+05:30",
-    "endDate": "2025-04-23T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Indiranagar, Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
-      "latitude": "12.97836920000000000000",
-      "longitude": "77.64083560000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1299.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/explore-new-cuisine-with-strangers-at-hightable",
-    "keywords": [
-      "Premium",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Explore a New Cuisine with Strangers",
     "description": "Try Something New, With Someone New \ud83c\udf72\u2728Ever shared a meal with a stranger and left feeling like friends? That\u2019s the vibe. This table is all about exploring a new cuisine, sharing stories, and letting good food do the heavy lifting.Come for the flavors, stay for the conversations. No pressure, no pretense \u2014 just a bunch of people bonding over something delicious.Let\u2019s make Wednesdays taste a little more exciting. \ud83c\udf7d\ufe0f\ud83d\udcac",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0E114B7D7D5E436B9335C799C4A5B19A_converted_webp.webp"
@@ -1415,6 +1368,53 @@
       "Local",
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Dreams by Akira Kurosawa - TPCC Bangalore",
+    "description": "\"Beyond himself, he is beautiful because the beauty is in the attitude of the director. This is evident not only in the didactic approach, but also in the whole slowness, in the quantity of respect and in the enormous, insolent security of the work. That a director in 1990 could be so strong, so serious, so moral and so hopeful, is already beautiful.\" - Donald RichieAn episodic adventure from Akira Kurosawa following eight dream-y vignettes of a \"surrogate Kurosawa\", spanning across various themes internalized by the director. A cognitive rendition of Kurosawa's own dreams and memories, the anthology film bleeds from one dream segment to another creating a universe of its own.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A034BE22CD01421DB2AE46CE3C182E2C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C1E519AB0A374ACFBFF643454C64A35A_converted_webp.webp"
+    ],
+    "startDate": "2025-05-01T19:45:00+05:30",
+    "endDate": "2025-05-01T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "395, 18th Main Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ902bOBoVrjsRZqcWFdG27vk",
+      "latitude": "12.94075940000000000000",
+      "longitude": "77.62343100000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 25,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "375.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Parallel Cinema Club",
+      "description": null,
+      "url": "https://urbanaut.app/partner/tpcc",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98860-01991"
+      }
+    },
+    "url": "https://urbanaut.app/spot/dreams-by-akira-kurosawa-tpcc-bangalore",
+    "keywords": [
+      "Art & culture",
       "URBANAUT"
     ]
   }
