@@ -1468,5 +1468,53 @@
       "Food & drink",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Cake Picnic",
+    "description": "Join us for India\u2019s first-ever Cake Picnic at Caf\u00e9 Azzure, MG Road, on 27th April from 4 PM to 6 PM, hosted by @zarascakelicious. Picture this: picnic vibes, cozy seating, and a whole lot of cake chaos! Bring along a homemade or bakery-bought cake to enjoy free entry and receive a special cake box to collect slices. You can dig into your own cake and also try up to two slices from other bakers\u2019 creations\u2014it\u2019s like a dessert potluck with sweet surprises! Guests are required to bring their own cake knives, while general cutlery will be provided by the caf\u00e9. Only vegetarian-friendly cakes are allowed (no animal gelatin), and eggless cakes are encouraged. Kindly pre-inform if your cake needs refrigeration. Every participant can also bring one guest for free. Limited spots available\u2014DM to register your cake! By attending, you agree to the event\u2019s terms and may appear in promotional photos or videos. Let\u2019s cake, chill, and make memories!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B334AEA2BBCA4422880EAC568393FD85_converted_webp.webp"
+    ],
+    "startDate": "2025-04-27T16:00:00+05:30",
+    "endDate": "2025-04-27T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJHR1AZocWrjsRoTaqyTLJvCw",
+      "latitude": "12.97501200000000000000",
+      "longitude": "77.60765580000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 25,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cafe Azzure",
+      "description": null,
+      "url": "https://urbanaut.app/partner/cafe-azzure",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/7A4A91243E954050BD05B17277086BC7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-95351-38309"
+      }
+    },
+    "url": "https://urbanaut.app/spot/cake-picnic",
+    "keywords": [
+      "Local",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
   }
 ]
