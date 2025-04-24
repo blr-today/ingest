@@ -597,6 +597,36 @@
     }
   },
   {
+    "name": "SIS x Klaa Kitchen Run",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Running-Beginner-Sunday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Running",
+    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Running-Beginner-Sunday",
+    "image": "https://sistersinsweat.com/images/event/20250424154554783.jpeg",
+    "location": {
+      "name": "Klaa",
+      "address": "846, ground and first floor, Indiranagar 1st stage 4th main, opposite Meragi, Paramahansa Yogananda Rd",
+      "type": "Place"
+    }
+  },
+  {
     "name": "Yoga Session",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.in/session-detail/yoga-SIS-community-women-sisterhood",
