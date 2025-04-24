@@ -118,6 +118,57 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Crack in the Pavement is a raw, immersive showcase rooted in the spirit of street culture. This one-of-a-kind event brings together streetwear pop-ups",
+      "endDate": "2025-05-04T23:59:00",
+      "identifier": "com.skillboxes.21577",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NjVPNExFSmt1N0V0emlwZFFTQTY5Zz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1745446130VwwA14BJtXAJUX7Z.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Culture and Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "104, Vijay Building, 4th Floor, near Empire Hotel, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.934622",
+            "longitude": "77.61583"
+         },
+         "name": "Hungry Hippie"
+      },
+      "name": "Crack in the Pavement",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits One Single Female Entry on purchase of this ticket.\n",
+            "inventoryLevel": 50,
+            "name": "Single Female",
+            "url": "https://www.skillboxes.com/events/ticket/crack-in-the-pavement"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits One Single Male Entry on purchase of this ticket.\n",
+            "inventoryLevel": 50,
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/crack-in-the-pavement"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits One Couple Entry on purchase of this ticket.\n",
+            "inventoryLevel": 50,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/crack-in-the-pavement"
+         }
+      ],
+      "startDate": "2025-05-04T13:00:00",
+      "url": "https://www.skillboxes.com/events/crack-in-the-pavement"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Redroom ft Qtee Rue at Kitty ko",
       "endDate": "2025-04-25T23:59:00",
       "identifier": "com.skillboxes.21575",
@@ -162,6 +213,49 @@
       ],
       "startDate": "2025-04-25T20:00:00",
       "url": "https://www.skillboxes.com/events/redroom-ft-qtee-rue-at-kitty-ko"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "We’re excited to bring you the second screening of the ALT EFF Film Club this year, featuring Deep Rising—an eye-opening documentary that ",
+      "endDate": "2025-05-16T22:00:00",
+      "identifier": "com.skillboxes.21543",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YU5zdVBYZGI1d1ZIWlBOMXpSRlFNdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1745438628ppsY6kkMKgefAyI1.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No.15, KHB MIG Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9381595",
+            "longitude": "77.617817"
+         },
+         "name": "Medai - The Stage Bengaluru"
+      },
+      "name": "Tickets & Membership_Bengaluru",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Deep Rising | 16/05/2025\n",
+            "inventoryLevel": 100,
+            "name": "One Time Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/tickets-membership-bengaluru-2"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "All Screening Pass | May to September\n",
+            "inventoryLevel": 50,
+            "name": "Membership_1 Year",
+            "url": "https://www.skillboxes.com/events/ticket/tickets-membership-bengaluru-2"
+         }
+      ],
+      "startDate": "2025-05-16T19:00:00",
+      "url": "https://www.skillboxes.com/events/tickets-membership-bengaluru-2"
    },
    {
       "@context": "https://schema.org",
@@ -245,24 +339,7 @@
          "name": "The Fat Chef"
       },
       "name": "Dine In w/FuKesh & Tushar @ The Fat Chef, Whitefield",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Table for 2 pax, Dine-In, Music & Sangria\n",
-            "inventoryLevel": 20,
-            "name": "RSVP: Table for 2",
-            "url": "https://www.skillboxes.com/events/ticket/dineim-w-fukesh-tushar-the-fat-chef-whitefield"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Table reservation for 4x pax, Dine-In, Music & Sangria\n",
-            "inventoryLevel": 12,
-            "name": "RSVP: Table for 4",
-            "url": "https://www.skillboxes.com/events/ticket/dineim-w-fukesh-tushar-the-fat-chef-whitefield"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2025-04-27T19:30:00",
       "url": "https://www.skillboxes.com/events/dineim-w-fukesh-tushar-the-fat-chef-whitefield"
    },

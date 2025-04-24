@@ -544,6 +544,60 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Wine Dinner: Battle of the Somms!",
+    "description": "Sommeliers Devati and Gargi are\u00a0bringing back the wine battle\u00a0\u2014 but this time, they're taking it poolside with a luxe dinner twist! After a wildly fun debut in Goa last year,\u00a0Battle of the Somm\u00a0returns for\u00a0Edition 2 in Bangalore, and it's a full-blown\u00a0Wine & Dine showdown\u00a0under the stars!Here\u2019s the plan:We\u2019ll pour you\u00a07 spectacular Australian wines\u00a0\u2014 starting with a fun welcome pour and then\u00a03 head-to-head wine flights where each of us showcases one wine per flight. You taste. You vote. By the end of the night, YOU decide\u00a0which somm\u2019s wine selection reigns supreme!Expect iconic wines only from\u00a0St Hugo, Two Hands, Yalumba\u00a0and more \u2014 showcasing Australia\u2019s bold, expressive wines at their absolute finest. To match? An\u00a0elevated 5-course modern Indian menu\u00a0\u2014 luxe flavours, playful plating, and inventive pairings, all served by the pool\u00a0at the beautiful\u00a0Spice Terrace, JW Marriott Bangalore.It\u2019s a wine dinner like no other \u2014 a night of discovery, fun banter, bold opinions and brilliant pairings \u2014 where\u00a0you\u2019re a part of the epic battle!Only\u00a020 seats\u00a0for this intimate, high-energy evening. Come for the wine, stay for the drama. Let the wine games begin!______________________________MenuSlice of India \u2013 Indian Cheese BarKalari, Chhurpi, Bandel, Kalimpong, Perad, Indian Gouda, Quadam, Topli na Paneer, Darjeeling SnowServed with Indian crackers, Gurbandi Mamra Badam Giri, Vengurla cashews, Pishori pista, dried aloo bukhara, Kashmiri akhrotPaired with:\u00a0Berton Vineyards, Metal Label Vermentino, RiverinaPass-around appetizers Ghutwa kebab | phool makhana, nadru, guchchi achaar (v)Daulat Ke Kebab | winter melon, beetroot carpaccio, mini blue cheese naan (v)Gulabi Gosht Lukmi | lamb mince, purple potato, fermented chilli caviar, mint aioli Petha Phool Pakoda | zucchini blossom tempura, kari patta lobster Paired with: Yalumba Y Series, Viognier, South Australia & Yalumba Y Series, Chardonnay, South AustraliaEntr\u00e9eTandoori Sweet Potato Mille-Feuille | burnt garlic & tamarind reduction, curry leaf crisps, micro sorrel (v)ORTandoori Octopus | sous-vide, charred, spiced with ajwain, coconut milk base, chilli oil drizzleORNargisi Lamb Kofta | spiced mango\u2013turmeric raita, micro herbsPaired with:\u00a0St Hugo Coonawarra Cabernet Sauvignon & Vasse Felix Cabernet Sauvignon, Margaret RiverPalate CleanserOrange Blossom Churan ChuskiMain CourseSunehri Dulma | portobello mushroom, chenna, bounty vegetables, 24k gold leaf, shallot truffle gravy, sunflower seed & cranberry baqarkhani (v)ORSunehri Kaliyan | pulled Hyderabadi lamb shank, 24k gold leaf, shallot truffle gravy, sunflower seed & cranberry baqarkhaniPaired with:\u00a0St Hugo Barossa Shiraz & Two Hands Angels' Share Shiraz, McLaren ValeDessertRose Cookie Ghevar | ruby chocolate whipped ganache, rose, pine nut kulfiQehwah | Mukhwas******",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/557367086E7E4AD6A60AA9D9F04E8F06_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/41CA8A290CCB41BEAC8F5C78660DACFB_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/37A8B62EB63844FAB3C28F9B0E6BE345_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/00882319C1D94897AB006B5B33EABE46_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/00C8D6CA3F2E48438139593B858AF9C6_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CBD8161BAE63414484E9E58ECDEAED89_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/96471D5FF5204F888BE163CEEEBC2C79_converted_webp.webp"
+    ],
+    "startDate": "2025-04-26T19:00:00+05:30",
+    "endDate": "2025-04-26T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "24/1, Vittal Mallya Rd, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJSWBhxHkWrjsRK6iI2w8G5yE",
+      "latitude": "12.97236180000000000000",
+      "longitude": "77.59505130000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 3,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "4500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Drink With D",
+      "description": "DWD is a Sommelier-led wine consulting and wine experience brand. Join us in exploring the fascinating world of wine through fun tastings and curated experiences!",
+      "url": "https://urbanaut.app/partner/drinkwithd",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/drwbzxdvf1-1707303470215dwdjpglogojpg.jpg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-88600-24590"
+      }
+    },
+    "url": "https://urbanaut.app/spot/wine-dine-battle-of-the-somms",
+    "keywords": [
+      "Leisure",
+      "Premium",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Girl Talk Chronicles: Talk Tresses",
     "description": "*Only for Women* \ud83c\udf38Where real talk meets hair talk\u2014and everything in between.\ud83d\udc87\u200d\u2640\ufe0fWelcome to Girl Talk Chronicles: Talk Tresses\u2014a space for unfiltered stories, deep connections, and conversations that feel like soul-care.It's the ultimate girls-only huddle where we let our hair down\u2014literally and emotionally. From DIY bangs gone wrong to salon therapy sessions, this table is all about the magic, mayhem, and memories tied to our tresses.Expect heart-to-hearts, laughter that echoes, and stories that stick. It's more than just hair\u2014it's healing, history, and a whole lot of sass.",
@@ -615,7 +669,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 44,
+    "remainingAttendeeCapacity": 40,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1096,7 +1150,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1147,7 +1201,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
