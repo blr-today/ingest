@@ -14,6 +14,8 @@ event_type_mapper = {
     "Masterclass": "EducationEvent",
     "Performance": "VisualArtsEvent",
     "Workshop": "EducationEvent",
+    "Event": :"Event",
+    "Walkthrough": "EducationEvent",
 }
 session = get_cached_session()
 
