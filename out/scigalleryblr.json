@@ -60,7 +60,7 @@
         "name": "Sharada Srinivasan"
       }
     ],
-    "maximumAttendeeCapacity": 60
+    "maximumAttendeeCapacity": 180
   },
   {
     "@type": "EducationEvent",
@@ -161,5 +161,68 @@
       }
     ],
     "maximumAttendeeCapacity": 180
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Lessons from the Land",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-05-17T16:00:00+05:30",
+    "endDate": "2025-05-17T18:00:00+05:30",
+    "description": "From agriculture and real estate to mining and conservation, land is constantly being reordered in ways that are often contested and complex. As rural worlds become disembedded and de-agrarianisation takes hold, what gets left behind? This shift brings with it the loss of symbiotic relationships with land, traditional knowledge systems, cultural lifeways, and a deep sense of belonging.<br><br>Join A R Vasavi for as she explores how shifting land use is reshaping our environments, identities, and ways of life in the contemporary world.<br><br>This programme is in collaboration with Infosys Science Foundation.<br>",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=lessons-from-land",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Ar-Vasavi"
+      }
+    ],
+    "maximumAttendeeCapacity": 100
+  },
+  {
+    "@type": "Event",
+    "name": "Dear Earth, It's Complicated: Sci560 Exhibition Walkthrough",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-04-26T17:30:00+05:30",
+    "endDate": "2025-04-26T19:30:00+05:30",
+    "description": "How often do we stop to smell flowers, hear birdsongs, or hug trees in Namma Garden City? Has it always been like this?<br><br>How has our relationship with the Earth changed over the past few decades? Where do we fall in its intricate web of life?<br><br>Join our mediators, Aslaha and Gaayatri for a guided walkthrough of the Sci560 exhibition, where we will reflect on our evolving connection with the Earth.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=dear-earth-complicated",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sgb-Team"
+      }
+    ],
+    "maximumAttendeeCapacity": 120
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Behind the Buzz: Rethinking Data Science Today",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-05-10T16:00:00+05:30",
+    "endDate": "2025-05-10T18:00:00+05:30",
+    "description": "Data science has become a buzzword as a way of providing solutions to all kinds of problems. Today, there is a lot of  speculation around technology, especially data science. <br>However, is data science still festering older biases? How much can we trust the solutions provided? How dependent are we becoming on data science? <br><br>While it is true that data science can solve challenging problems, concerns remain that it is equally vulnerable to arriving at erroneous conclusions and can be subjected to methodological abuse. <br><br>Join Jayant Harista for a thought provoking lecture pushing the conversation around data science in the contemporary world.<br><br>This programme is in collaboration with Infosys Science Foundation.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=behind-the-buzz",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Jayant-Harista"
+      }
+    ],
+    "maximumAttendeeCapacity": 100
   }
 ]
