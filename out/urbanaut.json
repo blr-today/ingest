@@ -1479,5 +1479,54 @@
       "Art & culture",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Silent Hour @ the STUDIO",
+    "description": "Take a pause from the rush of life and enter a space of quiet presence with our Silent Hours, happening every alternate Tuesday. This is your invitation to retreat from the noise, slow down, and reconnect with yourself in a gentle, mindful way.In our cozy, peaceful studio, you\u2019re welcome to embrace stillness in a way that feels right for you, whether it\u2019s meditating, reading, journaling, breathing deeply, stretching on your mat, crocheting, or simply sitting in quiet reflection. Let this be a moment to unplug from screens and distractions, creating a shared atmosphere of calm where every breath and movement holds intention.If you wish to, you can extend this practice into a silent, mindful dinner in our dining space. Eating in silence offers a beautiful way to slow down, savour each bite with full awareness, and deepen your connection to the present moment. Whether you dine solo or share this experience with a loved one, it\u2019s a grounding and peaceful close to your evening.The Silent Hour then gently transitions into a sharing circle, where we come together to reflect, express, and connect before we part ways.Come as you are, and allow yourself this simple yet profound gift of presence. \ud83d\udc9bKindly note, its mandatory for participants need to handover the phone and any other multi-media gadgets to one of us. This is to support and nurture one's own mindfulness.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A3758D47A38641C58EC1D34BFFF02FCE_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/95D9A3E9632B4F53BE65992DCA781255_converted_webp.webp"
+    ],
+    "startDate": "2025-04-29T19:30:00+05:30",
+    "endDate": "2025-04-29T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "199.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/silenthour5",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Food & drink",
+      "URBANAUT"
+    ]
   }
 ]

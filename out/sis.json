@@ -119,35 +119,6 @@
     }
   },
   {
-    "name": "Yoga with The Sisters",
-    "@type": "SocialEvent",
-    "url": "https://sistersinsweat.in/session-detail/Yoga-with-Sisters",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SESSION"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.in"
-    },
-    "description": "See more details at https://sistersinsweat.in/session-detail/Yoga-with-Sisters",
-    "image": "https://sistersinsweat.com/images/event/20250424121232435.jpeg",
-    "location": {
-      "name": "Cubbon Park",
-      "address": "Kasturba Road, Bangalore",
-      "type": "Place"
-    }
-  },
-  {
     "name": "Cooking Workshop With Hello Tempayy",
     "@type": "FoodEvent",
     "url": "https://sistersinsweat.in/event-detail/Women-bangalore-cookingworkshop-sunday",
@@ -560,6 +531,35 @@
     "sport": "community",
     "description": "See more details at https://sistersinsweat.in/session-detail/yoga-SIS-community-women-sisterhood",
     "image": "https://sistersinsweat.com/images/event/20250421142744159.jpg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "Yoga with The Sisters",
+    "@type": "SocialEvent",
+    "url": "https://sistersinsweat.in/session-detail/Yoga-with-Sisters",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SESSION"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "description": "See more details at https://sistersinsweat.in/session-detail/Yoga-with-Sisters",
+    "image": "https://sistersinsweat.com/images/event/20250425100549242.jpg",
     "location": {
       "name": "Cubbon Park",
       "address": "Kasturba Road, Bangalore",
