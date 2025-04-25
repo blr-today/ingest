@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General admission || Valid for one individual || For Age(s) 21+\nAn additional cover charge of INR 799 per individual is applicable at the gates. Redeemable on F&B",
-            "inventoryLevel": 67,
+            "inventoryLevel": 59,
             "name": "Early Bird Single || GA",
             "url": "https://www.skillboxes.com/events/ticket/matthew-ifield-live-in-bengaluru"
          },
@@ -118,6 +118,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Rian Wood, Class 86 `Originally from Caserta, he is a Dj / Producer of the international Hard techno scene. He expresses his passion for music through",
+      "endDate": "2025-05-04T23:59:00",
+      "identifier": "com.skillboxes.21680",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dFovTkt6QWcyQW8rVnFNSEdMWnppQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1745603595eWRLN3YdkFukrOuy.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, Amblipura, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9150698",
+            "longitude": "77.6664367"
+         },
+         "name": "Ignite Super Club"
+      },
+      "name": "HARDGROUND BENGALURU",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entry to one person throughout the event\nCover charge applicable at venue",
+            "inventoryLevel": 150,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/hardground-bengaluru-1"
+         }
+      ],
+      "startDate": "2025-05-04T18:00:00",
+      "url": "https://www.skillboxes.com/events/hardground-bengaluru-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "The Starseed Signal is a transformative spiritual program crafted by AstralHQ, intended to aid individualsespecially those who consider themselves sta",
       "endDate": "2026-04-17T19:45:00",
       "identifier": "com.skillboxes.21659",
@@ -175,58 +210,6 @@
       ],
       "startDate": "2025-05-09T20:00:00",
       "url": "https://www.skillboxes.com/events/junket-x-amnap-records-present-jenson-interceptor-more"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Hash takes over the decks at PizzaExpress Indiranagar for a Listening Party shaped by emotion, rhythm, and flow. Rooted in house music ",
-      "endDate": "2025-04-25T22:30:00",
-      "identifier": "com.skillboxes.21621",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MlFrYVI3MHdFZ0FSZVkxMXpCSzhLQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1745506933l1iCLadTLIjUAmEp.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "952, 12th Main Rd, North, Sodepur, Appareddipalya, Domlur, Bengaluru, Karnataka 560038, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.970219",
-            "longitude": "77.6390941"
-         },
-         "name": "PizzaExpress Indiranagar"
-      },
-      "name": "Listening Party ft Hash",
-      "offers": [ ],
-      "startDate": "2025-04-25T21:00:00",
-      "url": "https://www.skillboxes.com/events/listening-party-ft-hash"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Your Marble Table AwaitsOn 25th April, discover fresh stories as Songwriter Sessions lights up the evening at PizzaExpress Koramangala. Meher brings i",
-      "endDate": "2025-04-25T23:00:00",
-      "identifier": "com.skillboxes.21620",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MlFrYVI3MHdFZ0FSZVkxMXpCSzhLQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17455067465019yYbptNDfQCWg.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Ground Floor, 136, 1st Cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9337113",
-            "longitude": "77.6214992"
-         },
-         "name": "PizzaExpress"
-      },
-      "name": "Songwriter Sessions ft Meher & Sylvester Pradeep",
-      "offers": [ ],
-      "startDate": "2025-04-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/songwriter-sessions-ft-meher-sylvester-pradeep"
    },
    {
       "@context": "https://schema.org",
@@ -351,110 +334,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Redroom ft Qtee Rue at Kitty ko",
-      "endDate": "2025-04-25T23:59:00",
-      "identifier": "com.skillboxes.21575",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1745482862M9VMVuuwX4pnIZSo.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "HOTEL, THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Redroom ft Qtee Rue at Kitty ko",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows entry to 1 Couple, Extra cover charge of INR 1000/- is applicable post 9:30 pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "PHASE 1 COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-qtee-rue-at-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows entry to 1 Male, Extra cover charge of INR 1000/- is applicable post 9:30 pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "PHASE 1 MALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-qtee-rue-at-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows entry to 3 Female.\n",
-            "inventoryLevel": 100,
-            "name": "GROUP OF 3 FEMALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-qtee-rue-at-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows entry to 2 Couple, Extra cover charge of INR 1000/- per Couple applicable post 9:30 pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "GROUP OF 2 COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-qtee-rue-at-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows entry to 3 Couple, Extra cover charge of INR 1000/- per Couple applicable post 9:30 pm walk-in at the venue\n",
-            "inventoryLevel": 100,
-            "name": "GROUP OF 3 COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-qtee-rue-at-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows entry to 3 Male, Extra cover charge of INR 1000/- per person applicable post 9:30 pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "GROUP OF 3 MALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-qtee-rue-at-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows entry to 5 Male, Extra cover charge of INR 1000/- per person applicable post 9:30 pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "Group Of 5 Male",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-qtee-rue-at-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Early Bird || Female",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-qtee-rue-at-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Early Bird || Couple",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-qtee-rue-at-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Early Bird || Male",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-qtee-rue-at-kitty-ko"
-         }
-      ],
-      "startDate": "2025-04-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/redroom-ft-qtee-rue-at-kitty-ko"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "We’re excited to bring you the second screening of the ALT EFF Film Club this year, featuring Deep Rising—an eye-opening documentary that ",
       "endDate": "2025-05-16T22:00:00",
       "identifier": "com.skillboxes.21543",
@@ -494,40 +373,6 @@
       ],
       "startDate": "2025-05-16T19:00:00",
       "url": "https://www.skillboxes.com/events/tickets-membership-bengaluru-2"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "After opening the second leg of their India tour in Coimbatore, Lakkshya, the Bangalore-based contemporary Indian music collective, returns home for a",
-      "endDate": "2025-04-25T23:59:00",
-      "identifier": "com.skillboxes.21528",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1745392392cm5wluJdquLBtWIa.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No.15, KHB MIG Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9381595",
-            "longitude": "77.617817"
-         },
-         "name": "Medai - The Stage Bengaluru"
-      },
-      "name": "Ecstasy by Lakkshya – Live in Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Early Bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/ecstasy-by-lakkshya-live-in-bangalore"
-         }
-      ],
-      "startDate": "2025-04-25T19:30:00",
-      "url": "https://www.skillboxes.com/events/ecstasy-by-lakkshya-live-in-bangalore"
    },
    {
       "@context": "https://schema.org",
@@ -650,91 +495,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Your Friday Forecast: 100% Chance of Awesome Beats!Join us for Mixtape Madness at the gorgeous Skydeck by Sherlock's this Friday, April 25th! We're ma",
-      "endDate": "2025-04-25T23:59:00",
-      "identifier": "com.skillboxes.21449",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1745240596p8E7JtGBgU4z9jW1.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750296",
-            "longitude": "77.6075339"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "Mixtape Madness | Best Bollytech DJ Night In Town",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "GUEST LIST",
-            "url": "https://www.skillboxes.com/events/ticket/mixtape-madness-best-bollytech-dj-night-in-town"
-         }
-      ],
-      "startDate": "2025-04-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/mixtape-madness-best-bollytech-dj-night-in-town"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Astralworx Presents Heat",
-      "endDate": "2025-04-25T23:59:00",
-      "identifier": "com.skillboxes.21440",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1745237762n7Zk8Nzc8es6ZOXI.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "1/1, Swami Vivekananda Road, Mahatma Gandhi Rd, Halasuru, Someshwarpura, Bengaluru, Karnataka 560008, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.973455",
-            "longitude": "77.621801"
-         },
-         "name": "Hyatt Centric"
-      },
-      "name": "Astralworx Presents Heat",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charge applicable at the gate.\n",
-            "inventoryLevel": 751,
-            "name": "Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/astralworx-presents-heat"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charge applicable at the gate.\n",
-            "inventoryLevel": 979,
-            "name": "Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/astralworx-presents-heat"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charge applicable at the gate.\n",
-            "inventoryLevel": 962,
-            "name": "Couple Pass",
-            "url": "https://www.skillboxes.com/events/ticket/astralworx-presents-heat"
-         }
-      ],
-      "startDate": "2025-04-25T18:00:00",
-      "url": "https://www.skillboxes.com/events/astralworx-presents-heat"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "JUST US LEAGUE meets Jst Nois\r\n\r\nYou know the drill:\r\n\r\nWHO'S PLAYING - COME, FIND OUT!",
       "endDate": "2025-04-27T23:59:00",
       "identifier": "com.skillboxes.21435",
@@ -793,7 +553,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Congratulations - Thank you for supporting independent artists.\nAdmit 1",
-            "inventoryLevel": 246,
+            "inventoryLevel": 245,
             "name": "RAW AND REAL",
             "url": "https://www.skillboxes.com/events/ticket/raw-and-real-1"
          }
@@ -828,7 +588,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Club rules apply, Rights of admission reserved\nCover charges applicable",
-            "inventoryLevel": 151,
+            "inventoryLevel": 112,
             "name": "GL STAG",
             "url": "https://www.skillboxes.com/events/ticket/a-night-of-slate-12th-edition-mirage-bengaluru"
          },
@@ -836,7 +596,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Club rules apply, Rights of admission reserved\nCover charges applicable post 9 PM",
-            "inventoryLevel": 178,
+            "inventoryLevel": 161,
             "name": "GL COUPLE",
             "url": "https://www.skillboxes.com/events/ticket/a-night-of-slate-12th-edition-mirage-bengaluru"
          },
@@ -844,7 +604,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Club rules apply\nRights of admission reserved",
-            "inventoryLevel": 193,
+            "inventoryLevel": 181,
             "name": "GL FEMALE",
             "url": "https://www.skillboxes.com/events/ticket/a-night-of-slate-12th-edition-mirage-bengaluru"
          }
@@ -874,32 +634,7 @@
          "name": "Ignite Super Club"
       },
       "name": "Sachin Chabra Live Friday , Ignite",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass give entry to one Couple, Cover charge post 9:30 PM\n",
-            "inventoryLevel": 500,
-            "name": "Couples",
-            "url": "https://www.skillboxes.com/events/ticket/sachin-chabra-live-friday-ignite"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass give entry to one stag , Cover charge at venue\n",
-            "inventoryLevel": 500,
-            "name": "Stag",
-            "url": "https://www.skillboxes.com/events/ticket/sachin-chabra-live-friday-ignite"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each pass give entry to one Lady\n",
-            "inventoryLevel": 500,
-            "name": "Lady",
-            "url": "https://www.skillboxes.com/events/ticket/sachin-chabra-live-friday-ignite"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2025-04-25T20:00:00",
       "url": "https://www.skillboxes.com/events/sachin-chabra-live-friday-ignite"
    },
@@ -1145,41 +880,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bengaluru, Open Your Heart: A Sufi Night with Shahzad Ali At Radiobar🎸 Sufi Mehfil With Shahzad Ali🗓 25th April, 2025🕗 9:00 PM",
-      "endDate": "2025-04-25T23:59:00",
-      "identifier": "com.skillboxes.21273",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Z1U1QmJGQWVDOWhZSGFneWRGREExdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1744880599zgKCyBYPCJasPzr0.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9208664",
-            "longitude": "77.6859185"
-         },
-         "name": "Radio Bar Bangalore"
-      },
-      "name": "Sufi Mehfil With Shahzad Ali",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "suraj@paneraihospitality.com\n999/- Fully Cover",
-            "inventoryLevel": 50,
-            "name": "Sufi Mehfil With Shahzad Ali",
-            "url": "https://www.skillboxes.com/events/ticket/sufi-mehfil-with-shahzad-ali"
-         }
-      ],
-      "startDate": "2025-04-25T21:00:00",
-      "url": "https://www.skillboxes.com/events/sufi-mehfil-with-shahzad-ali"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Pebble x Levitate x Soul Kollektiv presents: Ge-Ology\r\n\r\nDate: Saturday, April 27th\r\n\r\nTime: 12 PM – 12:30 AM\r\n\r\nVenue: Pebble, Bangalore\r\n\r\n&nb",
       "endDate": "2025-04-27T23:59:00",
       "identifier": "com.skillboxes.21258",
@@ -1310,41 +1010,6 @@
       ],
       "startDate": "2025-05-04T20:30:00",
       "url": "https://www.skillboxes.com/events/moshpit-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Indie Fridays ft. Headshot \r\n\r\n \r\n\r\nSupporting Acts - Sophia and the Spade pirates ",
-      "endDate": "2025-04-25T23:59:00",
-      "identifier": "com.skillboxes.21238",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1744791500Z5lLXrGoeP4hZPzO.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9313063",
-            "longitude": "77.6329297"
-         },
-         "name": "Bira 91 Taproom, Koramangala"
-      },
-      "name": "Indie Fridays ft. Headshot",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional 300 cover charge at gate\n",
-            "inventoryLevel": 966,
-            "name": "Entry Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/indie-friday-headshot"
-         }
-      ],
-      "startDate": "2025-04-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/indie-friday-headshot"
    },
    {
       "@context": "https://schema.org",
@@ -2232,52 +1897,6 @@
       ],
       "startDate": "2025-04-27T14:00:00",
       "url": "https://www.skillboxes.com/events/the-bean-grill-open-mic-16"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Highlights:DJ Night Ft DJ JazzyBollywood and Commercial MusicNon Stop MusicGreat AmbienceThis Friday, get ready to groove to the best of Bollywoo",
-      "endDate": "2025-04-25T00:30:00",
-      "identifier": "com.skillboxes.18110",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1743704877dQfbLYzDCSoIuqGe.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "104, 1st Main, 5th Block,3rd Floor, Jatti Building, Koramangla, Bangalore, India",
-         "name": "Drava"
-      },
-      "name": "Friday Bollywood Ladies Night- Drava Kormangala",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "cover charges applicable throughout  the event\n",
-            "inventoryLevel": 88,
-            "name": "Stag",
-            "url": "https://www.skillboxes.com/events/ticket/friday-welcome-2025-skydeck-rooftop-mg-road"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry till 0930pm post cover charges applicable\n",
-            "inventoryLevel": 92,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/friday-welcome-2025-skydeck-rooftop-mg-road"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow one single entry\n",
-            "inventoryLevel": 100,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/friday-welcome-2025-skydeck-rooftop-mg-road"
-         }
-      ],
-      "startDate": "2025-04-21T20:00:00",
-      "url": "https://www.skillboxes.com/events/friday-welcome-2025-skydeck-rooftop-mg-road"
    },
    {
       "@context": "https://schema.org",
