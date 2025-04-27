@@ -655,53 +655,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Sunday Breakfast with Strangers",
-    "description": "Make Your Sunday Shine with New Connections!\u2728Join us for Sunday Breakfast with Strangers \u2013 a perfect chance to meet new people, share stories, and enjoy a relaxed morning together. It's the perfect way to start your day with new connections and great conversations! \ud83c\udf1f ",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/25C06C3B377D4BE38710E53F7F9A442A_converted_webp.webp"
-    ],
-    "startDate": "2025-04-27T10:00:00+05:30",
-    "endDate": "2025-04-27T11:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Indiranagar, Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
-      "latitude": "12.97836920000000000000",
-      "longitude": "77.64083560000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/sunday-breakfast-with-strangers-at-hightable",
-    "keywords": [
-      "Leisure",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Art Uncorked",
     "description": "Just good vibes, great conversations & a glass of wine.\ud83c\udf77Ever felt like the art world is too complicated or not meant for you? You're not alone. This table is a gentle introduction to the world of art\u2014what it means, how to appreciate it, and even how it can be part of your life.We\u2019ll chat about everything from what makes a piece special to how you can start exploring art without feeling overwhelmed. No fancy terms, no pressure\u2014just an open space to learn, share, and enjoy.Whether you're a total beginner or just curious, come hang out with like-minded folks, ask questions, and maybe even find a piece of art you love!",
