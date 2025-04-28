@@ -105,6 +105,27 @@
     "maximumAttendeeCapacity": 100
   },
   {
+    "@type": "Event",
+    "name": "Dear Earth, It's Complicated: Sci560 Exhibition Walkthrough",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-05-04T17:30:00+05:30",
+    "endDate": "2025-05-04T19:30:00+05:30",
+    "description": "How often do we stop to smell flowers, hear birdsongs, or hug trees in Namma Garden City? Has it always been like this?<br><br>How has our relationship with the Earth changed over the past few decades? Where do we fall in its intricate web of life?<br><br>Join our mediators, Aslaha and Gaayatri for a guided walkthrough of the Sci560 exhibition, where we will reflect on our evolving connection with the Earth.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=dear-earth-complicated",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sgb-Team"
+      }
+    ],
+    "maximumAttendeeCapacity": 120
+  },
+  {
     "@type": "EducationEvent",
     "name": "Behind the Buzz: Rethinking Data Science Today",
     "location": {
