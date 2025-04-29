@@ -1,35 +1,5 @@
 [
   {
-    "name": "Football Game-Night Sisters & Misters",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Football-Intermediate-Tuesday-29-April",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.in"
-    },
-    "sport": "Football",
-    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Football-Intermediate-Tuesday-29-April",
-    "image": "https://sistersinsweat.com/images/event/20250325180827331.jpeg",
-    "location": {
-      "name": "Rush Arena",
-      "address": "Rush Arena, Cooke TownJaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
-      "type": "Place"
-    }
-  },
-  {
     "name": "Basketball Game, Night Sisters & Misters",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Basketball-Intermediate-Tuesday1",
@@ -535,6 +505,36 @@
     "location": {
       "name": "Cubbon Park",
       "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "Football Game-Night Sisters & Misters",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/session-detail/Women-Bangalore-Football-Intermediate-Tuesday-29-April",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Football",
+    "description": "See more details at https://sistersinsweat.in/session-detail/Women-Bangalore-Football-Intermediate-Tuesday-29-April",
+    "image": "https://sistersinsweat.com/images/event/20250325180827331.jpeg",
+    "location": {
+      "name": "Rush Arena",
+      "address": "Rush Arena, Cooke TownJaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
       "type": "Place"
     }
   }
