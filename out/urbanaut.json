@@ -896,6 +896,54 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "An Evening of Indulgence with Wine & Cigar",
+    "description": "Step into an immersive evening where bold flavors, elegant rituals, and refined indulgence come together at The Pour Room. This is a curated wine and cigar pairing experience designed for those who appreciate the finer things \u2014 or are ready to explore them.This exclusive evening will showcase two distinct wines \u2014 a full-bodied Chardonnay with its rich, buttery notes of tropical fruit and oak, and a deep, structured Cabernet Sauvignon & Sangiovese blend. Each will be thoughtfully paired with Rocky Patel cigars that elevate and complement their profiles \u2014 .You\u2019ll not only taste, but learn \u2014 how to cut, light, and smoke a cigar with finesse, how to swirl and sip your wine like a sommelier, and how pairing the right cigar can unlock entirely new flavor dimensions.Whether you\u2019re a seasoned aficionado or a curious first-timer, this is your invitation to a night of luxury, learning, and laid-back conversation. Come for the flavor, stay for the experience.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/02EDCB221E9B4C0F986DCEA6AF65623B_converted_webp.webp"
+    ],
+    "startDate": "2025-05-10T19:00:00+05:30",
+    "endDate": "2025-05-10T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1st Floor, 5th Block, 136, 1st Cross Road, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJaXklYi0VrjsRy5_ZD8a_0X8",
+      "latitude": "12.93517850000000000000",
+      "longitude": "77.61765330000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Pour Room",
+      "description": "A collaborative space by Blue Tokai and Fratelli, focused on coffee, wine, and experimental experiences.",
+      "url": "https://urbanaut.app/partner/thepourroom",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/15C8B4C18A914FDA8D19FB4E4B117CD3_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98187-02861"
+      }
+    },
+    "url": "https://urbanaut.app/spot/an-evening-of-indulgence-with-wine-cigar",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Spirited Away - Summer Retreat (1 or 2 nights)",
     "description": "Come away with us to where the green grass grows!\u00a0This is no ordinary summer retreat. Instead, we've designed a perfect mix of art, activity and leisure. And of course, you can also simply sit back and take in the summer air. Set in a lovely organic farm off the grid, Spirited Away is your chance to reset and energise yourself.Bring friends, bring partners, bring your entire family. Be it seniors or kids, we've got something for everyone.We have five facilitators on board to help you make the most of your stay. They bring expertise and experience, but most importantly, they bring passion. With them, you can see the world through a new lens -- and who knows, you could go back with a new hobby!What's on the menu?\u00a0Cycling | Hiking | YogaArt | Poetry | PhotographyOrganic Farming | Birdwatching | Nature WalksAlso on the cards: Games, Quizzes, and an exclusive outdoor Movie ScreeningHow long is the retreat? We have two options:1 Day Away/ Spirited Away Once - Arrive May 9 Friday 6pm, depart May 10 Saturday 6pm2 Days Away / Spirited Away Twice - Arrive May 9 Friday 6pm, depart May 11 Sunday 12pmAccomodation: Acommodation has been arranged at a beautiful homestay called Rocky Ridge\u00a0Earthy Cottages with attached bath (Exclusively for early-bird registrations!)Rustic Tents with clean bathroom facilitiies right nextdoorFood: Farm-fresh meals with multicuisine options and foodie favouritesFacilitators\u00a0Dheeraj Subramanian - Co-founder of Pedal in Tandem, Bicycle Tour GuidePoojya Basavaraj - Co-founder of Pedal in Tandem, Bicycle Tour Guide, Yoga InstructorRadha Rangarajan - Writer, Photographer & NaturalistSuchi Govindarajan - Writer, Poet & Nature-GuideGirish - Organic Farmer & Owner of Rocky Ridge FarmITINERARY09-May-2025\u00a0Check in by early evening and start your holiday------------------------\t10-May-2025Choose your own adventure -Birdwatching & Yoga : Find birdsong and balance before heading to breakfastOR Bicycle Ride : 20km or 40km through verdant country roadsLearn Something new -Bicycle Mechanics : Learn to make the most of your machineOR Organic farming : Learn about natural practices at the farmCreative Afternoon -Phone Photography : Learn to photograph like a pro\u00a0OR Poetry & Art : Discover your inner artistEasy Sunset Hike -Hike to a nearby hill and enjoy the sunset & valley panoramaQuiz & Movie night -Fun quiz with the group and enjoy a special movie------------------------11-May-2025Sunrise ride and walk in a Reserve forest -Ride on a tractor to a beautiful lake and walk through the forestPicnic breakfast and Mindfulness session -Walk up a beautiful hill and restore body and mind------------------------",
@@ -1880,6 +1928,57 @@
       "Premium",
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Whispers Within: Breathe, Feel, Heal",
+    "description": "What is Circular Connected Breathing (CCB)?Circular Connected Breathing is a simple yet profound practice where the inhale and exhale flow continuously without noticeable pauses. This rhythmic breath anchors you into the body\u2019s innate wisdom, calms the mind, and opens a gateway to emotional healing, deeper awareness, and self-integration. As the body relaxes into the breathing cycle, hidden memories, emotions, and insights can gently surface, offering a powerful space for transformation.About the Experience:There is a part of you that learned early to strive, survive, and stay strong but beneath it all, your inner child still carries the imprints of unmet needs, longings, and emotional wounds.In\u00a0Whispers Within, a Circular Connected Breathing Journey held in a nurturing and gentle space, we create a bridge between your wise adult self and the tender child within. The Flow of the Journey:We begin with a soft grounding practice to arrive into the body and gently preparing the nervous system.You'll be invited to set an inner intention for the journey.From there, we move into the Circular Connected Breathing session, allowing the breath to guide you into deeper layers of emotional memory, connection, and healing.We will close with a gentle meditation, a short reflective writing exercise and an optional sharing circle to help integrate your experience with care and tenderness.Through breath and loving presence, you\u2019ll be invited to:\u2728 Recognize the emotional patterns rooted in childhood experiences\u2728 Meet the needs of your inner child with compassion and understanding\u2728 Heal the push-pull between responsibility and emotional vulnerability\u2728 Reclaim spontaneity, softness, and emotional wholenessThis is not about fixing or forcing change.It\u2019s about listening, honouring, and gently negotiating between your inner child and adult self so you can walk forward in life with more freedom and authenticity.Please bring:A yoga mat and anything you need to feel cozy lying down (scarf, eye mask, shawl, etc.)About the Facilitator:Maria is an intuitive healer and guide who transitioned from a thriving corporate career to the healing arts.\u00a0With over 8 years of experience, she weaves Breathwork, Reiki, Tarot, Access Bars, Shadow Constellations, and psychotherapy-inspired methods into deeply grounding and expansive journeys. Her sessions create space for emotional, spiritual and energetic healing - inviting you to drop into your body, regulate your nervous system and return home to yourself.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0DF5C24688F448B2A3EB573678FCC862_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C4C9953E81D94A2E9BA8A98506740242_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/95B191C65EBB429E998F24E250DED2AC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3C6BA3A340D048568786246D619BAD1B_converted_webp.webp"
+    ],
+    "startDate": "2025-05-04T17:30:00+05:30",
+    "endDate": "2025-05-04T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd floor, 35, 1st Cross Rd, near Honda Haiku Service center, K.R.Colony, Krishna Reddy Layout, Amarjyoti Layout, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZ5BzQwAVrjsRzXqokGmN8vs",
+      "latitude": "12.95574400000000000000",
+      "longitude": "77.63727999999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1800.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ethereal Vibes",
+      "description": "Ethereal Vibes is where soulful healing meets cosmic sass. With 8+ years in energy work, I offer transformative sessions blending Breathwork, Reiki, Shadow Constellations, Access Bars and Tarot plus Reiki-infused products like chakra salts and crystal bracelets to support daily ritual and self-care.",
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/0DAD3DE0FC914DB3A925032EB48F0B19_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96636-33440"
+      }
+    },
+    "url": "https://urbanaut.app/spot/whispers-within-a-circular-breathing-journey",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Eco Friendly",
       "URBANAUT"
     ]
   },

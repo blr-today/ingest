@@ -72,6 +72,41 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2025-05-03T08:00:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Intro to Evolution with WKND School",
+      "sameAs": "https://underline.center/t/386",
+      "startDate": "2025-05-03T06:00:00.000Z",
+      "url": "https://www.district.in/intro-to-evolution-with-wknd-school-may3-2025/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "endDate": "2025-05-03T17:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -103,6 +138,41 @@
       "sameAs": "https://underline.center/t/161",
       "startDate": "2025-05-03T12:30:00.000Z",
       "url": "https://forum.reroll.in/t/2201"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2025-05-04T17:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Sunday Game Night",
+      "sameAs": "https://underline.center/t/141",
+      "startDate": "2025-05-04T12:30:00.000Z",
+      "url": "https://www.district.in/sunday-game-night-with-reroll-board-games/event"
    },
    {
       "@context": "https://schema.org",
