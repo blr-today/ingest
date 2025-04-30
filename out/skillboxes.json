@@ -508,7 +508,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 9,
+            "inventoryLevel": 4,
             "name": "Performer",
             "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-23"
          },
@@ -928,7 +928,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 25,
+            "inventoryLevel": 24,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/jackfruit-dance-party"
          }
@@ -998,7 +998,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "JUNKET x Amnap Records present a full-throttle night of raw electronic energy ⚡️\nHeadlining the night is the formidable Jensen Interc",
+      "description": "JUNKET x Amnap Records present a full-throttle night of raw electronic energy ⚡️\r\n \r\n\r\nHeadlining the night is the formidable Jensen Intercep",
       "endDate": "2025-05-09T23:59:00",
       "identifier": "com.skillboxes.21645",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1745563968OtJskg6lkQfWBcl8.jpg.webp",
@@ -1321,7 +1321,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable through out the event\n",
-            "inventoryLevel": 500,
+            "inventoryLevel": 492,
             "name": "Stag",
             "url": "https://www.skillboxes.com/events/ticket/saturday-desi-nights"
          },
@@ -1336,7 +1336,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 500,
+            "inventoryLevel": 499,
             "name": "Couple",
             "url": "https://www.skillboxes.com/events/ticket/saturday-desi-nights"
          }
@@ -1743,32 +1743,7 @@
          "name": "HAPPY BREW"
       },
       "name": "Tease Tuesdays @ Happy brew kormangala",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable through out the event\n",
-            "inventoryLevel": 497,
-            "name": "Stag",
-            "url": "https://www.skillboxes.com/events/ticket/tease-tuesdays-happy-brew-kormangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow one single entry\n",
-            "inventoryLevel": 500,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/tease-tuesdays-happy-brew-kormangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "free entry till 0930pm post cover charges applicable\n",
-            "inventoryLevel": 499,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/tease-tuesdays-happy-brew-kormangala"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2025-04-29T20:00:00",
       "url": "https://www.skillboxes.com/events/tease-tuesdays-happy-brew-kormangala"
    },
@@ -1856,7 +1831,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "cover charges applicable throughout  the event\n",
-            "inventoryLevel": 88,
+            "inventoryLevel": 79,
             "name": "Stag",
             "url": "https://www.skillboxes.com/events/ticket/friday-welcome-2025-skydeck-rooftop-mg-road"
          },
@@ -1923,7 +1898,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "cover charges applicable at venue\n",
-            "inventoryLevel": 99,
+            "inventoryLevel": 90,
             "name": "Stag",
             "url": "https://www.skillboxes.com/events/ticket/saturday-hangover-blockbuster-night-2"
          }
