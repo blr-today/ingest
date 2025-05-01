@@ -82,7 +82,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -673,7 +673,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -724,7 +724,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -772,7 +772,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 23,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1073,7 +1073,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 75,
-    "remainingAttendeeCapacity": 67,
+    "remainingAttendeeCapacity": 63,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1984,6 +1984,108 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Tarot Round Table",
+    "description": "Join Us for a Circle Tarot Meetup!Are you ready to explore the mystical world of tarot? Join us for an enchanting evening of connection, insight, and personal growth at our Circle Tarot Meetup!Duration: 2hrsWhat to Expect:In this intimate gathering, a tarot reader with 5 years of experience will provide personalized tarot readings for each participant, offering guidance, clarity, and inspiration. Whether you\u2019re a seasoned tarot reader or new to the cards, this is a space for everyone to explore the wisdom of the tarot.Think of it as a round table discussion about tarot. After the tarot reader has given personalised readings for everybody, then, we will discuss opinions about tarot and open the floor for discussion where you can learn a thing or two about how to do these readings for yourself. It\u2019s a great space to start if you are a skeptic.Join us for an evening of discovery, community, and magic. We can\u2019t wait to see you there!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DB930CCF0BCB4F318187B0843653964E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/83A66839EA7548C28419D7C031C6E4C8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/546ACF5F2BBD4791914251DBCA5F7034_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/19A5A6BF5C59408F97201F488791E8E9_converted_webp.webp"
+    ],
+    "startDate": "2025-05-03T18:00:00+05:30",
+    "endDate": "2025-05-03T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No.2734, Ground Floor, I Sector 16th Cross, 27th Main Rd, opp. NIFT College, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJX3QMb7gVrjsRnJYQlPW4MRs",
+      "latitude": "12.91263600000000000000",
+      "longitude": "77.65231849999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Behind The Mask",
+      "description": "We throw unique events, where mystery meets mischief, and every event is an enchanted escape from the ordinary.",
+      "url": "https://urbanaut.app/partner/behind-the-mask",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/28657309425D44E9B6CCF49F44AA7577_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-79853-35159"
+      }
+    },
+    "url": "https://urbanaut.app/spot/tarot-round-table#2025-05-03T1800",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Tarot Round Table",
+    "description": "Join Us for a Circle Tarot Meetup!Are you ready to explore the mystical world of tarot? Join us for an enchanting evening of connection, insight, and personal growth at our Circle Tarot Meetup!Duration: 2hrsWhat to Expect:In this intimate gathering, a tarot reader with 5 years of experience will provide personalized tarot readings for each participant, offering guidance, clarity, and inspiration. Whether you\u2019re a seasoned tarot reader or new to the cards, this is a space for everyone to explore the wisdom of the tarot.Think of it as a round table discussion about tarot. After the tarot reader has given personalised readings for everybody, then, we will discuss opinions about tarot and open the floor for discussion where you can learn a thing or two about how to do these readings for yourself. It\u2019s a great space to start if you are a skeptic.Join us for an evening of discovery, community, and magic. We can\u2019t wait to see you there!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DB930CCF0BCB4F318187B0843653964E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/83A66839EA7548C28419D7C031C6E4C8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/546ACF5F2BBD4791914251DBCA5F7034_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/19A5A6BF5C59408F97201F488791E8E9_converted_webp.webp"
+    ],
+    "startDate": "2025-05-04T18:00:00+05:30",
+    "endDate": "2025-05-04T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No.2734, Ground Floor, I Sector 16th Cross, 27th Main Rd, opp. NIFT College, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJX3QMb7gVrjsRnJYQlPW4MRs",
+      "latitude": "12.91263600000000000000",
+      "longitude": "77.65231849999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Behind The Mask",
+      "description": "We throw unique events, where mystery meets mischief, and every event is an enchanted escape from the ordinary.",
+      "url": "https://urbanaut.app/partner/behind-the-mask",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/28657309425D44E9B6CCF49F44AA7577_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-79853-35159"
+      }
+    },
+    "url": "https://urbanaut.app/spot/tarot-round-table#2025-05-04T1800",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "The Picnic Rave Experience",
     "description": "What happens when the charm of New York\u2019s Central Park, the pulse of music, and the intimacy of real conversations find their way to Bangalore?Introducing The Picnic Party \u2014 a 4-hour immersive escape from the digital world.An intentional gathering of 100 people who choose presence over pings, music over noise, and meaningful conversations over endless scrolling.Co-created by The Window Seat \u2014 curators of global cultural experiences for Indian audiences \u2014 and Kaunversations \u2014 creators of thoughtfully designed spaces for deep human connection \u2014 this is where the cityscape meets the soulscape.\ud83d\udccd What\u2019s the Experience Like?Vibe:A lush, green escape in Bengaluru \u2014 the Garden City.A cozy, colorful picnic where house, R&B, and pop beats flow seamlessly with deep, meaningful conversations.A space to feel at ease, be yourself, and forge genuine connections.A blend of art, music, culture, and community.Setting:\u2022 25 vibrant picnic mats\u2022 5 handpicked strangers per mat\u2022 Zero phones\u2022 1 simple rule \u2014 Be Present\u2022 A live DJ weaving sunlight into sound\u2022 Outdoor activities like painting, drawing, frisbee, ball games, and thoughtfully curated connection games by Kaunversations\ud83c\udf9f\ufe0f Your Ticket Includes:\u2713 2 beverages & 2 appetizers from a specially curated menu\u27135 Entertainment Zones \u2014 a mix of interactive and non-interactive experiences\ud83d\udcc5 Date: Sunday, 11th May 2025\ud83d\udd59 Time: 09:30 AM \u2013 01:30 PM\ud83c\udf9f\ufe0f This is an invite-only experience with limited spots available\ud83d\udc55 Dress Code: Light blue attire A Sunday evening experience by The Window Seat \u00d7 Kaunversations",
@@ -2007,7 +2109,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 49,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2031,6 +2133,56 @@
       "Live GIG",
       "Food & drink",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Framing Motion",
+    "description": "Ronita Mookerji is a choreographer, performer, and contemporary dance artist with 16+ years of experience in interdisciplinary movement arts. She was a Senior Movement Artist at Attakkalari Dance Company for over seven years. Trained in Bharatanatyam for over 25 years and Odissi for two, she is also a certified yoga teacher and Animal Flow practitioner. A graduate of Attakkalari\u2019s Diploma in Movement Arts and Mixed Media, she has trained in Kalaripayattu, Ballet, and Contact Improvisation.As a movement educator, Ronita has taught at institutions like Drama School Mumbai, FTII Pune, and Christ University Bangalore. She has performed and conducted workshops internationally, integrating contemporary dance, Kalaripayattu, and movement exploration.In this unique workshop, Ronita brings her deep dance experience into Animal Flow, blending strength, fluidity, and expressive movement for a dynamic and immersive session.We will incorporate lip smacking dishes from our signature kitchen into the brunch. We're so excited about this unique event because it\u2019s more than just a dance, animal flow session or a brunch, it\u2019s an experience that designed to recharge your body, and syncing with some primal movements.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0A25D5E1F35D4322B783558AA4328509_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DF0CA5D499254745A446928607956055_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E5CC0B2EF77B41B88393DD528B795C89_converted_webp.webp"
+    ],
+    "startDate": "2025-05-24T12:00:00+05:30",
+    "endDate": "2025-05-24T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 14,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/framingmotion2",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
       "URBANAUT"
     ]
   }

@@ -604,14 +604,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 4,
+            "inventoryLevel": 3,
             "name": "Performer",
             "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-23"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 5,
+            "inventoryLevel": 4,
             "name": "Combo Ticket (Performer ticket+audience ticket)",
             "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-23"
          }
@@ -1117,8 +1117,16 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Cover charges of 1000rs applicable at the venue post 9:30pm\n",
+            "inventoryLevel": 15,
+            "name": "Phase - 1",
+            "url": "https://www.skillboxes.com/events/ticket/junket-x-amnap-records-present-jenson-interceptor-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
             "description": "Cover charges of 1000rs applicable at the venue post 9:30pm.\n",
-            "inventoryLevel": 7,
+            "inventoryLevel": 0,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/junket-x-amnap-records-present-jenson-interceptor-more"
          }
