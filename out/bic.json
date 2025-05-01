@@ -50,6 +50,30 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "@id": "73793-1746817200-1746820800@bangaloreinternationalcentre.org",
+    "name": "Gurudev and Bapu",
+    "startDate": "2025-05-09T19:00:00+05:30",
+    "endDate": "2025-05-09T20:00:00+05:30",
+    "description": "Gurudev and Bapu explores the extraordinary exchange of letters and ideas between Mahatma Gandhi and Rabindranath Tagore, set against the backdrop of the Indian freedom struggle. Over 25 years, their correspondence reveals sharp differences on key issues\u2014nationalism, civil disobedience, education\u2014but also unwavering respect and affection between the two. \nTheir dialogue reflects a time in India\u2019s history marked by thoughtful disagreement and political maturity\u2014offering insights into how principled dissent and mutual regard can coexist. \nBangalore Little Theatre was honoured to present early performances of the play at places closely associated with Gandhi and Tagore\u2014Sabarmati Ashram, Santiniketan (Visva Bharati), and Thakurbari-Jorasanko (Rabindra Bharati). It has also been staged for the President of India. \nAdapted from the internationally acclaimed production with over 130 performances in India and abroad, this staging promises a compelling reflection on two great minds and the values that shaped a nation. \nSupported by: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/gurudev-and-bapu/",
+    "keywords": [
+      "Performing Arts",
+      "Theatre"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "TheaterPlay",
+      "name": "Gurudev and Bapu"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-65.jpg"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "73412-1746297000-1746302400@bangaloreinternationalcentre.org",
     "name": "Chaturanga to Chess",
@@ -66,6 +90,29 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-824.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "73747-1746356400-1746360000@bangaloreinternationalcentre.org",
+    "name": "Sexual Violence, Justice, and Digitality",
+    "startDate": "2025-05-04T11:00:00+05:30",
+    "endDate": "2025-05-04T12:00:00+05:30",
+    "description": "Indian social and economic life have undergone a rapid digital transformation in recent years. How has this digital environment altered both the scale of the problem of sexual violence as well as ways to respond to this problem? In her lecture, Dr. Ashwini Tambe will detail new types of harms engendered by digital technologies, how standards for evidence have changed, and how digital mobilisation against sexual violence has unfolded. She will also discuss the pitfalls of responding to violence purely through conventional legal routes, drawing on the experience of those doing crisis-intervention work. \nA Q&A with the audience will follow. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/sexual-violence-justice-and-digitality/",
+    "keywords": [
+      "Gender",
+      "Law",
+      "Policy & Regulation",
+      "Society",
+      "Technology"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-63.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -172,5 +219,29 @@
     },
     "inLanguage": "en",
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-822.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "MusicEvent",
+    "@id": "73514-1746874800-1746880200@bangaloreinternationalcentre.org",
+    "name": "Raviraag: In the Light of Melody",
+    "startDate": "2025-05-10T11:00:00+05:30",
+    "endDate": "2025-05-10T12:30:00+05:30",
+    "description": "Commemorating the maestro\u2019s 105th birth anniversary, this morning concert pays tribute to Pt. Ravi Shankar, the legendary sitar virtuoso whose artistry bridged tradition and innovation within Hindustani classical music. \nThe performance features vocal interpretations of two ragas conceived by Ravi Shankar\u2014Raga Bairagi and Raga Natbhairav. Originally explored through the sitar, these ragas will be reimagined in the vocal tradition, offering a unique insight into their melodic essence. \nBoth morning ragas embody a serene, meditative spirit, inviting listeners into a space of peace and reflection. This concert stands as both a homage and a heartfelt musical offering to a musician whose legacy continues to inspire generations. \nSupported by: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/raviraag-in-the-light-of-melody/",
+    "keywords": [
+      "Music",
+      "Performing Arts"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "CreativeWork",
+      "name": "Raviraag: In the Light of Melody"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-62.jpg"
   }
 ]
