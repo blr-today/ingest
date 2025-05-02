@@ -118,6 +118,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Hard TechnoLet's Rave",
+      "endDate": "2025-05-10T23:59:00",
+      "identifier": "com.skillboxes.22015",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QXI5VnQ1MEtFZlgrdDZLS1d4MjFodz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17462072911YuZjVCG9rgmDlDA.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Hotel Komfort Terraces, 65/66, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.975112",
+            "longitude": "77.6071764"
+         },
+         "name": "Templar-7"
+      },
+      "name": "Hard Techno",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 9:30 pm\n",
+            "inventoryLevel": 500,
+            "name": "Guest List",
+            "url": "https://www.skillboxes.com/events/ticket/hard-techno"
+         }
+      ],
+      "startDate": "2025-05-10T20:00:00",
+      "url": "https://www.skillboxes.com/events/hard-techno"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Good Vibes ONLY!\r\n\r\n\r\n(Every ticket includes a Coupon for a Glass of Wine or a Coffee on the house!)\r\nFor all the House and Disco fans out there, here",
       "endDate": "2025-05-11T21:00:00",
       "identifier": "com.skillboxes.21992",
@@ -958,57 +993,6 @@
       ],
       "startDate": "2025-05-11T20:00:00",
       "url": "https://www.skillboxes.com/events/hardground-presents-damru"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Get ready for the most electrifying night with the Zamna Records rising Star Rozyo.\r\n\r\nROZYO has gained recognition in the melodic techno scene over t",
-      "endDate": "2025-05-02T23:59:00",
-      "identifier": "com.skillboxes.21728",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1745751141JZI2v3B3pAi17OcZ.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "HOTEL, THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Redroom Ft. Rozyo (Zamna Records)",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Grants entry to one female.\n",
-            "inventoryLevel": 1000,
-            "name": "Early Bird Female",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-rozyo-zamna-records"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "₹499   - Allows entry to one couple. - An extra cover charge of INR 1000 is applicable post 9:30 pm walk-in at the venue.\n",
-            "inventoryLevel": 1000,
-            "name": "Early Bird Couple",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-rozyo-zamna-records"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Allows entry to one male. - An extra cover charge of INR 1000 is applicable post 9:30 pm walk-in at the venue.\n",
-            "inventoryLevel": 1000,
-            "name": "Early Bird Male",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-rozyo-zamna-records"
-         }
-      ],
-      "startDate": "2025-05-02T19:00:00",
-      "url": "https://www.skillboxes.com/events/redroom-ft-rozyo-zamna-records"
    },
    {
       "@context": "https://schema.org",

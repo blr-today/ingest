@@ -504,52 +504,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Coffee & Convo: Falling Flat, Rising Fabulous!",
-    "description": "Sometimes we trip, spill our coffee, and question all our life choices before 9 AM.\u2615But hey\u2014growth is messy, caffeinated, and often comes with a side of oversharing.Through heart-to-hearts and hot brews, we regroup, reframe, and rise like the fabulous phoenixes we are.Falling flat? Please. We\u2019re just warming up for a legendary glow-up \ud83d\udcac",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/64738A6662CD47819605150A6E791CD2_converted_webp.webp"
-    ],
-    "startDate": "2025-05-02T19:00:00+05:30",
-    "endDate": "2025-05-02T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Indiranagar, Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
-      "latitude": "12.97836920000000000000",
-      "longitude": "77.64083560000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "999.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/coffee-conversations-falling-flat-rising-fabulous",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Brigade road heritage walk.",
     "description": "Join us as we revive our cherished walks through the historic Cantonment this year. Step back in time as we trace the origins of this storied district once the heart of colonial Bangalore.On this journey we will explore a magnificent church that has stood the test of time pay homage at a solemn war memorial and admire a beautifully restored heritage structure. Along the way we will encounter stately British-era government buildings a statue of a notable foreigner and a road steeped in its own fascinating history.Every corner of the Cantonment whispers tales of its past\u2014stories of soldiers administrators and the many communities that shaped this unique enclave. Join us as we rediscover its enduring legacy one step at a time.",
@@ -803,10 +757,10 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Read the Room",
-    "description": "Curated by The Third Space Collective, in collaboration with Cubbon Meets and The Studio by Copper + Cloves. \ud83c\udf3f ABOUT THE THIRD SPACE COLLECTIVEBorn from the minds behind\u00a0Cubbon Meets,\u00a0The Third Space Collective\u00a0is a quiet rebellion against hustle culture. We carve out corners of the city where agendas dissolve, screens dim, and the simple act of\u00a0being\u00a0takes center stage. No networking, no productivity quotas\u2014just spaces where time softens, connections deepen, and life unfolds in the pauses. This is our debut experience: a fusion of books, belonging, and the beauty of undone expectations.\ud83d\udcd6 WHAT CAN YOU EXPECT AT READ THE ROOMBring a pre-loved book from your shelf, wrapped in newspaper or a paper bag. Attach a spoiler-free note\u2014a whisper about why it moved you, a message to its future owner. No names, just heart.At\u00a0Read the Room, we\u2019ll trade these anonymous treasures, then fall into curated conversations\u2014no small talk, just big ideas, wild tangents, and the kind of bookish camaraderie that makes strangers feel like old friends; closing the night with a reader's mixer. Hosted at\u00a0The Studio by Copper + Cloves\u2014a sanctuary where wellness meets wonder. Think soft light, earthy tones, and air thick with the quiet hum of minds unplugging.P.S.\u00a0WiFi will be politely ignored. ",
+    "description": "Curated by The Third Space Collective, in collaboration with Cubbon Meets and The Studio by Copper + Cloves.\ud83c\udf3f ABOUT THE THIRD SPACE COLLECTIVEBorn from the minds behind\u00a0Cubbon Meets,\u00a0The Third Space Collective\u00a0is a quiet rebellion against hustle culture. We carve out corners of the city where agendas dissolve, screens dim, and the simple act of\u00a0being\u00a0takes center stage. No networking, no productivity quotas\u2014just spaces where time softens, connections deepen, and life unfolds in the pauses. This is our debut experience: a fusion of books, belonging, and the beauty of undone expectations.\ud83d\udcd6 WHAT CAN YOU EXPECT AT READ THE ROOMBring a pre-loved book from your shelf, wrapped in newspaper or a paper bag. Attach a spoiler-free note\u2014a whisper about why it moved you, a message to its future owner. No names, just heart.At\u00a0Read the Room, we\u2019ll trade these anonymous treasures, then fall into curated conversations\u2014no small talk, just big ideas, wild tangents, and the kind of bookish camaraderie that makes strangers feel like old friends; closing the night with a reader's mixer.Hosted at\u00a0The Studio by Copper + Cloves\u2014a sanctuary where wellness meets wonder. Think soft light, earthy tones, and air thick with the quiet hum of minds unplugging.P.S.\u00a0WiFi will be politely ignored. ",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7AF092FA8AC84D6BAEFE045A69EA56AD_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/81845EC5022F454AB789F0A4B3FA13E2_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9A5C6B308A8B484782E473DF209FF249_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6E566C3089B44A049BE37143279A96A9_converted_webp.webp"
     ],
     "startDate": "2025-05-11T18:30:00+05:30",
     "endDate": "2025-05-11T20:00:00+05:30",
@@ -1499,98 +1453,6 @@
     "keywords": [
       "Wellness",
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "De-Stress Fridays",
-    "description": "Fridays are meant for letting go, and this table is all about decompressing after a long week.Deadlines, meetings, and stress? Not here!This table is your weekly escape from the chaos, where you can kick back, connect, and enjoy an evening of effortless conversations and laughter.No pressure, just good energy!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BCFDE145C74140D791BEFADA865C25FE_converted_webp.webp"
-    ],
-    "startDate": "2025-05-02T19:00:00+05:30",
-    "endDate": "2025-05-02T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Indiranagar, Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
-      "latitude": "12.97836920000000000000",
-      "longitude": "77.64083560000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1199.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/de-stress-friday",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "The Girl Talk Chronicles",
-    "description": "*Only for Women* \ud83c\udf38This night is all about unfiltered conversations, authentic connections, and celebrating the incredible women we are.No judgments, no filters\u2014just real talk and genuine vibes.Whether you're here to share, listen, or just enjoy the energy, this night is for women to be unapologetically themselves.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/781ECE4650CB4BAC872C707F9DAF0333_converted_webp.webp"
-    ],
-    "startDate": "2025-05-02T19:00:00+05:30",
-    "endDate": "2025-05-02T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "24, Vittal Mallya Rd, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ96tpUHcWrjsRit-gsot2OOE",
-      "latitude": "12.97164280000000000000",
-      "longitude": "77.59593670000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/girl-talk-chronicle-hightable",
-    "keywords": [
-      "Food & drink",
       "URBANAUT"
     ]
   },
