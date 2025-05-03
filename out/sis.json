@@ -60,7 +60,7 @@
     }
   },
   {
-    "name": "Yoga Session",
+    "name": "Yoga With Sisters and Misters",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.in/session-detail/yoga-SIS-community-women-sisterhood",
     "@context": "https://schema.org",
@@ -82,7 +82,7 @@
     },
     "sport": "community",
     "description": "See more details at https://sistersinsweat.in/session-detail/yoga-SIS-community-women-sisterhood",
-    "image": "https://sistersinsweat.com/images/event/20250421142744159.jpg",
+    "image": "https://sistersinsweat.com/images/event/20250503080054642.jpeg",
     "location": {
       "name": "Cubbon Park",
       "address": "Kasturba Road, Bangalore",
@@ -325,6 +325,66 @@
     "location": {
       "name": "Cubbon Park",
       "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "SIS X CORO - Dance Date - Mom & Kid",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/event-detail/Women-Bangalore-Dancedate-Sunday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Dancedate",
+    "description": "See more details at https://sistersinsweat.in/event-detail/Women-Bangalore-Dancedate-Sunday",
+    "image": "https://sistersinsweat.com/images/event/20250503111658958.jpeg",
+    "location": {
+      "name": "Coro, Indiranagar",
+      "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur",
+      "type": "Place"
+    }
+  },
+  {
+    "name": "SIS X CORO \u2013 A Dance Party for Moms",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.in/event-detail/Women-Bangalore-Danceparty-Sunday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.in"
+    },
+    "sport": "Danceparty",
+    "description": "See more details at https://sistersinsweat.in/event-detail/Women-Bangalore-Danceparty-Sunday",
+    "image": "https://sistersinsweat.com/images/event/20250503113016691.jpeg",
+    "location": {
+      "name": "Coro, Indiranagar",
+      "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur",
       "type": "Place"
     }
   },
