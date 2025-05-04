@@ -124,5 +124,26 @@
       }
     ],
     "maximumAttendeeCapacity": 100
+  },
+  {
+    "@type": "Event",
+    "name": "Visit to the Artist\u2019s Home-Studio",
+    "location": {
+      "@type": "Place",
+      "name": "19/18, First Cross, First Main Road<br>Jayamahal Extension,<br>Bangalore 560046",
+      "address": "19/18, First Cross, First Main Road<br>Jayamahal Extension,<br>Bangalore 560046, Bangalore",
+      "url": "https://maps.app.goo.gl/QXsPnMQWJywLAK2y7"
+    },
+    "startDate": "2025-05-17T11:00:00+05:30",
+    "endDate": "2025-05-17T13:00:00+05:30",
+    "description": "What stories are forged in the heat of metal and memory?<br>Step inside the artist studio of Balan Nambiar, surrounded by the tools of his craft, molten materials, and decades of documentation. With a practice rooted in metal casting, photography, and ethnographic research, Balan explores folk traditions and how these inform his sculptural forms. <br>Through this visit, participants will explore how studios can become a space for cultural memory, experimentation, and hybrid knowledge systems.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=visit-to-artist-studio",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Balan-Nambiar"
+      }
+    ],
+    "maximumAttendeeCapacity": 25
   }
 ]
