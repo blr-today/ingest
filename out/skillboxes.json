@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General admission || Valid for one individual || For Age(s) 21+\nAn additional cover charge of INR 799 per individual is applicable at the gates. Redeemable on F&B",
-            "inventoryLevel": 45,
+            "inventoryLevel": 43,
             "name": "Early Bird Single || GA",
             "url": "https://www.skillboxes.com/events/ticket/matthew-ifield-live-in-bengaluru"
          },
@@ -72,7 +72,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Only for college students (College ID Mandatory)\n",
-            "inventoryLevel": 34,
+            "inventoryLevel": 33,
             "name": "Student ticket",
             "url": "https://www.skillboxes.com/events/ticket/foosie-gang-india-tour-arpit-bala-x-bhappa-2"
          },
@@ -93,7 +93,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 24,
+            "inventoryLevel": 23,
             "name": "Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/foosie-gang-india-tour-arpit-bala-x-bhappa-2"
          },
@@ -114,6 +114,49 @@
       ],
       "startDate": "2025-05-25T17:00:00",
       "url": "https://www.skillboxes.com/events/foosie-gang-india-tour-arpit-bala-x-bhappa-2"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "🚨 The Wait is Over, Bangalore! 🚨After 4 long years, Rising Dust is making their way to Namma Bengaluru for an exclusive performance li",
+      "endDate": "2025-05-31T23:59:00",
+      "identifier": "com.skillboxes.22092",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VjJGbGsrRjhtazZVVGRGMXZFdEhjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1746425145mYZePyJ2cCWzyooG.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd, Jayamahal, Bengaluru, Karnataka 560080, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.004424",
+            "longitude": "77.5848398"
+         },
+         "name": "PEBBLE The Jungle Lounge"
+      },
+      "name": "Code:Noise Ft. Rising Dust & More",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allow entry to one individual to the general area. Cover charges of ₹1000 are applicable at the venue.\n",
+            "inventoryLevel": 10,
+            "name": "Early Bird: GA",
+            "url": "https://www.skillboxes.com/events/ticket/code-noise-ft-rising-dust-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allow entry to one individual to the VIP area. Cover charges of ₹1000 are applicable at the venue.\n",
+            "inventoryLevel": 10,
+            "name": "Early Bird: VIP",
+            "url": "https://www.skillboxes.com/events/ticket/code-noise-ft-rising-dust-more"
+         }
+      ],
+      "startDate": "2025-05-31T20:00:00",
+      "url": "https://www.skillboxes.com/events/code-noise-ft-rising-dust-more"
    },
    {
       "@context": "https://schema.org",
@@ -379,6 +422,41 @@
       ],
       "startDate": "2025-05-11T20:00:00",
       "url": "https://www.skillboxes.com/events/future-dance-wave-ft-cocktail-party-effect-dj-dwell-out-of-office"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Experience the art and heart of Raw Chocolate with chef & healer Ronit Lev.A guided cacao ritual blending taste, emotion and inner connection.&#12",
+      "endDate": "2025-05-08T18:00:00",
+      "identifier": "com.skillboxes.22050",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1746266740yCrMVRiVOapcM0gq.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Food"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "64, SH 35, Phase 2, Narayanappa Garden, Whitefield, Bengaluru, Karnataka 560066, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9657805",
+            "longitude": "77.7492649"
+         },
+         "name": "SMOOR Lounge - Whitefield"
+      },
+      "name": "The Cacao Connection with SMOOR",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Full Covers on a curated menu.\n",
+            "inventoryLevel": 1000,
+            "name": "Regular Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/the-cacao-connection-with-smoor"
+         }
+      ],
+      "startDate": "2025-05-08T16:00:00",
+      "url": "https://www.skillboxes.com/events/the-cacao-connection-with-smoor"
    },
    {
       "@context": "https://schema.org",
@@ -713,24 +791,7 @@
          "name": "Kitty Ko"
       },
       "name": "Protocol Sundays ft. Because Of Art / 4th May / Kitty Ko",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 75,
-            "name": "Guestlist-Couple",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-sundays-ft-because-of-art-4th-may-kitty-ko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 100,
-            "name": "Guestlist - Female",
-            "url": "https://www.skillboxes.com/events/ticket/protocol-sundays-ft-because-of-art-4th-may-kitty-ko"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2025-05-04T20:00:00",
       "url": "https://www.skillboxes.com/events/protocol-sundays-ft-because-of-art-4th-may-kitty-ko"
    },
@@ -931,32 +992,7 @@
          "name": "Mirage"
       },
       "name": "A NIGHT OF SLATE - 13th EDITION | MIRAGE BENGALURU",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory cover charges applicable, Rights of admission reserved\nClub rules apply",
-            "inventoryLevel": 137,
-            "name": "GL STAG",
-            "url": "https://www.skillboxes.com/events/ticket/a-night-of-slate-13th-edition-mirage-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable post 9 PM, Rights of admission reserved\nClub rules apply",
-            "inventoryLevel": 169,
-            "name": "GL COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/a-night-of-slate-13th-edition-mirage-bengaluru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Rights of admission reserved\nClub rules apply",
-            "inventoryLevel": 186,
-            "name": "GL FEMALE",
-            "url": "https://www.skillboxes.com/events/ticket/a-night-of-slate-13th-edition-mirage-bengaluru"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2025-05-04T18:00:00",
       "url": "https://www.skillboxes.com/events/a-night-of-slate-13th-edition-mirage-bengaluru"
    },
@@ -1099,7 +1135,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Alcohol will only be served to patrons above the legal drinking age. Only sealed cigarette packets would be allowed on the premises. Closed foot ware mandatory for male patrons. Age limit - 21+ To all Patrons under 21 Legal Drinking Age there will be a designated zone and entry to the venue.\n",
-            "inventoryLevel": 990,
+            "inventoryLevel": 988,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/hardground-presents-damru"
          }
@@ -1133,7 +1169,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 994,
+            "inventoryLevel": 992,
             "name": "Phase 3 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/bangalore-death-fest-3-ft-massacre-usa"
          },
@@ -1224,8 +1260,16 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "(DJ+ Concert)\n",
+            "inventoryLevel": 27,
+            "name": "SAMBHRAM 2025 PHASE 1",
+            "url": "https://www.skillboxes.com/events/ticket/sambhram-2025"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "1) No Refund Policy: All ticket sales are final — no cancellations, exchanges, or refunds will be issued.  2)Non-Transferable: Tickets are issued to the buyer and cannot be transferred or resold to others. 3)  Entry Conditions Apply: Valid ID and digital/printed ticket are required for entry; event organizers reserve the right to deny admission.\n",
-            "inventoryLevel": 772,
+            "inventoryLevel": 763,
             "name": "SAMBHRAM CONCERT + DJ",
             "url": "https://www.skillboxes.com/events/ticket/sambhram-2025"
          },
@@ -1268,7 +1312,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Deep Rising | 16/05/2025\n",
-            "inventoryLevel": 99,
+            "inventoryLevel": 98,
             "name": "One Time Ticket",
             "url": "https://www.skillboxes.com/events/ticket/tickets-membership-bengaluru-2"
          },
@@ -1370,7 +1414,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A cover of 500 INR will be charged at the venue, which is redeemable on food and beverages.\n",
-            "inventoryLevel": 992,
+            "inventoryLevel": 991,
             "name": "General Ticket",
             "url": "https://www.skillboxes.com/events/ticket/phantom-pulse-ft-xrepeatx-ruhail-qaiser-essenar-zero"
          },
@@ -1443,7 +1487,7 @@
       "description": "Taaruk Raina is ready to take you on a captivating journey with his debut \"Lost & Found\" India Tour.\r\n\r\nFor Taaruk, music has always bee",
       "endDate": "2025-06-14T22:00:00",
       "identifier": "com.skillboxes.20949",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1744298171jrJYhbm75KTf6V0h.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1746427276rI2UXABsbgkaBrqP.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
@@ -1470,7 +1514,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 96,
+            "inventoryLevel": 94,
             "name": "Phase 1 GA Ticket",
             "url": "https://www.skillboxes.com/events/ticket/taaruk-raina-live-bangalore"
          },
@@ -1593,32 +1637,7 @@
          "name": "Nolimmits Lounge & Club"
       },
       "name": "Sunday Ritual @ Nolimits Magrath Road",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "cover charges applicable through out the event\n",
-            "inventoryLevel": 96,
-            "name": "stag",
-            "url": "https://www.skillboxes.com/events/ticket/uk-punjabi-night-nolimits-magrath-road"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow one single entry.\n",
-            "inventoryLevel": 99,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/uk-punjabi-night-nolimits-magrath-road"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free ebrry till 0930pm post cover charge applicable\n",
-            "inventoryLevel": 97,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/uk-punjabi-night-nolimits-magrath-road"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2025-05-04T08:00:00",
       "url": "https://www.skillboxes.com/events/uk-punjabi-night-nolimits-magrath-road"
    },
