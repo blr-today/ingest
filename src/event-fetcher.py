@@ -271,8 +271,12 @@ def get_events(s, filt):
                         for d in l:
                             if d.get("@type") in KNOWN_EVENT_TYPES:
                                 return (url, d)
+                    try:
+                        data = JsonLdExtractor().extract(r.text)
+                    except json.decoder.JSONDecodeError:
+                        print(f"Error parsing JSON for {url}")
+                        pass
 
-                    data = JsonLdExtractor().extract(r.text)
                     m = None
                     for x in data:
                         if x.get("@graph"):
