@@ -849,6 +849,53 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cleo From 5 to 7 - TPCC Bangalore",
+    "description": "Agnes Varda - the lovable darling of the French New Wave, we have picked out Cleo from 5 to 7. Cleo, an arrogant pop star, is a nervous wreck as she awaits the results of a biopsy test. With almost two hours to kill before the results are revealed, she wanders around and bumps into a soldier.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FFB108AB319F4270A315050161E30922_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F9647783EB2745F58E177882E9C9BF7B_converted_webp.webp"
+    ],
+    "startDate": "2025-05-08T19:45:00+05:30",
+    "endDate": "2025-05-08T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "395, 18th Main Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ902bOBoVrjsRZqcWFdG27vk",
+      "latitude": "12.94075940000000000000",
+      "longitude": "77.62343100000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 25,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "375.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Parallel Cinema Club",
+      "description": null,
+      "url": "https://urbanaut.app/partner/tpcc",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98860-01991"
+      }
+    },
+    "url": "https://urbanaut.app/spot/cleo-from-5-to-7-tpcc-bangalore",
+    "keywords": [
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "An Evening of Indulgence with Wine & Cigar",
     "description": "Step into an immersive evening where bold flavors, elegant rituals, and refined indulgence come together at The Pour Room. This is a curated wine and cigar pairing experience designed for those who appreciate the finer things \u2014 or are ready to explore them.This exclusive evening will showcase two distinct wines \u2014 a full-bodied Chardonnay with its rich, buttery notes of tropical fruit and oak, and a deep, structured Cabernet Sauvignon & Sangiovese blend. Each will be thoughtfully paired with Rocky Patel cigars that elevate and complement their profiles \u2014 .You\u2019ll not only taste, but learn \u2014 how to cut, light, and smoke a cigar with finesse, how to swirl and sip your wine like a sommelier, and how pairing the right cigar can unlock entirely new flavor dimensions.Whether you\u2019re a seasoned aficionado or a curious first-timer, this is your invitation to a night of luxury, learning, and laid-back conversation. Come for the flavor, stay for the experience.",
@@ -969,7 +1016,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 12,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
