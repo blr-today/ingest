@@ -2498,5 +2498,57 @@
       "Workshop",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Feast of Fire & Smoke: Shangri-La Bengaluru",
+    "description": "Fire meets smoke, and legends awaken. A timeless experience is on the horizon, where the allure of vintage charm meets the world of whisky. Are you ready to step into the past and uncover what\u2019s about to unfold?Swear your loyalty to the House of Black by cloaking yourself in shadowy hues, or let your loyalty shine bright with the verdant tones of the House of Green.If you\u2019re ready to experience a feast truly fit for royalty, join us for a night of great whiskies, delicious  food & music!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8B89BCE172654A1D8D6741D0A2894173_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8A60C42D018C4D48A7862632CE7D2B6E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9BB90B7DB17841A9BBEB4B11D1139BE3_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C32F30F5D1B84B89BF1C6DBF153F06F5_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F4E8251E0D124C3CADFC1D286587F442_converted_webp.webp"
+    ],
+    "startDate": "2025-05-24T19:00:00+05:30",
+    "endDate": "2025-05-24T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No. 56, 6B, Palace Rd, Abshot Layout, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJA4jxFg0WrjsR5sfp5nDG6ZM",
+      "latitude": "12.99187000000000000000",
+      "longitude": "77.58829300000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 25,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Dram Club",
+      "description": "Sip & savour with the coolest community of whisky & spirits enthusiasts for unforgettable experiences. Let's raise a glass to the finer things in life!",
+      "url": "https://urbanaut.app/partner/thedramclub",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/6B13C8309C804F13BCD89B881EDF25BE_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-88796-28789"
+      }
+    },
+    "url": "https://urbanaut.app/spot/feast-of-fire-smoke-with-the-dram-club",
+    "keywords": [
+      "Leisure",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
   }
 ]
