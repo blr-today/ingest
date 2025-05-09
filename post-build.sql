@@ -7,20 +7,25 @@ SET
   event_json = json_replace(
     event_json,
     '$.keywords',
-    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'LOW-QUALITY'
+    )
   )
 WHERE
   event_json ->> '$.location.name' LIKE '%small world%'
   -- HighApe event listings do not include the organizer field 
   -- But we pick it up from meta tags into keywords
   OR event_json ->> '$.keywords' LIKE '%small world%'
-  OR event_json ->> '$.organizer.name' LIKE '%urban solace%' 
+  OR event_json ->> '$.organizer.name' LIKE '%urban solace%'
   -- Silly dating events: https://insider.in/free-speed-dating-events-in-bengaluru-sep7-2024/event
   OR event_json ->> '$.organizer.name' LIKE '%your dream partner%'
   -- Silly dating events on insider
   OR event_json ->> '$.organizer.name' LIKE '%vinit kotadiya%'
   -- Silly dating event organizer: https://insider.in/search?q=Rashid%20Mubarak%20Nadaf
   OR event_json ->> '$.organizer.name' LIKE '%rashid mubarak nadaf%';
+
 
 -- BIC lists their events on Insider, but we have their original calendar
 -- BCC lists their events on Insider, but we have their original calendar
@@ -31,14 +36,18 @@ WHERE
     'tarun rajendra mittal (bangalore chess club)'
   );
 
+
 DELETE FROM events
 WHERE
   url IN (
     'https://insider.in/isl-2024-25-bengaluru-fc-membership-season-12/event' -- Memberships are not events
-    ,'https://together.buzz/event/test-ghofp8gg' -- Test event
+,
+    'https://together.buzz/event/test-ghofp8gg' -- Test event
     -- Music Camp is a very long event.
-    , 'https://attagalatta.com/event_page.php?eventid=EVT1078'
+,
+    'https://attagalatta.com/event_page.php?eventid=EVT1078'
   );
+
 
 -- Ideally,we would mark them using sameAs, but too much work for now
 -- TODO: Pick up BMS/Insider Links using links in the event HTML 
@@ -55,10 +64,15 @@ SET
   event_json = json_replace(
     event_json,
     '$.keywords',
-    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'LOW-QUALITY'
+    )
   )
 WHERE
   event_json ->> '$.organizer.name' = 'Odyssey vibes';
+
 
 -- Mark some events as not happening in Bangalore
 UPDATE events
@@ -71,11 +85,13 @@ SET
   -- Trips that technically start at KIAL airport
 WHERE
   (
-    event_json ->> '$.organizer.name' LIKE 'Sheena - Banjara%' OR
+    event_json ->> '$.organizer.name' LIKE 'Sheena - Banjara%'
+    OR
     -- https://together.buzz/host/j-n-tulika-hdj, Yoga Retreats
-    event_json ->> '$.performer.name' LIKE '%J N TULIKA%' OR
-    url LIKE '%weekend-getaway%'
+    event_json ->> '$.performer.name' LIKE '%J N TULIKA%'
+    OR url LIKE '%weekend-getaway%'
   );
+
 
 -- You cant attend a BIC Podcast
 DELETE FROM events
@@ -92,8 +108,10 @@ SET
     '$.keywords',
     json_insert(event_json -> '$.keywords', '$[#]', 'WOOWOO')
   )
-WHERE (
+WHERE
+  (
     event_json ->> '$.name' LIKE '%QI Gong%'
+    OR event_json ->> '$.name' LIKE '%tarot %'
     OR event_json ->> '$.name' LIKE '%Sound Immersion%'
     OR event_json ->> '$.name' LIKE '%sound healing%'
     OR event_json ->> '$.name' LIKE '%Breathwork%'
@@ -113,6 +131,7 @@ WHERE (
     OR event_json ->> '$.organizer.name' LIKE '%aashwasan foundation%'
   );
 
+
 -- The Audacious Movement - WOOWOO
 UPDATE events
 SET
@@ -125,9 +144,10 @@ WHERE
   lower(event_json ->> '$.organizer.name') IN (
     -- Very unclear what the events are about, except for "energy"
     'the audacious movement',
-    -- New Acropolis is a cult
+    -- New Acropolis is a cult ()
     'new acropolis'
   );
+
 
 -- TODO: Mark high valued events
 -- SELECT url, json_each.value->>'$.price' as price
@@ -144,6 +164,7 @@ SET
 WHERE
   event_json ->> '$.location.name' LIKE 'Now Boarding Cafe%';
 
+
 -- All ReRoll hosted events, irrespective of venue
 UPDATE events
 SET
@@ -154,6 +175,7 @@ SET
   )
 WHERE
   url LIKE '%with-reroll%';
+
 
 -- Mark treks and camping as NOTINBLR
 UPDATE events
@@ -179,16 +201,15 @@ WHERE
   OR event_json ->> '$.organizer.name' LIKE '%vels studios and entertainment%'
   OR event_json ->> '$.organizer.name' LIKE 'manoj t s - escape2explore adventures'
   OR event_json ->> '$.organizer.name' LIKE 'namma trip'
-
   -- All Travel events listed on HighApe
   OR (
-      (
-        event_json ->>'$.keywords' LIKE '%"travel"%' OR
-        event_json ->>'$.keywords' LIKE '%"camping"%'
+    (
+      event_json ->> '$.keywords' LIKE '%"travel"%'
+      OR event_json ->> '$.keywords' LIKE '%"camping"%'
+    )
+    AND event_json ->> '$.keywords' LIKE '%"HIGHAPE"%'
+  );
 
-        )
-      AND
-      event_json ->>'$.keywords' LIKE '%"HIGHAPE"%');
 
 -- Music events listed on HIGHAPE that are
 -- Free Entry are low-quality
@@ -197,19 +218,24 @@ SET
   event_json = json_replace(
     event_json,
     '$.keywords',
-    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'LOW-QUALITY'
+    )
   )
 WHERE
-  event_json ->>'$.keywords' LIKE '%"highape"%'
-  AND event_json ->>'$.keywords' LIKE '%"free entry"%'
+  event_json ->> '$.keywords' LIKE '%"highape"%'
+  AND event_json ->> '$.keywords' LIKE '%"free entry"%'
   AND (
-    event_json->>'$.keywords' LIKE '%bollywood night%'
-    OR event_json->>'$.keywords' LIKE '%bollywood night%'
-    OR event_json->>'$.keywords' LIKE '%dj night%'
-    OR event_json->>'$.keywords' LIKE '%karaoke night%'
-    OR event_json->>'$.keywords' LIKE '%vro hospitality%'
-    OR event_json->>'$.keywords' LIKE '%OIEPL%' -- Gold Rush Brews
+    event_json ->> '$.keywords' LIKE '%bollywood night%'
+    OR event_json ->> '$.keywords' LIKE '%bollywood night%'
+    OR event_json ->> '$.keywords' LIKE '%dj night%'
+    OR event_json ->> '$.keywords' LIKE '%karaoke night%'
+    OR event_json ->> '$.keywords' LIKE '%vro hospitality%'
+    OR event_json ->> '$.keywords' LIKE '%OIEPL%' -- Gold Rush Brews
   );
+
 
 -- MusicEvent is incorrectly used in many many allevents listings
 UPDATE events
@@ -217,6 +243,19 @@ SET
   event_json = json_replace(event_json, '$.@type', 'Event')
 WHERE
   url LIKE 'https://allevents.in%';
+
+
+-- Tag Artzo Events as ARTZO from the domain artzo.in
+UPDATE event_json
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'ARTZO')
+  )
+WHERE
+  url LIKE '%artzo.in%';
+
 
 -- Real Estate events
 UPDATE events
@@ -271,16 +310,19 @@ WHERE
     'upgrad abroad',
     -- Symposiums: https://allevents.in/org/charista-foundation/19674185
     'charista foundation'
-  ) OR (
+  )
+  OR (
     -- Hustle Business Venue in HSR
-    event_json->>'$.location' LIKE '%hustlehub%'
-  ) OR (
+    event_json ->> '$.location' LIKE '%hustlehub%'
+  )
+  OR (
     -- Networking Meetups are BUSINESS events
     url LIKE '%network-meetup%'
     OR url LIKE '%networking-meetup%'
     OR url LIKE '%virtual-hackathon%'
     OR url LIKE '%founders-investors%'
   );
+
 
 -- organizer = Games Lab, title contains "Board" or "Mafia" or "Game Night", tag as BOARDGAMES
 UPDATE events
@@ -298,6 +340,7 @@ WHERE
     OR event_json ->> '$.name' LIKE '%Game Night%'
   );
 
+
 -- if lower(event name) contains both "live screening" and "premier league", tag as SPORTS-SCREENING
 UPDATE events
 SET
@@ -313,6 +356,7 @@ SET
 WHERE
   lower(event_json ->> '$.name') LIKE '%live screening%'
   AND lower(event_json ->> '$.name') LIKE '%premier league%';
+
 
 -- Do the same as above but use IPL team names
 UPDATE events
@@ -335,6 +379,7 @@ WHERE
     OR event_json ->> '$.keywords' LIKE '%ipl screening%'
   );
 
+
 -- Too Many Dandiya events, so we tag them out.
 UPDATE events
 SET
@@ -348,31 +393,42 @@ WHERE
 
 
 -- Low Quality drinking focused events
-UPDATE events SET
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
-    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'LOW-QUALITY'
+    )
   )
 WHERE
   event_json ->> '$.description' LIKE '%get sloshed%'
   OR event_json ->> '$.description' LIKE '%magic mocktails%'
   OR event_json ->> '$.keywords' LIKE '%tipsy%';
 
+
 -- Regular Clubbing nights are not noteworthy events
-UPDATE events SET
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
-    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'LOW-QUALITY'
+    )
   )
 WHERE
   event_json ->> '$.name' LIKE '%ladies night%'
   OR event_json ->> '$.keywords' LIKE '%ladies night%'
-  OR event_json ->> '$.description' LIKE '%ladies night%' 
-  OR event_json ->> '$.description' LIKE '%dj night%' 
+  OR event_json ->> '$.description' LIKE '%ladies night%'
+  OR event_json ->> '$.description' LIKE '%dj night%'
   -- Secret Story Indiranagar
-  OR event_json ->> '$.description' LIKE '%ladies & models night%' 
+  OR event_json ->> '$.description' LIKE '%ladies & models night%'
   OR event_json ->> '$.name' LIKE '%rock bottom monday%'
   OR event_json ->> '$.name' LIKE '%bollywood night%'
   OR event_json ->> '$.keywords' LIKE '%bollywood night%'
@@ -388,164 +444,227 @@ WHERE
   OR event_json ->> '$.name' LIKE '%techno terrace%' -- indigo xp
   OR event_json ->> '$.name' LIKE '%athyachari monday%'
   OR event_json ->> '$.organizer.name' LIKE 'VRO Hospitality' -- highape music nights
-  OR event_json ->> '$.organizer.name' LIKE 'avikk hospitality llp'; -- Secret Story music nights
+  OR event_json ->> '$.organizer.name' LIKE 'avikk hospitality llp';
 
+
+-- Secret Story music nights
 -- THRIFTY-X is a shady event organizer
 -- Stranger Meets are events, but meh https://insider.in/search?q=Thrifty
 -- They also host dance workshops in fast food places :/
 -- And double book events at the same venue to get more visibility
 -- https://insider.in/thrifty-x-bachata-bangalore-sep29-2024/event
 -- https://insider.in/thrifty-x-salsa-bangalore-sep29-2024/event
-UPDATE events SET
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
-    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'LOW-QUALITY'
+    )
   )
-WHERE url LIKE '%thrifty-x-%'
-OR event_json ->> '$.organizer.name' LIKE '%Event Navigator%'
-OR event_json ->> '$.organizer.name' LIKE '%Bubblegum Circle%';
+WHERE
+  url LIKE '%thrifty-x-%'
+  OR event_json ->> '$.organizer.name' LIKE '%Event Navigator%'
+  OR event_json ->> '$.organizer.name' LIKE '%Bubblegum Circle%';
+
 
 -- I host Puzzled Pint BLR, and it is a 100% certified quality event.
-UPDATE events SET
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
     json_insert(event_json -> '$.keywords', '$[#]', 'CURATED')
   )
-WHERE url LIKE '%puzzled-pint-bangalore%';
+WHERE
+  url LIKE '%puzzled-pint-bangalore%';
+
 
 -- Tag location as HSR
-UPDATE events SET
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
     json_insert(event_json -> '$.keywords', '$[#]', 'HSR')
   )
-WHERE event_json LIKE '%HSR%';
+WHERE
+  event_json LIKE '%HSR%';
 
-UPDATE events SET
+
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
-    json_insert(event_json -> '$.keywords', '$[#]', 'KORAMANGALA')
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'KORAMANGALA'
+    )
   )
-WHERE event_json LIKE '%koramangala%';
+WHERE
+  event_json LIKE '%koramangala%';
+
 
 -- We combine Domlur and Indiranagar
-UPDATE events SET
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
-    json_insert(event_json -> '$.keywords', '$[#]', 'INDIRANAGAR')
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'INDIRANAGAR'
+    )
   )
-WHERE (
-     event_json LIKE '%domlur%' 
-  or event_json LIKE '%indiranagar%'
-  or event_json LIKE '%old airport road%'
-);
+WHERE
+  (
+    event_json LIKE '%domlur%'
+    OR event_json LIKE '%indiranagar%'
+    OR event_json LIKE '%old airport road%'
+  );
 
-UPDATE events SET
+
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
     json_insert(event_json -> '$.keywords', '$[#]', 'JAYANAGAR')
   )
-WHERE event_json LIKE '%domlur%' or event_json LIKE '%jayanagar%';
+WHERE
+  event_json LIKE '%domlur%'
+  OR event_json LIKE '%jayanagar%';
 
-UPDATE events SET
+
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
     json_insert(event_json -> '$.keywords', '$[#]', 'JPNAGAR')
   )
-WHERE event_json->>'$.location' LIKE '%jp nagar%' OR event_json->>'$.location' LIKE '%j p nagar%';
+WHERE
+  event_json ->> '$.location' LIKE '%jp nagar%'
+  OR event_json ->> '$.location' LIKE '%j p nagar%';
+
 
 -- Merge Brookefield with whitefield for now
-UPDATE events SET
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
     json_insert(event_json -> '$.keywords', '$[#]', 'WHITEFIELD')
   )
-WHERE event_json->>'$.location' LIKE '%whitefield%' OR event_json->>'$.location' LIKE '%brookefield%';
+WHERE
+  event_json ->> '$.location' LIKE '%whitefield%'
+  OR event_json ->> '$.location' LIKE '%brookefield%';
 
 
-UPDATE events SET
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
     json_insert(event_json -> '$.keywords', '$[#]', 'JAKKUR')
   )
-WHERE event_json->>'$.location' LIKE '%jakkur%';
+WHERE
+  event_json ->> '$.location' LIKE '%jakkur%';
 
-UPDATE events SET
+
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
     json_insert(event_json -> '$.keywords', '$[#]', 'HEBBAL')
   )
-WHERE event_json->>'$.location' LIKE '%HEBBAL%';
+WHERE
+  event_json ->> '$.location' LIKE '%HEBBAL%';
+
 
 -- CBD
-UPDATE events SET
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
     json_insert(event_json -> '$.keywords', '$[#]', 'CBD')
   )
-WHERE (
-  event_json->>'$.location' LIKE '%1 mg%' OR
-  event_json->>'$.location' LIKE '%mg road%' OR
-  event_json->>'$.location' LIKE '%residency road%' OR
-  event_json->>'$.location' LIKE '%residency rd%' OR
-  event_json->>'$.location' LIKE '%mahatma gandhi road%' OR
-  event_json->>'$.location' LIKE '%jayamahal%' OR
-  event_json->>'$.location' LIKE '%ashok nagar%' OR
-  event_json->>'$.location' LIKE '%churchstreet%' OR
-  event_json->>'$.location' LIKE '%church street%' OR
-  event_json->>'$.location' LIKE '%cubbon park%' OR
-  event_json->>'$.location' LIKE '%church st%'
-);
+WHERE
+  (
+    event_json ->> '$.location' LIKE '%1 mg%'
+    OR event_json ->> '$.location' LIKE '%mg road%'
+    OR event_json ->> '$.location' LIKE '%residency road%'
+    OR event_json ->> '$.location' LIKE '%residency rd%'
+    OR event_json ->> '$.location' LIKE '%mahatma gandhi road%'
+    OR event_json ->> '$.location' LIKE '%jayamahal%'
+    OR event_json ->> '$.location' LIKE '%ashok nagar%'
+    OR event_json ->> '$.location' LIKE '%churchstreet%'
+    OR event_json ->> '$.location' LIKE '%church street%'
+    OR event_json ->> '$.location' LIKE '%cubbon park%'
+    OR event_json ->> '$.location' LIKE '%church st%'
+  );
+
 
 -- Electronic City
-UPDATE events SET
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
     json_insert(event_json -> '$.keywords', '$[#]', 'ECITY')
   )
-WHERE (
-  event_json->>'$.location' LIKE '%electronic city%' OR
-  event_json->>'$.location' LIKE '%e-city%' OR
-  event_json->>'$.location' LIKE '%electroniccity%' OR
-  event_json->>'$.location' LIKE '%electronic-city%'
-);
+WHERE
+  (
+    event_json ->> '$.location' LIKE '%electronic city%'
+    OR event_json ->> '$.location' LIKE '%e-city%'
+    OR event_json ->> '$.location' LIKE '%electroniccity%'
+    OR event_json ->> '$.location' LIKE '%electronic-city%'
+  );
+
 
 -- Multi-day BSF events are marked as BSF/MULTIDAY
 -- so they can be excluded in the curated calendar.
-UPDATE events SET
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
-    json_insert(event_json -> '$.keywords', '$[#]', 'BSF/MULTIDAY')
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'BSF/MULTIDAY'
+    )
   )
-WHERE event_json->>'$.keywords' LIKE '%BSF%' AND
-substr(event_json->>'$.startDate', 0, 10) 
-  != substr(event_json->>'$.endDate', 0, 10);
+WHERE
+  event_json ->> '$.keywords' LIKE '%BSF%'
+  AND substr(event_json ->> '$.startDate', 0, 10) != substr(event_json ->> '$.endDate', 0, 10);
+
 
 -- Comedy Theater makes duplicate listings for their events
 -- That are multiple days long.
-UPDATE events SET
+UPDATE events
+SET
   event_json = json_replace(
     event_json,
     '$.keywords',
-    json_insert(event_json -> '$.keywords', '$[#]', 'LOW-QUALITY')
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'LOW-QUALITY'
+    )
   )
-WHERE (
-  event_json->>'$.location' LIKE '%comedy theater%'
-  -- LVDS multi-day events are courses
-  OR event_json ->> '$.location' LIKE '%LVDS%'
-) AND
-substr(event_json->>'$.startDate', 0, 10) 
-!= substr(event_json->>'$.endDate', 0, 10);
+WHERE
+  (
+    event_json ->> '$.location' LIKE '%comedy theater%'
+    -- LVDS multi-day events are courses
+    OR event_json ->> '$.location' LIKE '%LVDS%'
+  )
+  AND substr(event_json ->> '$.startDate', 0, 10) != substr(event_json ->> '$.endDate', 0, 10);
