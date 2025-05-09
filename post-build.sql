@@ -77,6 +77,13 @@ WHERE
     url LIKE '%weekend-getaway%'
   );
 
+-- You cant attend a BIC Podcast
+DELETE FROM events
+WHERE
+  event_json ->> '$.keywords' LIKE '%BIC%'
+  AND event_json ->> '$.keywords' LIKE '%podcast%';
+
+
 -- Woo-Woo https://rationalwiki.org/wiki/Woo
 UPDATE events
 SET
