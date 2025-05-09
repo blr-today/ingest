@@ -32,7 +32,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 11,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -770,7 +770,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 11,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -968,8 +968,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 12,
+    "maximumAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1418,7 +1418,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 17,
-    "remainingAttendeeCapacity": 11,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1664,7 +1664,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 32,
+    "remainingAttendeeCapacity": 30,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -1712,7 +1712,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 62,
+    "remainingAttendeeCapacity": 59,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2030,52 +2030,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "ARAKU Open House: Meet Brewers Cup Champion",
-    "description": "Introducing ARAKU Open House: an open-for-all invitation to explore the world of specialty coffee. This program, under ARAKU World Specialty Coffee Academy (AWSCA), aims to foster a more inclusive and accessible coffee community, one cup at a time. Brew with India\u2019s first-ever Brewers Cup Champion and ARAKU\u2019s Senior Roaster, Siddhant Mithari.What to Expect:Meet India\u2019s First Brewers Cup Champion: A casual open house with Siddhant Mithari, where he brews ARAKU\u2019s gems using his competition-winning recipe.Live Brewing Demo: Watch Siddhant prepare coffee exactly as he did for the championship \u2014 covering technique, timing, and approach.Tasting + Q&A: Sample the brews and ask questions about his process, prep, and insights from competing at the highest level.Brewing demo using the OREA flat brewer with Sibarist filter papersWho to Attend:Coffee professionals, baristas, and roasters curious about championship-level brewing.Homebrewers looking to level up their brewing and keen to explore new brewing gear and techniquesCoffee-curious influencers and F&B content creators keen to engage with India\u2019s first Brewers Cup Champion in an intimate setting.Coffee lovers who want a rare, up-close look at champion brewing in action.Spaces are limited, so be sure to secure your spot at the earliest.May 10th, Saturday | 4:00 PM OnwardsOnly at AWSCA, 1st floor, Araku Coffee, Indiranagar, Bangalore.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C7456B6A1F2742478923DB16FEE92C27_converted_webp.webp"
-    ],
-    "startDate": "2025-05-10T16:00:00+05:30",
-    "endDate": "2025-05-10T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "968, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJu3MeVd0XrjsRej9BlCg4hv4",
-      "latitude": "12.96994650000000000000",
-      "longitude": "77.63917320000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "ARAKU Coffee",
-      "description": null,
-      "url": "https://urbanaut.app/partner/araku",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/511149AB2D2448469A053C17FC5FB4BF_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": null
-      }
-    },
-    "url": "https://urbanaut.app/spot/araku-open-house-brewers-champion",
-    "keywords": [
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Coffee & Conversations",
     "description": "Coffee, Conversations, and Connections\" \u2615\ud83d\udcacWhether you're looking to make new connections or simply unwind after a busy week with some wholesome conversations, this table offers just that\u2014over a cup of coffee.Meet interesting people, share your experiences, and kickstart your weekend in the best way possible.Bring your authentic self to the table and let the conversations flow!\u2728",
     "image": [
@@ -2141,7 +2095,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 48,
+    "remainingAttendeeCapacity": 47,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2237,7 +2191,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
