@@ -16,9 +16,10 @@ event_type_mapper = {
     "Workshop": "EducationEvent",
     "Event": "Event",
     "Walkthrough": "EducationEvent",
+    "Studio Visit": "EducationEvent",
 }
-session = get_cached_session()
 
+session = get_cached_session()
 
 def guess_event_type(kind):
     # search for each of the keys from the mapper
