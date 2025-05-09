@@ -2505,5 +2505,53 @@
     "keywords": [
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "name": "Screening of Sleep Has Her House (2017) with TPCC",
+    "description": "Our weekly meetings feature a screening of an arthouse film, followed by a discussion. Led by one of our members or occasionally a guest speaker, the discussion encourages participants to share their thoughts and interpretations of the film.Sleep Has Her House (2017)The shadows of screams climb beyond the hills. It has happened before. But this will be the last time. The last few sense it, withdrawing deep into the forest. They cry out into the black, as the shadows pass away, into the ground.About The Parallel Cinema ClubA community-run film society, we are a collective of film enthusiasts who gather weekly to explore the world of cinema, discuss auteurs and themes, and occasionally host guest lectures.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEC2ECFEAAF64A469F35121FDB593D26_converted_webp.webp"
+    ],
+    "startDate": "2025-05-13T19:45:00+05:30",
+    "endDate": "2025-05-13T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96722140000000000000",
+      "longitude": "77.63669820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 7,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "We're a community center for thoughtful, kind, and interesting events.",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/screening-of-sleep-has-her-house-2017-with-tpcc",
+    "keywords": [
+      "Leisure",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
   }
 ]
