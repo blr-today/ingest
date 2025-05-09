@@ -97,6 +97,7 @@ URL_FILES = [
     "out/together-buzz.txt",
     "out/koota.txt",
     "out/pumarun.txt",
+    "out/artzo.txt"
 ]
 
 IGNORED_EVENT_UIDS = ["60749-1718409600-1722470399@bangaloreinternationalcentre.org"]

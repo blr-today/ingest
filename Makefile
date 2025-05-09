@@ -66,6 +66,9 @@ out/insider.txt:
 	jq -r '.list.masterList|keys[]|["https://insider.in",., "event"]|join("/")' | sort > $@ ||  $(call restore-file,$@)
 	echo "[INSIDER] $$(wc -l $@ | cut -d ' ' -f 1)"
 
+out/artzo.txt:
+	python src/artzo.py | sort > $@ || $(call restore-file,$@)
+	echo "[ARTZO] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/bhaagoindia.txt:
 	python src/bhaagoindia.com.py | sort > $@ ||  $(call restore-file,$@)
