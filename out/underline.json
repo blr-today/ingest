@@ -37,6 +37,41 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2025-05-10T17:00:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Whimsical Weekend with Improv Lore",
+      "sameAs": "https://underline.center/t/248",
+      "startDate": "2025-05-09T15:00:00.000Z",
+      "url": "https://www.district.in/whimsical-weekend-with-improv-lore/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "endDate": "2025-05-10T12:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -138,41 +173,6 @@
       "sameAs": "https://underline.center/t/377",
       "startDate": "2025-05-10T12:30:00.000Z",
       "url": "https://www.district.in/swapbook-bengaluru-2025/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2025-05-10T17:00:00.000Z",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Whimsical Weekend with Improv Lore",
-      "sameAs": "https://underline.center/t/248",
-      "startDate": "2025-05-10T15:00:00.000Z",
-      "url": "https://www.district.in/whimsical-weekend-with-improv-lore-apr5-2025/event"
    },
    {
       "@context": "https://schema.org",
@@ -347,7 +347,7 @@
       "name": "Unwind with Art by The Coffeeshop Counsellor",
       "sameAs": "https://underline.center/t/400",
       "startDate": "2025-05-17T05:30:00.000Z",
-      "url": "tba"
+      "url": "https://district.in/unwind-with-art-by-the-coffee-shop-counsellor-may17-2025/event"
    },
    {
       "@context": "https://schema.org",
