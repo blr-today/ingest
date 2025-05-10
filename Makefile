@@ -220,7 +220,8 @@ fetch: out/allevents.txt \
  out/lavonne.json \
  out/bngbirds.json \
  out/paintbar.json \
- out/artzo.txt
+ out/artzo.txt \
+ out/pedalintandem.json
 	@echo "Done"
 
 clean:
