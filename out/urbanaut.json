@@ -32,7 +32,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -868,7 +868,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 19,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -892,55 +892,6 @@
       "Leisure",
       "Pop-up Event",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Read the Room",
-    "description": "Curated by The Third Space Collective, in collaboration with Cubbon Meets and The Studio by Copper + Cloves.\ud83c\udf3f ABOUT THE THIRD SPACE COLLECTIVEBorn from the minds behind\u00a0Cubbon Meets,\u00a0The Third Space Collective\u00a0is a quiet rebellion against hustle culture. We carve out corners of the city where agendas dissolve, screens dim, and the simple act of\u00a0being\u00a0takes center stage. No networking, no productivity quotas\u2014just spaces where time softens, connections deepen, and life unfolds in the pauses. This is our debut experience: a fusion of books, belonging, and the beauty of undone expectations.\ud83d\udcd6 WHAT CAN YOU EXPECT AT READ THE ROOMBring a pre-loved book from your shelf, wrapped in newspaper or a paper bag. Attach a spoiler-free note\u2014a whisper about why it moved you, a message to its future owner. No names, just heart.At\u00a0Read the Room, we\u2019ll trade these anonymous treasures, then fall into curated conversations\u2014no small talk, just big ideas, wild tangents, and the kind of bookish camaraderie that makes strangers feel like old friends; closing the night with a reader's mixer.Hosted at\u00a0The Studio by Copper + Cloves\u2014a sanctuary where wellness meets wonder. Think soft light, earthy tones, and air thick with the quiet hum of minds unplugging.P.S.\u00a0WiFi will be politely ignored. ",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9A5C6B308A8B484782E473DF209FF249_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6E566C3089B44A049BE37143279A96A9_converted_webp.webp"
-    ],
-    "startDate": "2025-05-11T18:30:00+05:30",
-    "endDate": "2025-05-11T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
-      "latitude": "12.96391480000000000000",
-      "longitude": "77.63842380000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 18,
-    "remainingAttendeeCapacity": 2,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Third Space Collective",
-      "description": "\u2022 curated limited edition experiences \u2022 intentional community",
-      "url": "https://urbanaut.app/partner/thirdspacecollective",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/1FA62BADC5C945E598C08390713FD9EA_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-89710-14810"
-      }
-    },
-    "url": "https://urbanaut.app/spot/readtheroom-ED40",
-    "keywords": [
-      "Leisure",
-      "Food & drink",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1612,7 +1563,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 29,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -1660,7 +1611,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 59,
+    "remainingAttendeeCapacity": 45,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1903,7 +1854,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 47,
+    "remainingAttendeeCapacity": 42,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
