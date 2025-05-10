@@ -177,6 +177,9 @@ out/bngbirds.json:
 out/paintbar.json:
 	python src/paintbar.py || $(call restore-file,$@)
 
+out/pedalintandem.json:
+	python src/pedalintandem.py || $(call restore-file,$@)
+
 fetch: out/allevents.txt \
  out/highape.txt \
  out/bengalurusustainabilityforum.json \
