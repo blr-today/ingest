@@ -113,6 +113,8 @@ WHERE
     event_json ->> '$.name' LIKE '%QI Gong%'
     OR event_json ->> '$.name' LIKE '%tarot %'
     OR event_json ->> '$.name' LIKE '%Sound Immersion%'
+    OR event_json ->> '$.name' LIKE '%sound bath%'
+    OR event_json ->> '$.url'  LIKE '%sound-bath%'
     OR event_json ->> '$.name' LIKE '%sound healing%'
     OR event_json ->> '$.name' LIKE '%Breathwork%'
     OR event_json ->> '$.name' LIKE '%SoundBath%'
@@ -246,7 +248,7 @@ WHERE
 
 
 -- Tag Artzo Events as ARTZO from the domain artzo.in
-UPDATE event_json
+UPDATE events
 SET
   event_json = json_replace(
     event_json,
