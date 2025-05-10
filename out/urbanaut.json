@@ -1677,7 +1677,9 @@
     "description": "Ever felt like jazz was a secret club with too many rules? Jazz \u2013 Uncertified Listening is here to break the code. This isn\u2019t a masterclass\u2014it\u2019s a celebration of curiosity, oddities, and the pure joy of listening. We\u2019ll spin a handpicked set of jazz records, explore the weird and wonderful corners of the genre, and maybe even discover a new favorite or two. No expertise required\u2014just bring your ears and an open mind.Join us on Saturday, May 10th, 2025, at 4:00 PM at Ram\u2019s Musique Experience, MG Road. Entry is INR 200. Whether you\u2019re a jazz newbie, a casual listener, or someone who just likes a good story with their music, this session is for you. Come for the vinyl, stay for the surprises.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E8ECD71A765A444ABC5197661D6E55C2_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2CF837CFF0554633BCEA95726B5BDC35_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2CF837CFF0554633BCEA95726B5BDC35_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B3D96AA93D1A497291D6304D82C1D112_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/73B90917F9FD43C89BFB4C2AEE9D7074_converted_webp.webp"
     ],
     "startDate": "2025-05-10T16:00:00+05:30",
     "endDate": "2025-05-10T18:00:00+05:30",
@@ -2351,6 +2353,57 @@
       "Music",
       "Food & drink",
       "COURTYARD",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Love Lab",
+    "description": "A date that\u2019s fun, fresh, and a little bit genius.Think you know each other? Time to test the theory.The Love Lab is a playful, pop-up experience for couples who want to connect, laugh, and learn something new (without the pressure).Not therapy. Not a boring workshop. Just a super fun way to upgrade your relationship \u2014 with mini challenges, games, and tools you\u2019ll actually use.Try out relationship \u201cexperiments\u201d backed by real scienceExplore quirky communication boothsTeam up for couple games & connection promptsNo lectures. No pressure. No \u201cfixing\u201d required.Just two people, some cool tools, and a little relationship magic.Whether you\u2019re a few dates in or years into forever\u2014this is your excuse to ditch the usual and do something unforgettable. Together.\ud83d\udcc5 When:June 7th, 4 pm onwards (you can stay for as long as you like, we close at 8pm)\ud83d\udccdWhere:21/1, Church Rd, Kanakapura, Basavanagudi, Bengaluru, Karnataka 560004\ud83d\udcde Contact: +91 63664 29922",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A85FC850F3AA4631AC52E9A66102379B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/211D65A4705C46D9BD6340AD0460B11A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CCE698DEB3C548EAA4E5AB8867856A8F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CB1506C110C54E3CA966B3DFDBFDE629_converted_webp.webp"
+    ],
+    "startDate": "2025-06-07T16:00:00+05:30",
+    "endDate": "2025-06-07T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "21/1, Church Rd, Kanakapura, Basavanagudi, Bengaluru, Karnataka 560004, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJWX0vldwVrjsRpYdl9Uhe8Fk",
+      "latitude": "12.94313230000000000000",
+      "longitude": "77.57766780000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "799.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Happiness Blueprint Private Limited",
+      "description": null,
+      "url": "https://urbanaut.app/partner/thehappinessproject",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/1D5223D44CD444708B16F0CD3746A45D_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63664-29922"
+      }
+    },
+    "url": "https://urbanaut.app/spot/the-love-lab",
+    "keywords": [
+      "Local",
+      "Wellness",
+      "Workshop",
       "URBANAUT"
     ]
   }
