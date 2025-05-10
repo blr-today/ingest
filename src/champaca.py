@@ -1,5 +1,6 @@
 import datetime
 import json
+import cleanurl
 from common.tz import IST
 import dateutil.parser
 import re
@@ -16,14 +17,15 @@ def make_request(url):
     return response.content
 
 
-def get_price(product_url):
+def get_product_details(product_url):
     session = get_cached_session()
     parsed_url = urllib.parse.urlparse(product_url)
     path = parsed_url.path
-    response = session.get("https://champaca.in" + path + ".json")
+    url = "https://champaca.in" + path + ".json"
+    response = session.get(url)
     j = response.json()
     for variant in j["product"]["variants"]:
-        return str(ceil(float(variant["price"])))
+        return (str(ceil(float(variant["price"]))), j['product']['product_type'])
 
 
 def guess_event_type(title):
@@ -35,6 +37,9 @@ def guess_event_type(title):
         return "ChildrensEvent"
     return "Event"
 
+def drop_query_params(url):
+    cleaned_url = urllib.parse.urlparse(url)._replace(query=None, fragment=None)
+    return urllib.parse.urlunparse(cleaned_url)
 
 # Generate as per the schema.org/Event specification
 def make_event(title, starttime, description, url, product_urls):
@@ -52,25 +57,30 @@ def make_event(title, starttime, description, url, product_urls):
 
     e = {
         "@type": guess_event_type(title),
-        "name": title,
+        "name": title.split("|")[0].strip(),
         "startDate": starttime.isoformat(),
         "endDate": (starttime + datetime.timedelta(hours=2)).isoformat(),
         "description": description,
         "url": url,
-        "offers": [
-            {
-                "@type": "Offer",
-                "url": url,
-                "price": get_price(url),
-                "priceCurrency": "INR",
-            }
-            for url in product_urls
-        ],
+        "offers": []
+        
     }
 
-    for offer in e["offers"]:
-        if offer["price"] == "0":
-            e["isAccessibleForFree"] = True
+    for product_url in product_urls:
+        product_url = drop_query_params(product_url)
+        price,type = get_product_details(product_url)
+        # TODO: If Needed
+        # Champaca does not mark its events in a separate category always
+        # So we can check the product weight, which should be zero as well
+        if 'ticket' in type.lower() or 'event' in type.lower():
+            e['offers'].append({
+                "@type": "Offer",
+                "url": product_url,
+                "price": price,
+                "priceCurrency": "INR"
+            })
+            if price == "0":
+                e["isAccessibleForFree"] = True
 
     if performer:
         e["performer"] = {"@type": "Person", "name": performer}
@@ -126,7 +136,7 @@ def fetch_events():
             if future_date:
                 # Calculate the difference in days between now and the future date
                 days_difference = (future_date - datetime.datetime.now()).days
-                if days_difference <= 30 and days_difference >= 1:
+                if days_difference <= 30 and days_difference >= 0:
 
                     events.append(
                         make_event(title, future_date, description_text, url, links)
