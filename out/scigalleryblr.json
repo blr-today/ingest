@@ -61,5 +61,38 @@
       }
     ],
     "maximumAttendeeCapacity": 25
+  },
+  {
+    "@type": "Event",
+    "name": "Ripe for Change: A Sensorial Tasting of Mangoes, Memories and the Shifting Landscapes of Food",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-05-18T15:30:00+05:30",
+    "endDate": "2025-05-18T17:30:00+05:30",
+    "description": "What does a mango mean to you?<br><br>Is it the smell of a summer afternoon, the feel of sticky fingers, or the story of a seed carried across generations?<br>Join us at Ripe for Change, a tasting experience that explores mangoes through the senses and through stories.<br>Guided by Sopan Joshi in conversation with Tanveer Hussain and Syed Ghani Khan, and hosted in collaboration with the food and climate collective Edible Issues, the programme is not just a tasting but also a conversation around mangoes.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=ripe-for-change",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sopan-Joshi"
+      },
+      {
+        "@type": "Person",
+        "name": "Edible-Issues"
+      },
+      {
+        "@type": "Person",
+        "name": "Tanveer-Hussain"
+      },
+      {
+        "@type": "Person",
+        "name": "Syed-Ghani-Khan"
+      }
+    ],
+    "maximumAttendeeCapacity": 45
   }
 ]
