@@ -389,7 +389,15 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General admission || Valid for one individual || For Age(s) 21+ || Extra Cover Charge ₹500 at the Venue gate - Fully Redeemable in FnB\n",
-            "inventoryLevel": 6,
+            "inventoryLevel": 86,
+            "name": "Phase I",
+            "url": "https://www.skillboxes.com/events/ticket/tribute-to-linkin-park"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "General admission || Valid for one individual || For Age(s) 21+ || Extra Cover Charge ₹500 at the Venue gate - Fully Redeemable in FnB\n",
+            "inventoryLevel": 0,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/tribute-to-linkin-park"
          }
@@ -545,32 +553,6 @@
       ],
       "startDate": "2025-05-17T18:30:00",
       "url": "https://www.skillboxes.com/events/the-cirque-an-exclusive-bastian-production"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Experience an electrifying night of beats and rhythms as CentiGrade Club Nights presents the dynamic ANSWER (Face 2 Face)  live at PANGEO this Sa",
-      "endDate": "2025-05-11T01:00:00",
-      "identifier": "com.skillboxes.22181",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1746554794M2u9C4KK9rqPrYiF.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9726391",
-            "longitude": "77.6065987"
-         },
-         "name": "Pangeo"
-      },
-      "name": "CentiGrade Club Nights ft. Answer / 10th May / Pangeo",
-      "offers": [ ],
-      "startDate": "2025-05-10T20:00:00",
-      "url": "https://www.skillboxes.com/events/centigrade-club-nights-ft-answer-10th-may-pangeo"
    },
    {
       "@context": "https://schema.org",
@@ -749,41 +731,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "🎪 Flow Sundowner at Aqua, The Park Bangalore 🎶\nJoin the city's vibrant flow art community for an unforgettable evening of flow sho",
-      "endDate": "2025-05-11T22:00:00",
-      "identifier": "com.skillboxes.22082",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1746504913UrZ4Brsx7XgGU0B2.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "14/7, Mahatma Gandhi Rd, near Andhra Bank",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12",
-            "longitude": "77"
-         },
-         "name": "AQUA"
-      },
-      "name": "Aqua Presents - Flow Sundowner - A Flow Arts Event -  ft. Hoopinkai, Mufasa, Snd Chk Mnj and Vite.",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges applicable\n",
-            "inventoryLevel": 112,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/aqua-presents-flow-sundowner"
-         }
-      ],
-      "startDate": "2025-05-11T17:00:00",
-      "url": "https://www.skillboxes.com/events/aqua-presents-flow-sundowner"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "EE Mohamu\r\n\"An evening of exquisite Padams and Javalis.\"\r\n \r\n\r\nPadams and Javalis are rare gems in Carnatic sangeetham. They seem to ha",
       "endDate": "2025-05-18T23:59:00",
       "identifier": "com.skillboxes.22069",
@@ -814,41 +761,6 @@
       ],
       "startDate": "2025-05-18T18:30:00",
       "url": "https://www.skillboxes.com/events/ee-mohamu"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "We are back with yet another edition of  Future Dance Wave. This time we bring to you an Electro + Breaks Edition ft. Cocktail Party Ef",
-      "endDate": "2025-05-11T23:59:00",
-      "identifier": "com.skillboxes.22053",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/blB1VFUxa1JwZkRQRGFudlFoNlNYdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1746274592UaUfa22vN9rkpaXB.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9707322",
-            "longitude": "77.6476391"
-         },
-         "name": "Indiranagar Social"
-      },
-      "name": "Future Dance Wave ft. Cocktail Party Effect, DJ Dwell & Out Of Office",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry on RSVP valid till 9:30pm.  Entry ticket will be charged at gate after 9:30pm\n",
-            "inventoryLevel": 101,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/future-dance-wave-ft-cocktail-party-effect-dj-dwell-out-of-office"
-         }
-      ],
-      "startDate": "2025-05-11T20:00:00",
-      "url": "https://www.skillboxes.com/events/future-dance-wave-ft-cocktail-party-effect-dj-dwell-out-of-office"
    },
    {
       "@context": "https://schema.org",
@@ -884,65 +796,6 @@
       ],
       "startDate": "2025-05-18T16:00:00",
       "url": "https://www.skillboxes.com/events/the-indian-house-music-project-summer-edition-feat-fake-tattoos-more"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Good Vibes ONLY!\n\n\n(Every ticket includes a coupon for a glass of wine or a coffee on the house!)\nFor all the House and Disco fans out",
-      "endDate": "2025-05-11T21:00:00",
-      "identifier": "com.skillboxes.21992",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MXE1THVKWXViOEZCTEJ5Q2VhRHdqdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1746691340YibrUjTa1jqeO0st.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "1st Floor, 5th Block, 136, 1st Cross Road, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9351785",
-            "longitude": "77.6176533"
-         },
-         "name": "The Pour Room"
-      },
-      "name": "COHOP - Sundown Shuffle (Wine, Coffee, House Music)",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Grants entry to one Female at The Sundown Shuffle\nIncludes a Coupon for a Free Glass of Wine or Coffee",
-            "inventoryLevel": 8,
-            "name": "FEMALE STAG",
-            "url": "https://www.skillboxes.com/events/ticket/cohop-the-am-pm-alchemy-music-wine-tasting-coffee"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Grants entry to one Male at The Sundown Shuffle\nIncludes a coupon for a Free Glass of Wine or A Coffee",
-            "inventoryLevel": 6,
-            "name": "Male Stag",
-            "url": "https://www.skillboxes.com/events/ticket/cohop-the-am-pm-alchemy-music-wine-tasting-coffee"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Grants Entry to One Male and One Female at The AM/PM Alchemy\nIncludes two coupons for a Glass of Wine or a Coffee",
-            "inventoryLevel": 10,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/cohop-the-am-pm-alchemy-music-wine-tasting-coffee"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Grants entry to a group of 4 individuals at The Sundown Shuffle\nIncludes 4 Coupons for a Free Glass of Wine or Coffee",
-            "inventoryLevel": 9,
-            "name": "Group of 4",
-            "url": "https://www.skillboxes.com/events/ticket/cohop-the-am-pm-alchemy-music-wine-tasting-coffee"
-         }
-      ],
-      "startDate": "2025-05-11T16:00:00",
-      "url": "https://www.skillboxes.com/events/cohop-the-am-pm-alchemy-music-wine-tasting-coffee"
    },
    {
       "@context": "https://schema.org",
@@ -1156,41 +1009,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Section 140 is a dedicated space for pure bass pressure, where the heartbeat of 140 BPM music takes center stage.From deep dubstep to raw grime a",
-      "endDate": "2025-05-11T22:00:00",
-      "identifier": "com.skillboxes.21841",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MXQxRmhsNElQUWJaSEpqUVlORkR1QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1745921127T25nlCOkGhG82bLF.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "7, 33rd Main Rd, KR Layout, JP Nagar Phase 6, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9062209",
-            "longitude": "77.5804821"
-         },
-         "name": "JP Nagara SOCIAL."
-      },
-      "name": "Section 140 | Trap Culture x Social Sundowner",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Welcome to Section 140: Where Bass Lives.\n",
-            "inventoryLevel": 100,
-            "name": "Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/section-140-trap-culture-x-social-sundowner"
-         }
-      ],
-      "startDate": "2025-05-11T17:00:00",
-      "url": "https://www.skillboxes.com/events/section-140-trap-culture-x-social-sundowner"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Job Kurian is a singer-songwriter from Alleppey, Kerala-the land of serene backwaters. Deeply rooted in Kerala's traditional folk music, his sound",
       "endDate": "2025-06-15T23:59:00",
       "identifier": "com.skillboxes.21834",
@@ -1392,49 +1210,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Astrolab X Darkk Energy presents Damru\r\n\r\nSun, 11-May-2025\r\n\r\n ",
-      "endDate": "2025-05-11T23:59:00",
-      "identifier": "com.skillboxes.21729",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1746703757odTcLkTjoyG29D62.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Nazaara,Terrace Level, Courtyard by Marriott Bengaluru Hebbal, No.2, 55, Outer Ring Rd, Jogappa Layout, Nagavara, Bengaluru, Karnataka 560045, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0426203",
-            "longitude": "77.6096324"
-         },
-         "name": "Nazaara"
-      },
-      "name": "Astrolab X Darkk Energy presents Damru",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Alcohol will only be served to patrons above the legal drinking age. Only sealed cigarette packets would be allowed on the premises. Closed foot ware mandatory for male patrons. Age limit - 21+ To all Patrons under 21 Legal Drinking Age there will be a designated zone and entry to the venue.\n",
-            "inventoryLevel": 1000,
-            "name": "Phase 1 Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/hardground-presents-damru"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Alcohol will only be served to patrons above the legal drinking age. Only sealed cigarette packets would be allowed on the premises. Closed foot ware mandatory for male patrons. Age limit - 21+ To all Patrons under 21 Legal Drinking Age there will be a designated zone and entry to the venue.\n",
-            "inventoryLevel": 986,
-            "name": "Early Bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/hardground-presents-damru"
-         }
-      ],
-      "startDate": "2025-05-11T19:00:00",
-      "url": "https://www.skillboxes.com/events/hardground-presents-damru"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "BANGALORE DEATH FEST is back after the massive success of the first 2 editions. Get ready for the ultimate death metal party. Get your mosh boots on a",
       "endDate": "2025-05-30T23:59:00",
       "identifier": "com.skillboxes.21727",
@@ -1526,32 +1301,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "HighlightsDJ Night ft DJ SukantFree Drinks for ladiesNon Stop MusicBollywoodCommercialBig ScreenDance FloorMouth Watering AppetizersCocktails&#16",
-      "endDate": "2025-05-11T00:30:00",
-      "identifier": "com.skillboxes.21255",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17448131439qh5TfwXSru4TS3e.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "105, 1st A cross Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9344374",
-            "longitude": "77.6159175"
-         },
-         "name": "The Boozy Griffin Bangalore"
-      },
-      "name": "Saturday Desi Nights",
-      "offers": [ ],
-      "startDate": "2025-05-10T08:00:00",
-      "url": "https://www.skillboxes.com/events/saturday-desi-nights"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Get ready, Bengaluru - History is about to be made. \r\n\r\n \r\n\r\nFor the first time ever, 25 of Bangalore's top metal musicians are com",
       "endDate": "2025-06-07T23:00:00",
       "identifier": "com.skillboxes.21220",
@@ -1623,49 +1372,6 @@
       ],
       "startDate": "2025-06-07T19:00:00",
       "url": "https://www.skillboxes.com/events/genesis-1-0"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Phantom Pulse kicks off its first show with a triple threat of sonic extremity, bringing together some of the most unrelenting forces from India&",
-      "endDate": "2025-05-11T23:59:00",
-      "identifier": "com.skillboxes.21029",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG5GdzJxWkRFS1IxMUhmMVZvSnJSQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1746876259tFcgs1qb3GCzJELB.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No 51 & 52, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9731348",
-            "longitude": "77.6074382"
-         },
-         "name": "By Chance - Resto Pub"
-      },
-      "name": "Phantom Pulse ft. XrepeatX • The I.S.R.O • Essenar Zero",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "A cover of 500 INR will be charged at the venue, which is redeemable on food and beverages.\n",
-            "inventoryLevel": 957,
-            "name": "General Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/phantom-pulse-ft-xrepeatx-ruhail-qaiser-essenar-zero"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "A cover of 500 INR will be charged at the venue, which is redeemable on food & beverages.\n",
-            "inventoryLevel": 0,
-            "name": "Early-bird Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/phantom-pulse-ft-xrepeatx-ruhail-qaiser-essenar-zero"
-         }
-      ],
-      "startDate": "2025-05-11T18:30:00",
-      "url": "https://www.skillboxes.com/events/phantom-pulse-ft-xrepeatx-ruhail-qaiser-essenar-zero"
    },
    {
       "@context": "https://schema.org",
@@ -1840,32 +1546,6 @@
       ],
       "startDate": "2025-05-13T20:00:00",
       "url": "https://www.skillboxes.com/events/tease-tuesdays-happy-brew-kormangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "This Saturday Catch All Fun And Action On Biggest Dance Floor At Hangover Kormangala.Bollywood Blockbuster  with DJ Milan and Fema",
-      "endDate": "2025-05-11T00:30:00",
-      "identifier": "com.skillboxes.17738",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1746635351Gxn5JwVXSlcj7G3D.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Ground Floor 1st Main Road 23, Ganapathi Temple Rd, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9348662",
-            "longitude": "77.6138885"
-         },
-         "name": "Plan B x Hangover XL Koramangala"
-      },
-      "name": "Saturday Hangover Blockbuster Night",
-      "offers": [ ],
-      "startDate": "2025-05-10T20:00:00",
-      "url": "https://www.skillboxes.com/events/saturday-hangover-blockbuster-night-2"
    },
    {
       "@context": "https://schema.org",
