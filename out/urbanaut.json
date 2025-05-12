@@ -245,6 +245,53 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Sunday Breakfast with Strangers",
+    "description": "Make Your Sunday Shine with New Connections!\u2728Start your Sunday with good food and even better company. Join a table of strangers-turned-friends for a slow, soulful morning filled with shared stories, laughter, and warm bites. No small talk required\u2014just real connection over breakfast. \ud83c\udf1f",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3EC2469242454B52A2E89B0BFB156ACD_converted_webp.webp"
+    ],
+    "startDate": "2025-05-18T10:00:00+05:30",
+    "endDate": "2025-05-18T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "latitude": "12.97836920000000000000",
+      "longitude": "77.64083560000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/sunday-breakfast-with-strangers-ht",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "The Bohra Thaal \u2013 An Authentic Bohra Cuisine",
     "description": "Have You Ever Experienced Dining in a Traditional Bohra Thaal?If not, here\u2019s your chance to be part of an intimate and one-of-a-kind home dining experience. Hosted in the comfort of a warm, welcoming home, this gathering brings together like-minded individuals to share a meal, exchange stories, and turn strangers into friends\u2014all while indulging in the rich flavors of Bohra cuisine.Bohra cuisine originates from the Bohra Muslim community, with roots tracing back to Yemen before flourishing in India. Over the centuries, it has evolved into a delightful fusion of Middle Eastern, Mughlai, Gujarati, and Maharashtrian flavors, reflecting a legacy of migration, trade, and cultural influences.What makes Bohra dining truly special is its communal style\u2014meals are served in a giant \"Thaal\", where 4 to 6 guests dine together, fostering a deep sense of connection, warmth, and tradition.From Finance to Flavours: My Journey into Bohra CuisineAs a Chartered Accountant, I built a career in finance, working with esteemed firms like Avendus and ASK. While finance was my profession, my true passion lay in cooking.Back in Mumbai, my home-cooked meals were always a highlight among friends and colleagues. After relocating to Bengaluru six months ago, I finally decided to follow my culinary dream, giving birth to The Bohra Thaal\u2014a heartfelt endeavor to bring the authentic Bohra \"Thaal\" experience to Namma Bengaluru.Now, we invite you to be part of this journey and savor a 9-course Bohra feast\u2014served with love, straight from our home to your plate.What to Expect?\ud83c\udf7d\ufe0f Indulge in an authentic 9-course Bohra feast\ud83c\udf5b Dine the traditional way\u2014sharing a giant Thaal with 4 to 6 guests\ud83c\udfe1 Experience the warmth of home-style communal dining\u23f3 Pre-booking closes 2 days in advance\"The nourishment of the body is food, while the nourishment of the soul is feeding others.\" \u2014 Hazrat Ali",
     "image": [
@@ -633,6 +680,99 @@
       "Premium",
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Explore German Cuisine with Strangers",
+    "description": "New flavors. New faces. Zero small talk.Curious about German food but never had a reason to try it?This is your chance. Join a table of strangers-turned-friends as we explore the flavors of Germany \u2014 from rich stews to crisp schnitzels and everything in between.You don\u2019t need to know the cuisine, just come with an open mind and an empty stomach. The conversations are just as good as the food \u2014 and who knows, you might walk away with a new favorite dish and a new friend.\ud83d\udcab",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/23861F8CB14A46C38DE75AC653E766A2_converted_webp.webp"
+    ],
+    "startDate": "2025-05-21T07:30:00+05:30",
+    "endDate": "2025-05-21T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "latitude": "12.97836920000000000000",
+      "longitude": "77.64083560000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/explore-new-cuisine-with-strangers-at-hightable",
+    "keywords": [
+      "Premium",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "De-Stress Fridays",
+    "description": "Fridays are meant for letting go, and this table is all about decompressing after a long week.Deadlines, meetings, and stress? Not here!This table is your weekly escape from the chaos, where you can kick back, connect, and enjoy an evening of effortless conversations and laughter.No pressure, just good energy!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BCFDE145C74140D791BEFADA865C25FE_converted_webp.webp"
+    ],
+    "startDate": "2025-05-16T19:00:00+05:30",
+    "endDate": "2025-05-16T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "latitude": "12.97836920000000000000",
+      "longitude": "77.64083560000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1199.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/de-stress-fridays",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -1282,6 +1422,98 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "The Girl Talk Chronicles: We Run The World (Girls)",
+    "description": "*Only for Women* \ud83c\udf38Welcome to the table where\u00a0that\u00a0group chat comes alive \u2014 no boys, no mansplaining, no one asking \u201cbut who\u2019s picking you up?\u201d Just women who get it.\ud83d\udca5 We\u2019re talking:\u2022That coworker who says\u00a0you\u2019re too nice for corporate\u00a0(what does that even mean?).\u2022The\u00a0you deserve better\u00a0pep talks from people who secretly don\u2019t want you to leave your situationship.\u2022Dating app fails (he listed his mom as an \u201cinterest\u201d?).\u2022People acting like the world\u2019s too sharp for you when\u00a0you\u00a0are the blade.\ud83c\udf77 Here, we laugh till we snort wine, swap wild stories, and cheer each other on.It\u2019s loud, funny, a little therapy, a little chaos \u2014 it's everything\u00a0YOU\u00a0want it to be",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F0F48F47F7634F7593387B8B13CB05B9_converted_webp.webp"
+    ],
+    "startDate": "2025-05-16T19:00:00+05:30",
+    "endDate": "2025-05-16T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "latitude": "12.97836920000000000000",
+      "longitude": "77.64083560000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/thegirl-talk-chronicles",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "ARAKU Open House: Meet Brewers Cup Champion",
+    "description": "Introducing ARAKU Open House: an open-for-all invitation to explore the world of specialty coffee. This program, under ARAKU World Specialty Coffee Academy (AWSCA), aims to foster a more inclusive and accessible coffee community, one cup at a time. Brew with India\u2019s first-ever Brewers Cup Champion and ARAKU\u2019s Senior Roaster, Siddhant Mithari.What to Expect:Meet India\u2019s First Brewers Cup Champion: A casual open house with Siddhant Mithari, where he brews ARAKU\u2019s gems using his competition-winning recipe.Live Brewing Demo: Watch Siddhant prepare coffee exactly as he did for the championship \u2014 covering technique, timing, and approach.Tasting + Q&A: Sample the brews and ask questions about his process, prep, and insights from competing at the highest level.Brewing demo using the OREA flat brewer with Sibarist filter papersWho to Attend:Coffee professionals, baristas, and roasters curious about championship-level brewing.Homebrewers looking to level up their brewing and keen to explore new brewing gear and techniquesCoffee-curious influencers and F&B content creators keen to engage with India\u2019s first Brewers Cup Champion in an intimate setting.Coffee lovers who want a rare, up-close look at champion brewing in action.Spaces are limited, so be sure to secure your spot at the earliest.May 10th, Saturday | 4:00 PM OnwardsOnly at AWSCA, 1st floor, Araku Coffee, Indiranagar, Bangalore.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C7456B6A1F2742478923DB16FEE92C27_converted_webp.webp"
+    ],
+    "startDate": "2025-05-17T16:00:00+05:30",
+    "endDate": "2025-05-17T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "968, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJu3MeVd0XrjsRej9BlCg4hv4",
+      "latitude": "12.96994650000000000000",
+      "longitude": "77.63917320000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "ARAKU Coffee",
+      "description": null,
+      "url": "https://urbanaut.app/partner/araku",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/511149AB2D2448469A053C17FC5FB4BF_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/araku-open-house-brewers-champion",
+    "keywords": [
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Coffee & Conversations: Street Food Stories",
     "description": "We\u2019re serving stories straight from the street! \ud83d\ude0bHosted by 'Priya Bala' a food writer and restaurant critic with a passion for street food and someone who\u2019s tasted it all, this table is your go-to for fascinating street food stories!Pull up a chair, sip some chai, and let\u2019s talk all things street foodFrom your favorite finds, childhood cravings, and the flavors that live rent-free in your memory.No forks, no filter\u2014just good vibes, great convos, and a whole lot of food love! \ud83c\udf2f",
     "image": [
@@ -1423,7 +1655,7 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Ecstatic Dance Bengaluru @ Pebbles on 25th May",
+    "name": "Ecstatic Dance Bengaluru @ Pebbles | 25.05.2025",
     "description": "This evening is all about celebration and coming together as an inclusive community supporting a worldwide conscious movement where we will arrive at a safer space to let go, feel free, connect with our authentic selves\u00a0and move to the organic beats of our body with,\u00a0ECSTATIC DANCE BENGALURUDance for WellnessYour monthly doze of Dance Medicine.\u00a0(Every last Sunday of the month)\u00a0\ud83d\udcc5 25th May 2025 | Sunday\u00a0\u23f3 5pm - 7pm\u00a0\ud83d\udccdPebble - The Jungle Lounge\u00a0\u2605 TIMELINE4.30pm: Doors open\u00a04.45pm: Check in / warm up music\u00a05.00pm: : Opening\u00a0circle / intro\u00a05.15pm: Ecstatic Dance set\u00a06.45pm: Closing / sharing circle\u00a07.00pm : Hugs & Hangout\u00a0(Doors close at 5.15pm. Kindly arrive on time.)\u00a0\u2605 ABOUT:\u00a0Ecstatic Dance Bengaluru is a regular conscious dance chapter with monthly free flow sessions, powered by Ecstatic World, pioneering Ecstatic Dance in India since 2020. From the makers of Odessa Amsterdam, the most popular conscious dance hub in Amsterdam, they create transformational experiences with Ecstatic Dance as dance for wellness for all.\u00a0\ud83d\udc63 Dance for your well being\u00a0\ud83d\udc63 Dance for your mental health\ud83d\udc63 Dance as a self love ritual\u00a0\ud83d\udc63 Dance for all\u00a0\ud83d\udc63 Dance for freedom\u00a0\ud83d\udc63 Dance for change\u00a0\ud83d\udc63 Dance to life\u00a0With Ecstatic Dance, we will connect with the self and others, enjoy moments of bliss and freedom, allowing the music to take us on a musical journey following a few basic guidelines.\u00a0\u2605 ECSTATIC DANCE GUIDELINESIn ecstatic dance,\u00a0We are without \ud83d\ude45\ud83c\udffe\ud83d\udc63 Footwear, to be grounded\u00a0\ud83c\udf7a Intoxicants, to be clear\u00a0\ud83e\udd10 Talking, to be embodied\u00a0\ud83d\udcf7 Mobile phones / camera, to be fully present\u00a0Ft.\u00a0\u2605 SIVA PRAYOJAN\u00a0Siva Prayojan is celebrated as a multifaceted artist who seamlesslyblends a wide array of electronic music genres, including Techno, Melodic, Progressive, Drum and Bass, andTrance. His artistic journey, which commenced in 2021, is marked by a resolute departure from mainstream trends.Known for pushing boundaries, he continues to experiment with newsounds and redefining each performance\u00a0for a deep dance journey.He expresses immense gratitude for the profound resonance his music finds in the hearts of those who immerse themselves in his sonic landscapes.We at Ecstatic World are elated to have him on board as our musical guide for the Ecstatic Dance Bengaluru chapter.\u00a0\u00a0\u00a0\u00a0\u00a0\u2605 ADDITIONAL INFO- We maintain our personal boundaries with the namaste sign.\u00a0- Respect the space and one another.- Move however you wish.\u00a0- If you are coming with a child, kindly tend to them wholeheartedly so as to maintain the quietness of the space during the opening and closing circle.\u00a0- Dress comfortable.\u00a0-Kindly take care of personal hygiene before joining the session.\u00a0-Avoid wearing strong smelling perfumes / synthetic fragrances.-Maximum capacity 100 per session.\u00a0- Please kindly note that upon purchasing a ticket, ED Bengaluru team and management are not liable for any injury that may incur at the session. That you agree to take full responsibility of yourself, your child\u2019s safety and all of your belongings.\u00a0\u2605 DRESS CODE\u00a0\u00a0\u00a0The fit you shine best in.\u00a0\u2605 TICKET PRICE1500 INR (incl. taxes), via Urbanaut\u00a02000 INR (incl.taxes), at the door\u00a0Student ticket available at 50 % discount (at the door)\u00a0\u00a0\u25aaMandatory to produce a valid student ID card at check in.\u25aano cash, only gpay !\u2605 CONNECTTag us on your IG stories and posts to let us know you are coming. Help us spread the awareness of this conscious dance practice in your own creative way and get a chance to win a free ticket for our upcoming sessions.\u00a0IG : @ecstaticdancebengaluruFB : Ecstatic World\u00a0\u00a0WhatsApp: \u202a+91 93247 65794\u202cEmail: ecstaticdanceworld@gmail.com\u00a0\u2605 VENUE\u00a0Pebble - The Jungle Lounge,Palace Grounds 3, Bellary Road,\u00a0\u00a0\u00a0\u00a0\u00a0Bengaluru-560080\u00a0\u2605 DESIGN\u00a0\u00a0Elevantis Studio\u2605 JOIN THE CONSCIOUS GLOBAL DANCE MOVEMENT HAPPENING IN ALL MAJOR CITIES/ COUNTRIES AROUND WORLD.....\ud83c\udf3b #befreebeyou\u00a0\ud83d\udc63 #ecstaticdancebengaluru\u00a0\ud83c\uddee\ud83c\uddf3 #ecstaticdanceindia\u00a0\u2665 #danceforwellness\ud83c\udff3\u200d\ud83c\udf08 #inclusivity\ud83c\udf0f #globalcommunity\ud83d\ude4f\ud83c\udffe #safespace",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/55D1B9E260EF431F9730E6D3624476E4_converted_webp.webp"
@@ -1474,7 +1706,7 @@
     "name": "\u00c9lan Vital- Breathwork & Soundbath",
     "description": "\u00c9lan Vital- The Power Within [Breathwork & Sound Bath]\u00c9lan Vital\u00a0is the vital force or life force, energy. You have all that you need within You!Experience the potency of\u00a0your Power\u00a0and let it recalibrate your nervous system. Learn to feel safe in your body & build trust with yourself.Embrace the power of breath, by being more connected, more aware, and create a more joyful life. The upcoming self-healing practice will be a key to unlocking tension, stress & and unprocessed pain - a key to liberation, to become free. Integrated with a soothing sound bath session that will guide you in to a state of rejuvenation, relaxation, and cultivate a sense of wholeness.",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFBB72F3D2354AC684E678028A657BAA_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/98326706BC53452B9C31422375B361F4_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2CF83EBF90224911AC37C08043F892E3_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4CCD230781FA4D419CDC8E64396EF057_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4140F65B1B184EDDAC9BEDD795EB89A5_converted_webp.webp",
@@ -1967,7 +2199,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Kodava Kitchen",
-    "description": "As our next pop-up, we bring to you Kodava Kitchen by chef Priya AiyappaExperience the bold, earthy flavors of Kodava cuisine with home chef Priya Aiyappa at Tijouri \u2014 from chilli pork and pandhi curry to coconut souffl\u00e9. A true Coorgi feast, just like it\u2019s made at home!Menu:StartersChilli pork / pepper chickenJack fruit cutletsMix veg saladMainsNuputu:Chicken curryKuru Curry( fresh kidney\u00a0\u00a0bean)\u00a0Akki rotti:Pandhi curry / Mutton pepper fryKuum Curry( oyster mushroom)\u00a0Baimbala curry( Bamboo shoot curry)\u00a0Neyi kool( Ghee rice):Mange pajji( raita)\u00a0Mange curryBamboo shoot pickleDessertsCoconut souffleCaramel custard\ufeffTerms & Conditions:Please arrive punctually.Late arrivals may miss the first few courses.Booking Fee are non-refundable under all circumstances once booked.Tickets are transferrable to a third party.No shows/ cancellations will not be refunded, but you can reschedule your booking for within the week 48hrs before your slot is due.Alcohol will not be served to guests under the age of 21No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.The booking fee total includes the online transaction fee.Parking at the event premises is at the risk of the vehicle owner.Valet is available.Photographs and videos of ticket holders may be uploaded to social media. In case you do not wish to be featured, let our team know.",
+    "description": "As our next pop-up, we bring to you Kodava Kitchen by chef Priya AiyappaExperience the bold, earthy flavors of Kodava cuisine with home chef Priya Aiyappa at Tijouri \u2014 from chilli pork and pandhi curry to coconut souffl\u00e9. A true Kodava feast, just like it\u2019s made at home!Menu:StartersChilli pork / pepper chickenJack fruit cutletsMix veg saladMainsNuputu:Chicken curryKuru Curry( fresh kidney\u00a0\u00a0bean)\u00a0Akki rotti:Pandhi curry / Mutton pepper fryKuum Curry( oyster mushroom)\u00a0Baimbala curry( Bamboo shoot curry)\u00a0Neyi kool( Ghee rice):Mange pajji( raita)\u00a0Mange curryBamboo shoot pickleDessertsCoconut souffleCaramel custard\ufeffTerms & Conditions:Please arrive punctually.Late arrivals may miss the first few courses.Booking Fee are non-refundable under all circumstances once booked.Tickets are transferrable to a third party.No shows/ cancellations will not be refunded, but you can reschedule your booking for within the week 48hrs before your slot is due.Alcohol will not be served to guests under the age of 21No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.The booking fee total includes the online transaction fee.Parking at the event premises is at the risk of the vehicle owner.Valet is available.Photographs and videos of ticket holders may be uploaded to social media. In case you do not wish to be featured, let our team know.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/91153DB1234D4E7EB9AD658F32744013_converted_webp.webp"
     ],
@@ -2014,7 +2246,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Kodava Kitchen",
-    "description": "As our next pop-up, we bring to you Kodava Kitchen by chef Priya AiyappaExperience the bold, earthy flavors of Kodava cuisine with home chef Priya Aiyappa at Tijouri \u2014 from chilli pork and pandhi curry to coconut souffl\u00e9. A true Coorgi feast, just like it\u2019s made at home!Menu:StartersChilli pork / pepper chickenJack fruit cutletsMix veg saladMainsNuputu:Chicken curryKuru Curry( fresh kidney\u00a0\u00a0bean)\u00a0Akki rotti:Pandhi curry / Mutton pepper fryKuum Curry( oyster mushroom)\u00a0Baimbala curry( Bamboo shoot curry)\u00a0Neyi kool( Ghee rice):Mange pajji( raita)\u00a0Mange curryBamboo shoot pickleDessertsCoconut souffleCaramel custard\ufeffTerms & Conditions:Please arrive punctually.Late arrivals may miss the first few courses.Booking Fee are non-refundable under all circumstances once booked.Tickets are transferrable to a third party.No shows/ cancellations will not be refunded, but you can reschedule your booking for within the week 48hrs before your slot is due.Alcohol will not be served to guests under the age of 21No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.The booking fee total includes the online transaction fee.Parking at the event premises is at the risk of the vehicle owner.Valet is available.Photographs and videos of ticket holders may be uploaded to social media. In case you do not wish to be featured, let our team know.",
+    "description": "As our next pop-up, we bring to you Kodava Kitchen by chef Priya AiyappaExperience the bold, earthy flavors of Kodava cuisine with home chef Priya Aiyappa at Tijouri \u2014 from chilli pork and pandhi curry to coconut souffl\u00e9. A true Kodava feast, just like it\u2019s made at home!Menu:StartersChilli pork / pepper chickenJack fruit cutletsMix veg saladMainsNuputu:Chicken curryKuru Curry( fresh kidney\u00a0\u00a0bean)\u00a0Akki rotti:Pandhi curry / Mutton pepper fryKuum Curry( oyster mushroom)\u00a0Baimbala curry( Bamboo shoot curry)\u00a0Neyi kool( Ghee rice):Mange pajji( raita)\u00a0Mange curryBamboo shoot pickleDessertsCoconut souffleCaramel custard\ufeffTerms & Conditions:Please arrive punctually.Late arrivals may miss the first few courses.Booking Fee are non-refundable under all circumstances once booked.Tickets are transferrable to a third party.No shows/ cancellations will not be refunded, but you can reschedule your booking for within the week 48hrs before your slot is due.Alcohol will not be served to guests under the age of 21No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.The booking fee total includes the online transaction fee.Parking at the event premises is at the risk of the vehicle owner.Valet is available.Photographs and videos of ticket holders may be uploaded to social media. In case you do not wish to be featured, let our team know.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/91153DB1234D4E7EB9AD658F32744013_converted_webp.webp"
     ],
@@ -2061,7 +2293,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Kodava Kitchen",
-    "description": "As our next pop-up, we bring to you Kodava Kitchen by chef Priya AiyappaExperience the bold, earthy flavors of Kodava cuisine with home chef Priya Aiyappa at Tijouri \u2014 from chilli pork and pandhi curry to coconut souffl\u00e9. A true Coorgi feast, just like it\u2019s made at home!Menu:StartersChilli pork / pepper chickenJack fruit cutletsMix veg saladMainsNuputu:Chicken curryKuru Curry( fresh kidney\u00a0\u00a0bean)\u00a0Akki rotti:Pandhi curry / Mutton pepper fryKuum Curry( oyster mushroom)\u00a0Baimbala curry( Bamboo shoot curry)\u00a0Neyi kool( Ghee rice):Mange pajji( raita)\u00a0Mange curryBamboo shoot pickleDessertsCoconut souffleCaramel custard\ufeffTerms & Conditions:Please arrive punctually.Late arrivals may miss the first few courses.Booking Fee are non-refundable under all circumstances once booked.Tickets are transferrable to a third party.No shows/ cancellations will not be refunded, but you can reschedule your booking for within the week 48hrs before your slot is due.Alcohol will not be served to guests under the age of 21No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.The booking fee total includes the online transaction fee.Parking at the event premises is at the risk of the vehicle owner.Valet is available.Photographs and videos of ticket holders may be uploaded to social media. In case you do not wish to be featured, let our team know.",
+    "description": "As our next pop-up, we bring to you Kodava Kitchen by chef Priya AiyappaExperience the bold, earthy flavors of Kodava cuisine with home chef Priya Aiyappa at Tijouri \u2014 from chilli pork and pandhi curry to coconut souffl\u00e9. A true Kodava feast, just like it\u2019s made at home!Menu:StartersChilli pork / pepper chickenJack fruit cutletsMix veg saladMainsNuputu:Chicken curryKuru Curry( fresh kidney\u00a0\u00a0bean)\u00a0Akki rotti:Pandhi curry / Mutton pepper fryKuum Curry( oyster mushroom)\u00a0Baimbala curry( Bamboo shoot curry)\u00a0Neyi kool( Ghee rice):Mange pajji( raita)\u00a0Mange curryBamboo shoot pickleDessertsCoconut souffleCaramel custard\ufeffTerms & Conditions:Please arrive punctually.Late arrivals may miss the first few courses.Booking Fee are non-refundable under all circumstances once booked.Tickets are transferrable to a third party.No shows/ cancellations will not be refunded, but you can reschedule your booking for within the week 48hrs before your slot is due.Alcohol will not be served to guests under the age of 21No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.The booking fee total includes the online transaction fee.Parking at the event premises is at the risk of the vehicle owner.Valet is available.Photographs and videos of ticket holders may be uploaded to social media. In case you do not wish to be featured, let our team know.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/91153DB1234D4E7EB9AD658F32744013_converted_webp.webp"
     ],
@@ -2100,6 +2332,145 @@
     "url": "https://urbanaut.app/spot/kodava-kitchen#2025-05-18T1230",
     "keywords": [
       "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sunday Dinner: The Shared Circle",
+    "description": "Make Your Sunday Shine with New Connections!\u2728The Shared Circle is not your average dining table\u2014it\u2019s a slice of Bohra tradition where strangers sit shoulder to shoulder, eat with their hands, and leave with full hearts. Set in a warm Bengaluru home, this 9-course Bohra meal is a soulful journey into a culinary heritage shaped by centuries, migration, and memory.From the richness of biryani to the comfort of smoked dal samosas, each dish is steeped in legacy and slow-cooked with love. But the real magic? It\u2019s in the conversations, the laughter, the feeling that somehow, in this moment, you belong.This isn\u2019t just food\u2014it\u2019s communion. If you've never dined Bohra-style, this is your invitation to slow down, open up, and savour a meal the way it was always meant to be: together.\ud83e\udd42",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0BDA5C2C1BE045E7913066D8C5056670_converted_webp.webp"
+    ],
+    "startDate": "2025-05-25T19:30:00+05:30",
+    "endDate": "2025-05-25T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "PRESTIGE NOTTING HILL, Bannerghatta Rd, Kalena Agrahara, Bengaluru, Karnataka 560076, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJT0WO7M1qrjsRn8VKt7aXe3U",
+      "latitude": "12.87243720000000000000",
+      "longitude": "77.59519360000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1799.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/sunday-dinner",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Katte and Koffee\u2014Brewed Conversations",
+    "description": "Coffee, Conversations, and Connections\" \u2615\ud83d\udcacWhether you're looking to make new connections or simply unwind after a busy week with some wholesome conversations, this table offers just that\u2014over a cup of coffee.Katte, in Kannada is a raised platform on which people take a seat and have conversations!So, come take a seat at Katte and have Koffee with us while we talk all things coffee, monday coping mechanisms and anything else you want to get off your chest!\u2728",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AF92F21B7AFD40C3AEF0B4E283596231_converted_webp.webp"
+    ],
+    "startDate": "2025-05-31T18:30:00+05:30",
+    "endDate": "2025-05-31T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Jayanagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2ddlZ5gVrjsRh1BOAaf-ors",
+      "latitude": "12.93081070000000000000",
+      "longitude": "77.58385770000001000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1299.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/katte-and-koffeebrewed-conversations",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Explore Malaysian Cuisine with Strangers",
+    "description": "New flavors. New faces. Zero small talk.Curious about Malaysian food but never had a reason to try it?This table is your invitation to explore the bold, diverse, and delicious flavours that make Malaysian cuisine so unforgettable.But the food is just the beginning.At this table, strangers become dinner companions, and stories flow as freely as the flavours. No expectations, just good food, great company, and the joy of trying something new together.Come curious. Leave full\u2014in every way..\ud83d\udcab",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4C76860782194630BC56118AC8DD69F2_converted_webp.webp"
+    ],
+    "startDate": "2025-05-14T19:30:00+05:30",
+    "endDate": "2025-05-14T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "latitude": "12.97836920000000000000",
+      "longitude": "77.64083560000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/explore-malaysian-cuisine-with-strangers",
+    "keywords": [
+      "Premium",
       "Food & drink",
       "URBANAUT"
     ]
