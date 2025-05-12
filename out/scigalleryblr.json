@@ -57,21 +57,79 @@
     "performer": [
       {
         "@type": "Person",
-        "name": "Sopan-Joshi"
-      },
-      {
-        "@type": "Person",
         "name": "Edible-Issues"
       },
       {
         "@type": "Person",
-        "name": "Tanveer-Hussain"
+        "name": "Sopan-Joshi"
       },
       {
         "@type": "Person",
         "name": "Syed-Ghani-Khan"
+      },
+      {
+        "@type": "Person",
+        "name": "Tanveer-Hussain"
       }
     ],
     "maximumAttendeeCapacity": 45
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Bengaluru\u2019s Climate Resilience through Geospatial Data",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-05-24T11:00:00+05:30",
+    "endDate": "2025-05-24T15:30:00+05:30",
+    "description": "How does a city influence its own climate and, how can we see it happen in real time? As Indian cities like Bengaluru expand, climate challenges like the heat island effect, flooding, and stresses on infrastructure are becoming impossible to ignore. Join CSTEP in a Masterclass that explores the fast-evolving field of urban climate research, using geospatial technologies to track and understand how cities interact with their environments. With Bengaluru as a case study, come examine how remote sensing and open-source tools like Google Earth Engine help map, measure, and respond to climate variability. From satellite data to street-level insights, join to learn how cities shape weather\u2014and how we can shape better cities.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=bengaluru-climate-resilience",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "C-Step"
+      },
+      {
+        "@type": "Person",
+        "name": "Pradeep-Ms"
+      },
+      {
+        "@type": "Person",
+        "name": "Vidya-S"
+      },
+      {
+        "@type": "Person",
+        "name": "Sahil-Mathew"
+      },
+      {
+        "@type": "Person",
+        "name": "Nithya-Gowda"
+      }
+    ],
+    "maximumAttendeeCapacity": 50
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Science for Society: Sci560 Exhibition Walkthrough",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-05-25T17:30:00+05:30",
+    "endDate": "2025-05-25T19:00:00+05:30",
+    "description": "The walkthrough shines a light on the journey of science from labs into the hands of people. From clean energy to digital learning, we\u2019ll explore how scientific innovations, once confined to academic circles or research institutions, have been transformed into accessible tools to empower communities and drive social change. We explore the people behind the planning and execution of these ideas, as well as the ones making it accessible to the public.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=science-for-soceity",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sgb-Team"
+      }
+    ],
+    "maximumAttendeeCapacity": 100
   }
 ]
