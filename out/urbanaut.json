@@ -1228,11 +1228,113 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Tarot Round Table",
+    "description": "Join Us for a Circle Tarot Meetup!Are you ready to explore the mystical world of tarot? Join us for an enchanting evening of connection, insight, and personal growth at our Circle Tarot Meetup!Duration: 2hrsWhat to Expect:In this intimate gathering, a tarot reader with 5 years of experience will provide personalized tarot readings for each participant, offering guidance, clarity, and inspiration. Whether you\u2019re a seasoned tarot reader or new to the cards, this is a space for everyone to explore the wisdom of the tarot.Think of it as a round table discussion about tarot. After the tarot reader has given personalised readings for everybody, then, we will discuss opinions about tarot and open the floor for discussion where you can learn a thing or two about how to do these readings for yourself. It\u2019s a great space to start if you are a skeptic.Join us for an evening of discovery, community, and magic. We can\u2019t wait to see you there!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DB930CCF0BCB4F318187B0843653964E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/83A66839EA7548C28419D7C031C6E4C8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/546ACF5F2BBD4791914251DBCA5F7034_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/19A5A6BF5C59408F97201F488791E8E9_converted_webp.webp"
+    ],
+    "startDate": "2025-05-17T18:00:00+05:30",
+    "endDate": "2025-05-17T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No.2734, Ground Floor, I Sector 16th Cross, 27th Main Rd, opp. NIFT College, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJX3QMb7gVrjsRnJYQlPW4MRs",
+      "latitude": "12.91263600000000000000",
+      "longitude": "77.65231849999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Behind The Mask",
+      "description": "We throw unique events, where mystery meets mischief, and every event is an enchanted escape from the ordinary.",
+      "url": "https://urbanaut.app/partner/behind-the-mask",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/28657309425D44E9B6CCF49F44AA7577_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-79853-35159"
+      }
+    },
+    "url": "https://urbanaut.app/spot/tarot-round-table#2025-05-17T1800",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Tarot Round Table",
+    "description": "Join Us for a Circle Tarot Meetup!Are you ready to explore the mystical world of tarot? Join us for an enchanting evening of connection, insight, and personal growth at our Circle Tarot Meetup!Duration: 2hrsWhat to Expect:In this intimate gathering, a tarot reader with 5 years of experience will provide personalized tarot readings for each participant, offering guidance, clarity, and inspiration. Whether you\u2019re a seasoned tarot reader or new to the cards, this is a space for everyone to explore the wisdom of the tarot.Think of it as a round table discussion about tarot. After the tarot reader has given personalised readings for everybody, then, we will discuss opinions about tarot and open the floor for discussion where you can learn a thing or two about how to do these readings for yourself. It\u2019s a great space to start if you are a skeptic.Join us for an evening of discovery, community, and magic. We can\u2019t wait to see you there!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DB930CCF0BCB4F318187B0843653964E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/83A66839EA7548C28419D7C031C6E4C8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/546ACF5F2BBD4791914251DBCA5F7034_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/19A5A6BF5C59408F97201F488791E8E9_converted_webp.webp"
+    ],
+    "startDate": "2025-05-18T18:00:00+05:30",
+    "endDate": "2025-05-18T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No.2734, Ground Floor, I Sector 16th Cross, 27th Main Rd, opp. NIFT College, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJX3QMb7gVrjsRnJYQlPW4MRs",
+      "latitude": "12.91263600000000000000",
+      "longitude": "77.65231849999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Behind The Mask",
+      "description": "We throw unique events, where mystery meets mischief, and every event is an enchanted escape from the ordinary.",
+      "url": "https://urbanaut.app/partner/behind-the-mask",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/28657309425D44E9B6CCF49F44AA7577_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-79853-35159"
+      }
+    },
+    "url": "https://urbanaut.app/spot/tarot-round-table#2025-05-18T1800",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "The Picnic Rave Experience",
-    "description": "What happens when the charm of New York\u2019s Central Park, the pulse of music, and the intimacy of real conversations find their way to Bangalore?Introducing The Picnic Party \u2014 a 4-hour immersive escape from the digital world.An intentional gathering of 100 people who choose presence over pings, music over noise, and meaningful conversations over endless scrolling.Co-created by The Window Seat \u2014 curators of global cultural experiences for Indian audiences \u2014 and Kaunversations \u2014 creators of thoughtfully designed spaces for deep human connection \u2014 this is where the cityscape meets the soulscape.\ud83d\udccd What\u2019s the Experience Like?Vibe:A lush, green escape in Bengaluru \u2014 the Garden City.A cozy, colorful picnic where house, R&B, and pop beats flow seamlessly with deep, meaningful conversations.A space to feel at ease, be yourself, and forge genuine connections.A blend of art, music, culture, and community.Setting:\u2022 25 vibrant picnic mats\u2022 5 handpicked strangers per mat\u2022 Zero phones\u2022 1 simple rule \u2014 Be Present\u2022 A live DJ weaving sunlight into sound\u2022 Outdoor activities like painting, drawing, frisbee, ball games, and thoughtfully curated connection games by Kaunversations\ud83c\udf9f\ufe0f Your Ticket Includes:\u2713 2 beverages & 2 appetizers from a specially curated menu\u27135 Entertainment Zones \u2014 a mix of interactive and non-interactive experiences\ud83d\udcc5 Date: Sunday, 11th May 2025\ud83d\udd59 Time: 09:30 AM \u2013 01:30 PM\ud83c\udf9f\ufe0f This is an invite-only experience with limited spots available\ud83d\udc55 Dress Code: Light blue attire A Sunday evening experience by The Window Seat \u00d7 Kaunversations",
+    "description": "What happens when the charm of New York\u2019s Central Park, the pulse of music, and the intimacy of real conversations find their way to Bangalore?Introducing The Picnic Party \u2014 a 4-hour immersive escape from the digital world.An intentional gathering of 100 people who choose presence over pings, music over noise, and meaningful conversations over endless scrolling.Co-created by The Window Seat \u2014 curators of global cultural experiences for Indian audiences \u2014 and Kaunversations \u2014 creators of thoughtfully designed spaces for deep human connection \u2014 this is where the cityscape meets the soulscape.\ud83d\udccd What\u2019s the Experience Like?Vibe:A lush, green escape in Bengaluru \u2014 the Garden City.A cozy, colorful picnic where house, R&B, and pop beats flow seamlessly with deep, meaningful conversations.A space to feel at ease, be yourself, and forge genuine connections.A blend of art, music, culture, and community.Setting:\u2022 25 vibrant picnic mats\u2022 5 handpicked strangers per mat\u2022 Zero phones\u2022 1 simple rule \u2014 Be Present\u2022 A live DJ weaving sunlight into sound\u2022 Outdoor activities like painting, drawing, frisbee, ball games, and thoughtfully curated connection games by Kaunversations\ud83c\udf9f\ufe0f Your Ticket Includes:\u2713 2 beverages & 2 appetizers from a specially curated menu\u27135 Entertainment Zones \u2014 a mix of interactive and non-interactive experiences\ud83d\udcc5 Date: Sunday, 11th May 2025\ud83d\udd59 Time: 09:30 AM \u2013 01:30 PM\ud83c\udf9f\ufe0f This is an invite-only experience with limited spots available\ud83d\udc55 Dress Code: Light blue attire A Sunday morning experience by The Window Seat \u00d7 Kaunversations",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7CBDD4E5823541E9A67E7FCBCC0B99E2_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4A326CAA8E5D4BF586598ED474EF6464_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EED88BBC9D3F4309BC3E9F3302E0E486_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B7BEDD8436F740A3B95C70E053EFBF27_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EE294E33F83A413CA7E8F5CB8DA04FD8_converted_webp.webp",
@@ -2347,6 +2449,440 @@
     "keywords": [
       "Leisure",
       "Wellness",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Movie Under The Stars | Saturday Night Fever(1977)",
+    "description": "Join us for an open-air screening of Saturday Night Fever (1977), with a three-course dinner by Chef Rhea Aaron and popcorn.*Wines and other beverages will be available for purchase at the venue.About the movie:It\u2019s stylish, electric, and endlessly iconic. Saturday Night Fever struts through the disco era with raw emotion and unforgettable rhythm. With a killer soundtrack, sharp storytelling, and Travolta at his finest, it\u2019s more than a dance film\u2014it\u2019s a gritty, glittery look at ambition, identity, and escape on the Brooklyn dance floor.Why under the stars?Because it\u2019s the kind of film that pairs perfectly with a cold breeze, a glass of wine, and a seriously good meal.3-course dinner by Chef Rhea AaronCourse 1:Roasted Beet Feta and arugula salad\u00a0Course 2:Chicken steak with herb sauce, mash and veggies\u00a0ORMix veg pot pie with garlic rolls\u00a0Course 3:Classic cheese cake with compote______Terms and ConditionsThe management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Valet service is available at a charge of Rs. 200 per vehicle.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Tickets are non-refundable in case of cancellation or no-show.In the event of rain leading to a complete washout, Courtyard reserves the right to cancel the event. In such cases, a full refund for the ticket will be issued.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6A6B976D878C49A6940E852276C57EF0_converted_webp.webp"
+    ],
+    "startDate": "2025-05-22T20:15:00+05:30",
+    "endDate": "2025-05-22T22:15:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Courtyard",
+      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+      "latitude": "12.95843050000000000000",
+      "longitude": "77.59289509999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Courtyard",
+      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+      "url": "https://urbanaut.app/partner/courtyard",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-73386-77996"
+      }
+    },
+    "url": "https://urbanaut.app/spot/movie-under-the-stars-saturday-night-fever",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "Art & culture",
+      "COURTYARD",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Movie Under The Stars | Grease (1978)",
+    "description": "Join us for an open-air screening of Grease (1978), with a three-course dinner by Chef Rhea Aaron and popcorn.*Wines and other beverages will be available for purchase at the venue.About the movie:It\u2019s flirty, fun, and forever a classic. Grease revs up the charm with slicked-back hair, catchy tunes, and high school romance in full swing. With electric chemistry, unforgettable musical numbers, and all the retro vibes, it\u2019s a joyful ride through teen spirit, summer love, and rebellion\u2014T-Bird tested and Pink Lady approvedWhy under the stars?Because it\u2019s the kind of film that pairs perfectly with a cold breeze, a glass of wine, and a seriously good meal.3-course dinner by Chef Rhea AaronCourse 1:Fresh mango and chilly salad\u00a0Course 2:BBQ chicken crunchy slaw with chips\u00a0ORBBQ cottage cheese crunch slaw with chips\u00a0Course 3\ufeffChocolate Tart______Terms and ConditionsThe management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Valet service is available at a charge of Rs. 200 per vehicle.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Tickets are non-refundable in case of cancellation or no-show.In the event of rain leading to a complete washout, Courtyard reserves the right to cancel the event. In such cases, a full refund for the ticket will be issued.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/75329017AC074BC89D5B33FEDA79515F_converted_webp.webp"
+    ],
+    "startDate": "2025-05-25T19:30:00+05:30",
+    "endDate": "2025-05-25T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Courtyard",
+      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+      "latitude": "12.95843050000000000000",
+      "longitude": "77.59289509999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Courtyard",
+      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+      "url": "https://urbanaut.app/partner/courtyard",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-73386-77996"
+      }
+    },
+    "url": "https://urbanaut.app/spot/movie-under-the-stars-grease",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "Art & culture",
+      "COURTYARD",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "IGNITE + ALIIGN X KAAVU",
+    "description": "SWEAT. FLOW. FEAST**IGNITE + ALIIGN x KAAVU*A Sensory Morning of Hot Yoga & BrunchGet ready to turn up the heat!We\u2019re teaming up with Kaavu to bring you a one-of-a-kind experience that blends sweat therapy, soulful movement, and conscious indulgence.Here\u2019s what\u2019s in store:\u2013 A powerful 75-minute Hot Yoga Session to awaken your fire and detox through deep, intentional movement\u2013 Electrolyte shots & ceremonial matcha to cool you down and lift you up\u2013 A gorgeous brunch spread at Kaavu \u2014 earthy, fresh, nourishing, and absolutely delicious",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/064D8B5DCF40480583D7E6403F945733_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/677E49FE13D34F20B0687C7164CBDC37_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DF0205354D2A49AF82EC82358D01D77D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E927983EBE744F0AAC8052D7D27A01D7_converted_webp.webp"
+    ],
+    "startDate": "2025-05-17T09:30:00+05:30",
+    "endDate": "2025-05-17T10:15:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "XP6M+X44, Nallurahalli Main Rd, Phase 1, Brookefield, Bengaluru, Karnataka 560066, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJje6KZfcNrjsRwOfaDLvYshI",
+      "latitude": "12.96239550000000000000",
+      "longitude": "77.73281639999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2400.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ignite Aliign",
+      "description": "Ignite Align is a premier hot yoga studio offering a transformative experience that combines energizing classes with a welcoming community, designed to elevate your mind, body, and wellness.",
+      "url": "https://urbanaut.app/partner/ignitealiign",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/617F8740D55D4BD797DACD5DF4DE7ED6_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-80507-71666"
+      }
+    },
+    "url": "https://urbanaut.app/spot/ignite-aliign-x-kaavu",
+    "keywords": [
+      "Leisure",
+      "Premium",
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sufi Soiree",
+    "description": "Embark on a mystical journey through the enchanting world of Sufi music and poetry. Experience live performances that blend traditional qawwali with contemporary melodies, creating an atmosphere of spiritual tranquility and joy. Let the soulful rhythms and profound verses elevate your evening into an unforgettable celebration of love and devotion.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8EE2B9A8B6E9492FB852F7F47AD1BB29_converted_webp.webp"
+    ],
+    "startDate": "2025-05-25T19:00:00+05:30",
+    "endDate": "2025-05-25T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVTeAtXkRrjsRPyAJzdxl0HA",
+      "latitude": "12.98209230000000000000",
+      "longitude": "77.70862830000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 200,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Hamilton",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CED7A4CC2AA4EC9BD02E06C4F0731E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63620-01931"
+      }
+    },
+    "url": "https://urbanaut.app/spot/sufi-soiree",
+    "keywords": [
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Cosmic Canvas",
+    "description": "Unleash your inner Jedi and let your creativity soar across galaxies!Every Saturday, join us for a Star Wars-themed Art Workshop where imagination meets the Force.\u00a0Whether you\u2019re a Jedi Master, a Rebel, or even a Sith Lord, this workshop welcomes artists of all skill levels. Guided by an expert instructor, you\u2019ll create galactic masterpieces and take home a piece of the Star Wars magic!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/129F4D03CE1A44718236B21C85552A5D_converted_webp.webp"
+    ],
+    "startDate": "2025-05-17T16:30:00+05:30",
+    "endDate": "2025-05-17T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "75, Central Jail Road (Hosa Road, Sarjapur Road, opp. Silverwood Regency Apartment, Valliyamma Layout, Kasavanahalli, Bengaluru, Karnataka 560035, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJnSDI02wTrjsRs0xjxI-znKs",
+      "latitude": "12.91139500000000000000",
+      "longitude": "77.67629910000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 35,
+    "remainingAttendeeCapacity": 35,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "699.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "PLaY Arena",
+      "description": "Play Arena is Bangalore\u2019s ultimate playground for all ages \u2014 with 30+ adrenaline-packed activities, from go-karting to bowling, soft play to team events. Whether it\u2019s fun, fitness, or a family day out, Play Arena is where the action never stops!",
+      "url": "https://urbanaut.app/partner/playarena",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/91D81E8215F74BBA920DE206444FE20E_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99000-99911"
+      }
+    },
+    "url": "https://urbanaut.app/spot/cosmic-canvas#2025-05-17T1630",
+    "keywords": [
+      "Workshop",
+      "Eco Friendly",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Cosmic Canvas",
+    "description": "Unleash your inner Jedi and let your creativity soar across galaxies!Every Saturday, join us for a Star Wars-themed Art Workshop where imagination meets the Force.\u00a0Whether you\u2019re a Jedi Master, a Rebel, or even a Sith Lord, this workshop welcomes artists of all skill levels. Guided by an expert instructor, you\u2019ll create galactic masterpieces and take home a piece of the Star Wars magic!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/129F4D03CE1A44718236B21C85552A5D_converted_webp.webp"
+    ],
+    "startDate": "2025-05-24T16:30:00+05:30",
+    "endDate": "2025-05-24T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "75, Central Jail Road (Hosa Road, Sarjapur Road, opp. Silverwood Regency Apartment, Valliyamma Layout, Kasavanahalli, Bengaluru, Karnataka 560035, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJnSDI02wTrjsRs0xjxI-znKs",
+      "latitude": "12.91139500000000000000",
+      "longitude": "77.67629910000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 35,
+    "remainingAttendeeCapacity": 35,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "699.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "PLaY Arena",
+      "description": "Play Arena is Bangalore\u2019s ultimate playground for all ages \u2014 with 30+ adrenaline-packed activities, from go-karting to bowling, soft play to team events. Whether it\u2019s fun, fitness, or a family day out, Play Arena is where the action never stops!",
+      "url": "https://urbanaut.app/partner/playarena",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/91D81E8215F74BBA920DE206444FE20E_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99000-99911"
+      }
+    },
+    "url": "https://urbanaut.app/spot/cosmic-canvas#2025-05-24T1630",
+    "keywords": [
+      "Workshop",
+      "Eco Friendly",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Cosmic Canvas",
+    "description": "Unleash your inner Jedi and let your creativity soar across galaxies!Every Saturday, join us for a Star Wars-themed Art Workshop where imagination meets the Force.\u00a0Whether you\u2019re a Jedi Master, a Rebel, or even a Sith Lord, this workshop welcomes artists of all skill levels. Guided by an expert instructor, you\u2019ll create galactic masterpieces and take home a piece of the Star Wars magic!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/129F4D03CE1A44718236B21C85552A5D_converted_webp.webp"
+    ],
+    "startDate": "2025-05-31T16:30:00+05:30",
+    "endDate": "2025-05-31T18:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "75, Central Jail Road (Hosa Road, Sarjapur Road, opp. Silverwood Regency Apartment, Valliyamma Layout, Kasavanahalli, Bengaluru, Karnataka 560035, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJnSDI02wTrjsRs0xjxI-znKs",
+      "latitude": "12.91139500000000000000",
+      "longitude": "77.67629910000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 35,
+    "remainingAttendeeCapacity": 35,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "699.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "PLaY Arena",
+      "description": "Play Arena is Bangalore\u2019s ultimate playground for all ages \u2014 with 30+ adrenaline-packed activities, from go-karting to bowling, soft play to team events. Whether it\u2019s fun, fitness, or a family day out, Play Arena is where the action never stops!",
+      "url": "https://urbanaut.app/partner/playarena",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/91D81E8215F74BBA920DE206444FE20E_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99000-99911"
+      }
+    },
+    "url": "https://urbanaut.app/spot/cosmic-canvas#2025-05-31T1630",
+    "keywords": [
+      "Workshop",
+      "Eco Friendly",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Echoes of the opera ft The Chronic Blues Circus",
+    "description": "Step into a night of powerful performances and genre-bending soundscapes as The Chronic Blues Circus brings you Echoes of the Opera. A fusion of operatic undertones and soulful blues, this is where passion meets performance. Don't miss this unforgettable musical journey.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/367070A4319748509FCBCDA7BEB5A792_converted_webp.webp"
+    ],
+    "startDate": "2025-05-23T19:00:00+05:30",
+    "endDate": "2025-05-23T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVTeAtXkRrjsRPyAJzdxl0HA",
+      "latitude": "12.98209230000000000000",
+      "longitude": "77.70862830000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 200,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Hamilton",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CED7A4CC2AA4EC9BD02E06C4F0731E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63620-01931"
+      }
+    },
+    "url": "https://urbanaut.app/spot/echoes-of-the-opera-ft-the-chronic-blues-circus",
+    "keywords": [
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Cocktail Concerts ft Suvankartrio",
+    "description": "Sip on handcrafted cocktails as Suvankartrio sets the vibe with smooth jazz, soulful rhythms, and eclectic sounds. The perfect mix of music and mood for a classy evening out.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6C5CC77D8ED742008F831CB809C7AB4D_converted_webp.webp"
+    ],
+    "startDate": "2025-05-30T19:00:00+05:30",
+    "endDate": "2025-05-30T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVTeAtXkRrjsRPyAJzdxl0HA",
+      "latitude": "12.98209230000000000000",
+      "longitude": "77.70862830000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 200,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Hamilton",
+      "description": null,
+      "url": null,
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CED7A4CC2AA4EC9BD02E06C4F0731E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63620-01931"
+      }
+    },
+    "url": "https://urbanaut.app/spot/cocktail-concerts-ft-suvankartrio",
+    "keywords": [
+      "Music",
       "Food & drink",
       "URBANAUT"
     ]
