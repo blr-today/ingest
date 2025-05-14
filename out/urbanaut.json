@@ -1228,6 +1228,58 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Picnic Rave Experience",
+    "description": "What happens when the charm of New York\u2019s Central Park, the pulse of music, and the intimacy of real conversations find their way to Bangalore?Introducing The Picnic Party \u2014 a 4-hour immersive escape from the digital world.An intentional gathering of 100 people who choose presence over pings, music over noise, and meaningful conversations over endless scrolling.Co-created by The Window Seat \u2014 curators of global cultural experiences for Indian audiences \u2014 and Kaunversations \u2014 creators of thoughtfully designed spaces for deep human connection \u2014 this is where the cityscape meets the soulscape.\ud83d\udccd What\u2019s the Experience Like?Vibe:A lush, green escape in Bengaluru \u2014 the Garden City.A cozy, colorful picnic where house, R&B, and pop beats flow seamlessly with deep, meaningful conversations.A space to feel at ease, be yourself, and forge genuine connections.A blend of art, music, culture, and community.Setting:\u2022 25 vibrant picnic mats\u2022 5 handpicked strangers per mat\u2022 Zero phones\u2022 1 simple rule \u2014 Be Present\u2022 A live DJ weaving sunlight into sound\u2022 Outdoor activities like painting, drawing, frisbee, ball games, and thoughtfully curated connection games by Kaunversations\ud83c\udf9f\ufe0f Your Ticket Includes:\u2713 2 beverages & 2 appetizers from a specially curated menu\u27135 Entertainment Zones \u2014 a mix of interactive and non-interactive experiences\ud83d\udcc5 Date: Sunday, 11th May 2025\ud83d\udd59 Time: 09:30 AM \u2013 01:30 PM\ud83c\udf9f\ufe0f This is an invite-only experience with limited spots available\ud83d\udc55 Dress Code: Light blue attire A Sunday evening experience by The Window Seat \u00d7 Kaunversations",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7CBDD4E5823541E9A67E7FCBCC0B99E2_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EED88BBC9D3F4309BC3E9F3302E0E486_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B7BEDD8436F740A3B95C70E053EFBF27_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EE294E33F83A413CA7E8F5CB8DA04FD8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B6066AD8190343D9AA9149AFA11139B7_converted_webp.webp"
+    ],
+    "startDate": "2025-05-25T09:30:00+05:30",
+    "endDate": "2025-05-25T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "40H, Whitefield Road, Doddanakundi Industrial Area 2, Phase II, Hoodi, Bengaluru, Karnataka 560048, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJdfVpXwARrjsRk9bQzIdFe1Y",
+      "latitude": "12.99104200000000000000",
+      "longitude": "77.70769430000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Window Seat Experiences  & Kaunversations",
+      "description": "Co-created by \u2728The Window Seat \u2728\u2014 curators of global cultural experiences for Indian audiences \u2014 and \u2728Kaunversations \u2728\u2014 creators of thoughtfully designed spaces for deep human connection",
+      "url": "https://urbanaut.app/partner/tws",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/135A67DE7CB84FF1ADBFD0091729DA87_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-95386-03704"
+      }
+    },
+    "url": "https://urbanaut.app/spot/thepicnicparty",
+    "keywords": [
+      "Live GIG",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Framing Motion with Ronita",
     "description": "Ronita Mookerji is a choreographer, performer, and contemporary dance artist with 16+ years of experience in interdisciplinary movement arts. She was a Senior Movement Artist at Attakkalari Dance Company for over seven years. Trained in Bharatanatyam for over 25 years and Odissi for two, she is also a certified yoga teacher and Animal Flow practitioner. A graduate of Attakkalari\u2019s Diploma in Movement Arts and Mixed Media, she has trained in Kalaripayattu, Ballet, and Contact Improvisation.As a movement educator, Ronita has taught at institutions like Drama School Mumbai, FTII Pune, and Christ University Bangalore. She has performed and conducted workshops internationally, integrating contemporary dance, Kalaripayattu, and movement exploration.In this unique workshop, Ronita brings her deep dance experience into Animal Flow, blending strength, fluidity, and expressive movement for a dynamic and immersive session.We will incorporate lip smacking dishes from our signature kitchen into the brunch. We're so excited about this unique event because it\u2019s more than just a dance, animal flow session or a brunch, it\u2019s an experience that designed to recharge your body, and syncing with some primal movements.",
@@ -1297,7 +1349,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1346,7 +1398,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 24,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1834,7 +1886,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1935,7 +1987,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -2030,7 +2082,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2128,7 +2180,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2320,7 +2372,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
