@@ -1188,52 +1188,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Coffee & Conversations: Street Food Stories",
-    "description": "We\u2019re serving stories straight from the street! \ud83d\ude0bHosted by 'Priya Bala' a food writer and restaurant critic with a passion for street food and someone who\u2019s tasted it all, this table is your go-to for fascinating street food stories!Pull up a chair, sip some chai, and let\u2019s talk all things street foodFrom your favorite finds, childhood cravings, and the flavors that live rent-free in your memory.No forks, no filter\u2014just good vibes, great convos, and a whole lot of food love! \ud83c\udf2f",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/33A740FFC0374B29AD70ED1FBBB2102D_converted_webp.webp"
-    ],
-    "startDate": "2025-05-17T19:00:00+05:30",
-    "endDate": "2025-05-17T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Indiranagar, Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
-      "latitude": "12.97836920000000000000",
-      "longitude": "77.64083560000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1199.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/coffee-conversations-street-food-stories",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Sunday Breakfast: The Reader's Edition",
     "description": "A bright Sunday morning, delicious food and great conversations. What more can we ask for?Come and join us for a chill, introvert-friendly night out, where you can get to know each other through books and geek out about your favourite reads!Do bring your favourite book or current read to the meetup!",
     "image": [
@@ -2358,6 +2312,52 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
+    "name": "In Her Interest by Zerodha",
+    "description": "Women have a complicated relationship with money.And it starts early.Many families shield their daughters from anything related to \u2018finance\u2019. This well meaning protection ends up being a disservice. When these young women step into the real world, they lack the confidence to make financial decisions -\u00a0not because they\u2019re incapable, but because they were never given information on budgeting, savings and investments.Later in life, many continue to rely on their partners for investment decisions. This dependency on others will only stop when they have the right information and toolkit to take back control.That\u2019s is where we come in.Our upcoming session is a safe, private space - where no question is too small or too basic. Really. Come as you are, with your curiosity.We\u2019ll be focusing on one core idea:Building financial security for women.The session at BIC will be led by two amazing experts who truly get it.Dipika Jaikishan - Co - Founder of BasisMrin Agarwal - Director of Finsafe Key topics we\u2019ll cover:Setting up an emergency fundChoosing the right health insuranceUnderstanding the basics of investingHow inflation quietly reduces your savings over timeWhy financial planning is different for womenSession goals:Simplify money conceptsBust common financial mythsBuild your confidence in making financial decisionsNo jargon, just real talk.Note: This is the Basics of Finance - we are not talking stocks and shares - so please sign up only if you need to start at the basics.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/ED030A6398464B76B8C9650B3722EA0B_converted_webp.webp"
+    ],
+    "startDate": "2025-05-24T10:30:00+05:30",
+    "endDate": "2025-05-24T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "7, 4th Main Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhSp5dRwUrjsRNW96_uW6-Gk",
+      "latitude": "12.96668260000000000000",
+      "longitude": "77.63529030000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 35,
+    "remainingAttendeeCapacity": 35,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "850.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "In Her Interest by Zerodha",
+      "description": null,
+      "url": "https://urbanaut.app/partner/inherinterest",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/5968A2B1D1564EC19E9ED1C81D741058_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97648-42552"
+      }
+    },
+    "url": "https://urbanaut.app/spot/inherinterest",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
     "name": "Art & Poetry Afternoon",
     "description": "A mindful poetry and art afternoon hosted in a green corner of a heritage hotel. Make your own Illustrated Poetry Postcard\u2013which you can post from one of Bangalore\u2019s oldest postboxes!Designed for lovers of quiet beauty and handwritten words, this is your invitation to slow down, reflect and create.",
     "image": [
@@ -2463,7 +2463,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Terrarium-Making workshop & Playtime at Klayzo",
-    "description": "Create miniature ecosystem & engage with soil and natural elements, releasing happy hormones. Foster creativity and mindfulness through hands-on activities. Share the joy of nurturing live plants with fellow participants & carry your creation home.\u00a0About the Founder \u2013 Saloni Kumar\ufeffSaloni Kumar, founder of Healing Garden, blends 12+ years in software product management with her passion for therapeutic gardening and holistic healing. A certified nature therapy practitioner, she supports stress and trauma recovery through nature-based practices. She is currently advancing her meditation training and has volunteered with children with special needs.About KlayZoKlayzo, by the House of KLAY, is a thoughtfully designed indoor play zone that supports modern parenting needs. It offers a safe, flexible space for children to explore, create, and learn through open-ended, holistic play. With a mission to empower both kids and parents, Klayzo focuses on joyful experiences and emotional well-being. Its core values include being playful, warm, imaginative, and empowering. The space encourages curiosity, movement, and hands-on fun, helping children thrive in a nurturing environment.",
+    "description": "Create miniature ecosystem & engage with soil and natural elements, releasing happy hormones. Foster creativity and mindfulness through hands-on activities. Share the joy of nurturing live plants with fellow participants & carry your creation home.\u00a0About the Founder \u2013 Saloni Kumar\ufeffSaloni Kumar, founder of Healing Garden, A certified nature therapy practitioner, she supports stress and trauma recovery through nature-based practices. She is currently advancing her meditation training and has volunteered with children with special needs.About KlayZoKlayzo, by the House of KLAY, is a thoughtfully designed indoor play zone that supports modern parenting needs. It offers a safe, flexible space for children to explore, create, and learn through open-ended, holistic play. With a mission to empower both kids and parents, Klayzo focuses on joyful experiences and emotional well-being. Its core values include being playful, warm, imaginative, and empowering. The space encourages curiosity, movement, and hands-on fun, helping children thrive in a nurturing environment.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6A48D40D812C40ED98C30E1D2A344C6E_converted_webp.webp"
     ],
@@ -2511,7 +2511,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Terrarium-Making workshop & Playtime at Klayzo",
-    "description": "Create miniature ecosystem & engage with soil and natural elements, releasing happy hormones. Foster creativity and mindfulness through hands-on activities. Share the joy of nurturing live plants with fellow participants & carry your creation home.\u00a0About the Founder \u2013 Saloni Kumar\ufeffSaloni Kumar, founder of Healing Garden, blends 12+ years in software product management with her passion for therapeutic gardening and holistic healing. A certified nature therapy practitioner, she supports stress and trauma recovery through nature-based practices. She is currently advancing her meditation training and has volunteered with children with special needs.About KlayZoKlayzo, by the House of KLAY, is a thoughtfully designed indoor play zone that supports modern parenting needs. It offers a safe, flexible space for children to explore, create, and learn through open-ended, holistic play. With a mission to empower both kids and parents, Klayzo focuses on joyful experiences and emotional well-being. Its core values include being playful, warm, imaginative, and empowering. The space encourages curiosity, movement, and hands-on fun, helping children thrive in a nurturing environment.",
+    "description": "Create miniature ecosystem & engage with soil and natural elements, releasing happy hormones. Foster creativity and mindfulness through hands-on activities. Share the joy of nurturing live plants with fellow participants & carry your creation home.\u00a0About the Founder \u2013 Saloni Kumar\ufeffSaloni Kumar, founder of Healing Garden, A certified nature therapy practitioner, she supports stress and trauma recovery through nature-based practices. She is currently advancing her meditation training and has volunteered with children with special needs.About KlayZoKlayzo, by the House of KLAY, is a thoughtfully designed indoor play zone that supports modern parenting needs. It offers a safe, flexible space for children to explore, create, and learn through open-ended, holistic play. With a mission to empower both kids and parents, Klayzo focuses on joyful experiences and emotional well-being. Its core values include being playful, warm, imaginative, and empowering. The space encourages curiosity, movement, and hands-on fun, helping children thrive in a nurturing environment.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6A48D40D812C40ED98C30E1D2A344C6E_converted_webp.webp"
     ],
@@ -2552,6 +2552,54 @@
       "Workshop",
       "Pop-up Event",
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Seeing is Saying",
+    "description": "Got an eye for images but not sure how to put it into words? Obsessed with this city and want to tell its story through your lens? Join us for Seeing is Saying \u2014 a two-day collaborative workshop on photography and visual storytelling, led by Luru\u2019s in-house photographer Gaurav Krishna (@ava.kkai). From street scenes to stillness, portraits to shadows, this is a space to explore how images carry meaning and how to make yours speak.\ud83d\udccd Where: The Kind, JP Nagar, Bengaluru\ud83d\udcc5 When: DAY 1 - 24th May from 8AM - 10AM & DAY 2 - 25th May from 7AM \u2013 9:30 AMBoth mornings begin with a guided photo walk, visual thinking exercises, and group feedback. Limited to just 20 spots, the workshop includes a nourishing breakfast, a Luru tote, and a fresh perspective. Bring your camera (or phone), your way of seeing, and your eye for detail. Stick around after to share inspo, explore Kind, or brunch with friends. Hit the link in bio for all the details and to book your spot!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/42FBE7CA475E477D9CD2FE4FEFA1CDBF_converted_webp.webp"
+    ],
+    "startDate": "2025-05-24T08:00:00+05:30",
+    "endDate": "2025-05-24T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1316/F, 1316/E, 18 B Main Rd, near VLCC BEAUTY CLINIC ( JP Nagar, Bangalore ), Marenahalli, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLW3Tx1QVrjsRMZQ7OnX7Gac",
+      "latitude": "12.91057010000000000000",
+      "longitude": "77.58958969999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2520.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Kind Roastery and Brew Room",
+      "description": "",
+      "url": "https://urbanaut.app/partner/thekind",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/AB717082F9F5435E8158E1523FF717EB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-88618-52547"
+      }
+    },
+    "url": "https://urbanaut.app/spot/seeing-is-saying",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
       "URBANAUT"
     ]
   }
