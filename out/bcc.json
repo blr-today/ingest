@@ -12,23 +12,65 @@
         {
   "@context": "https://schema.org",
   "@type": "SocialEvent",
-  "name": "Chess and Cheers: Freestyle Edition - Bangalore Chess Club",
-  "startDate": "2025-05-17T16:00:00+05:30",
-  "endDate": "2025-05-17T19:00:00+05:30",
+  "name": "Chess Connect: Team Battle - Bangalore Chess Club",
+  "startDate": "2025-05-24T16:00:00+05:30",
+  "endDate": "2025-05-24T19:00:00+05:30",
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
 
   "location": {
     
     "@type": "Place",
-    "name": "Uru Brewpark",
-    "address": "Bannerghatta Rd, 4th Phase J.P.Nagar, Bengaluru, India"
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
     
   },
   "isAccessibleForFree": false,
   
   "offers": [{
     "@type": "Offer",
-    "price": "400",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_QWR5NTe5ESRWmq/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://bangalorechessclub.in/images/chessconnect_20250524.jpeg",
+  
+  "url": "https://bangalorechessclub.in/chess-connect/2025-05-24/"
+}
+      
+    ,
+  
+    
+    
+    
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Rapid - Bangalore Chess Club",
+  "startDate": "2025-05-25T10:00:00+05:30",
+  "endDate": "2025-05-25T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "300",
     "priceCurrency": "INR",
     "availability": "https://schema.org/InStock",
     "url": "https://razorpay.com/payment-button/pl_QOTdD7tUtCdfoP/view/"
@@ -41,9 +83,9 @@
   },
   "keywords": ["bangalore chess club", "chess"],
   
-  "image": "https://bangalorechessclub.in/images/chesscheers_20250517.jpeg",
+  "image": "https://bangalorechessclub.in/images/chessconnect_20250525.jpeg",
   
-  "url": "https://bangalorechessclub.in/chess-cheers/2025-05-17/"
+  "url": "https://bangalorechessclub.in/chess-connect/2025-05-25/"
 }
       
     
