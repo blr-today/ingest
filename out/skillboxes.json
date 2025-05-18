@@ -52,6 +52,41 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Electric Boogie",
+      "endDate": "2025-05-30T23:59:00",
+      "identifier": "com.skillboxes.22800",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1747561417GNDbnYw5EBL2Sxw6.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "The Park, MG Road, 14/7, Bhaskaran Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9739914",
+            "longitude": "77.6198638"
+         },
+         "name": "THE Park Bangalore"
+      },
+      "name": "Electric Boogie",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable after 9:30pm\n",
+            "inventoryLevel": 1000,
+            "name": "Rsvp Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/electric-boogie-6"
+         }
+      ],
+      "startDate": "2025-05-30T20:00:00",
+      "url": "https://www.skillboxes.com/events/electric-boogie-6"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "EducationEvent",
       "description": "Rainbow Bridge presents Dj workshop with Peach BlokKnown for his wide horizons in the music industry, Bangalore based Peach Blok is a music produ",
       "endDate": "2025-06-08T13:00:00",
