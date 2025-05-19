@@ -2491,5 +2491,55 @@
       "Art & culture",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Slytrix - Live",
+    "description": "Slytrix is redefining the boundaries of fusion music. Featuring Slyfly (Sylvester Pradeep), a celebrated blues guitarist and vocalist, and Ragatrix (Santosh Jayaram), a pioneering electric veena player, this Bangalore-based duo crafts a sound that is both rooted and revolutionary. Slyfly\u2019s expressive guitar work, shaped by years of blues and innovation, meets Ragatrix\u2019s raga-based explorations and Western harmonies on the electric veena. Together, they create a musical conversation that transcends genres, blending Carnatic, blues, and contemporary influences into something entirely original.Join us at Ram\u2019s Musique Experience on Saturday, May 24th at 6pm for an evening of bold, boundary-pushing music with Slytrix.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/806FCC6D1BA94A92A423F1C3101534BC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7F4ECCF9C7C7447D9684BB9FC25A0C6B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CE9B200B93FF44B8B4AF484ED95ACA22_converted_webp.webp"
+    ],
+    "startDate": "2025-05-24T18:00:00+05:30",
+    "endDate": "2025-05-24T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "28, 1st Floor, Public Utility Building, Mahatma Gandhi Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJE8R9PncWrjsRpEX0HC24VLg",
+      "latitude": "12.97447450000000000000",
+      "longitude": "77.60974890000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 46,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ram's Musique Experience",
+      "description": "India's largest vinyl record store and experience centre",
+      "url": "https://urbanaut.app/partner/ramsmusiqueexp",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C280E3AE43FC4A2AA2E2444BB2CEEDC0_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-95353-36383"
+      }
+    },
+    "url": "https://urbanaut.app/spot/slytrix-live",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Music",
+      "URBANAUT"
+    ]
   }
 ]
