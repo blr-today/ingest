@@ -301,7 +301,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional 500 cover charge payable at gate\n",
-            "inventoryLevel": 300,
+            "inventoryLevel": 289,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/halla-album-launch-by-same-as-them"
          }
@@ -377,6 +377,49 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "We’re excited to bring you the second screening of the ALT EFF Film Club this year, featuring five impactful short films:GeamanaFight With CareO",
+      "endDate": "2025-06-20T22:00:00",
+      "identifier": "com.skillboxes.22821",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YU5zdVBYZGI1d1ZIWlBOMXpSRlFNdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1747735975aIAYfhFA889HhdyI.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No.15, KHB MIG Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9381595",
+            "longitude": "77.617817"
+         },
+         "name": "Medai - The Stage Bengaluru"
+      },
+      "name": "Tickets & Membership_Bengaluru",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Short Film Night | 20/06/2025\nYou can also Register for ALT EFF Voices.",
+            "inventoryLevel": 100,
+            "name": "One Time Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/tickets-membership-bengaluru-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "All Screening Pass | June to September\n",
+            "inventoryLevel": 50,
+            "name": "Membership_1 Year",
+            "url": "https://www.skillboxes.com/events/ticket/tickets-membership-bengaluru-3"
+         }
+      ],
+      "startDate": "2025-06-20T19:00:00",
+      "url": "https://www.skillboxes.com/events/tickets-membership-bengaluru-3"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Electric Boogie",
       "endDate": "2025-05-30T23:59:00",
       "identifier": "com.skillboxes.22800",
@@ -395,13 +438,13 @@
          },
          "name": "THE Park Bangalore"
       },
-      "name": "Electric Boogie",
+      "name": "Electric boogie ft Vachan Chinnappa, Peach Block & Pramodh",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable after 9:30pm\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 991,
             "name": "Rsvp Ticket",
             "url": "https://www.skillboxes.com/events/ticket/electric-boogie-6"
          }
@@ -435,7 +478,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 49,
+            "inventoryLevel": 48,
             "name": "Rainbow Bridge Music Workshop",
             "url": "https://www.skillboxes.com/events/ticket/rainbow-bridge-music-workshop-3"
          }
@@ -627,7 +670,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Area 313 is back!",
+      "description": "Area 313 is back!It has been a minute and we are back at what we do best. Area313 will always remain the last frontier of resistance for Dance Mu",
       "endDate": "2025-05-24T23:59:00",
       "identifier": "com.skillboxes.22704",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Q1lUaFl1VjBWcTlUZEl1aUJZMVdjdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17473063852csS4o9lVEVBDQMq.jpg.webp",
@@ -650,7 +693,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 280,
+            "inventoryLevel": 276,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/area-313-ft-knique"
          },
@@ -722,7 +765,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Female Pass",
             "url": "https://www.skillboxes.com/events/ticket/band-sehari-live-in-bangalore-telugu-band"
          },
@@ -878,7 +921,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 7,
+            "inventoryLevel": 27,
+            "name": "Phase 1 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/amnap-records-presents-posthuman-uk-zokhuma-priaa"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 3,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/amnap-records-presents-posthuman-uk-zokhuma-priaa"
          }
@@ -961,7 +1011,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover of 500₹ till 9:30pm.  1000₹ post 9:30pm.\n",
-            "inventoryLevel": 6,
+            "inventoryLevel": 3,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/bob-dylan-tribute-night"
          }
@@ -995,6 +1045,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Cover charges applicable at gates.\n",
             "inventoryLevel": 24,
             "name": "Early Bird Ticket (Female)",
             "url": "https://www.skillboxes.com/events/ticket/boogiielab-present-isabella-clerk-bangalore"
@@ -1002,6 +1053,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Cover charges applicable at gates.\n",
             "inventoryLevel": 25,
             "name": "Early Bird Ticket (Male)",
             "url": "https://www.skillboxes.com/events/ticket/boogiielab-present-isabella-clerk-bangalore"
@@ -1009,6 +1061,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Cover charges applicable at gates.\n",
             "inventoryLevel": 25,
             "name": "Early Bird Ticket (Couple)",
             "url": "https://www.skillboxes.com/events/ticket/boogiielab-present-isabella-clerk-bangalore"
@@ -1090,7 +1143,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General admission || Valid for one individual || For Age(s) 21+ || Extra Cover Charge ₹500 at the Venue gate - Fully Redeemable in FnB\n",
-            "inventoryLevel": 80,
+            "inventoryLevel": 37,
             "name": "Phase II",
             "url": "https://www.skillboxes.com/events/ticket/tribute-to-linkin-park"
          },
@@ -1140,7 +1193,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 184,
+            "inventoryLevel": 112,
             "name": "Phase 2 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-bangalore"
          },
@@ -1189,7 +1242,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable Post 9PM\n",
-            "inventoryLevel": 491,
+            "inventoryLevel": 487,
             "name": "Couple Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/sundowner-raga-1"
          },
@@ -1197,7 +1250,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Free Entry - No Cover Charges\n",
-            "inventoryLevel": 494,
+            "inventoryLevel": 493,
             "name": "Female Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/sundowner-raga-1"
          },
@@ -1205,7 +1258,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable Post 5PM\n",
-            "inventoryLevel": 480,
+            "inventoryLevel": 473,
             "name": "Male Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/sundowner-raga-1"
          }
@@ -1320,7 +1373,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 948,
+            "inventoryLevel": 930,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/amyt-datta-electric-power-quartet"
          }
@@ -1355,7 +1408,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover of INR 500 at the Gate. Fully redeemable on F&B.\nAge Limit - 21+",
-            "inventoryLevel": 79,
+            "inventoryLevel": 77,
             "name": "GA Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/ksetravid-x-hisaab-barabar-india-tour-bangalore"
          },
@@ -1405,8 +1458,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1,
-            "name": "Phase 1 Ticket",
+            "inventoryLevel": 912,
+            "name": "Phase 2 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/jobkurianliveblr"
          },
          {
@@ -1414,6 +1467,13 @@
             "availability": "SoldOut",
             "inventoryLevel": 0,
             "name": "Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/jobkurianliveblr"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/jobkurianliveblr"
          }
       ],
@@ -1446,7 +1506,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 12,
+            "inventoryLevel": 10,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/tatakai-bengaluru"
          },
@@ -1558,7 +1618,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 971,
+            "inventoryLevel": 967,
             "name": "Phase 3 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/bangalore-death-fest-3-ft-massacre-usa"
          },
@@ -1607,24 +1667,24 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 65,
-            "name": "Phase 1 || Single Pass",
+            "inventoryLevel": 200,
+            "name": "Phase 2 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/play-for-a-cause-ft-the-yellow-diary-in-bangalore"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 67,
-            "name": "Phase 1 || Group of 2",
+            "inventoryLevel": 146,
+            "name": "Phase 2 || Group of 2",
             "url": "https://www.skillboxes.com/events/ticket/play-for-a-cause-ft-the-yellow-diary-in-bangalore"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 44,
-            "name": "Phase 1 || Group of 4",
+            "inventoryLevel": 73,
+            "name": "Phase 2 || Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/play-for-a-cause-ft-the-yellow-diary-in-bangalore"
          },
          {
@@ -1633,6 +1693,30 @@
             "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
             "inventoryLevel": 0,
             "name": "Early Bird || Single Pass",
+            "url": "https://www.skillboxes.com/events/ticket/play-for-a-cause-ft-the-yellow-diary-in-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
+            "inventoryLevel": 61,
+            "name": "Phase 1 || Single Pass",
+            "url": "https://www.skillboxes.com/events/ticket/play-for-a-cause-ft-the-yellow-diary-in-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
+            "inventoryLevel": 57,
+            "name": "Phase 1 || Group of 2",
+            "url": "https://www.skillboxes.com/events/ticket/play-for-a-cause-ft-the-yellow-diary-in-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
+            "inventoryLevel": 42,
+            "name": "Phase 1 || Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/play-for-a-cause-ft-the-yellow-diary-in-bangalore"
          }
       ],
@@ -1666,7 +1750,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants admission for one individual to the event.\nNo cover charge required.",
-            "inventoryLevel": 46,
+            "inventoryLevel": 43,
             "name": "Phase 2 Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/genesis-1-0"
          },
@@ -1674,7 +1758,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants admission for two individuals to the event.\nNo cover charge required.",
-            "inventoryLevel": 24,
+            "inventoryLevel": 23,
             "name": "Phase 2 Couples Pass",
             "url": "https://www.skillboxes.com/events/ticket/genesis-1-0"
          },
@@ -1741,7 +1825,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charges at gate. Grants Entry to one person only.\n",
-            "inventoryLevel": 41,
+            "inventoryLevel": 36,
             "name": "Early Bird GA Ticket",
             "url": "https://www.skillboxes.com/events/ticket/vilen-india-tour-bangalore-show"
          },
@@ -1950,21 +2034,21 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 324,
+            "inventoryLevel": 323,
             "name": "Phase 1  || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/foosie-gang-india-tour-arpit-bala-x-bhappa-2"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 11,
+            "inventoryLevel": 10,
             "name": "Group of 2",
             "url": "https://www.skillboxes.com/events/ticket/foosie-gang-india-tour-arpit-bala-x-bhappa-2"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 15,
+            "inventoryLevel": 13,
             "name": "Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/foosie-gang-india-tour-arpit-bala-x-bhappa-2"
          },
