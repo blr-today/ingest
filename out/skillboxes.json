@@ -104,6 +104,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Get ready to groove to the beats of Bollywood & the heart of PunjabShowdown Saturday ft. AxleFree entry | Free cocktail for ladiesMark your squad ",
+      "endDate": "2025-05-31T01:00:00",
+      "identifier": "com.skillboxes.23004",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anF1d00weFpXNThEdkJQT2pNUzB0QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17478051973zitLVZcsuZdyy5D.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Manyata Skywalk, MS Ramaiah North City, Manayata Tech Park, Nagavara, Bengaluru, Karnataka 560045, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.040761",
+            "longitude": "77.6200497"
+         },
+         "name": "AEIOU Manyata"
+      },
+      "name": "Showdown Saturday",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Free entry for all\nFree cocktail for ladies",
+            "inventoryLevel": 200,
+            "name": "Free entry",
+            "url": "https://www.skillboxes.com/events/ticket/showdown-saturday"
+         }
+      ],
+      "startDate": "2025-05-24T20:00:00",
+      "url": "https://www.skillboxes.com/events/showdown-saturday"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "🏁 LIGHTS OUT – Community Meet-Up 🔧\nRev up for race day with the F1 community at our Monaco GP special screening. High-octane",
       "endDate": "2025-05-25T22:00:00",
       "identifier": "com.skillboxes.22976",
@@ -359,6 +394,57 @@
       ],
       "startDate": "2025-05-24T20:00:00",
       "url": "https://www.skillboxes.com/events/limitless-ft-almost-human-24th-may-gawky-goose"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "We are super delighted to announce that Bangalore’s most famous duo, Answer, is back at the gorgeous Kitty Ko terrace for a special Redroom edit",
+      "endDate": "2025-05-23T23:59:00",
+      "identifier": "com.skillboxes.22870",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1747671829m0axe3qfG4nwf2W5.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "HOTEL, THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Redroom ft. Answer",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket allows entry for one female.\n",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Female",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-answer"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket allows entry for one couple. A cover charge of INR 1000 is applicable for walk-ins after 9:30 PM at the venue.\n",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Couple",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-answer"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "A cover charge of INR 1000 is applicable for walk-ins post 9:30 PM at the venue.\n",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Male",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-answer"
+         }
+      ],
+      "startDate": "2025-05-23T19:00:00",
+      "url": "https://www.skillboxes.com/events/redroom-ft-answer"
    },
    {
       "@context": "https://schema.org",
@@ -650,7 +736,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bangalore - 💌 One Love presents: the fake shaadi of the season.No rituals. No rules. No awkward buffet lines.Just drag, dance, masti—and",
+      "description": "Bangalore - 💌 One Love presents: the fake shaadi of the season.\r\n\r\n \r\n\r\nNo rituals. No rules. No awkward buffet lines.\r\n\r\nJust drag, dance, ma",
       "endDate": "2025-06-01T23:59:00",
       "identifier": "com.skillboxes.22742",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1747394417LKuUvBKdRb8GULkx.jpg.webp",
@@ -1660,63 +1746,6 @@
       ],
       "startDate": "2025-06-01T19:00:00",
       "url": "https://www.skillboxes.com/events/tatakai-bengaluru"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "The Other Side Pre Party Bengaluru Presents Marhu\r\n\r\nSat, 21-Jun-2025",
-      "endDate": "2025-06-21T23:59:00",
-      "identifier": "com.skillboxes.21730",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1745751566xYU6tMDzq1J97s5f.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Bengaluru, Karnataka, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9715987",
-            "longitude": "77.5945627"
-         },
-         "name": "To Be Announced"
-      },
-      "name": "The Other Side Pre Party Bengaluru Presents Marhu",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 24,
-            "name": "Early Bird GA Ticket - No Cover",
-            "url": "https://www.skillboxes.com/events/ticket/the-other-side-pre-party-bengaluru-presents-marhu"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 25,
-            "name": "Early Bird VIP Ticket - No Cover",
-            "url": "https://www.skillboxes.com/events/ticket/the-other-side-pre-party-bengaluru-presents-marhu"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Cover Charges post 8.30PM)\n",
-            "inventoryLevel": 25,
-            "name": "Early Bird GA Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/the-other-side-pre-party-bengaluru-presents-marhu"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Cover Charges post 8.30PM)\n",
-            "inventoryLevel": 25,
-            "name": "Early Bird VIP Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/the-other-side-pre-party-bengaluru-presents-marhu"
-         }
-      ],
-      "startDate": "2025-06-21T15:00:00",
-      "url": "https://www.skillboxes.com/events/the-other-side-pre-party-bengaluru-presents-marhu"
    },
    {
       "@context": "https://schema.org",
