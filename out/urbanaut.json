@@ -830,7 +830,7 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Coffee & Conversations: The Unfiltered Circle",
+    "name": "The Unfiltered Conversations",
     "description": "Coffee, Conversations, and Connections\" \u2615\ud83d\udcacEver craved a space where you don\u2019t have to filter your words, explain your quirks, or shrink your thoughts? This is that space \u2014 a cozy circle where strangers meet over coffee, and leave a little lighter.No small talk. No pressure. Just real people, real stories, and honest conversations that unfold naturally.Bring your full self \u2014 the quiet, the curious, the chaotic \u2014 and let\u2019s see what happens when we drop the masks and speak from the heart.Coffee/Beer is on us. The connection? That\u2019s all you.\u2728",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7F4901AC3C374E6D889D89FAD9BE135E_converted_webp.webp"
@@ -2720,6 +2720,56 @@
     "url": "https://urbanaut.app/spot/hot-conversations-over-hot-sauce",
     "keywords": [
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Silent Circles with Akshaya Murali",
+    "description": "About the session:During this session, you will be guided into a state of silence (meditation) through the medium of sound (music)We will be sharing our experiences with each otherYou will be learning a simple technique to de-clutter your thoughtsSilent Circles is an event which brings people together in a space to understand the power of music & meditation  Join us to be a\u00a0part of an\u00a0immersive healing session!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/93931E1B97BC4C7DBA815ACA954BB3CC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/38AABC7C1E46462791C2A107781CAB4A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AC02A3BC43D640A0B73E5A5050A2FA33_converted_webp.webp"
+    ],
+    "startDate": "2025-06-26T19:30:00+05:30",
+    "endDate": "2025-06-26T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "600.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "URBN Tech Team",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E1B305311BC742E99320B198AD4C908F_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/silent-circles-with-akshaya-murali",
+    "keywords": [
+      "Music",
+      "Wellness",
+      "Workshop",
       "URBANAUT"
     ]
   }
