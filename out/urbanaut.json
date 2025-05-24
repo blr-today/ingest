@@ -657,7 +657,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 28,
+    "remainingAttendeeCapacity": 27,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -681,6 +681,56 @@
       "Live GIG",
       "Food & drink",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Framing Motion with Ronita",
+    "description": "Ronita Mookerji is a choreographer, performer, and contemporary dance artist with 16+ years of experience in interdisciplinary movement arts. She was a Senior Movement Artist at Attakkalari Dance Company for over seven years. Trained in Bharatanatyam for over 25 years and Odissi for two, she is also a certified yoga teacher and Animal Flow practitioner. A graduate of Attakkalari\u2019s Diploma in Movement Arts and Mixed Media, she has trained in Kalaripayattu, Ballet, and Contact Improvisation.As a movement educator, Ronita has taught at institutions like Drama School Mumbai, FTII Pune, and Christ University Bangalore. She has performed and conducted workshops internationally, integrating contemporary dance, Kalaripayattu, and movement exploration.In this unique workshop, Ronita brings her deep dance experience into Animal Flow, blending strength, fluidity, and expressive movement for a dynamic and immersive session.We will incorporate lip smacking dishes from our signature kitchen into the brunch. We're so excited about this unique event because it\u2019s more than just a dance, animal flow session or a brunch, it\u2019s an experience that designed to recharge your body, and syncing with some primal movements.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0A25D5E1F35D4322B783558AA4328509_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DF0CA5D499254745A446928607956055_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E5CC0B2EF77B41B88393DD528B795C89_converted_webp.webp"
+    ],
+    "startDate": "2025-05-24T12:00:00+05:30",
+    "endDate": "2025-05-24T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 3,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/framingmotion2",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
       "URBANAUT"
     ]
   },
@@ -751,7 +801,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 91,
+    "remainingAttendeeCapacity": 85,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -806,7 +856,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -854,7 +904,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -903,7 +953,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 19,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -923,55 +973,6 @@
       }
     },
     "url": "https://urbanaut.app/spot/courtyard-picnic-with-subko-6998#2025-05-24T1330",
-    "keywords": [
-      "Leisure",
-      "Music",
-      "Food & drink",
-      "COURTYARD",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Courtyard Picnic with SUBKO",
-    "description": "About PicnicJoin us under the canopy of our lush city oasis for a sun-soaked (fingers crossed!) afternoon filled with board games, wine, coffee, and irresistible picnic platesPicnic Plates by SUBKOMeetha | Craft BakesSubko Croissant - Rs. 230Subko PAC - Rs. 305Banana Chocolate Cake - Rs. 325Stuffed Cookie: Salted Notella - Rs. 450Stuffed Cookie (Pistaaah) - Rs. 450Subko Basque (Vanilla) - Rs. 495Craft Sandwiches (Sandwiches come in half and full sizes\u00a0)Noir Wheat Sandwich\u00a0- Rs. 530 (Noir wheat is only available in full size)The Grinch - RS. 275/550Harissa Grilled Cheese - Rs. 295/595Harissa Grilled Chicken - Rs. 295/595Bacon and Caramelized Onion - Rs. 345/635_________And don\u2019t forget\u2014your furry friends are welcome to join the fun too!See you at the yard for a perfect day out with great food, great coffee, and even better company. Terms and Conditions:The management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Children above the age of 3 need a ticket to attend the event.Valet service is available at a charge of Rs. 200 per vehicle.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Bringing outside food into the yard area is not permitted.Tickets are non-refundable in case of cancellation or no-show.In the event of rain leading to a complete washout, Courtyard reserves the right to cancel the event. In such cases, a full refund for the ticket will be issued.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1C4D028BB18A45CB901357DB34D63585_converted_webp.webp"
-    ],
-    "startDate": "2025-05-24T16:00:00+05:30",
-    "endDate": "2025-05-24T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Courtyard",
-      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
-      "latitude": "12.95843050000000000000",
-      "longitude": "77.59289509999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 6,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Courtyard",
-      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
-      "url": "https://urbanaut.app/partner/courtyard",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-73386-77996"
-      }
-    },
-    "url": "https://urbanaut.app/spot/courtyard-picnic-with-subko-6998#2025-05-24T1600",
     "keywords": [
       "Leisure",
       "Music",
@@ -1531,7 +1532,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1681,8 +1682,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 6,
-    "remainingAttendeeCapacity": 6,
+    "maximumAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1766,54 +1767,6 @@
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A533418C5F3E4B2DA1BC9C8F979EA63E_converted_webp.webp"
     ],
-    "startDate": "2025-05-24T07:30:00+05:30",
-    "endDate": "2025-05-24T08:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "461, Shri Krishna Temple Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ8wXmJv8XrjsREHce9rQjhBw",
-      "latitude": "12.97901500000000000000",
-      "longitude": "77.64382350000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 14,
-    "remainingAttendeeCapacity": 14,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1200.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "TPT - Dongle & Co",
-      "description": "TPT is a wellness collective offering calm, nature-rooted experiences in yoga, sound healing, breathwork, and expressive arts. We hold space for rest, reflection, and reconnection \u2014 gently guiding you through The Space In Between. by Dongle & Co",
-      "url": "https://urbanaut.app/partner/tpt-dongleandco",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/001EDF58B5F6402B857FF5BD1B61AEC3_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-90353-54688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/tides-tones#2025-05-24T0730",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Tides & Tones",
-    "description": "Tides & Tones\u2728\ud83c\udf0aA Journey Through Flow and Frequency\ud83e\uddd8\ud83c\udffd\u200d\u2640\ufe0f Water Element Flow Yoga x Sound Healing with Tibetan Bowls & DidgeridooJoin us for a unique sensory experience where movement meets vibration, and breath meets resonance. Tides & Tones brings together the fluid grace of Water Element-inspired yoga and the deep, earthy frequencies of sound healing with traditional Tibetan bowls and the ancient Australian Didgeridoo.This is more than just a workshop\u2014it\u2019s a space to release, reset, and reconnect with your body\u2019s natural rhythm and emotional depth.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A533418C5F3E4B2DA1BC9C8F979EA63E_converted_webp.webp"
-    ],
     "startDate": "2025-05-24T08:45:00+05:30",
     "endDate": "2025-05-24T10:15:00+05:30",
     "location": {
@@ -1846,7 +1799,7 @@
         "telephone": "+91-90353-54688"
       }
     },
-    "url": "https://urbanaut.app/spot/tides-tones#2025-05-24T0845",
+    "url": "https://urbanaut.app/spot/tides-tones",
     "keywords": [
       "Wellness",
       "Workshop",
@@ -1975,7 +1928,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 23,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2204,8 +2157,8 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F698780CC997418F8DAB10359D29C7F1_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EBFA376E462245039E3F0AC110202A4C_converted_webp.webp"
     ],
-    "startDate": "2025-05-24T18:00:00+05:30",
-    "endDate": "2025-05-24T19:30:00+05:30",
+    "startDate": "2025-05-31T18:00:00+05:30",
+    "endDate": "2025-05-31T19:30:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -2267,7 +2220,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 23,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
