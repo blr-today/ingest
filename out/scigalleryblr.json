@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "@type": "EducationEvent",
+    "name": "Scenes from Sci560 | Kannada",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-05-31T17:30:00+05:30",
+    "endDate": "2025-05-31T19:00:00+05:30",
+    "description": "Join Gokul and Mytri for a walkthrough of our ongoing exhibition, Sci560! Experience a guided walkthrough and dive into a dynamic exploration of the science and technology shaping Namma Bengaluru. Engage with our interactive and interdisciplinary exhibits and discover the innovative process behind creating this exhibition.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=scenes-sci560",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sgb-Team"
+      }
+    ],
+    "maximumAttendeeCapacity": 100
+  }
+]
