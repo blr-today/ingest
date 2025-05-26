@@ -19,5 +19,26 @@
       }
     ],
     "maximumAttendeeCapacity": 100
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Patterns & Perspectives: Sci560 Exhibition Walkthrough",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-06-01T17:30:00+05:30",
+    "endDate": "2025-06-01T19:00:00+05:30",
+    "description": "Have you ever thought of our lives being bound by cycles? From the grand loop of the food chain to the economic flow, everything follows a cycle. But what about the cycles we don\u2019t talk about? Isn\u2019t it soul-stirring to pause and notice these cycles that have influenced us today?<br><br>Join our mediator, Manjuvarshini, who will tell us tales from political to academic cycles in the past. Come along and explore the cycle of success and failure in experimentation, conservation, and administration through the Sci560 exhibition season.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=patterns-perspectives",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sgb-Team"
+      }
+    ],
+    "maximumAttendeeCapacity": 100
   }
 ]
