@@ -575,6 +575,57 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Redroom ft. Masha Vincent at Kitty Ko Bangalore",
+      "endDate": "2025-05-30T23:59:00",
+      "identifier": "com.skillboxes.23165",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c0lGYzlCZU9aNVlnNnBWd2hYQkFrQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/174827751715F1wdTZqafFggOc.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "HOTEL, THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Redroom ft. Masha Vincent at Kitty Ko Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket allows entry for 1 female.\n",
+            "inventoryLevel": 1000,
+            "name": "Female Pass",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-masha-vincent"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket allows entry for one male.\nA cover charge of INR 1000 is applicable post 9:30 PM at the venue.",
+            "inventoryLevel": 1000,
+            "name": "Male Pass",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-masha-vincent"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket allows entry for one couple.\nA cover charge of INR 1000 is applicable post 9:30 PM at the venue.",
+            "inventoryLevel": 1000,
+            "name": "Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-masha-vincent"
+         }
+      ],
+      "startDate": "2025-05-30T20:00:00",
+      "url": "https://www.skillboxes.com/events/redroom-ft-masha-vincent"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "💥 Talamasca Live in Bangalore! 💥\r\n\r\n \r\n\r\nGet ready for an otherworldly experience! \r\n\r\n𝗧𝗮𝗹𝗮𝗺𝗮𝘀𝗰𝗮, the psych",
       "endDate": "2025-06-14T23:59:00",
       "identifier": "com.skillboxes.23055",
@@ -1044,57 +1095,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "One of the most electrifying forces in the global techno scene is landing in the city - Alphadog is bringing his signature blend of melodic techno, af",
-      "endDate": "2025-05-26T01:00:00",
-      "identifier": "com.skillboxes.22612",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1747210098HwhFnuKCsbkNcC6b.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9151581",
-            "longitude": "77.6664719"
-         },
-         "name": "White Lotus Club"
-      },
-      "name": "Alphadog",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows entry for one female only. Cover charge applicable. Club rules apply.\n",
-            "inventoryLevel": 1000,
-            "name": "Early Bird Ticket (Female)",
-            "url": "https://www.skillboxes.com/events/ticket/alphadog"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows entry for one couple only. Cover charge applicable. Club rules apply.\n",
-            "inventoryLevel": 1000,
-            "name": "Early Bird Ticket (Couple)",
-            "url": "https://www.skillboxes.com/events/ticket/alphadog"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows entry for one male only. Cover charge applicable. Club rules apply.\n",
-            "inventoryLevel": 1000,
-            "name": "Early Bird Ticket (Male)",
-            "url": "https://www.skillboxes.com/events/ticket/alphadog"
-         }
-      ],
-      "startDate": "2025-05-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/alphadog"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Bengaluru, brace yourselves for a wild sonic ritual on May 31st!We’re summoning the spirits of sound with Mizter Bonezz beaming in LIVE from Cal",
       "endDate": "2025-05-31T13:00:00",
       "identifier": "com.skillboxes.22591",
@@ -1297,32 +1297,6 @@
       ],
       "startDate": "2025-05-31T20:00:00",
       "url": "https://www.skillboxes.com/events/code-noise-ft-rising-dust-more"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Get ready for the ultimate Indo Tech Sundowner in your city – SUNDOWNER RAGA. Catch the Afterlife sensation N1RVAAN + Kay Mallani & more liv",
-      "endDate": "2025-05-26T01:00:00",
-      "identifier": "com.skillboxes.21880",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1745950956XHiwxpUDF8jeRl6v.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "HOTEL, THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Sundowner Raga / 25th May /  Kitty Ko",
-      "offers": [ ],
-      "startDate": "2025-05-25T20:00:00",
-      "url": "https://www.skillboxes.com/events/sundowner-raga-25th-may-kitty-ko"
    },
    {
       "@context": "https://schema.org",
