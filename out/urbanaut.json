@@ -440,52 +440,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Bohra Cuisine with Strangers",
-    "description": "Make Your Sunday Shine with New Connections!\u2728The Shared Circle is not your average dining table\u2014it\u2019s a slice of Bohra tradition where strangers sit shoulder to shoulder, eat with their hands, and leave with full hearts. Set in a warm Bengaluru home, this 9-course Bohra meal is a soulful journey into a culinary heritage shaped by centuries, migration, and memory.From the richness of biryani to the comfort of smoked dal samosas, each dish is steeped in legacy and slow-cooked with love. But the real magic? It\u2019s in the conversations, the laughter, the feeling that somehow, in this moment, you belong.This isn\u2019t just food\u2014it\u2019s communion. If you've never dined Bohra-style, this is your invitation to slow down, open up, and savour a meal the way it was always meant to be: together.\ud83e\udd42",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/31A8A9446E32473098D930E10A91132B_converted_webp.webp"
-    ],
-    "startDate": "2025-05-28T20:30:00+05:30",
-    "endDate": "2025-05-28T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "PRESTIGE NOTTING HILL, Bannerghatta Rd, Kalena Agrahara, Bengaluru, Karnataka 560076, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJT0WO7M1qrjsRn8VKt7aXe3U",
-      "latitude": "12.87243720000000000000",
-      "longitude": "77.59519360000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1799.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/sunday-dinner",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Katte and Koffee\u2014Brewed Conversations",
     "description": "Coffee, Conversations, and Connections\" \u2615\ud83d\udcacWhether you're looking to make new connections or simply unwind after a busy week with some wholesome conversations, this table offers just that\u2014over a cup of coffee.Katte, in Kannada is a raised platform on which people take a seat and have conversations!So, come take a seat at Katte and have Koffee with us while we talk all things coffee, monday coping mechanisms and anything else you want to get off your chest!\u2728",
     "image": [
@@ -648,8 +602,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "maximumAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -748,7 +702,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 27,
+    "remainingAttendeeCapacity": 25,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -799,7 +753,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -881,19 +835,21 @@
     "name": "\ud83d\udc8c Letters to Strangers",
     "description": "\u200bIn a world of quick replies and seen ticks, this is a return to something slower, simpler, and more human.\u200bJoin us for a casual coffee meetup where we\u2019ll write handwritten letters\u2014not to friends you already know, but to strangers across the table. Through gentle prompts, you\u2019ll write from the heart: reflections, questions, memories, or a moment captured in ink.\u2728 What to Expect:\u200b\ud83d\udcdd\u00a0Prompts, not pressure.\u00a0You\u2019ll be gently guided to write.\ud83d\udcd3\u00a0Paper, Pen & Presence.\u00a0We\u2019re keeping it analogue\u2014no digital devices.\u2615\u00a0Coffee & quiet company.\u00a0A warm cup to keep you grounded as you write.",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/94F2F4CCF3854C0FB2885E33333EC077_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3E1F1514909544C29AE37AEFDAF91760_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FF9F007B4F9E4D2C908D531C4DFC5423_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AAD2FC527F584D789645DA35DF1A5514_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C70B1C9021844D06A02B9C8EF32EA248_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AAD2FC527F584D789645DA35DF1A5514_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E3D4D54D38174C538931E92ED01A85C1_converted_webp.webp"
     ],
     "startDate": "2025-06-21T16:00:00+05:30",
     "endDate": "2025-06-21T18:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
-      "address": "Bellandur, Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJL-k0LnUTrjsRrmqYb6Y0ssI",
-      "latitude": "12.93042780000000000000",
-      "longitude": "77.67840400000000000000"
+      "address": "goSTOPS Bengaluru, HSR, 754, L-185, Outer Ring Rd, behind Silk Board Bus stand, Santhosapuram, Sector 6, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkaSkxQMVrjsROIJHc86Du9Q",
+      "latitude": "12.91828140000000000000",
+      "longitude": "77.62400869999999000000"
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
@@ -927,104 +883,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Behindert (1974) with The Parallel Cinema Club",
-    "description": "Our weekly meetings feature a screening of an arthouse film, followed by a discussion. Led by one of our members or occasionally a guest speaker, the discussion encourages participants to share their thoughts and interpretations of the film.Behindert (1974)Described by Stephen Dwoskin as \u201ca documentary without being one,\u201d the basis of BEHINDERT is autobiographical: the story of a physically disabled man and a physically normal woman- played by Dwoskin (who has a post-polio disability) and Carola Regnier- who confront the difficulties of a relationship. The two were no longer a couple at the time Dwoskin made the film, yet it burns with the passion and intensity of true love.About The Parallel Cinema ClubA community-run film society, we are a collective of film enthusiasts who gather weekly to explore the world of cinema, discuss auteurs and themes, and occasionally host guest lectures.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9F1ECD2A02C4412E9F61CE3CCDF117FA_converted_webp.webp"
-    ],
-    "startDate": "2025-05-27T19:45:00+05:30",
-    "endDate": "2025-05-27T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
-      "latitude": "12.96722140000000000000",
-      "longitude": "77.63669820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "We're a community center for thoughtful, kind, and interesting events.",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97905-32594"
-      }
-    },
-    "url": "https://urbanaut.app/spot/behindert-1974-with-the-parallel-cinema-club",
-    "keywords": [
-      "Leisure",
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Open Mic - Poetry, Story telling and Standup",
-    "description": "Step into the spotlight at Zoey\u2019s Open Mic \u2013 where stories come alive, punchlines land, and poetry finds its rhythm.An open stage for storytellers, comedians, and poets to share their voice, vibe, and vision.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B5A151787C3B4711BF5F1D70ED99C8E4_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F698780CC997418F8DAB10359D29C7F1_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EBFA376E462245039E3F0AC110202A4C_converted_webp.webp"
-    ],
-    "startDate": "2025-05-31T18:00:00+05:30",
-    "endDate": "2025-05-31T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Ground Floor, 52 5th Cross, 60 Feet Rd, KHB Colony, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGy95XQYVrjsRV9exFfzCRmI",
-      "latitude": "12.93607350000000000000",
-      "longitude": "77.62166800000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 33,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Zoeys Good Vibes Only",
-      "description": null,
-      "url": "https://urbanaut.app/partner/zoeys-goodvibesonly",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/5844F889A4B3401EB184A348B1C0C6D4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-96639-01374"
-      }
-    },
-    "url": "https://urbanaut.app/spot/open-mic-poetry-story-telling-and-standup",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Rafoo:Bengaluru Mending Beyond Fabric Workshop",
     "description": "In this reflective hands-on workshop, we\u2019ll engage with fabric as a way to explore ideas of rupture, repair, and resilience. Through processes like cutting, stitching, and layering, participants will be invited to work with cloth as a surface for personal expression and quiet transformation\u00a0Rather than aiming for perfection, we\u2019ll embrace irregular threads, raw edges, and visible mends as part of the story. Together, we\u2019ll explore what it means to tend to what feels broken, in fabric, and perhaps within or around us.All materials will be provided.\u00a0However if you have a piece of clothing or fabric you\u2019d like to mend or embellish, feel free to bring it along. No prior stitching experience needed",
@@ -1046,7 +904,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1194,8 +1052,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 3,
+    "maximumAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1224,17 +1082,66 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Between the Bazaar and the Barracks",
+    "description": "Between the Bazaar and the Barracks: Stories of AmbaraJoin us in celebrating 25 years of Ambara through a morning of stories, memories, and map-making.For Adults (12+ years)Between the Bazaar and the Barracks: A Memory Mapping WorkshopFacilitated by placed-based storyteller Aliyeh Rizvi, this session includes a reflection on memories of Ambara, Ulsoor, and Bangalore. Participants will then be guided through interactive memory-sharing activities, culminating in a collective map-making exercise.Bonus ExplorationTake home a curated Ulsoor Map + Scavenger Hunt, designed for adult-child duos to explore local gems as part of your extended experience.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/47B9864FF0264629A0B9B3B7C6A585A8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/488CC1CE3D0D421791420F421FF5BB92_converted_webp.webp"
+    ],
+    "startDate": "2025-06-01T11:00:00+05:30",
+    "endDate": "2025-06-01T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "22, Annaswamy Mudaliar Rd, opp. Ulsoor, Rukmani Colony, Lake, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGa74CpIWrjsRQiwb52Wnbf0",
+      "latitude": "12.98395990000000000000",
+      "longitude": "77.61718350000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "First Adda",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/918B9B7A32B046DFB7E4E40D4C3EB77A_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/between-the-bazaar-and-the-barracks",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "SLOW BURN YOGA BRUNCH",
     "description": "Join us for Slow Burn\u2014a strength-infused yoga flow designed to ignite your inner fire while honoring your natural rhythm. This 75-minute studio session blends slow, intentional movement with light weights to help you build strength, ground your energy, and reset from within\u2014without the rush.After class, unwind on the patio with a nourishing brunch spread crafted to replenish and restore. Come move, breathe, and linger awhile.",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1454A776B83848E5AE17EBB84B1C0C25_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/409801B7C2BE40DDBD3DDBBBCA4BC2C2_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/923B216AFF97478DB664F568F005E742_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7C4A55D7B9ED45BD8655C2A70F704DB8_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/523E8BD306BB4E87A1E76083C1E4A889_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0EB43FA1EE0A4825A9313CB1D9506B8B_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/885B78D85E7840AB890FE0F628953008_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D033BE09FEFD443C9A9A772202FCDC53_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D033BE09FEFD443C9A9A772202FCDC53_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C1E69F4EB51E4EB891EA5D715AC424B7_converted_webp.webp"
     ],
     "startDate": "2025-06-08T08:00:00+05:30",
     "endDate": "2025-06-08T10:00:00+05:30",
@@ -1249,7 +1156,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1282,10 +1189,10 @@
     "name": "Safe Spaces - A listening table",
     "description": "Join us at Zoey's, Koramangala for The Listening Table \u2013 a safe, non-judgmental space to share your stories, emotions, and experiences. Come as you are, speak your truth, and connect over real conversations.",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/86B9AF4F6B294E0E80AA57C9CF897B74_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8B4C1BAB12B54667AD4A71CFF366992F_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3CA3DEB12C184581876BAFD87CE478DB_converted_webp.webp"
     ],
-    "startDate": "2025-05-30T18:00:00+05:30",
+    "startDate": "2025-05-30T18:30:00+05:30",
     "endDate": "2025-05-30T19:30:00+05:30",
     "location": {
       "@type": "Place",
@@ -1297,8 +1204,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 29,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1382,7 +1289,8 @@
     "name": "Haal Khayal: What's the language of our souls?",
     "description": "Haal Khayal: What's the language of our souls?A workshop to honor our feelings, thoughts and emotions and find a non-verbal language to express them through the mediums of threads and textiles.In this workshop, we will focus on our moods and feelings, using stitching- a rhythmic and meditative tool to process, reflect, and express our emotional landscapes. Through the act of making marks on fabric, participants will explore how simple, repetitive stitches can convey complex emotions, transforming inner feelings into tangible, creative expressions.This is a shorter, more affordable version of our full-length workshops, designed to be accessible to a wider audience. Basic materials will be provided. If you\u2019d like to bring your own fabric or threads to make the experience more personal, you\u2019re welcome to do so. No prior stitching experience needed.Please Note: All proceeds from this workshop go toward supporting and sustaining Rafooghar's community space in New Delhi where women who live on the margins gather every Sunday for rest, leisure, and emotional repairDesigned and facilitated by Rafooghar-the house that mendsOrganized by The Drawing Room ClubSpace courtesy: Cafe ZubaanJoin The Drawing Room Club here:https://chat.whatsapp.com/Jl5TUSVgxBU9ZOI1oMMYO4",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E4BCC4F116EE40B78D1AFA9E7089A6BC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/741157E62B344865911D56B9F589EC1B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EFFC9FE2A1974E41900E8FCEDB7F4574_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7E2FA810BFC44A4F887256AF964D867D_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/144C91C8A80D48BBBFBACC3EC57F3BBF_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AB2E13C066D64E0DBA442CDF174932E6_converted_webp.webp"
@@ -1400,7 +1308,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1477,6 +1385,55 @@
     "keywords": [
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Watercolor Workshop With Artyfloraa",
+    "description": "Discover the Art of Watercolor with Artyfloraa on June 15th at Sabha from 11:30 am to 1:30 pm Join us for a creative and relaxing watercolor painting workshop for kids and adults, where you'll explore basic techniques and experiment with color blending. Whether you're a beginner or looking to refine your skills, this hands-on session offers step-by-step guidance and a friendly atmosphere to spark your artistic journey. All materials provided\u2014bring your curiosity!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D5D25B8687FE4A3BAF61207957847A44_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3F5F66160BE64B5D99793EDEA643B6E2_converted_webp.webp"
+    ],
+    "startDate": "2025-06-15T11:30:00+05:30",
+    "endDate": "2025-06-15T13:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 8,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Artyfloraa",
+      "description": "Artyfloraa's role in recycling - towards a sustainable world :)",
+      "url": "https://urbanaut.app/partner/artyfloraa",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/sgjw7ssqbg-1708954104735img0071jpg.jpg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63629-63789"
+      }
+    },
+    "url": "https://urbanaut.app/spot/watercolor-workshop-with-artyfloraaxsabha",
+    "keywords": [
+      "Workshop",
+      "Eco Friendly",
+      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1926,6 +1883,1137 @@
       "Premium",
       "Festival",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Starry Nights - Art | Music | Food",
+    "description": "Join us on a beautiful rooftop as the Bangalore breeze sets the mood for a chill, art-filled night. For just \u20b9450, you\u2019ll get access to a variety of DIY art activity options \u2014 whether you\u2019re into painting, crafts, or just exploring something new, we\u2019ve got you covered. No experience needed \u2014 just come as you are.What to expect:Multiple art stations with all materials providedA surprise food stall serving up delicious treats (available for purchase)Curated music that inspires and upliftsCozy, creative vibes and a stunning rooftop settingWhether you're planning a relaxed evening with friends or looking to try something different on your own, Starry Nights is the perfect alternative to the usual cafe or bar scene. Limited spots available \u2014 book now and make your weekend sparkle!Terms and ConditionsTicket Requirement: All attendees aged 4 and above must hold a valid ticket to enter the event.Booking Fee: The ticket price includes a booking fee of \u20b9450, which is fully redeemable against art and craft activities at the event.Photography & Videography: Photos and videos taken during the event may be used for social media and promotional purposes. If you prefer not to be featured, please inform our team upon arrival.Cancellations & Refunds: Tickets are non-refundable in case of cancellations or no-shows.Weather Contingency: In case of rain, the event will either be moved to indoors or cancelled. If cancelled, a full refund will be processed.Food Policy: Outside food is not allowed at the venue.Parking: Parking is available in the vicinity of the venue at the vehicle owner's risk. Please note, valet service is not available.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5A3859B2376B43D8867F012D9EBC28A1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B6218C11B2CD46759683D978797E4804_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5ED3ED53CE3F4EAFB6282C15773CA393_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BAB42D4683FD48B4BE959CB65DD24F61_converted_webp.webp"
+    ],
+    "startDate": "2025-06-15T17:00:00+05:30",
+    "endDate": "2025-06-15T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "4th Floor, Suraj Ganga Arcade, 14th Cross Rd, 2nd Block, Jayanagar, Bengaluru, Karnataka 560011, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJh1Qyx2gVrjsRg1vQbpNGo2s",
+      "latitude": "12.93709040000000000000",
+      "longitude": "77.58188880000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "450.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Firefly Terrace",
+      "description": "Perched under twinkly lights, The Firefly Terrace is a dreamy art nook for all ages. Dip into paint, play with color, and craft just for the joy of it. No rules, no pressure \u2014 just magic, laughter, and a sky full of inspiration.",
+      "url": "https://urbanaut.app/partner/thefireflyterrace",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B295288BF7794D9598F14F65602351B4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99727-07950"
+      }
+    },
+    "url": "https://urbanaut.app/spot/starry-nights-art-music-food",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Access Your Cosmic Akashic Records Level 1 Weekend",
+    "description": "\ud83c\udf0c Access Your Cosmic Akashic Records A Soul Activation + Level 1 Immersion with your facilitator | June 7\u20139, 2025Remember who you truly are \u2014 beyond this lifetime, this body, this story.This June, step into a sacred and star-coded portal with your facilitator, a globally renowned Akashic Records guide, for a deeply immersive 2-day experience designed to reconnect you with your soul\u2019s cosmic origins and higher intelligence.Whether you're just beginning your awakening journey or expanding your intuitive gifts, this Level 1 Akashic Records training is your personal gateway to the quantum field of soul remembrance.\ud83c\udf20 What\u2019s Included: Level 1 Certification Workshop: Learn how to access your own Akashic Records, receive accurate guidance, decode soul contracts, and explore your Earth + Galactic lifetimes.Energetic Activations + Guided Journeys: Experience multidimensional frequencies, light codes, and healing transmissions to help you reclaim gifts, clear distortions, and embody your highest path.Cosmic Soul Blueprint (Optional Add-On): A channeled piece of energetic art infused with your unique soul frequency \u2014 a powerful anchor for manifestation, healing, and alignment.1:1 Soul Sessions (Optional): Go deeper in a private 55-minute reading that reveals your soul\u2019s themes, guides, lifetimes, and current path. Receive a recording to revisit anytime.\u2728 Premium Packages Available Choose from two curated offerings combining the workshop, personal sessions, blueprint art, and bonus online support \u2014 designed for deep transformation and long-term integration.\ud83c\udf0c This is for you if you\u2019re:A starseed, empath, or healer ready to deepen your intuitive giftsFeeling an inner nudge to remember your missionNavigating an identity shift or spiritual crossroadsLonging for clarity, connection, and cosmic communityNo prior experience needed \u2014 just an open heart and a curious spirit.\ud83d\udcab Your Guide A Galactic Akashic facilitator, bestselling author, and transformational guide featured in Forbes, Fortune India, Medium, and more.Through workshops, private readings, and soul blueprint activations, this work supports lightworkers in remembering who they are and rising into soul-aligned leadership.Your soul is calling. This is your invitation to answer.\ud83d\udd17 Learn more & book your spot: www.cosmicsoulwhisperer.com\ud83d\udcf2 Connect: Instagram | Facebook | YouTube \u2192 @cosmicsoulwhisperer",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CB7A5452F5EA4D3BA5F704C28C2E6C09_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2F02BCF76AA94829B17D46D348D31513_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4BEFA755A65D4D609685AE29CAFA3B4C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EFDE7F73F4674B7981587986AFBA7400_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FF808813B4AA42C7B7A07E0B47C0A7B0_converted_webp.webp"
+    ],
+    "startDate": "2025-06-07T10:00:00+05:30",
+    "endDate": "2025-06-07T18:15:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "8000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sumedha Purohit",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/7EDB93AB759149BB8E28298DFBE219AB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98452-51777"
+      }
+    },
+    "url": "https://urbanaut.app/spot/akashic-records-workshop-june2025",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "1on1 Cosmic Akashic Session (55 mins In Person)",
+    "description": "This is a sacred space created just for you.Step into a private 55-minute Cosmic Akashic session with your cosmic Akashic channel, a deeply intuitive space where your soul\u2019s wisdom, lifetimes, and guidance come forward in the most gentle, powerful way.Whether you\u2019re seeking clarity, healing, direction, or deep remembrance, this session is a portal to connect with your cosmic lineage, guides, and the clarity of your soul mission \u2014 in a way that is both practical and profoundly transformational.\ud83c\udf00 What to Expect:A grounded yet multidimensional reading from your Akashic RecordsInsights into your soul\u2019s themes, patterns, and past/future timelinesMessages from your guides and galactic familyEnergetic healing and alignment as guidedTime for your questions and heart\u2019s intentionsA recording to revisit your session anytime\u2728 These sessions are perfect if you are:At a crossroads and seeking soul-aligned clarityCurious about your past lives, galactic origin, or purposeReady to release old contracts or stuck patternsWanting validation, encouragement, or a loving nudge forwardFeeling called to go deeper after attending the Akashic WorkshopThis is a loving, safe space to be fully seen, held, and guided. Nothing is too \u201cout there\u201d \u2014 come as you are, with your full heart and curiosity.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/617861F9773F484FA972371742E34FDF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFE73596D1CE421FA8ED505BF2E020F9_converted_webp.webp"
+    ],
+    "startDate": "2025-06-09T11:00:00+05:30",
+    "endDate": "2025-06-09T11:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 1,
+    "remainingAttendeeCapacity": 1,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "10000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sumedha Purohit",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/7EDB93AB759149BB8E28298DFBE219AB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98452-51777"
+      }
+    },
+    "url": "https://urbanaut.app/spot/akashic-1on1-session-cosmic-june-2025#2025-06-09T1100",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "1on1 Cosmic Akashic Session (55 mins In Person)",
+    "description": "This is a sacred space created just for you.Step into a private 55-minute Cosmic Akashic session with your cosmic Akashic channel, a deeply intuitive space where your soul\u2019s wisdom, lifetimes, and guidance come forward in the most gentle, powerful way.Whether you\u2019re seeking clarity, healing, direction, or deep remembrance, this session is a portal to connect with your cosmic lineage, guides, and the clarity of your soul mission \u2014 in a way that is both practical and profoundly transformational.\ud83c\udf00 What to Expect:A grounded yet multidimensional reading from your Akashic RecordsInsights into your soul\u2019s themes, patterns, and past/future timelinesMessages from your guides and galactic familyEnergetic healing and alignment as guidedTime for your questions and heart\u2019s intentionsA recording to revisit your session anytime\u2728 These sessions are perfect if you are:At a crossroads and seeking soul-aligned clarityCurious about your past lives, galactic origin, or purposeReady to release old contracts or stuck patternsWanting validation, encouragement, or a loving nudge forwardFeeling called to go deeper after attending the Akashic WorkshopThis is a loving, safe space to be fully seen, held, and guided. Nothing is too \u201cout there\u201d \u2014 come as you are, with your full heart and curiosity.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/617861F9773F484FA972371742E34FDF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFE73596D1CE421FA8ED505BF2E020F9_converted_webp.webp"
+    ],
+    "startDate": "2025-06-09T12:00:00+05:30",
+    "endDate": "2025-06-09T12:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 1,
+    "remainingAttendeeCapacity": 1,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "10000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sumedha Purohit",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/7EDB93AB759149BB8E28298DFBE219AB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98452-51777"
+      }
+    },
+    "url": "https://urbanaut.app/spot/akashic-1on1-session-cosmic-june-2025#2025-06-09T1200",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "1on1 Cosmic Akashic Session (55 mins In Person)",
+    "description": "This is a sacred space created just for you.Step into a private 55-minute Cosmic Akashic session with your cosmic Akashic channel, a deeply intuitive space where your soul\u2019s wisdom, lifetimes, and guidance come forward in the most gentle, powerful way.Whether you\u2019re seeking clarity, healing, direction, or deep remembrance, this session is a portal to connect with your cosmic lineage, guides, and the clarity of your soul mission \u2014 in a way that is both practical and profoundly transformational.\ud83c\udf00 What to Expect:A grounded yet multidimensional reading from your Akashic RecordsInsights into your soul\u2019s themes, patterns, and past/future timelinesMessages from your guides and galactic familyEnergetic healing and alignment as guidedTime for your questions and heart\u2019s intentionsA recording to revisit your session anytime\u2728 These sessions are perfect if you are:At a crossroads and seeking soul-aligned clarityCurious about your past lives, galactic origin, or purposeReady to release old contracts or stuck patternsWanting validation, encouragement, or a loving nudge forwardFeeling called to go deeper after attending the Akashic WorkshopThis is a loving, safe space to be fully seen, held, and guided. Nothing is too \u201cout there\u201d \u2014 come as you are, with your full heart and curiosity.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/617861F9773F484FA972371742E34FDF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFE73596D1CE421FA8ED505BF2E020F9_converted_webp.webp"
+    ],
+    "startDate": "2025-06-09T13:00:00+05:30",
+    "endDate": "2025-06-09T13:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 1,
+    "remainingAttendeeCapacity": 1,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "10000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sumedha Purohit",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/7EDB93AB759149BB8E28298DFBE219AB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98452-51777"
+      }
+    },
+    "url": "https://urbanaut.app/spot/akashic-1on1-session-cosmic-june-2025#2025-06-09T1300",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "1on1 Cosmic Akashic Session (55 mins In Person)",
+    "description": "This is a sacred space created just for you.Step into a private 55-minute Cosmic Akashic session with your cosmic Akashic channel, a deeply intuitive space where your soul\u2019s wisdom, lifetimes, and guidance come forward in the most gentle, powerful way.Whether you\u2019re seeking clarity, healing, direction, or deep remembrance, this session is a portal to connect with your cosmic lineage, guides, and the clarity of your soul mission \u2014 in a way that is both practical and profoundly transformational.\ud83c\udf00 What to Expect:A grounded yet multidimensional reading from your Akashic RecordsInsights into your soul\u2019s themes, patterns, and past/future timelinesMessages from your guides and galactic familyEnergetic healing and alignment as guidedTime for your questions and heart\u2019s intentionsA recording to revisit your session anytime\u2728 These sessions are perfect if you are:At a crossroads and seeking soul-aligned clarityCurious about your past lives, galactic origin, or purposeReady to release old contracts or stuck patternsWanting validation, encouragement, or a loving nudge forwardFeeling called to go deeper after attending the Akashic WorkshopThis is a loving, safe space to be fully seen, held, and guided. Nothing is too \u201cout there\u201d \u2014 come as you are, with your full heart and curiosity.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/617861F9773F484FA972371742E34FDF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFE73596D1CE421FA8ED505BF2E020F9_converted_webp.webp"
+    ],
+    "startDate": "2025-06-09T15:00:00+05:30",
+    "endDate": "2025-06-09T15:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 1,
+    "remainingAttendeeCapacity": 1,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "10000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sumedha Purohit",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/7EDB93AB759149BB8E28298DFBE219AB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98452-51777"
+      }
+    },
+    "url": "https://urbanaut.app/spot/akashic-1on1-session-cosmic-june-2025#2025-06-09T1500",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "1on1 Cosmic Akashic Session (55 mins In Person)",
+    "description": "This is a sacred space created just for you.Step into a private 55-minute Cosmic Akashic session with your cosmic Akashic channel, a deeply intuitive space where your soul\u2019s wisdom, lifetimes, and guidance come forward in the most gentle, powerful way.Whether you\u2019re seeking clarity, healing, direction, or deep remembrance, this session is a portal to connect with your cosmic lineage, guides, and the clarity of your soul mission \u2014 in a way that is both practical and profoundly transformational.\ud83c\udf00 What to Expect:A grounded yet multidimensional reading from your Akashic RecordsInsights into your soul\u2019s themes, patterns, and past/future timelinesMessages from your guides and galactic familyEnergetic healing and alignment as guidedTime for your questions and heart\u2019s intentionsA recording to revisit your session anytime\u2728 These sessions are perfect if you are:At a crossroads and seeking soul-aligned clarityCurious about your past lives, galactic origin, or purposeReady to release old contracts or stuck patternsWanting validation, encouragement, or a loving nudge forwardFeeling called to go deeper after attending the Akashic WorkshopThis is a loving, safe space to be fully seen, held, and guided. Nothing is too \u201cout there\u201d \u2014 come as you are, with your full heart and curiosity.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/617861F9773F484FA972371742E34FDF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFE73596D1CE421FA8ED505BF2E020F9_converted_webp.webp"
+    ],
+    "startDate": "2025-06-09T16:00:00+05:30",
+    "endDate": "2025-06-09T16:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 1,
+    "remainingAttendeeCapacity": 1,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "10000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sumedha Purohit",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/7EDB93AB759149BB8E28298DFBE219AB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98452-51777"
+      }
+    },
+    "url": "https://urbanaut.app/spot/akashic-1on1-session-cosmic-june-2025#2025-06-09T1600",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "1on1 Cosmic Akashic Session (55 mins In Person)",
+    "description": "This is a sacred space created just for you.Step into a private 55-minute Cosmic Akashic session with your cosmic Akashic channel, a deeply intuitive space where your soul\u2019s wisdom, lifetimes, and guidance come forward in the most gentle, powerful way.Whether you\u2019re seeking clarity, healing, direction, or deep remembrance, this session is a portal to connect with your cosmic lineage, guides, and the clarity of your soul mission \u2014 in a way that is both practical and profoundly transformational.\ud83c\udf00 What to Expect:A grounded yet multidimensional reading from your Akashic RecordsInsights into your soul\u2019s themes, patterns, and past/future timelinesMessages from your guides and galactic familyEnergetic healing and alignment as guidedTime for your questions and heart\u2019s intentionsA recording to revisit your session anytime\u2728 These sessions are perfect if you are:At a crossroads and seeking soul-aligned clarityCurious about your past lives, galactic origin, or purposeReady to release old contracts or stuck patternsWanting validation, encouragement, or a loving nudge forwardFeeling called to go deeper after attending the Akashic WorkshopThis is a loving, safe space to be fully seen, held, and guided. Nothing is too \u201cout there\u201d \u2014 come as you are, with your full heart and curiosity.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/617861F9773F484FA972371742E34FDF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFE73596D1CE421FA8ED505BF2E020F9_converted_webp.webp"
+    ],
+    "startDate": "2025-06-09T17:00:00+05:30",
+    "endDate": "2025-06-09T17:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 1,
+    "remainingAttendeeCapacity": 1,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "10000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sumedha Purohit",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/7EDB93AB759149BB8E28298DFBE219AB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98452-51777"
+      }
+    },
+    "url": "https://urbanaut.app/spot/akashic-1on1-session-cosmic-june-2025#2025-06-09T1700",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "1on1 Cosmic Akashic Session (55 mins In Person)",
+    "description": "This is a sacred space created just for you.Step into a private 55-minute Cosmic Akashic session with your cosmic Akashic channel, a deeply intuitive space where your soul\u2019s wisdom, lifetimes, and guidance come forward in the most gentle, powerful way.Whether you\u2019re seeking clarity, healing, direction, or deep remembrance, this session is a portal to connect with your cosmic lineage, guides, and the clarity of your soul mission \u2014 in a way that is both practical and profoundly transformational.\ud83c\udf00 What to Expect:A grounded yet multidimensional reading from your Akashic RecordsInsights into your soul\u2019s themes, patterns, and past/future timelinesMessages from your guides and galactic familyEnergetic healing and alignment as guidedTime for your questions and heart\u2019s intentionsA recording to revisit your session anytime\u2728 These sessions are perfect if you are:At a crossroads and seeking soul-aligned clarityCurious about your past lives, galactic origin, or purposeReady to release old contracts or stuck patternsWanting validation, encouragement, or a loving nudge forwardFeeling called to go deeper after attending the Akashic WorkshopThis is a loving, safe space to be fully seen, held, and guided. Nothing is too \u201cout there\u201d \u2014 come as you are, with your full heart and curiosity.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/617861F9773F484FA972371742E34FDF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFE73596D1CE421FA8ED505BF2E020F9_converted_webp.webp"
+    ],
+    "startDate": "2025-06-09T18:00:00+05:30",
+    "endDate": "2025-06-09T18:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 1,
+    "remainingAttendeeCapacity": 1,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "10000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sumedha Purohit",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/7EDB93AB759149BB8E28298DFBE219AB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98452-51777"
+      }
+    },
+    "url": "https://urbanaut.app/spot/akashic-1on1-session-cosmic-june-2025#2025-06-09T1800",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "1on1 Cosmic Akashic Session (55 mins In Person)",
+    "description": "This is a sacred space created just for you.Step into a private 55-minute Cosmic Akashic session with your cosmic Akashic channel, a deeply intuitive space where your soul\u2019s wisdom, lifetimes, and guidance come forward in the most gentle, powerful way.Whether you\u2019re seeking clarity, healing, direction, or deep remembrance, this session is a portal to connect with your cosmic lineage, guides, and the clarity of your soul mission \u2014 in a way that is both practical and profoundly transformational.\ud83c\udf00 What to Expect:A grounded yet multidimensional reading from your Akashic RecordsInsights into your soul\u2019s themes, patterns, and past/future timelinesMessages from your guides and galactic familyEnergetic healing and alignment as guidedTime for your questions and heart\u2019s intentionsA recording to revisit your session anytime\u2728 These sessions are perfect if you are:At a crossroads and seeking soul-aligned clarityCurious about your past lives, galactic origin, or purposeReady to release old contracts or stuck patternsWanting validation, encouragement, or a loving nudge forwardFeeling called to go deeper after attending the Akashic WorkshopThis is a loving, safe space to be fully seen, held, and guided. Nothing is too \u201cout there\u201d \u2014 come as you are, with your full heart and curiosity.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/617861F9773F484FA972371742E34FDF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFE73596D1CE421FA8ED505BF2E020F9_converted_webp.webp"
+    ],
+    "startDate": "2025-06-09T19:00:00+05:30",
+    "endDate": "2025-06-09T19:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 1,
+    "remainingAttendeeCapacity": 1,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "10000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sumedha Purohit",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/7EDB93AB759149BB8E28298DFBE219AB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98452-51777"
+      }
+    },
+    "url": "https://urbanaut.app/spot/akashic-1on1-session-cosmic-june-2025#2025-06-09T1900",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "1on1 Cosmic Akashic Session (55 mins In Person)",
+    "description": "This is a sacred space created just for you.Step into a private 55-minute Cosmic Akashic session with your cosmic Akashic channel, a deeply intuitive space where your soul\u2019s wisdom, lifetimes, and guidance come forward in the most gentle, powerful way.Whether you\u2019re seeking clarity, healing, direction, or deep remembrance, this session is a portal to connect with your cosmic lineage, guides, and the clarity of your soul mission \u2014 in a way that is both practical and profoundly transformational.\ud83c\udf00 What to Expect:A grounded yet multidimensional reading from your Akashic RecordsInsights into your soul\u2019s themes, patterns, and past/future timelinesMessages from your guides and galactic familyEnergetic healing and alignment as guidedTime for your questions and heart\u2019s intentionsA recording to revisit your session anytime\u2728 These sessions are perfect if you are:At a crossroads and seeking soul-aligned clarityCurious about your past lives, galactic origin, or purposeReady to release old contracts or stuck patternsWanting validation, encouragement, or a loving nudge forwardFeeling called to go deeper after attending the Akashic WorkshopThis is a loving, safe space to be fully seen, held, and guided. Nothing is too \u201cout there\u201d \u2014 come as you are, with your full heart and curiosity.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/617861F9773F484FA972371742E34FDF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFE73596D1CE421FA8ED505BF2E020F9_converted_webp.webp"
+    ],
+    "startDate": "2025-06-09T20:00:00+05:30",
+    "endDate": "2025-06-09T20:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 1,
+    "remainingAttendeeCapacity": 1,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "10000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sumedha Purohit",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/7EDB93AB759149BB8E28298DFBE219AB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98452-51777"
+      }
+    },
+    "url": "https://urbanaut.app/spot/akashic-1on1-session-cosmic-june-2025#2025-06-09T2000",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "WARRIOR Combat + Power Brunch",
+    "description": "Join us for a 65-minute WARRIOR Combat\u2122 session with Usha Rao\u2014an energising blend of shadow boxing, strength training, and HIIT, all set to a fun and rhythmic pace. It\u2019s a fitness class with a mindful twist, helping you build strength, flexibility, and balance while keeping the energy high.After the class, we\u2019ll gather for a protein-packed brunch together, to refuel and get our protein in. Come for the workout, stay for the hang, and find your tribe.Leave feeling nourished\u2014inside and out.The class is beginner friendly and low-impact options will be given for each movement",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E8DC996CEC3C43688455AB4431E4FEAC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B6944B13F2BD44C9B308D1DB8306C99F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8E53E20052A742ECBC369D95E299C73C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/350CA2C7D9D441719480CF7A2433F8F1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/612589D406CE45A2855C1F762F9F3AC0_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A13D4846F96A4B15A1A6B6B7D6C7208A_converted_webp.webp"
+    ],
+    "startDate": "2025-05-31T10:00:00+05:30",
+    "endDate": "2025-05-31T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/warrior-combat-power-brunch",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Soul Meridian",
+    "description": "Soul Meridian \u2728\ud83c\udf2c\ufe0fA Journey Through Energy and Expression\ud83e\uddd8\ud83c\udffd\u200d\u2640\ufe0f Qi Gong & Breathwork x \ud83c\udfa8 Expressive Art Movement x \ud83d\udd2e Crystal Healing + Breakfast with Live MusicJoin us for a soul-centering experience where movement meets stillness, and expression meets energy. Soul Meridian brings together the grounding flow of Qi Gong, the intuitive release of expressive art, and the gentle restoration of crystal healing\u2014all held within a space of music, connection, and calm.This is more than just a gathering\u2014it\u2019s a guided return to balance, a soft reset for the mind and body, and a celebration of your soul\u2019s subtle rhythms.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E2FE3289E4A84EC89AFA2CFCB30DB5FB_converted_webp.webp"
+    ],
+    "startDate": "2025-05-31T08:00:00+05:30",
+    "endDate": "2025-05-31T09:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "461, Shri Krishna Temple Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ8wXmJv8XrjsREHce9rQjhBw",
+      "latitude": "12.97901500000000000000",
+      "longitude": "77.64382350000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 14,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "TPT - Dongle & Co",
+      "description": "TPT is a wellness collective offering calm, nature-rooted experiences in yoga, sound healing, breathwork, and expressive arts. We hold space for rest, reflection, and reconnection \u2014 gently guiding you through The Space In Between. by Dongle & Co",
+      "url": "https://urbanaut.app/partner/tpt-dongleandco",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/001EDF58B5F6402B857FF5BD1B61AEC3_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-90353-54688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/soul-meridian#2025-05-31T0800",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Soul Meridian",
+    "description": "Soul Meridian \u2728\ud83c\udf2c\ufe0fA Journey Through Energy and Expression\ud83e\uddd8\ud83c\udffd\u200d\u2640\ufe0f Qi Gong & Breathwork x \ud83c\udfa8 Expressive Art Movement x \ud83d\udd2e Crystal Healing + Breakfast with Live MusicJoin us for a soul-centering experience where movement meets stillness, and expression meets energy. Soul Meridian brings together the grounding flow of Qi Gong, the intuitive release of expressive art, and the gentle restoration of crystal healing\u2014all held within a space of music, connection, and calm.This is more than just a gathering\u2014it\u2019s a guided return to balance, a soft reset for the mind and body, and a celebration of your soul\u2019s subtle rhythms.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E2FE3289E4A84EC89AFA2CFCB30DB5FB_converted_webp.webp"
+    ],
+    "startDate": "2025-05-31T09:15:00+05:30",
+    "endDate": "2025-05-31T10:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "461, Shri Krishna Temple Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ8wXmJv8XrjsREHce9rQjhBw",
+      "latitude": "12.97901500000000000000",
+      "longitude": "77.64382350000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 14,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "TPT - Dongle & Co",
+      "description": "TPT is a wellness collective offering calm, nature-rooted experiences in yoga, sound healing, breathwork, and expressive arts. We hold space for rest, reflection, and reconnection \u2014 gently guiding you through The Space In Between. by Dongle & Co",
+      "url": "https://urbanaut.app/partner/tpt-dongleandco",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/001EDF58B5F6402B857FF5BD1B61AEC3_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-90353-54688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/soul-meridian#2025-05-31T0915",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Soul Meridian",
+    "description": "Soul Meridian \u2728\ud83c\udf2c\ufe0fA Journey Through Energy and Expression\ud83e\uddd8\ud83c\udffd\u200d\u2640\ufe0f Qi Gong & Breathwork x \ud83c\udfa8 Expressive Art Movement x \ud83d\udd2e Crystal Healing + Breakfast with Live MusicJoin us for a soul-centering experience where movement meets stillness, and expression meets energy. Soul Meridian brings together the grounding flow of Qi Gong, the intuitive release of expressive art, and the gentle restoration of crystal healing\u2014all held within a space of music, connection, and calm.This is more than just a gathering\u2014it\u2019s a guided return to balance, a soft reset for the mind and body, and a celebration of your soul\u2019s subtle rhythms.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E2FE3289E4A84EC89AFA2CFCB30DB5FB_converted_webp.webp"
+    ],
+    "startDate": "2025-05-31T16:45:00+05:30",
+    "endDate": "2025-05-31T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "461, Shri Krishna Temple Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ8wXmJv8XrjsREHce9rQjhBw",
+      "latitude": "12.97901500000000000000",
+      "longitude": "77.64382350000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 14,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "TPT - Dongle & Co",
+      "description": "TPT is a wellness collective offering calm, nature-rooted experiences in yoga, sound healing, breathwork, and expressive arts. We hold space for rest, reflection, and reconnection \u2014 gently guiding you through The Space In Between. by Dongle & Co",
+      "url": "https://urbanaut.app/partner/tpt-dongleandco",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/001EDF58B5F6402B857FF5BD1B61AEC3_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-90353-54688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/soul-meridian#2025-05-31T1645",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Velvet sessions ft Velveteen Soulstice",
+    "description": "Step into an enchanting evening where music meets soul at the Velvet Sessions featuring Velveteens Soulstice. This exclusive event brings together the velvety smooth sounds of Velveteens Soulstice with the intimate ambiance of Velvet Sessions, creating a night to remember.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B450A6042E0C4A028C4EACDE1659D79F_converted_webp.webp"
+    ],
+    "startDate": "2025-05-31T20:00:00+05:30",
+    "endDate": "2025-05-31T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVTeAtXkRrjsRPyAJzdxl0HA",
+      "latitude": "12.98209230000000000000",
+      "longitude": "77.70862830000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 200,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Hamilton",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CED7A4CC2AA4EC9BD02E06C4F0731E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63620-01931"
+      }
+    },
+    "url": "https://urbanaut.app/spot/velvet-sessions-ft-velveteen-soulstice",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Open Mic - Poetry, Story telling and Standup",
+    "description": "Step into the spotlight at Zoey\u2019s Open Mic \u2013 where stories come alive, punchlines land, and poetry finds its rhythm.An open stage for storytellers, comedians, and poets to share their voice, vibe, and vision.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B5A151787C3B4711BF5F1D70ED99C8E4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F698780CC997418F8DAB10359D29C7F1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EBFA376E462245039E3F0AC110202A4C_converted_webp.webp"
+    ],
+    "startDate": "2025-06-14T18:00:00+05:30",
+    "endDate": "2025-06-14T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Ground Floor, 52 5th Cross, 60 Feet Rd, KHB Colony, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGy95XQYVrjsRV9exFfzCRmI",
+      "latitude": "12.93607350000000000000",
+      "longitude": "77.62166800000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zoeys Good Vibes Only",
+      "description": null,
+      "url": "https://urbanaut.app/partner/zoeys-goodvibesonly",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/5844F889A4B3401EB184A348B1C0C6D4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96639-01374"
+      }
+    },
+    "url": "https://urbanaut.app/spot/openmic",
+    "keywords": [
+      "Leisure",
+      "Live GIG",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sarangi Recital with Ustaad Dilshad Khan | Baithak",
+    "description": "Note: this time, Baithak will be held on a Sunday morning.About Courtyard BaithakThe Courtyard Baithak series is curated by tabla wizard and prodigy Trilochan Kampli, who with his uncompromising standards in music, evokes the best from every artist that he invites to perform. We are bringing musicians and audiences together on a sublime musical journey.Exclusive gatherings, quiet strains of exquisite music, and dedicated artists across selected genres - The Courtyard Baithak series promises a true classical musical experience.Please note: The ticket includes performance onlyAbout the ArtistUstaad Dilshad Khan is a tenth-generation Sarangi player from the renowned Sikar Gharana of Rajasthan. Trained under his grandfather, father, and later the legendary Ustad Sultan Khan Sahab, Dilshad has emerged as one of the foremost torchbearers of the Sarangi today.A celebrated soloist and collaborator, he has performed globally with maestros like Ustad Zakir Hussain and Pt. Birju Maharaj, and his music features in over 500 Bollywood films including Devdas and Dangal. He is also a recipient of the prestigious Aga Khan Music Award (2022).With deep roots in tradition and a global reach, Dilshad Khan brings the timeless voice of the Sarangi to a new generation of listeners.This event is supported by Samagata Foundation.Terms and Conditions1. The management is not responsible for any injury or damage that may occur during the event.2. No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.3. Parking near the event premises is at the risk of the vehicle owner.4. Valet service is available at a charge of Rs. 200 per vehicle.5. Children aged 5 and older require a ticket.6. Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.7. Tickets are non-refundable in case of cancellation or no-show.8. In the event of rain leading to a complete washout, Courtyard reserves the right to cancel the event. In such cases, a full refund for the ticket will be issued.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0022979C070B45589231C13410E58BD8_converted_webp.webp"
+    ],
+    "startDate": "2025-06-08T10:00:00+05:30",
+    "endDate": "2025-06-08T11:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Courtyard",
+      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+      "latitude": "12.95843050000000000000",
+      "longitude": "77.59289509999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 80,
+    "remainingAttendeeCapacity": 61,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "850.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Courtyard",
+      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+      "url": "https://urbanaut.app/partner/courtyard",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-73386-77996"
+      }
+    },
+    "url": "https://urbanaut.app/spot/baithak-morning-sarangi-with-ustaad-dilshad-khan",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Art & culture",
+      "COURTYARD",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Painting Workshop : Artyfloraa x Socials Jp Nagar",
+    "description": "Discover the Art of Watercolor with Artyfloraa on June 14th at JP NAGARA SOCIALS where art meets the community, from 12:00 pm onwards. Join us for a creative and relaxing watercolor painting workshop for kids and adults, where you'll explore basic techniques and experiment with color blending. Whether you're a beginner or looking to refine your skills, this hands-on session offers step-by-step guidance and a friendly atmosphere to spark your artistic journey. All materials provided\u2014bring your curiosity! Pay an additional \u20b9500 cover charge at the venue, fully redeemable as a food & beverage coupon. Enjoy great food and drinks while you let your creativity flow! \ud83c\udf89 Don\u2019t miss this opportunity to explore art in a whole new way. Limited slots available\u2014book your spot now!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3F5F66160BE64B5D99793EDEA643B6E2_converted_webp.webp"
+    ],
+    "startDate": "2025-06-14T12:00:00+05:30",
+    "endDate": "2025-06-14T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "7, 33rd Main Rd, KR Layout, JP Nagar Phase 6, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJSUPfKYEVrjsR7Lm50KsG0Dc",
+      "latitude": "12.90622090000000000000",
+      "longitude": "77.58048210000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 8,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Artyfloraa",
+      "description": "Artyfloraa's role in recycling - towards a sustainable world :)",
+      "url": "https://urbanaut.app/partner/artyfloraa",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/sgjw7ssqbg-1708954104735img0071jpg.jpg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63629-63789"
+      }
+    },
+    "url": "https://urbanaut.app/spot/watercolor-workshop-with-artyfloraaxsocialsjpnagar",
+    "keywords": [
+      "Workshop",
+      "Eco Friendly",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Tiny Town Builders",
+    "description": "Tiny Town Builders!Join us for a fun experiential play session where you and your child can experience Troy Blocks to build anything you like - towers, bridges, castles, vehicles, even entire cities!Engage with your child in this collaborative, imaginative and fun play session where your child experiments with balancing blocks, building strong structures, counting, sorting, matching and creating patterns and shapes.Facilitated by experts in child education and development, this Troy Blocks session will leave you wanting for more!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C92D5423CA0040A296FC123E7AA06F33_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/69D6AA7EE2294B5395C234546F91CB02_converted_webp.webp"
+    ],
+    "startDate": "2025-06-01T11:00:00+05:30",
+    "endDate": "2025-06-01T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "99, Inner Cir Rd, Dodsworth Layout, Whitefield, Bengaluru, Karnataka 560066, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJs55ik6UNrjsRgdbcKxm2gWc",
+      "latitude": "12.97059500000000000000",
+      "longitude": "77.74823070000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "First Adda",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/918B9B7A32B046DFB7E4E40D4C3EB77A_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/tiny-town-builders",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Needle Paw - An Intimate Listening",
+    "description": "Experience Needle Paw by Nai Palm like never before. Join Deep Notes and Ram\u2019s Musique Experience for an intimate listening session, co-hosted by Harini Iyer (Tamil Jazz Collective, Chennai) and Goutham Iyengar.Needle Paw is a raw, acoustic album that showcases Nai Palm\u2019s extraordinary voice and storytelling. We\u2019ll explore the album\u2019s inspirations, its unique recording process, and the emotional landscapes it traverses. Whether you\u2019re a longtime fan or new to Nai Palm\u2019s music, this session promises a night of discovery, conversation, and connection. Date: June 6th, 2025 Time: 7:00 PM Venue: Ram\u2019s Musique Experience, MG Road, Bangalore Limited seats. Book now!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/65F28BE272174348B93F15242A91C47E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/66EF6CA3013B45F6BCE114DB142FE156_converted_webp.webp"
+    ],
+    "startDate": "2025-06-06T19:00:00+05:30",
+    "endDate": "2025-06-06T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "28, 1st Floor, Public Utility Building, Mahatma Gandhi Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJE8R9PncWrjsRpEX0HC24VLg",
+      "latitude": "12.97447450000000000000",
+      "longitude": "77.60974890000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 48,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ram's Musique Experience",
+      "description": "India's largest vinyl record store and experience centre",
+      "url": "https://urbanaut.app/partner/ramsmusiqueexp",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C280E3AE43FC4A2AA2E2444BB2CEEDC0_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-95353-36383"
+      }
+    },
+    "url": "https://urbanaut.app/spot/needle-paw-an-intimate-listening",
+    "keywords": [
+      "Music",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Mulaaiza Farmaayein",
+    "description": "An evening where words weave magic and every verse echoes the soul.Join us for a heartfelt open mic celebrating the beauty of Hindi and Urdu poetry.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/42902951CF474FAC83B77EC5EE9D4A24_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B2F2476621724D75B8599643AF7A15D2_converted_webp.webp"
+    ],
+    "startDate": "2025-05-31T18:00:00+05:30",
+    "endDate": "2025-05-31T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Ground Floor, 52 5th Cross, 60 Feet Rd, KHB Colony, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGy95XQYVrjsRV9exFfzCRmI",
+      "latitude": "12.93607350000000000000",
+      "longitude": "77.62166800000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zoeys Good Vibes Only",
+      "description": null,
+      "url": "https://urbanaut.app/partner/zoeys-goodvibesonly",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/5844F889A4B3401EB184A348B1C0C6D4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96639-01374"
+      }
+    },
+    "url": "https://urbanaut.app/spot/mulaaiza-farmaayein",
+    "keywords": [
+      "Leisure",
+      "Live GIG",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Brigade road heritage walk",
+    "description": "Join us as we revive our cherished walks through the historic Cantonment this year. Step back in time as we trace the origins of this storied district once the heart of colonial Bangalore.On this journey we will explore a magnificent church that has stood the test of time pay homage at a solemn war memorial and admire a beautifully restored heritage structure. Along the way we will encounter stately British-era government buildings a statue of a notable foreigner and a road steeped in its own fascinating history.Every corner of the Cantonment whispers tales of its past\u2014stories of soldiers administrators and the many communities that shaped this unique enclave. Join us as we rediscover its enduring legacy one step at a time.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/22026AC1380D403DB17EAD703B47FE95_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9A8B778DD126485DA6F91E6E724E6DEB_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/38ED03276041486C997982B36C46A171_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/488C59AC71654BC0B2A69EBC7DA85981_converted_webp.webp"
+    ],
+    "startDate": "2025-05-31T08:00:00+05:30",
+    "endDate": "2025-05-31T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=EkVCcmlnYWRlIFJkLCBTaGFudGhhbGEgTmFnYXIsIEFzaG9rIE5hZ2FyLCBCZW5nYWx1cnUsIEthcm5hdGFrYSwgSW5kaWEiLiosChQKEgkVZ_Nc1RWuOxHdgHsyjcbJZxIUChIJLUl62X4WrjsRiHkhyma7A8o",
+      "latitude": "12.97103280000000000000",
+      "longitude": "77.60693049999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "750.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru by foot",
+      "description": "Heritage, food & architectural walks in Bangalore.",
+      "url": "https://urbanaut.app/partner/benbyfoot",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/1B826865857D4C59838FFA44132C0F6E_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-70192-72365"
+      }
+    },
+    "url": "https://urbanaut.app/spot/brigade-road-heritage-walk-7180",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
       "URBANAUT"
     ]
   }

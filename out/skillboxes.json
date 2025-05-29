@@ -337,7 +337,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free Entry to One Couple for the event till 10PM Only. Post 10PM An additional Cover charges applicable upon arrival at gate as per club rules and regulations.\n",
-            "inventoryLevel": 497,
+            "inventoryLevel": 434,
             "name": "RSVP - Couple [Free Entry]",
             "url": "https://www.skillboxes.com/events/ticket/bastian-experiences-and-somad-presents-mosiqi-x-mehfil-ft-boyka-kavya-khurana-yudi"
          },
@@ -345,15 +345,15 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free Entry to One Single Lady for the event till 10PM Only. Post 10PM An additional Cover charges applicable upon arrival at gate as per club rules and regulations.\n",
-            "inventoryLevel": 500,
+            "inventoryLevel": 478,
             "name": "RSVP - Single Lady",
             "url": "https://www.skillboxes.com/events/ticket/bastian-experiences-and-somad-presents-mosiqi-x-mehfil-ft-boyka-kavya-khurana-yudi"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Permits Entry to One Male Stag with a Mandatory Cover Charges of INR 3000/- applicable upon arrival at gate.\n",
-            "inventoryLevel": 499,
+            "description": "Permits Entry to One Male Stag with a Mandatory Cover Charges applicable upon arrival at gate as per club rules and regulations.\n",
+            "inventoryLevel": 486,
             "name": "Gentleman [ Male Stag ]",
             "url": "https://www.skillboxes.com/events/ticket/bastian-experiences-and-somad-presents-mosiqi-x-mehfil-ft-boyka-kavya-khurana-yudi"
          }
@@ -364,10 +364,10 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "SoMAD Select Sundaze, the infamous city's hottest and safest day party space, is back this April at our home turf—Koramangala Social Rooftop!It&",
+      "description": "SoMAD Select Sundaze, the infamous city's hottest and safest day party space, is back this April at our home turf—Koramangala Social Rooftop",
       "endDate": "2025-06-08T23:59:00",
       "identifier": "com.skillboxes.23590",
-      "image": "",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enphUzZtY2t2MEhRZDd1RCtVblNZZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1748404351zEbsS4igCuWtMAjV.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
@@ -391,7 +391,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits One couple to enter the event without cover or any additional charges till 5:30PM only, Upon Entry Post 5:30PM Additional cover charges applicable at gate as per club rules and regulations.\n",
-            "inventoryLevel": 200,
+            "inventoryLevel": 199,
             "name": "Early Bird - Couple",
             "url": "https://www.skillboxes.com/events/ticket/social-select-sundaze-ft-kampai-pia-collada-dhiraaj-ira-bb-talin-shiko-koramangala-social-rooftop"
          },
@@ -399,7 +399,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits One Male Stag to enter the event without cover or any additional charges till 5:30PM only, Upon Entry Post 5:30PM Additional cover charges applicable at gate as per club rules and regulations\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 44,
             "name": "Early Bird - Stag",
             "url": "https://www.skillboxes.com/events/ticket/social-select-sundaze-ft-kampai-pia-collada-dhiraaj-ira-bb-talin-shiko-koramangala-social-rooftop"
          },
@@ -473,7 +473,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 100,
+            "inventoryLevel": 99,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/noe-night"
          }
@@ -1021,7 +1021,7 @@
             "availability": "InStock",
             "description": "• THIS TICKET ALLOWS ENTRY TO ONE FEMALE. • COVER CHARGES APPLICABLE POST 9 PM.\n",
             "inventoryLevel": 10,
-            "name": "Girls [Early Birds]",
+            "name": "Girls [Final Release]",
             "url": "https://www.skillboxes.com/events/ticket/bangaloremassive-040-x-road-to-locus-bali"
          },
          {
@@ -1029,7 +1029,7 @@
             "availability": "InStock",
             "description": "• THIS TICKET ALLOWS ENTRY TO ONE MALE. • COVER CHARGES APPLICABLE POST 9 PM.\n",
             "inventoryLevel": 10,
-            "name": "Stags [Early Birds]",
+            "name": "Stags [1st Release]",
             "url": "https://www.skillboxes.com/events/ticket/bangaloremassive-040-x-road-to-locus-bali"
          },
          {
@@ -1037,7 +1037,7 @@
             "availability": "InStock",
             "description": "• THIS TICKET IS AVAIALBLE AT THE VENUE. • THIS TICKET ALLOWS ENTRY TO ONE COUPLE * • COVER CHARGES APPLICABLE POST 9 PM.\n",
             "inventoryLevel": 10,
-            "name": "Couple [Early Birds]",
+            "name": "Couple [Final Release]",
             "url": "https://www.skillboxes.com/events/ticket/bangaloremassive-040-x-road-to-locus-bali"
          },
          {
@@ -1054,6 +1054,30 @@
             "description": "• BOY GANG RULES! • THIS TICKET ALLOWS ENTRY TO FOUR STAGS. • COVER CHARGES APPLICABLE POST 9 PM.\n",
             "inventoryLevel": 5,
             "name": "Group Of 4 Stags [Early Birds]",
+            "url": "https://www.skillboxes.com/events/ticket/bangaloremassive-040-x-road-to-locus-bali"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "• THIS TICKET ALLOWS ENTRY TO ONE FEMALE. • COVER CHARGES APPLICABLE POST 9 PM.\n",
+            "inventoryLevel": 2,
+            "name": "Girls [Early Birds]",
+            "url": "https://www.skillboxes.com/events/ticket/bangaloremassive-040-x-road-to-locus-bali"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "• THIS TICKET ALLOWS ENTRY TO ONE MALE. • COVER CHARGES APPLICABLE POST 9 PM.\n",
+            "inventoryLevel": 1,
+            "name": "Stags [Early Birds]",
+            "url": "https://www.skillboxes.com/events/ticket/bangaloremassive-040-x-road-to-locus-bali"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "• THIS TICKET IS AVAIALBLE AT THE VENUE. • THIS TICKET ALLOWS ENTRY TO ONE COUPLE * • COVER CHARGES APPLICABLE POST 9 PM.\n",
+            "inventoryLevel": 10,
+            "name": "Couple [Early Birds]",
             "url": "https://www.skillboxes.com/events/ticket/bangaloremassive-040-x-road-to-locus-bali"
          }
       ],
