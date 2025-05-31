@@ -12,7 +12,7 @@ BLR_LOCATIONS = [
     'avathi', 'devarayanadurga', 'gunjur', 'hennur',
     'Hesaraghatta', 'kanakapura', 'malleshwaram',
     'indiranagar', 'manchanabele', 'pedal', 'pitstop',
-    'rajankunte'
+    'rajankunte', 'nandi', 'melagiri'
 ]
 
 def fetch_events_links(session):
