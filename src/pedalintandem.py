@@ -175,7 +175,9 @@ def find_timings(duration, date, soup):
     # Check if timing is in the duration string
     if ',' in duration:
         timings_str = duration.split(',')[1].strip().lower()
-        return parse_time(timings_str, date)
+        possible_time = parse_time(timings_str, date)
+        if len(possible_time) > 0:
+            return possible_time
     
     # Define sources to check for timing information
     timing_sources = [
