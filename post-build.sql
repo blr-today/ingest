@@ -120,6 +120,11 @@ WHERE
     OR event_json ->> '$.name' LIKE '%SoundBath%'
     -- By tapping into your true voice, you have the ability to shift your reality
     OR event_json ->> '$.name' LIKE '%voice activation%'
+    -- https://urbanaut.app/spot/akashic-records-workshop-june2025
+    -- Messages from your guides and galactic family
+    -- Insights into your soul’s themes, patterns, and past/future timelines
+    -- Energetic healing and alignment as guided
+    OR event_json ->> '$.organizer.name' LIKE '%sumedha purohit%'
     -- https://allevents.in/org/channel-ur-life-wellness-clinic/23383426
     OR event_json ->> '$.organizer.name' LIKE '%channel ur life%'
     -- They claim to treat Autism, Past Life Trauma, and much more. Ms. Rashmi
