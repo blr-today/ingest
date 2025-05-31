@@ -1,13 +1,13 @@
 import json
+import curl_cffi
 from datetime import datetime
 import asyncio
 from common.tz import IST
-from common.headless import fetch_page
 
 BASE_URL = "https://www.adidas.co.in/adidasrunners"
 COMMUNITY_ID = "2e012594-d3fb-4185-b12b-78dead3499a3"
 COUNTRY_CODE = "IN"
-
+BROWSER_CODE = "safari18_4_ios"
 
 def _date(date_str):
     return datetime.fromisoformat(date_str).astimezone(IST).isoformat()
@@ -16,8 +16,8 @@ def _date(date_str):
 def fetch_events():
     events = []
     url = f"{BASE_URL}/ar-api/gw/default/gw-api/v2/events/communities/{COMMUNITY_ID}?countryCodes={COUNTRY_CODE}"
-    content = asyncio.run(fetch_page(url))
-    res = json.loads(content)
+    body = curl_cffi.get(url, impersonate=BROWSER_CODE).content
+    res = json.loads(body)
     for data in res["_embedded"]["events"]:
         location = data["meta"]["adidas_runners_locations"]
         _id = data["id"]

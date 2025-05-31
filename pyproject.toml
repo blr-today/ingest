@@ -5,7 +5,7 @@ requires-python = ">=3.13"
 dependencies = [
     "beautifulsoup4~=4.13",
     "cleanurl~=0.1",
-    "curl_cffi~=0.10",
+    "curl_cffi~=0.11",
     "datefinder~=0.7",
     "html2text~=2025.4",
     "html5lib~=1.1",
@@ -21,8 +21,7 @@ dependencies = [
     "ujson~=5.10",
     "urllib3~=2.4",
     "w3lib~=2.3.1",
-    "playwright>=1.51.0",
-    "tf-playwright-stealth>=1.1.2",
+    "playwright>=1.52.0"
 ]
 [project.optional-dependencies]
 test = [

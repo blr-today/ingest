@@ -96,6 +96,7 @@ class Fetch():
                     return self._send_and_cache(pr, actions, cached_response)
                 return cached_response
             else:
+                print("Fetching using CURL")
                 response = curl.request(method=method, impersonate=self.browser, **kwargs)
                 return CorrectResponse(pr, response)
         elif cache == True:

@@ -2,7 +2,7 @@
 import sys
 import asyncio
 from playwright.async_api import async_playwright
-from playwright_stealth import stealth_async
+
 
 async def fetch_page(url, headless=True):
     """
@@ -13,7 +13,6 @@ async def fetch_page(url, headless=True):
         browser = await p.chromium.launch(headless=headless)
         try:
             page = await browser.new_page()
-            await stealth_async(page)
             # Listen for console messages and redirect errors to stderr
             page.on("console", lambda msg: 
                 print(f"CONSOLE {msg.type}: {msg.text}", file=sys.stderr) 
