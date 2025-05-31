@@ -125,6 +125,8 @@ WHERE
     -- Insights into your soul’s themes, patterns, and past/future timelines
     -- Energetic healing and alignment as guided
     OR event_json ->> '$.organizer.name' LIKE '%sumedha purohit%'
+    -- https://urbanaut.app/partner/tarotwithtan
+    OR event_json ->> '$.organizer.name' LIKE '%tarot with tan%'
     -- https://allevents.in/org/channel-ur-life-wellness-clinic/23383426
     OR event_json ->> '$.organizer.name' LIKE '%channel ur life%'
     -- They claim to treat Autism, Past Life Trauma, and much more. Ms. Rashmi
@@ -136,6 +138,10 @@ WHERE
     -- that uses spiritual science tools and techniques
     -- such as Aura science and ESP to transform lives.
     OR event_json ->> '$.organizer.name' LIKE '%aashwasan foundation%'
+    -- https://urbanaut.app/spot/soul-meridian
+    OR event_json ->> '$.description' LIKE '%qi gong%'
+    OR event_json ->> '$.description' LIKE '%crystal healing%'
+    OR event_json ->> '$.name' LIKE '%soul meridian%'
   );
 
 
