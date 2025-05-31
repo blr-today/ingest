@@ -1,27 +1,6 @@
 [
   {
     "@type": "EducationEvent",
-    "name": "From Underground Realms to Celestial Heights | Kannada Walkthrough",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery Bengaluru, Bangalore",
-      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
-    },
-    "startDate": "2025-05-31T17:30:00+05:30",
-    "endDate": "2025-05-31T19:00:00+05:30",
-    "description": "Join mediators Gokul and Mytri for a walkthrough of our ongoing exhibition, Sci560! Experience a guided walkthrough and dive into a dynamic exploration of the science and technology shaping Namma Bengaluru. Engage with our interactive and interdisciplinary exhibits and discover the innovative process behind creating this exhibition.",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=underground-realms-kannada",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Sgb-Team"
-      }
-    ],
-    "maximumAttendeeCapacity": 100
-  },
-  {
-    "@type": "EducationEvent",
     "name": "Patterns & Perspectives: Sci560 Exhibition Walkthrough",
     "location": {
       "@type": "Place",
@@ -61,5 +40,26 @@
       }
     ],
     "maximumAttendeeCapacity": 100
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Too many Cooks Spoil the Broth: Planning for Bengaluru",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-06-07T11:00:00+05:30",
+    "endDate": "2025-06-07T13:00:00+05:30",
+    "description": "Bengaluru's Master Plans have tenuously shaped its spatial development between paradigms of outward growth and compact city, since 1995. A city straddling multiple players and no clear owners so far, has long awaited revision to the 2015 Master Plan, as it struggles to deal with multiple contingencies. <br><br>Join Champaka Rajagopal as she traverses processes and paradigms adopted by multiple Master Plans for Bengaluru, since 1995, discuss fundamental questions of who should plan, at what scale and how. The workshop will also take a look at structural challenges and collectively revisit the planning process through tangible methods, in the hope for a better Bengaluru.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=too-many-cooks",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Champaka-Rajagopal"
+      }
+    ],
+    "maximumAttendeeCapacity": 30
   }
 ]
