@@ -2,54 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsEvent",
-    "name": "Reservoir Dogs",
-    "sports": "Cycling",
-    "location": {
-      "@type": "Place",
-      "address": "karthik farm & nursery"
-    },
-    "offers": [
-      {
-        "priceCurrency": "INR",
-        "@type": "offer",
-        "name": "l2 - moderate - 45 km (with b'fast)",
-        "price": "3150.00",
-        "availabilityStarts": "2025-06-01T06:00:00+05:30"
-      },
-      {
-        "priceCurrency": "INR",
-        "@type": "offer",
-        "name": "l3 - challenging - 70 km (with b'fast).",
-        "price": "3450.00",
-        "availabilityStarts": "2025-06-01T06:00:00+05:30"
-      },
-      [
-        {
-          "@type": "offer",
-          "name": "rental bike (with transport)",
-          "price": "800.00",
-          "priceCurrency": "INR"
-        },
-        {
-          "@type": "offer",
-          "name": "transport my bicycle",
-          "price": "300.00",
-          "priceCurrency": "INR"
-        }
-      ]
-    ],
-    "startDate": "2025-06-01T11:30:00+05:30",
-    "endDate": "2025-06-01T17:30:00+05:30",
-    "description": "Enjoy a morning out exploring two popular reservoirs, on the outskirts of Bangalore, off-Mysore Road. The forested hills around these water bodies are home to many species of avifauna, adding to the scenic beauty of the countryside.\nOur cycling route here first touches upon the Thippagondanahalli Reservoir, which is built at the confluence of Arkavathy and Kumdavathi rivers. You can see its renovated dam structure, and learn about how Bangalore receives its drinking water supplies from there. Also, the submerged, abandoned temple called Sri Nadugade Shiva Gudi, in the middle of the reservoir is an attractive sight when the water levels recede. There's even a section where you will ride down to the edge of the reservoir waters, with rocky shrub forests all around. \nNext, the route will take you along the Arkavathy river, through a forest, and all the way to the Manchanabele Dam. This exciting section is surrounded by hillocks that are dotted with boulders and shrub forests, with views of the river on one side. The finale to this ride is the popular climb up from Manchinable dam, back towards Dodda Alada Mara.\n\n\n{'DISTANCE': '45-70KM', 'MIN. GROUP SIZE': '10', 'ELEVATION GAIN': '450-800M', '% UNPAVED': '10%'}",
-    "url": "https://www.pedalintandem.com/experiences/cycle-rides-blr/reservoir-dogs",
-    "keywords": [
-      "cycle-rides-blr",
-      "PEDALINTANDEM"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsEvent",
     "name": "Lake Hoppin'",
     "sports": "Cycling",
     "location": {
