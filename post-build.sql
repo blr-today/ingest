@@ -125,6 +125,7 @@ WHERE
     -- Insights into your soul’s themes, patterns, and past/future timelines
     -- Energetic healing and alignment as guided
     OR event_json ->> '$.organizer.name' LIKE '%sumedha purohit%'
+    OR event_json ->> '$.description' LIKE '%cosmicsoulwhisperer%'
     -- https://urbanaut.app/partner/tarotwithtan
     OR event_json ->> '$.organizer.name' LIKE '%tarot with tan%'
     -- https://allevents.in/org/channel-ur-life-wellness-clinic/23383426
@@ -623,6 +624,11 @@ WHERE
     OR event_json ->> '$.location' LIKE '%church street%'
     OR event_json ->> '$.location' LIKE '%cubbon park%'
     OR event_json ->> '$.location' LIKE '%church st%'
+    OR event_json ->> '$.location' LIKE '%lavelle road%'
+    OR event_json ->> '$.location' LIKE '%lavelle rd%'
+    OR event_json ->> '$.location' LIKE '%Museum Road%'
+    OR event_json ->> '$.location' LIKE '%Museum rd%'
+    OR event_json ->> '$.location' LIKE '%Ashok Nagar%'
   );
 
 

@@ -1,6 +1,6 @@
 import datefinder
 import json
-
+from bs4 import BeautifulSoup
 from common.tz import IST
 from common.shopify import Shopify, ShopifyProduct, ShopifyVariant
 
@@ -59,10 +59,26 @@ def fetch_timings(date_str: str):
     return timestamps
 
 
-def make_event(product, sp: Shopify):
-    start_date, end_date = fetch_timings(product.variants[0].title)
+def get_location(session, product: ShopifyProduct):
+    res = session.get(product.url)
+    soup = BeautifulSoup(res.text, "html.parser")
+    location_field = soup.select_one(".custom-field__location")
+    if not location_field:
+        return None
+    location_name = location_field.get_text(strip=True)
+    if not location_name or len(location_name) == 0 :
+        return None
+    if "," in location_name:
+        s =location_name.split(",")
+        return (s[0].strip(), ",".join(s[1:]).strip())
+    return (location_name, None)
 
-    return {
+
+def make_event(product, sp: Shopify, session):
+    start_date, end_date = fetch_timings(product.variants[0].title)
+    location_name, address = get_location(session, product)
+
+    res = {
         "name": product.title,
         "description": product.description,
         "url": product.url,
@@ -70,6 +86,15 @@ def make_event(product, sp: Shopify):
         "startDate": start_date.isoformat(),
         "endDate": end_date.isoformat(),
     }
+
+    if location_name:
+        res["location"] = {
+            "@type": "Place",
+            "name": location_name
+        }
+        if address:
+            res["location"]["address"] = address
+    return res
 
 
 # Ignore "Coming Soon" events
@@ -84,7 +109,7 @@ if __name__ == "__main__":
     from common.session import get_cached_session
     session = get_cached_session()
     trove = Shopify(DOMAIN, session, COLLECTION)
-    events = [make_event(p, trove) for p in filter_products(trove.products())]
+    events = [make_event(product, trove, session) for product in filter_products(trove.products())]
     with open("out/trove.json", "w") as f:
         json.dump(events, f, indent=2)
         print(f"[TROVE] {len(events)} events")
