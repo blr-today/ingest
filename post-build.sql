@@ -15,8 +15,16 @@ SET
   )
 WHERE
   event_json ->> '$.location.name' LIKE '%small world%'
+  -- Gilly Super Bar in St Mark's Road is hosting mostly DJ nights
+  -- and Small World events.
+  OR ( 
+    event_json ->> '$.location.name' LIKE '%gilly%'
+    AND event_json ->> '$.location' LIKE '%super bar%'
+    AND event_json ->> '$.location' LIKE '%st mark%'
+  )
   -- HighApe event listings do not include the organizer field 
   -- But we pick it up from meta tags into keywords
+  -- This is no longer true, sadly
   OR event_json ->> '$.keywords' LIKE '%small world%'
   OR event_json ->> '$.organizer.name' LIKE '%urban solace%'
   -- Silly dating events: https://insider.in/free-speed-dating-events-in-bengaluru-sep7-2024/event
@@ -391,7 +399,38 @@ WHERE
     OR event_json ->> '$.name' LIKE '%ipl live%'
     OR event_json ->> '$.name' LIKE '%ipl screening%'
     OR event_json ->> '$.keywords' LIKE '%ipl screening%'
+    -- This is highape specific but works as long as we club it with sports
+    -- It still catches some bollywood nights, but those are anyway marked as LOW QUALITY
+    OR (event_json ->> '$.keywords' LIKE '%live session & streaming%' AND event_json ->> '$.keywords' LIKE '%sports%')
+    OR event_json ->> '$.name' LIKE '%live cricket screening%'
+    OR (event_json ->> '$.keywords' LIKE '%screening%' AND event_json->>'$.description' LIKE '%IPL%')
   );
+-- Do the same as above but use F1 Screening tags and GRAND PRIX names
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'SPORTS-SCREENING'
+    )
+  )
+WHERE
+  (
+    event_json ->> '$.name' LIKE '%f1 live%'
+    OR event_json ->> '$.name' LIKE '%f1 screening%'
+    OR event_json ->> '$.name' LIKE '%formula 1 live%'
+    OR event_json ->> '$.name' LIKE '%formula 1 screening%'
+    OR event_json ->> '$.keywords' LIKE '%f1 screening%'
+    OR event_json ->> '$.keywords' LIKE '%grand prix%'
+    OR event_json ->> '$.keywords' LIKE '%screening of f1%'
+    OR event_json ->> '$.keywords' LIKE '%screening of formula 1%'
+    OR event_json ->> '$.keywords' LIKE '%screening of formula1%'
+  ) 
+  -- We want to make sure that other F1 events are not included
+  AND event_json LIKE '%screening%';
 
 
 -- Too Many Dandiya events, so we tag them out.
@@ -446,6 +485,7 @@ WHERE
   OR event_json ->> '$.name' LIKE '%rock bottom monday%'
   OR event_json ->> '$.name' LIKE '%bollywood night%'
   OR event_json ->> '$.keywords' LIKE '%bollywood night%'
+  OR event_json ->> '$.keywords' LIKE '%techno%'
   OR event_json ->> '$.name' LIKE '%bollywood bash%'
   OR event_json ->> '$.name' LIKE '%monsoon monday%'
   OR event_json ->> '$.name' LIKE '%pub crawl%'
