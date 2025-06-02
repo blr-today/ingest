@@ -1,27 +1,6 @@
 [
   {
     "@type": "EducationEvent",
-    "name": "Patterns & Perspectives: Sci560 Exhibition Walkthrough",
-    "location": {
-      "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery Bengaluru, Bangalore",
-      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
-    },
-    "startDate": "2025-06-01T17:30:00+05:30",
-    "endDate": "2025-06-01T19:00:00+05:30",
-    "description": "Have you ever thought of our lives being bound by cycles? From the grand loop of the food chain to the economic flow, everything follows a cycle. But what about the cycles we don\u2019t talk about? Isn\u2019t it soul-stirring to pause and notice these cycles that have influenced us today?<br><br>Join our mediator, Manjuvarshini, who will tell us tales from political to academic cycles in the past. Come along and explore the cycle of success and failure in experimentation, conservation, and administration through the Sci560 exhibition season.",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=patterns-perspectives",
-    "performer": [
-      {
-        "@type": "Person",
-        "name": "Sgb-Team"
-      }
-    ],
-    "maximumAttendeeCapacity": 100
-  },
-  {
-    "@type": "EducationEvent",
     "name": "The Physiological Effects of Long-Duration Space Travel",
     "location": {
       "@type": "Place",
@@ -61,5 +40,59 @@
       }
     ],
     "maximumAttendeeCapacity": 30
+  },
+  {
+    "@type": "Event",
+    "name": "K100 Citizens Waterway | A 2023 Documentary",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-06-08T17:00:00+05:30",
+    "endDate": "2025-06-08T18:30:00+05:30",
+    "description": "Join us for the screening of K100 Citizens\u2019 Waterway, a 2023 documentary that chronicles the transformation of a neglected stormwater drain in Bengaluru into a functional, flood-resilient public space. The film captures the people, processes, and challenges behind this pioneering urban infrastructure project. Conceived and steered by Mod Foundation, the K100 project is an example of how data, design, and inter-agency collaboration can redefine public infrastructure and urban life.<br><br>Presented at Science Gallery Bengaluru, the screening will be followed by a discussion with the Mod Foundation team and the filmmakers. Together, they will unpack the project's approach to informed decision-making, citizen participation, and data-driven governance, offering insights into what it takes to build resilient, inclusive cities in India today.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=k100-waterways",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Naresh-Narasimhan"
+      },
+      {
+        "@type": "Organization",
+        "name": "Mod-Foundation"
+      },
+      {
+        "@type": "Person",
+        "name": "Pravar- Chaudhary"
+      },
+      {
+        "@type": "Person",
+        "name": "Bengawalk"
+      }
+    ],
+    "maximumAttendeeCapacity": 100
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Water Calamities: Studying Hydrological Extremes",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-06-07T16:00:00+05:30",
+    "endDate": "2025-06-07T18:00:00+05:30",
+    "description": "What role do earth observations play in understanding floods, droughts, and other hydrological extremes?<br><br>Land surface hydrology is a collection of complex interactions between soil, vegetation, and weather patterns. The spatial variability of both the land surface properties as well as the meteorological inputs (precipitation and radiation) plays an important role in hydrology. Satellite remote sensing offers a  broad spatial and repeat temporal view of the land surface and can provide observations for use in hydrology, such as soil moisture, surface temperature and vegetation density. The variability of the water cycle causes extremes such as droughts, floods, landslides, permafrost thaw and wildfires that have a tremendous impact on society. Join Professor Venkataraman Lakshmi as he explores how earth observations and modeling together provide critical insights into hydrological extremes and their growing impact on society.<br>",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=water-calamities",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Venkataraman-Laxmi"
+      }
+    ],
+    "maximumAttendeeCapacity": 100
   }
 ]

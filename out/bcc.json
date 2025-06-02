@@ -12,26 +12,26 @@
         {
   "@context": "https://schema.org",
   "@type": "SocialEvent",
-  "name": "Chess and Cheers - Bangalore Chess Club",
-  "startDate": "2025-05-31T16:00:00+05:30",
-  "endDate": "2025-05-31T19:00:00+05:30",
+  "name": "Chess Connect - Blitz - Bangalore Chess Club",
+  "startDate": "2025-06-08T10:00:00+05:30",
+  "endDate": "2025-06-08T13:00:00+05:30",
   "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
 
   "location": {
     
     "@type": "Place",
-    "name": "Kaavu",
-    "address": "Pattandur Agrahara Rd, Siddapura, Brookefield, Bengaluru, India"
+    "name": "The Market Place",
+    "address": "RMZ Millenia, Kalhalli, Halasuru, Bengaluru, India"
     
   },
   "isAccessibleForFree": false,
   
   "offers": [{
     "@type": "Offer",
-    "price": "350",
+    "price": "200",
     "priceCurrency": "INR",
     "availability": "https://schema.org/InStock",
-    "url": "https://razorpay.com/payment-button/pl_QOTdD7tUtCdfoP/view/"
+    "url": "https://razorpay.com/payment-button/pl_QbwGJtLOiZfwBU/view/"
   }],
   
   "organizer": {
@@ -41,9 +41,135 @@
   },
   "keywords": ["bangalore chess club", "chess"],
   
-  "image": "https://bangalorechessclub.in/images/chesscheers_20250531.jpeg",
+  "image": "https://bangalorechessclub.in/images/chessconnect_20250608.jpeg",
   
-  "url": "https://bangalorechessclub.in/chess-cheers/2025-05-31/"
+  "url": "https://bangalorechessclub.in/chess-connect/2025-06-08/"
+}
+      
+    ,
+  
+    
+    
+    
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
+  "startDate": "2025-06-21T10:00:00+05:30",
+  "endDate": "2025-06-21T12:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "Starbucks",
+    "address": "55 & 51 Ground Prestige Rr Building MG Road, Church St, near Anjappar Chettinad Restaurant, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "350",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_QbwGJtLOiZfwBU/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://bangalorechessclub.in/images/chesscafe_20250621.jpeg",
+  
+  "url": "https://bangalorechessclub.in/chess-cafe/2025-06-21/"
+}
+      
+    ,
+  
+    
+    
+    
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Rapid - Bangalore Chess Club",
+  "startDate": "2025-06-22T10:00:00+05:30",
+  "endDate": "2025-06-22T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "RMZ EcoWorld 30-33, Bellandur, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "300",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_QbwGJtLOiZfwBU/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://bangalorechessclub.in/images/chessconnect_20250622.jpeg",
+  
+  "url": "https://bangalorechessclub.in/chess-connect/2025-06-22/"
+}
+      
+    ,
+  
+    
+    
+    
+        {
+  "@context": "https://schema.org",
+  "@type": "SocialEvent",
+  "name": "Chess Connect - Triathlon - Bangalore Chess Club",
+  "startDate": "2025-06-29T10:00:00+05:30",
+  "endDate": "2025-06-29T15:30:00+05:30",
+  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+
+  "location": {
+    
+    "@type": "Place",
+    "name": "The Market Place",
+    "address": "Ground floor, RMZ Infinity, Bennigana Halli, Bengaluru, India"
+    
+  },
+  "isAccessibleForFree": false,
+  
+  "offers": [{
+    "@type": "Offer",
+    "price": "250",
+    "priceCurrency": "INR",
+    "availability": "https://schema.org/InStock",
+    "url": "https://razorpay.com/payment-button/pl_QbwGJtLOiZfwBU/view/"
+  }],
+  
+  "organizer": {
+    "@type": "Organization",
+    "name": "Bangalore Chess Club",
+    "url": "https://bangalorechessclub.in"
+  },
+  "keywords": ["bangalore chess club", "chess"],
+  
+  "image": "https://bangalorechessclub.in/images/chessconnect_20250629.jpeg",
+  
+  "url": "https://bangalorechessclub.in/chess-connect/2025-06-29/"
 }
       
     
