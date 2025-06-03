@@ -2552,57 +2552,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "ScreeningEvent",
-    "name": "IPL Finale 2025 - Screening",
-    "description": "RCB\u2019s in the IPL finale and we\u2019ve got front-row vibes (and fries. Oh what fries!) Come scream \"Ee Sala Cup...\".",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B38018A07F614FB6A6956A0F4DE53EF9_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/588B78AE8A894EDE833D23ED9E29ACC4_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4D9D81FE135D4A279CE159D03CC41D85_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D6B32FD7A0DB43799B90D13F85B90563_converted_webp.webp"
-    ],
-    "startDate": "2025-06-03T19:00:00+05:30",
-    "endDate": "2025-06-03T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Ground Floor, 52 5th Cross, 60 Feet Rd, KHB Colony, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGy95XQYVrjsRV9exFfzCRmI",
-      "latitude": "12.93607350000000000000",
-      "longitude": "77.62166800000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 2,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Zoeys Good Vibes Only",
-      "description": null,
-      "url": "https://urbanaut.app/partner/zoeys-goodvibesonly",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/5844F889A4B3401EB184A348B1C0C6D4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-96639-01374"
-      }
-    },
-    "url": "https://urbanaut.app/spot/ipl-finals-screening",
-    "keywords": [
-      "Live GIG",
-      "Food & drink",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Mixtape Meals",
     "description": "Press play on a night of memory and mood!Mixtape Meals is a curated food experience built around the flavours, feelings, and forgotten joys of childhood. Think comfort food with a twist \u2014 reimagined classics, cooked from scratch, served with the kind of warmth you only find in a shared kitchen.We\u2019ll begin with a home-style menu that recalls lunchbox favourites and after-school snacks \u2014 but with grown-up intention and a touch of play. As the evening unfolds, we\u2019ll gather on the floor for board games from the past, tiny treats, and unhurried conversation.This isn\u2019t just dinner. It\u2019s a soft return to slower times, shared stories, and the flavours that shaped us.\ud83d\uddd3\ufe0f 7 June, Saturday\u00a0\ud83d\udd70\ufe0f 5 to 7 PM\u00a0\ud83d\udccdTin Factory (100 Mts away from KR Puram Metro Station) ",
@@ -2980,7 +2929,7 @@
       "name": "Coffee Devout",
       "description": null,
       "url": "https://urbanaut.app/partner/coffee",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C31CBA54D1BA4AD7A47AF9FABDF4830E_converted_webp.webp",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/49BBBDD8D0EC48F09A5E4985E7C6C334_converted_webp.webp",
       "contactPoint": {
         "@type": "ContactPoint",
         "telephone": "+91-99779-43744"
@@ -3183,6 +3132,56 @@
       "Leisure",
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Flips and Drops- An Exclusive Aerial Yoga Workshop",
+    "description": "Join us for a special workshop focused entirely on mastering drops, holds, and controlled transitions in Aerial Yoga.\u2705 Learn how to enter and exit safely\u2705 Build core strength & grip endurance\u2705 Explore signature drops with guidance\u2705 Gain confidence to hang, hold & flyLed by certified instructors in our premium, device-free Whitefield studios \u2014 this is perfect for those who've\u00a0are ready to explore a deeper aerial yoga practice. At SAMA, we conduct small group classes in mindful wellness formats where you work not only on your body but your mind as well. More than 1000 people have attended Aerial Yoga workshops at SAMA with our best in class Instructors . \ud83c\udf9f\ufe0f Limited spots only. This workshop is designed for small groups to ensure hands-on attention.Time: Saturday, 11.45 AM Venue: SAMA: The Calm Mind Studio, Siddapura, Whitefield",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4A528BEBD2644EFE80DC743FE6BD343C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/66D9CCD69ACB4AC6AD6745620E6DABF7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFDE62A2B34B47F8B6180A0DD8D3854D_converted_webp.webp"
+    ],
+    "startDate": "2025-06-07T11:45:00+05:30",
+    "endDate": "2025-06-07T13:15:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "4th Floor, No 578/444, Main Road, Patel Narayanswamy Layout, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJU6WViMATrjsR144YhITWOkw",
+      "latitude": "12.95580310000000000000",
+      "longitude": "77.73074340000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1399.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "SAMA: The Calm Mind Studio",
+      "description": "Stress- free wellness to build habits that last.",
+      "url": "https://urbanaut.app/partner/samastudio",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/D032029775554AD9B7A3A27222F84DD8_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63621-98060"
+      }
+    },
+    "url": "https://urbanaut.app/spot/flips-and-drops-an-exclusive-aerial-yoga-workshop",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
       "URBANAUT"
     ]
   }
