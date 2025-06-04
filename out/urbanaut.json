@@ -464,7 +464,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -596,6 +596,59 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Wine Tasting: A Night in Red with Penfolds",
+    "description": "Bangalore wine lovers \u2014 ready for a legendary Friday night?Join us for\u00a0A Night in Red with Penfolds: an epic wine tasting evening that brings together five premium wines, bold flavours, and unbeatable vibes at the stunning\u00a0Muro, Bangalore. Hosted by two fun wine geeks, Sommelier\u00a0Devati Mallick\u00a0(Founder, Drink With D Wine Experiences) and Penfolds Brand Ambassador Joshua Lim, expect an exciting deep dive into the world of\u00a0Penfolds, Australia\u2019s most legendary winery!We\u2019re tasting\u00a05 iconic wines\u00a0from the Penfolds portfolio, including a\u00a0tasting of the famed Bin Series:\u2013\u00a0Koonunga Hill Chardonnay\u2013\u00a0Koonunga Hill 76 Shiraz Cabernet\u2013\u00a0Bin 2 Shiraz Mataro\u2013\u00a0Bin 28 Shiraz\u2013\u00a0Bin 389 Cabernet Shiraz\u00a0(The famous Baby Grange)This and\u00a05 specially curated Muro small plates\u00a0that are as bold and flavour-packed as the wines. Expect an evening of stories, sips, elevated pairings, and great conversations \u2014 all in an intimate, luxurious, and fun vibe with our cool wine community in the city!Dress code:\u00a0Red, or any shade of red. Bring in the RED energy!If you\u2019re a red wine lover, a Penfolds fan, or just here for an unforgettable wine experience, this one\u2019s for you. Come, swirl, sip, and experience an EPIC Friday night with us.20 seats only!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B4895F945E3F4E8ABA13A332B55DBC16_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2CB6E21D95B54CA29530FB72D8A1CC6A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/59E15338FD7B4E838544AE586D62334F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B954846CE9FF4437909599B2392643EC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F682381C0F5B4E61BF1FEE1CB7600BE2_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F9188F65B874421086C970B0DAFDFBC7_converted_webp.webp"
+    ],
+    "startDate": "2025-06-06T19:00:00+05:30",
+    "endDate": "2025-06-06T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "5, Museum Rd, next to Toscano Restaurant, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJG4hY5igXrjsRcU9IFbg9Www",
+      "latitude": "12.97462110000000000000",
+      "longitude": "77.60314730000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 28,
+    "remainingAttendeeCapacity": 2,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2600.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Drink With D",
+      "description": "DWD is a Sommelier-led wine consulting and wine experience brand. Join us in exploring the fascinating world of wine through fun tastings and curated experiences!",
+      "url": "https://urbanaut.app/partner/drinkwithd",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/drwbzxdvf1-1707303470215dwdjpglogojpg.jpg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-88600-24590"
+      }
+    },
+    "url": "https://urbanaut.app/spot/a-night-in-red-with-penfolds",
+    "keywords": [
+      "Leisure",
+      "Premium",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "SLOW BURN YOGA BRUNCH",
     "description": "Join us for Slow Burn\u2014a strength-infused yoga flow designed to ignite your inner fire while honoring your natural rhythm. This 75-minute studio session blends slow, intentional movement with light weights to help you build strength, ground your energy, and reset from within\u2014without the rush.After class, unwind on the patio with a nourishing brunch spread crafted to replenish and restore. Come move, breathe, and linger awhile.",
     "image": [
@@ -620,7 +673,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 9,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -669,7 +722,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 19,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2818,7 +2871,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2916,7 +2969,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 49,
+    "remainingAttendeeCapacity": 47,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
