@@ -19,9 +19,35 @@ DTSTART:20250101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20250604T210000
+DTEND;TZID=Asia/Kolkata:20250604T230000
+DTSTAMP:20250604T183245
+CREATED:20250308T103726Z
+LAST-MODIFIED:20250604T072241Z
+UID:36365-1749070800-1749078000@aceofpubs.com
+SUMMARY:Games Night - Underdoggs | Hebbal\, Bengaluru
+DESCRIPTION:NOTE: By attending this event\, you agree to being filmed at the venue and that content may be used for marketing purposes
+URL:https://aceofpubs.com/event/games-night-underdoggs-hebbal-bengaluru/
+LOCATION:Underdoggs Hebbal\, Bangalore\, Ground Floor\, Godrej Centre\, Sahakar Nagar\, Byatarayanapura\,\, Bengaluru\, Karnataka\, 560092\, India
+CATEGORIES:At the Bay,Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20250605T200000
+DTEND;TZID=Asia/Kolkata:20250605T220000
+DTSTAMP:20250604T183245
+CREATED:20241130T050009Z
+LAST-MODIFIED:20250604T080418Z
+UID:35636-1749153600-1749160800@aceofpubs.com
+SUMMARY:General Trivia Night - Mannheim | The Bay at Ecoworld Bellandur\, Bengaluru
+DESCRIPTION:NOTE: By attending this event\, you agree to being filmed at the venue and that content may be used for marketing purposes
+URL:https://aceofpubs.com/event/general-trivia-night-mannheim-the-bay-at-ecoworld-bellandur-bengaluru-2/
+LOCATION:Fifty50 — Ecoworld — Bengaluru\, RMZ ECOWORLD\, Ground\, Marathahalli - Sarjapur Outer Ring Rd\, Bellandur\, Bengaluru\, Karnataka 560103\, Bengaluru\, Karnataka\, 560103\, India
+CATEGORIES:At the Bay,Bengaluru
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250610T200000
 DTEND;TZID=Asia/Kolkata:20250610T220000
-DTSTAMP:20250604T121514
+DTSTAMP:20250604T183245
 CREATED:20250529T091234Z
 LAST-MODIFIED:20250529T091236Z
 UID:37457-1749585600-1749592800@aceofpubs.com
