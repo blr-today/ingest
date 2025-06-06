@@ -582,6 +582,52 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sunday Breakfast: Home Away from Home",
+    "description": "Every city has a story, and so does yours!Whether you\u2019ve just arrived or lived here all your life.This table is a space to share what makes a place feel like home. From hometown nostalgia to Bengaluru quirks, from breakfast rituals to first impressions \u2014 let\u2019s swap stories, laughs, and a warm meal together.Whether you're finding your feet or showing others the ropes, come make new connections and celebrate the feeling of belonging.\ud83c\udfe1",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/662124D3DA5D4487BC4A079DBB11F03E_converted_webp.webp"
+    ],
+    "startDate": "2025-06-08T10:00:00+05:30",
+    "endDate": "2025-06-08T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "latitude": "12.97836920000000000000",
+      "longitude": "77.64083560000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/new-to-bengaluru-home-away-from-home",
+    "keywords": [
+      "Local",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Full Moon Rituals - Sound Healing & Journalling",
     "description": "The full moon is a sacred moment to pause, slow down, and look within. It\u2019s a time to reflect, let go of what no longer serves you, and notice what has come to light. By letting go, you make space for new energy, new intentions, and new possibilities. A time for release, gratitude, and gentle closure.In this gently guided session, we\u2019ll move through:\u2728 Breathwork \u2013 To ground yourself and create space within.\ud83d\udcdd Reflection & Journaling \u2013 To process your thoughts and emotions with clarity.\ud83c\udf15 Letting Go Ritual \u2013 To lovingly release what\u2019s holding you back and make space for new possibilities.\ud83c\udfb6 Sound Healing \u2013 To soothe the nervous system and release stagnant energy.Together, we\u2019ll create a space for deep connection with yourself, your intentions, and the energy of new beginnings. Come as you are, and allow yourself to soften into this moment of self-care and renewal.About the FacilitatorSneha a sound healer, mindfulness guide, and someone who\u2019s walked the path from burnout to inner clarity. After years in the corporate world as a CA, I made an intentional shift, from spreadsheets to sound bowls, from deadlines to deep presence. Life gave me the courage to tune into my inner wisdom, and that led me here- to the path of healing, mindfulness, and holding space for othersToday, I blend sound healing, mindfulness and psychology to help people feel more grounded, present, and connected to themselves. My work is heart-led, real, and rooted in everything I have experienced & learnt along the way.",
@@ -627,6 +673,145 @@
       "Leisure",
       "Wellness",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Girl Talk Chronicles: Keeping Up with Perfection",
+    "description": "*Only for Women* \ud83c\udf38This table is a space for women to get honest about the pressure to \u201chave it all together.\u201dFrom picture-perfect Pinterest moms to flawlessly filtered Instagram lives, today\u2019s digital world bombards us with impossible standards. Whether it\u2019s parenting, career, beauty, or home life, we\u2019re constantly fed the idea that we should be doing more\u2014and doing it better.Together, we\u2019ll explore how these fake ideals affect our confidence, mental health, and sense of self-worth. Most importantly, we\u2019ll talk about how to break free from the perfection trap and embrace the beauty of being real.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/27710031ABF440D5BE4ABDE5922B97CD_converted_webp.webp"
+    ],
+    "startDate": "2025-06-13T19:00:00+05:30",
+    "endDate": "2025-06-13T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "latitude": "12.97836920000000000000",
+      "longitude": "77.64083560000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1299.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/girl-talk-chronicles-lets-spill",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Explore German Cuisine with Strangers",
+    "description": "New flavors. New faces. Zero small talk.Curious about German food but never had a reason to try it?This is your chance. Join a table of strangers-turned-friends as we explore the flavors of Germany \u2014 from rich stews to crisp schnitzels and everything in between.You don\u2019t need to know the cuisine, just come with an open mind and an empty stomach. The conversations are just as good as the food \u2014 and who knows, you might walk away with a new favorite dish and a new friend.\ud83d\udcab",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/23861F8CB14A46C38DE75AC653E766A2_converted_webp.webp"
+    ],
+    "startDate": "2025-06-11T19:30:00+05:30",
+    "endDate": "2025-06-11T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "latitude": "12.97836920000000000000",
+      "longitude": "77.64083560000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/explore-new-cuisine-with-strangers-at-hightable",
+    "keywords": [
+      "Premium",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "De-Stress Fridays",
+    "description": "Fridays are meant for letting go, and this table is all about decompressing after a long week.Deadlines, meetings, and stress? Not here!This table is your weekly escape from the chaos, where you can kick back, connect, and enjoy an evening of effortless conversations and laughter.No pressure, just good energy!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D8B897007F184B79B26C5A503596D828_converted_webp.webp"
+    ],
+    "startDate": "2025-06-06T19:00:00+05:30",
+    "endDate": "2025-06-06T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "latitude": "12.97836920000000000000",
+      "longitude": "77.64083560000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1199.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/de-stress-friday",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -2243,7 +2428,9 @@
     "description": "An evening where words weave magic and every verse echoes the soul.Join us for a heartfelt open mic celebrating the beauty of Hindi and Urdu poetry.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/42902951CF474FAC83B77EC5EE9D4A24_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B2F2476621724D75B8599643AF7A15D2_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B2F2476621724D75B8599643AF7A15D2_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B9951C8A6939400DAAB886E1137C0E68_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4359E1644B5948FBBF52F1B95389F698_converted_webp.webp"
     ],
     "startDate": "2025-06-08T16:00:00+05:30",
     "endDate": "2025-06-08T18:00:00+05:30",
@@ -2645,10 +2832,10 @@
     "name": "Journey - Bites and Tales",
     "description": "A table put together to share unforgettable travel tales... Taste diverse Indian cuisine... Connect with fellow solo adventurers and relive your experiences through someone else's view.",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/55FD2E46BB164B67A1E2828B53154314_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A649C13396604B91BD4A46487AD1E5D3_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/553088BD31604E989ABA847F942DA014_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/930FA36667EC41AFB7D085490FF0B2DD_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DC050AF315954352AAA365643F517BD1_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DC050AF315954352AAA365643F517BD1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D98E6CC255A045FF8E017D17533965EB_converted_webp.webp"
     ],
     "startDate": "2025-06-28T11:30:00+05:30",
     "endDate": "2025-06-28T14:30:00+05:30",
@@ -2841,6 +3028,58 @@
     "keywords": [
       "Leisure",
       "Music",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Ishq Mushq Aur Behtareen Khana",
+    "description": "An evening where flavours meet feelings. Come share your stories of love... the sweet, the spicy, the messy... while indulging in soulful dishes that taste like home and heartache. Whether you're madly in love, nursing an old wound, or just here for the food, there\u2019s a seat at the table for your tale.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6FDB681BBCAF4CBD967F7B1EAE94C0A3_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CA2243FB0E8C44238F77DCFF27421663_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4986605BEDF04779B702B5E6F3CE43BB_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FAB9B1B66EF245C0A55996142AAA9FBD_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DBE6207B4CEC47889A99A4E0F2C9FB38_converted_webp.webp"
+    ],
+    "startDate": "2025-06-21T13:00:00+05:30",
+    "endDate": "2025-06-21T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Ground Floor, 52 5th cross, 60 Feet Rd, KHB Colony, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGaLo-dwVrjsRxjGx4jbrlAU",
+      "latitude": "12.93601050000000000000",
+      "longitude": "77.62162730000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Jugni Kitchen + Bar",
+      "description": "Welcome to Jugni, one of the best restaurants in Koramangala, where we bring you a dining experience that\u2019s unapologetically Indian. At Jugni Kitchen & Bar, we\u2019ve created a haven for those who seek more than just a meal; it's a place where nostalgia, comfort, and vibrant energy come together.",
+      "url": "https://urbanaut.app/partner/jugni_kitchen_bar",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/154193DE5AB949B1BAAC47BB3886B887_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-89712-63741"
+      }
+    },
+    "url": "https://urbanaut.app/spot/ishq-mushq-aur-behtareen-khana",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
       "Art & culture",
       "URBANAUT"
     ]
@@ -3809,6 +4048,204 @@
     "keywords": [
       "Live GIG",
       "Music",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Kind Coffee Party ; A White Affair",
+    "description": "Start your Saturday morning on a high note at The Kind Coffee Party \u2014 a white-themed experience where caffeine meets music.Be part of an exclusive experience where a community comes together for a high-energy morning party with signature brews, flavourful food from The Kind kitchen, groovy music to keep you moving and inspiring conversations. Whether you're coming solo or with your crew, this is your sign to trade your usual morning for something a little more electric.An alcohol-free, caffeine-fueled celebration designed to connect, uplift, and     empower in a vibrant space.It\u2019s a celebration of everything we love, great coffee & food, good music, and even better company.Date: 28 June 2025, SaturdayTime: 10 AM \u2013 12 PMLocation: The Kind at The Bay, Ecoworld, BellandurDress Code: All White",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5B59281BAC0640E18A99C88CAA1C772A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/51F0DE44E95E433B853777901337C199_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6CE3E3B35CA542EEA6D2ED5A7175349B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/236733512DEB4586A2277717001A7491_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/35D64BBCA9314C7F9AD69D8622356191_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F931975776CC451DA533E1DC340C5A5A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2990DAB1FCF545DFA0D8F4354938391E_converted_webp.webp"
+    ],
+    "startDate": "2025-06-28T10:00:00+05:30",
+    "endDate": "2025-06-28T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "RMZ ECOWORLD, The Bay, Bellandur, Bengaluru, Karnataka 560103, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJYacZcJ8TrjsRwZ-rIcV2ts0",
+      "latitude": "12.92004050000000000000",
+      "longitude": "77.68476540000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 130,
+    "remainingAttendeeCapacity": 130,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1050.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Kind Roastery and Brew Room",
+      "description": "",
+      "url": "https://urbanaut.app/partner/thekind",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/AB717082F9F5435E8158E1523FF717EB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-88618-52547"
+      }
+    },
+    "url": "https://urbanaut.app/spot/the-kind-coffee-party-a-white-affair",
+    "keywords": [
+      "Music",
+      "Food & drink",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Heirlooms form the Hills",
+    "description": "As our next pop-up, we bring to you Heirlooms form the Hills by chef Chef Rita Blah\u00a0A nostalgic retelling of Shillong\u2019s Culinary LandscapeMeet Rita: The Home Chef from ShillongBorn and raised in the lush hills of Shillong, Rita\u2019s cooking tells stories of community, memory, and quiet mastery. She learnt by watching \u2014 her grandmother stirring smoky bamboo shoot stews over a wood fire, her mother marinating pork with local spices, neighbours sharing recipes through whispered tips and shared meals.For over 50 years, Rita has cooked \u2014 not for acclaim, but for love. Her kitchen has always been open to family, friends, and the lucky few who get to experience her deeply rooted, intuitively crafted dishes. Her food has travelled quietly from Shillong to Bombay, with chefs from places like The Bombay Canteen and Masque and Naar counting themselves among the fortunate who've tasted it.Rita doesn\u2019t believe in shortcuts. She cooks with memory, community, and soul. Not everyone gets to eat her food \u2014 but those who do never forget it.About the Meal -This meal is a celebration of everyday Khasi flavours \u2014 the kind found in family kitchens, bustling tea shops, and humble canteens across Shillong. Made with ingredients deeply rooted in the land, it features smoked pork slow-dried over a wood fire for up to 24 hours, giving it a rich, earthy depth. Nutty nei iong (black sesame) and fragrant nei leih (round sesame) lend texture and warmth, while sticky rice ties it all together \u2014 simple, grounding, essential.A spoonful of soh iiong, the tart local blackberries, adds a bright, unexpected note \u2014 just like the hills themselves. Eaten on quiet mornings and festive nights alike, this is a meal made from memory, meant to nourish and bring people together.MENU\u00a0\u2728 STARTERS\u00a01.\u2060 \u2060DOH\u00a0THAD | Dried Smoke PorkDescription - A bold and fiery starter featuring pork that's been traditionally smoked over a wood fire for up to 24 hours, then crisp-fried with onions, capsicum and green chillies. Deeply savoury with a smoky kick, it\u2019s the kind of dish that lingers \u2014 in memory and on the palate.2.\u2060 \u2060MOMOS & SOHMYNKEN SAW | Pork Momos with Dried Red Chilly Chutney\u00a0Description:\u00a0A beloved tea-time bite in Khasi homes and hill-side stalls alike. Juicy pork, hand-minced, is wrapped in delicate dough and steamed to perfection. They're served with a fiery dried red chilli chutney \u2014 earthy, smoky, and just the right kind of heat to cut through the Shillong mist.\u00a0\u2728 MAINS\u00a01.\u2060 \u2060DOH SYIAR SHET KYLLA\u00a0|\u00a0Chicken curry and rice\u00a0Description: A wholesome Khasi-style chicken curry, slow-cooked with potatoes and local spices and served with steamed rice.\u00a0Accompaniments\u00a01.\u2060 \u2060TUNGTAP CHUTNEY | Dried fish chutney\u00a02.\u2060 \u2060\u2060NEPALI CHUTNEY | Cold chickpea with Chayote Squash chutney2.\u2060 \u2060JA STEM WITH DOH NEI IIONG | Rice cooked in Pork Broth with Black Sesame PorkDescription - Rice simmered in rich pork broth, paired with tender pork cooked in nutty black sesame; a soulful Khasi dish layered with depth, smoke, and tradition.Accompaniments\u00a01.\u2060 \u2060SOH SAW | Charred Tomato Chutney\u00a02.\u2060 \u2060DOH KHLIEH | Cold pork salad\u00a0\u2728 DESSERTJA\u00a0SHULIA with SOH IIONG | Sticky rice, black berry jam and icecream\u00a0Accompaniment\u00a0SHA SAW | Khasi Black tea\u00a0Notes1.\u2060 \u2060This meal cannot accommodate any allergies or vegan/vegetarians.2.\u2060 \u2060All courses contain pork and chicken.\ufeffTerms & Conditions:Please arrive punctually.Late arrivals may miss the first few courses.Booking Fee are non-refundable under all circumstances once booked.Tickets are transferrable to a third party.No shows/ cancellations will not be refunded, but you can reschedule your booking for within the week 48hrs before your slot is due.Alcohol will not be served to guests under the age of 21No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.The booking fee total includes the online transaction fee.Parking at the event premises is at the risk of the vehicle owner.Valet is available.Photographs and videos of ticket holders may be uploaded to social media. In case you do not wish to be featured, let our team know.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EE00B5D627DD43BD865CDE24DBD6F22E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/91153DB1234D4E7EB9AD658F32744013_converted_webp.webp"
+    ],
+    "startDate": "2025-06-14T19:30:00+05:30",
+    "endDate": "2025-06-14T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1, Palace Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJx154PW0WrjsREG4GX2L3FuI",
+      "latitude": "12.98023500000000000000",
+      "longitude": "77.58606100000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 23,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Tijouri",
+      "description": null,
+      "url": "https://urbanaut.app/partner/tijouri",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/985742089C9A4D15B189CA4035297B9A_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97416-19560"
+      }
+    },
+    "url": "https://urbanaut.app/spot/heirlooms-from-the-hills#2025-06-14T1930",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Heirlooms form the Hills",
+    "description": "As our next pop-up, we bring to you Heirlooms form the Hills by chef Chef Rita Blah\u00a0A nostalgic retelling of Shillong\u2019s Culinary LandscapeMeet Rita: The Home Chef from ShillongBorn and raised in the lush hills of Shillong, Rita\u2019s cooking tells stories of community, memory, and quiet mastery. She learnt by watching \u2014 her grandmother stirring smoky bamboo shoot stews over a wood fire, her mother marinating pork with local spices, neighbours sharing recipes through whispered tips and shared meals.For over 50 years, Rita has cooked \u2014 not for acclaim, but for love. Her kitchen has always been open to family, friends, and the lucky few who get to experience her deeply rooted, intuitively crafted dishes. Her food has travelled quietly from Shillong to Bombay, with chefs from places like The Bombay Canteen and Masque and Naar counting themselves among the fortunate who've tasted it.Rita doesn\u2019t believe in shortcuts. She cooks with memory, community, and soul. Not everyone gets to eat her food \u2014 but those who do never forget it.About the Meal -This meal is a celebration of everyday Khasi flavours \u2014 the kind found in family kitchens, bustling tea shops, and humble canteens across Shillong. Made with ingredients deeply rooted in the land, it features smoked pork slow-dried over a wood fire for up to 24 hours, giving it a rich, earthy depth. Nutty nei iong (black sesame) and fragrant nei leih (round sesame) lend texture and warmth, while sticky rice ties it all together \u2014 simple, grounding, essential.A spoonful of soh iiong, the tart local blackberries, adds a bright, unexpected note \u2014 just like the hills themselves. Eaten on quiet mornings and festive nights alike, this is a meal made from memory, meant to nourish and bring people together.MENU\u00a0\u2728 STARTERS\u00a01.\u2060 \u2060DOH\u00a0THAD | Dried Smoke PorkDescription - A bold and fiery starter featuring pork that's been traditionally smoked over a wood fire for up to 24 hours, then crisp-fried with onions, capsicum and green chillies. Deeply savoury with a smoky kick, it\u2019s the kind of dish that lingers \u2014 in memory and on the palate.2.\u2060 \u2060MOMOS & SOHMYNKEN SAW | Pork Momos with Dried Red Chilly Chutney\u00a0Description:\u00a0A beloved tea-time bite in Khasi homes and hill-side stalls alike. Juicy pork, hand-minced, is wrapped in delicate dough and steamed to perfection. They're served with a fiery dried red chilli chutney \u2014 earthy, smoky, and just the right kind of heat to cut through the Shillong mist.\u00a0\u2728 MAINS\u00a01.\u2060 \u2060DOH SYIAR SHET KYLLA\u00a0|\u00a0Chicken curry and rice\u00a0Description: A wholesome Khasi-style chicken curry, slow-cooked with potatoes and local spices and served with steamed rice.\u00a0Accompaniments\u00a01.\u2060 \u2060TUNGTAP CHUTNEY | Dried fish chutney\u00a02.\u2060 \u2060\u2060NEPALI CHUTNEY | Cold chickpea with Chayote Squash chutney2.\u2060 \u2060JA STEM WITH DOH NEI IIONG | Rice cooked in Pork Broth with Black Sesame PorkDescription - Rice simmered in rich pork broth, paired with tender pork cooked in nutty black sesame; a soulful Khasi dish layered with depth, smoke, and tradition.Accompaniments\u00a01.\u2060 \u2060SOH SAW | Charred Tomato Chutney\u00a02.\u2060 \u2060DOH KHLIEH | Cold pork salad\u00a0\u2728 DESSERTJA\u00a0SHULIA with SOH IIONG | Sticky rice, black berry jam and icecream\u00a0Accompaniment\u00a0SHA SAW | Khasi Black tea\u00a0Notes1.\u2060 \u2060This meal cannot accommodate any allergies or vegan/vegetarians.2.\u2060 \u2060All courses contain pork and chicken.\ufeffTerms & Conditions:Please arrive punctually.Late arrivals may miss the first few courses.Booking Fee are non-refundable under all circumstances once booked.Tickets are transferrable to a third party.No shows/ cancellations will not be refunded, but you can reschedule your booking for within the week 48hrs before your slot is due.Alcohol will not be served to guests under the age of 21No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.The booking fee total includes the online transaction fee.Parking at the event premises is at the risk of the vehicle owner.Valet is available.Photographs and videos of ticket holders may be uploaded to social media. In case you do not wish to be featured, let our team know.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EE00B5D627DD43BD865CDE24DBD6F22E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/91153DB1234D4E7EB9AD658F32744013_converted_webp.webp"
+    ],
+    "startDate": "2025-06-15T12:30:00+05:30",
+    "endDate": "2025-06-15T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1, Palace Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJx154PW0WrjsREG4GX2L3FuI",
+      "latitude": "12.98023500000000000000",
+      "longitude": "77.58606100000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 25,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Tijouri",
+      "description": null,
+      "url": "https://urbanaut.app/partner/tijouri",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/985742089C9A4D15B189CA4035297B9A_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97416-19560"
+      }
+    },
+    "url": "https://urbanaut.app/spot/heirlooms-from-the-hills#2025-06-15T1230",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Whimsical Weekend with Improv Lore",
+    "description": "We bring you some whimsy this weekend for those who can\u2019t make it to our Wednesday jams.Whether you\u2019re a novice to theatre, a maverick on stage, or just dipping your toes into the world of unscripted performance, this Jam is designed for everyone. Our facilitators will guide you through a series of engaging improv exercises, help you explore new characters, and set up scenarios that will make your inner wit shine - all on the spot!Come as you are, leave your inhibitions at the door, and join us on this journey of endless possibility.Bring a friend, a date, or a group - our brave space is for everyone!Who are Improv Lore?We are Bangalore-based community-theatre troupe, works towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical. We meet on Wednesdays for Jams, and on weekends for workshops.You can follow us on Instagram at @improvlore and join our WhatsApp community. ",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/950EAD4AC3BE4D188D8FEF277F3B41EF_converted_webp.webp"
+    ],
+    "startDate": "2025-06-08T14:00:00+05:30",
+    "endDate": "2025-06-08T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96722140000000000000",
+      "longitude": "77.63669820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "We're a community center for thoughtful, kind, and interesting events.",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/whimsical-weekend-with-improv-lore-7271",
+    "keywords": [
+      "Leisure",
+      "Workshop",
       "Art & culture",
       "URBANAUT"
     ]
