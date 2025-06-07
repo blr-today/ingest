@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General admission || Valid for one individual || For Age(s) 21+\nAn additional cover charge of INR 799 per individual is applicable at the gates. Redeemable on F&B",
-            "inventoryLevel": 444,
+            "inventoryLevel": 443,
             "name": "Phase 1 Single || GA",
             "url": "https://www.skillboxes.com/events/ticket/matthew-ifield-live-in-bengaluru"
          },
@@ -34,7 +34,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General admission || Valid for two individuals || For Age(s) 21+\nAn additional cover charge of INR 799 per individual is applicable at the gates. Redeemable on F&B",
-            "inventoryLevel": 978,
+            "inventoryLevel": 974,
             "name": "Group of 2 Tickets",
             "url": "https://www.skillboxes.com/events/ticket/matthew-ifield-live-in-bengaluru"
          },
@@ -42,7 +42,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General admission || Valid for four individuals || For Age(s) 21+\nAn additional cover charge of INR 799 per individual is applicable at the gates. Redeemable on F&B",
-            "inventoryLevel": 999,
+            "inventoryLevel": 997,
             "name": "Group of 4 Tickets",
             "url": "https://www.skillboxes.com/events/ticket/matthew-ifield-live-in-bengaluru"
          },
@@ -72,20 +72,20 @@
       "description": "🎤 Vilen, the soulful singer-songwriter from Delhi, is all set to take the stage with his much-awaited India Tour, curated by Dark Music Company, Ex",
       "endDate": "2025-06-27T23:59:00",
       "identifier": "com.skillboxes.21008",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1744361656Pg2xJXdTWl7NJ4Ko.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1749226753l8bzbplR0p9YQE6q.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
       ],
       "location": {
          "@type": "Place",
-         "address": "Bengaluru, Karnataka, India",
+         "address": "Ignite Super Club",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "12.9715987",
-            "longitude": "77.5945627"
+            "latitude": "12.9150698",
+            "longitude": "77.6664367"
          },
-         "name": "To Be Announced"
+         "name": "IGNITE SUPER CLUB"
       },
       "name": "Vilen India Tour - Bangalore Show",
       "offers": [
@@ -93,7 +93,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charges at gate. Grants Entry to one person only.\n",
-            "inventoryLevel": 19,
+            "inventoryLevel": 17,
             "name": "Early Bird GA Ticket",
             "url": "https://www.skillboxes.com/events/ticket/vilen-india-tour-bangalore-show"
          },
@@ -116,6 +116,83 @@
       ],
       "startDate": "2025-06-27T20:00:00",
       "url": "https://www.skillboxes.com/events/vilen-india-tour-bangalore-show"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready for an electrifying night as LIMITLESS brings you ALMOST HUMAN live at Gawky Goose this June.Immerse yourself in cutting-edge sounds, pulsat",
+      "endDate": "2025-06-22T01:00:00",
+      "identifier": "com.skillboxes.24242",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1749287127V4JirHCwd9u7CeEx.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "#77, Wind Tunnel Rd, Murugeshpalya, Muniyappa Layout, Bengaluru, Karnataka 560017, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9540402",
+            "longitude": "77.6527398"
+         },
+         "name": "Gawky Goose"
+      },
+      "name": "Limitless ft. Almost Human / 21st June / Gawky Goose",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 100,
+            "name": "Guestlist-Couple",
+            "url": "https://www.skillboxes.com/events/ticket/limitless-ft-almost-human-21st-june-gawky-goose"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 99,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/limitless-ft-almost-human-21st-june-gawky-goose"
+         }
+      ],
+      "startDate": "2025-06-21T20:00:00",
+      "url": "https://www.skillboxes.com/events/limitless-ft-almost-human-21st-june-gawky-goose"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Just Us League returns for another unforgettable night at our usual spot. You know the vibe—quality music, handcrafted cocktails, and nothing bu",
+      "endDate": "2025-06-13T23:59:00",
+      "identifier": "com.skillboxes.24240",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1749282547PGr8ay69t2934SFd.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9707322",
+            "longitude": "77.6476391"
+         },
+         "name": "Indiranagar Social"
+      },
+      "name": "JUST US LEAGUE",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 80,
+            "name": "Regular Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/just-us-league-5"
+         }
+      ],
+      "startDate": "2025-06-13T19:00:00",
+      "url": "https://www.skillboxes.com/events/just-us-league-5"
    },
    {
       "@context": "https://schema.org",
@@ -654,7 +731,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 cover charge payable at gate.\n",
-            "inventoryLevel": 993,
+            "inventoryLevel": 992,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/monkey-rock-fest-featuring-kasa-vidyut-and-dimorphous-expression"
          }
@@ -683,7 +760,7 @@
          },
          "name": "The Fat Chef"
       },
-      "name": "Rajni @ TheFatChef",
+      "name": "Dine-In w/Rajni @ TheFatChef",
       "offers": [
          {
             "@type": "Offer",
@@ -738,7 +815,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 81,
+            "inventoryLevel": 65,
             "name": "Guestlist-Couple",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-axl-stace-7th-june-pangeo"
          },
@@ -746,7 +823,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 95,
+            "inventoryLevel": 88,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-axl-stace-7th-june-pangeo"
          }
@@ -809,7 +886,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 18,
+            "inventoryLevel": 16,
             "name": "Phase 1 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/metal-blitz"
          },
@@ -1215,7 +1292,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 95,
+            "inventoryLevel": 93,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/soiree-la-nef-1"
          }
@@ -1309,7 +1386,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "NA\nNA",
-            "inventoryLevel": 332,
+            "inventoryLevel": 292,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/theatre-of-madness-ft-volruptus"
          }
@@ -1344,7 +1421,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge applicable at gates\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 997,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/jackfruit-dance-party-ft-djazz-gst-rishi-sippy-that90skid-indiranagarsocial"
          }
@@ -1379,16 +1456,8 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges applicable post 9pm\n",
-            "inventoryLevel": 30,
+            "inventoryLevel": 16,
             "name": "General Access  - Female",
-            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-vinka-wydro"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable at gates\n",
-            "inventoryLevel": 25,
-            "name": "Final phase - Male",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-vinka-wydro"
          },
          {
@@ -1402,16 +1471,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charges applicable at Gates\n",
-            "inventoryLevel": 25,
-            "name": "Final phase - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-vinka-wydro"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "Cover charges applicable post 8.30 pm\n",
-            "inventoryLevel": 23,
+            "inventoryLevel": 14,
             "name": "VIP Backstage - Stag",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-vinka-wydro"
          },
@@ -1419,15 +1480,8 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges Applicable post 9.00 PM\n",
-            "inventoryLevel": 24,
+            "inventoryLevel": 23,
             "name": "VIP Backstage - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-vinka-wydro"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 9,
-            "name": "VIP Backstage - Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-vinka-wydro"
          }
       ],
@@ -1461,7 +1515,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Full Cover\nEach ticket is applicable to one pet only.",
-            "inventoryLevel": 24,
+            "inventoryLevel": 18,
             "name": "Pet Ticket",
             "url": "https://www.skillboxes.com/events/ticket/muttley-crew-x-smoor-the-barkfast-club"
          },
@@ -1469,7 +1523,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Full Cover\nEach ticket is applicable to one person only.",
-            "inventoryLevel": 18,
+            "inventoryLevel": 11,
             "name": "Parent Ticket",
             "url": "https://www.skillboxes.com/events/ticket/muttley-crew-x-smoor-the-barkfast-club"
          }
@@ -1504,7 +1558,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free Entry to One Couple for the event till 10PM Only. Post 10PM An additional Cover charges applicable upon arrival at gate as per club rules and regulations.\n",
-            "inventoryLevel": 227,
+            "inventoryLevel": 207,
             "name": "RSVP - Couple [Free Entry]",
             "url": "https://www.skillboxes.com/events/ticket/bastian-experiences-and-somad-presents-mosiqi-x-mehfil-ft-boyka-kavya-khurana-yudi"
          },
@@ -1512,7 +1566,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free Entry to One Single Lady for the event till 10PM Only. Post 10PM An additional Cover charges applicable upon arrival at gate as per club rules and regulations.\n",
-            "inventoryLevel": 419,
+            "inventoryLevel": 398,
             "name": "RSVP - Single Lady",
             "url": "https://www.skillboxes.com/events/ticket/bastian-experiences-and-somad-presents-mosiqi-x-mehfil-ft-boyka-kavya-khurana-yudi"
          },
@@ -1520,7 +1574,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Entry to One Male Stag with a Mandatory Cover Charges applicable upon arrival at gate as per club rules and regulations.\n",
-            "inventoryLevel": 347,
+            "inventoryLevel": 299,
             "name": "Gentleman [ Male Stag ]",
             "url": "https://www.skillboxes.com/events/ticket/bastian-experiences-and-somad-presents-mosiqi-x-mehfil-ft-boyka-kavya-khurana-yudi"
          }
@@ -1555,31 +1609,15 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits One Single Lady to enter the event without cover or any additional charges till 5:30PM only, Upon Entry Post 5:30PM Additional cover charges applicable at gate as per club rules and regulations\n",
-            "inventoryLevel": 191,
-            "name": "Early Bird - Single Lady",
-            "url": "https://www.skillboxes.com/events/ticket/social-select-sundaze-ft-kampai-pia-collada-dhiraaj-ira-bb-talin-shiko-koramangala-social-rooftop"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits a group of two couples to enter the event without cover or any additional charges till 5:30PM only, Upon Entry Post 5:30PM Additional cover charges applicable at gate as per club rules and regulations\n",
-            "inventoryLevel": 4,
-            "name": "Early Bird - Double Date! [ Group of 2 Couples ]",
-            "url": "https://www.skillboxes.com/events/ticket/social-select-sundaze-ft-kampai-pia-collada-dhiraaj-ira-bb-talin-shiko-koramangala-social-rooftop"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Permits a Group of 4 Single Ladies to enter the event without cover or any additional charges till 5:30PM only, Upon Entry Post 5:30PM Additional cover charges applicable at gate as per club rules and regulations\n",
-            "inventoryLevel": 8,
-            "name": "Early Bird - Girls Night Out [ Group of 4 Girls ]",
+            "inventoryLevel": 28,
+            "name": "Phase 1 - Single Lady",
             "url": "https://www.skillboxes.com/events/ticket/social-select-sundaze-ft-kampai-pia-collada-dhiraaj-ira-bb-talin-shiko-koramangala-social-rooftop"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits One couple to enter the event without cover or any additional charges till 5:30PM only, Upon Entry Post 5:30PM Additional cover charges applicable at gate as per club rules and regulations.\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 1,
             "name": "Phase 1 - Couple",
             "url": "https://www.skillboxes.com/events/ticket/social-select-sundaze-ft-kampai-pia-collada-dhiraaj-ira-bb-talin-shiko-koramangala-social-rooftop"
          },
@@ -1587,23 +1625,39 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Single Lady to enter the event without cover or any additional charges All Day/Night Long + get yourself behind the artist and access the Backstage. The Real VIP Experience for you at your fingertips!\n",
-            "inventoryLevel": 20,
+            "inventoryLevel": 18,
             "name": "VIP - Single Lady [ Anytime Entry + Backstage Access ]",
             "url": "https://www.skillboxes.com/events/ticket/social-select-sundaze-ft-kampai-pia-collada-dhiraaj-ira-bb-talin-shiko-koramangala-social-rooftop"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Permits a Group of 4 Single Ladies to enter the event without cover or any additional charges till 5:30PM only, Upon Entry Post 5:30PM Additional cover charges applicable at gate as per club rules and regulations\n",
+            "inventoryLevel": 499,
+            "name": "Phase 1 - Girls Night Out [ Group of 4 Girls ]",
+            "url": "https://www.skillboxes.com/events/ticket/social-select-sundaze-ft-kampai-pia-collada-dhiraaj-ira-bb-talin-shiko-koramangala-social-rooftop"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits a group of two couples to enter the event without cover or any additional charges till 5:30PM only, Upon Entry Post 5:30PM Additional cover charges applicable at gate as per club rules and regulations\n",
+            "inventoryLevel": 10,
+            "name": "Phase 1 - Double Date! [ Group of 2 Couples ]",
+            "url": "https://www.skillboxes.com/events/ticket/social-select-sundaze-ft-kampai-pia-collada-dhiraaj-ira-bb-talin-shiko-koramangala-social-rooftop"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "Permits One Male Stag to enter the event without cover or any additional charges till 5:30PM only, Upon Entry Post 5:30PM Additional cover charges applicable at gate as per club rules and regulations\n",
-            "inventoryLevel": 13,
-            "name": "Phase 1 - Stag",
+            "inventoryLevel": 14,
+            "name": "Phase 2 - Stag",
             "url": "https://www.skillboxes.com/events/ticket/social-select-sundaze-ft-kampai-pia-collada-dhiraaj-ira-bb-talin-shiko-koramangala-social-rooftop"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits One couple to enter the event without cover or any additional charges All Day/Night Long + get yourself behind the artist and access the Backstage. The Real VIP Experience for you and your plus one at your fingertips!\n",
-            "inventoryLevel": 14,
+            "inventoryLevel": 10,
             "name": "VIP - Couple [ Anytime Entry + Backstage Access ]",
             "url": "https://www.skillboxes.com/events/ticket/social-select-sundaze-ft-kampai-pia-collada-dhiraaj-ira-bb-talin-shiko-koramangala-social-rooftop"
          },
@@ -1611,7 +1665,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits One Male stag to enter the event without cover or any additional charges All Day/Night Long. Walk-In Like a VIP!\n",
-            "inventoryLevel": 27,
+            "inventoryLevel": 14,
             "name": "VIP - Stag [ Anytime Entry ]",
             "url": "https://www.skillboxes.com/events/ticket/social-select-sundaze-ft-kampai-pia-collada-dhiraaj-ira-bb-talin-shiko-koramangala-social-rooftop"
          }
@@ -1645,7 +1699,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 941,
+            "inventoryLevel": 901,
             "name": "Rsvp Ticket",
             "url": "https://www.skillboxes.com/events/ticket/mob-mind-x-s-p-a-w-n"
          }
@@ -1679,7 +1733,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 995,
+            "inventoryLevel": 984,
             "name": "Standard Ticket",
             "url": "https://www.skillboxes.com/events/ticket/raw-real-2-ft-shubham-roy-collective-and-aabha-hanjura"
          }
@@ -1713,7 +1767,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 74,
+            "inventoryLevel": 68,
             "name": "Guest",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-dad-edition"
          },
@@ -1721,7 +1775,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "One performance slot.\nSlot will be provided on first come basis.",
-            "inventoryLevel": 44,
+            "inventoryLevel": 43,
             "name": "Performance",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-dad-edition"
          }
@@ -1858,7 +1912,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows Entry To One Female & Male Only\nMandatory Cover Charge of INR 4,000/- Applicable At The Venue",
-            "inventoryLevel": 846,
+            "inventoryLevel": 827,
             "name": "Couple RSVP Ticket",
             "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-bastian-blr-8th-june-sunday"
          },
@@ -1866,7 +1920,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows Entry To One Female Only\nMandatory Cover Charge of INR 2,000/- Applicable At The Venue",
-            "inventoryLevel": 879,
+            "inventoryLevel": 871,
             "name": "Female RSVP Ticket",
             "url": "https://www.skillboxes.com/events/ticket/sukoon-wali-qawwali-bastian-blr-8th-june-sunday"
          }
@@ -2031,7 +2085,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional 500 cover charge payable at gate\n",
-            "inventoryLevel": 282,
+            "inventoryLevel": 276,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/halla-album-launch-by-same-as-them"
          }
@@ -2108,7 +2162,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 23,
+            "inventoryLevel": 17,
             "name": "Rainbow Bridge Music Workshop",
             "url": "https://www.skillboxes.com/events/ticket/rainbow-bridge-music-workshop-3"
          }
@@ -2142,7 +2196,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/triad-come-join-the-ritual"
          }
@@ -2225,7 +2279,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover of INR 500 at the Gate. Fully redeemable on F&B.\nAge Limit - 21+",
-            "inventoryLevel": 59,
+            "inventoryLevel": 57,
             "name": "GA Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/ksetravid-x-hisaab-barabar-india-tour-bangalore"
          },
@@ -2275,7 +2329,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 703,
+            "inventoryLevel": 693,
             "name": "Phase 2 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/jobkurianliveblr"
          },
@@ -2476,14 +2530,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 78,
+            "inventoryLevel": 74,
             "name": "Phase 1 GA Ticket",
             "url": "https://www.skillboxes.com/events/ticket/taaruk-raina-live-bangalore"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 100,
+            "inventoryLevel": 96,
             "name": "Phase 2 GA Ticket",
             "url": "https://www.skillboxes.com/events/ticket/taaruk-raina-live-bangalore"
          },

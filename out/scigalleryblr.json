@@ -33,24 +33,24 @@
     "maximumAttendeeCapacity": 100
   },
   {
-    "@type": "EducationEvent",
-    "name": "Water Calamities: Studying Hydrological Extremes",
+    "@type": "Event",
+    "name": "Specimens and Stories: A Visit to Natural History Collections",
     "location": {
       "@type": "Place",
-      "name": "Science Gallery Bengaluru",
-      "address": "Science Gallery Bengaluru, Bangalore",
-      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+      "name": "National Centre for Biological Sciences",
+      "address": "National Centre for Biological Sciences, Bangalore",
+      "url": "https://maps.app.goo.gl/sZgsVT4sgj9Ub1Z69"
     },
-    "startDate": "2025-06-07T16:00:00+05:30",
-    "endDate": "2025-06-07T18:00:00+05:30",
-    "description": "What role do earth observations play in understanding floods, droughts, and other hydrological extremes?<br><br>Land surface hydrology is a collection of complex interactions between soil, vegetation, and weather patterns. The spatial variability of both the land surface properties as well as the meteorological inputs (precipitation and radiation) plays an important role in hydrology. Satellite remote sensing offers a  broad spatial and repeat temporal view of the land surface and can provide observations for use in hydrology, such as soil moisture, surface temperature and vegetation density. The variability of the water cycle causes extremes such as droughts, floods, landslides, permafrost thaw and wildfires that have a tremendous impact on society. Join Professor Venkataraman Lakshmi as he explores how earth observations and modeling together provide critical insights into hydrological extremes and their growing impact on society.<br>",
-    "url": "https://carbon.scigalleryblr.org/programmes?p=water-calamities",
+    "startDate": "2025-06-29T11:00:00+05:30",
+    "endDate": "2025-06-29T13:00:00+05:30",
+    "description": "How are specimens collected, preserved, and studied?<br><br>Join us at the Natural History Collections at NCBS and discover the fascinating world of specimens. This visit will be an opportunity to see how scientists collect, preserve, and study specimens that help us understand the story of our planet\u2019s biodiversity. From pressed plants and drawers full of insects to preserved bird specimens, every item offers clues about biodiversity, evolution, and environmental change. Participants will also learn how these collections support research, education, and conservation, and hear the stories behind them.<br><br>",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=specimens-stories",
     "performer": [
       {
         "@type": "Person",
-        "name": "Venkataraman-Laxmi"
+        "name": "Pritha-Dey"
       }
     ],
-    "maximumAttendeeCapacity": 100
+    "maximumAttendeeCapacity": 30
   }
 ]
