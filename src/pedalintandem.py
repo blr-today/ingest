@@ -26,7 +26,8 @@ def fetch_events(event_links, session):
     events = []
 
     for event_link in event_links:
-        event_page = session.get(f"{BASE_URL}{event_link}")
+        url = f"{BASE_URL}{event_link}"
+        event_page = session.get(url)
         event = BeautifulSoup(event_page.text, 'html.parser')
         location = event.select_one('div.location').get_text().strip().lower()
 
@@ -203,18 +204,15 @@ def find_timings(duration, date, soup):
     
     # Check each source for timing information
     for source in timing_sources:
-        element = soup.select_one(source['selector'])
-        if not element:
-            continue
+        for element in soup.select(source['selector']):
+            text = element.get_text().strip().lower()
             
-        text = element.get_text().strip().lower()
-        
-        for pattern, flag in source['patterns']:
-            # If flag is None or the flag text is in the content
-            if flag is None or flag in text:
-                matches = re.search(pattern, text)
-                if matches:
-                    return parse_time(matches.group(1), date)
+            for pattern, flag in source['patterns']:
+                # If flag is None or the flag text is in the content
+                if flag is None or flag in text:
+                    matches = re.search(pattern, text)
+                    if matches:
+                        return parse_time(matches.group(1), date)
     
     # If no timing was found, raise an exception
     raise ValueError("Could not find timing information in any of the expected locations")

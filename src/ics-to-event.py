@@ -11,6 +11,8 @@ if __name__ == "__main__":
     input_ics_file = sys.argv[1]
     output_json_file = sys.argv[2]
 
+    skip = False
+
     try:
         with open(input_ics_file, "r") as file:
             if len(file.read()) == 0:

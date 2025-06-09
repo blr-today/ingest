@@ -14,13 +14,16 @@ def make_offers(product: ShopifyProduct):
             "@type": "Offer",
             "priceCurrency": "INR",
             "price": variant.price,
+            "name": variant.title
         }
         for variant in product.variants
     ]
 
 # Fetch timings from the variant.title. It returns start_date and end_date timestamps
 def fetch_timings(date_str: str):
-    (_, date_part, time_part) = date_str.split(" | ")
+    parts = date_str.split(" | ")
+    date_part = parts[-2]
+    time_part = parts[-1]
 
     event_date = list(datefinder.find_dates(date_part))[0]
 
@@ -52,12 +55,14 @@ def fetch_timings(date_str: str):
 
     return timestamps
 
+def make_name(title):
+    return " | ".join(title.split(" | ")[:-2]).strip()
 
 def make_event(product, sp: Shopify):
     start_date, end_date = fetch_timings(product.title)
 
     return {
-        "name": product.title,
+        "name": make_name(product.title),
         "description": product.description,
         "url": product.url,
         "offers": make_offers(product),
