@@ -11,9 +11,19 @@ if __name__ == "__main__":
     input_ics_file = sys.argv[1]
     output_json_file = sys.argv[2]
 
-    json_data = icalendar.convert_ics_to_events(input_ics_file)
+    try:
+        with open(input_ics_file, "r") as file:
+            if len(file.read()) == 0:
+                skip = True
+    except FileNotFoundError:
+        skip = True
 
-    with open(output_json_file, "w") as output_file:
-        output_file.write(json.dumps(json_data, indent=2))
+    if skip:
+        print("[BSF] ICS Calendar is invalid or empty")
+    else:
+        json_data = icalendar.convert_ics_to_events(input_ics_file)
 
-    print(f"JSON data saved to {output_json_file}")
+        with open(output_json_file, "w") as output_file:
+            output_file.write(json.dumps(json_data, indent=2))
+
+        print(f"JSON data saved to {output_json_file}")
