@@ -94,9 +94,9 @@ SET
 WHERE
   (
     event_json ->> '$.organizer.name' LIKE 'Sheena - Banjara%'
-    OR
+    OR event_json ->> '$.description' LIKE '%Karnataka Trekkers%'
     -- https://together.buzz/host/j-n-tulika-hdj, Yoga Retreats
-    event_json ->> '$.performer.name' LIKE '%J N TULIKA%'
+    OR event_json ->> '$.performer.name' LIKE '%J N TULIKA%'
     OR url LIKE '%weekend-getaway%'
   );
 
@@ -605,7 +605,10 @@ SET
   )
 WHERE
   event_json ->> '$.location' LIKE '%jp nagar%'
-  OR event_json ->> '$.location' LIKE '%j p nagar%';
+  OR event_json ->> '$.location' LIKE '%j p nagar%'
+  OR event_json ->> '$.location' LIKE '%j. p. nagar%'
+  OR event_json ->> '$.location' LIKE '%j. p nagar%'
+  OR event_json ->> '$.location' LIKE '%j.p nagar%';
 
 
 -- Merge Brookefield with whitefield for now
