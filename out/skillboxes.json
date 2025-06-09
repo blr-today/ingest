@@ -119,6 +119,40 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "Prepare to be spellbound as artistry and enchantment come together in Magic & Melody, a one-of-a-kind show featuring the multi-talented Kalyan Sab",
+      "endDate": "2025-06-14T20:00:00",
+      "identifier": "com.skillboxes.24285",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b21SL25rNGFkWHpybTE0Mk9DbWhFQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1749455732EA0ijNkO7KKNyZvD.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "477, Shri Krishna Temple Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9788825",
+            "longitude": "77.6417088"
+         },
+         "name": "TreeHouse"
+      },
+      "name": "Magic & Music with Kalyan Sabareeshan | Sat June 14th | Treehouse, Indiranagar",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 15,
+            "name": "Regular",
+            "url": "https://www.skillboxes.com/events/ticket/magic-music-with-kalyan-sabareeshan"
+         }
+      ],
+      "startDate": "2025-06-14T18:30:00",
+      "url": "https://www.skillboxes.com/events/magic-music-with-kalyan-sabareeshan"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Join the Design Cell Sprint and design a cool sky-deck restaurant in the clouds. First, sketch your ideas with our friendly pros. Next, watch those sk",
       "endDate": "2025-06-14T06:30:00",
