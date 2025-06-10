@@ -308,53 +308,5 @@
       "cycle-rides-blr",
       "PEDALINTANDEM"
     ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsEvent",
-    "name": "Sound of Gravel",
-    "sports": "Cycling",
-    "location": {
-      "@type": "Place",
-      "address": "gravellicious routes around bangalore!"
-    },
-    "offers": [
-      {
-        "priceCurrency": "INR",
-        "@type": "offer",
-        "name": "l1 - beginner - 25 km (with b'fast)",
-        "price": "2450.00",
-        "availabilityStarts": "2025-09-14T06:15:00+05:30"
-      },
-      {
-        "priceCurrency": "INR",
-        "@type": "offer",
-        "name": "l2 - moderate - 40 km (with b'fast)",
-        "price": "2750.00",
-        "availabilityStarts": "2025-09-14T06:15:00+05:30"
-      },
-      [
-        {
-          "@type": "offer",
-          "name": "rental bike (with transport)",
-          "price": "800.00",
-          "priceCurrency": "INR"
-        },
-        {
-          "@type": "offer",
-          "name": "transport my bicycle",
-          "price": "300.00",
-          "priceCurrency": "INR"
-        }
-      ]
-    ],
-    "startDate": "2025-09-14T11:30:00+05:30",
-    "endDate": "2025-09-14T15:30:00+05:30",
-    "description": "Join our Sound of Gravel ride and experience what it's like to ride on gravel routes. What do these routes have in common with all our other routes? Well, they are just as deep in the countryside, away from traffic and the bustle of the city. Sometimes more. And they're almost completely off tarmac roads. These gravel routes vary from hard-packed dirt to smooth small-pebbled surfaces (which is actually known as gravel) that are non-technical but engaging, and smooth enough to do on a gravel or hybrid bike, typically bikes with 32mm or more tyres. Sure, you can do them on a mountain bike too. Road bikers-you need a steely pair to manoeuvre on these routes on your 25mm or 28mm slicks!Gravel:\"small, rounded stones, often mixed with sand.\" ~ Cambridge dictionary. \"aggregate of more or less rounded rock fragments coarser than sand (i.e., more than 2 mm [0.08 inch] in diameter).\"~ Britannica. Gravel Riding Explained:\"The \u2018gravel\u2019 discipline tends to describe riding a drop-bar bike on unpaved roads and trails, fitting somewhere between road cycling and mountain biking. In this case, the clue isn\u2019t really in the name \u2013 gravel riding can encompass all types of terrain, from actual gravel to wooded singletrack and everything in between.As we\u2019ll come on to, versatility is key when it comes to gravel bikes, and that extends to gravel riding as a whole. From super-chilled social rides to remote and demanding endurance racing, mass-participation events to dirt touring, there\u2019s something in gravel for everyone.\"~Bike Radar .\n\n{'DISTANCE': '25-40KM', 'MIN. GROUP SIZE': '10', 'ELEVATION GAIN': '100-250M', '% UNPAVED': '90%', '% SINGLE TRACK': '30%'}",
-    "url": "https://www.pedalintandem.com/experiences/cycle-rides-blr/sound-of-gravel",
-    "keywords": [
-      "cycle-rides-blr",
-      "PEDALINTANDEM"
-    ]
   }
 ]
