@@ -1,5 +1,26 @@
 [
   {
+    "@type": "EducationEvent",
+    "name": "Dear Earth, It's Complicated: Sci560 Exhibition Walkthrough",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-06-14T17:30:00+05:30",
+    "endDate": "2025-06-14T19:30:00+05:30",
+    "description": "How often do we stop to smell flowers, hear birdsongs, or hug trees in Namma Garden City? Has it always been like this?<br><br>How has our relationship with the Earth changed over the past few decades? Where do we fall in its intricate web of life?<br><br>Join our mediators, Aslaha and Gaayatri for a guided walkthrough of the Sci560 exhibition, where we will reflect on our evolving connection with the Earth.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=dear-earth-complicated",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Sgb-Team"
+      }
+    ],
+    "maximumAttendeeCapacity": 120
+  },
+  {
     "@type": "Event",
     "name": "Specimens and Stories: A Visit to Natural History Collections",
     "location": {
@@ -19,5 +40,113 @@
       }
     ],
     "maximumAttendeeCapacity": 30
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Commons Across Scale and Space",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-06-15T14:30:00+05:30",
+    "endDate": "2025-06-15T15:30:00+05:30",
+    "description": "What do the landscape markers of Bangalore reveal about its people and their relationship with nature? <br><br>The territory of Bangalore is a complex composition of rocky outcrops, high grounds, flat lands and valleys. The process of occupation is premised on the idea of effective management of water and its associated infrastructure \u2013 both manmade and natural. The natural capacity of the land finds varied expressions in human use \u2013 from settlements to sacred groves, from seasonal and perennial agriculture to grasslands. Join Dr. Mohan Rao as he unpacks the complex mosaic of Bangalore\u2019s landscape, where markers of culture and belief\u2014both sacred and everyday\u2014are deeply embedded. These layered terrains can be seen as \u2018watermarked\u2019 by human interaction, creating a powerful sense of place, belonging, and identity, and reflecting a longstanding relationship between society and nature.<br><br>This programme is in collaboration with Integrated Design.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=commons-scale-space",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Mohan-Rao"
+      }
+    ],
+    "maximumAttendeeCapacity": 100
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "What are the Commons?",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-06-14T11:30:00+05:30",
+    "endDate": "2025-06-14T12:30:00+05:30",
+    "description": "Are humans capable of sharing the commons?<br><br>Commons refers to shared resources that are not privately owned or managed by the government on behalf of a community. They transcend the urban and the rural and have become integral in today's environmental discourse. Join Amit Kurien and Rahul Paul as they unpack idea of the commons through engagement with private and state property, open access resources and the process of \u201ccommoning\u201d. Explore why in this day and age why thinking about land, water, air - rural and urban - and even digital spaces such as the internet commons from the perspective of commons is integral if citizens are to take back control over resources that rightfully belong to them and to prevent exploitation in the current neoliberal world order.<br><br>This programme is in collaboration with Integrated Design.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=commons-masterclass",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Amit-Kurien"
+      },
+      {
+        "@type": "Person",
+        "name": "Rahul-Paul"
+      }
+    ],
+    "maximumAttendeeCapacity": 50
+  },
+  {
+    "@type": "Event",
+    "name": "Urban Commons: Ecology, Equity & Public Space",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-06-15T15:30:00+05:30",
+    "endDate": "2025-06-15T16:30:00+05:30",
+    "description": "How can we reimagine commons in rapidly urbanising cities ?<br><br>Urban commons\u2014lakes, parks, housing collectives, and public spaces\u2014are increasingly under pressure as cities grow. Join Anjali Karol Mohan, Sony Pellissery, Brinda Sastry, Sandhya Naidu, and Mohan Rao in a panel discussion that explores how we might rethink these shared spaces\u2014from blue-green infrastructure and historic water systems to the governance of condominiums and the politics of public space design. Through diverse perspectives, the panel examines how collective stewardship, inclusive planning, and community-led design can help reimagine commons in ways that are ecologically sustainable, socially just, and deeply rooted in local context.<br><br>This programme is in collaboration with Integrated Design.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=urban-commons-space",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Anjali-Mohan"
+      },
+      {
+        "@type": "Person",
+        "name": "Sony-Pellisery"
+      },
+      {
+        "@type": "Person",
+        "name": "Brinda-Sastry"
+      },
+      {
+        "@type": "Person",
+        "name": "Sandhya-Naidu"
+      },
+      {
+        "@type": "Person",
+        "name": "Mohan-Rao"
+      }
+    ],
+    "maximumAttendeeCapacity": 100
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Study of the Commons",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-06-14T15:30:00+05:30",
+    "endDate": "2025-06-14T15:30:00+05:30",
+    "description": "How do we engage with the commons?<br><br>Join Kaustubh Rau and Nirmala Gowda as they take us through case studies of how engagement with the commons in the real world looks like. Through a documentation of the Tanks and Kaluves of Anekal, Kaustubh Rau will share insights from the work being done to preserve the Anekal wetlands. Nirmala Gowda explores how climate change policies affect commons. Tackling ideas of inclusive climate justice by looking at the drying of the Hemanthi river and hydropower projects in the western ghats.<br><br>This programme is in collaboration with Integrated Design.",
+    "url": "https://carbon.scigalleryblr.org/programmes?p=commons-case-study",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Kaustubh-Rau"
+      },
+      {
+        "@type": "Person",
+        "name": "Nirmala-Gowda"
+      }
+    ],
+    "maximumAttendeeCapacity": 100
   }
 ]

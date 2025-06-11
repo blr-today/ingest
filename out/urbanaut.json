@@ -628,53 +628,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Explore German Cuisine with Strangers",
-    "description": "New flavors. New faces. Zero small talk.Curious about German food but never had a reason to try it?This is your chance. Join a table of strangers-turned-friends as we explore the flavors of Germany \u2014 from rich stews to crisp schnitzels and everything in between.You don\u2019t need to know the cuisine, just come with an open mind and an empty stomach. The conversations are just as good as the food \u2014 and who knows, you might walk away with a new favorite dish and a new friend.\ud83d\udcab",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/ACC91ADDC94F49ECBE9447930017624D_converted_webp.webp"
-    ],
-    "startDate": "2025-06-11T19:30:00+05:30",
-    "endDate": "2025-06-11T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Indiranagar, Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
-      "latitude": "12.97836920000000000000",
-      "longitude": "77.64083560000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/explore-new-cuisine-with-strangers-at-hightable",
-    "keywords": [
-      "Premium",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "\ud83d\udc8c Letters to Strangers",
     "description": "\u200bIn a world of quick replies and seen ticks, this is a return to something slower, simpler, and more human.\u200bJoin us for a casual coffee meetup where we\u2019ll write handwritten letters\u2014not to friends you already know, but to strangers across the table. Through gentle prompts, you\u2019ll write from the heart: reflections, questions, memories, or a moment captured in ink.\u2728 What to Expect:\u200b\ud83d\udcdd\u00a0Prompts, not pressure.\u00a0You\u2019ll be gently guided to write.\ud83d\udcd3\u00a0Paper, Pen & Presence.\u00a0We\u2019re keeping it analogue\u2014no digital devices.\u2615\u00a0Coffee & quiet company.\u00a0A warm cup to keep you grounded as you write.",
@@ -2699,7 +2652,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Creative Writing Workshop",
-    "description": "This is a personalized, one-on-one writing workshop designed for those who want to reconnect with their writing in a focused, supportive space.\u00a0The workshop is structured in three parts:Part 1: Prompt-Based Self-Reflection: We`ll begin with a guided reflection exercise using carefully chosen prompts. This part helps you explore personal thoughts, emotions, and experiences through writing\u2014an excellent practice for journaling, memoir, or emotional clarity.Part 2: Creative Fiction Exercise: In the second half, you`ll be given an on-the-spot creative writing prompt to develop a short fictional piece. This encourages spontaneity, imagination, and narrative flow.Part 3: Understanding Yourself Better Using The 2 Writing ExercisesWe conclude by collecting our thoughts and discussing what you have learnt about yourself and about each other through our pieces in the workshop.\u00a0You can write in any language you`re comfortable with. This format allows for flexible pacing, open conversation, and tailored feedback (if desired).The session offers a warm and relaxed atmosphere and shall be hosted on every Sunday at 11am.\u00a0Whether you`re looking to jumpstart your writing practice, process personal experiences, or simply enjoy a quiet hours of creativity, this one-on-one session is designed to meet you where you are\u2014no pressure, just honest expression and guided structure.",
+    "description": "This is a personalized, one-on-one writing workshop designed for those who want to reconnect with their writing in a focused, supportive space.\u00a0The workshop is structured in three parts:Part 1: Prompt-Based Self-Reflection: We`ll begin with a guided reflection exercise using carefully chosen prompts. This part helps you explore personal thoughts, emotions, and experiences through writing\u2014an excellent practice for journaling, memoir, or emotional clarity.Part 2: Creative Fiction Exercise: In the second half, you`ll be given an on-the-spot creative writing prompt to develop a short fictional piece. This encourages spontaneity, imagination, and narrative flow.Part 3: Understanding Yourself Better Using The 2 Writing ExercisesWe conclude by collecting our thoughts and discussing what you have learnt about yourself and about each other through our pieces in the workshop.\u00a0You can write in any language you`re comfortable with. This format allows for flexible pacing, open conversation, and tailored feedback (if desired).Whether you`re looking to jumpstart your writing practice, process personal experiences, or simply enjoy a quiet hours of creativity, this one-on-one session is designed to meet you where you are\u2014no pressure, just honest expression and guided structure.About the host : Swathi is a Berlin based writer who writes short fiction in different genres.\u00a0She conducts creative writing workshops that help people process various emotions through self reflection pieces and overcome writer\u2019s block by building a fictional world in a limited time.\u00a0You can follow her on Instagram @swathispeaks or read her work on Medium.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EB63FBB5310A475EB24AB885134E6C38_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/213C7541AB1441A691FCD87AEA562A92_converted_webp.webp"
@@ -2747,7 +2700,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Creative Writing Workshop",
-    "description": "This is a personalized, one-on-one writing workshop designed for those who want to reconnect with their writing in a focused, supportive space.\u00a0The workshop is structured in three parts:Part 1: Prompt-Based Self-Reflection: We`ll begin with a guided reflection exercise using carefully chosen prompts. This part helps you explore personal thoughts, emotions, and experiences through writing\u2014an excellent practice for journaling, memoir, or emotional clarity.Part 2: Creative Fiction Exercise: In the second half, you`ll be given an on-the-spot creative writing prompt to develop a short fictional piece. This encourages spontaneity, imagination, and narrative flow.Part 3: Understanding Yourself Better Using The 2 Writing ExercisesWe conclude by collecting our thoughts and discussing what you have learnt about yourself and about each other through our pieces in the workshop.\u00a0You can write in any language you`re comfortable with. This format allows for flexible pacing, open conversation, and tailored feedback (if desired).The session offers a warm and relaxed atmosphere and shall be hosted on every Sunday at 11am.\u00a0Whether you`re looking to jumpstart your writing practice, process personal experiences, or simply enjoy a quiet hours of creativity, this one-on-one session is designed to meet you where you are\u2014no pressure, just honest expression and guided structure.",
+    "description": "This is a personalized, one-on-one writing workshop designed for those who want to reconnect with their writing in a focused, supportive space.\u00a0The workshop is structured in three parts:Part 1: Prompt-Based Self-Reflection: We`ll begin with a guided reflection exercise using carefully chosen prompts. This part helps you explore personal thoughts, emotions, and experiences through writing\u2014an excellent practice for journaling, memoir, or emotional clarity.Part 2: Creative Fiction Exercise: In the second half, you`ll be given an on-the-spot creative writing prompt to develop a short fictional piece. This encourages spontaneity, imagination, and narrative flow.Part 3: Understanding Yourself Better Using The 2 Writing ExercisesWe conclude by collecting our thoughts and discussing what you have learnt about yourself and about each other through our pieces in the workshop.\u00a0You can write in any language you`re comfortable with. This format allows for flexible pacing, open conversation, and tailored feedback (if desired).Whether you`re looking to jumpstart your writing practice, process personal experiences, or simply enjoy a quiet hours of creativity, this one-on-one session is designed to meet you where you are\u2014no pressure, just honest expression and guided structure.About the host : Swathi is a Berlin based writer who writes short fiction in different genres.\u00a0She conducts creative writing workshops that help people process various emotions through self reflection pieces and overcome writer\u2019s block by building a fictional world in a limited time.\u00a0You can follow her on Instagram @swathispeaks or read her work on Medium.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EB63FBB5310A475EB24AB885134E6C38_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/213C7541AB1441A691FCD87AEA562A92_converted_webp.webp"
@@ -2795,7 +2748,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Creative Writing Workshop",
-    "description": "This is a personalized, one-on-one writing workshop designed for those who want to reconnect with their writing in a focused, supportive space.\u00a0The workshop is structured in three parts:Part 1: Prompt-Based Self-Reflection: We`ll begin with a guided reflection exercise using carefully chosen prompts. This part helps you explore personal thoughts, emotions, and experiences through writing\u2014an excellent practice for journaling, memoir, or emotional clarity.Part 2: Creative Fiction Exercise: In the second half, you`ll be given an on-the-spot creative writing prompt to develop a short fictional piece. This encourages spontaneity, imagination, and narrative flow.Part 3: Understanding Yourself Better Using The 2 Writing ExercisesWe conclude by collecting our thoughts and discussing what you have learnt about yourself and about each other through our pieces in the workshop.\u00a0You can write in any language you`re comfortable with. This format allows for flexible pacing, open conversation, and tailored feedback (if desired).The session offers a warm and relaxed atmosphere and shall be hosted on every Sunday at 11am.\u00a0Whether you`re looking to jumpstart your writing practice, process personal experiences, or simply enjoy a quiet hours of creativity, this one-on-one session is designed to meet you where you are\u2014no pressure, just honest expression and guided structure.",
+    "description": "This is a personalized, one-on-one writing workshop designed for those who want to reconnect with their writing in a focused, supportive space.\u00a0The workshop is structured in three parts:Part 1: Prompt-Based Self-Reflection: We`ll begin with a guided reflection exercise using carefully chosen prompts. This part helps you explore personal thoughts, emotions, and experiences through writing\u2014an excellent practice for journaling, memoir, or emotional clarity.Part 2: Creative Fiction Exercise: In the second half, you`ll be given an on-the-spot creative writing prompt to develop a short fictional piece. This encourages spontaneity, imagination, and narrative flow.Part 3: Understanding Yourself Better Using The 2 Writing ExercisesWe conclude by collecting our thoughts and discussing what you have learnt about yourself and about each other through our pieces in the workshop.\u00a0You can write in any language you`re comfortable with. This format allows for flexible pacing, open conversation, and tailored feedback (if desired).Whether you`re looking to jumpstart your writing practice, process personal experiences, or simply enjoy a quiet hours of creativity, this one-on-one session is designed to meet you where you are\u2014no pressure, just honest expression and guided structure.About the host : Swathi is a Berlin based writer who writes short fiction in different genres.\u00a0She conducts creative writing workshops that help people process various emotions through self reflection pieces and overcome writer\u2019s block by building a fictional world in a limited time.\u00a0You can follow her on Instagram @swathispeaks or read her work on Medium.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EB63FBB5310A475EB24AB885134E6C38_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/213C7541AB1441A691FCD87AEA562A92_converted_webp.webp"
@@ -2843,7 +2796,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Creative Writing Workshop",
-    "description": "This is a personalized, one-on-one writing workshop designed for those who want to reconnect with their writing in a focused, supportive space.\u00a0The workshop is structured in three parts:Part 1: Prompt-Based Self-Reflection: We`ll begin with a guided reflection exercise using carefully chosen prompts. This part helps you explore personal thoughts, emotions, and experiences through writing\u2014an excellent practice for journaling, memoir, or emotional clarity.Part 2: Creative Fiction Exercise: In the second half, you`ll be given an on-the-spot creative writing prompt to develop a short fictional piece. This encourages spontaneity, imagination, and narrative flow.Part 3: Understanding Yourself Better Using The 2 Writing ExercisesWe conclude by collecting our thoughts and discussing what you have learnt about yourself and about each other through our pieces in the workshop.\u00a0You can write in any language you`re comfortable with. This format allows for flexible pacing, open conversation, and tailored feedback (if desired).The session offers a warm and relaxed atmosphere and shall be hosted on every Sunday at 11am.\u00a0Whether you`re looking to jumpstart your writing practice, process personal experiences, or simply enjoy a quiet hours of creativity, this one-on-one session is designed to meet you where you are\u2014no pressure, just honest expression and guided structure.",
+    "description": "This is a personalized, one-on-one writing workshop designed for those who want to reconnect with their writing in a focused, supportive space.\u00a0The workshop is structured in three parts:Part 1: Prompt-Based Self-Reflection: We`ll begin with a guided reflection exercise using carefully chosen prompts. This part helps you explore personal thoughts, emotions, and experiences through writing\u2014an excellent practice for journaling, memoir, or emotional clarity.Part 2: Creative Fiction Exercise: In the second half, you`ll be given an on-the-spot creative writing prompt to develop a short fictional piece. This encourages spontaneity, imagination, and narrative flow.Part 3: Understanding Yourself Better Using The 2 Writing ExercisesWe conclude by collecting our thoughts and discussing what you have learnt about yourself and about each other through our pieces in the workshop.\u00a0You can write in any language you`re comfortable with. This format allows for flexible pacing, open conversation, and tailored feedback (if desired).Whether you`re looking to jumpstart your writing practice, process personal experiences, or simply enjoy a quiet hours of creativity, this one-on-one session is designed to meet you where you are\u2014no pressure, just honest expression and guided structure.About the host : Swathi is a Berlin based writer who writes short fiction in different genres.\u00a0She conducts creative writing workshops that help people process various emotions through self reflection pieces and overcome writer\u2019s block by building a fictional world in a limited time.\u00a0You can follow her on Instagram @swathispeaks or read her work on Medium.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EB63FBB5310A475EB24AB885134E6C38_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/213C7541AB1441A691FCD87AEA562A92_converted_webp.webp"
@@ -2891,7 +2844,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Creative Writing Workshop",
-    "description": "This is a personalized, one-on-one writing workshop designed for those who want to reconnect with their writing in a focused, supportive space.\u00a0The workshop is structured in three parts:Part 1: Prompt-Based Self-Reflection: We`ll begin with a guided reflection exercise using carefully chosen prompts. This part helps you explore personal thoughts, emotions, and experiences through writing\u2014an excellent practice for journaling, memoir, or emotional clarity.Part 2: Creative Fiction Exercise: In the second half, you`ll be given an on-the-spot creative writing prompt to develop a short fictional piece. This encourages spontaneity, imagination, and narrative flow.Part 3: Understanding Yourself Better Using The 2 Writing ExercisesWe conclude by collecting our thoughts and discussing what you have learnt about yourself and about each other through our pieces in the workshop.\u00a0You can write in any language you`re comfortable with. This format allows for flexible pacing, open conversation, and tailored feedback (if desired).The session offers a warm and relaxed atmosphere and shall be hosted on every Sunday at 11am.\u00a0Whether you`re looking to jumpstart your writing practice, process personal experiences, or simply enjoy a quiet hours of creativity, this one-on-one session is designed to meet you where you are\u2014no pressure, just honest expression and guided structure.",
+    "description": "This is a personalized, one-on-one writing workshop designed for those who want to reconnect with their writing in a focused, supportive space.\u00a0The workshop is structured in three parts:Part 1: Prompt-Based Self-Reflection: We`ll begin with a guided reflection exercise using carefully chosen prompts. This part helps you explore personal thoughts, emotions, and experiences through writing\u2014an excellent practice for journaling, memoir, or emotional clarity.Part 2: Creative Fiction Exercise: In the second half, you`ll be given an on-the-spot creative writing prompt to develop a short fictional piece. This encourages spontaneity, imagination, and narrative flow.Part 3: Understanding Yourself Better Using The 2 Writing ExercisesWe conclude by collecting our thoughts and discussing what you have learnt about yourself and about each other through our pieces in the workshop.\u00a0You can write in any language you`re comfortable with. This format allows for flexible pacing, open conversation, and tailored feedback (if desired).Whether you`re looking to jumpstart your writing practice, process personal experiences, or simply enjoy a quiet hours of creativity, this one-on-one session is designed to meet you where you are\u2014no pressure, just honest expression and guided structure.About the host : Swathi is a Berlin based writer who writes short fiction in different genres.\u00a0She conducts creative writing workshops that help people process various emotions through self reflection pieces and overcome writer\u2019s block by building a fictional world in a limited time.\u00a0You can follow her on Instagram @swathispeaks or read her work on Medium.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EB63FBB5310A475EB24AB885134E6C38_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/213C7541AB1441A691FCD87AEA562A92_converted_webp.webp"
@@ -4508,6 +4461,150 @@
     "keywords": [
       "Leisure",
       "Local",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Memories Untouched: 2 - TPCC Bangalore",
+    "description": "This week, with the idea of exploring internalised and documented memories of the human condition, we are having Chris Marker's masterpiece \"La Jetee\", Duras' \"L'Homme Atlantique\" and \"Journey to Mexico\" made by Teo Hernandez following his return to Mexico after a 15 year exile!Know more about the curation here: https://tpcc.club/memories-untouched/",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8AA17E22135C4AB395300BC706DA420C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E47FFE9BC9D747C8917CEAE49D5080CC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/874F42178BC648EC8E4936FED8473502_converted_webp.webp"
+    ],
+    "startDate": "2025-06-12T19:45:00+05:30",
+    "endDate": "2025-06-12T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "395, 18th Main Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ902bOBoVrjsRZqcWFdG27vk",
+      "latitude": "12.94075940000000000000",
+      "longitude": "77.62343100000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 18,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "375.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Parallel Cinema Club",
+      "description": null,
+      "url": "https://urbanaut.app/partner/tpcc",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98860-01991"
+      }
+    },
+    "url": "https://urbanaut.app/spot/memories-untouched-2-tpcc-bangalore",
+    "keywords": [
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Memories Untouched: 5 - TPCC Bangalore",
+    "description": "This week, with the idea of exploring memories of our loved ones, we are having Jean Marie Straub's masterpiece \"Artemide's Knee\", Malcolm LeGrice's \"Little Dog for Roger\", \"Love Must Love\" by Myron Ort and \"Grandpeare's Pear\" made by Stephen Dwoskin on his grandfather's love for pears.Know more about the curation here: https://tpcc.club/memories-untouched/",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A467D510D3D34F41A3EFD48837D8E604_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D31C95828B234B2EA85CF4D92FBCD217_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/26151C239A004737B1AA9CEF4E389162_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2C7D5CF34424275937D0380575322E8_converted_webp.webp"
+    ],
+    "startDate": "2025-06-19T19:45:00+05:30",
+    "endDate": "2025-06-19T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "395, 18th Main Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ902bOBoVrjsRZqcWFdG27vk",
+      "latitude": "12.94075940000000000000",
+      "longitude": "77.62343100000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "375.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Parallel Cinema Club",
+      "description": null,
+      "url": "https://urbanaut.app/partner/tpcc",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98860-01991"
+      }
+    },
+    "url": "https://urbanaut.app/spot/copy-of-memories-untouched-2-tpcc-bangalore",
+    "keywords": [
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Memories Untouched: 8 - TPCC Bangalore",
+    "description": "This week, with the idea of exploring the memories of our civilisation, we are having \"Illuminated Texts\" by Bruce Elder. Breathtaking in its techniques, rhapsodic in its passion, and encyclopedic in its scope, the film traces the long fall from paradise into modern barbarism.Know more about the curation here: https://tpcc.club/memories-untouched/",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A467D510D3D34F41A3EFD48837D8E604_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/068A385C19094B9D8CF59101F8C2ADEE_converted_webp.webp"
+    ],
+    "startDate": "2025-06-26T19:45:00+05:30",
+    "endDate": "2025-06-26T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "395, 18th Main Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ902bOBoVrjsRZqcWFdG27vk",
+      "latitude": "12.94075940000000000000",
+      "longitude": "77.62343100000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "375.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Parallel Cinema Club",
+      "description": null,
+      "url": "https://urbanaut.app/partner/tpcc",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98860-01991"
+      }
+    },
+    "url": "https://urbanaut.app/spot/copy-of-copy-of-memories-untouched-2-tpcc-bangalore",
+    "keywords": [
       "Art & culture",
       "URBANAUT"
     ]
