@@ -28,7 +28,7 @@ def guess_event_type(kind):
         if key in kind:
             return event_type_mapper[key]
 
-    print("[CARBON] Unknown event type: " + kind)
+    print("[SCIGALLERY] Unknown event type: " + kind)
     return "Event"
 
 
@@ -102,7 +102,7 @@ def make_event(e, ts):
         "startDate": ts.isoformat(),
         "endDate": endDate.isoformat(),
         "description": e["blurb"],
-        "url": "https://carbon.scigalleryblr.org/programmes?"
+        "url": "https://sci560.scigalleryblr.org/programmes?"
         + urlencode({"p": e["uid"]}),
         "performer": [
             {"@type": get_performer_type(expert), "name": expert.strip()}
