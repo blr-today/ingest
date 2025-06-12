@@ -54,6 +54,8 @@ WHERE
     -- Music Camp is a very long event.
 ,
     'https://attagalatta.com/event_page.php?eventid=EVT1078'
+-- The last date to apply is gone (25 May)
+,   'https://map-india.org/map-events/training-course-in-conservation-of-photographs-in-museums-archives-and-collections/'
   );
 
 
@@ -79,7 +81,13 @@ SET
     )
   )
 WHERE
-  event_json ->> '$.organizer.name' = 'Odyssey vibes';
+  event_json ->> '$.organizer.name' = 'Odyssey vibes'
+  -- https://urbanaut.app/about-hightable
+  -- Currently rated 2.7 at Urbanaut
+  -- Mostly stranger meets which are anyway meh.
+  OR event_json ->> '$.organizer.name' = 'HighTable'
+  -- Stranger food meets rated 2.8
+  OR event_json ->> '$.organizer.name' = 'Bento Bento';
 
 
 -- Mark some events as not happening in Bangalore
@@ -124,6 +132,7 @@ WHERE
     OR event_json ->> '$.name' LIKE '%sound bath%'
     OR event_json ->> '$.url'  LIKE '%sound-bath%'
     OR event_json ->> '$.name' LIKE '%sound healing%'
+    OR event_json ->> '$.description' LIKE '%sound healing%'
     OR event_json ->> '$.name' LIKE '%Breathwork%'
     OR event_json ->> '$.name' LIKE '%SoundBath%'
     -- By tapping into your true voice, you have the ability to shift your reality
@@ -730,3 +739,20 @@ WHERE
     OR event_json ->> '$.location' LIKE '%LVDS%'
   )
   AND substr(event_json ->> '$.startDate', 0, 10) != substr(event_json ->> '$.endDate', 0, 10);
+
+-- Mark events where the description includes the words
+-- "online session" or "zoom link" as ONLINE
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'ONLINE'
+    )
+  )
+WHERE
+ event_json ->> '$.description' LIKE '%online session%'
+ OR event_json ->> '$.description' LIKE '%zoom link%';
