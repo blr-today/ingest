@@ -1,1 +1,39 @@
-[]
+[
+  {
+    "@type": "MusicEvent",
+    "name": "World Music Day: Girish and The Chronicles Live",
+    "about": "Don't miss out on the chance to catch Girish and the Chronicles live in action, as they bring their electrifying Indian rock sound to the stage. With a history of sharing the spotlight with renowned international acts and a recent opening performance for Guns N' Roses, this is a party you won't want to miss for an unforgettable night of music and energy.",
+    "url": "https://www.district.in/events/world-music-day-girish-and-the-chronicles-live-jun21-2025-buy-tickets",
+    "startDate": "2025-06-21T21:30:00+05:30",
+    "endDate": "2025-06-21T23:30:00+05:30",
+    "image": "https://firebasestorage.googleapis.com/v0/b/tonight-is.appspot.com/o/parties%2F01Lxg99ImlfXsBS5b0U8%2FbannerImages%2F25qjY5OyC6oRYqh7pU6p-gatc.jpg?alt=media&token=79940e3e-39f4-48ba-9b9e-cd111b6a40b2",
+    "performer": {
+      "@type": "MusicGroup",
+      "name": "Various Artists"
+    },
+    "location": {
+      "@type": "Place",
+      "name": "Hard Rock Cafe, St Marks Rd - Bengaluru",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "40, St Marks Rd, Shanthala Nagar, Ashok Nagar",
+        "addressLocality": "Bangalore",
+        "addressRegion": "Karnataka",
+        "addressCountry": "IN"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "12.9761788",
+        "longitude": "77.6015427"
+      }
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "JSM Corporation"
+    },
+    "offers": {
+      "@type": "Offer",
+      "url": "https://www.district.in/events/world-music-day-girish-and-the-chronicles-live-jun21-2025-buy-tickets"
+    }
+  }
+]
