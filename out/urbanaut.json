@@ -2961,52 +2961,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Cocktail Concerts",
-    "description": "An easygoing evening where good music meets great drinks. Enjoy live rock and pop performances while sipping on handcrafted cocktails in a relaxed bar setting. Whether you`re here for the tunes, the drinks, or just to unwind with friends, it`s the perfect way to spend your night.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EAC5BF92D64242CE9F1B102228511FA6_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A7387FBCA1B447D18A27D6E23040B4D1_converted_webp.webp"
-    ],
-    "startDate": "2025-06-14T20:00:00+05:30",
-    "endDate": "2025-06-14T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVTeAtXkRrjsRPyAJzdxl0HA",
-      "latitude": "12.98209230000000000000",
-      "longitude": "77.70862830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 200,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Hamilton",
-      "description": null,
-      "url": "https://urbanaut.app/partner/hamilton",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CED7A4CC2AA4EC9BD02E06C4F0731E7_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-63620-01931"
-      }
-    },
-    "url": "https://urbanaut.app/spot/cocktail-concerts",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Sunday Breakfast: Success, Failures and the Story",
     "description": "Make Your Sunday Shine with New Connections!\u2728Strangers. Stories. A Shared Meal.This table invites people who\u2019ve never met to open up about the real journeys behind their titles and timelines\u2014the successes that changed everything, the failures that taught the most, and the messy middle where most of us live.Whether personal or professional, your story is welcome here.Come with honesty, curiosity, and an open heart\u2014and leave with a little more perspective (and maybe a few new connections).",
@@ -3049,54 +3003,6 @@
     "keywords": [
       "Leisure",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Hystorically Speaking #2 with Berty Ashley",
-    "description": "\u2018Hystorically Speaking\u2019If not learn from, atleast let\u2019s laugh at history.A live show by Berty Ashley as he takes you through the bits of history your school teacher didn\u2019t tell you about.Learn about a butt that changed the global economy, a computer that put two feet on a mountain and more!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A0E6FAB33C8945E895A28D8A3B333229_converted_webp.webp"
-    ],
-    "startDate": "2025-06-14T20:30:00+05:30",
-    "endDate": "2025-06-14T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
-      "latitude": "12.96722140000000000000",
-      "longitude": "77.63669820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "We're a community center for thoughtful, kind, and interesting events.",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97905-32594"
-      }
-    },
-    "url": "https://urbanaut.app/spot/hystorically-speaking-2-with-berty-ashley",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
-      "Art & culture",
       "URBANAUT"
     ]
   },
