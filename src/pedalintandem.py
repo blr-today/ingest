@@ -186,8 +186,8 @@ def find_timings(duration, date, soup):
         {
             'selector': 'div.text-box div.trix-content li',
             'patterns': [
-                # "Meet at X, by 3 pm" pattern
-                (r'by\s+([^\.,]+(?:am|pm|AM|PM))', 'meet at'),
+                # "Meet at [X?], by 3 pm" pattern
+                (r'\s+([^\.,]+(?:am|pm|AM|PM))', 'meet at'),
                 # "Meeting time: 6:30 am" pattern
                 (r'meeting\s+time:?\s+([^\.,]+(?:am|pm|AM|PM))', None)
             ]
