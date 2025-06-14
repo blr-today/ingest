@@ -152,6 +152,91 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Get ready for a night of high-voltage music and electrifying vibes as Kitty Ko brings you Elecktraa x Beatinspector, live at The Lalit Ashok Bangalore",
+      "endDate": "2025-06-21T01:30:00",
+      "identifier": "com.skillboxes.24533",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/174989698188wTLjErWWNnHt8g.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "HOTEL, THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Redroom Ft. Elecktraa & Beat Inspector",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 1 female )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elecktraa-beat-inspector"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 1 male )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elecktraa-beat-inspector"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows entry to 1 couple. Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "inventoryLevel": 100,
+            "name": "EARLY BIRD COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-elecktraa-beat-inspector"
+         }
+      ],
+      "startDate": "2025-06-20T19:00:00",
+      "url": "https://www.skillboxes.com/events/redroom-ft-elecktraa-beat-inspector"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Play for Pride is a celebration of authenticity, creativity, and unapologetic self-expression. It’s where the flow arts community meets the quee",
+      "endDate": "2025-06-28T23:59:00",
+      "identifier": "com.skillboxes.24515",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17498842288tbyxfRPAi9Hsptk.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Performing Art"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "12/2, Yeshwanthpur Industrial Suburb, Estate, Bengaluru, Karnataka 560086, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0138897",
+            "longitude": "77.5481114"
+         },
+         "name": "Bangalore Creative Circus"
+      },
+      "name": "Play for Pride",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Regular Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/play-for-pride"
+         }
+      ],
+      "startDate": "2025-06-28T16:00:00",
+      "url": "https://www.skillboxes.com/events/play-for-pride"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Brace yourself for another unforgettable night as CentiGrade Club Nights returns with the electrifying ANSWER live at PANGEO this June.Dive into a hig",
       "endDate": "2025-06-29T01:00:00",
       "identifier": "com.skillboxes.24504",
