@@ -363,6 +363,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "\"ONE NIGHT IN GINZA\r\n\r\n \r\n\r\nImmerse yourself in the ultimate party experience at Ginza, Bangalore's most coveted and hottest party hotsp",
+      "endDate": "2025-06-15T23:59:00",
+      "identifier": "com.skillboxes.24459",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1749739582zCAsaKmJGqn8Gesj.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "27, 4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9330592",
+            "longitude": "77.6138532"
+         },
+         "name": "Ginza"
+      },
+      "name": "ONE NIGHT IN GINZA",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/one-night-in-ginza"
+         }
+      ],
+      "startDate": "2025-06-15T20:00:00",
+      "url": "https://www.skillboxes.com/events/one-night-in-ginza"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Get ready for the ultimate techno showcase in your city – PROTOCOL SUNDAYS! Catch the techno sensation A BECKER live at Kitty Ko this June.Date ",
       "endDate": "2025-06-30T01:00:00",
       "identifier": "com.skillboxes.24456",
@@ -464,7 +498,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 14,
+            "inventoryLevel": 13,
             "name": "Early Bird || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/ripple-reverie-a-grateful-dead-tribute-by-grateheads"
          }
@@ -1222,6 +1256,40 @@
       ],
       "startDate": "2025-06-22T17:00:00",
       "url": "https://www.skillboxes.com/events/sundowner-raga-2"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "Join us for an engaging 2-hour workshop where creativity meets mindfulness. No prior art experience needed-just a desire to relax, explore, and create",
+      "endDate": "2025-06-15T13:30:00",
+      "identifier": "com.skillboxes.24114",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1749044731g5j8RqygbD2izmVu.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "126/5/4, Nallurahalli Main Rd, Palm Meadows, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9602491",
+            "longitude": "77.7326977"
+         },
+         "name": "Namma Ashram - Cafe, Yoga, Stay, Shop, Events & more"
+      },
+      "name": "Colors of Calm : A Mandala Art Workshop",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Workshop For 1",
+            "url": "https://www.skillboxes.com/events/ticket/colors-of-calm-a-mandala-art-workshop"
+         }
+      ],
+      "startDate": "2025-06-15T11:30:00",
+      "url": "https://www.skillboxes.com/events/colors-of-calm-a-mandala-art-workshop"
    },
    {
       "@context": "https://schema.org",

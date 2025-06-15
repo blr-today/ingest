@@ -397,5 +397,53 @@
       "cycle-rides-blr",
       "PEDALINTANDEM"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Nandi Countryside",
+    "sports": "Cycling",
+    "location": {
+      "@type": "Place",
+      "address": "nandi, bengaluru"
+    },
+    "offers": [
+      {
+        "priceCurrency": "INR",
+        "@type": "offer",
+        "name": "l2 - moderate - 45 km",
+        "price": "3150.00",
+        "availabilityStarts": "2025-09-21T06:00:00+05:30"
+      },
+      {
+        "priceCurrency": "INR",
+        "@type": "offer",
+        "name": "l3 - challenging - 65 km",
+        "price": "3450.00",
+        "availabilityStarts": "2025-09-21T06:00:00+05:30"
+      },
+      [
+        {
+          "@type": "offer",
+          "name": "rental bike (with transport)",
+          "price": "900.00",
+          "priceCurrency": "INR"
+        },
+        {
+          "@type": "offer",
+          "name": "transport my bicycle",
+          "price": "400.00",
+          "priceCurrency": "INR"
+        }
+      ]
+    ],
+    "startDate": "2025-09-21T11:45:00+05:30",
+    "endDate": "2025-09-21T16:45:00+05:30",
+    "description": "Our route for this half-day tour weaves through the hills and lush forests around Nandi. We have curated rides of difficulty different levels in the region. The level-1 ride charts out a fairly easy route through some flat terrain while still touching upon several scenic spots. The climbs in the level-2 and level-3 route variations in this region are challenging, with some exhilarating descents. You will experience riding on quiet traffic-free forest and village roads, that run beside a couple of pristine lakes and dams. All the joys of bicycle touring wrapped into a few hours of riding.\n \n\n{'DISTANCE': '30-65KM', 'MIN. GROUP SIZE': '10', 'ELEVATION GAIN': '200-700M', '% UNPAVED': '10%'}",
+    "url": "https://www.pedalintandem.com/experiences/cycle-rides-blr/nandi-countryside",
+    "keywords": [
+      "cycle-rides-blr",
+      "PEDALINTANDEM"
+    ]
   }
 ]
