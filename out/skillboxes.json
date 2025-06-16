@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General admission || Valid for one individual || For Age(s) 21+\nAn additional cover charge of INR 799 per individual is applicable at the gates. Redeemable on F&B",
-            "inventoryLevel": 438,
+            "inventoryLevel": 436,
             "name": "Phase 1 Single || GA",
             "url": "https://www.skillboxes.com/events/ticket/matthew-ifield-live-in-bengaluru"
          },
@@ -34,7 +34,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General admission || Valid for two individuals || For Age(s) 21+\nAn additional cover charge of INR 799 per individual is applicable at the gates. Redeemable on F&B",
-            "inventoryLevel": 952,
+            "inventoryLevel": 945,
             "name": "Group of 2 Tickets",
             "url": "https://www.skillboxes.com/events/ticket/matthew-ifield-live-in-bengaluru"
          },
@@ -152,6 +152,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Raw & Real – Episode 3Featuring: Mars Mansion Mystery | Derek & The Cats Saturday, July 5 | 8PMGet ready for a night where the",
+      "endDate": "2025-07-05T22:30:00",
+      "identifier": "com.skillboxes.24555",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UHhQSFEvWW5SUEVxb2R0ZUVEaU1GUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750048817pXvwj0koul7bDhZX.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Thimmaiah Rd, opposite UNI, Kaverappa Layout, Vasanth Nagar, Bengaluru, Karnataka 560052, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9913871",
+            "longitude": "77.5968124"
+         },
+         "name": "Alliance Française de Bangalore"
+      },
+      "name": "Raw & Real - 3 (ft. Mars Mansion Mystery & Derek & the Cats)",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Collect your wrist band from the gate\n8 pm we start",
+            "inventoryLevel": 50,
+            "name": "Early Bird Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/raw-real-3-ft-mars-mansion-mystery-derek-the-cats"
+         }
+      ],
+      "startDate": "2025-07-05T20:00:00",
+      "url": "https://www.skillboxes.com/events/raw-real-3-ft-mars-mansion-mystery-derek-the-cats"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "ILAYATHALAPATHY VIJAY BIRTHDAY BASH",
       "endDate": "2025-06-22T23:59:00",
       "identifier": "com.skillboxes.24550",
@@ -182,6 +217,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
             "inventoryLevel": 1000,
             "name": "Male Pass",
             "url": "https://www.skillboxes.com/events/ticket/ilayathalapathy-vijay-birthday-bash"
@@ -189,6 +225,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
             "inventoryLevel": 1000,
             "name": "Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/ilayathalapathy-vijay-birthday-bash"
@@ -498,7 +535,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 100,
+            "inventoryLevel": 95,
             "name": "Lady",
             "url": "https://www.skillboxes.com/events/ticket/malluminati-south-soul-live"
          },
@@ -557,7 +594,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 88,
+            "inventoryLevel": 85,
             "name": "Male Pass",
             "url": "https://www.skillboxes.com/events/ticket/vijay-ilaya-thalapathi-bday-bash"
          },
@@ -599,7 +636,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/iram-live-at-bangalore-creative-circus"
          }
@@ -669,7 +706,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "No cover charge applicable on this ticket.\n",
-            "inventoryLevel": 992,
+            "inventoryLevel": 990,
             "name": "Participant Ticket",
             "url": "https://www.skillboxes.com/events/ticket/refuell-rap-cypher"
          },
@@ -904,7 +941,7 @@
       "description": "Get ready for an electrifying night as LIMITLESS brings you ALMOST HUMAN live at Gawky Goose this June.\r\n\r\n \r\n\r\nImmerse yourself in cutting-edge ",
       "endDate": "2025-06-22T01:00:00",
       "identifier": "com.skillboxes.24242",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17494915264JGBboPouWXKggWR.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17500536832LxvkEh7vtE1Mx4D.jpg.webp",
       "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
@@ -1045,7 +1082,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable Post 7PM\n",
-            "inventoryLevel": 451,
+            "inventoryLevel": 444,
             "name": "Male Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/sundowner-raga-2"
          },
@@ -1061,7 +1098,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable Post 9PM\n",
-            "inventoryLevel": 486,
+            "inventoryLevel": 480,
             "name": "Couple Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/sundowner-raga-2"
          }
@@ -1091,24 +1128,7 @@
          "name": "Kitty Ko"
       },
       "name": "AMOTIK",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles entry for 1 Female to the event. Mandatory cover charges applicable at the venue.\n",
-            "inventoryLevel": 98,
-            "name": "Female - pass",
-            "url": "https://www.skillboxes.com/events/ticket/amotik"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles entry for 1 Male to the event. Mandatory cover charges applicable at the venue.\n",
-            "inventoryLevel": 96,
-            "name": "Male - pass",
-            "url": "https://www.skillboxes.com/events/ticket/amotik"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2025-06-15T19:00:00",
       "url": "https://www.skillboxes.com/events/amotik"
    },
@@ -1139,7 +1159,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charge INR 500/- per individual applicable at gates. Redeemable on F&B\nGeneral admission || Valid for one individuals || Attendees under 21 must be accompanied by an adult. Accompanying adults must also have a valid ticket.",
-            "inventoryLevel": 36,
+            "inventoryLevel": 33,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/meewakching-bildungsroman-Bengaluru"
          },
@@ -1225,7 +1245,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 cover charge payable at gate.\n",
-            "inventoryLevel": 978,
+            "inventoryLevel": 977,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/monkey-rock-fest-featuring-kasa-vidyut-and-dimorphous-expression"
          }
@@ -1259,7 +1279,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 3,
+            "inventoryLevel": 1,
             "name": "Phase 1 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/metal-blitz"
          },
@@ -1780,14 +1800,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 687,
+            "inventoryLevel": 682,
             "name": "Gold Ticket I-R",
             "url": "https://www.skillboxes.com/events/ticket/mudroad-presents-one-of-these-nights"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 859,
+            "inventoryLevel": 850,
             "name": "Platinum Ticket A-H",
             "url": "https://www.skillboxes.com/events/ticket/mudroad-presents-one-of-these-nights"
          }
@@ -1822,7 +1842,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Short Film Night | 20/06/2025\nYou can also Register for ALT EFF Voices.",
-            "inventoryLevel": 96,
+            "inventoryLevel": 93,
             "name": "One Time Ticket",
             "url": "https://www.skillboxes.com/events/ticket/tickets-membership-bengaluru-3"
          },
