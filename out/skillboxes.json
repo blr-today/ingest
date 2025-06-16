@@ -152,6 +152,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Indie Fridays ft. Utsavi Jha\r\n\r\nTiming - 8 pm onwards\r\n\r\nVenue - Koramangala\r\n\r\nDate - Friday, 20th June\r\n\r\n \r\n\r\nTickets priced at INR 499 + 500 ",
+      "endDate": "2025-06-20T23:59:00",
+      "identifier": "com.skillboxes.24597",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750077418AFqtDqS7qjvTurhX.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9313063",
+            "longitude": "77.6329297"
+         },
+         "name": "Bira 91 Taproom, Koramangala"
+      },
+      "name": "Indie Fridays ft. Utsavi Jha",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "500rs Cover Charge Applicable at the gates\n",
+            "inventoryLevel": 1000,
+            "name": "Entry Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/indie-fridays-ft-utsavi-jha"
+         }
+      ],
+      "startDate": "2025-06-20T20:00:00",
+      "url": "https://www.skillboxes.com/events/indie-fridays-ft-utsavi-jha"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "SUIT AND PANDA - Live at ZOZO The Club BengaluruGet ready for an electrifying night as Suit and Panda takes over SOZO The Club on Saturday June 28 A p",
       "endDate": "2025-06-28T23:59:00",
       "identifier": "com.skillboxes.24585",
@@ -269,6 +304,40 @@
       ],
       "startDate": "2025-06-21T22:00:00",
       "url": "https://www.skillboxes.com/events/sagar-waali-qawwali-live-at-sunburn-union"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Forlorn Pages Unturned – Acoustic Sessions\n🗓 Date: 19th July | 🕘 Time: 9 PM onwards\n📍 Location: RSVP-only (detai",
+      "endDate": "2025-07-19T22:00:00",
+      "identifier": "com.skillboxes.24583",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QjQ0MCtQM1VZTmNqcTRKTWVnNGZwZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750077660BUipd1SjK8LPYQ9b.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4, 1st Main Rd, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9261333",
+            "longitude": "77.637461"
+         },
+         "name": "Gel Studios"
+      },
+      "name": "Forlorn Pages Unturned - Acoustic Sessions",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 31,
+            "name": "General Admission",
+            "url": "https://www.skillboxes.com/events/ticket/forlorn-pages-unturned-acoustic-sessions"
+         }
+      ],
+      "startDate": "2025-07-19T21:00:00",
+      "url": "https://www.skillboxes.com/events/forlorn-pages-unturned-acoustic-sessions"
    },
    {
       "@context": "https://schema.org",
@@ -622,7 +691,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 13,
+            "inventoryLevel": 9,
             "name": "Early Bird || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/ripple-reverie-a-grateful-dead-tribute-by-grateheads"
          }
