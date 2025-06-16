@@ -143,6 +143,8 @@ WHERE
     -- Energetic healing and alignment as guided
     OR event_json ->> '$.organizer.name' LIKE '%sumedha purohit%'
     OR event_json ->> '$.description' LIKE '%cosmicsoulwhisperer%'
+    -- Zuva Life
+    OR event_json ->> '$.description' LIKE '%soul-led session%'
     -- https://urbanaut.app/partner/tarotwithtan
     OR event_json ->> '$.organizer.name' LIKE '%tarot with tan%'
     -- https://allevents.in/org/channel-ur-life-wellness-clinic/23383426
