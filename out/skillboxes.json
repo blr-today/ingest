@@ -152,6 +152,106 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Bolly Billionaires Club Friday Happy Brew",
+      "endDate": "2025-06-27T23:59:00",
+      "identifier": "com.skillboxes.24676",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750180265dMRo5IHZ69qx6A7L.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No.40, 4th B Cross, 5th Block industrial layout, Koramangala Bangalore, India",
+         "name": "HAPPY BREW"
+      },
+      "name": "Bolly Billionaires Club Friday Happy Brew",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "20th June || 8 Pm - Female Pass",
+            "url": "https://www.skillboxes.com/events/ticket/bolly-billionaires-club-friday-happy-brew"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "27th June || 8 Pm - Female Pass",
+            "url": "https://www.skillboxes.com/events/ticket/bolly-billionaires-club-friday-happy-brew"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "27th June || 8 Pm - Female Pass",
+            "url": "https://www.skillboxes.com/events/ticket/bolly-billionaires-club-friday-happy-brew"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "27th June || 8 Pm - Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/bolly-billionaires-club-friday-happy-brew"
+         }
+      ],
+      "startDate": "2025-06-20T20:00:00",
+      "url": "https://www.skillboxes.com/events/bolly-billionaires-club-friday-happy-brew"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Ride, Roast and Rock",
+      "endDate": "2025-06-21T23:59:00",
+      "identifier": "com.skillboxes.24671",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750168315RPmPoqVlacrVXpWf.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Live Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "529/530, Intermediate Ring Rd, Krishna Reddy Layout, Amarjyoti Layout, Bengaluru, Karnataka 560071, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9539938",
+            "longitude": "77.6408899"
+         },
+         "name": "Ultraviolette Hangar"
+      },
+      "name": "Ride, Roast and Rock",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Explore coffee like never before with Bangalore’s top roasters, Maverick and Farmer. Select your base brew, infuse it with fruity, floral, smoky, creamy, or nutty notes, and create your signature beverage. Interactive, fun, and guaranteed to spark your inner barista!\n",
+            "inventoryLevel": 15,
+            "name": "Coffee Mixology by Maverick and Farmer || 1:30PM - 4:00PM",
+            "url": "https://www.skillboxes.com/events/ticket/ride-roast-and-rock"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "The Ultraviolette Hangar transforms into an energetic soundscape featuring Bangalore’s indie sensation I Got the Wrong Tattoo. Expect an electrifying evening of live music, vibrant energy, and a spirited atmosphere, celebrating the perfect close to World Motorcycling Day!\n",
+            "inventoryLevel": 150,
+            "name": "Live Band Performance: I Got the Wrong Tattoo || 7:00PM - 9:00PM",
+            "url": "https://www.skillboxes.com/events/ticket/ride-roast-and-rock"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 13,
+            "name": "All Day Pass for Mixology Session and Band Performance",
+            "url": "https://www.skillboxes.com/events/ticket/ride-roast-and-rock"
+         }
+      ],
+      "startDate": "2025-06-21T08:00:00",
+      "url": "https://www.skillboxes.com/events/ride-roast-and-rock"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Elevate your Friday night!Join us at the stunning Skydeck by Sherlock's for an unforgettable DJ night featuring the biggest Commercial hits and your f",
       "endDate": "2025-06-20T23:59:00",
       "identifier": "com.skillboxes.24655",
@@ -295,7 +395,7 @@
       "endDate": "2025-07-28T23:59:00",
       "identifier": "com.skillboxes.24623",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750097233rdUCzVq3xq1gguhQ.jpg.webp",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -315,23 +415,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 1000,
-            "name": "Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-28th-july"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-28th-july"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Couple Pass",
+            "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-28th-july"
          }
       ],
@@ -345,7 +429,7 @@
       "endDate": "2025-07-21T23:59:00",
       "identifier": "com.skillboxes.24622",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750097233rdUCzVq3xq1gguhQ.jpg.webp",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -365,23 +449,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 1000,
-            "name": "Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-21st-july"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-21st-july"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Couple Pass",
+            "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-21st-july"
          }
       ],
@@ -395,7 +463,7 @@
       "endDate": "2025-07-14T23:59:00",
       "identifier": "com.skillboxes.24621",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750097233rdUCzVq3xq1gguhQ.jpg.webp",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -415,23 +483,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 1000,
-            "name": "Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-14th-july"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-14th-july"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Couple Pass",
+            "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-14th-july"
          }
       ],
@@ -445,7 +497,7 @@
       "endDate": "2025-07-07T23:59:00",
       "identifier": "com.skillboxes.24620",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750097233rdUCzVq3xq1gguhQ.jpg.webp",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -465,23 +517,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 1000,
-            "name": "Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-7th-july"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-7th-july"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Couple Pass",
+            "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-7th-july"
          }
       ],
@@ -495,7 +531,7 @@
       "endDate": "2025-06-30T23:59:00",
       "identifier": "com.skillboxes.24619",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750097233rdUCzVq3xq1gguhQ.jpg.webp",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -515,23 +551,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 1000,
-            "name": "Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-30th-june"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-30th-june"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Couple Pass",
+            "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-30th-june"
          }
       ],
@@ -545,7 +565,7 @@
       "endDate": "2025-06-23T23:59:00",
       "identifier": "com.skillboxes.24618",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750097233rdUCzVq3xq1gguhQ.jpg.webp",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -565,23 +585,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 1000,
-            "name": "Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-23rd-june"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-23rd-june"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Couple Pass",
+            "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-23rd-june"
          }
       ],
@@ -621,7 +625,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
             "inventoryLevel": 1000,
             "name": "Male Pass",
             "url": "https://www.skillboxes.com/events/ticket/karaoke-night"
@@ -629,7 +632,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
             "inventoryLevel": 1000,
             "name": "Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/karaoke-night"
@@ -671,7 +673,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
             "inventoryLevel": 1000,
             "name": "Male Pass",
             "url": "https://www.skillboxes.com/events/ticket/dj-night-rhythm-reloaded"
@@ -679,7 +680,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
             "inventoryLevel": 1000,
             "name": "Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/dj-night-rhythm-reloaded"
@@ -721,7 +721,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
             "inventoryLevel": 1000,
             "name": "Male Pass",
             "url": "https://www.skillboxes.com/events/ticket/friday-night-live-music-with-anshin"
@@ -729,7 +728,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
             "inventoryLevel": 1000,
             "name": "Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/friday-night-live-music-with-anshin"
@@ -771,7 +769,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
             "inventoryLevel": 1000,
             "name": "Male Pass",
             "url": "https://www.skillboxes.com/events/ticket/thalapathy-vijay-birthday-bash"
@@ -779,7 +776,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
             "inventoryLevel": 1000,
             "name": "Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/thalapathy-vijay-birthday-bash"
@@ -821,7 +817,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
             "inventoryLevel": 1000,
             "name": "Male Pass",
             "url": "https://www.skillboxes.com/events/ticket/dj-night-party"
@@ -829,7 +824,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
             "inventoryLevel": 1000,
             "name": "Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/dj-night-party"
@@ -871,7 +865,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
             "inventoryLevel": 1000,
             "name": "Male Pass",
             "url": "https://www.skillboxes.com/events/ticket/anshin-live-music"
@@ -879,7 +872,6 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
             "inventoryLevel": 1000,
             "name": "Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/anshin-live-music"
@@ -895,7 +887,7 @@
       "endDate": "2025-06-19T23:59:00",
       "identifier": "com.skillboxes.24604",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750087047TLx4tJ3pCKEIUAok.jpg.webp",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -915,23 +907,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 1000,
-            "name": "Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/live-singing-telugu-musical-night-with-ms-snigdha-nelli"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/live-singing-telugu-musical-night-with-ms-snigdha-nelli"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Couple Pass",
+            "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/live-singing-telugu-musical-night-with-ms-snigdha-nelli"
          }
       ],
@@ -964,16 +940,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Permits Free entry to one couple till 9:30PM only, Post 9:30PM a additional cover charge will be applicable upon arrival at gate\n",
-            "inventoryLevel": 100,
-            "name": "Rsvp Couple",
-            "url": "https://www.skillboxes.com/events/ticket/somad-y2k-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "Permits Free entry to one female till 9:30PM only, Post 9:30PM a additional cover charge will be applicable upon arrival at gate\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 57,
             "name": "Rsvp Female",
             "url": "https://www.skillboxes.com/events/ticket/somad-y2k-party"
          },
@@ -981,7 +949,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits entry to one Male stag with a mandatory cover charges applicable upon arrival at gate\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 8,
             "name": "Rsvp Stag",
             "url": "https://www.skillboxes.com/events/ticket/somad-y2k-party"
          },
@@ -1007,6 +975,14 @@
             "description": "Permits Anytime entry to one one male stag with a full Cover redeemable on F&B. Collect your Cover coupon of INR 3000/- Upon Arrival at Gate.  INR 3000/-\n",
             "inventoryLevel": 100,
             "name": "VIP STAG [ ANYTIME ENTRY + FULL COVER ]",
+            "url": "https://www.skillboxes.com/events/ticket/somad-y2k-party"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Permits Free entry to one couple till 9:30PM only, Post 9:30PM a additional cover charge will be applicable upon arrival at gate\n",
+            "inventoryLevel": 0,
+            "name": "Rsvp Couple",
             "url": "https://www.skillboxes.com/events/ticket/somad-y2k-party"
          }
       ],
@@ -1040,7 +1016,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges of 1000rs applicable post 9:30pm.\n",
-            "inventoryLevel": 300,
+            "inventoryLevel": 264,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/bwb-presents-body-rydm-ft-sindhi-curry-alina-master-shifu"
          }
