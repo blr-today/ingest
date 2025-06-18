@@ -22,7 +22,7 @@
   },
   {
     "@type": "EducationEvent",
-    "name": "Translating Science into Impact: Our PCR Innovation Story (tentative title)",
+    "name": "Translating Science into Impact: Innovations in PCR",
     "location": {
       "@type": "Place",
       "name": "Science Gallery Bengaluru",
@@ -31,7 +31,7 @@
     },
     "startDate": "2025-06-22T16:00:00+05:30",
     "endDate": "2025-06-22T16:00:00+05:30",
-    "description": "How have innovations in molecular biology changed our lives?<br><br>Sometimes it can be difficult to directly connect modern scientific discovery to its real world impacts. Chandrsekhar Nair will bridge this gap by leading the audience through the story of how a deep understanding of molecular biology and PCR (Polymerase Chain Reaction) technology led to innovative solutions with tangible outcomes. Through his lecture he highlights how essential it is to translate science into innovation.<br>",
+    "description": "How have innovations in molecular biology changed our lives?<br><br>Sometimes it can be difficult to directly connect modern scientific discovery to its real-world impacts. Join Chandrasekhar Nair as he bridges this gap by leading the audience through the story of how a deep understanding of molecular biology and PCR (Polymerase Chain Reaction) technology led to innovative solutions with tangible outcomes like testing for various infectious diseases.Through his lecture he highlights how essential it is to translate science into innovation.",
     "url": "https://sci560.scigalleryblr.org/programmes?p=pcr-innovation",
     "performer": [
       {
@@ -69,5 +69,51 @@
       }
     ],
     "maximumAttendeeCapacity": 35
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "The Story of the Great Trigonometrical Survey",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-07-05T16:00:00+05:30",
+    "endDate": "2025-07-05T16:00:00+05:30",
+    "description": "Have you ever heard of the Great Trignometrical Survey?<br><br><br><br>Join us as Meera Iyer and Shruthi Rao take us through the story of one of the most astounding projects in the history of science. From its origins in Bengaluru all the way to the heights of the Himalayas. The talk will touch upon some of the most famous surveyors in the GTS including William Lambton and George Everest. Exploring why exactly these surveyors had to tramp across the country, braving wild beasts, monsoons, and disease in their quest for inch-perfect maps? It will also speak about some of the forgotten Indians who were a part of this extraordinary work. <br>",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=great-trignometrical-survey",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Meera-Iyer"
+      },
+      {
+        "@type": "Person",
+        "name": "Shruthi-Rao"
+      }
+    ],
+    "maximumAttendeeCapacity": 100
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Mechanism Design: Aligning Divergent Stakeholders",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-06-28T11:00:00+05:30",
+    "endDate": "2025-06-28T13:00:00+05:30",
+    "description": "This workshop, a sequel to the one on 'Too Many Cooks Spoil the Broth: Planning for Bengaluru', is about 'mechanism design', towards accomplishing shared-desirable outcomes for the city. How can urban planning processes negotiate and reconcile competing demands of an amplified set of stakeholders who are often mis-aligned in their values and goals? In this workshop, Champaka Rajagopal will explore mechanism design which incorporates incentives and penalties for stakeholders to partner, behave and transact in ways that contribute to the accomplishment of shared outcomes. Drawing on existing practices and models, we will creatively craft multiple partnership arrangements among stakeholders with competing interests at different scales of decisions, in our endeavor for meeting shared desirable outcomes for Bengaluru.",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=mechanism-design",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Champaka-Rajagopal"
+      }
+    ],
+    "maximumAttendeeCapacity": 30
   }
 ]

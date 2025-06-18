@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General admission || Valid for one individual || For Age(s) 21+\nAn additional cover charge of INR 799 per individual is applicable at the gates. Redeemable on F&B",
-            "inventoryLevel": 433,
+            "inventoryLevel": 432,
             "name": "Phase 1 Single || GA",
             "url": "https://www.skillboxes.com/events/ticket/matthew-ifield-live-in-bengaluru"
          },
@@ -34,7 +34,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General admission || Valid for two individuals || For Age(s) 21+\nAn additional cover charge of INR 799 per individual is applicable at the gates. Redeemable on F&B",
-            "inventoryLevel": 936,
+            "inventoryLevel": 930,
             "name": "Group of 2 Tickets",
             "url": "https://www.skillboxes.com/events/ticket/matthew-ifield-live-in-bengaluru"
          },
@@ -42,7 +42,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General admission || Valid for four individuals || For Age(s) 21+\nAn additional cover charge of INR 799 per individual is applicable at the gates. Redeemable on F&B",
-            "inventoryLevel": 995,
+            "inventoryLevel": 994,
             "name": "Group of 4 Tickets",
             "url": "https://www.skillboxes.com/events/ticket/matthew-ifield-live-in-bengaluru"
          },
@@ -148,6 +148,41 @@
       ],
       "startDate": "2025-06-27T20:00:00",
       "url": "https://www.skillboxes.com/events/vilen-india-tour-bangalore-show"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Celebrate love, freedom, and self-expression at the Pride Party at Refuell on 28th June 2025, starting 7 PM onwards. Get ready for an unforgettable ni",
+      "endDate": "2025-06-28T23:59:00",
+      "identifier": "com.skillboxes.24704",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/c0lGYzlCZU9aNVlnNnBWd2hYQkFrQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750242559QTp2wkxs0BHDux9x.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Elements Mall, MS Ramaiah North City, Manayata Tech Park, Nagavara, Bengaluru, Karnataka 560045",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0451306",
+            "longitude": "77.6264951"
+         },
+         "name": "3rd Floor, Elements Mall"
+      },
+      "name": "Pride Party",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Full Cover Included In This Ticket\n",
+            "inventoryLevel": 1000,
+            "name": "Cover Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/refuell-rap-cypher-1"
+         }
+      ],
+      "startDate": "2025-06-28T19:00:00",
+      "url": "https://www.skillboxes.com/events/refuell-rap-cypher-1"
    },
    {
       "@context": "https://schema.org",
@@ -336,7 +371,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Offer: Bucket of 5 beer at Rs.999/- only\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 99,
             "name": "Guest List",
             "url": "https://www.skillboxes.com/events/ticket/tribute-to-metallica-feat-loy"
          }
@@ -371,7 +406,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of 1000rs applicable post 9:30pm\n",
-            "inventoryLevel": 469,
+            "inventoryLevel": 455,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/ubm-rewinds-old-school-hip-hop-ft-chan-amar"
          }
@@ -1239,8 +1274,8 @@
       "offers": [
          {
             "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 4,
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
             "name": "General Admission",
             "url": "https://www.skillboxes.com/events/ticket/forlorn-pages-unturned-acoustic-sessions"
          }
@@ -1275,7 +1310,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Collect your wrist band from the gate\n8 pm we start",
-            "inventoryLevel": 35,
+            "inventoryLevel": 18,
             "name": "Early Bird Tickets",
             "url": "https://www.skillboxes.com/events/ticket/raw-real-3-ft-mars-mansion-mystery-derek-the-cats"
          }
@@ -1600,7 +1635,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 8,
+            "inventoryLevel": 76,
+            "name": "Regular || Single Pass",
+            "url": "https://www.skillboxes.com/events/ticket/ripple-reverie-a-grateful-dead-tribute-by-grateheads"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
             "name": "Early Bird || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/ripple-reverie-a-grateful-dead-tribute-by-grateheads"
          }
@@ -1685,7 +1727,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 82,
+            "inventoryLevel": 81,
             "name": "Female Pass",
             "url": "https://www.skillboxes.com/events/ticket/vijay-ilaya-thalapathi-bday-bash"
          },
@@ -1770,7 +1812,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "We expect you to buy a cup of coffee at Starbucks to support organizing Sakura Screenings\n",
-            "inventoryLevel": 17,
+            "inventoryLevel": 15,
             "name": "Sakura Fam",
             "url": "https://www.skillboxes.com/events/ticket/sakura-screening-pride-edition"
          }
@@ -1917,7 +1959,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Full Covers\n",
-            "inventoryLevel": 991,
+            "inventoryLevel": 990,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/samosa-rave-samosa-party-shor-bazaar-21st-june"
          }
@@ -1951,7 +1993,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 999,
+            "inventoryLevel": 993,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/freak-opera-ft-zokhuma-gst-devious-quest"
          }
@@ -1985,7 +2027,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 379,
+            "inventoryLevel": 373,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/break-free-ft-obscuit-and-vishal-unni"
          }
@@ -2061,7 +2103,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 88,
+            "inventoryLevel": 80,
             "name": "Guestlist-Couple",
             "url": "https://www.skillboxes.com/events/ticket/limitless-ft-almost-human-21st-june-gawky-goose"
          },
@@ -2069,7 +2111,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 98,
+            "inventoryLevel": 95,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/limitless-ft-almost-human-21st-june-gawky-goose"
          }
@@ -2181,7 +2223,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable Post 7PM\n",
-            "inventoryLevel": 415,
+            "inventoryLevel": 382,
             "name": "Male Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/sundowner-raga-2"
          },
@@ -2189,7 +2231,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "No Cover Charges\n",
-            "inventoryLevel": 481,
+            "inventoryLevel": 478,
             "name": "Female Guestlist (No Cover Charges)",
             "url": "https://www.skillboxes.com/events/ticket/sundowner-raga-2"
          },
@@ -2197,7 +2239,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable Post 9PM\n",
-            "inventoryLevel": 473,
+            "inventoryLevel": 469,
             "name": "Couple Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/sundowner-raga-2"
          }
@@ -2318,7 +2360,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 cover charge payable at gate.\n",
-            "inventoryLevel": 970,
+            "inventoryLevel": 965,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/monkey-rock-fest-featuring-kasa-vidyut-and-dimorphous-expression"
          }
@@ -2818,21 +2860,21 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 888,
+            "inventoryLevel": 883,
             "name": "Silver Ticket S-Z",
             "url": "https://www.skillboxes.com/events/ticket/mudroad-presents-one-of-these-nights"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 673,
+            "inventoryLevel": 664,
             "name": "Gold Ticket I-R",
             "url": "https://www.skillboxes.com/events/ticket/mudroad-presents-one-of-these-nights"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 829,
+            "inventoryLevel": 825,
             "name": "Platinum Ticket A-H",
             "url": "https://www.skillboxes.com/events/ticket/mudroad-presents-one-of-these-nights"
          }
@@ -2843,7 +2885,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "We’re excited to bring you the second screening of the ALT EFF Film Club this year, featuring four impactful short films:Fight With CareOlder Th",
+      "description": "We’re excited to bring you the second screening of the ALT EFF Film Club this year, featuring four impactful short films:\r\n\r\n \r\n\r\n\r\n\tFight ",
       "endDate": "2025-06-20T22:00:00",
       "identifier": "com.skillboxes.22821",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YU5zdVBYZGI1d1ZIWlBOMXpSRlFNdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1747735975aIAYfhFA889HhdyI.jpg.webp",
@@ -2867,7 +2909,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Short Film Night | 20/06/2025\nYou can also Register for ALT EFF Voices.",
-            "inventoryLevel": 89,
+            "inventoryLevel": 82,
             "name": "One Time Ticket",
             "url": "https://www.skillboxes.com/events/ticket/tickets-membership-bengaluru-3"
          },
