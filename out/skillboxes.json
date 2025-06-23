@@ -85,6 +85,47 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "No lights. No stage. Just music, mellow vibes, and a circle of hearts that beat to a shared rhythm.Jam and Toast is an easy-going jamming session for ",
+      "endDate": "2025-06-28T20:30:00",
+      "identifier": "com.skillboxes.24900",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TnJvcXh1b3JoaGFBaVZ1ZmgvNVFVZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750686653rrX3gRZtLr6lYV9H.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Live Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "126/5/4, Nallurahalli Main Rd, Palm Meadows, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9602491",
+            "longitude": "77.7326977"
+         },
+         "name": "Namma Ashram - Cafe, Yoga, Stay, Shop, Events & more"
+      },
+      "name": "Jam and Toast - An Evening of Easy Jamming",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 2,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/jam-and-toast-an-evening-of-easy-jamming"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10,
+            "name": "Regular Entry",
+            "url": "https://www.skillboxes.com/events/ticket/jam-and-toast-an-evening-of-easy-jamming"
+         }
+      ],
+      "startDate": "2025-06-28T19:00:00",
+      "url": "https://www.skillboxes.com/events/jam-and-toast-an-evening-of-easy-jamming"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Kick off your weekend in style at Refuell Restobar's FOMO Friday event, where the energy is high and the fun never stops. FOMO (Fear of Missing Out) i",
       "endDate": "2025-06-28T00:45:00",
       "identifier": "com.skillboxes.24891",
@@ -157,32 +198,6 @@
       ],
       "startDate": "2025-06-26T19:00:00",
       "url": "https://www.skillboxes.com/events/thrownack-thursday"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "✅ What Are CBD Gummies?\n\nCBD\ngummies are chewable candies infused with cannabidiol (CBD), a natural,\nnon-psychoactive compound d",
-      "endDate": "2025-06-23T23:59:00",
-      "identifier": "com.skillboxes.24879",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/b1VVeU0rTEM3b2Q0LzNDcmRvbWRzdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750672202V97kcBxNDg31dMMh.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Education"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "",
-            "longitude": ""
-         },
-         "name": "To Be Decided"
-      },
-      "name": "Best CBD Gummies for Anxiety, Sleep & Recovery (Updated for 2025)",
-      "offers": [ ],
-      "startDate": "2025-06-23T15:19:00",
-      "url": "https://www.skillboxes.com/events/best-cbd-gummies-for-anxiety-sleep-recovery-updated-for-2025"
    },
    {
       "@context": "https://schema.org",
@@ -309,7 +324,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 150,
+            "description": "PLEASE NOTE: Tickets of 300rs and cover charges of 300rs applicable at the gate.  RSVP only confirms a seat at the screening.\n",
+            "inventoryLevel": 149,
             "name": "RSVP SLOTS",
             "url": "https://www.skillboxes.com/events/ticket/austrian-gp-live-screening-bira-91-taproom"
          }
@@ -377,7 +393,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 150,
+            "inventoryLevel": 148,
             "name": "RSVP SLOTS",
             "url": "https://www.skillboxes.com/events/ticket/lights-out-at-socials-jp-nagara-austrian-grand-prix"
          }
@@ -1009,7 +1025,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Phase One Tickets to Billed To Destroy\n",
-            "inventoryLevel": 34,
+            "inventoryLevel": 33,
             "name": "HxC Fam: Phase One",
             "url": "https://www.skillboxes.com/events/ticket/billed-to-destroy-blr-ft-pacifist-strangle-catatonic"
          },
@@ -1279,40 +1295,6 @@
       ],
       "startDate": "2025-06-30T20:00:00",
       "url": "https://www.skillboxes.com/events/classy-cocktails-mocktails-30th-june"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Classy Cocktails & Mocktails | 23rd June",
-      "endDate": "2025-06-23T23:59:00",
-      "identifier": "com.skillboxes.24618",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cFpwTDZ3TWE0ZDZrK3F5a1BEZWJjZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750097233rdUCzVq3xq1gguhQ.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "7th Floor, GRAND KASTURI, VARTHUR MAIN ROAD SILVER SPRINGS LAYOUT MUNNEKOLALA, Lakshminarayana Pura, Marathahalli, Bengaluru, Karnataka 560037, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9571202",
-            "longitude": "77.7095372"
-         },
-         "name": "Sky Mantra Rooftop Taproom"
-      },
-      "name": "Classy Cocktails & Mocktails | 23rd June",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/classy-cocktails-mocktails-23rd-june"
-         }
-      ],
-      "startDate": "2025-06-23T20:00:00",
-      "url": "https://www.skillboxes.com/events/classy-cocktails-mocktails-23rd-june"
    },
    {
       "@context": "https://schema.org",
@@ -1943,6 +1925,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Join us for a relaxing evening with some jazz and blues with Fukesh at TheFatChef on 28th June, 2025. Grab your tickets soon!",
+      "endDate": "2025-06-28T22:30:00",
+      "identifier": "com.skillboxes.23903",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/L2sySnRhTFpvQ3BCbDEwaGplWklPdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1748799541Qhp92V4FWHP6D6EA.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No.19, Bright Farm,Thubarahalli Old Airport, Varthur Main Rd, Kumarapalli, Thubarahalli, Whitefield, Bengaluru, Karnataka 560066, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9547613",
+            "longitude": "77.7233341"
+         },
+         "name": "The Fat Chef"
+      },
+      "name": "FuKesh @ TheFatChef",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "General access",
+            "url": "https://www.skillboxes.com/events/ticket/fukesh-thefatchef"
+         }
+      ],
+      "startDate": "2025-06-28T20:00:00",
+      "url": "https://www.skillboxes.com/events/fukesh-thefatchef"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Hot Wednesday",
       "endDate": "2025-06-30T23:59:00",
       "identifier": "com.skillboxes.23843",
@@ -2469,27 +2485,6 @@
       ],
       "startDate": "2025-06-24T20:00:00",
       "url": "https://www.skillboxes.com/events/tease-tuesdays-happy-brew-kormangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Highlights:DJ NightNon Stop MusicBollywood NightDance FloorMouth Watering AppetizersCocktails and MocktailsJoin us for an epic night of music and fun.",
-      "endDate": "2025-06-23T00:30:00",
-      "identifier": "com.skillboxes.17737",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dyt4czRJMXZmWTh1NlhtOE1TNjFvZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750334218At9aTGpf0BTQQ2f4.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "#8, 2nd Floor, Above Nalli SIlks Bangalore, India",
-         "name": "Nolimmits Lounge & Club"
-      },
-      "name": "Sonic Sunday@ Nolimits Magrath Road",
-      "offers": [ ],
-      "startDate": "2025-06-22T08:00:00",
-      "url": "https://www.skillboxes.com/events/uk-punjabi-night-nolimits-magrath-road"
    },
    {
       "@context": "https://schema.org",
