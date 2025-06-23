@@ -65,5 +65,30 @@
       }
     ],
     "maximumAttendeeCapacity": 30
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "560 Minutes of Sci560",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-06-29T10:00:00+05:30",
+    "endDate": "2025-06-29T19:20:00+05:30",
+    "description": "Sci560 is wrapping up in a few weeks. Curious about the stories of all 40 exhibits?<br>Join us for a special day-long workshop led by mediator Gokul and design intern Anuhya, as they guide you through an immersive exploration of the entire exhibition.<br>Through curated walkthroughs and hands-on activities woven across different zones of the gallery, participants will explore the full spectrum of science, art, and culture that the exhibition brings together. It\u2019s an invitation to engage deeply, slowly, and expansively\u2014with space to pause, play, and participate.<br>",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=560-sci560",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Gokul-Prabhu"
+      },
+      {
+        "@type": "Person",
+        "name": "Anuhya-Mahesh"
+      }
+    ],
+    "maximumAttendeeCapacity": 100
   }
 ]
