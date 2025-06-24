@@ -2443,5 +2443,56 @@
       "Food & drink",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "A Tipsy Y2K Movie Night with Boo! Ya Watchin?",
+    "description": "Starring Mira Sorvino and Lisa Kudrow, Romy and Michele\u2019s High School Reunion is a comedic alternative to Thelma & Louise and a wonderfully lighthearted balm for anyone with traumatic high school memories.Come in your Y2K finest (think chunky heels, checkered pants, funky jewellery), sip on curated cocktails inspired by the movie, munch on some delicious snacks, and enjoy a laid-back screening of this late 90s classic.\u00a0Designed to feel like a night in with your favourite people.\u00a0Ladies Who Loiter  is a multi-city celebration inspired by leisure, love and art. Carefully curated by some incredible women, this is our little love letter to ladies everywhere to add more leisure, lightness, play and art into their lives. This monsoon edition bring cozy hangs and welcoming corners to keep leisure alive, come rain or shine. Boo! Ya Watchin?, the brainchild of Mahima. V is a Bangalore-based film screening series that turns cult classics and hidden gems into shared, immersive experiences.At Urbanaut, we're building unique and niche experiences in collaboration with our ever-present partners. Invite yourself to one \u2014 or three \u2014 or hit us up with ideas and collaborations!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/03AE7AA246FB442584CA256E46F0CF2F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/81BB218453B648E68AF26B29D5FE65BA_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/15CF537DB93A4E889FA8DD6394A4E87F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EAFD7806B22A40058FA4291E8301C33C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C79A5947284840A9B64E2E61874C52FB_converted_webp.webp"
+    ],
+    "startDate": "2025-07-06T16:30:00+05:30",
+    "endDate": "2025-07-06T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJr1xXjN8XrjsRZWB3rrZtEn4",
+      "latitude": "12.97073220000000000000",
+      "longitude": "77.64763909999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 35,
+    "remainingAttendeeCapacity": 35,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "824.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Urbanaut Experiences",
+      "description": "At Urbanaut, we're building unique and niche experiences in collaboration with our ever-present partners. Invite yourself to one \u2014 or three \u2014 or hit us up with ideas and collaborations!",
+      "url": "https://urbanaut.app/partner/urbanautexperiences",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B355D735DB6A4CEBAFB98E811AA4D5B6_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-74000-31416"
+      }
+    },
+    "url": "https://urbanaut.app/spot/a-tipsy-y2k-movie-night-with-boo-ya-watchin",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "URBANAUT"
+    ]
   }
 ]
