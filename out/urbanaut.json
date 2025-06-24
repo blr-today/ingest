@@ -2446,5 +2446,55 @@
       "Art & culture",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Doggy's Day Out; A Tail-Wagging Brunch for a Cause",
+    "description": "Doggy's Day Out is a collaboration between Xanadu Kitchen and Heads Up for Tails to raise money for neighbourhood streeties.This fun brunch includes : Free Pet Meals (courtesy HUFT), Street Food for Hoomans (Available for Purchase), Fun games and activities for dogsPeople without dogs are also welcome to the event.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F101844A9E534476A8BDA1C7FB7ACCAD_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F84216E4CDDF43BE93C1336CFAC08410_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A05129001A1949088CDC7D7EE66EBCA3_converted_webp.webp"
+    ],
+    "startDate": "2025-06-29T11:00:00+05:30",
+    "endDate": "2025-06-29T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "55/2, Lavelle Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJR7vxx3kWrjsRHBLR8jlFYwc",
+      "latitude": "12.97043280000000000000",
+      "longitude": "77.59771980000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Xanadu Kitchen",
+      "description": "Dining Experiences, Home Catering, Personal Chef",
+      "url": null,
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/i1vus8mgxg-1710391171489logojpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99456-99144"
+      }
+    },
+    "url": "https://urbanaut.app/spot/doggys-day-out-a-tail-wagging-brunch-for-a-cause",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
   }
 ]
