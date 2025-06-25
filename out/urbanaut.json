@@ -2087,7 +2087,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "To Move Abroad or Not? By Nupur & Zero1 Network",
-    "description": "Thinking of moving abroad? Is it still worth it?This interactive session is designed for anyone on the fence about taking the leap\u2014or returning after years away.Join Nupur Dave, ex-Google TPM, author, and founder of NRI Compass, as she breaks down the real talk behind global moves: the trade-offs, emotional baggage, career moves, and financial logistics. Nupur has helped 1000's of NRIs make the decision to move back to India\u2014 now watch her give you a perspective you've never seen before.With audience polls, lived stories, and practical frameworks this talk will help you make one of life\u2019s biggest decisions.This is for you ifYou're between 25-50 yrs ageYou're contemplating a move either actively or passivelyVenue Partner: Wework IndiaBacked by: Zero1 Network https://zero1byzerodha.com/network",
+    "description": "Thinking of moving abroad? Is it still worth it?This interactive session is designed for anyone on the fence about taking the leap\u2014or returning after years away.Join Nupur Dave, ex-Google TPM, author, and founder of NRI Compass, as she breaks down the real talk behind global moves: the trade-offs, emotional baggage, career moves, and financial logistics. Nupur has helped 1000's of NRIs make the decision to move back to India\u2014 now watch her give you a perspective you've never seen before.With audience polls, lived stories, and practical frameworks this talk will help you make one of life\u2019s biggest decisions. You get coffee and refreshments too!This is for you ifYou're between 25-50 yrs ageYou're contemplating a move either actively or passivelyVenue Partner: Wework IndiaBacked by: Zero1 Network https://zero1byzerodha.com/network",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/50A8CF3493F549C9AA7664E0122CD70D_converted_webp.webp"
     ],
@@ -2370,6 +2370,104 @@
     "keywords": [
       "Leisure",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Weekend Under the Stars \u2013 Geodesic Dome Getaway",
+    "description": "Stay inside a luxury geodesic dome, soak in a jacuzzi, meet like-minded strangers, and vibe under the stars.This is for people who love nature, want to take a break from the hustle and bustle of city life, and just slow down... If stargazing, great conversations, and being in the middle of nature sound like your vibe \u2014 this is for you.Travel Trip Tourist brings you a weekend filled with unlimited fun \u2014 Games, movie night, dance party, stunning sunset views, jacuzzi sessions, and cozy dome stays.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5FF9CA0667614C679B63446D0F83253E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A99B62B742D348C9AAF2BF65838866F3_converted_webp.webp"
+    ],
+    "startDate": "2025-07-12T14:00:00+05:30",
+    "endDate": "2025-07-12T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJbU60yXAWrjsR4E9-UejD3_g",
+      "latitude": "12.96286690000000000000",
+      "longitude": "77.57750899999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "4500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Travel Trip Tourist",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/358B40C73A494E938886DCC9C36D08C7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/weekend-under-the-stars-geodesic-dome-getaway#2025-07-12T1400",
+    "keywords": [
+      "Premium",
+      "Food & drink",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Weekend Under the Stars \u2013 Geodesic Dome Getaway",
+    "description": "Stay inside a luxury geodesic dome, soak in a jacuzzi, meet like-minded strangers, and vibe under the stars.This is for people who love nature, want to take a break from the hustle and bustle of city life, and just slow down... If stargazing, great conversations, and being in the middle of nature sound like your vibe \u2014 this is for you.Travel Trip Tourist brings you a weekend filled with unlimited fun \u2014 Games, movie night, dance party, stunning sunset views, jacuzzi sessions, and cozy dome stays.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5FF9CA0667614C679B63446D0F83253E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A99B62B742D348C9AAF2BF65838866F3_converted_webp.webp"
+    ],
+    "startDate": "2025-07-13T14:00:00+05:30",
+    "endDate": "2025-07-13T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJbU60yXAWrjsR4E9-UejD3_g",
+      "latitude": "12.96286690000000000000",
+      "longitude": "77.57750899999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "4500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Travel Trip Tourist",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/358B40C73A494E938886DCC9C36D08C7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/weekend-under-the-stars-geodesic-dome-getaway#2025-07-13T1400",
+    "keywords": [
+      "Premium",
+      "Food & drink",
+      "Guided tour",
       "URBANAUT"
     ]
   }
