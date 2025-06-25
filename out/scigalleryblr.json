@@ -90,5 +90,26 @@
       }
     ],
     "maximumAttendeeCapacity": 25
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "The Heftiest Things Ever: Telescoping Sharp onto Giant Black Holes",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru",
+      "address": "Science Gallery Bengaluru, Bangalore",
+      "url": "https://maps.app.goo.gl/XCSmSbdFYokyC9qj8"
+    },
+    "startDate": "2025-06-28T16:00:00+05:30",
+    "endDate": "2025-06-28T16:00:00+05:30",
+    "description": "Modern technology enables us to reach far, far into the cosmic depths of our universe to unravel the unknown. Among the many discoveries that have followed are the heftiest things we know, namely giant black holes that inhabit the middles of galaxies. <br><br>The early evidence for these intriguing objects that emerged in the middle of the last century effectively rested on the Sherlock-Holmes argument. Today, however, we have the most direct evidence possible for black holes, discovered through telescopes\u2014the sharpest eyes that technology can make. In this lecture, physicist Prajval Shastri will share the story of understanding these black holes.",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=telescoping-onto-giant-black-holes",
+    "performer": [
+      {
+        "@type": "Person",
+        "name": "Prajval-Shastri"
+      }
+    ],
+    "maximumAttendeeCapacity": 100
   }
 ]
