@@ -85,6 +85,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Bangalore, step into the wild —JAMAICA is taking over Raahi this Saturday, June 28th, with a sonic and visual jungle like no other!",
+      "endDate": "2025-06-29T01:00:00",
+      "identifier": "com.skillboxes.25137",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/WTNKdlJ5UiszbWtDTkZiZFF6T2xCQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750966140FI4McGMmhbw3nmTe.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "15, State Bank of India Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9730788",
+            "longitude": "77.6024359"
+         },
+         "name": "Raahi Neo Kitchen & Bar"
+      },
+      "name": "SATURDAY - RAAHI JAMAICA NIGHTS",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Ticket grants Guestlist only to Couples & Girls\nCover charge applicable for stags & Club Rules apply.",
+            "inventoryLevel": 1000,
+            "name": "GUESTLIST - RAAHI JAMAICA NIGHTS (SATURDAY)",
+            "url": "https://www.skillboxes.com/events/ticket/saturday-raahi-jamaica-nights"
+         }
+      ],
+      "startDate": "2025-06-28T20:30:00",
+      "url": "https://www.skillboxes.com/events/saturday-raahi-jamaica-nights"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Bengaluru — we're back at Kitty Ko this Sunday, July 27th!Get ready for a soulful trip as Akhlad Ahmed takes over the night with his signature b",
       "endDate": "2025-07-27T23:59:00",
       "identifier": "com.skillboxes.25132",
