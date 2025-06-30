@@ -363,6 +363,99 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "De-Stress Fridays",
+    "description": "Fridays are meant for letting go, and this table is all about decompressing after a long week.Deadlines, meetings, and stress? Not here!This table is your weekly escape from the chaos, where you can kick back, connect, and enjoy an evening of effortless conversations and laughter.No pressure, just good energy!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BCFDE145C74140D791BEFADA865C25FE_converted_webp.webp"
+    ],
+    "startDate": "2025-07-04T19:30:00+05:30",
+    "endDate": "2025-07-04T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "latitude": "12.97836920000000000000",
+      "longitude": "77.64083560000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1199.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/de-stress-fridays",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Explore a New Cuisine with Strangers",
+    "description": "New Cuisine, New Crew \ud83c\uddf2\ud83c\uddfd\ud83c\udf2eSpice things up midweek with Table de Mexico \u2014 a vibrant evening where strangers become amigos over tacos, tamales, and tales.This table is all about exploring the bold, colorful world of Mexican cuisine while sharing stories and laughter with people you\u2019ve never met (yet).No pressure, no pretense \u2014 just real conversations, new flavors, and a little salsa on the side.Let\u2019s make this Wednesday feel like a fiesta. \u00a1Buen provecho! \ud83c\udf36\ufe0f\ud83d\udcac",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8F7221913FC241528EC2C0F01ADACE3B_converted_webp.webp"
+    ],
+    "startDate": "2025-07-02T20:00:00+05:30",
+    "endDate": "2025-07-02T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Koramangala, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLfyY2E4UrjsRVq4AjI7zgRY",
+      "latitude": "12.93524030000000000000",
+      "longitude": "77.62453200000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1299.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/explore-a-new-cuisine-with-strangers-table-de-mexico",
+    "keywords": [
+      "Leisure",
+      "Premium",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Food Sante",
     "description": "A celebration of culinary passion \u2014 a table where home chefs and cooking lovers present their signature creations. The most loved dish earns a spot on our official specials menu, credited with your name!",
     "image": [
