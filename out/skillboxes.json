@@ -2,6 +2,134 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Get ready to own your Wednesday night!Join us on Wednesday, June 11th, at Skydeck by Sherlock's for a spectacular LIVE band performance!We're bringing",
+      "endDate": "2025-07-02T23:59:00",
+      "identifier": "com.skillboxes.25238",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1751280834pHD6ljCQmHbw76Sw.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750296",
+            "longitude": "77.6075339"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Deck Gigs | LIVE Music Experience",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/deck-gigs-live-music-experience-7"
+         }
+      ],
+      "startDate": "2025-07-02T20:00:00",
+      "url": "https://www.skillboxes.com/events/deck-gigs-live-music-experience-7"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Got a single friend who deserves the spotlight? It’s time to Pitch-A-Friend! 💘\nBring your funniest, cutest, most dateable friends an",
+      "endDate": "2025-07-19T21:00:00",
+      "identifier": "com.skillboxes.25228",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1751268838qTn8O8B7Azb3KPVR.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Social Gathering/ Game"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9708561",
+            "longitude": "77.5988595"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Pitch-A-Friend - A BlrGrooveCo Event",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows entry for you and your one of your single guy friend\n",
+            "inventoryLevel": 10,
+            "name": "You and Your Guy Bestie",
+            "url": "https://www.skillboxes.com/events/ticket/pitch-a-friend-a-blrgrooveco-event"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows entry for you and your one of your single guy friend\n",
+            "inventoryLevel": 10,
+            "name": "You and Your Girl Bestie",
+            "url": "https://www.skillboxes.com/events/ticket/pitch-a-friend-a-blrgrooveco-event"
+         }
+      ],
+      "startDate": "2025-07-19T18:00:00",
+      "url": "https://www.skillboxes.com/events/pitch-a-friend-a-blrgrooveco-event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Step into the Redroom at Kitty Ko, Lalit Ashok Bangalore for an electrifying night with KIKKAT, taking over the decks on Friday, 4th July at 7 PM. Pre",
+      "endDate": "2025-07-05T01:00:00",
+      "identifier": "com.skillboxes.25227",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1751268711W8TUaVXGJhdwEdKX.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "HOTEL, THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9923061",
+            "longitude": "77.58201"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "Redroom Ft. KIKKAT",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 1 Female )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "inventoryLevel": 50,
+            "name": "EARLY BIRD FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-kikkat-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 1 male )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "inventoryLevel": 50,
+            "name": "EARLY BIRD MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-kikkat-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Allows entry to 1 couple. Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
+            "inventoryLevel": 50,
+            "name": "EARLY BIRD COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-kikkat-1"
+         }
+      ],
+      "startDate": "2025-07-04T19:00:00",
+      "url": "https://www.skillboxes.com/events/redroom-ft-kikkat-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Bangalore — it’s time for some low end therapy on the dance floor \r\n\r\n \r\n\r\n🔊 YUSHH (UK) — Known for her dubbed-out, pha",
       "endDate": "2025-07-11T23:59:00",
       "identifier": "com.skillboxes.25207",
@@ -25,7 +153,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/amnap-records-ft-yushh-uk-oceantied-adi-g"
          }
@@ -59,7 +187,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 50,
+            "inventoryLevel": 47,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/suraj-baiju-the-soulstring-sessions"
          },
