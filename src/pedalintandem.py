@@ -74,6 +74,8 @@ def make_event(soup):
 
     date_opts = offers_selector.select('div.product-variations-variety select[name="variety_id"] option')
     for date_opt in date_opts:
+        if "data-booking-begin-at" not in date_opt.attrs:
+            continue
         booking_begin = datetime.strptime(date_opt['data-booking-begin-at'], "%Y-%m-%d %H:%M:%S %Z").astimezone(IST).isoformat()
         event_date = datetime.strptime(date_opt.get_text().strip(), '%d-%b-%Y')
         event_timings = find_timings(duration, event_date, event)
