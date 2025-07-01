@@ -601,6 +601,57 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Brigade road heritage walk",
+    "description": "Join us as we revive our cherished walks through the historic Cantonment this year. Step back in time as we trace the origins of this storied district once the heart of colonial Bangalore.On this journey we will explore a magnificent church that has stood the test of time pay homage at a solemn war memorial and admire a beautifully restored heritage structure. Along the way we will encounter stately British-era government buildings a statue of a notable foreigner and a road steeped in its own fascinating history.Every corner of the Cantonment whispers tales of its past\u2014stories of soldiers administrators and the many communities that shaped this unique enclave. Join us as we rediscover its enduring legacy one step at a time.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/22026AC1380D403DB17EAD703B47FE95_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9A8B778DD126485DA6F91E6E724E6DEB_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/38ED03276041486C997982B36C46A171_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/488C59AC71654BC0B2A69EBC7DA85981_converted_webp.webp"
+    ],
+    "startDate": "2025-07-05T08:00:00+05:30",
+    "endDate": "2025-07-05T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=EkVCcmlnYWRlIFJkLCBTaGFudGhhbGEgTmFnYXIsIEFzaG9rIE5hZ2FyLCBCZW5nYWx1cnUsIEthcm5hdGFrYSwgSW5kaWEiLiosChQKEgkVZ_Nc1RWuOxHdgHsyjcbJZxIUChIJLUl62X4WrjsRiHkhyma7A8o",
+      "latitude": "12.97103280000000000000",
+      "longitude": "77.60693049999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "750.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru by foot",
+      "description": "Heritage, food & architectural walks in Bangalore.",
+      "url": "https://urbanaut.app/partner/benbyfoot",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/1B826865857D4C59838FFA44132C0F6E_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-70192-72365"
+      }
+    },
+    "url": "https://urbanaut.app/spot/brigade-road-heritage-walk-7180",
+    "keywords": [
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Leela by Sanjay Divecha (Live) at Sabha BLR",
     "description": "Sanjay Divecha is one of the most revered guitar players in India. A unique and compelling voice as a player and composer, he is part of the hugely successful supergroup Cross Currents led by Zakir Hussain and featuring stalwarts such as Dave Holland, Vinnie Colaiuta, Chris Potter, Eddie Daniels, Shankar Mahadevan and Louiz Banks. Through a luminous 35 year long career, Sanjay has worked with artists such as Angelique Kidjo, Carlos Santana, Michael McDonald, Fred Raulston, Dave Weckl, Louis Johnson, Dumazz and Sambaguru among others.He also collaborated with A.R. Rahman on the Danny Boyle movie \u201c127 Hours\u201d that won \u2018Best Original Score\u2019, the OST for the movie \u201cWoman on Top\u201d with Argentinian composer Luis Bacalov, Sanjay also scored for the movie \u2018Leela\u2019 by Somnath Sen which won a Special Jury Award at Toronto Reel World Film Festival.An alumnus (1989) from Musician\u2019s Institute (M.I) in Los Angeles, Sanjay continues to mentor and develop musicians all over the country. His students are not only guitar players, but composers, musicians and singers of all disciplines. Sanjay teaches private lessons and holds workshops to develop musicality and a well rounded aesthetic sensibility in musicians.\u00a0Sanjay Divecha on the music of 'Leela' :\" As a human being on this planet I\u2019ve always believed in the Oneness of all things in this universe. Going through life's bylanes and observing how events unfold and teach you the lessons to be learned, this belief of Oneness has only strengthened with time.\u00a0My work as an artist has primarily been to connect with my inner self, and express from a place\u00a0of honesty. The yearning to learn something new in my art and refine my skill set has been my constant companion.\u00a0After having written and performed music with various ensembles, I finally mustered up the courage to record a collection of music which was mainly written for solo guitar, and also mainly recorded on acoustic guitar. These songs are reflections of some of my journeys and inspirations, interpreted in a spontaneous and instinctive manner.\u00a0The title 'Leela' refers to the divine Leela - joyous and playful - yet a profound act of creation.\u00a0As I started the recording process I started to add a few layers to enhance the music and some guest artists came on board to\u00a0complete the\u00a0experience which was truly fulfilling for me as an artist. The organic nature of this work takes me back to my formative years as a guitar player and I\u2019m grateful to be sharing this work and for it to take its own journey.\u00a0\"SEATING ON FIRST COME FIRST SERVE BASIS",
     "image": [
@@ -1084,7 +1135,7 @@
       "image": "https://d10y46cwh6y6x1.cloudfront.netimages/76648AC2874A45AC9DB5B5B33B1B19E0_converted_webp.webp",
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": null
+        "telephone": "+91-99022-45153"
       }
     },
     "url": "https://urbanaut.app/spot/woodcut-workshop-by-mohit-mahato",
@@ -1248,7 +1299,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "To Move Abroad or Not? By Nupur & Zero1 Network",
-    "description": "Should you move abroad or not?Many Indians are looking to move abroad, and in my work with many NRIs and Indians, I've seen that the top questions are:* \u201dI am afraid. Is it worth uprooting myself?\u201d* For some, it's: \u201cHow do I find a job?\u201d, \u201cWhat's the best country to move to?\u201d* \u201cMy friends have moved & I'm still here\u201d (FOMO)There's uncertainty in moving these days: visas, loans, racism, getting fired, low-balled job offers, parents etc.\u00a0\u00a0That\u2019s why I\u2019m conducting a 2 hour anecdotal and interactive session to answer these doubts and show the world you could be stepping into.\u00a0Ideal for ages 25-50. Snacks and Coffee will be provided.\u00a0Hosted by, Nupur Dave \u2013 ex-Google TPM, author of Back Home, and founder of NRI CompassOnly 20 seats.\u00a0Venue Partner: Wework IndiaBacked by: Zero1 Network https://zero1byzerodha.com/network",
+    "description": "Should you move abroad or not?Many Indians are looking to move abroad, and in my work with many NRIs and Indians, I've seen that the top questions are:* \u201dI am afraid. Is it worth uprooting myself?\u201d* For some, it's: \u201cHow do I find a job?\u201d, \u201cWhat's the best country to move to?\u201d* \u201cMy friends have moved & I'm still here\u201d (FOMO)There's uncertainty in moving these days: visas, loans, racism, getting fired, low-balled job offers, parents etc.\u00a0\u00a0That\u2019s why I\u2019m conducting a 2 hour anecdotal and interactive session to answer these doubts and show the world you could be stepping into.\u00a0Ideal for ages 25-50. Snacks and Coffee will be provided.\u00a0Hosted by, Nupur Dave \u2013 ex-Google TPM, author of Back Home, and founder of NRI CompassOnly 20 seats.\u00a0Coffee + Cookies: Brewing Notes\u00a0Venue Partner: Wework IndiaBacked by: Zero1 Network https://zero1byzerodha.com/network",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7D102656006D4BA1A54BD8ABAE441962_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A47385DDCB154C4EB5ACD5EDF0293960_converted_webp.webp",
@@ -1838,6 +1889,56 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Vasu Dixit Collective Live",
+    "description": "Experience Vasu Dixit Collective's (VDC) blend of creativity and tradition with special renditions of poems by great poets like Prandardasa, Basavanna, and Kabir, Live at Sabha Blr, Bengaluru, on 26th July 2025 at 7:30 PM. Vasu Dixit Collective (VDC) is an ensemble of like-minded musicians and artists who work with Electronic Folk and Folktronica music.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2D4BD135BB5D40A5B40211CDE66C3BA8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5D7C7E5A7B5B4F1EBBB6176CCA23AE3E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8A0A0899D9BE462B9A3B16EEBB693646_converted_webp.webp"
+    ],
+    "startDate": "2025-07-26T19:30:00+05:30",
+    "endDate": "2025-07-26T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 170,
+    "remainingAttendeeCapacity": 170,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Teamwork Arts",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/3743F2E6AE5041BB978AD0916155EC6E_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-85272-22114"
+      }
+    },
+    "url": "https://urbanaut.app/spot/vasu-dixit-collective-live",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Conscious Collective Circle",
     "description": "The Conscious Collective CircleA monthly meet-up designed to help you live consciously \u2014 not just learn about it. This isn't another workshop or lecture - more of a guided learning circle to put all the things you might have learnt about wellness in action, integrating your learning into your day to day life.The conscious collective circle will include:\t\u2022\tA safe, welcoming space to pause, reflect, and reconnect.\t\u2022\tReal conversations on real-life topics \u2014 from stress and sleep to boundaries and breathwork.\t\u2022\tPractical tools and mindful practices you can actually use in your busy life.\t\u2022\tA chance to share your journey \u2014 wins, struggles, and everything in between.\t\u2022\tA supportive community focused on turning intention into action, not perfection.\t\u2022\tNo pressure to perform and no need to have it all figured out.Just real people, showing up to live with more awareness \u2014 together.Come as you are. Leave with something real.",
@@ -2199,6 +2300,487 @@
     },
     "url": "https://urbanaut.app/spot/muttley-crew-x-social-the-barkfast-club-top-dog",
     "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Afterhours",
+    "description": "When the clock strikes late, Hamilton turns up the heat.\u00a0Afterhours\u00a0is our signature DJ night where the beats get darker, the vibe gets wilder, and the cocktails flow strong and smooth. Step into a space where the lights are low, the energy is high, and the music keeps you moving deep into the night. Whether you`re closing the week or starting your weekend right \u2014\u00a0Afterhours\u00a0is where the real stories begin.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4D41E559B2ED4991873343C1CA490EFA_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/69AC983718394BC4BE346C5A64B5769F_converted_webp.webp"
+    ],
+    "startDate": "2025-07-04T22:30:00+05:30",
+    "endDate": "2025-07-04T23:59:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVTeAtXkRrjsRPyAJzdxl0HA",
+      "latitude": "12.98209230000000000000",
+      "longitude": "77.70862830000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 200,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Hamilton",
+      "description": null,
+      "url": "https://urbanaut.app/partner/hamilton",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CED7A4CC2AA4EC9BD02E06C4F0731E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63620-01931"
+      }
+    },
+    "url": "https://urbanaut.app/spot/afterhours-7591",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Accountability Meet-up For Founders & Freelancers",
+    "description": "Tired of setting goals and watching them collect dust? Same. That\u2019s why we\u2019re done doing it alone. It\u2019s time to meet up, level up, and finally follow through.\u00a0Whether you\u2019re building a business, chasing a dream, or just trying to stay consistent with your daily habits \u2014 this Accountability Meet-Up is where progress gets real.\u00a0We\u2019re talking:\u2705 Focused check-ins\u2705 Real support (no fluff)\u2705\u00a0Wins worth celebrating\u2705 A community that actually shows up for each otherNo more solo hustle. No more ghost goals. Just powerful momentum and people who\u2019ve got your back.\u00a0\ud83d\udcaaWho are we?Blr Besties is a small, tight-knit community and safe space for entrepreneurs, start-up founders and freelancers. We meet up twice every month to share our goals, keep each other accountable, and learn from each other.Where is the meetup happening?We're meeting up on Saturday, 12th July, for our Accountability Meet-up at Open Door Collective, Domlur from 4:00 PM - 6:00 PM.\u00a0What will happen at the meetup?As a founder, freelancer or creative professional, you can talk about your projects, ask for feedback or insight on your ideas or work, set goals and meet people you can collaborate with.What\u2019s the ticket price?The total cost of each ticket is INR 499. Tickets are non-refundable but can be transferred to someone else.We're looking forward to seeing you there!Follow us on Instagram @blrbesties to stay updated about this event, as well as future ones. Hit us up there if you have any questions too.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BC938012BC004C3799184A2F73A529AB_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0E76233EC09C45489CB3D82B57ED19D4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/258B40C2497148C498B60469481E74B1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/156716B3CB594BD29A33D1CC72AFE06E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B372DB08A92F4E21A6BAB48F5A5ADDAF_converted_webp.webp"
+    ],
+    "startDate": "2025-07-12T16:00:00+05:30",
+    "endDate": "2025-07-12T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "444, 6th Main West Wing Rd, Krishna Reddy Layout, Amarjyoti Layout, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJv5ybYwAVrjsR293vw8LfbgM",
+      "latitude": "12.95311560000000000000",
+      "longitude": "77.63938040000001000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Blr Besties",
+      "description": "A community in Bangalore for founders, freelancers and creative professionals",
+      "url": "https://urbanaut.app/partner/blrbesties",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/53A8D9D8C4D940B7B4056A62D09A2872_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-89046-13733"
+      }
+    },
+    "url": "https://urbanaut.app/spot/accountability-meet-up-for-founders-freelancers",
+    "keywords": [
+      "Responsible",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Harmony in Motion: Moving with Calm and Balance",
+    "description": "Why this experience?In the rush of everyday life, movement becomes mechanical. As we cross 40, flexibility\u2014physical and emotional\u2014takes on a different meaning. It\u2019s not about touching your toes, but about responding with calm. Adapting without anxiety. Feeling centred, not scattered. This session invites you to reconnect with your own rhythm\u2014starting with the body.What you will experience:A gentle, beginner-friendly session led by a trained Tai Chi and Qigong instructorBreathwork and grounding practices designed to calm the nervous systemA guided movement flow that helps improve balance, posture, and flexibilityA reflective prompt before and after to connect the physical experience to your life transitionsIdeal for:Those feeling physically or mentally scatteredPeople navigating transitions\u2014retirement, caregiving, role changes, health shiftsAnyone wanting to gently return to their bodyThose curious about slow movement practices but unsure where to beginWhat to bring:\ud83e\uddd8 Comfortable clothing \ud83e\uddf4 A water bottle (optional) \ud83d\udcdd Openness to stillness",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FF0C615D3E9E4C7D8FDA627DE3D88EFA_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A5B86EAF161D44859D6F239496E9777B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/65BEE7939AF14A639A77BF1C37AC930F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DE0198433F374E8B9335B008F05B3ABF_converted_webp.webp"
+    ],
+    "startDate": "2025-07-12T10:30:00+05:30",
+    "endDate": "2025-07-12T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "7, 4th Main Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhSp5dRwUrjsRNW96_uW6-Gk",
+      "latitude": "12.96668260000000000000",
+      "longitude": "77.63529030000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zuva Life",
+      "description": "We change\u2014and sometimes the life around us needs to catch up. Zuva Life offers gentle spaces to pause, reflect, and reimagine what comes next. These experiences invite you to explore life\u2019s shifts with curiosity, not pressure. A soft place to wonder, not to fix.",
+      "url": "https://urbanaut.app/partner/zuvalife",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/779F6F6E344F4386BCFBCCE7E0E0E57F_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99454-10037"
+      }
+    },
+    "url": "https://urbanaut.app/spot/harmony-in-motion-moving-with-calm-and-balance",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Banana Sports Football Fiesta",
+    "description": "Hey football lovers!We are back with the July Edition of The Banana Sports Football FiestaReady to hit the natural turf and show what your team is made of?Banana Sports is hosting an epic 5-a-side Football Tournament on Sunday, July 13th at banana sports, Sarjapur Road, and we want you and your squad to be a part of it!Here\u2019s what you need to know:\u23f1\ufe0fTime: 10:00 AM Onwards\ud83d\udc65Team Format: 5 players + 3 substitute\ud83d\udcb8Entry Fee: \u20b91500 per team\u26a1\ufe0fLoads of energy, competitive spirit, and a chance to win exciting prizes!Whether you\u2019re playing for the glory, the fun, or just to kick it with friends, this is your shot. Gather your teammates, sharpen those skills, and register your team.Let\u2019s make it a Sunday to remember \u2014 turf, sweat, goals, and all!See you on the field!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/64B1FAC16DF84BBF998FBBE00F29DD21_converted_webp.webp"
+    ],
+    "startDate": "2025-07-13T09:00:00+05:30",
+    "endDate": "2025-07-13T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "29/8, Mullur Rd, off Sarjapur - Marathahalli Road, Carmelam Post, Bengaluru, Karnataka 560035, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJtbnaqaITrjsRW8k7Xl3qGVA",
+      "latitude": "12.90481630000000000000",
+      "longitude": "77.72291630000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 18,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Banana Sports",
+      "description": null,
+      "url": null,
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/8B85E585F71A47F4832A67D03BC8CCB7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98863-36381"
+      }
+    },
+    "url": "https://urbanaut.app/spot/banana-sports-football-fiesta",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Securing Ground: Basics for Financial Wellness",
+    "description": "Why this experience?At some point, we all reach a moment where the practical parts of life\u2014insurance, nominations, future planning\u2014feel more urgent, yet still untouched. The files we\u2019ve meant to sort, the conversations we\u2019ve postponed, the details we assume we\u2019ll deal with \"soon.\"This session offers a soft landing into those questions. A no-judgement, no-jargon space to start sorting through the things that quietly weigh on our mind, so that the ground beneath us feels a little steadier. It\u2019s not about having everything in place\u2014it\u2019s about taking one clear step at a time.What you will experience:A calm, conversational walkthrough of essential financial and legal basicsA gentle prompt to reflect: What\u2019s one life admin task you\u2019ve been avoiding?Shared insights and examples that normalise the confusion (you\u2019re not alone)A practical checklist you can build on, with space for personal notesRoom to ask real-life questions\u2014no shame, no jargonIdeal for:People feeling a quiet nudge to get their \u201clife admin\u201d in orderThose juggling responsibilities\u2014personal, professional, or caregivingAnyone unsure where to begin with future planningPeople who\u2019ve been putting off the boring-but-important stuffWhat to bring:\ud83d\uddc2\ufe0f Your questions and unfinished to-dos (mental or written) \ud83d\udcd2 A notebook if you\u2019d like to take notes \ud83e\udd1d A willingness to start\u2014imperfectly, but intentionally",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/947A8CC7A8B5419DBD8D1C36D9E060A1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/781AE9564BE7481CBB2D56BC7F2F363B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A2962BEDA8C14E4382441699B6556E86_converted_webp.webp"
+    ],
+    "startDate": "2025-07-19T10:30:00+05:30",
+    "endDate": "2025-07-19T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "7, 4th Main Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhSp5dRwUrjsRNW96_uW6-Gk",
+      "latitude": "12.96668260000000000000",
+      "longitude": "77.63529030000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zuva Life",
+      "description": "We change\u2014and sometimes the life around us needs to catch up. Zuva Life offers gentle spaces to pause, reflect, and reimagine what comes next. These experiences invite you to explore life\u2019s shifts with curiosity, not pressure. A soft place to wonder, not to fix.",
+      "url": "https://urbanaut.app/partner/zuvalife",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/779F6F6E344F4386BCFBCCE7E0E0E57F_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99454-10037"
+      }
+    },
+    "url": "https://urbanaut.app/spot/securing-ground-basics-for-financial-wellness",
+    "keywords": [
+      "Premium",
+      "Responsible",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Role Reimagination Lab: Reflect, Release, Rebuild",
+    "description": "The Role Reimagination Lab with Ragini RaoA Gentle, Playful Dive into the Roles We Hold and Who We\u2019re BecomingWhy this experience?Over the course of life, we take on many roles\u2014some chosen, some assigned, some inherited without question. Over time, these roles shape how we move through the world. But they can also start to feel tight, tiring, or simply out of sync with who we\u2019re becoming.This lab is a pause point. A space to gently step back, trace the roles you've held, and ask: Which parts of me still feel true? Which roles do I want to carry forward, reshape, or shed? And what new ways of being might I want to try on?Guided by master practitioner Ragini Rao, this experience draws on Transactional Analysis (TA) to explore identity through the lens of role theory\u2014offering a mix of simple frameworks, shared stories, and playful reflection.What you\u2019ll experience:A guided mapping of the many roles you currently live\u2014professional, relational, socialSpace to notice which roles feel energising, and which feel heavy or outdatedAn introduction to core TA tools: Role Theory \u2013 how we perform, inherit, and outgrow roles Strokes \u2013 how we seek and give recognition Autonomy \u2013 the power to notice patterns and choose new onesOptional sharing, quiet reflection, and a sense of lightness in explorationIdeal for:People navigating change\u2014career shifts, caregiving transitions, or identity questionsThose holding multiple responsibilities and wondering who they are beyond themAnyone feeling \u201cin between\u201d roles and unsure what comes nextIndividuals curious about structured self-reflection without pressureWhat to bring:\ud83c\udfad A willingness to meet yourself where you are \ud83d\udcd3 A notebook or journal (optional) \ud83d\udc41\ufe0f Curiosity, and maybe a little humour",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CD7A3CBAE779432D83EAA1DA69DCE348_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D816B7ED4B2C4693BEC08DABA5F3854C_converted_webp.webp"
+    ],
+    "startDate": "2025-07-26T10:30:00+05:30",
+    "endDate": "2025-07-26T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "7, 4th Main Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhSp5dRwUrjsRNW96_uW6-Gk",
+      "latitude": "12.96668260000000000000",
+      "longitude": "77.63529030000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zuva Life",
+      "description": "We change\u2014and sometimes the life around us needs to catch up. Zuva Life offers gentle spaces to pause, reflect, and reimagine what comes next. These experiences invite you to explore life\u2019s shifts with curiosity, not pressure. A soft place to wonder, not to fix.",
+      "url": "https://urbanaut.app/partner/zuvalife",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/779F6F6E344F4386BCFBCCE7E0E0E57F_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99454-10037"
+      }
+    },
+    "url": "https://urbanaut.app/spot/role-reimagination-lab-reflect-release-rebuild",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Whimsical Wednesday with Improv Lore",
+    "description": "About the EventDive into the whimsical world of improvisation at our Wednesday Jams!Whether you\u2019re a novice to theatre, a maverick on stage, or just dipping your toes into the world of unscripted performance, this Jam is designed for everyone. Our facilitators will guide you through a series of engaging improv exercises, help you explore new characters, and set up scenarios that will make your inner wit shine - all on the spot!Come as you are, leave your inhibitions at the door on this journey of endless possibilities.Bring a friend, a date, or a group - our brave space is for everyone!Who are Improv Lore?We are a Bengaluru-based community theatre troupe, working towards spreading the art of spontaneous storytelling and unscripted stagecraft, and rekindling the joy of being playful and whimsical. We meet on Wednesdays for Jams and on weekends for workshops.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/98B4A4B623EC49BB8F15642484006040_converted_webp.webp"
+    ],
+    "startDate": "2025-07-02T20:00:00+05:30",
+    "endDate": "2025-07-02T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96722140000000000000",
+      "longitude": "77.63669820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "We're a community center for thoughtful, kind, and interesting events.",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/whimsical-wednesday-with-improv-lore-7600",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Cocktail Concerts",
+    "description": "An easygoing evening where good music meets great drinks. Enjoy live rock and pop performances while sipping on handcrafted cocktails in a relaxed bar setting. Whether you`re here for the tunes, the drinks, or just to unwind with friends, it`s the perfect way to spend your night.Laid-back vibes, familiar hits, and cocktails that hit the right note.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/291772D0FC834418A291CDBB66046D06_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B13483BC5ABE4C0E981E110891568C4F_converted_webp.webp"
+    ],
+    "startDate": "2025-07-05T20:00:00+05:30",
+    "endDate": "2025-07-05T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVTeAtXkRrjsRPyAJzdxl0HA",
+      "latitude": "12.98209230000000000000",
+      "longitude": "77.70862830000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 200,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Hamilton",
+      "description": null,
+      "url": "https://urbanaut.app/partner/hamilton",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CED7A4CC2AA4EC9BD02E06C4F0731E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63620-01931"
+      }
+    },
+    "url": "https://urbanaut.app/spot/cocktail-concerts-7601",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sufi Soiree",
+    "description": "Step into an enchanting evening filled with soul-stirring Sufi melodies paired perfectly with smooth, handcrafted cocktails. Let the music flow around you like poetry, creating a serene atmosphere where every note draws you deeper into a world of calm and connection.With gentle lighting and intimate vibes setting the mood, this night invites you to pause, reflect, and immerse yourself fully in the magic. It\u2019s a soulful experience designed to touch your heart and soothe your spirit.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F845D1D1506B4F918986A71059F62A6B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9AC59706FA614A51A079728EDDD5F1CF_converted_webp.webp"
+    ],
+    "startDate": "2025-07-06T20:00:00+05:30",
+    "endDate": "2025-07-06T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVTeAtXkRrjsRPyAJzdxl0HA",
+      "latitude": "12.98209230000000000000",
+      "longitude": "77.70862830000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 200,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Hamilton",
+      "description": null,
+      "url": "https://urbanaut.app/partner/hamilton",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CED7A4CC2AA4EC9BD02E06C4F0731E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63620-01931"
+      }
+    },
+    "url": "https://urbanaut.app/spot/sufi-soiree-7603",
+    "keywords": [
+      "Live GIG",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Jazzed Up",
+    "description": "Get ready to groove! Jazzed Up brings the rhythm to your plate with a high-energy live set by Assorted Nuts \u2014 a jazz collective known for their wild improvisations, smooth swing, and funky flair.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3662E807C93E4C6EB7018EF1043B13B9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E501449012904701B4E16C5F34A38BA0_converted_webp.webp"
+    ],
+    "startDate": "2025-07-04T20:00:00+05:30",
+    "endDate": "2025-07-04T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVTeAtXkRrjsRPyAJzdxl0HA",
+      "latitude": "12.98209230000000000000",
+      "longitude": "77.70862830000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 200,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Hamilton",
+      "description": null,
+      "url": "https://urbanaut.app/partner/hamilton",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CED7A4CC2AA4EC9BD02E06C4F0731E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63620-01931"
+      }
+    },
+    "url": "https://urbanaut.app/spot/jazzed-up",
+    "keywords": [
+      "Live GIG",
       "URBANAUT"
     ]
   }
