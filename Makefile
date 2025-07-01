@@ -121,9 +121,9 @@ out/creativemornings.txt:
 	python src/creativemornings.py | sort > $@ || $(call restore-file,$@)
 	echo "[CREATIVEMORNINGS] $$(wc -l $@ | cut -d ' ' -f 1)"
 
-out/together-buzz.txt:
-	python src/together-buzz.py | sort > $@ || $(call restore-file,$@)
-	echo "[TOGETHER] $$(wc -l $@ | cut -d ' ' -f 1)"
+# out/together-buzz.txt:
+# 	python src/together-buzz.py | sort > $@ || $(call restore-file,$@)
+# 	echo "[TOGETHER] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/adidas.json:
 	python src/adidas.py || $(call restore-file,$@)
@@ -198,7 +198,6 @@ fetch: out/allevents.txt \
  out/bluetokai.json \
  out/gullytours.json \
  out/townscript.txt \
- out/together-buzz.txt \
  out/tonight.json \
  out/creativemornings.txt \
  out/adidas.json \

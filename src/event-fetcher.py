@@ -95,7 +95,6 @@ URL_FILES = [
     "out/insider.txt",
     "out/mmb.txt",
     "out/creativemornings.txt",
-    "out/together-buzz.txt",
     "out/koota.txt",
     "out/pumarun.txt",
     "out/artzo.txt"
