@@ -473,7 +473,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -672,7 +672,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 160,
-    "remainingAttendeeCapacity": 143,
+    "remainingAttendeeCapacity": 141,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1013,7 +1013,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 35,
+    "remainingAttendeeCapacity": 31,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1317,8 +1317,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 23,
-    "remainingAttendeeCapacity": 20,
+    "maximumAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1514,7 +1514,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 19,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1736,53 +1736,6 @@
     "url": "https://urbanaut.app/spot/family-movie-night-at-coro",
     "keywords": [
       "Leisure",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Garden Social with DOORS",
-    "description": "About the EventThe Garden Social, in collaboration with Courtyard and DOORS, is an open-air social evening filled with conversation, curiosity, and a little bit of play.We invite you to slow down for an afternoon of screen-free connection - surrounded by trees, thoughtful questions, and friendly faces. Together, we\u2019ll explore DOORS, a one-of-a-kind social card game designed to spark real conversations and meaningful moments.Whether you're showing up solo or with friends, this is your space to listen, reflect, laugh, and share.Limited spots available at \u20b9700 (Excluding taxes).The DeetsDate: Saturday, July 5thTime: 3PM \u2013 5PMAt the Yard!Terms and ConditionsThe management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Valet service is available at a charge of Rs. 200 per vehicle.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Tickets are non-refundable in case of cancellation or no-show.In the event of rain leading to a complete washout, Courtyard reserves the right to cancel the event. In such cases, a full refund for the ticket will be issued.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/14E29D8E2FDC4A0F8EF1699AFB3370A6_converted_webp.webp"
-    ],
-    "startDate": "2025-07-05T15:00:00+05:30",
-    "endDate": "2025-07-05T17:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Courtyard",
-      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
-      "latitude": "12.95843050000000000000",
-      "longitude": "77.59289509999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "700.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Courtyard",
-      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
-      "url": "https://urbanaut.app/partner/courtyard",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-73386-77996"
-      }
-    },
-    "url": "https://urbanaut.app/spot/the-garden-social-with-doors-moonshine",
-    "keywords": [
-      "Leisure",
-      "COURTYARD",
       "URBANAUT"
     ]
   },
