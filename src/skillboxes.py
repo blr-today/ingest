@@ -42,11 +42,15 @@ def get_event_details(session, slug):
     ).json()['data']
 
     try:
-        details['tickets'] = session.post(
+        r = session.post(
             "https://www.skillboxes.com/servers/v3/api/event-new/event-tickets",
             json=payload,
             headers=headers,
-        ).json()['data']
+        ).json()
+
+        if r['success'] == False:
+            return None
+        details['tickets'] = r['data']
         return details
     except Exception as e:
         if "more than 100 headers" in str(e):
