@@ -549,52 +549,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "De-Stress Fridays",
-    "description": "Fridays are meant for letting go, and this table is all about decompressing after a long week.Deadlines, meetings, and stress? Not here!This table is your weekly escape from the chaos, where you can kick back, connect, and enjoy an evening of effortless conversations and laughter.No pressure, just good energy!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BCFDE145C74140D791BEFADA865C25FE_converted_webp.webp"
-    ],
-    "startDate": "2025-07-04T19:30:00+05:30",
-    "endDate": "2025-07-04T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Indiranagar, Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
-      "latitude": "12.97836920000000000000",
-      "longitude": "77.64083560000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1199.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/de-stress-fridays",
-    "keywords": [
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Food Sante",
     "description": "A celebration of culinary passion \u2014 a table where home chefs and cooking lovers present their signature creations. The most loved dish earns a spot on our official specials menu, credited with your name!",
     "image": [
@@ -765,7 +719,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 160,
-    "remainingAttendeeCapacity": 139,
+    "remainingAttendeeCapacity": 138,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1056,7 +1010,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 95,
+    "remainingAttendeeCapacity": 94,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1106,7 +1060,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 31,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1212,7 +1166,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1411,7 +1365,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 150,
+    "remainingAttendeeCapacity": 139,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1458,8 +1412,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 5,
+    "maximumAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 1,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1655,7 +1609,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1835,53 +1789,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Family Movie Night at Coro",
-    "description": "Join us for a cozy evening as we screen the animated classic Cloudy with a Chance of Meatballs; a wildly fun tale of food, imagination, and a whole lot of heart.We\u2019re serving up fresh waffles from Drool Waffles to go with the giggles, so come in comfy, bring the kids, and settle in for a movie night the whole family will love.Limited spots \u2014 book yours soon!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FFDB0D38950649BFA74FA75B04A41FF5_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/414FC61A1A76402EB3E4DF9419A0B0B0_converted_webp.webp"
-    ],
-    "startDate": "2025-07-04T17:00:00+05:30",
-    "endDate": "2025-07-04T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3S2OrvsVrjsRBOql1X-UnAM",
-      "latitude": "12.96068750000000000000",
-      "longitude": "77.63718750000001000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Coro",
-      "description": null,
-      "url": "https://urbanaut.app/partner/corospace",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/0F2E55DAAA19467D96CA7AFC8F33B7A0_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-94466-91720"
-      }
-    },
-    "url": "https://urbanaut.app/spot/family-movie-night-at-coro",
-    "keywords": [
-      "Leisure",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "SLOW BURN YOGA BRUNCH",
     "description": "Ignite your inner fire and reset your energy with a mindful 75\u2011minute practice in our studio\u2014a slow, strength\u2011infused yoga flow using light weights and intentional breath\u2011centered movement. We\u2019ll guide you through grounding sequences, close with a calming savasana, and leave you feeling replenished from the inside out.Then, linger a little longer: Join us on the patio for a nourishing brunch spread crafted to restore your body and relax your spirit. Sip, savor, and soak in the serene post\u2011practice vibes as you connect with others in this leaves\u2011of\u2011light sanctuary",
@@ -1954,7 +1861,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1985,7 +1892,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Your Supplement Stack is a Scam. Let's Fix That.",
-    "description": "Your great grandparents never needed supplements. You do. Here\u2019s why.The world changed. Your food lost its power. Your environment turned toxic. And now you need strategic support to bridge the gap. But most people are doing it all wrong.Join Srinivasa Vivek (Precision Nutritionist & CEO, Resolute) as he reveals why most supplement regimens fail to make real change, and how to design one that actually works for your unique needs and goals.Discover,Red Flags even the most health-conscious often missWhy the \u201cmore is better\u201d approach backfiresThe 4-step framework to cut through the noise and build a supplement stack that brings real changeBONUS \u2014 Learn about clean coffee, why it\u2019s good for you and for the planet from the FAST team90 minutes of great coffee + everyday health clarityInteractive masterclass with myth-busting revelations, easy to action advice, and an audience Q&A. Then stay for curated music and genuine conversations with health-curious minds who think like you do. Leave with practical tools designed specifically for this gathering, plus FAST coffee drip bags to get you going.",
+    "description": "Your great grandparents never needed supplements. You do. Here\u2019s why.The world changed. Your food lost its power. Your environment turned toxic. And now you need strategic support to bridge the gap. But most people are doing it all wrong.Join Srinivasa Vivek (CEO, Resolute | Level 2 Precision Nutritionist, EXOS-certified Performance Specialist) as he reveals why most supplement regimens fail to make real change, and how to design one that actually works for your unique needs and goals.Discover,Red Flags even the most health-conscious often missWhy the \u201cmore is better\u201d approach backfiresThe 4-step framework to cut through the noise and build a supplement stack that brings real changeBONUS \u2014 Learn about clean coffee, why it\u2019s good for you and for the planet from the FAST team90 minutes of great coffee + everyday health clarityInteractive masterclass with myth-busting revelations, easy to action advice, and an audience Q&A. Then stay for curated music and genuine conversations with health-curious minds who think like you do. Leave with practical tools designed specifically for this gathering, plus FAST coffee drip bags to get you going.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6D77B464D1C348DAA451F49D741396AC_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6D7D34734DD24C09B5CE1CB922C4D7AB_converted_webp.webp",
@@ -2004,7 +1911,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 48,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2053,7 +1960,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 170,
-    "remainingAttendeeCapacity": 141,
+    "remainingAttendeeCapacity": 101,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2151,7 +2058,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2326,121 +2233,6 @@
       "Leisure",
       "Workshop",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Muttley Crew X SOCIAL \u2014 The Barkfast Club, Top Dog",
-    "description": "Sniff. Feast. Shop.Bangalore\u2019s favourite breakfast for Top Dogs is back!Join us for a paw-some morning of food, fun, and Top Dogs!\u2728 Feat:\ud83d\udcf8 Pup portraits by Joshua\ud83c\udfa8 Caricatures by Artist Murali\ud83d\udecd\ufe0fBertilla\u2019s Luxe Accessories & Klean Gypsy\u2019s Personal Care\ud83c\udf73 Barkfast by Muttley CrewArtist Details:\u00a0\ud83d\udcf8 Pup Portraits by JoshuaA freestyle photographer based in Bangalore, Joshua captures candid moments and four-legged charm in perfect light.\ud83c\udf80 Bertilla\u2019s Luxe AccessoriesHandcrafted bowties, collars & headbands for pets with style. Premium, personalized, and made with love.\ud83e\uddf4 Klean GypsyA thoughtfully crafted pet care and walking gear brand that\u2019s as kind to your pet as it is to the planet.\ud83c\udfa8 Artist MuraliOne of Bangalore\u2019s top caricature, portrait, and illustration artists \u2014 bringing playful sketches to life.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6CFC338F6AF848C3B5CB7DB55EE62B8A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E1436D6F5D7E410F9F3FDF0F6FB4FE97_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0A1A3F8C97184166A6C267B59256AF6E_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4AC181C3C6994557809272BCE012CA86_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F85BB104DF034FBE8434B1B26D73C413_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4384FF7A495C40F5B604951285AE46A3_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C4607BC46AAA46EAB9B17B0FB91AF7D4_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E9EC24FA77724DB3B1B30B970AB2DCC2_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/687D37D7AE274F76AE4D151DC8DCF3D6_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1D0E79880C17454FAA0FF76CCDAFF98E_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3E6A0A263A1A472BAA8D1EE3C5A4B38C_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A387221B49C54C72B302DC8786095763_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0BBFD0241EF7448F883D09D9B7EF359C_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7E55525CF5B64F12B5E29B86EFDBC059_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/97235C8C4EC0403E823D5237A2FE4864_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/161A1907C0604A91A2DCA819347D7FE9_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/50A39254D7314D629B9051C8C9AE3656_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1225B268E66A49E39B4845546EF8C413_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1F789BF6A18E4C80B9193C739668660E_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8A7E8EA8906E460CA6AF3DE07CA7DE3A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/398D155E72EF4E8286AE51EC864B1531_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DFB12830136C4267A10BF2B0A7CFB6F1_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F990D414C9384548A1804E86588C2E96_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EA5B20DA739C4DF7AFFA8D5D647DC4A5_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFEA786172B94853BF83B894D85AB602_converted_webp.webp"
-    ],
-    "startDate": "2025-07-06T08:30:00+05:30",
-    "endDate": "2025-07-06T10:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, New Tippasandra, Bengaluru, Karnataka 560075, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJr1xXjN8XrjsRZWB3rrZtEn4",
-      "latitude": "12.97073220000000000000",
-      "longitude": "77.64763909999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "999.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Muttley Crew",
-      "description": "100% Real Ingredients: No fillers, no by-products, just the good stuff. Preservative-Free, Grain-Free, Gluten-Free: Because clean treats mean healthier, happier dogs. Crafted for Tail-Wagging Joy: Taste-tested, dog-approved, and made for pure, drool-worthy satisfaction.",
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A1A8DE81F4534DA6B52F4D8C6B625E12_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-89517-69316"
-      }
-    },
-    "url": "https://urbanaut.app/spot/muttley-crew-x-social-the-barkfast-club-top-dog",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Afterhours",
-    "description": "When the clock strikes late, Hamilton turns up the heat.\u00a0Afterhours\u00a0is our signature DJ night where the beats get darker, the vibe gets wilder, and the cocktails flow strong and smooth. Step into a space where the lights are low, the energy is high, and the music keeps you moving deep into the night. Whether you`re closing the week or starting your weekend right \u2014\u00a0Afterhours\u00a0is where the real stories begin.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4D41E559B2ED4991873343C1CA490EFA_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/69AC983718394BC4BE346C5A64B5769F_converted_webp.webp"
-    ],
-    "startDate": "2025-07-04T22:30:00+05:30",
-    "endDate": "2025-07-04T23:59:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVTeAtXkRrjsRPyAJzdxl0HA",
-      "latitude": "12.98209230000000000000",
-      "longitude": "77.70862830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 200,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Hamilton",
-      "description": null,
-      "url": "https://urbanaut.app/partner/hamilton",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CED7A4CC2AA4EC9BD02E06C4F0731E7_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-63620-01931"
-      }
-    },
-    "url": "https://urbanaut.app/spot/afterhours-7591",
-    "keywords": [
       "URBANAUT"
     ]
   },
@@ -2787,53 +2579,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Jazzed Up",
-    "description": "Get ready to groove! Jazzed Up brings the rhythm to your plate with a high-energy live set by Assorted Nuts \u2014 a jazz collective known for their wild improvisations, smooth swing, and funky flair.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3662E807C93E4C6EB7018EF1043B13B9_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E501449012904701B4E16C5F34A38BA0_converted_webp.webp"
-    ],
-    "startDate": "2025-07-04T20:00:00+05:30",
-    "endDate": "2025-07-04T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVTeAtXkRrjsRPyAJzdxl0HA",
-      "latitude": "12.98209230000000000000",
-      "longitude": "77.70862830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 200,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Hamilton",
-      "description": null,
-      "url": "https://urbanaut.app/partner/hamilton",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CED7A4CC2AA4EC9BD02E06C4F0731E7_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-63620-01931"
-      }
-    },
-    "url": "https://urbanaut.app/spot/jazzed-up",
-    "keywords": [
-      "Live GIG",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "where you from: A Theatrical Poetry Experience",
     "description": "For ages 16 and abovewhere you from:So tell me, where are you from, now that you're here?Are you from earth's kernels, or a childhood lane?Are you from a summer of love, or your innate politics?Are you from where they say you're from, or have you yet to find out?Where You From?About the show:This genre-defining show offers glimpses into the changing identities of a body in continued performance. Bringing cliff notes from a decade-long practice in creating works of words, Nupur Azadi - a slam poet who emerged from Singapore - shows what is possible when meditations in movement, voicework, spoken word, and theatrical traditions come together.-65-minute, devised-solo told in fours acts, without intermission.-Multi-disciplinary and multi-media show suitable for audiences 16+.-This show is part of the A Decade of Theatrical Poetry celebration and was first shown during BLR Hubba in December 2024. It was followed by Jagriti Theatre in February 2025 and Sabha BLR in June 2025.\u00a0About the artist:Nupur Azadi (she/her) is an international stage artist who creates works of words. She is a self-taught, multi-disciplinary artist who emerged from the close-knit slam poetry spaces of Singapore in 2015. Her work has been hailed as \u2018urgent\u2019 and \u2018engaging\u2019 by a global audience. In 2022 she conceptualized, wrote, produced, directed, and performed in a one-woman theatrical poetry show called \u2018Live. Love. Loaf. An investigation into who gets to loiter\u2019. Over 2022 and 2023 she performed the same across various venues in Bangalore and NALSAR, Hyderabad before taking it to Singapore and Cambodia. As a student of Voicework, and of literary pedagogies, and a continued participant in movement arts learnings, she labors over foraging a physicality to the previously textual genre of spoken word. She intertwines spoken word, theatre, music, and movement into an art form she christened Theatrical Poetry.Read reviews: \"When Nupur speaks, you listen. What a performance!\" -Vasu Dixit\u00a0\"Met so many women and their stories in one tonight\"\u00a0- Sal Yusuf\"Found a whole new genre in this show.\"\u00a0- Damini Gairola\"Azadi at her courageous best!\"\u00a0- Dipankar Panth",
     "image": [
@@ -2905,7 +2650,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -3175,54 +2920,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Jack Of All Trades by Quiz Pro Quo",
-    "description": "About the EventToo much to catch up on and not enough time? Get a little bit of everything with Jack Of All Trades Quiz.The quiz follows a Jeopardy-style topic selection where you gamble points based on your confidence!About Quiz Pro Quo:QPQ is a community to introduce people to quizzing. They come together every week to crack questions on everyday topics. They have been hosting quizzes online and in person since May 2020.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4DD9FD109FDA4B1B8988CD4BEA95CF3E_converted_webp.webp"
-    ],
-    "startDate": "2025-07-04T20:30:00+05:30",
-    "endDate": "2025-07-04T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
-      "latitude": "12.96722140000000000000",
-      "longitude": "77.63669820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "349.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "We're a community center for thoughtful, kind, and interesting events.",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97905-32594"
-      }
-    },
-    "url": "https://urbanaut.app/spot/jack-of-all-trades-by-quiz-pro-quo",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Wagon Master (1950) with The Parallel Cinema Club",
     "description": "Our meetings consist of a screening of an arthouse film, followed by a discussion. The discussion is led by one of our members or sometimes a guest speaker and encourages members to share their thoughts and interpretations of the film.Who are The Parallel Cinema Club?A community-run film society, we are a collective of film enthusiasts who gather weekly to explore the world of cinema, discuss auteurs and themes, and occasionally host guest lectures. You follow us on Instagram on @theparallelcinemaclub and join our WhatsApp community.",
     "image": [
@@ -3312,52 +3009,6 @@
     "keywords": [
       "Leisure",
       "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Fort Apache - TPCC Bangalore",
-    "description": "At Fort Apache, an honorable and veteran war captain finds conflict when his regime is placed under the command of a young, glory hungry lieutenant colonel with no respect for the local Indian tribe.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A560DCA7C1D245DBBF4DC9A3AD417C17_converted_webp.webp"
-    ],
-    "startDate": "2025-07-03T19:45:00+05:30",
-    "endDate": "2025-07-03T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "395, 18th Main Rd, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ902bOBoVrjsRZqcWFdG27vk",
-      "latitude": "12.94075940000000000000",
-      "longitude": "77.62343100000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "375.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Parallel Cinema Club",
-      "description": null,
-      "url": "https://urbanaut.app/partner/tpcc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98860-01991"
-      }
-    },
-    "url": "https://urbanaut.app/spot/fort-apache-tpcc-bangalore",
-    "keywords": [
       "Art & culture",
       "URBANAUT"
     ]
@@ -3502,9 +3153,7 @@
     },
     "url": "https://urbanaut.app/spot/desi-breakfast-club#2025-07-06T0900",
     "keywords": [
-      "History & heritage",
       "Food & drink",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -3552,9 +3201,7 @@
     },
     "url": "https://urbanaut.app/spot/desi-breakfast-club#2025-07-06T0945",
     "keywords": [
-      "History & heritage",
       "Food & drink",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -3602,8 +3249,393 @@
     },
     "url": "https://urbanaut.app/spot/desi-breakfast-club#2025-07-06T1030",
     "keywords": [
-      "History & heritage",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Breathwork with Kavya",
+    "description": "Breathe Into Balance: From Regulation to TransformationWith Kavya Peerbhoy, Breathwork Facilitator with Ujjayi Movement StudioJoin us for a transformative evening of breath-led healing at The Studio by Copper & Cloves. This immersive worskshop is designed to help you drop out of your busy mind, reconnect with your body, and access deep emotional release and inner clarity through the power of your breath.Workshop Flow\u2022\u2060\u00a0\u2060Welcome & Introductions\u2022\u2060\u00a0\u2060Parasympathetic Nervous System Activation\u00a0\u2022\u2060\u00a0\u2060Conscious Connected Breathwork Journey\u00a0\u2022\u2060\u00a0\u2060Deep Relaxation\u2022\u2060\u00a0\u2060Sharing Circle with Herbal tea and with light plant-based snacksWhat You Can Expect\u2022\u2060\u00a0\u2060A safe space to explore your breath\u2022\u2060\u00a0\u2060Emotional release and nervous system regulation\u2022\u2060\u00a0\u2060A sense of deep calm, clarity, and groundedness\u2022\u2060\u00a0\u2060Community connection through shared practice and conversationLongterm Benefits of Breathwork:\u2022\u2060\u00a0\u2060Nervous system regulation\u2022\u2060\u00a0\u2060Improved lung capacity and breath awareness\u2022\u2060\u00a0\u2060Enhanced focus, emotional resilience, and sleep quality\u2022\u2060\u00a0\u2060Anxiety and stress reduction\u2022\u2060\u00a0\u2060High vagal tone and restored energy levels\u2022\u2060\u00a0\u2060Access to non-ordinary states of consciousness\u2022\u2060\u00a0\u2060Process suppressed emotions and trauma\u2022\u2060\u00a0\u2060Enhanced self-awareness, intuition, and creativity\u2022\u2060\u00a0\u2060Release tension and stagnant energy stored in the body\u2022\u2060\u00a0\u2060Creates space for clarity, insights, and healingAbout our Breathwork Facilitator: Kavya Peerbhoy\u00a0After spending over two decades leading global marketing teams across some of the world\u2019s most influential brands, Kavya found herself facing burnout, chronic stress, anxiety, and depression. She discovered the transformative power of the breath to regulate emotions, release stored trauma, and reconnect to a sense of inner balance. Today, she holds space for others on their healing journeys, helping them access the power of the breath to heal, grow, and rediscover their authentic selves.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/442D643EB25C454980DFE54E8B44F353_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A578BF28349F45BF81A31235196246DA_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6E391E85FB574188B0E15B154269A2F1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F9B34873394A4A599045373763420F9C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/11FBC283FFE04E898C9F67CBAA49FC5F_converted_webp.webp"
+    ],
+    "startDate": "2025-07-12T16:00:00+05:30",
+    "endDate": "2025-07-12T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1800.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/breathwork-with-kavya-2",
+    "keywords": [
+      "Music",
+      "Responsible",
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Starry Nights - Art | Music | Food",
+    "description": "Join us on a beautiful rooftop as the Bangalore breeze sets the mood for a chill, art-filled night. For just \u20b9650, you\u2019ll get access to a variety of DIY art activity options \u2014 whether you\u2019re into painting, crafts, or just exploring something new, we\u2019ve got you covered. No experience needed \u2014 just come as you are.What to expect:Multiple art stations with all materials providedA snack and a beverage to satisfy your cravingsCurated music that inspires and upliftsCozy, creative vibes and a stunning rooftop settingWhether you're planning a relaxed evening with friends or looking to try something different on your own, Starry Nights is the perfect alternative to the usual cafe or bar scene. Limited spots available \u2014 book now and make your weekend sparkle!Terms and ConditionsTicket Requirement: All attendees aged 4 and above must hold a valid ticket to enter the event.Booking Fee: The ticket price includes a booking fee of \u20b9650, which is fully redeemable against art and craft activities at the event.Photography & Videography: Photos and videos taken during the event may be used for social media and promotional purposes. If you prefer not to be featured, please inform our team upon arrival.Cancellations & Refunds: Tickets are non-refundable in case of cancellations or no-shows.Weather Contingency: In case of rain, the event will either be moved to indoors or cancelled. If cancelled, a full refund will be processed.Food Policy: Outside food is not allowed at the venue.Parking: Parking is available in the vicinity of the venue at the vehicle owner's risk. Please note, valet service is not available.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5A3859B2376B43D8867F012D9EBC28A1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B6218C11B2CD46759683D978797E4804_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BAB42D4683FD48B4BE959CB65DD24F61_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4D2853C989AB4270BFAAFC30498ED91F_converted_webp.webp"
+    ],
+    "startDate": "2025-07-20T17:00:00+05:30",
+    "endDate": "2025-07-20T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "4th Floor, Suraj Ganga Arcade, 14th Cross Rd, 2nd Block, Jayanagar, Bengaluru, Karnataka 560011, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJh1Qyx2gVrjsRg1vQbpNGo2s",
+      "latitude": "12.93709040000000000000",
+      "longitude": "77.58188880000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 48,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "650.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Firefly Terrace",
+      "description": "Perched under twinkly lights, The Firefly Terrace is a dreamy art nook for all ages. Dip into paint, play with color, and craft just for the joy of it. No rules, no pressure \u2014 just magic, laughter, and a sky full of inspiration.",
+      "url": "https://urbanaut.app/partner/thefireflyterrace",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B295288BF7794D9598F14F65602351B4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99727-07950"
+      }
+    },
+    "url": "https://urbanaut.app/spot/copy-of-starry-nights-art-music-food",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "COFFEE & CONVERSATIONS: HEALING JOURNEY",
+    "description": "A table for the hearts that are still mending.Heartbreaks. Burnouts. Breakups. Letting go. Starting over.The conversations we rarely have \u2014 but deeply need.Healing Journey\u00a0is a space to pause, reflect, and feel understood.Come share your story, or simply listen.No pressure. No expectations. Just presence, warmth, and strangers who somehow feel familiar.Because sometimes, healing begins with being heard \u2014 over coffee and connection.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4B41C62321004F4CACA5FE094125A45D_converted_webp.webp"
+    ],
+    "startDate": "2025-07-12T15:00:00+05:30",
+    "endDate": "2025-07-12T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Ground Floor, 52 5th cross, 60 Feet Rd, KHB Colony, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGaLo-dwVrjsRxjGx4jbrlAU",
+      "latitude": "12.93601050000000000000",
+      "longitude": "77.62162730000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1299.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/coffee-conversations-healing-journey",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Overwhelm to Empowerment",
+    "description": "Tired of theory-heavy stress management sessions with little or no impact? Need something practical, engaging, and truly uplifting?Join this transformative, activity-driven stress management workshop at MyBoTree, led by Meenakshi R Singh \u2014 Emotional Well-Being Consultant, Certified Happiness Life Coach, and Founder of The Uplifting Life Coach.\ud83c\udf3f From calming art and focus-building puzzles to insightful worksheets and guided reflections \u2014 walk away with practical tools to calm the chaos and build clarity.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/78B67515CC814A73AAC21304735EE431_converted_webp.webp"
+    ],
+    "startDate": "2025-07-26T15:00:00+05:30",
+    "endDate": "2025-07-26T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "85, 2nd Main Rd, next to Barbeque Nation, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_yQx2EQUrjsRLy5eRCQadTE",
+      "latitude": "12.92571550000000000000",
+      "longitude": "77.63712579999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 25,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Uplifting Life Coach",
+      "description": "At The Uplifting Life Coach, emotional well-being is reimagined\u2014through action-driven coaching, counseling, consulting, and activity-rich workshops. Based in Bangalore | Uplifting lives across India & globally\u2014for individuals, workplaces, classrooms, and communities.",
+      "url": "https://urbanaut.app/partner/theupliftinglifecoach",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/D3F08E6DE0EF4096B890FAD71D0A60B2_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-88679-00217"
+      }
+    },
+    "url": "https://urbanaut.app/spot/overwhelm-to-empowerment",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sunday Breakfast with Strangers",
+    "description": "Sunday Breakfast with StrangersSlow mornings. Soulful conversations. Delicious vegan food.Step into a space where strangers come together \u2014 not for networking, but for meaningful connection over a shared table.This isn\u2019t about small talk. It\u2019s about real people, real stories, and the joy of discovering something new \u2014 in someone else or even in yourself.Whether you're here for the food, the company, or simply a pause from the usual Sunday routine, there's a seat waiting for you.Arrive with an open mind, a big appetite, and zero expectations \u2014 leave with a full heart.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FE5C1B05BB47441FAB94648EF013B873_converted_webp.webp"
+    ],
+    "startDate": "2025-07-13T10:30:00+05:30",
+    "endDate": "2025-07-13T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2212, 80 Feet Rd, HAL 3rd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ87u2kd4VrjsRAJK_sak0eFc",
+      "latitude": "12.96793200000000000000",
+      "longitude": "77.64817610000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/sunday-breakfast-with-strangers-7642",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Movie Under the Stars | Sleepless in Seattle",
+    "description": "Join us for an open-air screening of Sleepless in Seattle (1993), with a three-course dinner by Chef Rhea Aaron and popcorn.*Wines and other beverages will be available for purchase at the venue.About the movie:Join us for a cozy evening under the stars with Sleepless in Seattle, a timeless romantic classic that reminds us that love often finds us when we least expect it.The film follows Sam, a widowed father whose heartfelt radio call about missing his late wife captures hearts across the country, including that of Annie, a journalist listening on the other side. What unfolds is a story about fate, timing, and a love that spans cities and airwaves.Paired with a thoughtfully curated three-course dinner by Chef Rhea Aaron inspired by the movie\u2019s gentle nostalgia and quiet romance, this is a night made for slow conversations, shared plates, and a little cinematic magic under the night sky.\u00a03-course dinner by Chef Rhea AaronCourse 1:Tomato, Mozzarella, BruschettaCourse 2:Chicken Skewers with Chimichuri, served with smashed baby potatoes and a fresh garden saladORRoasted Cauliflower and Chickpea curry with herbed couscousCourse 3Baked Apple Crumble with Vanilla Custard______Terms and ConditionsThe management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Limited Valet service is available at a charge of Rs. 200 per vehicle.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Tickets are non-refundable in case of cancellation or no-show.In the event of rain leading to a complete washout, Courtyard reserves the right to cancel the event. In such cases, a full refund for the ticket will be issued.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2F67AC557E0748B89F746FED2A48A606_converted_webp.webp"
+    ],
+    "startDate": "2025-07-17T20:15:00+05:30",
+    "endDate": "2025-07-17T22:15:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Courtyard",
+      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+      "latitude": "12.95843050000000000000",
+      "longitude": "77.59289509999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 23,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Courtyard",
+      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+      "url": "https://urbanaut.app/partner/courtyard",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-73386-77996"
+      }
+    },
+    "url": "https://urbanaut.app/spot/movie-under-the-stars-sleepless-in-seattle",
+    "keywords": [
+      "Leisure",
+      "Local",
+      "COURTYARD",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Soju & Slurp",
+    "description": "Spicy. Fizzy. Loud. Warm.That\u2019s how a Sunday afternoon should feel \u2014 and that\u2019s exactly what\u00a0Soju & Slurp\u00a0delivers.Hosted from the comfort of our home in Bangalore, this is a 7-seat-only Korean dining experience for those who love discovering new flavors, meeting interesting people, and sipping on craft soju cocktails while slurping bowls of soul-warming food. Whether you come with a friend or show up solo, there\u2019s always room at the table for good vibes.Here\u2019s what to expect:\ud83e\udd62\u00a0A fully vegetarian Korean spread\u00a0\u2014 thoughtfully curated and entirely homemade\ud83c\udf72\u00a0Tteokbokki\u00a0(chewy rice cakes in a spicy sauce),\u00a0braised tofu, and\u00a0a medley of banchan\u00a0(Korean side dishes)\ud83c\udf63\u00a0Kimbap\u00a0rolls filled with colorful, crunchy, umami-packed ingredients\ud83c\udf79\u00a0Korean-style soju cocktails\u00a0\u2014 light, fun, and perfectly paired with the food\u2728\u00a0Interactive dining\u00a0\u2014 we share stories, swap bites, and maybe even a few soju-induced laughs\ud83c\udf3f Served in a cozy home setting where every dish, every seat, and every guest mattersWhat makes it special?Unlike dining at a restaurant, Soju & Slurp is\u00a0personal and intimate. You\u2019re not just eating \u2014 you\u2019re experiencing a slice of Korean culture through vegetarian comfort food, warm hosting, and a space that feels like a lunch party with new friends. No repeats, no mass cooking \u2014\u00a0every batch is fresh, and every table is one-of-a-kind.\ud83d\udccd\u00a0Location: Bangalore\u23f0\u00a0Time: Sunday, 12:30 PM\ud83c\udf9f\ufe0f\u00a0Spots: Only 7 seatsCome hungry. Leave happy. Maybe a little tipsy.This is\u00a0KoreaToIndia\u2019s\u00a0signature experience, and we can\u2019t wait to have you at our table!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/525B7802E8934766BFFE3DDDFE8BC3B1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7135B56B68E547B59A406783CF899306_converted_webp.webp"
+    ],
+    "startDate": "2025-08-03T12:30:00+05:30",
+    "endDate": "2025-08-03T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "274, 11th B Cross Rd, Jeewan Griha Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJu6ohjBEVrjsReJkDA6YFJI0",
+      "latitude": "12.90878770000000000000",
+      "longitude": "77.59106700000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 7,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "koreatoindia",
+      "description": "koreatoindia is a vegetarian-only supper club reimagining Korean classics through an Indian lens. Founded by Simran, each intimate dining experience is designed to surprise even the most skeptical carnivores. Come for the food. Stay for the stories. Leave plotting your next visit.",
+      "url": "https://urbanaut.app/partner/koreatindia",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E8B144BC019842309D274B8F4E6427E6_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-90195-69732"
+      }
+    },
+    "url": "https://urbanaut.app/spot/soju-and-slurp",
+    "keywords": [
+      "Leisure",
+      "Premium",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "ARAKU Coffee Trivia Nights",
+    "description": "Bragging rights are just the beginning.Our General Trivia Night spans everything from everyday knowledge to the wildly unexpected. No niche themes, no gatekeeping. Just a mix of questions that anyone can take a crack at.Come solo or bring your sharpest friends. Win or not, it\u2019s always a good time. But winners do walk away with exciting prizes.No phones. No shouting. Just solid questions, smart guesses, and great company.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C8E034672BD34E74999D6D87A15B0078_converted_webp.webp"
+    ],
+    "startDate": "2025-07-09T20:00:00+05:30",
+    "endDate": "2025-07-09T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "968, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJu3MeVd0XrjsRej9BlCg4hv4",
+      "latitude": "12.96994650000000000000",
+      "longitude": "77.63917320000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 25,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "ARAKU Coffee",
+      "description": null,
+      "url": "https://urbanaut.app/partner/araku",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/511149AB2D2448469A053C17FC5FB4BF_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/araku-coffee-trivia-nights",
+    "keywords": [
+      "Leisure",
       "Art & culture",
       "URBANAUT"
     ]
