@@ -2,54 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsEvent",
-    "name": "Rajankunte Quarry Loop",
-    "sports": "Cycling",
-    "location": {
-      "@type": "Place",
-      "address": "padukone - dravid center for sports excellence"
-    },
-    "offers": [
-      {
-        "priceCurrency": "INR",
-        "@type": "offer",
-        "name": "l1 - beginner - 25 km (with b'fast)",
-        "price": "2850.00",
-        "availabilityStarts": "2025-07-06T06:15:00+05:30"
-      },
-      {
-        "priceCurrency": "INR",
-        "@type": "offer",
-        "name": "l2 - moderate - 40 km (with b'fast)",
-        "price": "3150.00",
-        "availabilityStarts": "2025-07-06T06:15:00+05:30"
-      },
-      [
-        {
-          "@type": "offer",
-          "name": "rental bike (with transport)",
-          "price": "800.00",
-          "priceCurrency": "INR"
-        },
-        {
-          "@type": "offer",
-          "name": "transport my bicycle",
-          "price": "300.00",
-          "priceCurrency": "INR"
-        }
-      ]
-    ],
-    "startDate": "2025-07-06T11:45:00+05:30",
-    "endDate": "2025-07-06T14:45:00+05:30",
-    "description": "Join us for a fun ride to explore the pretty countryside in Rajankunte and the surrounding areas in north Bangalore. Our route passes through small towns and covers quiet and pleasant country roads flanked by fields and farms. En route, make pit stops at a couple of lakes and quarries, where you can take in these dramatic landscapes shaped by human interference.\n\n{'DISTANCE': '25-40KM', 'ELEVATION GAIN': '150M', '% UNPAVED': '5%'}",
-    "url": "https://www.pedalintandem.com/experiences/cycle-rides-blr/rajankunte-quarry-loop",
-    "keywords": [
-      "cycle-rides-blr",
-      "PEDALINTANDEM"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsEvent",
     "name": "Cycle School",
     "sports": "Cycling",
     "location": {
