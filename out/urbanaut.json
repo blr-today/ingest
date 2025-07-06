@@ -456,55 +456,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Food Sante",
-    "description": "A celebration of culinary passion \u2014 a table where home chefs and cooking lovers present their signature creations. The most loved dish earns a spot on our official specials menu, credited with your name!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A26C900E80B74C1DABB2151D5F23923A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C5AC95C831C04131B4C8AA3D0BA684D1_converted_webp.webp"
-    ],
-    "startDate": "2025-07-06T11:30:00+05:30",
-    "endDate": "2025-07-06T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Ground Floor, 52 5th cross, 60 Feet Rd, KHB Colony, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGaLo-dwVrjsRxjGx4jbrlAU",
-      "latitude": "12.93601050000000000000",
-      "longitude": "77.62162730000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 9,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Jugni Kitchen + Bar",
-      "description": "Welcome to Jugni, one of the best restaurants in Koramangala, where we bring you a dining experience that\u2019s unapologetically Indian. At Jugni Kitchen & Bar, we\u2019ve created a haven for those who seek more than just a meal; it's a place where nostalgia, comfort, and vibrant energy come together.",
-      "url": "https://urbanaut.app/partner/jugni_kitchen_bar",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/154193DE5AB949B1BAAC47BB3886B887_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-89712-63741"
-      }
-    },
-    "url": "https://urbanaut.app/spot/foodsaante",
-    "keywords": [
-      "Premium",
-      "Festival",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Fully Booked",
     "description": "\u00a0Remember when reading felt like a world of its own?When you could lose yourself in a story, underline your favourite lines, and talk about books for hours?We\u2019re bringing that feeling back.Introducing \u201cFully Booked\u201d \u2013 a gathering of the MyBoTree Reading & Literary Club.Let\u2019s return to stories, share the books that shaped us, read aloud what we love, and rediscover the joy of reading \u2014 together.For this chapter, bring a favorite book or a book you're reading and share an excerpt that meant something to you",
@@ -942,59 +893,6 @@
       "Leisure",
       "Pop-up Event",
       "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Woodcut Workshop by Mohit Mahato",
-    "description": "Woodcut Printmaking Workshopby Mohit MahatoLearn the fundamentals of woodcut printmaking in this hands-on introductory workshop. Participants will explore the process of carving into wood blocks, inking, and printing on paper using simple tools and techniques. No prior experience is required\u2014just curiosity and a willingness to experiment. All materials will be provided.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9A6A1AA901FE40C1B5865A0ED8ABA14E_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DC1337FEEE124F62AAFCF697DC50B3CC_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/090A727483BD426EA8DE154A9AB39D62_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2149AC66FF614CCA9F8E778A09E98F08_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BFEAB31EB3564214B621A8A1905636CE_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2CCBE9501ECC43668018FB59FB851EF5_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/185A518A88944FFFB6D4CA4CDACF9F9C_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8366DF2589E14CF08673E1C74F393750_converted_webp.webp"
-    ],
-    "startDate": "2025-07-06T11:00:00+05:30",
-    "endDate": "2025-07-06T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
-      "latitude": "12.98348400000000000000",
-      "longitude": "77.61101699999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 16,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Pagal Canvas",
-      "description": null,
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/76648AC2874A45AC9DB5B5B33B1B19E0_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99022-45153"
-      }
-    },
-    "url": "https://urbanaut.app/spot/woodcut-workshop-by-mohit-mahato",
-    "keywords": [
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -1487,60 +1385,6 @@
       "Premium",
       "Food & drink",
       "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Dolce Far Niente",
-    "description": "Indulge in a thoughtfully curated 5-course vegetarian tasting menu by Chef Sibin, where each dish is mindfully paired with wine by Ms. Ganga Ghale. Designed for a slow, leisurely Sunday afternoon, this one-time experience invites you to sink into the art of unhurried dining and celebrate the beauty of doing nothing at all.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/559A392215184895A22312BEEE1715BB_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/57D84143ED59434BA7C1427A2589E3ED_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2C5B685FE4734C669E751CE75F3CAAC3_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/86145F18AA994301B14DD8DA27B4EBAC_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1535E9921FDF4FB693748DC98F1C01D6_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B2DF302BBF744FEE8B556A46D68CEC46_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6CAD2407D7D341FEA0F3867CC8020926_converted_webp.webp"
-    ],
-    "startDate": "2025-07-06T13:00:00+05:30",
-    "endDate": "2025-07-06T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Essensai 067, Whitefield - Hoskote Rd, Ardendale, Kannamangala, Bengaluru, Karnataka 560067, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJdaBJIQAPrjsRAbdoOXoCnpo",
-      "latitude": "13.02504020000000000000",
-      "longitude": "77.76208170000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 25,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "5000.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Barnhouse",
-      "description": null,
-      "url": "https://urbanaut.app/partner/dolcefarniente",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/6E017E1AD2BB456986AFABEB0151AA91_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": null
-      }
-    },
-    "url": "https://urbanaut.app/spot/dolce-far-niente",
-    "keywords": [
-      "Leisure",
-      "Premium",
-      "Food & drink",
       "URBANAUT"
     ]
   },
