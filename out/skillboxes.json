@@ -2,6 +2,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Rock Anthems & Rooftop Vibes!Rewind and rock out! This Thursday, 8 PM onwards, Skydeck by Sherlock's is serving up another epic Throwback Thursday",
+      "endDate": "2025-07-10T23:59:00",
+      "identifier": "com.skillboxes.25689",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1752059713NCH2RDrU9d1jtJoH.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750296",
+            "longitude": "77.6075339"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Echoes Of Rock - Tribute to Rock Music",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/echoes-of-rock-tribute-to-rock-music"
+         }
+      ],
+      "startDate": "2025-07-10T20:00:00",
+      "url": "https://www.skillboxes.com/events/echoes-of-rock-tribute-to-rock-music"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Experience a vibrant dose of the city’s freshest Day party — celebrating soul, sound, and intention — this Sunday by the poolside at",
       "endDate": "2025-07-13T23:59:00",
       "identifier": "com.skillboxes.25674",
@@ -269,15 +303,15 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Limited slots. Reserved for those who believe in beginnings before the crowd does. Be among the first to relive the echoes of a shared past. Expect raw emotions, unreleased originals, and memories you didn’t know you missed.\nThis ticket gives you exclusive access to Guzishta — a soul-stirring evening of music, poetry, and heartfelt storytelling by Ankit & Shobhit, coming together on stage for the first time after years of friendship and jamming in the shadows.",
-            "inventoryLevel": 14,
+            "inventoryLevel": 10,
             "name": "Early bird",
             "url": "https://www.skillboxes.com/events/ticket/guzishta-traces-of-yesterday-a-reunion-set-by-ankit-shobhit"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Guzishta – Saath Safar (Group of 2 Pass) Because some journeys are meant to be felt together. Bring your closest ones and experience Guzishta as it was meant to be — shared. This ticket admits three people to an evening of music, poetry, stories, and emotions that stretch across time.  Whether you’re friends, family, or fellow seekers of forgotten songs — come sit together, sway together, and remember together.\nIncludes: \t•\tFull entry for 2 attendees \t•\tReserved seating in a shared row (subject to availability) \t•\tA special group offer price — memories are better multiplied  Because nostalgia, like music, resonates deeper when it echoes through more than one heart.",
-            "inventoryLevel": 4,
+            "description": "Guzishta – Saath Safar (Group of 2 Pass) Because some journeys are meant to be felt together. Bring your closest ones and experience Guzishta as it was meant to be — shared. This ticket admits two people to an evening of music, poetry, stories, and emotions that stretch across time.  Whether you’re friends, family, or fellow seekers of forgotten songs — come sit together, sway together, and remember together.\nIncludes: \t•\tFull entry for 2 attendees \t•\tReserved seating in a shared row (subject to availability) \t•\tA special group offer price — memories are better multiplied  Because nostalgia, like music, resonates deeper when it echoes through more than one heart.",
+            "inventoryLevel": 1,
             "name": "Group Ticket",
             "url": "https://www.skillboxes.com/events/ticket/guzishta-traces-of-yesterday-a-reunion-set-by-ankit-shobhit"
          }
@@ -325,6 +359,40 @@
       ],
       "startDate": "2025-07-13T20:00:00",
       "url": "https://www.skillboxes.com/events/sufi-soiree"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "SCC Gourmet Cinema - Eat Pray Love ",
+      "endDate": "2025-07-27T23:59:00",
+      "identifier": "com.skillboxes.25639",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1751961612veotOAHqC2xVhelm.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Movie Screenings"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9820923",
+            "longitude": "77.7086283"
+         },
+         "name": "Hamilton Cocktail Bar"
+      },
+      "name": "SCC Gourmet Cinema - Eat Pray Love",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Per Person +5 Course Menu",
+            "url": "https://www.skillboxes.com/events/ticket/scc-gourmet-cinema-eat-pray-love"
+         }
+      ],
+      "startDate": "2025-07-27T12:00:00",
+      "url": "https://www.skillboxes.com/events/scc-gourmet-cinema-eat-pray-love"
    },
    {
       "@context": "https://schema.org",
@@ -728,12 +796,12 @@
          },
          "name": "i-BAR"
       },
-      "name": "ELECTRI BOOGIE ft. DISKO SAMOSA, SANTANA & PRAMODH",
+      "name": "ELECTRIC BOOGIE ft. DISKO SAMOSA, SANTANA & PRAMODH",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 291,
+            "inventoryLevel": 287,
             "name": "ELECTRIC BOOGIE ft. DISKO SAMOSA, SANTANA & PRAMODH",
             "url": "https://www.skillboxes.com/events/ticket/electri-boogie-ft-disko-samosa-santana-pramodh"
          }
@@ -867,7 +935,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "GET YOUR PASSES SOON!\n",
-            "inventoryLevel": 381,
+            "inventoryLevel": 271,
             "name": "Essence of Techno X Outcasteve",
             "url": "https://www.skillboxes.com/events/ticket/essence-of-techno-x-outcasteve-1"
          }
@@ -1038,7 +1106,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Full Cover Ticket\n",
-            "inventoryLevel": 7,
+            "inventoryLevel": 6,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/one-love"
          },
@@ -1092,10 +1160,10 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get ready for a sonic journey with Shanka Tribe at Wild Pour on July 19th! 🔥Hailing from Kerala, this natural trance band brings together rich",
+      "description": "Get ready for a sonic journey with Shanka Tribe at Wild Pour on July 19th! 🔥\r\n\r\nHailing from Kerala, this natural trance band brings together rich ",
       "endDate": "2025-07-19T23:59:00",
       "identifier": "com.skillboxes.25314",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1751383962UsC3398xM0Ql7lWB.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1752031875yE4Oj3Sm9GO4cZYt.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
@@ -1112,14 +1180,6 @@
       },
       "name": "Double the Trance, Double the Fun!",
       "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional cover charge INR 1000/- per individual applicable at gates. Fully Redeemable on F&B.\n",
-            "inventoryLevel": 985,
-            "name": "Early Bird Pass",
-            "url": "https://www.skillboxes.com/events/ticket/double-the-trance-double-the-fun"
-         },
          {
             "@type": "Offer",
             "availability": "InStock",
@@ -1150,6 +1210,14 @@
             "description": "Additional cover charge INR 1000/- per individual applicable at gates. Fully Redeemable on F&B.\n",
             "inventoryLevel": 1000,
             "name": "Phase 1 Group of 10",
+            "url": "https://www.skillboxes.com/events/ticket/double-the-trance-double-the-fun"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional cover charge INR 1000/- per individual applicable at gates. Fully Redeemable on F&B.\n",
+            "inventoryLevel": 985,
+            "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/double-the-trance-double-the-fun"
          }
       ],
@@ -1199,7 +1267,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "500rs Cover Charge Applicable at the gates\n",
-            "inventoryLevel": 99,
+            "inventoryLevel": 98,
             "name": "Group of 3",
             "url": "https://www.skillboxes.com/events/ticket/voices-of-a-generation-3-1"
          },
@@ -1482,7 +1550,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 981,
+            "inventoryLevel": 979,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/kahanikaar-a-storytelling-show-by-kommune-bengaluru"
          }
@@ -1517,16 +1585,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry for you and your one of your single guy friend\n",
-            "inventoryLevel": 4,
-            "name": "You and Your Guy Bestie (New Session: 3 PM -  PM)",
+            "inventoryLevel": 1,
+            "name": "You and Your Girl Bestie (New Session: 3 PM -  PM)",
             "url": "https://www.skillboxes.com/events/ticket/pitch-a-friend-a-blrgrooveco-event"
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
+            "availability": "SoldOut",
             "description": "Allows entry for you and your one of your single guy friend\n",
-            "inventoryLevel": 2,
-            "name": "You and Your Girl Bestie (New Session: 3 PM -  PM)",
+            "inventoryLevel": 0,
+            "name": "You and Your Guy Bestie (New Session: 3 PM -  PM)",
             "url": "https://www.skillboxes.com/events/ticket/pitch-a-friend-a-blrgrooveco-event"
          }
       ],
@@ -1559,7 +1627,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 3,
+            "inventoryLevel": 2,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/amnap-records-ft-yushh-uk-oceantied-adi-g"
          }
@@ -1593,7 +1661,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 35,
+            "inventoryLevel": 34,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/suraj-baiju-the-soulstring-sessions"
          },
@@ -1686,8 +1754,22 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 990,
+            "inventoryLevel": 987,
             "name": "Phase 1 Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/waqt-ki-baatein-tour-by-dream-note-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Group of 2",
+            "url": "https://www.skillboxes.com/events/ticket/waqt-ki-baatein-tour-by-dream-note-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/waqt-ki-baatein-tour-by-dream-note-bangalore"
          }
       ],
@@ -1771,6 +1853,40 @@
       ],
       "startDate": "2025-08-08T19:00:00",
       "url": "https://www.skillboxes.com/events/khoya-tour-2025-by-aseem-bengaluru"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Hello Bengaluru Kommuneity!\r\n\r\n \r\n\r\nWe are here with a poetry writing workshop by Poet, Author, Podcaster & Spokenword Artist Megha Rao, as d",
+      "endDate": "2025-07-20T23:59:00",
+      "identifier": "com.skillboxes.24923",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750746309GZFLCbGnakIUxkea.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Poetry Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "477, Shri Krishna Temple Rd, Indira Nagar 1st Stage, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9788825",
+            "longitude": "77.6417088"
+         },
+         "name": "TreeHouse"
+      },
+      "name": "Poetry Escape Room - A Poetry Writing Workshop by Megha Rao",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "Regular Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/poetry-escape-room-a-poetry-writing-workshop-by-megha-rao"
+         }
+      ],
+      "startDate": "2025-07-20T13:00:00",
+      "url": "https://www.skillboxes.com/events/poetry-escape-room-a-poetry-writing-workshop-by-megha-rao"
    },
    {
       "@context": "https://schema.org",
@@ -1917,7 +2033,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 669,
+            "inventoryLevel": 667,
             "name": "Phase 1 GA",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -2317,7 +2433,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Phase One Tickets to Billed To Destroy\n",
-            "inventoryLevel": 14,
+            "inventoryLevel": 12,
             "name": "HxC Fam: Phase One",
             "url": "https://www.skillboxes.com/events/ticket/billed-to-destroy-blr-ft-pacifist-strangle-catatonic"
          },
@@ -2360,7 +2476,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Admits one person for one of the days\n",
-            "inventoryLevel": 9987,
+            "inventoryLevel": 9985,
             "name": "One Day Pass",
             "url": "https://www.skillboxes.com/events/ticket/maya-bazaar-7"
          },
@@ -2368,7 +2484,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Admit one person for both days\n",
-            "inventoryLevel": 480,
+            "inventoryLevel": 473,
             "name": "Early Bird (Festival Pass)",
             "url": "https://www.skillboxes.com/events/ticket/maya-bazaar-7"
          },
@@ -2581,7 +2697,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charge of INR 499 extra at the gate (fully redeemable for F&B).\n",
-            "inventoryLevel": 975,
+            "inventoryLevel": 970,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/wacken-open-air-2025-preparty"
          },
@@ -2709,7 +2825,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Film Club Screening| 18/07/2025\n",
-            "inventoryLevel": 96,
+            "inventoryLevel": 93,
             "name": "One Time Ticket",
             "url": "https://www.skillboxes.com/events/ticket/tickets-membership-bengaluru-4"
          },
