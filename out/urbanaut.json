@@ -2231,53 +2231,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "ARAKU Coffee Trivia Nights",
-    "description": "Bragging rights are just the beginning.Our General Trivia Night spans everything from everyday knowledge to the wildly unexpected. No niche themes, no gatekeeping. Just a mix of questions that anyone can take a crack at.Come solo or bring your sharpest friends. Win or not, it\u2019s always a good time. But winners do walk away with exciting prizes.No phones. No shouting. Just solid questions, smart guesses, and great company.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C8E034672BD34E74999D6D87A15B0078_converted_webp.webp"
-    ],
-    "startDate": "2025-07-09T20:00:00+05:30",
-    "endDate": "2025-07-09T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "968, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJu3MeVd0XrjsRej9BlCg4hv4",
-      "latitude": "12.96994650000000000000",
-      "longitude": "77.63917320000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 24,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "ARAKU Coffee",
-      "description": null,
-      "url": "https://urbanaut.app/partner/araku",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/511149AB2D2448469A053C17FC5FB4BF_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": null
-      }
-    },
-    "url": "https://urbanaut.app/spot/araku-coffee-trivia-nights",
-    "keywords": [
-      "Leisure",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Letters To Strangers",
     "description": "In a world of quick replies and seen ticks, this is a return to something slower, simpler, and more human.Join us for a casual meetup where we\u2019ll write handwritten letters \u2014 not to friends you already know, but to strangers across the table. Through gentle prompts, you\u2019ll write from the heart: reflections, questions, memories, or a moment captured in ink.What to Expect:\ud83d\udcdd Prompts, not pressure. You\u2019ll be gently guided to write.\ud83d\udcd3 Paper, Pen & Presence. We\u2019re keeping it analogue \u2014 no digital devices.\u2728 Quiet company and a warm, welcoming space as you write.Come for the writing, stay for the connection.Please note:\u00a0We may share photos and videos of the event on social media to celebrate the joy and courage in the room.Thank you for being part of the story.",
@@ -3265,6 +3218,56 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Samyoga: Khayal se Kriti tak (unplugged)",
+    "description": "Samyoga \u2013 Khayal Se Kriti TakA unique confluence of Hindustani and Carnatic musical traditionsSamyoga \u2013 meaning union or coming together \u2013 is an evocative musical production that intricately weaves together the rich threads of India\u2019s two great classical traditions: Hindustani and Carnatic music. Conceptualised and presented by Dr. Radhika Joshi (Hindustani Vocal) and Manasi Prasad (Carnatic Vocal), Samyoga is a celebration of both the shared roots and the distinctive aesthetics of these traditions. This presentation of Samyoga will be an unplugged, voice-only exploration, where two voices come together, accompanied by live tanpuras to create an immersive and meditative musical experience.Traversing the expanse of Indian music, the concert explores genres ranging from the gravitas of classical forms to the devotional depth of Bhakti Sangeet, and from the emotive beauty of Thumri and Jawali to the dramatic expressiveness of Natyasangeet. Each piece is carefully curated to highlight both the convergence and divergence in approach, structure, and emotion across the two systems.Through a seamless blend of performance and narration, Samyoga offers audiences more than just a concert\u2014it presents a musical journey, providing insights into the evolution, nuances, and interconnections between genres.\u00a0Interestingly, both Radhika and Manasi are alumni of the Indian Institute of Management, Bangalore, who chose to follow their hearts into the world of music. Today, they are recognised not only as accomplished performers but also as dedicated researchers in the field of Indian music.\u00a0",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/467688B7098541DB8D57C84503AA7E0C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0E92D23304BA46688577B545E10A64B3_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/20F68E80309E4EDDAA80B65ACBDB3863_converted_webp.webp"
+    ],
+    "startDate": "2025-08-15T18:00:00+05:30",
+    "endDate": "2025-08-15T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 200,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Samyoga",
+      "description": "Music for everyone",
+      "url": "https://urbanaut.app/partner/manasi",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/6CC7719545F640D48F703D12DFECDE25_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99019-68742"
+      }
+    },
+    "url": "https://urbanaut.app/spot/samyoga-kriti-se-khayal-tak",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Doodle Dunes-A Sandy Canvas for your Wild Ideas\ud83c\udfa8",
     "description": "Get your hands in the grain \ud83c\udf3e and your imagination flowing \ud83c\udfa8 at Doodle Dunes - a playful, texture-rich sand art workshop where creativity is instinctive and uninhibited \u2728This experience invites you to swirl, press, and doodle your way through a calming, hands-on exploration of form and flow \ud83c\udf00 Using sand as your canvas \ud83c\udfdc\ufe0f, you\u2019ll create spontaneous, sensory-driven patterns that are as wild or meditative as you feel.There are no rules \u2014 just a moment to slow down \ud83e\uddd8\u200d\u2640\ufe0f, connect with natural materials \ud83c\udf3f, and express freely \ud83d\udc9b",
@@ -3412,6 +3415,56 @@
       "Premium",
       "Wellness",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Wine & Chocolates, An Evening of Sensory Discovery",
+    "description": "A guided tasting that pairs fine Indian craft chocolate with handpicked imported wines \u2014 explore how cacao and terroir come together in a delicious harmony through textures, contrasts, and flavour!\u00a0Hosted by Patricia Cosma, Co-founder of The Indian Cacao & Craft Chocolate Festival.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3E09D1F50ADC4287B16F5DE8D353344B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/292C9D4DF7894BD89E4814165725BA17_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C39752E2548D4EBABA287DF11C3CAA9A_converted_webp.webp"
+    ],
+    "startDate": "2025-07-27T17:00:00+05:30",
+    "endDate": "2025-07-27T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "16, Wood St, near Karnataka Bank, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ03xVrSoUrjsRfYzAUhym4eY",
+      "latitude": "12.96689200000000000000",
+      "longitude": "77.60808440000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Olive Beach",
+      "description": null,
+      "url": "https://urbanaut.app/partner/wineandchocolate",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/2241A93839334CF199303C4867EFBC34_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99455-65483"
+      }
+    },
+    "url": "https://urbanaut.app/spot/wine-chocolates",
+    "keywords": [
+      "Premium",
+      "Workshop",
+      "Food & drink",
       "URBANAUT"
     ]
   }
