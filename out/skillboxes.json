@@ -2,6 +2,97 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Experience a vibrant dose of the city’s freshest Day party — celebrating soul, sound, and intention — this Sunday by the poolside at",
+      "endDate": "2025-07-13T23:59:00",
+      "identifier": "com.skillboxes.25674",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1752032137B1KVOf9CnaQnteH2.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No. 41/3, Taj MG Road, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.973275",
+            "longitude": "77.6196648"
+         },
+         "name": "7 Rivers Brewing Company"
+      },
+      "name": "Somad Link Up ft. Mar’on | Kumail Carissa B2B Sourfunk | Zeneka | Sinister",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Grants entry to one single lady without cover charges until 5:30 PM.\nPost 5:30 PM, an additional cover charge of INR 500 will be applicable at the gate.",
+            "inventoryLevel": 1000,
+            "name": "Early Bird | Single Lady",
+            "url": "https://www.skillboxes.com/events/ticket/somad-link-up-ft-mar-on-kumail-carissa-b2b-sourfunk-zeneka-sinister"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Grants entry to one couple without cover charges until 5:30 PM.\nPost 5:30 PM, an additional cover charge of INR 1000 is applicable per head upon arrival at the gate.",
+            "inventoryLevel": 1000,
+            "name": "Early Bird Couple",
+            "url": "https://www.skillboxes.com/events/ticket/somad-link-up-ft-mar-on-kumail-carissa-b2b-sourfunk-zeneka-sinister"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Grants entry to two couples without cover charges until 5:30 PM.\nPost 5:30 PM, an additional cover charge of INR 1000 is applicable per head upon arrival at the gate.",
+            "inventoryLevel": 1000,
+            "name": "Double Date | Group of 2 Couples",
+            "url": "https://www.skillboxes.com/events/ticket/somad-link-up-ft-mar-on-kumail-carissa-b2b-sourfunk-zeneka-sinister"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits entry to one Single Lady without cover charges all night long.\nAnytime Entry + Backstage Access.",
+            "inventoryLevel": 1000,
+            "name": "VIP - Single Lady",
+            "url": "https://www.skillboxes.com/events/ticket/somad-link-up-ft-mar-on-kumail-carissa-b2b-sourfunk-zeneka-sinister"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Grants entry to four single lady without cover charges until 5:30 PM.\nPost 5:30 PM, an additional cover charge of INR 500 will be applicable at the gate.",
+            "inventoryLevel": 1000,
+            "name": "Girls Night Out | Group of 4 Girls",
+            "url": "https://www.skillboxes.com/events/ticket/somad-link-up-ft-mar-on-kumail-carissa-b2b-sourfunk-zeneka-sinister"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Grants entry to one stag without cover charges until 5:30 PM.\nPost 5:30 PM, an additional cover charge of INR 2000 is applicable per head upon arrival at the gate.",
+            "inventoryLevel": 1000,
+            "name": "Early Bird | Stag",
+            "url": "https://www.skillboxes.com/events/ticket/somad-link-up-ft-mar-on-kumail-carissa-b2b-sourfunk-zeneka-sinister"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits entry to one couple without cover charges all night long.\nAnytime Entry",
+            "inventoryLevel": 1000,
+            "name": "VIP | Couple",
+            "url": "https://www.skillboxes.com/events/ticket/somad-link-up-ft-mar-on-kumail-carissa-b2b-sourfunk-zeneka-sinister"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Permits entry to one male stag without cover charges all night long.\nEnter the event at any given time during the event without any Hassles or additional charges.",
+            "inventoryLevel": 1000,
+            "name": "VIP | Stag",
+            "url": "https://www.skillboxes.com/events/ticket/somad-link-up-ft-mar-on-kumail-carissa-b2b-sourfunk-zeneka-sinister"
+         }
+      ],
+      "startDate": "2025-07-13T16:00:00",
+      "url": "https://www.skillboxes.com/events/somad-link-up-ft-mar-on-kumail-carissa-b2b-sourfunk-zeneka-sinister"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Get ready to own your Wednesday night!Join us this Wednesday, at Skydeck by Sherlock's for a spectacular LIVE band performance!We're bringing you the ",
       "endDate": "2025-07-09T23:59:00",
       "identifier": "com.skillboxes.25665",
@@ -367,7 +458,7 @@
       "endDate": "2025-07-11T23:59:00",
       "identifier": "com.skillboxes.25621",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dnh6YWlDWUJtczBqUkErdUFoUUpyZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1751952004O5ubDgn5VlzHSlQR.jpg.webp",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -387,15 +478,8 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants entry for 1 person before 930 PM\nVenue cover charges may apply after 930 PM",
-            "inventoryLevel": 296,
+            "inventoryLevel": 294,
             "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/eclipse-feat-sandeep-pai-tushar-das"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Support Us",
             "url": "https://www.skillboxes.com/events/ticket/eclipse-feat-sandeep-pai-tushar-das"
          }
       ],
