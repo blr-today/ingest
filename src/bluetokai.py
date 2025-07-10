@@ -161,8 +161,17 @@ def extract_timing(body_html):
         if start_hour > end_hour:
             start_hour -= 12
         return start_hour, end_hour
+    else:
+        timing_match = re.search(
+            r"(\d{1,2})\s+(AM|PM)", clean_text, re.IGNORECASE
+        )
+        if timing_match:
+            start_hour, start_period = timing_match.groups()
+            start_hour = int(start_hour) % 12 + (12 if start_period.upper() == "PM" else 0)
+            # Default end hour to 2 hours later
+            end_hour = (start_hour + 2) % 24
+            return start_hour, end_hour
     return None
-
 
 def guess_location(body_html):
     body_text = BeautifulSoup(body_html, "html.parser").get_text()
@@ -219,14 +228,17 @@ def main():
         product_json = fetch_product_json(slug)
         variant, date = find_bengaluru_variant(product_json)
         if variant and date:
-            (start_hour, end_hour) = extract_timing(
-                product_json["product"]["body_html"]
-            )
-            event = generate_event_object(
-                product_json, variant, date, start_hour, end_hour
-            )
-            events.append(event)
-
+            try:
+                (start_hour, end_hour) = extract_timing(
+                    product_json["product"]["body_html"]
+                )
+                event = generate_event_object(
+                    product_json, variant, date, start_hour, end_hour
+                )
+                events.append(event)
+            except:
+                print(f"[BLUETOKAI] Failed to process event for slug: {slug}")
+                continue
     with open("out/bluetokai.json", "w") as f:
         json.dump(events, f, indent=2)
 
