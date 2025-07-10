@@ -18,7 +18,7 @@ def extract_event_urls(url="https://bhaagoindia.com/events/?city=bengaluru-4"):
     valid_urls = sorted(set(valid_urls))
     
     for url in valid_urls:
-        print(url)
+        print(f"https://bhaagoindia.com{url}")
 
 def is_valid_event_url(href):
     """Check if the URL is a valid event URL based on path element count"""
