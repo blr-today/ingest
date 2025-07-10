@@ -1,6 +1,7 @@
 import json
 from common.session import get_cached_session
 from datetime import datetime
+import sys
 import csv
 
 BASE_URL = "https://apiproxy.paytm.com/v3/movies/search"
@@ -117,6 +118,7 @@ def fetch_shows(session, codes):
                 for details in cinema:
                     language = show_data["meta"]["movies"][0]["lang"]
                     if language not in LANGUAGE_TO_ISO_MAP:
+
                         print(f"[TICKETNEW] Unknown language: {language}", file=sys.stderr)
                     shows.append(
                         {
