@@ -2735,7 +2735,15 @@
          "name": "The Fat Chef"
       },
       "name": "Abhay Rajeev @ TheFatChef",
-      "offers": [ ],
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "General Access",
+            "url": "https://www.skillboxes.com/events/ticket/abhay-rajeev-thefatchef"
+         }
+      ],
       "startDate": "2025-07-12T20:00:00",
       "url": "https://www.skillboxes.com/events/abhay-rajeev-thefatchef"
    },
