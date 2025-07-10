@@ -2,6 +2,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "🎬 CHITRAHAAR NIGHT at Radio Bar 🎶Get ready to relive the golden era of Bollywood with your favorite retro hits!🎧 Dj Suraj&#160",
+      "endDate": "2025-07-12T23:59:00",
+      "identifier": "com.skillboxes.25719",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1752129786pvUHiCqPx4q306bX.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9208664",
+            "longitude": "77.6859185"
+         },
+         "name": "Radio Bar"
+      },
+      "name": "CHITRAHAAR NIGHT at Radio Bar",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/chitrahaar-night-at-radio-bar"
+         }
+      ],
+      "startDate": "2025-07-12T21:00:00",
+      "url": "https://www.skillboxes.com/events/chitrahaar-night-at-radio-bar"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Hey freaks, you ready to play? 😈Let us lure you back into our world once again!Our special guest for the night is Goa based @electroson.w",
       "endDate": "2025-07-20T01:00:00",
       "identifier": "com.skillboxes.25705",
@@ -546,7 +580,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants entry for 1 person before 930 PM\nVenue cover charges may apply after 930 PM",
-            "inventoryLevel": 294,
+            "inventoryLevel": 292,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/eclipse-feat-sandeep-pai-tushar-das"
          }
