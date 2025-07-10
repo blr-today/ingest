@@ -34,6 +34,7 @@ LANGUAGE_TO_ISO_MAP = {
     "Tamil": "ta",
     "Telugu": "te",
     "Urdu": "ur",
+    "Korean": "ko",
 }
 
 CINEMA_KEYS = [
@@ -59,7 +60,13 @@ SHOW_KEYS = [
 
 def make_request(session, path, query={}):
     url = f"{BASE_URL}{path}"
-    return session.get(url, params=QUERY_PARAMS | query).json()
+    res = session.get(url, params=QUERY_PARAMS | query)
+    try:
+        return res.json()
+    except:
+        print(f"[TicketNew] Failed to fetch {url} with params {query}", file=sys.stderr)
+        print(res.text, file=sys.stderr)
+        raise ValueError("Invalid response from TicketNew API")
 
 
 def fetch_movie_list(session):
@@ -89,57 +96,58 @@ def fetch_movies_and_codes(movie_list):
 
     return [movies, codes]
 
+def parse_show_data(shows_per_day, shows, movieInfo):
+    for cinema in shows_per_day.values():
+        for details in cinema:
+            language = movieInfo["lang"]
+            if language not in LANGUAGE_TO_ISO_MAP:
+                print(f"[TICKETNEW] Unknown language: {language}", file=sys.stderr)
+            shows.append(
+                {
+                    "theatreId": details["cid"],
+                    "startTime": datetime.strptime(
+                        details["showTime"], "%Y-%m-%dT%H:%M"
+                    ).isoformat(),
+                    "endTime": datetime.strptime(
+                        details["closeTime"], "%Y-%m-%dT%H:%M"
+                    ).isoformat(),
+                    "availableSeats": details["avail"],
+                    "totalSeats": details["total"],
+                    "screenName": details["audi"],
+                    "movieId": movieInfo["contentId"],
+                    "language": LANGUAGE_TO_ISO_MAP.get(
+                        language,
+                        language
+                    )
+                }
+            )
 
 def fetch_shows(session, codes):
     shows = []
 
     for code in codes:
-        show_dates = make_request(
+        res = make_request(
             session, SHOWS_PATH, {"movieCode": code, "reqData": "1"}
-        )["data"]["sessionDates"]
+        )
+        # Movie is not playing really
+        if 'sessionDates' in res['data']:
+            for show_date in res["data"]["sessionDates"]:
+                res = make_request(
+                    session,
+                    SHOWS_PATH,
+                    {"movieCode": code, "fromdate": show_date, "reqData": "1", "meta": "1"},
+                )
 
-        # Fetch shows for all the available future dates
-        for show_date in show_dates:
-            show_data = make_request(
-                session,
-                SHOWS_PATH,
-                {"movieCode": code, "fromdate": show_date, "reqData": "1", "meta": "1"},
-            )
-
-            try:
-                shows_per_day = show_data["pageData"]["sessions"]
-            except KeyError as e:
-                print(show_data.keys())
-                print(show_data)
-                shows_per_day = []
-                continue
-
-            for cinema in shows_per_day.values():
-                for details in cinema:
-                    language = show_data["meta"]["movies"][0]["lang"]
-                    if language not in LANGUAGE_TO_ISO_MAP:
-
-                        print(f"[TICKETNEW] Unknown language: {language}", file=sys.stderr)
-                    shows.append(
-                        {
-                            "theatreId": details["cid"],
-                            "startTime": datetime.strptime(
-                                details["showTime"], "%Y-%m-%dT%H:%M"
-                            ).isoformat(),
-                            "endTime": datetime.strptime(
-                                details["closeTime"], "%Y-%m-%dT%H:%M"
-                            ).isoformat(),
-                            "availableSeats": details["avail"],
-                            "totalSeats": details["total"],
-                            "screenName": details["audi"],
-                            "movieId": show_data["meta"]["movies"][0]["contentId"],
-                            "language": LANGUAGE_TO_ISO_MAP.get(
-                                language,
-                                language
-                            )
-                        }
-                    )
-
+                try:
+                    shows_per_day = res["pageData"]["sessions"]
+                    movieInfo = res['meta']['movies'][0]
+                    parse_show_data(shows_per_day, shows, movieInfo)
+                except KeyError as e:
+                    print(res.keys())
+                    print(res)
+                    shows_per_day = []
+                    continue
+        
     return shows
 
 
