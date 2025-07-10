@@ -8,7 +8,7 @@ import re
 import os
 import datefinder
 
-BASE_URL = "https://sistersinsweat.in"
+BASE_URL = "https://sistersinsweat.com"
 
 def fetch_sessions_html(session):
     body = """{
@@ -51,7 +51,7 @@ def make_event_details(soup):
         "organizer": {
             "@type": "Organization",
             "name": "Sisters In Sweat",
-            "url": "https://sistersinsweat.in",
+            "url": "https://sistersinsweat.com",
         },
     }
     # Since SISTERSINSWEAT events can be non-sport events as well
