@@ -2,34 +2,6 @@
   {
     "@context": "https://schema.org",
     "@type": "SportsEvent",
-    "name": "Cycle School",
-    "sports": "Cycling",
-    "location": {
-      "@type": "Place",
-      "address": "837/1, 2nd Cross, 7th Main, 2nd Stage, Indiranagar, Bengaluru, Karnataka",
-      "name": "Pedal in Tandem"
-    },
-    "offers": [
-      {
-        "priceCurrency": "INR",
-        "@type": "offer",
-        "name": "cycleschool",
-        "price": "1000.00",
-        "availabilityStarts": "2025-07-12T08:00:00+05:30"
-      }
-    ],
-    "startDate": "2025-07-12T13:30:00+05:30",
-    "endDate": "2025-07-12T15:30:00+05:30",
-    "description": "Cycle School is back!\nIf you are an adult and have been wanting to learn to ride a bicycle, then these sessions are perfect for you. We will have bicycles (with helmets) and trained instructors who will make this learning easy, and a whole lot of fun too. Cycling is a life-skill that everyone should possess, and our mission through these sessions is to ensure that you learn and practice it in a safe environment, until you have the confidence to pedal out on your own.\n{}",
-    "url": "https://www.pedalintandem.com/experiences/thePITStop/cycle-school",
-    "keywords": [
-      "thePITStop",
-      "PEDALINTANDEM"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "SportsEvent",
     "name": "The Melagiri Challenge",
     "sports": "Cycling",
     "location": {
