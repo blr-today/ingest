@@ -27,6 +27,10 @@ WHERE
   -- This is no longer true, sadly
   OR event_json ->> '$.keywords' LIKE '%small world%'
   OR event_json ->> '$.organizer.name' LIKE '%urban solace%'
+  -- These look like Small World events at Social venues
+  -- But even if they aren't, the reviews are very bad.
+  -- And sound exactly like the Small world reviews
+  OR event_json ->> '$.organizer.name' LIKE '%growth sailor%'
   -- Silly dating events: https://insider.in/free-speed-dating-events-in-bengaluru-sep7-2024/event
   OR event_json ->> '$.organizer.name' LIKE '%your dream partner%'
   -- Silly dating events on insider
@@ -164,6 +168,8 @@ WHERE
     OR event_json ->> '$.name' LIKE '%soul meridian%'
     -- Not exactly woowoo, but I don't want to promote religious events either.
     OR event_json ->> '$.name' LIKE '%iskcon%'
+    -- NOt exactly woowoo
+    OR event_json ->> '$.organizer.name' LIKE '%ysmen international%'
   );
 
 
@@ -269,6 +275,7 @@ WHERE
     event_json ->> '$.keywords' LIKE '%bollywood night%'
     OR event_json ->> '$.keywords' LIKE '%bollywood night%'
     OR event_json ->> '$.keywords' LIKE '%dj night%'
+    OR event_json ->> '$.keywords' LIKE '%commercial music%'
     OR event_json ->> '$.keywords' LIKE '%karaoke night%'
     OR event_json ->> '$.keywords' LIKE '%vro hospitality%'
     OR event_json ->> '$.keywords' LIKE '%OIEPL%' -- Gold Rush Brews
@@ -365,6 +372,8 @@ WHERE
     -- Networking Meetups are BUSINESS events
     url LIKE '%network-meetup%'
     OR url LIKE '%networking-meetup%'
+    OR url LIKE '%networking-meet%'
+    OR url LIKE '%business-networking%'
     OR url LIKE '%virtual-hackathon%'
     OR url LIKE '%founders-investors%'
   );
@@ -484,7 +493,11 @@ SET
 WHERE
   event_json ->> '$.description' LIKE '%get sloshed%'
   OR event_json ->> '$.description' LIKE '%magic mocktails%'
-  OR event_json ->> '$.keywords' LIKE '%tipsy%';
+  OR event_json ->> '$.keywords' LIKE '%tipsy%'
+  -- The Venue has very bad reviews on Google Maps
+  -- Even for their flagship shows
+  -- https://maps.app.goo.gl/QHP67KA728ucAysj7
+  OR event_json ->> '$.location' LIKE '%ignite super club%';
 
 
 -- Regular Clubbing nights are not noteworthy events
