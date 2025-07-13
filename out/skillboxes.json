@@ -1,6 +1,40 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "Introduction to Abelton live by Rithwik ",
+      "endDate": "2025-07-27T13:00:00",
+      "identifier": "com.skillboxes.25827",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MVRyeFJJWVk3RXdKbnVMR2JRSlcrUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1752391980OVg5pWknJsCzukHz.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "140, Gangadhar Chetty Rd",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.978487",
+            "longitude": "77.6186879"
+         },
+         "name": "Rainbow Bridge"
+      },
+      "name": "Introduction to Abelton live with Rithwik",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "299",
+            "url": "https://www.skillboxes.com/events/ticket/introduction-to-abelton-live-with-rithwik"
+         }
+      ],
+      "startDate": "2025-07-27T11:00:00",
+      "url": "https://www.skillboxes.com/events/introduction-to-abelton-live-with-rithwik"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "Are you someone who loves soulful cinema music?\nWhether you're from the South or just a fan of timeless melodies, this one’s for you.\nWh",
       "endDate": "2025-08-02T21:59:00",
