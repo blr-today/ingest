@@ -162,6 +162,8 @@ WHERE
     OR event_json ->> '$.description' LIKE '%qi gong%'
     OR event_json ->> '$.description' LIKE '%crystal healing%'
     OR event_json ->> '$.name' LIKE '%soul meridian%'
+    -- Not exactly woowoo, but I don't want to promote religious events either.
+    OR event_json ->> '$.name' LIKE '%iskcon%'
   );
 
 
@@ -234,6 +236,9 @@ WHERE
   OR event_json ->> '$.organizer.name' LIKE '%vels studios and entertainment%'
   OR event_json ->> '$.organizer.name' LIKE 'manoj t s - escape2explore adventures'
   OR event_json ->> '$.organizer.name' LIKE 'namma trip'
+  OR event_json ->> '$.organizer.name' LIKE '%tripper trails%'
+  OR event_json ->> '$.organizer.name' LIKE '%tripbae%'
+
   -- All Travel events listed on HighApe
   OR (
     (
@@ -267,6 +272,8 @@ WHERE
     OR event_json ->> '$.keywords' LIKE '%karaoke night%'
     OR event_json ->> '$.keywords' LIKE '%vro hospitality%'
     OR event_json ->> '$.keywords' LIKE '%OIEPL%' -- Gold Rush Brews
+    -- Gaming Arcade ticket sales are not events
+    OR event_json LIKE '%the grid - koramangala%'
   );
 
 
@@ -342,7 +349,13 @@ WHERE
     -- education consulting
     'upgrad abroad',
     -- Symposiums: https://allevents.in/org/charista-foundation/19674185
-    'charista foundation'
+    'charista foundation',
+    -- Educational long-workshops
+    'etg career labs private limited',
+    -- https://allevents.in/org/startup-synerz/25263240
+    'startup synerz',
+    -- Some silly workshops
+    'institute of product leadership (adaptive marketing solutions pvt ltd)'
   )
   OR (
     -- Hustle Business Venue in HSR
@@ -504,12 +517,22 @@ WHERE
   OR event_json ->> '$.name' LIKE '%worth it monday%'
   OR event_json ->> '$.name' LIKE '%tashan tuesday%'
   OR event_json ->> '$.name' LIKE '%tashn tuesday%'
+  OR event_json ->> '$.name' LIKE '%tease tuesday%'
+  OR event_json ->> '$.name' LIKE '%mix bag wednesday%'
+  OR event_json ->> '$.name' LIKE '%mixbag wednesday%'
   OR event_json ->> '$.name' LIKE '%tgif friday%'
   OR event_json ->> '$.name' LIKE '%navrang navratri%'
   OR event_json ->> '$.name' LIKE '%techno terrace%' -- indigo xp
   OR event_json ->> '$.name' LIKE '%athyachari monday%'
-  OR event_json ->> '$.organizer.name' LIKE 'VRO Hospitality' -- highape music nights
-  OR event_json ->> '$.organizer.name' LIKE 'avikk hospitality llp';
+  OR event_json ->> '$.organizer.name' LIKE 'vro hospitality' -- highape music nights
+  OR event_json ->> '$.organizer.name' LIKE 'avikk hospitality llp'
+  OR event_json ->> '$.organizer.name' LIKE 'vijay s (vnh events and entertainments)'
+  OR event_json ->> '$.organizer.name' LIKE '%miami entertainment%'
+  OR event_json ->> '$.organizer.name' LIKE '%sd events%'
+  -- Stranger Meets
+  OR event_json ->> '$.organizer.name' LIKE 'caridia official'
+  OR url  LIKE '%tuesday-lets-party%'
+;
 
 
 -- Secret Story music nights
@@ -739,6 +762,7 @@ WHERE
     event_json ->> '$.location' LIKE '%comedy theater%'
     -- LVDS multi-day events are courses
     OR event_json ->> '$.location' LIKE '%LVDS%'
+    OR url LIKE '%garba-course%'
   )
   AND substr(event_json ->> '$.startDate', 0, 10) != substr(event_json ->> '$.endDate', 0, 10);
 
