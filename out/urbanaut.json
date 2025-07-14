@@ -467,6 +467,52 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "De-Stress Fridays",
+    "description": "Fridays are meant for letting go, and this table is all about decompressing after a long week.Deadlines, meetings, and stress? Not here!This table is your weekly escape from the chaos, where you can kick back, connect, and enjoy an evening of effortless conversations and laughter.No pressure, just good energy!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BCFDE145C74140D791BEFADA865C25FE_converted_webp.webp"
+    ],
+    "startDate": "2025-07-18T07:30:00+05:30",
+    "endDate": "2025-07-18T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "latitude": "12.97836920000000000000",
+      "longitude": "77.64083560000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1199.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/copy-of-de-stress-fridays",
+    "keywords": [
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Whimsical Wednesday with Improv Lore",
     "description": "Dive into the whimsical world of improvisation at our Wednesday Jams!Whether you\u2019re a novice to theatre, a maverick on stage, or just dipping your toes into the world of unscripted performance, this Jam is designed for everyone. Our facilitators will guide you through a series of engaging improv exercises, help you explore new characters, and set up scenarios that will make your inner wit shine - all on the spot!Come as you are, leave your inhibitions at the door, and join us on this journey of endless possibility.Bring a friend, a date, or a group - our brave space is for everyone!Who are Improv Lore?We are Bangalore-based community-theatre troupe, works towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical. We meet on Wednesdays for Jams, and on weekends for workshops.You can follow us on Instagram at @improvlore and join our WhatsApp community. ",
@@ -2758,6 +2804,99 @@
       "Workshop",
       "Pop-up Event",
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sunday Breakfast with Strangers",
+    "description": "Make Your Sunday Shine with New Connections!\u2728Looking to start your Sunday with something a little different? Join\u00a0Sunday Breakfast with Strangers\u00a0\u2014 a cozy, no-pressure gathering where good food meets great conversation.Whether you're new in town, feeling curious, or just love meeting new people, this is your chance to connect in a relaxed, friendly setting. Come as you are, bring your stories (or just your appetite), and leave with fresh perspectives, new friends, and maybe even a few laughs.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5DCFC84AA9E341D8887F6637430BFC07_converted_webp.webp"
+    ],
+    "startDate": "2025-07-20T10:30:00+05:30",
+    "endDate": "2025-07-20T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "601, 3rd Main Rd, Sadashiva Nagar, Armane Nagar, Bengaluru, Karnataka 560080, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ7a1jYp4XrjsRGhQS495FQvQ",
+      "latitude": "13.00780220000000000000",
+      "longitude": "77.57796770000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1299.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/sunday-breakfast-with-strangers-7743",
+    "keywords": [
+      "Premium",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Coffee & Conversations",
+    "description": "Coffee, Conversations, and Connections\" \u2615\ud83d\udcacWhether you're looking to make new connections or simply unwind after a busy week with some wholesome conversations, this table offers just that\u2014over a cup of coffee.Meet interesting people, share your experiences, and kickstart your weekend in the best way possible.Bring your authentic self to the table and let the conversations flow!\u2728",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CE7714A9CDC84FF6BD2DB7FCBEA2E52F_converted_webp.webp"
+    ],
+    "startDate": "2025-07-19T19:00:00+05:30",
+    "endDate": "2025-07-19T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3275, 1st Floor, 12th Main Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3Tg2nYwXrjsR6IFy6nWA1KI",
+      "latitude": "12.97000760000000000000",
+      "longitude": "77.63627040000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1199.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "HighTable",
+      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
+      "url": "https://urbanaut.app/partner/hightable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99808-03688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/coffee-and-conversations-12",
+    "keywords": [
+      "Food & drink",
       "URBANAUT"
     ]
   }
