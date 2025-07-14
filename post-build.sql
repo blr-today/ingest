@@ -240,10 +240,14 @@ WHERE
   OR event_json ->> '$.organizer.name' LIKE '%wonderla%'
   -- Jollywood Adventure Park tickets
   OR event_json ->> '$.organizer.name' LIKE '%vels studios and entertainment%'
+  -- Indiranagar Mini Golf Arena advertisements
+  OR event_json ->> '$.organizer.name' LIKE 'mini golf madness llp'
   OR event_json ->> '$.organizer.name' LIKE 'manoj t s - escape2explore adventures'
   OR event_json ->> '$.organizer.name' LIKE 'namma trip'
   OR event_json ->> '$.organizer.name' LIKE '%tripper trails%'
   OR event_json ->> '$.organizer.name' LIKE '%tripbae%'
+  -- Advertisement for Rage Room Indiranagar
+  OR url LIKE '%rage-room%'
 
   -- All Travel events listed on HighApe
   OR (
@@ -362,7 +366,10 @@ WHERE
     -- https://allevents.in/org/startup-synerz/25263240
     'startup synerz',
     -- Some silly workshops
-    'institute of product leadership (adaptive marketing solutions pvt ltd)'
+    'institute of product leadership (adaptive marketing solutions pvt ltd)',
+    -- Laser Hair Reduction sessions are not events
+    'reflection facethetics bengaluru'
+
   )
   OR (
     -- Hustle Business Venue in HSR
@@ -376,6 +383,7 @@ WHERE
     OR url LIKE '%business-networking%'
     OR url LIKE '%virtual-hackathon%'
     OR url LIKE '%founders-investors%'
+    OR url LIKE '%property-expo%'
   );
 
 
@@ -497,7 +505,10 @@ WHERE
   -- The Venue has very bad reviews on Google Maps
   -- Even for their flagship shows
   -- https://maps.app.goo.gl/QHP67KA728ucAysj7
-  OR event_json ->> '$.location' LIKE '%ignite super club%';
+  OR event_json ->> '$.location' LIKE '%ignite super club%'
+  -- Low Quality events: https://allevents.in/org/bengaluru-pub-crawlers/25174916#
+  OR event_json ->> '$.organizer.name' LIKE '%bengaluru pub crawlers%'
+  ;
 
 
 -- Regular Clubbing nights are not noteworthy events
@@ -544,7 +555,8 @@ WHERE
   OR event_json ->> '$.organizer.name' LIKE '%sd events%'
   -- Stranger Meets
   OR event_json ->> '$.organizer.name' LIKE 'caridia official'
-  OR url  LIKE '%tuesday-lets-party%'
+  OR url LIKE '%tuesday-lets-party%'
+  OR url LIKE '%dinner-with-strangers%'
 ;
 
 
