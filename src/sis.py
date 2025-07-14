@@ -9,6 +9,18 @@ import os
 import datefinder
 
 BASE_URL = "https://sistersinsweat.com"
+KNOWN_SPORTS = {
+    'frisbee': 'Frisbee',
+    'pickleball': 'Pickleball',
+    'football': 'Football',
+    'basketball': 'Basketball',
+    'b\'ball': 'Basketball',
+    'run ': 'Running',
+    'running': 'Running',
+    'baddy': 'Badminton',
+    'footy': 'Football',
+    'padel': 'Pickeball'
+}
 
 def fetch_sessions_html(session):
     body = """{
@@ -58,7 +70,14 @@ def make_event_details(soup):
     # we add a secondary tag as well to help with filtering
     if event_type == "SportsEvent":
         event["keywords"].append("SISTERSINSWEAT/SPORTS")
-        event['sport'] = l.split("-")[3]
+        try:
+            event['sport'] = l.split("-")[3]
+        except:
+            # Use KNOWN_SPORTS to determine the sport
+            for key, value in KNOWN_SPORTS.items():
+                if key in l.lower():
+                    event['sport'] = value
+                    break
     else:
         event["keywords"].append("SISTERSINSWEAT/SESSION")
 
@@ -77,7 +96,7 @@ def make_event_details(soup):
             venue_text = "Cubbon Park"
             venue_address = "Kasturba Road, Bangalore"
         else:
-            venue_address = v.find_next("p").text
+            venue_address = v.find_next("p").get_text(" ")
             # Drop all text after ", Bengaluru"
             if ", Bengaluru" in venue_address:
                 venue_address = venue_address.split(", Bengaluru")[0]
@@ -88,14 +107,16 @@ def make_event_details(soup):
         }
     date = soup.select_one(".box-date")
     if date:
-        date_text = date.select_one(".box-date .date-text3").text
-        # Remove the time from the date text
-        date_text = re.sub(r"\d{1,2}:\d{2} [AP]M", "", date_text).strip()
-        # Find the date in the text
-        matches = list(datefinder.find_dates(date_text))
-        if matches:
-            event["startDate"] = matches[0].replace(tzinfo=IST).isoformat()
-            event["endDate"] = (matches[0] + datetime.timedelta(hours=1)).replace(tzinfo=IST).isoformat()
+        date_text = date.select_one(".box-date .date-text1").text.strip() + " " + \
+            date.select_one(".box-date .date-text2").text.strip()
+        time_text = date.select_one(".box-date .date-text3").text.strip()
+        start_time, end_time = time_text.split("-")
+
+        startDate = list(datefinder.find_dates(date_text + " " + start_time))[0]
+        endDate = list(datefinder.find_dates(date_text + " " + end_time))[0]
+
+        event["startDate"] = startDate.replace(tzinfo=IST).isoformat()
+        event["endDate"] = endDate.replace(tzinfo=IST).isoformat()
     else:
         print("No date found " + l)
         return None
