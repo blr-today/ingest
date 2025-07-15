@@ -1306,8 +1306,8 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Overwhelm to Empowerment: Stress Reset",
-    "description": "Tired of theory-heavy stress management sessions with little or no impact? Need something practical, engaging, and truly uplifting?Join this transformative, activity-driven stress management workshop at MyBoTree, led by Meenakshi R Singh \u2014 Emotional Well-Being Consultant, Certified Happiness Life Coach, and Founder of The Uplifting Life Coach.\ud83c\udf3f From calming art and focus-building puzzles to insightful worksheets and guided reflections \u2014 walk away with practical tools to calm the chaos and build clarity.",
+    "name": "Overwhelm to Empowerment: A Stress Reset",
+    "description": "Tired of theory-heavy stress management sessions with little or no impact?Need something practical, engaging, and truly uplifting?Join this transformative, activity-driven stress management workshop at MyBoTree, led by Meenakshi R Singh \u2014 Emotional Well-Being Consultant, Certified Happiness Life Coach, and Founder of The Uplifting Life Coach \u2014 and walk away with practical tools to calm the chaos and build clarity.\u2728 Exclusive Group Discounts Available \u2014 even a group of just 2 qualifies!",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/78B67515CC814A73AAC21304735EE431_converted_webp.webp"
     ],
@@ -3051,6 +3051,54 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "One-Day Escape Itinerary \u2013 3rd August (Saturday)",
+    "description": "One-Day Escape Itinerary \u2013 3rd August (Saturday)From Marathahalli \u2192 Nandi Hills \u2192 Discovery Village \u2192 Adiyogi \u2192 Back\ud83d\ude90 6:00\u202fAM \u2013 Depart from MarathahalliAssemble and leave sharp at 6:00\u202fAMLight music, intro games on the ride to set the vibe\ud83c\udf04 7:30\u202fAM \u2013 Breakfast at Nandi HillsReach Nandi Hills just after sunriseEnjoy hilltop breakfast with viewsExplore Tipu\u2019s Drop, Amrita Sarovar, or simply relax with the misty breeze\ud83e\udded 9:00\u202fAM \u2013 Depart Nandi HillsQuick descent and head to Discovery VillageShort scenic drive (~30\u201340 minutes)\ud83c\udfd5\ufe0f 10:30\u202fAM \u2013 Day Outing at Discovery VillageSpend your day indulging in:Adventure activities: Zip-lining, archery, obstacle course, team gamesRelaxation: Swimming pool, hammocks, and lush greeneryIndoor games: Carrom, chess, TT, lounge zonesLunch: Buffet-style lunch with both veg & non-veg options (included)Free time to chill with new friends, play, or nap under trees\ud83d\uded5 5:00\u202fPM \u2013 Depart for Adiyogi, ChikkaballapurLeave Discovery Village and drive toward Adiyogi (~1 hour journey)\ud83c\udf05 6:00\u202fPM \u2013 Reach Adiyogi & Sunset ExplorationWalk around the serene space of the 112-ft Adiyogi statueExperience the spiritual ambiance as the sun dips behind the hills\ud83c\udf86 7:00\u202fPM \u2013 Light & Sound Show: \u201cDivya Darshanam\u201dA short but immersive 14-minute 3D projection showLearn about the origins of yoga and the energy of AdiyogiSit back, breathe, and absorb the moment\ud83d\ude90 8:00\u202fPM \u2013 Depart for BangaloreBegin journey back to MarathahalliLight music, reflections, and some sleepy silence\ud83c\udfe0 9:30-10:00\u202fPM \u2013 Arrival at MarathahalliEnd of trip with new memories and maybe some new friends too!\u2705 What to CarrySunglasses, cap, and sunscreenTowel & extra clothes (for pool)Reusable water bottleA light jacket for the hilltop chill",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2CADDB3AD78F4F6D857E7A575B197F70_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B3DAD8342F4C48BBA4AF92A0E86714F4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9C20EFE8DF0D44208C0BFEE9ADD878DE_converted_webp.webp"
+    ],
+    "startDate": "2025-08-03T06:00:00+05:30",
+    "endDate": "2025-08-03T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Nandi Hills, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJF-r860XksTsRCGYZWSn3ORY",
+      "latitude": "13.38389350000000000000",
+      "longitude": "77.68330259999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "4500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Travel Trip Tourist",
+      "description": null,
+      "url": "https://urbanaut.app/partner/travel-trip-tourist",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/358B40C73A494E938886DCC9C36D08C7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-88670-23837"
+      }
+    },
+    "url": "https://urbanaut.app/spot/one-day-escape-itinerary-3rd-august-saturday",
+    "keywords": [
+      "Adventure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Smash Talk with Strangers",
     "description": "\ud83c\udf54 Smash Talk with StrangersDiscover the City\u2019s Favorite New Burger Hideout \u2014 with Strangers!\ufeffBurgers this good shouldn\u2019t be kept to yourself.Join a table full of curious strangers at Smash Guys, the burger joint everyone\u2019s buzzing about. Expect bold flavors, juicy bites, and conversations as satisfying as the food.Come for the burgers, stay for the stories. Pull up a seat, bring your appetite, and experience the city\u2019s most hyped spot \u2014 before everyone else does.",
@@ -3143,6 +3191,150 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Coffee Trails & Hills  Chikkamagaluru Weekend",
+    "description": "\ud83c\udf04 Coffee Trails & Hills \u2013 Chikkamagaluru Weekend Escape\"Dates: 22nd Aug (Thursday Night Departure) \u2013 25th Aug (Monday Early Morning Return) Price: \u20b95,500/- per head Age Group: 18\u201335 years only Includes: Travel, Stay, 2 Breakfasts & 1 Dinner Starts from Bangalore | All-in group travel with strangers | Trip Captain led\ud83d\ude8c 22nd August \u2013 Thursday Night: Departure from Bangalore8:30 PM: Meet-up at designated pickup point9:30 PM: Leave for Chikkamagaluru in an AC Tempo Traveller / MinibusIce-breakers, music & chill night vibes on the busOvernight journey through scenic highways\ud83c\udf3f Day 1 \u2013 23rd August, Friday: Waterfalls & Lake Vibes7:00 AM: Arrive at the stay \u2013 a cozy property tucked amidst coffee estates8:30 AM: Freshen up + breakfast10:00 AM: Head out to Jhari Falls (Buttermilk Falls) \u2013 short off-road jeep ride and mini trek1:00 PM: Lunch at a local cafe (self-sponsored)3:00 PM: Visit to Hirekolale Lake \u2013 chill, take pictures and soak in the views5:30 PM: Back to stay, evening tea/snacks7:30 PM: Bonfire + Dinner9:00 PM onward: Games, fun sessions, stargazing and a vibe-filled night with the group\ud83c\udfde Day 2 \u2013 24th August, Saturday: Peaks, Coffee & Goodbyes7:30 AM: Wake-up & breakfast8:30 AM: Depart to Mullayanagiri Peak \u2013 the highest peak in Karnataka12:30 PM: Head back, lunch en route (self-sponsored)2:00 PM: Quick visit to a Coffee Estate \u2013 walk, explore, and click away4:00 PM: Return to stay, rest & pack up6:00 PM: Checkout & depart from ChikkamagaluruNight journey back to Bangalore \u2013 final memories, sleepy chats, and music\ud83c\udf03 25th August \u2013 Monday Morning: Arrival in BangaloreAround 5:00 AM: Reach Bangalore \u2013 tired but happy, and full of unforgettable memories\u2705 What\u2019s IncludedAC group transport from Bangalore & back1 Night stay in scenic homestay/resort (triple/quad sharing)2 Breakfasts (23rd & 24th)1 Dinner (23rd night)Trip Captain to lead the experienceBonfire & curated group activitiesEntry tickets (excluding jeep ride)\u274c What\u2019s Not IncludedLunches (local restaurants/cafes \u2013 pay as you go)Jeep ride to Jhari Falls (~\u20b9100\u2013150/person)Personal expenses",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E8C9491D7DA74827B5C72CC5AA19053F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/ACBE249206EA45C4B237796AFDBC38F1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B4AB229AA5C3489F83611EF9D56A8F95_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A6BF05D71DCF4CF5A70399C785A7609A_converted_webp.webp"
+    ],
+    "startDate": "2025-08-22T20:00:00+05:30",
+    "endDate": "2025-08-22T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Chikkamagaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3YmoyGLXujsRFr6UUhVJz7M",
+      "latitude": "13.31614410000000000000",
+      "longitude": "75.77204390000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "5500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Travel Trip Tourist",
+      "description": null,
+      "url": "https://urbanaut.app/partner/travel-trip-tourist",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/358B40C73A494E938886DCC9C36D08C7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-88670-23837"
+      }
+    },
+    "url": "https://urbanaut.app/spot/coffee-trails-hills-chikkamagaluru-weekend#2025-08-22T2000",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Coffee Trails & Hills  Chikkamagaluru Weekend",
+    "description": "\ud83c\udf04 Coffee Trails & Hills \u2013 Chikkamagaluru Weekend Escape\"Dates: 22nd Aug (Thursday Night Departure) \u2013 25th Aug (Monday Early Morning Return) Price: \u20b95,500/- per head Age Group: 18\u201335 years only Includes: Travel, Stay, 2 Breakfasts & 1 Dinner Starts from Bangalore | All-in group travel with strangers | Trip Captain led\ud83d\ude8c 22nd August \u2013 Thursday Night: Departure from Bangalore8:30 PM: Meet-up at designated pickup point9:30 PM: Leave for Chikkamagaluru in an AC Tempo Traveller / MinibusIce-breakers, music & chill night vibes on the busOvernight journey through scenic highways\ud83c\udf3f Day 1 \u2013 23rd August, Friday: Waterfalls & Lake Vibes7:00 AM: Arrive at the stay \u2013 a cozy property tucked amidst coffee estates8:30 AM: Freshen up + breakfast10:00 AM: Head out to Jhari Falls (Buttermilk Falls) \u2013 short off-road jeep ride and mini trek1:00 PM: Lunch at a local cafe (self-sponsored)3:00 PM: Visit to Hirekolale Lake \u2013 chill, take pictures and soak in the views5:30 PM: Back to stay, evening tea/snacks7:30 PM: Bonfire + Dinner9:00 PM onward: Games, fun sessions, stargazing and a vibe-filled night with the group\ud83c\udfde Day 2 \u2013 24th August, Saturday: Peaks, Coffee & Goodbyes7:30 AM: Wake-up & breakfast8:30 AM: Depart to Mullayanagiri Peak \u2013 the highest peak in Karnataka12:30 PM: Head back, lunch en route (self-sponsored)2:00 PM: Quick visit to a Coffee Estate \u2013 walk, explore, and click away4:00 PM: Return to stay, rest & pack up6:00 PM: Checkout & depart from ChikkamagaluruNight journey back to Bangalore \u2013 final memories, sleepy chats, and music\ud83c\udf03 25th August \u2013 Monday Morning: Arrival in BangaloreAround 5:00 AM: Reach Bangalore \u2013 tired but happy, and full of unforgettable memories\u2705 What\u2019s IncludedAC group transport from Bangalore & back1 Night stay in scenic homestay/resort (triple/quad sharing)2 Breakfasts (23rd & 24th)1 Dinner (23rd night)Trip Captain to lead the experienceBonfire & curated group activitiesEntry tickets (excluding jeep ride)\u274c What\u2019s Not IncludedLunches (local restaurants/cafes \u2013 pay as you go)Jeep ride to Jhari Falls (~\u20b9100\u2013150/person)Personal expenses",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E8C9491D7DA74827B5C72CC5AA19053F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/ACBE249206EA45C4B237796AFDBC38F1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B4AB229AA5C3489F83611EF9D56A8F95_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A6BF05D71DCF4CF5A70399C785A7609A_converted_webp.webp"
+    ],
+    "startDate": "2025-08-23T20:00:00+05:30",
+    "endDate": "2025-08-23T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Chikkamagaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3YmoyGLXujsRFr6UUhVJz7M",
+      "latitude": "13.31614410000000000000",
+      "longitude": "75.77204390000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "5500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Travel Trip Tourist",
+      "description": null,
+      "url": "https://urbanaut.app/partner/travel-trip-tourist",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/358B40C73A494E938886DCC9C36D08C7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-88670-23837"
+      }
+    },
+    "url": "https://urbanaut.app/spot/coffee-trails-hills-chikkamagaluru-weekend#2025-08-23T2000",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Coffee Trails & Hills  Chikkamagaluru Weekend",
+    "description": "\ud83c\udf04 Coffee Trails & Hills \u2013 Chikkamagaluru Weekend Escape\"Dates: 22nd Aug (Thursday Night Departure) \u2013 25th Aug (Monday Early Morning Return) Price: \u20b95,500/- per head Age Group: 18\u201335 years only Includes: Travel, Stay, 2 Breakfasts & 1 Dinner Starts from Bangalore | All-in group travel with strangers | Trip Captain led\ud83d\ude8c 22nd August \u2013 Thursday Night: Departure from Bangalore8:30 PM: Meet-up at designated pickup point9:30 PM: Leave for Chikkamagaluru in an AC Tempo Traveller / MinibusIce-breakers, music & chill night vibes on the busOvernight journey through scenic highways\ud83c\udf3f Day 1 \u2013 23rd August, Friday: Waterfalls & Lake Vibes7:00 AM: Arrive at the stay \u2013 a cozy property tucked amidst coffee estates8:30 AM: Freshen up + breakfast10:00 AM: Head out to Jhari Falls (Buttermilk Falls) \u2013 short off-road jeep ride and mini trek1:00 PM: Lunch at a local cafe (self-sponsored)3:00 PM: Visit to Hirekolale Lake \u2013 chill, take pictures and soak in the views5:30 PM: Back to stay, evening tea/snacks7:30 PM: Bonfire + Dinner9:00 PM onward: Games, fun sessions, stargazing and a vibe-filled night with the group\ud83c\udfde Day 2 \u2013 24th August, Saturday: Peaks, Coffee & Goodbyes7:30 AM: Wake-up & breakfast8:30 AM: Depart to Mullayanagiri Peak \u2013 the highest peak in Karnataka12:30 PM: Head back, lunch en route (self-sponsored)2:00 PM: Quick visit to a Coffee Estate \u2013 walk, explore, and click away4:00 PM: Return to stay, rest & pack up6:00 PM: Checkout & depart from ChikkamagaluruNight journey back to Bangalore \u2013 final memories, sleepy chats, and music\ud83c\udf03 25th August \u2013 Monday Morning: Arrival in BangaloreAround 5:00 AM: Reach Bangalore \u2013 tired but happy, and full of unforgettable memories\u2705 What\u2019s IncludedAC group transport from Bangalore & back1 Night stay in scenic homestay/resort (triple/quad sharing)2 Breakfasts (23rd & 24th)1 Dinner (23rd night)Trip Captain to lead the experienceBonfire & curated group activitiesEntry tickets (excluding jeep ride)\u274c What\u2019s Not IncludedLunches (local restaurants/cafes \u2013 pay as you go)Jeep ride to Jhari Falls (~\u20b9100\u2013150/person)Personal expenses",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E8C9491D7DA74827B5C72CC5AA19053F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/ACBE249206EA45C4B237796AFDBC38F1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B4AB229AA5C3489F83611EF9D56A8F95_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A6BF05D71DCF4CF5A70399C785A7609A_converted_webp.webp"
+    ],
+    "startDate": "2025-08-24T20:00:00+05:30",
+    "endDate": "2025-08-24T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Chikkamagaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3YmoyGLXujsRFr6UUhVJz7M",
+      "latitude": "13.31614410000000000000",
+      "longitude": "75.77204390000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "5500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Travel Trip Tourist",
+      "description": null,
+      "url": "https://urbanaut.app/partner/travel-trip-tourist",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/358B40C73A494E938886DCC9C36D08C7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-88670-23837"
+      }
+    },
+    "url": "https://urbanaut.app/spot/coffee-trails-hills-chikkamagaluru-weekend#2025-08-24T2000",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Jazzed Up",
     "description": "Step into a sultry evening of smooth sax, swinging rhythms, and soulful vibes at Hamilton \u2013 Bengaluru\u2019s hidden gem for curated cocktails and timeless tunes.Join us for Jazzed Up, where classic jazz meets craft mixology in an intimate, vintage-inspired setting.",
@@ -3186,6 +3378,51 @@
       "Live GIG",
       "Music",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Banana Sports Football Fiesta",
+    "description": "Hey football lovers!We are back with the July Edition of The Banana Sports Football FiestaReady to hit the natural turf and show what your team is made of?Banana Sports is hosting an epic 5-a-side Football Tournament on Sunday, July 20th at banana sports, Sarjapur Road, and we want you and your squad to be a part of it!Here\u2019s what you need to know:\u23f1\ufe0fTime: 03:00 PM Onwards\ud83d\udc65Team Format: 5 players + 3 substitute\ud83d\udcb8Entry Fee: \u20b91500 per team\u26a1\ufe0fLoads of energy, competitive spirit, and a chance to win exciting prizes!Whether you\u2019re playing for the glory, the fun, or just to kick it with friends, this is your shot. Gather your teammates, sharpen those skills, and register your team.Let\u2019s make it a Sunday to remember \u2014 turf, sweat, goals, and all!See you on the field!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C7674B3FDA114B01A382CD08AA6CB71D_converted_webp.webp"
+    ],
+    "startDate": "2025-07-20T15:00:00+05:30",
+    "endDate": "2025-07-20T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "29/8, Mullur Rd, off Sarjapur - Marathahalli Road, Carmelam Post, Bengaluru, Karnataka 560035, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJtbnaqaITrjsRW8k7Xl3qGVA",
+      "latitude": "12.90481630000000000000",
+      "longitude": "77.72291630000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 18,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Banana Sports",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/8B85E585F71A47F4832A67D03BC8CCB7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98863-36381"
+      }
+    },
+    "url": "https://urbanaut.app/spot/banana-sports-football-fiesta-7766",
+    "keywords": [
       "URBANAUT"
     ]
   }
