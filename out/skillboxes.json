@@ -240,7 +240,15 @@
          "name": "Lumara Bar & Kitchen"
       },
       "name": "Eclipse feat. Aman Anand & Tapasya",
-      "offers": [ ],
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 299,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/eclipse-feat-aman-anand-tapasya"
+         }
+      ],
       "startDate": "2025-07-18T21:00:00",
       "url": "https://www.skillboxes.com/events/eclipse-feat-aman-anand-tapasya"
    },
@@ -632,7 +640,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to one single lady free entry to the event without cover or any additional charges till 9:30PM only, Post 9:30PM additional cover charges applicable as per club rules and regulations.\n",
-            "inventoryLevel": 959,
+            "inventoryLevel": 905,
             "name": "RSVP SINGLE LADY ( FREE ENTRY )",
             "url": "https://www.skillboxes.com/events/ticket/somad-y2k-early-2000s-throwback-party-ft-shiva-manvi-ritz-daksh-arjun"
          },
@@ -640,7 +648,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to one Couple free entry to the event without cover or any additional charges till 9:30PM only, Post 9:30PM additional cover charges applicable as per club rules and regulations.\n",
-            "inventoryLevel": 811,
+            "inventoryLevel": 670,
             "name": "RSVP COUPLE ( FREE ENTRY )",
             "url": "https://www.skillboxes.com/events/ticket/somad-y2k-early-2000s-throwback-party-ft-shiva-manvi-ritz-daksh-arjun"
          },
@@ -664,7 +672,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry All night long. Request you to collect your Full cover coupon of INR 2500/- upon Arrival at Gate. Walk in like a VIP!\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "VIP STAG < Full cover + Anytime Entry >",
             "url": "https://www.skillboxes.com/events/ticket/somad-y2k-early-2000s-throwback-party-ft-shiva-manvi-ritz-daksh-arjun"
          }
@@ -1015,7 +1023,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This amount is fully redeemable on f&b.\nCannot be combined with existing other deals or discounts.",
-            "inventoryLevel": 19,
+            "inventoryLevel": 18,
             "name": "Front view table- Seats 4",
             "url": "https://www.skillboxes.com/events/ticket/sufi-soiree-1"
          }

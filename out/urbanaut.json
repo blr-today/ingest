@@ -390,7 +390,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -708,6 +708,54 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Haiku Live at Sabha Blr",
+    "description": "Haiku is a collective of six musicians who blend jazz, pop, and Indian influences into textured, evocative compositions. Featuring Om on drums, Paro and Suki on vocals, Tanvi on keys, Danny on bass, and Akshay on the violin, the ensemble crafts music shaped by a deep love for contemporary jazz and complex time signatures.Exploring themes of self-discovery, Haiku creates a sonic space where introspection meets clarity \u2014 offering listeners a fresh perspective on life\u2019s intricacies and the journey within.Formed as a student-teacher collaboration, Haiku emerged organically from the music programme at Mallya Aditi International School, evolving into a vibrant musical project rooted in mentorship, creativity, and connection.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7AB3552902C84ED6AB4432FCB192575B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0653C9043AA04295889F6B160C1CE9B4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C07E660252E9407E94A04DA8014738EF_converted_webp.webp"
+    ],
+    "startDate": "2025-07-18T19:00:00+05:30",
+    "endDate": "2025-07-18T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 170,
+    "remainingAttendeeCapacity": 8,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Haiku",
+      "description": "",
+      "url": "https://urbanaut.app/partner/haiku",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/AA01CA7946BB4D3383B156EBC943A1E7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-90083-78987"
+      }
+    },
+    "url": "https://urbanaut.app/spot/haiku-live-at-sabha-blr",
+    "keywords": [
+      "Live GIG",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Mahabharata Dialogues - Epic Stories",
     "description": "Embark on a captivating journey into the legendary stories of the Mahabharata. Join us for a series of live storytelling sessions that will transport you into the fascinating world of the greatest epic ever written.\u00a0Immerse yourself in that world and\u00a0discover the heroic deeds, complex relationships, and moral dilemmas that have enthralled audiences for centuries.Host : Abhilash Purohit is an entrepreneur and a corporate educator.These last few years, he is stuck between two states of existence: (Re)reading the Mahabharata, and talking about the characters in it -\u00a0their interactions, their aspirations, and their dilemmas.To audiences small and big, he brings the joy of the stories and the lessons within the Mahabharata. He finds and shares different perspectives of well-known stories from the world`s greatest epic.When not talking Mahabharata, he loves to geek out about coding and Urdu shayari.",
     "image": [
@@ -851,56 +899,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Vasu Dixit Collective Live",
-    "description": "Experience Vasu Dixit Collective's (VDC) blend of creativity and tradition with special renditions of poems by great poets like Prandardasa, Basavanna, and Kabir, Live at Sabha Blr, Bengaluru, on 26th July 2025 at 7:30 PM. Vasu Dixit Collective (VDC) is an ensemble of like-minded musicians and artists who work with Electronic Folk and Folktronica music.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2D4BD135BB5D40A5B40211CDE66C3BA8_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5D7C7E5A7B5B4F1EBBB6176CCA23AE3E_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8A0A0899D9BE462B9A3B16EEBB693646_converted_webp.webp"
-    ],
-    "startDate": "2025-07-26T19:30:00+05:30",
-    "endDate": "2025-07-26T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
-      "latitude": "12.98348400000000000000",
-      "longitude": "77.61101699999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 165,
-    "remainingAttendeeCapacity": 4,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Teamwork Arts",
-      "description": null,
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/3743F2E6AE5041BB978AD0916155EC6E_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-85272-22114"
-      }
-    },
-    "url": "https://urbanaut.app/spot/vasu-dixit-collective-live",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "The Analog Club",
     "description": "Step back in time at The Analog Club, an event series by the Studio by Copper + Cloves.Imagine walking into a busy cafe and seeing not a single phone, no-one taking selfies and no one around you scrolling. Disconnect from devices for 3 hours of unplugged experience\u2014we'll have books, board games, music, crochet, and of course, food! But this isn't about structured activities or organised fun, just genuine connection and relaxation. The event will be fluid- you can dip into activities if you want, or you can just chat to new people or graze at our high tea counter!Meet new friends, sketch, or read a book in quiet solitude (without being surrounded by people lost in their phones).We will not be doing social media on our phones at the event, we will only take photos with a camera.Embrace the analog experience, slow down, and reconnect in this crazy digital age! **Strictly no devices (no laptops, ipads, and you will be asked to keep your phone in a basket or in your bag- not in your pocket and no where on a table. E-books are allowed)**Tickets are for entry, all games and art supplies, and unlimited high tea from our renowned deli counter. Do not purchase a ticket if you are unwilling to surrender your devices for 3 hours.",
@@ -926,7 +924,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 38,
+    "remainingAttendeeCapacity": 37,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1537,7 +1535,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 20,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1587,7 +1585,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 26,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1636,7 +1634,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 26,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1685,7 +1683,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 26,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1734,7 +1732,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 26,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1881,7 +1879,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 138,
+    "remainingAttendeeCapacity": 136,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2029,7 +2027,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2179,7 +2177,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
