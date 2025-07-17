@@ -1056,6 +1056,54 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
+    "name": "\u2728Garden Escape - A Terrarium Workshop\u2728",
+    "description": "\ud83c\udf3f Terrarium Workshop: Garden EscapeCraft your own little world in a jar.Step away from the city buzz and reconnect with nature \u2014 one layer at a time.Glass Garden Escape is a DIY terrarium-making workshop designed to bring peace, creativity, and a touch of green into your life. Whether you have a green thumb or are just starting out, this hands-on session is all about mindfulness through making.We\u2019ll provide everything you need \u2014 glass containers, soil, pebbles, moss, and beautiful plants. All you need to bring is your creativity and love for nature. \ud83c\udf31",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/454EE64EEA594517B27CD90070EB8EF5_converted_webp.webp"
+    ],
+    "startDate": "2025-07-26T16:30:00+05:30",
+    "endDate": "2025-07-26T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "461, Shri Krishna Temple Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ8wXmJv8XrjsREHce9rQjhBw",
+      "latitude": "12.97901500000000000000",
+      "longitude": "77.64382350000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 14,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "TPT - Dongle & Co",
+      "description": "TPT is a wellness collective offering calm, nature-rooted experiences in yoga, sound healing, breathwork, and expressive arts. We hold space for rest, reflection, and reconnection \u2014 gently guiding you through The Space In Between. by Dongle & Co",
+      "url": "https://urbanaut.app/partner/tpt-dongleandco",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/001EDF58B5F6402B857FF5BD1B61AEC3_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-90353-54688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/garden-escape-a-terrarium-workshop",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
     "name": "\u2728Echoes of Stillness by TPT-Relax, Release, Renew\u2728",
     "description": "\ud83d\udd14 Sound Healing: Echoes of StillnessLet the sound guide you home.Close your eyes, breathe deeply, and surrender to the healing frequencies of gongs, singing bowls, and chimes.Echoes of Stillness is a guided sound healing session that helps release stress, clear energy blocks, and restore balance within.Whether you\u2019re new to sound therapy or a returning seeker, this immersive experience invites you to rest, reset, and reconnect with yourself in a deeply nourishing space.",
     "image": [
@@ -3667,6 +3715,160 @@
       "Leisure",
       "Wellness",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Kinetic Calm: Movement & Mind in Martial Arts",
+    "description": "A Workshop for Flow, Focus, and Inner PowerStep into a space where motion becomes meditation and every movement is a path to presence.Kinetic Calm is a unique martial arts workshop designed to reconnect your body and mind through fluid techniques, controlled breath, and focused intent. Blending traditional martial arts principles with modern mindfulness, this experience invites you to explore the balance between explosive power and inner stillness.Whether you're a martial artist seeking deeper awareness in your practice, or someone curious about the mindful side of movement, this workshop offers powerful tools to enhance your focus, flow, and resilience \u2014 on and off the mat.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/225BB5D48B12455299CA38498E4FC7D1_converted_webp.webp"
+    ],
+    "startDate": "2025-07-26T08:15:00+05:30",
+    "endDate": "2025-07-26T09:45:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "461, Shri Krishna Temple Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ8wXmJv8XrjsREHce9rQjhBw",
+      "latitude": "12.97901500000000000000",
+      "longitude": "77.64382350000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 14,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1250.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "TPT - Dongle & Co",
+      "description": "TPT is a wellness collective offering calm, nature-rooted experiences in yoga, sound healing, breathwork, and expressive arts. We hold space for rest, reflection, and reconnection \u2014 gently guiding you through The Space In Between. by Dongle & Co",
+      "url": "https://urbanaut.app/partner/tpt-dongleandco",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/001EDF58B5F6402B857FF5BD1B61AEC3_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-90353-54688"
+      }
+    },
+    "url": "https://urbanaut.app/spot/kinetic-calm-movement-mind-in-martial-arts",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "CONSCIOUS SOUK FESTIVE EDIT 2025",
+    "description": "We\u2019re here with thoughtfully curated and the best handcrafted luxury.Join us on 2nd & 3rd August at BIC Bangalore from 11 AM to 8 PM for an exclusive showcase of artisanal excellence.Join us at the upcoming Conscious Souk!\ud83d\udccdBangalore International Center, 4th Main Road, Domlur, Bangalore\ud83d\uddd3\ufe0f 2nd and 3rd August\u23f0 11 am to 8 pm",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/972924BAAB194D139B84F77167C4C498_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5EE867D83DE14E568B610C5C7605A2B6_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/37C958ECD98F43C3A0B4FCCD9F1F4299_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4F45DA36E17A43E0B7B6F5A686C8393B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2528E8C5EFEF40FFAE305DE00CC00EE8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AB06F7622A074F43811F13F236817DBE_converted_webp.webp"
+    ],
+    "startDate": "2025-08-02T11:00:00+05:30",
+    "endDate": "2025-08-02T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "7, 4th Main Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhSp5dRwUrjsRNW96_uW6-Gk",
+      "latitude": "12.96668260000000000000",
+      "longitude": "77.63529030000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 200,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "199.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Our Better Planet Private Limited",
+      "description": "Our Better planet is an e-commerce market bringing better products and better practices to the Indian market. Conscious Souk is our offline event where we bring together a community of people interested in slow living and conscious products.",
+      "url": "https://urbanaut.app/partner/ourbetterplanet",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EBC11EF2FCD94464B9A30EF28E23E66A_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99017-99404"
+      }
+    },
+    "url": "https://urbanaut.app/spot/conscious-souk-festive-edit-2025#2025-08-02T1100",
+    "keywords": [
+      "Festival",
+      "Pop-up Event",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "CONSCIOUS SOUK FESTIVE EDIT 2025",
+    "description": "We\u2019re here with thoughtfully curated and the best handcrafted luxury.Join us on 2nd & 3rd August at BIC Bangalore from 11 AM to 8 PM for an exclusive showcase of artisanal excellence.Join us at the upcoming Conscious Souk!\ud83d\udccdBangalore International Center, 4th Main Road, Domlur, Bangalore\ud83d\uddd3\ufe0f 2nd and 3rd August\u23f0 11 am to 8 pm",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/972924BAAB194D139B84F77167C4C498_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5EE867D83DE14E568B610C5C7605A2B6_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/37C958ECD98F43C3A0B4FCCD9F1F4299_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4F45DA36E17A43E0B7B6F5A686C8393B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2528E8C5EFEF40FFAE305DE00CC00EE8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AB06F7622A074F43811F13F236817DBE_converted_webp.webp"
+    ],
+    "startDate": "2025-08-03T11:00:00+05:30",
+    "endDate": "2025-08-03T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "7, 4th Main Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhSp5dRwUrjsRNW96_uW6-Gk",
+      "latitude": "12.96668260000000000000",
+      "longitude": "77.63529030000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 200,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "199.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Our Better Planet Private Limited",
+      "description": "Our Better planet is an e-commerce market bringing better products and better practices to the Indian market. Conscious Souk is our offline event where we bring together a community of people interested in slow living and conscious products.",
+      "url": "https://urbanaut.app/partner/ourbetterplanet",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EBC11EF2FCD94464B9A30EF28E23E66A_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99017-99404"
+      }
+    },
+    "url": "https://urbanaut.app/spot/conscious-souk-festive-edit-2025#2025-08-03T1100",
+    "keywords": [
+      "Festival",
+      "Pop-up Event",
+      "Art & culture",
       "URBANAUT"
     ]
   }

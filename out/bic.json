@@ -115,24 +115,28 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "76782-1753009200-1753014600@bangaloreinternationalcentre.org",
-    "name": "Brave New World",
-    "startDate": "2025-07-20T11:00:00+05:30",
-    "endDate": "2025-07-20T12:30:00+05:30",
-    "description": "Join us for a lively storytelling session where courage comes in all shapes and sizes! Come together for stories of bold beasts, fearless friends, and pint-sized protagonists who take on big challenges with even bigger hearts. \nDesigned for young listeners aged 4\u201310, this session invites children to imagine, giggle, and maybe even discover a little bravery of their own. \n\u00a0 \n",
-    "url": "https://bangaloreinternationalcentre.org/event/brave-new-world/",
+    "@type": "ScreeningEvent",
+    "@id": "76739-1754132400-1754140500@bangaloreinternationalcentre.org",
+    "name": "Perfect Days",
+    "startDate": "2025-08-02T11:00:00+05:30",
+    "endDate": "2025-08-02T13:15:00+05:30",
+    "description": "123 minutes | Japanese with English subtitles | Japan | 2023 \nWriter & Director: Wim Wenders\nScriptwriter: Takuma Takasaki\nStarring: Koji Yakusho,\u00a0Tokio Emoto,\u00a0Arisa Nakano,\u00a0Aoi Yamada, and others.\nComposer: Patrick Watson \nThe highly anticipated return to fiction feature filmmaking from Wim Wenders (Paris, Texas, Wings\u00a0of Desire), Perfect Days takes the seasoned writer-director to Tokyo to tell a story celebrating\u00a0the hidden joys and minutiae of Japanese culture. \nIn a deeply moving performance that won the Best Actor award at Cannes 2023, Koji Yakusho\u00a0(Babel, 13 Assassins) stars as Hirayama, a contemplative middle-aged man who lives a life\u00a0of modesty and serenity, spending his days balancing his job as a dutiful caretaker of Tokyo\u2019s\u00a0numerous public toilets with his passion for music, literature and photography. As we join him on\u00a0his structured daily routine, a series of unexpected encounters gradually begin to reveal a hidden\u00a0past that lies behind his otherwise content and harmonious life. \nChanneling Wenders\u2019 affection for the work of Yasujiro Ozu, and combining a refreshingly\u00a0unstereotypical depiction of the Japanese capital \u2013 particularly the experience of typically unappreciated service work \u2013 with a soundtrack of iconic hits from the 60s and 80s, this is a\u00a0subtle, shimmering and ultimately life-affirming marvel that champions the meditative beauty\u00a0of the everyday world around us. Nominated for the Best International Film award at the 96th\u00a0Academy Awards. \nWim Wenders, born in 1945, rose to international prominence in the 1970s as a pioneer of New German Cinema and remains a key figure in contemporary film. His multifaceted career spans award-winning feature films, innovative documentaries, photography, and writing. After studying at the University of Television and Film Munich and working as a film critic, he co-founded the Filmverlag der Autoren to support independent German auteur films. His early road movie trilogy explored post-war German identity, leading to international acclaim with The American Friend\u00a0(1977). Wenders has since earned numerous global honors, including the Golden Palm at Cannes for Paris, Texas\u00a0and Oscar nominations for documentaries like Buena Vista Social Club\u00a0and Pina. \nThis is the second film in our collaboration with MUBI. Once in two months we will bring a new film from the extensive MUBI collection to our beloved BIC audience! \nIn collaboration with: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/perfect-days/",
     "keywords": [
-      "Books",
-      "Literature",
-      "Young BIC"
+      "Film",
+      "Society"
     ],
     "location": {
       "@type": "Place",
       "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
     "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-75.jpg"
+    "workPresented": {
+      "@type": "Movie",
+      "name": "Perfect Days"
+    },
+    "subtitleLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-77.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -157,6 +161,27 @@
       "name": "\u0c95\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0cbf \u0cac\u0c82\u0ca4\u0cc1 #\u0c95\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0cbf | Kranthi Bantu #Kranthi"
     },
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-935.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "76782-1753009200-1753014600@bangaloreinternationalcentre.org",
+    "name": "Brave New World",
+    "startDate": "2025-07-20T11:00:00+05:30",
+    "endDate": "2025-07-20T12:30:00+05:30",
+    "description": "Join us for a lively storytelling session where courage comes in all shapes and sizes! Come together for stories of bold beasts, fearless friends, and pint-sized protagonists who take on big challenges with even bigger hearts. \nDesigned for young listeners aged 4\u201310, this session invites children to imagine, giggle, and maybe even discover a little bravery of their own. \n\u00a0 \n",
+    "url": "https://bangaloreinternationalcentre.org/event/brave-new-world/",
+    "keywords": [
+      "Books",
+      "Literature",
+      "Young BIC"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-75.jpg"
   },
   {
     "@context": "https://schema.org",
