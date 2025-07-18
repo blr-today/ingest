@@ -70,7 +70,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -170,7 +170,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 11,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -390,7 +390,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -413,52 +413,6 @@
     "keywords": [
       "Local",
       "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "De-Stress Fridays",
-    "description": "Fridays are meant for letting go, and this table is all about decompressing after a long week.Deadlines, meetings, and stress? Not here!This table is your weekly escape from the chaos, where you can kick back, connect, and enjoy an evening of effortless conversations and laughter.No pressure, just good energy!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BCFDE145C74140D791BEFADA865C25FE_converted_webp.webp"
-    ],
-    "startDate": "2025-07-18T07:30:00+05:30",
-    "endDate": "2025-07-18T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Indiranagar, Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
-      "latitude": "12.97836920000000000000",
-      "longitude": "77.64083560000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1199.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "HighTable",
-      "description": "HighTable is a unique social experience where you get to dine with 4-10 people and engage in meaningful conversations. Our tables create the perfect setting to expand your social circle, and build real connections. If you love good conversations with like-minded people, HighTable is for you!",
-      "url": "https://urbanaut.app/partner/hightable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/263696EEDDC24CE5BEC2407845D0B6DB_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99808-03688"
-      }
-    },
-    "url": "https://urbanaut.app/spot/copy-of-de-stress-fridays",
-    "keywords": [
       "Food & drink",
       "URBANAUT"
     ]
@@ -604,54 +558,6 @@
     "keywords": [
       "Workshop",
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Haiku Live at Sabha Blr",
-    "description": "Haiku is a collective of six musicians who blend jazz, pop, and Indian influences into textured, evocative compositions. Featuring Om on drums, Paro and Suki on vocals, Tanvi on keys, Danny on bass, and Akshay on the violin, the ensemble crafts music shaped by a deep love for contemporary jazz and complex time signatures.Exploring themes of self-discovery, Haiku creates a sonic space where introspection meets clarity \u2014 offering listeners a fresh perspective on life\u2019s intricacies and the journey within.Formed as a student-teacher collaboration, Haiku emerged organically from the music programme at Mallya Aditi International School, evolving into a vibrant musical project rooted in mentorship, creativity, and connection.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7AB3552902C84ED6AB4432FCB192575B_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0653C9043AA04295889F6B160C1CE9B4_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C07E660252E9407E94A04DA8014738EF_converted_webp.webp"
-    ],
-    "startDate": "2025-07-18T19:00:00+05:30",
-    "endDate": "2025-07-18T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
-      "latitude": "12.98348400000000000000",
-      "longitude": "77.61101699999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 170,
-    "remainingAttendeeCapacity": 8,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Haiku",
-      "description": "",
-      "url": "https://urbanaut.app/partner/haiku",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/AA01CA7946BB4D3383B156EBC943A1E7_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-90083-78987"
-      }
-    },
-    "url": "https://urbanaut.app/spot/haiku-live-at-sabha-blr",
-    "keywords": [
-      "Live GIG",
       "URBANAUT"
     ]
   },
@@ -826,7 +732,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 37,
+    "remainingAttendeeCapacity": 33,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -876,7 +782,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 25,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1025,7 +931,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 14,
-    "remainingAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 13,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1228,7 +1134,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1340,7 +1246,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 129,
+    "remainingAttendeeCapacity": 127,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1388,7 +1294,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 31,
+    "remainingAttendeeCapacity": 29,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1437,7 +1343,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1486,7 +1392,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1536,7 +1442,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 26,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1585,7 +1491,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 26,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 16,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1781,7 +1687,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 33,
+    "remainingAttendeeCapacity": 32,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1830,7 +1736,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 136,
+    "remainingAttendeeCapacity": 135,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1928,7 +1834,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 14,
-    "remainingAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 13,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2128,7 +2034,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -2620,7 +2526,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 38,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3594,7 +3500,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
