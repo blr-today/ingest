@@ -226,7 +226,8 @@ fetch: out/allevents.txt \
  out/bngbirds.json \
  out/paintbar.json \
  out/artzo.txt \
- out/pedalintandem.json
+ out/pedalintandem.json \
+ out/cksl.json
 	@echo "Done"
 
 clean:
