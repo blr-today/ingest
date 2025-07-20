@@ -2,11 +2,11 @@ local transformOffer(offer, slug) = {
   '@type': 'Offer',
   # price: offer.converted_price_data.converted_amount,
   # priceCurrency: offer.converted_price_data.currency_symbol,
-  availability: if offer.quantity_left > 0 then 'InStock' else 'SoldOut',
-  name: offer.ticket_name,
+  availability: if std.get(offer, "quantity_left", 0) > 0 then 'InStock' else 'SoldOut',
+  [if std.objectHas(offer, "ticket_name") then "name" else null]: offer.ticket_name,
   url: 'https://www.skillboxes.com/events/ticket/' + slug,
-  inventoryLevel: offer.quantity_left,
-  [if offer.label_1 != "" then "description" else null]: offer.label_1 + "\n" + offer.label_2,
+  [if std.objectHas(offer, "quantity_left") then "inventoryLevel" else null]: offer.quantity_left,
+  [if std.length(offer.label_1) > 0 then "description" else null]: offer.label_1 + "\n" + offer.label_2,
 };
 
 # Returns a valid schema.org/Event object

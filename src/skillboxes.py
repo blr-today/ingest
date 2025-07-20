@@ -5,47 +5,41 @@ import json
 import sys
 
 BASE_URL = "https://www.skillboxes.com/servers"
-
+HEADERS = {
+    "Content-Type": "application/json",
+    "User-Agent": "Mozilla/5.0 (compatible; blr.today-bot; +httpss://blr.today/bot/)"
+}
 
 def get_events(city, page=1):
     payload = {
-        "page": page,
         "city": city,
+        "page": page,
+        "type": "fetchAll"
     }
 
-    headers = {"Content-Type": "application/json"}
-
     res = requests.post(
-        "https://www.skillboxes.com/servers/v1/api/event-new/get-event",
+        "https://www.skillboxes.com/servers/v3/api/event-new/get-event",
         json=payload,
-        headers=headers,
+        headers=HEADERS,
     ).json()
     for item in res["items"]:
         yield item['slug']
     if res["next"]:
         yield from get_events(city, page + 1)
 
-
-# curl 'https://www.skillboxes.com/servers/v3/api/event-new/event-details' - H 'Content-Type: application/json' - -data-raw '{"slug":"The-Kitty-Ko-Royale-Ft-Usha-Uthup-Rani-Kohenur-Bangalore-Edition"}'
-
-# curl 'https://www.skillboxes.com/servers/v3/api/event-new/event-tickets' - H 'Content-Type: application/json' - -data-raw '{"slug":"The-Kitty-Ko-Royale-Ft-Usha-Uthup-Rani-Kohenur-Bangalore-Edition"}'
-
-# curl 'https://www.skillboxes.com/servers/v3/api/get-meta-details' - H 'Content-Type: application/json' - -data-raw '{"slug":"The-Kitty-Ko-Royale-Ft-Usha-Uthup-Rani-Kohenur-Bangalore-Edition","opcode":"events"}'
-
 def get_event_details(session, slug):
-    headers = {"Content-Type": "application/json"}
     payload = {"slug": slug}
     details = session.post(
         "https://www.skillboxes.com/servers/v3/api/event-new/event-details",
         json=payload,
-        headers=headers,
+        headers=HEADERS,
     ).json()['data']
 
     try:
         r = session.post(
             "https://www.skillboxes.com/servers/v3/api/event-new/event-tickets",
             json=payload,
-            headers=headers,
+            headers=HEADERS,
         ).json()
 
         if r['success'] == False:
@@ -59,20 +53,22 @@ def get_event_details(session, slug):
             raise e
 
 
-def __main__(city):
+def __main__(cities):
     session = Fetch(cache={"serializer": "json"})
     events = []
-    for slug in get_events(city):
-        details = get_event_details(session, slug)
-        if details:
-            events.append(details)
+    for city in cities:
+        for slug in get_events(city):
+            details = get_event_details(session, slug)
+            if details:
+                events.append(details)
 
     with open("out/skillboxes.jsonnet", "w") as f:
         json.dump(events, f, indent=2)
 
 
 if __name__ == "__main__":
-    if sys.argv[1]:
-        __main__(sys.argv[1])
+    if len(sys.argv) > 1:
+        cities = sys.argv[1:]
+        __main__(cities)
     else:
         raise Exception("City ID is required. Bangalore=9")

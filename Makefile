@@ -27,7 +27,7 @@ out/te.json: out/te.jsonnet
 	python src/jsonnet.py out/te.jsonnet || $(call restore-file,$@)
 
 out/skillboxes.jsonnet:
-	python src/skillboxes.py 9 || $(call restore-file,$@)
+	python src/skillboxes.py 9 1105542 || $(call restore-file,$@)
 
 out/skillboxes.json: out/skillboxes.jsonnet
 	python src/jsonnet.py out/skillboxes.jsonnet || $(call restore-file,$@)
