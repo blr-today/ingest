@@ -3,15 +3,16 @@ import _jsonnet
 import sys
 import os
 import html2text as HT
-
+import datetime
 
 def html2text(html):
     h = HT.HTML2Text()
     h.ignore_links = True
     h.bypass_tables = True
     h.single_line_break = True
-    return h.handle(html)
-
+    return h.handle(html).strip()
+def today():
+    return datetime.datetime.today().strftime("%Y-%m-%d")
 
 input_file = sys.argv[1]
 if not os.path.exists(input_file):
@@ -30,6 +31,8 @@ with open(input_file, "r") as json_file:
             tla_vars={"INPUT": input_json},
             native_callbacks={
                 "html2text": (("html",), html2text),
+                # Use Python datetime
+                "today": ((), today),
             },
         )
     else:

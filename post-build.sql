@@ -91,7 +91,9 @@ WHERE
   -- Mostly stranger meets which are anyway meh.
   OR event_json ->> '$.organizer.name' = 'HighTable'
   -- Stranger food meets rated 2.8
-  OR event_json ->> '$.organizer.name' = 'Bento Bento';
+  OR event_json ->> '$.organizer.name' = 'Bento Bento'
+  -- Advertisement for Rage Room Indiranagar
+  OR url LIKE '%rage-room%';
 
 
 -- Mark some events as not happening in Bangalore
@@ -246,8 +248,6 @@ WHERE
   OR event_json ->> '$.organizer.name' LIKE 'namma trip'
   OR event_json ->> '$.organizer.name' LIKE '%tripper trails%'
   OR event_json ->> '$.organizer.name' LIKE '%tripbae%'
-  -- Advertisement for Rage Room Indiranagar
-  OR url LIKE '%rage-room%'
 
   -- All Travel events listed on HighApe
   OR (
@@ -284,7 +284,12 @@ WHERE
     OR event_json ->> '$.keywords' LIKE '%vro hospitality%'
     OR event_json ->> '$.keywords' LIKE '%OIEPL%' -- Gold Rush Brews
     -- Gaming Arcade ticket sales are not events
-    OR event_json LIKE '%the grid - koramangala%'
+    OR event_json ->> '$.keywords' LIKE '%The Grid - Gaming Arena%'
+    OR event_json ->> '$.keywords' LIKE '%The Grid-Bowling%'
+    -- Also The Grid
+    OR event_json ->> '$.organizer.name' LIKE 'hex entertainment llp'
+    -- SkyDeck gigs
+    OR event_json LIKE '%deck-gigs%'
   );
 
 

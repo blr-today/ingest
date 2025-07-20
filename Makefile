@@ -168,6 +168,12 @@ out/tpcc.jsonnet:
 out/tpcc.json: out/tpcc.jsonnet
 	python src/jsonnet.py out/tpcc.jsonnet || $(call restore-file,$@)
 
+out/cksl.jsonnet:
+	curl --silent "https://core.service.elfsight.com/p/boot/?w=51301a3b-7f76-429d-bcb5-98c6338857f4" | jq '.data.widgets["51301a3b-7f76-429d-bcb5-98c6338857f4"].data.settings' > $@ 
+
+out/cksl.json: out/cksl.jsonnet
+	python src/jsonnet.py out/cksl.jsonnet || $(call restore-file,$@)
+
 out/lavonne.json:
 	python src/lavonne.py || $(call restore-file,$@)
 

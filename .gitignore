@@ -16,3 +16,5 @@ out/underline.jsonnet
 out/skillboxes.jsonnet
 **/*.egg-info/
 events.db-journal
+# This is not filtered properly, so is too large and useless to commit
+out/cksl.jsonnet
