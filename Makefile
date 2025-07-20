@@ -240,8 +240,8 @@ build-sqlite:
 	.github/sqlite.sh
 
 post-build: build-sqlite
-	LD_PRELOAD=/tmp/sqlite-amalgamation-3490100/libsqlite.so python3 -c "import sqlite3;print(sqlite3.sqlite_version)"
-	LD_PRELOAD=/tmp/sqlite-amalgamation-3490100/libsqlite.so python3 -m sqlite3 events.db < post-build.sql
+	LD_PRELOAD=/tmp/sqlite-amalgamation-3500300/libsqlite.so python3 -c "import sqlite3;print(sqlite3.sqlite_version)"
+	LD_PRELOAD=/tmp/sqlite-amalgamation-3500300/libsqlite.so python3 -m sqlite3 events.db < post-build.sql
 
 all: build post-build
 	@echo "Finished build"
