@@ -1,6 +1,40 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Rock Anthems & Rooftop Vibes!Rewind and rock out! This Thursday, 8 PM onwards, Skydeck by Sherlock's is serving up another epic Throwback Thursday",
+      "endDate": "2025-07-24T23:59:00",
+      "identifier": "com.skillboxes.26188",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753104920ubDgrZtCtOVfLjbT.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750296",
+            "longitude": "77.6075339"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Echoes Of Rock - Tribute to Rock  & Retro Music",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/echoes-of-rock-tribute-to-rock-retro-music"
+         }
+      ],
+      "startDate": "2025-07-24T20:00:00",
+      "url": "https://www.skillboxes.com/events/echoes-of-rock-tribute-to-rock-retro-music"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "EducationEvent",
       "description": "We at Sama: The Calm Mind Studio are thrilled to bring you a unique experience that blends the mindfulness and alignment of Yoga with the fluidity and",
       "endDate": "2025-07-26T17:00:00",
@@ -396,7 +430,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 25,
+            "inventoryLevel": 20,
             "name": "Audience Ticket",
             "url": "https://www.skillboxes.com/events/ticket/kannada-open-mic-25"
          }
