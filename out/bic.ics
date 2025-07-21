@@ -9,7 +9,7 @@ X-WR-CALDESC:Events for Bangalore International Centre
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250721
 DTEND;VALUE=DATE:20250722
-DTSTAMP:20250721T064958
+DTSTAMP:20250721T130620
 CREATED:20250720T083150Z
 LAST-MODIFIED:20250720T083150Z
 UID:76521-1753056000-1753142399@bangaloreinternationalcentre.org
@@ -23,7 +23,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250722T190000
 DTEND;TZID=Asia/Kolkata:20250722T203000
-DTSTAMP:20250721T064958
+DTSTAMP:20250721T130620
 CREATED:20250709T090442Z
 LAST-MODIFIED:20250709T090442Z
 UID:76239-1753210800-1753216200@bangaloreinternationalcentre.org
@@ -37,7 +37,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250723T190000
 DTEND;TZID=Asia/Kolkata:20250723T210000
-DTSTAMP:20250721T064958
+DTSTAMP:20250721T130620
 CREATED:20250709T130625Z
 LAST-MODIFIED:20250720T064303Z
 UID:76365-1753297200-1753304400@bangaloreinternationalcentre.org
@@ -51,7 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250724T183000
 DTEND;TZID=Asia/Kolkata:20250724T200000
-DTSTAMP:20250721T064958
+DTSTAMP:20250721T130620
 CREATED:20250715T085719Z
 LAST-MODIFIED:20250720T071546Z
 UID:76712-1753381800-1753387200@bangaloreinternationalcentre.org
@@ -65,7 +65,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250724T190000
 DTEND;TZID=Asia/Kolkata:20250724T201500
-DTSTAMP:20250721T064958
+DTSTAMP:20250721T130620
 CREATED:20250703T134829Z
 LAST-MODIFIED:20250718T122922Z
 UID:76028-1753383600-1753388100@bangaloreinternationalcentre.org
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250725T183000
 DTEND;TZID=Asia/Kolkata:20250725T200000
-DTSTAMP:20250721T064958
+DTSTAMP:20250721T130620
 CREATED:20250708T105218Z
 LAST-MODIFIED:20250720T062142Z
 UID:75651-1753468200-1753473600@bangaloreinternationalcentre.org
@@ -93,7 +93,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250725T183000
 DTEND;TZID=Asia/Kolkata:20250725T200000
-DTSTAMP:20250721T064958
+DTSTAMP:20250721T130620
 CREATED:20250716T093448Z
 LAST-MODIFIED:20250720T063505Z
 UID:76762-1753468200-1753473600@bangaloreinternationalcentre.org
@@ -107,21 +107,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250725T190000
 DTEND;TZID=Asia/Kolkata:20250725T203000
-DTSTAMP:20250721T064958
-CREATED:20250711T084641Z
-LAST-MODIFIED:20250718T091620Z
-UID:76581-1753470000-1753475400@bangaloreinternationalcentre.org
-SUMMARY:Kadahin Milandaasin
-DESCRIPTION:Experience an unforgettable evening of music and memory with a special vinyl listening session of Kadahin Milandaasin\, the acclaimed album by drummer and composer Tarun Balani. Called “a sonic love letter to Sindh” by The Hindu\, this deeply personal work has been featured on NPR’s Best Jazz Albums and Bandcamp’s Best of Jazz. \nInspired by the life of Balani’s late grandfather\, K.S. Balani\, a renowned Sindhi writer and painter\, the album explores themes of migration\, ancestral memory\, and identity. Through moving compositions and layered soundscapes\, Kadahin Milandaasin becomes both a tribute and a journey home. \nThe evening includes a full vinyl playback of the album\, followed by an intimate conversation with Tarun Balani himself. Join us for a rare chance to hear the stories behind the music: of love\, loss\, and legacy.  \nAbout BIC Elsewhere: \nWhile the majority of our events find a home at our premises in Domlur\, BIC Elsewhere represents our commitment to bringing conversations\, arts\, and culture directly to diverse audiences. Through this initiative\, we collaborate with various venues\, extending the reach of our events beyond our own space. These partnerships not only breathe life into our gatherings but also play a crucial role in cultivating an environment for the flourishing of arts and culture in the city. \nIn collaboration with: \n \n
-URL:https://bangaloreinternationalcentre.org/event/kadahin-milandaasin/
-LOCATION:Sabha BLR\, No.44/A\, Kamaraj Rd\, Bharati Nagar\, Shivaji Nagar\, Bengaluru\, Karnataka\, 560042\, India
-CATEGORIES:Culture,Heritage,Music,Performing Arts,Visual Arts
-ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-936.jpg
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Kolkata:20250725T190000
-DTEND;TZID=Asia/Kolkata:20250725T203000
-DTSTAMP:20250721T064958
+DTSTAMP:20250721T130620
 CREATED:20250715T090355Z
 LAST-MODIFIED:20250720T093449Z
 UID:76494-1753470000-1753475400@bangaloreinternationalcentre.org
@@ -133,9 +119,23 @@ CATEGORIES:Dance,Performing Arts
 ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-74.jpg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20250725T190000
+DTEND;TZID=Asia/Kolkata:20250725T203000
+DTSTAMP:20250721T130620
+CREATED:20250711T084641Z
+LAST-MODIFIED:20250718T091620Z
+UID:76581-1753470000-1753475400@bangaloreinternationalcentre.org
+SUMMARY:Kadahin Milandaasin
+DESCRIPTION:Experience an unforgettable evening of music and memory with a special vinyl listening session of Kadahin Milandaasin\, the acclaimed album by drummer and composer Tarun Balani. Called “a sonic love letter to Sindh” by The Hindu\, this deeply personal work has been featured on NPR’s Best Jazz Albums and Bandcamp’s Best of Jazz. \nInspired by the life of Balani’s late grandfather\, K.S. Balani\, a renowned Sindhi writer and painter\, the album explores themes of migration\, ancestral memory\, and identity. Through moving compositions and layered soundscapes\, Kadahin Milandaasin becomes both a tribute and a journey home. \nThe evening includes a full vinyl playback of the album\, followed by an intimate conversation with Tarun Balani himself. Join us for a rare chance to hear the stories behind the music: of love\, loss\, and legacy.  \nAbout BIC Elsewhere: \nWhile the majority of our events find a home at our premises in Domlur\, BIC Elsewhere represents our commitment to bringing conversations\, arts\, and culture directly to diverse audiences. Through this initiative\, we collaborate with various venues\, extending the reach of our events beyond our own space. These partnerships not only breathe life into our gatherings but also play a crucial role in cultivating an environment for the flourishing of arts and culture in the city. \nIn collaboration with: \n \n
+URL:https://bangaloreinternationalcentre.org/event/kadahin-milandaasin/
+LOCATION:Sabha BLR\, No.44/A\, Kamaraj Rd\, Bharati Nagar\, Shivaji Nagar\, Bengaluru\, Karnataka\, 560042\, India
+CATEGORIES:Culture,Heritage,Music,Performing Arts,Visual Arts
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_POSTER-936.jpg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250727T110000
 DTEND;TZID=Asia/Kolkata:20250727T130000
-DTSTAMP:20250721T064958
+DTSTAMP:20250721T130620
 CREATED:20250711T150700Z
 LAST-MODIFIED:20250711T160154Z
 UID:76603-1753614000-1753621200@bangaloreinternationalcentre.org
@@ -149,7 +149,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250731T183000
 DTEND;TZID=Asia/Kolkata:20250731T200000
-DTSTAMP:20250721T064958
+DTSTAMP:20250721T130620
 CREATED:20250718T134417Z
 LAST-MODIFIED:20250721T030803Z
 UID:76827-1753986600-1753992000@bangaloreinternationalcentre.org
@@ -163,7 +163,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250731T190000
 DTEND;TZID=Asia/Kolkata:20250731T203000
-DTSTAMP:20250721T064958
+DTSTAMP:20250721T130620
 CREATED:20250720T100244Z
 LAST-MODIFIED:20250720T100244Z
 UID:76626-1753988400-1753993800@bangaloreinternationalcentre.org
@@ -177,7 +177,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250801T190000
 DTEND;TZID=Asia/Kolkata:20250801T200000
-DTSTAMP:20250721T064958
+DTSTAMP:20250721T130620
 CREATED:20250717T090449Z
 LAST-MODIFIED:20250720T152720Z
 UID:76773-1754074800-1754078400@bangaloreinternationalcentre.org
@@ -191,7 +191,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250802T110000
 DTEND;TZID=Asia/Kolkata:20250802T131500
-DTSTAMP:20250721T064958
+DTSTAMP:20250721T130620
 CREATED:20250717T062902Z
 LAST-MODIFIED:20250717T062902Z
 UID:76739-1754132400-1754140500@bangaloreinternationalcentre.org
@@ -203,9 +203,23 @@ CATEGORIES:Film,Society
 ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-77.jpg
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20250802T160000
+DTEND;TZID=Asia/Kolkata:20250802T183000
+DTSTAMP:20250721T130620
+CREATED:20250721T101443Z
+LAST-MODIFIED:20250721T101443Z
+UID:76813-1754150400-1754159400@bangaloreinternationalcentre.org
+SUMMARY:Rice\, Spice & Everything Nice
+DESCRIPTION:This Quiz brings together people who love quirky facts and brain teasers. Whether you’re flying solo\, coming with a friend\, or on a fun date night\, you’re in for an evening that’s friendly\, engaging\, and full of surprises. \nWe host high-energy\, theme-led trivia events designed for Gen Z and millennial communities. This edition explores India’s place in Asia — and Asia’s imprint on India — through fun\, cultural trivia. \nWe’ll dive into shared histories\, pop culture crossovers\, foodways\, borrowed words\, cinematic influences\, and surprising overlaps that connect India with the rest of Asia — from the everyday to the extraordinary. \nNote: This is an event for Teams of 2 (come solo and we’ll pair you up!) \nIn collaboration with:\n  \n
+URL:https://bangaloreinternationalcentre.org/event/rice-spice-everything-nice/
+LOCATION:Bangalore International Centre\, 7\, 4th Main Road\, Domlur II Stage\, Bangalore\, Karnataka\, 560071\, India
+CATEGORIES:Cities,Education,History,Workshops
+ATTACH;FMTTYPE=image/jpeg:https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_RSEN.jpg
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250802T190000
 DTEND;TZID=Asia/Kolkata:20250802T203000
-DTSTAMP:20250721T064958
+DTSTAMP:20250721T130620
 CREATED:20250718T084420Z
 LAST-MODIFIED:20250720T055922Z
 UID:76724-1754161200-1754166600@bangaloreinternationalcentre.org
@@ -219,7 +233,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20250803T183000
 DTEND;TZID=Asia/Kolkata:20250803T200000
-DTSTAMP:20250721T064958
+DTSTAMP:20250721T130620
 CREATED:20250711T162138Z
 LAST-MODIFIED:20250716T173149Z
 UID:76591-1754245800-1754251200@bangaloreinternationalcentre.org

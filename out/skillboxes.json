@@ -1,6 +1,382 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "We at Sama: The Calm Mind Studio are thrilled to bring you a unique experience that blends the mindfulness and alignment of Yoga with the fluidity and",
+      "endDate": "2025-07-26T17:00:00",
+      "identifier": "com.skillboxes.26182",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dkJEWXkxUnorT1FaaU5mL3N2NFl5dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753096866dJb3V8DfrxFu0q9D.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "The Feel-Good Yoga Dance Flow Workshop",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 12,
+            "name": "Workshop Pass For 1",
+            "url": "https://www.skillboxes.com/events/ticket/the-feel-good-yoga-dance-flow"
+         }
+      ],
+      "startDate": "2025-07-26T15:30:00",
+      "url": "https://www.skillboxes.com/events/the-feel-good-yoga-dance-flow"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready to own your Wednesday night!Join us this Wednesday, at Skydeck by Sherlock's for a spectacular LIVE band performance!We're bringing you the ",
+      "endDate": "2025-07-23T23:59:00",
+      "identifier": "com.skillboxes.26180",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753094221JlZ5g6rsM2MX7Uck.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Live Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750296",
+            "longitude": "77.6075339"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Deck Gigs | LIVE Music Experience",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/deck-gigs-live-music-experience-10"
+         }
+      ],
+      "startDate": "2025-07-23T20:00:00",
+      "url": "https://www.skillboxes.com/events/deck-gigs-live-music-experience-10"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Join Us for a Night of Dandiya Magic!Put on your traditional best and bring your dancing spirit — it's time to swirl, twirl, and celebrate with ",
+      "endDate": "2025-10-02T01:00:00",
+      "identifier": "com.skillboxes.26179",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753093456FRU9JIx44Ga3Kkv2.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Dance"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Palace Grounds, Bellary Rd, near Mekhri Circle, Armane Nagar, Bengaluru, Karnataka 560080, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0072565",
+            "longitude": "77.5872248"
+         },
+         "name": "The Grand Castle"
+      },
+      "name": "Dandiya Night 2025 | The Grand Castle - Palace Ground",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one kid to the event.\n",
+            "inventoryLevel": 50,
+            "name": "Kids Pass (Below 10 Yrs)",
+            "url": "https://www.skillboxes.com/events/ticket/dandiya-night-2025-the-grand-castle-palace-ground"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits one person to the event + 1 pair of Dandiya sticks.\n",
+            "inventoryLevel": 50,
+            "name": "Early Bird Solo Pass",
+            "url": "https://www.skillboxes.com/events/ticket/dandiya-night-2025-the-grand-castle-palace-ground"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits 5 person to the event + 1 pair of Dandiya sticks.\n",
+            "inventoryLevel": 50,
+            "name": "Early Bird - Group of 5",
+            "url": "https://www.skillboxes.com/events/ticket/dandiya-night-2025-the-grand-castle-palace-ground"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Each pass permits 10 person to the event + 1 pair of Dandiya sticks.\n",
+            "inventoryLevel": 50,
+            "name": "Early Bird - Group of 10",
+            "url": "https://www.skillboxes.com/events/ticket/dandiya-night-2025-the-grand-castle-palace-ground"
+         }
+      ],
+      "startDate": "2025-10-01T20:00:00",
+      "url": "https://www.skillboxes.com/events/dandiya-night-2025-the-grand-castle-palace-ground"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "LOCK HIM IN LET'S GO OUTLadies & Models Night every Sunday starting from 8pm onwardsVenue - Secret Story, IndiranagarFree drinks for the ladiesFli",
+      "endDate": "2025-07-27T23:59:00",
+      "identifier": "com.skillboxes.26178",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753093442uGL9Saq2QLw7BxTU.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "3rd & 4th Floor, 968, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9699636",
+            "longitude": "77.6391935"
+         },
+         "name": "Secret Story Bar & Kitchen"
+      },
+      "name": "Sundays Bolly & Punjabi Secret Stories indiranagar",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 500,
+            "name": "Rsvp Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/sundays-bolly-punjabi-secret-stories-indiranagar"
+         }
+      ],
+      "startDate": "2025-07-27T20:00:00",
+      "url": "https://www.skillboxes.com/events/sundays-bolly-punjabi-secret-stories-indiranagar"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Mini concert to the most happening Wednesdays+ Ladies Night Out this Wednesday at Hydra Club & Kitchen, Koramangala!Get ready for a mini concert n",
+      "endDate": "2025-07-23T23:59:00",
+      "identifier": "com.skillboxes.26172",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753093344HpeNXVlECqqfcyWP.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th C Cross Rd, KHB Colony, Maruti Nagar, 5th Block, S.G. Palya, Bengaluru, Karnataka 560029, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9346828",
+            "longitude": "77.6145827"
+         },
+         "name": "Hydra Club & Kitchen"
+      },
+      "name": "Wednesday biggest mini concert at hydra",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Rsvp Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/wednesday-biggest-mini-concert-at-hydra"
+         }
+      ],
+      "startDate": "2025-07-23T20:00:00",
+      "url": "https://www.skillboxes.com/events/wednesday-biggest-mini-concert-at-hydra"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Bigg Bolly tech Night every Thursday at The Fixx, Koramangala!\r\n\r\nLadies, it`s your night to shine! Join us every Thursday at Fixx Koramangala for an\r",
+      "endDate": "2025-07-31T23:59:00",
+      "identifier": "com.skillboxes.26168",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753092783jbJLA5wZtqzvCHqD.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "773, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560038, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9693669",
+            "longitude": "77.6410758"
+         },
+         "name": "Vapour Indiranagar"
+      },
+      "name": "Hot Boxx Ladies Thursday (also referred to as Bollytech Center Stage Thursday)",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 500,
+            "name": "24th July | 8 PM | Free Entry for All",
+            "url": "https://www.skillboxes.com/events/ticket/hot-boxx-ladies-thursday-also-referred-to-as-bollytech-center-stage-thursday"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 500,
+            "name": "31st July | 8 PM | Free Entry for All",
+            "url": "https://www.skillboxes.com/events/ticket/hot-boxx-ladies-thursday-also-referred-to-as-bollytech-center-stage-thursday"
+         }
+      ],
+      "startDate": "2025-07-24T20:00:00",
+      "url": "https://www.skillboxes.com/events/hot-boxx-ladies-thursday-also-referred-to-as-bollytech-center-stage-thursday"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "\"Yo yo yo! Indiranagar, are you ready?!\"Every Friday — it’s Punjabi Swag Fridays at Vapour Indiranagar!Get ready",
+      "endDate": "2025-07-25T23:59:00",
+      "identifier": "com.skillboxes.26167",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753092856x9EknEBAqbBlg3r4.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "773, 100 Feet Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560038, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9693669",
+            "longitude": "77.6410758"
+         },
+         "name": "Vapour Indiranagar"
+      },
+      "name": "Bollywood & Punjabi Night Vapour Indiranagar",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 500,
+            "name": "Free Entry for All",
+            "url": "https://www.skillboxes.com/events/ticket/bollywood-punjabi-night-vapour-indiranagar"
+         }
+      ],
+      "startDate": "2025-07-25T20:00:00",
+      "url": "https://www.skillboxes.com/events/bollywood-punjabi-night-vapour-indiranagar"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "🍸✨ Get ready for the biggest Cocktail Night in town!Baraati Night ft. DJ Deep Bhamra where the beats are wild and the vibes are wedding",
+      "endDate": "2025-07-26T23:59:00",
+      "identifier": "com.skillboxes.26163",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/V1JKbGRmWURteGRzN2RmOFVveE92QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753085125KaTHTW3VTdPMXO6v.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Eco World Road",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9270669",
+            "longitude": "77.68810529999999"
+         },
+         "name": "Radio Bar"
+      },
+      "name": "Bar-Aati Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "999/- cover charges fully redeemable from your total bill\nStrictly - Wear your best Indian Clothes, dance to Dhol, expereince the Sangeet Night you have always waited for…",
+            "inventoryLevel": 50,
+            "name": "Bar-Aati Night",
+            "url": "https://www.skillboxes.com/events/ticket/bar-aati-night"
+         }
+      ],
+      "startDate": "2025-07-26T20:30:00",
+      "url": "https://www.skillboxes.com/events/bar-aati-night"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "Relieve stress, anxiety and recharge your mind with this unique experience at SAMA. A medley of the instruments and the practitioner Sound Baths are g",
+      "endDate": "2025-07-27T20:00:00",
+      "identifier": "com.skillboxes.26159",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dkJEWXkxUnorT1FaaU5mL3N2NFl5dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753083192ee0F1trl6AwnvQpk.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "Relax, Unwind, Rest, Unfold : A Sound Bath Immersion Workshop",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 4,
+            "name": "Mat Solo",
+            "url": "https://www.skillboxes.com/events/ticket/relax-unwind-rest-unfold-a-sound-bath-immersion-workshop"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 3,
+            "name": "Hammock Solo",
+            "url": "https://www.skillboxes.com/events/ticket/relax-unwind-rest-unfold-a-sound-bath-immersion-workshop"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 2,
+            "name": "Mat Couple",
+            "url": "https://www.skillboxes.com/events/ticket/relax-unwind-rest-unfold-a-sound-bath-immersion-workshop"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 2,
+            "name": "Hammock Partner",
+            "url": "https://www.skillboxes.com/events/ticket/relax-unwind-rest-unfold-a-sound-bath-immersion-workshop"
+         }
+      ],
+      "startDate": "2025-07-27T18:30:00",
+      "url": "https://www.skillboxes.com/events/relax-unwind-rest-unfold-a-sound-bath-immersion-workshop"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "➾\n➾ (official\nWebsite)­­--> https://leanwellglp1.com/\n\n\nIn\nthe pursuit of effective weight reductio",
+      "endDate": "2025-07-23T16:03:00",
+      "identifier": "com.skillboxes.26158",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/L01ubzZXWnQxY0traEx1YXdya1RzZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753083240SxarCpVuuYjLjIhQ.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Open Air Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "",
+            "longitude": ""
+         },
+         "name": "To Be Decided"
+      },
+      "name": "Leanwell GLP-1 Gummies: A Comprehensive Guide to Its Ingredients, Effectiveness & Price",
+      "offers": [ ],
+      "startDate": "2025-07-23T16:03:00",
+      "url": "https://www.skillboxes.com/events/leanwell-glp-1-gummies-a-comprehensive-guide-to-its-ingredients-effectiveness-price"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "ಈ ಸಣ್-day ಅನ್ನು funn-day ಆಗಿಸಲು \"ಅರಳ&#",
       "endDate": "2025-07-27T17:00:00",
@@ -27,6 +403,47 @@
       ],
       "startDate": "2025-07-27T14:00:00",
       "url": "https://www.skillboxes.com/events/kannada-open-mic-25"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "DDD is back with its 4th edition and it is going to blend crushing riffs, growling vocals, sonic drums, and dark symphonic elements into a powerful li",
+      "endDate": "2025-09-28T23:59:00",
+      "identifier": "com.skillboxes.26135",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753005253XdJlLNjItI2zFCUH.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Bengaluru",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9628669",
+            "longitude": "77.577509"
+         },
+         "name": "To Be Announced"
+      },
+      "name": "Death Damage Destruction IV",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 56,
+            "name": "Burger Bomb",
+            "url": "https://www.skillboxes.com/events/ticket/death-damage-destruction-iv"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "Bacon Blast",
+            "url": "https://www.skillboxes.com/events/ticket/death-damage-destruction-iv"
+         }
+      ],
+      "startDate": "2025-09-28T18:00:00",
+      "url": "https://www.skillboxes.com/events/death-damage-destruction-iv"
    },
    {
       "@context": "https://schema.org",
@@ -281,7 +698,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 993,
+            "inventoryLevel": 982,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/body-rydm"
          },
@@ -605,7 +1022,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "INR 500 cover charge before 9:30 PM,\nPost 9:30 pm INR 1000 cover charge",
-            "inventoryLevel": 15,
+            "inventoryLevel": 14,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/vehement-era-chronic-sounds"
          }
@@ -779,7 +1196,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Super Discounted Early Bird Tickets - Grants Entry to One Individual.\nNo Cover Charge Applicable.",
-            "inventoryLevel": 23,
+            "inventoryLevel": 22,
             "name": "Early Bird Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/modern-machines-volume-4"
          },
@@ -991,7 +1408,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable at the venue\n",
-            "inventoryLevel": 495,
+            "inventoryLevel": 494,
             "name": "General Admission for 1",
             "url": "https://www.skillboxes.com/events/ticket/indian-ocean-live-at-hamilton"
          },
@@ -1042,7 +1459,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "An additional ₹300/person cover charge is applicable at the venue (fully redeemable on food & beverages)\n",
-            "inventoryLevel": 114,
+            "inventoryLevel": 112,
             "name": "JammFest July 2025",
             "url": "https://www.skillboxes.com/events/ticket/jammfest-tunelground-x-social"
          },
@@ -1125,14 +1542,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 23,
+            "inventoryLevel": 22,
             "name": "Performer Ticket",
             "url": "https://www.skillboxes.com/events/ticket/kommune-open-mic-at-biergarten"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 25,
+            "inventoryLevel": 24,
             "name": "Audience Ticket",
             "url": "https://www.skillboxes.com/events/ticket/kommune-open-mic-at-biergarten"
          }
@@ -1167,7 +1584,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "COVER CHARGES APPLICABLE POST 9:30PM\n",
-            "inventoryLevel": 259,
+            "inventoryLevel": 255,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/ubm-rewinds-retro-prom-night"
          }
@@ -1265,7 +1682,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory additional INR 1000 cover charge applicable at the gates.\n",
-            "inventoryLevel": 177,
+            "inventoryLevel": 172,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/shallou-hybrid-live-set-bangalore"
          },
@@ -1392,7 +1809,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charge of INR 499 extra at the gate (fully redeemable for F&B).\n",
-            "inventoryLevel": 987,
+            "inventoryLevel": 986,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/Metalocalypse"
          },
@@ -1435,7 +1852,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket allows access for one guest entry. Limited Tickets only.\nCover Charges might be applicable at the gates. Fully Redeemable on F and B",
-            "inventoryLevel": 38,
+            "inventoryLevel": 28,
             "name": "Drop-In Access",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-nights"
          }
@@ -1470,7 +1887,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 300 redeemable cover charge per individual applicable at gates.\n",
-            "inventoryLevel": 16,
+            "inventoryLevel": 12,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/india-tour-by-og-lucifer-2"
          },
@@ -1486,7 +1903,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional INR 300 redeemable cover charge per individual applicable at gates.\n",
-            "inventoryLevel": 98,
+            "inventoryLevel": 96,
             "name": "Meet and Greet + 1 tshirt from OG",
             "url": "https://www.skillboxes.com/events/ticket/india-tour-by-og-lucifer-2"
          },
@@ -1572,7 +1989,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants admission for one individual to the event.\nNo cover charges required.",
-            "inventoryLevel": 24,
+            "inventoryLevel": 21,
             "name": "Phase 1 Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/genesis-2-0"
          },
@@ -1580,7 +1997,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants admission for two individuals to the event.\nNo cover charges required.",
-            "inventoryLevel": 16,
+            "inventoryLevel": 15,
             "name": "Phase 1 Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/genesis-2-0"
          },
@@ -1678,7 +2095,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 4,
+            "inventoryLevel": 2,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/kahanikaar-a-storytelling-show-by-kommune-bengaluru"
          }
@@ -1729,7 +2146,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges Applicable Post 7PM\n",
-            "inventoryLevel": 33,
+            "inventoryLevel": 29,
             "name": "Male Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/indo-tech-station"
          }
@@ -1764,7 +2181,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "500rs Cover Charge at the gate\n",
-            "inventoryLevel": 64,
+            "inventoryLevel": 61,
             "name": "Phase 1 Tickets",
             "url": "https://www.skillboxes.com/events/ticket/derek-and-the-cats-varun-nimbalkar-collective-live-1"
          },
@@ -1841,7 +2258,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 515,
+            "inventoryLevel": 513,
             "name": "Phase 1 GA",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -1849,7 +2266,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Nearest to the stage.\n",
-            "inventoryLevel": 301,
+            "inventoryLevel": 291,
             "name": "Early Bird Fan Pit",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -1951,10 +2368,10 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Experience an electrifying night of beats and rhythms as CentiGrade Club Nights presents the Afterlife dynamic N1RVAAN live at PANGEO this July.Get re",
+      "description": "Experience an electrifying night of beats and rhythms as CentiGrade Club Nights presents the Afterlife dynamic N1RVAAN live at PANGEO this July.\r\n\r\n&n",
       "endDate": "2025-07-27T01:00:00",
       "identifier": "com.skillboxes.24725",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750257005VQ4qIPRJlE3JUAlC.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753084077DesApQledB72yOtZ.jpg.webp",
       "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
@@ -2061,7 +2478,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Admits one person for one of the days\n",
-            "inventoryLevel": 9976,
+            "inventoryLevel": 9969,
             "name": "One Day Pass",
             "url": "https://www.skillboxes.com/events/ticket/maya-bazaar-7"
          },
@@ -2069,7 +2486,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Admit one person for both days\n",
-            "inventoryLevel": 438,
+            "inventoryLevel": 424,
             "name": "Early Bird (Festival Pass)",
             "url": "https://www.skillboxes.com/events/ticket/maya-bazaar-7"
          },
@@ -2077,7 +2494,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry to one person for both days\n",
-            "inventoryLevel": 9998,
+            "inventoryLevel": 9997,
             "name": "Festival Pass",
             "url": "https://www.skillboxes.com/events/ticket/maya-bazaar-7"
          }
