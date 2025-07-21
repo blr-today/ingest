@@ -248,6 +248,7 @@ WHERE
   OR event_json ->> '$.organizer.name' LIKE 'namma trip'
   OR event_json ->> '$.organizer.name' LIKE '%tripper trails%'
   OR event_json ->> '$.organizer.name' LIKE '%tripbae%'
+  OR event_json ->> '$.organizer.name' LIKE '%bolantur prabhu keerthan%'
 
   -- All Travel events listed on HighApe
   OR (
@@ -407,6 +408,18 @@ WHERE
     OR event_json ->> '$.name' LIKE '%Mafia%'
     OR event_json ->> '$.name' LIKE '%Game Night%'
   );
+
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'UNDERLINE')
+  )
+WHERE
+  event_json ->> '$.organizer.name' = 'Underline Center'
+  AND event_json->'$.keywords' NOT LIKE '%underline%'
+;
 
 
 -- if lower(event name) contains both "live screening" and "premier league", tag as SPORTS-SCREENING
@@ -656,8 +669,7 @@ SET
     json_insert(event_json -> '$.keywords', '$[#]', 'JAYANAGAR')
   )
 WHERE
-  event_json LIKE '%domlur%'
-  OR event_json LIKE '%jayanagar%';
+  event_json LIKE '%jayanagar%';
 
 
 UPDATE events
