@@ -82,9 +82,8 @@ out/scigalleryblr.json:
 out/venn.json:
 	python src/venn.py || $(call restore-file,$@)
 
-out/mmb.txt:
-	python src/mmb.py | sort > $@ || $(call restore-file,$@)
-	echo "[MMB] $$(wc -l $@ | cut -d ' ' -f 1)"
+out/goethe.json:
+	python src/goethe.py || $(call restore-file,$@)
 
 out/urbanaut.json:
 	python src/urbanaut.py  || $(call restore-file,$@)
@@ -194,7 +193,7 @@ fetch: out/allevents.txt \
  out/insider.txt \
  out/bhaagoindia.txt \
  out/scigalleryblr.json \
- out/mmb.txt \
+ out/goethe.json \
  out/venn.json \
  out/urbanaut.json \
  out/champaca.json \

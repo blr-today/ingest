@@ -61,7 +61,8 @@ EVENT_JSON_FILES = [
     "out/bngbirds.json",
     "out/paintbar.json",
     "out/pedalintandem.json",
-    "out/cksl.json"
+    "out/cksl.json",
+    "out/goethe.json"
 ]
 
 KNOWN_EVENT_TYPES = [
@@ -94,7 +95,6 @@ URL_FILES = [
     "out/bhaagoindia.txt",
     "out/highape.txt",
     "out/insider.txt",
-    "out/mmb.txt",
     "out/creativemornings.txt",
     "out/koota.txt",
     "out/pumarun.txt",
