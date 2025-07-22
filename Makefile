@@ -230,17 +230,18 @@ fetch: out/allevents.txt \
 	@echo "Done"
 
 clean:
+	rm -f libsqlite.so
 	rm -rf out/*
 
 build: fetch
 	python src/event-fetcher.py
 
-build-sqlite:
+libsqlite.so:
 	.github/sqlite.sh
 
-post-build: build-sqlite
-	LD_PRELOAD=/tmp/sqlite-amalgamation-3500300/libsqlite.so python3 -c "import sqlite3;print(sqlite3.sqlite_version)"
-	LD_PRELOAD=/tmp/sqlite-amalgamation-3500300/libsqlite.so python3 -m sqlite3 events.db < post-build.sql
+post-build: libsqlite.so
+	LD_PRELOAD=./libsqlite.so python3 -c "import sqlite3;print(sqlite3.sqlite_version)"
+	LD_PRELOAD=./libsqlite.so python3 -m sqlite3 events.db < post-build.sql
 
 all: build post-build
 	@echo "Finished build"

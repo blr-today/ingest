@@ -1,12 +1,14 @@
 #!/bin/bash
 # Install latest release of SQLite using the amalgamation source code.
 
+OLDDIR=$(pwd)
 cd /tmp
-DOWNLOAD_URL=https://sqlite.org/2025/sqlite-amalgamation-3490100.zip
+DOWNLOAD_URL=https://sqlite.org/2025/sqlite-amalgamation-3500300.zip
 wget -qnc "$DOWNLOAD_URL"
-rm -rf sqlite-amalgamation-3490100
-unzip sqlite-amalgamation-3490100.zip
-cd sqlite-amalgamation-3490100
+rm -rf sqlite-amalgamation-3500300 sqlite
+unzip sqlite-amalgamation-3500300.zip
+mv sqlite-amalgamation-3500300 sqlite
+cd sqlite
 # Compile options from Arch Linux
 gcc -shared -fPIC -o libsqlite.so \
 	-DSQLITE_ENABLE_COLUMN_METADATA=1 \
@@ -22,4 +24,5 @@ gcc -shared -fPIC -o libsqlite.so \
     -DSQLITE_ENABLE_MATH_FUNCTIONS \
 	-DSQLITE_THREADSAFE=1 \
 	sqlite3.c
+cp libsqlite.so $OLDDIR
 cd -
