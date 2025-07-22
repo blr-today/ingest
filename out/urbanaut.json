@@ -2958,6 +2958,104 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pigout x Blr Brewing Co - Whitefield",
+    "description": "An Evening of Indulgence \u2014 PigOut x BLR Brewing Co\n\nJoin us for a thoughtfully curated culinary experience where indulgence meets craft. Chef Anjali Ganapathy brings her signature gourmet flair to BLR Brewing Co\u2019s elegant brews \u2014 expect elevated comfort food, bold flavors, and perfectly paired pours.\n\nSet against a relaxed yet stylish backdrop, this collaboration promises a memorable evening of fine bites, craft beers, and effortless conversations.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BC40AB1FD8AF4BB8B0AEEBE6C286003F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B6CFBA609E0A493EBC371A35BE0CDE9B_converted_webp.webp"
+    ],
+    "startDate": "2025-07-26T12:00:00+05:30",
+    "endDate": "2025-07-26T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJq_MCZPQRrjsRR82tjOEMQpg",
+      "latitude": "12.98212250000000000000",
+      "longitude": "77.70896090000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 300,
+    "remainingAttendeeCapacity": 300,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Blr Brewing Co",
+      "description": null,
+      "url": "https://urbanaut.app/partner/blrbrewingco",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EE1D6E5CB5104F0789534A6B6A318559_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/pigout-x-blr-brewing-co#2025-07-26T1200",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pigout x Blr Brewing Co - Whitefield",
+    "description": "An Evening of Indulgence \u2014 PigOut x BLR Brewing Co\n\nJoin us for a thoughtfully curated culinary experience where indulgence meets craft. Chef Anjali Ganapathy brings her signature gourmet flair to BLR Brewing Co\u2019s elegant brews \u2014 expect elevated comfort food, bold flavors, and perfectly paired pours.\n\nSet against a relaxed yet stylish backdrop, this collaboration promises a memorable evening of fine bites, craft beers, and effortless conversations.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BC40AB1FD8AF4BB8B0AEEBE6C286003F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B6CFBA609E0A493EBC371A35BE0CDE9B_converted_webp.webp"
+    ],
+    "startDate": "2025-07-27T12:00:00+05:30",
+    "endDate": "2025-07-27T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJq_MCZPQRrjsRR82tjOEMQpg",
+      "latitude": "12.98212250000000000000",
+      "longitude": "77.70896090000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 300,
+    "remainingAttendeeCapacity": 300,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Blr Brewing Co",
+      "description": null,
+      "url": "https://urbanaut.app/partner/blrbrewingco",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EE1D6E5CB5104F0789534A6B6A318559_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/pigout-x-blr-brewing-co#2025-07-27T1200",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Relax, Unwind, Unfold, Rest : SOUND BATH WORKSHOP",
     "description": "Relieve stress, anxiety and recharge your mind with this unique experience at SAMA. A medley of the instruments and the practitioner Sound Baths are gaining popularity over the world for their deeply personal and restorative benefits.\u00a0Join us for a gentle sound bath, a simple sacred space to unwind, release and feel the subtle shift within.As you walk into the Studio you will be guided to your spot for lying down on your mat/hammocks.\u00a0To enjoy an anti-gravity experience you can also book our aerial hammock.\u00a0Let the vibrations hold you! Let the Stillness heal you!",
@@ -3163,7 +3261,7 @@
     "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Writing Non-Fiction",
-    "description": "Our editorial team shows you how to read like a writer and helps you build a toolkit of techniques and tricks from great works of literature to craft original stories.\u00a0",
+    "description": "\u201cThere is nothing to writing. All you do is sit down at a typewriter and bleed.\u201d\u2015\u00a0Ernest HemingwayCalling all Bangaloreans! Have you:Always wanted to share your writing in print, but didn\u2019t think it possible in 2025?Got the seed for a story but find yourself stuck or unable to write beyond a few lines?Been looking for a writing opportunity centred on all things Bangalore?\u00a0\u00a0\u00a0If you're passionate about the city\u2019s people, food, or culture, or have always dreamt of seeing your writing in print, the\u00a0Luru Magazine Writers\u2019 Circle\u00a0wants to hear from you!Led by Vidhi Doshi, Editor at\u00a0Luru Mag, the Writers\u2019 Circle provides a collaborative environment for you to enhance your writing skills, develop your ideas into working drafts, or simply dabble in the process of creative non-fiction writing.\u00a0Although you do not need to have a proposal or draft, it would help you to consider:What stories, events, or people in the city inspire youWhat genres of non-fiction writing (memoir, personal essay, review, etc.) you would like to exploreYour motivation(s) to write\u00a0\u00a0About the EventThe Writers\u2019 Circle is a 1.5 hour non-fiction writing workshop at Sabha Blr on Sunday afternoon.Through guided activities, breakout groups, and peer feedback, this workshop will help you explore your unique writing style and expand your creative & critical practice. Take home a fresh piece of writing that is entirely your own.\u00a015 spots only!What to BringPlease bring a notebook and pen/pencil.Don't Miss Out!The workshop is part of an action-packed weekend of events at Sabha Blr to celebrate the launch of our Issue 02: the Water Edit. There is yoga, workshops, live music, and talks -- some ticketed, some free.What's includedA 1.5 hour writing workshopWhat's notA writing device- please bring your ownWhere it isPhone :\u00a09702549096Address : Sabha Blr, Reading Nook. Arrive 5 minutes early so we can start on time.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/75A554545E144681A6FEB7AFD2567201_converted_webp.webp"
     ],
@@ -3181,10 +3279,10 @@
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
     "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "12+",
+    "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
-      "price": "1000.00",
+      "price": "1500.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -3200,6 +3298,253 @@
       }
     },
     "url": "https://urbanaut.app/spot/writing-non-fiction",
+    "keywords": [
+      "Workshop",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pigout x Blr Brewing Co - Marathahalli",
+    "description": "An Evening of Indulgence \u2014 PigOut x BLR Brewing Co\n\nJoin us for a thoughtfully curated culinary experience where indulgence meets craft. Chef Anjali Ganapathy brings its signature gourmet flair to BLR Brewing Co\u2019s elegant brews \u2014 expect elevated comfort food, bold flavors, and perfectly paired pours.\n\nSet against a relaxed yet stylish backdrop, this collaboration promises a memorable evening of fine bites, craft beers, and effortless\u00a0conversations.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EE240045F73841BCB1421C39873C1794_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1BBCA2E01017457C84EA6116797BE170_converted_webp.webp"
+    ],
+    "startDate": "2025-07-26T12:00:00+05:30",
+    "endDate": "2025-07-26T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Gravity at, Prestige Tech Park, Kadubeesanahalli, Bengaluru, Bellandur Amanikere, Karnataka 560103, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAbF6jicTrjsRZnQ5opIDQTk",
+      "latitude": "12.94417920000000000000",
+      "longitude": "77.69468850000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 300,
+    "remainingAttendeeCapacity": 300,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Blr Brewing Co",
+      "description": null,
+      "url": "https://urbanaut.app/partner/blrbrewingco",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EE1D6E5CB5104F0789534A6B6A318559_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/pigout-x-blr-brewing-co-7856#2025-07-26T1200",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pigout x Blr Brewing Co - Marathahalli",
+    "description": "An Evening of Indulgence \u2014 PigOut x BLR Brewing Co\n\nJoin us for a thoughtfully curated culinary experience where indulgence meets craft. Chef Anjali Ganapathy brings its signature gourmet flair to BLR Brewing Co\u2019s elegant brews \u2014 expect elevated comfort food, bold flavors, and perfectly paired pours.\n\nSet against a relaxed yet stylish backdrop, this collaboration promises a memorable evening of fine bites, craft beers, and effortless\u00a0conversations.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EE240045F73841BCB1421C39873C1794_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1BBCA2E01017457C84EA6116797BE170_converted_webp.webp"
+    ],
+    "startDate": "2025-07-27T12:00:00+05:30",
+    "endDate": "2025-07-27T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Gravity at, Prestige Tech Park, Kadubeesanahalli, Bengaluru, Bellandur Amanikere, Karnataka 560103, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJAbF6jicTrjsRZnQ5opIDQTk",
+      "latitude": "12.94417920000000000000",
+      "longitude": "77.69468850000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 300,
+    "remainingAttendeeCapacity": 300,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Blr Brewing Co",
+      "description": null,
+      "url": "https://urbanaut.app/partner/blrbrewingco",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EE1D6E5CB5104F0789534A6B6A318559_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/pigout-x-blr-brewing-co-7856#2025-07-27T1200",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pigout x Blr Brewing Co - HSR Layout",
+    "description": "An Evening of Indulgence \u2014 PigOut x BLR Brewing Co\n\nJoin us for a thoughtfully curated culinary experience where indulgence meets craft. Chef Anjali Ganapathy brings its signature gourmet flair to BLR Brewing Co\u2019s elegant brews \u2014 expect elevated comfort food, bold flavors, and perfectly paired pours.\n\nSet against a relaxed yet stylish backdrop, this collaboration promises a memorable evening of fine bites, craft beers, and effortless\u00a0conversations.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3B1D6EDC8EB84E4485C965795DE8F20B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3F92B9B9D059418995F411A99FA71FBE_converted_webp.webp"
+    ],
+    "startDate": "2025-07-26T12:00:00+05:30",
+    "endDate": "2025-07-26T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "450, 1st Floor, 17th Cross Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZ_7TSoAVrjsRsWSn2_kyLnI",
+      "latitude": "12.91230770000000000000",
+      "longitude": "77.64161260000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 300,
+    "remainingAttendeeCapacity": 300,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Blr Brewing Co",
+      "description": null,
+      "url": "https://urbanaut.app/partner/blrbrewingco",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EE1D6E5CB5104F0789534A6B6A318559_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/pigout-x-blr-brewing-co-7858#2025-07-26T1200",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pigout x Blr Brewing Co - HSR Layout",
+    "description": "An Evening of Indulgence \u2014 PigOut x BLR Brewing Co\n\nJoin us for a thoughtfully curated culinary experience where indulgence meets craft. Chef Anjali Ganapathy brings its signature gourmet flair to BLR Brewing Co\u2019s elegant brews \u2014 expect elevated comfort food, bold flavors, and perfectly paired pours.\n\nSet against a relaxed yet stylish backdrop, this collaboration promises a memorable evening of fine bites, craft beers, and effortless\u00a0conversations.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3B1D6EDC8EB84E4485C965795DE8F20B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3F92B9B9D059418995F411A99FA71FBE_converted_webp.webp"
+    ],
+    "startDate": "2025-07-27T12:00:00+05:30",
+    "endDate": "2025-07-27T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "450, 1st Floor, 17th Cross Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJZ_7TSoAVrjsRsWSn2_kyLnI",
+      "latitude": "12.91230770000000000000",
+      "longitude": "77.64161260000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 300,
+    "remainingAttendeeCapacity": 300,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Blr Brewing Co",
+      "description": null,
+      "url": "https://urbanaut.app/partner/blrbrewingco",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EE1D6E5CB5104F0789534A6B6A318559_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/pigout-x-blr-brewing-co-7858#2025-07-27T1200",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Telling Stories",
+    "description": "\u201cListen, and you will realize that we are made not from cells or from atoms. We are made from stories.\u201d Calling all Bangaloreans! Have you:Always wanted to tell engaging stories with wit and emotion?Got the seed for a story but find yourself stuck?Been looking for a writing opportunity centred on all things Bangalore?\u00a0\u00a0\u00a0If you're passionate about the city\u2019s people, food, or culture, or have always dreamt of seeing your writing in print, the\u00a0Luru Magazine Writers\u2019 Circle\u00a0wants to hear from you!Led by Vidhi Doshi, Editor at\u00a0Luru Mag, the Writers\u2019 Circle provides a collaborative environment for you to enhance your storytelling skills, develop your ideas or simply dabble in the process of telling fascinating stories. This workshop is all about narrating real or made-up stories, and the carpentry and tools that go into story construction.Although you do not need to have a proposal or draft, it would help you to consider:What stories, events, or people in the city inspire youWhat stories you love hearing, reading or watchingYour motivation(s) to write\u00a0\u00a0About the EventThe Writers\u2019 Circle is a 1.5 hour storytelling writing workshop at Sabha Blr on Sunday afternoon.Through guided activities, breakout groups, and peer feedback, this workshop will help you explore your unique writing style and expand your creative & critical practice. Take home a fresh piece of writing that is entirely your own.\u00a015 spots only!What to BringPlease bring a notebook and pen/pencil.Don't Miss Out!The workshop is part of an action-packed weekend of events at Sabha Blr to celebrate the launch of our Issue 02: the Water Edit. It's a day packed with yoga, workshops, live music, and talks -- some ticketed, some free.What's includedA 1.5 hour writing workshopWhat's notA writing device- please bring your own",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/75A554545E144681A6FEB7AFD2567201_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E63B414F106B439FB87E25CB7AE7F9A0_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9A1765B4027B4B54B11DD2B5168CDC88_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/44C0784E70DF4456BC81E1508B79DD36_converted_webp.webp"
+    ],
+    "startDate": "2025-07-26T14:30:00+05:30",
+    "endDate": "2025-07-26T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Luru Magazine",
+      "description": "For stories you hold, not scroll",
+      "url": "https://urbanaut.app/partner/lurumag",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CF9277AD8824429AB19642BCB0D6803_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-95357-35799"
+      }
+    },
+    "url": "https://urbanaut.app/spot/telling-stories",
     "keywords": [
       "Workshop",
       "URBANAUT"
