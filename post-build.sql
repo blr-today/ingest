@@ -282,15 +282,6 @@ WHERE
     OR event_json ->> '$.keywords' LIKE '%dj night%'
     OR event_json ->> '$.keywords' LIKE '%commercial music%'
     OR event_json ->> '$.keywords' LIKE '%karaoke night%'
-    OR event_json ->> '$.keywords' LIKE '%vro hospitality%'
-    OR event_json ->> '$.keywords' LIKE '%OIEPL%' -- Gold Rush Brews
-    -- Gaming Arcade ticket sales are not events
-    OR event_json ->> '$.keywords' LIKE '%The Grid - Gaming Arena%'
-    OR event_json ->> '$.keywords' LIKE '%The Grid-Bowling%'
-    -- Also The Grid
-    OR event_json ->> '$.organizer.name' LIKE 'hex entertainment llp'
-    -- SkyDeck gigs
-    OR event_json LIKE '%deck-gigs%'
   );
 
 
@@ -332,6 +323,8 @@ WHERE
     'indian school of business',
     -- Investment events
     'invest in the usa (iiusa)',
+     -- 🌟 India’s Premium Travel & Tourism Exhibition 🌟
+    'india international travel mart',
     -- Real Estate events
     'hj real estates',
     -- education consulting
@@ -374,7 +367,8 @@ WHERE
     -- Some silly workshops
     'institute of product leadership (adaptive marketing solutions pvt ltd)',
     -- Laser Hair Reduction sessions are not events
-    'reflection facethetics bengaluru'
+    'reflection facethetics bengaluru',
+    'seed global education'
 
   )
   OR (
@@ -390,6 +384,8 @@ WHERE
     OR url LIKE '%virtual-hackathon%'
     OR url LIKE '%founders-investors%'
     OR url LIKE '%property-expo%'
+    -- Allevents tags them as business events
+    OR event_json ->> '$.keywords' LIKE 'business event'
   );
 
 
@@ -548,6 +544,10 @@ WHERE
   OR event_json ->> '$.description' LIKE '%dj night%'
   -- Secret Story Indiranagar
   OR event_json ->> '$.description' LIKE '%ladies & models night%'
+  OR event_json ->> '$.name' LIKE '%ladies thursday%'
+  OR event_json ->> '$.description' LIKE '%bolly tech night%'
+  OR event_json ->> '$.description' LIKE '%wild west friday%'
+  OR event_json ->> '$.description' LIKE '%punjabi night%'
   OR event_json ->> '$.name' LIKE '%rock bottom monday%'
   OR event_json ->> '$.name' LIKE '%bollywood night%'
   OR event_json ->> '$.keywords' LIKE '%bollywood night%'
@@ -571,10 +571,18 @@ WHERE
   OR event_json ->> '$.organizer.name' LIKE 'vijay s (vnh events and entertainments)'
   OR event_json ->> '$.organizer.name' LIKE '%miami entertainment%'
   OR event_json ->> '$.organizer.name' LIKE '%sd events%'
+  OR event_json ->> '$.keywords' LIKE '%vro hospitality%'
+  OR event_json ->> '$.keywords' LIKE '%OIEPL%' -- Gold Rush Brews
+  -- Gaming Arcade ticket sales are not events
+  OR event_json ->> '$.keywords' LIKE '%The Grid - Gaming Arena%'
+  OR event_json ->> '$.keywords' LIKE '%The Grid-Bowling%'
+  OR event_json ->> '$.organizer.name' LIKE 'hex entertainment llp' -- Also The Grid
+  OR event_json LIKE '%deck-gigs%' -- SkyDeck gigs
   -- Stranger Meets
   OR event_json ->> '$.organizer.name' LIKE 'caridia official'
   OR url LIKE '%tuesday-lets-party%'
   OR url LIKE '%dinner-with-strangers%'
+  OR event_json->>'$.organizer.name' ='VOYAGIO' -- Urbanaut Stranger meets
 ;
 
 
