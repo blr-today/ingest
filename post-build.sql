@@ -364,6 +364,8 @@ WHERE
     'etg career labs private limited',
     -- https://allevents.in/org/startup-synerz/25263240
     'startup synerz',
+    -- https://startupparty.in/
+    'StartupParty',
     -- Some silly workshops
     'institute of product leadership (adaptive marketing solutions pvt ltd)',
     -- Laser Hair Reduction sessions are not events
@@ -374,6 +376,7 @@ WHERE
   OR (
     -- Hustle Business Venue in HSR
     event_json ->> '$.location' LIKE '%hustlehub%'
+    event_json ->> '$.location' LIKE '%karnataka trade promo%'
   )
   OR (
     -- Networking Meetups are BUSINESS events
@@ -386,6 +389,12 @@ WHERE
     OR url LIKE '%property-expo%'
     -- Allevents tags them as business events
     OR event_json ->> '$.keywords' LIKE 'business event'
+    -- https://www.skillboxes.com/events?tagId=VjMrZ01TaHJGcHdnZU9MV1RldVpQdz09
+    -- As well as District
+    OR event_json ->> '$.keywords' LIKE '%Conference%'
+    -- karnataka trade promotion organization 
+    -- https://ktpo.karnataka.gov.in/english
+    OR event_json ->> '$.keywords' LIKE '%KTPO%'
   );
 
 
