@@ -1,37 +1,5 @@
 [
   {
-    "name": "Basketball Session",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Wedneday-23-July",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Basketball",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Wedneday-23-July",
-    "image": "https://sistersinsweat.com/images/event/20250605144415636.jpeg",
-    "location": {
-      "name": "Basecamp by Push Sports",
-      "address": "Basecamp by Push Sports university campus, Palace Rd, Gandhi Nagar",
-      "type": "Place"
-    },
-    "startDate": "2025-07-23T19:00:00+05:30",
-    "endDate": "2025-07-23T20:00:00+05:30"
-  },
-  {
     "name": "Pickleball with the Sisters (GoRally x SIS)",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Event18",
@@ -479,6 +447,38 @@
     "endDate": "2025-07-29T21:30:00+05:30"
   },
   {
+    "name": "Basketball Session",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Wedneday-30-July",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Basketball",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Wedneday-30-July",
+    "image": "https://sistersinsweat.com/images/event/20250605144415636.jpeg",
+    "location": {
+      "name": "St. Joseph's Arts And Science College",
+      "address": "St. Joseph's Arts And Science College #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens",
+      "type": "Place"
+    },
+    "startDate": "2025-07-30T20:00:00+05:30",
+    "endDate": "2025-07-30T21:30:00+05:30"
+  },
+  {
     "name": "Pickleball with the Sisters - Play Only",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Piackleball-Combined-Thursday1",
@@ -573,6 +573,70 @@
     },
     "startDate": "2025-08-02T07:00:00+05:30",
     "endDate": "2025-08-02T08:30:00+05:30"
+  },
+  {
+    "name": "Flowletics - Rope Based Mobility Workout",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Rope-Beginner-Saturday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Rope",
+    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-Rope-Beginner-Saturday",
+    "image": "https://sistersinsweat.com/images/event/20250723160057031.jpeg",
+    "location": {
+      "name": "The Fit Ground",
+      "address": "The Fit Ground 4th floor, WJHH+HJ The Fit Ground, 147/I, 8th Main Rd, 3rd Block, Koramangala 3 Block, Koramangala",
+      "type": "Place"
+    },
+    "startDate": "2025-08-02T16:30:00+05:30",
+    "endDate": "2025-08-02T18:00:00+05:30"
+  },
+  {
+    "name": "SIS x Open House \u2013 Pinch & Coil Pottery for Moms, Clay Play for Kids!",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Pottery-Beginner-Saturday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Pottery",
+    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-Pottery-Beginner-Saturday",
+    "image": "https://sistersinsweat.com/images/event/20250723150814879.jpeg",
+    "location": {
+      "name": "Openhouse Indiranagar",
+      "address": "Openhouse Indiranagar Michael Palya, 872-F, Rd, HAL 2nd Stage, New Tippasandra",
+      "type": "Place"
+    },
+    "startDate": "2025-08-02T16:30:00+05:30",
+    "endDate": "2025-08-02T18:30:00+05:30"
   },
   {
     "name": "Yoga with Sisters & Misters",
