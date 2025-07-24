@@ -72,6 +72,41 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
+      "endDate": "2025-07-26T08:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Woodcut Printing Beginner's Workshop by Sakura Studio",
+      "sameAs": "https://underline.center/t/434",
+      "startDate": "2025-07-26T05:30:00.000Z",
+      "url": "https://www.district.in/woodcut-printing-beginners-workshop-by-studio-sakura-jul26-2025/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
       "endDate": "2025-07-26T12:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -138,6 +173,76 @@
       "sameAs": "https://underline.center/t/161",
       "startDate": "2025-07-26T12:30:00.000Z",
       "url": "https://forum.reroll.in/t/2201"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "ScreeningEvent",
+      "endDate": "2025-07-26T17:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Still Walking (2008) with The Parallel Cinema Club",
+      "sameAs": "https://underline.center/t/572",
+      "startDate": "2025-07-26T14:30:00.000Z",
+      "url": "https://district.in/screening-of-still-walking-2008-with-tpcc-jul26-2025/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2025-07-27T11:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Dungeons & Dragons and other TTRPGs",
+      "sameAs": "https://underline.center/t/87",
+      "startDate": "2025-07-27T06:30:00.000Z",
+      "url": "https://forum.reroll.in/t/dungeons-dragons-and-other-ttrpgs-sunday-13-july-underline-center-indiranagar/2621"
    },
    {
       "@context": "https://schema.org",
@@ -247,7 +352,7 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2025-08-02T16:30:00.000Z",
+      "endDate": "2025-07-30T16:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -274,10 +379,10 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Yes, And Dragons with Improv Lore",
-      "sameAs": "https://underline.center/t/551",
-      "startDate": "2025-08-02T14:30:00.000Z",
-      "url": "https://www.district.in/yes-and-dragons-with-improv-lore-aug2-2025/event"
+      "name": "Whimsical Wednesday with Improv Lore",
+      "sameAs": "https://underline.center/t/19",
+      "startDate": "2025-07-30T14:30:00.000Z",
+      "url": "https://www.district.in/whimsical-wednesday-with-improv-lore/event"
    },
    {
       "@context": "https://schema.org",
