@@ -1,6 +1,36 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "We’re Sama - The Calm Mind Studio, and we’re bringing you exclusive Pilates workshops this week - offering you the best of Mat & Wall ",
+      "endDate": "2025-07-26T17:15:00",
+      "identifier": "com.skillboxes.26321",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dkJEWXkxUnorT1FaaU5mL3N2NFl5dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/175333605635wZLVmvM4mvFbKg.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "Pilates Era by Sama: Sculpt, Stretch, Strengthen",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "You can bring in your buddy too - it's on us!\n",
+            "inventoryLevel": 10,
+            "name": "Pilates Pass",
+            "url": "https://www.skillboxes.com/events/ticket/pilates-era-by-sama-sculpt-stretch-strengthen"
+         }
+      ],
+      "startDate": "2025-07-26T16:15:00",
+      "url": "https://www.skillboxes.com/events/pilates-era-by-sama-sculpt-stretch-strengthen"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "🏎 LIGHTS OUT @ SOCIAL! 🇧🇪Get ready for adrenaline, speed, and screaming engines as the Belgian Grand Prix ",
       "endDate": "2025-07-27T21:00:00",
