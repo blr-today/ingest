@@ -1801,56 +1801,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Circular Rhythms",
-    "description": "\ud83c\udf00 Circular RhythmsA Soulful Hoop Flow Experience by Gowri MurthyIn celebration of the LURU 2nd Edition LaunchStep into the circle and reconnect with your body, breath, and flow.Circular Rhythms is a guided hula hoop session designed to awaken joy, creativity, and movement in every body \u2014 no prior experience required.Join us for a morning of rhythmic flow, mindful movement, and community energy.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2C9A3FC767CB463FBF7F5B23B360117B_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DFD10109535A4536B6257CA8A1AF7AF3_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3E22D86F1EC6456F89831C5DD5D81254_converted_webp.webp"
-    ],
-    "startDate": "2025-07-26T08:00:00+05:30",
-    "endDate": "2025-07-26T09:15:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Sabha, 262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
-      "latitude": "12.98348400000000000000",
-      "longitude": "77.61101699999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 26,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "999.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Gowri Murthy",
-      "description": null,
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/2E3DEB8CA86444439FF9710BE1481A60_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-74060-11791"
-      }
-    },
-    "url": "https://urbanaut.app/spot/circular-rhythms",
-    "keywords": [
-      "Music",
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Mend it with Matcha",
     "description": "A joyful morning filled with matcha, mending and scrumptious food.Step into the world of Japanese traditions with Mezame\u2019s Matcha + Workshops by Abhaa\u2019s Kintsugi Art Experience at The Kind, a serene 2 hour journey that blends the ceremonial art of matcha with the philosophy of kintsugi: the Japanese practice of repairing broken pottery with gold, embracing flaws and imperfections as part of your story.For two special mornings, the Mezame Matcha Club founders will take over The Kind\u2019s matcha bar, personally whisking and serving their signature ceremonial grade matcha to guests. Sip, chat and unwind amidst The Kind\u2019s calming, sunlit interiors as you ease into the beautiful and meditative art of kintsugi.Expect great matcha, a curated spread of The Kind\u2019s small plates and a takeaway piece that holds your own story- cracked, healed and beautiful.Whether you're here for the craft, the community or just a good cup of matcha \u2014 this one\u2019s made for you.",
@@ -3343,54 +3293,6 @@
       "Live GIG",
       "Music",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Muay Thai by C+C",
-    "description": "Muay Thai Circuit Training - Taster SessionGet ready to sweat, build strength and agility with this taster session - led by Vivek, a Muay Thai trainer with more than 10 years experience. The circuit training format mimics what Muay Thai fighters (also known as Thai kickboxing), including body weight strenght and conditioning, shadow boxing techniques, and you'll also get to try padwork (which can be very fun and cathartic).This event is free - RSVP to book your spot.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6440757B14DD494E8B1F4522C90491F8_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B674F7A9E68149A3B6A3CCBFF801BAC8_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/750FB9D4C8964DE099BAB807EF77F42E_converted_webp.webp"
-    ],
-    "startDate": "2025-07-26T10:15:00+05:30",
-    "endDate": "2025-07-26T11:15:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
-      "latitude": "12.98348400000000000000",
-      "longitude": "77.61101699999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 133,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Luru Magazine",
-      "description": "For stories you hold, not scroll",
-      "url": "https://urbanaut.app/partner/lurumag",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CF9277AD8824429AB19642BCB0D6803_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-95357-35799"
-      }
-    },
-    "url": "https://urbanaut.app/spot/muay-thai-by-cc",
-    "keywords": [
-      "Wellness",
       "URBANAUT"
     ]
   },
