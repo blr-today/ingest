@@ -185,6 +185,9 @@ out/paintbar.json:
 out/pedalintandem.json:
 	python src/pedalintandem.py || $(call restore-file,$@)
 
+out/sabha.json:
+	python src/sabha.py || $(call restore-file,$@)
+
 fetch: out/allevents.txt \
  out/highape.txt \
  out/bengalurusustainabilityforum.json \
@@ -226,7 +229,8 @@ fetch: out/allevents.txt \
  out/paintbar.json \
  out/artzo.txt \
  out/pedalintandem.json \
- out/cksl.json
+ out/cksl.json \
+ out/sabha.json
 	@echo "Done"
 
 clean:

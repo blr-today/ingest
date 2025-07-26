@@ -139,8 +139,11 @@ WHERE
     OR event_json ->> '$.url'  LIKE '%sound-bath%'
     OR event_json ->> '$.name' LIKE '%sound healing%'
     OR event_json ->> '$.description' LIKE '%sound healing%'
+    OR event_json ->> '$.description' LIKE '%pranic heal%'
+    OR event_json ->> '$.description' LIKE '%aurabliss%'
     OR event_json ->> '$.name' LIKE '%Breathwork%'
     OR event_json ->> '$.name' LIKE '%SoundBath%'
+    OR event_json ->> '$.name' LIKE '%ayurvedic workshop%'
     -- By tapping into your true voice, you have the ability to shift your reality
     OR event_json ->> '$.name' LIKE '%voice activation%'
     -- https://urbanaut.app/spot/akashic-records-workshop-june2025
@@ -442,6 +445,20 @@ SET
 WHERE
   lower(event_json ->> '$.name') LIKE '%live screening%'
   AND lower(event_json ->> '$.name') LIKE '%premier league%';
+
+
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.@type',
+    'ScreeningEvent'
+  )
+WHERE
+  
+  event_json ->> '$.name' LIKE '%movie under the stars%'
+  OR  event_json ->> '$.name' LIKE '%sunset cinema%'
+
 
 
 -- Do the same as above but use IPL team names

@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "location": {
+    "@type": "Place",
+    "name": "Sabha",
+    "isicV4": "9000",
+    "publicAccess": true,
+    "hasDriveThroughService": false,
+    "telephone": "+91-9845024823",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 12.983484,
+      "longitude": 77.611017
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "262, Kamaraj Road, Shivaji Nagar",
+      "addressLocality": "Bengaluru",
+      "postalCode": "560042",
+      "addressCountry": "India"
+    }
+  },
+  "keywords": ["SABHA"],
+  "organizer": {
+    "@type": "Organization",
+    "name": "Sabha",
+    "url": "https://www.sabhablr.in",
+    "isicV4": "9000"
+  },
+  "inLanguage": "en",
+  "eventStatus": "EventScheduled",
+  "eventAttendanceMode": "OfflineEventAttendanceMode"
+}

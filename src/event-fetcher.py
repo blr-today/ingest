@@ -62,7 +62,8 @@ EVENT_JSON_FILES = [
     "out/paintbar.json",
     "out/pedalintandem.json",
     "out/cksl.json",
-    "out/goethe.json"
+    "out/goethe.json",
+    "out/sabha.json"
 ]
 
 KNOWN_EVENT_TYPES = [
