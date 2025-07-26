@@ -1511,54 +1511,6 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Saturday Concerts",
-    "description": "Where music meets mixology, and every sip has a soundtrack.\nWelcome to Saturday Concerts at Hamilton \u2014 a curated blend of live performances, artisanal drinks, and moody, after-dark ambience.\nFrom smooth acoustics to electric sets, experience a night where every note pairs perfectly with your pour.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4A94A132AB3041C7A65B1317D02156D0_converted_webp.webp"
-    ],
-    "startDate": "2025-07-26T20:00:00+05:30",
-    "endDate": "2025-07-26T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVTeAtXkRrjsRPyAJzdxl0HA",
-      "latitude": "12.98209230000000000000",
-      "longitude": "77.70862830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 200,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Hamilton",
-      "description": null,
-      "url": "https://urbanaut.app/partner/hamilton",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CED7A4CC2AA4EC9BD02E06C4F0731E7_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-63620-01931"
-      }
-    },
-    "url": "https://urbanaut.app/spot/saturday-concerts",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
     "name": "Sufi Soiree",
     "description": "Lose yourself in a night of mystic melodies, heartfelt lyrics, and soulful storytelling at Hamilton \u2013 Bengaluru\u2019s intimate hideaway for craft cocktails and deep vibes.\r\nJoin us for Sufi Nights, where timeless tunes meet modern mixology in a warm, candlelit setting that stirs the spirit and soothes\u00a0the\u00a0soul.",
     "image": [
@@ -2642,7 +2594,7 @@
       "image": "https://d10y46cwh6y6x1.cloudfront.netimages/7419528ABECA4D1EA3316215484F5B6A_converted_webp.webp",
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": null
+        "telephone": "+91-99808-22062"
       }
     },
     "url": "https://urbanaut.app/spot/poetry-of-place-luru-sabha",
@@ -2947,103 +2899,6 @@
     "keywords": [
       "Leisure",
       "Wellness",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Still Walking (2008) with The Parallel Cinema Club",
-    "description": "About the EventOur meetings consist of a screening of an arthouse film, followed by a discussion. The discussion is led by one of our members or sometimes a guest speaker and encourages members to share their thoughts and interpretations of the film.Who are The Parallel Cinema Club?We are a community-run film society based out of Bengaluru and Hyderabad. We are a group of film enthusiasts who meet up to discuss the real world, auteurs, and themes, and occasionally host guest lectures.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CF0D6734E16A4C51BBFA2EB5E4370CD8_converted_webp.webp"
-    ],
-    "startDate": "2025-07-26T20:00:00+05:30",
-    "endDate": "2025-07-26T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
-      "latitude": "12.96722140000000000000",
-      "longitude": "77.63669820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "We're a community center for thoughtful, kind, and interesting events.",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97905-32594"
-      }
-    },
-    "url": "https://urbanaut.app/spot/still-walking-2008-with-the-parallel-cinema-club",
-    "keywords": [
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Community Catch up @ Zoeys",
-    "description": "From familiar faces to new friends, join our community catch-up over great food and better stories at Zoeys!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DA9213147CB046B29C406DD29FCBD400_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CDE8058B41204C97A87B6219E09BCE2B_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5FB02576719F4149AC378BCAAB4579D0_converted_webp.webp"
-    ],
-    "startDate": "2025-07-26T19:30:00+05:30",
-    "endDate": "2025-07-26T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Ground Floor, 52 5th cross, 60 Feet Rd, KHB Colony, 6th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJGaLo-dwVrjsRxjGx4jbrlAU",
-      "latitude": "12.93607460000000000000",
-      "longitude": "77.62166599999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "800.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Zoeys Good Vibes Only",
-      "description": null,
-      "url": "https://urbanaut.app/partner/zoeys-goodvibesonly",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/AA290DB357D041B5A41A041F740BF2D9_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-96639-01374"
-      }
-    },
-    "url": "https://urbanaut.app/spot/community-catchup",
-    "keywords": [
-      "Leisure",
-      "Local",
       "Food & drink",
       "URBANAUT"
     ]
