@@ -779,9 +779,10 @@ WHERE
     OR event_json ->> '$.location' LIKE '%church st%'
     OR event_json ->> '$.location' LIKE '%lavelle road%'
     OR event_json ->> '$.location' LIKE '%lavelle rd%'
-    OR event_json ->> '$.location' LIKE '%Museum Road%'
-    OR event_json ->> '$.location' LIKE '%Museum rd%'
-    OR event_json ->> '$.location' LIKE '%Ashok Nagar%'
+    OR event_json ->> '$.location' LIKE '%museum road%'
+    OR event_json ->> '$.location' LIKE '%museum rd%'
+    OR event_json ->> '$.location' LIKE '%ashok nagar%'
+    OR event_json ->> '$.location' LIKE '%shivaji nagar%'
   );
 
 
