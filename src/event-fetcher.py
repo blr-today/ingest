@@ -99,10 +99,11 @@ URL_FILES = [
     "out/creativemornings.txt",
     "out/koota.txt",
     "out/pumarun.txt",
-    "out/artzo.txt"
+    "out/artzo.txt",
+    "out/townscript.txt"
 ]
 
-IGNORED_EVENT_UIDS = ["60749-1718409600-1722470399@bangaloreinternationalcentre.org"]
+IGNORED_EVENT_UIDS = []
 
 
 """
@@ -250,7 +251,6 @@ def get_events(s, filt):
         if filt and i != filt:
             continue
         with open(i, "r") as f:
-
             start_ts = time.time()
             patch = get_patch(i)
             urls = f.readlines()
@@ -370,6 +370,7 @@ if __name__ == "__main__":
     conn = sqlite3.connect("events.db")
     i = 0
     for url, d in get_events(session, f):
+        print(d)
         insert_event_json(conn, url, d)
         i += 1
         if i % 10 == 0:

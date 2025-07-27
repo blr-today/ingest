@@ -17,6 +17,7 @@ event_type_mapper = {
     "Event": "Event",
     "Walkthrough": "EducationEvent",
     "Studio Visit": "EducationEvent",
+    'Artist Talk': "EducationEvent",
 }
 
 session = get_cached_session()
@@ -75,8 +76,8 @@ def parse_timestamp(timestamp: str):
 
 def get_location_url(str, venue):
     # assume str contains a a tag, get the href
-    matches = re.search(r'href=[\'"]?([^\'" >]+)', str).group(1)
-    if matches:
+    matches = re.search(r'href=[\'"]?([^\'" >]+)', str)
+    if matches and matches.group(1):
         return matches
     else:
         # search on google maps for venue (urlencode it)
@@ -95,19 +96,22 @@ def make_event(e, ts):
         "name": e["name"].replace("<br>", " ").strip(),
         "location": {
             "@type": "Place",
-            "name": e["venue"],
-            "address": e["venue"] + ", Bangalore",
-            "url": get_location_url(e["location"], e["venue"]),
+            "name": e["venue"] + ", Science Gallery",
+            "address": "Science Gallery, Bangalore",
+            # "url": get_location_url(e["location"], e["venue"]),
         },
         "startDate": ts.isoformat(),
         "endDate": endDate.isoformat(),
         "description": e["blurb"],
         "url": "https://sci560.scigalleryblr.org/programmes?"
-        + urlencode({"p": e["uid"]}),
-        "performer": [
-            {"@type": get_performer_type(expert), "name": expert.strip()}
-            for expert in experts
-        ],
+        + urlencode({"p": e["slug"]}),
+        # Person currently points to https://calorie-56dab-default-rtdb.asia-southeast1.firebasedatabase.app/calorie/en/experts.json
+        # So it is just ids instead of names
+        # "performer": [
+        #     {"@type": get_performer_type(expert), "name": expert.strip()}
+        #     for expert in experts
+        #     if expert.strip() != ""
+        # ],
         "maximumAttendeeCapacity": e["capacity"],
     }
 
@@ -117,7 +121,7 @@ def filter_data(data):
     events = []
     for p in data:
         ts = parse_timestamp(p["timestamp"])
-        if ts > current_time:
+        if ts > current_time and p["hide"] == "true":
             events.append(make_event(p, ts))
 
     return events
@@ -125,8 +129,8 @@ def filter_data(data):
 
 def main():
     data = session.get(
-        "https://sci560-default-rtdb.firebaseio.com/en/1OR9HC9TgswvCnTgg6tC5pCVIjoc5vV6YlzOe5ijaAzM/programmes.json"
-    ).json()
+        "https://calorie-56dab-default-rtdb.asia-southeast1.firebasedatabase.app/calorie/en/programmes.json"
+    ).json().values()
     with open("out/scigalleryblr.json", "w") as f:
         json.dump(filter_data(data), f, indent=2)
 

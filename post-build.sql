@@ -92,6 +92,13 @@ WHERE
   OR event_json ->> '$.organizer.name' = 'HighTable'
   -- Stranger food meets rated 2.8
   OR event_json ->> '$.organizer.name' = 'Bento Bento'
+  -- Singles Mixers
+  OR event_json ->> '$.organizer.name' = 'Lobster Search'
+  -- Low-quality Bangalore events or trips to outside BLR
+  -- https://urbanaut.app/about-travel-trip-tourist
+  OR event_json ->> '$.organizer.name' = 'Travel Trip Tourist'
+  -- Coworking is not events.
+  OR event_json ->> 'name' LIKE '%Co-Working%'
   -- Advertisement for Rage Room Indiranagar
   OR url LIKE '%rage-room%';
 
@@ -368,12 +375,13 @@ WHERE
     -- https://allevents.in/org/startup-synerz/25263240
     'startup synerz',
     -- https://startupparty.in/
-    'StartupParty',
+    'startupparty',
     -- Some silly workshops
     'institute of product leadership (adaptive marketing solutions pvt ltd)',
     -- Laser Hair Reduction sessions are not events
     'reflection facethetics bengaluru',
-    'seed global education'
+    'seed global education',
+    'etg career labs private limited'
 
   )
   OR (
@@ -634,6 +642,17 @@ WHERE
   url LIKE '%thrifty-x-%'
   OR event_json ->> '$.organizer.name' LIKE '%Event Navigator%'
   OR event_json ->> '$.organizer.name' LIKE '%Bubblegum Circle%';
+
+UPDATE events SET 
+  event_json = json_replace(
+    event_json,
+    '$.@type',
+    'LiteraryEvent'
+  )
+WHERE
+  event_json ->> '$.name' LIKE '%dialogues with books%'
+  OR event_json ->> '$.name' LIKE '%Broke Bibliophiles%';
+
 
 
 -- I host Puzzled Pint BLR, and it is a 100% certified quality event.
