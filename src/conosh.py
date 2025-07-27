@@ -122,8 +122,6 @@ def parse_event_page(event_url):
                 event_date = dateutil.parser.parse(f"{date_str} {event_time}").replace(tzinfo=IST)
             
             event = {
-                "@context": "https://schema.org",
-                "@type": "FoodEvent",
                 "name": title,
                 "url": event_url,
                 "startDate": event_date.isoformat(),
