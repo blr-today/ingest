@@ -1376,5 +1376,162 @@
       "Leisure",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Italia x Noble Roots (Bar Takeover)",
+    "description": "You're Invited An Evening of Botanical Cocktails & Global FlavourWe're thrilled to invite you to an exclusive Bar Takeover with Tony Pescatori \u2013 international mixologist, flavour specialist, and the creative force behind Noble Roots, Belgrade.This one-night-only experience brings Tony\u2019s signature cocktail artistry to Bangalore \u2013 think hyperlocal ingredients, foraged botanicals, and drinks that tell stories from across the world.A globetrotting mixologist and flavor specialist, Tony brings with him a bold new wave of sustainable cocktail culture. With roots in a small Italian village and a journey that has spanned over 40 countries. Formerly the Bar Manager at Nightjar London \u2013 a fixture on the World\u2019s 50 Best Bars list \u2013 Tony now helms Noble Roots in Belgrade.Expect an immersive evening of thoughtfully crafted cocktails, curated hospitality, and conversations over exceptional drinks.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2C0BEFCABA564889A0ED2CA8F224FD3B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D1297E6D0CEB4A22AE4F7E2DC85DC4DE_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/90B819B54CB94827A201BD81C9EE19AE_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/544C6E1AE93842BEAF3BD56BFAB66E01_converted_webp.webp"
+    ],
+    "startDate": "2025-08-08T20:00:00+05:30",
+    "endDate": "2025-08-08T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "The Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Ashok Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJW8yOqZwWrjsR2Uy7MByZoCs",
+      "latitude": "12.97403740000000000000",
+      "longitude": "77.61931040000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "THE Park Bangalore",
+      "description": "**Here\u2019s a condensed version of the text:**  THE Park, Bangalore is a luxury boutique hotel with 109 rooms. It offers various dining options like Monsoon (seasonal Indian cuisine), Aqua (poolside dining and tequila bar), Tap Room (craft beer), and I-Bar (cocktail lounge and nightclub).",
+      "url": null,
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/449DE05ECDF145459E37C3C09EA7AC70_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-76250-34760"
+      }
+    },
+    "url": "https://urbanaut.app/spot/italia-x-noble-roots-bar-takeover",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Pint Sized Insights - August Edition",
+    "description": "This is the August Edition of the monthly Pint Sized Insights community meet-up",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/59C69301056C4D5E85D02BC1CA839FB1_converted_webp.webp"
+    ],
+    "startDate": "2025-08-03T15:00:00+05:30",
+    "endDate": "2025-08-03T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "32, Annaswamy Mudaliar Rd, Ulsoor, Hermit Colony, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJIXWsCY4WrjsR74tXL5mbQ7Y",
+      "latitude": "12.98499070000000000000",
+      "longitude": "77.61839379999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pint Sized Insights",
+      "description": "A community for smart, thoughtful and kind people to come together and share diverse ideas, 20 minutes at a time",
+      "url": "https://urbanaut.app/partner/psi",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/16DB26CB5F2840DDA575D556DA114FEE_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-81974-11464"
+      }
+    },
+    "url": "https://urbanaut.app/spot/pint-sized-insights-august-edition",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Private Guided Tour of the Automotive Wonders!",
+    "description": "For a limited group of individuals, we will open out a treasure trove hidden in Bangalore!\u00a0You will get to experience the restoration, preservation & collection of Historic Cars, Motorcycles, Carriages and all things automotive passionately built over the past 40 years!\u00a0",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/267EFB8AA9F0450AA883399664650B2A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/ddldkdewgn-1712995585619img97062jpg.JPG",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9D75D481AC624715B37180C9F98B7B0D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/xvx9k6vd6n-1712995612324img97352jpg.JPG",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/rbdhsgdiid-1714284143709img2423jpg.JPG",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1vhetrg7al-1712995643033img97732jpg.JPG",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gdwlreb8bs-1712998591373img9525jpg.JPG",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DEAB942307E34AE996FAF649846D11F6_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/i2fdwqdodz-1712995836589img9671jpg.JPG",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D399EA9235B84674BD6A22607E7AC520_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A5E35C74C4F549DC9893D92E77701063_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gjvd4xvgdd-1712998850818img9797jpg.JPG"
+    ],
+    "startDate": "2025-08-09T09:30:00+05:30",
+    "endDate": "2025-08-09T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Rajarajeshwari Nagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJz5ILsP8-rjsR5pwHymp-1i0",
+      "latitude": "12.91486030000000000000",
+      "longitude": "77.52063950000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Classic Chase",
+      "description": "Immerse yourself in an era gone by...",
+      "url": "https://urbanaut.app/partner/classicchase",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/tbldsoggmx-1712814161108classicchaselogojpg.jpg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98809-00009"
+      }
+    },
+    "url": "https://urbanaut.app/spot/private-guided-tour-of-the-automotive-wonders-of-the-world-7938",
+    "keywords": [
+      "Premium",
+      "Walking Tour",
+      "History & heritage",
+      "Guided tour",
+      "Art & culture",
+      "URBANAUT"
+    ]
   }
 ]
