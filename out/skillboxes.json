@@ -2,6 +2,49 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Got a single friend who deserves the spotlight? It’s time to Pitch-Your-Friend! 💘Bring your funniest, cutest, most dateable friends",
+      "endDate": "2025-08-09T20:00:00",
+      "identifier": "com.skillboxes.26447",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MW5jSGpWM2tGZ1NuMnNuSmJId1RMdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753675457fVu6dV6F5X7f6nbH.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Social Gathering/ Game"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Building No 38/1, Ground & 1st Floor, Vittal Mallya Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9708561",
+            "longitude": "77.5988595"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Pitch-Your-Friend - A BlrGrooveCo Event",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "For those who want to attend the event but aren’t pitching or being pitched.\n",
+            "inventoryLevel": 9,
+            "name": "Guest Entry",
+            "url": "https://www.skillboxes.com/events/ticket/pitch-your-friend-a-blrgrooveco-event"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "For you and the friend you’re pitching only (2 people).\nIf someone else is also pitching the same friend, they need to buy additional ticket.",
+            "inventoryLevel": 50,
+            "name": "Pitch Pair Entry",
+            "url": "https://www.skillboxes.com/events/ticket/pitch-your-friend-a-blrgrooveco-event"
+         }
+      ],
+      "startDate": "2025-08-09T16:30:00",
+      "url": "https://www.skillboxes.com/events/pitch-your-friend-a-blrgrooveco-event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "KITTENPOP brings its signature experience — Be Limitless — to Bangalore this 8th August, Friday at Indiranagar Social, as part of its",
       "endDate": "2025-08-08T00:30:00",
       "identifier": "com.skillboxes.26445",
@@ -270,6 +313,57 @@
       ],
       "startDate": "2025-08-02T20:00:00",
       "url": "https://www.skillboxes.com/events/pangeo-turns-2-ft-almost-human"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "🎬 Tollywood Night at White Lotus\nBengaluru, are you ready for a night straight out of a blockbuster? 💥\nWe’re turning up ",
+      "endDate": "2025-08-16T23:59:00",
+      "identifier": "com.skillboxes.26381",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/WUFBdEpLNUhQZTlkbkNUNGZWd0xKQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753444152CUA1Y4OxMVrIPBiI.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9151581",
+            "longitude": "77.6664719"
+         },
+         "name": "White Lotus Club Bengaluru"
+      },
+      "name": "Tollywood Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Club rules applied\nThis ticket is only for entry",
+            "inventoryLevel": 100,
+            "name": "Early Bird Mass Raja (male)",
+            "url": "https://www.skillboxes.com/events/ticket/tollywood-night"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Club rules applied\nThis ticket is only for entry",
+            "inventoryLevel": 100,
+            "name": "Tollywood Queen Pass  (female)",
+            "url": "https://www.skillboxes.com/events/ticket/tollywood-night"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Club rules applied\nThis ticket is only for entry",
+            "inventoryLevel": 100,
+            "name": "Jodi No. 1 Pass ( couple)",
+            "url": "https://www.skillboxes.com/events/ticket/tollywood-night"
+         }
+      ],
+      "startDate": "2025-08-16T19:00:00",
+      "url": "https://www.skillboxes.com/events/tollywood-night"
    },
    {
       "@context": "https://schema.org",
@@ -564,7 +658,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Your ticket includes 3 hours of live dj music and dancing + breakfast bites + brand partners samples\nWear comfortable clothing you can move and groove in",
-            "inventoryLevel": 97,
+            "inventoryLevel": 96,
             "name": "Your Sunday Morning Fixx",
             "url": "https://www.skillboxes.com/events/ticket/the-sunday-morning-fixx-rise-shine-koramangala"
          }
@@ -680,16 +774,24 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable post 9PM. Club rules applicable.\n",
-            "inventoryLevel": 499,
+            "inventoryLevel": 497,
             "name": "Ladies Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/once-upon-a-time-in-bangalore-launch-party-ft-answer"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charges applicable for 9PM. Club rules applicable.\n",
-            "inventoryLevel": 294,
+            "description": "Cover charges mandatory post 9PM. Club rules applicable.\n",
+            "inventoryLevel": 292,
             "name": "Couple Guestlist",
+            "url": "https://www.skillboxes.com/events/ticket/once-upon-a-time-in-bangalore-launch-party-ft-answer"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges mandatory at venue post 9PM. Club rules applicable\n",
+            "inventoryLevel": 500,
+            "name": "Male Guestlist",
             "url": "https://www.skillboxes.com/events/ticket/once-upon-a-time-in-bangalore-launch-party-ft-answer"
          }
       ],
@@ -1913,7 +2015,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Short Film Night | 20/06/2025\nYou can also Register for ALT EFF Voices.",
-            "inventoryLevel": 100,
+            "inventoryLevel": 99,
             "name": "One Time Ticket",
             "url": "https://www.skillboxes.com/events/ticket/tickets-membership-bengaluru-22nd-august"
          },

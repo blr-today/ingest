@@ -1330,5 +1330,51 @@
       "Wellness",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Friendship Day Playdate",
+    "description": "The LooRoo Club and The Kind are teaming up to bring a little Friendship Day magic - the kind made from giggles, glue and good friends. ",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5C68D17194274AAAA1F5B1B8DBFFD09C_converted_webp.webp"
+    ],
+    "startDate": "2025-08-02T10:30:00+05:30",
+    "endDate": "2025-08-02T11:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2985, 12th Main Rd, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJww_JxmYXrjsRZZYQJuGoUMo",
+      "latitude": "12.97010710000000000000",
+      "longitude": "77.64473070000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The LooRoo Club",
+      "description": "The LooRoo Club (TLC) is a little world of big adventures. We create playful, nature-inspired experiences for kids - where stories come alive, curiosity runs wild, and messy hands mean happy hearts.",
+      "url": "https://urbanaut.app/partner/theloorooclub",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/bd4udfjhds-1711471103028page02jpg.JPG",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98865-01704"
+      }
+    },
+    "url": "https://urbanaut.app/spot/friendship-day-playdate",
+    "keywords": [
+      "Leisure",
+      "URBANAUT"
+    ]
   }
 ]
