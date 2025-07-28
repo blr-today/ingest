@@ -1533,5 +1533,53 @@
       "Art & culture",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Zine-Making Workshop: Stories of Freedom",
+    "description": "\u200bWhat is freedom, if not the courage to tell your own story?\u200bCome sit with us, and put your truth on paper. In this workshop, you will create a\u00a0perzine\u00a0\u2014 a personal, handmade magazine filled with your memories, dreams, and reflections.\u200bA perzine is a place where your voice can live freely, in words, images, and art \u2014 a diary and a storybook, all your ownNo experience is needed \u2014 only your curiosity and heart.\u200bAll materials will be provided.Come write your freedom, page by page.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A4F00FE306E04DD795E7C393D386389F_converted_webp.webp"
+    ],
+    "startDate": "2025-08-10T12:00:00+05:30",
+    "endDate": "2025-08-10T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No 103, 5th main, MCHS layout, Jakkuru, Bengaluru, Karnataka 560064, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVcZMF3AZrjsRVeNQY3E3pLQ",
+      "latitude": "13.07491860000000000000",
+      "longitude": "77.60558999999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Drawing Room",
+      "description": "Welcome to The Drawing Room, a delightful gathering of art lovers, travel enthusiasts and wellness seekers. Here, we share experiences and embark on journeys together.",
+      "url": "https://urbanaut.app/partner/thedrawingroom",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/3AB69D423A3741E4B6FEF64317072F8B_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99530-33790"
+      }
+    },
+    "url": "https://urbanaut.app/spot/zine-making-workshop",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
   }
 ]
