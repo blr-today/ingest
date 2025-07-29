@@ -1,6 +1,75 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "Explore Inversion Moves with usExpert Series at Sama: The Calm Mind StudioJoin us for a 1-hour guided journey into inversions — exploring streng",
+      "endDate": "2025-08-03T11:00:00",
+      "identifier": "com.skillboxes.26572",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dkJEWXkxUnorT1FaaU5mL3N2NFl5dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753803782SkGpg764NZD2KkKT.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "",
+            "longitude": ""
+         },
+         "name": "To Be Decided"
+      },
+      "name": "Inversions : Balance, Trust & Perspective",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10,
+            "name": "WORKSHOP PASS FOR 1",
+            "url": "https://www.skillboxes.com/events/ticket/inversions-balance-trust-perspective"
+         }
+      ],
+      "startDate": "2025-08-03T10:00:00",
+      "url": "https://www.skillboxes.com/events/inversions-balance-trust-perspective"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Nightfall at the Burrow 🌒\nAstralworx is back with another deep diving session - this time with Oddible & Clover on deck. Expect heavy ",
+      "endDate": "2025-08-01T23:59:00",
+      "identifier": "com.skillboxes.26564",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SFpqYStzZHV0bDI1a1JQRXFvWWk4UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753796149x1O23oFnVreyYW24.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9849438",
+            "longitude": "77.5808105"
+         },
+         "name": "The Burrow"
+      },
+      "name": "THE BURROW & ASTRALWORX PRESENT - ODDIBLE & CLOVER",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 9:30pm\n",
+            "inventoryLevel": 499,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/the-burrow-astralworx-present-oddible-clover"
+         }
+      ],
+      "startDate": "2025-08-01T21:00:00",
+      "url": "https://www.skillboxes.com/events/the-burrow-astralworx-present-oddible-clover"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "Event",
       "description": "BANGALORE ⚠ IT’S YOUR TURN.The final stop of the LMAJOR (UK) India tour lands at Indiranagar Social this Saturday, 9th August as AMNAP Rec",
       "endDate": "2025-08-09T23:59:00",
@@ -102,7 +171,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "(Cover charge applicable after 9:30PM)\n",
-            "inventoryLevel": 247,
+            "inventoryLevel": 228,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/sub-science-ft-benkii-c4ge-big-trouble-takezo"
          }
@@ -113,11 +182,11 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "This Friday, we open a powerful new chapter.⁠ECLIPSE x PUMPROOM x BANGALORE TECHNO COMMUNITYAs we unravel Chapter 2, we’re thrilled to ann",
+      "description": "This Friday, Eclipse begins a brand new chapter — now in deep alignment with the Pumproom and the Bangalore Techno Community (BTC). Togethe",
       "endDate": "2025-08-01T23:59:00",
       "identifier": "com.skillboxes.26517",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dnh6YWlDWUJtczBqUkErdUFoUUpyZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753719700U1elpSfhK8lzOHl1.jpg.webp",
-      "isAccessibleForFree": true,
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/dnh6YWlDWUJtczBqUkErdUFoUUpyZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753809411WqEPBfb4Vd933N52.jpg.webp",
+      "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -131,130 +200,32 @@
          },
          "name": "Lumara Bar & Kitchen"
       },
-      "name": "Eclipse feat. AADAT, TECHINVEIN and JASON FRANCIS",
+      "name": "Eclipse feat. Ezequiel Arias, Techinvein & Jason Francis",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
             "inventoryLevel": 500,
-            "name": "RSVP",
+            "name": "Single Lady",
+            "url": "https://www.skillboxes.com/events/ticket/eclipse-feat-aadat-techinvein-and-jason-francis"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 500,
+            "name": "Couple Entry [Man/Woman]",
+            "url": "https://www.skillboxes.com/events/ticket/eclipse-feat-aadat-techinvein-and-jason-francis"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 499,
+            "name": "Single Stag",
             "url": "https://www.skillboxes.com/events/ticket/eclipse-feat-aadat-techinvein-and-jason-francis"
          }
       ],
       "startDate": "2025-08-01T20:00:00",
       "url": "https://www.skillboxes.com/events/eclipse-feat-aadat-techinvein-and-jason-francis"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "(Official\nWebsite)➽➽ https://glycobalance-au.com/\n\n\nIt\nis promoted as a safer and more economical alternative to&#10",
-      "endDate": "2025-07-30T22:41:00",
-      "identifier": "com.skillboxes.26514",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SkxQTW9JNGFlYlpIMEZmaVViZFcyQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753718881MaHCHB8PaKDLv7Wm.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Open Air Music Festivals"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "",
-            "longitude": ""
-         },
-         "name": "To Be Decided"
-      },
-      "name": "Natural Blood Sugar Support: GlycoBalance Chemist Warehouse Official Website",
-      "offers": [ ],
-      "startDate": "2025-07-30T22:11:00",
-      "url": "https://www.skillboxes.com/events/natural-blood-sugar-support-glycobalance-chemist-warehouse-official-website"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "➽➽\n(Official\nWebsite) → https://arthromdcream.net/\n\n\nThe\nArthroMD+ Cream is a topical formulation purposef",
-      "endDate": "2025-07-30T23:10:00",
-      "identifier": "com.skillboxes.26513",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SkxQTW9JNGFlYlpIMEZmaVViZFcyQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753717218uqCictyAjmf56TiI.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "",
-            "longitude": ""
-         },
-         "name": "To Be Decided"
-      },
-      "name": "ArthroMD+ Cream Official Website - A Comprehensive Guide To Its Benefits And Sale",
-      "offers": [ ],
-      "startDate": "2025-07-30T18:10:00",
-      "url": "https://www.skillboxes.com/events/arthromd-cream-official-website-a-comprehensive-guide-to-its-benefits-and-sale"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Get ready to own your Wednesday night!Join us this Wednesday, at Skydeck by Sherlock's for a spectacular LIVE band performance!We're bringing you the ",
-      "endDate": "2025-07-30T23:59:00",
-      "identifier": "com.skillboxes.26508",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753713797OW0xzAyOWvTUBGBz.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750296",
-            "longitude": "77.6075339"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "Deck Gigs - A Night Of LIVE Music",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/deck-gigs-a-night-of-live-music"
-         }
-      ],
-      "startDate": "2025-07-30T20:00:00",
-      "url": "https://www.skillboxes.com/events/deck-gigs-a-night-of-live-music"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "SeroBurn: A Comprehensive Guide to the\nDual-Action Weight Management Supplement\n\nSeroBurn\nrepresents a new approach to weight manageme",
-      "endDate": "2025-07-31T23:22:00",
-      "identifier": "com.skillboxes.26480",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmFZTlFPRHFpU3kzWTlpSGF4aFA3QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753700072RbxMqwKmrmziOzXb.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "",
-            "longitude": ""
-         },
-         "name": "To Be Decided"
-      },
-      "name": "SeroBurn",
-      "offers": [ ],
-      "startDate": "2025-07-31T18:22:00",
-      "url": "https://www.skillboxes.com/events/seroburn-1"
    },
    {
       "@context": "https://schema.org",
@@ -694,7 +665,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 98,
+            "inventoryLevel": 97,
             "name": "Guestlist-Couple",
             "url": "https://www.skillboxes.com/events/ticket/pangeo-turns-2-ft-almost-human"
          },
@@ -1221,7 +1192,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges will be applied 9 PM onwards.\nClub Rules Apply.",
-            "inventoryLevel": 348,
+            "inventoryLevel": 344,
             "name": "Wild Pour X Beetles & Bass Presents The Bubble",
             "url": "https://www.skillboxes.com/events/ticket/wild-pour-x-beetles-bass-presents-the-bubble-b2b-edition"
          }
@@ -1529,7 +1500,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 998,
+            "inventoryLevel": 995,
             "name": "Early Bird Ticket (Female)",
             "url": "https://www.skillboxes.com/events/ticket/ink-ivory-a-black-white-affair"
          },
@@ -1725,7 +1696,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows a single person  Spots are occupied on a first-come, first-serve basis  Full ticket cost applies to kids above 6yrs\n",
-            "inventoryLevel": 15,
+            "inventoryLevel": 12,
             "name": "Standing Zone - Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/sooraj-santhosh-live-in-concert-bengaluru"
          }
@@ -1760,7 +1731,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "INR 500 mandatory covers are applicable and payable at the gates. Collect your wrist band from the gate\n8 pm we start",
-            "inventoryLevel": 27,
+            "inventoryLevel": 22,
             "name": "Early Bird Tickets",
             "url": "https://www.skillboxes.com/events/ticket/raw-real-ep-6"
          }
@@ -2007,7 +1978,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 181,
+            "inventoryLevel": 179,
             "name": "Chapters Band: South Meets Rock",
             "url": "https://www.skillboxes.com/events/ticket/chapters-band-south-meets-rock-1"
          }
@@ -2120,20 +2091,20 @@
       ],
       "location": {
          "@type": "Place",
-         "address": "Devarabisanahalli Rd, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",
+         "address": "4th B Cross, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "12.9299061",
-            "longitude": "77.6855536"
+            "latitude": "12.9335026",
+            "longitude": "77.6142566"
          },
-         "name": "Biergarten Bellandur"
+         "name": "Biergarten Brewery & Kitchen"
       },
       "name": "Kommune Open Mic at Biergarten",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 20,
+            "inventoryLevel": 18,
             "name": "Performer Ticket",
             "url": "https://www.skillboxes.com/events/ticket/kommune-open-mic-at-biergarten"
          },
@@ -2175,7 +2146,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory additional INR 1000 cover charge applicable at the gates.\n",
-            "inventoryLevel": 102,
+            "inventoryLevel": 88,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/shallou-hybrid-live-set-bangalore"
          },
@@ -2226,7 +2197,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entry Anytime\n",
-            "inventoryLevel": 990,
+            "inventoryLevel": 989,
             "name": "Full Cover",
             "url": "https://www.skillboxes.com/events/ticket/koramangala-social-presents-fake-tattoos"
          }
@@ -2261,7 +2232,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charge of INR 499 extra at the gate (fully redeemable for F&B).\n",
-            "inventoryLevel": 978,
+            "inventoryLevel": 976,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/Metalocalypse"
          },
@@ -2339,7 +2310,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants admission for one individual to the event.\nNo cover charges required.",
-            "inventoryLevel": 20,
+            "inventoryLevel": 18,
             "name": "Phase 1 Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/genesis-2-0"
          },
@@ -2377,7 +2348,7 @@
       "description": "The Great Indian Spirit Festival 🍹🥃🥂\r\n\r\n \r\n\r\n~India's Most Loved Liquor Festival\r\n\r\n \r\n\r\nOne Day Only\r\n\r\n \r\n\r\n \r\n\r\nSi",
       "endDate": "2025-08-03T23:59:00",
       "identifier": "com.skillboxes.25301",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17513776853rZjFx6uNOnbUF4s.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753780048VoXiDbvZ341wY7iN.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Festivals"
@@ -2397,7 +2368,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 998,
+            "inventoryLevel": 996,
             "name": "Phase 1 solo",
             "url": "https://www.skillboxes.com/events/ticket/the-great-indian-spirit-festival"
          },
@@ -2523,7 +2494,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 464,
+            "inventoryLevel": 459,
             "name": "Phase 1 GA",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -2531,7 +2502,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Nearest to the stage.\n",
-            "inventoryLevel": 245,
+            "inventoryLevel": 238,
             "name": "Early Bird Fan Pit",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -2622,7 +2593,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "1. Ticket Purchase:  All ticket sales are final. No refunds, exchanges, or cancellations are allowed unless the event is canceled or rescheduled. Tickets are sold on a first-come, first-served basis and are subject to availability. 2. Payment:  Accepted payment methods include credit/debit cards, and other specified payment options. All prices are inclusive of applicable taxes and fees unless otherwise stated. 3. Ticket Delivery:  Tickets may be delivered electronically, via mail, or available for pickup a\n",
-            "inventoryLevel": 160,
+            "inventoryLevel": 155,
             "name": "General",
             "url": "https://www.skillboxes.com/events/ticket/chaos-reigns-4"
          }
@@ -2657,7 +2628,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Admits one person for one of the days\n",
-            "inventoryLevel": 9940,
+            "inventoryLevel": 9936,
             "name": "One Day Pass",
             "url": "https://www.skillboxes.com/events/ticket/maya-bazaar-7"
          },
@@ -2665,7 +2636,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Admit one person for both days\n",
-            "inventoryLevel": 388,
+            "inventoryLevel": 378,
             "name": "Early Bird (Festival Pass)",
             "url": "https://www.skillboxes.com/events/ticket/maya-bazaar-7"
          },
