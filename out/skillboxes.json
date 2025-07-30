@@ -1,6 +1,170 @@
 [
    {
       "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Step into a classy evening of smooth sax, swinging rhythms,\nand soulful vibes at Hamilton – Bengaluru’s hidden gem for curated cocktai",
+      "endDate": "2025-08-01T22:30:00",
+      "identifier": "com.skillboxes.26585",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TFRFbjV2YklkZ1poeHlNektJOW83dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753853902HWfRWd3oUiIrB3g9.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9820923",
+            "longitude": "77.7086283"
+         },
+         "name": "Hamilton Cocktail Bar"
+      },
+      "name": "Jazzed Up",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This amount is fully redeemable on food and beverages.\n",
+            "inventoryLevel": 150,
+            "name": "General admission for 1",
+            "url": "https://www.skillboxes.com/events/ticket/jazzed-up-4"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This amount is fully redeemable on food and beverages.\n",
+            "inventoryLevel": 20,
+            "name": "Front view table for 4",
+            "url": "https://www.skillboxes.com/events/ticket/jazzed-up-4"
+         }
+      ],
+      "startDate": "2025-08-01T20:00:00",
+      "url": "https://www.skillboxes.com/events/jazzed-up-4"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Lose yourself in a night of mystic melodies, heartfelt\nlyrics, and soulful storytelling at Hamilton – Bengaluru’s intimate hideaway&#1",
+      "endDate": "2025-08-03T22:30:00",
+      "identifier": "com.skillboxes.26584",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TFRFbjV2YklkZ1poeHlNektJOW83dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17538521597cjDlsqW2C7p3GW0.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9820923",
+            "longitude": "77.7086283"
+         },
+         "name": "Hamilton Cocktail Bar"
+      },
+      "name": "Sufi Soiree",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This amount is fully redeemable on food and beverages.\n",
+            "inventoryLevel": 150,
+            "name": "General admission for 1",
+            "url": "https://www.skillboxes.com/events/ticket/sufi-soiree-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This amount is fully redeemable on food and beverages.\n",
+            "inventoryLevel": 20,
+            "name": "Front view table for 4",
+            "url": "https://www.skillboxes.com/events/ticket/sufi-soiree-3"
+         }
+      ],
+      "startDate": "2025-08-03T20:00:00",
+      "url": "https://www.skillboxes.com/events/sufi-soiree-3"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Where music meets mixology, and every sip has a soundtrack.\nWelcome to Saturday Concerts at Hamilton — a curated blend of live\nperforman",
+      "endDate": "2025-08-02T22:30:00",
+      "identifier": "com.skillboxes.26583",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TFRFbjV2YklkZ1poeHlNektJOW83dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753851871EiTQJZuDVrbp8Gco.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9820923",
+            "longitude": "77.7086283"
+         },
+         "name": "Hamilton Cocktail Bar"
+      },
+      "name": "Saturday Concerts",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This amount is fully redeemable on food and beverages.\n",
+            "inventoryLevel": 150,
+            "name": "General admission for 1",
+            "url": "https://www.skillboxes.com/events/ticket/saturday-concerts-2"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This amount is fully redeemable on food and beverages.\n",
+            "inventoryLevel": 20,
+            "name": "Front view table for 4",
+            "url": "https://www.skillboxes.com/events/ticket/saturday-concerts-2"
+         }
+      ],
+      "startDate": "2025-08-02T20:00:00",
+      "url": "https://www.skillboxes.com/events/saturday-concerts-2"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Formula 1 Hungary Grand Prix Live Screening @watsons.pub3rd August | 6:00 PM | Sunday.\nINR 500 Reedemable on F&B (Pay at Venue)   \n\nRe",
+      "endDate": "2025-08-03T21:00:00",
+      "identifier": "com.skillboxes.26580",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/THJuaWlqbVNUQkVJNndwTFJzYWtxUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17538443794sj8mVvpMFWUIIj2.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Sports"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Bengaluru, Karnataka, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9715987",
+            "longitude": "77.5945627"
+         },
+         "name": "Watson's"
+      },
+      "name": "F1 Hungarian Grand Prix 2025 - Live Screening - Watson's, Bangalore.",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "500 Cover Reedemable on F&B (Pay at Venue)\nFormula 1 Hungary Grand Prix Live Screening @watsons.pub 3rd August | 6:00 PM | Sunday.",
+            "inventoryLevel": 60,
+            "name": "F1 Screening Pass",
+            "url": "https://www.skillboxes.com/events/ticket/f1-hungarian-grand-prix-2025-live-screening-watson-s-bangalore"
+         }
+      ],
+      "startDate": "2025-08-03T18:00:00",
+      "url": "https://www.skillboxes.com/events/f1-hungarian-grand-prix-2025-live-screening-watson-s-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "EducationEvent",
       "description": "Explore Inversion Moves with usExpert Series at Sama: The Calm Mind StudioJoin us for a 1-hour guided journey into inversions — exploring streng",
       "endDate": "2025-08-03T11:00:00",
@@ -430,12 +594,12 @@
          },
          "name": "Indiranagar Social"
       },
-      "name": "Kittenpop Experience | Indiranagar Social Bengaluru",
+      "name": "Kittenpop Experience | Indiranagar Social Bangalore",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 10,
+            "inventoryLevel": 5,
             "name": "Early Bird - Entry for One",
             "url": "https://www.skillboxes.com/events/ticket/kittenpop-experience-indiranagar-social-bengaluru"
          },

@@ -582,54 +582,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Sufi Soiree",
-    "description": "Lose yourself in a night of mystic melodies, heartfelt lyrics, and soulful storytelling at Hamilton \u2013 Bengaluru\u2019s intimate hideaway for craft cocktails and deep vibes.\r\nJoin us for Sufi Nights, where timeless tunes meet modern mixology in a warm, candlelit setting that stirs the spirit and soothes\u00a0the\u00a0soul.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D02E002DEE5C4C1F9A27B97B29253505_converted_webp.webp"
-    ],
-    "startDate": "2025-08-03T20:00:00+05:30",
-    "endDate": "2025-08-03T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVTeAtXkRrjsRPyAJzdxl0HA",
-      "latitude": "12.98209230000000000000",
-      "longitude": "77.70862830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 200,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Hamilton",
-      "description": null,
-      "url": "https://urbanaut.app/partner/hamilton",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CED7A4CC2AA4EC9BD02E06C4F0731E7_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-63620-01931"
-      }
-    },
-    "url": "https://urbanaut.app/spot/sufi-soiree-7778",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Conscious souk x Flavour Lab - Around the world",
     "description": "CALLING ALL LITTLE CHEFS!!!Conscious Souk x Flavour Lab bring you a fun class on nutrition for children ages 5-12.In this workshop, little chefs will go on an adventurous trip around the world! They will learn about unique dishes, ingredients and food cultures from different countries. They will also get their hands dirty by making an international delicacy themselves!\ud83d\udcc5 Event Details:Dates: 2nd and 3rd AugustTime: 4:30 p.m. - 6:00 p.m.Age Group: 5 \u2013 12 years\ud83d\udccd Venue: Bangalore International Centre",
@@ -1629,6 +1581,104 @@
     "url": "https://urbanaut.app/spot/tijourioneyear#2025-08-03T1230",
     "keywords": [
       "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "name": "Film Screening - G Aravindan's \"Chidambaram\"",
+    "description": "Chidambaram (1985)By G. Aravindan / Malayalam / 103'\u00a0Set in the picturesque hills of Tamil Nadu, the film tells the story of Shankaran (Bharath Gopi), a cowherd whose attraction to his friend\u2019s wife, Shivagami (Smitha Patil), leads to tragic consequences.Based on a short story by noted Malayalam writer C. V. Shriraman, Chidambaram is a poignant exploration of friendship, betrayal, guilt, redemption, and caste hierarchies.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/37D308CE02C647DDB9B083AFD3920C5C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/764512351B80414BAEF6BC87E3E18D27_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8C5F374DC5DE40AD9A95BE940ADB2083_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F4D66B2B266E4457A423553AC0F113B9_converted_webp.webp"
+    ],
+    "startDate": "2025-08-02T18:00:00+05:30",
+    "endDate": "2025-08-02T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJz9y9RCgVrjsRgbISfghPwf8",
+      "latitude": "12.91333280000000000000",
+      "longitude": "77.59726870000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bangalore Film Forum",
+      "description": "An arthouse film club showcasing Contemporary, Independent, Foreign and Classic films. Bangalore, India.",
+      "url": "https://urbanaut.app/partner/bff",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E6294D5A15C94A03A2F9A639710F9542_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-95355-51953"
+      }
+    },
+    "url": "https://urbanaut.app/spot/film-screening-g-aravindans-chidambaram",
+    "keywords": [
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "International Tigers Day x Blr Brewing Co.",
+    "description": "This International Tiger Day, BLR Brewing Co. and Bannerghatta National Park come together for a wild celebration with a cause.Join us for a fun-filled day of tiger themed quizzes, face painting, and conservation talks, plus a chance to adopt a wild animal and take home an official certificate.Great vibes, cold brews, and a mission to protect the wild. Let\u2019s raise awareness, one pint at a time",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C02B658EE61F4EC6BB7836D633986E4C_converted_webp.webp"
+    ],
+    "startDate": "2025-08-03T12:30:00+05:30",
+    "endDate": "2025-08-03T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Paramount Gardens, Jyotipuram, Bengaluru, Vajarahalli, Karnataka 560062, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLRPU0XdBrjsRPBcMTRN2ViI",
+      "latitude": "12.86809220000000000000",
+      "longitude": "77.54329700000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 200,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Blr Brewing Co",
+      "description": null,
+      "url": "https://urbanaut.app/partner/blrbrewingco2",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/5ADC40F8BD3B4932BCE2AAE637D89434_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-76250-69431"
+      }
+    },
+    "url": "https://urbanaut.app/spot/international-tigers-day-x-blr-brewing-co",
+    "keywords": [
+      "Eco Friendly",
+      "History & heritage",
       "Food & drink",
       "URBANAUT"
     ]
