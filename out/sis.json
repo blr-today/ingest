@@ -64,38 +64,6 @@
     "endDate": "2025-08-01T08:30:00+05:30"
   },
   {
-    "name": "Football Session",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Beginner-Friday",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Football",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Beginner-Friday",
-    "image": "https://sistersinsweat.com/images/event/20250703145022391.jpeg",
-    "location": {
-      "name": "SUFC, Ulsoor",
-      "address": "SUFC Gate No. 3, United Football Club, RBANM\u2019s Ground, South, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake",
-      "type": "Place"
-    },
-    "startDate": "2025-08-01T07:00:00+05:30",
-    "endDate": "2025-08-01T08:30:00+05:30"
-  },
-  {
     "name": "Footy Session",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Beginner-Saturday",
@@ -670,38 +638,6 @@
     "endDate": "2025-08-09T16:00:00+05:30"
   },
   {
-    "name": "Run Session",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-15-June",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Run",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-15-June",
-    "image": "https://sistersinsweat.com/images/event/20250412154311146.jpg",
-    "location": {
-      "name": "Cubbon Park",
-      "address": "Kasturba Road, Bangalore",
-      "type": "Place"
-    },
-    "startDate": "2025-08-10T06:45:00+05:30",
-    "endDate": "2025-08-10T08:15:00+05:30"
-  },
-  {
     "name": "Yoga With Sisters and Misters",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/yoga-SIS-community-women-sisterhood",
@@ -732,6 +668,102 @@
     },
     "startDate": "2025-08-10T08:30:00+05:30",
     "endDate": "2025-08-10T09:45:00+05:30"
+  },
+  {
+    "name": "DOGA - Yoga With Your Furry Friends",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Doga-Beginner-Sunday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Doga",
+    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-Doga-Beginner-Sunday",
+    "image": "https://sistersinsweat.com/images/event/20250731171037395.png",
+    "location": {
+      "name": "DizzyDuck Yoga Studio Koramangala",
+      "address": "3rd Floor, 442, Manjusha, 8th Main Rd, 4th Block, Koramangala",
+      "type": "Place"
+    },
+    "startDate": "2025-08-10T11:30:00+05:30",
+    "endDate": "2025-08-10T12:30:00+05:30"
+  },
+  {
+    "name": "Football Session",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Beginner-Friday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Football",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Beginner-Friday",
+    "image": "https://sistersinsweat.com/images/event/20250703145022391.jpeg",
+    "location": {
+      "name": "SUFC, Ulsoor",
+      "address": "SUFC Gate No. 3, United Football Club, RBANM\u2019s Ground, South, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake",
+      "type": "Place"
+    },
+    "startDate": "2025-08-15T07:00:00+05:30",
+    "endDate": "2025-08-15T08:30:00+05:30"
+  },
+  {
+    "name": "Run Session",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-15-June",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Run",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-15-June",
+    "image": "https://sistersinsweat.com/images/event/20250412154311146.jpg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2025-08-17T06:45:00+05:30",
+    "endDate": "2025-08-17T08:15:00+05:30"
   },
   {
     "name": "SIS Football Series - Women's Tournament (Bangalore)",
