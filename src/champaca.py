@@ -8,25 +8,38 @@ from lxml import etree
 import datefinder
 import urllib.parse
 from math import ceil
+from bs4 import BeautifulSoup
 from common.session import get_cached_session
 
 
 def make_request(url):
     session = get_cached_session()
-    response = session.get(url)
-    return response.content
+    return session.get(url)
+    return response
 
 
-def get_product_details(product_url):
-    session = get_cached_session()
-    parsed_url = urllib.parse.urlparse(product_url)
-    path = parsed_url.path
-    url = "https://champaca.in" + path + ".json"
-    response = session.get(url)
+def get_product_details(handle):
+    url = f"https://champaca.in/products/{handle}.json"
+    response = make_request(url)
     j = response.json()
     for variant in j["product"]["variants"]:
         return (str(ceil(float(variant["price"]))), j['product']['product_type'])
 
+"""
+Shopify URLs published in blogs 
+do not always work for the API
+because they have the wrong "handle"
+This makes a correct product handle using the canonical ref
+"""
+def get_product_handle(url):
+    response = make_request(url)
+    soup = BeautifulSoup(response.text, "html.parser")
+    canonical_link = soup.find("link", rel="canonical")
+    if canonical_link:
+        canonical_url = canonical_link["href"]
+        parsed_url = urllib.parse.urlparse(canonical_url)
+        return parsed_url.path.split("/")[-1]
+    return None
 
 def guess_event_type(title):
     if "Workshop" in title:
@@ -36,10 +49,6 @@ def guess_event_type(title):
     if "Children" in title:
         return "ChildrensEvent"
     return "Event"
-
-def drop_query_params(url):
-    cleaned_url = urllib.parse.urlparse(url)._replace(query=None, fragment=None)
-    return urllib.parse.urlunparse(cleaned_url)
 
 # Generate as per the schema.org/Event specification
 def make_event(title, starttime, description, url, product_urls):
@@ -67,8 +76,11 @@ def make_event(title, starttime, description, url, product_urls):
     }
 
     for product_url in product_urls:
-        product_url = drop_query_params(product_url)
-        price,type = get_product_details(product_url)
+        handle = get_product_handle(product_url)
+        if not handle:
+            print(f"[CHAMPACA] Could not get handle for {product_url}")
+            continue
+        price,type = get_product_details(handle)
         # TODO: If Needed
         # Champaca does not mark its events in a separate category always
         # So we can check the product weight, which should be zero as well
@@ -90,10 +102,10 @@ def make_event(title, starttime, description, url, product_urls):
 
 def fetch_events():
     url = "https://champaca.in/blogs/events.atom"
-    content = make_request(url)
+    res = make_request(url)
 
     try:
-        tree = etree.fromstring(content)
+        tree = etree.fromstring(res.text.encode('utf-8'))
     except etree.XMLSyntaxError:
         return []
 
@@ -106,6 +118,8 @@ def fetch_events():
         title = entry.find(
             ".//xmlns:title", namespaces={"xmlns": "http://www.w3.org/2005/Atom"}
         ).text
+        if "online" in title.lower():
+            continue
         html_content = entry.find(
             ".//xmlns:content", namespaces={"xmlns": "http://www.w3.org/2005/Atom"}
         ).text
