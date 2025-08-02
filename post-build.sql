@@ -849,6 +849,14 @@ WHERE
     OR event_json ->> '$.location' LIKE '%museum rd%'
     OR event_json ->> '$.location' LIKE '%ashok nagar%'
     OR event_json ->> '$.location' LIKE '%shivaji nagar%'
+    OR event_json ->> '$.location' LIKE '%st mark''s road%'
+    OR event_json ->> '$.location' LIKE '%st mark road%'
+    OR event_json ->> '$.location' LIKE '%st.mark road%'
+    OR event_json ->> '$.location' LIKE '%st.mark''s road%'
+    OR event_json ->> '$.location' LIKE '%shanthala nagar%'
+    -- The university has multiple colleges and campuses
+    -- But most are near or within CBD
+    OR event_json ->> '$.location' LIKE '%st. joseph''s%'
   );
 
 

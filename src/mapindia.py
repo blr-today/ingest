@@ -41,7 +41,7 @@ def generate_calendar():
         response = session.get(url + "ical/", headers=HEADERS)
         if response.status_code == 200:
             for e in Calendar(response.text).events:
-                e.categories = [category, "MAP"]
+                e.categories = [category, "MAP", "CBD"]
                 c.events.add(e)
     return c
 
