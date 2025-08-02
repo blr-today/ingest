@@ -2,7 +2,7 @@ import json
 from common.session import get_cached_session
 from bs4 import BeautifulSoup
 
-URL = "https://www.artzo.in/events-workshops"
+URL = "https://www.artzo.in/events-and-workshops"
 URL_PREFIX = "https://www.artzo.in/event-details/"
 
 def fetch_events(session):
