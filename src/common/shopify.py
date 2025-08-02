@@ -40,6 +40,7 @@ class Shopify:
         r = self.session.get(self.url)
         # We force encoding as utf-8
         r.encoding = "utf-8"
+        r.raise_for_status()
         for p in r.json()["products"]:
             yield ShopifyProduct(
                 url=f"{self.base_url}/products/{p['handle']}",

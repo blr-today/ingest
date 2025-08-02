@@ -1,4 +1,6 @@
 import datefinder
+from requests.exceptions import HTTPError
+import sys
 import json
 from datetime import datetime
 from common.tz import IST
@@ -113,8 +115,15 @@ if __name__ == "__main__":
     from common.session import get_cached_session
     session = get_cached_session()
     white_box = Shopify(DOMAIN, session, COLLECTION)
-    events = [make_event(p, white_box) for p in filter_products(white_box.products())]
-    events = filter_future_events(events)
-    with open("out/thewhitebox.json", "w") as f:
-        json.dump(events, f, indent=2)
-        print(f"[THEWHITEBOX] {len(events)} events")
+    try:
+        events = [make_event(p, white_box) for p in filter_products(white_box.products())]
+        events = filter_future_events(events)
+
+        with open("out/thewhitebox.json", "w") as f:
+            json.dump(events, f, indent=2)
+            print(f"[THEWHITEBOX] {len(events)} events")
+    except HTTPError as e:
+        print(f"[THEWHITEBOX] Failed to fetch events from {DOMAIN}", file=sys.stderr)
+        print(f"[THEWHITEBOX] {e}", file=sys.stderr)
+        print(f"[THEWHITEBOX] Status Code: "+ str(e.response.status_code), file=sys.stderr)
+        sys.exit(1)
