@@ -370,7 +370,6 @@ if __name__ == "__main__":
     conn = sqlite3.connect("events.db")
     i = 0
     for url, d in get_events(session, f):
-        print(d)
         insert_event_json(conn, url, d)
         i += 1
         if i % 10 == 0:

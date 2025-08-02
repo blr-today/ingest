@@ -11,7 +11,7 @@ EVENT_DETAIL_URL_PREFIX = "https://www.sabhablr.in/event-details/"
 
 log_level = getattr(logging, os.getenv("LOG_LEVEL", "INFO").upper(), logging.INFO)
 logging.basicConfig(level=log_level)
-logger = logging.getLogger(__name__)
+logger = logging.getLogger("SABHA")
 
 
 def extract_text_from_rich_content(nodes):
@@ -120,7 +120,7 @@ def transform_event(event, session):
             today = date.today()
             
             if event_date < today:
-                logger.info(f"Skipping past event: {name} ({event_date})")
+                logger.debug(f"Skipping past event: {name} ({event_date})")
                 return None
         
         # Check if it's an external event
@@ -201,20 +201,20 @@ def fetch_events():
             return []
             
         data = json.loads(script_tag.string)
-        logger.info(f"Found warmup data, main keys: {list(data.keys())}")
+        logger.debug(f"Found warmup data, main keys: {list(data.keys())}")
         
         # Navigate to events data
         apps_data = data.get("appsWarmupData", {}).get("140603ad-af8d-84a5-2c80-a0f60cb47351", {})
-        logger.info(f"Apps data keys: {list(apps_data.keys())}")
+        logger.debug(f"Apps data keys: {list(apps_data.keys())}")
         
         events = []
         for key, value in apps_data.items():
             if isinstance(value, dict) and "events" in value and "events" in value["events"]:
                 event_list = value["events"]["events"]
-                logger.info(f"Found {len(event_list)} events in key '{key}'")
+                logger.debug(f"Found {len(event_list)} events in key '{key}'")
                 events.extend(event_list)
                 
-        logger.info(f"Total raw events found: {len(events)}")
+        logger.debug(f"Total raw events found: {len(events)}")
         
         # Transform events and handle recurring events
         transformed_events = []
@@ -231,14 +231,14 @@ def fetch_events():
                             transformed_events.append(single_event)
                             seen_urls.add(single_event["url"])
                         else:
-                            logger.info(f"Skipping duplicate event URL: {single_event['url']}")
+                            logger.debug(f"Skipping duplicate event URL: {single_event['url']}")
                 else:
                     # Handle single event (backward compatibility)
                     if transformed["url"] not in seen_urls:
                         transformed_events.append(transformed)
                         seen_urls.add(transformed["url"])
                     else:
-                        logger.info(f"Skipping duplicate event URL: {transformed['url']}")
+                        logger.debug(f"Skipping duplicate event URL: {transformed['url']}")
                 
         logger.info(f"Total transformed events after deduplication: {len(transformed_events)}")
         return transformed_events
