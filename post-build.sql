@@ -45,7 +45,11 @@ DELETE FROM events
 WHERE
   lower(event_json ->> '$.organizer.name') IN (
     'bangalore international centre',
-    'tarun rajendra mittal (bangalore chess club)'
+    'tarun rajendra mittal (bangalore chess club)',
+    -- https://www.district.in/events/parsec-jayanagar-by-param-2025-buy-tickets
+    -- These are regular museum tickets
+    -- not special events
+    'PARAM FOUNDATION'
   );
 
 
@@ -100,7 +104,12 @@ WHERE
   -- Coworking is not events.
   OR event_json ->> 'name' LIKE '%Co-Working%'
   -- Advertisement for Rage Room Indiranagar
-  OR url LIKE '%rage-room%';
+  OR url LIKE '%rage-room%'
+  -- Social Mixers category on insider
+  OR (
+    url like '%insider.in%'
+    and event_json  ->> '$.keywords' LIKE '%Social Mixers%'
+  );
 
 
 -- Mark some events as not happening in Bangalore
@@ -119,6 +128,12 @@ WHERE
     -- https://together.buzz/host/j-n-tulika-hdj, Yoga Retreats
     OR event_json ->> '$.performer.name' LIKE '%J N TULIKA%'
     OR url LIKE '%weekend-getaway%'
+  ) OR (
+    url like '%insider.in%' AND 
+      (
+        event_json->>'$.keywords' LIKE '%camping%'
+        OR event_json->>'$.keywords' LIKE '%trip%'
+      )
   );
 
 
@@ -294,6 +309,31 @@ WHERE
     OR event_json ->> '$.keywords' LIKE '%karaoke night%'
   );
 
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'LOW-QUALITY'
+    )
+  )
+WHERE
+-- Theme/Water/Snow parks
+  url like '%insider.in%' AND 
+  (
+    event_json->>'$.keywords' LIKE '%theme park%'
+    OR event_json->>'$.keywords' LIKE '%snow park%'
+    OR event_json->>'$.keywords' LIKE '%water park%'
+    OR event_json->>'$.keywords' LIKE '%water park%'
+    OR event_json->>'$.keywords' LIKE '%Game Zones%'
+    OR event_json->>'$.keywords' LIKE '%Go Karting%'
+    OR event_json->>'$.keywords' LIKE '%Arcades%'
+    OR event_json->>'$.keywords' LIKE '%Escape Room%'
+    OR event_json->>'$.keywords' LIKE '%Trampoline Parks%'
+  );
 
 -- MusicEvent is incorrectly used in many many allevents listings
 UPDATE events
@@ -387,7 +427,7 @@ WHERE
   OR (
     -- Hustle Business Venue in HSR
     event_json ->> '$.location' LIKE '%hustlehub%'
-    event_json ->> '$.location' LIKE '%karnataka trade promo%'
+    OR event_json ->> '$.location' LIKE '%karnataka trade promo%'
   )
   OR (
     -- Networking Meetups are BUSINESS events
@@ -398,6 +438,13 @@ WHERE
     OR url LIKE '%virtual-hackathon%'
     OR url LIKE '%founders-investors%'
     OR url LIKE '%property-expo%'
+    OR url LIKE '%property-expo%'
+    OR url LIKE '%agentic-ai%'
+    OR url LIKE '%ai-workshop%'
+    OR url LIKE '%ai-master%'
+    OR url LIKE '%entrepreneur-forum%'
+    OR url LIKE '%-founders-%'
+    OR url LIKE '%startups-club%'
     -- Allevents tags them as business events
     OR event_json ->> '$.keywords' LIKE 'business event'
     -- https://www.skillboxes.com/events?tagId=VjMrZ01TaHJGcHdnZU9MV1RldVpQdz09
@@ -465,7 +512,7 @@ SET
 WHERE
   
   event_json ->> '$.name' LIKE '%movie under the stars%'
-  OR  event_json ->> '$.name' LIKE '%sunset cinema%'
+  OR  event_json ->> '$.name' LIKE '%sunset cinema%';
 
 
 
