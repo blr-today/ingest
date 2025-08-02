@@ -74,10 +74,17 @@ def make_event(soup):
 
     date_opts = offers_selector.select('div.product-variations-variety select[name="variety_id"] option')
     for date_opt in date_opts:
+        # This date is not really reliable though
+        # so we use it to validate the event
+        # but dont publish it
         if "data-booking-begin-at" not in date_opt.attrs:
             continue
-        booking_begin = datetime.strptime(date_opt['data-booking-begin-at'], "%Y-%m-%d %H:%M:%S %Z").astimezone(IST).isoformat()
-        event_date = datetime.strptime(date_opt.get_text().strip(), '%d-%b-%Y')
+        
+        event_dates = list(datefinder.find_dates(date_opt.get_text().strip(), base_date=datetime.now()))
+        if len(event_dates) == 0:
+            raise ValueError(f"Could not find date in {date_opt.get_text().strip()} for {url}")
+        # pick the first future date from event_dates
+        event_date = next((d for d in event_dates if d > datetime.now()), None)
         event_timings = find_timings(duration, event_date, event)
 
         # Starting time is always mentioned. So, there would be one element present in the dates
@@ -93,7 +100,7 @@ def make_event(soup):
     if duration_in_hours == 0:
         duration_in_hours = datetime.fromisoformat(end_date).hour - datetime.fromisoformat(start_date).hour
 
-    offers = get_offers(offers_selector, booking_begin)
+    offers = get_offers(offers_selector)
     
     # details
     metrics = {}
@@ -255,7 +262,7 @@ def convert_duration_in_hours(duration):
 
     return 0
 
-def get_offers(soup, availability_starts):
+def get_offers(soup):
     offers = [] 
     addOns = [] 
 
@@ -274,7 +281,6 @@ def get_offers(soup, availability_starts):
         else:
             offer['name'] = opt_name
             offer['price'] = price
-            offer['availabilityStarts'] = availability_starts
             offers.append(offer)
 
     if len(addOns) != 0:
