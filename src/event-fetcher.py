@@ -48,7 +48,7 @@ EVENT_JSON_FILES = [
     "out/atta_galatta.json",
     "out/urbanaut.json",
     "out/bengalurusustainabilityforum.json",
-    "out/venn.json",  # this also has a lot of duplicates
+    "out/puttingscene.json",  # this also has a lot of duplicates
     "out/te.json",
     "out/underline.json",  # duplicates to insider
     "out/sis.json",

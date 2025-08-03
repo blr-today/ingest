@@ -79,8 +79,8 @@ out/bhaagoindia.txt:
 out/scigalleryblr.json:
 	python src/scigallery.py || $(call restore-file,$@)
 
-out/venn.json:
-	python src/venn.py || $(call restore-file,$@)
+out/puttingscene.json:
+	python src/puttingscene.py || $(call restore-file,$@)
 
 out/goethe.json:
 	python src/goethe.py || $(call restore-file,$@)
@@ -197,7 +197,7 @@ fetch: out/allevents.txt \
  out/bhaagoindia.txt \
  out/scigalleryblr.json \
  out/goethe.json \
- out/venn.json \
+ out/puttingscene.json \
  out/urbanaut.json \
  out/champaca.json \
  out/bic.json \
