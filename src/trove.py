@@ -58,10 +58,13 @@ def fetch_timings(date_str: str):
 
     return timestamps
 
+def get_subtitle(soup):
+    subtitle = soup.select_one(".custom-field__sub-title")
+    if not subtitle:
+        return None
+    return subtitle.get_text(strip=True)
 
-def get_location(session, product: ShopifyProduct):
-    res = session.get(product.url)
-    soup = BeautifulSoup(res.text, "html.parser")
+def get_location(soup):
     location_field = soup.select_one(".custom-field__location")
     if not location_field:
         return None
@@ -76,7 +79,12 @@ def get_location(session, product: ShopifyProduct):
 
 def make_event(product, sp: Shopify, session):
     start_date, end_date = fetch_timings(product.variants[0].title)
-    location_name, address = get_location(session, product)
+    
+    res = session.get(product.url)
+    soup = BeautifulSoup(res.text, "html.parser")
+
+    location_name, address = get_location(soup)
+    subtitle = get_subtitle(soup)
 
     res = {
         "name": product.title,
@@ -86,6 +94,9 @@ def make_event(product, sp: Shopify, session):
         "startDate": start_date.isoformat(),
         "endDate": end_date.isoformat(),
     }
+
+    if subtitle:
+        res["name"] += f" - {subtitle}"
 
     if location_name:
         res["location"] = {
