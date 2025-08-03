@@ -7,11 +7,28 @@ from common.tz import IST
 
 URL = "https://firestore.googleapis.com/v1/projects/tonight-is/databases/(default)/documents/parties?pageSize=1000"
 
+FALLBACK_URL_MAP = {
+    "TPMygSSqmlO6qnhm7gaG": "https://www.district.in/events/echoes-of-earth-music-festival-2025-buy-tickets",
+    "K4K7tvJ6uyvuMg7vnN3W": "https://www.district.in/events/darkroom-ft-deborah-de-luca-sep27-2025-buy-tickets"
+}
 
-def fetch_parties():
+def fetch_parties(cursor = None, url=URL):
     session = get_cached_session()
-    return session.get(URL).json()
+    if cursor:
+        url = f"{URL}&pageToken={cursor}"
 
+    response = session.get(url).json()
+    yield from response['documents']
+    if "nextPageToken" in response:
+        yield from fetch_parties(cursor=response["nextPageToken"])
+
+def get_url(event):
+    if 'id' in event:
+        return f"https://www.tonight.is/party/{event['id']}"
+    return get_ticket_url(event)
+
+def get_ticket_url(event):
+    return FALLBACK_URL_MAP.get(event.get('id', None), event['ticketUrl'])
 
 def convert_to_event_json(event):
     lat, lng = [x.strip() for x in event["venues"][0]["location"].split(",")]
@@ -22,8 +39,7 @@ def convert_to_event_json(event):
         "@type": "MusicEvent",
         "name": event["name"],
         "about": event["description"],
-
-        "url": event['ticketUrl'],
+        "url": get_url(event),
         "startDate": startdate.isoformat(),
         "endDate": enddate.isoformat(),
         "image": (
@@ -47,7 +63,6 @@ def convert_to_event_json(event):
                 "addressRegion": "Karnataka",
                 "addressCountry": "IN",
             },
-            "geo": {"@type": "GeoCoordinates", "latitude": lat, "longitude": lng},
         },
         "organizer": {
             "@type": "Organization",
@@ -55,17 +70,20 @@ def convert_to_event_json(event):
         },
         "offers": {
             "@type": "Offer",
-            "url": event["ticketUrl"],
+            "url": get_ticket_url(event),
         },
     }
-    if 'webUrl' in event:
-        e["sameAs"] = event["webUrl"] if "undefined" not in event["webUrl"] else None
+    e["sameAs"] = get_ticket_url(event)
+    if lat != "0" and lng !="0":
+        e['location']["geo"]: {"@type": "GeoCoordinates", "latitude": lat, "longitude": lng}
+
     return e
 
 
 with open("fixtures/tonight-is-parties.json", "r") as f:
-    # drop all events with startDate in the past
-    data = firebase.Firebase.parse_firebase_struct(fetch_parties()["documents"])
+    
+    data = list(fetch_parties())
+    data = firebase.Firebase.parse_firebase_struct(data)
     data = [
         convert_to_event_json(e)
         for e in data
