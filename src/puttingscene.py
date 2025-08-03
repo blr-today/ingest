@@ -12,6 +12,7 @@ import logging
 from datetime import datetime, timedelta
 from typing import Optional, Dict, Any
 from common.session import get_cached_session
+from common.tz import IST
 from bs4 import BeautifulSoup
 import re
 import cleanurl
@@ -176,7 +177,6 @@ def parse_event_html(html_content, event_id):
     
     # Parse date (format: "Sun, 3 Aug")
     try:
-        # Convert "Sun, 3 Aug" to datetime with proper year handling
         current_date = datetime.now()
         current_year = current_date.year
         
@@ -187,19 +187,16 @@ def parse_event_html(html_content, event_id):
         if (current_date - date_obj).days > 180:
             date_obj = datetime.strptime(f"{date_text} {current_year + 1}", "%a, %d %b %Y")
         
-        # Parse time (format: "04:30 PM")
-        time_obj = datetime.strptime(time_text, "%I:%M %p").time()
-        
-        # Combine date and time
-        start_datetime = datetime.combine(date_obj.date(), time_obj)
-        
-        # Only include future events (check against current time, not just date)
-        if start_datetime < datetime.now():
+        # Only include future events
+        if date_obj < datetime.now():
             return None
+
+        time_obj = datetime.strptime(time_text, "%I:%M %p").time()
+        date_obj = date_obj.replace(hour=time_obj.hour).replace(minute=time_obj.minute).replace(tzinfo=IST)
             
         # Add IST timezone
-        start_date = start_datetime.replace(tzinfo=datetime.now().astimezone().tzinfo).isoformat()
-        end_date = (start_datetime + timedelta(hours=2)).replace(tzinfo=datetime.now().astimezone().tzinfo).isoformat()
+        start_date = date_obj.isoformat()
+        end_date = (date_obj + timedelta(hours=2)).isoformat()
         
     except ValueError:
         return None
