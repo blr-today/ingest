@@ -2331,5 +2331,55 @@
       "Guided tour",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Rethinking What's Next: Realigning with Purpose",
+    "description": "Are you living with choice, meaning, and purpose?So often, our dreams and aspirations get buried in the everyday rush.This workshop offers you the space to pause, listen inward, and realign with what matters most.Take the pause now. Begin shaping what\u2019s next.\u00a0Facilitator: Ragini RaoJoin her in this offline workshop to:Reflect on what drives youRethink patterns that no longer serveMap your way forward with clarity and confidenceRagini Rao is a Teaching and Supervising Transactional Analyst TSTA(P). She trains and supervises advanced training groups in Transactional Analysis to become Psychotherapists, Coaches and Trainers. With over 5000 hours of one-on-one and group counselling and therapy, over a span of 30 years, she has addressed problems pertaining to Relationships, Marital Issues, Depression, Grief, Low Self Esteem and Sexual, Verbal and Physical Abuse. Ragini is also a licensed workshop leader for the \u201cHeal your Life\u201d programs based on the philosophy of world renowned author Louise L. Hay. She conducts the Heal Your Life workshops in offline settings.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/831E911663744EADBD630587BF2EFE67_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DE175B253FCD409B9D757E80DBCDD324_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C74712416515499EAF1D80EE5AB5BF7A_converted_webp.webp"
+    ],
+    "startDate": "2025-08-23T10:30:00+05:30",
+    "endDate": "2025-08-23T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "7, 4th Main Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhSp5dRwUrjsRNW96_uW6-Gk",
+      "latitude": "12.96668260000000000000",
+      "longitude": "77.63529030000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Zuva Life",
+      "description": "We change\u2014and sometimes the life around us needs to catch up. Zuva Life offers gentle spaces to pause, reflect, and reimagine what comes next. These experiences invite you to explore life\u2019s shifts with curiosity, not pressure. A soft place to wonder, not to fix.",
+      "url": "https://urbanaut.app/partner/zuvalife",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/779F6F6E344F4386BCFBCCE7E0E0E57F_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99454-10037"
+      }
+    },
+    "url": "https://urbanaut.app/spot/shaping-your-lifes-next-phase",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
