@@ -1708,6 +1708,58 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
+    "name": "Sober Sundowners X Skol: Relaunch Party",
+    "description": "We\u2019re back\u2014and we\u2019re celebrating!Sober Sundowners is teaming up with Skol for a double launch party! We\u2019ve both rebranded, and we're inviting you to celebrate with us at this one-of-a-kind sober social. Imagine scenic sundowner vibes, amazing music, great conversation, and zero pressure to drink (alcohol)\u2014just good people, good energy, and glasses full of Skol\u2019s deliciously spiced non-alcoholic mulled wine.\u00a0*It\u2019s a black and white party, so come dressed to match.**This is a free event with limited spots \u2014 RSVP now to save your spot!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C157DC47295D48B2B48350820D15386D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7C92D3C3A7544231B4EF9788AAF96F6E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/263F3FC11079435F933F847E5783802F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FAEA11180F94451C97E3CAC0A7F5F0F6_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7875037086EC4C5F8A86EBC667460CC1_converted_webp.webp"
+    ],
+    "startDate": "2025-08-24T17:00:00+05:30",
+    "endDate": "2025-08-24T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Copper + Cloves",
+      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
+      "latitude": "12.96391480000000000000",
+      "longitude": "77.63842380000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 82,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Copper + Cloves",
+      "description": "We are all about nourishing food and creating spaces for connection!",
+      "url": "https://urbanaut.app/partner/copperandcloves",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97319-30303"
+      }
+    },
+    "url": "https://urbanaut.app/spot/sober-sundowners-x-skol-relaunch-party",
+    "keywords": [
+      "Leisure",
+      "Music",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
     "name": "Friday Ensemble",
     "description": "Step into the weekend with the soul and swing of Friday Ensemble, Hamilton\u2019s signature sonic experience. This Friday, we\u2019re turning the dial up on smooth grooves, rich rhythms, and spontaneous jams \u2014 where jazz meets experimental vibes in a night of musical finesse.Let live melodies guide your evening, with a curated blend of seasoned artists and fresh talents improvising in harmony. Think smoky saxophones, sultry vocals, and a vibe that lingers long after the last note.",
     "image": [
