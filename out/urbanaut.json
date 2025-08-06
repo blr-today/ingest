@@ -3071,5 +3071,55 @@
       "Art & culture",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "name": "Film Screening \" Ali : Fear Eats the Soul \"",
+    "description": "Ali : Fear Eats The Soul (1974)By Rainer Werner Fassbinder / 93' / German\u00a0An older lonely widow meets a much younger Arab worker in a bar during a rainstorm. They fall in love, to their own surprise and to the outright shock of their families, colleagues, and drinking buddies.In Ali: Fear Eats the Soul, Fassbinder expertly wields the emotional power of classic Hollywood melodrama to expose the racial tensions underlying contemporary German culture.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/976489009F82458AB3E01C04E4209E4F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6343912DFEA840D69649607B1530B56E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7203A60190BB4F37B58400806BC2B867_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/77D96213F3E849B49FAAE08F31EE5281_converted_webp.webp"
+    ],
+    "startDate": "2025-08-16T18:00:00+05:30",
+    "endDate": "2025-08-16T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 100,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bangalore Film Forum",
+      "description": "An arthouse film club showcasing Contemporary, Independent, Foreign and Classic films. Bangalore, India.",
+      "url": "https://urbanaut.app/partner/bff",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E6294D5A15C94A03A2F9A639710F9542_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-95355-51953"
+      }
+    },
+    "url": "https://urbanaut.app/spot/BFF-Ali",
+    "keywords": [
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
   }
 ]
