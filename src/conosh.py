@@ -15,7 +15,7 @@ def get_event_links():
     response = session.get("https://conosh.com/physical-events")
     soup = BeautifulSoup(response.content, 'html.parser')
     
-    address_links = soup.select('.evt_blk a')
+    address_links = soup.select('.main-content a')
     event_links = set()
     
     for link in address_links:
@@ -32,6 +32,8 @@ def parse_event_page(event_url):
     """Parse individual event page and return FoodEvent objects"""
     session = get_cached_session()
     response = session.get(event_url)
+    # Events might give a 404
+    response.raise_for_status()
     soup = BeautifulSoup(response.content, 'html.parser')
     
     # Extract basic event info using CSS selectors
