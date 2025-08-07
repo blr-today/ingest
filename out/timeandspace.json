@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "A Moment in Modernity",
+    "description": "View Catalog\\n",
+    "url": "https://timeandspace.gallery/event/a-moment-in-modernity/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2025-08-05T08:00:00+05:30",
+    "endDate": "2025-08-11T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Jehangir Art Gallery",
+      "description": "&lt;p&gt;View the catalog Here&lt;/p&gt;\\n",
+      "url": "",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "161B, Mahatma Gandhi Road, Kala Ghoda, Fort,",
+        "addressLocality": "Mumbai",
+        "addressRegion": "Maharashtra",
+        "postalCode": "400001",
+        "addressCountry": "India"
+      },
+      "telephone": "",
+      "sameAs": ""
+    }
+  }
+]
