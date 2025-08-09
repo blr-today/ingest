@@ -1314,54 +1314,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Saturday Concerts",
-    "description": "Where music meets mixology, and every sip has a soundtrack. Welcome to Saturday Concerts at Hamilton \u2014 a curated blend of live performances, artisanal drinks, and moody, after-dark ambience. From smooth acoustics to electric sets, experience a night where every note pairs perfectly\u00a0with\u00a0your\u00a0pour.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7828342C1E384AF9B079F13FB5E8F4C7_converted_webp.webp"
-    ],
-    "startDate": "2025-08-09T20:00:00+05:30",
-    "endDate": "2025-08-09T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVTeAtXkRrjsRPyAJzdxl0HA",
-      "latitude": "12.98209230000000000000",
-      "longitude": "77.70862830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 200,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Hamilton",
-      "description": null,
-      "url": "https://urbanaut.app/partner/hamilton",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CED7A4CC2AA4EC9BD02E06C4F0731E7_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-63620-01931"
-      }
-    },
-    "url": "https://urbanaut.app/spot/saturday-concerts-7995",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
-      "Premium",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Sufi Soiree",
     "description": "Lose yourself in a night of mystic melodies, heartfelt lyrics, and soulful storytelling at Hamilton \u2013 Bengaluru\u2019s intimate hideaway for craft cocktails and deep vibes. Join us for Sufi Nights, where timeless tunes meet modern mixology in a warm, candlelit setting that stirs the spirit and soothes\u00a0the\u00a0soul.",
@@ -1794,55 +1746,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Jyotsna Srikanth - Live at the record store",
-    "description": "Experience an evening of musical brilliance with Jyotsna Srikanth, Europe\u2019s foremost Indian violinist, accompanied by the versatile Solomon Shadrach on keys. Hailing from Bangalore and now based in London, Jyotsna is celebrated for her extraordinary artistry and her ability to illuminate the Carnatic tradition with vibrant, contemporary expression. Her performances seamlessly blend the intricacies of Indian classical music with the spontaneity of jazz and global sounds, captivating audiences worldwide\u2014from Buckingham Palace to WOMEX in Poland.Join us at Ram\u2019s Musique Experience, MG Road, on Saturday, August 9th, 2025, at 7:00pm for a night where tradition meets innovation.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3C520DA2D669445EA2E72BCE82FBF1B5_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B938F6669EBC453D831BAB640EF32883_converted_webp.webp"
-    ],
-    "startDate": "2025-08-09T19:00:00+05:30",
-    "endDate": "2025-08-09T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "28, 1st Floor, Public Utility Building, Mahatma Gandhi Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJE8R9PncWrjsRpEX0HC24VLg",
-      "latitude": "12.97447450000000000000",
-      "longitude": "77.60974890000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 27,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Ram's Musique Experience",
-      "description": "India's largest vinyl record store and experience centre",
-      "url": "https://urbanaut.app/partner/ramsmusiqueexp",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C280E3AE43FC4A2AA2E2444BB2CEEDC0_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-95353-36383"
-      }
-    },
-    "url": "https://urbanaut.app/spot/jyotsna-srikanth-live-at-the-record-store",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "The Little Big's Sustainability Studio",
     "description": "The Little Big's Sustainability Studio is a hands-on + play-based Life Skills Workshop where children and their families rediscover the value of repair, reuse, and conscious consumption. It\u2019s a space to build practical skills, nurture sustainable habits, and take small, powerful steps toward a future that cares for what we have\u2014and what we leave behind.Workshop 1: All Things Fabric invites families to bring things that they would like to Repair (Clothes/ Bags/ Zippers)Upcycle existing fabric to make a variety of lifestyle products for each member of the family including their furry friends.Create a whole new look for their existing Denims (Jackets/ Jeans/Bags) that can be brought in/ shopped at our Thrift StoresAll this through fun quizzes and games on Sustainability!Limited to 25 Families on First come First Serve Basis only",
     "image": [
@@ -2230,56 +2133,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "ScreeningEvent",
-    "name": "Film Screening - Hyenas",
-    "description": "Hyenas (1992)By Djibril Diop Mamb\u00e9ty / 110' / WolofA now-rich woman returns to her poor desert hometown to propose a deal to the populace: her fortune, in exchange for the death of the man who years earlier abandoned her and left her with his child.\u00a0A Senegalese film inspired by Friedrich D\u00fcrrenmatt's Swiss-German satirical tragicomedy play The Visit (1956), is an intimate story of love and revenge that also parallels a critique of neocolonialism and African consumerism.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D425A856AF4143E998CA6F4C1196AB80_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C7A98BCF3B7647878E6524CC291B985B_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/43BDC03DF3544CE3B060F9703E28ADEA_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/ECBBD552E18746E3B83E956C433C3062_converted_webp.webp"
-    ],
-    "startDate": "2025-08-09T18:00:00+05:30",
-    "endDate": "2025-08-09T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJz9y9RCgVrjsRgbISfghPwf8",
-      "latitude": "12.91333280000000000000",
-      "longitude": "77.59726870000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 9,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "200.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bangalore Film Forum",
-      "description": "An arthouse film club showcasing Contemporary, Independent, Foreign and Classic films. Bangalore, India.",
-      "url": "https://urbanaut.app/partner/bff",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E6294D5A15C94A03A2F9A639710F9542_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-95355-51953"
-      }
-    },
-    "url": "https://urbanaut.app/spot/BFF-Hyenas",
-    "keywords": [
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Coro Commons",
     "description": "Welcome to Coro Commons!A new kind of community gathering. A slower kind of bazaar.Coro Commons is our way of opening up the Coro spirit to everyone with a vibrant, one-day gathering where stalls, stories, and shared experiences come together under one roof. While it may look like a market, it\u2019s more than that. This is a space to create, connect, and be, with hands-on experiences for both kids and adults, playful interactions, creative expressions, and yes, some beautiful things to take home too.We\u2019re thrilled to be hosting Merchants of Happiness - India\u2019s first-ever child-led pop-up - built on the belief that children are not just the future, but the present. Over the past two years, MOH has worked with over 600 children across schools and NGOs, co-creating joyful, inclusive spaces where children aged 7 to 21 lead their own stalls, offering everything from food and books to pre-loved toys, DIY stations, and delightful performances.Though Coro is a space that celebrates parents and families, Coro Commons is for everyone. Whether you\u2019re coming with a little one in tow, on your own, or with a friend, you\u2019ll find something that sparks joy, curiosity, or a new connection. And in the spirit of truly welcoming families, all kids walk in free - no age limits, no exceptions.We\u2019re not here to sell stuff. We\u2019re here to gather with purpose\u2014to make space for mess, meaning, and a little magic.This isn\u2019t just a bazaar. This is Coro Commons. Let\u2019s gather differently.At Coro, we also care deeply about sustainability. In that spirit, we gently encourage you to take public transport where possible. While we don\u2019t have dedicated parking, there\u2019s ample space to park on the street if you choose to drive in.",
@@ -2322,54 +2175,6 @@
     "keywords": [
       "Leisure",
       "Pop-up Event",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Pasolini Pa* Palestine (2005) with TPCC",
-    "description": "\u201cPasolini Pa* Palestine is an attempt to repeat Pasolini\u2019s trip to Palestine in his film, It adapts his script into a route map superimposed on the current landscape, creating contradictions and breaks between the visual and the audible, the expected and the real.The video explores the question of repetition. For Heidegger Wiederholung \u2018repetition, retrieval\u2019 is one of the terms he uses for the appropriate attitude toward the past. \u201cBy the repetition of a basic problem we understand the disclosure of its original, so far hidden possibilities.\u201dOur meetings consist of a screening of an arthouse film, followed by a discussion. The discussion is led by one of our members or sometimes a guest speaker and encourages members to share their thoughts and interpretations of the film.Who are The Parallel Cinema Club?A community-run film society, we are a collective of film enthusiasts who gather weekly to explore the world of cinema, discuss auteurs and themes, and occasionally host guest lectures. You follow us on Instagram on @theparallelcinemaclub and join our WhatsApp community.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C3F74C6932EE48D1AFD5AB9038FD6536_converted_webp.webp"
-    ],
-    "startDate": "2025-08-09T21:00:00+05:30",
-    "endDate": "2025-08-09T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
-      "latitude": "12.96722140000000000000",
-      "longitude": "77.63669820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "299.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "We're a community center for thoughtful, kind, and interesting events.",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97905-32594"
-      }
-    },
-    "url": "https://urbanaut.app/spot/pasolini-pa-palestine-2005-with-tpcc",
-    "keywords": [
-      "Leisure",
-      "Responsible",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -3070,6 +2875,54 @@
       "Local",
       "Pop-up Event",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Tajurba - A Sarangi Jugalbandi",
+    "description": "Tajurba: Sarangi Jugalbandi ft. Ustad Dilshaad Khan & Arhaan KhanAccompanied by Trilochan Kampli on TablaAugust 16 | Independence Day Special EditionThis Independence weekend, immerse yourself in the soul of India through the hauntingly beautiful strains of the sarangi\u2014an instrument once central to our classical traditions. Tajurba presents a rare jugalbandi between the legendary Ustad Dilshaad Khan, whose compositions have graced both stage and screen, and his 16-year-old son Arhaan Khan, making his much-awaited debut.Joined by Trilochan Kampli\u2014the master tabla accompanist and curator of Tajurba\u2014this evening is a tribute to the inheritance of sound, tradition, and artistic legacy.Come celebrate freedom by returning to our roots. Experience a revival of Indian classical music that speaks not just to the past, but to the future.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F5BEFB0A4B2C4F439F33D706EE76B465_converted_webp.webp"
+    ],
+    "startDate": "2025-08-16T19:00:00+05:30",
+    "endDate": "2025-08-16T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Shop No 55, Lavelle Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJO-UQI3kWrjsRX4RrcTXqDz4",
+      "latitude": "12.97014270000000000000",
+      "longitude": "77.59759550000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 100,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Concoction Events",
+      "description": "Niche & carefully curated events.",
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/42A50C80C7514FEABF6115A6D6A8497F_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99010-00066"
+      }
+    },
+    "url": "https://urbanaut.app/spot/tajurba-sarangi-jugalbandi",
+    "keywords": [
+      "Music",
+      "Premium",
+      "Art & culture",
       "URBANAUT"
     ]
   }
