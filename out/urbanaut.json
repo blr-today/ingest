@@ -438,7 +438,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 190,
+    "remainingAttendeeCapacity": 188,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -487,7 +487,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 194,
+    "remainingAttendeeCapacity": 193,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -681,7 +681,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 38,
+    "remainingAttendeeCapacity": 37,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -781,7 +781,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -855,119 +855,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Italia x Noble Roots (Bar Takeover)",
-    "description": "You're InvitedAn Evening of Botanical Cocktails & Global FlavourWe're thrilled to invite you to an exclusive Bar Takeover with Tony Pescatori \u2013Nightjar London \u2013 a fixture on the World\u2019s 50 Best Bars list \u2013 Tony now helmsNoble Roots in Belgrade.Expect an immersive evening of thoughtfully crafted cocktails, curated hospitality,and conversations over exceptional drinks.https://drive.google.com/file/d/1kdnV-qh6ak1u1I6GCjTuPBHDwM0kT-bO/view?usp=sharing",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2C0BEFCABA564889A0ED2CA8F224FD3B_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F9EAEEBD864B489781350BEBC7D073ED_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/114D28B11DCF46A4A741A58B0ACF481D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D1297E6D0CEB4A22AE4F7E2DC85DC4DE_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/90B819B54CB94827A201BD81C9EE19AE_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/544C6E1AE93842BEAF3BD56BFAB66E01_converted_webp.webp"
-    ],
-    "startDate": "2025-08-08T20:00:00+05:30",
-    "endDate": "2025-08-08T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "The Park, 14/7, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Ashok Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJW8yOqZwWrjsR2Uy7MByZoCs",
-      "latitude": "12.97403740000000000000",
-      "longitude": "77.61931040000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2999.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "THE Park Bangalore",
-      "description": "**Here\u2019s a condensed version of the text:**  THE Park, Bangalore is a luxury boutique hotel with 109 rooms. It offers various dining options like Monsoon (seasonal Indian cuisine), Aqua (poolside dining and tequila bar), Tap Room (craft beer), and I-Bar (cocktail lounge and nightclub).",
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/449DE05ECDF145459E37C3C09EA7AC70_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-76250-34760"
-      }
-    },
-    "url": "https://urbanaut.app/spot/italia-x-noble-roots-bar-takeover",
-    "keywords": [
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Private Guided Tour of the Automotive Wonders!",
-    "description": "For a limited group of individuals, we will open out a treasure trove hidden in Bangalore!\u00a0You will get to experience the restoration, preservation & collection of Historic Cars, Motorcycles, Carriages and all things automotive passionately built over the past 40 years!\u00a0",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/267EFB8AA9F0450AA883399664650B2A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/ddldkdewgn-1712995585619img97062jpg.JPG",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9D75D481AC624715B37180C9F98B7B0D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/xvx9k6vd6n-1712995612324img97352jpg.JPG",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/rbdhsgdiid-1714284143709img2423jpg.JPG",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1vhetrg7al-1712995643033img97732jpg.JPG",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gdwlreb8bs-1712998591373img9525jpg.JPG",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DEAB942307E34AE996FAF649846D11F6_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/i2fdwqdodz-1712995836589img9671jpg.JPG",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D399EA9235B84674BD6A22607E7AC520_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A5E35C74C4F549DC9893D92E77701063_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/gjvd4xvgdd-1712998850818img9797jpg.JPG"
-    ],
-    "startDate": "2025-08-09T09:30:00+05:30",
-    "endDate": "2025-08-09T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Rajarajeshwari Nagar, Bengaluru, Karnataka, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJz5ILsP8-rjsR5pwHymp-1i0",
-      "latitude": "12.91486030000000000000",
-      "longitude": "77.52063950000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 6,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Classic Chase",
-      "description": "Immerse yourself in an era gone by...",
-      "url": "https://urbanaut.app/partner/classicchase",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/tbldsoggmx-1712814161108classicchaselogojpg.jpg",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98809-00009"
-      }
-    },
-    "url": "https://urbanaut.app/spot/private-guided-tour-of-the-automotive-wonders-of-the-world-7938",
-    "keywords": [
-      "Premium",
-      "Walking Tour",
-      "History & heritage",
-      "Guided tour",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Zine-Making Workshop: Stories of Freedom",
     "description": "\u200bWhat is freedom, if not the courage to tell your own story?\u200bCome sit with us, and put your truth on paper. In this workshop, you will create a\u00a0perzine\u00a0\u2014 a personal, handmade magazine filled with your memories, dreams, and reflections.\u200bA perzine is a place where your voice can live freely, in words, images, and art \u2014 a diary and a storybook, all your ownNo experience is needed \u2014 only your curiosity and heart.\u200bAll materials will be provided.Come write your freedom, page by page.",
@@ -1019,56 +906,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Once Upon A Farm!",
-    "description": "ONCE UPON A FARM!!!A Morning of Play, Animal Stories, and Discovery for FamiliesStep into a joyful, earthy world where stories meet play and imagination runs wild! Designed for children and their grown-ups, this event brings together hands-on fun, cultural storytelling, and sustainable toys \u2014 all under one roof.When: Saturday, 9 August, 4:30 pm onwardsWhere: Kavade Store, BangaloreAge group: Best for 2-6 year oldsWhat to Expect:\u00a01. Story CornerSnuggle in for\u00a0an interactive storytelling sessions featuring delightful tales of Indian farm animals and village life, by seasoned storyteller and author. Join us as we moooooove, sing, and imagine alongside the animals of our countryside.2. Open-Ended Invitation to Play Zones\u00a0Let curiosity lead the way! Your little ones will explore and discover farm animals through:Sensorial play with hay, stones, sticks, seedsWooden animal figurines and blocks for imaginative role playCraft activities that encourage creative expressionArt and craft activities that foster imagination and develop their fine motor skillsThese activities are designed to foster sensory exploration, self-direction, and shared play.3. Try before you BuyWill my child like it? Will they get bored within 5 minutes? How do I engage my child with an open ended toy like this? Get all these questions answered and more. Explore and test a curated range of wooden, open-ended toys by Gubbacchi Kids with your little ones.\u00a0\u00a04.\u00a0Meet The MakersMeet the makers at Gubbacchi Kids! A chance to chat with the creators about toy safety, design, and play philosophy.\u00a05. Join the First ADDA community.\u00a0It takes a village. Welcome to ours. Meet other likeminded parents, kids, community spaces and brands who are creating a mindful, value aligned childhood ecosystem. ",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CFD7728AFFBC4C07BA0F7A10CF749E4C_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E19DBFD7C9F14FA79A30C2BF89DCD88D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D92E6AC1CF1B46A2A38DDC456ACAA862_converted_webp.webp"
-    ],
-    "startDate": "2025-08-09T16:30:00+05:30",
-    "endDate": "2025-08-09T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "#143, CKN Chambers, 1st Main Rd, Sripuram, Kumara Park West, Seshadripuram, Bengaluru, Karnataka 560020, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJpzgZCTwWrjsR5piiCzCeHO4",
-      "latitude": "12.99439450000000000000",
-      "longitude": "77.57822960000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 29,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "First Adda",
-      "description": null,
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/918B9B7A32B046DFB7E4E40D4C3EB77A_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98200-62881"
-      }
-    },
-    "url": "https://urbanaut.app/spot/once-upon-a-farm-7960",
-    "keywords": [
-      "Leisure",
-      "Pop-up Event",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Indigo Workshop",
     "description": "INDIGO TIE AND DYE WORKSHOPAn immersive, hands-on session for FamiliesUncover the timeless magic of indigo in this immersive, hands-on workshop that blends art, craft, culture, and sustainability. Indigo is more than just a color - it's a centuries-old dye with deep roots in textile traditions from India, Japan, Africa, and beyond. Known for its rich, deep blue hues, indigo has been used to tell stories, mark identities, and dye fabrics in both everyday life and ceremonial settings.When: Saturday, 9 August, 11 am onwardsWhere: Ambara Store, BangaloreAge group: 10 and aboveIn this workshop, participants will be introduced to the natural indigo dyeing process, understanding how leaves from the indigofera plant are transformed into a vibrant blue pigment through fermentation and oxidation. You'll learn how traditional indigo vats are prepared and witness the magical moment when fabric pulled from the dye appears green and then slowly turns blue before your eyes - a fascinating chemical transformation that's as meditative as it is beautiful.The experience will guide you through various shibori-inspired tie-dye techniques - folding, binding, stitching, clamping, and knotting - to resist dye and create striking, organic patterns. Whether you prefer structured designs or free-flowing experimentation, you\u2019ll have the space and guidance to express your creativity.What to expect:A brief history and cultural background of indigo across different culturesAn introduction to natural dyeing and sustainable textile practicesBrief explanation on preparing and maintaining an indigo vatHands-on experimentation with tie-dye techniquesMindful, sensory engagement with fabric, color, and processThe joy of slow making and crafting something uniquely your ownSuitable for all ages and experience levels, the workshop is a fun, creative, and sensory-rich experience suitable for all skill levels. It is a wonderful way to reconnect with traditional crafts, engage in a tactile learning experience, and walk away with your own hand-dyed bandana.",
@@ -1090,7 +927,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1140,7 +977,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 77,
+    "remainingAttendeeCapacity": 71,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1191,7 +1028,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 43,
+    "remainingAttendeeCapacity": 24,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1220,55 +1057,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "One Material at a Time",
-    "description": "With a background in textiles and a Master\u2019s in Material Futures from Central Saint Martins, Shubhi Sachan works at the intersection of craft, science, and sustainability. She founded the Material Library of India to explore circular uses for post-industrial and agricultural waste. Her work challenges conventional disposal methods, advocating for systems that avoid landfills and incineration, and reflects a strong commitment to material innovation and climate conscious design.Venue: Sabha, Bangalore",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/115B5C4E0FD14CEFBDD743F835274110_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7BC4208F5E334FC1BBE84A7DCBC21F25_converted_webp.webp"
-    ],
-    "startDate": "2025-08-10T11:00:00+05:30",
-    "endDate": "2025-08-10T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
-      "latitude": "12.98348400000000000000",
-      "longitude": "77.61101699999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 60,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "950.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Oorjaa",
-      "description": null,
-      "url": "https://urbanaut.app/partner/oorjaa",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4DA26D438E8D4498A28B9FAF3A0C8C29_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98107-87422"
-      }
-    },
-    "url": "https://urbanaut.app/spot/one-material-at-a-time",
-    "keywords": [
-      "Responsible",
-      "Workshop",
-      "Eco Friendly",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Putting Weeds to Work",
     "description": "Join us for a thought-provoking session with Dr. Tarsh Thekaekara Co-founder, The Shola Trust and The Real Elephant CollectiveDiscover how Lantana camara, a disruptive forest invasive, is being transformed by artisans into striking, sustainable forms that challenge how we see waste and craft.\u00a0Dr. Tarsh Thekaekara is a conservationist and researcher based in the Nilgiris. He focuses on human-elephant interactions and the removal of Lantana camara through self-sustaining methods. He co-founded The Shola Trust and The Real Elephant Collective, whose lantana sculptures support tribal artisans and raise global awareness.",
@@ -1289,7 +1077,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 70,
-    "remainingAttendeeCapacity": 36,
+    "remainingAttendeeCapacity": 25,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1596,7 +1384,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 43,
+    "remainingAttendeeCapacity": 38,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1619,54 +1407,6 @@
     "keywords": [
       "Leisure",
       "Music",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Friday Ensemble",
-    "description": "Step into the weekend with the soul and swing of Friday Ensemble, Hamilton\u2019s signature sonic experience. This Friday, we\u2019re turning the dial up on smooth grooves, rich rhythms, and spontaneous jams \u2014 where jazz meets experimental vibes in a night of musical finesse.Let live melodies guide your evening, with a curated blend of seasoned artists and fresh talents improvising in harmony. Think smoky saxophones, sultry vocals, and a vibe that lingers long after the last note.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/95D73F0A345842E78D216BD3276A8BF2_converted_webp.webp"
-    ],
-    "startDate": "2025-08-08T20:00:00+05:30",
-    "endDate": "2025-08-08T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVTeAtXkRrjsRPyAJzdxl0HA",
-      "latitude": "12.98209230000000000000",
-      "longitude": "77.70862830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 200,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Hamilton",
-      "description": null,
-      "url": "https://urbanaut.app/partner/hamilton",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4CED7A4CC2AA4EC9BD02E06C4F0731E7_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-63620-01931"
-      }
-    },
-    "url": "https://urbanaut.app/spot/friday-ensemble",
-    "keywords": [
-      "Live GIG",
-      "Premium",
       "Food & drink",
       "URBANAUT"
     ]
@@ -1794,7 +1534,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1842,7 +1582,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 105,
+    "remainingAttendeeCapacity": 100,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1888,7 +1628,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 26,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1980,11 +1720,11 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 26,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
-      "price": "699.00",
+      "price": "0.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -2063,54 +1803,6 @@
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A83B94ECBBA3437D8B995794CB83BA7E_converted_webp.webp"
     ],
-    "startDate": "2025-08-10T15:30:00+05:30",
-    "endDate": "2025-08-10T16:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
-      "latitude": "12.98348400000000000000",
-      "longitude": "77.61101699999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 11,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Oorjaa",
-      "description": null,
-      "url": "https://urbanaut.app/partner/oorjaa",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4DA26D438E8D4498A28B9FAF3A0C8C29_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98107-87422"
-      }
-    },
-    "url": "https://urbanaut.app/spot/guided-walkthrough-with-the-founders-of-oorjaa#2025-08-10T1530",
-    "keywords": [
-      "Eco Friendly",
-      "Walking Tour",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Guided Walkthrough With the Founders of Oorjaa",
-    "description": "Discover Shades of Green \u2014 a space of light, material, and story, shaped around this years theme Songs of Nature.Venue: Sabha, Bangalore",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A83B94ECBBA3437D8B995794CB83BA7E_converted_webp.webp"
-    ],
     "startDate": "2025-08-12T11:00:00+05:30",
     "endDate": "2025-08-12T11:30:00+05:30",
     "location": {
@@ -2124,7 +1816,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2143,7 +1835,7 @@
         "telephone": "+91-98107-87422"
       }
     },
-    "url": "https://urbanaut.app/spot/guided-walkthrough-with-the-founders-of-oorjaa#2025-08-12T1100",
+    "url": "https://urbanaut.app/spot/guided-walkthrough-with-the-founders-of-oorjaa",
     "keywords": [
       "Eco Friendly",
       "Walking Tour",
@@ -2203,27 +1895,30 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Coro Off Duty: Supper Club",
-    "description": "Coro Off Duty: A Night for You, While the Kids Play TooJoin us for an intimate, themed Supper Club evening at Coro - a beautiful night of grazing, mingling, and meaningful conversation with fellow parents. While you unwind and connect over a hand-curated menu of continental-inspired bites (think Chicken Filo Moussaka, Creamy Pesto Gnocchi, and Orange Portokalopita), your little ones will be entertained at our cozy Pajama Party, complete with open-ended play and gentle supervision.Whether you're looking to make new connections or simply enjoy a slow evening with familiar faces, this one\u2019s for you. Limited spots. Real talk. Great food. No judgment.About the chef:Chef Samara - originally from Bangalore, raised in Dubai - where she was lucky to grow up surrounded by friends from all over the world. That early exposure to diverse cultures and cuisines sparked her curiosity in the kitchen.What she loves most about being a chef is the freedom to explore flavours and techniques from different parts of the world and blend them into something new. There\u2019s nothing more fulfilling than watching someone enjoy a meal she's created: it\u2019s where all the effort finds its purpose.",
+    "@type": "EducationEvent",
+    "name": "Listening to Your Body: Move with Ease & Awareness",
+    "description": "What if staying active isn\u2019t about pushing harder, but about listening better?This gentle, movement-based workshop is designed to help you reconnect with what your body truly needs right now. Whether you're going through a life change, feeling stuck in old habits, or simply want to feel more at ease in your body, this session offers a calm, supportive space to slow down, move with awareness, and reset.Led by Sandeep Selvakumar, a movement coach who helps people live with less pain and more ease, the session will include simple practices to help you:Notice what your body is trying to tell youUnderstand how your needs around sleep, food, and energy are changingLet go of outdated ideas about exercise and fitnessShift from \u201cdoing more\u201d to \u201cfeeling more present\u201dIt\u2019s a chance to reset, reflect, and learn simple ways to care for your body every day.What You\u2019ll Experience:Gentle, guided movement and body-awareness practicesThoughtful partner conversationsTools to help you check in with your body daily\"Ask Me Anything\" with Sandeep \u2014 come with questions!Sandeep helps people move with ease and feel good in their bodies again. He works especially with people who\u2019ve had long-term pain or stress in their body. His approach combines movement, psychology, and everyday habits to help you build a better relationship with your body, without pressure or judgment.",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4CB85C1DA3D04F42AA06B7E51D8D3D8D_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B17E456DF85748DFAC8B2A6FBB94CD7E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B30A6ECCBBF14010815FB09B7BB4B37A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A8CF2665FCCD43B3BF23E25183405045_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AF8019AE6A62464684D1883E20558C32_converted_webp.webp"
     ],
-    "startDate": "2025-08-08T17:00:00+05:30",
-    "endDate": "2025-08-08T21:00:00+05:30",
+    "startDate": "2025-08-30T10:30:00+05:30",
+    "endDate": "2025-08-30T13:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
-      "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3S2OrvsVrjsRBOql1X-UnAM",
-      "latitude": "12.96068750000000000000",
-      "longitude": "77.63718750000001000000"
+      "address": "7, 4th Main Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJhSp5dRwUrjsRNW96_uW6-Gk",
+      "latitude": "12.96668260000000000000",
+      "longitude": "77.63529030000000000000"
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 15,
-    "typicalAgeRange": "12+",
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
       "price": "2000.00",
@@ -2232,19 +1927,20 @@
     },
     "organizer": {
       "@type": "Organization",
-      "name": "Coro",
-      "description": null,
-      "url": "https://urbanaut.app/partner/corospace",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/0F2E55DAAA19467D96CA7AFC8F33B7A0_converted_webp.webp",
+      "name": "Zuva Life",
+      "description": "We change\u2014and sometimes the life around us needs to catch up. Zuva Life offers gentle spaces to pause, reflect, and reimagine what comes next. These experiences invite you to explore life\u2019s shifts with curiosity, not pressure. A soft place to wonder, not to fix.",
+      "url": "https://urbanaut.app/partner/zuvalife",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/779F6F6E344F4386BCFBCCE7E0E0E57F_converted_webp.webp",
       "contactPoint": {
         "@type": "ContactPoint",
-        "telephone": "+91-94466-91720"
+        "telephone": "+91-99454-10037"
       }
     },
-    "url": "https://urbanaut.app/spot/coro-off-duty-supperclub",
+    "url": "https://urbanaut.app/spot/listening-to-your-body-move-with-ease-and-awareness",
     "keywords": [
       "Premium",
-      "Responsible",
+      "Wellness",
+      "Workshop",
       "URBANAUT"
     ]
   },
@@ -2270,7 +1966,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 37,
+    "remainingAttendeeCapacity": 27,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2303,7 +1999,7 @@
     "name": "The Little Big's Sustainability Studio",
     "description": "The Little Big's Sustainability Studio is a hands-on + play-based Life Skills Workshop where children and their families rediscover the value of repair, reuse, and conscious consumption. It\u2019s a space to build practical skills, nurture sustainable habits, and take small, powerful steps toward a future that cares for what we have\u2014and what we leave behind.Workshop 1: All Things Fabric invites families to bring things that they would like to Repair (Clothes/ Bags/ Zippers)Upcycle existing fabric to make a variety of lifestyle products for each member of the family including their furry friends.Create a whole new look for their existing Denims (Jackets/ Jeans/Bags) that can be brought in/ shopped at our Thrift StoresAll this through fun quizzes and games on Sustainability!Limited to 25 Families on First come First Serve Basis only",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8CC5BCED34544FF4952153D6DB4ABD5B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/74E4AD815C4E4D018076D76F7144A6A7_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/807F118C7E1B4E88B80E97133B6B6469_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C900307ABFEB453A88CA230DC70EF7C3_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/69DF6FF5887B44E190A8C527A443660D_converted_webp.webp",
@@ -2352,55 +2048,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Common Chord - Jam Night",
-    "description": "Step into the rhythm of Common Chord - Jam Night at MyBoTree.\u00a0A cozy evening where unplugged music, moods, and minds meet.\u00a0No stage, no pressure but just a shared love for sound and spontaneous expression.\u00a0Let the music flow, let it take control, all and everyone are welcome.Whether you\u2019re a musician, poet, singer, storyteller, or just someone who finds joy in listening, this space is for you.\u00a0Come as you are, bring what you have, and let\u2019s find our common chord.Everyone\u2019s welcome - performers, listeners, supporters and wanderers",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B0CFE0B1A2104C7992310504E73CE6B6_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/05E9D4B09B81493CBC0B879B5B1BB184_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0613DA69FAAB44DE9B5A6F75ADF4D21B_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/69BD717AC2B34B1D9AB77B2838308F2B_converted_webp.webp"
-    ],
-    "startDate": "2025-08-08T18:00:00+05:30",
-    "endDate": "2025-08-08T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "85, 2nd Main Rd, next to Barbeque Nation, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_yQx2EQUrjsRLy5eRCQadTE",
-      "latitude": "12.92571550000000000000",
-      "longitude": "77.63712579999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "150.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "MyBoTree",
-      "description": "MyBoTree, founded by three women, is a vibrant hub for purpose-driven programs focused on joyful, transformative experiences that empower communities and individuals to grow and connect. They actively partner with social enterprises and non-profits.",
-      "url": "https://urbanaut.app/partner/mybotree",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/80CE1DD8F6654CE9B20F9BB92A5183A2_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-63641-01183"
-      }
-    },
-    "url": "https://urbanaut.app/spot/common-chord-jam-night",
-    "keywords": [
-      "Music",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Half-day Someone | A board game designer",
     "description": "\ud83c\udfb2\u00a0Step into the World of Board Game Design!Have you thought about how board games go from an idea to a tabletop hit? Spend half a day with a passionate board game designer, diving into the world of strategy, storytelling, and playful creativity. This experience will let you peek behind the curtain of board game design, level up your analytical thinking, unlock your creative side, and walk away with a mini-game you dreamed up!What you'll do -Icebreaker & IntroductionMeet your host - Sai.Get a quick intro to the world of board game design: genres, mechanics, and what makes a game tick.Play a short warm-up game to loosen up and spark ideas.Design Basics & BrainstormingLearn about key elements: game mechanics, theme, components, and balance.Brainstorm concepts in small groups or pairs.Pick an idea and sketch out your mini-game concept.Prototype & PlaytestUse simple materials (paper, tokens, dice) to prototype your game.Playtest your creations\u2014see what works and what needs tweaking!Feedback & IterationDiscuss what worked, what didn\u2019t, and how real designers iterate.Learn practical tips on testing, publishing, and joining the board game community.\u2728 What You\u2019ll Leave With:A mini-game concept of your ownInsights into how board games are designed, tested, and brought to lifeA fun half-day packed with creativity, collaboration, and a dose of friendly competition!",
     "image": [
@@ -2422,7 +2069,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 6,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2468,7 +2115,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 13,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2502,54 +2149,6 @@
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/99110CEA6FD640FBA0683E61181648BA_converted_webp.webp"
     ],
-    "startDate": "2025-08-08T09:00:00+05:30",
-    "endDate": "2025-08-08T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
-      "latitude": "12.98348400000000000000",
-      "longitude": "77.61101699999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 32000,
-    "remainingAttendeeCapacity": 31996,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Oorjaa",
-      "description": null,
-      "url": "https://urbanaut.app/partner/oorjaa",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4DA26D438E8D4498A28B9FAF3A0C8C29_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98107-87422"
-      }
-    },
-    "url": "https://urbanaut.app/spot/walk-in-registration#2025-08-08T0900",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Walk-In Entry Registration",
-    "description": "This ticket allows you to pre-register for free general entry to the event. Submit your contact details and show your confirmation at the venue for seamless access.Includes:Free entry to the event venueAccess to public and open areas onlyDoes NOT Include:Entry to workshops, talks, or other paid sessionsAccess to any exclusive or pre-booked activitiesNote:One ticket per personNo payment requiredPlease present your Urbanaut confirmation (QR code or email) at the entry pointVenue: Sabha, Bangalore",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/99110CEA6FD640FBA0683E61181648BA_converted_webp.webp"
-    ],
     "startDate": "2025-08-09T09:00:00+05:30",
     "endDate": "2025-08-09T20:00:00+05:30",
     "location": {
@@ -2563,7 +2162,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 32000,
-    "remainingAttendeeCapacity": 31991,
+    "remainingAttendeeCapacity": 31964,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2611,7 +2210,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 32000,
-    "remainingAttendeeCapacity": 31991,
+    "remainingAttendeeCapacity": 31982,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2659,7 +2258,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 32000,
-    "remainingAttendeeCapacity": 31991,
+    "remainingAttendeeCapacity": 31987,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2707,7 +2306,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 32000,
-    "remainingAttendeeCapacity": 31998,
+    "remainingAttendeeCapacity": 31996,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2834,57 +2433,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Friday Workday Deli Counter",
-    "description": "Friday Work Deli CounterWant to spend a day in the heart of Bangalore on a work-day, sipping on a cool drink and enjoying the beautiful tree-top views?Come spend a working day with us at the Studio by Copper + Cloves!People find that they are more productive than usual at this space. This Friday we are bringing back our deli- counter with a wholesome, delicious, nourishing spread!Nourish yourself at our \u2018all you can eat\u2019 deli counter and work from our beautiful cafe/co-working space at the Studio!Tip: Bring your workout gear and jump into one of our classes at the Studio. ",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4ABB385FADBE48B7B2FF1CDFF3CD5AE8_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F3E42C68A70D4540A7406B5D1B8EC2D1_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/868E70E030144AE9B9D677ADE67566A8_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/20A766AD4B494AF8A9C2A944DE8A98F4_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DD71759163C748F291F4E2E58050566C_converted_webp.webp"
-    ],
-    "startDate": "2025-08-08T11:30:00+05:30",
-    "endDate": "2025-08-08T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Copper + Cloves",
-      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
-      "latitude": "12.96391480000000000000",
-      "longitude": "77.63842380000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 6,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "750.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Copper + Cloves",
-      "description": "We are all about nourishing food and creating spaces for connection!",
-      "url": "https://urbanaut.app/partner/copperandcloves",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/nshsfsskhh-1712642015732ccbnwlogo011jpeg.jpeg",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97319-30303"
-      }
-    },
-    "url": "https://urbanaut.app/spot/friday-workday-deli-counter-august",
-    "keywords": [
-      "Wellness",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Coro Commons",
     "description": "Welcome to Coro Commons!A new kind of community gathering. A slower kind of bazaar.Coro Commons is our way of opening up the Coro spirit to everyone with a vibrant, one-day gathering where stalls, stories, and shared experiences come together under one roof. While it may look like a market, it\u2019s more than that. This is a space to create, connect, and be, with hands-on experiences for both kids and adults, playful interactions, creative expressions, and yes, some beautiful things to take home too.We\u2019re thrilled to be hosting Merchants of Happiness - India\u2019s first-ever child-led pop-up - built on the belief that children are not just the future, but the present. Over the past two years, MOH has worked with over 600 children across schools and NGOs, co-creating joyful, inclusive spaces where children aged 7 to 21 lead their own stalls, offering everything from food and books to pre-loved toys, DIY stations, and delightful performances.Though Coro is a space that celebrates parents and families, Coro Commons is for everyone. Whether you\u2019re coming with a little one in tow, on your own, or with a friend, you\u2019ll find something that sparks joy, curiosity, or a new connection. And in the spirit of truly welcoming families, all kids walk in free - no age limits, no exceptions.We\u2019re not here to sell stuff. We\u2019re here to gather with purpose\u2014to make space for mess, meaning, and a little magic.This isn\u2019t just a bazaar. This is Coro Commons. Let\u2019s gather differently.At Coro, we also care deeply about sustainability. In that spirit, we gently encourage you to take public transport where possible. While we don\u2019t have dedicated parking, there\u2019s ample space to park on the street if you choose to drive in.",
@@ -2933,54 +2481,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "OriginalDog presents Unfiltered: Blues",
-    "description": "An evening of Original entertainment from OriginalDog\u201cFor me there is something primitively soothing about this music, and it went straight to my nervous system, making me feel ten feet tall.\u201d \u2015 Eric ClaptonWhat is about this genre of music that evokes so much emotion? What is the history behind the evolution of this musical form?OriginalDog presents \u2018Unfiltered\u2019, is an evening of discovering something new, having an unique experience and in the process have a new unfiltered view of this world.Join us as we journey into the world of the Blues.Writer and blues enthusiast Kavya Murthy will take us on an audio-visual journey through the history of the Blues.Also joining us will be Bruce from TAAQ, who will share some of his latest experiments with blues-y forms, and perhaps even share a song or two, live!See you at Unfiltered!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B5CAF6B9FB0B4A59A057D5E3A438A1E0_converted_webp.webp"
-    ],
-    "startDate": "2025-08-08T20:00:00+05:30",
-    "endDate": "2025-08-08T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
-      "latitude": "12.96722140000000000000",
-      "longitude": "77.63669820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "We're a community center for thoughtful, kind, and interesting events.",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97905-32594"
-      }
-    },
-    "url": "https://urbanaut.app/spot/originaldog-presents-unfiltered-blues",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Whimsical Weekend with Improv Lore",
     "description": "We bring you some whimsy this weekend for those who can\u2019t make it to our Wednesday jams.Whether you\u2019re a novice to theatre, a maverick on stage, or just dipping your toes into the world of unscripted performance, this Jam is designed for everyone. Our facilitators will guide you through a series of engaging improv exercises, help you explore new characters, and set up scenarios that will make your inner wit shine - all on the spot!Come as you are, leave your inhibitions at the door, and join us on this journey of endless possibility.Bring a friend, a date, or a group - our brave space is for everyone!Who are Improv Lore?We are Bangalore-based community-theatre troupe, works towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical. We meet on Wednesdays for Jams, and on weekends for workshops.You can follow us on Instagram at @improvlore and join our WhatsApp community.",
     "image": [
@@ -2999,7 +2499,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3077,54 +2577,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Ceramic Sneaker Postcard Painting",
-    "description": " Ceramic Sneaker Postcard Painting with Socially Silly Unleash your creativity and bring your dream sneaker to life - on a ceramic postcard! What to expect: A unique 3D ceramic sneaker postcard\u2014yours to design! All painting materials provided (just bring your imagination!) A chance to paint your dream sneaker with your own custom design A relaxing, creative experience perfect for sneakerheads & art lovers alike Take home your one-of-a-kind masterpieceLet your inner designer shine\u2014no experience needed, just good vibes and creativity!About the artist: Socially Silly is a community of friends who thrive on art, craft, fun conversations and shared interests. We organize workshops and silly little art parties that give people the leisure of taking their time exploring their creativity and unwinding. We would like everybody to be able to join us, even if they\u2019ve never picked up a paintbrush before. We\u2019re creating a safe space together to explore and make something with your own hands. Come embrace the mess, the mistakes and get silly with us ",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CD783A915EDE4A31A52675EB47432EBB_converted_webp.webp"
-    ],
-    "startDate": "2025-08-09T16:00:00+05:30",
-    "endDate": "2025-08-09T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
-      "latitude": "12.96722140000000000000",
-      "longitude": "77.63669820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1599.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "We're a community center for thoughtful, kind, and interesting events.",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97905-32594"
-      }
-    },
-    "url": "https://urbanaut.app/spot/ceramic-sneaker-postcard-painting",
-    "keywords": [
-      "Premium",
-      "Wellness",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Pasolini Pa* Palestine (2005) with TPCC",
     "description": "\u201cPasolini Pa* Palestine is an attempt to repeat Pasolini\u2019s trip to Palestine in his film, It adapts his script into a route map superimposed on the current landscape, creating contradictions and breaks between the visual and the audible, the expected and the real.The video explores the question of repetition. For Heidegger Wiederholung \u2018repetition, retrieval\u2019 is one of the terms he uses for the appropriate attitude toward the past. \u201cBy the repetition of a basic problem we understand the disclosure of its original, so far hidden possibilities.\u201dOur meetings consist of a screening of an arthouse film, followed by a discussion. The discussion is led by one of our members or sometimes a guest speaker and encourages members to share their thoughts and interpretations of the film.Who are The Parallel Cinema Club?A community-run film society, we are a collective of film enthusiasts who gather weekly to explore the world of cinema, discuss auteurs and themes, and occasionally host guest lectures. You follow us on Instagram on @theparallelcinemaclub and join our WhatsApp community.",
     "image": [
@@ -3167,6 +2619,57 @@
       "Leisure",
       "Responsible",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Music From Wine Lands - Project Grape Juice 2.0",
+    "description": "\u201cProject Grape Juice\u201d is a fun, musical extension of the Wine Community BLR in collaboration with Crab Culture. This is our attempt to bridge the gap between the cellar and the stage, creating a new space where great music, scrumptious food and good wine flow together in style. We are here to redefine the wine experience by infusing it with carefully curated music, creativity, and a sense of shared discovery.As we celebrate the third anniversary of Wine Community BLR, We're absolutely thrilled to unveil it with a second edition of Project Grape Juice! This time, we raise our glasses to an epic blend of tunes and terroir! we're serving up \u201cMUSIC FROM WINE LANDS\u201d. Come along for an evening of luscious wines, epic tunes, and a joyful throwback to the roots of our adventure!Artist line-up:French - TonkatsukittyAfro - PriyanshaItalian - ShruthIn the cellar: Handpicked selection of wines from BrindcoTime \u2013 5pm \u2013 9pmVenue \u2013 JW Marriott UB City, Lavelle RoadDate \u2013 23rd August, 2025NOTE: A LIMITED TICKET EVENT..!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6D3F1ECCA51747E29864EC1159A9B45E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8F018D480DE94A2AAE73AEC4E83203BD_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D2198673519E401B83F487520E9918CE_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/46E27A5BB85C474DB6FA89CA507330ED_converted_webp.webp"
+    ],
+    "startDate": "2025-08-23T17:00:00+05:30",
+    "endDate": "2025-08-23T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "24/1, Vittal Mallya Rd, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJSWBhxHkWrjsRK6iI2w8G5yE",
+      "latitude": "12.97236180000000000000",
+      "longitude": "77.59505130000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 195,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Wine Community Blr",
+      "description": "Wine Community BLR is a squad of spirited young wine lovers from the industry on a mission to jazz up the city's grape scene. We're all about smashing those dusty stereotypes and turning wine into the life of the party!",
+      "url": "https://urbanaut.app/partner/winecommunityblr",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/5BF9473462CA4A0C9C91C7C3B036FF7D_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97908-09050"
+      }
+    },
+    "url": "https://urbanaut.app/spot/project-grape-juice-20-music-from-wine-lands",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -3223,7 +2726,7 @@
     "@context": "https://schema.org",
     "@type": "ScreeningEvent",
     "name": "Film Screening \" Ali : Fear Eats the Soul \"",
-    "description": "Ali : Fear Eats The Soul (1974)By Rainer Werner Fassbinder / 93' / German\u00a0An older lonely widow meets a much younger Arab worker in a bar during a rainstorm. They fall in love, to their own surprise and to the outright shock of their families, colleagues, and drinking buddies.In Ali: Fear Eats the Soul, Fassbinder expertly wields the emotional power of classic Hollywood melodrama to expose the racial tensions underlying contemporary German culture.",
+    "description": "Ali : Fear Eats The Soul (1974)By Rainer Werner Fassbinder / 93' / German\u00a0An older lonely widow meets a much younger Arab worker in a bar during a rainstorm. They fall in love, to their own surprise and to the outright shock of their families, colleagues, and drinking buddies.In Ali: Fear Eats the Soul, Fassbinder expertly wields the emotional power of classic Hollywood melodrama to expose the racial tensions underlying contemporary German culture.In collaboration with Goethe-Institut / Max Mueller Bhavan",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/976489009F82458AB3E01C04E4209E4F_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6343912DFEA840D69649607B1530B56E_converted_webp.webp",
@@ -3271,55 +2774,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Lions Gate Full Moon Healing Circle",
-    "description": "A sacred evening to gather in circle\u2026To remember what our ancestors never forgot -how to sit together,breathe together,release what\u2019s oldand call in what\u2019s true.This 8:8 portal opens with the Full Moon in Aquarius (Vedic Astrology) - a powerful window of activation, release and remembrance.We\u2019ll start with a short round of introductions, a grounding practice and a simple talk on the energy of this full moon.Guided by the elements of fire and air, we\u2019ll journey through:\ud83c\udf6b Cacao Ceremony to open the heart and ground into the body\ud83c\udf33 Honoring the Ancestors \u2013 A Family Constellation Ritual to reconnect with our roots\ud83d\udd25 Tummo Breathwork to awaken inner fire\ud83d\udd6f Fire Release Ceremony to offer old stories to the flames - invoking the bold Lion within\ud83c\udfb6 Vocal Chakra Toning + Voice Activation \u2013 carried on the air to awaken truth and higher guidance.We\u2019ll close with a tarot guidance and space to share.Please bring a diary to journal, water or a shawl to feel cozy and comfortable.About the Facilitator:Maria is a psychic healer and guide, weaving 9 years of energy work into transformational spaces for emotional, spiritual and psychological healing. After a thriving corporate career in management, she followed the call of her soul to support others in their inner journeys. Her sessions blend Breathwork, Reiki, Access Bars, EFT, Tarot, Shadow Constellations, Active Meditations, Cacao Ceremonies and Shakta Tantra.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7BBDCB0C195A4B1E9A7B1A5FE82F8146_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C5D2D3AF879C4C06B25391071BE434AD_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A294D58A6BDA4173A6AC2CEFA0A84457_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/474C18A7AF50465AB17D3B9666BE7A18_converted_webp.webp"
-    ],
-    "startDate": "2025-08-08T19:00:00+05:30",
-    "endDate": "2025-08-08T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "46/1, N S Iyengar St, 4th Block, Kumara Park West, Seshadripuram, Bengaluru, Karnataka 560020, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJW8jMZz0WrjsRL9g8wjg8ZmI",
-      "latitude": "12.98949480000000000000",
-      "longitude": "77.57503910000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 6,
-    "remainingAttendeeCapacity": 6,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2220.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Ethereal Vibes",
-      "description": "Ethereal Vibes is where soulful healing meets cosmic sass. With 8+ years in energy work, I offer transformative sessions blending Breathwork, Reiki, Shadow Constellations, Access Bars and Tarot plus Reiki-infused products like chakra salts and crystal bracelets to support daily ritual and self-care.",
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/0DAD3DE0FC914DB3A925032EB48F0B19_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-96636-33440"
-      }
-    },
-    "url": "https://urbanaut.app/spot/lionsgate-full-moon-healing-circle",
-    "keywords": [
-      "Wellness",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Wine Tasting: Wine & Pizza Night, Bangalore!",
     "description": "It only happens once a year, and it sells out\u00a0every\u00a0time \u2014 Bangalore, our epic Wine & Pizza Night is back!Join Sommelier Devati Mallick (Founder & Curator, Drink With D Wine Experiences) for an evening topped with everything\u00a0epic: Delicious wine discoveries, fresh-out-the-oven wood-fired pizzas and the city\u2019s coolest wine-loving crew. All set against the breezy outdoor backdrop of\u00a0Olive Beach, one of Bangalore\u2019s most iconic venues.We\u2019ll pour you 5 stellar wines from around the world, each one paired with a fresh, oven-fired pizza that\u2019s made to match. Expect some bold sips, juicy wine stories, cheeky games, and more than a few epic \u201cdid-that-just-happen\u201d moments that are a signature at Drink With D events!Don't sleep on this. Come and spend a Saturday evening soaked in sunset feels, good wines, good vibes, and the city's super cool wine lovers.Limited seats \u2014 grab yours before they\u2019re gone!",
@@ -3346,7 +2800,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 23,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3543,7 +2997,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -3567,6 +3021,154 @@
       "Leisure",
       "Local",
       "COURTYARD",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Cake Painting Workshop",
+    "description": "Cake Painting WorkshopUnleash your inner artist \u2014 on cake! In this hands-on, edible art experience, you\u2019ll learn how to transform a plain frosted cake into a stunning painted masterpiece using edible colors and brushes. Our instructor will guide you through techniques for blending shades, creating textures, and painting beautiful designs directly onto your cake, just like you would on a canvas.No baking required \u2014 the cake and frosting will be prepped for you, so you can focus entirely on the fun, creative partPerfect for beginners and seasoned bakers alike, this workshop is ideal for a girls\u2019 day out, date night, or just a delightful afternoon of art you can eat. All materials are provided \u2014 just bring your creativity and your sweet tooth.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1EE06E39A78D4F4AA68FBD2757465790_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C58AE0C640F84AB3982F29E3E08D6B6D_converted_webp.webp"
+    ],
+    "startDate": "2025-08-24T11:00:00+05:30",
+    "endDate": "2025-08-24T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Shop No. 5, 153 Biere St, Hagadur Main Rd, Prestige Ozone, Whitefield, Bengaluru, Karnataka 560066, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJmUUWvvoNrjsRrWm5L-WqRTU",
+      "latitude": "12.96278730000000000000",
+      "longitude": "77.75096800000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "1799.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fired Up",
+      "description": "Dive into a world of creativity at Bangalore's premier craft studio. Our workshops provide all tools and supplies for a memorable experience, perfect for summer camps, weekend activities, birthdays, date activities, girls' nights out, or family fun.",
+      "url": "https://urbanaut.app/partner/firedup",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C2E1C2A73C73424E8B21B565BCD40306_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-72042-68464"
+      }
+    },
+    "url": "https://urbanaut.app/spot/cake-painting-workshop",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Lego Extreme Ninjas",
+    "description": "\u00a0Creativity Meets Action!Kids dive into the world of STEAM with LEGO\u00ae bricks. They learn, build, and play \u2014 all while boosting problem-solving, fine motor skills, and imagination!What to ExpectBuild a working NINJAGO\u00ae-themed model using Technic LEGO\u00ae elements.Create awesome 3D character builds inspired by NINJAGO\u00aeDesign colorful mosaic patterns of your favorite ninja heroes.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/51249CCF290D4CD0B7AF5A47C08551B7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DDAF43E7943C4EBC9DDAC5ED5973AFDE_converted_webp.webp"
+    ],
+    "startDate": "2025-08-24T15:00:00+05:30",
+    "endDate": "2025-08-24T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Shop No. 5, 153 Biere St, Hagadur Main Rd, Prestige Ozone, Whitefield, Bengaluru, Karnataka 560066, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJmUUWvvoNrjsRrWm5L-WqRTU",
+      "latitude": "12.96278730000000000000",
+      "longitude": "77.75096800000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "1999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fired Up",
+      "description": "Dive into a world of creativity at Bangalore's premier craft studio. Our workshops provide all tools and supplies for a memorable experience, perfect for summer camps, weekend activities, birthdays, date activities, girls' nights out, or family fun.",
+      "url": "https://urbanaut.app/partner/firedup",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C2E1C2A73C73424E8B21B565BCD40306_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-72042-68464"
+      }
+    },
+    "url": "https://urbanaut.app/spot/lego-extreme-ninjas",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Yoga in the wilderness, Cubbon park edition :))",
+    "description": "Join us for a serene and rejuvenating yoga session amidst the vast greenery of Cubbon Park, Bangalore. This free and open-to-all event invites you to connect with nature while grounding yourself through the power of yoga. Whether you\u2019re a beginner or an experienced yogi, this session, led by the experienced Rakshith, will help you find balance, flexibility, and peace. With over 7 years of experience guiding clients on their yoga journeys, Rakshith brings expertise and mindfulness to every session.The only contribution we ask for is punctuality, ensuring we can begin our practice together as one. Come with an open mind and a willing heart\u2014your mat, your breath, and the beautiful outdoors are all you need. See you on the mat!Join us for a serene and rejuvenating yoga session amidst the vast greenery of Cubbon Park, Bangalore. This free and open-to-all event invites you to connect with nature while grounding yourself through the power of yoga. Whether you\u2019re a beginner or an experienced yogi, this session, led by the experienced Rakshith, will help you find balance, flexibility, and peace. With over 7 years of experience guiding clients on their yoga journeys, Rakshith brings expertise and mindfulness to every session.The only contribution we ask for is punctuality, ensuring we can begin our practice together as one. Come with an open mind and a willing heart\u2014your mat, your breath, and the beautiful outdoors are all you need. See you on the mat!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/93ACAA0FDEDE4FE195AC31F2E32F5D52_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1D370A8E6F5D4B6A9766068D81A09E6B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7C1B4CE151B44F9AA96F2EFD54C3B0E7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A7729153377F44988388BEBC6C471CA6_converted_webp.webp"
+    ],
+    "startDate": "2025-08-10T09:00:00+05:30",
+    "endDate": "2025-08-10T10:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "XHJW+9QR, Cubbon Rd, Ambedkar Veedhi, Shivaji Nagar, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJa9IGFXYXrjsRsRxlSYAkZRU",
+      "latitude": "12.98097970000000000000",
+      "longitude": "77.59690560000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Rakshith, Triyanga yoga shala",
+      "description": "@triyangayogashala (instagram)",
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C514611B7DFF40FC820BBA93EC2A37A7_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/copy-of-yoga-in-the-wilderness-cubbon-park-edition-8096",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
       "URBANAUT"
     ]
   }
