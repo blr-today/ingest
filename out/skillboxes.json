@@ -45,6 +45,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "🥃 Pattiyala Night with DJ Ghost – 15th at 8 PM 🥃\nGet ready for a high-energy Pattiyala Night at Sky Mantra!\nThis 15th at 8 PM, DJ ",
+      "endDate": "2025-08-15T00:00:00",
+      "identifier": "com.skillboxes.26986",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ODhVam5veGJodDNwVjhobS9jRWowUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1754842732LhpDbwAHCUjK6KOu.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Live Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "7th Floor, GRAND KASTURI, VARTHUR MAIN ROAD SILVER SPRINGS LAYOUT MUNNEKOLALA, Lakshminarayana Pura, Marathahalli, Bengaluru, Karnataka 560037, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9571202",
+            "longitude": "77.7095372"
+         },
+         "name": "Sky Mantra Rooftop Taproom"
+      },
+      "name": "Pattiyala Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 160,
+            "name": "Pattiyala Night",
+            "url": "https://www.skillboxes.com/events/ticket/pattiyala-night"
+         }
+      ],
+      "startDate": "2025-08-15T08:00:00",
+      "url": "https://www.skillboxes.com/events/pattiyala-night"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Experience an electrifying night of beats and rhythms as CentiGrade Club Nights presents the dynamic MISS BLISS live at PANGEO this Saturday.Get ready to dance the night away to cutting-edge tunes and unforgettable",
       "endDate": "2025-08-17T01:00:00",
       "identifier": "com.skillboxes.26976",
@@ -509,49 +543,6 @@
       ],
       "startDate": "2025-08-22T06:00:00",
       "url": "https://www.skillboxes.com/events/bollywood-mehfil-by-mainstage"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Brace yourself for an offbeat ride — it’s the Cray’Beach x Satellite Beachside Pre-PartyFeaturing the Weird-Sounding Dude sonic disruptor live behind the console — expect unpredicta",
-      "endDate": "2025-08-11T01:00:00",
-      "identifier": "com.skillboxes.26815",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1754330528EFzNzs6Yn2hj9V2U.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "HOTEL, THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9923061",
-            "longitude": "77.58201"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Cray’Beach x Satellite Beachside Pre-Party Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
-            "inventoryLevel": 98,
-            "name": "Guestlist-Couple",
-            "url": "https://www.skillboxes.com/events/ticket/cray-beach-x-satellite-beachside-pre-party-bangalore"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 99,
-            "name": "Guestlist - Female",
-            "url": "https://www.skillboxes.com/events/ticket/cray-beach-x-satellite-beachside-pre-party-bangalore"
-         }
-      ],
-      "startDate": "2025-08-10T08:00:00",
-      "url": "https://www.skillboxes.com/events/cray-beach-x-satellite-beachside-pre-party-bangalore"
    },
    {
       "@context": "https://schema.org",
