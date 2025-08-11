@@ -365,7 +365,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 188,
+    "remainingAttendeeCapacity": 187,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -414,7 +414,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 193,
+    "remainingAttendeeCapacity": 191,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -802,8 +802,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 65,
+    "maximumAttendeeCapacity": 150,
+    "remainingAttendeeCapacity": 95,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1110,7 +1110,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1204,7 +1204,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 25,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1296,7 +1296,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1582,54 +1582,6 @@
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/99110CEA6FD640FBA0683E61181648BA_converted_webp.webp"
     ],
-    "startDate": "2025-08-10T09:00:00+05:30",
-    "endDate": "2025-08-10T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
-      "latitude": "12.98348400000000000000",
-      "longitude": "77.61101699999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 32000,
-    "remainingAttendeeCapacity": 31933,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Oorjaa",
-      "description": null,
-      "url": "https://urbanaut.app/partner/oorjaa",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4DA26D438E8D4498A28B9FAF3A0C8C29_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98107-87422"
-      }
-    },
-    "url": "https://urbanaut.app/spot/walk-in-registration#2025-08-10T0900",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Walk-In Entry Registration",
-    "description": "This ticket allows you to pre-register for free general entry to the event. Submit your contact details and show your confirmation at the venue for seamless access.Includes:Free entry to the event venueAccess to public and open areas onlyDoes NOT Include:Entry to workshops, talks, or other paid sessionsAccess to any exclusive or pre-booked activitiesNote:One ticket per personNo payment requiredPlease present your Urbanaut confirmation (QR code or email) at the entry pointVenue: Sabha, Bangalore",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/99110CEA6FD640FBA0683E61181648BA_converted_webp.webp"
-    ],
     "startDate": "2025-08-11T09:00:00+05:30",
     "endDate": "2025-08-11T20:00:00+05:30",
     "location": {
@@ -1643,7 +1595,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 32000,
-    "remainingAttendeeCapacity": 31983,
+    "remainingAttendeeCapacity": 31946,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1691,7 +1643,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 32000,
-    "remainingAttendeeCapacity": 31993,
+    "remainingAttendeeCapacity": 31936,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1739,7 +1691,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 32000,
-    "remainingAttendeeCapacity": 31995,
+    "remainingAttendeeCapacity": 31967,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1787,7 +1739,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 188,
+    "remainingAttendeeCapacity": 184,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1837,7 +1789,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 180,
+    "remainingAttendeeCapacity": 175,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1888,7 +1840,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 99,
+    "remainingAttendeeCapacity": 97,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
