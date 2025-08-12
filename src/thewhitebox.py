@@ -9,7 +9,11 @@ from common.shopify import Shopify, ShopifyProduct, ShopifyVariant
 DOMAIN = 'thewhiteboxco.in'
 COLLECTION = 'events-of-the-month'
 
-# Convert variants to Schema.org/Offer
+"""
+Convert variants to Schema.org/Offer
+"""
+
+
 def make_offers(product: ShopifyProduct):
     return [
         {
@@ -20,8 +24,13 @@ def make_offers(product: ShopifyProduct):
         for variant in product.variants
     ]
 
-# Some events happen at multiple cities on different dates.
-# Check if bangalore is mentioned in any variant if not return the first variant's title
+
+"""
+Some events happen at multiple cities on different dates.
+Check if bangalore is mentioned in any variant if not return the first variant's title
+"""
+
+
 def bangalore_variant(variants: ShopifyVariant):
     for variant in variants:
         if 'bangalore' in variant.title.lower() or 'bengaluru' in variant.title.lower():
@@ -29,9 +38,18 @@ def bangalore_variant(variants: ShopifyVariant):
 
     return variants[0].title
 
-# Fetch timings from the variant.title. It returns start_date and end_date timestamps
+
+"""
+Fetch timings from the variant.title
+It returns start_date and end_date timestamps
+"""
+
+
 def fetch_timings(date_str: str):
+
     date_parts = date_str.split(" | ")
+    if len(date_parts) < 3:
+        raise ValueError(f"date_str='{date_str}'")
 
     # date_part is not always at fixed position in the title
     # format 1: "Saturday - Aug 24 | 4-6 PM | Nolte India"
@@ -82,7 +100,11 @@ def fetch_timings(date_str: str):
 
 
 def make_event(product, sp: Shopify):
-    start_date, end_date = fetch_timings(bangalore_variant(product.variants))
+    try:
+        start_date, end_date = fetch_timings(bangalore_variant(product.variants))
+    except ValueError as e:
+        print(f"[THEWHITEBOX] Failed to parse timings for {product.url}\t{e}", file=sys.stderr)
+        return None
 
     return {
         "name": product.title,
@@ -102,10 +124,12 @@ def filter_products(products):
     )
 
 # Events include past events as well. Filter only future events
+
+
 def filter_future_events(events):
     current_time = datetime.now().isoformat()
     for event in events:
-        if event['startDate'] < current_time:
+        if not event or event['startDate'] < current_time:
             events.remove(event)
 
     return events
@@ -125,5 +149,5 @@ if __name__ == "__main__":
     except HTTPError as e:
         print(f"[THEWHITEBOX] Failed to fetch events from {DOMAIN}", file=sys.stderr)
         print(f"[THEWHITEBOX] {e}", file=sys.stderr)
-        print(f"[THEWHITEBOX] Status Code: "+ str(e.response.status_code), file=sys.stderr)
+        print(f"[THEWHITEBOX] Status Code: " + str(e.response.status_code), file=sys.stderr)
         sys.exit(1)
