@@ -95,7 +95,7 @@ jobs:
     name: Release
     steps:
     - name: fetch from artifact
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v5
       with:
         name: events-db
         path: .
