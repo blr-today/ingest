@@ -3829,5 +3829,55 @@
       "Art & culture",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "The Iyengar Chair Intensive",
+    "description": "The Iyengar Chair Intensive with Pragya BhattYou\u2019ve seen that funny-looking metal chair in yoga class... now it\u2019s time to see what it can really do. The Iyengar Chair Intensive is designed to help you experience asanas with more support, clarity, and depth. Whether you're new to props or want to take your practice further\u2014this workshop is for you.\u2728 Unlock new postures \u2728 Build confidence and precision \u2728 Make your practice sustainableReady to experience the chair in a whole new way?Dates: 23 Aug, 11 am - 1 pmLocation: Amrutha Bindu Yoga or onlineFee: Rs. 2000",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/927E39AE72864D888F2F79A9D2AE9829_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E3C3B8BD1F964EFFB8A671EA3C5C806A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/312ED0A904414558819797289E427AD0_converted_webp.webp"
+    ],
+    "startDate": "2025-08-23T11:00:00+05:30",
+    "endDate": "2025-08-23T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No 16, Marigold Square, 5th floor, 9th Cross Rd, ITI Layout, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560041, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2QmICw8VrjsRVf197hFv_Ig",
+      "latitude": "12.91079970000000000000",
+      "longitude": "77.58214710000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Amrutha Bindu Yoga",
+      "description": null,
+      "url": "https://urbanaut.app/partner/amruthabinduyoga",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/9C4C15AF6F9F43FBA54E564172375897_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63663-61818"
+      }
+    },
+    "url": "https://urbanaut.app/spot/the-iyengar-chair-intensive",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Active",
+      "URBANAUT"
+    ]
   }
 ]
