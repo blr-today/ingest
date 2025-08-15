@@ -22,6 +22,8 @@ WHERE
     AND event_json ->> '$.location' LIKE '%super bar%'
     AND event_json ->> '$.location' LIKE '%st mark%'
   )
+  -- This is also small world
+  OR event_json ->> '$.organizer.name' LIKE '%flatworld ventures%'
   -- HighApe event listings do not include the organizer field 
   -- But we pick it up from meta tags into keywords
   -- This is no longer true, sadly
