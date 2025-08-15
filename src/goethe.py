@@ -30,7 +30,8 @@ def get_event_details(session, url):
             "@type": "Place",
             "name": location_name,
             "address": location_address
-        }
+        },
+        "offers": {}
     }
 
 def get_event_type(type, subheading):
@@ -80,9 +81,7 @@ def make_event(session, event_dict):
     details |= get_event_details(session, details["url"])
 
     if event_dict.get("registration_link_url", None):
-        details["offers"] = {
-            "url": event_dict["registration_link_url"]
-        }
+        details["offers"]["url"] = event_dict["registration_link_url"]
     if event_dict.get("price", None):
         details["offers"]["price"] = event_dict["price"]
         details["offers"]["priceCurrency"] = "INR"
