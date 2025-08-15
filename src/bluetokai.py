@@ -107,7 +107,7 @@ LOCATIONS = [
         77.59912373
     ),
     (
-        "https://bluetokaicoffee.com/pages/blue-tokai-coffee-roasters-aecs-layout"
+        "https://bluetokaicoffee.com/pages/blue-tokai-coffee-roasters-aecs-layout",
         "Blue Tokai Coffee Roasters AECS Layout",
         r"\baecs\b",
         12.9633889,
@@ -176,7 +176,7 @@ def extract_timing(body_html):
 def guess_location(body_html):
     body_text = BeautifulSoup(body_html, "html.parser").get_text()
     for line in body_text.split("\n"):
-        if "Bengaluru" in line or "Koramangala" in line:
+        if "Bengaluru" in line or "Koramangala" in line or "Blue Tokai Coffee Roasters" in line:
             for location in LOCATIONS:
                 if re.search(location[2], line, re.IGNORECASE):
                     return (location[0], location[1], location[3], location[4])
@@ -187,7 +187,11 @@ def generate_event_object(product_json, variant, date, start_hour, end_hour):
         date.year, date.month, date.day, start_hour, 0, tzinfo=IST
     )
     end_datetime = datetime(date.year, date.month, date.day, end_hour, 0, tzinfo=IST)
-    (location_url, address, lat, lng) = guess_location(product_json["product"]["body_html"])
+    location = guess_location(product_json["product"]["body_html"])
+    if not location:
+        print(f"[BLUETOKAI] Could not find a location in BLR: https://bluetokaicoffee.com/products/{product_json['product']['handle']}")
+        return None
+    (location_url, address, lat, lng) = location
 
     event = {
         "url": f"https://bluetokaicoffee.com/products/{product_json['product']['handle']}",
@@ -228,17 +232,14 @@ def main():
         product_json = fetch_product_json(slug)
         variant, date = find_bengaluru_variant(product_json)
         if variant and date:
-            try:
-                (start_hour, end_hour) = extract_timing(
-                    product_json["product"]["body_html"]
-                )
-                event = generate_event_object(
-                    product_json, variant, date, start_hour, end_hour
-                )
+            (start_hour, end_hour) = extract_timing(
+                product_json["product"]["body_html"]
+            )
+            event = generate_event_object(
+                product_json, variant, date, start_hour, end_hour
+            )
+            if event:
                 events.append(event)
-            except:
-                print(f"[BLUETOKAI] Failed to process event for slug: {slug}")
-                continue
     with open("out/bluetokai.json", "w") as f:
         json.dump(events, f, indent=2)
 
