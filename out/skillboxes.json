@@ -166,6 +166,65 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Ultrahard ft. SEVENTH SEA ",
+      "endDate": "2025-08-24T01:00:00",
+      "identifier": "com.skillboxes.27133",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/R3YxblZSbnhqTC9KRWFDT0pZUndnUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1755197658i0H6P4hFumstF4q9.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Open Air Gig"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0122829",
+            "longitude": "77.5561431"
+         },
+         "name": "High Ultra Lounge"
+      },
+      "name": "Ultrahard ft. Seventh Sea - Open Air",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable at venue post 8.30 PM\n",
+            "inventoryLevel": 50,
+            "name": "Super Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/ultrahard-ft-seventh-sea-open-air"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges mandatory post 9PM\n",
+            "inventoryLevel": 50,
+            "name": "Early Bird Female Pass",
+            "url": "https://www.skillboxes.com/events/ticket/ultrahard-ft-seventh-sea-open-air"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 8.30PM\n",
+            "inventoryLevel": 50,
+            "name": "Early Bird Male Pass",
+            "url": "https://www.skillboxes.com/events/ticket/ultrahard-ft-seventh-sea-open-air"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges mandatory post 8.30PM\n",
+            "inventoryLevel": 25,
+            "name": "Early Bird Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/ultrahard-ft-seventh-sea-open-air"
+         }
+      ],
+      "startDate": "2025-08-23T18:00:00",
+      "url": "https://www.skillboxes.com/events/ultrahard-ft-seventh-sea-open-air"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "\"Welcome to the Inner Circle — A Day Pool Party where the sun meets sophistication and the water shimmers with exclusivity.\r\n\r\nGolden hour, champagne, and crystal waters — for the ones who belong.\r\n\r\nIf you know, you",
       "endDate": "2025-09-07T22:00:00",
       "identifier": "com.skillboxes.27124",
@@ -528,7 +587,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to one single lady free entry to the event without cover or any additional charges till 9:30PM only, Post 9:30PM additional cover charges applicable as per club rules and regulations.\n",
-            "inventoryLevel": 956,
+            "inventoryLevel": 903,
             "name": "RSVP SINGLE LADY ( FREE ENTRY )",
             "url": "https://www.skillboxes.com/events/ticket/somad-y2k-party-1"
          },
@@ -536,7 +595,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to one Couple free entry to the event without cover or any additional charges till 9:30PM only, Post 9:30PM additional cover charges applicable as per club rules and regulations.\n",
-            "inventoryLevel": 850,
+            "inventoryLevel": 796,
             "name": "RSVP COUPLE ( FREE ENTRY )",
             "url": "https://www.skillboxes.com/events/ticket/somad-y2k-party-1"
          },
@@ -594,7 +653,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 19,
+            "inventoryLevel": 17,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/ust-us-league-x-bedroom-dance-party-a-terrace-anniversary-sundowner"
          }
@@ -679,7 +738,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 298,
+            "inventoryLevel": 297,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/break-free-1"
          }
