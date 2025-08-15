@@ -242,6 +242,7 @@ def main():
                 events.append(event)
     with open("out/bluetokai.json", "w") as f:
         json.dump(events, f, indent=2)
+    print(f"[BLUETOKAI] {len(events)} events")
 
 
 if __name__ == "__main__":

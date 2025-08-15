@@ -1,8 +1,8 @@
 import json
 import datetime
-from common.session import get_cached_session
+import curl_cffi
 from common.tz import IST
-
+BROWSER_CODE = "safari184_ios"
 
 def to_schema_org_music_event(event_info):
     base_url = "https://www.sofarsounds.com/events/"
@@ -45,6 +45,14 @@ def to_schema_org_music_event(event_info):
         "location": {
             "@type": "Place",
             "address": neighbourhood or event_info["city"]["title"]
+        },
+        "image": event_info["imageUrl"],
+        "remainingAttendeeCapacity": event_info["remainingSpaces"],
+        "offers": {
+            "@type": "Offer",
+            "price": (event_info["ticketPrice"] + event_info["bookingFee"])/100,
+            "priceCurrency": "INR",
+            "availability": "https://schema.org/InStock",
         }
     }
 
@@ -52,80 +60,48 @@ def to_schema_org_music_event(event_info):
 
 
 def make_graphql_request(query, city, url):
-    session = get_cached_session()
-    response = session.post(
-        url,
-        json={
-            "operationName": "GetEventsForCityPage",
+    body = curl_cffi.post(url, json={
+            "operationName": "GetEventsForFanWithAttendees",
             "variables": {
                 "city": city,
-                "excludeCancelled": True,
-                "excludeNonPresale": False,
-                "excludePresale": False,
-                "excludeSoldOut": False,
-                "globallyPromoted": True,
-                "includeNearbySecondaryCities": False,
                 "page": 1,
-                "perPage": 12,
-                "published": True,
-                "skipPagination": False,
-                "upcoming": True,
+                "perPage": 2
             },
             "query": query,
-        },
-    )
-
-    return response.json()
+        },impersonate=BROWSER_CODE).content
+    return json.loads(body)
 
 
 query = """
-query GetEventsForCityPage(
+query GetEventsForFanWithAttendees(
   $city: String
-  $includeNearbySecondaryCities: Boolean
-  $neighborhood: String
-  $date: String
-  $excludeSoldOut: Boolean
-  $excludePresale: Boolean
-  $excludeNonPresale: Boolean
-  $indoorOutdoor: String
-  $isByob: Boolean
-  $upcoming: Boolean
-  $published: Boolean
-  $globallyPromoted: Boolean
-  $type: String
   $page: Int
   $perPage: Int
-  $skipPagination: Boolean
 ) {
   events(
     city: $city
-    includeNearbySecondaryCities: $includeNearbySecondaryCities
-    neighborhood: $neighborhood
-    date: $date
-    excludeSoldOut: $excludeSoldOut
-    excludePresale: $excludePresale
-    excludeNonPresale: $excludeNonPresale
-    indoorOutdoor: $indoorOutdoor
-    isByob: $isByob
-    upcoming: $upcoming
-    published: $published
-    globallyPromoted: $globallyPromoted
-    type: $type
+    upcoming: true
+    published: true
     page: $page
     perPage: $perPage
-    skipPagination: $skipPagination
   ) {
     events {
-      id
+      attendeeFlow
+      cancelled
+      endsAt
       guestsArriveAt
-      localStartsAt
-      startsAt
-      onPresale
+      id
       isAppliable
       isPublished
       isPurchasable
-      cancelled
       isSoldOut
+      localStartsAt
+      onPresale
+      startsAt
+      remainingSpaces
+      ticketPrice
+      bookingFee
+      imageUrl
       city {
         title
         timezone
@@ -143,14 +119,14 @@ query GetEventsForCityPage(
           name
         }
       }
-      theme {
+      eventThemes {
         title
       }
     }
   }
 }
 """
-url = "https://www.sofarsounds.com/api/v2/graphql?on=GetEventsForCityPage"
+url = "https://www.sofarsounds.com/api/v2/graphql?on=GetEventsForFanWithAttendees"
 
 
 def main():
@@ -158,9 +134,9 @@ def main():
     events = []
     for d in response["data"]["events"]["events"]:
         events.append(to_schema_org_music_event(d))
-    # write to out/sofar.json
     with open("out/sofar.json", "w") as f:
         json.dump(events, f, indent=2)
+    print(f"[SOFAR] {len(events)} events")
 
 
 if __name__ == "__main__":
