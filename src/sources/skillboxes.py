@@ -7,7 +7,7 @@ import sys
 BASE_URL = "https://www.skillboxes.com/servers"
 HEADERS = {
     "Content-Type": "application/json",
-    "User-Agent": "Mozilla/5.0 (compatible; blr.today-bot; +httpss://blr.today/bot/)",
+    "User-Agent": "Mozilla/5.0 (compatible; blr.today-bot; +https://blr.today/bot/)",
     "Accept": "application/json",
 }
 

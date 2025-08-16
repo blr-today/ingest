@@ -67,7 +67,8 @@ jobs:
         name: events-db
         path: |
           events.db
-          out/pvr-*
+          out/pvr/*
+          out/ticketnew/*
         if-no-files-found: error
         retention-days: 1
 
