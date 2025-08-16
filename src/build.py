@@ -43,7 +43,10 @@ def fetch_local_events(file_filter=None):
                 elif isinstance(keywords, list):
                     keywords = list(set([basename.upper()] + keywords))
                 event["keywords"] = keywords
-                yield (event["url"], event)
+                if 'url' in event:
+                    yield (event["url"], event)
+                else:
+                    print(f"Event in {json_file} has no URL: {event}")
 
 
 if __name__ == "__main__":
@@ -54,11 +57,11 @@ if __name__ == "__main__":
 
     conn = sqlite3.connect("events.db")
     i = 0
-    for url, event in fetch_remote_events(f):
-        insert_event_json(conn, url, event)
-        i += 1
-        if i % 10 == 0:
-            conn.commit()
+    # for url, event in fetch_remote_events(f):
+    #     insert_event_json(conn, url, event)
+    #     i += 1
+    #     if i % 10 == 0:
+    #         conn.commit()
 
     for url, event in fetch_local_events(f):
         insert_event_json(conn, url, event)

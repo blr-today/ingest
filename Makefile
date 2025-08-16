@@ -27,13 +27,13 @@ out/te.jsonnet:
 	curl_chrome116 --silent --insecure 'https://api.total-environment.com/api/v1.0/getEvents.json' -X POST -H 'content-type: application/json' -H 'Authorization: Bearer $(TOTAL_ENVIRONMENT_API_TOKEN)' --data-raw '{"flag":"upcoming"}' --output $@
 
 out/te.json: out/te.jsonnet
-	python -m src/jsonnet.py out/te.jsonnet || $(call restore-file,$@)
+	python src/jsonnet.py out/te.jsonnet || $(call restore-file,$@)
 
 out/skillboxes.jsonnet:
 	python -m src.sources.skillboxes 9 1105542 || $(call restore-file,$@)
 
 out/skillboxes.json: out/skillboxes.jsonnet
-	python -m src/jsonnet.py out/skillboxes.jsonnet || $(call restore-file,$@)
+	python src/jsonnet.py out/skillboxes.jsonnet || $(call restore-file,$@)
 
 out/atta_galatta.json:
 	python -m src.sources.atta_galatta || $(call restore-file,$@)
@@ -61,7 +61,7 @@ out/underline.jsonnet:
 	wget -q "https://underline.center/discourse-post-event/events.json?include_details=true" -O $@ || $(call restore-file,$@)
 
 out/underline.json: out/underline.jsonnet
-	python -m src/jsonnet.py out/underline.jsonnet || $(call restore-file,$@)
+	python src/jsonnet.py out/underline.jsonnet || $(call restore-file,$@)
 
 out/insider.txt:
 	curl_chrome116 --silent \
@@ -74,7 +74,7 @@ out/artzo.txt:
 	echo "[ARTZO] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 out/bhaagoindia.txt:
-	python -m src.sources.bhaagoindia.com | sort > $@ ||  $(call restore-file,$@)
+	python -m src.sources.bhaagoindia | sort > $@ ||  $(call restore-file,$@)
 	echo "[BHAAGOINDIA] $$(wc -l $@ | cut -d ' ' -f 1)"
 
 # TODO: /exhibits.json is also helpful
@@ -129,8 +129,9 @@ out/adidas.json:
 out/pvr-cinemas.csv:
 	python -m src.sources.pvr || ($(call restore-file,$@); $(call restore-file,"out/pvr-movies.csv"); $(call restore-file,"out/pvr-sessions.csv"))
 
-out/ticketnew-cinemas.csv:
-	python -m src.sources.ticketnew || ($(call restore-file,$@); $(call restore-file,"out/ticketnew-movies.csv"); $(call restore-file,"out/ticketnew-sessions.csv"))
+out/ticketnew/cinemas.csv:
+	mkdir -p out/ticketnew
+	python -m src.sources.ticketnew || ($(call restore-file,$@); $(call restore-file,"out/ticketnew/movies.json"); $(call restore-file,"out/ticketnew/sessions.csv"); $(call restore-file,"out/ticketnew/cinemas.csv")); 
 
 out/trove.json:
 	python -m src.sources.trove || $(call restore-file,$@)
@@ -170,7 +171,7 @@ out/cksl.jsonnet:
 	curl --silent "https://core.service.elfsight.com/p/boot/?w=51301a3b-7f76-429d-bcb5-98c6338857f4" | jq '.data.widgets["51301a3b-7f76-429d-bcb5-98c6338857f4"].data.settings' > $@ 
 
 out/cksl.json: out/cksl.jsonnet
-	python -m src/jsonnet.py out/cksl.jsonnet || $(call restore-file,$@)
+	python src/jsonnet.py out/cksl.jsonnet || $(call restore-file,$@)
 
 out/lavonne.json:
 	python -m src.sources.lavonne || $(call restore-file,$@)
@@ -208,7 +209,7 @@ fetch: out/allevents.txt \
  out/creativemornings.txt \
  out/adidas.json \
  out/pvr-cinemas.csv \
- out/ticketnew-cinemas.csv \
+ out/ticketnew/cinemas.csv \
  out/trove.json \
  out/aceofpubs.json \
  out/atta_galatta.json \
