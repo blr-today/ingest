@@ -27,19 +27,17 @@ class District(Processor):
         except:
             pass
 
+        # insider reports keywords as a dict (incorrectly) so we ignore and rewrite
+        # from meta tags
+        if "keywords" in event:
+            try:
+                current_keywords = event["keywords"]
+                if isinstance(current_keywords, str):
+                    keywords = ",".join(
+                        set(current_keywords.split(","))
+                    )
+                    event["keywords"] = keywords
+            except:
+                pass
 
-    # insider reports keywords as a dict (incorrectly) so we ignore and rewrite
-    # from meta tags
-    if "keywords" in event:
-        try:
-            keywords = ",".join(
-                set(
-                    event["keywords"].split(",")
-                    + keywords.split(",")
-                )
-            )
-        except:
-            pass
-        event["keywords"] = keywords
-
-    return event
+        return event

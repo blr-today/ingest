@@ -32,6 +32,7 @@ def parse_bng_bird_events(soup):
         location, lat, lng = fetch_event_location(event['url'])
         event['location'] = {
             "name": location,
+            "@type": "Place",
             "geo": {
                 "@type": "GeoCoordinates",
                 "latitude": lat,

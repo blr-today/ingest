@@ -37,7 +37,7 @@ local transformEvent(event) =
         }
       }
     }
-  };
+  } + schemaOrgContext;
 
 function(INPUT) [
   transformEvent(event)

@@ -2,6 +2,8 @@ from .base import Processor
 from .languages import LANGUAGE_MAP
 from functools import cache
 from urllib.parse import urlparse
+import os
+import json
 
 def get_root_domain_easy(url):
     domain = urlparse(url).netloc
@@ -18,16 +20,21 @@ def get_patch(url):
             return json.load(file)
     return None
 
+# TODO: Patch PUMARUN and TOWNSCRIPT events correctly somehow
 class Patch(Processor):
     URL_REGEX = None
 
     @staticmethod
     def process(url, event):
-        patch = get_patch(url).copy()
+        patch = get_patch(url)
         if not patch:
             return event
+        patch = patch.copy()
         if 'keywords' in patch:
-            patch["keywords"] = sorted(event["keywords"] + patch["keywords"])
-            del event['keywords']
+            # Combine keywords and remove duplicates
+            combined_keywords = event.get("keywords", []) + patch["keywords"]
+            patch["keywords"] = sorted(list(set(combined_keywords)))
+            if 'keywords' in event:
+                del event['keywords']
         patch.update(event)
         return patch

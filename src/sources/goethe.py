@@ -36,14 +36,14 @@ def get_event_details(session, url):
 
 def get_event_type(type, subheading):
     MAPPING = {
-        "Workshop": "EducationalEvent",
-        "Session": "EducationalEvent",
+        "Workshop": "EducationEvent",
+        "Session": "EducationEvent",
         "Installation": "ExhibitionEvent",
-        "Information": "EducationalEvent",
-        "Conference": "EducationalEvent",
-        "Consultation": "EducationalEvent",
+        "Information": "EducationEvent",
+        "Conference": "EducationEvent",
+        "Consultation": "EducationEvent",
         "Music": "MusicEvent",
-        "Exam": "EducationalEvent",
+        "Exam": "EducationEvent",
         "Film": "ScreeningEvent",
         "Literary": "LiteraryEvent",
         # These are not an event

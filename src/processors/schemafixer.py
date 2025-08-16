@@ -2,6 +2,8 @@ import html
 from .base import Processor
 from urllib.parse import urlparse
 import datefinder
+from datetime import datetime, timedelta
+from ..common.tz import IST
 def get_domain(url):
     subdomain = urlparse(url).netloc
     if subdomain.startswith('www.'):
@@ -9,6 +11,7 @@ def get_domain(url):
     return subdomain
 
 class SchemaFixer(Processor):
+    PRIORITY = 0
     URL_REGEX = None
 
     @staticmethod
