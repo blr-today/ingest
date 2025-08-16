@@ -242,9 +242,9 @@ def main():
     shows = fetch_shows(session, movies)
 
     with (
-        open("out/ticketnew-movies.json", "w", newline="") as movies_file,
-        open("out/ticketnew-sessions.csv", "w", newline="") as sessions_file,
-        open("out/ticketnew-cinemas.csv", "w", newline="") as cinemas_file,
+        open("out/ticketnew/movies.json", "w", newline="") as movies_file,
+        open("out/ticketnew/sessions.csv", "w", newline="") as sessions_file,
+        open("out/ticketnew/cinemas.csv", "w", newline="") as cinemas_file,
     ):
         session_writer = csv.DictWriter(sessions_file, fieldnames=SHOW_KEYS)
 

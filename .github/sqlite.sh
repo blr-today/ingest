@@ -5,7 +5,7 @@ OLDDIR=$(pwd)
 cd /tmp
 DOWNLOAD_URL=https://sqlite.org/2025/sqlite-amalgamation-3500400.zip
 wget -qnc "$DOWNLOAD_URL" -O sqlite.zip
-unzip -j -d sqlite sqlite.zip
+unzip -f -j -d sqlite sqlite.zip
 cd sqlite
 # Compile options from Arch Linux
 gcc -shared -fPIC -o libsqlite.so \
