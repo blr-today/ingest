@@ -1,10 +1,10 @@
-from common.jsonld import JsonLdExtractor
+from .jsonld import JsonLdExtractor
 import glob
-from common.session import get_cached_session
+from .session import get_cached_session
 from w3lib.html import get_base_url
 from bs4 import BeautifulSoup
-from common.schemaorg import TYPES as KNOWN_EVENT_TYPES
-from common import USER_AGENT_HEADERS
+from .schemaorg import TYPES as KNOWN_EVENT_TYPES
+from . import USER_AGENT_HEADERS
 import json
 import sys
 import os

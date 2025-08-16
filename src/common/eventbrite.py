@@ -1,4 +1,4 @@
-from common.session import get_cached_session
+from .session import get_cached_session
 from bs4 import BeautifulSoup
 import urllib.parse
 import json

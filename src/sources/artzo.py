@@ -1,5 +1,5 @@
 import json
-from common.session import get_cached_session
+from src.common.session import get_cached_session
 from bs4 import BeautifulSoup
 
 URL = "https://www.artzo.in/events-and-workshops"

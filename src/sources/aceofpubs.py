@@ -1,8 +1,8 @@
 import sys
 import datetime
 import json
-from common import icalendar
-from common.tz import IST
+from ..common import icalendar
+from ..common.tz import IST
 
 
 def fix_date(date_str):

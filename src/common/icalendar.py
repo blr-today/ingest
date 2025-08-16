@@ -1,7 +1,7 @@
 import ics
 import re
 from datetime import timedelta
-from common.tz import IST
+from .tz import IST
 
 LANGUAGE_MAP = {
     "Hindi": "hi",

@@ -3,7 +3,7 @@ from requests_cache import CachedSession
 from requests_cache import CacheActions
 from requests_cache.models import AnyResponse, CachedResponse, OriginalResponse, AnyRequest, CachedRequest
 from requests.models import PreparedRequest
-from common.response import CorrectResponse
+from .response import CorrectResponse
 from io import BytesIO
 
 from datetime import timedelta

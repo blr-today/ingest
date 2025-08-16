@@ -1,6 +1,7 @@
 import sqlite3
 import json
 import logging
+import os
 from typing import Dict, List, Any, Optional
 from dataclasses import dataclass
 from pyld import jsonld
@@ -187,6 +188,50 @@ class SchemaOrgValidator:
         
         return errors, warnings
 
+def write_github_step_summary(stats: Dict[str, int], results: List[tuple]) -> None:
+    """Write validation results to GitHub Step Summary."""
+    github_step_summary = os.environ.get('GITHUB_STEP_SUMMARY')
+    if not github_step_summary:
+        return
+    
+    with open(github_step_summary, 'w') as f:
+        f.write("# Event Validation Report\n\n")
+        
+        # Summary stats
+        f.write("## Summary\n\n")
+        f.write(f"- **Total Events**: {stats['total']}\n")
+        f.write(f"- **Valid Events**: {stats['valid']} ({stats['valid']/stats['total']*100:.1f}%)\n")
+        f.write(f"- **Invalid Events**: {stats['invalid']} ({stats['invalid']/stats['total']*100:.1f}%)\n")
+        f.write(f"- **Events with Warnings**: {stats['warnings']} ({stats['warnings']/stats['total']*100:.1f}%)\n\n")
+        
+        # Failed events
+        failed_results = [result for _, result in results if not result.is_valid]
+        if failed_results:
+            f.write("## Failed Events\n\n")
+            for result in failed_results:
+                f.write(f"### ❌ {result.url or 'Unknown URL'}\n")
+                if result.event_type:
+                    f.write(f"**Type**: {result.event_type}\n\n")
+                if result.errors:
+                    f.write("**Errors**:\n")
+                    for error in result.errors:
+                        f.write(f"- {error}\n")
+                    f.write("\n")
+        
+        # Events with warnings
+        warning_results = [result for _, result in results if result.is_valid and result.warnings]
+        if warning_results:
+            f.write("## Events with Warnings\n\n")
+            for result in warning_results:
+                f.write(f"### ⚠️ {result.url or 'Unknown URL'}\n")
+                if result.event_type:
+                    f.write(f"**Type**: {result.event_type}\n\n")
+                if result.warnings:
+                    f.write("**Warnings**:\n")
+                    for warning in result.warnings:
+                        f.write(f"- {warning}\n")
+                    f.write("\n")
+
 def validate_all_events(output_file: str = None, verbose: bool = False):
     """Validate all events using external libraries."""
     conn = sqlite3.connect('events.db')
@@ -222,6 +267,9 @@ def validate_all_events(output_file: str = None, verbose: bool = False):
     logger.info(f"📊 Total: {stats['total']}, Valid: {stats['valid']} ({stats['valid']/stats['total']*100:.1f}%), "
                 f"Invalid: {stats['invalid']} ({stats['invalid']/stats['total']*100:.1f}%), "
                 f"Warnings: {stats['warnings']} ({stats['warnings']/stats['total']*100:.1f}%)")
+    
+    # Write to GitHub Step Summary
+    write_github_step_summary(stats, results)
     
     if output_file:
         with open(output_file, 'w') as f:

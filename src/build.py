@@ -51,11 +51,11 @@ if __name__ == "__main__":
     
     conn = sqlite3.connect("events.db")
     i = 0
-    # for url, event in fetch_remote_events(f):
-    #     insert_event_json(conn, url, event)
-    #     i += 1
-    #     if i % 10 == 0:
-    #         conn.commit()
+    for url, event in fetch_remote_events(f):
+        insert_event_json(conn, url, event)
+        i += 1
+        if i % 10 == 0:
+            conn.commit()
 
     for url, event in fetch_local_events(f):
         insert_event_json(conn, url, event)
