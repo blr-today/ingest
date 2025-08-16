@@ -16,25 +16,25 @@ local transformEvent(event) =
     endDate: event.end.date + "T" + event.end.time + "+0530",
     image: if event.image != null then event.image.url  else "",
     description: std.native('html2text')(event.description),
-    location: {
+    [if event.location == "6368b5fe33f56" then "location"]: {
       '@type': 'Place',
-      "name": if event.location == "6368b5fe33f56" then {
-        "name": "Choe Khor Sum Ling Centre",
-        "address": "Ashwini, No. 24, 1st floor, 3rd Main Street, Domlur Layout 1st stage Bangalore 560071",
-        "isicV4": "8549",
-        "geo": {
-          "latitude": "12.9577059",
-          "longitude": "77.6327838"
-        }
-      } else if event.location == "6368b5fe33f92" then {
-        "name": "Montfort Spiritual Centre",
-        "address": "184, Old Madras Rd, Binna Mangala, Indiranagar, Bengaluru, Karnataka 560038",
-        "telephone": "+91 9141030564",
-        "isicV4": "9491",
-        "geo": {
-          "latitude": "12.9863008",
-          "longitude": "77.64658"
-        }
+      "name": "Choe Khor Sum Ling Centre",
+      "address": "Ashwini, No. 24, 1st floor, 3rd Main Street, Domlur Layout 1st stage Bangalore 560071",
+      "isicV4": "8549",
+      "geo": {
+        "latitude": "12.9577059",
+        "longitude": "77.6327838"
+      }
+    },
+    [if event.location == "6368b5fe33f92" then "location"]: {
+      '@type': 'Place',
+      "name": "Montfort Spiritual Centre",
+      "address": "184, Old Madras Rd, Binna Mangala, Indiranagar, Bengaluru, Karnataka 560038",
+      "telephone": "+91 9141030564",
+      "isicV4": "9491",
+      "geo": {
+        "latitude": "12.9863008",
+        "longitude": "77.64658"
       }
     }
   } + schemaOrgContext;
