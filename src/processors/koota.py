@@ -1,9 +1,10 @@
 import html
 from .base import Processor
 
+
 class Koota(Processor):
     URL_REGEX = r"^https?://(www\.)?courtyardkoota\.com/"
-    
+
     @staticmethod
     def process(url, event):
         for x in ["startDate", "endDate"]:
@@ -25,5 +26,5 @@ class Koota(Processor):
                     event[x] = f"{year}-{month}-{day}"
                     if time:
                         event[x] = f"{event[x]}T{time}"
-        
+
         return event

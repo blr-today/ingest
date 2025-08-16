@@ -9,6 +9,7 @@ COMMUNITY_ID = "2e012594-d3fb-4185-b12b-78dead3499a3"
 COUNTRY_CODE = "IN"
 BROWSER_CODE = "safari18_4_ios"
 
+
 def _date(date_str):
     return datetime.fromisoformat(date_str).astimezone(IST).isoformat()
 

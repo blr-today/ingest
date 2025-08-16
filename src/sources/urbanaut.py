@@ -24,7 +24,7 @@ KNOWN_HOST_VENUES = [
     "cafeplume",
     "museum-of-art-and-photography-map",
     "ksaraah",
-    "flourishclasses", # Flourish Bakery
+    "flourishclasses",  # Flourish Bakery
 ]
 session = get_cached_session()
 
@@ -82,7 +82,7 @@ def get_event_type(x):
     name = x["name"].lower()
     if "screening" in name:
         return "ScreeningEvent"
-    elif "food" in tags or 'araku' in name:
+    elif "food" in tags or "araku" in name:
         return "FoodEvent"
     elif "workshop" in tags:
         return "EducationEvent"
@@ -104,7 +104,6 @@ def make_event(x):
 
     available_slot_count = sum([slot["available"] > 0 for slot in slots])
     for slot in slots:
-
         if slot["available"] > 0:
             # In case there are multiple slots, we want to put a slug at the end
             # to differentiate between events
@@ -126,8 +125,10 @@ def make_event(x):
                     "@type": "Place",
                     "name": (
                         ad["company_name"]
-                        if (ad.get("slug") in KNOWN_HOST_VENUES or
-                            ad.get('company_name') in KNOWN_HOST_VENUES)
+                        if (
+                            ad.get("slug") in KNOWN_HOST_VENUES
+                            or ad.get("company_name") in KNOWN_HOST_VENUES
+                        )
                         else None
                     ),
                     "address": x["address"],
@@ -150,7 +151,9 @@ def make_event(x):
                     "@type": "Organization",
                     "name": ad["company_name"],
                     "description": ad.get("company_description"),
-                    "url": f"https://urbanaut.app/partner/{ad['slug']}" if 'slug' in ad else None,
+                    "url": f"https://urbanaut.app/partner/{ad['slug']}"
+                    if "slug" in ad
+                    else None,
                     "image": BASE_IMAGE_URL + ad["logo_path"],
                     "contactPoint": {
                         "@type": "ContactPoint",

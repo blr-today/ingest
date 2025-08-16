@@ -1,7 +1,14 @@
 from requests_cache import CachedSession
 from datetime import timedelta
 
-def get_cached_session(cache_name='event-fetcher-cache', days=1, allowable_codes=(200,), allowable_methods=["GET"], backend="sqlite"):
+
+def get_cached_session(
+    cache_name="event-fetcher-cache",
+    days=1,
+    allowable_codes=(200,),
+    allowable_methods=["GET"],
+    backend="sqlite",
+):
     """
     Initializes and returns a CachedSession instance with common settings.
     """
@@ -13,6 +20,6 @@ def get_cached_session(cache_name='event-fetcher-cache', days=1, allowable_codes
         cache_control=False,
         allowable_codes=allowable_codes,
         allowable_methods=allowable_methods,
-        backend=backend
+        backend=backend,
     )
     return session

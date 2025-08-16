@@ -2,6 +2,7 @@ import html
 from .base import Processor
 import datefinder
 
+
 class BhaagoIndia(Processor):
     URL_REGEX = r"^https?://(www\.)?bhaagoindia\.com/"
 

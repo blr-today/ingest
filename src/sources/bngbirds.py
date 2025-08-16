@@ -25,23 +25,32 @@ def parse_bng_bird_events(soup):
         except:
             print("[BNGBIRDS] Failed to parse " + tag.string.split("\n")[1])
 
-        event["startDate"] = datetime.strptime(event["startDate"], "%Y-%m-%dT%H:%M+5.5:00").replace(tzinfo=IST).isoformat()
-        event["endDate"] = datetime.strptime(event["endDate"], "%Y-%m-%dT%H:%M+5.5:00").replace(tzinfo=IST).isoformat()
-        event['description'] = BeautifulSoup(event['description'], 'html.parser').text.replace(" ", "\n").replace("Meeting time", "\nMeeting time").strip()
-        event['@id'] = "com.bngbirds:" + event['@id']
-        location, lat, lng = fetch_event_location(event['url'])
-        event['location'] = {
+        event["startDate"] = (
+            datetime.strptime(event["startDate"], "%Y-%m-%dT%H:%M+5.5:00")
+            .replace(tzinfo=IST)
+            .isoformat()
+        )
+        event["endDate"] = (
+            datetime.strptime(event["endDate"], "%Y-%m-%dT%H:%M+5.5:00")
+            .replace(tzinfo=IST)
+            .isoformat()
+        )
+        event["description"] = (
+            BeautifulSoup(event["description"], "html.parser")
+            .text.replace(" ", "\n")
+            .replace("Meeting time", "\nMeeting time")
+            .strip()
+        )
+        event["@id"] = "com.bngbirds:" + event["@id"]
+        location, lat, lng = fetch_event_location(event["url"])
+        event["location"] = {
             "name": location,
             "@type": "Place",
-            "geo": {
-                "@type": "GeoCoordinates",
-                "latitude": lat,
-                "longitude": lng
-            }
+            "geo": {"@type": "GeoCoordinates", "latitude": lat, "longitude": lng},
         }
 
-        if 'organizer' in event:
-            del event['organizer']
+        if "organizer" in event:
+            del event["organizer"]
         events.append(event)
 
     return events

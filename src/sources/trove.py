@@ -58,28 +58,30 @@ def fetch_timings(date_str: str):
 
     return timestamps
 
+
 def get_subtitle(soup):
     subtitle = soup.select_one(".custom-field__sub-title")
     if not subtitle:
         return None
     return subtitle.get_text(strip=True)
 
+
 def get_location(soup):
     location_field = soup.select_one(".custom-field__location")
     if not location_field:
         return None
     location_name = location_field.get_text(strip=True)
-    if not location_name or len(location_name) == 0 :
+    if not location_name or len(location_name) == 0:
         return None
     if "," in location_name:
-        s =location_name.split(",")
+        s = location_name.split(",")
         return (s[0].strip(), ",".join(s[1:]).strip())
     return (location_name, None)
 
 
 def make_event(product, sp: Shopify, session):
     start_date, end_date = fetch_timings(product.variants[0].title)
-    
+
     res = session.get(product.url)
     soup = BeautifulSoup(res.text, "html.parser")
 
@@ -99,10 +101,7 @@ def make_event(product, sp: Shopify, session):
         res["name"] += f" - {subtitle}"
 
     if location_name:
-        res["location"] = {
-            "@type": "Place",
-            "name": location_name
-        }
+        res["location"] = {"@type": "Place", "name": location_name}
         if address:
             res["location"]["address"] = address
     return res
@@ -118,9 +117,13 @@ def filter_products(products):
 
 if __name__ == "__main__":
     from common.session import get_cached_session
+
     session = get_cached_session()
     trove = Shopify(DOMAIN, session, COLLECTION)
-    events = [make_event(product, trove, session) for product in filter_products(trove.products())]
+    events = [
+        make_event(product, trove, session)
+        for product in filter_products(trove.products())
+    ]
     with open("out/trove.json", "w") as f:
         json.dump(events, f, indent=2)
         print(f"[TROVE] {len(events)} events")

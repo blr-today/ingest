@@ -4,11 +4,14 @@ from urllib.parse import urlparse
 import datefinder
 from datetime import datetime, timedelta
 from ..common.tz import IST
+
+
 def get_domain(url):
     subdomain = urlparse(url).netloc
-    if subdomain.startswith('www.'):
+    if subdomain.startswith("www."):
         return subdomain[4:]
     return subdomain
+
 
 class SchemaFixer(Processor):
     PRIORITY = 0
@@ -18,7 +21,7 @@ class SchemaFixer(Processor):
     def process(url, event):
         # Insider events often include &apos; &quot; etc.
         if "name" in event:
-            event['name'] = html.unescape(event["name"])
+            event["name"] = html.unescape(event["name"])
 
         # force https here
         event["@context"] = "https://schema.org"
@@ -31,7 +34,9 @@ class SchemaFixer(Processor):
         for x in ["startDate", "endDate"]:
             if x in event:
                 try:
-                    event[x] = datetime.fromisoformat(event[x]).astimezone(IST).isoformat()
+                    event[x] = (
+                        datetime.fromisoformat(event[x]).astimezone(IST).isoformat()
+                    )
                 except Exception as e:
                     print(f"[IMP] Error parsing {x} for {event['url']}: {e}")
                     pass
@@ -41,7 +46,6 @@ class SchemaFixer(Processor):
                 datetime.fromisoformat(event["startDate"]) + timedelta(hours=2)
             ).isoformat()
 
-        
         try:
             if isinstance(event["organizer"], list) and len(event["organizer"]) == 1:
                 event["organizer"] = event["organizer"][0]
@@ -49,6 +53,5 @@ class SchemaFixer(Processor):
             pass
         if event.get("LOCATION"):
             event["location"] = event.pop("LOCATION")
-
 
         return event

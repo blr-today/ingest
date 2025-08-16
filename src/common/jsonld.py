@@ -3,6 +3,7 @@ import json
 import re
 import lxml.etree
 
+
 class JsonLdExtractor:
     _xp_jsonld = lxml.etree.XPath(
         'descendant-or-self::script[@type="application/ld+json"]'

@@ -55,31 +55,31 @@ def parse_event(event_div):
         "description": description,
         "startDate": start_time.isoformat(),
         "endDate": end_time.isoformat(),
-        "offers": {
-            "@type": "Offer",
-            "price": price,
-            "priceCurrency": "INR"
-        },
+        "offers": {"@type": "Offer", "price": price, "priceCurrency": "INR"},
         "location": {
             "@type": "Place",
             "name": "L Baking Studio" if is_lbs else "Lavonne Academy",
             "address": {
                 "@type": "PostalAddress",
-                "streetAddress": "RMZ Ecoworld 30 Bhoganahalli, Bellandur" if is_lbs else "263, 3rd Cross Rd, Stage 2, Domlur",
+                "streetAddress": "RMZ Ecoworld 30 Bhoganahalli, Bellandur"
+                if is_lbs
+                else "263, 3rd Cross Rd, Stage 2, Domlur",
                 "addressLocality": "Bangalore",
                 "addressRegion": "Karnataka",
-                "addressCountry": "IN"
-            }
-        }
+                "addressCountry": "IN",
+            },
+        },
     }
 
     # Get registration URL if available
     register_link = event_div.select_one("a.success.button")
-    if register_link and 'href' in register_link.attrs:
+    if register_link and "href" in register_link.attrs:
         event["url"] = register_link["href"]
     else:
         title = urllib.parse.quote(title)
-        event["url"] = f"https://www.lavonne.in/courses/short-term/weekend-calendar/#:~:text={title}"
+        event["url"] = (
+            f"https://www.lavonne.in/courses/short-term/weekend-calendar/#:~:text={title}"
+        )
 
     return event
 

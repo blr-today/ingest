@@ -4,8 +4,9 @@ from datetime import datetime
 from common.tz import IST
 from common.shopify import Shopify, ShopifyProduct
 
-DOMAIN = 'www.paintbar.in'
-COLLECTION = 'paint-bar-bangalore'
+DOMAIN = "www.paintbar.in"
+COLLECTION = "paint-bar-bangalore"
+
 
 # Convert variants to Schema.org/Offer
 def make_offers(product: ShopifyProduct):
@@ -14,10 +15,11 @@ def make_offers(product: ShopifyProduct):
             "@type": "Offer",
             "priceCurrency": "INR",
             "price": variant.price,
-            "name": variant.title
+            "name": variant.title,
         }
         for variant in product.variants
     ]
+
 
 # Fetch timings from the variant.title. It returns start_date and end_date timestamps
 def fetch_timings(date_str: str):
@@ -55,8 +57,10 @@ def fetch_timings(date_str: str):
 
     return timestamps
 
+
 def make_name(title):
     return " | ".join(title.split(" | ")[:-2]).strip()
+
 
 def make_event(product, sp: Shopify):
     start_date, end_date = fetch_timings(product.title)
@@ -70,8 +74,10 @@ def make_event(product, sp: Shopify):
         "endDate": end_date.isoformat(),
     }
 
+
 if __name__ == "__main__":
     from common.session import get_cached_session
+
     session = get_cached_session()
     paint_bar = Shopify(DOMAIN, session, COLLECTION)
     events = [make_event(p, paint_bar) for p in paint_bar.products()]

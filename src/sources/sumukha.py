@@ -45,7 +45,9 @@ def parse_event_details(html_content):
         title = card_body.select_one(".list-title a").text.strip().title()
         performer = card_body.select_one(".text-muted").text.strip()
         date_range = card_body.select_one("div.text-muted").text.strip()
-        start_date_str, end_date_str = [date.strip() for date in date_range.split(" to ")]
+        start_date_str, end_date_str = [
+            date.strip() for date in date_range.split(" to ")
+        ]
         start_date = parse_and_format_date(start_date_str)
         end_date = parse_and_format_date(end_date_str)
         img_src = parent_div.select_one("img")["src"]

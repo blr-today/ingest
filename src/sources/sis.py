@@ -10,27 +10,31 @@ import datefinder
 
 BASE_URL = "https://sistersinsweat.com"
 KNOWN_SPORTS = {
-    'frisbee': 'Frisbee',
-    'pickleball': 'Pickleball',
-    'football': 'Football',
-    'basketball': 'Basketball',
-    'b\'ball': 'Basketball',
-    'run ': 'Running',
-    'running': 'Running',
-    'baddy': 'Badminton',
-    'footy': 'Football',
-    'padel': 'Pickeball'
+    "frisbee": "Frisbee",
+    "pickleball": "Pickleball",
+    "football": "Football",
+    "basketball": "Basketball",
+    "b'ball": "Basketball",
+    "run ": "Running",
+    "running": "Running",
+    "baddy": "Badminton",
+    "footy": "Football",
+    "padel": "Pickeball",
 }
+
 
 def fetch_sessions_html(session):
     body = """{
       "City": "BENGALURU"
     }
     """
-    response = session.post(BASE_URL + "/filter-events", data=body, headers={
-        "content-type": "application/json"
-    })
+    response = session.post(
+        BASE_URL + "/filter-events",
+        data=body,
+        headers={"content-type": "application/json"},
+    )
     return response.text
+
 
 def make_event_details(soup):
     l = soup.select_one(".box-button a").get("href")
@@ -71,18 +75,18 @@ def make_event_details(soup):
     if event_type == "SportsEvent":
         event["keywords"].append("SISTERSINSWEAT/SPORTS")
         try:
-            event['sport'] = l.split("-")[3]
+            event["sport"] = l.split("-")[3]
         except:
             # Use KNOWN_SPORTS to determine the sport
             for key, value in KNOWN_SPORTS.items():
                 if key in l.lower():
-                    event['sport'] = value
+                    event["sport"] = value
                     break
     else:
         event["keywords"].append("SISTERSINSWEAT/SESSION")
 
     event["description"] = description.replace("\n \n", "\n").strip()
-    
+
     img = soup.select_one(".box-image img")
     if img:
         event["image"] = img.get("src")
@@ -107,8 +111,11 @@ def make_event_details(soup):
         }
     date = soup.select_one(".box-date")
     if date:
-        date_text = date.select_one(".box-date .date-text1").text.strip() + " " + \
-            date.select_one(".box-date .date-text2").text.strip()
+        date_text = (
+            date.select_one(".box-date .date-text1").text.strip()
+            + " "
+            + date.select_one(".box-date .date-text2").text.strip()
+        )
         time_text = date.select_one(".box-date .date-text3").text.strip()
         start_time, end_time = time_text.split("-")
 
@@ -125,7 +132,8 @@ def make_event_details(soup):
 
 def fetch_event_boxes(html):
     soup = BeautifulSoup(html, "html.parser")
-    return soup.select('.list-view-box')
+    return soup.select(".list-view-box")
+
 
 if __name__ == "__main__":
     session = requests.Session()

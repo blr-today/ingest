@@ -13,7 +13,6 @@ from io import BytesIO
 
 
 class CorrectResponse(RequestResponse):
-
     def __init__(self, request: PreparedRequest, response: CURLResponse):
         super().__init__()
 

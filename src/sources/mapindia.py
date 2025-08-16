@@ -10,7 +10,7 @@ TODO: This script currently only works on Events, and not Exhibits or Installati
 session = get_cached_session(allowable_methods=["GET", "POST", "HEAD"])
 
 
-def fetch_urls(exclude_ids = []):
+def fetch_urls(exclude_ids=[]):
     data = {"action": "load_filtered_events"}
     if len(exclude_ids) > 0:
         data["excludeIds[]"] = exclude_ids
@@ -19,10 +19,11 @@ def fetch_urls(exclude_ids = []):
         headers=HEADERS,
         data=data,
     ).json()
-    for post_id in response['current_posts']:
+    for post_id in response["current_posts"]:
         yield f"https://map-india.org/?p={post_id}"
-    if 'loadMore' in response and response['loadMore'] == True:
-        yield from fetch_urls([str(x) for x in response['current_posts']] + exclude_ids)
+    if "loadMore" in response and response["loadMore"] == True:
+        yield from fetch_urls([str(x) for x in response["current_posts"]] + exclude_ids)
+
 
 def generate_calendar():
     c = Calendar(creator="blr.today/map-india")
@@ -50,4 +51,3 @@ with open("out/mapindia.ics", "w") as f:
     c = generate_calendar()
     f.writelines(c.serialize_iter())
     print(f"[MAP] {len(c.events)} events")
-

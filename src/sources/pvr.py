@@ -25,7 +25,7 @@ MOVIE_KEYS = [
     "facebook",
     "instagram",
     "twitter",
-    "tmdb_id"
+    "tmdb_id",
 ]
 
 CINEMA_KEYS = [
@@ -148,25 +148,16 @@ if __name__ == "__main__":
         open("out/pvr-sessions.csv", "w", newline="") as sessions_file,
         open("out/pvr-cinemas.csv", "w", newline="") as cinemas_file,
     ):
-
-        movie_writer = csv.DictWriter(
-            movies_file,
-            fieldnames=["movieId"] + MOVIE_KEYS
-        )
+        movie_writer = csv.DictWriter(movies_file, fieldnames=["movieId"] + MOVIE_KEYS)
         session_writer = csv.DictWriter(
             sessions_file,
-            fieldnames=["movieId"] + SHOW_KEYS + [
-                "theatreId",
-                "experienceKey",
-                "startTime",
-                "endTime"
-            ],
+            fieldnames=["movieId"]
+            + SHOW_KEYS
+            + ["theatreId", "experienceKey", "startTime", "endTime"],
         )
 
         cinema_writer = csv.DictWriter(
-            cinemas_file,
-            fieldnames=CINEMA_KEYS,
-            extrasaction='ignore'
+            cinemas_file, fieldnames=CINEMA_KEYS, extrasaction="ignore"
         )
 
         # Write headers
@@ -191,7 +182,9 @@ if __name__ == "__main__":
                     show["movieId"] = movie_id
                     session_writer.writerow(show)
 
-        cinema_writer.writerows(sorted(all_cinemas.values(), key=lambda x: x["theatreId"]))
+        cinema_writer.writerows(
+            sorted(all_cinemas.values(), key=lambda x: x["theatreId"])
+        )
 
     print(f"[PVR] {len(all_cinemas)} cinemas")
     print(f"[PVR] {movie_counter} movies")

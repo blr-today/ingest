@@ -57,7 +57,7 @@ SHOW_KEYS = [
     "startTime",
     "endTime",
     "format",
-    "availability"
+    "availability",
 ]
 
 
@@ -91,21 +91,25 @@ def fetch_movies(movie_list):
             "runtime": movie_detail["duration"],
             "genres": ", ".join(movie_detail["grn"]),
             "image": movie_detail["appImgPath"],
-            "formats": []
+            "formats": [],
         }
 
         for lang in movie_detail["languageFormatGroups"]:
-            movie['formats'].append({
-                "lang": LANGUAGE_TO_ISO_MAP[lang['lang']],
-                "id": lang['fmtGrpId'],
-                "screenFormats": []
-            })
-            for screenFormat in lang['screenFormats']:
-                movie['formats'][-1]['screenFormats'].append({
-                    "id": screenFormat['movieCode'],
-                    "name": screenFormat['scrnFmt'],
-                    "earliestDate": screenFormat['nextAvailableDate'],
-                })
+            movie["formats"].append(
+                {
+                    "lang": LANGUAGE_TO_ISO_MAP[lang["lang"]],
+                    "id": lang["fmtGrpId"],
+                    "screenFormats": [],
+                }
+            )
+            for screenFormat in lang["screenFormats"]:
+                movie["formats"][-1]["screenFormats"].append(
+                    {
+                        "id": screenFormat["movieCode"],
+                        "name": screenFormat["scrnFmt"],
+                        "earliestDate": screenFormat["nextAvailableDate"],
+                    }
+                )
 
         movies.append(movie)
 
@@ -125,28 +129,31 @@ def parse_show_data(shows_per_day, shows, movie):
             if formatData["id"] == fid:
                 return formatData["lang"]
         return None
+
     for cinema in shows_per_day.values():
         for details in cinema:
             # print(details)
-            language = reverse_lookup_lang(details['fid'])
-            availability = sum(area['sAvail'] for area in details['areas'])
+            language = reverse_lookup_lang(details["fid"])
+            availability = sum(area["sAvail"] for area in details["areas"])
             if availability > 0:
-                shows.append({
-                    "theatreId": details["cid"],
-                    "startTime": datetime.strptime(
-                        details["showTime"], "%Y-%m-%dT%H:%M"
-                    ).isoformat(),
-                    "endTime": datetime.strptime(
-                        details["closeTime"], "%Y-%m-%dT%H:%M"
-                    ).isoformat(),
-                    "availableSeats": details["avail"],
-                    "totalSeats": details["total"],
-                    "screenName": details["audi"],
-                    "movieId": movie["movieId"],
-                    "format": reverse_lookup_format(details['mid']),
-                    "language": language,
-                    "availability": availability
-                })
+                shows.append(
+                    {
+                        "theatreId": details["cid"],
+                        "startTime": datetime.strptime(
+                            details["showTime"], "%Y-%m-%dT%H:%M"
+                        ).isoformat(),
+                        "endTime": datetime.strptime(
+                            details["closeTime"], "%Y-%m-%dT%H:%M"
+                        ).isoformat(),
+                        "availableSeats": details["avail"],
+                        "totalSeats": details["total"],
+                        "screenName": details["audi"],
+                        "movieId": movie["movieId"],
+                        "format": reverse_lookup_format(details["mid"]),
+                        "language": language,
+                        "availability": availability,
+                    }
+                )
 
 
 def fetch_shows(session, movies):
@@ -155,21 +162,24 @@ def fetch_shows(session, movies):
     for movie in movies:
         for formatData in movie["formats"]:
             code = formatData["id"]
-            res = make_request(
-                session, SHOWS_PATH, {"movieCode": code, "reqData": "1"}
-            )
+            res = make_request(session, SHOWS_PATH, {"movieCode": code, "reqData": "1"})
             # Movie is not playing really
-            if 'sessionDates' in res['data']:
+            if "sessionDates" in res["data"]:
                 for show_date in res["data"]["sessionDates"]:
                     res = make_request(
                         session,
                         SHOWS_PATH,
-                        {"movieCode": code, "date": show_date, "reqData": "1", "meta": "1"},
+                        {
+                            "movieCode": code,
+                            "date": show_date,
+                            "reqData": "1",
+                            "meta": "1",
+                        },
                     )
 
                     try:
                         shows_per_day = res["pageData"]["sessions"]
-                        movieInfo = res['meta']['movies'][0]
+                        movieInfo = res["meta"]["movies"][0]
                         parse_show_data(shows_per_day, shows, movie)
                     except KeyError as e:
                         print(e)
@@ -210,7 +220,13 @@ combination
 def unique_shows(show):
     unique = {}
     for s in show:
-        key = (s["movieId"], s["theatreId"], s["screenName"], s["language"], s["startTime"])
+        key = (
+            s["movieId"],
+            s["theatreId"],
+            s["screenName"],
+            s["language"],
+            s["startTime"],
+        )
         if key not in unique:
             unique[key] = s
     return list(unique.values())

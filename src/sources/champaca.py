@@ -23,7 +23,8 @@ def get_product_details(handle):
     response = make_request(url)
     j = response.json()
     for variant in j["product"]["variants"]:
-        return (str(ceil(float(variant["price"]))), j['product']['product_type'])
+        return (str(ceil(float(variant["price"]))), j["product"]["product_type"])
+
 
 """
 Shopify URLs published in blogs 
@@ -31,6 +32,8 @@ do not always work for the API
 because they have the wrong "handle"
 This makes a correct product handle using the canonical ref
 """
+
+
 def get_product_handle(url):
     response = make_request(url)
     soup = BeautifulSoup(response.text, "html.parser")
@@ -41,6 +44,7 @@ def get_product_handle(url):
         return parsed_url.path.split("/")[-1]
     return None
 
+
 def guess_event_type(title):
     if "Workshop" in title:
         return "EducationEvent"
@@ -49,6 +53,7 @@ def guess_event_type(title):
     if "Children" in title:
         return "ChildrensEvent"
     return "Event"
+
 
 # Generate as per the schema.org/Event specification
 def make_event(title, starttime, description, url, product_urls):
@@ -71,8 +76,7 @@ def make_event(title, starttime, description, url, product_urls):
         "endDate": (starttime + datetime.timedelta(hours=2)).isoformat(),
         "description": description,
         "url": url,
-        "offers": []
-        
+        "offers": [],
     }
 
     for product_url in product_urls:
@@ -80,17 +84,19 @@ def make_event(title, starttime, description, url, product_urls):
         if not handle:
             print(f"[CHAMPACA] Could not get handle for {product_url}")
             continue
-        price,type = get_product_details(handle)
+        price, type = get_product_details(handle)
         # TODO: If Needed
         # Champaca does not mark its events in a separate category always
         # So we can check the product weight, which should be zero as well
-        if 'ticket' in type.lower() or 'event' in type.lower():
-            e['offers'].append({
-                "@type": "Offer",
-                "url": product_url,
-                "price": price,
-                "priceCurrency": "INR"
-            })
+        if "ticket" in type.lower() or "event" in type.lower():
+            e["offers"].append(
+                {
+                    "@type": "Offer",
+                    "url": product_url,
+                    "price": price,
+                    "priceCurrency": "INR",
+                }
+            )
             if price == "0":
                 e["isAccessibleForFree"] = True
 
@@ -105,7 +111,7 @@ def fetch_events():
     res = make_request(url)
 
     try:
-        tree = etree.fromstring(res.text.encode('utf-8'))
+        tree = etree.fromstring(res.text.encode("utf-8"))
     except etree.XMLSyntaxError:
         return []
 
@@ -151,7 +157,6 @@ def fetch_events():
                 # Calculate the difference in days between now and the future date
                 days_difference = (future_date - datetime.datetime.now()).days
                 if days_difference <= 30 and days_difference >= 0:
-
                     events.append(
                         make_event(title, future_date, description_text, url, links)
                     )

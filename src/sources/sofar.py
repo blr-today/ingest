@@ -2,7 +2,9 @@ import json
 import datetime
 import curl_cffi
 from common.tz import IST
+
 BROWSER_CODE = "safari184_ios"
+
 
 def to_schema_org_music_event(event_info):
     base_url = "https://www.sofarsounds.com/events/"
@@ -22,7 +24,9 @@ def to_schema_org_music_event(event_info):
     categories = ""
     neighbourhood = None
     try:
-        categories = "/".join([x["name"] for x in event_info["venue"]["venueCategories"]])
+        categories = "/".join(
+            [x["name"] for x in event_info["venue"]["venueCategories"]]
+        )
     except TypeError:
         pass
     if categories != "Other":
@@ -44,31 +48,31 @@ def to_schema_org_music_event(event_info):
         "description": "An intimate concert by Sofar Sounds, at an offbeat venue. Venue details will be disclosed 36 hours before the event.",
         "location": {
             "@type": "Place",
-            "address": neighbourhood or event_info["city"]["title"]
+            "address": neighbourhood or event_info["city"]["title"],
         },
         "image": event_info["imageUrl"],
         "remainingAttendeeCapacity": event_info["remainingSpaces"],
         "offers": {
             "@type": "Offer",
-            "price": (event_info["ticketPrice"] + event_info["bookingFee"])/100,
+            "price": (event_info["ticketPrice"] + event_info["bookingFee"]) / 100,
             "priceCurrency": "INR",
             "availability": "https://schema.org/InStock",
-        }
+        },
     }
 
     return music_event_schema
 
 
 def make_graphql_request(query, city, url):
-    body = curl_cffi.post(url, json={
+    body = curl_cffi.post(
+        url,
+        json={
             "operationName": "GetEventsForFanWithAttendees",
-            "variables": {
-                "city": city,
-                "page": 1,
-                "perPage": 2
-            },
+            "variables": {"city": city, "page": 1, "perPage": 2},
             "query": query,
-        },impersonate=BROWSER_CODE).content
+        },
+        impersonate=BROWSER_CODE,
+    ).content
     return json.loads(body)
 
 

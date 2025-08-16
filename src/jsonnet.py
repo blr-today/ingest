@@ -5,14 +5,18 @@ import os
 import html2text as HT
 import datetime
 
+
 def html2text(html):
     h = HT.HTML2Text()
     h.ignore_links = True
     h.bypass_tables = True
     h.single_line_break = True
     return h.handle(html).strip()
+
+
 def today():
     return datetime.datetime.today().strftime("%Y-%m-%d")
+
 
 input_file = sys.argv[1]
 if not os.path.exists(input_file):

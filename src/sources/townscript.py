@@ -12,7 +12,7 @@ IGNORED_URL_SLUGS = [
     "chandigarh",
     "hyderabad",
     "jaipur",
-    "amritsar"
+    "amritsar",
 ]
 
 

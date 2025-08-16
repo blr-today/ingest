@@ -9,12 +9,14 @@ import json
 import sys
 import os
 
+
 def find_event(l):
     for d in l:
         if d.get("@type") in KNOWN_EVENT_TYPES:
             return d
 
-def fetch_remote_events(file_filter = None):
+
+def fetch_remote_events(file_filter=None):
     session = get_cached_session()
     URL_FILES = glob.glob("out/*.txt")
     for url_file in URL_FILES:
@@ -38,7 +40,7 @@ def fetch_remote_events(file_filter = None):
                 if len(r.text) == 0:
                     print("No content for ", url)
                     break
-                
+
                 try:
                     data = JsonLdExtractor().extract(r.text)
                 except json.decoder.JSONDecodeError:

@@ -17,10 +17,11 @@ event_type_mapper = {
     "Event": "Event",
     "Walkthrough": "EducationEvent",
     "Studio Visit": "EducationEvent",
-    'Artist Talk': "EducationEvent",
+    "Artist Talk": "EducationEvent",
 }
 
 session = get_cached_session()
+
 
 def guess_event_type(kind):
     # search for each of the keys from the mapper
@@ -128,9 +129,13 @@ def filter_data(data):
 
 
 def main():
-    data = session.get(
-        "https://calorie-56dab-default-rtdb.asia-southeast1.firebasedatabase.app/calorie/en/programmes.json"
-    ).json().values()
+    data = (
+        session.get(
+            "https://calorie-56dab-default-rtdb.asia-southeast1.firebasedatabase.app/calorie/en/programmes.json"
+        )
+        .json()
+        .values()
+    )
     with open("out/scigalleryblr.json", "w") as f:
         json.dump(filter_data(data), f, indent=2)
 
