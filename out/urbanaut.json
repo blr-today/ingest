@@ -1770,56 +1770,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "ScreeningEvent",
-    "name": "Film Screening \" Ali : Fear Eats the Soul \"",
-    "description": "Ali : Fear Eats The Soul (1974)By Rainer Werner Fassbinder / 93' / German\u00a0An older lonely widow meets a much younger Arab worker in a bar during a rainstorm. They fall in love, to their own surprise and to the outright shock of their families, colleagues, and drinking buddies.In Ali: Fear Eats the Soul, Fassbinder expertly wields the emotional power of classic Hollywood melodrama to expose the racial tensions underlying contemporary German culture.In collaboration with Goethe-Institut / Max Mueller Bhavan Bangalore.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/976489009F82458AB3E01C04E4209E4F_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6343912DFEA840D69649607B1530B56E_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7203A60190BB4F37B58400806BC2B867_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/77D96213F3E849B49FAAE08F31EE5281_converted_webp.webp"
-    ],
-    "startDate": "2025-08-16T18:00:00+05:30",
-    "endDate": "2025-08-16T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
-      "latitude": "12.98348400000000000000",
-      "longitude": "77.61101699999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 44,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "200.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bangalore Film Forum",
-      "description": "An arthouse film club showcasing Contemporary, Independent, Foreign and Classic films. Bangalore, India.",
-      "url": "https://urbanaut.app/partner/bff",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E6294D5A15C94A03A2F9A639710F9542_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-95355-51953"
-      }
-    },
-    "url": "https://urbanaut.app/spot/BFF-Ali",
-    "keywords": [
-      "History & heritage",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Wine Tasting: Wine & Pizza Night, Bangalore!",
     "description": "It only happens once a year, and it sells out\u00a0every\u00a0time \u2014 Bangalore, our epic Wine & Pizza Night is back!Join Sommelier Devati Mallick (Founder & Curator, Drink With D Wine Experiences) for an evening topped with everything\u00a0epic: Delicious wine discoveries, fresh-out-the-oven wood-fired pizzas and the city\u2019s coolest wine-loving crew. All set against the breezy outdoor backdrop of\u00a0Olive Beach, one of Bangalore\u2019s most iconic venues.We\u2019ll pour you 5 stellar wines from around the world, each one paired with a fresh, oven-fired pizza that\u2019s made to match. Expect some bold sips, juicy wine stories, cheeky games, and more than a few epic \u201cdid-that-just-happen\u201d moments that are a signature at Drink With D events!Don't sleep on this. Come and spend a Saturday evening soaked in sunset feels, good wines, good vibes, and the city's super cool wine lovers.Limited seats \u2014 grab yours before they\u2019re gone!",
@@ -2359,54 +2309,6 @@
     "url": "https://urbanaut.app/spot/live-read-play-the-book-of-wild-challenges",
     "keywords": [
       "Local",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Tajurba - A Sarangi Jugalbandi",
-    "description": "Tajurba: Sarangi Jugalbandi ft. Ustad Dilshaad Khan & Arhaan KhanAccompanied by Trilochan Kampli on TablaAugust 16 | Independence Day Special EditionThis Independence weekend, immerse yourself in the soul of India through the hauntingly beautiful strains of the sarangi\u2014an instrument once central to our classical traditions. Tajurba presents a rare jugalbandi between the legendary Ustad Dilshaad Khan, whose compositions have graced both stage and screen, and his 16-year-old son Arhaan Khan, making his much-awaited debut.Joined by Trilochan Kampli\u2014the master tabla accompanist and curator of Tajurba\u2014this evening is a tribute to the inheritance of sound, tradition, and artistic legacy.Come celebrate freedom by returning to our roots. Experience a revival of Indian classical music that speaks not just to the past, but to the future.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F5BEFB0A4B2C4F439F33D706EE76B465_converted_webp.webp"
-    ],
-    "startDate": "2025-08-16T19:00:00+05:30",
-    "endDate": "2025-08-16T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Shop No 55, Lavelle Road, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJO-UQI3kWrjsRX4RrcTXqDz4",
-      "latitude": "12.97014270000000000000",
-      "longitude": "77.59759550000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "999.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Concoction Events",
-      "description": "Niche & carefully curated events.",
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/42A50C80C7514FEABF6115A6D6A8497F_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99010-00066"
-      }
-    },
-    "url": "https://urbanaut.app/spot/tajurba-sarangi-jugalbandi",
-    "keywords": [
-      "Music",
-      "Premium",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -3356,10 +3258,11 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Copy of The Ramen Map Pop-Up",
+    "name": "Spicy Noodle Pop-up",
     "description": "Bento Bento's Spicy Noodle Pop-UpA bold and spicy noodle bar pop-up, featuring regional noodle preparations from across Asia, with layered flavours, small plates, and dessert.August 23-24 | 12 -4 pm | 7-11 pmBento Bento, IndiranagarThe Bengaluru weather calls for bowls of warm, umami noodles and Chef Anumitra Ghosh Dastidar has us covered with this two-day pop-Up celebrating Asia's most fiery, flavour-packed noodle traditions.The menu draws from street-side stalls, bustling city markets, and family kitchens, featuring 6 spicy noodles and a range of small plates. Highlights include Chongqing noodles with springy wheat noodles, scarlet chilli oil, and Sichuan peppercorns; mee goreng; Korean-style gochujang noodles; khao suey; Lanzhou beef noodles with chilli oil; and mazemen, a Japanese brothless ramen. Small plates include prawn lettuce cups with nam prik, radish cake with spicy sauce, stir-fried tofu and beans in chilli oil. Cool off at the end with a flan featuring orange-blossom water, or beat the heat with sips of boba and coffee!SPICY NOODLE POP+UP MENUNOODLESCHONGQING NOODLES Tofu/Pork 500: Mala flavoured noodles with numbing (ma) Sichuan pepper and spicy (la) chili oilLANZHOU BEEF NOODLES WITH CHILLI OIL 650: Clear beef broth with noodles, topped with beef slices, herbs, and house-made chilli oil.MEE GORENG Veg 550; Chicken/Prawn 600: Stir-fried sweet-spicy noodles with soy, chilli, and garlic as found on the streets of Indonesia and MalaysiaMAZEMEN Veg/Pork/Chicken/Beef 550: All the flavours of ramen without the broth, this is a hearty, savoury tare flavour bomb!GOCHUJANG NOODLES Veg/Chicken 550: Korean-style spicy noodles in a fermented chilli pastewith sesame and garlic.KHAO SUEY Veg 550; Chicken 600; Prawn 650: Burmese-style coconut noodle soup with crisp toppings, lime, and optional chilli oil.SMALL PLATESMALA CHICKEN 480PRAWN LETTUCE CUPS WITH NAM PRIK 520RADISH CAKE WITH SPICY SAUCE 420STIR-FRIED TOFU AND BEANS IN CHILLI OIL 420BAO Mixed Vegetable 200 / Tofu & chicken 250DESSERTFLAN WITH ORANGE BLOSSOM WATER 320",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7912802143BB40C8A9B00DD092DE3004_converted_webp.webp"
     ],
     "startDate": "2025-08-23T12:00:00+05:30",
     "endDate": "2025-08-23T13:30:00+05:30",
@@ -3404,10 +3307,11 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Copy of The Ramen Map Pop-Up",
+    "name": "Spicy Noodle Pop-up",
     "description": "Bento Bento's Spicy Noodle Pop-UpA bold and spicy noodle bar pop-up, featuring regional noodle preparations from across Asia, with layered flavours, small plates, and dessert.August 23-24 | 12 -4 pm | 7-11 pmBento Bento, IndiranagarThe Bengaluru weather calls for bowls of warm, umami noodles and Chef Anumitra Ghosh Dastidar has us covered with this two-day pop-Up celebrating Asia's most fiery, flavour-packed noodle traditions.The menu draws from street-side stalls, bustling city markets, and family kitchens, featuring 6 spicy noodles and a range of small plates. Highlights include Chongqing noodles with springy wheat noodles, scarlet chilli oil, and Sichuan peppercorns; mee goreng; Korean-style gochujang noodles; khao suey; Lanzhou beef noodles with chilli oil; and mazemen, a Japanese brothless ramen. Small plates include prawn lettuce cups with nam prik, radish cake with spicy sauce, stir-fried tofu and beans in chilli oil. Cool off at the end with a flan featuring orange-blossom water, or beat the heat with sips of boba and coffee!SPICY NOODLE POP+UP MENUNOODLESCHONGQING NOODLES Tofu/Pork 500: Mala flavoured noodles with numbing (ma) Sichuan pepper and spicy (la) chili oilLANZHOU BEEF NOODLES WITH CHILLI OIL 650: Clear beef broth with noodles, topped with beef slices, herbs, and house-made chilli oil.MEE GORENG Veg 550; Chicken/Prawn 600: Stir-fried sweet-spicy noodles with soy, chilli, and garlic as found on the streets of Indonesia and MalaysiaMAZEMEN Veg/Pork/Chicken/Beef 550: All the flavours of ramen without the broth, this is a hearty, savoury tare flavour bomb!GOCHUJANG NOODLES Veg/Chicken 550: Korean-style spicy noodles in a fermented chilli pastewith sesame and garlic.KHAO SUEY Veg 550; Chicken 600; Prawn 650: Burmese-style coconut noodle soup with crisp toppings, lime, and optional chilli oil.SMALL PLATESMALA CHICKEN 480PRAWN LETTUCE CUPS WITH NAM PRIK 520RADISH CAKE WITH SPICY SAUCE 420STIR-FRIED TOFU AND BEANS IN CHILLI OIL 420BAO Mixed Vegetable 200 / Tofu & chicken 250DESSERTFLAN WITH ORANGE BLOSSOM WATER 320",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7912802143BB40C8A9B00DD092DE3004_converted_webp.webp"
     ],
     "startDate": "2025-08-23T14:00:00+05:30",
     "endDate": "2025-08-23T15:30:00+05:30",
@@ -3452,10 +3356,11 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Copy of The Ramen Map Pop-Up",
+    "name": "Spicy Noodle Pop-up",
     "description": "Bento Bento's Spicy Noodle Pop-UpA bold and spicy noodle bar pop-up, featuring regional noodle preparations from across Asia, with layered flavours, small plates, and dessert.August 23-24 | 12 -4 pm | 7-11 pmBento Bento, IndiranagarThe Bengaluru weather calls for bowls of warm, umami noodles and Chef Anumitra Ghosh Dastidar has us covered with this two-day pop-Up celebrating Asia's most fiery, flavour-packed noodle traditions.The menu draws from street-side stalls, bustling city markets, and family kitchens, featuring 6 spicy noodles and a range of small plates. Highlights include Chongqing noodles with springy wheat noodles, scarlet chilli oil, and Sichuan peppercorns; mee goreng; Korean-style gochujang noodles; khao suey; Lanzhou beef noodles with chilli oil; and mazemen, a Japanese brothless ramen. Small plates include prawn lettuce cups with nam prik, radish cake with spicy sauce, stir-fried tofu and beans in chilli oil. Cool off at the end with a flan featuring orange-blossom water, or beat the heat with sips of boba and coffee!SPICY NOODLE POP+UP MENUNOODLESCHONGQING NOODLES Tofu/Pork 500: Mala flavoured noodles with numbing (ma) Sichuan pepper and spicy (la) chili oilLANZHOU BEEF NOODLES WITH CHILLI OIL 650: Clear beef broth with noodles, topped with beef slices, herbs, and house-made chilli oil.MEE GORENG Veg 550; Chicken/Prawn 600: Stir-fried sweet-spicy noodles with soy, chilli, and garlic as found on the streets of Indonesia and MalaysiaMAZEMEN Veg/Pork/Chicken/Beef 550: All the flavours of ramen without the broth, this is a hearty, savoury tare flavour bomb!GOCHUJANG NOODLES Veg/Chicken 550: Korean-style spicy noodles in a fermented chilli pastewith sesame and garlic.KHAO SUEY Veg 550; Chicken 600; Prawn 650: Burmese-style coconut noodle soup with crisp toppings, lime, and optional chilli oil.SMALL PLATESMALA CHICKEN 480PRAWN LETTUCE CUPS WITH NAM PRIK 520RADISH CAKE WITH SPICY SAUCE 420STIR-FRIED TOFU AND BEANS IN CHILLI OIL 420BAO Mixed Vegetable 200 / Tofu & chicken 250DESSERTFLAN WITH ORANGE BLOSSOM WATER 320",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7912802143BB40C8A9B00DD092DE3004_converted_webp.webp"
     ],
     "startDate": "2025-08-23T19:00:00+05:30",
     "endDate": "2025-08-23T20:30:00+05:30",
@@ -3500,10 +3405,11 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Copy of The Ramen Map Pop-Up",
+    "name": "Spicy Noodle Pop-up",
     "description": "Bento Bento's Spicy Noodle Pop-UpA bold and spicy noodle bar pop-up, featuring regional noodle preparations from across Asia, with layered flavours, small plates, and dessert.August 23-24 | 12 -4 pm | 7-11 pmBento Bento, IndiranagarThe Bengaluru weather calls for bowls of warm, umami noodles and Chef Anumitra Ghosh Dastidar has us covered with this two-day pop-Up celebrating Asia's most fiery, flavour-packed noodle traditions.The menu draws from street-side stalls, bustling city markets, and family kitchens, featuring 6 spicy noodles and a range of small plates. Highlights include Chongqing noodles with springy wheat noodles, scarlet chilli oil, and Sichuan peppercorns; mee goreng; Korean-style gochujang noodles; khao suey; Lanzhou beef noodles with chilli oil; and mazemen, a Japanese brothless ramen. Small plates include prawn lettuce cups with nam prik, radish cake with spicy sauce, stir-fried tofu and beans in chilli oil. Cool off at the end with a flan featuring orange-blossom water, or beat the heat with sips of boba and coffee!SPICY NOODLE POP+UP MENUNOODLESCHONGQING NOODLES Tofu/Pork 500: Mala flavoured noodles with numbing (ma) Sichuan pepper and spicy (la) chili oilLANZHOU BEEF NOODLES WITH CHILLI OIL 650: Clear beef broth with noodles, topped with beef slices, herbs, and house-made chilli oil.MEE GORENG Veg 550; Chicken/Prawn 600: Stir-fried sweet-spicy noodles with soy, chilli, and garlic as found on the streets of Indonesia and MalaysiaMAZEMEN Veg/Pork/Chicken/Beef 550: All the flavours of ramen without the broth, this is a hearty, savoury tare flavour bomb!GOCHUJANG NOODLES Veg/Chicken 550: Korean-style spicy noodles in a fermented chilli pastewith sesame and garlic.KHAO SUEY Veg 550; Chicken 600; Prawn 650: Burmese-style coconut noodle soup with crisp toppings, lime, and optional chilli oil.SMALL PLATESMALA CHICKEN 480PRAWN LETTUCE CUPS WITH NAM PRIK 520RADISH CAKE WITH SPICY SAUCE 420STIR-FRIED TOFU AND BEANS IN CHILLI OIL 420BAO Mixed Vegetable 200 / Tofu & chicken 250DESSERTFLAN WITH ORANGE BLOSSOM WATER 320",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7912802143BB40C8A9B00DD092DE3004_converted_webp.webp"
     ],
     "startDate": "2025-08-23T21:00:00+05:30",
     "endDate": "2025-08-23T22:30:00+05:30",
@@ -3548,10 +3454,11 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Copy of The Ramen Map Pop-Up",
+    "name": "Spicy Noodle Pop-up",
     "description": "Bento Bento's Spicy Noodle Pop-UpA bold and spicy noodle bar pop-up, featuring regional noodle preparations from across Asia, with layered flavours, small plates, and dessert.August 23-24 | 12 -4 pm | 7-11 pmBento Bento, IndiranagarThe Bengaluru weather calls for bowls of warm, umami noodles and Chef Anumitra Ghosh Dastidar has us covered with this two-day pop-Up celebrating Asia's most fiery, flavour-packed noodle traditions.The menu draws from street-side stalls, bustling city markets, and family kitchens, featuring 6 spicy noodles and a range of small plates. Highlights include Chongqing noodles with springy wheat noodles, scarlet chilli oil, and Sichuan peppercorns; mee goreng; Korean-style gochujang noodles; khao suey; Lanzhou beef noodles with chilli oil; and mazemen, a Japanese brothless ramen. Small plates include prawn lettuce cups with nam prik, radish cake with spicy sauce, stir-fried tofu and beans in chilli oil. Cool off at the end with a flan featuring orange-blossom water, or beat the heat with sips of boba and coffee!SPICY NOODLE POP+UP MENUNOODLESCHONGQING NOODLES Tofu/Pork 500: Mala flavoured noodles with numbing (ma) Sichuan pepper and spicy (la) chili oilLANZHOU BEEF NOODLES WITH CHILLI OIL 650: Clear beef broth with noodles, topped with beef slices, herbs, and house-made chilli oil.MEE GORENG Veg 550; Chicken/Prawn 600: Stir-fried sweet-spicy noodles with soy, chilli, and garlic as found on the streets of Indonesia and MalaysiaMAZEMEN Veg/Pork/Chicken/Beef 550: All the flavours of ramen without the broth, this is a hearty, savoury tare flavour bomb!GOCHUJANG NOODLES Veg/Chicken 550: Korean-style spicy noodles in a fermented chilli pastewith sesame and garlic.KHAO SUEY Veg 550; Chicken 600; Prawn 650: Burmese-style coconut noodle soup with crisp toppings, lime, and optional chilli oil.SMALL PLATESMALA CHICKEN 480PRAWN LETTUCE CUPS WITH NAM PRIK 520RADISH CAKE WITH SPICY SAUCE 420STIR-FRIED TOFU AND BEANS IN CHILLI OIL 420BAO Mixed Vegetable 200 / Tofu & chicken 250DESSERTFLAN WITH ORANGE BLOSSOM WATER 320",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7912802143BB40C8A9B00DD092DE3004_converted_webp.webp"
     ],
     "startDate": "2025-08-24T12:00:00+05:30",
     "endDate": "2025-08-24T13:30:00+05:30",
@@ -3596,10 +3503,11 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Copy of The Ramen Map Pop-Up",
+    "name": "Spicy Noodle Pop-up",
     "description": "Bento Bento's Spicy Noodle Pop-UpA bold and spicy noodle bar pop-up, featuring regional noodle preparations from across Asia, with layered flavours, small plates, and dessert.August 23-24 | 12 -4 pm | 7-11 pmBento Bento, IndiranagarThe Bengaluru weather calls for bowls of warm, umami noodles and Chef Anumitra Ghosh Dastidar has us covered with this two-day pop-Up celebrating Asia's most fiery, flavour-packed noodle traditions.The menu draws from street-side stalls, bustling city markets, and family kitchens, featuring 6 spicy noodles and a range of small plates. Highlights include Chongqing noodles with springy wheat noodles, scarlet chilli oil, and Sichuan peppercorns; mee goreng; Korean-style gochujang noodles; khao suey; Lanzhou beef noodles with chilli oil; and mazemen, a Japanese brothless ramen. Small plates include prawn lettuce cups with nam prik, radish cake with spicy sauce, stir-fried tofu and beans in chilli oil. Cool off at the end with a flan featuring orange-blossom water, or beat the heat with sips of boba and coffee!SPICY NOODLE POP+UP MENUNOODLESCHONGQING NOODLES Tofu/Pork 500: Mala flavoured noodles with numbing (ma) Sichuan pepper and spicy (la) chili oilLANZHOU BEEF NOODLES WITH CHILLI OIL 650: Clear beef broth with noodles, topped with beef slices, herbs, and house-made chilli oil.MEE GORENG Veg 550; Chicken/Prawn 600: Stir-fried sweet-spicy noodles with soy, chilli, and garlic as found on the streets of Indonesia and MalaysiaMAZEMEN Veg/Pork/Chicken/Beef 550: All the flavours of ramen without the broth, this is a hearty, savoury tare flavour bomb!GOCHUJANG NOODLES Veg/Chicken 550: Korean-style spicy noodles in a fermented chilli pastewith sesame and garlic.KHAO SUEY Veg 550; Chicken 600; Prawn 650: Burmese-style coconut noodle soup with crisp toppings, lime, and optional chilli oil.SMALL PLATESMALA CHICKEN 480PRAWN LETTUCE CUPS WITH NAM PRIK 520RADISH CAKE WITH SPICY SAUCE 420STIR-FRIED TOFU AND BEANS IN CHILLI OIL 420BAO Mixed Vegetable 200 / Tofu & chicken 250DESSERTFLAN WITH ORANGE BLOSSOM WATER 320",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7912802143BB40C8A9B00DD092DE3004_converted_webp.webp"
     ],
     "startDate": "2025-08-24T14:00:00+05:30",
     "endDate": "2025-08-24T15:30:00+05:30",
@@ -3644,10 +3552,11 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Copy of The Ramen Map Pop-Up",
+    "name": "Spicy Noodle Pop-up",
     "description": "Bento Bento's Spicy Noodle Pop-UpA bold and spicy noodle bar pop-up, featuring regional noodle preparations from across Asia, with layered flavours, small plates, and dessert.August 23-24 | 12 -4 pm | 7-11 pmBento Bento, IndiranagarThe Bengaluru weather calls for bowls of warm, umami noodles and Chef Anumitra Ghosh Dastidar has us covered with this two-day pop-Up celebrating Asia's most fiery, flavour-packed noodle traditions.The menu draws from street-side stalls, bustling city markets, and family kitchens, featuring 6 spicy noodles and a range of small plates. Highlights include Chongqing noodles with springy wheat noodles, scarlet chilli oil, and Sichuan peppercorns; mee goreng; Korean-style gochujang noodles; khao suey; Lanzhou beef noodles with chilli oil; and mazemen, a Japanese brothless ramen. Small plates include prawn lettuce cups with nam prik, radish cake with spicy sauce, stir-fried tofu and beans in chilli oil. Cool off at the end with a flan featuring orange-blossom water, or beat the heat with sips of boba and coffee!SPICY NOODLE POP+UP MENUNOODLESCHONGQING NOODLES Tofu/Pork 500: Mala flavoured noodles with numbing (ma) Sichuan pepper and spicy (la) chili oilLANZHOU BEEF NOODLES WITH CHILLI OIL 650: Clear beef broth with noodles, topped with beef slices, herbs, and house-made chilli oil.MEE GORENG Veg 550; Chicken/Prawn 600: Stir-fried sweet-spicy noodles with soy, chilli, and garlic as found on the streets of Indonesia and MalaysiaMAZEMEN Veg/Pork/Chicken/Beef 550: All the flavours of ramen without the broth, this is a hearty, savoury tare flavour bomb!GOCHUJANG NOODLES Veg/Chicken 550: Korean-style spicy noodles in a fermented chilli pastewith sesame and garlic.KHAO SUEY Veg 550; Chicken 600; Prawn 650: Burmese-style coconut noodle soup with crisp toppings, lime, and optional chilli oil.SMALL PLATESMALA CHICKEN 480PRAWN LETTUCE CUPS WITH NAM PRIK 520RADISH CAKE WITH SPICY SAUCE 420STIR-FRIED TOFU AND BEANS IN CHILLI OIL 420BAO Mixed Vegetable 200 / Tofu & chicken 250DESSERTFLAN WITH ORANGE BLOSSOM WATER 320",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7912802143BB40C8A9B00DD092DE3004_converted_webp.webp"
     ],
     "startDate": "2025-08-24T19:00:00+05:30",
     "endDate": "2025-08-24T20:30:00+05:30",
@@ -3692,10 +3601,11 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "Copy of The Ramen Map Pop-Up",
+    "name": "Spicy Noodle Pop-up",
     "description": "Bento Bento's Spicy Noodle Pop-UpA bold and spicy noodle bar pop-up, featuring regional noodle preparations from across Asia, with layered flavours, small plates, and dessert.August 23-24 | 12 -4 pm | 7-11 pmBento Bento, IndiranagarThe Bengaluru weather calls for bowls of warm, umami noodles and Chef Anumitra Ghosh Dastidar has us covered with this two-day pop-Up celebrating Asia's most fiery, flavour-packed noodle traditions.The menu draws from street-side stalls, bustling city markets, and family kitchens, featuring 6 spicy noodles and a range of small plates. Highlights include Chongqing noodles with springy wheat noodles, scarlet chilli oil, and Sichuan peppercorns; mee goreng; Korean-style gochujang noodles; khao suey; Lanzhou beef noodles with chilli oil; and mazemen, a Japanese brothless ramen. Small plates include prawn lettuce cups with nam prik, radish cake with spicy sauce, stir-fried tofu and beans in chilli oil. Cool off at the end with a flan featuring orange-blossom water, or beat the heat with sips of boba and coffee!SPICY NOODLE POP+UP MENUNOODLESCHONGQING NOODLES Tofu/Pork 500: Mala flavoured noodles with numbing (ma) Sichuan pepper and spicy (la) chili oilLANZHOU BEEF NOODLES WITH CHILLI OIL 650: Clear beef broth with noodles, topped with beef slices, herbs, and house-made chilli oil.MEE GORENG Veg 550; Chicken/Prawn 600: Stir-fried sweet-spicy noodles with soy, chilli, and garlic as found on the streets of Indonesia and MalaysiaMAZEMEN Veg/Pork/Chicken/Beef 550: All the flavours of ramen without the broth, this is a hearty, savoury tare flavour bomb!GOCHUJANG NOODLES Veg/Chicken 550: Korean-style spicy noodles in a fermented chilli pastewith sesame and garlic.KHAO SUEY Veg 550; Chicken 600; Prawn 650: Burmese-style coconut noodle soup with crisp toppings, lime, and optional chilli oil.SMALL PLATESMALA CHICKEN 480PRAWN LETTUCE CUPS WITH NAM PRIK 520RADISH CAKE WITH SPICY SAUCE 420STIR-FRIED TOFU AND BEANS IN CHILLI OIL 420BAO Mixed Vegetable 200 / Tofu & chicken 250DESSERTFLAN WITH ORANGE BLOSSOM WATER 320",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEBE29EF70B545478F82FC8B5C543CB9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7912802143BB40C8A9B00DD092DE3004_converted_webp.webp"
     ],
     "startDate": "2025-08-24T21:00:00+05:30",
     "endDate": "2025-08-24T22:30:00+05:30",
@@ -3980,54 +3890,6 @@
     },
     "url": "https://urbanaut.app/spot/half-day-tarot-reader",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "ScreeningEvent",
-    "name": "Screening Before Sunset (2004) - Richard Linklater",
-    "description": "Join us over the long weekend for special screening of Before Sunrise (1995) and Before Sunset (2004) on Friday and Saturday night at Underline Center!What is the Before series?Richard Linklater\u2019s trilogy of Before Sunrise, Before Sunset, and Before Midnight tells the heartfelt, surprising tale of the joys and pains of modern love.The films, starring Ethan Hawke and Julie Delpy, follow the evolving relationship of Jesse and Celine over a period of 18 years.\u00a0Each film is set about nine years apart, capturing different stages of their lives and relationship.\u00a0It's widely considered one the greatest film trilogies, and is notable for its\u00a0extensive use of dialogue, with conversations driving the narrative and exploring themes of love, time, and relationships.\u00a0The films are characterized by long, intimate conversations between the main characters, which often delve into their thoughts, feelings, and philosophies.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C74FF933D2C347468711F79FD568315F_converted_webp.webp"
-    ],
-    "startDate": "2025-08-16T21:00:00+05:30",
-    "endDate": "2025-08-16T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
-      "latitude": "12.96722140000000000000",
-      "longitude": "77.63669820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "We're a community center for thoughtful, kind, and interesting events.",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97905-32594"
-      }
-    },
-    "url": "https://urbanaut.app/spot/copy-of-screening-before-film-series-by-richard-linklater",
-    "keywords": [
-      "Leisure",
-      "Premium",
-      "Art & culture",
       "URBANAUT"
     ]
   },
