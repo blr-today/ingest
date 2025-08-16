@@ -1,0 +1,17 @@
+LANGUAGE_MAP = {
+    "English": "en",
+    "Hindi": "hi",
+    "Kannada": "kn",
+    "Tamil": "ta",
+    "Telugu": "te",
+    "Malayalam": "ml",
+    "Marathi": "mr",
+    "Bengali": "bn",
+    "Gujarati": "gu",
+    "Punjabi": "pa",
+    "Odia": "or",
+    "Assamese": "as",
+    "Urdu": "ur",
+    "Nepali": "ne",
+    "Sindhi": "sd",
+}
