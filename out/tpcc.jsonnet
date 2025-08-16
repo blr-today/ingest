@@ -28,20 +28,6 @@
     "director": "Darezhan Omirbayev"
   },
   {
-    "id": "6343c251-8a22-41df-a58c-5d0ffab40516",
-    "image": "https://cdn.sanity.io/images/x2qnegor/production/f09333da24eb2037518a3ad674799659f40caa84-1000x1500.jpg",
-    "location": {
-      "name": "Underline Center",
-      "url": "https://maps.app.goo.gl/orRqJsJXN7h2pP6N9"
-    },
-    "link": null,
-    "date": "2025-08-15T15:30:00.000Z",
-    "theme": "Special Screening",
-    "city": "Bangalore",
-    "title": "Before Sunrise",
-    "director": "Richard Linklater"
-  },
-  {
     "id": "6c44ccbc-8010-44c9-8dbf-3174d5d8bcbf",
     "image": "https://cdn.sanity.io/images/x2qnegor/production/31237facafd2071ee43d668f4e8be467f1b3295a-523x750.jpg",
     "location": {
