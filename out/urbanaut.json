@@ -312,7 +312,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -662,7 +662,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 27,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1206,7 +1206,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 66,
+    "remainingAttendeeCapacity": 60,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1298,7 +1298,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 27,
+    "remainingAttendeeCapacity": 25,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1630,54 +1630,6 @@
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/99110CEA6FD640FBA0683E61181648BA_converted_webp.webp"
     ],
-    "startDate": "2025-08-15T10:00:00+05:30",
-    "endDate": "2025-08-15T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
-      "latitude": "12.98348400000000000000",
-      "longitude": "77.61101699999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5000,
-    "remainingAttendeeCapacity": 4898,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Oorjaa",
-      "description": null,
-      "url": "https://urbanaut.app/partner/oorjaa",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4DA26D438E8D4498A28B9FAF3A0C8C29_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98107-87422"
-      }
-    },
-    "url": "https://urbanaut.app/spot/walk-in-registration#2025-08-15T1000",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Guided tour",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Walk-In Entry Registration",
-    "description": "This ticket allows you to pre-register for free general entry to the event. Submit your contact details and show your confirmation at the venue for seamless access.Includes:Free entry to the event venueAccess to public and open areas onlyDoes NOT Include:Entry to workshops, talks, or other paid sessionsAccess to any exclusive or pre-booked activitiesNote:One ticket per personNo payment requiredPlease present your Urbanaut confirmation (QR code or email) at the entry pointVenue: Sabha, Bangalore",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/99110CEA6FD640FBA0683E61181648BA_converted_webp.webp"
-    ],
     "startDate": "2025-08-16T10:00:00+05:30",
     "endDate": "2025-08-16T19:00:00+05:30",
     "location": {
@@ -1691,7 +1643,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 5000,
-    "remainingAttendeeCapacity": 4933,
+    "remainingAttendeeCapacity": 4875,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1739,7 +1691,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 5000,
-    "remainingAttendeeCapacity": 4969,
+    "remainingAttendeeCapacity": 4943,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1787,7 +1739,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 178,
+    "remainingAttendeeCapacity": 175,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1837,7 +1789,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 149,
+    "remainingAttendeeCapacity": 147,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1888,7 +1840,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 62,
+    "remainingAttendeeCapacity": 44,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1942,7 +1894,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 20,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2139,7 +2091,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2272,8 +2224,8 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/36047CBB96AF41F3A65907F55B0D7FE4_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5AD74B3B25C449FA8F7EDFF92CD8FA15_converted_webp.webp"
     ],
-    "startDate": "2025-09-07T11:00:00+05:30",
-    "endDate": "2025-09-07T13:00:00+05:30",
+    "startDate": "2025-09-07T16:00:00+05:30",
+    "endDate": "2025-09-07T18:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -2460,59 +2412,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Hands Full, Hearts Full: Floral Styling Workshop",
-    "description": "Step into a world of blooms, creativity, and connection at Coro\u2019s hands-on floral styling workshop; open to kids, parents, and adults of all ages. Learn the art of crafting your own bouquet from beautiful, seasonal flowers, guided by an expert who\u2019ll help you play with colour, texture, and style.And because no creative session is complete without great food, we\u2019re pairing the workshop with a delicious grazing table for both kids and adults to enjoy. Think fresh bites, sweet treats, and plenty of time to chat, snack, and admire each other\u2019s floral masterpieces.Come solo, with your child, or bring a friend - leave with your own gorgeous bouquet (or more!), a happy belly, and maybe even a new connection.Hands Full, Hearts Full is our new series of hands-on workshops designed to spark creativity, teach new skills, and bring people together. From craft to cooking, each session is about making something real, all while making real connections. This is just the beginning. In the months ahead, Hands Full, Hearts Full will bring you more opportunities to try your hand at something new, feed your curiosity, and connect with others in ways that last long after the workshop ends.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4E9B20B7EC994EB3A5B01F13C5AC6507_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C4FBAFCD24004EC7A2CB6E1D3DA00525_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8E6F6F2FA85248A099EEBB7881FB4710_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7E8875F4A30E420C9030338B5543F47D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4390A0F8430E4C5BAE4C758320593650_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/02B614D86DC549F6B28A6E3AB8E8FC5A_converted_webp.webp"
-    ],
-    "startDate": "2025-08-16T16:00:00+05:30",
-    "endDate": "2025-08-16T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3S2OrvsVrjsRBOql1X-UnAM",
-      "latitude": "12.96068750000000000000",
-      "longitude": "77.63718750000001000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 27,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "1200.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Coro",
-      "description": null,
-      "url": "https://urbanaut.app/partner/corospace",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/0F2E55DAAA19467D96CA7AFC8F33B7A0_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-94466-91720"
-      }
-    },
-    "url": "https://urbanaut.app/spot/hands-full-hearts-full-floral-styling-workshop",
-    "keywords": [
-      "Local",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Tajurba - A Sarangi Jugalbandi",
     "description": "Tajurba: Sarangi Jugalbandi ft. Ustad Dilshaad Khan & Arhaan KhanAccompanied by Trilochan Kampli on TablaAugust 16 | Independence Day Special EditionThis Independence weekend, immerse yourself in the soul of India through the hauntingly beautiful strains of the sarangi\u2014an instrument once central to our classical traditions. Tajurba presents a rare jugalbandi between the legendary Ustad Dilshaad Khan, whose compositions have graced both stage and screen, and his 16-year-old son Arhaan Khan, making his much-awaited debut.Joined by Trilochan Kampli\u2014the master tabla accompanist and curator of Tajurba\u2014this evening is a tribute to the inheritance of sound, tradition, and artistic legacy.Come celebrate freedom by returning to our roots. Experience a revival of Indian classical music that speaks not just to the past, but to the future.",
@@ -2580,7 +2479,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 31,
+    "remainingAttendeeCapacity": 25,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -2628,7 +2527,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 33,
+    "remainingAttendeeCapacity": 20,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3216,7 +3115,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 54,
+    "remainingAttendeeCapacity": 53,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3264,7 +3163,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 39,
+    "remainingAttendeeCapacity": 37,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3286,102 +3185,6 @@
     "url": "https://urbanaut.app/spot/a-sonorous-quest-for-eera-vizhi-kaaviyangal",
     "keywords": [
       "Music",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "ScreeningEvent",
-    "name": "Screening Before Sunrise (1995)-Richard Linklater",
-    "description": "Join us over the long weekend for special screening of Before Sunrise (1995) and Before Sunset (2004) on Friday and Saturday night at Underline Center!What is the Before series?Richard Linklater\u2019s trilogy of Before Sunrise, Before Sunset, and Before Midnight tells the heartfelt, surprising tale of the joys and pains of modern love.The films, starring Ethan Hawke and Julie Delpy, follow the evolving relationship of Jesse and Celine over a period of 18 years.\u00a0Each film is set about nine years apart, capturing different stages of their lives and relationship.\u00a0It's widely considered one the greatest film trilogies, and is notable for its\u00a0extensive use of dialogue, with conversations driving the narrative and exploring themes of love, time, and relationships.\u00a0The films are characterized by long, intimate conversations between the main characters, which often delve into their thoughts, feelings, and philosophies.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/774A4B019FD346BFADCE407EA878740B_converted_webp.webp"
-    ],
-    "startDate": "2025-08-15T21:00:00+05:30",
-    "endDate": "2025-08-15T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
-      "latitude": "12.96722140000000000000",
-      "longitude": "77.63669820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "We're a community center for thoughtful, kind, and interesting events.",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97905-32594"
-      }
-    },
-    "url": "https://urbanaut.app/spot/screening-before-film-series-by-richard-linklater",
-    "keywords": [
-      "Leisure",
-      "Premium",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Improv Essentials: A Crash Course by Improv Lore",
-    "description": "Want to improvise but keep missing our Level 1 intensive? Learn the basics in our crash course!We\u2019ll take you from no performing experience to loving the stageWhat we\u2019ll cover:Basic stagecraftTrusting your ideasWorking (playing) well with othersShort-form improv gamesAn introduction to longform improvWhat you get:6 hours of workshopAccess to select cast-only jamsA discount on the next Level 1 intensiveSchedule:Day 1: Saturday, 16th August - 11am to 2pmDay 2: Sunday, 17th August - 11am to 2pmWho are Improv Lore?We are a Bangalore-based community-theatre troupe, working towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical. We meet on Wednesdays for Jams, and on weekends for workshops.You can follow us on Instagram at @improvlore and join our WhatsApp community.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D780CD5497644B6E90729B032A437E5D_converted_webp.webp"
-    ],
-    "startDate": "2025-08-16T11:00:00+05:30",
-    "endDate": "2025-08-16T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
-      "latitude": "12.96722140000000000000",
-      "longitude": "77.63669820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 2,
-    "remainingAttendeeCapacity": 2,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2499.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "We're a community center for thoughtful, kind, and interesting events.",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97905-32594"
-      }
-    },
-    "url": "https://urbanaut.app/spot/improv-essentials-a-crash-course-by-improv-lore",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Art & culture",
       "URBANAUT"
     ]
   },
@@ -3464,7 +3267,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 125,
-    "remainingAttendeeCapacity": 125,
+    "remainingAttendeeCapacity": 121,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3520,7 +3323,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 125,
-    "remainingAttendeeCapacity": 125,
+    "remainingAttendeeCapacity": 124,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3631,7 +3434,7 @@
       "@type": "Organization",
       "name": "Bento Bento",
       "description": null,
-      "url": null,
+      "url": "https://urbanaut.app/partner/None",
       "image": "https://d10y46cwh6y6x1.cloudfront.netuser/9931_BB logo.png",
       "contactPoint": {
         "@type": "ContactPoint",
@@ -3679,7 +3482,7 @@
       "@type": "Organization",
       "name": "Bento Bento",
       "description": null,
-      "url": null,
+      "url": "https://urbanaut.app/partner/None",
       "image": "https://d10y46cwh6y6x1.cloudfront.netuser/9931_BB logo.png",
       "contactPoint": {
         "@type": "ContactPoint",
@@ -3727,7 +3530,7 @@
       "@type": "Organization",
       "name": "Bento Bento",
       "description": null,
-      "url": null,
+      "url": "https://urbanaut.app/partner/None",
       "image": "https://d10y46cwh6y6x1.cloudfront.netuser/9931_BB logo.png",
       "contactPoint": {
         "@type": "ContactPoint",
@@ -3775,7 +3578,7 @@
       "@type": "Organization",
       "name": "Bento Bento",
       "description": null,
-      "url": null,
+      "url": "https://urbanaut.app/partner/None",
       "image": "https://d10y46cwh6y6x1.cloudfront.netuser/9931_BB logo.png",
       "contactPoint": {
         "@type": "ContactPoint",
@@ -3823,7 +3626,7 @@
       "@type": "Organization",
       "name": "Bento Bento",
       "description": null,
-      "url": null,
+      "url": "https://urbanaut.app/partner/None",
       "image": "https://d10y46cwh6y6x1.cloudfront.netuser/9931_BB logo.png",
       "contactPoint": {
         "@type": "ContactPoint",
@@ -3871,7 +3674,7 @@
       "@type": "Organization",
       "name": "Bento Bento",
       "description": null,
-      "url": null,
+      "url": "https://urbanaut.app/partner/None",
       "image": "https://d10y46cwh6y6x1.cloudfront.netuser/9931_BB logo.png",
       "contactPoint": {
         "@type": "ContactPoint",
@@ -3919,7 +3722,7 @@
       "@type": "Organization",
       "name": "Bento Bento",
       "description": null,
-      "url": null,
+      "url": "https://urbanaut.app/partner/None",
       "image": "https://d10y46cwh6y6x1.cloudfront.netuser/9931_BB logo.png",
       "contactPoint": {
         "@type": "ContactPoint",
@@ -3967,7 +3770,7 @@
       "@type": "Organization",
       "name": "Bento Bento",
       "description": null,
-      "url": null,
+      "url": "https://urbanaut.app/partner/None",
       "image": "https://d10y46cwh6y6x1.cloudfront.netuser/9931_BB logo.png",
       "contactPoint": {
         "@type": "ContactPoint",
@@ -4202,7 +4005,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 6,
-    "remainingAttendeeCapacity": 4,
+    "remainingAttendeeCapacity": 1,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4343,7 +4146,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 49,
+    "remainingAttendeeCapacity": 47,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4365,6 +4168,103 @@
     "url": "https://urbanaut.app/spot/s-aishwarya-s-saundarya-carnatic-duo",
     "keywords": [
       "Live GIG",
+      "Music",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Chopstick & Chill",
+    "description": "Chopstick & Chill \u2013 FattyBao x KoreatoIndia Step into an intimate supper experience where Fatty Bao\u2019s playful creativity meets KoreatoIndia\u2019s homemade vegetarian Korean soul food. Expect a multi-course journey\u2014from fiery tteokbokki to fragrant Kimchi Fried Rice\u2014paired with inventive soju cocktails. Think cozy conversations, bold flavors, and a night that blends Bangalore\u2019s favorite Asian haunt with a one-of-a-kind supper club twist. Limited seats. Maximum delight.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2643741F24334E0999CC06B684E16CCE_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/41E78E0A6DEC4C918C00173A8A0880C1_converted_webp.webp"
+    ],
+    "startDate": "2025-08-29T19:30:00+05:30",
+    "endDate": "2025-08-29T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Third Floor, 610, 12th Main Rd, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJny1G2KkWrjsRj_INv9hxCTg",
+      "latitude": "12.97051210000000000000",
+      "longitude": "77.64528349999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2800.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "koreatoindia",
+      "description": "koreatoindia is a vegetarian-only supper club reimagining Korean classics through an Indian lens. Founded by Simran, each intimate dining experience is designed to surprise even the most skeptical carnivores. Come for the food. Stay for the stories. Leave plotting your next visit.",
+      "url": "https://urbanaut.app/partner/koreatindia",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E8B144BC019842309D274B8F4E6427E6_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-90195-69732"
+      }
+    },
+    "url": "https://urbanaut.app/spot/chopstick-n-chill",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "RAJINIFIED | 50 YEARS OF SUPER STAR | TAMIL EVENT",
+    "description": "\ud83d\udd25The Superstar Fever is Here! \ud83d\udd25This September, let's go full Thalaivar mode!From punch dialogues to mass melodies, from BGM goosebumps to kuthu beats \u2014 we\u2019re celebrating 50 legendary years of Rajinikanth through music, nostalgia, and pure fan energy.\ud83c\udfa4 What\u2019s in store?- A powerhouse live concert-style sing-along of Rajini\u2019s biggest hits from the 70s to today- Mass audience vocals that\u2019ll make you feel like you\u2019re in a Thalaivar intro scene- A hall full of Rajini fans, vibes, and celebration all in namma Bengaluru\ud83d\udc57 Dress Code : Come dressed as your favourite Thalaivar avatar \u2014 Basha, Padayappa, Annamalai, Alex Pandian, Muthu\u2026 or any Rajini style you love!\ud83c\udfc6 The best costume wins a special award + Thalaivar Ramp Walk on stage.\ud83c\udfac Reel Contest: Bring your best gear, capture the madness, and create your ultimate Rajinified reel. The best reel of the evening wins a handsome award \u2014 so get ready to shoot, edit, and post like a pro!\ud83d\udcc5 Date: 7 September 2025\ud83d\udd53 Time: 4:00 PM \u2013 7:00 PM\ud83d\udccd Venue: Sabha BLR, Near Commercial StreetWhether you\u2019re a Basha, a Padayappa, or a Coolie fan \u2014 this is your stage, your celebration. Bring your style, your voice, and your Thalaivar swag \u2014 let\u2019s make it a blockbuster evening!\ud83c\udf9f Seats are limited \u2014 grab your tickets now before they vanish faster than a Thalaivar blink!---What to Expect?\ud83c\udf99\ufe0f 15+ Fire PerformersFrom 70s classics to 2K kuthu bangers \u2014 singers, instrumentalists & storytellers from the Unherd community bringing pure Thalaivar energy.\ud83d\udc83 Mass Music, Style & ConnectSing along to intro BGMs, sway to melodies, vibe to kuthu beats, and connect with a hall full of Rajini fans.\ud83c\udfb6 Unfiltered, Unscripted EnergyNo autotune, no filters \u2014 just raw voices, pounding percussion, and goosebump moments.\ud83e\udec2 A Vibe-First, Judgment-Free ZoneWhether you know every lyric or just the punchlines \u2014 everyone belongs here.\ud83d\udd25 Loud Crowd, Honest EnergyIn Rajinified, the crowd is the show.\ud83d\udc57 Thalaivar Dress-Up ChallengeCome as your favourite Rajini avatar \u2014 Basha, Padayappa, Annamalai, Alex Pandian, Muthu\u2026 The best costume wins a special award + Ramp Walk on stage.\ud83c\udfac Reel ContestBring your gear, capture the madness, post your best Rajinified reel \u2014 and win a handsome award.\ud83c\udfac Super Star TriviaRamp Walk, Games, Give Aways & More \u2014 It\u2019s Rajini all the way!\ud83d\udcf8 Moments That Hit HardOur crew will capture the madness \u2014 you might just end up on our socials.\ud83c\udf9f Limited Passes OnlyPast Unherd events have sold out \u2014 don\u2019t wait. Book now before your spot\u2019s gone.----\ud83d\udd10 Terms & Conditions\ud83c\udf9f Tickets are non-refundable & non-transferable \u2014 book smart.\ud83e\udeaa Valid government ID is required for entry.\ud83d\udeaa Entry is subject to venue rules & organizer discretion.\u23f0 Arrive 30+ minutes early for a hassle-free check-in.\ud83d\udeab Anyone in an inebriated state will be denied entry.\u26a0\ufe0f Weapons, illegal substances & unauthorized gadgets are strictly banned.\ud83d\udcf8 By attending, you agree to being photographed/filmed \u2014 Unherd may use this content for promotions.\ud83d\udead No smoking inside the venue.\ud83d\udec2 Organizers may frisk attendees at entry for safety.\ud83d\ude4f This is a community-first space \u2014 any misconduct, disrespect, or disruption will lead to removal.\ud83d\udcc6 In case of unforeseen changes, the event may be rescheduled or reformatted.\u2728 Above all \u2014 bring your best vibes. Sing loud. Dance wild. Jam free. Celebrate responsibly.\ud83c\udd7f\ufe0f Parking is available at the nearby Westside Mall. Guests can park their cars there.Follow us on instagram - @hellounherd",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FB2936CE77DE4B60B1D52214D6B938A4_converted_webp.webp"
+    ],
+    "startDate": "2025-09-07T16:00:00+05:30",
+    "endDate": "2025-09-07T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 200,
+    "remainingAttendeeCapacity": 200,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "349.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Unherd",
+      "description": "",
+      "url": "https://urbanaut.app/partner/hellounherd",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/AFB3C55C56F64B36913D5C7FC283FE00_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-74182-55431"
+      }
+    },
+    "url": "https://urbanaut.app/spot/adrasakka6-rajinified",
+    "keywords": [
+      "Live GIG",
+      "Local",
       "Music",
       "URBANAUT"
     ]
