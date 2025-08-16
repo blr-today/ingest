@@ -243,9 +243,10 @@ libsqlite.so:
 
 post-build: libsqlite.so
 	@echo "Running post-build steps"
-	python src/validator.py --output report.json
+	python -m src.processors
 	LD_PRELOAD=./libsqlite.so python3 -c "import sqlite3;print(sqlite3.sqlite_version)"
 	LD_PRELOAD=./libsqlite.so python3 -m sqlite3 events.db < post-build.sql
+	python src/validator.py --output report.json
 
 all: build post-build
 	@echo "Finished build"
