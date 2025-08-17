@@ -70,34 +70,6 @@
     "director": "José Luis Guerín"
   },
   {
-    "id": "d59e5a30-cea9-4ffb-839e-aec9f1b32f29",
-    "image": "https://cdn.sanity.io/images/x2qnegor/production/02a480048de62806c1af277e1da41a07cea13b33-500x750.webp",
-    "location": {
-      "name": "Shoonya Centre",
-      "url": "https://maps.app.goo.gl/oAGzYkxT1ZvnF1127"
-    },
-    "link": null,
-    "date": "2025-08-16T07:30:00.000Z",
-    "theme": "Cinema of Our Times: A Look into 21st Century Cinema",
-    "city": "Bangalore",
-    "title": "Mysterious Object at Noon",
-    "director": "Apichatpong Weerasethakul"
-  },
-  {
-    "id": "d5b6784e-8773-4b30-9bd5-5b8360bd5f5b",
-    "image": "https://cdn.sanity.io/images/x2qnegor/production/f0334d919243f484e57b9cf3badd57069ec3f871-1000x1500.jpg",
-    "location": {
-      "name": "Underline Center",
-      "url": "https://maps.app.goo.gl/orRqJsJXN7h2pP6N9"
-    },
-    "link": null,
-    "date": "2025-08-16T15:30:00.000Z",
-    "theme": "Special Screening",
-    "city": "Bangalore",
-    "title": "Before Sunset",
-    "director": "Richard Linklater"
-  },
-  {
     "id": "f042c9f5-bb21-4b8c-988e-3f3889a52f88",
     "image": "https://cdn.sanity.io/images/x2qnegor/production/927798a89650840ce56c64671e4f3cccb4122ee9-1062x1500.webp",
     "location": {
