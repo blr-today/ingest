@@ -20,7 +20,7 @@
       "name": "Underline Center",
       "url": "https://maps.app.goo.gl/orRqJsJXN7h2pP6N9"
     },
-    "link": null,
+    "link": "https://www.district.in/events/screening-of-the-road-2001-with-tpcc-aug19-2025-buy-tickets",
     "date": "2025-08-19T14:15:00.000Z",
     "theme": "Cinema of Our Times: A Look into 21st Century Cinema",
     "city": "Bangalore",
@@ -34,7 +34,7 @@
       "name": "Underline Center",
       "url": "https://maps.app.goo.gl/orRqJsJXN7h2pP6N9"
     },
-    "link": null,
+    "link": "https://www.district.in/events/screening-of-los-muertos-2004-with-tpcc-aug26-2025-buy-tickets",
     "date": "2025-08-26T14:15:00.000Z",
     "theme": "Cinema of Our Times: A Look into 21st Century Cinema",
     "city": "Bangalore",
