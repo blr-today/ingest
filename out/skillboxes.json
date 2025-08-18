@@ -25,9 +25,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Cover charges applicable at the venue\n",
-            "inventoryLevel": 424,
-            "name": "General Admission for 1",
+            "inventoryLevel": 149,
+            "name": "Final Phase Entry",
             "url": "https://www.skillboxes.com/events/ticket/indian-ocean-live-at-hamilton"
          },
          {
@@ -146,9 +145,9 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Additional cover charge INR 500/- per individuals applicable at gates. Redeemable on F&B\nFor Age(s) 21+ || General admission || Valid for two individual",
-            "inventoryLevel": 42,
-            "name": "Buy 1 Get 1 - Early Bird Ticket",
+            "description": "Additional cover charge INR 500/- per individuals applicable at gates. Redeemable on F&B\nFor Age(s) 21+ || General admission || Valid for one individual",
+            "inventoryLevel": 27,
+            "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/meewakching-bildungsroman-Bengaluru"
          },
          {
@@ -162,6 +161,120 @@
       ],
       "startDate": "2025-08-28T20:00:00",
       "url": "https://www.skillboxes.com/events/meewakching-bildungsroman-Bengaluru"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Orange Army Takes Over! Dutch GP LIVE!Get ready for the most electrifying race on the calendar! August 31st, from 6:30 PM onwards, join the F1 frenzy at Skydeck by Sherlock's to watch the Formula 1 Dutch GP LIVE!",
+      "endDate": "2025-08-31T21:00:00",
+      "identifier": "com.skillboxes.27247",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1755541160WqxcpH5lDTx8rccg.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Sports"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750383",
+            "longitude": "77.6076491"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "F1 Dutch GP LIVE Screening w/ Commentary",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Get a complimentary Beer or a Mocktail on every booking!!\n",
+            "inventoryLevel": 100,
+            "name": "ENTRY + 1 DRINK",
+            "url": "https://www.skillboxes.com/events/ticket/f1-dutch-gp-live-screening-w-commentary"
+         }
+      ],
+      "startDate": "2025-08-31T18:30:00",
+      "url": "https://www.skillboxes.com/events/f1-dutch-gp-live-screening-w-commentary"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "We are coming to make your Saturday eventful, peaceful, and artful, and of course energetic! Come join us to listen to the stories, and maybe stories of stories, taking you on a trip through the world of different shades of Kahan",
+      "endDate": "2025-09-13T18:00:00",
+      "identifier": "com.skillboxes.27243",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/S1lWWlhJMjdYcTBpcHFoYzJTbE4zdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1755535614kbL64lyriucBkroF.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Storytelling Events"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "",
+         "name": "To Be Decided"
+      },
+      "name": "Thank you, stranger",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/thank-you-stranger"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "Audience Ticket - Regular",
+            "url": "https://www.skillboxes.com/events/ticket/thank-you-stranger"
+         }
+      ],
+      "startDate": "2025-09-13T16:00:00",
+      "url": "https://www.skillboxes.com/events/thank-you-stranger"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Brace yourself for another unforgettable night as Centigrade Club Nights returns with the electrifying OCULA live at this Gawky Goose. Dive into a high-energy experience packed with pulsating beats, killer vibes, and a crowd that lives fo",
+      "endDate": "2025-08-31T01:00:00",
+      "identifier": "com.skillboxes.27236",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/175552356286kKV2oM6f7hC7l7.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "#77, Wind Tunnel Rd, Murugeshpalya, Muniyappa Layout, Bengaluru, Karnataka 560017, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9540402",
+            "longitude": "77.6527398"
+         },
+         "name": "Gawky Goose"
+      },
+      "name": "CentiGrade Club Nights ft. Ocula / 30th Aug / Gawky Goose",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 97,
+            "name": "Guestlist-Couple",
+            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-ocula-30th-aug-gawky-goose"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female throughout the event.\n",
+            "inventoryLevel": 99,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-ocula-30th-aug-gawky-goose"
+         }
+      ],
+      "startDate": "2025-08-30T20:00:00",
+      "url": "https://www.skillboxes.com/events/centigrade-club-nights-ft-ocula-30th-aug-gawky-goose"
    },
    {
       "@context": "https://schema.org",
@@ -708,7 +821,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable post 8:00 PM\n",
-            "inventoryLevel": 58,
+            "inventoryLevel": 46,
             "name": "Earlybird - Female",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-sumia"
          },
@@ -716,16 +829,8 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable post 7.30 PM\n",
-            "inventoryLevel": 46,
+            "inventoryLevel": 28,
             "name": "Earlybird - couples",
-            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-sumia"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable at gates\n",
-            "inventoryLevel": 20,
-            "name": "Phase -1 - Male",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-sumia"
          },
          {
@@ -749,14 +854,6 @@
             "description": "Cover charges applicable at Gates\n",
             "inventoryLevel": 20,
             "name": "VIP BACKSTAGE- COUPLES",
-            "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-sumia"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "description": "Cover charges applicable at gates\n",
-            "inventoryLevel": 0,
-            "name": "Earlybird- Male",
             "url": "https://www.skillboxes.com/events/ticket/chaos-circuit-ft-sumia"
          }
       ],
@@ -805,7 +902,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charges of 300rs onwards applicable at the gate.\n",
-            "inventoryLevel": 250,
+            "inventoryLevel": 249,
             "name": "Couple Entry",
             "url": "https://www.skillboxes.com/events/ticket/crack-in-the-pavement-1"
          }
@@ -840,54 +937,13 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge applicable post 10pm\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 99,
             "name": "Regular Access",
             "url": "https://www.skillboxes.com/events/ticket/freak-opera-ft-pooja-b-chutney-mary-gst-rishi-sippy-theburrowblr"
          }
       ],
       "startDate": "2025-08-23T08:00:00",
       "url": "https://www.skillboxes.com/events/freak-opera-ft-pooja-b-chutney-mary-gst-rishi-sippy-theburrowblr"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Lil Jhola",
-      "endDate": "2025-08-19T23:59:00",
-      "identifier": "com.skillboxes.27058",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1754998933S0rPcy0AtNiYGwNI.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Level 4, Brigade Rd, above Decathlon Sports, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9709383",
-            "longitude": "77.6072207"
-         },
-         "name": "Zora Club"
-      },
-      "name": "Lil Jhola",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Normal Entry",
-            "url": "https://www.skillboxes.com/events/ticket/lil-jhola"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "VIP Entry",
-            "url": "https://www.skillboxes.com/events/ticket/lil-jhola"
-         }
-      ],
-      "startDate": "2025-08-19T20:00:00",
-      "url": "https://www.skillboxes.com/events/lil-jhola"
    },
    {
       "@context": "https://schema.org",
@@ -916,7 +972,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional Mandatory cover charge applicable at the gates.\n",
-            "inventoryLevel": 593,
+            "inventoryLevel": 580,
             "name": "Phase 1 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/pottan-fest-the-down-troddence-live-in-bengaluru"
          },
@@ -959,7 +1015,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory additional INR 500 per individual fully redeemable cover charge applicable at the gates.\n",
-            "inventoryLevel": 81,
+            "inventoryLevel": 79,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/sudan-the-bad-posture-tour-2025-bangalore"
          },
@@ -1113,7 +1169,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket allows access for one guest entry. Limited Tickets only.\nCover Charges might be applicable at the gates. Fully Redeemable on F and B",
-            "inventoryLevel": 93,
+            "inventoryLevel": 82,
             "name": "Drop-In Access",
             "url": "https://www.skillboxes.com/events/ticket/mic-drop-nights-vol-2"
          }
@@ -1181,7 +1237,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 991,
+            "inventoryLevel": 983,
             "name": "Regular Ticket",
             "url": "https://www.skillboxes.com/events/ticket/to-forget-is-to-remember-is-to-forget"
          }
@@ -1250,15 +1306,15 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 2,
-            "name": "Gold Ticket",
+            "inventoryLevel": 21,
+            "name": "Platinum Ticket",
             "url": "https://www.skillboxes.com/events/ticket/raag-rang-resham"
          },
          {
             "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 21,
-            "name": "Platinum Ticket",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "Gold Ticket",
             "url": "https://www.skillboxes.com/events/ticket/raag-rang-resham"
          }
       ],
@@ -1588,6 +1644,49 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "ALT EFF is excited to bring you five impactful short films for the month of September Film Club:1. Lethal Shopping 2. Mol ",
+      "endDate": "2025-09-12T22:00:00",
+      "identifier": "com.skillboxes.26483",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YU5zdVBYZGI1d1ZIWlBOMXpSRlFNdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1753767427ItwUbsdLJPAkUJEa.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No.15, KHB MIG Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9381595",
+            "longitude": "77.617817"
+         },
+         "name": "Medai - The Stage Bengaluru"
+      },
+      "name": "Tickets & Membership_Bengaluru | 12th September",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Short Film Night | 20/06/2025\nYou can also Register for ALT EFF Voices.",
+            "inventoryLevel": 100,
+            "name": "One Time Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/tickets-membership-bengaluru-12th-september"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "All Screening Pass | August to September\n",
+            "inventoryLevel": 50,
+            "name": "Membership_1 Year",
+            "url": "https://www.skillboxes.com/events/ticket/tickets-membership-bengaluru-12th-september"
+         }
+      ],
+      "startDate": "2025-09-12T19:00:00",
+      "url": "https://www.skillboxes.com/events/tickets-membership-bengaluru-12th-september"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Welcome to Sakura Screenings, where we celebrate the rich tapestry of Asian cinema and the enchanting world of anime. Immerse yourself in a diverse array of storytelling, from captivating narratives to stunning visuals, as we embark on a cinematic jo",
       "endDate": "2025-08-24T17:00:00",
       "identifier": "com.skillboxes.26366",
@@ -1883,7 +1982,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 29,
+            "inventoryLevel": 27,
             "name": "Burger Bomb",
             "url": "https://www.skillboxes.com/events/ticket/death-damage-destruction-iv"
          },
@@ -1924,7 +2023,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 177,
+            "inventoryLevel": 175,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/moonborne-x-powder-keg-a-tribute-night-to-remember"
          }
@@ -2287,7 +2386,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Short Film Night | 20/06/2025\nYou can also Register for ALT EFF Voices.",
-            "inventoryLevel": 94,
+            "inventoryLevel": 93,
             "name": "One Time Ticket",
             "url": "https://www.skillboxes.com/events/ticket/tickets-membership-bengaluru-22nd-august"
          },
@@ -2329,7 +2428,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 374,
+            "inventoryLevel": 373,
             "name": "Phase 1 GA",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -2337,7 +2436,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Nearest to the stage.\n",
-            "inventoryLevel": 157,
+            "inventoryLevel": 155,
             "name": "Early Bird Fan Pit",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -2427,16 +2526,16 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Admits one person for one of the days\n",
-            "inventoryLevel": 9882,
+            "description": "Entry to one person for one of the days\n",
+            "inventoryLevel": 9878,
             "name": "One Day Pass",
             "url": "https://www.skillboxes.com/events/ticket/maya-bazaar-7"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Admit one person for both days\n",
-            "inventoryLevel": 305,
+            "description": "Entry to one person for both days\n",
+            "inventoryLevel": 301,
             "name": "Early Bird (Festival Pass)",
             "url": "https://www.skillboxes.com/events/ticket/maya-bazaar-7"
          },

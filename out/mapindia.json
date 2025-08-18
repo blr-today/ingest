@@ -39,6 +39,23 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "@id": "993@map-india.org",
+    "name": "Deaf Bookwave",
+    "startDate": "2025-08-24T10:00:00+05:30",
+    "endDate": "2025-08-24T13:00:00+05:30",
+    "description": "Join us for an intimate conversation with Romana Shaikh, author of the transformative memoir Weaving Wholeness. The book invites readers to embrace their stories and discover strength in vulnerability, making it deeply meaningful for personal growth and community reflection.\n\nThis event is hosted in collaboration with Deaf Bookwave which is an inclusive book club created for the Deaf and Hard of Hearing community. It provides a space to read, share, and discuss books together in sign language, building knowledge and connection.",
+    "url": "https://map-india.org/map-events/deaf-bookwave/",
+    "keywords": [
+      "CBD",
+      "MAP",
+      "Workshops"
+    ],
+    "inLanguage": "en",
+    "image": "https://map-india.org/wp-content/uploads/2025/08/Website-cover-images-new-4.png"
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "ScreeningEvent",
     "@id": "989@map-india.org",
     "name": "The Giacomettis",
@@ -231,22 +248,5 @@
     ],
     "inLanguage": "en",
     "image": "https://map-india.org/wp-content/uploads/2025/08/Website-cover-images-new-2.png"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "@id": "987@map-india.org",
-    "name": "Sonic Picnics",
-    "startDate": "2025-08-17T10:00:00+05:30",
-    "endDate": "2025-08-17T14:00:00+05:30",
-    "description": "Image credits: Karthika Sakthivel\nExperience Cubbon Park\u2026no no actually, listen to Cubbon Park! Join a listening workshop led by Sonic Picnics where you can draw from audio stories and sonic impressions of Cubbon Park and create your own interactive fabric patches.\n\nThis workshop emerges from Sonic Picnics, a year-long public art project that collected voices, sounds, and stories from Cubbon Park and stitched them into an interactive picnic blanket. This Foundation Project was implemented by India Foundation for the Arts (IFA) under the Project 560 programme, made possible with support from\u00a0 BNP Paribas India.",
-    "url": "https://map-india.org/map-events/sonic-picnics/",
-    "keywords": [
-      "CBD",
-      "MAP",
-      "Workshops"
-    ],
-    "inLanguage": "en",
-    "image": "https://map-india.org/wp-content/uploads/2025/08/Website-cover-images-new-12.png"
   }
 ]
