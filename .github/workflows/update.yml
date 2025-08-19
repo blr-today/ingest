@@ -67,8 +67,6 @@ jobs:
         name: events-db
         path: |
           events.db
-          out/pvr/*
-          out/ticketnew/*
         if-no-files-found: error
         retention-days: 1
 
@@ -111,7 +109,7 @@ jobs:
         GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
       run: |
         export VERSION=$(date '+%Y.%-m.%-d-%H')
-        gh release create "v$VERSION" events.db 'out/ticketnew/movies.json#TicketNew Movies' 'out/ticketnew/cinemas.json#TicketNew Cinemas' 'out/ticketnew/sessions.json#TicketNew Sessions' --repo=blr-today/dataset --notes "blr.today dataset release. See LICENSE.txt for license information before using this dataset."
+        gh release create "v$VERSION" events.db --repo=blr-today/dataset --notes "blr.today dataset release. See LICENSE.txt for license information before using this dataset."
   publish:
     needs: update
     runs-on: ubuntu-latest

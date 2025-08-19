@@ -22,7 +22,8 @@ dependencies = [
     "urllib3~=2.4",
     "w3lib~=2.3.1",
     "pyld~=2.0.4",
-    "jsonschema~=4.25.0"
+    "jsonschema~=4.25.0",
+    "protego>=0.5.0",
 ]
 [project.optional-dependencies]
 test = [

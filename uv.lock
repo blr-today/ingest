@@ -61,6 +61,7 @@ dependencies = [
     { name = "jsonnet" },
     { name = "jsonschema" },
     { name = "lxml" },
+    { name = "protego" },
     { name = "pyld" },
     { name = "python-dateutil" },
     { name = "python-jsonpath" },
@@ -91,6 +92,7 @@ requires-dist = [
     { name = "jsonnet", specifier = "~=0.21.0" },
     { name = "jsonschema", specifier = "~=4.25.0" },
     { name = "lxml", specifier = "~=5.3" },
+    { name = "protego", specifier = ">=0.5.0" },
     { name = "pyld", specifier = "~=2.0.4" },
     { name = "pytest", marker = "extra == 'test'", specifier = "~=8.2" },
     { name = "pytest-httpbin", marker = "extra == 'test'", specifier = "~=2.0" },
@@ -596,6 +598,15 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/96/2d/02d4312c973c6050a18b314a5ad0b3210edb65a906f868e31c111dede4a6/pluggy-1.5.0.tar.gz", hash = "sha256:2cffa88e94fdc978c4c574f15f9e59b7f4201d439195c3715ca9e2486f1d0cf1", size = 67955, upload-time = "2024-04-20T21:34:42.531Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/88/5f/e351af9a41f866ac3f1fac4ca0613908d9a41741cfcf2228f4ad853b697d/pluggy-1.5.0-py3-none-any.whl", hash = "sha256:44e1ad92c8ca002de6377e165f3e0f1be63266ab4d554740532335b9d75ea669", size = 20556, upload-time = "2024-04-20T21:34:40.434Z" },
+]
+
+[[package]]
+name = "protego"
+version = "0.5.0"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/19/9b/9c3a649167c7e43a0818df515d515e66d95a261fdfdf2a6afd45be9db696/protego-0.5.0.tar.gz", hash = "sha256:225dee0acfcc71de8c6f7cef9c618e5a9d3e7baa7ae1470b8d076a064033c463", size = 3137494, upload-time = "2025-06-24T13:58:45.31Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/3a/cb/4347985f89ca3e4beb5d0cb85f8b951c9e339564bd2a3f388d6fb78382cc/protego-0.5.0-py3-none-any.whl", hash = "sha256:4237227840a67fdeec289a9b89652455b5657806388c17e1a556e160435f8fc5", size = 10356, upload-time = "2025-06-24T13:58:44.08Z" },
 ]
 
 [[package]]

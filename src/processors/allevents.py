@@ -1,6 +1,7 @@
 import html
 from .base import Processor
 from datetime import datetime
+from ..common.tz import IST
 
 
 class AllEvents(Processor):

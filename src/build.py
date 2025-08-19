@@ -43,7 +43,7 @@ def fetch_local_events(file_filter=None):
                 elif isinstance(keywords, list):
                     keywords = list(set([basename.upper()] + keywords))
                 event["keywords"] = keywords
-                if 'url' in event:
+                if "url" in event:
                     yield (event["url"], event)
                 else:
                     print(f"Event in {json_file} has no URL: {event}")

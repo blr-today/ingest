@@ -1,6 +1,7 @@
 import html
 from .base import Processor
 import datefinder
+from ..common.tz import IST
 
 
 class BhaagoIndia(Processor):
