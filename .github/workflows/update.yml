@@ -16,7 +16,7 @@ jobs:
       contents: write
     name: Update data
     # We run this on our own infra, to avoid cloud IP egress
-    runs-on: self-hosted
+    # runs-on: self-hosted
     steps:
     # This needs to come before the checkout, since checkout depends on git
     - name: Install Dependencies
