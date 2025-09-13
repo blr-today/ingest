@@ -54,12 +54,8 @@ jobs:
         git config --global init.defaultBranch main
         git config --global extensions.partialClone true
         pip install .
-        playwright install chromium
     - name: Fetch updates
       run: make clean && make -s all
-      env:
-        ZOMATO_PUBLIC_API_KEY: ${{ secrets.ZOMATO_PUBLIC_API_KEY }}
-
     - name: Upload Artifacts
       uses: actions/upload-artifact@v4
       id: upload
