@@ -1,8 +1,8 @@
 [
    {
       "@context": "https://schema.org",
-      "@type": "ScreeningEvent",
-      "endDate": "2025-08-19T17:30:00.000Z",
+      "@type": "SocialEvent",
+      "endDate": "2025-09-14T11:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -29,225 +29,15 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "The Road (2001) with The Parallel Cinema Club",
-      "sameAs": "https://underline.center/t/593",
-      "startDate": "2025-08-19T14:15:00.000Z",
-      "url": "https://www.district.in/screening-of-the-road-2001-with-tpcc-aug19-2025/event"
+      "name": "Dungeons & Dragons and other TTRPGs",
+      "sameAs": "https://underline.center/t/87",
+      "startDate": "2025-09-14T06:30:00.000Z",
+      "url": "https://forum.reroll.in/t/2675"
    },
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2025-08-20T16:30:00.000Z",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Whimsical Wednesday with Improv Lore",
-      "sameAs": "https://underline.center/t/19",
-      "startDate": "2025-08-20T14:30:00.000Z",
-      "url": "https://www.district.in/whimsical-wednesday-with-improv-lore/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2025-08-21T17:30:00.000Z",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Tabletop Thursday with ReRoll Board Games",
-      "sameAs": "https://underline.center/t/17",
-      "startDate": "2025-08-21T13:30:00.000Z",
-      "url": "https://www.district.in/tabletop-thursday-with-reroll-board-games/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2025-08-23T13:00:00.000Z",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Sofar Sounds Gig",
-      "sameAs": "https://underline.center/t/620",
-      "startDate": "2025-08-23T10:00:00.000Z",
-      "url": "https://www.sofarsounds.com/events/62294"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2025-08-23T17:30:00.000Z",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Magic: The Gathering with ReRoll Board Games",
-      "sameAs": "https://underline.center/t/161",
-      "startDate": "2025-08-23T12:30:00.000Z",
-      "url": "https://forum.reroll.in/t/2201"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2025-08-23T16:30:00.000Z",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Maestro Impro™️ by Improv Lore",
-      "sameAs": "https://underline.center/t/140",
-      "startDate": "2025-08-23T14:30:00.000Z",
-      "url": "https://district.in/maestro-impro-by-improv-lore/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2025-08-24T11:30:00.000Z",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Bangalore Homelab Meetup with Tanvi & Chaitanya",
-      "sameAs": "https://underline.center/t/598",
-      "startDate": "2025-08-24T06:30:00.000Z",
-      "url": "https://district.in/bangalore-homelab-meetup-aug10-2025/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
-      "endDate": "2025-08-24T10:30:00.000Z",
+      "endDate": "2025-09-14T11:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -276,13 +66,13 @@
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Whimsical Weekend with Improv Lore",
       "sameAs": "https://underline.center/t/248",
-      "startDate": "2025-08-24T08:30:00.000Z",
+      "startDate": "2025-09-14T09:30:00.000Z",
       "url": "https://www.district.in/whimsical-weekend-with-improv-lore/event"
    },
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2025-08-24T16:30:00.000Z",
+      "endDate": "2025-09-14T14:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -309,15 +99,50 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Sunday Game Night",
-      "sameAs": "https://underline.center/t/141",
-      "startDate": "2025-08-24T11:30:00.000Z",
-      "url": "https://www.district.in/sunday-game-night-with-reroll-board-games/event"
+      "name": "The Great Indian Buffet by Tasty Trivia (rerun)",
+      "sameAs": "https://underline.center/t/652",
+      "startDate": "2025-09-14T12:30:00.000Z",
+      "url": "https://district.in/the-great-indian-buffet-by-tasty-trivia-sep12-2025/event"
    },
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2025-08-25T17:00:00.000Z",
+      "endDate": "2025-09-14T16:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "OriginalDog presents Unfiltered: Words with Thought Brownie and 8GB Ram",
+      "sameAs": "https://underline.center/t/643",
+      "startDate": "2025-09-14T14:30:00.000Z",
+      "url": "https://district.in/originaldog-presents-unfiltered-words-with-thought-brownie-sep14-2025/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2025-09-15T17:00:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -346,13 +171,13 @@
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Bangalore Puzzle Pals with Playful Pursuits",
       "sameAs": "https://underline.center/t/14",
-      "startDate": "2025-08-25T13:00:00.000Z",
+      "startDate": "2025-09-15T13:00:00.000Z",
       "url": "https://www.district.in/bangalore-puzzle-pals-with-playful-pursuits/event"
    },
    {
       "@context": "https://schema.org",
-      "@type": "ScreeningEvent",
-      "endDate": "2025-08-26T17:30:00.000Z",
+      "@type": "SocialEvent",
+      "endDate": "2025-09-18T17:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -379,15 +204,15 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Los Muertos (2004) with The Parallel Cinema Club",
-      "sameAs": "https://underline.center/t/594",
-      "startDate": "2025-08-26T14:15:00.000Z",
-      "url": "https://www.district.in/screening-of-los-muertos-2004-with-tpcc-aug26-2025/event"
+      "name": "Tabletop Thursday with ReRoll Board Games",
+      "sameAs": "https://underline.center/t/17",
+      "startDate": "2025-09-18T13:30:00.000Z",
+      "url": "https://www.district.in/tabletop-thursday-with-reroll-board-games/event"
    },
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2025-08-30T05:30:00.000Z",
+      "endDate": "2025-09-19T16:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -414,15 +239,50 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Master the Basics of Chinese Language with Samridhi Sukhani",
-      "sameAs": "https://underline.center/t/579",
-      "startDate": "2025-08-30T03:30:00.000Z",
-      "url": "https://district.in/master-the-basics-of-chinese-language-with-samridhi-sukhani-aug23-2025/event"
+      "name": "Songwriting Workshop +Performance with Aanchal Bordoloi & Kiteloon",
+      "sameAs": "https://underline.center/t/626",
+      "startDate": "2025-09-19T13:30:00.000Z",
+      "url": "https://www.district.in/songwriting-workshop-performance-with-aanchal-bordoloi-kiteloon-sep19-2025/event"
    },
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2025-08-31T11:30:00.000Z",
+      "endDate": "2025-09-20T17:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Magic: The Gathering with ReRoll Board Games",
+      "sameAs": "https://underline.center/t/161",
+      "startDate": "2025-09-20T12:30:00.000Z",
+      "url": "https://forum.reroll.in/t/2201"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2025-09-21T08:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -451,13 +311,13 @@
       "maximumPhysicalAttendeeCapacity": 45,
       "name": "Folding Ninjas - Origami Club with Roligami",
       "sameAs": "https://underline.center/t/330",
-      "startDate": "2025-08-31T09:30:00.000Z",
+      "startDate": "2025-09-21T05:30:00.000Z",
       "url": "https://www.district.in/folding-ninjas-with-roligami/event"
    },
    {
       "@context": "https://schema.org",
-      "@type": "ScreeningEvent",
-      "endDate": "2025-09-02T17:30:00.000Z",
+      "@type": "SocialEvent",
+      "endDate": "2025-09-26T15:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -484,15 +344,15 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "The Days When I Don’t Exist (2003) with The Parallel Cinema Club",
-      "sameAs": "https://underline.center/t/595",
-      "startDate": "2025-09-02T14:15:00.000Z",
-      "url": "https://www.district.in/screening-of-the-days-when-i-dont-exist-2003-with-tpcc-sep2-2025/event"
+      "name": "Love in the Time of Algorithms by The Self Centre - Friday Show",
+      "sameAs": "https://underline.center/t/650",
+      "startDate": "2025-09-26T13:30:00.000Z",
+      "url": "https://district.in/love-in-the-time-of-algorithms-by-the-self-centre-sep26-2025/event"
    },
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2025-09-13T08:30:00.000Z",
+      "endDate": "2025-09-27T15:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
       "inLanguage": "en",
@@ -519,9 +379,79 @@
       },
       "maximumAttendeeCapacity": 45,
       "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Intensive Course in Improvised Theatre by Improv Lore",
-      "sameAs": "https://underline.center/t/200",
-      "startDate": "2025-09-13T05:30:00.000Z",
-      "url": "https://www.district.in/intensive-course-in-improvised-theatre-by-improv-lore-jun7-2025/event"
+      "name": "Love in the Time of Algorithms by The Self Centre - Saturday Show",
+      "sameAs": "https://underline.center/t/651",
+      "startDate": "2025-09-27T13:30:00.000Z",
+      "url": "https://district.in/love-in-the-time-of-algorithms-by-the-self-centre-sep26-2025/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2025-09-28T14:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "PowerPoint Roulette by Improv Lore",
+      "sameAs": "https://underline.center/t/226",
+      "startDate": "2025-09-28T12:30:00.000Z",
+      "url": "https://www.district.in/powerpoint-roulette-by-improv-lore-2025/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2025-09-28T17:00:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Maestro Impro™️ by Improv Lore",
+      "sameAs": "https://underline.center/t/140",
+      "startDate": "2025-09-28T15:00:00.000Z",
+      "url": "https://district.in/maestro-impro-by-improv-lore/event"
    }
 ]
