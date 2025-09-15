@@ -2,6 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:blr.today/map-india
 BEGIN:VEVENT
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-cover-images-new-34.png
+CATEGORIES:Guided Walk,MAP,CBD
+DTSTAMP:20250914T095632Z
+DESCRIPTION:Discover the extraordinary Haveli Collection\, curated by designer Poornima Jain—a remarkable assembly of textiles and costumes from Asia and Africa that reveal the artistry behind human creativity.\n\nThe exhibition looks from the earliest twisted fibres to finished garments\, inviting us to see cloth as rhythm\, logic\, and human intelligence woven into form. Each piece tells a story of cultural heritage\, where ancient techniques meet contemporary inspiration and every thread connects us to the hands that shaped it.
+DTEND:20250919T103000Z
+DTSTART:20250919T093000Z
+SUMMARY:Encoded In Thread
+UID:1010@map-india.org
+URL:https://map-india.org/map-events/encoded-in-thread/
+END:VEVENT
+BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-cover-images-new-28.png
 CATEGORIES:Workshops,MAP,CBD
 DTSTAMP:20250910T092936Z
@@ -11,28 +22,6 @@ DTSTART:20250920T060000Z
 SUMMARY:Rasas & Raagas: Art inspired Melodies
 UID:1006@map-india.org
 URL:https://map-india.org/map-events/rasas-raagas-art-inspired-melodies/
-END:VEVENT
-BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-cover-images-new-22.png
-CATEGORIES:Talks,MAP,CBD
-DTSTAMP:20250910T092728Z
-DESCRIPTION:Experience the vibrant ritualistic tradition of Bootha Kola\, a sacred performance practice from the coastal region of Karnataka. This lecture-demonstration opens a window into the world of spirit worship expressed through music\, movement\, and transformation.\n\nRenowned practitioners Santosh Hosaangadi and Srikar Pana will present a live demonstration on the elaborate process of makeup and dressing\, while Professor Purushottam Bilimale will share insights on the evolution of spirit animals in this ritualistic practice.\n\nCurated by Tvarita Arts Collective in association with MAP\, this interactive session brings together practitioner knowledge and academic perspective\, offering audiences a rare opportunity to understand and engage with this powerful artform.\n\nThis event is in conjunction with In Celestial Company exhibition programming.
-DTEND:20250914T130000Z
-DTSTART:20250914T113000Z
-SUMMARY:Bhuta Kola
-UID:1003@map-india.org
-URL:https://map-india.org/map-events/bhuta-kola/
-END:VEVENT
-BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-cover-images-new-20.png
-CATEGORIES:Workshops,MAP,CBD
-DTSTAMP:20250910T073112Z
-DESCRIPTION:Design your own mythical creature! Would it be part meerkat\, part deer? Would it have wings or claws? In this hands-on workshop\, you'll create your very own celestial companion inspired by the divine beings in our current exhibition.\n\nThe session begins with a walkthrough of In Celestial Company\, where you'll meet Garuda\, Mooshika\, and other legendary creatures\, before designing and crafting your own unique mythical friend.\n\nThis event is in conjunction with In Celestial Company exhibition programming.
-DTEND:20250914T103000Z
-DTSTART:20250914T083000Z
-SUMMARY:Design Your Own Mythical Creature
-UID:1000@map-india.org
-URL:https://map-india.org/map-events/design-your-own-mythical-creature/
 END:VEVENT
 BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-cover-images-new-32.png
@@ -46,17 +35,6 @@ UID:1008@map-india.org
 URL:https://map-india.org/map-events/hands-on-art/
 END:VEVENT
 BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/08/Website-cover-images-new-6.png
-CATEGORIES:Guided Walk,MAP,CBD
-DTSTAMP:20250908T063717Z
-DESCRIPTION:This festive season\, Bangalore finds itself In Celestial Company. Only this time\, the focus is less on deities and more on their grand procession of divine helpers\, wondrous animals\, and mythical beings\, and their fascinating stories.\n\nJoin us for a walkthrough of our latest exhibition by the curator\, Priya Chauhan and Vineet Kajrolkar \, to get behind-the-scenes insights of the making of the exhibition In Celestial Company. \n\nThis event is in conjunction with In Celestial Company exhibition programming.
-DTEND:20250913T073000Z
-DTSTART:20250913T063000Z
-SUMMARY:Curator’s Secrets: A special walkthrough by the curator
-UID:995@map-india.org
-URL:https://map-india.org/map-events/curators-secrets-a-special-walkthrough-by-the-curator/
-END:VEVENT
-BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-cover-images-new-27.png
 CATEGORIES:Workshops,MAP,CBD
 DTSTAMP:20250910T053637Z
@@ -68,47 +46,14 @@ UID:1005@map-india.org
 URL:https://map-india.org/map-events/neuroqueer-brainbox-2/
 END:VEVENT
 BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/WhatsApp-Image-2024-10-07-at-4.57.23-PM.jpeg
-CATEGORIES:Guided Walk,MAP,CBD
-DTSTAMP:20250903T050444Z
-DESCRIPTION:This festive season\, Bangalore finds itself In Celestial Company. Only this time\, the focus is less on deities and more on their grand procession of divine helpers\, wondrous animals\, and mythical beings\, and their fascinating stories.\n\nJoin us for a walkthrough of our latest exhibition in Kannada to get behind-the-scenes insights of the making of the exhibition In Celestial Company. \n\nThis event is in conjunction with In Celestial Company exhibition programming.
-DTEND:20250913T103000Z
-DTSTART:20250913T093000Z
-SUMMARY:ಮಾತು-ಕಥೆ: Guided Walk in Kannada
-UID:1002@map-india.org
-URL:https://map-india.org/map-events/%e0%b2%ae%e0%b2%be%e0%b2%a4%e0%b3%81-%e0%b2%95%e0%b2%a5%e0%b3%86-guided-walk-in-kannada/
-END:VEVENT
-BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/08/Website-cover-images-new-23.png
-CATEGORIES:Talks,MAP,CBD
-DTSTAMP:20250908T063539Z
-DESCRIPTION:Explore the intriguing world of vāhanas\, Ganaas\, Gandharvas\, Yaazhis\, and other celestial companions that flank the divine.\n\nModerated by Professor Asijit Datta\, this panel featuring Professor Mrinal Kulkarni\, Professor K. Kesava Rajarajan and Author K. Hari Kumar will delve into the posthumanist lens through which we can understand the vahanas and celestial retinues. Exploring themes of decentralization\, hybridity\, and the blurring of boundaries between human and animal\, the discussion will draw from multiple perspectives - literature\, art\, and architecture.\n\nThis event is in conjunction with the exhibition In Celestial Company.
-DTEND:20250913T120000Z
-DTSTART:20250913T103000Z
-SUMMARY:What Do Our Divine Companions Tell Us?
-UID:997@map-india.org
-URL:https://map-india.org/map-events/what-do-our-divine-companions-tell-us/
-END:VEVENT
-BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/07/4-4.png
-CATEGORIES:Guided Walk,MAP,CBD
-DTSTAMP:20250908T063753Z
-DESCRIPTION:This festive season\, Bangalore finds itself In Celestial Company. Only this time\, the focus is less on deities and more on their grand procession of divine helpers\, wondrous animals\, and mythical beings\, and their fascinating stories.\n\nJoin us for a walkthrough of our latest exhibition by the curator\, Priya Chauhan and Vineet Kajrolkar\, to get behind-the-scenes insights of the making of the exhibition In Celestial Company. \n\nThis event is in conjunction with In Celestial Company exhibition programming.
-DTEND:20250914T110000Z
-DTSTART:20250914T100000Z
-SUMMARY:Behind-the-scenes: A guided walk led by the curator
-UID:1001@map-india.org
-URL:https://map-india.org/map-events/behind-the-scenes-a-guided-walk-led-by-the-curator/
-END:VEVENT
-BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-cover-images-new-18.png
-CATEGORIES:Guided Walk,MAP,CBD
-DTSTAMP:20250903T042627Z
-DESCRIPTION:This festive season\, Bangalore finds itself In Celestial Company. Only this time\, the focus is less on deities and more on their grand procession of divine helpers\, wondrous animals\, and mythical beings\, and their fascinating stories.\n\nJoin us for a walkthrough of our latest exhibition in Indian Sign Language to get behind-the-scenes insights of the making of the exhibition In Celestial Company. 
-DTEND:20250914T063000Z
-DTSTART:20250914T053000Z
-SUMMARY:Signing Stories: A Guided Walk in Indian Sign Language
-UID:999@map-india.org
-URL:https://map-india.org/map-events/signing-stories-a-guided-walk-in-indian-sign-language/
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-cover-images-new-33.png
+CATEGORIES:Workshops,MAP,CBD
+DTSTAMP:20250914T093630Z
+DESCRIPTION:Join us for the "Art with Code" program which introduces coding in an innovative context\, teaching it through the lens of interactive art. Participants will start by learning the basics of creating art and incorporating interaction using JavaScript. This program aims to view technology not as the end goal\, but as a means to create meaningful digital experiences.\n\nFacilitated by Tanvi Kumar\, the program will teach participants p5.js\, a JavaScript library created to teach the fundamentals of programming through art. This edition of the program will have a special theme - Ticket Tika Chaap - where participants will generate art using the ticket/chaap images that were a prominent part of the Indo-British textile trade.\n\nThis workshop is beginner-friendly\, ideal for those with no coding experience as well as experienced coders.
+DTEND:20250920T083000Z
+DTSTART:20250920T053000Z
+SUMMARY:Art with Code
+UID:1011@map-india.org
+URL:https://map-india.org/map-events/art-with-code/
 END:VEVENT
 END:VCALENDAR
