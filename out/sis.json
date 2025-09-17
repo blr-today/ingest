@@ -1,37 +1,5 @@
 [
   {
-    "name": "Basketball Session",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wedneday-30-august",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Basketball",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wedneday-30-august",
-    "image": "https://sistersinsweat.com/images/event/20250909172210879.jpg",
-    "location": {
-      "name": "St. Joseph's Arts And Science College",
-      "address": "St. Joseph's Arts And Science College #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens",
-      "type": "Place"
-    },
-    "startDate": "2025-09-17T20:00:00+05:30",
-    "endDate": "2025-09-17T21:30:00+05:30"
-  },
-  {
     "name": "Pickleball with the Sisters (GoRally x SIS)",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Pickleball-Beginner-Thursday1-aug",
@@ -382,6 +350,38 @@
     },
     "startDate": "2025-09-23T20:00:00+05:30",
     "endDate": "2025-09-23T21:30:00+05:30"
+  },
+  {
+    "name": "Basketball Session",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wedneday-30-august",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Basketball",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wedneday-30-august",
+    "image": "https://sistersinsweat.com/images/event/20250909172210879.jpg",
+    "location": {
+      "name": "St. Joseph's Arts And Science College",
+      "address": "St. Joseph's Arts And Science College #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens",
+      "type": "Place"
+    },
+    "startDate": "2025-09-24T20:00:00+05:30",
+    "endDate": "2025-09-24T21:30:00+05:30"
   },
   {
     "name": "Basketball Session",
