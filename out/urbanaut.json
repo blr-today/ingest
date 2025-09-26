@@ -1978,6 +1978,54 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
+    "name": "Itsy Bitsy Theatre Lab",
+    "description": "A theatre workshop for beginner to intermediate experienced folks. ",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E4808CFC9DFA4CC4ABDCE20DB8E742FB_converted_webp.webp"
+    ],
+    "startDate": "2025-10-11T15:00:00+05:30",
+    "endDate": "2025-10-11T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, 415/2/1, 4th Cross Rd, NGO Colony, Wilson Garden, Bengaluru, Karnataka 560027, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJb9VTuuoVrjsRrcpJk3sVHOs",
+      "latitude": "12.95158430000000000000",
+      "longitude": "77.59549650000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "4000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Loonatics' Collective",
+      "description": null,
+      "url": "https://urbanaut.app/partner/theloonaticscollective",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/2E3150749BA84B59B4F026A7D60CB958_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-85910-77639"
+      }
+    },
+    "url": "https://urbanaut.app/spot/itsy-bitsy-theatre-lab",
+    "keywords": [
+      "Workshop",
+      "Active",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
     "name": "The Ornament Affair",
     "description": "Join us for an exclusive jewellery-making workshop at the beautifully aesthetic Kaavu Caf\u00e9, designed for just 12 participants. This one-of-a-kind event in Bangalore combines creativity, style, and community for a truly memorable day.You\u2019ll learn to design and make your own jewellery pieces from scratch, guided by professional tools and materials. Whether you\u2019re looking to pick up a stylish new hobby, express your personal style, or simply spend the day in a warm, inspiring space with like-minded people\u2014this workshop is for you.Participants will walk away with:Jewellery you\u2019ve created yourselfA full tool kit (flat plier, round plier, cutter, 0.5 mm wire roll, 1 m chain, thread, needle, tiger tail beading wire)Shared access to clasps, jumprings, crimp beads, spacers, and moreA step-by-step guidebook for jewellery makingAn A5 notebook & pencil for ideationA participant certificate\ufeffA few extra goodies to remember the day byOptional add-ons (available for purchase at the venue):Freshwater pearlsGold-plated charmsSemi-precious stone beadsAll you need to bring is your energy and curiosity\u2014everything else is taken care of. \u2728",
     "image": [
@@ -3130,53 +3178,6 @@
       "Leisure",
       "Food & drink",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Family Movie Night at Coro: 101 Dalmatians",
-    "description": "Join us for a cozy evening as we screen the animated classic 101 Dalmatians; a wildly fun tale with dogs, their pets and a whole lot of heart.We\u2019re serving up fresh popcorn to go with the giggles, so come in comfy, bring the kids, and settle in for a movie night the whole family will love.Limited \"spots\" \u2014 book yours soon!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4E057D68534E48A5A4F1AEECD6C9205C_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/414FC61A1A76402EB3E4DF9419A0B0B0_converted_webp.webp"
-    ],
-    "startDate": "2025-09-26T17:30:00+05:30",
-    "endDate": "2025-09-26T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3S2OrvsVrjsRBOql1X-UnAM",
-      "latitude": "12.96068750000000000000",
-      "longitude": "77.63718750000001000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "550.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Coro",
-      "description": null,
-      "url": "https://urbanaut.app/partner/corospace",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/0F2E55DAAA19467D96CA7AFC8F33B7A0_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-94466-91720"
-      }
-    },
-    "url": "https://urbanaut.app/spot/copy-of-family-movie-night-at-coro",
-    "keywords": [
-      "Leisure",
       "URBANAUT"
     ]
   },
@@ -4954,6 +4955,149 @@
     "keywords": [
       "Live GIG",
       "Local",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ganga\u2019s Curse- A Retelling of Ganga's Descent",
+    "description": "Ganga\u2019s Curse is a \u2018re-telling\u2019 of the Puranic story of Ganga\u2019s descent to Earth by children\u2019s author and storyteller Kapil Pandey. As it unfolds, it asks multiple questions about human apathy and neglect, about the connections we refuse to make with our environment, about what our myths and legends stand for, and about our unwillingness to ask questions \u2014 of ourselves and of the world we inhabit. This tongue-in-cheek account is musical and interactive, and for adults (children below 12 not allowed).BANGALORE:\ud83d\uddd3\ufe0f\u00a010th October\ud83d\udd55\u00a06:30\ud83d\udccd\u00a0\u00a0Atta Galatta- The Bookstore, 178, 5th Main Road, 1st Stage, Indiranagar, Bangalore\u2714\ufe0f\u00a01 Hour Storytelling Performance\u2714\ufe0f\u00a0English and Hindi\u2714\ufe0f\u00a0Ages 12 and Up\ud83d\udc9d\u00a0Tickets at 1,200 available on Urbanaut (link in bio).",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CCF2DD73A4E54A1899645706B89AC15A_converted_webp.webp"
+    ],
+    "startDate": "2025-10-10T18:30:00+05:30",
+    "endDate": "2025-10-10T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 110,
+    "remainingAttendeeCapacity": 110,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/gangas-curse-a-retelling-of-gangas-descent",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Adventure",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Invisible Housemates-Book Signing",
+    "description": "Beyond and within the familiar confines of our home, a vibrant, bustling ecosystem thrives, often unnoticed, but always present. This book is an exploration of that hidden world, a journey into the lives of the animals, birds and insects that share our dwellings and the spaces immediately surrounding them. Some are beneficial, acting as natural pest control, while others can be perceived as nuisances, challenging our sense of control and cleanliness. Yet, they all contribute to the rich tapestry of life that surrounds us, each with wonderous stories of survival, adaptation, and interaction.This book aims to illuminate these often-overlooked, invisible housemates, to bridge the gap between our human-centric perspective and the fascinating world they occupy. I delve into the natural history of 13 amazing creatures, exploring their behaviours, life cycles, and ecological roles. I examine the intricate relationships they have with each other and with us, the humans who share their space. How do our actions, our habits, and the very architecture of our homes influence their lives? How do they, in turn, impact our own? After reading this book, I hope that readers can develop a more appreciative eye for these marvellous creatures, even the ones that incite fear, gain a richer understanding of the natural world and our place within it.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CD4D89A3A81A4C4C9E13E4639BDDF659_converted_webp.webp"
+    ],
+    "startDate": "2025-10-04T16:00:00+05:30",
+    "endDate": "2025-10-04T16:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/invisible-housemates-book-signing",
+    "keywords": [
+      "Eco Friendly",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Georgette Heyer Reader Meetup",
+    "description": "\u201cGeorgette Heyer Reader Meetup\u201dA Group discussion for Literature EnthusiastsSun, 26 Oct 2025, 11 AMGeorgette Heyer's blend of humor, clever dialogue, a brisk moving plot, historical accuracy and, of course, romance, is an absolute delight for all readers. You can escape into a world of leisure, populated by broad-shouldered noble lords and witty ladies who dreamt of love over a marriage of convenience ...Often set in Regency-era London, these novels revolved around the lives of the wealthy upper classes \u2013 society\u2019s ton and their quirks.Whether you are a fan of many years or someone who is just starting out reading her novels you are more than welcome to join us to discuss and marinate in her world...",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9D780F3465294B8983457B2732D14318_converted_webp.webp"
+    ],
+    "startDate": "2025-10-26T11:00:00+05:30",
+    "endDate": "2025-10-26T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/georgette-heyer-reader-meetup",
+    "keywords": [
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   }
