@@ -2,6 +2,49 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Sunset Cinema Club, in collaboration with Hamilton Cocktail Bar, Bangalore, invites you to a soulful evening where food, music, and second chances come together on one delicious plate.This edition of SCC Gourmet Cinema celebrates Chef, the Holly",
+      "endDate": "2025-10-05T23:59:00",
+      "identifier": "com.skillboxes.28731",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1758875298DCNIKwaPPuhGruz4.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Movie Screenings"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9820923",
+            "longitude": "77.7086283"
+         },
+         "name": "Hamilton Cocktail Bar"
+      },
+      "name": "SCC Gourmet Cinema - Chef",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Includes 5 Course Tasting Menu + 2 Drinks)\n",
+            "inventoryLevel": 1000,
+            "name": "Per Person Ticket + F&B (Non Veg)",
+            "url": "https://www.skillboxes.com/events/ticket/scc-gourmet-cinema-chef-4"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Includes 5 Course Tasting Menu + 2 Drinks)\n",
+            "inventoryLevel": 1000,
+            "name": "Per Person Ticket + F&B (Veg)",
+            "url": "https://www.skillboxes.com/events/ticket/scc-gourmet-cinema-chef-4"
+         }
+      ],
+      "startDate": "2025-10-05T12:00:00",
+      "url": "https://www.skillboxes.com/events/scc-gourmet-cinema-chef-4"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "THIRUOLAM 2025 — Rhythm of Youth November 15, 2025 • Phoenix Market City, Bengaluru Get ready for a high-energy night of Malayalam music, beats and vibes — THIRUOLAM bring",
       "endDate": "2025-11-15T22:00:00",
       "identifier": "com.skillboxes.28716",
@@ -73,6 +116,40 @@
       ],
       "startDate": "2025-09-30T22:00:00",
       "url": "https://www.skillboxes.com/events/dashain-festival"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Utsav Kirtan is a unique Kirtan experience to sing and celebrate the wisdom of Awakened Masters! As part of the Utsav Bliss Festival, we are welcoming you to join us for an evening to sing the messages from all spiri",
+      "endDate": "2026-01-24T20:00:00",
+      "identifier": "com.skillboxes.28681",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/NnRxRnhUbWhsNFcvQXVRZThnUGNtQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17588958773OMvt7NoFZukrHDi.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Religion & Spirituality"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Dinnepalya, Post, Kaggalipura, Bengaluru, Karnataka 560116, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.809876",
+            "longitude": "77.4893491"
+         },
+         "name": "Fireflies Intercultural Center"
+      },
+      "name": "Utsav Kirtan at Bliss Festival Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "Single Ticket Entry",
+            "url": "https://www.skillboxes.com/events/ticket/utsav-kirtan-at-utsav-bliss-festival-bangalore"
+         }
+      ],
+      "startDate": "2026-01-24T18:30:00",
+      "url": "https://www.skillboxes.com/events/utsav-kirtan-at-utsav-bliss-festival-bangalore"
    },
    {
       "@context": "https://schema.org",
@@ -209,100 +286,6 @@
       ],
       "startDate": "2025-10-12T19:00:00",
       "url": "https://www.skillboxes.com/events/sufi-social"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Afro Episodes",
-      "endDate": "2025-09-26T23:59:00",
-      "identifier": "com.skillboxes.28651",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1758706682KOuaxs85ZunzbWFb.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9726391",
-            "longitude": "77.6065987"
-         },
-         "name": "Pangeo"
-      },
-      "name": "Afro Episodes",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "For one couple  Entry is valid only if both check in together at the gate.\n",
-            "inventoryLevel": 1000,
-            "name": "Couple Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/afro-episodes"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "For all the ladies coming in solo or as a group – free entry via guestlist.\n",
-            "inventoryLevel": 1000,
-            "name": "Female Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/afro-episodes"
-         }
-      ],
-      "startDate": "2025-09-26T20:00:00",
-      "url": "https://www.skillboxes.com/events/afro-episodes"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Sounds of Dandiya ",
-      "endDate": "2025-09-26T23:59:00",
-      "identifier": "com.skillboxes.28639",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1758688991vORKhTefi1LCvnTu.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Bengaluru, Karnataka, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9628669",
-            "longitude": "77.577509"
-         },
-         "name": "Bengaluru"
-      },
-      "name": "Sounds of Dandiya",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional cover charge applicable at gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Sarjapur Social",
-            "url": "https://www.skillboxes.com/events/ticket/sounds-of-dandiya"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional cover charge applicable at gates.\n",
-            "inventoryLevel": 1000,
-            "name": "Bellandur Social",
-            "url": "https://www.skillboxes.com/events/ticket/sounds-of-dandiya"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Additional cover charge applicable at gates.\n",
-            "inventoryLevel": 966,
-            "name": "Koramangala Social",
-            "url": "https://www.skillboxes.com/events/ticket/sounds-of-dandiya"
-         }
-      ],
-      "startDate": "2025-09-26T20:00:00",
-      "url": "https://www.skillboxes.com/events/sounds-of-dandiya"
    },
    {
       "@context": "https://schema.org",
@@ -593,49 +576,6 @@
       ],
       "startDate": "2025-09-28T19:00:00",
       "url": "https://www.skillboxes.com/events/lost-in-tech-2"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "THE WAIT IS FINALLY OVER - THE OTHER SIDE FESTIVAL PRE PARTY IS ALL SET TO HIT THE ROADS OF BENGALURU\r\n\r\n \r\n\r\nFeaturing, Wailey ( Astral | Siona | 3000Grad ) along with a power packed lineup. \r\n\r\n \r\n\r\nSup",
-      "endDate": "2025-09-26T23:59:00",
-      "identifier": "com.skillboxes.28598",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1758562052TIr3bLW19QQ2G9ii.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Trinity Pothraj, #154, 4th floor, Trinity Circle, Old Madras Rd, Gowthamapuram, Jogupalya, Bengaluru, Karnataka 560008, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9725259",
-            "longitude": "77.6202991"
-         },
-         "name": "Lumara Bar & Kitchen"
-      },
-      "name": "THE OTHER SIDE FESTIVAL PRE PARTY",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable post 9.30pm\n",
-            "inventoryLevel": 998,
-            "name": "Couple Entry",
-            "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival-pre-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Ladies walk in free throughout the night\n",
-            "inventoryLevel": 1000,
-            "name": "Ladies Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival-pre-party"
-         }
-      ],
-      "startDate": "2025-09-26T19:00:00",
-      "url": "https://www.skillboxes.com/events/the-other-side-festival-pre-party"
    },
    {
       "@context": "https://schema.org",
@@ -1834,41 +1774,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get ready for a night of beautiful music and smooth vibes as the AAJANA TOUR brings together international R&B and hip-hop artists Dhun and Tony Newbury, alongside Bombay’s rising R&B star Raziel, for an unforgettable two-hour ",
-      "endDate": "2025-09-26T23:59:00",
-      "identifier": "com.skillboxes.28329",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1757938596ytPv8EwZXfzGBCvS.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Shop No 33, 80 Feet Rd, near Wipro Park, opposite Barista and Domino's, 4th Block, Nirguna Mandir Layout, Cauvery Colony, Koramangala, Bengaluru, Karnataka 560034, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9313063",
-            "longitude": "77.6329297"
-         },
-         "name": "Bira 91 Taproom, Koramangala"
-      },
-      "name": "Aajana Tour | Bangalore",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Mandatory cover charge of INR 500 applicable at the gates\n",
-            "inventoryLevel": 1000,
-            "name": "Early Bird Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/aajana-tour-bangalore"
-         }
-      ],
-      "startDate": "2025-09-26T19:00:00",
-      "url": "https://www.skillboxes.com/events/aajana-tour-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Da-Lit Queer Tour is a traveling celebration spotlighting Dalit, Bahujan, and queer joy across India. After electrifying Mumbai with an audience of over 200, this groundbreaking tour brings together comedy, music, drag, and spoken word by artists fro",
       "endDate": "2025-09-27T23:00:00",
       "identifier": "com.skillboxes.28311",
@@ -2444,43 +2349,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Dandiya Night 2025 at Fandom, Gilly’s Redefined! ✨Get ready to light up your Navratri season with a night full of music, dance, and endless fun! On 26th September, we’re bringing you a spec",
-      "endDate": "2025-09-26T23:00:00",
-      "identifier": "com.skillboxes.28171",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/bm5scjdWdFptQUJZK0VSYUpvRm53QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1757508093fLSM247iopkU7V5H.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Festivals"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "1st floor of Gillys redefined,# 413, 100 Feet Road, 4th Block, Koramangala Bangalore, India",
-         "name": "Fandom At Gilly's Redefined"
-      },
-      "name": "Dandiya Night",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "21+ Mandatory\n",
-            "inventoryLevel": 20,
-            "name": "EB SINGLE",
-            "url": "https://www.skillboxes.com/events/ticket/dandiya-night-4"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 10,
-            "name": "EB COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/dandiya-night-4"
-         }
-      ],
-      "startDate": "2025-09-26T19:30:00",
-      "url": "https://www.skillboxes.com/events/dandiya-night-4"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Kommune Bengaluru Open Mic",
       "endDate": "2025-09-28T16:00:00",
       "identifier": "com.skillboxes.28147",
@@ -2874,41 +2742,6 @@
       ],
       "startDate": "2025-11-01T20:00:00",
       "url": "https://www.skillboxes.com/events/the-restless-relentless-india-tour-2025-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": " In a blink of an eye an entire year has passed us by and we're already at our one year anniversary gig?? It's been an absolute ride and a half sharing these diverse lineups with you and celebrating our city, our talent and",
-      "endDate": "2025-09-26T23:59:00",
-      "identifier": "com.skillboxes.27873",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1756889990T0vXV00RlmeQydCc.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9849438",
-            "longitude": "77.5808105"
-         },
-         "name": "The Burrow"
-      },
-      "name": "Nineoeight 1 Year Anniversary",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable post 10pm\n",
-            "inventoryLevel": 986,
-            "name": "Entry Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/nineoeight-1-year-anniversary"
-         }
-      ],
-      "startDate": "2025-09-26T20:00:00",
-      "url": "https://www.skillboxes.com/events/nineoeight-1-year-anniversary"
    },
    {
       "@context": "https://schema.org",
@@ -3993,40 +3826,6 @@
       "offers": [ ],
       "startDate": "2025-09-20T14:00:00",
       "url": "https://www.skillboxes.com/events/tbg-creative-classes"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "No lights. No stage. Just music, mellow vibes, and a circle of hearts that beat to a shared rhythm.Jam and Toast is an easy-going jamming session for those who find joy in spontaneous tunes, unplugged moments, and warm company. W",
-      "endDate": "2025-09-26T20:30:00",
-      "identifier": "com.skillboxes.24900",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TnJvcXh1b3JoaGFBaVZ1ZmgvNVFVZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1750686653rrX3gRZtLr6lYV9H.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Live Event"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "126/5/4, Nallurahalli Main Rd, Palm Meadows, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9602491",
-            "longitude": "77.7326977"
-         },
-         "name": "Namma Ashram - Cafe, Stay, Yoga, Library, Shop, Workshops, Events & More"
-      },
-      "name": "Jam and Toast - An Evening of Easy Jamming",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 20,
-            "name": "Regular Entry",
-            "url": "https://www.skillboxes.com/events/ticket/jam-and-toast-an-evening-of-easy-jamming"
-         }
-      ],
-      "startDate": "2025-09-26T19:00:00",
-      "url": "https://www.skillboxes.com/events/jam-and-toast-an-evening-of-easy-jamming"
    },
    {
       "@context": "https://schema.org",
