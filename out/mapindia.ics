@@ -2,6 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:blr.today/map-india
 BEGIN:VEVENT
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-Image-1440-x-810-21-1.png
+CATEGORIES:Film Screenings,MAP,CBD
+DTSTAMP:20250925T095442Z
+DESCRIPTION:Norma Rae©️1979 Twentieth Century Fox Film Corporation. All Rights Reserved.\n\nIn collaboration with Bangalore Film Forum (BFF)\, MAP is excited to announce the screening of Norma Rae directed by Martin Ritt. Based on the true story of a textile worker who becomes involved in union organizing in the American South\, Norma Rae is an iconic film about labour struggles. It sheds light on the harsh working conditions of mill workers and the personal cost of organizing. \n\nFollowing the screening\, join us for a walkthrough of the exhibition Ticket\, Tika\, Chaap\, which offers a deep dive into the often-overlooked world of textile labels in MAP’s collection.\n\nInspired by the themes of Norma Rae\, we will reflect on the labour\, craft\, and histories embedded in these small yet powerful objects.
+DTEND:20251011T123000Z
+DTSTART:20251011T103000Z
+SUMMARY:Norma Rae (1979)
+UID:1013@map-india.org
+URL:https://map-india.org/map-events/norma-rae-1979/
+END:VEVENT
+BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-cover-images-new-1.png
 CATEGORIES:Panel Discussion,MAP,CBD
 DTSTAMP:20250919T090814Z
@@ -13,15 +24,15 @@ UID:1018@map-india.org
 URL:https://map-india.org/map-events/its-time-to-dig-out-antique-isl/
 END:VEVENT
 BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/DSC07774-1-e1758604565489.jpg
-CATEGORIES:Workshops,MAP,CBD
-DTSTAMP:20250923T051620Z
-DESCRIPTION:Join Gurjeet Singh for a unique sensory journey through Visible/Invisible: Representations of Women in Art through the MAP Collection.\n\nDesigned for people with visual impairment\, this tactile workshop invites participants to explore artworks through touch\, then channel their experience into creating personal tactile artworks exploring ornamentation and self-expression. All workshop materials\, from textile fragments to modeling tools and decorative elements\, are included.\n\nPlease note: This workshop is specifically designed for people with visual disabilities. Participants are welcome to bring a friend or family member to join them.
-DTEND:20250927T073000Z
-DTSTART:20250927T053000Z
-SUMMARY:Hands-On Art: A Tactile Journey Through the MAP Collection
-UID:1008@map-india.org
-URL:https://map-india.org/map-events/hands-on-art/
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-cover-images-new-7.png
+CATEGORIES:Youth Engagement,MAP,CBD
+DTSTAMP:20250926T041615Z
+DESCRIPTION:Join us as we unveil Pulse Vol 5: Soundscapes—our latest exploration into how sound\, music\, and silence weave through our lives and identities. This captivating issue features diverse voices expressing their sonic experiences through short films\, poetry\, photography\, and more.\n\nCome Dressed as a Musical Memory from the 2000s! Transform yourself into a moment when music moved you. Channel the iconic imagery of a beloved album cover\, embody the colorful energy of a Bollywood dance number\, or bring to life that unforgettable childhood jingle that still plays in your head. We want to see how personal musical connections inspire your creative expression.\n\n&nbsp\;
+DTEND:20250927T163000Z
+DTSTART:20250927T123000Z
+SUMMARY:Y2K REWIND
+UID:1020@map-india.org
+URL:https://map-india.org/map-events/y2k-rewind/
 END:VEVENT
 BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/VDC-6-Piece-04-scaled.jpg
@@ -37,13 +48,24 @@ END:VEVENT
 BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/09/ISL.jpeg
 CATEGORIES:Workshops,MAP,CBD
-DTSTAMP:20250923T071103Z
+DTSTAMP:20250926T080049Z
 DESCRIPTION:Been wanting to learn ISL but never found the time? Here’s your chance! Join us for an exciting\, hands-on workshop led by deaf teachers\, where you’ll dive into the world of Indian Sign Language.\n\nWhether you’re starting with the basics\, looking to play fun games\, or eager to listen and share stories in ISL\, this space has it all. Come learn\, connect\, and experience the joy of communication without barriers!\n\nThis event is part of the International Week of the Deaf\, presented in collaboration with MAP and Hear a Million (HAM).
 DTEND:20250928T100000Z
 DTSTART:20250928T090000Z
 SUMMARY:Begin Your ISL Journey
 UID:1027@map-india.org
 URL:https://map-india.org/map-events/begin-your-isl-journey/
+END:VEVENT
+BEGIN:VEVENT
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/DSC07774-1-e1758604565489.jpg
+CATEGORIES:Workshops,MAP,CBD
+DTSTAMP:20250923T051620Z
+DESCRIPTION:Join Gurjeet Singh for a unique sensory journey through Visible/Invisible: Representations of Women in Art through the MAP Collection.\n\nDesigned for people with visual impairment\, this tactile workshop invites participants to explore artworks through touch\, then channel their experience into creating personal tactile artworks exploring ornamentation and self-expression. All workshop materials\, from textile fragments to modeling tools and decorative elements\, are included.\n\nPlease note: This workshop is specifically designed for people with visual disabilities. Participants are welcome to bring a friend or family member to join them.
+DTEND:20250927T073000Z
+DTSTART:20250927T053000Z
+SUMMARY:Hands-On Art: A Tactile Journey Through the MAP Collection
+UID:1008@map-india.org
+URL:https://map-india.org/map-events/hands-on-art/
 END:VEVENT
 BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2021/09/1440-X-810-Widget-02.jpg
@@ -79,6 +101,17 @@ UID:1017@map-india.org
 URL:https://map-india.org/map-events/in-out-of-the-frame/
 END:VEVENT
 BEGIN:VEVENT
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2023/09/islhistoryandart-3-scaled.jpg
+CATEGORIES:Panel Discussion,MAP,CBD
+DTSTAMP:20250919T093138Z
+DESCRIPTION:In mainstream theatre\, the stage often belongs to those who can hear. For deaf actors\, opportunities are rare but that doesn’t mean their voices are silent. On the contrary\, deaf performers bring a rich\, visual\, and deeply expressive language to the stage\, challenging traditional ideas of performance and storytelling. Their work pushes us to rethink what theatre can be when sound is not the only tool for connection.\n\nJoin us for a powerful panel discussion where deaf actors\, hearing directors\, and industry voices come together to share their stories. Discover how they communicate\, collaborate\, and reimagine inclusion/access in the world of theatre.\n\nThis event is part of the International Week of the Deaf\, presented in collaboration with MAP and Hear a Million (HAM).
+DTEND:20250928T113000Z
+DTSTART:20250928T103000Z
+SUMMARY:Deaf Theatre in the Hearing World
+UID:1029@map-india.org
+URL:https://map-india.org/map-events/deaf-theatre-in-the-hearing-world/
+END:VEVENT
+BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/WEBSITE.jpg
 CATEGORIES:Guided Walk,MAP,CBD
 DTSTAMP:20250923T063606Z
@@ -90,15 +123,15 @@ UID:1014@map-india.org
 URL:https://map-india.org/map-events/tactile-walkthrough/
 END:VEVENT
 BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2023/09/islhistoryandart-3-scaled.jpg
-CATEGORIES:Panel Discussion,MAP,CBD
-DTSTAMP:20250919T093138Z
-DESCRIPTION:In mainstream theatre\, the stage often belongs to those who can hear. For deaf actors\, opportunities are rare but that doesn’t mean their voices are silent. On the contrary\, deaf performers bring a rich\, visual\, and deeply expressive language to the stage\, challenging traditional ideas of performance and storytelling. Their work pushes us to rethink what theatre can be when sound is not the only tool for connection.\n\nJoin us for a powerful panel discussion where deaf actors\, hearing directors\, and industry voices come together to share their stories. Discover how they communicate\, collaborate\, and reimagine inclusion/access in the world of theatre.\n\nThis event is part of the International Week of the Deaf\, presented in collaboration with MAP and Hear a Million (HAM).
-DTEND:20250928T113000Z
-DTSTART:20250928T103000Z
-SUMMARY:Deaf Theatre in the Hearing World
-UID:1029@map-india.org
-URL:https://map-india.org/map-events/deaf-theatre-in-the-hearing-world/
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/07/HP-Slider-Images-Desktop-13.png
+CATEGORIES:Workshops,MAP,CBD
+DTSTAMP:20250926T075945Z
+DESCRIPTION:Been wanting to learn ISL but never found the time? Here’s your chance! Join us for an exciting\, hands-on workshop led by deaf teachers\, where you’ll dive into the world of Indian Sign Language.\n\nWhether you’re starting with the basics\, looking to play fun games\, or eager to listen and share stories in ISL\, this space has it all. Come learn\, connect\, and experience the joy of communication without barriers!\n\nThis event is part of the International Week of the Deaf\, presented in collaboration with MAP and Hear a Million (HAM).
+DTEND:20250927T100000Z
+DTSTART:20250927T090000Z
+SUMMARY:ISL for Beginners
+UID:1026@map-india.org
+URL:https://map-india.org/map-events/isl-for-beginners/
 END:VEVENT
 BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2024/10/ISL-Jam-2-e1729669268586.jpg
@@ -112,17 +145,6 @@ UID:1030@map-india.org
 URL:https://map-india.org/map-events/isl-jam/
 END:VEVENT
 BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/07/HP-Slider-Images-Desktop-13.png
-CATEGORIES:Workshops,MAP,CBD
-DTSTAMP:20250924T095733Z
-DESCRIPTION:Been wanting to learn ISL but never found the time? Here’s your chance! Join us for an exciting\, hands-on workshop led by deaf teachers\, where you’ll dive into the world of Indian Sign Language.\n\nWhether you’re starting with the basics\, looking to play fun games\, or eager to listen and share stories in ISL\, this space has it all. Come learn\, connect\, and experience the joy of communication without barriers!\n\nThis event is part of the International Week of the Deaf\, presented in collaboration with MAP and Hear a Million (HAM).
-DTEND:20250927T100000Z
-DTSTART:20250927T090000Z
-SUMMARY:ISL for Beginners
-UID:1026@map-india.org
-URL:https://map-india.org/map-events/isl-for-beginners/
-END:VEVENT
-BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-cover-images-new-2.png
 CATEGORIES:Drop-in Sessions,MAP,CBD
 DTSTAMP:20250918T103730Z
@@ -134,54 +156,10 @@ UID:1019@map-india.org
 URL:https://map-india.org/map-events/make-at-map-3/
 END:VEVENT
 BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-cover-images-new-7.png
-CATEGORIES:Youth Engagement,MAP,CBD
-DTSTAMP:20250924T051410Z
-DESCRIPTION:Join us as we unveil Pulse Vol 5: Soundscapes—our latest exploration into how sound\, music\, and silence weave through our lives and identities. This captivating issue features diverse voices expressing their sonic experiences through short films\, poetry\, photography\, and more.\n\nCome Dressed as a Musical Memory from the 2000s! Transform yourself into a moment when music moved you. Channel the iconic imagery of a beloved album cover\, embody the colorful energy of a Bollywood dance number\, or bring to life that unforgettable childhood jingle that still plays in your head. We want to see how personal musical connections inspire your creative expression.\n\n&nbsp\;
-DTEND:20250927T163000Z
-DTSTART:20250927T123000Z
-SUMMARY:Y2K REWIND
-UID:1020@map-india.org
-URL:https://map-india.org/map-events/y2k-rewind/
-END:VEVENT
-BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-cover-images-new-37.png
-CATEGORIES:Guided Walk,MAP,CBD
-DTSTAMP:20250917T105824Z
-DESCRIPTION:Join us for a guided walk through our digital textile exhibition\, exploring how cloth serves as an expression of human creativity and cultural connection. Textiles are among the oldest human inventions\, yet they remain endlessly renewed. To bind\, dye\, and transform cloth is a shared tradition of creativity—reminding us that making is also a way of becoming.\n\n'Bound Together' is exhibition presents the Haveli collection (1984–2016) by designer Poornima Jain\, where influences from India\, Japan\, and Africa were reimagined into a modern language of abstraction. The works appear in dialogue with the cultural traditions that shaped them—bandhani\, leheriya\, shibori\, and Kuba cloths—tracing connections across geographies while celebrating the singularity of each textile.
-DTEND:20250926T103000Z
-DTSTART:20250926T093000Z
-SUMMARY:Bound Together
-UID:1016@map-india.org
-URL:https://map-india.org/map-events/bound-together/
-END:VEVENT
-BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-Image-1440-x-810-21-1.png
-CATEGORIES:Film Screenings,MAP,CBD
-DTSTAMP:20250925T095442Z
-DESCRIPTION:Norma Rae©️1979 Twentieth Century Fox Film Corporation. All Rights Reserved.\n\nIn collaboration with Bangalore Film Forum (BFF)\, MAP is excited to announce the screening of Norma Rae directed by Martin Ritt. Based on the true story of a textile worker who becomes involved in union organizing in the American South\, Norma Rae is an iconic film about labour struggles. It sheds light on the harsh working conditions of mill workers and the personal cost of organizing. \n\nFollowing the screening\, join us for a walkthrough of the exhibition Ticket\, Tika\, Chaap\, which offers a deep dive into the often-overlooked world of textile labels in MAP’s collection.\n\nInspired by the themes of Norma Rae\, we will reflect on the labour\, craft\, and histories embedded in these small yet powerful objects.
-DTEND:20251011T123000Z
-DTSTART:20251011T103000Z
-SUMMARY:Norma Rae (1979)
-UID:1013@map-india.org
-URL:https://map-india.org/map-events/norma-rae-1979/
-END:VEVENT
-BEGIN:VEVENT
-ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-cover-images-new-18.png
-CATEGORIES:Drop-in Sessions,MAP,CBD
-DTSTAMP:20250918T100657Z
-DESCRIPTION:This session of Up\, Close and Center looks at one of the artworks by the renowned modernist painter Ram Kumar from the exhibition Shape of a Thought: Letters from Ram Kumar by curator Priya Chauhan.
-DTEND:20250930T120000Z
-DTSTART:20250930T113000Z
-SUMMARY:Up\, Close & Centre
-UID:1009@map-india.org
-URL:https://map-india.org/map-events/up-close-centre/
-END:VEVENT
-BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-Image-1440-x-810-21.png
 CATEGORIES: Date,MAP,CBD
-DTSTAMP:20250923T094428Z
-DESCRIPTION:In celebration of the International Week of Deaf People (IWDP) 2025\, MAP is collaborating with Hear a Million to organise a series of events to promote inclusivity\, awareness\, and engagement with the Deaf and Hard of Hearing communities. These events are designed to highlight Deaf culture\, advocate for accessibility\, and foster connections between the Deaf and hearing communities through workshops\, panel discussions\, trivia games\, scavenger hunts\, musical performances and more.\nIWDP 2025 EVENTS\nSaturday\, 27 September\n\n- ISL Scavenger Hunt\n- ISL for Beginners\n- It’s Time to Dig Out Antique ISL\n- Sign or Hands Down and ISL Trivia\n\nSunday\, 28 September\n\n- ISL Scavenger Hunt\n- Begin Your ISL Journey\n- Deaf Theatre in the Hearing World\n- ISL Jam\n- Sing and Sign – Musical performance by Vasu Dixit Collective\n\n\n\nThis year’s International Week of Deaf People celebration at MAP is supported by Adobe Foundation.
+DTSTAMP:20250926T132823Z
+DESCRIPTION:In celebration of the International Week of Deaf People (IWDP) 2025\, MAP is collaborating with Hear a Million to organise a series of events to promote inclusivity\, awareness\, and engagement with the Deaf and Hard of Hearing communities. These events are designed to highlight Deaf culture\, advocate for accessibility\, and foster connections between the Deaf and hearing communities through workshops\, panel discussions\, trivia games\, scavenger hunts\, musical performances and more.\nIWDP 2025 EVENTS\nSaturday\, 27 September\n\n- ISL Scavenger Hunt\n- ISL for Beginners\n- It’s Time to Dig Out Antique ISL\n- Sign or Hands Down and ISL Trivia\n\nSunday\, 28 September\n\n- ISL Scavenger Hunt\n- Begin Your ISL Journey\n- Deaf Theatre in the Hearing World\n- ISL Jam\n- Sing and Sign – Musical performance by Vasu Dixit Collective\n\n&nbsp\;\n\nThis year’s International Week of Deaf People celebration at MAP is supported by Adobe Foundation and The Hongkong and Shanghai Banking Corporation Limited (HSBC).
 DTEND:20250928T140000Z
 DTSTART:20250927T043000Z
 SUMMARY:International Week of Deaf People (IWDP) 2025
@@ -198,6 +176,17 @@ DTSTART:20250927T123000Z
 SUMMARY:Sign or Hands Down and ISL Trivia
 UID:1028@map-india.org
 URL:https://map-india.org/map-events/sign-or-hands-down-and-isl-trivia/
+END:VEVENT
+BEGIN:VEVENT
+ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2025/09/Website-cover-images-new-18.png
+CATEGORIES:Drop-in Sessions,MAP,CBD
+DTSTAMP:20250918T100657Z
+DESCRIPTION:This session of Up\, Close and Center looks at one of the artworks by the renowned modernist painter Ram Kumar from the exhibition Shape of a Thought: Letters from Ram Kumar by curator Priya Chauhan.
+DTEND:20250930T120000Z
+DTSTART:20250930T113000Z
+SUMMARY:Up\, Close & Centre
+UID:1009@map-india.org
+URL:https://map-india.org/map-events/up-close-centre/
 END:VEVENT
 BEGIN:VEVENT
 ATTACH;FMTTYPE=image/jpeg:https://map-india.org/wp-content/uploads/2020/12/1440-X-810-Widget-06.jpg

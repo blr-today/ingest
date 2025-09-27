@@ -33,7 +33,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 350,
-    "remainingAttendeeCapacity": 246,
+    "remainingAttendeeCapacity": 238,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1131,7 +1131,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2100,7 +2100,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2196,7 +2196,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2664,52 +2664,6 @@
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEA49BD3C3D0425EAAB25558ACB8E321_converted_webp.webp"
     ],
-    "startDate": "2025-09-26T11:00:00+05:30",
-    "endDate": "2025-09-26T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
-      "latitude": "12.98010900000000000000",
-      "longitude": "77.63934970000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Atta Galatta",
-      "description": null,
-      "url": "https://urbanaut.app/partner/attagalatta",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-96325-10126"
-      }
-    },
-    "url": "https://urbanaut.app/spot/indie-ink-2025#2025-09-26T1100",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Indie Ink 2025",
-    "description": "Join us for Bazinega\u2019s Annual ZineFest \u2013 Indie Ink 2025. Explore zines from across India and the world, join hands-on workshops, listen to artist readings and learn from their creative walkthroughs, dive into panel discussions on independent publishing, and cast your vote at the Indie Ink Zine Awards.A celebration of creativity, community, and independent voices \u2014 this is where stories come alive!\u00a0",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEA49BD3C3D0425EAAB25558ACB8E321_converted_webp.webp"
-    ],
     "startDate": "2025-09-27T11:00:00+05:30",
     "endDate": "2025-09-27T18:30:00+05:30",
     "location": {
@@ -3105,11 +3059,11 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 37,
+    "remainingAttendeeCapacity": 31,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
-      "price": "999.00",
+      "price": "1299.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -3274,60 +3228,6 @@
     },
     "url": "https://urbanaut.app/spot/lahe-lahe-caravan-presents-harry-potter-book-disc",
     "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Oktoberfest at THE Park",
-    "description": "Oktoberfest at Aqua, The Park Bangalore is a community celebration of beer, food, and festivity. Bringing people together over frothy pints, hearty bites, and vibrant cheer, it offers an immersive Bavarian experience by the poolside. More than just a festival, it\u2019s a space to connect, raise a toast, and enjoy the spirit of Oktoberfest in the heart of the city.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/61CD323422C34DEFB66867FC462F8854_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/57E3CAE3AD9F451AA3DB6D033005DAC5_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3D975F8C840D40869D0D5C95BEC0425E_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1F72FE357A354EE4AE3E083A2B045A17_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/86F83758C12F47F0A905D37144771D48_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CE772DCE33DC4776B34B6B640A0CEAA2_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/513BD01B0CBD451F9BE92DFB476F3072_converted_webp.webp"
-    ],
-    "startDate": "2025-09-26T11:00:00+05:30",
-    "endDate": "2025-09-26T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "14/7, THE Park, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ67AqrJwWrjsRKwix2zjFOYA",
-      "latitude": "12.97398120000000000000",
-      "longitude": "77.61989000000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "THE Park Bangalore",
-      "description": "**Here\u2019s a condensed version of the text:**  THE Park, Bangalore is a luxury boutique hotel with 109 rooms. It offers various dining options like Monsoon (seasonal Indian cuisine), Aqua (poolside dining and tequila bar), Tap Room (craft beer), and I-Bar (cocktail lounge and nightclub).",
-      "url": "https://urbanaut.app/partner/theparkblr",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/449DE05ECDF145459E37C3C09EA7AC70_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-76250-34760"
-      }
-    },
-    "url": "https://urbanaut.app/spot/oktoberfest-at-the-park#2025-09-26T1100",
-    "keywords": [
-      "Festival",
-      "Pop-up Event",
-      "Food & drink",
       "URBANAUT"
     ]
   },
