@@ -96,6 +96,38 @@
     "endDate": "2025-10-01T21:30:00+05:30"
   },
   {
+    "name": "Pickleball with the Sisters (GoRally x SIS)",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Pickleball-Beginner-Thursday1-aug2",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Pickleball",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Pickleball-Beginner-Thursday1-aug2",
+    "image": "https://sistersinsweat.com/images/event/20250909171629828.jpg",
+    "location": {
+      "name": "GoRally Pickleball Indiranagar",
+      "address": "GoRally Pickleball Indiranagar (HAL Old Airport Rd)\u00a0 Exit Road, No 52 MSIL Building, Old Airport Rd, near Blue Dart",
+      "type": "Place"
+    },
+    "startDate": "2025-10-02T20:00:00+05:30",
+    "endDate": "2025-10-02T21:30:00+05:30"
+  },
+  {
     "name": "B'ball With Sisters - Intermediate",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Friday-01-Aug",
@@ -255,6 +287,38 @@
     "endDate": "2025-10-04T12:00:00+05:30"
   },
   {
+    "name": "Baddy Session-Mix Level",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Saturdays-aug",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Badminton",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Saturdays-aug",
+    "image": "https://sistersinsweat.com/images/event/20250909173051440.jpg",
+    "location": {
+      "name": "Game Theory - Double road",
+      "address": "Game Theory Double Road Indiranagar",
+      "type": "Place"
+    },
+    "startDate": "2025-10-04T14:00:00+05:30",
+    "endDate": "2025-10-04T16:00:00+05:30"
+  },
+  {
     "name": "Pretzel Making Workshop at German Brezelhaus",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Pretzel-Making-Workshop-Beginner-Saturday",
@@ -277,7 +341,7 @@
     },
     "sport": "Pretzel",
     "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-Pretzel-Making-Workshop-Beginner-Saturday",
-    "image": "https://sistersinsweat.com/images/event/20250926162700635.JPG",
+    "image": "https://sistersinsweat.com/images/event/20250929104730465.JPG",
     "location": {
       "name": "German BrezelHaus - Bakery & Bistro",
       "address": "Pretzel Making Workshop @ German Brezelhaus",
@@ -285,6 +349,69 @@
     },
     "startDate": "2025-10-04T15:00:00+05:30",
     "endDate": "2025-10-04T17:00:00+05:30"
+  },
+  {
+    "name": "Run Session",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-5-Oct",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Run",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-5-Oct",
+    "image": "https://sistersinsweat.com/images/event/20250412154311146.jpg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2025-10-05T06:45:00+05:30",
+    "endDate": "2025-10-05T08:15:00+05:30"
+  },
+  {
+    "name": "Yoga with Sisters & Misters",
+    "@type": "SocialEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Beginner-Sunday-September",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SESSION"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Beginner-Sunday-September",
+    "image": "https://sistersinsweat.com/images/event/20250909165925685.jpg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2025-10-05T08:30:00+05:30",
+    "endDate": "2025-10-05T09:45:00+05:30"
   },
   {
     "name": "Sisters & Misters Salsa Workshop",
@@ -309,7 +436,7 @@
     },
     "sport": "Bangalore",
     "description": "See more details at https://sistersinsweat.com/event-detail/Women-Men-Bangalore-Salsa-Beginner-Sunday",
-    "image": "https://sistersinsweat.com/images/event/20250926122851570.JPG",
+    "image": "https://sistersinsweat.com/images/event/20250929122502386.JPG",
     "location": {
       "name": "Palladium Dance Company",
       "address": "64 4th floor Maxburn Building 1st Main Rd, S.T. Bed, 1st Block Koramangala, Koramangala",
