@@ -606,54 +606,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Across the Seas",
-    "description": "Across the Seas brings together the worlds of Carnatic Violin and Minimalist Piano in a soulful approach with several original cross-genre experiments. It blends the technical features of both genres into emotional compositions. Come be part of a night where two worlds of music meet to create something new, heartfelt, and unforgettable.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/68A8B1B205E146EEAEFAEA7770807B72_converted_webp.webp"
-    ],
-    "startDate": "2025-09-29T19:00:00+05:30",
-    "endDate": "2025-09-29T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
-      "latitude": "12.98348400000000000000",
-      "longitude": "77.61101699999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 66,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "350.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Across the Seas",
-      "description": null,
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4F58A838FFF5467A87EC331D3853A140_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-96063-83871"
-      }
-    },
-    "url": "https://urbanaut.app/spot/across-the-seas",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Basic Pencil Sketching Workshop",
     "description": "Basic Pencil Sketching Workshop - This isn\u2019t just about sketching \u2014 it\u2019s about slowing down, focusing your mind, and surprising yourself with what you can create.If you can hold a pencil, you can start here.Why This Event? - Always wanted to sketch but didn\u2019t know where to begin?This workshop is designed for people who think they \"can\u2019t draw\" \u2014 no experience needed. You'll learn the fundamentals of pencil sketching in a supportive, beginner-friendly space, with step-by-step guidance throughout.Whether it\u2019s your first time sketching or you\u2019re just looking to restart an old hobby, this session will help you understand the basics \u2014 and walk away with your own finished portrait.Duration : 3 hours (180\u2013190 minutes)Enough time to learn, practice, and complete your first portrait with support.All basic art supplies will be provided during the session: Pencil set, Sharpener, Eraser, Blending tools, 4 sheets of sketching paperJust bring yourself \u2014 we\u2019ll take care of the rest.What You\u2019ll Learn & Take Away:Basics of pencil shading & stroke controlScience behind smooth blendingTools & techniques to create contrast and highlightsOne complete basic pencil portrait (made by you)Confidence to continue sketching at homeWho Can Join : Absolute beginners - Anyone aged 12 to 75 years- No prior drawing experience neededAbout the Host : Bharani Elangovan is a self-taught artist with 9+ years of experience in pencil sketching and hyperrealistic art. With a calm and clear teaching style, Bharani focuses on helping beginners understand why each technique works \u2014 making sketching approachable and enjoyable for everyone.",
     "image": [
@@ -4003,6 +3955,55 @@
       "Premium",
       "Responsible",
       "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "name": "Film Screening - Titane",
+    "description": "Titane (2021)By Julia Ducournau / 104' / French with Eng subsFollowing a series of unexplained crimes, a father is reunited with the son who has been missing for 10 years. Titane : A metal highly resistant to heat and corrosion, with high tensile strength alloys.\u00a0Julia Ducournau\u2019s Palme d\u2019Or-winner is a jaw-dropping blast of Cronenbergian gothic. Conceptually audacious and dripping with insouciant attitude, Titane ignites a Molotov cocktail of gender politics, familial compassion, and female desire. ",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C4A21135C5194630A80C42C6FE1CB94B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/ABDF0D11CD604DBEB7D43E7188738AB7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FCA186A2CD3D48AFBD97D3232309B4B8_converted_webp.webp"
+    ],
+    "startDate": "2025-10-04T19:00:00+05:30",
+    "endDate": "2025-10-04T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 125,
+    "remainingAttendeeCapacity": 125,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bangalore Film Forum",
+      "description": "An arthouse film club showcasing Contemporary, Independent, Foreign and Classic films. Bangalore, India.",
+      "url": "https://urbanaut.app/partner/bff",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E6294D5A15C94A03A2F9A639710F9542_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-95355-51953"
+      }
+    },
+    "url": "https://urbanaut.app/spot/bfftitane",
+    "keywords": [
+      "History & heritage",
+      "Art & culture",
       "URBANAUT"
     ]
   }
