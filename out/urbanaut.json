@@ -3952,5 +3952,52 @@
       "Art & culture",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "name": "Film Screening - Enys Men",
+    "description": "Enys Men (2022)By Mark JenkinA wildlife volunteer on an uninhabited island off the British coast descends into a terrifying madness that challenges her grip on reality and pushes her into a living nightmare.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3D6AE6C0B5414386B7CF640EDD9F02B4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/212A67A8022348F8ADDC9264B504D1E2_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BB569A767F764738B2126BD3EC9F0B0E_converted_webp.webp"
+    ],
+    "startDate": "2025-10-18T21:30:00+05:30",
+    "endDate": "2025-10-18T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
+      "latitude": "12.98348400000000000000",
+      "longitude": "77.61101699999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 100,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bangalore Film Forum",
+      "description": "An arthouse film club showcasing Contemporary, Independent, Foreign and Classic films. Bangalore, India.",
+      "url": "https://urbanaut.app/partner/bff",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E6294D5A15C94A03A2F9A639710F9542_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-95355-51953"
+      }
+    },
+    "url": "https://urbanaut.app/spot/bff-em",
+    "keywords": [
+      "URBANAUT"
+    ]
   }
 ]
