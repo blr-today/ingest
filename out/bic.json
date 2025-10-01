@@ -139,23 +139,30 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "79979-1761157800-1761165000@bangaloreinternationalcentre.org",
-    "name": "The Rasika",
-    "startDate": "2025-10-22T18:30:00+05:30",
-    "endDate": "2025-10-22T20:30:00+05:30",
-    "description": "What do you really see when a classical dancer takes the stage? \nIs it the beauty of the movement, the rhythm of the music, or the story unfolding before your eyes? This evening invites you to look closer, to discover the richness within Indian classical dance; the traditional repertoire, the interplay of melody and rhythm, the subtle gestures that carry meaning, and the role of texts that shape interpretation. \nGuided by Dr. Sahana Das, a seasoned choreographer and researcher, the session opens up the world of classical dance in ways that both newcomers and longtime rasikas can enjoy. Adding depth and texture are dancers Kirti Ramgopal and Meghna Das, who bring their own artistry in Bharatanatyam and Odissi to the conversation. \nThrough reflection and performance, the evening gently unravels the intricacies of these timeless traditions, reminding us that dance is not just to be seen: it is to be experienced, understood, and felt! \n",
-    "url": "https://bangaloreinternationalcentre.org/event/the-rasika/",
+    "@type": "TheaterEvent",
+    "@id": "80013-1759662000-1759669200@bangaloreinternationalcentre.org",
+    "name": "Adventures in Friendship",
+    "startDate": "2025-10-05T11:00:00+05:30",
+    "endDate": "2025-10-05T13:00:00+05:30",
+    "description": "Step into a world where stories come alive! \nThis playful, imaginative psychodrama workshop invites children (ages 8\u201312)\u00a0and\u00a0their parents into a delightful exploration of friendship through three beloved tales\u2014The Musicians of Bremen,\u00a0Krishna and Sudama, and\u00a0The Monkey and the Crocodile. Together, we\u2019ll jump into the roles of these memorable characters, improvising new meanings and alternative endings, while joyfully navigating friendship\u2019s adventures, challenges, and deeper meanings. \nExpect laughter, noise, creativity, and quiet reflections as we uncover essential lessons about friendship. Two unforgettable hours spent deepening bonds through story, play, and shared discovery. \nAround the World in 50 Sundays\u00a0is a journey that begins, not with a ticket, but with opening a book. In a city like Bangalore where families are always in motion, the BIC Library hopes to offer stillness and a quiet, welcoming space for both parents and children where reading becomes a shared way of being and not a task. \nEvery Sunday, we open our doors to invite you into a library that listens; building a rhythm of return, a habit of joy and a new community bound not just by books, but by the weekly ritual of reading together. \nIn collaboration with:\n \nSupported by:\n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/adventures-in-friendship/",
     "keywords": [
-      "Culture",
-      "Dance"
+      "Around the World in 50 Sundays",
+      "Children's Books",
+      "Performing Arts",
+      "Theatre",
+      "Workshops"
     ],
     "location": {
       "@type": "Place",
       "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
     "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_TR.jpg"
+    "workPerformed": {
+      "@type": "TheaterPlay",
+      "name": "Adventures in Friendship"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-30-2.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -224,53 +231,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "@id": "80002-1759685400-1759690800@bangaloreinternationalcentre.org",
-    "name": "The Celestial Dance",
-    "startDate": "2025-10-05T17:30:00+05:30",
-    "endDate": "2025-10-05T19:00:00+05:30",
-    "description": "The ancient Indian Panchanga, or Hindu calendar, is a remarkable synthesis of astronomy, mathematics, and cultural tradition. This unique event brings it alive using modern Stellarium astronomy software, where celestial movements will be visualised through simple planetary animations. \nParticipants will learn the meaning of terms like\u00a0Masa, Paksha, Tithi, and Nakshatra, and discover why our festivals shift dates each year, why months have 30 or 31 days, why there are 12 zodiac signs, and why exactly 27 nakshatras govern the skies. These everyday questions find their answers in the ingenious design of the Panchanga. \nThe session also highlights the rich heritage of the Hindu school of astronomy. Flourishing for over 1,500 years and reaching a peak during the Vijayanagar period, with Kerala as its vibrant epicenter, this tradition produced profound insights into planetary motion and time. The ancient text\u00a0Surya Siddhanta\u00a0went even further, defining multiple scales of time\u2014from a human day (sunrise to sunrise), to a day of the Pitrs (a lunar month), to a day of the gods (a solar year). It even stretched the imagination to the grand cosmic cycles of\u00a0parardha\u2014155.52 trillion years\u2014down to the fleeting span of\u00a0prana, a few seconds. \nBy blending science with storytelling, speaker\u00a0S. Kishore Kumar\u00a0will reveal how the Hindu calendar is not just a tool for marking festivals, but a timeless scientific framework that connects human life to the rhythms of the cosmos. \nPresented by:\n \nSupported by:\n  \n",
-    "url": "https://bangaloreinternationalcentre.org/event/the-celestial-dance/",
-    "keywords": [
-      "Philosophy",
-      "Technology"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_TCD-1.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "TheaterEvent",
-    "@id": "80013-1759662000-1759669200@bangaloreinternationalcentre.org",
-    "name": "Adventures in Friendship",
-    "startDate": "2025-10-05T11:00:00+05:30",
-    "endDate": "2025-10-05T13:00:00+05:30",
-    "description": "Step into a world where stories come alive! \nThis playful, imaginative psychodrama workshop invites children (ages 8\u201312)\u00a0and\u00a0their parents into a delightful exploration of friendship through three beloved tales\u2014The Musicians of Bremen,\u00a0Krishna and Sudama, and\u00a0The Monkey and the Crocodile. Together, we\u2019ll jump into the roles of these memorable characters, improvising new meanings and alternative endings, while joyfully navigating friendship\u2019s adventures, challenges, and deeper meanings. \nExpect laughter, noise, creativity, and quiet reflections as we uncover essential lessons about friendship. Two unforgettable hours spent deepening bonds through story, play, and shared discovery. \nAround the World in 50 Sundays\u00a0is a journey that begins, not with a ticket, but with opening a book. In a city like Bangalore where families are always in motion, the BIC Library hopes to offer stillness and a quiet, welcoming space for both parents and children where reading becomes a shared way of being and not a task. \nEvery Sunday, we open our doors to invite you into a library that listens; building a rhythm of return, a habit of joy and a new community bound not just by books, but by the weekly ritual of reading together. \nIn collaboration with:\n \nSupported by:\n \n",
-    "url": "https://bangaloreinternationalcentre.org/event/adventures-in-friendship/",
-    "keywords": [
-      "Around the World in 50 Sundays",
-      "Children's Books",
-      "Performing Arts",
-      "Theatre",
-      "Workshops"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "TheaterPlay",
-      "name": "Adventures in Friendship"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-30-2.jpg"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "ScreeningEvent",
     "@id": "80174-1760034600-1760043600@bangaloreinternationalcentre.org",
     "name": "\u0cb8\u0c82\u0c97\u0cae | Sangama | Coming Together",
@@ -297,11 +257,72 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "@id": "80002-1759685400-1759690800@bangaloreinternationalcentre.org",
+    "name": "The Celestial Dance",
+    "startDate": "2025-10-05T17:30:00+05:30",
+    "endDate": "2025-10-05T19:00:00+05:30",
+    "description": "Can ancient astronomy teach us how to measure both a second and a trillion years? \nIn this special session, astronomy enthusiast S Kishore Kumar brings the ancient Indian Panchanga (the Hindu calendar) alive through modern Stellarium software. Celestial movements unfold as vivid animations, making complex ideas simple and visual. Participants will learn the meaning of terms like Masa, Paksha, Tithi, and Nakshatra, and discover why festivals shift dates each year, why zodiac signs number twelve, and why cosmic rhythms still shape our daily lives. \nThe Panchanga is more than an almanac; it is a scientific framework linking human life to the cosmos. For over 1,500 years Indian astronomy thrived, reaching a peak in Vijayanagar and Kerala, charting planetary motions with astonishing precision. Texts like the Surya Siddhanta imagined time on scales from a fleeting breath (prana) to a cosmic cycle (parardha) spanning 155.52 trillion years. \nThrough a blend of science and storytelling, S. Kishore Kumar reveals how this timeless tradition connects us to the universe.\u00a0 \nStep in, and witness time unfold! \nPresented by:\n \nSupported by:\n  \n",
+    "url": "https://bangaloreinternationalcentre.org/event/the-celestial-dance/",
+    "keywords": [
+      "Philosophy",
+      "Technology"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_TCD-1.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "80257-1760266800-1760272200@bangaloreinternationalcentre.org",
+    "name": "Planet of the Apps",
+    "startDate": "2025-10-12T11:00:00+05:30",
+    "endDate": "2025-10-12T12:30:00+05:30",
+    "description": "A cab in five minutes. Groceries in ten. Biryani in twenty.\u00a0 \nWho really powers your fast, effortless digital life?\n\nOTP Please! (Penguin Random House) uncovers the hidden human stories behind South Asia\u2019s booming app economy. Vandana Vasudevan takes readers into the lives of gig workers racing against the clock, small sellers navigating the algorithm, and the restless customers who keep tapping \u2018Order Now.\u2019 From India\u2019s hyperlocal delivery boys to Pakistan\u2019s ride-hail drivers, Nepal\u2019s app startups to Bangladesh\u2019s e-marketplace sellers, the book reveals the invisible ecosystem that fuels our digital ease \u2013 and the costs it quietly extracts. \nVandana will be in conversation with Mekin Maheshwari, serial entrepreneur, early Flipkart leader, and Founder & CEO of Udhyam Learning Foundation, exploring the realities, challenges, and humanity behind the apps we use every day. \nAn insightful evening unpacking the human side of technology, offering perspectives that linger long after the screen goes dark. \n",
+    "url": "https://bangaloreinternationalcentre.org/event/planet-of-the-apps/",
+    "keywords": [
+      "Books",
+      "Business",
+      "Technology"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-OTP.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "79979-1761157800-1761165000@bangaloreinternationalcentre.org",
+    "name": "The Rasika",
+    "startDate": "2025-10-22T18:30:00+05:30",
+    "endDate": "2025-10-22T20:30:00+05:30",
+    "description": "What do you really see when a classical dancer takes the stage? \nIs it the beauty of the movement, the rhythm of the music, or the story unfolding before your eyes? This evening invites you to look closer, to discover the richness within Indian classical dance; the traditional repertoire, the interplay of melody and rhythm, the subtle gestures that carry meaning, and the role of texts that shape interpretation. \nGuided by Dr. Sahana Das, a seasoned choreographer and researcher, the session opens up the world of classical dance in ways that both newcomers and longtime rasikas can enjoy. Adding depth and texture are dancers Kirti Ramgopal and Meghna Das, who bring their own artistry in Bharatanatyam and Odissi to the conversation. \nThrough reflection and performance, the evening gently unravels the intricacies of these timeless traditions, reminding us that dance is not just to be seen: it is to be experienced, understood, and felt! \n",
+    "url": "https://bangaloreinternationalcentre.org/event/the-rasika/",
+    "keywords": [
+      "Culture",
+      "Dance"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_TR.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "@id": "80230-1760639400-1760647500@bangaloreinternationalcentre.org",
     "name": "Navalny",
     "startDate": "2025-10-16T18:30:00+05:30",
     "endDate": "2025-10-16T20:45:00+05:30",
-    "description": "98 minutes | English, Russian and German | 2022 \nEnthralling and intimate, the Oscar-winning documentary Navalny, directed by Daniel Roher, unfolds with the pace of a thriller as it follows Russian opposition leader Alexey Navalny in his quest to identify the men who poisoned him in August 2020. Shot in Germany as the story unfolded, the film offers extraordinary access to the investigation while also portraying Navalny the man\u2014a reformist leader who refuses to be cowed, even by an assassination attempt. \nThe documentary takes viewers inside the meticulous investigation into the shocking poisoning, revealing who was behind it. Navalny\u2019s years-long campaign against corruption among Russia\u2019s elites has earned him powerful enemies, particularly Vladimir Putin, who pointedly refuses to utter his name in public. In August 2020, Navalny was poisoned with a military-grade nerve agent in an elaborate attempt on his life. Despite official denials, independent investigations by Bellingcat, CNN, and others later linked the attack to the Kremlin. \nThe film Navalny is produced by Odessa Rae (RaeFilm Studios), Diane Becker and Melanie Miller (Fishbowl Films), Shane Boris (Cottage M), and Amy Entelis and Courtney Sexton (CNN Films), with Maria Pevchikh as executive producer. \nFollowing the screening, a discussion between Aakar Patel and Swati Dandekar will take place, followed by an audience Q&A. \nPlease note: director Daniel Roher will not be present. \nViewer discretion: Children under 17 are restricted from viewing the film unless accompanied by an adult. \nIn collaboration with: \n \n",
+    "description": "98 minutes | English, Russian and German | 2022 \nEnthralling and intimate, the Oscar-winning documentary Navalny, directed by Daniel Roher, unfolds with the pace of a thriller as it follows Russian opposition leader Alexey Navalny in his quest to identify the men who poisoned him in August 2020. Shot in Germany as the story unfolded, the film offers extraordinary access to the investigation while also portraying Navalny the man\u2014a reformist leader who refuses to be cowed, even by an assassination attempt. \nThe documentary takes viewers inside the meticulous investigation into the shocking poisoning, revealing who was behind it. Navalny\u2019s years-long campaign against corruption among Russia\u2019s elites has earned him powerful enemies, particularly Vladimir Putin, who pointedly refuses to utter his name in public. In August 2020, Navalny was poisoned with a military-grade nerve agent in an elaborate attempt on his life. Despite official denials, independent investigations by Bellingcat, CNN, and others later linked the attack to the Kremlin. \nThe film Navalny is produced by Odessa Rae (RaeFilm Studios), Diane Becker and Melanie Miller (Fishbowl Films), Shane Boris (Cottage M), and Amy Entelis and Courtney Sexton (CNN Films), with Maria Pevchikh as executive producer. \nFollowing the screening, a discussion between Aakar Patel and Swati Dandekar will take place, followed by an audience Q&A. \nPlease note: Director Daniel Roher will not be present. \nViewer discretion: Children under 17 are restricted from viewing the film unless accompanied by an adult. \nIn collaboration with: \n \n",
     "url": "https://bangaloreinternationalcentre.org/event/navalny/",
     "keywords": [
       "Film",
