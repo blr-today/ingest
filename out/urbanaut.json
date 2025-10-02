@@ -4056,5 +4056,59 @@
       "Food & drink",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pint of View (Lecture 7): Off-roading on Mars",
+    "description": "Welcome to Pint of View \u2013 Bangalore's first-ever community where classroom-styled lectures meet craft cocktails in pubs and bars.In our seventh lecture, we\u2019re bringing you Nimisha Mittal, a veteran space systems engineer with over 15 years of experience at NASA\u2019s Jet Propulsion Laboratory (JPL). She led operations and testing for some of the world\u2019s most ambitious robotic missions including the Cassini mission at Saturn, three of NASA's five Mars rovers, the Insight Mars lander, and most recently the NASA-ISRO SAR mission, NISAR. After a career of exploring the solar system,\u00a0she's just completed her own mission of relocating to India. With engineering degrees from UT Austin and Stanford, she's now turning her attention from exploring other worlds to helping build the future of the Indian space industry.Her talk, Off-roading on an Alien World: Martian Tales from a Former NASA Engineer, dives into the thrill of driving robots across another planet and the bigger question of why Mars captivates us so deeply. Is it the search for life, the dream of a second home, or something even more profound? With insider stories from her time on the Mars mission, she takes us through what a day on the Red Planet really looks like, the challenges of remote space exploration, and even what it takes to earn a Martian Driver\u2019s License.Come find out, and bring your questions \u2014 from whether humans can truly settle on Mars to what snacks power a NASA engineer through a 12-hour shift.All of this, over Geist beer on tap at Jamming Goat 3.0, Indiranagar! \ud83c\udf7bWhat to Expect:A 60-minute lecture on the realities of life on the Red Planet, from exploration to insider NASA stories15\u201320 minutes of interactive Q&AOne Geist beer on tap or a mocktail included with your ticketA lively mixer to share your insightsEvent Details:\ud83d\udcc5 Sunday, 5th October | 4 PM \u2013 6 PM\ud83d\udccd Jamming Goat 3.0, Indiranagar\ud83c\udfab Limited to 60 attendees only\ud83d\udcb0 Early bird pricing available for the first 10 ticketsAbout the LecturerNimisha Mittal is a veteran space systems engineer with over 15 years of experience at NASA\u2019s Jet Propulsion Laboratory (JPL), where she led operations and testing for some of the world\u2019s most ambitious robotic missions including the Cassini mission at Saturn, three of NASA's five Mars rovers, the Insight Mars lander, and most recently the NASA-ISRO SAR mission NISAR. After a career of exploring the solar system,\u00a0she's just completed her own mission of relocating to India. With engineering degrees from UT Austin and Stanford, she's now turning her attention from exploring other worlds to helping build the future of the Indian space industry.About Pint of ViewInspired by the successful Lectures on Tap community in the U.S., Pint of View brings this format to India for the first time. It\u2019s where big ideas meet bar tables, and where you enjoy a drink in hand while walking out with a new way of seeing the world.Book now & develop your own pint of view! \ud83c\udf7b",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4056D26BFCC44E499185E96CDE4C216C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D69DAF95DAE649A99D56372D1B1A8CB1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/67EBD2B07E0946689636E383A113FE11_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7D0219DACBC44A698D23649F194047C0_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9C8815F66B76475DA64C9E70138D4318_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8294D1F3B410434986DD66E1EA6AF125_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5E107F9BC3A34D619B14C6449671B7FA_converted_webp.webp"
+    ],
+    "startDate": "2025-10-12T16:00:00+05:30",
+    "endDate": "2025-10-12T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2010 PID- 74-1, 1st & 2nd floor, 2010, 100 Feet Rd, Hal, second stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJYUH8kPIVrjsRMM5T_nx6Stc",
+      "latitude": "12.96535630000000000000",
+      "longitude": "77.64178319999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 90,
+    "remainingAttendeeCapacity": 88,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "799.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pint of View, Bengaluru",
+      "description": "Welcome to Pint of View \u2013 Bangalore's first-ever community where cutting-edge science meets craft beer. Inspired by the successful Lectures on Tap movement in the US, Pint of View is bringing this revolutionary format to India for the very first time.",
+      "url": "https://urbanaut.app/partner/pintofview",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CAD0DF9888C64EC8BBE31A279636551B_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99583-40757"
+      }
+    },
+    "url": "https://urbanaut.app/spot/pint-of-view-lecture-7-off-roading-on-mars",
+    "keywords": [
+      "Leisure",
+      "Premium",
+      "Food & drink",
+      "URBANAUT"
+    ]
   }
 ]
