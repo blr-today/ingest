@@ -33,7 +33,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 350,
-    "remainingAttendeeCapacity": 207,
+    "remainingAttendeeCapacity": 179,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -781,7 +781,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 1000,
-    "remainingAttendeeCapacity": 907,
+    "remainingAttendeeCapacity": 900,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1120,7 +1120,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1601,7 +1601,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 19,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1854,7 +1854,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1903,7 +1903,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 1,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2034,60 +2034,6 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CE772DCE33DC4776B34B6B640A0CEAA2_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/513BD01B0CBD451F9BE92DFB476F3072_converted_webp.webp"
     ],
-    "startDate": "2025-10-03T11:00:00+05:30",
-    "endDate": "2025-10-03T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "14/7, THE Park, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ67AqrJwWrjsRKwix2zjFOYA",
-      "latitude": "12.97398120000000000000",
-      "longitude": "77.61989000000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "THE Park Bangalore",
-      "description": "**Here\u2019s a condensed version of the text:**  THE Park, Bangalore is a luxury boutique hotel with 109 rooms. It offers various dining options like Monsoon (seasonal Indian cuisine), Aqua (poolside dining and tequila bar), Tap Room (craft beer), and I-Bar (cocktail lounge and nightclub).",
-      "url": "https://urbanaut.app/partner/theparkblr",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/449DE05ECDF145459E37C3C09EA7AC70_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-76250-34760"
-      }
-    },
-    "url": "https://urbanaut.app/spot/oktoberfest-at-the-park#2025-10-03T1100",
-    "keywords": [
-      "Festival",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Oktoberfest at THE Park",
-    "description": "Oktoberfest at Aqua, The Park Bangalore is a community celebration of beer, food, and festivity. Bringing people together over frothy pints, hearty bites, and vibrant cheer, it offers an immersive Bavarian experience by the poolside. More than just a festival, it\u2019s a space to connect, raise a toast, and enjoy the spirit of Oktoberfest in the heart of the city.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/61CD323422C34DEFB66867FC462F8854_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/57E3CAE3AD9F451AA3DB6D033005DAC5_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3D975F8C840D40869D0D5C95BEC0425E_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1F72FE357A354EE4AE3E083A2B045A17_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/86F83758C12F47F0A905D37144771D48_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CE772DCE33DC4776B34B6B640A0CEAA2_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/513BD01B0CBD451F9BE92DFB476F3072_converted_webp.webp"
-    ],
     "startDate": "2025-10-04T11:00:00+05:30",
     "endDate": "2025-10-04T21:00:00+05:30",
     "location": {
@@ -2101,7 +2047,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 99,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2203,7 +2149,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2253,7 +2199,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 160,
-    "remainingAttendeeCapacity": 158,
+    "remainingAttendeeCapacity": 155,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2487,7 +2433,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -2579,7 +2525,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 45,
+    "remainingAttendeeCapacity": 44,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2768,7 +2714,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3390,7 +3336,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 80,
+    "remainingAttendeeCapacity": 77,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3419,61 +3365,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Pint of View (Lecture 6): Deja Oops",
-    "description": "Welcome to Pint of View \u2013 Bangalore's first-ever community where classroom-styled lectures meet craft cocktails in pubs and bars.In our sixth lecture, we\u2019re bringing you Dr. Sumyuktha Anand, a neuroscientist and science communicator who calls herself a neuroscience nerd. She has explored everything from addiction and reward circuits to the neuroscience of brain tumors, and while she earned her Ph.D. in Molecular and Cellular Biology, what excites her most is stepping outside the lab to share just how fascinating our brains really are. Passionate about making science accessible, Sumyuktha brings the marvels of neuroscience to non-specialist communities and now, to you \u2014 over a pint.Her talk, D\u00e9j\u00e0 Oops: Why Neuroscience Says Your Memory Can\u2019t Be Trusted, dives into the quirks of memory and the science of neuroplasticity. We like to think of memory as a reliable archive, but the truth is it\u2019s constantly being rewritten, distorted, and reinvented by our brains. Why does this happen? What does it say about how our brains work? And how does this \u201cunreliability\u201d help us more than it harms us?Come find out, and bring your questions \u2014 from everyday forgetfulness to the bigger mysteries of how memory shapes identity.All of this, over Geist beer on tap at Jamming Goat 3.0, Indiranagar! \ud83c\udf7bWhat to Expect:A 60-minute lecture on memory, neuroplasticity, and why our brains misremember15\u201320 minutes of interactive Q&AOne Geist beer on tap or a mocktail included with your ticketA lively mixer to share your insights, laugh over your \u201coops\u201d moments, and walk away seeing your memory in a whole new wayEvent Details:\ud83d\udcc5 Sunday, 5th October | 4 PM \u2013 6 PM\ud83d\udccd Jamming Goat 3.0, Indiranagar\ud83c\udfab Limited to 60 attendees only\ud83d\udcb0 Early bird pricing available for the first 10 ticketsAbout the LecturerDr. Sumyuktha Anand is a neuroscientist and science communicator who has researched topics ranging from addiction and reward circuits to brain tumors. With a Ph.D. in Molecular and Cellular Biology, she is passionate about making brain science fun and accessible beyond academic circles \u2014 through teaching, writing, and now, with Pint of View.About Pint of ViewInspired by the successful Lectures on Tap community in the U.S., Pint of View brings this format to India for the first time. It\u2019s where big ideas meet bar tables, and where you enjoy a drink in hand while walking out with a new way of seeing the world.Book now & develop your own pint of view! \ud83c\udf7b",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F302811209C14646BFE77A49A826FBFA_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D69DAF95DAE649A99D56372D1B1A8CB1_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/57B5BE32F4984578B04C1D947BB78662_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/67EBD2B07E0946689636E383A113FE11_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7D0219DACBC44A698D23649F194047C0_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9C8815F66B76475DA64C9E70138D4318_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8294D1F3B410434986DD66E1EA6AF125_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5E107F9BC3A34D619B14C6449671B7FA_converted_webp.webp"
-    ],
-    "startDate": "2025-10-05T16:00:00+05:30",
-    "endDate": "2025-10-05T18:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "2010 PID- 74-1, 1st & 2nd floor, 2010, 100 Feet Rd, Hal, second stage, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJYUH8kPIVrjsRMM5T_nx6Stc",
-      "latitude": "12.96535630000000000000",
-      "longitude": "77.64178319999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 82,
-    "remainingAttendeeCapacity": 3,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1299.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Pint of View, Bengaluru",
-      "description": "Welcome to Pint of View \u2013 Bangalore's first-ever community where cutting-edge science meets craft beer. Inspired by the successful Lectures on Tap movement in the US, Pint of View is bringing this revolutionary format to India for the very first time.",
-      "url": "https://urbanaut.app/partner/pintofview",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CAD0DF9888C64EC8BBE31A279636551B_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99583-40757"
-      }
-    },
-    "url": "https://urbanaut.app/spot/pint-of-view-lecture-6-deja-oops",
-    "keywords": [
-      "Leisure",
-      "Premium",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "AG Lit Sisters",
     "description": "Representation in literature is more than just visibility. It\u2019s about authenticity, dignity, and the power of stories to shape perspectives. This October, the AG Lit Sisters gather to explore how LGBTQ+ voices have been portrayed across genres, from tender romances and fierce memoirs to bold contemporary fiction.Through discussion and reflection, we\u2019ll celebrate the importance of diverse narratives while questioning the stereotypes and silences that still exist in publishing. Together, we\u2019ll ask: When did literature first help you \u201csee\u201d LGBTQ+ representation? And what did it change in you?Whether you\u2019re a reader, writer, or ally, this is a safe space to sip coffee, exchange ideas, and celebrate the many hues of the human experience.\u2728 Come join us. Let\u2019s read beyond the rainbow.To complete registration please use the hosts link:  https://forms.gle/6FLYgSGyCzo86yxUA\u00a0",
@@ -3493,7 +3384,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 13,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3539,7 +3430,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 142,
+    "remainingAttendeeCapacity": 140,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3589,7 +3480,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 125,
-    "remainingAttendeeCapacity": 88,
+    "remainingAttendeeCapacity": 85,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3684,7 +3575,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 79,
+    "remainingAttendeeCapacity": 77,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3779,7 +3670,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 48,
+    "remainingAttendeeCapacity": 45,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3830,7 +3721,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3933,7 +3824,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 90,
-    "remainingAttendeeCapacity": 78,
+    "remainingAttendeeCapacity": 59,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
