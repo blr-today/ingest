@@ -218,7 +218,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants entry to 1 individual at the event.\nAdditional cover charge applicable at gate. Redeemable on F&B",
-            "inventoryLevel": 50,
+            "inventoryLevel": 48,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/monkey-shoulder-sync-avantika-b2b-rahimtula"
          },
@@ -256,32 +256,7 @@
          "name": "High Ultra Lounge"
       },
       "name": "After party ft. Ranjana",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges applicable post 9.30 PM\n",
-            "inventoryLevel": 100,
-            "name": "Ladies Free Entry",
-            "url": "https://www.skillboxes.com/events/ticket/after-party-ft-ranjana"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges applicable post 9.00PM\n",
-            "inventoryLevel": 200,
-            "name": "Couple Free Entry",
-            "url": "https://www.skillboxes.com/events/ticket/after-party-ft-ranjana"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover Charges of INR 1500 applicable at venue. Cover Charges increase post 10.30PM\nP",
-            "inventoryLevel": 200,
-            "name": "Male Guestlist",
-            "url": "https://www.skillboxes.com/events/ticket/after-party-ft-ranjana"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2025-10-04T18:00:00",
       "url": "https://www.skillboxes.com/events/after-party-ft-ranjana"
    },
@@ -311,61 +286,13 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 85,
+            "inventoryLevel": 83,
             "name": "Premier League Screening Pass",
             "url": "https://www.skillboxes.com/events/ticket/liverpool-fc-vs-chelsea-fc-live-screening-watson-s-indiranagar"
          }
       ],
       "startDate": "2025-10-04T22:00:00",
       "url": "https://www.skillboxes.com/events/liverpool-fc-vs-chelsea-fc-live-screening-watson-s-indiranagar"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "The Friday Switch Bollywood party at FLO Church Street in Bangalore sounds like a blast! Here's what you need to know:*Event Highli",
-      "endDate": "2025-10-04T01:00:00",
-      "identifier": "com.skillboxes.28917",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VGkxYzZrUlBlNk4vU1Y0SGtqcGJWQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1759309506YcIcDKtFd3BLX36H.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "MSR Building, FLO, #3, Church St, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9743377",
-            "longitude": "77.6068167"
-         },
-         "name": "FLO Church Street"
-      },
-      "name": "Friday switch",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Male",
-            "url": "https://www.skillboxes.com/events/ticket/friday-switch-8"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Female",
-            "url": "https://www.skillboxes.com/events/ticket/friday-switch-8"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "Couples",
-            "url": "https://www.skillboxes.com/events/ticket/friday-switch-8"
-         }
-      ],
-      "startDate": "2025-10-03T20:00:00",
-      "url": "https://www.skillboxes.com/events/friday-switch-8"
    },
    {
       "@context": "https://schema.org",
@@ -461,10 +388,10 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bass Essence Vol 4 Ft. TWINBOYS ",
+      "description": "Bass Essence Vol 4 Ft. TWINBOYS ",
       "endDate": "2025-10-18T23:59:00",
       "identifier": "com.skillboxes.28886",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1759241289s8DxU0mSv2LDUnoc.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1759500257A9PifphmoaZnNrWQ.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
@@ -484,14 +411,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 996,
+            "inventoryLevel": 995,
             "name": "Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/bass-essence-vol-4-ft-twinboys"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/bass-essence-vol-4-ft-twinboys"
          },
@@ -533,7 +460,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Admission to the event is on a first-come, first-served basis.\n",
-            "inventoryLevel": 514,
+            "inventoryLevel": 242,
             "name": "RSVP Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-ultimate-formula-1-fan-park-with-heineken-0-0"
          }
@@ -567,7 +494,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 87,
+            "inventoryLevel": 86,
             "name": "F1 Screening Pass",
             "url": "https://www.skillboxes.com/events/ticket/f1-singapore-grand-prix-2025-live-screening-watson-s-indiranagar-bangalore"
          }
@@ -688,7 +615,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory INR 2000 cover charge applicable at the gates.\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Early Bird Ticket (Couple)",
             "url": "https://www.skillboxes.com/events/ticket/stephan-jolk"
          }
@@ -885,7 +812,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/zenker-brothers"
          },
@@ -933,7 +860,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 38,
+            "inventoryLevel": 37,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/khat-an-evening-of-letters"
          }
@@ -967,104 +894,13 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 996,
+            "inventoryLevel": 991,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/jackfruit-dance-party-ft-karun-rishi-sippy-that90skid-indiranagarsocial"
          }
       ],
       "startDate": "2025-10-04T20:00:00",
       "url": "https://www.skillboxes.com/events/jackfruit-dance-party-ft-karun-rishi-sippy-that90skid-indiranagarsocial"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Step into the After Hours experience as Kitty Ko and Redroom present an electrifying night of music and energy featuring AERES, with supporting acts Beat Inspector, Artblot, and Kish",
-      "endDate": "2025-10-04T01:30:00",
-      "identifier": "com.skillboxes.28760",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1758951757iOYdy30uFfLQq0Jb.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "",
-            "longitude": ""
-         },
-         "name": "To Be Decided"
-      },
-      "name": "Redroom Ft. AERES, BEAT INSPECTOR & MORE",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to one female.) Extra cover of inr 1000/- applicable post 10pm walk-in.\n",
-            "inventoryLevel": 49,
-            "name": "PHASE 1 FEMALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-aeres-beat-inspector-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to one couple.) Extra cover of inr 1000/- applicable post 10pm walk-in.\n",
-            "inventoryLevel": 50,
-            "name": "PHASE 1 COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-aeres-beat-inspector-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to one male.) Extra cover of inr 1000/- applicable post 10pm walk-in.\n",
-            "inventoryLevel": 50,
-            "name": "PHASE 1 MALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-aeres-beat-inspector-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to three female.) Extra cover of inr 1000/- per person applicable post 10pm walk-in.\n",
-            "inventoryLevel": 50,
-            "name": "GROUP OF 3 FEMALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-aeres-beat-inspector-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to two couple.) Extra cover of inr 1000/- per couple applicable post 10pm walk-in.\n",
-            "inventoryLevel": 50,
-            "name": "GROUP OF 2 COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-aeres-beat-inspector-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to three couple.) Extra cover of inr 1000/- per couple applicable post 10pm walk-in.\n",
-            "inventoryLevel": 50,
-            "name": "GROUP OF 3 COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-aeres-beat-inspector-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to three male.) Extra cover of inr 1000/- per person applicable post 10pm walk-in.\n",
-            "inventoryLevel": 50,
-            "name": "GROUP OF 3 MALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-aeres-beat-inspector-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to 5 male.) Extra cover of inr 1000/- per person  applicable post 10pm walk-in.\n",
-            "inventoryLevel": 50,
-            "name": "GROUP OF 5 MALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-aeres-beat-inspector-more"
-         }
-      ],
-      "startDate": "2025-10-03T19:00:00",
-      "url": "https://www.skillboxes.com/events/redroom-ft-aeres-beat-inspector-more"
    },
    {
       "@context": "https://schema.org",
@@ -1414,7 +1250,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Welcome to the Final Game\nThank you for being a part of 11 years!",
-            "inventoryLevel": 77,
+            "inventoryLevel": 69,
             "name": "One Girl Shy – End of Tour + 11th Anniversary Show",
             "url": "https://www.skillboxes.com/events/ticket/one-girl-shy-end-of-tour-11th-anniversary-show"
          }
@@ -1448,7 +1284,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 989,
+            "inventoryLevel": 978,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/raw-real-spacebar-with-support-by-yash-golcha"
          }
@@ -1606,7 +1442,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Good Times Room celebrates the finest of Bangalore's indie scene with the OGs Thermal And A Quarter and Swarathma, supported by Tulu language folk rockers Alva Kuuto. The lineup spans genres and bounda",
+      "description": "Good Times Room celebrates the finest of Bangalore's indie scene with the OGs Thermal And A Quarter and Swarathma, supported by Tulu language folk rockers Alva Kuuto. \r\n\r\n \r\n\r\nThe lineup spans genres and boundaries, mas",
       "endDate": "2025-10-17T23:59:00",
       "identifier": "com.skillboxes.28480",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1759234545nrfqwmOkiLa8RDxu.jpg.webp",
@@ -1630,7 +1466,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charges apply at gate, fully redeemable on FnB\n",
-            "inventoryLevel": 141,
+            "inventoryLevel": 129,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/good-times-room-featuring-taaq-swarathma-and-alva-kuuto-oafbiggigs-ed-2"
          },
@@ -1749,7 +1585,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 140,
+            "inventoryLevel": 137,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/freak-opera-anniversary"
          },
@@ -1791,7 +1627,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket admits one individual to the 6:00 PM show on 4th October.\n",
-            "inventoryLevel": 980,
+            "inventoryLevel": 965,
             "name": "Single Pass || 6 Pm",
             "url": "https://www.skillboxes.com/events/ticket/assisted-dating-aanchal-agrawal"
          },
@@ -1834,7 +1670,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM\n",
-            "inventoryLevel": 92,
+            "inventoryLevel": 90,
             "name": "Guestlist-Couple",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-my-friend-11th-oct-gawky-goose"
          },
@@ -1842,7 +1678,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 99,
+            "inventoryLevel": 98,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-my-friend-11th-oct-gawky-goose"
          }
@@ -1885,7 +1721,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory INR 1500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 994,
+            "inventoryLevel": 993,
             "name": "Phase 1 Couple",
             "url": "https://www.skillboxes.com/events/ticket/pandora-presents-aaron-sevilla"
          },
@@ -1919,6 +1755,14 @@
       },
       "name": "Dani Californication- A Tribute to Red Hot Chili Peppers",
       "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "500/- Fully Redeemable cover will be charged at gate\n",
+            "inventoryLevel": 29,
+            "name": "COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/dani-californication-a-tribute-to-red-hot-chili-peppers"
+         },
          {
             "@type": "Offer",
             "availability": "InStock",
@@ -1964,7 +1808,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 222,
+            "inventoryLevel": 220,
             "name": "Phase 1 | Fanpit | Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/when-chai-met-toast-bangalore"
          },
@@ -2020,7 +1864,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry into the festival on Day 1 (10th Oct.) only\n",
-            "inventoryLevel": 146,
+            "inventoryLevel": 145,
             "name": "Day 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/higher-ground-music-festival"
          },
@@ -2036,7 +1880,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry into the festival on Day 3 (12th Oct.) only\n",
-            "inventoryLevel": 149,
+            "inventoryLevel": 147,
             "name": "Day 3 Pass",
             "url": "https://www.skillboxes.com/events/ticket/higher-ground-music-festival"
          },
@@ -2044,7 +1888,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry into the festival on 10th, 11th and 12th Oct' 2025\n",
-            "inventoryLevel": 299,
+            "inventoryLevel": 297,
             "name": "Festival Pass",
             "url": "https://www.skillboxes.com/events/ticket/higher-ground-music-festival"
          }
@@ -2223,7 +2067,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 37,
+            "inventoryLevel": 35,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-restless-relentless-india-tour-2025-bangalore"
          },
@@ -2265,7 +2109,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional 500 cover charge applicable at gate\n",
-            "inventoryLevel": 977,
+            "inventoryLevel": 957,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/monkey-rock-fest-2"
          }
@@ -2455,57 +2299,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Get Ready to Celebrate! Badmaash 6th Anniversary BashMark your calendars, party people! Badmaash is turning six, and we're throwing the biggest bash of the year to celebrate! Join us for an unforgettable night of music, dancing, and good vi",
-      "endDate": "2025-10-04T00:30:00",
-      "identifier": "com.skillboxes.27271",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZTBUb1FOd3k5QXo5ZmxvS3hBOHVQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1755599682Rs3lCfkyiZjAIfQS.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "4th Floor,Badmaash, Ashrith, Aries 53, 1, Sarjapur Main Rd, opposite HP Petrol Pump, Countryside Layout, Rainbow Drive, Doddakannelli, Bengaluru, Karnataka 560035, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9093083",
-            "longitude": "77.6876471"
-         },
-         "name": "Badmaash Sarjapur"
-      },
-      "name": "Friday Nakhra Night at Badmaash Koramangala",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable through out the event\n",
-            "inventoryLevel": 500,
-            "name": "Stag",
-            "url": "https://www.skillboxes.com/events/ticket/friday-nakhra-night-at-badmaash-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow one single entry\n",
-            "inventoryLevel": 498,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/friday-nakhra-night-at-badmaash-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry till 090pm post cover charges applicable\n",
-            "inventoryLevel": 499,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/friday-nakhra-night-at-badmaash-koramangala"
-         }
-      ],
-      "startDate": "2025-10-03T08:00:00",
-      "url": "https://www.skillboxes.com/events/friday-nakhra-night-at-badmaash-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Tuesday night is calling!📢 Head over for an epic party with DJ Rohit and Roan. Ladies, enjoy unlimited free drinks all night long! Plus, get a 20% off your drinks. Don’t miss out on the fun!Free entry for coupl",
       "endDate": "2025-10-08T00:30:00",
       "identifier": "com.skillboxes.27270",
@@ -2661,7 +2454,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Super Discounted Early Bird Tickets - Grants Entry to Two Individuals.\nNo Cover Charge Applicable.",
-            "inventoryLevel": 9,
+            "inventoryLevel": 8,
             "name": "Early Bird Couple Pass",
             "url": "https://www.skillboxes.com/events/ticket/modern-machines-volume-4"
          },
@@ -2780,7 +2573,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants access to one individual in General Zone.\n",
-            "inventoryLevel": 173,
+            "inventoryLevel": 171,
             "name": "Phase 1 GA || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -2788,7 +2581,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Nearest to the stage. Grants access to one individual in Fanpit Zone.\n",
-            "inventoryLevel": 791,
+            "inventoryLevel": 790,
             "name": "Phase 1 Fanpit || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },

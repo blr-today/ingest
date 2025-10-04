@@ -1,36 +1,5 @@
 [
   {
-    "name": "The Art Of Flight - Yoga Workshop",
-    "@type": "SocialEvent",
-    "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Yoga-Beginner-Saturday-Event",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SESSION"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-Yoga-Beginner-Saturday-Event",
-    "image": "https://sistersinsweat.com/images/event/20250924124554126.JPG",
-    "location": {
-      "name": "Just Be Cafe",
-      "address": "Just Be Cafe -  383/31, Ground & 1st Floor, 13th Cross Rd, Sadashiva Nagar, Armane Nagar",
-      "type": "Place"
-    },
-    "startDate": "2025-10-04T10:30:00+05:30",
-    "endDate": "2025-10-04T12:00:00+05:30"
-  },
-  {
     "name": "Baddy Session-Mix Level",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Saturdays-aug",
@@ -125,37 +94,6 @@
     },
     "startDate": "2025-10-05T06:45:00+05:30",
     "endDate": "2025-10-05T08:15:00+05:30"
-  },
-  {
-    "name": "Yoga with Sisters & Misters",
-    "@type": "SocialEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Beginner-Sunday-September",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SESSION"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Beginner-Sunday-September",
-    "image": "https://sistersinsweat.com/images/event/20250909165925685.jpg",
-    "location": {
-      "name": "Cubbon Park",
-      "address": "Kasturba Road, Bangalore",
-      "type": "Place"
-    },
-    "startDate": "2025-10-05T08:30:00+05:30",
-    "endDate": "2025-10-05T09:45:00+05:30"
   },
   {
     "name": "Sisters & Misters Salsa Workshop",
@@ -412,5 +350,36 @@
     },
     "startDate": "2025-10-11T15:00:00+05:30",
     "endDate": "2025-10-11T16:30:00+05:30"
+  },
+  {
+    "name": "Yoga with Sisters & Misters",
+    "@type": "SocialEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Beginner-Sunday-September",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SESSION"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Beginner-Sunday-September",
+    "image": "https://sistersinsweat.com/images/event/20250909165925685.jpg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2025-10-12T08:30:00+05:30",
+    "endDate": "2025-10-12T09:45:00+05:30"
   }
 ]
