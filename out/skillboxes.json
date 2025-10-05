@@ -209,13 +209,48 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Full Cover Ticket",
             "url": "https://www.skillboxes.com/events/ticket/bqff-closing-party"
          }
       ],
       "startDate": "2025-10-05T21:00:00",
       "url": "https://www.skillboxes.com/events/bqff-closing-party"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Step into an evening where rhythm, melody, and movement come alive! The Community Drum Circle is more than just a performance. It’s a collective celebration of music, dance, and expression.\nJoin us for an immer",
+      "endDate": "2025-10-11T19:30:00",
+      "identifier": "com.skillboxes.28990",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/K2c5dXNTTlViKzNQNjhzaHQ0cEV3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1759490274w9g9FLYi41BkMJqx.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Whitefield - Hoskote Rd, Ardendale, Kannamangala, Bengaluru, Karnataka 560067, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0247965",
+            "longitude": "77.762924"
+         },
+         "name": "Essensai067 Amphitheatre"
+      },
+      "name": "Community Drum Circle by Bangalore Drum Jam",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "An evening of rhythm, music, and dance! Join us for an interactive drum circle where beats meet movement, and voices come together in celebration. No experience needed,  just bring your energy and let the rhythm guide you.  This fee includes only Registration\nAn evening of rhythm, music, and dance! Join us for an interactive drum circle where beats meet movement, and voices come together in celebration. No experience needed,  just bring your energy and let the rhythm guide you.  This fee includes only Registration",
+            "inventoryLevel": 100,
+            "name": "Registration",
+            "url": "https://www.skillboxes.com/events/ticket/community-drum-circle-by-bangalore-drum-jam"
+         }
+      ],
+      "startDate": "2025-10-11T17:00:00",
+      "url": "https://www.skillboxes.com/events/community-drum-circle-by-bangalore-drum-jam"
    },
    {
       "@context": "https://schema.org",
