@@ -33,7 +33,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 350,
-    "remainingAttendeeCapacity": 179,
+    "remainingAttendeeCapacity": 173,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -622,7 +622,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 1000,
-    "remainingAttendeeCapacity": 900,
+    "remainingAttendeeCapacity": 863,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -670,7 +670,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 1000,
-    "remainingAttendeeCapacity": 998,
+    "remainingAttendeeCapacity": 988,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -865,7 +865,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -961,7 +961,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1057,7 +1057,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1205,7 +1205,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1775,60 +1775,6 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CE772DCE33DC4776B34B6B640A0CEAA2_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/513BD01B0CBD451F9BE92DFB476F3072_converted_webp.webp"
     ],
-    "startDate": "2025-10-04T11:00:00+05:30",
-    "endDate": "2025-10-04T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "14/7, THE Park, Mahatma Gandhi Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ67AqrJwWrjsRKwix2zjFOYA",
-      "latitude": "12.97398120000000000000",
-      "longitude": "77.61989000000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 99,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "THE Park Bangalore",
-      "description": "**Here\u2019s a condensed version of the text:**  THE Park, Bangalore is a luxury boutique hotel with 109 rooms. It offers various dining options like Monsoon (seasonal Indian cuisine), Aqua (poolside dining and tequila bar), Tap Room (craft beer), and I-Bar (cocktail lounge and nightclub).",
-      "url": "https://urbanaut.app/partner/theparkblr",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/449DE05ECDF145459E37C3C09EA7AC70_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-76250-34760"
-      }
-    },
-    "url": "https://urbanaut.app/spot/oktoberfest-at-the-park#2025-10-04T1100",
-    "keywords": [
-      "Festival",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Oktoberfest at THE Park",
-    "description": "Oktoberfest at Aqua, The Park Bangalore is a community celebration of beer, food, and festivity. Bringing people together over frothy pints, hearty bites, and vibrant cheer, it offers an immersive Bavarian experience by the poolside. More than just a festival, it\u2019s a space to connect, raise a toast, and enjoy the spirit of Oktoberfest in the heart of the city.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/61CD323422C34DEFB66867FC462F8854_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/57E3CAE3AD9F451AA3DB6D033005DAC5_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3D975F8C840D40869D0D5C95BEC0425E_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1F72FE357A354EE4AE3E083A2B045A17_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/86F83758C12F47F0A905D37144771D48_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CE772DCE33DC4776B34B6B640A0CEAA2_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/513BD01B0CBD451F9BE92DFB476F3072_converted_webp.webp"
-    ],
     "startDate": "2025-10-05T11:00:00+05:30",
     "endDate": "2025-10-05T21:00:00+05:30",
     "location": {
@@ -1861,7 +1807,7 @@
         "telephone": "+91-76250-34760"
       }
     },
-    "url": "https://urbanaut.app/spot/oktoberfest-at-the-park#2025-10-05T1100",
+    "url": "https://urbanaut.app/spot/oktoberfest-at-the-park",
     "keywords": [
       "Festival",
       "Pop-up Event",
@@ -2266,7 +2212,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 44,
+    "remainingAttendeeCapacity": 43,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2313,7 +2259,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 24,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2552,7 +2498,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 47,
+    "remainingAttendeeCapacity": 44,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3081,7 +3027,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 45,
+    "remainingAttendeeCapacity": 39,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3235,11 +3181,11 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 90,
-    "remainingAttendeeCapacity": 59,
+    "remainingAttendeeCapacity": 53,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
-      "price": "799.00",
+      "price": "1299.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
