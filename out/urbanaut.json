@@ -1648,8 +1648,8 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "The Analog Club",
-    "description": "Step back in time at The Analog Club, an event series by the Studio by Copper + Cloves.Imagine walking into a busy cafe and seeing not a single phone, no-one taking selfies and no one around you scrolling. Disconnect from devices for 3 hours of unplugged experience\u2014we'll have books, board games, music, crochet, and of course, food! But this isn't about structured activities or organised fun, just genuine connection and relaxation. The event will be fluid- you can dip into activities if you want, or you can just chat to new people or graze at our high tea counter!Meet new friends, sketch, or read a book in quiet solitude (without being surrounded by people lost in their phones).We will not be doing social media on our phones at the event, we will only take photos with a camera.Embrace the analog experience, slow down, and reconnect in this crazy digital age! **Strictly no devices (no laptops, ipads, and you will be asked to keep your phone in a basket or in your bag- not in your pocket and no where on a table. E-books are allowed)**Tickets are for entry, all games and art supplies, and unlimited high tea from our renowned deli counter. Do not purchase a ticket if you are unwilling to surrender your devices for 3 hours.",
+    "name": "The Analog Club: Diwali Edition",
+    "description": "This Diwali, step back in time at The Analog Club, an event series by the Studio by Copper + Cloves.Imagine walking into a busy cafe and seeing not a single phone, no one taking selfies, and no one around you scrolling. Disconnect from devices for 3 hours of unplugged experience\u2014we'll have books, board games, music, crochet, and of course, food! But this isn't about structured activities or organised fun, just genuine connection and relaxation. The event will be fluid- you can dip into activities if you want, or you can chat to new people or graze at our high tea counter! For this special Diwali Edition, you can expect festive food and drinks, themed activities, and a space to celebrate the season in true analog style.\u00a0Optional Dress Code: Come dressed in your best festival fit! Come dressed to celebrate!**We will not be using social media on our phones at the event; we will only take photos with a camera.**Strictly no devices (no laptops, iPads, and you will be asked to keep your phone in a basket or in your bag- not in your pocket and nowhere on a table. E-books are allowed)**Tickets are for entry, all games and art supplies, and unlimited high tea from our renowned deli counter. Do not purchase a ticket if you are unwilling to surrender your devices for 3 hours.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9F7D749A61054A17B165FBF326865917_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AB4BBD0DBEC94317B9FD60139E7A6838_converted_webp.webp",
@@ -2440,6 +2440,101 @@
       "Local",
       "Responsible",
       "Eco Friendly",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Sip And Paint - Texture Art",
+    "description": "Sip, paint, and play with textures! Join us for a fun and relaxing Texture Art Workshop where you\u2019ll create a stunning A3-sized modern floral piece using palette knives and rich textured paint.No prior art experience? No problem! Our artist will guide you step by step to bring your floral masterpiece to life. Perfect for a chill weekend plan with friends or family.\ud83d\udcc5 Date & Time: Saturday, 11th April at 3:00 PM \ud83d\udc69\u200d\ud83c\udfa8 Who can join: Adults & kids 8+ \ud83d\uddbc\ufe0f What you\u2019ll make: A modern floral textured artwork on A3 canvas \ud83c\udf79 Special Perk: Get exclusive drink coupons from Biere Street to sip while you paint \ud83d\udcb0 Fee: Rs. 1999 per person (all materials included)Come for the art, stay for the vibes. Create, connect, and take home your very own textured floral masterpiece!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/55883E828EA349A5B6CDA2140CBF1F0C_converted_webp.webp"
+    ],
+    "startDate": "2025-10-11T15:00:00+05:30",
+    "endDate": "2025-10-11T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJbU60yXAWrjsR4E9-UejD3_g",
+      "latitude": "12.96286690000000000000",
+      "longitude": "77.57750899999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "1999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fired Up",
+      "description": "Dive into a world of creativity at Bangalore's premier craft studio. Our workshops provide all tools and supplies for a memorable experience, perfect for summer camps, weekend activities, birthdays, date activities, girls' nights out, or family fun.",
+      "url": "https://urbanaut.app/partner/firedup",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C2E1C2A73C73424E8B21B565BCD40306_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-72042-68464"
+      }
+    },
+    "url": "https://urbanaut.app/spot/sip-and-paint-texture-art",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Bean to Bar: Chocolate Making Workshop",
+    "description": "An intimate, guided session that takes participants through the bean-to-bar journey of chocolate-making \u2014 from roasting cocoa beans to crafting and packing their own artisanal chocolate bar.Alongside, ARAKU\u2019s coffee experts will host a brief seed-to-cup segment, showcasing a live coffee roast and brew that complements the chocolate experience.What to ExpectCrack and winnow: Work with roasted cocoa nibs to experience the texture, aroma, and transformation of the bean.Grinding & tempering: Watch a small stone grinder demo and try tempering the chocolate by hand.Craft your own bar: Add your personal touch with coffee, spices, or nuts before setting it to cool.Wrap your art :While your chocolate cools, decorate your own chocolate carton and pack your bar to take home.ARAKU coffee seed-to-cup: Learn about the journey of ARAKU coffee from seed to cup, watch a small-batch coffee roast, and enjoy a tasting paired with your chocolateWhy You\u2019ll Love ItThis is full participation. Temper, mould, wrap, and taste every stage of your chocolate while learning the science and craft behind it. Experience the story of ARAKU coffee from seed to cup and see how it pairs beautifully with chocolate.Hosted at the ARAKU Coffee Bangalore flagship caf\u00e9, this session celebrates sustainability, craft, and connection from bean to bar and seed to cup.Limited seatsDate: Sunday, 12th OctTime: 10 am to 12 pmVenue: ARAKU Coffee \ud83d\udccd Indiranagar, Bengaluru",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4F1D0087525248C7AC4258FA44A126DC_converted_webp.webp"
+    ],
+    "startDate": "2025-10-12T10:00:00+05:30",
+    "endDate": "2025-10-12T12:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "968, 12th Main Rd, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJu3MeVd0XrjsRej9BlCg4hv4",
+      "latitude": "12.96994650000000000000",
+      "longitude": "77.63917320000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "ARAKU Coffee",
+      "description": null,
+      "url": "https://urbanaut.app/partner/araku",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/511149AB2D2448469A053C17FC5FB4BF_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/bean-to-bar-chocolate-making-workshop",
+    "keywords": [
+      "Workshop",
+      "Food & drink",
       "URBANAUT"
     ]
   }
