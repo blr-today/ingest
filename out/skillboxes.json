@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General admission || Valid for one individual\n",
-            "inventoryLevel": 132,
+            "inventoryLevel": 128,
             "name": "Phase 1  || GA Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/the-warehouse-project-Bengaluru"
          },
@@ -34,7 +34,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General admission || Valid for four individual\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Phase 1  || GA - Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/the-warehouse-project-Bengaluru"
          },
@@ -49,6 +49,41 @@
       ],
       "startDate": "2025-10-24T12:00:00",
       "url": "https://www.skillboxes.com/events/the-warehouse-project-Bengaluru"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "From Mumbai to Bangalore, PCO brought Pistola’s agave magic to Hamilton — an evening of elegant pours, bold flavours, and timeless charm. Prashanth Patil serving up more than cocktails — he’s serving stories in every glass. Th",
+      "endDate": "2025-10-11T23:45:00",
+      "identifier": "com.skillboxes.29062",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TFRFbjV2YklkZ1poeHlNektJOW83dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17597321618skgtaaxzbwLtrDE.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9820923",
+            "longitude": "77.7086283"
+         },
+         "name": "Hamilton Cocktail Bar"
+      },
+      "name": "Hamilton x Pistola x PCO Bar Takeover",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "•\tThis amount is fully redeemable on food and beverages.\n•\tAll event bookings are non-refundable. No cancellation/refund will be allowed post booking.",
+            "inventoryLevel": 349,
+            "name": "General Entry For 1",
+            "url": "https://www.skillboxes.com/events/ticket/hamilton-x-pistola-x-pco-bar-takeover"
+         }
+      ],
+      "startDate": "2025-10-11T21:00:00",
+      "url": "https://www.skillboxes.com/events/hamilton-x-pistola-x-pco-bar-takeover"
    },
    {
       "@context": "https://schema.org",
@@ -403,7 +438,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants entry to 1 individual at the event.\nAdditional cover charge applicable at gate. Redeemable on F&B",
-            "inventoryLevel": 47,
+            "inventoryLevel": 45,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/monkey-shoulder-sync-avantika-b2b-rahimtula"
          },
@@ -493,7 +528,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 994,
+            "inventoryLevel": 992,
             "name": "Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/bass-essence-vol-4-ft-twinboys"
          },
@@ -844,7 +879,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 37,
+            "inventoryLevel": 32,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/khat-an-evening-of-letters"
          }
@@ -936,16 +971,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants access to one individual\n",
-            "inventoryLevel": 10,
-            "name": "Early Bird Passes",
+            "inventoryLevel": 70,
+            "name": "Phase 1 Passes",
             "url": "https://www.skillboxes.com/events/ticket/ranj-x-clifr-trio-set"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants access to one individual\n",
-            "inventoryLevel": 70,
-            "name": "Phase 1 Passes",
+            "inventoryLevel": 10,
+            "name": "Early Bird Passes",
             "url": "https://www.skillboxes.com/events/ticket/ranj-x-clifr-trio-set"
          },
          {
@@ -1280,7 +1315,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charges apply at gate, fully redeemable on FnB\n",
-            "inventoryLevel": 129,
+            "inventoryLevel": 128,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/good-times-room-featuring-taaq-swarathma-and-alva-kuuto-oafbiggigs-ed-2"
          },
@@ -1369,7 +1404,36 @@
          "name": "Phoenix Marketcity"
       },
       "name": "ROCKTOBERFEST SEASON 5 FT THAIKKUDAM BRIDGE",
-      "offers": [ ],
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 42,
+            "name": "EARLY BIRD ROCKERS (GA)",
+            "url": "https://www.skillboxes.com/events/ticket/rocktoberfest-season-5"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 49,
+            "name": "EARLY BIRD FAN PIT",
+            "url": "https://www.skillboxes.com/events/ticket/rocktoberfest-season-5"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 12,
+            "name": "MEET & GREET + FANPIT",
+            "url": "https://www.skillboxes.com/events/ticket/rocktoberfest-season-5"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 4,
+            "name": "EARLY BIRD TABLE FOR 8",
+            "url": "https://www.skillboxes.com/events/ticket/rocktoberfest-season-5"
+         }
+      ],
       "startDate": "2025-10-31T16:00:00",
       "url": "https://www.skillboxes.com/events/rocktoberfest-season-5"
    },
@@ -1399,7 +1463,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 135,
+            "inventoryLevel": 133,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/freak-opera-anniversary"
          },
@@ -1484,7 +1548,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "No Cover Charges\n",
-            "inventoryLevel": 993,
+            "inventoryLevel": 990,
             "name": "Final Release Female Ticket",
             "url": "https://www.skillboxes.com/events/ticket/pandora-presents-aaron-sevilla"
          },
@@ -1492,7 +1556,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory INR 1500 cover charge applicable at the gates.\n",
-            "inventoryLevel": 990,
+            "inventoryLevel": 988,
             "name": "Final Release Couple",
             "url": "https://www.skillboxes.com/events/ticket/pandora-presents-aaron-sevilla"
          },
@@ -1500,7 +1564,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory INR 2000 cover charge applicable at the gates.\n",
-            "inventoryLevel": 994,
+            "inventoryLevel": 991,
             "name": "Final Release Male",
             "url": "https://www.skillboxes.com/events/ticket/pandora-presents-aaron-sevilla"
          }
@@ -1529,16 +1593,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "500/- Fully Redeemable cover will be charged at gate\n",
-            "inventoryLevel": 27,
-            "name": "COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/dani-californication-a-tribute-to-red-hot-chili-peppers"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "A Mandatory fully redeemable 500/- cover at gate\n21+ Age only",
-            "inventoryLevel": 35,
+            "inventoryLevel": 31,
             "name": "EB Single",
             "url": "https://www.skillboxes.com/events/ticket/dani-californication-a-tribute-to-red-hot-chili-peppers"
          }
@@ -1572,14 +1628,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1236,
+            "inventoryLevel": 1234,
             "name": "Phase 2 | GA | Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/when-chai-met-toast-bangalore"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 218,
+            "inventoryLevel": 214,
             "name": "Phase 1 | Fanpit | Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/when-chai-met-toast-bangalore"
          },
@@ -1651,7 +1707,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry into the festival on Day 3 (12th Oct.) only\n",
-            "inventoryLevel": 147,
+            "inventoryLevel": 145,
             "name": "Day 3 Pass",
             "url": "https://www.skillboxes.com/events/ticket/higher-ground-music-festival"
          },
@@ -1838,7 +1894,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 35,
+            "inventoryLevel": 34,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-restless-relentless-india-tour-2025-bangalore"
          },
@@ -2212,7 +2268,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants access to one individual in General Zone.\n",
-            "inventoryLevel": 171,
+            "inventoryLevel": 170,
             "name": "Phase 1 GA || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -2228,7 +2284,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants access to two individual in General Zone.\n",
-            "inventoryLevel": 279,
+            "inventoryLevel": 277,
             "name": "Phase 1 GA || Group of 2",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -2236,7 +2292,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Nearest to the stage. Grants access to two individual in Fanpit Zone.\n",
-            "inventoryLevel": 270,
+            "inventoryLevel": 268,
             "name": "Phase 1 Fanpit || Group of 2",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -2286,41 +2342,9 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Post 5pm, will be charged with the regular ticket price.\n",
-            "inventoryLevel": 50,
-            "name": "Day 1 Pass Early Bird (Enter before 5pm)",
-            "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Post 5pm, will be charged with the regular ticket price.\n",
-            "inventoryLevel": 50,
-            "name": "Day 2 Early Bird (Enter before 5pm)",
-            "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "Cover charges applicable post 7pm\n",
-            "inventoryLevel": 40,
-            "name": "Day 1 Pass Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable post 7pm\n",
-            "inventoryLevel": 40,
-            "name": "Day 2 Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Post 5pm, will be charged with the regular ticket price.\n",
-            "inventoryLevel": 49,
-            "name": "Festival Pass Early Bird Ticket (Enter before 5pm)",
+            "inventoryLevel": 50,
+            "name": "Day 1 Pass Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival"
          },
          {
@@ -2328,7 +2352,23 @@
             "availability": "InStock",
             "description": "Cover charges applicable post 7pm\n",
             "inventoryLevel": 50,
-            "name": "Festival Pass Early Bird Ticket",
+            "name": "Day 2 Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 7pm\n",
+            "inventoryLevel": 60,
+            "name": "Festival Pass Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Cover Charges applicable post 7 PM)\n",
+            "inventoryLevel": 1000,
+            "name": "Phase 1 Festival Pass (3 Day Pass)",
             "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival"
          },
          {
@@ -2353,6 +2393,45 @@
             "description": "Cover charges applicable post 7pm\n",
             "inventoryLevel": 20,
             "name": "Group of 10 Phase 1",
+            "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 24,
+            "name": "Early Bird GA Ticket - No Cover",
+            "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 7pm\n",
+            "inventoryLevel": 40,
+            "name": "Day 1 Pass Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges applicable post 7pm\n",
+            "inventoryLevel": 50,
+            "name": "Festival Pass Early Bird Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Cover Charges applicable post 7 PM)\n",
+            "inventoryLevel": 49,
+            "name": "Super Early Bird Festival Pass (3 Day Pass)",
+            "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Cover Charges applicable post 7 PM)\n",
+            "inventoryLevel": 100,
+            "name": "Early Bird Festival Pass (3 Day Pass)",
             "url": "https://www.skillboxes.com/events/ticket/the-other-side-festival"
          }
       ],
