@@ -452,6 +452,57 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "Brigade road heritage walk.",
+    "description": "Join us as we revive our cherished walks through the historic Cantonment this year. Step back in time as we trace the origins of this storied district once the heart of colonial Bangalore.On this journey we will explore a magnificent church that has stood the test of time pay homage at a solemn war memorial and admire a beautifully restored heritage structure. Along the way we will encounter stately British-era government buildings a statue of a notable foreigner and a road steeped in its own fascinating history.Every corner of the Cantonment whispers tales of its past\u2014stories of soldiers administrators and the many communities that shaped this unique enclave. Join us as we rediscover its enduring legacy one step at a time.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E20D8ABDA31F44BFBAD03B8389A0E2DB_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/20AF423338EB421EA7D2B1423BCFD52B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D86C0289EAEC4BE3B02597FA3F64C9E9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D5B0D524256F4B24A09DD1484F52F16A_converted_webp.webp"
+    ],
+    "startDate": "2025-10-18T08:00:00+05:30",
+    "endDate": "2025-10-18T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "15K, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJP3DMwH8WrjsRwI1WnfVpMLo",
+      "latitude": "12.97006580000000000000",
+      "longitude": "77.60594429999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "750.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru by foot",
+      "description": "Heritage, food & architectural walks in Bangalore.",
+      "url": "https://urbanaut.app/partner/benbyfoot",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/1B826865857D4C59838FFA44132C0F6E_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-70192-72365"
+      }
+    },
+    "url": "https://urbanaut.app/spot/brigade-road-heritage-walk",
+    "keywords": [
+      "Local",
+      "Walking Tour",
+      "History & heritage",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Mahabharata Dialogues - Epic Stories",
     "description": "Embark on a captivating journey into the legendary stories of the Mahabharata. Join us for a series of live storytelling sessions that will transport you into the fascinating world of the greatest epic ever written.\u00a0Immerse yourself in that world and\u00a0discover the heroic deeds, complex relationships, and moral dilemmas that have enthralled audiences for centuries.Host : Abhilash Purohit is an entrepreneur and a corporate educator.These last few years, he is stuck between two states of existence: (Re)reading the Mahabharata, and talking about the characters in it -\u00a0their interactions, their aspirations, and their dilemmas.To audiences small and big, he brings the joy of the stories and the lessons within the Mahabharata. He finds and shares different perspectives of well-known stories from the world`s greatest epic.When not talking Mahabharata, he loves to geek out about coding and Urdu shayari.",
     "image": [
@@ -3050,6 +3101,112 @@
     "keywords": [
       "Leisure",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Basavanagudi Thindi walk.",
+    "description": "Embark on a flavour-packed, purely vegetarian food walk through the timeless culinary lanes of Basavanagudi \u2014 a true veggie paradise nestled in the heart of South Bengaluru. They say on a food walk, the food speaks for itself, and here, every crispy bite and aromatic sip has its own story to tell.Get ready to dig into a medley of local favourites \u2014 melt-in-your-mouth khali dosa, the soft and lacey neer dosa, the ever-popular set dosa, comforting chow chow bath, indulgent damrot, classic idli-poori sagu, crunchy vada, rava idli, rava vada, and some addictive nippattu to pair with your steaming cup of tea or perfectly brewed filter coffee.And if your taste buds are still craving more, don\u2019t worry \u2014 Basavanagudi always has room for another round of Davangere benne dosa, a crispy sagu masala dosa, or that tangy, temple-style puliyogare.Now, about where we\u2019re eating\u2026 our lips are sealed! That\u2019s half the fun, isn\u2019t it?Join us for this walk, and you\u2019ll uncover some of Basavanagudi\u2019s most iconic and heritage food spots, tucked away in corners where time slows down and taste takes over.So lace up your shoes, bring your appetite, and let\u2019s walk, eat, chat, and rediscover namma Basavanagudi \u2014 one bite at a time.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CB27D2893288463DABC1C14285207E9D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E04779ECBC0F41E08E76C4CBC9B539D6_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8CD310AC4871459584A19EC5EB57A020_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6FF371DDE1E049738283D8C8D9C9BB22_converted_webp.webp"
+    ],
+    "startDate": "2025-10-12T08:00:00+05:30",
+    "endDate": "2025-10-12T11:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Basavanagudi, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJqfs4p5IVrjsRx2LhtOBKArk",
+      "latitude": "12.94059970000000000000",
+      "longitude": "77.57376330000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "750.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bengaluru by foot",
+      "description": "Heritage, food & architectural walks in Bangalore.",
+      "url": "https://urbanaut.app/partner/benbyfoot",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/1B826865857D4C59838FFA44132C0F6E_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-70192-72365"
+      }
+    },
+    "url": "https://urbanaut.app/spot/basavanagudi-thindi-walk",
+    "keywords": [
+      "Local",
+      "Food & drink",
+      "Guided tour",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Geist \u00d7 Muttley Crew present \u2018Bone\u2019 App\u00e9tit BBQ!",
+    "description": "Geist Brewing Co. \u00d7 Muttley Crew present \u2018Bone\u2019 App\u00e9tit BBQ!Fire up the grills \ud83d\udd25We\u2019re serving BBQs, brews & good vibes \u2014 for hoomans and dogs!A first-of-its-kind community event celebrating good beer, four-legged friends & smokey flavours! Get your tickets now!\u2e3b\ud83c\udf54 What\u2019s on the MenuFor Hoomans:Geist BBQ, craft beers & cocktailsFor Top Dogs:Muttley Crew\u2019s exclusive BBQ Menu featuring:\ud83e\udd69 Paneer & Pumpkin Skewer\ud83c\udf57 Chicken & Sweet Potato Skewer\ud83d\udc2e Beef & Apple Skewer\ud83c\udf7a Bone Broth \u201cBeer\u201d topped with foamy egg white\ud83c\udf54 Sliders (\u20b9300 each)\u2e3b\ud83c\udfa8 What Else Is in Store\ud83d\udc3e 1:1 Consultation with Canine Nutritionist Mithun (Krypto Kanine)\ud83c\udfa8 Live caricatures for dogs & pet parents by Murali\ud83c\udfa8 Paw-painting corner for pups\u2e3b\ud83d\udc9b Event Details\ud83d\udccd Venue: Geist Brewing Co.\ud83d\udcc5 Date: 26th October\ud83d\udd53 Time: 1 PM \u2013 4 PM\ud83c\udf9f\ufe0f Tickets: \u20b9500 per pet dog (Geist food & beverages \u00e0 la carte)\u2e3b\ud83e\udde0 About the ArtistsMithun (Krypto Kanine)A certified Canine Nutrition & Behavior expert who\u2019s helped over 800 dogs live happier, healthier lives through balanced, wholesome diets.\ud83d\udccd @kaninenutritionMurali (Artist & Caricaturist)Renowned for his expressive pet caricatures and on-the-spot art for pet parents.\ud83d\udccd @artistmurali",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B0E7A217847640C1A485758ED5CF2A85_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0FE64EB4C7D54D02B28AF36A8C2F430D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E99197D75C1949B8917BDB69C6C8A569_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5164826A5024476B8BF9701C5C93E257_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E964A8484B9347CDBE5EC1587F6FA494_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2DA10CC0FE254F2AB5423C8363F06BA4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9FB36243AC734E40B0F8647BA2E42961_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6D9A52A8474C41FE89D6316A5E69FC78_converted_webp.webp"
+    ],
+    "startDate": "2025-10-26T13:00:00+05:30",
+    "endDate": "2025-10-26T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No.23/3, 21st KM Stone, Old Madras Road Nimbekaipura, Bidarahalli, Hobli, Sannatammanahalli, Bengaluru, Karnataka 560049, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJIwZgYRMPrjsRpW0nlAyzGAI",
+      "latitude": "13.05357890000000000000",
+      "longitude": "77.75945180000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 40,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Muttley Crew",
+      "description": "100% Real Ingredients: No fillers, no by-products, just the good stuff. Preservative-Free, Grain-Free, Gluten-Free: Because clean treats mean healthier, happier dogs. Crafted for Tail-Wagging Joy: Taste-tested, dog-approved, and made for pure, drool-worthy satisfaction.",
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A1A8DE81F4534DA6B52F4D8C6B625E12_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-89517-69316"
+      }
+    },
+    "url": "https://urbanaut.app/spot/geist-muttley-crew-present-bone-appetit-bbq",
+    "keywords": [
+      "Leisure",
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   }
