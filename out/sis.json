@@ -1,37 +1,5 @@
 [
   {
-    "name": "Basketball Session",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wedneday-30-august1",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Basketball",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wedneday-30-august1",
-    "image": "https://sistersinsweat.com/images/event/20250909172210879.jpg",
-    "location": {
-      "name": "St. Joseph's Arts And Science College",
-      "address": "St. Joseph's Arts And Science College #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens",
-      "type": "Place"
-    },
-    "startDate": "2025-10-08T20:00:00+05:30",
-    "endDate": "2025-10-08T21:30:00+05:30"
-  },
-  {
     "name": "Pickleball with the Sisters (GoRally x SIS)",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Pickleball-Beginner-Thursday1-aug2",
@@ -94,6 +62,38 @@
     },
     "startDate": "2025-10-09T20:00:00+05:30",
     "endDate": "2025-10-09T21:30:00+05:30"
+  },
+  {
+    "name": "Football Session",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Intermediate-Friday-aug",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Football",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Intermediate-Friday-aug",
+    "image": "https://sistersinsweat.com/images/event/20250909174020947.jpg",
+    "location": {
+      "name": "SUFC, Ulsoor",
+      "address": "SUFC Gate No. 3, United Football Club, RBANM\u2019s Ground, South, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake",
+      "type": "Place"
+    },
+    "startDate": "2025-10-10T07:00:00+05:30",
+    "endDate": "2025-10-10T08:30:00+05:30"
   },
   {
     "name": "B'ball With Sisters - Intermediate",
