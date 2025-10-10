@@ -3762,5 +3762,54 @@
       "COURTYARD",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Heart Beats Steady",
+    "description": "Performance Workshop by Ishaa Parthan\ufeffDoes the thought of performing or being in the spotlight make your heart beat wildly \u2013 but you still want to give performing a go? If yes, join us in this student-led performance workshop. You'll get a chance to overcome your stage fears through a series of playful and introspective theatre exercises that will hopefully 'steady your beating heart'!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D6019B2FD6AF4D79A407631B7EA85851_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/69222103BCC6443E94A818FEE758D025_converted_webp.webp"
+    ],
+    "startDate": "2025-10-23T15:00:00+05:30",
+    "endDate": "2025-10-23T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 8,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "350.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/heart-beats-steady",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
   }
 ]
