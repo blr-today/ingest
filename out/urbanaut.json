@@ -1,68 +1,6 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Viva La Vino Wine Festival: Bangalore Edition",
-    "description": "Viva La Vino \u2013 Bangalore EditionGet ready, Bangalore \u2013 after a\u00a0smashing debut last year, India's coolest wine festival is back in your city with a bigger, bolder and even more fun Season 2! Co-curated by Sommeliers Gargi Kothari and Devati Mallick, VLV is\u00a0the first-of-its-kind, a super-fun, laid-back festival with great wines + vibes, while building a wine culture that\u2019s playful, welcoming, and totally unforgettable. Experience an evening of tasting wines with old and new wine friends in a full-on festival setting. Trust us, we will have you falling in love with the wine life all over again!What's in store this year:90+ wines from around the world: Sip, swirl, and savour a stunning lineup of international and Indian wines at your own pace. Discover new favourites, revisit classics, or surprise yourself with something unexpected. All wine tastings are included in your festival ticket.Artisan cheese: Your ticket\u00a0includes\u00a0a dreamy artisan\u00a0cheese cup for one, so you can sip and snack at the same time. Want more? Shop extra platters and also take home your cheesy favourites.Craft chocolate: Meet India\u2019s finest craft chocolate producers and shop their gourmet range to sweeten your evening. Wine, cheese, and chocolate are always a good idea!Taste + buy: Loved a wine? Don\u2019t just dream about it\u2014take it home that very night with\u00a0special festival-only bottle prices.Exclusive masterclass: Get a masterclass ticket for a guided tasting of 4 premium wines\u00a0not available at the main fest. A rare chance to dive deep with a cool sommelier, 25 seats only!Groovy music + poolside vibes: VLV Bangalore takes over the stunning poolside at JW Marriott Bengaluru. Their\u00a0resident DJ will be spinning a banging set\u00a0to keep the vibes flowing all evening.Live food stations: Indulge in mouthwatering bites from live stations curated by JW\u2019s chefs, available to purchase on-site.Last year was a hot sell-out, and this year promises to be even bigger. Bring a friend, your partner, a whole gang of wine buddies, or come solo and find your tribe here. Just don\u2019t miss it. See you there?",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0BA0A2A1004A4531907843B594BEC386_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CB25526B3B894476BBC7278365448566_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/069594EE311E4C8A97ED6E6FAA6BE612_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8A31325B396C4D41AF2D6D3718602EED_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/03491CB6CD724F66B1885D53CF7BD187_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9AD6875DB3C54BEDA84B07FC7E4B8623_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/60A06F1250924C62B610AB15C4031C5C_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/56BE79B27E1E40C5B6984D5EBA0E8863_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/78BB2F80EA8C47029547327BE31030E3_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A7ADA6AF87A1485C99FAC389DA210830_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3E17BFA11543472092644FD8E47D8BFD_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1E5D2594AC794E44AACE35D01F4B2677_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CF72326A58B34C22BF9EBEE627A54D82_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B830D3DA138B48A08F2C630598D147B3_converted_webp.webp"
-    ],
-    "startDate": "2025-10-11T17:00:00+05:30",
-    "endDate": "2025-10-11T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "24/1, Vittal Mallya Rd, KG Halli, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJSWBhxHkWrjsRK6iI2w8G5yE",
-      "latitude": "12.97236180000000000000",
-      "longitude": "77.59505130000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 350,
-    "remainingAttendeeCapacity": 97,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "3050.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Viva La Vino",
-      "description": "Welcome to VLV \u2013 the ultimate wine festival! Co-curated by Sommeliers Gargi Kothari (Magic Cellars) and Devati Mallick (Drink With D), VLV travels across 8 cities in its season 2 this year, celebrating wine, culture, and community. Join us for the best wines, fun vibes, and unforgettable memories..",
-      "url": "https://urbanaut.app/partner/vivalavino-winefestival",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A79C59E412514CE79528CA3A1D34A87E_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-88600-24590"
-      }
-    },
-    "url": "https://urbanaut.app/spot/vlv-bangalore-edition",
-    "keywords": [
-      "Leisure",
-      "Festival",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Dialogues with Books: Monthly Meetup",
     "description": "Join Bangalore`s Iconic Book Community - Monthly DWB Meetup! \ud83d\udcdaJoin Dialogues with Books (DWB) for our monthly gathering where fellow bibliophiles come together to celebrate the joy of reading!What We`ll Do -Come with a book you`ve been enjoying lately - any genre welcome!\u00a0We`ll all share what we`re reading, why it resonates with us, and dive into lively discussions about the stories and ideas that captivate us.\u00a0Feel free to read favourite passages aloud and discover your next great read through fellow bibliophiles` recommendations.Expect an evening of engaging book conversations over warm beverages, light snacks, and great company!About DWB - Dialogues with Books is one of Bangalore`s oldest book communities, creating a vibrant, inclusive space where literature lovers share their passion and form lasting friendships through books. Whether you`re a seasoned reader or looking to reconnect with reading, you`ll find a warm welcome here.DWB is Perfect For: Book enthusiasts, readers wanting to discover new genres, and anyone seeking thoughtful literary conversations in Bangalore`s vibrant reading community.Location: Dialogues KoramangalaMeet Your Host: Bharat - Bharat is an avid reader, writer, and passionate bibliophile with eclectic literary tastes spanning classics, fiction, philosophy, poetry, and self-improvement. His favorite authors include Hemingway, Murakami, Mishima, P.G. Wodehouse, and Edgar Allan Poe.\u00a0His infectious enthusiasm for books and skill at facilitating discussions makes every meetup both stimulating and enjoyable.",
@@ -1566,56 +1504,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "FemTech India x Coro Spaces: Diwali Gathering",
-    "description": "Theme: Lighting the Way: Women Redefining Wellness & WorkDress Code: Authentic Indian Wear (Festive & Elegant)Celebrating the spirit of Diwali with light, conversations, and community.\u00a0where women leaders, entrepreneurs, and changemakers come together in authentic wear to share stories, spark connections, and illuminate pathways for inclusive growth.Agenda Highlights:4:00 \u2013 4:30 PM:\u00a0Welcome Ritual & Warm Welcome by Tena and Navneet Kaur (Founders )4:30 \u2013 5:30 PM:\u00a0Panel Discussion:\u00a0\u201cLighting the Way: Women Building the Future\u201dDiscussions on building inclusive workspaces and balancing cultural roots with modern professional journeysFood & Beverages:\u00a0Enjoy a curated Indian-inspired\u00a0Diwali high tea, featuring festive flavors and delights.Important Info:Limited seats: please arrive on time to make the most of networking and conversations.This is a ticketed event; please keep this email handy as your confirmation.We can\u2019t wait to celebrate Diwali with light, conversation, and community alongside you!\u00a0About the Co-host : FemTech India - India's first and largest women's health ecosystem for change. Coro - India's first members only family club - space where work, play and community come together. ",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/01A694F58D904653B2E30112B43C1DBF_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/75CC4519AE3A42589C5C465AE5DF5F96_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8344A27006324078A31672E4F151B410_converted_webp.webp"
-    ],
-    "startDate": "2025-10-11T16:00:00+05:30",
-    "endDate": "2025-10-11T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3S2OrvsVrjsRBOql1X-UnAM",
-      "latitude": "12.96078240000000000000",
-      "longitude": "77.63721450000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 69,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "944.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "FemTech India",
-      "description": "India's first and largest women's health ecosystem for change",
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B154ADB67E5B40BCBFF4EA01FDD93878_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99021-20087"
-      }
-    },
-    "url": "https://urbanaut.app/spot/femtech-india-x-coro-spaces-diwali-gathering",
-    "keywords": [
-      "Premium",
-      "Wellness",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Atta Galatta presents \u201cLet Poetry Be\u201d",
     "description": "This monthly gathering will see poetry coming to life, through reading, music, art and any other forms of artistic expression, at Atta Galatta. Listeners and performers are all welcome!Date: 25th OctTime: 4pm\u00a0Venue: Atta Galatta, IndiranagarEvent specifics & submission guidelines \u20131. Theme - Blue (any original work)2. Works can be original or of other poets, performed live3. All languages welcome4. Participants can read to music (acoustic instrument/s), dramatise, use props & costumes5. Each participant will enjoy 5 minutes of reading time6. Kindly submit your poem and name to letpoetrybe@gmail.com on or before 23rd Oct midnight. WE WILL NOT ACCEPT ATTACHMENTS OR LINKS. SUBJECT OF YOUR MAIL MUST READ AS 'Entry for -Oct LPB meet-up '7. You may also send entries that are not related to the theme8. The event will begin at 4pm sharp and will be held at Atta Galatta. Participants to report not later than 3:45 pm to hear about performance order and meet the host9. For any further clarifications, write to us at letpoetrybe@gmail.comYou are now welcome to flood our inbox!",
@@ -1756,57 +1644,6 @@
       "Festival",
       "Food & drink",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Chopstick & Chill ft.Chaithraa.",
-    "description": "\u00a0Join us for Chopstick & Chill - a supper club where cocktails meet baos in the most playful way. Sip on sak\u00e8\u00a0cocktails that match your vibe, build your own bao, and enjoy fun sensory games, all in a cozy, social setting. Your ticket includes 2 sake cocktails, 1 bao, and a starter (veg or non-veg). Come for the flavours, stay for the vibes!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4CA7022BA6464D88A6698F870CA28AD0_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3CAC8EA2581341289B1DBC2870050BD0_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E543886EE91E4226B5EC2E4E2221BA2A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7458603261A645AA945C8258147DE6D7_converted_webp.webp"
-    ],
-    "startDate": "2025-10-11T17:00:00+05:30",
-    "endDate": "2025-10-11T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Third Floor, 610, 12th Main Rd, 7th Cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJny1G2KkWrjsRj_INv9hxCTg",
-      "latitude": "12.97051210000000000000",
-      "longitude": "77.64528349999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 9,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2000.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Fatty Bao",
-      "description": null,
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/576E86E26013483BB58DFE7C359ACEB7_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-77383-15848"
-      }
-    },
-    "url": "https://urbanaut.app/spot/chopstick-chill-ftchaithraa",
-    "keywords": [
-      "Leisure",
-      "Food & drink",
-      "Guided tour",
       "URBANAUT"
     ]
   },
@@ -1994,7 +1831,7 @@
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
-      "price": "1600.00",
+      "price": "1300.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -2111,55 +1948,6 @@
     "keywords": [
       "Workshop",
       "Active",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Launch of Masala Mandi by Chef Sadaf Hussain",
-    "description": "A Guide to the World of Indian Spice Blends by Karwaan\u00a0Karwaan Heritage, in collaboration with Atta Galatta, invites you to an evocative evening celebrating the launch of Masala Mandi: A Guide to the World of Indian Spice Blends by chef, author, and storyteller Sadaf Hussain.This special book launch goes beyond the conventional format to bring together food, history, memory, and culture through an in-depth conversation between Chef Sadaf Hussain and Chef Deepa Chauhan. Together, they will explore the layered histories and living traditions of Indian spice blends \u2014 from ancient trade routes and cultural exchanges to everyday culinary practices that continue to evolve in homes and professional kitchens alike.Spices have always been at the heart of India\u2019s engagement with the world, shaping not only cuisines but also economies, rituals, and identities. Through this discussion, the speakers will trace how spice blends travel across regions and generations, adapting to local palates while retaining their cultural essence. They will delve into stories of family kitchens, community festivals, seasonal rituals, and the artistry of blending spices to create distinct flavours that are simultaneously rooted and dynamic.Drawing from his extensive culinary experiences and research, Chef Sadaf will offer insights into the making of Masala Mandi\u2014a book that documents the diverse ways in which garam masalas, pickle masalas, chai masalas, and many other blends are crafted, reimagined, and passed down. Chef Deepa will bring to the conversation her deep engagement with Sindhi culinary heritage, her journey of rediscovering family recipes, and her contemporary culinary practice that bridges tradition and innovation.Set in the warm and intimate space of Atta Galatta \u2013 The Bookstore, this event is designed to be a celebration of stories and aromas, a dialogue that invites food enthusiasts, culinary historians, home cooks, and curious readers to rethink their relationship with the humble masala. It is an opportunity to witness how history, heritage, and everyday kitchen practices come together to shape the unique flavourscape of India.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B7013DEFAFCF4B7EB7D9FECBE96E4006_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7132ECC1641740DFB82569AD689026C4_converted_webp.webp"
-    ],
-    "startDate": "2025-10-11T18:00:00+05:30",
-    "endDate": "2025-10-11T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
-      "latitude": "12.98010900000000000000",
-      "longitude": "77.63934970000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 88,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Atta Galatta",
-      "description": null,
-      "url": "https://urbanaut.app/partner/attagalatta",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-96325-10126"
-      }
-    },
-    "url": "https://urbanaut.app/spot/launch-of-masala-mandi-by-chef-sadaf-hussain",
-    "keywords": [
-      "History & heritage",
-      "Food & drink",
       "Art & culture",
       "URBANAUT"
     ]
@@ -2769,59 +2557,6 @@
       "Responsible",
       "Workshop",
       "Eco Friendly",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "When Sitar Meets Yoga",
-    "description": "Live sitar by Nikhil Patwardhan meets restorative yoga with Pragya Bhatt\u2014an experience of sound and stillness. The gentle resonance of each note guides your breath and movement, quieting the mind, releasing tension, and nourishing the body. This rare fusion of sound and yoga creates a truly holistic experience\u2014one that leaves you rested, centred, and renewed from within.About the facilitators: Pragya Bhatt is a Bangalore-based yoga and Vedanta teacher. She has led yoga retreats both in India and abroad. She is also the author two books: Beyond Asanas and In the Womb of the Goddess.Nikhil Patwardhan is a professional and performing Sitarist from India with over 30 years of experience with Sitar and Indian classical music. He belong to a family of musicians and is the third generation of musicians and Sitarists.Follow them here: @yogawithpragya & @sitarinmyheart",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A0A6C730B31F4607B9CC671D4477D224_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C8324E67933A4A2F9E36B9EA99C31DA5_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/09FBAFCB92A54D9B8A95EF23854ECD61_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F7D02E99C9124B699E1E3A9F5D9493A3_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FB5F3109B4FD4865884D7FC5E9FD420A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F16AF9E5095840EF82223C97C437AEDB_converted_webp.webp"
-    ],
-    "startDate": "2025-10-11T17:30:00+05:30",
-    "endDate": "2025-10-11T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "No 16, Marigold Square, 5th floor, 9th Cross Rd, ITI Layout, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560041, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2QmICw8VrjsRVf197hFv_Ig",
-      "latitude": "12.91079970000000000000",
-      "longitude": "77.58214710000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Amrutha Bindu Yoga",
-      "description": null,
-      "url": "https://urbanaut.app/partner/amruthabinduyoga",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/9C4C15AF6F9F43FBA54E564172375897_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-63663-61818"
-      }
-    },
-    "url": "https://urbanaut.app/spot/whensitarmeetsyoga",
-    "keywords": [
-      "Wellness",
-      "Workshop",
-      "Active",
       "URBANAUT"
     ]
   },
@@ -3619,6 +3354,55 @@
     "url": "https://urbanaut.app/spot/tarot-intuition",
     "keywords": [
       "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Kombucha Tasting Experience",
+    "description": "Join us for a\u00a090-minute immersive kombucha tasting workshop\u00a0where you\u2019ll sip, learn, and create. Whether you're kombucha-curious or a long-time lover, this interactive experience is designed to introduce you to the art of fermentation in a relaxed, welcoming space.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/184BC93C3E54473B923721C5D1DEE9FD_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1BFB1B5979E1452F885FF14C5A9A545B_converted_webp.webp"
+    ],
+    "startDate": "2025-11-08T17:30:00+05:30",
+    "endDate": "2025-11-08T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "479, 2nd Main Rd, 2nd Stage, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJOfm_QhsXrjsRwWMm1FBCWsI",
+      "latitude": "12.98132990000000000000",
+      "longitude": "77.63625820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.46",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mountain Bee Kombucha",
+      "description": "Founded in 2018, Mountain Bee Kombucha combines gut love with craft brewing. We are a kombucha brewery specialising in high-quality, small-batch and handcrafted kombucha",
+      "url": "https://urbanaut.app/partner/mountainbeekombucha",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B77DEF40DC664D7D8CBCC105082F3179_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-87927-43820"
+      }
+    },
+    "url": "https://urbanaut.app/spot/kombucha-tasting-experience",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
       "URBANAUT"
     ]
   },
