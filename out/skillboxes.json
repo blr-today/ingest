@@ -546,7 +546,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free Entry to One Couple till 5:30PM only. Post 5:30PM Additional Cover charges of INR 1000/- Per Head applicable Upon Arrival at Gate.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Early Bird Couple",
             "url": "https://www.skillboxes.com/events/ticket/somad-diwali-celebration"
          },
@@ -629,7 +629,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants two individuals entry to COHOP Fest.\n",
-            "inventoryLevel": 90,
+            "inventoryLevel": 86,
             "name": "Group of 2",
             "url": "https://www.skillboxes.com/events/ticket/cohop-fest-dream-pop-drum-bass-metal-dubstep-indie-rock-flea-market-more"
          },
@@ -637,7 +637,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket grants 4 individuals entry to COHOP Fest.\nCover charges applicable at the venue after 6PM.",
-            "inventoryLevel": 92,
+            "inventoryLevel": 91,
             "name": "Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/cohop-fest-dream-pop-drum-bass-metal-dubstep-indie-rock-flea-market-more"
          }
@@ -672,7 +672,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges applicable at gates\n",
-            "inventoryLevel": 36,
+            "inventoryLevel": 18,
             "name": "Guestlist - Male",
             "url": "https://www.skillboxes.com/events/ticket/cuore-ft-steya"
          },
@@ -688,7 +688,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover Charges applicable post 7.30 PM\n",
-            "inventoryLevel": 64,
+            "inventoryLevel": 60,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/cuore-ft-steya"
          },
@@ -746,7 +746,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 109,
+            "inventoryLevel": 107,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/oafbiggigs-ed-4-presents-chokehold-v1-ft-among-the-signs-lotus-midhaven-eccentric-pendulum"
          },
@@ -899,15 +899,7 @@
          "name": "To Be Decided"
       },
       "name": "9 To Wine",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 300,
-            "name": "Male",
-            "url": "https://www.skillboxes.com/events/ticket/9-to-wine-1"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2025-10-11T07:00:00",
       "url": "https://www.skillboxes.com/events/9-to-wine-1"
    },
@@ -972,7 +964,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 75,
+            "inventoryLevel": 68,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-sadho-project-presents-songs-of-seeker"
          }
@@ -1052,6 +1044,36 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Join us as we celebrate the legendary voice of Zubeen Garg on 12th October 2025 at Fandom, Bangalore.\r\n\r\n \r\n\r\nWe welcome all singers and musicians to be part of this special evening of music and memories.\r\n\r\n \r\n\r",
+      "endDate": "2025-10-25T21:00:00",
+      "identifier": "com.skillboxes.28969",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1760158471FrJ4DusBNFsIZmBX.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "1st floor of Gillys redefined,# 413, 100 Feet Road, 4th Block, Koramangala Bangalore, India",
+         "name": "Fandom At Gilly's Redefined"
+      },
+      "name": "Zubeen Garg Tribute at FANDOM",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "21+ Mandatory\n",
+            "inventoryLevel": 147,
+            "name": "Single",
+            "url": "https://www.skillboxes.com/events/ticket/zubeen-garg-tribute-at-fandom"
+         }
+      ],
+      "startDate": "2025-10-25T20:00:00",
+      "url": "https://www.skillboxes.com/events/zubeen-garg-tribute-at-fandom"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Celebrate the spirit of Navratri with us! 🎶✨ Join Rotaract Club of Yelahanka’s Dandiya Night 2025 on 11th October for an unforgettable evening of music, dance, and festive joy. Every ticket you buy supports the education and bright futu",
       "endDate": "2025-10-11T23:59:00",
       "identifier": "com.skillboxes.28915",
@@ -1123,7 +1145,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 986,
+            "inventoryLevel": 985,
             "name": "Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/bass-essence-vol-4-ft-twinboys"
          },
@@ -1171,7 +1193,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 13,
+            "inventoryLevel": 12,
             "name": "Performer Pass",
             "url": "https://www.skillboxes.com/events/ticket/kathaa-open-mic"
          },
@@ -1349,7 +1371,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 498,
+            "inventoryLevel": 496,
             "name": "Sufi Social",
             "url": "https://www.skillboxes.com/events/ticket/sufi-social-1"
          }
@@ -1360,7 +1382,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Levitate X Social presents Home Turf in association with Read The Room, featuring Zenker Brothers (GER).\n\n \n\nLineup:\n\nHash\n\nAlina\n\nZenker Brothers",
+      "description": "Levitate X Social presents Home Turf in association with Read The Room, featuring Zenker Brothers (GER).\r\n\r\n \r\n\r\nLineup:\r\n\r\nHash\r\n\r\nAlina\r\n\r\nZenker Brothers\r\n\r\n \r\n\r\nThe Z",
       "endDate": "2026-10-12T23:59:00",
       "identifier": "com.skillboxes.28767",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1758964872PU7R5j0X6EOlkKH9.jpg.webp",
@@ -1431,7 +1453,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 27,
+            "inventoryLevel": 17,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/khat-an-evening-of-letters"
          }
@@ -1797,7 +1819,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charges apply at gate, fully redeemable on FnB\n",
-            "inventoryLevel": 120,
+            "inventoryLevel": 113,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/good-times-room-featuring-taaq-swarathma-and-alva-kuuto-oafbiggigs-ed-2"
          },
@@ -1805,7 +1827,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Applicable ONLY for holders of Early Bird or Phase 1 tickets\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 8,
             "name": "Upgrade to VIP",
             "url": "https://www.skillboxes.com/events/ticket/good-times-room-featuring-taaq-swarathma-and-alva-kuuto-oafbiggigs-ed-2"
          },
@@ -1813,7 +1835,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charges apply at gate, fully redeemable on FnB\n",
-            "inventoryLevel": 149,
+            "inventoryLevel": 147,
             "name": "Phase 1 Group of 3",
             "url": "https://www.skillboxes.com/events/ticket/good-times-room-featuring-taaq-swarathma-and-alva-kuuto-oafbiggigs-ed-2"
          },
@@ -1922,14 +1944,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 19,
+            "inventoryLevel": 16,
             "name": "EARLY BIRD ROCKERS (GA)",
             "url": "https://www.skillboxes.com/events/ticket/rocktoberfest-season-5"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 36,
+            "inventoryLevel": 33,
             "name": "EARLY BIRD FAN PIT",
             "url": "https://www.skillboxes.com/events/ticket/rocktoberfest-season-5"
          },
@@ -1978,7 +2000,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM\n",
-            "inventoryLevel": 84,
+            "inventoryLevel": 74,
             "name": "Guestlist-Couple",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-my-friend-11th-oct-gawky-goose"
          },
@@ -1986,7 +2008,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female throughout the event.\n",
-            "inventoryLevel": 98,
+            "inventoryLevel": 97,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-my-friend-11th-oct-gawky-goose"
          }
@@ -1997,7 +2019,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Powder Keg – Red Hot Chili Peppers Tribute is hitting The Fandom on 11th October 2025 for a night of absolute chaos and funk-driven madness.Expect explosive grooves, ripping guitar solos, and every RHCP anthem tur",
+      "description": "Powder Keg – Red Hot Chili Peppers Tribute is hitting The Fandom on 11th October 2025 for a night of absolute chaos and funk-driven madness.\r\n\r\n \r\n\r\nExpect explosive grooves, ripping guitar solos, and every RHCP anthem tur",
       "endDate": "2025-10-11T23:30:00",
       "identifier": "com.skillboxes.28199",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/bm5scjdWdFptQUJZK0VSYUpvRm53QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1757575725Ke6sqeu27KIUPl0k.jpg.webp",
@@ -2016,7 +2038,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A Mandatory fully redeemable 500/- cover at gate\n21+ Age only",
-            "inventoryLevel": 21,
+            "inventoryLevel": 20,
             "name": "EB Single",
             "url": "https://www.skillboxes.com/events/ticket/dani-californication-a-tribute-to-red-hot-chili-peppers"
          },
@@ -2024,7 +2046,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A Mandatory fully redeemable cover of 500/- will be charged at gate.\n",
-            "inventoryLevel": 13,
+            "inventoryLevel": 11,
             "name": "Couple",
             "url": "https://www.skillboxes.com/events/ticket/dani-californication-a-tribute-to-red-hot-chili-peppers"
          }
@@ -2058,14 +2080,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1225,
+            "inventoryLevel": 1214,
             "name": "Phase 2 | GA | Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/when-chai-met-toast-bangalore"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 212,
+            "inventoryLevel": 210,
             "name": "Phase 1 | Fanpit | Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/when-chai-met-toast-bangalore"
          },
@@ -2120,16 +2142,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Allows entry into the festival on Day 1 (10th Oct.) only\n",
-            "inventoryLevel": 136,
-            "name": "Day 1 Pass",
-            "url": "https://www.skillboxes.com/events/ticket/higher-ground-music-festival"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "Allow entry into the festival on Day 2 (11th Oct.) only\n",
-            "inventoryLevel": 119,
+            "inventoryLevel": 109,
             "name": "Day 2 Pass",
             "url": "https://www.skillboxes.com/events/ticket/higher-ground-music-festival"
          },
@@ -2145,7 +2159,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry into the festival on 10th, 11th and 12th Oct' 2025\n",
-            "inventoryLevel": 291,
+            "inventoryLevel": 278,
             "name": "Festival Pass",
             "url": "https://www.skillboxes.com/events/ticket/higher-ground-music-festival"
          }
@@ -2247,7 +2261,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 190,
+            "inventoryLevel": 188,
             "name": "ETERNAL DOMINION CONCERT",
             "url": "https://www.skillboxes.com/events/ticket/eternal-dominion"
          }
@@ -2324,7 +2338,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 34,
+            "inventoryLevel": 32,
             "name": "Early Bird Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-restless-relentless-india-tour-2025-bangalore"
          },
@@ -2651,7 +2665,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants access to one individual in General Zone.\n",
-            "inventoryLevel": 159,
+            "inventoryLevel": 158,
             "name": "Phase 1 GA || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -2659,7 +2673,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Nearest to the stage. Grants access to one individual in Fanpit Zone.\n",
-            "inventoryLevel": 786,
+            "inventoryLevel": 785,
             "name": "Phase 1 Fanpit || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -2667,7 +2681,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants access to two individual in General Zone.\n",
-            "inventoryLevel": 274,
+            "inventoryLevel": 273,
             "name": "Phase 1 GA || Group of 2",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -2675,7 +2689,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Nearest to the stage. Grants access to two individual in Fanpit Zone.\n",
-            "inventoryLevel": 262,
+            "inventoryLevel": 261,
             "name": "Phase 1 Fanpit || Group of 2",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
