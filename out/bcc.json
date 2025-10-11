@@ -12,90 +12,6 @@
         {
   "@context": "https://schema.org",
   "@type": "SocialEvent",
-  "name": "Chess Connect - Blitz - Bangalore Chess Club",
-  "startDate": "2025-10-05T10:00:00+05:30",
-  "endDate": "2025-10-05T13:00:00+05:30",
-  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-
-  "location": {
-    
-    "@type": "Place",
-    "name": "The Market Place",
-    "address": "RMZ Millenia, Kalhalli, Halasuru, Bengaluru, India"
-    
-  },
-  "isAccessibleForFree": false,
-  
-  "offers": [{
-    "@type": "Offer",
-    "price": "200",
-    "priceCurrency": "INR",
-    "availability": "https://schema.org/InStock",
-    "url": "https://razorpay.com/payment-button/pl_RMigX1uXqB7i52/view/"
-  }],
-  
-  "organizer": {
-    "@type": "Organization",
-    "name": "Bangalore Chess Club",
-    "url": "https://bangalorechessclub.in"
-  },
-  "keywords": ["bangalore chess club", "chess"],
-  
-  "image": "https://bangalorechessclub.in/images/chessconnect_20251005.jpeg",
-  
-  "url": "https://bangalorechessclub.in/chess-connect/2025-10-05/"
-}
-      
-    ,
-  
-    
-    
-    
-        {
-  "@context": "https://schema.org",
-  "@type": "SocialEvent",
-  "name": "Chess Cafe: A Chess Meetup with a Twist - Bangalore Chess Club",
-  "startDate": "2025-10-11T10:00:00+05:30",
-  "endDate": "2025-10-11T12:30:00+05:30",
-  "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-
-  "location": {
-    
-    "@type": "Place",
-    "name": "Starbucks",
-    "address": "Building No 804, Avenue 4th Block 9th Main, 35th Cross Rd, near BSNL Office, Jayanagar, Bengaluru, India"
-    
-  },
-  "isAccessibleForFree": false,
-  
-  "offers": [{
-    "@type": "Offer",
-    "price": "350",
-    "priceCurrency": "INR",
-    "availability": "https://schema.org/InStock",
-    "url": "https://razorpay.com/payment-button/pl_RMigX1uXqB7i52/view/"
-  }],
-  
-  "organizer": {
-    "@type": "Organization",
-    "name": "Bangalore Chess Club",
-    "url": "https://bangalorechessclub.in"
-  },
-  "keywords": ["bangalore chess club", "chess"],
-  
-  "image": "https://bangalorechessclub.in/images/chesscafe_20251011.jpeg",
-  
-  "url": "https://bangalorechessclub.in/chess-cafe/2025-10-11/"
-}
-      
-    ,
-  
-    
-    
-    
-        {
-  "@context": "https://schema.org",
-  "@type": "SocialEvent",
   "name": "Chess Connect - Triathlon - Bangalore Chess Club",
   "startDate": "2025-10-12T10:00:00+05:30",
   "endDate": "2025-10-12T15:30:00+05:30",
@@ -112,7 +28,7 @@
   
   "offers": [{
     "@type": "Offer",
-    "price": "250",
+    "price": "300",
     "priceCurrency": "INR",
     "availability": "https://schema.org/InStock",
     "url": "https://razorpay.com/payment-button/pl_RMigX1uXqB7i52/view/"
