@@ -603,7 +603,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 160,
-    "remainingAttendeeCapacity": 137,
+    "remainingAttendeeCapacity": 132,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -698,7 +698,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -973,8 +973,8 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/232347104EF44374A78F17E08AD22A97_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9C2C40C1F3DD48F0AC8920413FF02C2B_converted_webp.webp"
     ],
-    "startDate": "2025-10-18T15:00:00+05:30",
-    "endDate": "2025-10-18T18:00:00+05:30",
+    "startDate": "2025-10-19T15:00:00+05:30",
+    "endDate": "2025-10-19T18:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": "Copper + Cloves / the Studio",
@@ -986,7 +986,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 34,
+    "remainingAttendeeCapacity": 40,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1380,7 +1380,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 3,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1691,7 +1691,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 26,
-    "remainingAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -1889,7 +1889,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 59,
+    "remainingAttendeeCapacity": 58,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -2590,7 +2590,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 95,
-    "remainingAttendeeCapacity": 95,
+    "remainingAttendeeCapacity": 72,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2665,6 +2665,56 @@
       "Leisure",
       "Premium",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Sparks & Stories: A Diwali Night",
+    "description": "This Diwali, join us for a night of celebration - with music, laughter, and stories shared with people you\u2019ll truly vibe with \u2728From diyas & sweets \u2192 to karaoke jams, retro Bollywood mashups, and stories that spark new friendships \u2014 this night is all about connection, music, and memories you\u2019ll carry home.There\u2019s also a one-of-a-kind Flash Jam hosted by @yourthird_place & @the.dani.verse! An iconic groovy mashup of Shape Of You and Naina (Diljit Dosanjh) followed by a fun musical retro game - all of it sung by you!Join us over for the most unique Diwali celebration in Bangalore.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A7AC0AF25790470FBD7CCD565694F378_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C91C4849388A4CBDA3DED39975B1F4D3_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7FC37E97BD834285A0C3BACA156314D0_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A7579D44D187440CA26C949662C7BE3E_converted_webp.webp"
+    ],
+    "startDate": "2025-10-19T18:00:00+05:30",
+    "endDate": "2025-10-19T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "MK Towers, 4th Floor, 80 Feet, New BEL Rd, Banday Colony, Raj Mahal Vilas 2nd Stage, Armane Nagar, Bengaluru, Karnataka 560094, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJI9kIylgXrjsRnt7U70JfUUg",
+      "latitude": "13.02749440000000000000",
+      "longitude": "77.57700220000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Third Place",
+      "description": "you\u2019re invited. welcome to third place, where dinners spark real connections, experiences bring us closer, and evenings unfold beautifully, unscripted. just say \u201cyes\u201d and discover the people, places, and moments you were never supposed to miss. reserve your seat now & see where the night takes you.",
+      "url": "https://urbanaut.app/partner/thirdplace",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/5C7A4A87B53444F6919F70E35B75D833_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63641-24613"
+      }
+    },
+    "url": "https://urbanaut.app/spot/diwali-night",
+    "keywords": [
+      "Music",
+      "Festival",
       "URBANAUT"
     ]
   }
