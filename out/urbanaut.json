@@ -1536,7 +1536,7 @@
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
-      "price": "450.00",
+      "price": "300.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -1589,7 +1589,7 @@
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
-      "price": "450.00",
+      "price": "300.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -1642,7 +1642,7 @@
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
-      "price": "450.00",
+      "price": "300.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -1695,7 +1695,7 @@
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
-      "price": "450.00",
+      "price": "300.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -2559,6 +2559,66 @@
     "url": "https://urbanaut.app/spot/the-agave-table-8896",
     "keywords": [
       "History & heritage",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Diwali Supper Soir\u00e9e: A Night of Finding Home",
+    "description": "Can\u2019t go home for Diwali?Don\u2019t worry, Sugar & Spice is bringing home to you minus the nosy aunties and the \u201cbeta shaadi kab\u201d committee \ud83d\ude0cWe start at 7:30pm on 18 October 2025Picture this: a long table dressed in warm candlelight, marigolds tumbling over silk runners, and tiny diyas flickering between bowls of edible art. The air smells like cardamom and laughter.Welcome to my Pre-Diwali Supper Soir\u00e9e \u2014 an evening for strangers who\u2019ll leave as friends (and possibly fight over the last matar paneer taco \ud83e\udee2).Expect:\ud83c\udf74 Gourmet Indian dishes that feel like nostalgia with a modern twist and memories on a plate.\ud83c\udfb2 Games and giggles that melt away awkwardness faster than hot gulab jamuns.\ud83c\udf3c A tablescape that glows \u2014 handcrafted decor, flickering candles, and soft jazz meeting the scent of ghee.\ud83e\ude94 And somewhere between the first bite and the last toast, \u201cmissing home\u201d quietly turns into \u201cfeeling at home.\u201dCome hungry. Leave glowing \u2014 from good food, warm hearts, and new memories made under golden light. \ud83d\udc9b",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/850EF0600FC94FE590996C6584B95102_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DA3F1BCA060C485B8597CD36650A7549_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A2019E18677C441B8276706B811BD3B0_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/986421F8AC334EB097E2F14D5C3D8166_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BE8FA1966DF4404DA630CCB5C9BC7219_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DAD00869B6F2482BA1E08959481426B6_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9C940C52E2F24734BE52042D7AF9189C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DB387CC11EA54BBBB347C090F51AD6B7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F183709CCA7346F1A7D8F86B4BBDC2E1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EF94788E795E4C8E89659A6B5E449B31_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4CEBFD1BECD44974BF99A0115D64B115_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1A8BEECF0B5E4D348AC9438651BAFDF7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D7F5077E65E24EA0B319639CEB4512F5_converted_webp.webp"
+    ],
+    "startDate": "2025-10-18T19:30:00+05:30",
+    "endDate": "2025-10-18T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "108/M, Kalpana Chawla Rd, Bhoopasandra, R.M.V. 2nd Stage, Bengaluru, Karnataka 560094, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJKWA27ZgXrjsRo_oFSIQOxLI",
+      "latitude": "13.04059870000000000000",
+      "longitude": "77.57965630000001000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1599.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sugar & Spice",
+      "description": null,
+      "url": "https://urbanaut.app/partner/sugarspicetable",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/0D423F8569DF42AF88B30DBEDAC487E2_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-95362-77662"
+      }
+    },
+    "url": "https://urbanaut.app/spot/pre-diwali-supper-soiree",
+    "keywords": [
+      "Premium",
+      "Festival",
       "Food & drink",
       "URBANAUT"
     ]
