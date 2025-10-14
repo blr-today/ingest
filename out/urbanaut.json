@@ -1140,7 +1140,7 @@
     "organizer": {
       "@type": "Organization",
       "name": "All Living Things Environmental Film Festival",
-      "description": null,
+      "description": "All Living Things Environmental Film Festival (ALT EFF), the world\u2019s largest decentralised film festival, is back for its 6th edition with groundbreaking cinema that reframes our gaze toward stories of renewal, resilience, and hope. 86 films from 39 countries, spanning genres, languages and styles.",
       "url": "https://urbanaut.app/partner/alteff",
       "image": "https://d10y46cwh6y6x1.cloudfront.netimages/85A29890572F45C48830C245C345CE4B_converted_webp.webp",
       "contactPoint": {
@@ -1189,7 +1189,7 @@
     "organizer": {
       "@type": "Organization",
       "name": "All Living Things Environmental Film Festival",
-      "description": null,
+      "description": "All Living Things Environmental Film Festival (ALT EFF), the world\u2019s largest decentralised film festival, is back for its 6th edition with groundbreaking cinema that reframes our gaze toward stories of renewal, resilience, and hope. 86 films from 39 countries, spanning genres, languages and styles.",
       "url": "https://urbanaut.app/partner/alteff",
       "image": "https://d10y46cwh6y6x1.cloudfront.netimages/85A29890572F45C48830C245C345CE4B_converted_webp.webp",
       "contactPoint": {
@@ -2775,6 +2775,53 @@
     "keywords": [
       "Music",
       "Festival",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Next Chapter: A book club",
+    "description": "Join us for a morning of reflection, laughter, and meaningful conversation. The Next Chapter is not your typical book club, you don\u2019t have to finish the book to be part of the circle. It\u2019s a space to slow down, share experiences, and explore ideas that help us navigate change with curiosity and grace.This month\u2019s read, From Strength to Strength by Arthur Brooks, opens up a heartfelt conversation on what it means to redefine success, purpose, and peace as we move through life\u2019s transitions.Come with an open mind, stay for the warmth of community, and maybe find your own \u201cnext chapter\u201d along the way.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9B9E40DB32354E2892EFAE091937A62E_converted_webp.webp"
+    ],
+    "startDate": "2025-10-18T11:00:00+05:30",
+    "endDate": "2025-10-18T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/the-next-chapter-a-book-club",
+    "keywords": [
+      "Leisure",
+      "Wellness",
       "URBANAUT"
     ]
   }
