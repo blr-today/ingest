@@ -698,7 +698,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -790,7 +790,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 21,
+    "remainingAttendeeCapacity": 20,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -838,7 +838,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -886,7 +886,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -988,7 +988,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1091,7 +1091,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 99,
+    "remainingAttendeeCapacity": 97,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1136,7 +1136,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 37,
+    "remainingAttendeeCapacity": 33,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1286,7 +1286,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 31,
+    "remainingAttendeeCapacity": 27,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1411,55 +1411,6 @@
     "keywords": [
       "Leisure",
       "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Familiar Strangers",
-    "description": "A workshop by Saachi & PragyaEvery day we encounter countless people, some friends, some strangers. Among the friends and strangers, there are familiar strangers: the people who appear regularly in our daily paths yet remain largely unseen.This student-led workshop is built around using fiction to better understand these familiar strangers through noticing, mapping, and reimagining. Come sit, chat, and build new characters with us.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3ACFA797E01E4575BEC43889A143FF2A_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/21AC5A7B0E5145C69FF97D942531D0E4_converted_webp.webp"
-    ],
-    "startDate": "2025-10-16T16:30:00+05:30",
-    "endDate": "2025-10-16T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
-      "latitude": "12.98010900000000000000",
-      "longitude": "77.63934970000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 1,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Atta Galatta",
-      "description": null,
-      "url": "https://urbanaut.app/partner/attagalatta",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-96325-10126"
-      }
-    },
-    "url": "https://urbanaut.app/spot/familiar-strangers",
-    "keywords": [
-      "Workshop",
-      "Active",
       "Art & culture",
       "URBANAUT"
     ]
@@ -1642,7 +1593,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 26,
-    "remainingAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 24,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -2105,7 +2056,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 110,
-    "remainingAttendeeCapacity": 110,
+    "remainingAttendeeCapacity": 108,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2202,7 +2153,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 38,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2301,7 +2252,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2707,7 +2658,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 95,
-    "remainingAttendeeCapacity": 62,
+    "remainingAttendeeCapacity": 58,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2738,7 +2689,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "NRI Homecoming Meetup: Halloween Edition",
-    "description": "This Halloween, join us for a spooky-exclusive gathering of ex-NRIs and visiting NRIs from SF, NY, London, Singapore, and beyond. We had a fantastic event in BLR and BOM, and now we\u2019re bringing the magic to BLR again \u2014 with a Halloween edition!\ud83e\udddb\u200d\u2640\ufe0f Dress Code: Come in your best Halloween look (costumes compulsory \u2014 from playful to scary \ud83d\udc40). Judgement free!Hosted by Nupur (@nupur.nri) and the Zero1 Network (by Zerodha), this evening is all about discussing, ranting, sharing challenges, and finding your tribe in a warm, relaxed space.Expect:\u2728 Halloween fun\u2728 Coffee & snacks included\u2728 Meet folks from top startups, FAANG companies, and impactful leaders\ud83d\udcdd Apply to Attend: Attendance is by application only to keep it high-quality. You HAVE To have been an NRI or Current NRI. Non-NRIs will not be allowed. ",
+    "description": "This Halloween, join us for a spooky-exclusive gathering of ex-NRIs and visiting NRIs from SF, NY, London, Singapore, and beyond. We had a fantastic event in BLR and BOM, and now we\u2019re bringing the magic to BLR again \u2014 with a Halloween edition!\ud83e\udddb\u200d\u2640\ufe0f Dress Code: Come in your best Halloween look (costumes compulsory \u2014 from playful to scary \ud83d\udc40). Judgement free!Hosted by Nupur (@nupur.nri) and the Zero1 Network (by Zerodha), this evening is all about discussing, ranting, sharing challenges, and finding your tribe in a warm, relaxed space.Expect:\u2728 Halloween fun\u2728 Dinner included\u2728 Meet folks from top startups, FAANG companies, and impactful leaders\ud83d\udcdd Apply to Attend: Attendance is by application only to keep it high-quality. ",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B9D68970C4DB4895B2D52E17AF32BA5B_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5ED700A1CB5842988B54A970010E797F_converted_webp.webp",
@@ -2856,7 +2807,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3143,7 +3094,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 110,
-    "remainingAttendeeCapacity": 109,
+    "remainingAttendeeCapacity": 107,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
