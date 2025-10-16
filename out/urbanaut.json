@@ -3356,5 +3356,56 @@
     "keywords": [
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "2 hour theatre orientation",
+    "description": "Are you curious about the world of theatre? Wondering what it feels like to be on stage or behind the scenes? Our Theatre Orientation Program is your perfect first step!We've got a 2-hour Theatre Unplugged - Creativity & Theatre Orientation coming up that's open to everyone, regardless of age (above 15) or background!Date & Time: 19 October 2:00 to 4:00 PMLocation: Yours Truly Theatre, IndiranagarThis interactive session offers participants a sneak peek into the transformative journey of our Weekend Theatre Workshop. Through fun-filled activities, improvisations, and team-based exercises, you\u2019ll experience how theatre builds confidence, creativity, and connection.Whether you're a beginner or someone seeking to rekindle a love for drama, this program provides a safe space to explore your potential. Walk away with insights, laughter, and perhaps the first step toward a remarkable theatre journey.Step into the spotlight and let the magic begin!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/50631483C3F9425F87D9714463815A38_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/59EB84A2E0434F57858D9148BCF931AD_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/06906D7888034C5091DC2B0CF52958F4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2F6D1C571F674A29862503A9D29AB15A_converted_webp.webp"
+    ],
+    "startDate": "2025-10-19T14:00:00+05:30",
+    "endDate": "2025-10-19T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1, 17F Cross Road Chinmaya Mission Hospital Road, Indira Nagar We are first floor, on ground floor you will find bakery, barber shop, first floor, lal labs, to, and, next to that is narrow entrance to stairs, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJQ0ge-6IWrjsRroYuaQICcjE",
+      "latitude": "12.97850900000000000000",
+      "longitude": "77.63327980000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Yours Truly",
+      "description": "We design theatre-based learning that sticks. From Improv Your English and Public Speaking for Entrepreneurs to Theatre for Podcasters and our gentle Workshop for Introverts, our sessions build confidence, clarity, and creative courage.",
+      "url": "https://urbanaut.app/partner/yourstruly",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4B1D1EB0C15449099FAE94F2086D570A_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98458-53093"
+      }
+    },
+    "url": "https://urbanaut.app/spot/2-hour-theatre-orientation",
+    "keywords": [
+      "Workshop",
+      "Active",
+      "Art & culture",
+      "URBANAUT"
+    ]
   }
 ]
