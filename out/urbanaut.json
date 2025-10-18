@@ -1174,53 +1174,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "ScreeningEvent",
-    "name": "Film Screening - Enys Men",
-    "description": "Enys Men (2022)By Mark JenkinA wildlife volunteer on an uninhabited island off the British coast descends into a terrifying madness that challenges her grip on reality and pushes her into a living nightmare.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3D6AE6C0B5414386B7CF640EDD9F02B4_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/212A67A8022348F8ADDC9264B504D1E2_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BB569A767F764738B2126BD3EC9F0B0E_converted_webp.webp"
-    ],
-    "startDate": "2025-10-18T21:30:00+05:30",
-    "endDate": "2025-10-18T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
-      "latitude": "12.98348400000000000000",
-      "longitude": "77.61101699999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 91,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "200.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Bangalore Film Forum",
-      "description": "An arthouse film club showcasing Contemporary, Independent, Foreign and Classic films. Bangalore, India.",
-      "url": "https://urbanaut.app/partner/bff",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E6294D5A15C94A03A2F9A639710F9542_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-95355-51953"
-      }
-    },
-    "url": "https://urbanaut.app/spot/bff-em",
-    "keywords": [
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Atta Galatta presents \u201cLet Poetry Be\u201d",
     "description": "This monthly gathering will see poetry coming to life, through reading, music, art and any other forms of artistic expression, at Atta Galatta. Listeners and performers are all welcome!Date: 25th OctTime: 4pm\u00a0Venue: Atta Galatta, IndiranagarEvent specifics & submission guidelines \u20131. Theme - Free Verse (any original work)2. Works can be original or of other poets, performed live3. All languages welcome4. Participants can read to music (acoustic instrument/s), dramatise, use props & costumes5. Each participant will enjoy 5 minutes of reading time6. Kindly submit your poem and name to letpoetrybe@gmail.com on or before 23rd Oct midnight. WE WILL NOT ACCEPT ATTACHMENTS OR LINKS. SUBJECT OF YOUR MAIL MUST READ AS 'Entry for -Oct LPB meet-up '7. You may also send entries that are not related to the theme8. The event will begin at 4pm sharp and will be held at Atta Galatta. Participants to report not later than 3:45 pm to hear about performance order and meet the host9. For any further clarifications, write to us at letpoetrybe@gmail.comYou are now welcome to flood our inbox!",
@@ -2188,54 +2141,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Kayaka: Live at Sabha BLR",
-    "description": "India, circa 11th century. A shoemaker writes about the difficulty of changing society. A weaver ruminates on the value of work. A burglar rhymes about identifying the true jewels in life. A sex-worker writes searing lines about caste, as an offering to her 'shameless' deity... Kayaka ('work') is a musical ensemble that blends ancient progressive poems and writings with contemporary music. Led by renowned Bangalore musicians MD Pallavi and Bruce Lee Mani, the material for this acoustic concert is drawn mainly from the Vachanas. Winner of the prestigious 'Vachanasri Award', Pallavi has been working with this material for a long time. Adding Bruce's guitar, compositional skills and genre-fluid approach results in a stirring collaboration - where Western acoustic folk, blues, world music and jazz mingle freely with Indian folk and classical styles - all with hard-hitting,\u00a0lyrics that have lost none of their power, even after 800 years!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/37199BE755EA47D6BA82E98894EA7DF9_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/149C0F9F220E4788B5D5599BC897763F_converted_webp.webp"
-    ],
-    "startDate": "2025-10-18T19:00:00+05:30",
-    "endDate": "2025-10-18T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "262, Kamaraj Rd, Shivaji Nagar, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVW_GGwAXrjsRNg0QkFei2_M",
-      "latitude": "12.98348400000000000000",
-      "longitude": "77.61101699999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 13,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "699.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Kayaka",
-      "description": "Eclectic Musical Ensemble",
-      "url": "https://urbanaut.app/partner/kayaka",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/EACAFB4C29BC48029A5B1978327A2132_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98453-84297"
-      }
-    },
-    "url": "https://urbanaut.app/spot/kayaka-live-at-sabha-blr",
-    "keywords": [
-      "Live GIG",
-      "Music",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Heart Beats Steady",
     "description": "Performance Workshop by Ishaa Parthan\ufeffDoes the thought of performing or being in the spotlight make your heart beat wildly \u2013 but you still want to give performing a go? If yes, join us in this student-led performance workshop. You'll get a chance to overcome your stage fears through a series of playful and introspective theatre exercises that will hopefully 'steady your beating heart'!",
@@ -2423,66 +2328,6 @@
     "keywords": [
       "Workshop",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Diwali Supper Soir\u00e9e: A Night of Finding Home",
-    "description": "Can\u2019t go home for Diwali?Don\u2019t worry, Sugar & Spice is bringing home to you minus the nosy aunties and the \u201cbeta shaadi kab\u201d committee \ud83d\ude0cWe start at 7:30pm on 18 October 2025Picture this: a long table dressed in warm candlelight, marigolds tumbling over silk runners, and tiny diyas flickering between bowls of edible art. The air smells like cardamom and laughter.Welcome to my Pre-Diwali Supper Soir\u00e9e \u2014 an evening for strangers who\u2019ll leave as friends (and possibly fight over the last matar paneer taco \ud83e\udee2).Expect:\ud83c\udf74 Gourmet Indian dishes that feel like nostalgia with a modern twist and memories on a plate.\ud83c\udfb2 Games and giggles that melt away awkwardness faster than hot gulab jamuns.\ud83c\udf3c A tablescape that glows \u2014 handcrafted decor, flickering candles, and soft jazz meeting the scent of ghee.\ud83e\ude94 And somewhere between the first bite and the last toast, \u201cmissing home\u201d quietly turns into \u201cfeeling at home.\u201dCome hungry. Leave glowing \u2014 from good food, warm hearts, and new memories made under golden light. \ud83d\udc9b",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/850EF0600FC94FE590996C6584B95102_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DA3F1BCA060C485B8597CD36650A7549_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A2019E18677C441B8276706B811BD3B0_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/986421F8AC334EB097E2F14D5C3D8166_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BE8FA1966DF4404DA630CCB5C9BC7219_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DAD00869B6F2482BA1E08959481426B6_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9C940C52E2F24734BE52042D7AF9189C_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DB387CC11EA54BBBB347C090F51AD6B7_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F183709CCA7346F1A7D8F86B4BBDC2E1_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EF94788E795E4C8E89659A6B5E449B31_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4CEBFD1BECD44974BF99A0115D64B115_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1A8BEECF0B5E4D348AC9438651BAFDF7_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D7F5077E65E24EA0B319639CEB4512F5_converted_webp.webp"
-    ],
-    "startDate": "2025-10-18T19:30:00+05:30",
-    "endDate": "2025-10-18T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "108/M, Kalpana Chawla Rd, Bhoopasandra, R.M.V. 2nd Stage, Bengaluru, Karnataka 560094, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJKWA27ZgXrjsRo_oFSIQOxLI",
-      "latitude": "13.04059870000000000000",
-      "longitude": "77.57965630000001000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 3,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1599.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sugar & Spice",
-      "description": null,
-      "url": "https://urbanaut.app/partner/sugarspicetable",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/0D423F8569DF42AF88B30DBEDAC487E2_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-95362-77662"
-      }
-    },
-    "url": "https://urbanaut.app/spot/pre-diwali-supper-soiree",
-    "keywords": [
-      "Premium",
-      "Festival",
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -3218,9 +3063,59 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Fruit Mixing",
+    "description": "As the festive season draws near, the air at Studio M fills with the scent of spices, candied fruit, and cheer \u2014 it\u2019s time for our annual Fruit Mixing Ceremony!A Tradition Rooted in CelebrationThe story of the Christmas cake dates back to 17th-century England, when rich plum puddings were prepared to mark the end of the Advent fast. Over time, these evolved into the fruit-laden Christmas cakes we know and love today \u2014 dense with soaked fruits, spices, and warmth. Every bite tells a story of tradition, family, and festive indulgence.The Significance of Fruit MixingFruit mixing marks the beginning of the Christmas baking season. It\u2019s a joyful ritual where dry fruits, nuts, and peels are blended with aromatic spices and generous splashes of spirits or wine \u2014 then left to mature and soak in all that festive goodness. The longer the mix rests, the richer the flavor \u2014 just like how good things in life deepen with time.At Studio M, this ceremony is more than just preparation \u2014 it\u2019s our way of ushering in the spirit of togetherness. It\u2019s laughter shared over sticky spoons, the sparkle of wine poured into jars, and the joyful anticipation of cakes that will soon fill our ovens (and hearts) with warmth.A Toast to Christmas TraditionsFrom lighting candles to caroling, gifting, and baking, every Christmas ritual reminds us to slow down and celebrate the beauty of giving. Our fruit mixing day carries that same essence \u2014 a sweet start to a season filled with gratitude, love, and community.So come join us as we stir, laugh, and soak \u2014 and raise a toast to the season of joy!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0C5771A33CB84FB8A1652E19D6B2E5F1_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/64CBCA20573E4110BB4741BF65EDEDD7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0ACAE6970B24434B8846851FC9F1E8DB_converted_webp.webp"
+    ],
+    "startDate": "2025-10-29T15:00:00+05:30",
+    "endDate": "2025-10-29T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Arekere, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJvVs_2DEVrjsR5-W0H3BcOZ4",
+      "latitude": "12.88738750000000000000",
+      "longitude": "77.59688659999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2299.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Studio M",
+      "description": null,
+      "url": "https://urbanaut.app/partner/studiom",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/1EEAF6C831734475819D11B7DC2D45D0_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97390-66698"
+      }
+    },
+    "url": "https://urbanaut.app/spot/fruit-mixingatstudiom",
+    "keywords": [
+      "Festival",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Halloween at Cox Town",
-    "description": "Halloween at Cooke TownA fun evening for little ghouls aged 2\u201312 (no strict age bar). Parents can join-in, chill-out, or get work done in our workspace. Nursing room for new mums. Nap room for sleepy pumpkins. Limited on-site parking.Costume Competitions \u2022 Boo-Worthy Games \u2022 Spooky CraftsOctober 31 | 4:30\u20136:40p at Meet \u2022 Play \u2022 Live, Cox TownA few spots are open for mums who'd like to help with decor, games, or treats \u2014 others can simply join and enjoy. Let's make this a community-crafted Halloween to remember.If you must have a nanny accompany you, we request they wait in our dedicated waiting area for when they are needed.A Crafted Moments by Rashi presentation. \ufeff\"Where mums make things happen\"",
+    "name": "\ud83c\udf83 Halloween at Cox Town",
+    "description": "\ud83c\udf83 Halloween at Cox TownA Crafted Moments by Rashi Presentation \u2014 \u201cWhere mums make things happen.\u201dA fun evening for little ghouls aged 2\u201312 (no strict age bar). Parents can join in, chill out, or work from our cozy workspace.\ud83c\udf7c Nursing room for new mums.\ud83d\ude34 Nap room for sleepy pumpkins.\ud83d\ude97 Limited on-site parking.Conducted in a five-star space with HEPA-filtered air \u2014 designed to be calm and comfortable for little ones, yet the right kind of fun for the older ones.\ud83d\udc7bCostume Competitions \u2022 Boo-Worthy Games \u2022 Spooky Crafts\ud83d\uddd3 October 31 | 4:30\u20136:30pm\ud83d\udccdMeet \u2022 Play \u2022 Live, Cox Town\ud83d\udcde \u202a+91 98805 23623\u202c\ud83c\udfe0 132 Wheeler Rd, Cox Town, BengaluruA few spots are open for mums who\u2019d like to help with decor, games, or treats \u2014 others can simply come and enjoy. Let\u2019s make it a community-crafted Halloween to remember!If a nanny must accompany you, we request they wait in our dedicated waiting area until needed.",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/ACA6772C7FF84B1D86CD80D651772F3D_converted_webp.webp"
     ],
