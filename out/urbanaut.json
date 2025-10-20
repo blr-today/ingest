@@ -249,6 +249,54 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "High CaliBur Show by Improv Lore",
+    "description": "About the EventA classic good ol' improv show packed with riddles, tongue twisters, and some nostalgia. If you've been missing having a hearty laugh at an improv show, consider this your invite to enjoy the freshest stories in town!We promise a fun evening stuffed with entertaining games, quick lines, and wholesome stories.About Improv Lore:We are a Bengaluru-based community-theatre troupe, working towards spreading the art of spontaneous storytelling and unscripted stagecraft, and rekindling the joy of being playful and whimsical. We conduct beginner-friendly jams, intensive workshops and improvised theatre shows.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FDA0E7FEDABF4DEAB9EAC1B6AEA2F742_converted_webp.webp"
+    ],
+    "startDate": "2025-10-24T21:00:00+05:30",
+    "endDate": "2025-10-24T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96722140000000000000",
+      "longitude": "77.63669820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "249.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/high-calibur-show-by-improv-lore",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Bing-oh - trivia with a twist",
     "description": "An informal, non-competitive and interactive approach to quizzing for adults.No prior knowledge required, participate as per your comfort and bring your own curiosity.",
@@ -2840,6 +2888,102 @@
     "url": "https://urbanaut.app/spot/an-evening-of-survivor-protest-poetry",
     "keywords": [
       "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "After Hours with Eleven AM Club",
+    "description": "When was the last time you made something \u2014 just because?After Hours is for anyone who wants to unwind with their hands and imagination. Come by on Wednesdays for slow, creative evenings that invite you to make, play, and tinker \u2014 no perfection needed.Here\u2019s how it goes:You walk in. It\u2019s been a long day, probably.You see strangers \u2014 smiling uncertainly. You join a table. Or sit alone. Whatever floats your boat. You set your space and begin. Maybe it\u2019s a piece of writing you\u2019re finishing.Maybe it\u2019s crochet, cross-stitch, a Lego set, postcards waiting to be sent, or doodles that might turn into something new.Or \u2014 you could simply dive into what we have here. Use the colourful papers, old magazines for collages, and books to flip through. Make something from nothing. Browse our little art and craft library and see where curiosity takes you.Bring a friend, or drop in alone after work. Stay a while. Leave with paint on your fingers, ink on your hands, or a small sense of calm.About the Eleven AM Club:Where do we meet new people in the city anymore? A space for slow, intentional gatherings where time stretches, stories unfold, and creativity finds room to breathe. At Eleven AM Club, we come together to write, draw, cook, read, play, or simply be\u2014no rush, no agenda, just a day well spent.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6C46558213714849AF7933843E546945_converted_webp.webp"
+    ],
+    "startDate": "2025-10-22T19:00:00+05:30",
+    "endDate": "2025-10-22T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96722140000000000000",
+      "longitude": "77.63669820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/after-hours-with-eleven-am-club",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "All Things Asia | Rice, Spice & Everything Nice",
+    "description": "Our most popular format is back \u2014 this time with questions around Asia and the fascinating interplay of \u201cIndia in Asia\u201d and \u201cAsia in India\u201d.This is NOT just a food quiz \u2014 expect history, business, entertainment, culture, and more. The questions are designed to be workable (not obscure!), making them accessible yet still challenging. Perfect for first-timers and trivia lovers alike.Here\u2019s what\u2019s on the menu:\ud83c\udf79 Welcome Drinks (Prelims): a short written round to warm you up and set the leaderboard.\u26a1 Faceoffs (Appetisers): 2 rounds of fun, high-energy faceoffs to decide the finalists.\ud83c\udfaf Finals (Main Course): a Jeopardy-style grid packed with strategy, surprises, and big plays.\ud83d\ude4c Audience Play-Along: submit live guesses and win prizes too!\ud83c\udfc6 Goodies Galore: fun giveaways up for grabs.\u2728 An evening of curiosity, community, and fun \u2014 easy to join, hard to forget!Who is Tasty Trivia?Tasty Trivia is co-curated by Susovan and Saloni, driven by a shared love for curiosity. A multi-city, community-driven series, it has travelled across 5 cities and runs monthly in Bangalore \u2014 offering fun, beginner-friendly trivia events that make knowledge social, engaging, and full of surprises.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7B86445E2C584BF295E0950F46782FD6_converted_webp.webp"
+    ],
+    "startDate": "2025-10-24T21:00:00+05:30",
+    "endDate": "2025-10-24T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96722140000000000000",
+      "longitude": "77.63669820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/all-things-asia-rice-spice-everything-nice",
+    "keywords": [
+      "Leisure",
+      "Local",
+      "Art & culture",
       "URBANAUT"
     ]
   }
