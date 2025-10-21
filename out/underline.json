@@ -1,41 +1,6 @@
 [
    {
       "@context": "https://schema.org",
-      "@type": "ScreeningEvent",
-      "endDate": "2025-10-21T17:00:00.000Z",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Father and Sons (2014) with The Parallel Cinema Club",
-      "sameAs": "https://underline.center/t/675",
-      "startDate": "2025-10-21T14:15:00.000Z",
-      "url": "https://www.district.in/screening-of-father-and-sons-2014-with-tpcc-oct21-2025/event"
-   },
-   {
-      "@context": "https://schema.org",
       "@type": "SocialEvent",
       "endDate": "2025-10-22T16:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -281,6 +246,41 @@
    },
    {
       "@context": "https://schema.org",
+      "@type": "ScreeningEvent",
+      "endDate": "2025-10-25T17:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "The Cow (1969) with The Parallel Cinema Club",
+      "sameAs": "https://underline.center/t/711",
+      "startDate": "2025-10-25T14:30:00.000Z",
+      "url": "tba"
+   },
+   {
+      "@context": "https://schema.org",
       "@type": "SocialEvent",
       "endDate": "2025-10-26T11:30:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
@@ -312,6 +312,41 @@
       "name": "Dungeons & Dragons and other TTRPGs",
       "sameAs": "https://underline.center/t/87",
       "startDate": "2025-10-26T06:30:00.000Z",
+      "url": "tba"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2025-10-26T11:00:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Night of the Living Dead (1968) with Sanimawaale",
+      "sameAs": "https://underline.center/t/712",
+      "startDate": "2025-10-26T09:00:00.000Z",
       "url": "tba"
    },
    {

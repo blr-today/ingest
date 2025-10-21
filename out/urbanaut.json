@@ -2778,7 +2778,7 @@
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
-      "price": "599.00",
+      "price": "999.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -3388,6 +3388,54 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Portrait in Rhythm: A Karnatic Jazz music project",
+    "description": "Witness Karnatic rhythm trading secrets with Western jazz with Magnus Drauner ft karnatik jazz ensemble, MeghaIn Portrait in Rhythm, German percussionist Magnus Dauner weaves a sonic tapestry of stillness and movement, tension and release; embedded in lilting and rousing rhythms. Inspired by the artist\u2019s time at the Karnataka College of Percussion in Bengaluru, the project explores the temporal flow of South Indian classical music while drawing from the vast reservoir of world music and contemporary sound.\u00a0Currently touring India, Portrait of Rhythm makes its home at the Indian Music Experience Museum for one night only in collaboration with Megha, a karnatik jazz ensemble founded in 1991 by veena exponent Dr. Suma Sudhindra and guitarist Gerard Machado.Featuring:\u00a0Magnus Drauner: PercussionKilian Sladek: VocalsLukas Pamminger: BassKarthik Mani: PercussionDr Suma Sudhindra: VeenaGerard Machado: Guitar",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0792B600EE9543C693E0E8A8E4A6FACF_converted_webp.webp"
+    ],
+    "startDate": "2025-11-11T18:30:00+05:30",
+    "endDate": "2025-11-11T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indian Music Experience, JP Nagar 7th Phase, Bengaluru, Karnataka 560078, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJxytqakcVrjsRxQ5Z_nMdjw8",
+      "latitude": "12.89177760000000000000",
+      "longitude": "77.58365770000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 60,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "450.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Indian Music Experience Museum",
+      "description": "Experience Indian music's ever-expanding, ever-evolving soundscape of global history, local influences, living traditions and modern technology",
+      "url": "https://urbanaut.app/partner/indianmusicexperience",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/671229A8CDC646CDA3C4DD83582038AD_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96866-02366"
+      }
+    },
+    "url": "https://urbanaut.app/spot/portrait-in-rhythm-ime-museum",
+    "keywords": [
+      "Music",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "ScreeningEvent",
     "name": "Screening of City of Pirates (1983) with TPCC",
     "description": "Our meetings consist of a screening of an arthouse film, followed by a discussion. The discussion is led by one of our members or sometimes a guest speaker and encourages members to share their thoughts and interpretations of the film.Curator's Note:\"Cine Politico\" is an unrelenting force of filmmaking that embodies the protest of the artist! With that, we have Raul Ruiz's \"City of Pirates\", a lucid journey of a maid and a homicidal boy to an island of pirates!Who are The Parallel Cinema Club?We are a community-run film society based out of Bengaluru and Hyderabad. We are a group of film enthusiasts who meet up to discuss the real world, auteurs, and themes, and occasionally host guest lectures.",
@@ -3430,6 +3478,57 @@
     "keywords": [
       "Leisure",
       "Festival",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Neon Paint Party",
+    "description": "\u2728 Introducing the NEON PAINT PARTY WORKSHOP! \u2728Looking for something fun and unique for your birthday, kitty party, or group hangout?Get ready to paint, glow, and vibe in this first-of-its-kind experience in Bangalore! \ud83c\udfa8\ud83d\udc83It\u2019s art, music, and magic \u2014 all rolled into one glowing celebration!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EA6DDEAD389C4C1B92EEA157FFC32976_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/21401914D6154DB997399516C3792246_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5761CB6ACB384C3EB101D745B93663E0_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/366CE88C373D4A04AA1FBA119505FA7C_converted_webp.webp"
+    ],
+    "startDate": "2025-11-01T16:00:00+05:30",
+    "endDate": "2025-11-01T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Studio Chhavi, B-1202, MANTRI ESPANA, near Sakra World Hospital, Kariyammana Agrahara, Bellandur, Bengaluru, Karnataka 560103, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJpSZjjUkRrjsRfmREGYT96xw",
+      "latitude": "12.93211260000000000000",
+      "longitude": "77.68306040000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "2124.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Studio Chhavi",
+      "description": "\u201cI\u2019m Priyanka, founder of Studio Chhavi. I create meaningful art experiences through resin, painting & texture workshops. From families & friends to corporates, my sessions spark creativity, bonding & joy while helping you discover the artist within.\u201d",
+      "url": "https://urbanaut.app/partner/studiochhavi",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/79E7565D92A9421290001A313DE60C9F_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99012-56222"
+      }
+    },
+    "url": "https://urbanaut.app/spot/neon-paint-party",
+    "keywords": [
+      "Wellness",
+      "Workshop",
       "Art & culture",
       "URBANAUT"
     ]
