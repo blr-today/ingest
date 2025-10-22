@@ -36,6 +36,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "JST NOICE",
+      "endDate": "2025-10-24T23:59:00",
+      "identifier": "com.skillboxes.29796",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1761074545XFv0SVaxk78D2CP7.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Indiranagar Social",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9707322",
+            "longitude": "77.6476391"
+         },
+         "name": "Indiranagar Social"
+      },
+      "name": "JST NOICE",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/jst-noice"
+         }
+      ],
+      "startDate": "2025-10-24T20:00:00",
+      "url": "https://www.skillboxes.com/events/jst-noice"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Kick those Sunday blues to the curb! This Sunday, Skydeck by Sherlock's is transforming into the ultimate party destination for a DJ Night you won't want to miss!We're serving up a hot mix of your ",
       "endDate": "2025-10-26T23:59:00",
       "identifier": "com.skillboxes.29790",
@@ -433,7 +467,7 @@
             "url": "https://www.skillboxes.com/events/ticket/phase-raw-ft-praveen-achary-greg-tomaz-flipknob-x-karthikeyn-1"
          }
       ],
-      "startDate": "2025-10-24T08:00:00",
+      "startDate": "2025-10-24T20:00:00",
       "url": "https://www.skillboxes.com/events/phase-raw-ft-praveen-achary-greg-tomaz-flipknob-x-karthikeyn-1"
    },
    {
@@ -584,6 +618,76 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Bengaluru, get ready to feel the heartbeat of Hyderabad! The Deccan Project – Hyderabad’s Party Band – is bringing its electrifying live act to your city for a special event at White Lotus Club, HSR Layout. Known for their infect",
+      "endDate": "2025-10-26T23:59:00",
+      "identifier": "com.skillboxes.29676",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17606912849dXcFIt4nEFHlk1s.png.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26, Haralur Main Rd, near HP Petrol Station, RT Nagar, PWD Quarters, Ambalipura, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9151581",
+            "longitude": "77.6664719"
+         },
+         "name": "White Lotus Club"
+      },
+      "name": "The Deccan Project Live",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "INR 500 cover charge applicable at the gates, which can be fully redeemable.\nOnly entry, FnB is not included.",
+            "inventoryLevel": 10000,
+            "name": "Regular Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/the-deccan-project-live"
+         }
+      ],
+      "startDate": "2025-10-26T20:00:00",
+      "url": "https://www.skillboxes.com/events/the-deccan-project-live"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Jalssa Ft. Aksharband Tollywood Night",
+      "endDate": "2025-10-24T23:59:00",
+      "identifier": "com.skillboxes.29674",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1760690288B6wgVql6MSNwxl5v.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "RT Nagar, Bengaluru, Karnataka, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0247291",
+            "longitude": "77.5947532"
+         },
+         "name": "RT Nagar"
+      },
+      "name": "Jalssa Ft. Aksharband Tollywood Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "INR 1000 per individual cover charge applicable at the gates.\n",
+            "inventoryLevel": 1000,
+            "name": "Regular Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/jalssa-ft-aksharband-tollywood-night"
+         }
+      ],
+      "startDate": "2025-10-24T20:00:00",
+      "url": "https://www.skillboxes.com/events/jalssa-ft-aksharband-tollywood-night"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "A Metal Night You Can’t Miss!The darkness is calling, and the stage is ready for a night of pure heavy metal energy. MOONBORNE steps up as the main headliner, bringing the ultimate Ozzy Osbourne Tribute—a po",
       "endDate": "2025-10-25T23:00:00",
       "identifier": "com.skillboxes.29672",
@@ -608,7 +712,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "GATE PASSES WILL BE Rs 699/- So pick up your passes now!\nPlease note this is not a BYOB Concert. Alcohol is Strictly Prohibited in the Venue",
-            "inventoryLevel": 147,
+            "inventoryLevel": 146,
             "name": "ETERNAL DOMINION CONCERT",
             "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-concert"
          }
@@ -643,7 +747,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "GA Standing Zone – Valid for one person in the GA Area\n",
-            "inventoryLevel": 469,
+            "inventoryLevel": 455,
             "name": "Phase 1 GA",
             "url": "https://www.skillboxes.com/events/ticket/blue-25th-anniversary"
          },
@@ -651,7 +755,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Fan Zone – Valid for one person in the Fan Area\n",
-            "inventoryLevel": 369,
+            "inventoryLevel": 335,
             "name": "Phase 1 Fan Pit",
             "url": "https://www.skillboxes.com/events/ticket/blue-25th-anniversary"
          },
@@ -828,7 +932,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General Access | Allows one individual\n",
-            "inventoryLevel": 398,
+            "inventoryLevel": 374,
             "name": "Phase 1 | GA - Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/behemoth-live-in-bangalore-chant-of-the-eastern-lands-tour-2026"
          },
@@ -2167,52 +2271,6 @@
       ],
       "startDate": "2025-10-25T19:30:00",
       "url": "https://www.skillboxes.com/events/the-last-cigarette-tour-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Tuesday night is calling!📢 Head over for an epic party with DJ Rohit and Roan. Ladies, enjoy unlimited free drinks all night long! Plus, get a 20% off your drinks. Don’t miss out on the fun!Free entry for coupl",
-      "endDate": "2025-10-22T00:30:00",
-      "identifier": "com.skillboxes.27270",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZTBUb1FOd3k5QXo5ZmxvS3hBOHVQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1755598275OJVusl4iHSp1YIfM.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No.40, 4th B Cross, 5th Block industrial layout, Koramangala Bangalore, India",
-         "name": "HAPPY BREW"
-      },
-      "name": "Tease Tuesdays at Happy Brew Kormangala",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover  charges applicable through out the event\n",
-            "inventoryLevel": 499,
-            "name": "Stag",
-            "url": "https://www.skillboxes.com/events/ticket/tease-tuesdays-at-happy-brew-kormangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "one pass allow one single entry\n",
-            "inventoryLevel": 500,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/tease-tuesdays-at-happy-brew-kormangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Free entry till 0930pm post cover charges applicable\n",
-            "inventoryLevel": 500,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/tease-tuesdays-at-happy-brew-kormangala"
-         }
-      ],
-      "startDate": "2025-10-21T08:00:00",
-      "url": "https://www.skillboxes.com/events/tease-tuesdays-at-happy-brew-kormangala"
    },
    {
       "@context": "https://schema.org",
