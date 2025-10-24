@@ -1,101 +1,5 @@
 [
   {
-    "name": "Footy Session",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Beginner-Saturday-sep1",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Football",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Beginner-Saturday-sep1",
-    "image": "https://sistersinsweat.com/images/event/20250909174606437.jpg",
-    "location": {
-      "name": "Bullring, Indiranagar",
-      "address": "The Bull Ring Arena: THE BULLRING, 36, Old Madras Rd, next to BMTC 6th Depot, Indira Nagar II Stage, Hoysala Nagar, Indiranagar",
-      "type": "Place"
-    },
-    "startDate": "2025-10-25T07:00:00+05:30",
-    "endDate": "2025-10-25T08:30:00+05:30"
-  },
-  {
-    "name": "SIS x LIFTR - Mobility Workshop",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Mobility-Workshop-Beginner-Saturday",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Mobility",
-    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-Mobility-Workshop-Beginner-Saturday",
-    "image": "https://sistersinsweat.com/images/event/20251016125305685.JPG",
-    "location": {
-      "name": "LIFTR, HSR",
-      "address": "4th Floor, No, 1564, 27th Main Rd, 2nd Sector, BDA Layout, HSR Layout",
-      "type": "Place"
-    },
-    "startDate": "2025-10-25T10:00:00+05:30",
-    "endDate": "2025-10-25T11:30:00+05:30"
-  },
-  {
-    "name": "Baddy Session-Mix Level",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Saturdays-Oct21",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Badminton",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Saturdays-Oct21",
-    "image": "https://sistersinsweat.com/images/event/20250909173051440.jpg",
-    "location": {
-      "name": "Game Theory - Double road",
-      "address": "Game Theory Double Road Indiranagar",
-      "type": "Place"
-    },
-    "startDate": "2025-10-25T14:00:00+05:30",
-    "endDate": "2025-10-25T16:00:00+05:30"
-  },
-  {
     "name": "SIS x SAMA: Floating Hammock",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Floating-Hammock-Beginner-Saturday",
@@ -287,38 +191,6 @@
     "endDate": "2025-10-26T16:00:00+05:30"
   },
   {
-    "name": "Football Game-Night Sisters & Misters",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Intermediate-Tuesday4-Sep1",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Football",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Intermediate-Tuesday4-Sep1",
-    "image": "https://sistersinsweat.com/images/event/20250909175801142.jpeg",
-    "location": {
-      "name": "Rush Arena",
-      "address": "Rush Arena, Cooke Town Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
-      "type": "Place"
-    },
-    "startDate": "2025-10-28T20:00:00+05:30",
-    "endDate": "2025-10-28T21:30:00+05:30"
-  },
-  {
     "name": "Basketball Game, Night Sisters & Misters",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Tuesday-29-september",
@@ -445,6 +317,134 @@
     },
     "startDate": "2025-10-30T20:00:00+05:30",
     "endDate": "2025-10-30T21:30:00+05:30"
+  },
+  {
+    "name": "SIS X Nike Cricket Gamenight",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Gamenight-Beginner-Thursday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Cricket",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Gamenight-Beginner-Thursday",
+    "image": "https://www.sistersinsweat.com/images/event/20251024160700877.jpeg",
+    "location": {
+      "name": "Rush Arena, Cooke Town",
+      "address": "Rush Arena Cooke Town, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
+      "type": "Place"
+    },
+    "startDate": "2025-10-30T20:00:00+05:30",
+    "endDate": "2025-10-30T21:30:00+05:30"
+  },
+  {
+    "name": "Footy Session",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Beginner-Saturday-sep1",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Football",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Beginner-Saturday-sep1",
+    "image": "https://sistersinsweat.com/images/event/20250909174606437.jpg",
+    "location": {
+      "name": "Bullring, Indiranagar",
+      "address": "The Bull Ring Arena: THE BULLRING, 36, Old Madras Rd, next to BMTC 6th Depot, Indira Nagar II Stage, Hoysala Nagar, Indiranagar",
+      "type": "Place"
+    },
+    "startDate": "2025-11-01T07:00:00+05:30",
+    "endDate": "2025-11-01T08:30:00+05:30"
+  },
+  {
+    "name": "Baddy Session-Mix Level",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Saturdays-Oct21",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Badminton",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Saturdays-Oct21",
+    "image": "https://sistersinsweat.com/images/event/20250909173051440.jpg",
+    "location": {
+      "name": "Game Theory - Double road",
+      "address": "Game Theory Double Road Indiranagar",
+      "type": "Place"
+    },
+    "startDate": "2025-11-01T14:00:00+05:30",
+    "endDate": "2025-11-01T16:00:00+05:30"
+  },
+  {
+    "name": "Football Game-Night Sisters & Misters",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Intermediate-Tuesday4-Sep1",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Football",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Intermediate-Tuesday4-Sep1",
+    "image": "https://sistersinsweat.com/images/event/20250909175801142.jpeg",
+    "location": {
+      "name": "Rush Arena",
+      "address": "Rush Arena, Cooke Town Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
+      "type": "Place"
+    },
+    "startDate": "2025-11-04T20:00:00+05:30",
+    "endDate": "2025-11-04T21:30:00+05:30"
   },
   {
     "name": "SIS 8 Year Anniversary Party",
