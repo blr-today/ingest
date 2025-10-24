@@ -2,6 +2,41 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Rock, Progressive, Live, Indie even in Benaluru.",
+      "endDate": "2025-11-15T23:59:00",
+      "identifier": "com.skillboxes.29946",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1761323931gS7A4UoSLGG7Oknt.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "28 2nd phase, Doddanakundi Industrial Area 2, Industrial Area, Mahadevapura, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9877819",
+            "longitude": "77.708815"
+         },
+         "name": "Brix and Barrells"
+      },
+      "name": "Param",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "INR 500 cover charge will apply at the venue, redeemable against food and beverages.\n",
+            "inventoryLevel": 1000,
+            "name": "Entry Ticket",
+            "url": "https://www.skillboxes.com/events/ticket/param"
+         }
+      ],
+      "startDate": "2025-11-15T19:00:00",
+      "url": "https://www.skillboxes.com/events/param"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "➽➽\n(Official\nWebsite) → https://globalhealthfarmcbdgummies.com/",
       "endDate": "2025-10-25T00:53:00",
       "identifier": "com.skillboxes.29931",
@@ -106,49 +141,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Before the big day hits on the 31st, we’re kicking things off with a massive curtain raiser tonight at Fandom, Gilly's Redefined, Bengaluru!Get ready for an unforgettable evening as Hologram the Band, Deep Rasaily",
-      "endDate": "2025-10-24T22:29:00",
-      "identifier": "com.skillboxes.29906",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/bm5scjdWdFptQUJZK0VSYUpvRm53QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17612931169VxfVwVcxXEqfQAC.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Music Festivals"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Fandom at Gilly's Redefined",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12",
-            "longitude": "77"
-         },
-         "name": "FANDOM"
-      },
-      "name": "Rocktoberfest Curtain Raiser at Fandom",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Fully Redeemable 500 cover at gate mandatory\n",
-            "inventoryLevel": 46,
-            "name": "Single",
-            "url": "https://www.skillboxes.com/events/ticket/rocktoberfest-curtain-raiser-at-fandom"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Fully redeemable 500 cover at gate\n",
-            "inventoryLevel": 50,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/rocktoberfest-curtain-raiser-at-fandom"
-         }
-      ],
-      "startDate": "2025-10-24T20:00:00",
-      "url": "https://www.skillboxes.com/events/rocktoberfest-curtain-raiser-at-fandom"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "The Ritual: A Fairy Forest Walk by The Mango TreeJoin us for The Ritual, an immersive forest experience designed to reconnect",
       "endDate": "2025-11-16T20:00:00",
       "identifier": "com.skillboxes.29895",
@@ -222,57 +214,6 @@
       ],
       "startDate": "2025-10-26T20:45:00",
       "url": "https://www.skillboxes.com/events/laliga-el-clasico-live-screening-watson-s-indiranagar-bangalore-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Astralworx presents Heat ft. Aida Arko",
-      "endDate": "2025-10-24T23:59:00",
-      "identifier": "com.skillboxes.29883",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1761214569Obp49ev5bLyNiNJT.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "HOTEL, THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9924198",
-            "longitude": "77.5824663"
-         },
-         "name": "Kitty Ko"
-      },
-      "name": "Astralworx presents Heat ft. Aida Arko",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each ticket admits one individual,Cover charges applicable throughout the show.\n",
-            "inventoryLevel": 1000,
-            "name": "Female Pass",
-            "url": "https://www.skillboxes.com/events/ticket/astralworx-presents-heat-ft-aida-arko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each ticket admits one individual,Cover charges applicable throughout the show.\n",
-            "inventoryLevel": 999,
-            "name": "Male Pass",
-            "url": "https://www.skillboxes.com/events/ticket/astralworx-presents-heat-ft-aida-arko"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Each ticket admits one individual,Cover charges applicable throughout the show.\n",
-            "inventoryLevel": 1000,
-            "name": "Couple Pass",
-            "url": "https://www.skillboxes.com/events/ticket/astralworx-presents-heat-ft-aida-arko"
-         }
-      ],
-      "startDate": "2025-10-24T20:00:00",
-      "url": "https://www.skillboxes.com/events/astralworx-presents-heat-ft-aida-arko"
    },
    {
       "@context": "https://schema.org",
@@ -494,40 +435,6 @@
       ],
       "startDate": "2025-10-30T20:00:00",
       "url": "https://www.skillboxes.com/events/moksha-360-presents-janusz-prusinowski-kompania-the-dancemasters"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "JST NOICE",
-      "endDate": "2025-10-24T23:59:00",
-      "identifier": "com.skillboxes.29796",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1761074545XFv0SVaxk78D2CP7.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Indiranagar Social",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9707322",
-            "longitude": "77.6476391"
-         },
-         "name": "Indiranagar Social"
-      },
-      "name": "JST NOICE",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 993,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/jst-noice"
-         }
-      ],
-      "startDate": "2025-10-24T20:00:00",
-      "url": "https://www.skillboxes.com/events/jst-noice"
    },
    {
       "@context": "https://schema.org",
@@ -900,40 +807,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bedroom Dance Party: Halloween Edition 🎃\r\n\r\nFeaturing: Tonkatsukitty, Master Shifu, & Priaa\r\n\r\nGet ready to transform the most intimate space of your home into an underground haven. Clear the floor, kill the overhead light, an",
-      "endDate": "2025-10-24T23:59:00",
-      "identifier": "com.skillboxes.29689",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17607052861vsLYqUHdFUc7bBs.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, Hal, New Tippasandra, Bengaluru, Karnataka 560075, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9707322",
-            "longitude": "77.6476391"
-         },
-         "name": "Indiranagar Social"
-      },
-      "name": "Bedroom Dance Party #INDIRANAGARSOCIAL",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 996,
-            "name": "Entry Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/bedroom-dance-party"
-         }
-      ],
-      "startDate": "2025-10-24T20:00:00",
-      "url": "https://www.skillboxes.com/events/bedroom-dance-party"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Bengaluru, get ready to feel the heartbeat of Hyderabad! The Deccan Project – Hyderabad’s Party Band – is bringing its electrifying live act to your city for a special event at White Lotus Club, HSR Layout. Known for their infect",
       "endDate": "2025-10-26T23:59:00",
       "identifier": "com.skillboxes.29676",
@@ -973,41 +846,6 @@
       ],
       "startDate": "2025-10-26T20:00:00",
       "url": "https://www.skillboxes.com/events/the-deccan-project-live"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Jalssa Ft. Aksharband Tollywood Night",
-      "endDate": "2025-10-24T23:59:00",
-      "identifier": "com.skillboxes.29674",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1760690288B6wgVql6MSNwxl5v.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "RT Nagar, Bengaluru, Karnataka, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "13.0247291",
-            "longitude": "77.5947532"
-         },
-         "name": "RT Nagar"
-      },
-      "name": "Jalssa Ft. Aksharband Tollywood Night",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "INR 1000 per individual cover charge applicable at the gates.\n",
-            "inventoryLevel": 998,
-            "name": "Regular Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/jalssa-ft-aksharband-tollywood-night"
-         }
-      ],
-      "startDate": "2025-10-24T20:00:00",
-      "url": "https://www.skillboxes.com/events/jalssa-ft-aksharband-tollywood-night"
    },
    {
       "@context": "https://schema.org",
@@ -1605,92 +1443,6 @@
       ],
       "startDate": "2025-11-16T20:00:00",
       "url": "https://www.skillboxes.com/events/oafbiggigs-ed-4-presents-chokehold-v1-ft-among-the-signs-lotus-midhaven-eccentric-pendulum"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Get ready to unleash the chaos! SPADE PIRATES is bringing RAW energy and pure grunge to “By Chance”, Brigade Road, in a thunderous tribute to NIRVANA. With Natauku kicking off the event with some eccentric grunge renditions, you gotta ",
-      "endDate": "2025-10-24T23:59:00",
-      "identifier": "com.skillboxes.29071",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1759831353RM8QCqEmAhDohF9t.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No 51 & 52, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9731348",
-            "longitude": "77.6074382"
-         },
-         "name": "By Chance - Resto Pub"
-      },
-      "name": "COME AS YOU ARE",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable at gates\n",
-            "inventoryLevel": 962,
-            "name": "Entry Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/come-as-you-are"
-         }
-      ],
-      "startDate": "2025-10-24T19:00:00",
-      "url": "https://www.skillboxes.com/events/come-as-you-are"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "A powerhouse of energy and rhythm, our rock band brings a thrilling fusion of Bollywood and Sandalwood hits to the stage! With electrifying guitars, dynamic vocals, and groovy beats, we reimagine your favourite songs with a fresh rock twist.",
-      "endDate": "2025-10-24T22:30:00",
-      "identifier": "com.skillboxes.29056",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/bm5scjdWdFptQUJZK0VSYUpvRm53QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1759690167ZW2CdGQHSqWFzOLa.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Fandom at Gilly's Redefined",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12",
-            "longitude": "77"
-         },
-         "name": "FANDOM"
-      },
-      "name": "NADABRAHMA - THE CARAVAAN BAND",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "A Mandatory cover charge of 500/- will be charged at gate\n",
-            "inventoryLevel": 50,
-            "name": "STAG",
-            "url": "https://www.skillboxes.com/events/ticket/nadabrahma-the-caravaan-band"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "A Mandatory cover charge of 500/- will be charged at gate\n",
-            "inventoryLevel": 20,
-            "name": "COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/nadabrahma-the-caravaan-band"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "A Mandatory cover charge of 500/- will be charged at gate\n",
-            "inventoryLevel": 8,
-            "name": "GROUP OF 4",
-            "url": "https://www.skillboxes.com/events/ticket/nadabrahma-the-caravaan-band"
-         }
-      ],
-      "startDate": "2025-10-24T19:00:00",
-      "url": "https://www.skillboxes.com/events/nadabrahma-the-caravaan-band"
    },
    {
       "@context": "https://schema.org",
