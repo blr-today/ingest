@@ -2,36 +2,45 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": " \r\n\r\n11 time Grammy nominated sitarist Anoushka Shankar celebrates 30 years of live performance with the announcement of her highly anticipated India Tour, in partnership with SkillBox and Red FM India, and presented by Kotak M",
-      "endDate": "2026-01-31T23:59:00",
-      "identifier": "com.skillboxes.29474",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1760442548xfABt9YI7bUQAtyR.png.webp",
-      "isAccessibleForFree": true,
+      "description": "The Ritual: A Fairy Forest Walk by The Mango TreeJoin us for The Ritual, an immersive forest experience designed to reconnect",
+      "endDate": "2025-11-16T20:00:00",
+      "identifier": "com.skillboxes.29895",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/SUd2eTZwZVU4ZDdZTTN4Wi9XNng3QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17612777021si883Hmp3yCj754.jpg.webp",
+      "isAccessibleForFree": false,
       "keywords": [
-         "Concert"
+         "Retreat"
       ],
       "location": {
          "@type": "Place",
-         "address": "India",
+         "address": "Avalahalli, Karnataka 560119, India",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "20.593684",
-            "longitude": "78.96288"
+            "latitude": "13.1361245",
+            "longitude": "77.5655242"
          },
-         "name": "TBA"
+         "name": "Avalahalli Forest"
       },
-      "name": "Anoushka Shankar Tour | Bangalore | Pre-Registration",
+      "name": "The Ritual",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 6617,
-            "name": "Pre-registration Pass",
-            "url": "https://www.skillboxes.com/events/ticket/anoushka-shankar-tour-bangalore"
+            "description": "Inclusive of all activities and refreshments\n",
+            "inventoryLevel": 25,
+            "name": "15th Nov 2025",
+            "url": "https://www.skillboxes.com/events/ticket/the-ritual"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Inclusive of all activities and refreshments\n",
+            "inventoryLevel": 25,
+            "name": "16th Nov 2025",
+            "url": "https://www.skillboxes.com/events/ticket/the-ritual"
          }
       ],
-      "startDate": "2026-01-31T20:00:00",
-      "url": "https://www.skillboxes.com/events/anoushka-shankar-tour-bangalore"
+      "startDate": "2025-11-15T15:00:00",
+      "url": "https://www.skillboxes.com/events/the-ritual"
    },
    {
       "@context": "https://schema.org",
@@ -1123,6 +1132,40 @@
       ],
       "startDate": "2026-03-03T17:00:00",
       "url": "https://www.skillboxes.com/events/behemoth-live-in-bangalore-chant-of-the-eastern-lands-tour-2026"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": " \r\n\r\n11 time Grammy nominated sitarist Anoushka Shankar celebrates 30 years of live performance with the announcement of her highly anticipated India Tour, in partnership with SkillBox and Red FM India, and presented by Kotak M",
+      "endDate": "2026-01-31T23:59:00",
+      "identifier": "com.skillboxes.29474",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1760442548xfABt9YI7bUQAtyR.png.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Concert"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "20.593684",
+            "longitude": "78.96288"
+         },
+         "name": "TBA"
+      },
+      "name": "Anoushka Shankar Tour | Bangalore | Pre-Registration",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 6617,
+            "name": "Pre-registration Pass",
+            "url": "https://www.skillboxes.com/events/ticket/anoushka-shankar-tour-bangalore"
+         }
+      ],
+      "startDate": "2026-01-31T20:00:00",
+      "url": "https://www.skillboxes.com/events/anoushka-shankar-tour-bangalore"
    },
    {
       "@context": "https://schema.org",
