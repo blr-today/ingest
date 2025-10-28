@@ -53,6 +53,108 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Kick those Sunday blues to the curb! This Sunday, Skydeck by Sherlock's is transforming into the ultimate party destination for a DJ Night you won't want to miss!We're serving up a hot mix o",
+      "endDate": "2025-11-02T23:59:00",
+      "identifier": "com.skillboxes.30125",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1761663032bxfhAjDHZGbfRr8T.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750383",
+            "longitude": "77.6076491"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Sundaze & Sounds! Hip-Hop Commercial DJ Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/sundaze-sounds-hip-hop-commercial-dj-night-6"
+         }
+      ],
+      "startDate": "2025-11-02T20:00:00",
+      "url": "https://www.skillboxes.com/events/sundaze-sounds-hip-hop-commercial-dj-night-6"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Rock Anthems & Rooftop Vibes!Rewind and rock out! This Thursday, 8 PM onwards, Skydeck by Sherlock's is serving up another epic Throwback Thursday DJ Night, exclusively for rock music fans!",
+      "endDate": "2025-10-30T23:59:00",
+      "identifier": "com.skillboxes.30124",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17616622583evhI92E0cSXSRJC.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750383",
+            "longitude": "77.6076491"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Echoes Of Rock - Tribute to Rock & Retro Music",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/echoes-of-rock-tribute-to-rock-retro-music-4"
+         }
+      ],
+      "startDate": "2025-10-30T20:00:00",
+      "url": "https://www.skillboxes.com/events/echoes-of-rock-tribute-to-rock-retro-music-4"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready to own your Wednesday night!Join us this Wednesday, at Skydeck by Sherlock's for a spectacular LIVE band performance!We're bringing you the perfect blend of your favorite Engli",
+      "endDate": "2025-10-29T23:59:00",
+      "identifier": "com.skillboxes.30118",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17616580701yG8pVHfhz9SdxNl.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Live Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750383",
+            "longitude": "77.6076491"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Deck Gigs - A Night Of LIVE Music",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/deck-gigs-a-night-of-live-music-4"
+         }
+      ],
+      "startDate": "2025-10-29T20:00:00",
+      "url": "https://www.skillboxes.com/events/deck-gigs-a-night-of-live-music-4"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "After making waves across the Indian indie scene with his debut EP Liquid Sunshine and a string of explosive live sets at stages like Echoes of Earth, Tarang Joseph is bringing his signature disco-funk live experience to a 3-city tour across India",
       "endDate": "2025-11-29T23:59:00",
       "identifier": "com.skillboxes.30114",
@@ -392,7 +494,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Experience an unforgettable night of cross-cultural rhythm and sound.\r\n\r\nFrom Germany to Bangalore - drummer, composer, and musical globetrotter Magnus Dauner brings his acclaimed project Portrait in Rhythm to India, accompanied by five vir",
+      "description": "Experience an unforgettable night of cross-cultural rhythm and sound.From Germany to Bangalore, drummer, composer, and musical globetrotter Magnus Dauner brings his acclaimed project Portrait in Rhyth",
       "endDate": "2025-11-09T23:59:00",
       "identifier": "com.skillboxes.30053",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/176157560471Cc7W1TMkXGFroC.jpg.webp",
@@ -837,49 +939,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "A Stand-Up Comedy Open Mic By ShreeksComedy at Sly (Formerly Sherlocks), Frazer Town. A Dose of Comedy Served to You By 8 Odd Comedians (Experienced Veterans to New Comics) Offering A Wide Variety of Jokes for You to Enjoy! Some",
-      "endDate": "2025-10-28T22:30:00",
-      "identifier": "com.skillboxes.29934",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YjVGMFFrbkhsWmtwcWtWd1c2czNqUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1761303949a3UxcTYOdr9urMHD.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Comedy Events"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No. 60, 1, Coles Rd, Cleveland Town, Frazer Town, Bengaluru, Karnataka 560005, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9947181",
-            "longitude": "77.615015"
-         },
-         "name": "SLY BENGALURU"
-      },
-      "name": "Standup Comedy @SLY Frazer Town",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows one person to the event\n",
-            "inventoryLevel": 4,
-            "name": "Entry for one",
-            "url": "https://www.skillboxes.com/events/ticket/skillboxes-com"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows one couple to the event\n",
-            "inventoryLevel": 4,
-            "name": "Couple's Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/skillboxes-com"
-         }
-      ],
-      "startDate": "2025-10-28T21:00:00",
-      "url": "https://www.skillboxes.com/events/skillboxes-com"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "FutureSound is back! ⚡We’re kicking things off with a massive open-air night featuring Avalon (Nano Records, UK) — a global force in the underground scene.From Tomorrowland to EDC Las Vegas and from boom ",
       "endDate": "2025-11-08T01:00:00",
       "identifier": "com.skillboxes.29916",
@@ -1314,7 +1373,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "GA Standing Zone – Valid for one person in the GA Area\n",
-            "inventoryLevel": 424,
+            "inventoryLevel": 415,
             "name": "Phase 1 GA",
             "url": "https://www.skillboxes.com/events/ticket/blue-25th-anniversary"
          },
@@ -1322,7 +1381,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Fan Zone – Valid for one person in the Fan Area\n",
-            "inventoryLevel": 236,
+            "inventoryLevel": 232,
             "name": "Phase 1 Fan Pit",
             "url": "https://www.skillboxes.com/events/ticket/blue-25th-anniversary"
          },
@@ -1458,7 +1517,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General Access | Allows one individual\n",
-            "inventoryLevel": 301,
+            "inventoryLevel": 291,
             "name": "Phase 1 | GA - Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/behemoth-live-in-bangalore-chant-of-the-eastern-lands-tour-2026"
          },
