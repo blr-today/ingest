@@ -413,5 +413,37 @@
     },
     "startDate": "2025-11-09T08:30:00+05:30",
     "endDate": "2025-11-09T10:00:00+05:30"
+  },
+  {
+    "name": "Sweat Fest Bangalore",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Event-Sweat-Fest",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Event",
+    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-Event-Sweat-Fest",
+    "image": "https://sistersinsweat.com/images/event/20251030120753376.jpeg",
+    "location": {
+      "name": "Depot18 - Sports",
+      "address": "Depot18 - Sports, Chamundi Hotel Compound, Jayamahal Main Rd, opposite Jayamahal Palace, Jayamahal",
+      "type": "Place"
+    },
+    "startDate": "2025-11-16T07:00:00+05:30",
+    "endDate": "2025-11-16T11:00:00+05:30"
   }
 ]
