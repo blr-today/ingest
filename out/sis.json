@@ -223,38 +223,6 @@
     "endDate": "2025-11-02T09:45:00+05:30"
   },
   {
-    "name": "Football Game-Night Sisters & Misters",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Intermediate-Tuesday4-Sep1",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Football",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Intermediate-Tuesday4-Sep1",
-    "image": "https://sistersinsweat.com/images/event/20250909175801142.jpeg",
-    "location": {
-      "name": "Rush Arena",
-      "address": "Rush Arena, Cooke Town Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
-      "type": "Place"
-    },
-    "startDate": "2025-11-04T20:00:00+05:30",
-    "endDate": "2025-11-04T21:30:00+05:30"
-  },
-  {
     "name": "Basketball Game, Night Sisters & Misters",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Tuesday-29-september",
@@ -317,6 +285,38 @@
     },
     "startDate": "2025-11-04T20:00:00+05:30",
     "endDate": "2025-11-04T21:30:00+05:30"
+  },
+  {
+    "name": "Basketball Session",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wedneday-29oct",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Basketball",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wedneday-29oct",
+    "image": "https://sistersinsweat.com/images/event/20250909172210879.jpg",
+    "location": {
+      "name": "St. Joseph's Arts And Science College",
+      "address": "St. Joseph's Arts And Science College #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens",
+      "type": "Place"
+    },
+    "startDate": "2025-11-05T20:00:00+05:30",
+    "endDate": "2025-11-05T21:30:00+05:30"
   },
   {
     "name": "Pickleball with the Sisters (GoRally x SIS)",
@@ -413,6 +413,38 @@
     },
     "startDate": "2025-11-09T08:30:00+05:30",
     "endDate": "2025-11-09T10:00:00+05:30"
+  },
+  {
+    "name": "Football Game-Night Sisters & Misters",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Tuesday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Football",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Tuesday",
+    "image": "https://sistersinsweat.com/images/event/20250909175801142.jpeg",
+    "location": {
+      "name": "Rush Arena",
+      "address": "Rush Arena, Cooke Town Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
+      "type": "Place"
+    },
+    "startDate": "2025-11-11T20:00:00+05:30",
+    "endDate": "2025-11-11T21:30:00+05:30"
   },
   {
     "name": "Sweat Fest Bangalore",
