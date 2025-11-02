@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "url": "https://www.sofarsounds.com/events/63468",
+    "startDate": "2025-11-29T16:00:00+05:30",
+    "doorTime": "2025-11-29T15:30:00+05:30",
+    "endDate": "2025-11-29T18:00:00+05:30",
+    "name": "Sofar concertRecording Studio in Bangalore",
+    "description": "An intimate concert by Sofar Sounds, at an offbeat venue. Venue details will be disclosed 36 hours before the event.",
+    "location": {
+      "@type": "Place",
+      "address": "Bangalore"
+    },
+    "image": "https://sofar-sounds-live.imgix.net/images/default-images/event-image-pool/home-indoor/home-indoor-event-image-18.jpg?ixlib=rails-4.3.1&auto=format&fit=crop&crop=entropy&ar=1:1&q=50",
+    "remainingAttendeeCapacity": 98,
+    "offers": {
+      "@type": "Offer",
+      "price": 854.0,
+      "priceCurrency": "INR",
+      "availability": "https://schema.org/InStock"
+    }
+  }
+]
