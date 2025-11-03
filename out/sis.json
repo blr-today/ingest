@@ -128,6 +128,38 @@
     "endDate": "2025-11-06T21:30:00+05:30"
   },
   {
+    "name": "SIS x Nike Cricket Coaching",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Beginner-Thursday-23oct",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Cricket",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Beginner-Thursday-23oct",
+    "image": "https://sistersinsweat.com/images/event/20251003143712860.png",
+    "location": {
+      "name": "Rush Arena",
+      "address": "Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
+      "type": "Place"
+    },
+    "startDate": "2025-11-06T20:00:00+05:30",
+    "endDate": "2025-11-06T21:30:00+05:30"
+  },
+  {
     "name": "B'ball With Sisters - Intermediate",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Friday-24oct",
@@ -154,6 +186,38 @@
     "location": {
       "name": "St. Joseph's Arts And Science College",
       "address": "St. Joseph's Arts & Science College 36, Langford Rd, Langford Gardens",
+      "type": "Place"
+    },
+    "startDate": "2025-11-07T07:00:00+05:30",
+    "endDate": "2025-11-07T08:30:00+05:30"
+  },
+  {
+    "name": "Football Session",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Intermediate-Friday",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Football",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Intermediate-Friday",
+    "image": "https://sistersinsweat.com/images/event/20250812155008702.jpg",
+    "location": {
+      "name": "SUFC, Ulsoor",
+      "address": "SUFC Gate No. 3, United Football Club, RBANM\u2019s Ground, South, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake",
       "type": "Place"
     },
     "startDate": "2025-11-07T07:00:00+05:30",
@@ -222,6 +286,133 @@
     },
     "startDate": "2025-11-08T07:00:00+05:30",
     "endDate": "2025-11-08T08:30:00+05:30"
+  },
+  {
+    "name": "WPBL Starter Camp",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-WPBL-Starter-Camp",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "WPBL",
+    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-WPBL-Starter-Camp",
+    "image": "https://sistersinsweat.com/images/event/20251103102448983.png",
+    "location": {
+      "name": "GoRally Pickleball Indiranagar",
+      "address": "GoRally Pickleball Indiranagar (HAL Old Airport Rd)",
+      "type": "Place"
+    },
+    "startDate": "2025-11-08T11:00:00+05:30",
+    "endDate": "2025-11-08T13:00:00+05:30"
+  },
+  {
+    "name": "Baddy Session-Mix Level",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Saturdays-Oct21",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Badminton",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Saturdays-Oct21",
+    "image": "https://sistersinsweat.com/images/event/20250909173051440.jpg",
+    "location": {
+      "name": "Game Theory - Double road",
+      "address": "Game Theory Double Road Indiranagar",
+      "type": "Place"
+    },
+    "startDate": "2025-11-08T14:00:00+05:30",
+    "endDate": "2025-11-08T16:00:00+05:30"
+  },
+  {
+    "name": "Run Session",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-Oct19",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Run",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-Oct19",
+    "image": "https://sistersinsweat.com/images/event/20250412154311146.jpg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2025-11-09T06:45:00+05:30",
+    "endDate": "2025-11-09T08:15:00+05:30"
+  },
+  {
+    "name": "Yoga with Sisters & Misters",
+    "@type": "SocialEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Beginner-Sunday-Oct19",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SESSION"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Beginner-Sunday-Oct19",
+    "image": "https://sistersinsweat.com/images/event/20250909165925685.jpg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2025-11-09T08:30:00+05:30",
+    "endDate": "2025-11-09T09:45:00+05:30"
   },
   {
     "name": "Get Tagda with Tanvie",
@@ -320,6 +511,38 @@
     "endDate": "2025-11-14T08:30:00+05:30"
   },
   {
+    "name": "WPBL Socials",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-WPBL-Socials",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "WPBL",
+    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-WPBL-Socials",
+    "image": "https://sistersinsweat.com/images/event/20251103103456481.png",
+    "location": {
+      "name": "GoRally Pickleball Indiranagar",
+      "address": "GoRally Pickleball Indiranagar (HAL Old Airport Rd)",
+      "type": "Place"
+    },
+    "startDate": "2025-11-15T19:00:00+05:30",
+    "endDate": "2025-11-15T21:30:00+05:30"
+  },
+  {
     "name": "Sweat Fest Bangalore",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Event-Sweat-Fest",
@@ -352,9 +575,9 @@
     "endDate": "2025-11-16T11:00:00+05:30"
   },
   {
-    "name": "Run Session",
+    "name": "SIS X Nike Cricket Gamenight",
     "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-Oct19",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Gamenight-Beginner-Thursday",
     "@context": "https://schema.org",
     "keywords": [
       "SISTERSINSWEAT",
@@ -372,15 +595,15 @@
       "name": "Sisters In Sweat",
       "url": "https://sistersinsweat.com"
     },
-    "sport": "Run",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-Oct19",
-    "image": "https://sistersinsweat.com/images/event/20250412154311146.jpg",
+    "sport": "Cricket",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Gamenight-Beginner-Thursday",
+    "image": "https://www.sistersinsweat.com/images/event/20251024160700877.jpeg",
     "location": {
-      "name": "Cubbon Park",
-      "address": "Kasturba Road, Bangalore",
+      "name": "Rush Arena, Cooke Town",
+      "address": "Rush Arena Cooke Town, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
       "type": "Place"
     },
-    "startDate": "2025-11-30T06:45:00+05:30",
-    "endDate": "2025-11-30T08:15:00+05:30"
+    "startDate": "2025-11-27T20:00:00+05:30",
+    "endDate": "2025-11-27T21:30:00+05:30"
   }
 ]
