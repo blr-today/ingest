@@ -2,6 +2,49 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "After shutting down cities across India with sold-out shows, The Karma Tour is back, bigger and louder than ever. Just rap the way it’s meant to be—bold,raw,  and unapologetic. A reminder that karma always comes full circle.",
+      "endDate": "2026-01-20T23:59:00",
+      "identifier": "com.skillboxes.30442",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1762256041IzRGInk6Rsc1P0E7.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th, Block 413, 100 Feet Rd, off Gillys redefined, KHB Block Koramangala, Koramangala 4-B Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.933341",
+            "longitude": "77.623648"
+         },
+         "name": "Fandom at Gilly's Redefined"
+      },
+      "name": "The Karma Tour || Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional cover charge INR 500/- per individual applicable at gate. Redeemable on F&B\n",
+            "inventoryLevel": 182,
+            "name": "Phase 1 || Single Pass",
+            "url": "https://www.skillboxes.com/events/ticket/the-karma-tour-Bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Additional cover charge INR 500/- per individual applicable at gate. Redeemable on F&B\n",
+            "inventoryLevel": 0,
+            "name": "Early Bird || Single Pass",
+            "url": "https://www.skillboxes.com/events/ticket/the-karma-tour-Bangalore"
+         }
+      ],
+      "startDate": "2026-01-20T20:00:00",
+      "url": "https://www.skillboxes.com/events/the-karma-tour-Bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "1. Two SIDES at the entry gate to choose from :  \r\n\r\n○  128 Side (House) — for the groove lovers. \r\n\r\n○  808 Side (Hip Hop) — for the bar-spitters & bass-heads. \r\n\r\n \r\n\r\n",
       "endDate": "2025-11-08T01:00:00",
       "identifier": "com.skillboxes.29878",
@@ -26,8 +69,24 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Free Entry Entire Night\nLimited Quantity Tix",
-            "inventoryLevel": 17,
+            "inventoryLevel": 6,
             "name": "Female || Guestlist Pass",
+            "url": "https://www.skillboxes.com/events/ticket/808-128-hip-hop-boiler-room-edition-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Male Pass, Additional Cover Charge Applicable at the venue\n",
+            "inventoryLevel": 150,
+            "name": "Humming bird × Leki | Male Fan Pass",
+            "url": "https://www.skillboxes.com/events/ticket/808-128-hip-hop-boiler-room-edition-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "No Cover Charges before 9:30pm, Additional Cover charges only applicable after 9:30pm\n",
+            "inventoryLevel": 99,
+            "name": "Hummingbird × Leki | Couple Fan Pass",
             "url": "https://www.skillboxes.com/events/ticket/808-128-hip-hop-boiler-room-edition-1"
          },
          {
@@ -42,13 +101,156 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable at the entry throughout the event.\n8-8:30PM : 1000 Cover Charge, 9:30PM onwards- 2000 Cover Charge",
-            "inventoryLevel": 99,
+            "inventoryLevel": 97,
             "name": "Male Pass",
             "url": "https://www.skillboxes.com/events/ticket/808-128-hip-hop-boiler-room-edition-1"
          }
       ],
       "startDate": "2025-11-08T20:00:00",
       "url": "https://www.skillboxes.com/events/808-128-hip-hop-boiler-room-edition-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Elevate your Friday night!Join us at the stunning Skydeck by Sherlock's for an unforgettable DJ night featuring the biggest Commercial hits and your favorite Bollywood bangers.Dance under the stars ",
+      "endDate": "2025-11-07T23:59:00",
+      "identifier": "com.skillboxes.30481",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/176225945048uVj90wzw47UNCJ.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750383",
+            "longitude": "77.6076491"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Mixtape Madness - Commercial & Bollywood DJ Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/mixtape-madness-commercial-bollywood-dj-night-12"
+         }
+      ],
+      "startDate": "2025-11-07T20:00:00",
+      "url": "https://www.skillboxes.com/events/mixtape-madness-commercial-bollywood-dj-night-12"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Rock Anthems & Rooftop Vibes!Rewind and rock out! This Thursday, 8 PM onwards, Skydeck by Sherlock's is serving up another epic Throwback Thursday DJ Night, exclusively for rock music fans!O",
+      "endDate": "2025-11-06T23:59:00",
+      "identifier": "com.skillboxes.30478",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1762257013jIBrRJ58522zOZLB.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750383",
+            "longitude": "77.6076491"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Echoes Of Rock - Tribute to Rock & Retro Music",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/echoes-of-rock-tribute-to-rock-retro-music-5"
+         }
+      ],
+      "startDate": "2025-11-06T20:00:00",
+      "url": "https://www.skillboxes.com/events/echoes-of-rock-tribute-to-rock-retro-music-5"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready to own your Wednesday night!Join us this Wednesday, at Skydeck by Sherlock's for a spectacular LIVE band performance!We're bringing you the perfect blend of your favorite English hits performed ",
+      "endDate": "2025-11-05T23:59:00",
+      "identifier": "com.skillboxes.30471",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1762256016c3I2sk3EuU8m0T46.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Live Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9750383",
+            "longitude": "77.6076491"
+         },
+         "name": "SkyDeck by Sherlock's"
+      },
+      "name": "Deck Gigs - A Night Of LIVE Music",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/deck-gigs-a-night-of-live-music-5"
+         }
+      ],
+      "startDate": "2025-11-05T20:00:00",
+      "url": "https://www.skillboxes.com/events/deck-gigs-a-night-of-live-music-5"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Sunset Cinema Club, in collaboration with Hamilton Cocktail Bar, invites you to a timeless evening of romance, nostalgia, and the magic of love, with a cinematic tribute to the film that defined an era.\r\n\r\nThis edition of SCC Gourmet Cinema",
+      "endDate": "2025-11-09T16:00:00",
+      "identifier": "com.skillboxes.30467",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1762250680sVGyYj19ou6893qV.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Movie Screenings"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9820923",
+            "longitude": "77.7086283"
+         },
+         "name": "Hamilton Cocktail Bar"
+      },
+      "name": "SCC Gourmet Cinema - Dilwale Dulhania Le Jayenge",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Per Person Ticket + F&B (Includes 5 Course Tasting Menu + 2 Drinks) (Non Veg)",
+            "url": "https://www.skillboxes.com/events/ticket/scc-gourmet-cinema-dilwale-dulhania-le-jayenge"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Per Person Ticket + F&B (Includes 5 Course Tasting Menu + 2 Drinks) (Veg)",
+            "url": "https://www.skillboxes.com/events/ticket/scc-gourmet-cinema-dilwale-dulhania-le-jayenge"
+         }
+      ],
+      "startDate": "2025-11-09T12:00:00",
+      "url": "https://www.skillboxes.com/events/scc-gourmet-cinema-dilwale-dulhania-le-jayenge"
    },
    {
       "@context": "https://schema.org",
@@ -221,7 +423,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 998,
             "name": "Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/trapculture-x-social-present-section-140"
          }
@@ -352,7 +554,7 @@
          },
          "name": "BLR Brewing Co. - Eco World"
       },
-      "name": "BLR Brewing Co x Bamey’s: Born for the Love of Nepal 🇳🇵🍺",
+      "name": "BLR Brewing Co x Bamey’s: Born for the Love of Nepal🍺- Eco World",
       "offers": [
          {
             "@type": "Offer",
@@ -386,7 +588,7 @@
          },
          "name": "BLR Brewing Co - Electronic City"
       },
-      "name": "BLR Brewing Co x Bamey’s: Born for the Love of Nepal 🇳🇵🍺",
+      "name": "BLR Brewing Co x Bamey’s: Born for the Love of Nepal🍺- Electronic City",
       "offers": [
          {
             "@type": "Offer",
@@ -420,7 +622,7 @@
          },
          "name": "BLR Brewing Co - Whitefield"
       },
-      "name": "BLR Brewing Co x Bamey’s: Born for the Love of Nepal 🇳🇵🍺",
+      "name": "BLR Brewing Co x Bamey’s: Born for the Love of Nepal🍺- Whitefield",
       "offers": [
          {
             "@type": "Offer",
@@ -942,7 +1144,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Early Bird Ticket - Full Cover",
             "url": "https://www.skillboxes.com/events/ticket/nur-v-x-social-frat-house"
          }
@@ -1116,7 +1318,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "BYOB is compulsory – bring your own drinks and let your soul shine\nStarters served + refreshing non-alcoholic beverages",
-            "inventoryLevel": 10000,
+            "inventoryLevel": 9998,
             "name": "Entry Pass- Max 1 allowed",
             "url": "https://www.skillboxes.com/events/ticket/loysum-balcony-concert-5-0"
          },
@@ -1285,7 +1487,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 992,
+            "inventoryLevel": 989,
             "name": "Rsvp Ticket",
             "url": "https://www.skillboxes.com/events/ticket/tarang-joseph-presents-the-liquid-sunshine-tour-2028"
          }
@@ -1354,7 +1556,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 996,
             "name": "Entry Ticket",
             "url": "https://www.skillboxes.com/events/ticket/moksha-360-presents-magnus-dauner-portrait-in-rhythm"
          }
@@ -1490,7 +1692,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Stay in Standard room of Fairfield for a couple (Male and Female) Check-in Time: 1pm (31st Dec 2025) Check-Out: 11am (1st Jan 2026) Permits One Couple (Male and Female) to party at Ballroom Reserved Seating for the couple at the pool Buffet Dinner for Couple at Kava Buffet Breakfast on 1st Jan 2026 Unlimited Food and Beverages\n",
+            "description": "Stay in Standard room of Fairfield for a couple (Male and Female) Check-in Time: 1pm (31st Dec 2025) Check-Out: 11am (1st Jan 2026) Permits One Couple (Male and Female) to party at Ballroom Buffet Dinner for Couple at Kava Buffet Breakfast on 1st Jan 2026 Unlimited Food and Beverages\n",
             "inventoryLevel": 100,
             "name": "Couple Stay Standard Package- Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/unmask-the-night-edition-4-0-new-years-eve-2026"
@@ -1498,7 +1700,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Stay in Standard room of Fairfield for a couple (Male and Female) Check-in Time: 1pm (31st Dec 2025) Check-Out: 11am (1st Jan 2026) Permits One Couple (Male and Female) to party at Ballroom Buffet Dinner for Couple at Kava Buffet Breakfast on 1st Jan 2026 Unlimited Food and Beverages\n",
+            "description": "Stay in Standard room of Fairfield for a couple (Male and Female) Check-in Time: 1pm (31st Dec 2025) Check-Out: 11am (1st Jan 2026) Permits One Couple (Male and Female) to party at Ballroom Reserved Seating for the couple at the pool Buffet Dinner for Couple at Kava Buffet Breakfast on 1st Jan 2026 Unlimited Food and Beverages\n",
             "inventoryLevel": 50,
             "name": "Couple Stay Standard + Reserved Seating at Pool- Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/unmask-the-night-edition-4-0-new-years-eve-2026"
@@ -1634,6 +1836,54 @@
       ],
       "startDate": "2025-11-15T19:00:00",
       "url": "https://www.skillboxes.com/events/param"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Oddvision X Magnimusik presents Benza || Indiranagar SOCIAL | Bangalore ",
+      "endDate": "2025-11-09T23:59:00",
+      "identifier": "com.skillboxes.29941",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1761802295YTx10xg3RPzhSxh9.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, Hal, New Tippasandra, Bengaluru, Karnataka 560075, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9707322",
+            "longitude": "77.6476391"
+         },
+         "name": "Indiranagar Social"
+      },
+      "name": "Oddvision X Magnimusik presents Benza || Indiranagar SOCIAL | Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 46,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/oddvision-x-magnimusik-presents-benza-antisocial-hyderabad-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Group of 3",
+            "url": "https://www.skillboxes.com/events/ticket/oddvision-x-magnimusik-presents-benza-antisocial-hyderabad-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Group of 5",
+            "url": "https://www.skillboxes.com/events/ticket/oddvision-x-magnimusik-presents-benza-antisocial-hyderabad-1"
+         }
+      ],
+      "startDate": "2025-11-09T19:00:00",
+      "url": "https://www.skillboxes.com/events/oddvision-x-magnimusik-presents-benza-antisocial-hyderabad-1"
    },
    {
       "@context": "https://schema.org",
@@ -2011,6 +2261,55 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "inventoryLevel": 24,
+            "name": "GIRLS",
+            "url": "https://www.skillboxes.com/events/ticket/future-sound-open-air-ft-avalon"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 15,
+            "name": "STAG",
+            "url": "https://www.skillboxes.com/events/ticket/future-sound-open-air-ft-avalon"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 23,
+            "name": "VIP GIRLS",
+            "url": "https://www.skillboxes.com/events/ticket/future-sound-open-air-ft-avalon"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 4,
+            "name": "COUPLES",
+            "url": "https://www.skillboxes.com/events/ticket/future-sound-open-air-ft-avalon"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10,
+            "name": "VIP STAG",
+            "url": "https://www.skillboxes.com/events/ticket/future-sound-open-air-ft-avalon"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 4,
+            "name": "VIP COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/future-sound-open-air-ft-avalon"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 5,
+            "name": "GROUP OF 5",
+            "url": "https://www.skillboxes.com/events/ticket/future-sound-open-air-ft-avalon"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "Meet & Greet + Photo With Artist + Backstage Hangout\n",
             "inventoryLevel": 10,
             "name": "Backstage",
@@ -2105,7 +2404,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "GA Standing Zone – Valid for one person in the GA Area\n",
-            "inventoryLevel": 404,
+            "inventoryLevel": 401,
             "name": "Phase 1 GA",
             "url": "https://www.skillboxes.com/events/ticket/blue-25th-anniversary"
          },
@@ -2113,7 +2412,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Fan Zone – Valid for one person in the Fan Area\n",
-            "inventoryLevel": 178,
+            "inventoryLevel": 164,
             "name": "Phase 1 Fan Pit",
             "url": "https://www.skillboxes.com/events/ticket/blue-25th-anniversary"
          },
@@ -2214,7 +2513,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General Access | Allows one individual\n",
-            "inventoryLevel": 271,
+            "inventoryLevel": 263,
             "name": "Phase 1 | GA - Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/behemoth-live-in-bangalore-chant-of-the-eastern-lands-tour-2026"
          },
@@ -2461,7 +2760,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 26,
+            "inventoryLevel": 24,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/honey-words-ep-launch-party-by-perfect-strangers"
          },
@@ -2469,7 +2768,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows entry for 2 people.\n",
-            "inventoryLevel": 987,
+            "inventoryLevel": 983,
             "name": "Buddy Ticket",
             "url": "https://www.skillboxes.com/events/ticket/honey-words-ep-launch-party-by-perfect-strangers"
          },
@@ -2510,7 +2809,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 89,
+            "inventoryLevel": 88,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/oafbiggigs-ed-4-presents-chokehold-v1-ft-among-the-signs-lotus-midhaven-eccentric-pendulum"
          },
@@ -2700,6 +2999,32 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "“ Spinning back to the 2000s – Y2K vibes all night long !PACKAGES STARTS FROM 999 ONWARDS.1+1 on selected beverages from 07:00 p.m to 11:00 p.m !",
+      "endDate": "2025-11-05T23:59:00",
+      "identifier": "com.skillboxes.28596",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1758560428B1UIeiNs7vihstj6.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "The Park Hotel ,14/7, MG Road Bangalore, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "28",
+            "longitude": "77"
+         },
+         "name": "i-BAR"
+      },
+      "name": "Y2K NIGHTS ft. PRAMODH",
+      "offers": [ ],
+      "startDate": "2025-11-05T19:00:00",
+      "url": "https://www.skillboxes.com/events/y2k-nights-ft-pramodh"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "*SOCIAL Selects is the artist-first IP by SOCIAL, a pioneering platform designed to discover, nurture, and amplify the next wave of musical talent across India.* \r\n\r\n \r\n\r\nSiddharth Negi, better known as Boh!B, whose journey",
       "endDate": "2025-11-22T23:59:00",
       "identifier": "com.skillboxes.28537",
@@ -2808,14 +3133,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1137,
+            "inventoryLevel": 1129,
             "name": "Phase 2 | GA | Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/when-chai-met-toast-bangalore"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 144,
+            "inventoryLevel": 141,
             "name": "Phase 1 | Fanpit | Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/when-chai-met-toast-bangalore"
          },
@@ -2870,8 +3195,8 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Phase 2 Tickets",
+            "inventoryLevel": 60,
+            "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/hellstorm-fest"
          },
          {
@@ -2893,13 +3218,6 @@
             "availability": "InStock",
             "inventoryLevel": 7,
             "name": "Early Bird Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/hellstorm-fest"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 60,
-            "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/hellstorm-fest"
          }
       ],
@@ -2967,15 +3285,15 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charge INR 2000/- applicable at the gates. Redeemable on F&B\n",
-            "inventoryLevel": 9,
-            "name": "Early Bird | GA",
+            "inventoryLevel": 199,
+            "name": "Phase 1 | GA",
             "url": "https://www.skillboxes.com/events/ticket/hozho-india-tour-2025-bangalore"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charge INR 3000/- applicable at the gates. Redeemable on F&B\n",
-            "inventoryLevel": 239,
+            "inventoryLevel": 233,
             "name": "Early Bird | VIP",
             "url": "https://www.skillboxes.com/events/ticket/hozho-india-tour-2025-bangalore"
          },
@@ -2983,8 +3301,16 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charge INR 1000/- applicable at the gates.\n",
-            "inventoryLevel": 16,
+            "inventoryLevel": 14,
             "name": "Early Bird | Backstage",
+            "url": "https://www.skillboxes.com/events/ticket/hozho-india-tour-2025-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Additional mandatory cover charge INR 2000/- applicable at the gates. Redeemable on F&B\n",
+            "inventoryLevel": 0,
+            "name": "Early Bird | GA",
             "url": "https://www.skillboxes.com/events/ticket/hozho-india-tour-2025-bangalore"
          }
       ],
@@ -3197,7 +3523,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants access to one individual in General Zone.\n",
-            "inventoryLevel": 103,
+            "inventoryLevel": 97,
             "name": "Phase 1 GA || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -3205,7 +3531,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Nearest to the stage. Grants access to one individual in Fanpit Zone.\n",
-            "inventoryLevel": 768,
+            "inventoryLevel": 763,
             "name": "Phase 1 Fanpit || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -3213,7 +3539,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants access to two individual in General Zone.\n",
-            "inventoryLevel": 229,
+            "inventoryLevel": 225,
             "name": "Phase 1 GA || Group of 2",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
@@ -3221,7 +3547,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Nearest to the stage. Grants access to two individual in Fanpit Zone.\n",
-            "inventoryLevel": 227,
+            "inventoryLevel": 221,
             "name": "Phase 1 Fanpit || Group of 2",
             "url": "https://www.skillboxes.com/events/ticket/jacob-collier-live-in-bengaluru-djesse-world-tour-2025"
          },
