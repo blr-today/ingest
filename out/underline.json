@@ -2,41 +2,6 @@
    {
       "@context": "https://schema.org",
       "@type": "SocialEvent",
-      "endDate": "2025-11-09T17:30:00.000Z",
-      "eventAttendanceMode": "OfflineEventAttendanceMode",
-      "eventStatus": "EventScheduled",
-      "inLanguage": "en",
-      "keywords": [
-         "UNDERLINE",
-         "INDIRANAGAR"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "IN",
-            "addressLocality": "Bangalore",
-            "addressRegion": "KA",
-            "postalCode": "560071",
-            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
-         },
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": 12.9672549,
-            "longitude": 77.636739700000007
-         },
-         "name": "Underline Center"
-      },
-      "maximumAttendeeCapacity": 45,
-      "maximumPhysicalAttendeeCapacity": 45,
-      "name": "Sunday Game Night with ReRoll Board Games",
-      "sameAs": "https://underline.center/t/141",
-      "startDate": "2025-11-09T12:30:00.000Z",
-      "url": "https://www.district.in/sunday-game-night-with-reroll-board-games/event"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "SocialEvent",
       "endDate": "2025-11-10T17:00:00.000Z",
       "eventAttendanceMode": "OfflineEventAttendanceMode",
       "eventStatus": "EventScheduled",
@@ -243,6 +208,41 @@
       "sameAs": "https://underline.center/t/507",
       "startDate": "2025-11-14T15:30:00.000Z",
       "url": "https://www.district.in/high-calibur-show-by-improv-lore/event"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2025-11-14T17:00:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Bollywood Trivia Night by Quiztickles",
+      "sameAs": "https://underline.center/t/745",
+      "startDate": "2025-11-14T15:30:00.000Z",
+      "url": "https://district.in/bollywood-trivia-night-by-quiztickles-nov14-2025/event"
    },
    {
       "@context": "https://schema.org",
