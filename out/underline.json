@@ -242,7 +242,7 @@
       "name": "Bollywood Trivia Night by Quiztickles",
       "sameAs": "https://underline.center/t/745",
       "startDate": "2025-11-14T15:30:00.000Z",
-      "url": "https://district.in/bollywood-trivia-night-by-quiztickles-nov14-2025/event"
+      "url": "tba"
    },
    {
       "@context": "https://schema.org",
@@ -348,6 +348,41 @@
       "sameAs": "https://underline.center/t/161",
       "startDate": "2025-11-15T12:30:00.000Z",
       "url": "https://forum.reroll.in/t/2201"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "SocialEvent",
+      "endDate": "2025-11-16T15:30:00.000Z",
+      "eventAttendanceMode": "OfflineEventAttendanceMode",
+      "eventStatus": "EventScheduled",
+      "inLanguage": "en",
+      "keywords": [
+         "UNDERLINE",
+         "INDIRANAGAR"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IN",
+            "addressLocality": "Bangalore",
+            "addressRegion": "KA",
+            "postalCode": "560071",
+            "streetAddress": "3rd Floor, above Blue Tokai 24, 3rd A Cross, 1st Main Rd"
+         },
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 12.9672549,
+            "longitude": 77.636739700000007
+         },
+         "name": "Underline Center"
+      },
+      "maximumAttendeeCapacity": 45,
+      "maximumPhysicalAttendeeCapacity": 45,
+      "name": "Weekend Games (Sunday) with ReRoll Board Games",
+      "sameAs": "https://underline.center/t/665",
+      "startDate": "2025-11-16T06:30:00.000Z",
+      "url": "https://district.in/weekend-board-games-with-reroll-sep27-2025/event"
    },
    {
       "@context": "https://schema.org",

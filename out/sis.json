@@ -64,9 +64,9 @@
     "endDate": "2025-11-11T21:30:00+05:30"
   },
   {
-    "name": "Pickleball with the Sisters (GoRally x SIS)",
+    "name": "Basketball Session",
     "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Pickleball-Beginner-Thursday1-aug2",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wedneday-29oct",
     "@context": "https://schema.org",
     "keywords": [
       "SISTERSINSWEAT",
@@ -84,16 +84,16 @@
       "name": "Sisters In Sweat",
       "url": "https://sistersinsweat.com"
     },
-    "sport": "Pickleball",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Pickleball-Beginner-Thursday1-aug2",
-    "image": "https://sistersinsweat.com/images/event/20250909171629828.jpg",
+    "sport": "Basketball",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wedneday-29oct",
+    "image": "https://sistersinsweat.com/images/event/20250909172210879.jpg",
     "location": {
-      "name": "GoRally Pickleball Indiranagar",
-      "address": "GoRally Pickleball Indiranagar (HAL Old Airport Rd)\u00a0 Exit Road, No 52 MSIL Building, Old Airport Rd, near Blue Dart",
+      "name": "St. Joseph's Arts And Science College",
+      "address": "St. Joseph's Arts And Science College #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens",
       "type": "Place"
     },
-    "startDate": "2025-11-13T20:00:00+05:30",
-    "endDate": "2025-11-13T21:30:00+05:30"
+    "startDate": "2025-11-12T20:00:00+05:30",
+    "endDate": "2025-11-12T21:30:00+05:30"
   },
   {
     "name": "SIS x Nike Cricket Coaching",
@@ -160,6 +160,38 @@
     "endDate": "2025-11-14T08:30:00+05:30"
   },
   {
+    "name": "B'ball With Sisters - Intermediate",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Friday-24oct",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Basketball",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Friday-24oct",
+    "image": "https://sistersinsweat.com/images/event/20250325183353235.jpeg",
+    "location": {
+      "name": "St. Joseph's Arts And Science College",
+      "address": "St. Joseph's Arts & Science College 36, Langford Rd, Langford Gardens",
+      "type": "Place"
+    },
+    "startDate": "2025-11-14T07:00:00+05:30",
+    "endDate": "2025-11-14T08:30:00+05:30"
+  },
+  {
     "name": "Footy Session",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Beginner-Saturday-sep1",
@@ -190,6 +222,38 @@
     },
     "startDate": "2025-11-15T07:00:00+05:30",
     "endDate": "2025-11-15T08:30:00+05:30"
+  },
+  {
+    "name": "Baddy Session-Mix Level",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Saturdays-Oct21",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Badminton",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Saturdays-Oct21",
+    "image": "https://sistersinsweat.com/images/event/20250909173051440.jpg",
+    "location": {
+      "name": "Game Theory - Double road",
+      "address": "Game Theory Double Road Indiranagar",
+      "type": "Place"
+    },
+    "startDate": "2025-11-15T14:00:00+05:30",
+    "endDate": "2025-11-15T16:00:00+05:30"
   },
   {
     "name": "WPBL Socials",
@@ -318,6 +382,101 @@
     },
     "startDate": "2025-11-21T07:00:00+05:30",
     "endDate": "2025-11-21T08:30:00+05:30"
+  },
+  {
+    "name": "Run Session",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-Oct19",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Run",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-Oct19",
+    "image": "https://sistersinsweat.com/images/event/20250412154311146.jpg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2025-11-23T06:45:00+05:30",
+    "endDate": "2025-11-23T08:15:00+05:30"
+  },
+  {
+    "name": "Yoga with Sisters & Misters",
+    "@type": "SocialEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Beginner-Sunday-Oct19",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SESSION"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Beginner-Sunday-Oct19",
+    "image": "https://sistersinsweat.com/images/event/20250909165925685.jpg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2025-11-23T08:30:00+05:30",
+    "endDate": "2025-11-23T09:45:00+05:30"
+  },
+  {
+    "name": "Pickleball with the Sisters (GoRally x SIS)",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Pickleball-Beginner-Thursday1-aug2",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Pickleball",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Pickleball-Beginner-Thursday1-aug2",
+    "image": "https://sistersinsweat.com/images/event/20250909171629828.jpg",
+    "location": {
+      "name": "GoRally Pickleball Indiranagar",
+      "address": "GoRally Pickleball Indiranagar (HAL Old Airport Rd)\u00a0 Exit Road, No 52 MSIL Building, Old Airport Rd, near Blue Dart",
+      "type": "Place"
+    },
+    "startDate": "2025-11-27T20:00:00+05:30",
+    "endDate": "2025-11-27T21:30:00+05:30"
   },
   {
     "name": "SIS X Nike Cricket Gamenight",
