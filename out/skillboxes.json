@@ -80,6 +80,76 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Denise King is a celebrated\nvocalist and master interpreter of modern song whose performances radiate\ntruth, passion, and soul. A Philadelphia native, she has captivated audiences\nworldwide—from New York a",
+      "endDate": "2025-11-22T23:30:00",
+      "identifier": "com.skillboxes.30714",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWI5MXFnYUFHUFg2QitOdW8yNkl6QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17627822314zrugMb724qhT0kC.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9825325",
+            "longitude": "77.7217732"
+         },
+         "name": "Windmills Craftworks"
+      },
+      "name": "Denise King",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Standing space at the bar\nNo food and beverages are included in the ticket price.",
+            "inventoryLevel": 20,
+            "name": "Standing Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/denise-king"
+         }
+      ],
+      "startDate": "2025-11-21T21:30:00",
+      "url": "https://www.skillboxes.com/events/denise-king"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "John Shannon\nis a visionary guitarist, composer, and sonic mystic whose music bridges\nworlds—earth and sky, tradition and innovation. A Pittsburgh native, he began\nplaying guitar at six and ev",
+      "endDate": "2025-11-15T23:30:00",
+      "identifier": "com.skillboxes.30691",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWI5MXFnYUFHUFg2QitOdW8yNkl6QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1762757456kv9ME3aZaIASfm2O.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9825325",
+            "longitude": "77.7217732"
+         },
+         "name": "Windmills Craftworks"
+      },
+      "name": "John Shannon",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Standing space at the bar\nNo food and beverages are included in the ticket price.",
+            "inventoryLevel": 20,
+            "name": "Standing Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/john-shannon"
+         }
+      ],
+      "startDate": "2025-11-14T21:30:00",
+      "url": "https://www.skillboxes.com/events/john-shannon"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "✨ Pure Love Thursday ✨\nStep into a night where tradition meets transformation! Join us at Kitty Ko, The Lalit Ashok Bangalore, for Pure Love Thursday — a vibrant celebr",
       "endDate": "2025-11-14T03:00:00",
       "identifier": "com.skillboxes.30690",
@@ -1057,7 +1127,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 82,
+            "inventoryLevel": 76,
             "name": "Ticket",
             "url": "https://www.skillboxes.com/events/ticket/wait-to-be-seated-sandbox-collective-and-she-she-pop-1"
          }
@@ -1261,7 +1331,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 84,
+            "inventoryLevel": 83,
             "name": "Ticket",
             "url": "https://www.skillboxes.com/events/ticket/wait-to-be-seated-sandbox-collective-and-she-she-pop"
          }
