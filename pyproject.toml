@@ -27,7 +27,7 @@ dependencies = [
 ]
 [project.optional-dependencies]
 test = [
-    "pytest~=8.2",
+    "pytest~=9.0",
     "pytest-httpbin~=2.0",
 ]
 [tool.pytest.ini_options]
