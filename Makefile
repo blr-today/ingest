@@ -131,7 +131,7 @@ out/pvr-cinemas.csv:
 
 out/ticketnew/cinemas.csv:
 	mkdir -p out/ticketnew
-	python -m src.sources.ticketnew || ($(call restore-file,$@); $(call restore-file,"out/ticketnew/movies.json"); $(call restore-file,"out/ticketnew/sessions.csv"); $(call restore-file,"out/ticketnew/cinemas.csv")); 
+	python -m src.sources.ticketnew || echo "[TICKETNEW] FAILED";
 
 out/trove.json:
 	python -m src.sources.trove || $(call restore-file,$@)

@@ -33,6 +33,7 @@ LANGUAGE_TO_ISO_MAP = {
     "Sanskrit": "sa",
     "Sindhi": "sd",
     "Tamil": "ta",
+    "Tulu": "tu",
     "Telugu": "te",
     "Urdu": "ur",
     "Korean": "ko",
