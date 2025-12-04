@@ -1,36 +1,18 @@
 import requests
 import json
 
+HEADERS = {
+    "Accept-Encoding": "gzip"
+}
 
 def scrape_highape(location):
-    base_url = "https://highape.com/api/search_algolia"
-    total_results = 0
+    base_url = "https://www.highape.com/desktop/api/bangalore/pages/1/sections/3"
+    params = {"search": "", "page": 1}
+    response = requests.get(base_url, params=params, headers=HEADERS)
+    data = response.json()
 
-    # Iterate through pages until all results are scraped
-    page = 0
-    total = None
-    while True:
-        params = {"location": location, "event_request": 1, "algolia_page": page}
-        response = requests.get(base_url, params=params)
-        data = response.json()
-
-        # Check if there are no more results
-        total = data["event_results"]["nbHits"]
-
-        if total == 0:
-            break
-
-        if type(data["event_results"]["hits"]) == list:
-            for item in data["event_results"]["hits"]:
-                yield f"https://highape.com/{location}/events/{item['event_link']}"
-        else:
-            for item in data["event_results"]["hits"].values():
-                yield f"https://highape.com/{location}/events/{item['event_link']}"
-
-        if (page + 1) * 10 > total:
-            break
-        else:
-            page += 1
+    for event in data['events']:
+        yield f"https://www.highape.com/bangalore/events/{event['permalink']}"
 
 
 # Example usage:
