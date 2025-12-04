@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "Primal Connections",
+    "description": "Gallery time and space invites you to \u2018Primal Connections\u2019 an exhibition featuring sculpture by *G Reghu*. Crafted in stoneware and bronze, they emerge from a quiet conversation between matter and...\\n",
+    "image": "https://timeandspace.gallery/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-18-at-3.33.35-PM.jpeg",
+    "url": "https://timeandspace.gallery/event/primal-connections/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2025-11-23T11:00:00+05:30",
+    "endDate": "2025-12-14T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Gallery Time and Space",
+      "description": "",
+      "url": "",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2nd Floor, The Guild, 55, Lavelle Road",
+        "addressLocality": "Bangalore",
+        "addressRegion": "karnataka",
+        "postalCode": "560001",
+        "addressCountry": "India"
+      },
+      "telephone": "+917760394808",
+      "sameAs": "https://timeandspace.gallery"
+    }
+  }
+]
