@@ -4169,5 +4169,54 @@
       "Workshop",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Vision & Vibes: Year End Reflections",
+    "description": "A quiet, year-end circle to make sense of the year you\u2019ve just lived and gently say hello to your future self. We\u2019ll slow down, check in with how you\u2019re really doing, and then cut\u2013paste our way into small, honest vision boards for 2026.What to expect:Simple prompts, big feelingsA pause to ask what future-you wantsA tiny visual map of your next yearNo art skills, resolutions, or \u201cnew you\u201d pressure needed. Just you, a roomful of kind strangers, and a little time to reset your year-end vibes.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F0249E57CB4E46029FB7207CF089DEF9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/061281BC250A4F7589230F241D6D7C21_converted_webp.webp"
+    ],
+    "startDate": "2025-12-14T12:00:00+05:30",
+    "endDate": "2025-12-14T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No 103, 5th main, MCHS layout, Jakkuru, Bengaluru, Karnataka 560064, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJVcZMF3AZrjsRVeNQY3E3pLQ",
+      "latitude": "13.07491860000000000000",
+      "longitude": "77.60558999999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "599.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Drawing Room",
+      "description": "Welcome to The Drawing Room, a delightful gathering of art lovers, travel enthusiasts and wellness seekers. Here, we share experiences and embark on journeys together.",
+      "url": "https://urbanaut.app/partner/thedrawingroom",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/3AB69D423A3741E4B6FEF64317072F8B_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99530-33790"
+      }
+    },
+    "url": "https://urbanaut.app/spot/vision-vibes",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
