@@ -64,7 +64,7 @@
     "endDate": "2025-12-06T16:00:00+05:30"
   },
   {
-    "name": "WPBL Socials",
+    "name": "WPBL Socials Bangalore",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-WPBL-Socials-6dec",
     "@context": "https://schema.org",
@@ -159,7 +159,7 @@
     "endDate": "2025-12-07T09:45:00+05:30"
   },
   {
-    "name": "SIS X Pickle Panda - Pickle Skills & Drills for Beginners",
+    "name": "SIS X Pickle Panda - Pickle Skills & Drills Coaching for Beginners",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Event-Pickleball-PicklePanda-7dec",
     "@context": "https://schema.org",
@@ -287,6 +287,70 @@
     "endDate": "2025-12-10T21:30:00+05:30"
   },
   {
+    "name": "B'ball with the Sisters - Intermediate",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Friday-5",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Basketball",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Friday-5",
+    "image": "https://sistersinsweat.com/images/event/20250325183424486.jpeg",
+    "location": {
+      "name": "St. Joseph's Arts And Science College",
+      "address": "St. Joseph's Arts & Science College 36, Langford Rd, Langford Gardens",
+      "type": "Place"
+    },
+    "startDate": "2025-12-12T07:00:00+05:30",
+    "endDate": "2025-12-12T08:30:00+05:30"
+  },
+  {
+    "name": "Sisters & Misters Football Game Day- Bangalore",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Sisters-Misters-Bangalore-Football-Game-Day-28-Nov",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Bangalore",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Sisters-Misters-Bangalore-Football-Game-Day-28-Nov",
+    "image": "https://sistersinsweat.com/images/event/20250812155008702.jpg",
+    "location": {
+      "name": "SUFC, Ulsoor",
+      "address": "SUFC Gate No. 3, United Football Club, RBANM\u2019s Ground, South, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake",
+      "type": "Place"
+    },
+    "startDate": "2025-12-12T07:00:00+05:30",
+    "endDate": "2025-12-12T08:30:00+05:30"
+  },
+  {
     "name": "WPBL Starter Camp Bangalore",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-WPBL-Starter-Camp-13-dec",
@@ -349,6 +413,38 @@
     },
     "startDate": "2025-12-13T17:00:00+05:30",
     "endDate": "2025-12-13T18:30:00+05:30"
+  },
+  {
+    "name": "SIS X The Kenko Life - Run & Brekkie",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Event-Kenko-Run-Breakfast-Sunday-14th-Dec",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Event",
+    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-Event-Kenko-Run-Breakfast-Sunday-14th-Dec",
+    "image": "https://sistersinsweat.com/images/event/20251205120104033.jpeg",
+    "location": {
+      "name": "The Kenko Life Cafe, Koramangala",
+      "address": "The Kenko Life Cafe, Ground Floor, 6th Cross Rd, next to Koramangala Club Road, 6th Block, Koramangala",
+      "type": "Place"
+    },
+    "startDate": "2025-12-14T06:45:00+05:30",
+    "endDate": "2025-12-14T08:30:00+05:30"
   },
   {
     "name": "Christmas Football Tournament 2025",
