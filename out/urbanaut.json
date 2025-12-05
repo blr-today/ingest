@@ -173,7 +173,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -537,7 +537,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 400,
-    "remainingAttendeeCapacity": 157,
+    "remainingAttendeeCapacity": 145,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -622,7 +622,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 400,
-    "remainingAttendeeCapacity": 288,
+    "remainingAttendeeCapacity": 285,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1010,7 +1010,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 38,
+    "remainingAttendeeCapacity": 36,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1058,7 +1058,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 170,
-    "remainingAttendeeCapacity": 160,
+    "remainingAttendeeCapacity": 158,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1154,7 +1154,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 53,
+    "remainingAttendeeCapacity": 49,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1203,7 +1203,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 56,
+    "remainingAttendeeCapacity": 55,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1312,7 +1312,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 120,
-    "remainingAttendeeCapacity": 52,
+    "remainingAttendeeCapacity": 48,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1930,6 +1930,54 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "The Ceylon Supper",
+    "description": "This month at Tijouri, we travel across Sri Lanka with Chef Mavisha AKA Grizzly Islander. A menu that brings together coastal classics, Jaffna flavours, Colombo favourites, and the soulful comfort of home-style curries and sambols. Bold, fragrant, spicy, and deeply comforting\u2014everything that makes Sri Lankan cooking unforgettable.Menu:VEGETARIAN SET MENUAMUSE BOUCHETharboosani KurunduWatermelon bites drizzled with kithul and a powerful cinnamon salt built to emulate a fresh bite of cinnamon peel off the barkSOUPOdiyal KoozhA hearty, comforting soup enriched with tapioca, designed to ground you and fuel you before we begin this journey togetherSALADEla KolaCeylon\u2019s humble leaf salad \u2013 peppery arugula with coconut, chili, and lime for a bright, zesty kick.FIRST MAIN COURSEKesel Kochak HodamaiRaw banana steak drizzled with kithul served with kurakkan balls and a hearty gravy inspired directly from the forests of RathugalaPALATE CLEANSERTh\u00e9 Panni KattiA granita made with light bright tea, also known as the champagne of Ceylon, with subtle hints of citrusSECOND MAIN COURSEPaan PolosA vibrant jackfruit gravy from the hills along with a rustic roast paan and a caramelized symbol to cut through the combinationPRE-DESSERTPol Pani Mille FeuilleA European take on delivering pol pani, with a twistDESSERTWatalappan KajuAn eggless jaggery custard that layers the deep sweetness of jaggery with the richness of coconut cream, finished with a crunchy cashew pralineNON-VEGETARIAN SET MENUAMUSE BOUCHETharboosani KurunduWatermelon bites drizzled with kithul and a powerful cinnamon salt built to emulate a fresh bite of cinnamon peel off the barkSOUPOdiyal KoozhA hearty warm soup that is set to take you up with some seafare energy before you embark on this journey with usSALADEla KolaCeylon\u2019s humble leaf salad \u2013 peppery arugula with coconut, chili, and lime for a bright, zesty kick.FIRST MAIN COURSEMaalu Kachak HodamaiWhite fish steak drizzled with kithul served with kurakkan balls and a hearty gravy inspired directly from the forests of RathugalaPALATE CLEANSERTh\u00e9 Panni KattiA granita made with light bright tea, also known as the champagne of Ceylon, with subtle hints of citrusSECOND MAIN COURSEPaan EraichiA vibrant mutton gravy from the hills along with a rustic roast paan and a caramelized symbol to cut through the combinationPRE-DESSERTPol Pani Mille FeuilleA European take on delivering pol pani, with a twistDESSERTKurakkan Cr\u00e9me KrunchA dish that honors earthy notes of Kurakkan, paired with a woodapple caramel and topped with a tea brittleTerms & Conditions:Please arrive punctually.Late arrivals may miss the first few courses.Booking Fee are non-refundable under all circumstances once booked.Tickets are transferrable to a third party.No shows/ cancellations will not be refunded, but you can reschedule your booking for within the week 48hrs before your slot is due.Alcohol will not be served to guests under the age of 21No liability or claims that may arise due to the consumption or intake of any food or drink will be entertained by the management.The booking fee total includes the online transaction fee.Parking at the event premises is at the risk of the vehicle owner.Valet is available.Photographs and videos of ticket holders may be uploaded to social media. Incase you do not wish to be featured, let our team know.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/48D97F6B9640470CA28CDE33F8086583_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/91153DB1234D4E7EB9AD658F32744013_converted_webp.webp"
+    ],
+    "startDate": "2025-12-07T12:30:00+05:30",
+    "endDate": "2025-12-07T15:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1, Palace Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJx154PW0WrjsREG4GX2L3FuI",
+      "latitude": "12.98023500000000000000",
+      "longitude": "77.58606100000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 2,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Tijouri",
+      "description": null,
+      "url": "https://urbanaut.app/partner/tijouri",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/985742089C9A4D15B189CA4035297B9A_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97416-19560"
+      }
+    },
+    "url": "https://urbanaut.app/spot/the-ceylon-supper#2025-12-07T1230",
+    "keywords": [
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Kids Playdate | Puppy Tales",
     "description": "Kids Playdate with The LooRoo ClubWhat happens when curious kids enter a world of wagging tails and wonderful woofs? They follow their noses, of course!Join us for Puppy Tales \u2014 a playful morning inspired by The Little Book of Indian Dogs, with author Anusha Ramanathan bringing India\u2019s canine characters to life through stories that bark, bound, and delight.With The LooRoo Club, little ones leap into dog-themed fun, pretend-paw missions, art corners, and surprises designed to get every tail (real or imaginary) wagging.Date: Saturday, December 6thTime: 10:30 AM \u2013 12:00 PMFor Kids aged 4-10 years and their parentsLet\u2019s bark, sniff, wiggle, and play \u2014 LooRoo style! \ud83d\udc3eTerms and ConditionsThe management bears no responsibility for any injury or damage incurred during the event.Purchase tickets exclusively from the designated ticketing platform.No refunds for no-shows or cancellations under any circumstances.Tickets are non-transferable and intended for personal use only.Event schedule and menu subject to change in case of emergencies or events beyond our control.The management will not entertain liability claims arising from the consumption of food or beverages.Parking near the event venue is at the vehicle owner's risk. Paid valet parking available at Rs. 200 per car.Ticket holders grant organizers perpetual rights to use any recorded video or still footage of their appearance on any channel, without further approval.In the event of rain leading to a complete washout, Courtyard reserves the right to cancel the event. In such cases, a full refund for the ticket will be issued.",
@@ -1949,7 +1997,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -2099,7 +2147,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -2426,7 +2474,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 27,
+    "remainingAttendeeCapacity": 24,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2669,7 +2717,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 49,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3041,7 +3089,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3092,7 +3140,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3243,7 +3291,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 216,
-    "remainingAttendeeCapacity": 197,
+    "remainingAttendeeCapacity": 191,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3395,7 +3443,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 111,
+    "remainingAttendeeCapacity": 108,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
