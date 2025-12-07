@@ -21,7 +21,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;TZID=Asia/Kolkata:20251207T180000
 DTEND;TZID=Asia/Kolkata:20251207T203000
-DTSTAMP:20251207T001505
+DTSTAMP:20251207T080307
 CREATED:20251125T171258Z
 LAST-MODIFIED:20251201T082011Z
 UID:38843-1765130400-1765139400@aceofpubs.com
@@ -30,5 +30,31 @@ DESCRIPTION:NOTE: By attending this event\, you agree to being filmed at the ven
 URL:https://aceofpubs.com/event/fancode-race-day-f1-etihad-airways-abudhabi-gp-2025-dave-busters-koramangala-bengaluru/
 LOCATION:Dave & Buster’s — Koramangala — Bengaluru\, 1st Floor\, Mantri Avenue\, KHB Games Village\, Koramangala\, Bengaluru\, Karnataka\, 560095\, India
 CATEGORIES:At the Bay,Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20251224T200000
+DTEND;TZID=Asia/Kolkata:20251224T220000
+DTSTAMP:20251207T080307
+CREATED:20251001T114322Z
+LAST-MODIFIED:20251206T202045Z
+UID:38595-1766606400-1766613600@aceofpubs.com
+SUMMARY:Drinking Games Night - The Irish House | Sarjapur\, Bengaluru
+DESCRIPTION:NOTE: By attending this event\, you agree to being filmed at the venue and that content may be used for marketing purposes
+URL:https://aceofpubs.com/event/drinking-games-night-the-irish-house-sarjapur-bengaluru/
+LOCATION:The Irish House — Sarjapur — Bengaluru\, RMZ Ecoworld Rd\, Adarsh Palm Retreat\, Bellandur\, Bengaluru\, Karnataka\, 560103\, India
+CATEGORIES:Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Kolkata:20251224T200000
+DTEND;TZID=Asia/Kolkata:20251224T220000
+DTSTAMP:20251207T080307
+CREATED:20251206T202850Z
+LAST-MODIFIED:20251206T204136Z
+UID:38941-1766606400-1766613600@aceofpubs.com
+SUMMARY:Drinking Games Night - The Irish House | Seawoods\, Navi Mumbai
+DESCRIPTION:NOTE: By attending this event\, you agree to being filmed at the venue and that content may be used for marketing purposes
+URL:https://aceofpubs.com/event/drinking-games-night-the-irish-house-seawoods-navi-mumbai/
+LOCATION:The Irish House — Seawood Mall — Navi Mumbai\, SEAWOODS GRAND CENTRAL MALL\, The Irish House\, SECOND FLOOR PLOT NO. R1\, F AND B-5 - 5\, Road\, Sector 40\, Nerul\, Navi Mumbai\, Maharashtra 400706\, Navi Mumbai\, Maharashtra\, 400706\, India
+CATEGORIES:Bengaluru
 END:VEVENT
 END:VCALENDAR
