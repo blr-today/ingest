@@ -96,6 +96,38 @@
     "endDate": "2025-12-10T21:30:00+05:30"
   },
   {
+    "name": "SIS x Nike Cricket Coaching",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Beginner-Thursday-4",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Cricket",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Beginner-Thursday-4",
+    "image": "https://sistersinsweat.com/images/event/20251003143712860.png",
+    "location": {
+      "name": "Rush Arena, Cooke Town",
+      "address": "Rush Arena, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
+      "type": "Place"
+    },
+    "startDate": "2025-12-11T20:00:00+05:30",
+    "endDate": "2025-12-11T21:30:00+05:30"
+  },
+  {
     "name": "B'ball with the Sisters - Intermediate",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Friday-5",
@@ -160,9 +192,9 @@
     "endDate": "2025-12-12T08:30:00+05:30"
   },
   {
-    "name": "Footy Session",
+    "name": "Beginner Footy Coaching",
     "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Beginner-Saturday-7",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Beginner-Football-Saturday-6",
     "@context": "https://schema.org",
     "keywords": [
       "SISTERSINSWEAT",
@@ -180,8 +212,8 @@
       "name": "Sisters In Sweat",
       "url": "https://sistersinsweat.com"
     },
-    "sport": "Football",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Football-Beginner-Saturday-7",
+    "sport": "Beginner",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Beginner-Football-Saturday-6",
     "image": "https://sistersinsweat.com/images/event/20250909174606437.jpg",
     "location": {
       "name": "Bullring, Indiranagar",
@@ -222,6 +254,38 @@
     },
     "startDate": "2025-12-13T11:00:00+05:30",
     "endDate": "2025-12-13T13:00:00+05:30"
+  },
+  {
+    "name": "Baddy Coaching-Beginner & Intermediate",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Saturdays7",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Badminton",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Saturdays7",
+    "image": "https://sistersinsweat.com/images/event/20250325184944322.jpeg",
+    "location": {
+      "name": "Game Theory",
+      "address": "ground floor, No. 155/3, 19th Cross Rd, Varsova Layout, Kaggadasapura",
+      "type": "Place"
+    },
+    "startDate": "2025-12-13T14:00:00+05:30",
+    "endDate": "2025-12-13T16:00:00+05:30"
   },
   {
     "name": "SIS X BFC - MMA with the Sisters & Coach Shebin",
@@ -288,6 +352,37 @@
     "endDate": "2025-12-14T08:30:00+05:30"
   },
   {
+    "name": "Sisters and Misters Yoga Mornings",
+    "@type": "SocialEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Sisters-Misters-Sunday-7dec",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SESSION"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Sisters-Misters-Sunday-7dec",
+    "image": "https://sistersinsweat.com/images/event/20250503080054642.jpeg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2025-12-14T08:30:00+05:30",
+    "endDate": "2025-12-14T09:45:00+05:30"
+  },
+  {
     "name": "Christmas Football Tournament 2025",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Tournament-Christmas-Football-2025",
@@ -318,5 +413,37 @@
     },
     "startDate": "2025-12-14T16:00:00+05:30",
     "endDate": "2025-12-14T22:00:00+05:30"
+  },
+  {
+    "name": "Run Session",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-7-dec",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Run",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-7-dec",
+    "image": "https://sistersinsweat.com/images/event/20250325190836697.jpeg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2025-12-21T06:45:00+05:30",
+    "endDate": "2025-12-21T08:15:00+05:30"
   }
 ]
