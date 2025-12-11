@@ -205,6 +205,108 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Step into the sky this 13th Saturday December DanceX brings back the iconic HOUSE SESSION,  this time 31 floors above the city, where music, energy and skyline lights blend into one breathtaking night.",
+      "endDate": "2025-12-13T23:59:00",
+      "identifier": "com.skillboxes.31970",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QlVDVncvWVNVVlNTc3Fwcy8xS2M4QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1765437524hOAlZ2IAKoKxJbhv.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Open Air Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "26/1, Rooftop, World Trade Center, Dr Rajkumar Rd, Malleshwaram, Bengaluru, Karnataka 560055, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0122829",
+            "longitude": "77.5561431"
+         },
+         "name": "High Ultra Lounge"
+      },
+      "name": "DanceX Presents House session",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover Charges will be taken post 9 Pm\n",
+            "inventoryLevel": 199,
+            "name": "BASSTRONIK & Friends",
+            "url": "https://www.skillboxes.com/events/ticket/dancex-presents-house-session"
+         }
+      ],
+      "startDate": "2025-12-13T19:00:00",
+      "url": "https://www.skillboxes.com/events/dancex-presents-house-session"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Step into pure opulence this New Year’s Eve as ICB presents REVEAL – New Year’s Eve 2026, a night crafted for those who love extraordinary celebrations. Outdoors, the energy skyrockets as DJ Nash and Daiwik ignite the night with pow",
+      "endDate": "2025-12-31T23:59:00",
+      "identifier": "com.skillboxes.31965",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/Y3JMN0xyTy9ieVR1MmlHcEp3VFlxdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1765435577Mn2clZV8PSGPcX7p.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "New Year 2026"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Sy no 90/3, K, 572/90, Outer Ring Rd, beside Manhpo Convention Center, DadaMastan Layout, Manayata Tech Park, Nagawara, Bengaluru, Karnataka 560045, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0418817",
+            "longitude": "77.6160425"
+         },
+         "name": "ICB INDIAN CRAFT BREWERY"
+      },
+      "name": "Reveal NYE 2026 Indian Craft Brewery",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "1. Children below 5 years receive complimentary entry for the New Year event.   2. A valid age proof must be presented at the entry gate if requested.   3. Children must remain under constant supervision of their parent or guardian.   4. Complimentary entry does not include food, beverages, seating, or any add-on services, unless mentioned.\n",
+            "inventoryLevel": 100,
+            "name": "Indoor Ticket | Kid (age below 5 )",
+            "url": "https://www.skillboxes.com/events/ticket/reveal-nye-2026-indian-craft-brewery"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "1. Children below 5 years receive complimentary entry for the New Year event.   2. A valid age proof must be presented at the entry gate if requested.   3. Children must remain under constant supervision of their parent or guardian.   4. Complimentary entry does not include food, beverages, seating, or any add-on services, unless mentioned.\n",
+            "inventoryLevel": 100,
+            "name": "Outdoor Ticket | Kid (specify ages below 5 )",
+            "url": "https://www.skillboxes.com/events/ticket/reveal-nye-2026-indian-craft-brewery"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "The entry ticket is for the outdoor area; it includes a full buffet and non-alcoholic beverages.\n",
+            "inventoryLevel": 200,
+            "name": "Outdoor Ticket | Kids (specify ages 6 - 18 )",
+            "url": "https://www.skillboxes.com/events/ticket/reveal-nye-2026-indian-craft-brewery"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Mandatory redeemable cover charges of INR 2000 applicable at the venue throughout the event.\n",
+            "inventoryLevel": 100,
+            "name": "Regular Ticket | Indoor",
+            "url": "https://www.skillboxes.com/events/ticket/reveal-nye-2026-indian-craft-brewery"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Our outdoor package comes with unlimited food and beverage access.\n",
+            "inventoryLevel": 2999,
+            "name": "Regular Ticket | Outdoor",
+            "url": "https://www.skillboxes.com/events/ticket/reveal-nye-2026-indian-craft-brewery"
+         }
+      ],
+      "startDate": "2025-12-31T20:00:00",
+      "url": "https://www.skillboxes.com/events/reveal-nye-2026-indian-craft-brewery"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "MIDNIGHT SIGNATURE: NYE 2026 CELEBRATIONSTheme: A Night of Radiance and RevelationStep into 2026 with elegance, energy, and electric style with your loved ones'. The Midnight Signature celebrati",
       "endDate": "2025-12-31T12:30:00",
       "identifier": "com.skillboxes.31959",
@@ -329,7 +431,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Free entry\n",
-            "inventoryLevel": 495,
+            "inventoryLevel": 489,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/the-christmas-collective"
          }
@@ -364,7 +466,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Each ticket admits one individual,Cover charges applicable post 9:30pm\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 997,
             "name": "Rsvp Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-burrow-x-astralworx-presents-chaz-vedik"
          }
