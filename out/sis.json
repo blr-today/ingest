@@ -96,38 +96,6 @@
     "endDate": "2025-12-13T16:00:00+05:30"
   },
   {
-    "name": "SIS X BFC - MMA with the Sisters & Coach Shebin",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Event-MMA-BFC-13dec",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Event",
-    "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-Event-MMA-BFC-13dec",
-    "image": "https://sistersinsweat.com/images/event/20251203160555240.jpeg",
-    "location": {
-      "name": "BFC Bodyforce Fight Club",
-      "address": "BFC Bodyforce Fight Club, 2nd Floor, 15/A, 4th Cross, near reliance fresh, OMBR Layout, Banaswadi",
-      "type": "Place"
-    },
-    "startDate": "2025-12-13T17:00:00+05:30",
-    "endDate": "2025-12-13T18:30:00+05:30"
-  },
-  {
     "name": "SIS X The Kenko Life - Run & Brekkie",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/event-detail/Women-Bangalore-Event-Kenko-Run-Breakfast-Sunday-14th-Dec",
@@ -285,6 +253,134 @@
     },
     "startDate": "2025-12-16T20:00:00+05:30",
     "endDate": "2025-12-16T21:30:00+05:30"
+  },
+  {
+    "name": "Women's Beginner Basketball Coaching",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wedneday-26-nov",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Basketball",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Beginner-Wedneday-26-nov",
+    "image": "https://sistersinsweat.com/images/event/20250909172210879.jpg",
+    "location": {
+      "name": "St. Joseph's Arts And Science College",
+      "address": "St. Joseph's Arts And Science College #36, Langford Rd, opposite Axis Bank ATM, Bheemanna Garden, Langford Gardens",
+      "type": "Place"
+    },
+    "startDate": "2025-12-17T20:00:00+05:30",
+    "endDate": "2025-12-17T21:30:00+05:30"
+  },
+  {
+    "name": "SIS x Nike Cricket Coaching",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Beginner-Thursday-4",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Cricket",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Beginner-Thursday-4",
+    "image": "https://sistersinsweat.com/images/event/20251003143712860.png",
+    "location": {
+      "name": "Rush Arena, Cooke Town",
+      "address": "Rush Arena, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
+      "type": "Place"
+    },
+    "startDate": "2025-12-18T20:00:00+05:30",
+    "endDate": "2025-12-18T21:30:00+05:30"
+  },
+  {
+    "name": "B'ball with the Sisters - Intermediate",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Friday-5",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Basketball",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Friday-5",
+    "image": "https://sistersinsweat.com/images/event/20250325183424486.jpeg",
+    "location": {
+      "name": "St. Joseph's Arts And Science College",
+      "address": "St. Joseph's Arts & Science College 36, Langford Rd, Langford Gardens",
+      "type": "Place"
+    },
+    "startDate": "2025-12-19T07:00:00+05:30",
+    "endDate": "2025-12-19T08:30:00+05:30"
+  },
+  {
+    "name": "Sisters & Misters Football Game Day- Bangalore",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Sisters-Misters-Bangalore-Football-Game-Day-28-Nov",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Bangalore",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Sisters-Misters-Bangalore-Football-Game-Day-28-Nov",
+    "image": "https://sistersinsweat.com/images/event/20250812155008702.jpg",
+    "location": {
+      "name": "SUFC, Ulsoor",
+      "address": "SUFC Gate No. 3, United Football Club, RBANM\u2019s Ground, South, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake",
+      "type": "Place"
+    },
+    "startDate": "2025-12-19T07:00:00+05:30",
+    "endDate": "2025-12-19T08:30:00+05:30"
   },
   {
     "name": "Run Session",

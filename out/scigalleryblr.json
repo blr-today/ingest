@@ -70,6 +70,20 @@
     "maximumAttendeeCapacity": "50"
   },
   {
+    "@type": "EducationEvent",
+    "name": "The Life and Legacy of K.T Achaya",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru, Science Gallery",
+      "address": "Science Gallery, Bangalore"
+    },
+    "startDate": "2025-12-28T16:00:00+05:30",
+    "endDate": "2025-12-28T16:00:00+05:30",
+    "description": "Who was Dr K.T. Achaya?\n\nJoin Vinod Huria as he explores the life and legacy of Dr K.T. Achaya. As a former student of Dr Achaya, Vinod Huria presents a personal account of the scientist who pioneered research and writing on Indian foods. Learn of the many achievements and contributions that Dr Achaya has made to Indian food science, from his work in oil production to his research into food and nutrition. Discover how his books introduced new ways of writing and thinking about food writing in India.\n\nThis lecture is part of our launch of an exhibit on KT Achaya\u2019s life as part of CALORIE.\n",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=life-legacy-kt-achaya",
+    "maximumAttendeeCapacity": "80"
+  },
+  {
     "@type": "ScreeningEvent",
     "name": "My Radio My Life: Film Screening and Discussion",
     "location": {
@@ -95,6 +109,48 @@
     "endDate": "2025-12-14T14:00:00+05:30",
     "description": "Can cuisines, recipes, flavours and nutrition all be translated into data?\n\nJoin Ganesh Bagler for a masterclass on Computational Gastronomy. Learn the methodology, data and algorithms behind making food computable. explore the process of converting culinary knowledge into structured representations, analyze real examples from global cuisines, experimenting with outputs like generating flavour pairings and creating nutrition models.\n\nGanesh Bagler will demonstrate how databases, machine learning models, and multimodal analytics can be built, queried, and extended for research or innovation. Come and learn how to think computationally about food and discover the real life applications of this emerging science.",
     "url": "https://sci560.scigalleryblr.org/programmes?p=making-food-computable",
+    "maximumAttendeeCapacity": "40"
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "The Ecology of Our Homes: Examining Human Interactions With Urban Wildlife",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru, Science Gallery",
+      "address": "Science Gallery, Bangalore"
+    },
+    "startDate": "2025-12-20T16:00:00+05:30",
+    "endDate": "2025-12-20T16:00:00+05:30",
+    "description": "Have you ever wondered about the bustling world happening just outside or even inside your front door? Join Deepa Padmanaban as she explores the captivating ecology of our homes, where human lives constantly intersect with the lives of urban birds, insects, and animals.\n\nThis talk will look closely at the fascinating, often surprising, interactions that shape our daily environment. She will discuss everything from the spiders on our walls and the birds nesting under our eaves to the rats visiting our yard.  The session will help you understand how our behaviours impact their survival and discover ideas to promote positive coexistence. Whether you are a curious homeowner, a nature enthusiast, or simply someone looking to better understand your immediate surroundings, this talk will offer fresh perspectives on some amazing but often overlooked creatures.",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=ecology-of-our-homes",
+    "maximumAttendeeCapacity": "80"
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Accessibility in Food Spaces: From Gig Work to Dining",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru, Science Gallery",
+      "address": "Science Gallery, Bangalore"
+    },
+    "startDate": "2025-12-20T11:00:00+05:30",
+    "endDate": "2025-12-20T14:00:00+05:30",
+    "description": "How can we make food spaces more accessible?\n\nJoin Archit Majumdar as he demonstrates how one might bring the principles of accessibility into food spaces. Explore why accessibility matters and map the journeys of people with different disabilities as they access caf\u00e9s, restaurants, and food delivery services.\n\nThe workshop highlights the perspectives of gig workers, service providers, and diners, highlighting common barriers, essential needs, and practical design solutions to create truly inclusive food environments. Focusing on lived experiences and drawing on insights from initiatives such as *Yes to Access*.\n\nThrough collaboration, discussion, and hands-on exercises, the workshop equips participants with actionable strategies to design and improve food spaces to be welcoming, usable, and enjoyable for all individuals.",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=accesibility-in-food-spaces",
+    "maximumAttendeeCapacity": "20"
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Tiny Chefs, Big Impact: Fermentation and the Future of Gut Health",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru, Science Gallery",
+      "address": "Science Gallery, Bangalore"
+    },
+    "startDate": "2025-12-28T11:00:00+05:30",
+    "endDate": "2025-12-28T13:00:00+05:30",
+    "description": "How do bacteria and yeasts turn everyday foods into flavours that nourish your gut, your immunity, and your mood?\n\nJoin Pooja Dewan as she enters the microscopic kitchen and explores the science of fermentation. Watch microbes transform simple ingredients into fizzy, tangy, gut-loving foods; taste and sip fermentation in action; and discover how your gut microbiome powers energy, immunity, and wellbeing. You\u2019ll even get hands-on by creating your own mini ferment to take home. ",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=tiny-chefs-big-impact",
     "maximumAttendeeCapacity": "40"
   }
 ]
