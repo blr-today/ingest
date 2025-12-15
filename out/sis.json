@@ -192,6 +192,70 @@
     "endDate": "2025-12-19T08:30:00+05:30"
   },
   {
+    "name": "Beginner Footy Coaching",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Beginner-Football-Saturday-6",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Beginner",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Beginner-Football-Saturday-6",
+    "image": "https://sistersinsweat.com/images/event/20250909174606437.jpg",
+    "location": {
+      "name": "Bullring, Indiranagar",
+      "address": "The Bull Ring Arena: THE BULLRING, 36, Old Madras Rd, next to BMTC 6th Depot, Indira Nagar II Stage, Hoysala Nagar, Indiranagar",
+      "type": "Place"
+    },
+    "startDate": "2025-12-20T07:00:00+05:30",
+    "endDate": "2025-12-20T08:30:00+05:30"
+  },
+  {
+    "name": "Baddy Coaching-Beginner & Intermediate",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Saturdays7",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Badminton",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Badminton-Combined-Saturdays7",
+    "image": "https://sistersinsweat.com/images/event/20250325184944322.jpeg",
+    "location": {
+      "name": "Game Theory",
+      "address": "Game Theory Double Road Indiranagar - Badminton Court, Pickleball, Basketball, Paramahansa Yogananda Rd, above Sree Cauvery School, Stage 1, Indiranagar",
+      "type": "Place"
+    },
+    "startDate": "2025-12-20T14:00:00+05:30",
+    "endDate": "2025-12-20T16:00:00+05:30"
+  },
+  {
     "name": "Run Session",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-7-dec",
@@ -222,5 +286,36 @@
     },
     "startDate": "2025-12-21T06:45:00+05:30",
     "endDate": "2025-12-21T08:15:00+05:30"
+  },
+  {
+    "name": "Sisters and Misters Yoga Mornings",
+    "@type": "SocialEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Sisters-Misters-Sunday-7dec",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SESSION"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Sisters-Misters-Sunday-7dec",
+    "image": "https://sistersinsweat.com/images/event/20250503080054642.jpeg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2025-12-21T08:30:00+05:30",
+    "endDate": "2025-12-21T09:45:00+05:30"
   }
 ]
