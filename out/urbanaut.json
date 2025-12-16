@@ -73,7 +73,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 160,
-    "remainingAttendeeCapacity": 127,
+    "remainingAttendeeCapacity": 123,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -218,7 +218,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -265,7 +265,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 11,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -503,7 +503,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 170,
-    "remainingAttendeeCapacity": 155,
+    "remainingAttendeeCapacity": 154,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -647,7 +647,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 54,
+    "remainingAttendeeCapacity": 50,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -912,7 +912,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 216,
-    "remainingAttendeeCapacity": 154,
+    "remainingAttendeeCapacity": 137,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1164,7 +1164,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 24,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -1837,54 +1837,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Movie Under the Stars | Home Alone (1990)",
-    "description": "Join us for an open-air screening of Home Alone (1990), the beloved holiday classic that defined Christmas mischief, paired with a cosy three-course dinner by Chef Rhea Aaron and fresh popcorn.*Wines and other beverages will be available for purchase at the venue.About the movie:Home Alone (1990) follows Kevin McCallister, an eight-year-old accidentally left behind when his family heads out for Christmas vacation. What starts as every kid\u2019s dream, an empty house, quickly turns into a hilarious adventure as Kevin defends his home from two not-so-bright burglars with booby traps, bravery, and pure holiday chaos.A perfect December watch: warm, witty, festive, and endlessly rewatchable.Paired with a comforting three-course dinner by Chef Rhea Aaron and wines poured by Wine in Progress, it\u2019s the cosiest way to spend a December night under the stars.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/639AA447B6C445C4B21EA408A0C8DF43_converted_webp.webp"
-    ],
-    "startDate": "2025-12-21T19:00:00+05:30",
-    "endDate": "2025-12-21T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Courtyard",
-      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
-      "latitude": "12.95843050000000000000",
-      "longitude": "77.59289509999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 2,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2000.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Courtyard",
-      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
-      "url": "https://urbanaut.app/partner/courtyard",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-73386-77996"
-      }
-    },
-    "url": "https://urbanaut.app/spot/movie-under-the-stars-home-alone-1990",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "COURTYARD",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Bollywood Rave: Govinda No.1",
     "description": "Govinda No.1: Bollywood Rave Party - Come as Govinda. Dance like Govinda. Lose your shame at the door.Imagine: a packed dance floor, a DJ dropping only 90s Govinda-era bangers, full filmi madness, hooksteps back-to-back until your knees reconsider life.Dress code: Govinda-style. Loud printed shirts, bright trousers, wild prints, half-tucked shirts...If your outfit does not look slightly ridiculous, you are underdressed.If you miss this, someone else will do your thumka.",
@@ -2056,8 +2008,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 11,
+    "maximumAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
