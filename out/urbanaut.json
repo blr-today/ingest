@@ -154,6 +154,102 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "IndieWebClub with Ankur and Tanvi",
+    "description": "What is IndieWebClub?IndieWebClub is part of a growing world-wide network of meetups for everyone who wants to take back their web experience from social media silos, and own their online identities & content, or just want support with blogging!Want to blog more and looking for: ideas, momentum, and a supportive community?Join a gathering of like-minded people and get friendly support with writing, creating, and anything related to using and improving your own website!You do not need to have any tech background or experience in having your own website. You can even start with a Google Doc or your local notes app!You can join the IndieWebClub Bangalore WhatsApp Community by clicking here.AgendaThis will be a tech and design focused session during which we\u2019ll co-work on our personal websites.Please join us even if you don\u2019t have any programming experience! We\u2019ll help you with any technical questions you might have. If possible, we\u2019ll pair you up with a buddy who can walk you through setting up a website or making changes to an existing one.Bring:Your laptop (+ charger)Ideas about what services/features/designs you want your website to haveIf you\u2019re non-technical, come with questions and we\u2019ll try to find you answersAs usual, we will end the meetup with a prompt and a writing session.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E15728956A6F4983BDD0BC099F580453_converted_webp.webp"
+    ],
+    "startDate": "2025-12-20T14:00:00+05:30",
+    "endDate": "2025-12-20T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96722140000000000000",
+      "longitude": "77.63669820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "249.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/indiewebclub-meetup",
+    "keywords": [
+      "Leisure",
+      "Local",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "High CaliBur Show by Improv Lore",
+    "description": "About the EventA classic good ol' improv show packed with riddles, tongue twisters, and some nostalgia. If you've been missing having a hearty laugh at an improv show, consider this your invite to enjoy the freshest stories in town!We promise a fun evening stuffed with entertaining games, quick lines, and wholesome stories.About Improv Lore:We are a Bengaluru-based community-theatre troupe, working towards spreading the art of spontaneous storytelling and unscripted stagecraft, and rekindling the joy of being playful and whimsical. We conduct beginner-friendly jams, intensive workshops and improvised theatre shows.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FDA0E7FEDABF4DEAB9EAC1B6AEA2F742_converted_webp.webp"
+    ],
+    "startDate": "2025-12-19T21:00:00+05:30",
+    "endDate": "2025-12-19T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96722140000000000000",
+      "longitude": "77.63669820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "249.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/high-calibur-show-by-improv-lore",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Harry Potter Book Discussion",
     "description": "For hard-core Potterheads age 12 and above!Get into the minds of the characters, ferret out the intricacies of the plot - enter the wizarding world and share your thoughts and insights!Will help if you have read all the Harry Potter books - this discussion will be based only on the books and not the movies.The event is curated by Lahe Lahe Caravan and is being hosted at Atta Galatta.",
