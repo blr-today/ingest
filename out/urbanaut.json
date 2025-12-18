@@ -2630,7 +2630,7 @@
     "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Lebanese Cooking Workshop",
-    "description": "SPCECIAL OFFER: 2 TICKETS FOR LESS VEGETARIAN MENU (delish dishes that are naturally vegetarian)A hands-on Mediterranean cooking experience designed for families, couples and solo food lovers. This practical session introduces you to vibrant Middle Eastern flavours, key ingredients and simple techniques that bring freshness and balance to everyday meals. Learn how to build textures, layer flavours and create wholesome dishes that are both nourishing and crowd-pleasing.Chef Natasha Celmi\u2019s signature approach focuses on fresh, locally sourced ingredients and mindful cooking, making these recipes easy to recreate for relaxed lunches, mezze-style dinners or entertaining at home. Detailed recipe sheets will be sent to you after the class for easy reference.MENU:\u2022 Loaded Creamy Hummus\u2022 Muhammara Dip\u2022 Roast Tomato & Yogurt Dip\u2022 Beetroot Falafels\u2022 Homemade Pita Bread\u2022 Tabouleh Salad",
+    "description": "SPCECIAL OFFER: 2 TICKETS FOR LESS VEGETARIAN MENU (delish dishes that are naturally vegetarian)A Semi hands-on Mediterranean cooking experience designed for families, couples and solo food lovers. This practical session introduces you to vibrant Middle Eastern flavours, key ingredients and simple techniques that bring freshness and balance to everyday meals. Learn how to build textures, layer flavours and create wholesome dishes that are both nourishing and crowd-pleasing.Chef Natasha Celmi\u2019s signature approach focuses on fresh, locally sourced ingredients and mindful cooking, making these recipes easy to recreate for relaxed lunches, mezze-style dinners or entertaining at home. Detailed recipe sheets will be sent to you after the class for easy reference.MENU:\u2022 Loaded Creamy Hummus\u2022 Muhammara Dip\u2022 Roast Tomato & Yogurt Dip\u2022 Beetroot Falafels\u2022 Homemade Pita Bread\u2022 Tabouleh Salad",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/68C78CE8645340EC83A179749815DDE9_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1F0A4120DD8F486193CB0663570D4809_converted_webp.webp",
@@ -3025,9 +3025,57 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "New Year Eve",
+    "description": "Ring in the New Year under the stars at our Grand New Year\u2019s Eve Celebration! Enjoy an unforgettable evening filled with delicious flavors, soulful tunes, and warm moments. Indulge in a lavish vegetarian buffet featuring a mouthwatering spread of global and regional favorites. Let the rhythm move you with live music performances that set the perfect tone for the night. As midnight draws near, gather around the bonfire with friends and family \u2014 a cozy, magical way to welcome 2026 together.Join us for laughter, music, and memories that will sparkle long after the night ends.Buffet charges of Rs. 1349 + GST to be collect at the venue",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C4E9B16DD4BB4338BA15C1EDAE9C5145_converted_webp.webp"
+    ],
+    "startDate": "2025-12-31T19:00:00+05:30",
+    "endDate": "2025-12-31T23:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "317, Sector A, Rd, Chikka Bommasandra, Yelahanka New Town, Bengaluru, Karnataka 560064, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3YJZCQAZrjsRs91j-RjNe98",
+      "latitude": "13.09267290000000000000",
+      "longitude": "77.58220600000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 100,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Cafe Socialize",
+      "description": "Food | Events | Art",
+      "url": "https://urbanaut.app/partner/cafesocialize",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/813B66687E96407C8725A026CA0B6D49_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99027-55288"
+      }
+    },
+    "url": "https://urbanaut.app/spot/new-year-eve",
+    "keywords": [
+      "Live GIG",
+      "Music",
+      "Festival",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "New Year's Gala",
-    "description": "Join us for a warm, soulful night filled with live music, mouthwatering buffet spreads, and a crackling bonfire that sets the perfect mood for winter vibes and great conversations. Guests can unwind to acoustic tunes, savor a variety of dishes, and gather around the fire for stories, laughter, and unforgettable memories.",
+    "description": "Join us for a warm, soulful night filled with live music, mouthwatering buffet spreads, and a crackling bonfire that sets the perfect mood for winter vibes and great conversations. Guests can unwind to acoustic tunes, savor a variety of dishes, and gather around the fire for stories, laughter, and unforgettable memories.Buffet charges of Rs. 1349 + GST to be collect at the venue",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/88307A8F9D7E45FB82FB39544B29F173_converted_webp.webp"
     ],
