@@ -1,1 +1,146 @@
-[]
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Reservoir Dogs",
+    "sports": "Cycling",
+    "location": {
+      "@type": "Place",
+      "address": "karthik farm & nursery"
+    },
+    "offers": [
+      {
+        "priceCurrency": "INR",
+        "@type": "offer",
+        "name": "l2 - moderate - 45 km (with b'fast)",
+        "price": "3150.00"
+      },
+      {
+        "priceCurrency": "INR",
+        "@type": "offer",
+        "name": "l3 - challenging - 70 km (with b'fast).",
+        "price": "3450.00"
+      },
+      [
+        {
+          "@type": "offer",
+          "name": "rental bike (with transport)",
+          "price": "800.00",
+          "priceCurrency": "INR"
+        },
+        {
+          "@type": "offer",
+          "name": "transport my bicycle",
+          "price": "300.00",
+          "priceCurrency": "INR"
+        }
+      ]
+    ],
+    "startDate": "2026-01-11T12:08:26.588405+05:30",
+    "endDate": "2026-01-11T18:08:26.588405+05:30",
+    "description": "Enjoy a morning out exploring two popular reservoirs, on the outskirts of Bangalore, off-Mysore Road. The forested hills around these water bodies are home to many species of avifauna, adding to the scenic beauty of the countryside.\nOur cycling route here first touches upon the Thippagondanahalli Reservoir, which is built at the confluence of Arkavathy and Kumdavathi rivers. You can see its renovated dam structure, and learn about how Bangalore receives its drinking water supplies from there. Also, the submerged, abandoned temple called Sri Nadugade Shiva Gudi, in the middle of the reservoir is an attractive sight when the water levels recede. There's even a section where you will ride down to the edge of the reservoir waters, with rocky shrub forests all around. \nNext, the route will take you along the Arkavathy river, through a forest, and all the way to the Manchanabele Dam. This exciting section is surrounded by hillocks that are dotted with boulders and shrub forests, with views of the river on one side. The finale to this ride is the popular climb up from Manchinable dam, back towards Dodda Alada Mara.\n\n\n{'DISTANCE': '45-70KM', 'MIN. GROUP SIZE': '10', 'ELEVATION GAIN': '450-800M', '% UNPAVED': '10%'}",
+    "url": "https://www.pedalintandem.com/experiences/cycle-rides-blr/reservoir-dogs",
+    "keywords": [
+      "cycle-rides-blr",
+      "PEDALINTANDEM"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "The Melagiri Challenge",
+    "sports": "Cycling",
+    "location": {
+      "@type": "Place",
+      "address": "rocky ridge farm"
+    },
+    "offers": [
+      {
+        "priceCurrency": "INR",
+        "@type": "offer",
+        "name": "l2 - moderate - 40 km (with b'fast)",
+        "price": "3450.02"
+      },
+      {
+        "priceCurrency": "INR",
+        "@type": "offer",
+        "name": "l3 - challenging - 70 km (with b'fast)",
+        "price": "3780.00"
+      },
+      {
+        "priceCurrency": "INR",
+        "@type": "offer",
+        "name": "lunch",
+        "price": "700.00"
+      },
+      [
+        {
+          "@type": "offer",
+          "name": "rental bike (with transport)",
+          "price": "900.00",
+          "priceCurrency": "INR"
+        },
+        {
+          "@type": "offer",
+          "name": "transport my bicycle",
+          "price": "400.00",
+          "priceCurrency": "INR"
+        }
+      ]
+    ],
+    "startDate": "2026-01-18T12:08:26.606811+05:30",
+    "endDate": "2026-01-18T18:08:26.606811+05:30",
+    "description": "Join us on this cross-country ride in the Melagiri Hills, through the tranquil Aiyur forest region, in Tamil Nadu.\n Be prepared for a breathtaking day tour in some challenging terrain. Our carefully mapped-out biking routes here weave through hills, forests, farms and several water bodies. Bicycle touring can't be more fun than this!\nThe 70 km (L3) ride includes an intense climb up a hill and through a forest, but the sheer beauty of these landscapes will make you forget your tired legs. The rest of the route is mostly flat or downhill.\n You can choose the easier 40 km ride (L2) too. It is not mandatory for everyone to ride the entire distance that\u2019s planned. You could hop into the support vehicle if you wish, and still enjoy the rest of the journey in this enchanting land.\n{'DISTANCE': '40/70KM', 'ELEVATION GAIN': '500/1000M', '% UNPAVED': '5%'}",
+    "url": "https://www.pedalintandem.com/experiences/cycle-rides-blr/the-melagiri-challenge",
+    "keywords": [
+      "cycle-rides-blr",
+      "PEDALINTANDEM"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "SportsEvent",
+    "name": "Ridge Trail",
+    "sports": "Cycling",
+    "location": {
+      "@type": "Place",
+      "address": "hotel halli mane"
+    },
+    "offers": [
+      {
+        "priceCurrency": "INR",
+        "@type": "offer",
+        "name": "l1 - beginner - 25 km (with b'fast)",
+        "price": "2025.00"
+      },
+      {
+        "priceCurrency": "INR",
+        "@type": "offer",
+        "name": "l2 - moderate - 40 km (with b'fast)",
+        "price": "2550.00"
+      },
+      [
+        {
+          "@type": "offer",
+          "name": "rental bike (with transport)",
+          "price": "800.00",
+          "priceCurrency": "INR"
+        },
+        {
+          "@type": "offer",
+          "name": "transport my bicycle",
+          "price": "300.00",
+          "priceCurrency": "INR"
+        }
+      ]
+    ],
+    "startDate": "2025-12-21T11:30:00+05:30",
+    "endDate": "2025-12-21T16:30:00+05:30",
+    "description": "Enjoy the freedom of being in the outdoors, away from the noise and traffic of the city. Take a ride on the Ridge Trail through the villages and farmlands off Chikka Tirupati road near Gunjur. As the name suggests, this easy route of 25km on mostly flat terrain, will take you over several lake bunds and ridges, offering scenic views of the countryside. This ride is ideal for beginners and those looking to get back in the saddle after a long break. Also, if you're new to our weekend rides, this ride is exactly what you need!\n{'DISTANCE': '25-40KM', 'MIN. GROUP SIZE': '10', 'ELEVATION GAIN': '150-250M'}",
+    "url": "https://www.pedalintandem.com/experiences/cycle-rides-blr/ridge-trail",
+    "keywords": [
+      "cycle-rides-blr",
+      "PEDALINTANDEM"
+    ]
+  }
+]

@@ -355,21 +355,21 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Couple Entry",
             "url": "https://www.skillboxes.com/events/ticket/two-dollar-tuesday-pre-christmas-party"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Female Entry",
             "url": "https://www.skillboxes.com/events/ticket/two-dollar-tuesday-pre-christmas-party"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 50,
+            "inventoryLevel": 42,
             "name": "Male Entry",
             "url": "https://www.skillboxes.com/events/ticket/two-dollar-tuesday-pre-christmas-party"
          }
@@ -1523,7 +1523,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows Entry for 2 Individuals with reserved table Full Cover Charge Redeemable Food & Beverages are available A La Carte DJ Music and Light Show\nAllows Entry for 2 Individuals with reserved table Full Cover Charge Redeemable Food & Beverages are available A La Carte DJ Music and Light Show",
-            "inventoryLevel": 9,
+            "inventoryLevel": 8,
             "name": "Early Bird Table for 2",
             "url": "https://www.skillboxes.com/events/ticket/blr-nye-2026-blr-brewing-co-kanakapura-road"
          },
@@ -1842,7 +1842,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows Entry for 4 Individuals with reserved table Mandatory Redeemable Cover Charge charges apply at the venue Food & Beverages are available A La Carte DJ Music, Dancer and Light Show\nAllows Entry for 4 Individuals with reserved table Mandatory Redeemable Cover Charge charges apply at the venue Food & Beverages are available A La Carte DJ Music, Dancer and Light Show",
-            "inventoryLevel": 48,
+            "inventoryLevel": 47,
             "name": "Early Bird Table for 4",
             "url": "https://www.skillboxes.com/events/ticket/blr-nye-2026-blr-brewing-co"
          },
@@ -1892,17 +1892,9 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Includes entry for one female. - Includes unlimited food & IMFL beverages.\n",
-            "inventoryLevel": 17,
-            "name": "Early Bird - Lady",
-            "url": "https://www.skillboxes.com/events/ticket/ascend-2026-new-year-s-eve-at-the-bier-library-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "- Includes entry for one individual. - Includes unlimited food & IMFL beverages.\n",
             "inventoryLevel": 20,
-            "name": "Early Bird - Individual",
+            "name": "Phase 1 - Individual",
             "url": "https://www.skillboxes.com/events/ticket/ascend-2026-new-year-s-eve-at-the-bier-library-koramangala"
          },
          {
@@ -1910,7 +1902,15 @@
             "availability": "InStock",
             "description": "- Includes entry for one male and one female. - Includes unlimited food & IMFL beverages.\n",
             "inventoryLevel": 18,
-            "name": "Early Bird - Couple",
+            "name": "Phase 1 - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/ascend-2026-new-year-s-eve-at-the-bier-library-koramangala"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Includes entry for four individuals. - Includes unlimited food & IMFL beverages.\n",
+            "inventoryLevel": 22,
+            "name": "Phase 1 - Group of 4",
             "url": "https://www.skillboxes.com/events/ticket/ascend-2026-new-year-s-eve-at-the-bier-library-koramangala"
          }
       ],
@@ -2226,7 +2226,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/moksha-360-presents-raw-and-real-ep-10"
          },
@@ -2822,6 +2822,14 @@
             "inventoryLevel": 100,
             "name": "Couple Entry",
             "url": "https://www.skillboxes.com/events/ticket/reveal-nye-2026-indian-craft-brewery"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Unlimited Food & Beverages Experience Enjoy an indulgent spread of unlimited food and imported beverages.\n",
+            "inventoryLevel": 50,
+            "name": "Premium Couple | Outdoor",
+            "url": "https://www.skillboxes.com/events/ticket/reveal-nye-2026-indian-craft-brewery"
          }
       ],
       "startDate": "2025-12-31T20:00:00",
@@ -2848,7 +2856,7 @@
          },
          "name": "White Lotus Club Bengaluru"
       },
-      "name": "MIDNIGHT SIGNATURE NYE 2026",
+      "name": "MIDNIGHT SIGNATURE NYE 2026 SARJAPUR - HSR",
       "offers": [
          {
             "@type": "Offer",
@@ -2913,7 +2921,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Free entry\n",
-            "inventoryLevel": 479,
+            "inventoryLevel": 457,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/the-christmas-collective"
          }
