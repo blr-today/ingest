@@ -53,7 +53,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Inclusions:\r\n\r\n\r\n\t\r\n\tUnlimited access to all workshops (wellness, arts, sustainability & more)\r\n\t\r\n\t\r\n\tEntry to all music performances across stages\r\n\tValid for all",
+      "description": "Inclusions:\n\n\n\t\n\tUnlimited access to all workshops (wellness, arts, sustainability & more)\n\t\n\t\n\tEntry to all music performances",
       "endDate": "2026-01-19T09:00:00",
       "identifier": "com.skillboxes.29917",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1763209697WEW9wYa4cdfawJ31.jpg.webp",
@@ -77,7 +77,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Inclusions: Unlimited access to all workshop sessions and music performances across stages. Valid for all 3 days and night of the festival Notes:  A camping or villa pass is required to access the camping area. You can get it as an add-on.\n",
-            "inventoryLevel": 950,
+            "inventoryLevel": 948,
             "name": "Phase 2 - Festival Pass (All 3 days of the festival)",
             "url": "https://www.skillboxes.com/events/ticket/bloom-in-green-festival-pass-2026"
          },
@@ -92,6 +92,158 @@
       ],
       "startDate": "2026-01-16T08:00:00",
       "url": "https://www.skillboxes.com/events/bloom-in-green-festival-pass-2026"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Shadows of sound",
+      "endDate": "2025-12-26T23:59:00",
+      "identifier": "com.skillboxes.32390",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/176648865265m2zkoN85xJElta.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Gate number 9, Princess Academy, Palace Grounds 3 , Ramana Maharishi Road, Bellary Rd, Jayamahal, Bengaluru, Karnataka 560080, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.004424",
+            "longitude": "77.5848398"
+         },
+         "name": "PEBBLE The Jungle Lounge"
+      },
+      "name": "Shadows of sound",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Mandatory Cover Charge at gates\n",
+            "inventoryLevel": 1000,
+            "name": "Single Entry",
+            "url": "https://www.skillboxes.com/events/ticket/shadows-of-sound"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Mandatory Cover Charge at gates\n",
+            "inventoryLevel": 1000,
+            "name": "Couple Entry",
+            "url": "https://www.skillboxes.com/events/ticket/shadows-of-sound"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Group of 4",
+            "url": "https://www.skillboxes.com/events/ticket/shadows-of-sound"
+         }
+      ],
+      "startDate": "2025-12-26T20:00:00",
+      "url": "https://www.skillboxes.com/events/shadows-of-sound"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": ".",
+      "endDate": "2025-12-27T01:30:00",
+      "identifier": "com.skillboxes.32388",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17664861388oLo39z44avvIIlZ.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9924198",
+            "longitude": "77.5824663"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "astralworx presents heat ft. sumia & seventh sea",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "each ticket admits one individual, cover charges applicable post 8:30pm\n",
+            "inventoryLevel": 100,
+            "name": "Female",
+            "url": "https://www.skillboxes.com/events/ticket/astralworx-presents-heat-ft-sumia-seventh-sea"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "each ticket admits one individual, cover charges applicable throughout the event\n",
+            "inventoryLevel": 100,
+            "name": "Male",
+            "url": "https://www.skillboxes.com/events/ticket/astralworx-presents-heat-ft-sumia-seventh-sea"
+         }
+      ],
+      "startDate": "2025-12-26T19:00:00",
+      "url": "https://www.skillboxes.com/events/astralworx-presents-heat-ft-sumia-seventh-sea"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "AFTER DARK – New Year Bash\nWhen the lights go low, the energy goes high. Step into an immersive neon jungle as After Dark takes over Kitty Ko, Bangalore for an unforgettable New Y",
+      "endDate": "2026-01-01T02:30:00",
+      "identifier": "com.skillboxes.32375",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1766474714O4g1SFDV8XEQueJY.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "THE LALIT ASHOK, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9924198",
+            "longitude": "77.5824663"
+         },
+         "name": "Kitty Ko"
+      },
+      "name": "AFTER DARK",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket includes entry for one Female and provides access to the unlimited F&B counter to enjoy food and drinks.\n",
+            "inventoryLevel": 100,
+            "name": "Entry Only - Female",
+            "url": "https://www.skillboxes.com/events/ticket/after-dark"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket includes entry for one Male and provides access to the unlimited F&B counter to enjoy food and drinks.\n",
+            "inventoryLevel": 100,
+            "name": "Entry Only - Male",
+            "url": "https://www.skillboxes.com/events/ticket/after-dark"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket includes entry for one Couple and provides access to the unlimited F&B counter to enjoy food and drinks.\n",
+            "inventoryLevel": 100,
+            "name": "Entry Only - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/after-dark"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket includes entry for 5 individuals and provides access to the unlimited F&B counter to enjoy food and drinks.\n",
+            "inventoryLevel": 50,
+            "name": "Entry Only - Group Of 5",
+            "url": "https://www.skillboxes.com/events/ticket/after-dark"
+         }
+      ],
+      "startDate": "2025-12-31T20:00:00",
+      "url": "https://www.skillboxes.com/events/after-dark"
    },
    {
       "@context": "https://schema.org",
@@ -228,52 +380,6 @@
       ],
       "startDate": "2025-12-24T20:00:00",
       "url": "https://www.skillboxes.com/events/christmas-all-night-best-party-in-town"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Get ready for Tease Tuesday, the talk of the town this month as we celebrate pre-Christmas in the Pink City! Highlight •Enjoy complimentary Corona beer for ladies.•Cotton cand",
-      "endDate": "2025-12-23T12:45:00",
-      "identifier": "com.skillboxes.32337",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/QzR2WjdENmt5OXNveXZDaXlIV0FpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1766389481GL0tjfdHUcGY6czO.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No.40, 4th B Cross, 5th Block industrial layout, Koramangala Bangalore, India",
-         "name": "HAPPY BREW"
-      },
-      "name": "Tease Tuesday- Pre Christmas Eve II Ladies Night",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Each pass permits one couple entry to the event. - Cover charge of INR 1000 is applicable at the venue after 9:30 PM.\n",
-            "inventoryLevel": 50,
-            "name": "couples",
-            "url": "https://www.skillboxes.com/events/ticket/tease-tuesday-pre-christmas-eve-ii-ladies-night"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Each pass permits one lady entry to the event. - No cover charge is applicable.\n",
-            "inventoryLevel": 50,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/tease-tuesday-pre-christmas-eve-ii-ladies-night"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Each pass permits one stag entry to the event. - Cover charge of INR 1000/- is applicable at the venue.\n",
-            "inventoryLevel": 50,
-            "name": "Single Men",
-            "url": "https://www.skillboxes.com/events/ticket/tease-tuesday-pre-christmas-eve-ii-ladies-night"
-         }
-      ],
-      "startDate": "2025-12-23T07:00:00",
-      "url": "https://www.skillboxes.com/events/tease-tuesday-pre-christmas-eve-ii-ladies-night"
    },
    {
       "@context": "https://schema.org",
@@ -423,7 +529,7 @@
       "description": "Lumen Festival ",
       "endDate": "2025-12-28T23:59:00",
       "identifier": "com.skillboxes.32297",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1766232692AqRGXAwGRU7EqJFx.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1766414637ZRq8gWTdjaUPMcX5.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Open Air Music Festivals"
@@ -538,21 +644,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 47,
-            "name": "Couple Entry",
-            "url": "https://www.skillboxes.com/events/ticket/two-dollar-tuesday-pre-christmas-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 49,
-            "name": "Female Entry",
-            "url": "https://www.skillboxes.com/events/ticket/two-dollar-tuesday-pre-christmas-party"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 14,
+            "inventoryLevel": 6,
             "name": "Male Entry",
             "url": "https://www.skillboxes.com/events/ticket/two-dollar-tuesday-pre-christmas-party"
          }
@@ -1046,7 +1138,42 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charges of ₹500 applicable at gates fully redeemable on FnB\n",
-            "inventoryLevel": 20,
+            "inventoryLevel": 19,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/oafbiggigs-ed-5-soorya-kezia"
+         }
+      ],
+      "startDate": "2026-01-10T20:00:00",
+      "url": "https://www.skillboxes.com/events/oafbiggigs-ed-5-soorya-kezia"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Bengaluru based songwriter & producer Soorya celebrates his most recent single ‘Man in The Mirror’ on January 10, 2026 at #oafBigGigs Edition 5 at Fandom, Koramangala.  After releasing music",
+      "endDate": "2026-01-10T23:59:00",
+      "identifier": "com.skillboxes.32193",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1765976520DNjvJYccRzwGn8Kw.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th, Block 413, 100 Feet Rd, off Gillys redefined, KHB Block Koramangala, Koramangala 4-B Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.933341",
+            "longitude": "77.623648"
+         },
+         "name": "Fandom at Gilly's Redefined"
+      },
+      "name": "#oafBigGigs Ed. 5 | Soorya + Kezia | January 10, Saturday LIVE at Fandom",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additional cover charges of ₹500 applicable at gates fully redeemable on FnB\n",
+            "inventoryLevel": 19,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/oafbiggigs-ed-5-soorya-kezia"
          }
@@ -1415,49 +1542,17 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Allows entry for 2 individuals with a reserved table. - Mandatory redeemable cover charges of 1500 per person apply at the venue. - Food and beverages are available à la carte.\n",
-            "inventoryLevel": 2,
-            "name": "Early Bird Table for 2",
-            "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-whitefield"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "- Allows entry for 4 individuals with a reserved table. - Mandatory redeemable cover charges of 1500 per person apply at the venue. - Food and beverages are available à la carte.\n",
-            "inventoryLevel": 12,
+            "inventoryLevel": 6,
             "name": "Early Bird Table for 4",
             "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-whitefield"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Allows entry for 2 individuals with a reserved table. - Mandatory redeemable cover charges of 2000 per person apply at the venue. - Food and beverages are available à la carte.\n",
-            "inventoryLevel": 2,
-            "name": "Early Bird VIP Table for 2",
-            "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-whitefield"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "- Allows entry for 6 individuals with a reserved table. - Mandatory redeemable cover charges of 1500 per person apply at the venue. - Food and beverages are available à la carte.\n",
-            "inventoryLevel": 8,
+            "inventoryLevel": 5,
             "name": "Early Bird Table for 6",
-            "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-whitefield"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Allows entry for 8 individuals with a reserved table. - Mandatory redeemable cover charges of 1500 per person apply at the venue. - Food and beverages are available à la carte.\n",
-            "inventoryLevel": 2,
-            "name": "Early Bird Table for 8",
-            "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-whitefield"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Allows entry for 4 individuals with a reserved table. - Mandatory redeemable cover charges of 2000 per person apply at the venue. - Food and beverages are available à la carte.\n",
-            "inventoryLevel": 4,
-            "name": "Early Bird VIP Table for 4",
             "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-whitefield"
          }
       ],
@@ -1499,7 +1594,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Allows entry for 2 individuals with a reserved table. - Mandatory redeemable cover charges of 1500 per person apply at the venue. - Food and beverages are available à la carte.\n",
-            "inventoryLevel": 5,
+            "inventoryLevel": 2,
             "name": "Early Bird Table for 2",
             "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-yelahanka"
          },
@@ -1507,39 +1602,23 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Allows entry for 4 individuals with a reserved table. - Mandatory redeemable cover charges of 1500 per person apply at the venue. - Food and beverages are available à la carte.\n",
-            "inventoryLevel": 4,
+            "inventoryLevel": 7,
             "name": "Early Bird Table for 4",
             "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-yelahanka"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Allows entry for 2 individuals with a reserved table. - Mandatory redeemable cover charges of 2000 per person apply at the venue. - Food and beverages are available à la carte.\n",
-            "inventoryLevel": 5,
-            "name": "Early Bird VIP Table for 2",
-            "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-yelahanka"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "- Allows entry for 6 individuals with a reserved table. - Mandatory redeemable cover charges of 1500 per person apply at the venue. - Food and beverages are available à la carte.\n",
-            "inventoryLevel": 7,
+            "inventoryLevel": 6,
             "name": "Early Bird Table for 6",
             "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-yelahanka"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "- Allows entry for 8 individuals with a reserved table. - Mandatory redeemable cover charges of 1500 per person apply at the venue. - Food and beverages are available à la carte.\n",
-            "inventoryLevel": 5,
-            "name": "Early Bird Table for 8",
-            "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-yelahanka"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
             "description": "- Allows entry for 4 individuals with a reserved table. - Mandatory redeemable cover charges of 2000 per person apply at the venue. - Food and beverages are available à la carte.\n",
-            "inventoryLevel": 3,
+            "inventoryLevel": 2,
             "name": "Early Bird VIP Table for 4",
             "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-yelahanka"
          }
@@ -1574,7 +1653,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows Entry for 2 Individuals with reserved table Full Cover Charge Redeemable Food & Beverages are available A La Carte DJ Music and Light Show\nAllows Entry for 2 Individuals with reserved table Full Cover Charge Redeemable Food & Beverages are available A La Carte DJ Music and Light Show",
-            "inventoryLevel": 8,
+            "inventoryLevel": 7,
             "name": "Early Bird Table for 2",
             "url": "https://www.skillboxes.com/events/ticket/blr-nye-2026-blr-brewing-co-kanakapura-road"
          },
@@ -1786,7 +1865,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Allows entry for 2 individuals with a reserved table. - Mandatory redeemable cover charges of 1500 per person apply at the venue. - Food and beverages are available à la carte.\n",
-            "inventoryLevel": 5,
+            "inventoryLevel": 3,
             "name": "Early Bird Table for 2",
             "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-jp-nagar"
          },
@@ -1794,7 +1873,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "- Allows entry for 3 individuals with a reserved table. - Mandatory redeemable cover charges of 1500 per person apply at the venue. - Food and beverages are available à la carte.\n",
-            "inventoryLevel": 7,
+            "inventoryLevel": 2,
             "name": "Early Bird Table for 3",
             "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-jp-nagar"
          },
@@ -1804,6 +1883,14 @@
             "description": "- Allows entry for 2 individuals with a reserved table. - Mandatory redeemable cover charges of 2000 per person apply at the venue. - Food and beverages are available à la carte.\n",
             "inventoryLevel": 2,
             "name": "Early Bird VIP Table for 2",
+            "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-jp-nagar"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "- Allows entry for 4 individuals with a reserved table. - Mandatory redeemable cover charges of 1500 per person apply at the venue. - Food and beverages are available à la carte.\n",
+            "inventoryLevel": 5,
+            "name": "Early Bird Table for 4",
             "url": "https://www.skillboxes.com/events/ticket/raat-ka-scene-new-years-2026-jollygunj-jp-nagar"
          },
          {
@@ -1845,7 +1932,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows Entry for 2 Individuals with reserved table Mandatory Redeemable Cover Charge charges apply at the venue Food & Beverages are available A La Carte DJ Music, Dancer and Light Show\nAllows Entry for 2 Individuals with reserved table Mandatory Redeemable Cover Charge charges apply at the venue Food & Beverages are available A La Carte DJ Music, Dancer and Light Show",
-            "inventoryLevel": 31,
+            "inventoryLevel": 30,
             "name": "Early Bird Table for 2",
             "url": "https://www.skillboxes.com/events/ticket/blr-nye-2026-blr-brewing-co"
          },
@@ -2124,7 +2211,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry without cover charges till 9:00PM only, Post 9:00PM additional cover charges applicable as per club rules and regulations.\n",
-            "inventoryLevel": 989,
+            "inventoryLevel": 971,
             "name": "Rsvp Couple",
             "url": "https://www.skillboxes.com/events/ticket/somad-x-housewives-ft-sage-santana-siiry-cocoa-maddy"
          },
@@ -2132,7 +2219,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry without cover charges till 9:00PM only, Post 9:00PM additional cover charges applicable as per club rules and regulations.\n",
-            "inventoryLevel": 992,
+            "inventoryLevel": 990,
             "name": "Rsvp Female",
             "url": "https://www.skillboxes.com/events/ticket/somad-x-housewives-ft-sage-santana-siiry-cocoa-maddy"
          }
@@ -2166,7 +2253,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 45,
+            "inventoryLevel": 43,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/moksha-360-presents-raw-and-real-ep-10"
          },
@@ -2263,7 +2350,7 @@
       "endDate": "2025-12-25T23:59:00",
       "identifier": "com.skillboxes.32040",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1765556349bIE1RINVSoL26Eid.jpg.webp",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -2277,7 +2364,7 @@
          },
          "name": "Yeda Republic Bengaluru"
       },
-      "name": "A Lit Christmas Affair",
+      "name": "A Lit Christmas Affair at Yeda Republic Bangalore",
       "offers": [
          {
             "@type": "Offer",
@@ -2293,13 +2380,6 @@
             "description": "GET FREE ACCESS TO THE EVENT\n",
             "inventoryLevel": 100,
             "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/a-little-christmas-affair"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "STAG ENTRY",
             "url": "https://www.skillboxes.com/events/ticket/a-little-christmas-affair"
          }
       ],
@@ -2327,7 +2407,7 @@
          },
          "name": "Yeda Republic Bengaluru"
       },
-      "name": "THE FINAL COUNTDOWN",
+      "name": "THE FINAL COUNTDOWN - NYE AT YEDA REPUBLIC BANGALORE",
       "offers": [
          {
             "@type": "Offer",
@@ -2364,7 +2444,7 @@
       "endDate": "2025-12-24T23:00:00",
       "identifier": "com.skillboxes.32037",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1765552164frzOd0XNWTB9AHhb.jpg.webp",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -2378,7 +2458,7 @@
          },
          "name": "Yeda Republic Bengaluru"
       },
-      "name": "Christmas Overdrive",
+      "name": "Christmas Overdrive at Yeda Republic Bangalore",
       "offers": [
          {
             "@type": "Offer",
@@ -2394,14 +2474,6 @@
             "description": "GET FREE ACCESS TO THE EVENT\n",
             "inventoryLevel": 100,
             "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/christmas-overdrive"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "FULL COVER\n",
-            "inventoryLevel": 100,
-            "name": "STAG ENTRTY",
             "url": "https://www.skillboxes.com/events/ticket/christmas-overdrive"
          }
       ],
@@ -2673,7 +2745,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A mandatory fully redeemable cover of 500 will be charged at gate.\n",
-            "inventoryLevel": 45,
+            "inventoryLevel": 43,
             "name": "SINGLE",
             "url": "https://www.skillboxes.com/events/ticket/creed-tribute-by-deep"
          },
@@ -2681,7 +2753,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A mandatory fully redeemable cover of 500 will be charged at gate.\n",
-            "inventoryLevel": 47,
+            "inventoryLevel": 45,
             "name": "BUDDY",
             "url": "https://www.skillboxes.com/events/ticket/creed-tribute-by-deep"
          },
@@ -2872,9 +2944,9 @@
          },
          {
             "@type": "Offer",
-            "availability": "SoldOut",
+            "availability": "InStock",
             "description": "- Allows entry for 6 individuals with a reserved table. - Mandatory redeemable cover charges of 1000 per person apply at the venue. - Food and beverages are available à la carte.\n",
-            "inventoryLevel": 0,
+            "inventoryLevel": 1,
             "name": "Early Bird Table of 6",
             "url": "https://www.skillboxes.com/events/ticket/new-year-party-byg-bang-2026-hennur"
          }
@@ -3470,15 +3542,15 @@
             "availability": "InStock",
             "description": "Unlimited access to our elaborate festive brunch spread: Live carvings, winter salads, rustic breads, global mains & indulgent Christmas desserts. Featuring country-style roasts, handcrafted breads, festive cheese boards, live omelette stations, appam counters & unlimited Mocktails.\n",
             "inventoryLevel": 50,
-            "name": "Unlimited Food + Mocktails",
+            "name": "Unlimited Food & Mocktails",
             "url": "https://www.skillboxes.com/events/ticket/country-christmas-brunch-byg-brewski-brewing-company-sarjapur-3"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Unlimited access to our elaborate festive brunch spread: Live carvings, winter salads, rustic breads, global mains & indulgent Christmas desserts. Unlimited Craft Beers & Mocktails.  All other spirits available à la carte.\n",
-            "inventoryLevel": 48,
-            "name": "Unlimited Food + Craft Beer",
+            "inventoryLevel": 50,
+            "name": "Unlimited Food & Beer",
             "url": "https://www.skillboxes.com/events/ticket/country-christmas-brunch-byg-brewski-brewing-company-sarjapur-3"
          }
       ],
@@ -3519,17 +3591,17 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Unlimited access to our elaborate festive brunch spread: Live carvings, winter salads, rustic breads, global mains & indulgent Christmas desserts. Featuring country-style roasts, handcrafted breads, festive cheese boards, live omelette stations, appam counters & unlimited Mocktails.\n",
-            "inventoryLevel": 47,
-            "name": "Unlimited Food + Mocktails",
+            "description": "Unlimited access to our elaborate festive brunch spread: Live carvings, winter salads, rustic breads, global mains & indulgent Christmas desserts. Featuring country-style roasts, handcrafted breads, festive cheese boards, live omelette stations, appam counters & Unlimited Mocktails.\n",
+            "inventoryLevel": 49,
+            "name": "Unlimited Food & Mocktails",
             "url": "https://www.skillboxes.com/events/ticket/country-christmas-brunch-byg-brewski-brewing-company-sarjapur-2"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "Unlimited access to our elaborate festive brunch spread: Live carvings, winter salads, rustic breads, global mains & indulgent Christmas desserts. Unlimited Craft Beers & Mocktails.  All other spirits available à la carte.\n",
-            "inventoryLevel": 47,
-            "name": "Unlimited Food + Craft Beer",
+            "inventoryLevel": 50,
+            "name": "Unlimited Food & Beer",
             "url": "https://www.skillboxes.com/events/ticket/country-christmas-brunch-byg-brewski-brewing-company-sarjapur-2"
          }
       ],
@@ -3563,7 +3635,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge Applicable At Gates Post 9:30 Pm\n",
-            "inventoryLevel": 39,
+            "inventoryLevel": 38,
             "name": "Early Bird - Entry Only",
             "url": "https://www.skillboxes.com/events/ticket/the-christmas-queens-1"
          },
@@ -3829,6 +3901,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
+            "description": "This ticket provides 1 kid an access to the kids area and should be accompanied by an adult in the hotel premisis. This ticket includes unlimited food and non alcoholic beverages.\n",
+            "inventoryLevel": 100,
+            "name": "Kids Pass",
+            "url": "https://www.skillboxes.com/events/ticket/panache-new-year-s-eve-jw-marriott-ny2026"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
             "description": "This ticket allows access to JW Gardens only. - Includes unlimited food and beverages. - Alcoholic beverages will be served to 21+ only. - Hotel and government rules are final.\n",
             "inventoryLevel": 1000,
             "name": "Early Bird | Female JW Lawns",
@@ -3904,7 +3984,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 200,
+            "inventoryLevel": 198,
             "name": "ETERNAL DOMINION II - RISE TO DOMINION",
             "url": "https://www.skillboxes.com/events/ticket/eternal-dominion-iii-rise-to-dominion-concert-series"
          },
@@ -4050,7 +4130,15 @@
             "availability": "InStock",
             "description": "Additional cover charge applicable at the gate.\nRedeemable on F&B",
             "inventoryLevel": 99,
-            "name": "VIP",
+            "name": "General",
+            "url": "https://www.skillboxes.com/events/ticket/taaron-ki-raat-ft-sukoon-wali-qawwali"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Additioanl cover charge applicable at gate.\nRedeemable on F&B",
+            "inventoryLevel": 96,
+            "name": "Group of 5 Entry Pass",
             "url": "https://www.skillboxes.com/events/ticket/taaron-ki-raat-ft-sukoon-wali-qawwali"
          },
          {
@@ -4100,7 +4188,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory INR 1000 per person cover charge applicable at the gates.\n",
-            "inventoryLevel": 260,
+            "inventoryLevel": 215,
             "name": "Phase 3 Ticket",
             "url": "https://www.skillboxes.com/events/ticket/the-yellow-diary-live-blr"
          },
@@ -4116,7 +4204,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory INR 1000 per person cover charge applicable at the gates.\n",
-            "inventoryLevel": 17,
+            "inventoryLevel": 12,
             "name": "Phase 2 Ticket || Group of 3",
             "url": "https://www.skillboxes.com/events/ticket/the-yellow-diary-live-blr"
          }
@@ -4127,7 +4215,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Inclusions:\r\n\r\n\r\n\tUnlimited access to all workshops (wellness, arts, sustainability & more)\r\n\tEntry to all music performances across stages\r\n\tValid for 17th-19th January 2026 \r\n\r\n\r\n",
+      "description": "Inclusions:\n\n\n\tUnlimited access to all workshops (wellness, arts, sustainability & more)\n\tEntry to all music performances across stages\n\tValid for 17th-19th January 20",
       "endDate": "2026-01-19T09:00:00",
       "identifier": "com.skillboxes.30941",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OFBtUWVaUXNlUkpZTmdmMVJsRHlnZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1764774475eeCNxSJkrQ7uqqsC.png.webp",
@@ -4151,7 +4239,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Inclusions: Unlimited access to all workshops (wellness, arts, sustainability & more) Entry to all music performances across stages Valid for 17th -19th January 2026\nNotes: You need to have a camping/villa pass to access camping area.",
-            "inventoryLevel": 968,
+            "inventoryLevel": 967,
             "name": "Phase 1 - Festival Weekend Pass",
             "url": "https://www.skillboxes.com/events/ticket/bloom-in-green-festival-pass-2026-Weekend-pass"
          },
@@ -4363,7 +4451,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bloom In Green Festival 6.0\r\n\r\n\r\n\t\r\n\tInclusions: Exclusive 3-bedroom villas set inside the scenic Canterbury plots, offering high privacy & comfort. Extra bed available at ₹3000/day.\r\n\t&",
+      "description": "Bloom In Green Festival 6.0\n\n\n\tThis is an add on ticket to camp/stay at the festival. You need to have a festival pass mandatorily.\n\tInclusions: Exclusi",
       "endDate": "2026-01-19T09:00:00",
       "identifier": "com.skillboxes.29929",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17617280072ESosrzQDsdzCIl1.png.webp",
@@ -4381,13 +4469,13 @@
          },
          "name": "Canterbury Castles"
       },
-      "name": "Ultra Premium 3BHK Villas ( Invite Only )",
+      "name": "Ultra Premium 3BHK Villas ( Invite Only ) | Bloom in green",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "INR 40000/day | This is an add on ticket to camp/stay in the festival. You need to have festival ticket seperately. \"Valid for full 3 days - no 1 day options available.\" Inclusions: Exclusive 3-bedroom villas set inside the scenic Canterbury plots, offering high privacy & comfort. Extra bed available at ₹3000/day. You can access the camping/stay area and the exclusive curated afters.\nNote: DM us directly for details & bookings. Limited availability.",
-            "inventoryLevel": 983,
+            "inventoryLevel": 981,
             "name": "Ultra Premium 3BHK Villas ( Limited )",
             "url": "https://www.skillboxes.com/events/ticket/bloom-in-green-ultra-premium-3bhk-villas-limited"
          }
@@ -4398,7 +4486,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bloom In Green Festival 6.0\r\n\r\n\r\n\t\r\n\tInclusions: A spacious 1000 sq. ft. AC villa with 1 double bed, 1 sofa bed, dining area, fridge, TV & kitchen. Includes linens, towels, electricity & wifi.",
+      "description": "Bloom In Green Festival 6.0\n\n\n\tThis is an add on ticket to camp/stay at the festival. You need to have a festival pass mandatorily.\n\tInclusions: A spaci",
       "endDate": "2026-01-19T09:00:00",
       "identifier": "com.skillboxes.29928",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1761727962LNv8F9BhPqO12hKF.png.webp",
@@ -4416,7 +4504,7 @@
          },
          "name": "Canterbury Castles"
       },
-      "name": "Premium 2BHK Villa (Up to 6 Guests)",
+      "name": "Premium 2BHK Villa (Up to 6 Guests) | Bloom in green",
       "offers": [
          {
             "@type": "Offer",
@@ -4433,7 +4521,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bloom In Green Festival 6.0\r\n\r\n\r\n\t\r\n\tInclusions: A comfortable suite with service and a view of the main stage, so you never miss the vibe. Extra bed available at ₹3000/day.\r\n\t \r\n\t",
+      "description": "Bloom In Green Festival 6.0\n\n\n\tThis is an add on ticket to camp/stay at the festival. You need to have a festival pass mandatorily.\n\tInclusions: A comfo",
       "endDate": "2026-01-19T09:00:00",
       "identifier": "com.skillboxes.29927",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1761728069C35LAntGwfnMcDsC.png.webp",
@@ -4451,7 +4539,7 @@
          },
          "name": "Canterbury Castles"
       },
-      "name": "Suite Room – Canterbury Quad Club (2 Guests)",
+      "name": "Suite Room – Canterbury Quad Club (2 Guests) | Bloom in green",
       "offers": [
          {
             "@type": "Offer",
@@ -4468,7 +4556,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bloom In Green Festival 6.0\r\n\r\n\r\n\t\r\n\tInclusions: All features of the Premium Villa + a spacious private backyard — perfect for stargazing or late-night hangouts. Extra bed available at ₹3000/day.",
+      "description": "Bloom In Green Festival 6.0\n\n\n\tThis is an add on ticket to camp/stay at the festival. You need to have a festival pass mandatorily.\n\tInclusions: All fea",
       "endDate": "2026-01-19T09:00:00",
       "identifier": "com.skillboxes.29926",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1761727654db3TvVFvZJSJUlYx.png.webp",
@@ -4486,7 +4574,7 @@
          },
          "name": "Canterbury Castles"
       },
-      "name": "Premium 1BHK Villa with Backyard (Up to 4 Guests)",
+      "name": "Premium 1BHK Villa with Backyard (Up to 4 Guests) | Bloom in green",
       "offers": [
          {
             "@type": "Offer",
@@ -4503,7 +4591,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bloom In Green Festival 6.0 I\r\n\r\n\r\n\t\r\n\tnclusions: A spacious 640 sq. ft. AC villa with 1 double bed, 1 sofa bed, dining area, fridge, TV & kitchen. Includes linens, towels, electricity a",
+      "description": "Bloom In Green Festival 6.0 I\n\n\n\tThis is an add on ticket to camp/stay at the festival. You need to have a festival pass mandatorily.\n\t",
       "endDate": "2026-01-19T09:00:00",
       "identifier": "com.skillboxes.29924",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1761727586uBnAwllBntEimmAc.png.webp",
@@ -4521,13 +4609,13 @@
          },
          "name": "Canterbury Castles"
       },
-      "name": "Premium 1BHK Villa (Up to 4 Guests)",
+      "name": "Premium 1BHK Villa (Up to 4 Guests) | Bloom in green",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
             "description": "INR 16,000/day. This is an add on ticket to camp/stay in the festival. You need to have festival ticket seperately. \"Valid for full 3 days - no 1 day options available.\" | Inclusions: A spacious 640 sq. ft. AC villa with 1 double bed, 1 sofa bed, dining area, fridge, TV & kitchen. Includes linens, towels, electricity and wifi. You can access the camping/stay area and the exclusive curated afters.\nNotes: Villa occupants have access to all camping areas Service available on request. One car can be parked near your villa (no exit until festival end). Prices may rise as demand increases. Ideal for small groups who want privacy and comfort after a day of festivities.",
-            "inventoryLevel": 997,
+            "inventoryLevel": 996,
             "name": "Premium 1BHK Villa (Up to 4 Guests)",
             "url": "https://www.skillboxes.com/events/ticket/bloom-in-green-premium-1bhk-villa-up-top-4-guests"
          }
@@ -4538,7 +4626,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "\r\n\t\r\n\tInclusions: A comfortable suite with service and a view of the main stage, so you never miss the vibe. \r\n\t\r\n\t\r\n\tNotes:\r\n\t \r\n\r\n\t\r\n\t\t\r\n\t\t",
+      "description": "\n\tThis is an add on ticket to camp/stay at the festival. You need to have a festival pass mandatorily.\n\tInclusions: A comfortable suite with service and a view of the ",
       "endDate": "2026-01-19T09:00:00",
       "identifier": "com.skillboxes.29923",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1761727509DcucWwvQ1lFhwoDg.png.webp",
@@ -4556,7 +4644,7 @@
          },
          "name": "Canterbury Castles"
       },
-      "name": "Space for 1 in the Suite Room (Shared by 2) – Canterbury Quad Club",
+      "name": "Space for 1 in the Suite Room (Shared by 2) – Canterbury Quad Club | Bloom in green",
       "offers": [
          {
             "@type": "Offer",
@@ -4573,7 +4661,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bloom In Green Festival 6.0\r\n\r\n\r\n\t\r\n\tInclusions: 640 sq. ft. AC villa with 1 double bed, 1 sofa bed, dining area, fridge, TV & kitchen. Includes linens, towels, electricity, and Wi-Fi.\r",
+      "description": "Bloom In Green Festival 6.0\n\n\n\tThis is an add on ticket to camp/stay at the festival. You need to have a festival pass mandatorily.Space for 1 in a Premiu",
       "endDate": "2026-01-19T09:00:00",
       "identifier": "com.skillboxes.29922",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1761727297D82FbgG2EwTuNKQ3.png.webp",
@@ -4591,7 +4679,7 @@
          },
          "name": "Canterbury Castles"
       },
-      "name": "Space for 1 in a Premium 1BHK Villa (Shared by 4)",
+      "name": "Space for 1 in a Premium 1BHK Villa (Shared by 4) | Bloom in green",
       "offers": [
          {
             "@type": "Offer",
@@ -4608,7 +4696,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bloom In Green Festival 6.0\r\n\r\n\r\n\t\r\n\tInclusions:\r\n\r\n\t\r\n\t\t\r\n\t\tAccess for 1 car + 1 person to the camping area.\r\n\t\t\r\n\t\t\r\n\t\tCamping space next to",
+      "description": "Bloom In Green Festival 6.0\n\n\n\tThis is an add on ticket to camp/stay at the festival. You need to have a festival pass mandatorily.\n\tInclusions:",
       "endDate": "2026-01-19T09:00:00",
       "identifier": "com.skillboxes.29921",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1761727113kYouuRPnI0LPImzK.png.webp",
@@ -4626,7 +4714,7 @@
          },
          "name": "Canterbury Castles"
       },
-      "name": "Park & Camp",
+      "name": "Park & Camp | Bloom in green",
       "offers": [
          {
             "@type": "Offer",
@@ -4643,7 +4731,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Bloom In Green Festival 6.0\r\n\r\n\r\n\t\r\n\tnclusions: A cozy private tent (130 x 210 cm) set up for you, with bed, sleeping bag & tent lights. Access to common facilities.\r\n\t \r\n\t\r\n",
+      "description": "Bloom In Green Festival 6.0\n\n\n\tThis is an add on ticket to camp/stay at the festival. You need to have a festival pass mandatorily.\n\tInclusions: A cozy ",
       "endDate": "2026-01-19T09:00:00",
       "identifier": "com.skillboxes.29920",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/OWN6RzdLUEwwd1ExNlhORStjVDhQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17617270772YESaFTt8OOBGM6X.png.webp",
@@ -4661,7 +4749,7 @@
          },
          "name": "Canterbury Castles"
       },
-      "name": "Solo Tent",
+      "name": "Solo Tent | Bloom in green",
       "offers": [
          {
             "@type": "Offer",
@@ -4904,5 +4992,39 @@
       ],
       "startDate": "2026-01-24T10:00:00",
       "url": "https://www.skillboxes.com/events/india-retail-investors-expo-conference-2025"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "No lights. No stage. Just music, mellow vibes, and a circle of hearts that beat to a shared rhythm.Jam and Toast is an easy-going jamming session for those who find joy in spontaneous tunes, unplugged moments, and warm company. W",
+      "endDate": "2026-01-31T20:30:00",
+      "identifier": "com.skillboxes.24900",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TnJvcXh1b3JoaGFBaVZ1ZmgvNVFVZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1759386305yVXBUifaOlH18umc.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Open Air Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "126/5/4, Nallurahalli Main Rd, Palm Meadows, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9602491",
+            "longitude": "77.7326977"
+         },
+         "name": "Namma Ashram - Cafe, Stay, Yoga, Library, Shop, Workshops, Events & More"
+      },
+      "name": "Jam and Toast - An Evening of Easy Jamming",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 60,
+            "name": "Regular - Saturday Show",
+            "url": "https://www.skillboxes.com/events/ticket/jam-and-toast-an-evening-of-easy-jamming"
+         }
+      ],
+      "startDate": "2026-01-24T19:00:00",
+      "url": "https://www.skillboxes.com/events/jam-and-toast-an-evening-of-easy-jamming"
    }
 ]
