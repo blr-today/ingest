@@ -1,37 +1,5 @@
 [
   {
-    "name": "SIS x Nike Cricket Coaching",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Beginner-Thursday-4",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Cricket",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Beginner-Thursday-4",
-    "image": "https://sistersinsweat.com/images/event/20251003143712860.png",
-    "location": {
-      "name": "Rush Arena, Cooke Town",
-      "address": "Rush Arena, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
-      "type": "Place"
-    },
-    "startDate": "2025-12-25T20:00:00+05:30",
-    "endDate": "2025-12-25T21:30:00+05:30"
-  },
-  {
     "name": "Sisters & Misters Football Game Day",
     "@type": "SportsEvent",
     "url": "https://sistersinsweat.com/session-detail/Sisters-Misters-Bangalore-Football-Game-Day-Fri5",
@@ -58,38 +26,6 @@
     "location": {
       "name": "SUFC, Ulsoor",
       "address": "SUFC Gate No. 3, United Football Club, RBANM\u2019s Ground, South, Gangadhar Chetty Rd, near Ulsoor, Rukmani Colony, Lake",
-      "type": "Place"
-    },
-    "startDate": "2025-12-26T07:00:00+05:30",
-    "endDate": "2025-12-26T08:30:00+05:30"
-  },
-  {
-    "name": "B'ball with the Sisters - Intermediate",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Friday-5",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Basketball",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Friday-5",
-    "image": "https://sistersinsweat.com/images/event/20250325183424486.jpeg",
-    "location": {
-      "name": "St. Joseph's Arts And Science College",
-      "address": "St. Joseph's Arts & Science College 36, Langford Rd, Langford Gardens",
       "type": "Place"
     },
     "startDate": "2025-12-26T07:00:00+05:30",
@@ -128,38 +64,6 @@
     "endDate": "2025-12-27T08:30:00+05:30"
   },
   {
-    "name": "Run Session",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-7-dec",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Run",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-7-dec",
-    "image": "https://sistersinsweat.com/images/event/20250325190836697.jpeg",
-    "location": {
-      "name": "Cubbon Park",
-      "address": "Kasturba Road, Bangalore",
-      "type": "Place"
-    },
-    "startDate": "2025-12-28T06:45:00+05:30",
-    "endDate": "2025-12-28T08:15:00+05:30"
-  },
-  {
     "name": "Sisters and Misters Yoga Mornings",
     "@type": "SocialEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Sisters-Misters-Sunday-7dec",
@@ -189,5 +93,101 @@
     },
     "startDate": "2025-12-28T08:30:00+05:30",
     "endDate": "2025-12-28T09:45:00+05:30"
+  },
+  {
+    "name": "B'ball with the Sisters - Intermediate",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Friday-5",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Basketball",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Basketball-Intermediate-Friday-5",
+    "image": "https://sistersinsweat.com/images/event/20250325183424486.jpeg",
+    "location": {
+      "name": "St. Joseph's Arts And Science College",
+      "address": "St. Joseph's Arts & Science College 36, Langford Rd, Langford Gardens",
+      "type": "Place"
+    },
+    "startDate": "2025-01-02T07:00:00+05:30",
+    "endDate": "2025-01-02T08:30:00+05:30"
+  },
+  {
+    "name": "Run Session",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-7-dec",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Run",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-7-dec",
+    "image": "https://sistersinsweat.com/images/event/20250325190836697.jpeg",
+    "location": {
+      "name": "Cubbon Park",
+      "address": "Kasturba Road, Bangalore",
+      "type": "Place"
+    },
+    "startDate": "2025-01-04T06:45:00+05:30",
+    "endDate": "2025-01-04T08:15:00+05:30"
+  },
+  {
+    "name": "SIS x Nike Cricket Coaching",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Beginner-Thursday-4",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Cricket",
+    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Cricket-Beginner-Thursday-4",
+    "image": "https://sistersinsweat.com/images/event/20251003143712860.png",
+    "location": {
+      "name": "Rush Arena, Cooke Town",
+      "address": "Rush Arena, Jaibharath Nagar, D Costa Layout, Maruthi Sevanagar",
+      "type": "Place"
+    },
+    "startDate": "2025-01-08T20:00:00+05:30",
+    "endDate": "2025-01-08T21:30:00+05:30"
   }
 ]
