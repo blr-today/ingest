@@ -779,54 +779,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Christmas Night",
-    "description": "Step into the magic of Christmas night with an enchanting outdoor celebration under the stars. Gather around a crackling bonfire as live music fills the air with festive melodies and heartwarming tunes. Indulge in a decadent dessert platter featuring seasonal sweets, handcrafted treats, and rich holiday favorites. Whether you\u2019re sharing laughter with friends or savoring a quiet moment by the fire, this cozy evening promises warmth, joy, and a touch of Christmas wonder.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/42B3B6AFF61D4181B43C0931493DE5DE_converted_webp.webp"
-    ],
-    "startDate": "2025-12-25T19:00:00+05:30",
-    "endDate": "2025-12-25T23:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "317, Sector A, Rd, Chikka Bommasandra, Yelahanka New Town, Bengaluru, Karnataka 560064, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3YJZCQAZrjsRs91j-RjNe98",
-      "latitude": "13.09267290000000000000",
-      "longitude": "77.58220600000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Cafe Socialize",
-      "description": "Food | Events | Art",
-      "url": "https://urbanaut.app/partner/cafesocialize",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/813B66687E96407C8725A026CA0B6D49_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99027-55288"
-      }
-    },
-    "url": "https://urbanaut.app/spot/christmas-night",
-    "keywords": [
-      "Live GIG",
-      "Festival",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "New Year Eve",
     "description": "Ring in the New Year under the stars at our Grand New Year\u2019s Eve Celebration! Enjoy an unforgettable evening filled with delicious flavors, soulful tunes, and warm moments. Indulge in a lavish vegetarian buffet featuring a mouthwatering spread of global and regional favorites. Let the rhythm move you with live music performances that set the perfect tone for the night. As midnight draws near, gather around the bonfire with friends and family \u2014 a cozy, magical way to welcome 2026 together.Join us for laughter, music, and memories that will sparkle long after the night ends.Entry charges of Rs. 1349 + GST to be collect at the venue",
@@ -6505,6 +6457,54 @@
       "Leisure",
       "Premium",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bengaluru Starter Pack with Tasty Trivia",
+    "description": "The Bengaluru Starter Pack \u2014 now a game showThis edition is an ode to Bengaluru \u2014 its hills and lakes, gardens and grids, architecture and evolution. Expect a mix of questions exploring how the city was planned and shaped, from its early contours and colonial designs to modern neighbourhoods, public art, and everyday quirks that define \u201cNamma Bengaluru.\u201dHere\u2019s what\u2019s on the menu \ud83d\udc47\ud83e\udd1d Welcoming vibe \u2014 friendly, engaging, and beginner-friendly.\ud83c\uddee\ud83c\uddf3 India-themed set \u2014 food, culture, films, people, business & more.\ud83e\udde9 Work-outable questions \u2014 designed to be solved with thinking, not rote recall.\ud83e\uddc3 Welcome Drinks (Prelims): fun warm-up round (10\u201312 Qs, ~30\u201345 mins).\ud83c\udf5b Appraiser: fast-paced face-offs & eliminations.\ud83c\udf72 Main Course: top teams battle it out on a Jeopardy-style grid.\ud83d\ude4c Audience play-along: submit guesses live & win prizes too.\ud83c\udfc6 Goodies galore: for both audiences & winnersWho is Tasty Trivia?Tasty Trivia is co-curated by Susovan and Saloni, driven by a shared love for curiosity. A multi-city, community-driven series, it has travelled across 5 cities and runs monthly in Bangalore \u2014 offering fun, beginner-friendly trivia events that make knowledge social, engaging, and full of surprises.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6F84EC67CA05422EB79B32BEB070B338_converted_webp.webp"
+    ],
+    "startDate": "2025-12-26T21:00:00+05:30",
+    "endDate": "2025-12-26T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96722140000000000000",
+      "longitude": "77.63669820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/bengaluru-starter-pack-with-tasty-trivia",
+    "keywords": [
+      "Leisure",
+      "Local",
+      "History & heritage",
       "URBANAUT"
     ]
   }
