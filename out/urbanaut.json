@@ -6333,53 +6333,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "One Last Christmas at Hatworks Boulevard",
-    "description": "This season is very special and very nostalgic.. As we celebrate one last Christmas at our very own Trippy Goat on Hatworks Boulevard, we\u2019re wrapping this chapter with gratitude, laughter and the flavours that made this venue feel like our home. While we say goodbye here, we\u2019re thrilled to share that a brand new Trippy Goat is already taking shape on MG Road.. designed with the same heart, the same spirit.. with a whole lot of new energy.. plenty of greenery & yes.. Lots of parking too !!! As we raise a toast to the memories we made here, the events & stories shared and to \u201cYou\u201d our dear guests that made us who we are and this place what it is. Let\u2019s make this final Christmas one to remember.. warm, cosy and simply Trippy !!!! Here\u2019s to Hatworks Boulevard\u2026 and to exciting new beginnings on MG Road.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5002A38F313141638F61440C8299874F_converted_webp.webp"
-    ],
-    "startDate": "2025-12-25T11:00:00+05:30",
-    "endDate": "2025-12-25T16:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Hatworks Boulevard, 431/1, Cunningham Rd, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJibah5rEXrjsRBqh68oiwMcM",
-      "latitude": "12.98545410000000000000",
-      "longitude": "77.59602850000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 35,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1575.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Trippy Goat",
-      "description": "Bringing in the cool and casual into wine & dine\u2026 & dare we say truly sustainable coffees, handpicked from small and medium farms in the Western Ghats",
-      "url": "https://urbanaut.app/partner/trippygoat",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/FE0B785C197D4320ACD2AD8AD3FC8506_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97316-55707"
-      }
-    },
-    "url": "https://urbanaut.app/spot/last-christmas-at-trippygoat",
-    "keywords": [
-      "Premium",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "BREWRA LIVE presents AMIT HERI GROUP",
     "description": "After eight long years, Guitarist-Composer AMIT HERI is back in Bengaluru.This homecoming sees his much -Loved Jazz-Fusion project return to the stage. The Amit Heri Group is all set to deliver an evening of Groove-filled Improvisation and Originals.\ud83c\udfb8Featuring:- renowned Carnatic flautist - Ravi Kulur - Akshada Krishnan (Keyboards)- Sricharan Sunder (Bass)- Rohit P S (Drums)",
