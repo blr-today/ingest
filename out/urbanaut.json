@@ -587,53 +587,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Coro (Girls') House Party: Y2K Revival",
-    "description": "Our space, circa 2002.We\u2019re turning Coro into a low-key house party with early 2000s music, and easy, unpretentious vibes.Come as you are, dance if you feel like it, stay for the vibes, and leave when you\u2019re happy.This is an adults-only, women-focused evening, designed to feel intimate, nostalgic, and relaxed - exactly like a house party should.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B7194B16D5C14DC7BF422BEC2AD05142_converted_webp.webp"
-    ],
-    "startDate": "2025-12-27T18:00:00+05:30",
-    "endDate": "2025-12-27T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3S2OrvsVrjsRBOql1X-UnAM",
-      "latitude": "12.96078240000000000000",
-      "longitude": "77.63721450000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 30,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "590.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Coro",
-      "description": null,
-      "url": "https://urbanaut.app/partner/corospace",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/0F2E55DAAA19467D96CA7AFC8F33B7A0_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-94466-91720"
-      }
-    },
-    "url": "https://urbanaut.app/spot/coro-house-party-y2k-revival",
-    "keywords": [
-      "Music",
-      "Premium",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Alchemy with Art: Art Workshop",
     "description": "Atta Galatta presents 'Alchemy with Art' - a creative healing workshop guided by Harshitha on Sunday 28 December 2025 at 11:00 AM. In this second episode of Alchemy with Art, you will be guided through a transformative art session, balancing creative expression and inner work, with the intention of turning your personal pain into power. If this is meant for you, come join and leave empowered for the New Year. #AlchemywithArt #creativity #innerwholeness #healingcircle #Bengaluruevents #attagalatta",
@@ -6975,6 +6928,51 @@
       "Leisure",
       "Wellness",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Ta Ka Dhi Mi: Book Launch and live tabla concert",
+    "description": "The event marks the launch of the much awaited book, Ta Ka Dhi Mi 2358, by author Shyama Panikkar. It is the 4th book in her series of music books for children. After the launch and a session by Shyama around the new book, her students will do a hindustani classical performance for the audience with live tabla.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5EA736D8B8B441A9A2E8F861312F44DA_converted_webp.webp"
+    ],
+    "startDate": "2026-01-25T16:00:00+05:30",
+    "endDate": "2026-01-25T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 60,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/ta-ka-dhi-mi-book-launch-and-live-tabla-concert",
+    "keywords": [
       "URBANAUT"
     ]
   }
