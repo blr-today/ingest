@@ -256,7 +256,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 36,
+    "remainingAttendeeCapacity": 25,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -398,7 +398,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -446,7 +446,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 1000,
-    "remainingAttendeeCapacity": 868,
+    "remainingAttendeeCapacity": 861,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -542,7 +542,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 210,
-    "remainingAttendeeCapacity": 176,
+    "remainingAttendeeCapacity": 167,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -700,7 +700,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 32,
+    "remainingAttendeeCapacity": 30,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -747,7 +747,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 14,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1041,8 +1041,8 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E52689153E674F2BB0CA217DE5ED1421_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D85B9F03B189426699A4FB4647C929C3_converted_webp.webp"
     ],
-    "startDate": "2026-01-14T11:30:00+05:30",
-    "endDate": "2026-01-14T13:30:00+05:30",
+    "startDate": "2026-01-14T15:00:00+05:30",
+    "endDate": "2026-01-14T17:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -1077,58 +1077,6 @@
     "keywords": [
       "Leisure",
       "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Serious Slice",
-    "description": "Welcome to Naples. Well, almost. At Serious Slice, we take our Napoli roots very seriously. Every dish, every process is driven by a deep obsession with Neapolitan pizza and the streets that shaped it, where time, fire, and simplicity do the heavy lifting.Our dough ferments for 72 hours before it ever meets the flame, creating crusts that are light, airy, and blistered just the way Napoli intended. The tomatoes are always San Marzano, bright and balanced. The mozzarella melts soft and gentle. Every pizza carries the soul of a city that takes its food personally.Whether you swear by the OG Margherita or chase bolder flavours, the craft always remains the constant.At our flagship on Cunningham Road, we\u2019ve kept things honest and unfussy. Walk through the blue doors and you enter a warm, intimate space \u2014 mosaic art on the walls with quiet nods to Naples, and the crackle of fire you hear instantly from our open kitchen. No backstage. Just dough, flame, and movement.With just 40 seats and an open kitchen, Serious Slice is intimate, warm, and always led by the food and the craft.Weekends are seriously special: Every weekend, we roll out two limited-edition pizzas that don\u2019t stick around for long. Tartufo-E-Fungi \u2013 with button mushrooms, capers, pecorino cheese, and a heady drizzle of truffle oil \u2014 earthy, bold, and seriously indulgent. Napoli Salsiccia \u2013 with Italian sausage, fresh mozzarella, onion, red paprika, and button mushrooms \u2014 smoky, spicy, and unapologetically Napoli. Available only on weekends, and when they\u2019re gone, they\u2019re gone.We\u2019re open every day from 12 PM to 11 PM \u2014 perfect for lazy lunches, late dinners, and everything in between. We also roll out frequent off-menu pizza and panuozzo drops \u2014 one-day-only creations that appear without warning and disappear just as fast, in limited quantities every time. Follow us so you never miss our flavour drops. We take loyalty seriously: Collect stamps on your Serious Passport and chase the flavour. Ask our staff to give you our loyalty card - to win free panuozzos and pizzas of your choosing. Please Note: We\u2019re a 40-seater, so reservations are recommended on weekends. Limited specials and collab menus are first-come, first-served. Panuozzos take a little extra time \u2014 they\u2019re worth the wait. Special events and collabs may run on timed seating.Serious Slice, Cunningham Road, Bengaluru, Karnataka.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/71F0E945FC764063A1930655AF73895D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/31CA5B299BC6474CA6FB577B6635CA7D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/159F1B4B755844C68EBBF2C6EF04560F_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/51189E5BA117456998B2239ABA1AD9B4_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6BE3D03733B04FDFAA35D24DE8135BEE_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/196F25C31D0F415B8893EA7BADA4FC10_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3E27857346E249EFA7D91A7F43539EF4_converted_webp.webp"
-    ],
-    "startDate": "2025-12-26T12:00:00+05:30",
-    "endDate": "2025-12-26T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "HM Geneva House, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJYxyMYioXrjsRUWZk01QL4JU",
-      "latitude": "12.98847950000000000000",
-      "longitude": "77.59406820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 40,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "525.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Serious Slice",
-      "description": null,
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/6E8DFF638D8749FC911A188133E98F1A_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-80500-36475"
-      }
-    },
-    "url": "https://urbanaut.app/spot/serious-slice#2025-12-26T1200",
-    "keywords": [
       "Food & drink",
       "URBANAUT"
     ]
@@ -6142,7 +6090,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 56,
+    "remainingAttendeeCapacity": 54,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -6327,8 +6275,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 19,
+    "maximumAttendeeCapacity": 4,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -6427,7 +6375,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
