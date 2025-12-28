@@ -6923,5 +6923,53 @@
     "keywords": [
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Ventriloquism show & workshop",
+    "description": "Mr. M. Santhosh Kumar is a qualified Company Secretary by Profession yet a\u00a0 passionate Ventriloquism\u00a0 Artiste. He\u00a0 is an\u00a0 International Ventriloquism Artiste, a TEDX Speaker, Voice Coach . He is the only Indian Ventriloquism artiste attending the International\u00a0 Ventriloquism Convention in USA since 2012. He has performed & enthralled both Kids & Adults in various Countries like the USA, UAE, UK, Germany & all over India.\u00a0 He specialises in presenting our Indian Values Culture blending humour and learning using the Ventriloquism Art. He is the Winner of Outstanding\u00a0Ventriloquism Artiste award for 2021.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/439A57A2B7BF4533955E62F6FD4AE5A9_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0CF39742BA7D4D57936E1D258232EF47_converted_webp.webp"
+    ],
+    "startDate": "2026-02-08T16:00:00+05:30",
+    "endDate": "2026-02-08T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 100,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/ventriloquism-show-workshop",
+    "keywords": [
+      "Live GIG",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
