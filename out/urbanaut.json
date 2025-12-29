@@ -798,7 +798,7 @@
   {
     "@context": "https://schema.org",
     "@type": "FoodEvent",
-    "name": "JUNIOR ITALIAN CHEFS - KIDS WORKSHOP",
+    "name": "KIDS PIZZA PARTY WORKSHOP",
     "description": "Suitable for ages 6\u201313Join for an exciting, hands-on JUNIOR KIDS ITALIAN COOKING WORKSHOP, where children will roll up their sleeves, explore flavours, and create classic Italian favourites from scratch. Chef Natash Celmi makes it a fun learning experience with her step-by-step guidance in an enjoyable ambiance.Hands-On Experience:Kids will make their own pizza from scratch with the choice of topping - learn to shape, the base and bake in the oven. Toss some spaghetti with Italian tomato sauce and cheese, shape into muffins and watch the magic ! Finally the little chefs will whisk their own chocolate moose and lick their fingers !After the activity kids get to enjoy their creations for lunch and left overs can be taken home.\ud83c\udf55 Menu:. Authentic Italian Pizza.Spaghetti Muffins.Chocolate Mousse",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/FDF5527EDAF245CEBC6F1BFE403EC053_converted_webp.webp",
@@ -5691,6 +5691,60 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "A Southern Italian Supper Club - Amalfi Amore",
+    "description": "Amalfi Amore - A Southern Italian Supper Club with Chef Natasha Celmi from Naples, Italy. Step into a warm, intimate Italian afternoon which takes you straight to the Amalfi Coast. Citrus theme decor, Italian country music and the cosy ambience of Canella Studio.A gourmet six course Sunday afternoon indulgence where every course showcases Italian family traditions, stories and hand picked artisan ingredients brought back by the Chef from her home on the Italian coast. Includes an Amalfi Lemon Spritz drink.Limited seats so get your gang together soon.We offer both vegetarian and meat / seafood menu.A presto !",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D3854D4BADD44342AB82B76D786DD54B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DCF7EBDBE0E34B0EB0C158A0C5F0C5CA_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C455C58C1FB24E78A93F5BD09FC965F4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2D82586F13A244788DC44C4C6F4B9C70_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AA4DA82F1372448584BE5F9445ACBCB3_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/926C250282FA4BC7993F776009261A45_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/104A6620ED6944678AE26D8BF842C3AC_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8F7A43EDE4704624B92DB1F11CE9274E_converted_webp.webp"
+    ],
+    "startDate": "2026-01-18T12:30:00+05:30",
+    "endDate": "2026-01-18T15:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "2292, 14th Main Rd, behind new horizon school, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJtzoryR4VrjsRbCBdFmh67aQ",
+      "latitude": "12.96729590000000000000",
+      "longitude": "77.64263400000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3750.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Canella Studio",
+      "description": "Canella Studio is a vibrant culinary space in Bangalore led by Chef Natasha Celmi. We offer hands-on, joyful cooking experiences focused on simple, flavorful dishes that nourish body and soul. Join us to learn, laugh, and create memories around food and community.",
+      "url": "https://urbanaut.app/partner/canellastudio",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/1FBD5053D12748808C8A88FD68DBA308_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-95131-03398"
+      }
+    },
+    "url": "https://urbanaut.app/spot/amalfi-amore-a-southern-italian-supper-club",
+    "keywords": [
+      "Premium",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "BREWRA LIVE presents AMIT HERI GROUP",
     "description": "After eight long years, Guitarist-Composer AMIT HERI is back in Bengaluru.This homecoming sees his much -Loved Jazz-Fusion project return to the stage. The Amit Heri Group is all set to deliver an evening of Groove-filled Improvisation and Originals.\ud83c\udfb8Featuring:- renowned Carnatic flautist - Ravi Kulur - Akshada Krishnan (Keyboards)- Sricharan Sunder (Bass)- Rohit P S (Drums)",
@@ -6470,7 +6524,7 @@
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
-      "price": "160.00",
+      "price": "1600.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },

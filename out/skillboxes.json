@@ -112,6 +112,49 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Step into the future of nightlife as Kitty Vision 2K26 takes over Sutra – The Lounge at The LaLiT Ashok, Bangalore for a spectacular New Year’s Eve celebration 🌈✨&#1",
+      "endDate": "2026-01-01T02:00:00",
+      "identifier": "com.skillboxes.32547",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1767002795zMDTAgabao827GmV.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Kumarakrupa Rd, High Grounds, Seshadripuram, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9922264",
+            "longitude": "77.5825643"
+         },
+         "name": "The LaLiT Ashok Bengaluru"
+      },
+      "name": "Kitty Vision 2026 BANGALORE",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This Ticket Includes Entry Only\n",
+            "inventoryLevel": 99,
+            "name": "Early Bird - Entry Only",
+            "url": "https://www.skillboxes.com/events/ticket/kitty-vision-2026-bangalore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "This ticket includes a cover amount of ₹2000, fully redeemable on F&B at the venue, along with complimentary entry.\n",
+            "inventoryLevel": 100,
+            "name": "Early Bird - Entry With Cover",
+            "url": "https://www.skillboxes.com/events/ticket/kitty-vision-2026-bangalore"
+         }
+      ],
+      "startDate": "2025-12-31T20:00:00",
+      "url": "https://www.skillboxes.com/events/kitty-vision-2026-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Step into a world of timeless glamour as Shangri-La rings in the New Year with a Great Gatsby–inspired celebration on 31st December.Draped in opulent black and gold, the evening channels the roaring spirit of the ",
       "endDate": "2025-12-31T23:59:00",
       "identifier": "com.skillboxes.32536",
@@ -178,6 +221,47 @@
       ],
       "startDate": "2026-01-03T20:00:00",
       "url": "https://www.skillboxes.com/events/sub-science-ft-watashi-big-trouble-type-c-shayzen-b2b-absynth"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "\n\n\n\n\n\n\nJamming Truly – The Quiet Set\n📍 Samarthanam Auditorium, HSR Layout\n",
+      "endDate": "2026-02-08T21:00:00",
+      "identifier": "com.skillboxes.32516",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/a2pQSlNJS0llNUE1WDBoS3h5UjVOZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1766897636N46KCFB5xADOWCDe.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "CA: 39, 16th Main Road, 15th Cross Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9149604",
+            "longitude": "77.6415198"
+         },
+         "name": "Samarthanam Auditorium- Managed by Theatrenama"
+      },
+      "name": "JAMMING TRULY - THE QUIET SET || BENGALURU EDITION",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "2nd Floor Pass",
+            "url": "https://www.skillboxes.com/events/ticket/jamming-truly-the-quiet-set-bengaluru-edition"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "inventoryLevel": 0,
+            "name": "1st Floor Pass",
+            "url": "https://www.skillboxes.com/events/ticket/jamming-truly-the-quiet-set-bengaluru-edition"
+         }
+      ],
+      "startDate": "2026-02-08T18:00:00",
+      "url": "https://www.skillboxes.com/events/jamming-truly-the-quiet-set-bengaluru-edition"
    },
    {
       "@context": "https://schema.org",
@@ -433,7 +517,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of INR 500 or more at the venue to be paid, Totally  redeemable on FnB.\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 23,
             "name": "Male Entry",
             "url": "https://www.skillboxes.com/events/ticket/two-dollar-tuesday-3"
          },
@@ -441,7 +525,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of INR 500 or more at the venue to be paid, Totally  redeemable on FnB.\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Couple Entry",
             "url": "https://www.skillboxes.com/events/ticket/two-dollar-tuesday-3"
          }
