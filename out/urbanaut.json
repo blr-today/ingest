@@ -463,7 +463,7 @@
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
-      "price": "3100.00",
+      "price": "3200.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -6635,6 +6635,62 @@
       "Music",
       "Premium",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Bangalore StarGazing Astro Camp 10_11 JAN 2026",
+    "description": "A Night Under the Infinite: Join us for an extraordinary stargazing experience where the cosmos unfolds above you.Witness the stunning Geminid meteor shower as streaks of light dance across the sky. Observe planets, stars, and deep-sky wonders through high-powered telescopes. Learn captivating stories behind constellations and celestial objects. Enjoy guided sky tours designed for beginners, families, and young explorers. Experience the calm of nature paired with the thrill of real astronomy. Ask questions, interact, and deepen your understanding of the night sky. Perfect for children eager to learn and adults who seek cosmic wonder.Come be part of a night where curiosity meets the universe\u2014an unforgettable journey.Please call us on 9945203390 for more details/Bookings",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9AF7646F4BEF49869A37C5BE048FD47B_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/391074C0AC0143B3A17C73CF8FB4ED9D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1CD8490B1AA0420B8630D3A0B996EF9F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/58B16674A88B45BC8C98DEF9A60689DF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8338B7ECCED24B2D99646E9BB98FA5A3_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F854991D1F134AC1B511AA51B20376AA_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E9E7D1A720674E3BB903844C034481A8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/31CE554FD9D2445FB5030E99589E48D2_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4BD2D19AE5544325B55A50CD6231066A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/32F59CE230524EEE84001938B1F4BFF4_converted_webp.webp"
+    ],
+    "startDate": "2026-01-10T16:00:00+05:30",
+    "endDate": "2026-01-10T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Mensandodi Village, Athimugam Post, Shoolagiri, Tamil Nadu 635105, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJKffJiEfZrTsRwLQkhvnDVvs",
+      "latitude": "12.76247520000000000000",
+      "longitude": "77.96347220000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 40,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "3200.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "thegreatbeyond.in",
+      "description": "Step into an evening where the sky becomes your classroom and every star tells a story. Our astro camp brings you closer to planets, constellations, meteor showers, and the quiet magic of the cosmos\u2014an unforgettable experience beneath an endless sky.",
+      "url": "https://urbanaut.app/partner/thegreatbeyond",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/9FF8F82087CF446086C5B9E4BAF6A7A1_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-99452-03390"
+      }
+    },
+    "url": "https://urbanaut.app/spot/copy-of-bangalore-stargazing-astro-camp-03_04-jan-2026",
+    "keywords": [
+      "Leisure",
+      "Eco Friendly",
       "URBANAUT"
     ]
   }

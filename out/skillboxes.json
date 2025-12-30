@@ -112,6 +112,54 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Xenon Media x Loco Lane || New Year 2026",
+      "endDate": "2025-12-31T23:59:00",
+      "identifier": "com.skillboxes.32569",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17670759706FvnHwoUrupvIkIy.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "New Year 2026"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2nd Floor, No. 20, 21, Prestige Shivaya Site, 22, Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9713018",
+            "longitude": "77.6054119"
+         },
+         "name": "Loco Lane"
+      },
+      "name": "Xenon Media x Loco Lane || New Year 2026",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Female Pass",
+            "url": "https://www.skillboxes.com/events/ticket/xenon-media-x-loco-lane-new-year-2026"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Male Pass",
+            "url": "https://www.skillboxes.com/events/ticket/xenon-media-x-loco-lane-new-year-2026"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 1000,
+            "name": "Couple Pass",
+            "url": "https://www.skillboxes.com/events/ticket/xenon-media-x-loco-lane-new-year-2026"
+         }
+      ],
+      "startDate": "2025-12-31T20:00:00",
+      "url": "https://www.skillboxes.com/events/xenon-media-x-loco-lane-new-year-2026"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "NYE 2026 - BLIZZARD3 FloorsStep into NYE 2026 - BLIZZARD, a high-energy New Year's Eve celebration spread across three power- packed floors, each curated with a distinct musi",
       "endDate": "2025-12-31T20:19:00",
       "identifier": "com.skillboxes.32566",
