@@ -213,7 +213,7 @@
     },
     "sport": "WPBL",
     "description": "See more details at https://sistersinsweat.com/event-detail/Women-Bangalore-WPBL-Socials-10jan",
-    "image": "https://sistersinsweat.com/images/event/20251230134749702.png",
+    "image": "https://sistersinsweat.com/images/event/20251231102110842.png",
     "location": {
       "name": "GoRally Pickleball Indiranagar",
       "address": "GoRally Pickleball Indiranagar (HAL Old Airport Rd)",
@@ -349,5 +349,37 @@
     },
     "startDate": "2025-01-18T09:00:00+05:30",
     "endDate": "2025-01-18T12:00:00+05:30"
+  },
+  {
+    "name": "Sisters X Misters Board Game Evening - Bangalore",
+    "@type": "SportsEvent",
+    "url": "https://sistersinsweat.com/event-detail/Sisters-Misters-Bangalore-Board-Game-Evening-Jan18",
+    "@context": "https://schema.org",
+    "keywords": [
+      "SISTERSINSWEAT",
+      "SISTERSINSWEAT/SPORTS"
+    ],
+    "audience": {
+      "@type": "Audience",
+      "AudienceType": "women"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "inLanguage": "en",
+    "organizer": {
+      "@type": "Organization",
+      "name": "Sisters In Sweat",
+      "url": "https://sistersinsweat.com"
+    },
+    "sport": "Bangalore",
+    "description": "See more details at https://sistersinsweat.com/event-detail/Sisters-Misters-Bangalore-Board-Game-Evening-Jan18",
+    "image": "https://sistersinsweat.com/images/event/20251231103122485.jpg",
+    "location": {
+      "name": "Freshpik",
+      "address": "Freshpik, 1 MG Mall, Halasuru, Someshwarpura, Sivanchetti Gardens",
+      "type": "Place"
+    },
+    "startDate": "2025-01-18T16:00:00+05:30",
+    "endDate": "2025-01-18T19:00:00+05:30"
   }
 ]
