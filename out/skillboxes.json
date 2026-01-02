@@ -112,6 +112,83 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "URBN Saturdays at Yeda Republic hit different 🔥Good music, loud cheers, and a dance floor that doesn’t slow down.This Saturday, let DJ Sukant set the mood while the crowd brings the madness.See you ",
+      "endDate": "2026-01-03T23:59:00",
+      "identifier": "com.skillboxes.32639",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1767377046C7IxdC6jc2PSpkyG.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9343419",
+            "longitude": "77.6155451"
+         },
+         "name": "Yeda Republic Bengaluru"
+      },
+      "name": "URBAN SATURDAY",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "GET FREE ACCESS TO THE EVENT\n",
+            "inventoryLevel": 100,
+            "name": "FEMALE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/urban-saturday-1"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "GET FREE ENTRY TO THE EVENT\n",
+            "inventoryLevel": 100,
+            "name": "COUPLE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/urban-saturday-1"
+         }
+      ],
+      "startDate": "2026-01-03T20:00:00",
+      "url": "https://www.skillboxes.com/events/urban-saturday-1"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "🚨 Hawkins is calling! Enter the Upside Down for an epic Stranger Things Trivia Night! 🧇🔦🕹️\nTest your knowledge of Eleven, the Demogorgon, Eggo waffles, and al",
+      "endDate": "2026-01-10T21:45:00",
+      "identifier": "com.skillboxes.32637",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RVplQ2VCUGVUbmw4M29Rc0p3RVd0dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1767362573b2ajssMctLvH8iZC.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Social Gathering/ Game"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Ground Floor, Prakash Arcade 17th Cross, 24th Main Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9121583",
+            "longitude": "77.6507972"
+         },
+         "name": "Starbucks"
+      },
+      "name": "Stranger Things Trivia Night",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 20,
+            "name": "Stranger Things trivia Night Tickets",
+            "url": "https://www.skillboxes.com/events/ticket/stranger-things-trivia-night"
+         }
+      ],
+      "startDate": "2026-01-10T20:00:00",
+      "url": "https://www.skillboxes.com/events/stranger-things-trivia-night"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Vehement Era stands as a relentless force in extreme metal for 14 years, proudly curating some of the most uncompromising\r\n\r\ngigs across the genre spectrum. From blistering black metal and brutal death metal to grinding gore, slamming bruta",
       "endDate": "2026-03-01T23:59:00",
       "identifier": "com.skillboxes.32629",
@@ -287,40 +364,6 @@
       ],
       "startDate": "2026-01-03T20:00:00",
       "url": "https://www.skillboxes.com/events/sherlock-nights-party-under-the-stars"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "New Year Continued Party: First Weekend Party of 2026 at Skydeck by Sherlock’s! Start your 2026 weekend on a high note, literally! Join us for \"New Year Continued\", the definitive Jan 2nd celebrati",
-      "endDate": "2026-01-02T23:59:00",
-      "identifier": "com.skillboxes.32583",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/RkdIYkZvN0xxYVBMbGt2bHVwT0xpZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1767089070481wgQGxyveqN6TL.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "New Year 2026"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "52, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9750383",
-            "longitude": "77.6076491"
-         },
-         "name": "SkyDeck by Sherlock's"
-      },
-      "name": "New Year Continued Party",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 96,
-            "name": "RSVP",
-            "url": "https://www.skillboxes.com/events/ticket/new-year-continued-party"
-         }
-      ],
-      "startDate": "2026-01-02T20:00:00",
-      "url": "https://www.skillboxes.com/events/new-year-continued-party"
    },
    {
       "@context": "https://schema.org",
