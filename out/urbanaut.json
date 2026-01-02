@@ -6822,55 +6822,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "2026 Reset Puppy Yoga - Bangalore",
-    "description": "Come unwind with Pawga for a calming reset yoga session, accompanied by the sweetest shelter puppies. This is a slow, beginner-friendly practice designed to help you relax, stretch, and reset - no prior yoga experience needed.As you move through gentle poses and mindful breathing, the puppies are free to wander around the space, curl up nearby, or simply bring a sense of lightness and joy to the room. We don\u2019t lift or handle the pups during the session; instead, we create a comfortable environment where both you and the puppies can feel at ease.All the puppies come from local shelters and are up for adoption, and a portion of every ticket goes towards their care and well-being.Come for the movement, stay for the calm and leave feeling a little lighter.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EF640B79E1724D3DAFA37FAA9211A32E_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/88BBE37829D844C1B65DCCFC0F7D0EAB_converted_webp.webp"
-    ],
-    "startDate": "2026-01-03T11:00:00+05:30",
-    "endDate": "2026-01-03T12:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "5th floor SMR Annexe, Hosa Road, 1st Cross Rd, Valliyamma Layout, Kasavanahalli, Bengaluru, Karnataka 560035, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ6xAkeAUTrjsRcQsTGY71DLI",
-      "latitude": "12.91288620000000000000",
-      "longitude": "77.67665559999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1191.80",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Pawga Pets Yoga",
-      "description": "We are India's first experience based adoption that helps raise funds for shelters and helps with adoptions.",
-      "url": "https://urbanaut.app/partner/pawga",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/56384ED1915F45B195D3A130290A4940_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98404-64956"
-      }
-    },
-    "url": "https://urbanaut.app/spot/2026-reset-puppy-yoga-bangalore",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "2026 Reset Puppy Yoga - Bangalore",
     "description": "Come unwind with Pawga for a calming reset yoga session, accompanied by the sweetest shelter puppies. This is a slow, beginner-friendly practice designed to help you relax, stretch, and reset - no prior yoga experience needed.As you move through gentle poses and mindful breathing, the puppies are free to wander around the space, curl up nearby, or simply bring a sense of lightness and joy to the room. We don\u2019t lift or handle the pups during the session; instead, we create a comfortable environment where both you and the puppies can feel at ease.All the puppies come from local shelters and are up for adoption, and a portion of every ticket goes towards their care and well-being.Come for the movement, stay for the calm and leave feeling a little lighter.",
@@ -7014,6 +6965,52 @@
       "Wellness",
       "Workshop",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Forgotten History - The Female Gaze - TPCC Blr",
+    "description": "With Through the Gaps, we look at women filmmakers who were criminally written off from history, with an aspiration to forget their pioneering contributions to the world of cinema. In our segment of Forgotten History, we look at female directors who rewrote, not simply the form of cinema, but also history.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/372B6AE59EF94C4BBA13AC2C2ED85000_converted_webp.webp"
+    ],
+    "startDate": "2026-01-03T14:00:00+05:30",
+    "endDate": "2026-01-03T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJlTT_mTIXrjsRqJMi2p-2wc8",
+      "latitude": "12.99677590000000000000",
+      "longitude": "77.61986830000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "375.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Parallel Cinema Club",
+      "description": null,
+      "url": "https://urbanaut.app/partner/tpcc",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98860-01991"
+      }
+    },
+    "url": "https://urbanaut.app/spot/forgotten-history-the-female-gaze-tpcc-blr",
+    "keywords": [
+      "Art & culture",
       "URBANAUT"
     ]
   }
