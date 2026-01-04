@@ -1,37 +1,5 @@
 [
   {
-    "name": "Run Session",
-    "@type": "SportsEvent",
-    "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-7-dec",
-    "@context": "https://schema.org",
-    "keywords": [
-      "SISTERSINSWEAT",
-      "SISTERSINSWEAT/SPORTS"
-    ],
-    "audience": {
-      "@type": "Audience",
-      "AudienceType": "women"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "inLanguage": "en",
-    "organizer": {
-      "@type": "Organization",
-      "name": "Sisters In Sweat",
-      "url": "https://sistersinsweat.com"
-    },
-    "sport": "Run",
-    "description": "See more details at https://sistersinsweat.com/session-detail/Women-Bangalore-Run-Beginner-Sunday-7-dec",
-    "image": "https://sistersinsweat.com/images/event/20250325190836697.jpeg",
-    "location": {
-      "name": "Cubbon Park",
-      "address": "Kasturba Road, Bangalore",
-      "type": "Place"
-    },
-    "startDate": "2026-01-04T06:45:00+05:30",
-    "endDate": "2026-01-04T08:15:00+05:30"
-  },
-  {
     "name": "Sisters and Misters Yoga Mornings",
     "@type": "SocialEvent",
     "url": "https://sistersinsweat.com/session-detail/Women-Bangalore-Yoga-Sisters-Misters-Sunday-7dec",
