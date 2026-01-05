@@ -1,7 +1,7 @@
 [
   {
     "@type": "EducationEvent",
-    "name": "Understanding Digital Change Through Postcolonial Politics and Resistance",
+    "name": "Understanding Digital Change Through Postcolonial Politics",
     "location": {
       "@type": "Place",
       "name": "Science Gallery Bengaluru, Science Gallery",
@@ -26,5 +26,33 @@
     "description": "Join us for the opening of the exhibition \u2018Women in Mathematics Around the World\u2019. The exhibition brings together photographic narratives of women mathematicians from around the world and explores the lives, work, and intellectual journeys that shape the production of mathematics across different contexts. \n\nThe exhibition is presented in collaboration with the Consulate General of the Federal Republic of Germany in Bengaluru, the International Centre for Theoretical Sciences (ICTS), and the Raman Research Institute (RRI).\n\nFollowing opening remarks there will be a guided walkthrough of the exhibition.",
     "url": "https://sci560.scigalleryblr.org/programmes?p=women-in-mathematics-opening",
     "maximumAttendeeCapacity": "80"
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "A Bite of CALORIE: Walkthrough",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru, Science Gallery",
+      "address": "Science Gallery, Bangalore"
+    },
+    "startDate": "2026-01-10T12:00:00+05:30",
+    "endDate": "2026-01-10T12:00:00+05:30",
+    "description": "Join the Experimentor team for a closer look at our new exhibition season, CALORIE, one bite at a time. This walkthrough, invites you to reflect on the ideas of food, nutrition, and energy. As we move through the exhibition, the Experimentors Beverly and Noyonika will unpack the intimate, and often complicated, relationships we share with food, nourishment, and the systems that sustain us.",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=english-walkthrough-3",
+    "maximumAttendeeCapacity": "50"
+  },
+  {
+    "@type": "EducationEvent",
+    "name": "Making Data Bi(y)te-Sized: How to Cook Data For Better Understanding",
+    "location": {
+      "@type": "Place",
+      "name": "Science Gallery Bengaluru, Science Gallery",
+      "address": "Science Gallery, Bangalore"
+    },
+    "startDate": "2026-01-11T10:30:00+05:30",
+    "endDate": "2026-01-11T18:00:00+05:30",
+    "description": "How can we present data in a way that is not alienating or boring?\n\nJoin Padmini Ray Murray, Aman Bhargava, and Debanshu Bhaumik for a hands-on workshop that explores creative approaches to data visualisation. Drawing on datasets from the ongoing exhibition-season CALORIE, participants will experiment with transforming data into compelling visual recipes that are meaningful.\n\nThe workshop emphasises play, storytelling, and design thinking and concludes with participants showcasing their visualisation outcomes.\n",
+    "url": "https://sci560.scigalleryblr.org/programmes?p=how-to-cook-data",
+    "maximumAttendeeCapacity": "40"
   }
 ]
