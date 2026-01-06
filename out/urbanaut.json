@@ -6891,52 +6891,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Cabinet of Dr. Caligari - TPCC Bangalore",
-    "description": "Francis, a young man, recalls in his memory the horrible experiences he and his fianc\u00e9e Jane recently went through. Francis and his friend Alan visit The Cabinet of Dr. Caligari, an exhibit where the mysterious doctor shows the somnambulist Cesare, and awakens him for some moments from his death-like sleep.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C421CB1A39694B3B8736D316AADA1F6E_converted_webp.webp"
-    ],
-    "startDate": "2026-01-06T19:45:00+05:30",
-    "endDate": "2026-01-06T22:15:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJlTT_mTIXrjsRqJMi2p-2wc8",
-      "latitude": "12.99677590000000000000",
-      "longitude": "77.61986830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 24,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "375.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Parallel Cinema Club",
-      "description": null,
-      "url": "https://urbanaut.app/partner/tpcc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98860-01991"
-      }
-    },
-    "url": "https://urbanaut.app/spot/the-cabinet-of-dr-caligari-tpcc-bangalore",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Christmas Fruit Soaking",
     "description": "\u201cChristmas Fruit Soaking\u201dAn event and hi-tea by Bulbul Ki BakerySat, 10 Jan 2026, 3:30PM As a thank you for an incredible Christmas Season 2025, Bulbul Ki Bakery begins soaking fruits a year ahead.Our fruits are soaked in alcohol a full year in advance to build depth of flavour. Last season we baked over 100kg of Christmas cakes.With Gratitude and excitement for an even bigger season next year - we invite you to our Christmas cake fruit mixing event at Atta Galatta on the 10th of January at 3:30 PM followed by Hi-Tea",
@@ -7376,6 +7330,54 @@
       "Wellness",
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Financial Freedom Starts with Awareness",
+    "description": "Financial Freedom Starts with AwarenessA Financial Literacy Workshop by AatmeeyaThis workshop is designed to help individuals understand the fundamentals of investing and personal finance in a simple and practical manner. Led by Sathwik N N, Co-Founder of Aatmeeya, the session focuses on building financial awareness and confidence.What you\u2019ll learn:Basics of mutual fundsInvestment fundamentalsPlanning short-term and long-term financial goals\ud83d\udcc5 Date: 31st January 2026\u23f0 Time: 3:00 PM \u2013 5:00 PM\ud83d\udccd Venue: Atta Galatta, Indiranagar, Bengaluru\ud83d\udcb0 Ticket Price: \u20b9299\ud83d\udc65 Age Group: 18 years and abovePerfect for students, professionals, and anyone beginning their financial journey.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/61D246A3A4E44239AF4EDF0FEDAADD2A_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6133C60DBB4B4EDAAE19A96CC8ED2899_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/127D893C34C34A7B90A5A6983B7A126C_converted_webp.webp"
+    ],
+    "startDate": "2026-01-31T15:00:00+05:30",
+    "endDate": "2026-01-31T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/financial-freedom-starts-with-awareness-10251",
+    "keywords": [
+      "Workshop",
       "URBANAUT"
     ]
   }
