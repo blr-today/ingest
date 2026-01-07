@@ -26,5 +26,32 @@
       "telephone": "+917760394808",
       "sameAs": "https://timeandspace.gallery"
     }
+  },
+  {
+    "@context": "http://schema.org",
+    "@type": "Event",
+    "name": "CONTINUUM: ARTISTS ACROSS TIME AND SPACE",
+    "description": "Gallery Time and Space invites you to a week-long celebration of contemporary art, featuring a massive collective exhibition alongside exclusive solo showcases by renowned masters. Hosted at the prestigious Venkatappa...\\n",
+    "url": "https://timeandspace.gallery/event/continuum-artists-across-time-and-space/",
+    "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+    "eventStatus": "https://schema.org/EventScheduled",
+    "startDate": "2026-01-11T08:00:00+05:30",
+    "endDate": "2026-01-18T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Venkatappa Art Gallery",
+      "description": "",
+      "url": "",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Kasturba Rd, Ambedkar Veedhi, Sampangi Rama Nagar",
+        "addressLocality": "Bengaluru",
+        "addressRegion": "Karnataka",
+        "postalCode": "560001",
+        "addressCountry": "India"
+      },
+      "telephone": "",
+      "sameAs": ""
+    }
   }
 ]
