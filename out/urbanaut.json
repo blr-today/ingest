@@ -460,6 +460,51 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
+    "name": "An Evening of Magic",
+    "description": "An Evening of Magic is a most amazing magic show presented by `Nakul Shenoy & Friends\u2019, featuring top entertainers and magic acts. Curated and hosted by the internationally-acclaimed mentalist Nakul Shenoy, each event in this series brings unique acts and performances by nationally and internationally acclaimed magicians, alongside some of the most notable up-and-coming stars of magic. This is an evening that is truly magical, and one you will want to experience many times over. ",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A5A5D8C7FF8A4EEA9F60451EE7EA0201_converted_webp.webp"
+    ],
+    "startDate": "2026-01-18T18:00:00+05:30",
+    "endDate": "2026-01-18T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 100,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/an-evening-of-magic",
+    "keywords": [
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
     "name": "Around the World in 8 Ragas",
     "description": "Across continents and centuries, humanity has carried one universal companion: Music. From desert caravans tracing ancient trade routes, to sailors navigating uncharted seas, to pilgrims and warriors moving across borders, cultures have exchanged not only goods and beliefs\u2014but also sound. \u201cAround the world in 8 Ragas\u201d is a concert that explores how musical scales, though born in different corners of the globe, reveal a shared human instinct for expression.Follow the journeys of iconic scales\u2014Pentatonic, Raga, Maqam, Modes, and more. We uncover how these musical structures spread through Silk Road markets, African diaspora rhythms, medieval monasteries, and colonial crossroads. We invite audiences to listen to history, one Raga at a time.Performers :Ashwin Baliga, Vocals (US-Based Indian Classical vocalist, student of Mahesh Kale and Pt. Milind Chittal, creator of the world's first Raga Bath)Shadaj Godkhindi, Flute (Acclaimed flutist and student of renowned maestro Pt. Pravin Godkhindi)Amit Kavthekar, Tabla (Multi-Genre collaborator and prodigious disciple of Ustad Allah Rakha and Ustad Zakir Hussain)Vivek Santosh, Keys (Trinity-trained Classical pianist with a Masters in Carnatic Music)",
     "image": [
@@ -7138,6 +7183,54 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Rasa Sessions - Vol 2",
+    "description": "RASA Sessions is a living record of India's evolving food and drink culture. An IP by The Soul Company and Form and Flow, each session brings people closer to the stories, processes, and sensibilities that shape how we taste.Volume 2 unfolds at LICK Lavonne Ice Cream Kitchen, where flavour, craft, and conversation come together. This session invites you inside the kitchen for a closer look at how ice cream is imagined and made, paired with a story session led by Vinesh and Prathana.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/52526531AF2F4138B44BD03B6C1282F2_converted_webp.webp"
+    ],
+    "startDate": "2026-01-10T16:00:00+05:30",
+    "endDate": "2026-01-10T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "8, HAL 2nd Stage, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJMTfyAwAVrjsRS4xE4XPanOQ",
+      "latitude": "12.96769460000000000000",
+      "longitude": "77.63678700000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 16,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1174.10",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "RA.SA",
+      "description": "RA.SA captures how India eats, drinks, and remembers \u2014 a living archive of process, place, and perspective. It records the labour of kitchens, stories from bars, and voices of chefs, bartenders, founders, and growers \u2014 filed as part of India\u2019s evolving F&B industry",
+      "url": "https://urbanaut.app/partner/rasa",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/D5A24B476CAF4754AAB15DF421EB7495_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97427-77721"
+      }
+    },
+    "url": "https://urbanaut.app/spot/rasa-sessions-vol-2",
+    "keywords": [
+      "Local",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "The BWW Short Story Community",
     "description": "The BWW Short Story CommunityThis month we will discuss Gina Chung\u2019s \u201cPresence,\u201d from her collection Green Frog. What this is:This is a ticketed, curated literary and community event, presented by Bhumika Anand from the Bangalore Writers Workshop, where we will do a deep-dive analysis and discussion of a short story.You get to join a reading community where you will get to read a pre-chosen short story a month.You get to examine the story in terms of its literary merit, yes, but also in terms of writing craft and context, which will be very useful if you are an aspiring storyteller or writer.Who should join:If you are above 18 years old, interested in storytelling, literature, or are an aspiring or published author, this is for you.If you are new in the city and want to be part of a community and make friends over writing,storytelling, and literature, then this is for you.What does it entail:Reading the prescribed story.Participating in the curated discussion.Following community guidelines.Community Guidelines:Be open, be civil, be courteous, be kind, and have fun.Listen more. Speak mindfully.No monopolising the conversation.",
@@ -7226,6 +7319,54 @@
       "Wellness",
       "Workshop",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "AnandiParentCollective: Missing Piece in Parenting",
+    "description": "Anandi Parent Collective: The Missing Piece in Modern ParentingIn a world focused on achievement, many parents quietly wonder what children really need to grow into confident, emotionally secure individuals.This fireside conversation brings together Dr Sonika Yadav, with over 20 years of experience across Indian and international school settings, and Prachi Pawar, Founder, Anandi School, for an honest, reflective dialogue on modern parenting.The conversation explores:\u2022 Why connection works better than correction\u2022 How calm, clear boundaries support confident children\u2022 How our own awareness shapes our child\u2019s behaviourThe chat will be followed by an open Q&A where parents can connect, reflect, and learn more about Anandi School\u2019s approach to education and wellbeing.Dr. Sonika Yadav brings 20 + years of experience as a school counsellor, educational psychologist mental health therapist and a wellness consultant. She holds a master's degree from State University of New York and an MPhil in psychology. She has worked extensively in both Indian and international school settings partnering with school leadership, teachers, students, parents to create an inclusive, supportive and emotionally safe learning environment. She has provided therapy and counselling services across age groups. She has conducted numerous teacher training sessions, parent workshop and student sensitisation programs.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4D3A402D59F94BE6A967488CB68EACA9_converted_webp.webp"
+    ],
+    "startDate": "2026-01-11T11:00:00+05:30",
+    "endDate": "2026-01-11T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "509, Ln 1 Phase 3, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJlacJVAQTrjsRQe1O5HSIEME",
+      "latitude": "12.91847360000000000000",
+      "longitude": "77.69113100000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 100,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Anandi School",
+      "description": "Future Ready IB School where Ideas turn into Action. The Anandi School is a Pre\u2011K to Grade 12 IB school where children learn by doing, build real-world projects, and grow with expert mentorship.",
+      "url": "https://urbanaut.app/partner/anandischool",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/70C31FE4A8E7458B91CFF86D5087AEA1_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98216-82317"
+      }
+    },
+    "url": "https://urbanaut.app/spot/anandi-parent-collective",
+    "keywords": [
+      "Premium",
+      "Wellness",
+      "Pop-up Event",
       "URBANAUT"
     ]
   },
