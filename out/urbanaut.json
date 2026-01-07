@@ -359,6 +359,54 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Atta Galatta Book Club",
+    "description": "What have you been reading? Come, discuss your latest read. Each member gets 5-7 minutes to talk about the book, theme, plot, with 2 minutes to answer any questions others might have. This month\u2019s special focus will be translations- come tell us what you've been reading.January\u2019s special focus will be on works of translation",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AAB097D8A17749AEA222B656A467A78A_converted_webp.webp"
+    ],
+    "startDate": "2026-01-10T15:00:00+05:30",
+    "endDate": "2026-01-10T17:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/atta-galatta-book-club",
+    "keywords": [
+      "Local",
+      "History & heritage",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Food In Literature Book Club",
     "description": "Our emotions and memories are intrinsically related to the food we eat and the genre of food literature combines them in a way that helps us connect not only to our past and our present, to different cultures, and communities, values and rituals, events both life-changing and mundane but to each other as well.  So, if viewing the world through the lens of food and literature interests you, then join us for a dialogue on \u201cFood in Literature\u201d and to celebrate those stories and their diversity. Each month with Prachi Grover, we read our way through several powerful (and delicious) narratives.January Read: In the Beginning there was Bombay Duck by Pronoti DattaWe assure you that you will enjoy every single bite! The session is free but registration is a must as we have limited spots available. Prachi Grover is a culinary consultant and educator and is the founder of \u201cFrom Words to Wok\u201d; a community for people who love to read and eat!When: Saturday, 31st January, 2026 at 11 a.m.Where: Atta Galatta Bookstore, Indira NagarAges: 18+Registration is mandatory (link in bio)Copies of the book are available at the store.",
@@ -454,51 +502,6 @@
       "Wellness",
       "Workshop",
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "An Evening of Magic",
-    "description": "An Evening of Magic is a most amazing magic show presented by `Nakul Shenoy & Friends\u2019, featuring top entertainers and magic acts. Curated and hosted by the internationally-acclaimed mentalist Nakul Shenoy, each event in this series brings unique acts and performances by nationally and internationally acclaimed magicians, alongside some of the most notable up-and-coming stars of magic. This is an evening that is truly magical, and one you will want to experience many times over. ",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A5A5D8C7FF8A4EEA9F60451EE7EA0201_converted_webp.webp"
-    ],
-    "startDate": "2026-01-18T18:00:00+05:30",
-    "endDate": "2026-01-18T20:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
-      "latitude": "12.98010900000000000000",
-      "longitude": "77.63934970000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Atta Galatta",
-      "description": null,
-      "url": "https://urbanaut.app/partner/attagalatta",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-96325-10126"
-      }
-    },
-    "url": "https://urbanaut.app/spot/an-evening-of-magic",
-    "keywords": [
       "URBANAUT"
     ]
   },
@@ -602,7 +605,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "a way to move: Breathe In, Beat Out",
-    "description": "a way to moveone of our leading IPs, an attempt to lend our space for communities to gather & meet like-minded people of their own interests & inclinations.Lisha Sinha & Shivhari bring you for the first time at Away Center - \ud83c\udf84Breathe In, Beat Out\ud83c\udf84Whether you're new to a movement practice, have just been meaning to be more regular, are looking for a break from the pain of your upcoming Monday meetings or just looking to move your body - this one is for you!at Breathe In, Beat Out, we encourage:no judgementno prior yoga experience necessarya deep joy from staying present in movementto find a community to be a part ofCome only with the intention to move!Lisha & Shiv will handle the rest!-----------------------------------------about the organiserLisha & Shivhari have been long time friends whose circles are overlapped many-a-time over the years. But rarely has this meant this exact fitting of working together. They bring to you an immersive sound conjuring experience matched with Lisha's movement practice to get your body present & moving & limber. Find us every Tuesday until Christmas heading away into our movement with them.-----------------------------------------come away with us!a gathering of music, togetherness, movement & a whole lot of warmth!Date: 9th, 16th & 23rd DecemberLocation: away center, koramangala",
+    "description": "a way to moveone of our leading IPs, an attempt to lend our space for communities to gather & meet like-minded people of their own interests & inclinations.Lisha Sinha & Shivhari bring you for the first time at Away Center -Breathe In, Beat OutWhether you're new to a movement practice, have just been meaning to be more regular, are looking for a break from the pain of your upcoming Monday meetings or just looking to move your body - this one is for you!at Breathe In, Beat Out, we encourage:no judgementno prior yoga experience necessarya deep joy from staying present in movementto find a community to be a part ofCome only with the intention to move!Lisha & Shiv will handle the rest!-----------------------------------------about the organiserLisha & Shivhari have been long time friends whose circles are overlapped many-a-time over the years. But rarely has this meant this exact fitting of working together.They bring to you an immersive sound conjuring experience matched with Lisha's movement practice to get your body present & moving & limber.Find us every Tuesday heading away into our movement with them.-----------------------------------------come away with us!a gathering of music, togetherness, movement & a whole lot of warmth!Date: 8th, 13th, 20th and 27th JanuaryLocation: away center, koramangala",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/867C3917FF7F40EEB34AF9E669881C29_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/51B256D82BC84ECC96C51EE447CA4033_converted_webp.webp",
@@ -653,7 +656,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "a way to move: Breathe In, Beat Out",
-    "description": "a way to moveone of our leading IPs, an attempt to lend our space for communities to gather & meet like-minded people of their own interests & inclinations.Lisha Sinha & Shivhari bring you for the first time at Away Center - \ud83c\udf84Breathe In, Beat Out\ud83c\udf84Whether you're new to a movement practice, have just been meaning to be more regular, are looking for a break from the pain of your upcoming Monday meetings or just looking to move your body - this one is for you!at Breathe In, Beat Out, we encourage:no judgementno prior yoga experience necessarya deep joy from staying present in movementto find a community to be a part ofCome only with the intention to move!Lisha & Shiv will handle the rest!-----------------------------------------about the organiserLisha & Shivhari have been long time friends whose circles are overlapped many-a-time over the years. But rarely has this meant this exact fitting of working together. They bring to you an immersive sound conjuring experience matched with Lisha's movement practice to get your body present & moving & limber. Find us every Tuesday until Christmas heading away into our movement with them.-----------------------------------------come away with us!a gathering of music, togetherness, movement & a whole lot of warmth!Date: 9th, 16th & 23rd DecemberLocation: away center, koramangala",
+    "description": "a way to moveone of our leading IPs, an attempt to lend our space for communities to gather & meet like-minded people of their own interests & inclinations.Lisha Sinha & Shivhari bring you for the first time at Away Center -Breathe In, Beat OutWhether you're new to a movement practice, have just been meaning to be more regular, are looking for a break from the pain of your upcoming Monday meetings or just looking to move your body - this one is for you!at Breathe In, Beat Out, we encourage:no judgementno prior yoga experience necessarya deep joy from staying present in movementto find a community to be a part ofCome only with the intention to move!Lisha & Shiv will handle the rest!-----------------------------------------about the organiserLisha & Shivhari have been long time friends whose circles are overlapped many-a-time over the years. But rarely has this meant this exact fitting of working together.They bring to you an immersive sound conjuring experience matched with Lisha's movement practice to get your body present & moving & limber.Find us every Tuesday heading away into our movement with them.-----------------------------------------come away with us!a gathering of music, togetherness, movement & a whole lot of warmth!Date: 8th, 13th, 20th and 27th JanuaryLocation: away center, koramangala",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/867C3917FF7F40EEB34AF9E669881C29_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/51B256D82BC84ECC96C51EE447CA4033_converted_webp.webp",
@@ -704,7 +707,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "a way to move: Breathe In, Beat Out",
-    "description": "a way to moveone of our leading IPs, an attempt to lend our space for communities to gather & meet like-minded people of their own interests & inclinations.Lisha Sinha & Shivhari bring you for the first time at Away Center - \ud83c\udf84Breathe In, Beat Out\ud83c\udf84Whether you're new to a movement practice, have just been meaning to be more regular, are looking for a break from the pain of your upcoming Monday meetings or just looking to move your body - this one is for you!at Breathe In, Beat Out, we encourage:no judgementno prior yoga experience necessarya deep joy from staying present in movementto find a community to be a part ofCome only with the intention to move!Lisha & Shiv will handle the rest!-----------------------------------------about the organiserLisha & Shivhari have been long time friends whose circles are overlapped many-a-time over the years. But rarely has this meant this exact fitting of working together. They bring to you an immersive sound conjuring experience matched with Lisha's movement practice to get your body present & moving & limber. Find us every Tuesday until Christmas heading away into our movement with them.-----------------------------------------come away with us!a gathering of music, togetherness, movement & a whole lot of warmth!Date: 9th, 16th & 23rd DecemberLocation: away center, koramangala",
+    "description": "a way to moveone of our leading IPs, an attempt to lend our space for communities to gather & meet like-minded people of their own interests & inclinations.Lisha Sinha & Shivhari bring you for the first time at Away Center -Breathe In, Beat OutWhether you're new to a movement practice, have just been meaning to be more regular, are looking for a break from the pain of your upcoming Monday meetings or just looking to move your body - this one is for you!at Breathe In, Beat Out, we encourage:no judgementno prior yoga experience necessarya deep joy from staying present in movementto find a community to be a part ofCome only with the intention to move!Lisha & Shiv will handle the rest!-----------------------------------------about the organiserLisha & Shivhari have been long time friends whose circles are overlapped many-a-time over the years. But rarely has this meant this exact fitting of working together.They bring to you an immersive sound conjuring experience matched with Lisha's movement practice to get your body present & moving & limber.Find us every Tuesday heading away into our movement with them.-----------------------------------------come away with us!a gathering of music, togetherness, movement & a whole lot of warmth!Date: 8th, 13th, 20th and 27th JanuaryLocation: away center, koramangala",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/867C3917FF7F40EEB34AF9E669881C29_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/51B256D82BC84ECC96C51EE447CA4033_converted_webp.webp",
@@ -755,7 +758,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "a way to move: Breathe In, Beat Out",
-    "description": "a way to moveone of our leading IPs, an attempt to lend our space for communities to gather & meet like-minded people of their own interests & inclinations.Lisha Sinha & Shivhari bring you for the first time at Away Center - \ud83c\udf84Breathe In, Beat Out\ud83c\udf84Whether you're new to a movement practice, have just been meaning to be more regular, are looking for a break from the pain of your upcoming Monday meetings or just looking to move your body - this one is for you!at Breathe In, Beat Out, we encourage:no judgementno prior yoga experience necessarya deep joy from staying present in movementto find a community to be a part ofCome only with the intention to move!Lisha & Shiv will handle the rest!-----------------------------------------about the organiserLisha & Shivhari have been long time friends whose circles are overlapped many-a-time over the years. But rarely has this meant this exact fitting of working together. They bring to you an immersive sound conjuring experience matched with Lisha's movement practice to get your body present & moving & limber. Find us every Tuesday until Christmas heading away into our movement with them.-----------------------------------------come away with us!a gathering of music, togetherness, movement & a whole lot of warmth!Date: 9th, 16th & 23rd DecemberLocation: away center, koramangala",
+    "description": "a way to moveone of our leading IPs, an attempt to lend our space for communities to gather & meet like-minded people of their own interests & inclinations.Lisha Sinha & Shivhari bring you for the first time at Away Center -Breathe In, Beat OutWhether you're new to a movement practice, have just been meaning to be more regular, are looking for a break from the pain of your upcoming Monday meetings or just looking to move your body - this one is for you!at Breathe In, Beat Out, we encourage:no judgementno prior yoga experience necessarya deep joy from staying present in movementto find a community to be a part ofCome only with the intention to move!Lisha & Shiv will handle the rest!-----------------------------------------about the organiserLisha & Shivhari have been long time friends whose circles are overlapped many-a-time over the years. But rarely has this meant this exact fitting of working together.They bring to you an immersive sound conjuring experience matched with Lisha's movement practice to get your body present & moving & limber.Find us every Tuesday heading away into our movement with them.-----------------------------------------come away with us!a gathering of music, togetherness, movement & a whole lot of warmth!Date: 8th, 13th, 20th and 27th JanuaryLocation: away center, koramangala",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/867C3917FF7F40EEB34AF9E669881C29_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/51B256D82BC84ECC96C51EE447CA4033_converted_webp.webp",
@@ -806,7 +809,7 @@
     "@context": "https://schema.org",
     "@type": "Event",
     "name": "a way to move: Breathe In, Beat Out",
-    "description": "a way to moveone of our leading IPs, an attempt to lend our space for communities to gather & meet like-minded people of their own interests & inclinations.Lisha Sinha & Shivhari bring you for the first time at Away Center - \ud83c\udf84Breathe In, Beat Out\ud83c\udf84Whether you're new to a movement practice, have just been meaning to be more regular, are looking for a break from the pain of your upcoming Monday meetings or just looking to move your body - this one is for you!at Breathe In, Beat Out, we encourage:no judgementno prior yoga experience necessarya deep joy from staying present in movementto find a community to be a part ofCome only with the intention to move!Lisha & Shiv will handle the rest!-----------------------------------------about the organiserLisha & Shivhari have been long time friends whose circles are overlapped many-a-time over the years. But rarely has this meant this exact fitting of working together. They bring to you an immersive sound conjuring experience matched with Lisha's movement practice to get your body present & moving & limber. Find us every Tuesday until Christmas heading away into our movement with them.-----------------------------------------come away with us!a gathering of music, togetherness, movement & a whole lot of warmth!Date: 9th, 16th & 23rd DecemberLocation: away center, koramangala",
+    "description": "a way to moveone of our leading IPs, an attempt to lend our space for communities to gather & meet like-minded people of their own interests & inclinations.Lisha Sinha & Shivhari bring you for the first time at Away Center -Breathe In, Beat OutWhether you're new to a movement practice, have just been meaning to be more regular, are looking for a break from the pain of your upcoming Monday meetings or just looking to move your body - this one is for you!at Breathe In, Beat Out, we encourage:no judgementno prior yoga experience necessarya deep joy from staying present in movementto find a community to be a part ofCome only with the intention to move!Lisha & Shiv will handle the rest!-----------------------------------------about the organiserLisha & Shivhari have been long time friends whose circles are overlapped many-a-time over the years. But rarely has this meant this exact fitting of working together.They bring to you an immersive sound conjuring experience matched with Lisha's movement practice to get your body present & moving & limber.Find us every Tuesday heading away into our movement with them.-----------------------------------------come away with us!a gathering of music, togetherness, movement & a whole lot of warmth!Date: 8th, 13th, 20th and 27th JanuaryLocation: away center, koramangala",
     "image": [
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/867C3917FF7F40EEB34AF9E669881C29_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/51B256D82BC84ECC96C51EE447CA4033_converted_webp.webp",
@@ -7158,7 +7161,7 @@
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
-      "price": "799.00",
+      "price": "999.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -7235,7 +7238,7 @@
     "name": "The BWW Short Story Community",
     "description": "The BWW Short Story CommunityThis month we will discuss Gina Chung\u2019s \u201cPresence,\u201d from her collection Green Frog. What this is:This is a ticketed, curated literary and community event, presented by Bhumika Anand from the Bangalore Writers Workshop, where we will do a deep-dive analysis and discussion of a short story.You get to join a reading community where you will get to read a pre-chosen short story a month.You get to examine the story in terms of its literary merit, yes, but also in terms of writing craft and context, which will be very useful if you are an aspiring storyteller or writer.Who should join:If you are above 18 years old, interested in storytelling, literature, or are an aspiring or published author, this is for you.If you are new in the city and want to be part of a community and make friends over writing,storytelling, and literature, then this is for you.What does it entail:Reading the prescribed story.Participating in the curated discussion.Following community guidelines.Community Guidelines:Be open, be civil, be courteous, be kind, and have fun.Listen more. Speak mindfully.No monopolising the conversation.",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C06BCD9EF8D8452FB65009B31C022345_converted_webp.webp"
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A3D47448BCF34D099857619BDCF3B8F5_converted_webp.webp"
     ],
     "startDate": "2026-01-17T16:00:00+05:30",
     "endDate": "2026-01-17T18:00:00+05:30",
@@ -7372,6 +7375,102 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Movie Under the Stars | Definitely, Maybe (2008)",
+    "description": "Join us for an open-air screening of Definitely, Maybe (2008), a warm, witty romantic drama paired with a three-course dinner by Chef Rhea Aaron and, of course, popcorn.*Wines and other beverages will be available for purchase at the venue.About the movie:A soon-to-be divorced dad, a curious daughter, and a love story told like a puzzle. Definitely, Maybe follows Will Hayes as he rewinds through three past relationships changing names, shifting details, and inviting us to guess who eventually became \u201cthe one.\u201dTender, funny, and quietly reflective, it\u2019s a film about timing, growing up, and how love doesn\u2019t always look the way we expect. Paired with a comforting three-course dinner by Chef Rhea Aaron and wines poured by Wine in Progress, it\u2019s the perfect slow, heart-full evening under the stars.Terms and ConditionsThe management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Limited Valet service is available at a charge of Rs. 200 per vehicle.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Tickets are non-refundable in case of cancellation or no-show.In the event of rain leading to a complete washout, Courtyard reserves the right to cancel the event. In such cases, a full refund for the ticket will be issued.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3CC832D42A5F4B82B5F5C376A440579F_converted_webp.webp"
+    ],
+    "startDate": "2026-01-15T20:30:00+05:30",
+    "endDate": "2026-01-15T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Courtyard",
+      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+      "latitude": "12.95843050000000000000",
+      "longitude": "77.59289509999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 24,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Courtyard",
+      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+      "url": "https://urbanaut.app/partner/courtyard",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-73386-77996"
+      }
+    },
+    "url": "https://urbanaut.app/spot/movie-under-the-stars-definitely-maybe-2008",
+    "keywords": [
+      "Leisure",
+      "Local",
+      "COURTYARD",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Baithak | An Evening of Melodic Santoor",
+    "description": "Note: this time, Baithak will be held on a Sunday evening.About Courtyard BaithakThe Courtyard Baithak series is curated by tabla wizard and prodigy Trilochan Kampli, who with his uncompromising standards in music, evokes the best from every artist that he invites to perform. We are bringing musicians and audiences together on a sublime musical journey.Exclusive gatherings, quiet strains of exquisite music, and dedicated artists across selected genres - The Courtyard Baithak series promises a true classical musical experience.Please note: The ticket includes performance onlyAbout the ArtistsSatyendra Singh Solanki is a rising santoor virtuoso, first trained with Pt. Omprakash Chourasiya and further shaped by the Gundecha Brothers in the dhrupad tradition. His music blends depth, clarity, and lyricism. A Top-grade AIR/Doordarshan artist, he performs widely and is recognized with national awards for his meditative, expressive playing.Terms and Conditions1. The management is not responsible for any injury or damage that may occur during the event.2. No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.3. Parking near the event premises is at the risk of the vehicle owner.4. Valet service is available at a charge of Rs. 200 per vehicle.5. Children aged 5 and older require a ticket.6. Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.7. Tickets are non-refundable in case of cancellation or no-show.8. In the event of rain leading to a complete washout, Courtyard reserves the right to cancel the event. In such cases, a full refund for the ticket will be issued.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/147B385E0DD84F6F96C139CB5D41792D_converted_webp.webp"
+    ],
+    "startDate": "2026-01-18T17:30:00+05:30",
+    "endDate": "2026-01-18T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Courtyard",
+      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
+      "latitude": "12.95843050000000000000",
+      "longitude": "77.59289509999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 80,
+    "remainingAttendeeCapacity": 80,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "800.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Courtyard",
+      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
+      "url": "https://urbanaut.app/partner/courtyard",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-73386-77996"
+      }
+    },
+    "url": "https://urbanaut.app/spot/baithak-an-evening-of-melodic-santoor",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "COURTYARD",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Financial Freedom Starts with Awareness",
     "description": "Financial Freedom Starts with AwarenessA Financial Literacy Workshop by AatmeeyaThis workshop is designed to help individuals understand the fundamentals of investing and personal finance in a simple and practical manner. Led by Sathwik N N, Co-Founder of Aatmeeya, the session focuses on building financial awareness and confidence.What you\u2019ll learn:Basics of mutual fundsInvestment fundamentalsPlanning short-term and long-term financial goals\ud83d\udcc5 Date: 31st January 2026\u23f0 Time: 3:00 PM \u2013 5:00 PM\ud83d\udccd Venue: Atta Galatta, Indiranagar, Bengaluru\ud83d\udcb0 Ticket Price: \u20b9299\ud83d\udc65 Age Group: 18 years and abovePerfect for students, professionals, and anyone beginning their financial journey.",
@@ -7413,6 +7512,147 @@
       }
     },
     "url": "https://urbanaut.app/spot/financial-freedom-starts-with-awareness-10251",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Matcha & Manifestations",
+    "description": "Matcha in hand, clarity on paper. Join Coro for a guided vision-to-action board experience rooted in intention. With guided prompts, materials provided, and space to reflect, this session supports clarity without overwhelm.This event runs alongside Coro\u2019s Afternoon Clubs, so your children can be engaged while you take uninterrupted time to focus inward.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/690DEE7D067D45CC8E7E41ECA2DA9A42_converted_webp.webp"
+    ],
+    "startDate": "2026-01-16T16:00:00+05:30",
+    "endDate": "2026-01-16T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3S2OrvsVrjsRBOql1X-UnAM",
+      "latitude": "12.96078240000000000000",
+      "longitude": "77.63721450000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "649.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Coro",
+      "description": null,
+      "url": "https://urbanaut.app/partner/corospace",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/0F2E55DAAA19467D96CA7AFC8F33B7A0_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-94466-91720"
+      }
+    },
+    "url": "https://urbanaut.app/spot/matcha-manifestations",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "WITH HER HANDS: A women-only art journaling meetup",
+    "description": "Over two thoughtful hours, we create together, share our stories, and carve out a creative corner that feels safe, sincere, and ours. This meetup is shaped with the intention to make space for self-expression and community. Through guided journaling and art, we gently uncover what we\u2019re carrying from the year gone by, and what we hope to carry forward in 2026. What you get:Filter coffee on the houseAll art materials providedGuided facilitation for 2 hoursIf you\u2019ve been craving a space to create freely and meet women who get it, this is your circle!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/32CE8FA1D8FD4834BA6AFEE70EF355A9_converted_webp.webp"
+    ],
+    "startDate": "2026-01-16T17:00:00+05:30",
+    "endDate": "2026-01-16T19:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/with-her-hands-a-women-only-art-journaling-meetup",
+    "keywords": [
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "In full Bloom: A Crochet Flower Workshop",
+    "description": "Step away from the noise of everyday life and spend a slow, joyful afternoon learning the art of crochet.In Full Bloom is a beginner-friendly workshop where you\u2019ll learn how to crochet a flower from scratch. Guided gently through the basics, this session is designed for absolute beginners and anyone curious about making something with their hands.This workshop isn\u2019t about perfection\u2014it\u2019s about the process. About slowing down, focusing on each stitch, and finding calm in the rhythm of making. By the end of the session, you\u2019ll walk away with your own handmade crochet flower and the confidence to keep creating.All materials will be provided. Just bring your curiosity.Hosted by SlipStitch at Atta Galatta",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7200B82FDE104A52A2468FF8B36C677C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1CA9C3AD60464886B250245396C8A902_converted_webp.webp"
+    ],
+    "startDate": "2026-01-18T11:00:00+05:30",
+    "endDate": "2026-01-18T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/in-full-bloom-a-crochet-flower-workshop",
     "keywords": [
       "Workshop",
       "URBANAUT"
