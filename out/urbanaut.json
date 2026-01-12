@@ -115,7 +115,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 13,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -162,7 +162,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 58,
+    "remainingAttendeeCapacity": 57,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -471,7 +471,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 72,
+    "remainingAttendeeCapacity": 67,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -552,58 +552,6 @@
     "keywords": [
       "Leisure",
       "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Serious Slice",
-    "description": "Welcome to Naples. Well, almost. At Serious Slice, we take our Napoli roots very seriously. Every dish, every process is driven by a deep obsession with Neapolitan pizza and the streets that shaped it, where time, fire, and simplicity do the heavy lifting.Our dough ferments for 72 hours before it ever meets the flame, creating crusts that are light, airy, and blistered just the way Napoli intended. The tomatoes are always San Marzano, bright and balanced. The mozzarella melts soft and gentle. Every pizza carries the soul of a city that takes its food personally.Whether you swear by the OG Margherita or chase bolder flavours, the craft always remains the constant.At our flagship on Cunningham Road, we\u2019ve kept things honest and unfussy. Walk through the blue doors and you enter a warm, intimate space \u2014 mosaic art on the walls with quiet nods to Naples, and the crackle of fire you hear instantly from our open kitchen. No backstage. Just dough, flame, and movement.With just 40 seats and an open kitchen, Serious Slice is intimate, warm, and always led by the food and the craft.Weekends are seriously special: Every weekend, we roll out two limited-edition pizzas that don\u2019t stick around for long. Tartufo-E-Fungi \u2013 with button mushrooms, capers, pecorino cheese, and a heady drizzle of truffle oil \u2014 earthy, bold, and seriously indulgent. Napoli Salsiccia \u2013 with Italian sausage, fresh mozzarella, onion, red paprika, and button mushrooms \u2014 smoky, spicy, and unapologetically Napoli. Available only on weekends, and when they\u2019re gone, they\u2019re gone.We\u2019re open every day from 12 PM to 11 PM \u2014 perfect for lazy lunches, late dinners, and everything in between. We also roll out frequent off-menu pizza and panuozzo drops \u2014 one-day-only creations that appear without warning and disappear just as fast, in limited quantities every time. Follow us so you never miss our flavour drops. We take loyalty seriously: Collect stamps on your Serious Passport and chase the flavour. Ask our staff to give you our loyalty card - to win free panuozzos and pizzas of your choosing. Please Note: We\u2019re a 40-seater, so reservations are recommended on weekends. Limited specials and collab menus are first-come, first-served. Panuozzos take a little extra time \u2014 they\u2019re worth the wait. Special events and collabs may run on timed seating.Serious Slice, Cunningham Road, Bengaluru, Karnataka.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/71F0E945FC764063A1930655AF73895D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/31CA5B299BC6474CA6FB577B6635CA7D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/159F1B4B755844C68EBBF2C6EF04560F_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/51189E5BA117456998B2239ABA1AD9B4_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6BE3D03733B04FDFAA35D24DE8135BEE_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/196F25C31D0F415B8893EA7BADA4FC10_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3E27857346E249EFA7D91A7F43539EF4_converted_webp.webp"
-    ],
-    "startDate": "2026-01-11T12:00:00+05:30",
-    "endDate": "2026-01-11T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "HM Geneva House, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJYxyMYioXrjsRUWZk01QL4JU",
-      "latitude": "12.98847950000000000000",
-      "longitude": "77.59406820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 40,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "525.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Serious Slice",
-      "description": null,
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/6E8DFF638D8749FC911A188133E98F1A_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-80500-36475"
-      }
-    },
-    "url": "https://urbanaut.app/spot/serious-slice#2026-01-11T1200",
-    "keywords": [
       "Food & drink",
       "URBANAUT"
     ]
@@ -4932,7 +4880,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 11,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5070,7 +5018,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 600,
-    "remainingAttendeeCapacity": 592,
+    "remainingAttendeeCapacity": 589,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -5125,7 +5073,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 32,
+    "remainingAttendeeCapacity": 31,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -5560,7 +5508,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -5590,54 +5538,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Movie Under the Stars | Definitely, Maybe (2008)",
-    "description": "Join us for an open-air screening of Definitely, Maybe (2008), a warm, witty romantic drama paired with a three-course dinner by Chef Rhea Aaron and, of course, popcorn.*Wines and other beverages will be available for purchase at the venue.About the movie:A soon-to-be divorced dad, a curious daughter, and a love story told like a puzzle. Definitely, Maybe follows Will Hayes as he rewinds through three past relationships changing names, shifting details, and inviting us to guess who eventually became \u201cthe one.\u201dTender, funny, and quietly reflective, it\u2019s a film about timing, growing up, and how love doesn\u2019t always look the way we expect. Paired with a comforting three-course dinner by Chef Rhea Aaron and wines poured by Wine in Progress, it\u2019s the perfect slow, heart-full evening under the stars.3-course dinner by Chef Rhea AaronCourse 1:Tomato Soup with Grilled Cheese Course 2 :Burnt Garlic Noddles withSesame Honey Chilly Chicken ORSesame Honey Cottage CheeseCourse 3 :Apple Crumble with Choco ChipsTerms and ConditionsThe management is not responsible for any injury or damage that may occur during the event.No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.Parking near the event premises is at the risk of the vehicle owner.Limited Valet service is available at a charge of Rs. 200 per vehicle.Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.Tickets are non-refundable in case of cancellation or no-show.In the event of rain leading to a complete washout, Courtyard reserves the right to cancel the event. In such cases, a full refund for the ticket will be issued.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3CC832D42A5F4B82B5F5C376A440579F_converted_webp.webp"
-    ],
-    "startDate": "2026-01-15T20:30:00+05:30",
-    "endDate": "2026-01-15T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Courtyard",
-      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
-      "latitude": "12.95843050000000000000",
-      "longitude": "77.59289509999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 6,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2000.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Courtyard",
-      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
-      "url": "https://urbanaut.app/partner/courtyard",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-73386-77996"
-      }
-    },
-    "url": "https://urbanaut.app/spot/movie-under-the-stars-definitely-maybe-2008",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "COURTYARD",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Baithak | An Evening of Instrumental Santoor",
     "description": "Note: this time, Baithak will be held on a Sunday evening.About Courtyard BaithakThe Courtyard Baithak series is curated by tabla wizard and prodigy Trilochan Kampli, who with his uncompromising standards in music, evokes the best from every artist that he invites to perform. We are bringing musicians and audiences together on a sublime musical journey.Exclusive gatherings, quiet strains of exquisite music, and dedicated artists across selected genres - The Courtyard Baithak series promises a true classical musical experience.Please note: The ticket includes performance onlyAbout the ArtistsSatyendra Singh Solanki is a rising santoor virtuoso, first trained with Pt. Omprakash Chourasiya and further shaped by the Gundecha Brothers in the dhrupad tradition. His music blends depth, clarity, and lyricism. A Top-grade AIR/Doordarshan artist, he performs widely and is recognized with national awards for his meditative, expressive playing.Terms and Conditions1. The management is not responsible for any injury or damage that may occur during the event.2. No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.3. Parking near the event premises is at the risk of the vehicle owner.4. Valet service is available at a charge of Rs. 200 per vehicle.5. Children aged 5 and older require a ticket.6. Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.7. Tickets are non-refundable in case of cancellation or no-show.8. In the event of rain leading to a complete washout, Courtyard reserves the right to cancel the event. In such cases, a full refund for the ticket will be issued.",
     "image": [
@@ -5656,7 +5556,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 73,
+    "remainingAttendeeCapacity": 71,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5893,7 +5793,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 13,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -6341,7 +6241,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 350,
-    "remainingAttendeeCapacity": 350,
+    "remainingAttendeeCapacity": 345,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -6393,7 +6293,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 130,
-    "remainingAttendeeCapacity": 114,
+    "remainingAttendeeCapacity": 72,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
