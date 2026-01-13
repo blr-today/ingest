@@ -49,6 +49,54 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "IndieWebClub with Ankur and Tanvi",
+    "description": "What is IndieWebClub?IndieWebClub is part of a growing world-wide network of meetups for everyone who wants to take back their web experience from social media silos, and own their online identities & content, or just want support with blogging!Want to blog more and looking for: ideas, momentum, and a supportive community?Join a gathering of like-minded people and get friendly support with writing, creating, and anything related to using and improving your own website!You do not need to have any tech background or experience in having your own website. You can even start with a Google Doc or your local notes app!About IndieWebClub BangaloreWe have a WhatsApp community where we post announcements and share work done by our members. Please join by clicking here. See https://blr.indiewebclub.org for a regularly updated feed of blog posts by our members.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E15728956A6F4983BDD0BC099F580453_converted_webp.webp"
+    ],
+    "startDate": "2026-01-17T14:30:00+05:30",
+    "endDate": "2026-01-17T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96722140000000000000",
+      "longitude": "77.63669820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "249.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/indiewebclub-meetup",
+    "keywords": [
+      "Leisure",
+      "Local",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Food In Literature Book Club",
     "description": "Our emotions and memories are intrinsically related to the food we eat and the genre of food literature combines them in a way that helps us connect not only to our past and our present, to different cultures, and communities, values and rituals, events both life-changing and mundane but to each other as well.  So, if viewing the world through the lens of food and literature interests you, then join us for a dialogue on \u201cFood in Literature\u201d and to celebrate those stories and their diversity. Each month with Prachi Grover, we read our way through several powerful (and delicious) narratives.January Read: In the Beginning there was Bombay Duck by Pronoti DattaWe assure you that you will enjoy every single bite! The session is free but registration is a must as we have limited spots available. Prachi Grover is a culinary consultant and educator and is the founder of \u201cFrom Words to Wok\u201d; a community for people who love to read and eat!When: Saturday, 31st January, 2026 at 11 a.m.Where: Atta Galatta Bookstore, Indira NagarAges: 18+Registration is mandatory (link in bio)Copies of the book are available at the store.",
@@ -184,6 +232,103 @@
     "url": "https://urbanaut.app/spot/let-poetry-be-9158",
     "keywords": [
       "Live GIG",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Slow Sunday by the Eleven AM Club",
+    "description": "A very happy new year! \u2728We\u2019re kicking off the first Slow Sunday of the year with something hands-on, playful, and quietly rewarding: decorating your own deck of cards.Bring along a set of old playing cards and transform them however you like \u2014 markers, collage, minimal black-and-white, words, poetry, symbols, chaos. You could even swap a card with your tablemates and design one for each other.By the end, you\u2019ll have a one-of-a-kind deck and, at the very least, a great conversation starter the next time you play bluff (or any card game, really).As always, come as you are. Make, watch, chat, or just be.See you for a slow, creative start to the year \u2661About the clubWhat is the Eleven AM Club A space for slow, intentional gatherings where time stretches, stories unfold, and creativity finds room to breathe. At Eleven AM Club, we come together to write, draw, cook, read, play, or simply be\u2014no rush, no agenda, just a day well spent.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CEE817946AD54B3CBE000EABEC2F82B8_converted_webp.webp"
+    ],
+    "startDate": "2026-01-18T11:00:00+05:30",
+    "endDate": "2026-01-18T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96722140000000000000",
+      "longitude": "77.63669820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 3,
+    "remainingAttendeeCapacity": 3,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "499.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/slow-sunday-by-the-eleven-am-club",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Pitch and Pair: Pitch your single friend",
+    "description": "Got a single friend who\u2019s a total catch? \ud83d\udc40This is your chance to be the ultimate wing-person. Create a fun 3\u20135 minute slide deck hyping them up \u2014 their quirks, charm, and best qualities \u2014 and pitch them to a room full of singles.But Pitch & Pair isn\u2019t just about the presentations \u2014 it\u2019s a full evening designed to spark real connections:\ud83c\udfb2 Connection Hunt: A playful way to turn strangers into familiar faces.\ud83c\udfa4 Friend Pitches: Hilarious, heartfelt presentations that will have the room cheering.\ud83d\udc8c Secret Match Reveal: Where the real chaos \u2014 and the magic \u2014 begins. All revealed at the end!\ud83c\udf78 Single-Mingle Party: Stay back for drinks and conversations that dating apps can\u2019t create.Whether you\u2019re pitching a friend, cheering them on, or just there to meet new people \u2014 this is your night to laugh, mingle, and maybe leave with a story worth telling.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5CD7AA516BC741878ACEDDA6E1FD2413_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0FDE34A4E2964B4482736B0BB40A1961_converted_webp.webp"
+    ],
+    "startDate": "2026-01-17T17:00:00+05:30",
+    "endDate": "2026-01-17T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1st Floor, Mantri Avenue, KHB Games Village, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ__8_-kcUrjsRDC5B70mta-c",
+      "latitude": "12.94536340000000000000",
+      "longitude": "77.61987130000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 50,
+    "remainingAttendeeCapacity": 50,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "799.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Third Place",
+      "description": "you\u2019re invited. welcome to third place, where dinners spark real connections, experiences bring us closer, and evenings unfold beautifully, unscripted. just say \u201cyes\u201d and discover the people, places, and moments you were never supposed to miss. reserve your seat now & see where the night takes you.",
+      "url": "https://urbanaut.app/partner/thirdplace",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/5C7A4A87B53444F6919F70E35B75D833_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63641-24613"
+      }
+    },
+    "url": "https://urbanaut.app/spot/pitch-and-pair-pitch-your-single-friend",
+    "keywords": [
+      "Music",
+      "Premium",
+      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -6710,7 +6855,7 @@
     "organizer": {
       "@type": "Organization",
       "name": "Utsmaya LLP",
-      "description": null,
+      "description": "Mental and emotional wellness and healing",
       "url": "https://urbanaut.app/partner/None",
       "image": "https://d10y46cwh6y6x1.cloudfront.netimages/4FC471E19AA84527AD981AC4EEE07B9C_converted_webp.webp",
       "contactPoint": {
@@ -6921,6 +7066,292 @@
     "keywords": [
       "Leisure",
       "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Read & Play at Atta Galatta with Bachpan Manao",
+    "description": "Children listen to short stories read by grandparents.They can sit, move around, draw, or just listen quietly.After the stories, children move to art tables with paper, colours, and clay.There are no instructions and no pressure to perform.Adults stay close while children explore and create at their own pace.This session is designed for parents who want:\u2013 a calm, screen-free morning\u2013 a safe, familiar space\u2013 unstructured play and listeningSat, 24 Jan | 11-12:30Atta GalattaStories, art, and time together.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C7D12793ED69445E8E3797484B8BEEB1_converted_webp.webp"
+    ],
+    "startDate": "2026-01-24T11:00:00+05:30",
+    "endDate": "2026-01-24T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 60,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/read-play-at-atta-galatta-with-bachpan-manao",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Ultimate Brownie Workshop",
+    "description": "Ultimate Brownie Workshop | BangaloreLooking for a hands-on baking workshop in Bangalore? Join us for the Ultimate Baking Workshop at Fired Up,  a relaxed and hands on  workshop for anyone who enjoys baking, learning new skills, and spending time doing something creative.In this workshop, participants will bake three classic brownie variations: a rich triple chocolate brownie, indulgent brookies, and nutty fudge brownies. The session focuses on understanding techniques, ingredients, and methods while baking step by step in a fun, supportive, easygoing environment.Whether you\u2019re a beginner or someone who bakes occasionally at home, this workshop is designed for everyone. You\u2019ll learn through doing, ask questions along the way, and gain confidence to try more baking on your own. Expect clear guidance, hands-on participation, and time to enjoy the process as much as the results.Ideal for those searching for fun things to do in Bangalore, weekend workshops, baking classes, or creative experiences. Join us for an afternoon of baking, learning, and good company, a simple and satisfying way to spend your weekend.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/719BDA3A66764D4BB8C48C924AA4F0FF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9D0861FB935540F5A5C2A98FFFD61737_converted_webp.webp"
+    ],
+    "startDate": "2026-01-24T11:00:00+05:30",
+    "endDate": "2026-01-24T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Shop No. 5, 153 Biere St, Hagadur Main Rd, Prestige Ozone, Whitefield, Bengaluru, Karnataka 560066, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJmUUWvvoNrjsRrWm5L-WqRTU",
+      "latitude": "12.96278730000000000000",
+      "longitude": "77.75096800000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1349.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Fired Up",
+      "description": "Dive into a world of creativity at Bangalore's premier craft studio. Our workshops provide all tools and supplies for a memorable experience, perfect for summer camps, weekend activities, birthdays, date activities, girls' nights out, or family fun.",
+      "url": "https://urbanaut.app/partner/firedup",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C2E1C2A73C73424E8B21B565BCD40306_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-72042-68464"
+      }
+    },
+    "url": "https://urbanaut.app/spot/ultimate-brownie-workshop",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Next Chapter Hour by Divya Arathi M.",
+    "description": "\ud83c\udf3f About the SessionThis is a 60-minute guided reflection experience designed to help you pause, reconnect, and step into your next chapter with clarity, energy, and direction. Unlike most year-end or new-year sessions, this is not about productivity, goal-setting, or doing more.It\u2019s about slowing down, noticing, and honoring the journey that brought you here.In this session, you will:\ud83e\uddd8\u200d\u2640\ufe0f Pause and return to the present moment\ud83c\udf0a Reflect with gratitude, without judgment\ud83e\udded Explore Clarity, Energy, and Direction through simple, grounded tools\u270d\ufe0f Work with a practical worksheet you can revisit\ud83c\udf05 Leave feeling calmer, clearer, and gently oriented toward what\u2019s nextNo preparation required. No pressure to perform. Just a quiet, intentional space to begin.Who is Divya? \u201cBefore you plan the next chapter, have you met the one who made it here?\u201d Divya Arathi is someone who listens deeply, notices the in-between moments, and believes that clarity often arrives when we stop trying so hard. She brings a calm, grounded presence into the spaces she holds, inviting people to slow down, breathe, and return to themselves. As the founder of The Coach Codega, she designs experiences that help people begin again \u2014 not from pressure or urgency, but from presence, clarity, and a gentle sense of direction.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/165A899633FE4AB8AAA734DF2788712C_converted_webp.webp"
+    ],
+    "startDate": "2026-01-17T12:00:00+05:30",
+    "endDate": "2026-01-17T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96722140000000000000",
+      "longitude": "77.63669820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/the-next-chapter-hour-by-divya-arathi-m",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Asia on a Thali \u2014\u00a0Trivia Game Show",
+    "description": "Bengaluru\u2019s favourite trivia game show is back!This edition explores Asia through a fun, clue-filled lens, tracing the fascinating interplay of \u201cIndia in Asia\u201d and \u201cAsia in India.\u201d Expect a rich mix of history, business, entertainment, culture, and more. This is NOT just a food quiz. The questions are work-outable (not obscure!), making it perfect for first-timers and trivia lovers alike.There are game cards, face-offs, and Kitten Points involved.Spend 2 hours with friends and friendly strangers, wracking your brains together. It\u2019s a mix of luck, strategy, and solving clues \u2014 honestly, the less you know, the better. Played in teams of two (one ticket per person).Showing up solo? We\u2019ll pair you up with someone.Note: Some questions may be the same as the \u201cRice, Spice and Everything Nice\u201d set we ran last year. The format, however, is entirely different.Who is Tasty Trivia?Tasty Trivia is co-curated by Susovan and Saloni, driven by a shared love for curiosity. A multi-city, community-driven series, it has travelled across 5 cities and runs monthly in Bangalore \u2014 offering fun, beginner-friendly trivia events that make knowledge social, engaging, and full of surprises.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/82F3660F99284CC6938E9E34F33371B2_converted_webp.webp"
+    ],
+    "startDate": "2026-01-16T21:00:00+05:30",
+    "endDate": "2026-01-16T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96722140000000000000",
+      "longitude": "77.63669820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/asia-on-a-thali-trivia-game-show",
+    "keywords": [
+      "Leisure",
+      "Local",
+      "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Silliest Show Tonight by Improv Lore",
+    "description": "A classic good ol\u2019 improv show packed with riddles, tongue twisters, and some nostalgia. If you\u2019ve been missing having a hearty laugh at an improv show, consider this your invite to enjoy the freshest stories in town!We promise a fun evening stuffed with entertaining games, quick lines, and wholesome stories.Who are Improv Lore?We are Bangalore-based community-theatre troupe, works towards spreading the art of spontaneous storytelling & unscripted stagecraft, and rekindling the joy of being playful & whimsical.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A4B85A75BB3E464A86372E170EAB2226_converted_webp.webp"
+    ],
+    "startDate": "2026-01-16T21:00:00+05:30",
+    "endDate": "2026-01-16T22:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
+      "latitude": "12.96722140000000000000",
+      "longitude": "77.63669820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 5,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "249.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Underline Center",
+      "description": "",
+      "url": "https://urbanaut.app/partner/underlinecenter",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-97905-32594"
+      }
+    },
+    "url": "https://urbanaut.app/spot/the-silliest-show-tonight-by-improv-lore",
+    "keywords": [
+      "Leisure",
+      "Active",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "A Walk in the Backyard: Nature journaling workshop",
+    "description": "A Walk in the Backyard is a gentle, slow-paced nature journaling workshop designed to help you pause, observe, and reconnect with the small wonders around you. Inspired by the philosophy of John Muir Laws\u2014observation, curiosity, and wonder\u2014this session invites participants to look closely at everyday nature: backyard birds, leaves, flowers, insects, sounds, and fleeting moments that often go unnoticed.You don\u2019t need to be an artist or a writer. Nature journaling is not about perfection\u2014it\u2019s about paying attention. Through simple prompts, guided observation, and easy watercolor and drawing exercises, you\u2019ll learn how to record what you see, feel, and wonder about in your own sketchbook.This workshop is perfect if you want to:Slow down and be present in the momentBuild a regular nature journaling habitExplore watercolor and sketching in a relaxed, pressure-free wayReconnect with your curiosity and childlike sense of wonderUse art as a calming, mindful practiceBy the end of the session, you\u2019ll walk away with:A completed nature journal pageSimple tools and prompts you can reuse at homeIncreased confidence in observing and expressing natureA calmer, more grounded state of mindAll materials will be provided.About the FacilitatorThe workshop is facilitated by Charu Jain, a self-taught watercolor artist and illustrator with a deep love for storytelling and nature journaling.Charu\u2019s work is rooted in gentle observation, expressive lines, and a playful, hand-drawn watercolor style. She believes art is a way to slow down, listen deeply, and build a personal relationship with the natural world. Her practice combines illustration, journalling, and storytelling to make creativity feel accessible rather than intimidating.Through her workshops, Charu encourages participants to let go of \u201cgetting it right\u201d and instead focus on noticing, wondering, and enjoying the process. Her sessions are known for being warm, inclusive, and thoughtfully guided\u2014especially welcoming to beginners.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1A18C17B0DD94C66883D1CB1CDD881F8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AA96D3FC2D0A43BDA6FDA376AA02750F_converted_webp.webp"
+    ],
+    "startDate": "2026-01-25T13:30:00+05:30",
+    "endDate": "2026-01-25T15:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/a-walk-in-the-backyard-nature-journaling-workshop",
+    "keywords": [
+      "Workshop",
       "URBANAUT"
     ]
   }
