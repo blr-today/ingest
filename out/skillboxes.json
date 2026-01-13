@@ -152,6 +152,49 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Experience an electrifying night of beats and rhythms as CentiGrade Club Nights presents Indian sensation BLITHE live at Pangeo Bengaluru this Saturday.Get ready to dance the night away to cutting-edge tunes and ",
+      "endDate": "2026-01-18T01:00:00",
+      "identifier": "com.skillboxes.32952",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1768323247623W1TEAKg5L1157.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9726391",
+            "longitude": "77.6065987"
+         },
+         "name": "Pangeo"
+      },
+      "name": "CentiGrade Club Nights ft. Blithe / 17th Jan / Pangeo",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 99,
+            "name": "Guestlist - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-blithe-17th-jan-pangeo"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 99,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-blithe-17th-jan-pangeo"
+         }
+      ],
+      "startDate": "2026-01-17T20:00:00",
+      "url": "https://www.skillboxes.com/events/centigrade-club-nights-ft-blithe-17th-jan-pangeo"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Skrat: Since their formation in 2006, Skrat has been a formidable force in the indie rock scene, known for their explosive energy, thematic ingenuity, and relentless musical evolution. O",
       "endDate": "2026-02-13T23:59:00",
       "identifier": "com.skillboxes.32940",
@@ -600,78 +643,6 @@
       ],
       "startDate": "2026-01-15T20:00:00",
       "url": "https://www.skillboxes.com/events/b-town-thursday-ft-sukant-at-yeda-republic-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "sdfsdfsd",
-      "endDate": "2026-01-13T23:59:00",
-      "identifier": "com.skillboxes.32892",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YnExc2twUHg2MEVvVTE2SkpIalRQZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1768215297ryEZ6o1EymtVGyL1.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Open Air Music Festivals"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "name": "To Be Decided"
-      },
-      "name": "Event Title Cat 1909",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 900,
-            "name": "Early Bird Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/event-title-cat-1909"
-         }
-      ],
-      "startDate": "2026-01-13T01:25:00",
-      "url": "https://www.skillboxes.com/events/event-title-cat-1909"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Midweek madness done right ✨It’s Show Time Tuesday with Sushant bringing the heat to the dance floor.🗓 13th Jan | Tuesday⏰ 8 PM onwards📞",
-      "endDate": "2026-01-13T23:59:00",
-      "identifier": "com.skillboxes.32891",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1768214702vWYiIW1q0rBCxzBY.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "SHOWTIME TUESDAY FT. SUKANT AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "get free access to the event\n",
-            "inventoryLevel": 99,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/showtime-tuesday-ft-sukant-at-yeda-republic-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "get free access to the event\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/showtime-tuesday-ft-sukant-at-yeda-republic-koramangala"
-         }
-      ],
-      "startDate": "2026-01-13T20:00:00",
-      "url": "https://www.skillboxes.com/events/showtime-tuesday-ft-sukant-at-yeda-republic-koramangala"
    },
    {
       "@context": "https://schema.org",
