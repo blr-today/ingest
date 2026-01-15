@@ -53,6 +53,84 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Bangalore, it’s going down 🔥\nI-BAR presents a massive night with Siva Prayojan 🎧\nSupported by ZEG | Satya | Lochan\n📍 I-BAR, The Park Hotel,",
+      "endDate": "2026-01-17T23:00:00",
+      "identifier": "com.skillboxes.32991",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1768478265v3Pphwyak6LD5mV4.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "The Park Hotel ,14/7, MG Road Bangalore, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "28",
+            "longitude": "77"
+         },
+         "name": "i-BAR"
+      },
+      "name": "IBAR Present",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Ladies-Free Entry\n",
+            "inventoryLevel": 100,
+            "name": "Ladies Free Entry",
+            "url": "https://www.skillboxes.com/events/ticket/ibar-present"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charge applicable for Stag\n",
+            "inventoryLevel": 99,
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/ibar-present"
+         }
+      ],
+      "startDate": "2026-01-17T07:00:00",
+      "url": "https://www.skillboxes.com/events/ibar-present"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "#oafBigGigs returns with Edition 6 featuring Bangalore based funk outfit Juxtaposed!\r\n\r\n \r\n\r\nLooking for a night that feels different? Juxtaposed brings high energy, powerful grooves, and an atmosphere that instantly pulls you i",
+      "endDate": "2026-01-31T23:59:00",
+      "identifier": "com.skillboxes.32982",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1768462538uiNP1ggu9W2odiSC.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "4th, Block 413, 100 Feet Rd, off Gillys redefined, KHB Block Koramangala, Koramangala 4-B Block, Koramangala, Bengaluru, Karnataka 560034, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.933341",
+            "longitude": "77.623648"
+         },
+         "name": "Fandom at Gilly's Redefined"
+      },
+      "name": "#oafBigGigs Edition 6 featuring Juxtaposed",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Mandatory Cover Charge of INR 500 applicable at gates. Fully redeemable on Food and beverages\n",
+            "inventoryLevel": 25,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/oafbiggigs-edition-6-featuring-juxtaposed"
+         }
+      ],
+      "startDate": "2026-01-31T20:00:00",
+      "url": "https://www.skillboxes.com/events/oafbiggigs-edition-6-featuring-juxtaposed"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Not a night.A reckoning.UNYNX with Leisan a melodic techno experience designed to be felt in your chest, not your ears.This Sunday at Sunburn Union.7 PM onwards",
       "endDate": "2026-01-18T23:59:00",
       "identifier": "com.skillboxes.32978",
