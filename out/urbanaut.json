@@ -7103,52 +7103,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "The Pig that Fell Into The Well - TPCC Blr",
-    "description": "South Korean director Hong Sang-soo's debut feature is structured as four separate narratives, presenting each lead character's viewpoint as he or she intersects with the others. A novelist (Kim Eui-sung) has an affair with two women, finding fulfillment in neither; a married businessman (Park Jin-seong) strays from his wife he can't satisfy; a naive young woman (Cho Eun-sook) surrenders her dignity for her lover; and a married woman (Lee Eung-kyung) tries to find solace in a frustrating affair.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/510F62CE1EE04512976E50F932B7DFAE_converted_webp.webp"
-    ],
-    "startDate": "2026-01-15T19:45:00+05:30",
-    "endDate": "2026-01-15T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, L82, 9th B Main Rd, LIC Colony, HAL 3rd Stage, Sector 11, Jeevan Bima Nagar, Bengaluru, Karnataka 560075, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJbRb1efUVrjsR0aqWT0D2dOw",
-      "latitude": "12.96839540000000000000",
-      "longitude": "77.65182290000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Parallel Cinema Club",
-      "description": null,
-      "url": "https://urbanaut.app/partner/tpcc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98860-01991"
-      }
-    },
-    "url": "https://urbanaut.app/spot/thepig-thatfellintothewell",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Dinner & Karaoke with new friends",
     "description": "dinner & karaoke with new friends is a slow evening of shared food, bad singing and really good company.we start around a table with dinner, drinks and conversations with people you\u2019ll actually vibe with\u2026 then head to a nearby karaoke bar together to let the night get a little chaotic in the best way.",
@@ -7331,7 +7285,7 @@
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
-      "price": "899.00",
+      "price": "1099.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -7351,6 +7305,107 @@
       "Leisure",
       "Premium",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Crochet, Sip & Slow Down - Make your toy workshop",
+    "description": "\ud83e\uddf6 Slow down, sip on matcha, and let your hands do the talking !In this cozy crochet workshop, you\u2019ll learn the basics of crochet while creating your very own handmade toy\u2014step by step, at a relaxed and beginner-friendly pace. No prior experience needed :)Crocheting is more than a craft. It\u2019s a deeply calming, mindful practice that helps reduce stress, improve focus, and gently quiet the mind. The rhythmic movements support relaxation, enhance hand\u2013eye coordination, and create a sense of accomplishment as you watch something take shape in your hands.This workshop is an invitation to unplug, create with intention, and experience the joy of slow making\u2014leaving with a toy you\u2019ve made yourself and a moment of calm you\u2019ll carry with you.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B47FC11690D64FF395D13D43F6A65854_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5FE69CFCDC58449CB7FA13EE3EDBFB86_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/023301DDBC6C4222B850AA90BF2389D3_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C9B9D8B761DC40F8B59A570309CD2424_converted_webp.webp"
+    ],
+    "startDate": "2026-01-24T13:00:00+05:30",
+    "endDate": "2026-01-24T16:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "169, 9th Cross Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJNQlbRwAXrjsRK1-aZHeM9oQ",
+      "latitude": "12.98064490000000000000",
+      "longitude": "77.63900629999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "1260.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Studio Oura",
+      "description": "Studio OURA is a integrated fitness & wellness space in Bangalore offering mindful movement, soulful rituals, nutrition, and community \u2014 inspired by the five elements of balance",
+      "url": "https://urbanaut.app/partner/matpilates",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/3CAB6A0007C74CDFBB19C4BF8FDADAD6_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63813-05995"
+      }
+    },
+    "url": "https://urbanaut.app/spot/crochet-sip-slow-down-make-your-toy-workshop",
+    "keywords": [
+      "Leisure",
+      "Workshop",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Vinyasa Flow",
+    "description": "\ud83e\uddd8\ud83c\udffb\u200d\u2640\ufe0f Start your Sunday with an energising Vinyasa Flow that gently awakens the body and clears the mind. This dynamic, breath-led practice links fluid movements with conscious breathing, creating a smooth and rhythmic flow from one posture to the next.Designed to build strength, flexibility, and balance, the session helps improve mobility, boost circulation, and cultivate focus. Expect a refreshing yet mindful practice that leaves you feeling light, open, and revitalised\u2014perfect for setting a positive, grounded tone for the rest of your day. \u2600\ufe0f\u2728",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2A9C5592A0E64B769033498ADBD86CBD_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F9BD73D3591E40BA8556EDEB0A8CB310_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AB60DD19FEF04AE5988F78C01400F0B8_converted_webp.webp"
+    ],
+    "startDate": "2026-01-25T11:30:00+05:30",
+    "endDate": "2026-01-25T12:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "169, 9th Cross Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJNQlbRwAXrjsRK1-aZHeM9oQ",
+      "latitude": "12.98064490000000000000",
+      "longitude": "77.63900629999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "850.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Studio Oura",
+      "description": "Studio OURA is a integrated fitness & wellness space in Bangalore offering mindful movement, soulful rituals, nutrition, and community \u2014 inspired by the five elements of balance",
+      "url": "https://urbanaut.app/partner/matpilates",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/3CAB6A0007C74CDFBB19C4BF8FDADAD6_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63813-05995"
+      }
+    },
+    "url": "https://urbanaut.app/spot/vinyasa-flow",
+    "keywords": [
+      "Local",
+      "Wellness",
+      "Active",
       "URBANAUT"
     ]
   }
