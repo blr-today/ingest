@@ -163,7 +163,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -305,7 +305,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 47,
+    "remainingAttendeeCapacity": 43,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -456,7 +456,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 23,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -578,6 +578,54 @@
       "Leisure",
       "Premium",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Movie, Conversation & Coffee",
+    "description": "\u201cmovie, conversation & coffee\u201d is a slow, no-pressure evening at Third Place where we:\ud83c\udfac watch a thoughtfully chosen film/short that stirs something real\ud83d\udde3\ufe0f sit in a guided group conversation about what it brought up\u2615 sip on coffee (or chai) while the chat drifts into life, love, work, and everything in betweenNo film bros, no hot takes required. You don\u2019t need to be a cinephile or an extrovert - just come as you are, watch with the room, and share as much or as little as you feel like.If you\u2019ve been craving softer nights, meaningful conversations and new people who feel\u2026 human, this one\u2019s for you.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C70A73022DFD432EA36810D26B05E8B3_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F80394D7DD2F4E5183401556B7ADA21F_converted_webp.webp"
+    ],
+    "startDate": "2026-01-24T16:00:00+05:30",
+    "endDate": "2026-01-24T18:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "543, 9th Cross Rd, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJi2omMgAVrjsRcbVQ_-SHqhQ",
+      "latitude": "12.91055470000000000000",
+      "longitude": "77.59668800000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "749.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Third Place",
+      "description": "you\u2019re invited. welcome to third place, where dinners spark real connections, experiences bring us closer, and evenings unfold beautifully, unscripted. just say \u201cyes\u201d and discover the people, places, and moments you were never supposed to miss. reserve your seat now & see where the night takes you.",
+      "url": "https://urbanaut.app/partner/thirdplace",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/5C7A4A87B53444F6919F70E35B75D833_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63641-24613"
+      }
+    },
+    "url": "https://urbanaut.app/spot/movie-conversation-coffee",
+    "keywords": [
+      "Leisure",
+      "Local",
       "URBANAUT"
     ]
   },
@@ -770,7 +818,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -793,58 +841,6 @@
     "keywords": [
       "Leisure",
       "Workshop",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Serious Slice",
-    "description": "Welcome to Naples. Well, almost. At Serious Slice, we take our Napoli roots very seriously. Every dish, every process is driven by a deep obsession with Neapolitan pizza and the streets that shaped it, where time, fire, and simplicity do the heavy lifting.Our dough ferments for 72 hours before it ever meets the flame, creating crusts that are light, airy, and blistered just the way Napoli intended. The tomatoes are always San Marzano, bright and balanced. The mozzarella melts soft and gentle. Every pizza carries the soul of a city that takes its food personally.Whether you swear by the OG Margherita or chase bolder flavours, the craft always remains the constant.At our flagship on Cunningham Road, we\u2019ve kept things honest and unfussy. Walk through the blue doors and you enter a warm, intimate space \u2014 mosaic art on the walls with quiet nods to Naples, and the crackle of fire you hear instantly from our open kitchen. No backstage. Just dough, flame, and movement.With just 40 seats and an open kitchen, Serious Slice is intimate, warm, and always led by the food and the craft.Weekends are seriously special: Every weekend, we roll out two limited-edition pizzas that don\u2019t stick around for long. Tartufo-E-Fungi \u2013 with button mushrooms, capers, pecorino cheese, and a heady drizzle of truffle oil \u2014 earthy, bold, and seriously indulgent. Napoli Salsiccia \u2013 with Italian sausage, fresh mozzarella, onion, red paprika, and button mushrooms \u2014 smoky, spicy, and unapologetically Napoli. Available only on weekends, and when they\u2019re gone, they\u2019re gone.We\u2019re open every day from 12 PM to 11 PM \u2014 perfect for lazy lunches, late dinners, and everything in between. We also roll out frequent off-menu pizza and panuozzo drops \u2014 one-day-only creations that appear without warning and disappear just as fast, in limited quantities every time. Follow us so you never miss our flavour drops. We take loyalty seriously: Collect stamps on your Serious Passport and chase the flavour. Ask our staff to give you our loyalty card - to win free panuozzos and pizzas of your choosing. Please Note: We\u2019re a 40-seater, so reservations are recommended on weekends. Limited specials and collab menus are first-come, first-served. Panuozzos take a little extra time \u2014 they\u2019re worth the wait. Special events and collabs may run on timed seating.Serious Slice, Cunningham Road, Bengaluru, Karnataka.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/71F0E945FC764063A1930655AF73895D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/31CA5B299BC6474CA6FB577B6635CA7D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/159F1B4B755844C68EBBF2C6EF04560F_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/51189E5BA117456998B2239ABA1AD9B4_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6BE3D03733B04FDFAA35D24DE8135BEE_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/196F25C31D0F415B8893EA7BADA4FC10_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3E27857346E249EFA7D91A7F43539EF4_converted_webp.webp"
-    ],
-    "startDate": "2026-01-14T12:00:00+05:30",
-    "endDate": "2026-01-14T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "HM Geneva House, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJYxyMYioXrjsRUWZk01QL4JU",
-      "latitude": "12.98847950000000000000",
-      "longitude": "77.59406820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 40,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "525.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Serious Slice",
-      "description": null,
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/6E8DFF638D8749FC911A188133E98F1A_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-80500-36475"
-      }
-    },
-    "url": "https://urbanaut.app/spot/serious-slice#2026-01-14T1200",
-    "keywords": [
       "Food & drink",
       "URBANAUT"
     ]
@@ -4829,7 +4825,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -4877,7 +4873,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4972,7 +4968,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 33,
+    "remainingAttendeeCapacity": 25,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5017,7 +5013,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5155,7 +5151,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 600,
-    "remainingAttendeeCapacity": 589,
+    "remainingAttendeeCapacity": 587,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -5210,7 +5206,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 25,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -5403,7 +5399,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 44,
+    "remainingAttendeeCapacity": 43,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -5450,7 +5446,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 57,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -5589,7 +5585,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 71,
+    "remainingAttendeeCapacity": 69,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5685,7 +5681,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -5733,7 +5729,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -6025,7 +6021,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -6354,56 +6350,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Comic Jam",
-    "description": "Join a small, playful comic jam where we draw fast, collaborate freely, and build a short comic together\u2014no experience required.This session is designed to be low\u2011pressure and beginner\u2011friendly, focusing on speed, improvisation, and creative play rather than polished drawings.\ud83d\uddd3 Date: January 17\u23f0 Time: 12:00\u20131:30 PM\ud83d\udc65 Group size: Limited to 12 participants\ud83d\udcb8 Fee: \u20b9499+taxes / per personWHAT TO EXPECT\u2022 Warm\u2011up sketching to loosen up (30\u2011second rounds)\u2013 You can choose between quick figure posing or fun prompt\u2011based drawing\u2022 Comic Jam Session\u2013 Everyone receives a 6\u2011panel comic page\u2013 We split into two teams and rotate pages every 5\u20138 minutes\u2013 Each panel includes a simple prompt (chosen at random on-spot)\u2013 You build on whatever the previous person has drawn\u2022 Wrap\u2011Up\u2013 Finished pages are scanned\u2013 Participants keep their original drawings\u2013 A digital copy of the completed comics will be shared afterwardALL MATERIALS PROVIDEDWHO THIS IS FORAnyone who enjoys drawing, comics, doodling, or collaborative creativity. Skill level doesn\u2019t matter\u2014stick figures are welcome. This is about showing up, drawing fast, and having fun.The fee helps cover the venue booking, materials, and facilitation.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/75741BF862284CD3B766705A25EC406D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/09B176B63698445AA32EB1E255609396_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B51C39C8A241466396FC005924BE1FD8_converted_webp.webp"
-    ],
-    "startDate": "2026-01-17T12:00:00+05:30",
-    "endDate": "2026-01-17T13:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "159, 1st Cross Rd, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3epoD9MVrjsR5KtVqCOblww",
-      "latitude": "12.92531910000000000000",
-      "longitude": "77.63506930000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 7,
-    "remainingAttendeeCapacity": 1,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "524.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "anannyapaints",
-      "description": null,
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/700AFE5630944B0B907D37F748CCFDD9_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98868-27055"
-      }
-    },
-    "url": "https://urbanaut.app/spot/comic-jam",
-    "keywords": [
-      "Leisure",
-      "Workshop",
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "New Moon Sound Healing Session",
     "description": "The New Moon is a sacred pause -a powerful time to slow down, turn inward, and consciously reset your energy. This intimate 90-minute circle is designed to cleanse your aura, calm your nervous system, and help you plant aligned intentions for the new lunar cycle.What you will experience & gain:\u2728 Deep aura cleansing through sacred fire ritual, sound healing, and breathwork\ud83c\udf3f Release of stagnant emotional and energetic blocks\ud83e\udde0 Mental clarity and emotional grounding\ud83d\udcab Clear, aligned intention setting for new beginnings\ud83c\udf0a A calmer nervous system and renewed sense of inner balanceThis space is for you if you are:Feeling energetically heavy, drained, or scatteredGoing through a transition or emotional resetSeeking clarity, grounding, and inner alignmentCraving a quiet, safe, and soulful space to turn inwardCome as you are.Leave feeling lighter, clearer, and energetically renewed. \ud83c\udf11\u2728",
     "image": [
@@ -6424,7 +6370,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -6787,7 +6733,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 130,
-    "remainingAttendeeCapacity": 59,
+    "remainingAttendeeCapacity": 49,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -7174,7 +7120,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 35,
+    "remainingAttendeeCapacity": 34,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -7244,7 +7190,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -7292,7 +7238,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 18,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -7314,6 +7260,54 @@
     "url": "https://urbanaut.app/spot/thepig-thatfellintothewell",
     "keywords": [
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Dinner & Karaoke with new friends",
+    "description": "dinner & karaoke with new friends is a slow evening of shared food, bad singing and really good company.we start around a table with dinner, drinks and conversations with people you\u2019ll actually vibe with\u2026 then head to a nearby karaoke bar together to let the night get a little chaotic in the best way.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/80E343F80DD645AD9BB0555E18056499_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/F58991CDDA064E1E9B5DA4B17DC0AC6D_converted_webp.webp"
+    ],
+    "startDate": "2026-01-18T20:00:00+05:30",
+    "endDate": "2026-01-18T23:59:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "latitude": "12.97836920000000000000",
+      "longitude": "77.64083560000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "749.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Third Place",
+      "description": "you\u2019re invited. welcome to third place, where dinners spark real connections, experiences bring us closer, and evenings unfold beautifully, unscripted. just say \u201cyes\u201d and discover the people, places, and moments you were never supposed to miss. reserve your seat now & see where the night takes you.",
+      "url": "https://urbanaut.app/partner/thirdplace",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/5C7A4A87B53444F6919F70E35B75D833_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63641-24613"
+      }
+    },
+    "url": "https://urbanaut.app/spot/dinner-karaoke-with-new-friends",
+    "keywords": [
+      "Music",
+      "Food & drink",
       "URBANAUT"
     ]
   }
