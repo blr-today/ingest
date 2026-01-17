@@ -136,6 +136,49 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "\n\n\n\n\n\n\nJammers Live in Bengaluru 🎶\n\nGet ready for a high-energy",
+      "endDate": "2026-02-28T23:55:00",
+      "identifier": "com.skillboxes.33024",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/a2pQSlNJS0llNUE1WDBoS3h5UjVOZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1768566159VVg8drcp6Q9zPKFY.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "2, behind HDFC Bank, Doddanakundi Industrial Area 2, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9820923",
+            "longitude": "77.7086283"
+         },
+         "name": "Hamilton Cocktail Bar"
+      },
+      "name": "Jammers Live In Bengaluru",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover Charge of 1000 Rupees that is fully redeemable on food and drinks to be paid at the venue,ONLY FOR 21+, FULLY STANDING CONCERT\n",
+            "inventoryLevel": 103,
+            "name": "Last Chance",
+            "url": "https://www.skillboxes.com/events/ticket/jammers-live-in-bengaluru-3"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Cover Charge of 1000 Rupees that is fully redeemable on food and drinks to be paid at the venue,ONLY FOR 21+, FULLY STANDING CONCERT\n",
+            "inventoryLevel": 0,
+            "name": "ONLY PHASE",
+            "url": "https://www.skillboxes.com/events/ticket/jammers-live-in-bengaluru-3"
+         }
+      ],
+      "startDate": "2026-02-28T20:30:00",
+      "url": "https://www.skillboxes.com/events/jammers-live-in-bengaluru-3"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "We’re taking it ALL OUT 90s this Sunday! 🔥🎶\n25th January – 9 PM onwards, featuring David bringing the ultimate throwback vibe.\nLet’s rewind the ni",
       "endDate": "2026-01-25T23:59:00",
       "identifier": "com.skillboxes.33022",
