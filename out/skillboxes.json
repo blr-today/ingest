@@ -53,6 +53,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Manchester United VS Arsenal Live ScreeningWatson’s Indiranagar, BangaloreDate - 25th January, 2025",
+      "endDate": "2026-01-25T23:59:00",
+      "identifier": "com.skillboxes.33051",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/THJuaWlqbVNUQkVJNndwTFJzYWtxUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1768689085aUp7Ek0TadTa7Gh3.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Sports"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Bengaluru, Karnataka, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9715987",
+            "longitude": "77.5945627"
+         },
+         "name": "Watson's"
+      },
+      "name": "Manchester United VS Arsenal | Live Screening | Watson’s Indiranagar, Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Live Screening Pass",
+            "url": "https://www.skillboxes.com/events/ticket/manchester-united-vs-arsenal-live-screening-watson-s-indiranagar-bangalore"
+         }
+      ],
+      "startDate": "2026-01-25T22:00:00",
+      "url": "https://www.skillboxes.com/events/manchester-united-vs-arsenal-live-screening-watson-s-indiranagar-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Join us for the Indian Premiere of Harij Weds Sajili, an evocative award winning independent short film that has already touched audiences across international festivals. This special screening in B",
       "endDate": "2026-01-25T20:00:00",
       "identifier": "com.skillboxes.33032",
@@ -77,7 +111,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Please carry a valid ID\nEntry restricted to 18+ only",
-            "inventoryLevel": 25,
+            "inventoryLevel": 22,
             "name": "PASS",
             "url": "https://www.skillboxes.com/events/ticket/harij-weds-sajili-the-indian-premiere"
          }
@@ -598,7 +632,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 500 applicable at gates. Fully redeemable on Food and beverages\n",
-            "inventoryLevel": 23,
+            "inventoryLevel": 22,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/oafbiggigs-edition-6-featuring-juxtaposed"
          }
@@ -633,7 +667,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Covercharge Of Inr 1000 Applicable if you enter after 9:30pm At The Venue. - Allows Entry To One Person Only.\n",
-            "inventoryLevel": 294,
+            "inventoryLevel": 288,
             "name": "RSVP STAG",
             "url": "https://www.skillboxes.com/events/ticket/unynx-feat-leisan"
          },
@@ -691,32 +725,6 @@
       ],
       "startDate": "2026-02-08T14:00:00",
       "url": "https://www.skillboxes.com/events/before-midnight-a-no-pressure-dating-festival"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Experience an electrifying night of beats and rhythms as CentiGrade Club Nights presents Indian sensation BLITHE live at Pangeo Bengaluru this Saturday.Get ready to dance the night away to cutting-edge tunes and ",
-      "endDate": "2026-01-18T01:00:00",
-      "identifier": "com.skillboxes.32952",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1768323247623W1TEAKg5L1157.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "4th floor, 171 - 172, Forum Rex Walk, Brigade Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9726391",
-            "longitude": "77.6065987"
-         },
-         "name": "Pangeo"
-      },
-      "name": "CentiGrade Club Nights ft. Blithe / 17th Jan / Pangeo",
-      "offers": [ ],
-      "startDate": "2026-01-17T20:00:00",
-      "url": "https://www.skillboxes.com/events/centigrade-club-nights-ft-blithe-17th-jan-pangeo"
    },
    {
       "@context": "https://schema.org",
@@ -897,7 +905,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 599,
+            "inventoryLevel": 598,
             "name": "Entry",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-rini-s-ragaverse-tour-in-bangalore"
          }
@@ -931,7 +939,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 17,
+            "inventoryLevel": 12,
             "name": "Phase 1 Full Cover",
             "url": "https://www.skillboxes.com/events/ticket/one-love-bengaluru-mismatched-edition"
          },
@@ -979,7 +987,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 45,
+            "inventoryLevel": 38,
             "name": "Saras Co. × OTJF presents Alexander Flood - EARLY BIRD",
             "url": "https://www.skillboxes.com/events/ticket/saras-co-otjf-present-alexander-flood-live-in-bangalore"
          }
@@ -1029,57 +1037,6 @@
       ],
       "startDate": "2026-01-24T19:00:00",
       "url": "https://www.skillboxes.com/events/saturday-club-nocturno-at-skyee-ub-city"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "8 Hours of Non-Stop Bass Music - From BREAKBEAT to ELECTRO to DNB to UKG and great vibes!\r\n\r\nFeaturing:\r\n\r\nDEGS (HOSPITAL RECORDS | UK)\r\n\r\nJIVI2MEBABY (DAYTIMERS | DE)\r\n\r\nTHE UNTITLED ONE\r\n\r\nEBITDA\r\n\r\n",
-      "endDate": "2026-01-18T00:30:00",
-      "identifier": "com.skillboxes.32845",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aXA1VVdoSWl3VUswV09CbnhOSlpHdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1768249579oUd6wUolfP0F7moL.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "118, 80 Feet Rd, Near PC Chandra jewellers",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9355492",
-            "longitude": "77.6141518"
-         },
-         "name": "Koramangala Social"
-      },
-      "name": "DnBIndia & Friends ft. DEGS (UK), JIVI2MEBABY (DE), THE UNTITLED ONE & More  [8 Hours of Bass Music]",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "• THIS TICKET ALLOWS ENTRY TO ONE FEMALE. • COVER CHARGES APPLICABLE POST 6 PM.\n",
-            "inventoryLevel": 20,
-            "name": "Girls [Final Phase]",
-            "url": "https://www.skillboxes.com/events/ticket/dnbindia-friends-ft-degs-uk-jivi2mebaby-de-the-untitled-one-more-8-hours-of-bass-music"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "• THIS TICKET ALLOWS ENTRY TO ONE MALE. • COVER CHARGES APPLICABLE POST 6 PM.\n",
-            "inventoryLevel": 20,
-            "name": "Stags [Final Phase]",
-            "url": "https://www.skillboxes.com/events/ticket/dnbindia-friends-ft-degs-uk-jivi2mebaby-de-the-untitled-one-more-8-hours-of-bass-music"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "• THIS TICKET ALLOWS ENTRY TO ONE COUPLE (Binary/Non-Binary) • COVER CHARGES APPLICABLE POST 6 PM.\n",
-            "inventoryLevel": 20,
-            "name": "Couple [Final Phase]",
-            "url": "https://www.skillboxes.com/events/ticket/dnbindia-friends-ft-degs-uk-jivi2mebaby-de-the-untitled-one-more-8-hours-of-bass-music"
-         }
-      ],
-      "startDate": "2026-01-17T17:00:00",
-      "url": "https://www.skillboxes.com/events/dnbindia-friends-ft-degs-uk-jivi2mebaby-de-the-untitled-one-more-8-hours-of-bass-music"
    },
    {
       "@context": "https://schema.org",
@@ -1318,7 +1275,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory INR 1500 cover applicable at the gates\n",
-            "inventoryLevel": 87,
+            "inventoryLevel": 86,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/subvolt-x-underhouse-presents-cltx-and-more"
          },
@@ -1979,7 +1936,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 87,
+            "inventoryLevel": 82,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/ranj-cliff-stevie-arshaq-malik"
          }
@@ -2047,7 +2004,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 580,
+            "inventoryLevel": 579,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/open-mic-social-tuesday"
          }
@@ -2081,7 +2038,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 536,
+            "inventoryLevel": 525,
             "name": "Free Entry with RSVP",
             "url": "https://www.skillboxes.com/events/ticket/goa-sunsplash-after-party"
          }
@@ -2115,7 +2072,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 83,
+            "inventoryLevel": 76,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/all-access-wednesdays-indo-soul-by-kartik-iyer-shubham-roy"
          }
@@ -2217,7 +2174,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Day pass access || In time: 8AM || Out time : 11PM || Inclusions: Unlimited access to all workshops (wellness, arts, sustainability & more) || Entry to all music performances across the stages || Valid only for 18th January 2026\n",
-            "inventoryLevel": 957,
+            "inventoryLevel": 929,
             "name": "Day 1 (18th January) Pass",
             "url": "https://www.skillboxes.com/events/ticket/bloom-in-green-festival-day-pass-18th-january-2"
          }
@@ -2360,7 +2317,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Inclusions: Unlimited access to all workshops (wellness, arts, sustainability & more) Entry to all music performances across stages Valid for 17th -19th January 2026\nNotes: You need to have a camping/villa pass to access camping area.",
-            "inventoryLevel": 908,
+            "inventoryLevel": 895,
             "name": "Phase 2 - Festival Weekend Pass",
             "url": "https://www.skillboxes.com/events/ticket/bloom-in-green-festival-pass-2026-Weekend-pass"
          },
@@ -2779,7 +2736,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General Access | Allows one individual\n",
-            "inventoryLevel": 66,
+            "inventoryLevel": 61,
             "name": "Phase 1 | GA - Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/behemoth-live-in-bangalore-chant-of-the-eastern-lands-tour-2026"
          },
