@@ -360,7 +360,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 4,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -455,7 +455,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 56,
+    "remainingAttendeeCapacity": 54,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -540,57 +540,6 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0BB95ED5E3AD4417934567675D48B701_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2D983BCE56E746AABBF7BC2E7152E744_converted_webp.webp"
     ],
-    "startDate": "2026-01-20T19:30:00+05:30",
-    "endDate": "2026-01-20T21:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Eterna, 3rd Floor, 100 Feet Rd, KHB Colony, Industrial Area, Properties,#9, Koramangala, Bengaluru, Karnataka 560095, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJTRYkNwAVrjsRLLwecQQuhog",
-      "latitude": "12.93555660000000000000",
-      "longitude": "77.61528640000002000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 9,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "500.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "away center",
-      "description": "an elevated wellness-centric coworking space that doubles up as a community center with carefully curated events.",
-      "url": "https://urbanaut.app/partner/awaytobe",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0799E2FB2BE403D8564DD129694C6A3_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-91471-04259"
-      }
-    },
-    "url": "https://urbanaut.app/spot/breatheinbeatout#2026-01-20T1930",
-    "keywords": [
-      "Responsible",
-      "Wellness",
-      "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "a way to move: Breathe In, Beat Out",
-    "description": "a way to moveone of our leading IPs, an attempt to lend our space for communities to gather & meet like-minded people of their own interests & inclinations.Lisha Sinha & Shivhari bring you for the first time at Away Center -Breathe In, Beat OutWhether you're new to a movement practice, have just been meaning to be more regular, are looking for a break from the pain of your upcoming Monday meetings or just looking to move your body - this one is for you!at Breathe In, Beat Out, we encourage:no judgementno prior yoga experience necessarya deep joy from staying present in movementto find a community to be a part ofCome only with the intention to move!Lisha & Shiv will handle the rest!-----------------------------------------about the organiserLisha & Shivhari have been long time friends whose circles are overlapped many-a-time over the years. But rarely has this meant this exact fitting of working together.They bring to you an immersive sound conjuring experience matched with Lisha's movement practice to get your body present & moving & limber.Find us every Tuesday heading away into our movement with them.-----------------------------------------come away with us!a gathering of music, togetherness, movement & a whole lot of warmth!Date: 8th, 13th, 20th and 27th JanuaryLocation: away center, koramangala",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/867C3917FF7F40EEB34AF9E669881C29_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/51B256D82BC84ECC96C51EE447CA4033_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0BB95ED5E3AD4417934567675D48B701_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/2D983BCE56E746AABBF7BC2E7152E744_converted_webp.webp"
-    ],
     "startDate": "2026-01-27T19:30:00+05:30",
     "endDate": "2026-01-27T21:00:00+05:30",
     "location": {
@@ -623,7 +572,7 @@
         "telephone": "+91-91471-04259"
       }
     },
-    "url": "https://urbanaut.app/spot/breatheinbeatout#2026-01-27T1930",
+    "url": "https://urbanaut.app/spot/breatheinbeatout",
     "keywords": [
       "Responsible",
       "Wellness",
@@ -948,7 +897,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 66,
+    "remainingAttendeeCapacity": 62,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -972,58 +921,6 @@
       "Live GIG",
       "Music",
       "Premium",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Serious Slice",
-    "description": "Welcome to Naples. Well, almost. At Serious Slice, we take our Napoli roots very seriously. Every dish, every process is driven by a deep obsession with Neapolitan pizza and the streets that shaped it, where time, fire, and simplicity do the heavy lifting.Our dough ferments for 72 hours before it ever meets the flame, creating crusts that are light, airy, and blistered just the way Napoli intended. The tomatoes are always San Marzano, bright and balanced. The mozzarella melts soft and gentle. Every pizza carries the soul of a city that takes its food personally.Whether you swear by the OG Margherita or chase bolder flavours, the craft always remains the constant.At our flagship on Cunningham Road, we\u2019ve kept things honest and unfussy. Walk through the blue doors and you enter a warm, intimate space \u2014 mosaic art on the walls with quiet nods to Naples, and the crackle of fire you hear instantly from our open kitchen. No backstage. Just dough, flame, and movement.With just 40 seats and an open kitchen, Serious Slice is intimate, warm, and always led by the food and the craft.Weekends are seriously special: Every weekend, we roll out two limited-edition pizzas that don\u2019t stick around for long. Tartufo-E-Fungi \u2013 with button mushrooms, capers, pecorino cheese, and a heady drizzle of truffle oil \u2014 earthy, bold, and seriously indulgent. Napoli Salsiccia \u2013 with Italian sausage, fresh mozzarella, onion, red paprika, and button mushrooms \u2014 smoky, spicy, and unapologetically Napoli. Available only on weekends, and when they\u2019re gone, they\u2019re gone.We\u2019re open every day from 12 PM to 11 PM \u2014 perfect for lazy lunches, late dinners, and everything in between. We also roll out frequent off-menu pizza and panuozzo drops \u2014 one-day-only creations that appear without warning and disappear just as fast, in limited quantities every time. Follow us so you never miss our flavour drops. We take loyalty seriously: Collect stamps on your Serious Passport and chase the flavour. Ask our staff to give you our loyalty card - to win free panuozzos and pizzas of your choosing. Please Note: We\u2019re a 40-seater, so reservations are recommended on weekends. Limited specials and collab menus are first-come, first-served. Panuozzos take a little extra time \u2014 they\u2019re worth the wait. Special events and collabs may run on timed seating.Serious Slice, Cunningham Road, Bengaluru, Karnataka.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/71F0E945FC764063A1930655AF73895D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/31CA5B299BC6474CA6FB577B6635CA7D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/159F1B4B755844C68EBBF2C6EF04560F_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/51189E5BA117456998B2239ABA1AD9B4_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6BE3D03733B04FDFAA35D24DE8135BEE_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/196F25C31D0F415B8893EA7BADA4FC10_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3E27857346E249EFA7D91A7F43539EF4_converted_webp.webp"
-    ],
-    "startDate": "2026-01-20T12:00:00+05:30",
-    "endDate": "2026-01-20T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "HM Geneva House, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJYxyMYioXrjsRUWZk01QL4JU",
-      "latitude": "12.98847950000000000000",
-      "longitude": "77.59406820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 40,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "525.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Serious Slice",
-      "description": null,
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/6E8DFF638D8749FC911A188133E98F1A_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-80500-36475"
-      }
-    },
-    "url": "https://urbanaut.app/spot/serious-slice#2026-01-20T1200",
-    "keywords": [
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -4829,7 +4726,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 600,
-    "remainingAttendeeCapacity": 468,
+    "remainingAttendeeCapacity": 436,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -5220,7 +5117,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 58,
+    "remainingAttendeeCapacity": 57,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5414,7 +5311,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 54,
+    "remainingAttendeeCapacity": 50,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -5560,7 +5457,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 35,
-    "remainingAttendeeCapacity": 33,
+    "remainingAttendeeCapacity": 31,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5891,7 +5788,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 24,
-    "remainingAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 23,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -5993,7 +5890,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 250,
-    "remainingAttendeeCapacity": 127,
+    "remainingAttendeeCapacity": 113,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -6148,7 +6045,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -6209,7 +6106,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -6259,7 +6156,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 13,
+    "remainingAttendeeCapacity": 10,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -6404,7 +6301,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 6,
-    "remainingAttendeeCapacity": 3,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -6555,7 +6452,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 70,
+    "remainingAttendeeCapacity": 54,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -6700,7 +6597,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 38,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -6800,7 +6697,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 37,
+    "remainingAttendeeCapacity": 36,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -6938,7 +6835,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 25,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -7179,7 +7076,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -7305,52 +7202,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Faust - TPCC Bangalore",
-    "description": "The demon Mephisto wagers dominion over Earth with an archangel. He beguiles an old alchemist into selling his soul to him, leading a despairing Faust into a downward spiral.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C421CB1A39694B3B8736D316AADA1F6E_converted_webp.webp"
-    ],
-    "startDate": "2026-01-20T19:45:00+05:30",
-    "endDate": "2026-01-20T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJlTT_mTIXrjsRqJMi2p-2wc8",
-      "latitude": "12.99677590000000000000",
-      "longitude": "77.61986830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "375.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Parallel Cinema Club",
-      "description": null,
-      "url": "https://urbanaut.app/partner/tpcc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98860-01991"
-      }
-    },
-    "url": "https://urbanaut.app/spot/copy-of-the-cabinet-of-dr-caligari-tpcc-bangalore",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Pandora's Box - TPCC Bangalore",
     "description": "Lulu, a fiery yet sensual showgirl, inspires lust around all those who surround her. With her eroticism, Lulu resorts to prostitution causing havoc and violence around her.",
     "image": [
@@ -7369,7 +7220,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 29,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -7582,6 +7433,109 @@
       "Leisure",
       "Premium",
       "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Sound Healing & Breathwork",
+    "description": "Ease into the weekend with a deeply restorative Sound Healing & Breathwork session designed to calm the nervous system and release stored tension. Guided breathwork helps you slow down, deepen awareness, and reconnect with your natural rhythm, gently preparing the body and mind to receive rest.  As you relax, healing sound vibrations wash over you\u2014supporting emotional release, mental clarity, and deep relaxation. This immersive experience allows you to let go, reset, and restore balance, leaving you feeling grounded, lighter, and profoundly at ease as you move into the weekend. \u2728\ud83c\udfb6",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C8C830CF61B24697971A6EFB4D803D85_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9EE64E94FD8F47F281F304E5EF1E361C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/023301DDBC6C4222B850AA90BF2389D3_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C9B9D8B761DC40F8B59A570309CD2424_converted_webp.webp"
+    ],
+    "startDate": "2026-01-24T16:30:00+05:30",
+    "endDate": "2026-01-24T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "169, 9th Cross Rd, Binnamangala, Stage 1, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJNQlbRwAXrjsRK1-aZHeM9oQ",
+      "latitude": "12.98064490000000000000",
+      "longitude": "77.63900629999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 12,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "1500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Studio Oura",
+      "description": "Studio OURA is a integrated fitness & wellness space in Bangalore offering mindful movement, soulful rituals, nutrition, and community \u2014 inspired by the five elements of balance",
+      "url": "https://urbanaut.app/partner/matpilates",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/3CAB6A0007C74CDFBB19C4BF8FDADAD6_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63813-05995"
+      }
+    },
+    "url": "https://urbanaut.app/spot/copy-of-crochet-sip-slow-down-make-your-toy-workshop",
+    "keywords": [
+      "Music",
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "PoV #32: Inside the Making of Bengaluru FC",
+    "description": "Inside the Making of India\u2019s BENGALURU FC: The Inner Workings of Indian Football\u2019s Most Successful Club Over The Last 12 Years (On The Pitch & Outside Of It)What does it take to make people care about a sport that was never on most people\u2019s minds? A sport that became the foreground of a city\u2019s life?The answer is not just in the wins, money, or the players.In a cricket-first country, building a football club is a cultural challenge more than being a sporting challenge. Before trophies come belief. Before belief comes story. And before story comes a careful, often invisible, act of building trust, identity, and community.This Pint of View lecture goes inside the making of Bengaluru FC, tracing how content, storytelling, and culture helped build not just a team, but one of Indian sport\u2019s most passionate fanbases. It is a story of what happens off the pitch long before results start showing on it.Drawing from the club\u2019s twelve-year journey, the talk follows decisions that rarely make headlines: how a brand voice was shaped, how fans were treated as stakeholders rather than consumers, how community preceded scale, and how belief was built season by season, sometimes in spite of results.Along the way, we meet a cast rarely framed as protagonists in Indian sport: discarded players, first-time fans, staff working in obscurity, and people building culture without precedent. Together, they script one of Indian football\u2019s most improbable fairytales.This is not just a talk about football.It\u2019s about how meaning is manufactured, how loyalty is earned, and how love for a club (better still a culture) is built from scratch.Who Must Attend?ISL football fans, people curious about how clubs become communities and teams become symbols, and anyone interested in the behind-the-scenes stories Kunaal hasn\u2019t shared publicly before.SpeakerKunaal Majgaonkar spent twelve years as Head of Content and Media at JSW Sports, where he played a central role in building some of Indian sport\u2019s most recognisable modern brands. Between 2013 and 2025, he led content, communications, and fan-base building for Bengaluru FC, the Inspire Institute of Sport, Haryana Steelers, and Soorma Hockey Club, often from the ground up.He worked closely with Sunil Chhetri and Neeraj Chopra on shaping content and public narratives that allowed Indian sport to be seen and felt beyond match day results.Before this, Kunaal was a Senior Sports Correspondent with The Times of India from 2005 to 2013. During this time, he reported extensively from the grassroots and specialised in football, developing a deep understanding of how sport lives in everyday communities across the country.Kunaal recently started a small community called Pitchside Recos, a space where he recommends some of the best writing on sport.Event detailsDate: Sunday, 25 January 2026Time: 12 PM \u2013 2 PMVenue: Fandom at Gilly\u2019s Redefined, KoramangalaSee you there over drinks (sober or beer) \ud83c\udf7a",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B72782D62202419091EE7BADAFDED493_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1DC09A5A4AD54C68AF56263262BE0466_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AA8C35D6F30B4836AA2DE654C93E8EA7_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B6CA66F325DF4268BBD08D869584BE6E_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/783E28EA211F4395BE3540C554F01CFE_converted_webp.webp"
+    ],
+    "startDate": "2026-01-25T12:00:00+05:30",
+    "endDate": "2026-01-25T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "4th, Block 413, 100 Feet Rd, off Gillys redefined, KHB Block Koramangala, Koramangala 4-B Block, Koramangala, Bengaluru, Karnataka 560034, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJSxxGQFsUrjsRWFRn5ZCNnYI",
+      "latitude": "12.93334100000000000000",
+      "longitude": "77.62364800000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 150,
+    "remainingAttendeeCapacity": 150,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "899.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Pint of View, Bengaluru",
+      "description": "Welcome to Pint of View \u2013 Bangalore's first-ever community where cutting-edge science meets craft beer. Inspired by the successful Lectures on Tap movement in the US, Pint of View is bringing this revolutionary format to India for the very first time.",
+      "url": "https://urbanaut.app/partner/pintofview",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CAD0DF9888C64EC8BBE31A279636551B_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98993-11067"
+      }
+    },
+    "url": "https://urbanaut.app/spot/pov-lecture-32-inside-the-making-of-bengaluru-fc",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "Art & culture",
       "URBANAUT"
     ]
   }
