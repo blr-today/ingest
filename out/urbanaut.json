@@ -6570,52 +6570,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "O Sangue - TPCC Bangalore",
-    "description": "A teenage boy and his brother are abandoned by their father and left to care for themselves at a very early age.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3F4FFC0A96814EC0B00D648371F42EA9_converted_webp.webp"
-    ],
-    "startDate": "2026-01-22T19:45:00+05:30",
-    "endDate": "2026-01-22T22:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "9th B Main Rd, LIC Colony, HAL 3rd Stage, Sector 11, New Tippasandra, Bengaluru, Karnataka 560075, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=Emg5dGggQiBNYWluIFJkLCBMSUMgQ29sb255LCBIQUwgM3JkIFN0YWdlLCBTZWN0b3IgMTEsIE5ldyBUaXBwYXNhbmRyYSwgQmVuZ2FsdXJ1LCBLYXJuYXRha2EgNTYwMDc1LCBJbmRpYSIuKiwKFAoSCZXO6WoAFK47Ed4RyFWB75i0EhQKEglPItMOABSuOxHkErO6AwMS7A",
-      "latitude": "12.96845260000000000000",
-      "longitude": "77.65281760000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 19,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "300.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Parallel Cinema Club",
-      "description": null,
-      "url": "https://urbanaut.app/partner/tpcc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98860-01991"
-      }
-    },
-    "url": "https://urbanaut.app/spot/o-sangue-tpcc-bangalore",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Ajantrik - TPCC Bangalore",
     "description": "Bimal's sole companion is a battered taxi to which he has a deep attachment. When he meets a young woman betrayed by the man she was to marry, it prompts him to question his life.",
     "image": [
@@ -8160,6 +8114,55 @@
       "Leisure",
       "Live GIG",
       "Active",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Kombucha Tasting & Flavouring Experience",
+    "description": "Join us for a\u00a090-minute immersive kombucha tasting workshop\u00a0where you\u2019ll sip, learn, and create. Whether you're kombucha-curious or a long-time lover, this interactive experience is designed to introduce you to the art of fermentation in a relaxed, welcoming space.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/184BC93C3E54473B923721C5D1DEE9FD_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1BFB1B5979E1452F885FF14C5A9A545B_converted_webp.webp"
+    ],
+    "startDate": "2026-01-31T18:00:00+05:30",
+    "endDate": "2026-01-31T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "479, 2nd Main Rd, 2nd Stage, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJOfm_QhsXrjsRwWMm1FBCWsI",
+      "latitude": "12.98132990000000000000",
+      "longitude": "77.63625820000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "999.46",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mountain Bee Kombucha",
+      "description": "Founded in 2018, Mountain Bee Kombucha combines gut love with craft brewing. We are a kombucha brewery specialising in high-quality, small-batch and handcrafted kombucha",
+      "url": "https://urbanaut.app/partner/mountainbeekombucha",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B77DEF40DC664D7D8CBCC105082F3179_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-87927-43820"
+      }
+    },
+    "url": "https://urbanaut.app/spot/kombucha-tasting-flavouring-experience",
+    "keywords": [
+      "Leisure",
+      "Wellness",
+      "Workshop",
       "URBANAUT"
     ]
   }
