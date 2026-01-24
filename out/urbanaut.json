@@ -443,6 +443,52 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "The Bougainvillea Circle",
+    "description": "\"Sawubona\" a Zulu Greeting meaning, \"We See You\". At Bougainvillea Circles you are offered a space to be heard, seen, welcomed as you are. A non-judgmental, safe, trusted space where you are free to be all that you want to be. Nothing More, Nothing less. No Restrictions, no judgements, just an intimate group of people looking for a space to be real. A space where we`re all less alone for a little while. Where we are seen, how we want to be seen. Conversations, Connections, Community of Compassion. All that makes the world go round, after Love of course!Remember - Sawubona: We See You.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A86B0BCCF6B54936A4C95C3B4923F201_converted_webp.webp"
+    ],
+    "startDate": "2026-02-07T16:00:00+05:30",
+    "endDate": "2026-02-07T17:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 15,
+    "remainingAttendeeCapacity": 15,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "300.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/the-bougainvillea-circle",
+    "keywords": [
+      "Wellness",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Pitch and Pair: Pitch your single friend",
     "description": "Got a single friend who\u2019s a total catch? \ud83d\udc40This is your chance to be the ultimate wing-person. Create a fun 3\u20135 minute slide deck hyping them up - their quirks, charm, and best qualities - and pitch them to a room full of singles. (Age ~21-35 yrs)But Pitch & Pair isn\u2019t just about the presentations \u2014 it\u2019s a full evening designed to spark real connections:\ud83c\udfb2 Connection Hunt: A playful way to turn strangers into familiar faces.\ud83c\udfa4 Friend Pitches: Hilarious, heartfelt presentations that will have the room cheering.\ud83d\udc8c Secret Match Reveal: Where the real chaos \u2014 and the magic \u2014 begins. All revealed at the end!\ud83c\udf78 Single-Mingle Party: Stay back for drinks and conversations that dating apps can\u2019t create.Whether you\u2019re pitching a friend, cheering them on, or just there to meet new people \u2014 this is your night to laugh, mingle, and maybe leave with a story worth telling.",
@@ -5815,52 +5861,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Against The Gaze: II - TPCC Bangalore",
-    "description": "A curational segment built around Laura Mulvey's idea of the 'female gaze'. This week, we look at the influence of war on identity of the women; and in this case, war with states, egos, and finally genders!",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C141F855CD3142BAA5A8BD857FF8F2C6_converted_webp.webp"
-    ],
-    "startDate": "2026-01-24T14:00:00+05:30",
-    "endDate": "2026-01-24T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJlTT_mTIXrjsRqJMi2p-2wc8",
-      "latitude": "12.99677590000000000000",
-      "longitude": "77.61986830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 19,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "375.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Parallel Cinema Club",
-      "description": null,
-      "url": "https://urbanaut.app/partner/tpcc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98860-01991"
-      }
-    },
-    "url": "https://urbanaut.app/spot/against-the-gaze-ii-tpcc-bangalore",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "HEART FIRST",
     "description": "Healing hearts deserve better dates.Heart First is a specially curated singles mixer for people who date with awareness, emotional honesty, and intention.This is not speed dating.This is not awkward small talk.This is for people who\u2019ve felt heartbreak, learnt from it, and want to date more consciously \u2014 with clarity.Through reflective, guided activities, fun games, and thoughtful conversations, you\u2019ll have space to notice how you show up in dating, reflect on what you\u2019re looking for right now, and connect with others in a way that feels natural and unforced.Come as you are.Leave with a little more clarity, comfort, and connection.",
@@ -6099,54 +6099,6 @@
       "Local",
       "Wellness",
       "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "KAAVU KARNIVAL",
-    "description": "\ufeffKaavu Karnival is where the spirit of a classic carnival meets Kaavu\u2019s vibrant vibe.Step into a buzzing space filled with curated flea stalls, indie brands, games, music, and experiences for all ages. From discovering homegrown labels and handcrafted finds to enjoying interactive activities and playful moments, the Karnival promises a day packed with colour, energy, and community.Whether you\u2019re here to shop, play, or simply soak in the atmosphere, Kaavu Karnival is your go-to weekend escape\u2014bringing together creativity, culture, and celebration under one lively roof.Come for the vibe. Stay for the experience. ",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B50BBF8D53D44AD0AFB90492B6804A62_converted_webp.webp"
-    ],
-    "startDate": "2026-01-24T12:00:00+05:30",
-    "endDate": "2026-01-24T23:55:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Pattandur Agrahara Village Main Rd, Siddapura, Brookefield, Bengaluru, Karnataka 560066, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJSaUs_LYTrjsRiIU1zCUr4rs",
-      "latitude": "12.96131520000000000000",
-      "longitude": "77.73248389999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 400,
-    "remainingAttendeeCapacity": 400,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "KAAVU",
-      "description": "A 750 seater restaurant, bar, taproom & cafe, on an acre of lush greenery in Whitefield, where nature, flavours & community come together.",
-      "url": "https://urbanaut.app/partner/thekaavu",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A714FC79492C47448CC6A0C1679C405C_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-63624-97998"
-      }
-    },
-    "url": "https://urbanaut.app/spot/kaavu-karnival",
-    "keywords": [
-      "Music",
-      "Pop-up Event",
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -6831,54 +6783,6 @@
       "Wellness",
       "Workshop",
       "Active",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Sounds Like Love by The Counterpoint Crew",
-    "description": "The Counterpoint Crew presents Sounds like LoveThis Valentine\u2019s Day, step into a screen-free musical experience for an hour at Underline Centre, Indiranagar where 20 voices bring an unplugged concert with nothing but human voices.Across Kannada, Tamil, Hindi, Malayalam, Telugu, and English, familiar tunes are presented as an unique listening experience, where you sit back, take it in and let the sound move you.Designed as an intimate Valentine\u2019s evening, it works whether you come solo, with a date, or with friends\u2014no participation pressure.Format: Seated, immersive a cappella concert.Timing:Doors open: 5:00 PMShow: 5:30 PM \u2013 6:30 PMCode of Conduct:No smoking.No alcohol on the premises.Please keep phones on silentFood:A food stall will be open before and after the show for purchases. The stall will remain closed during the performance to keep the room quiet and focused.About the Crew:The Counterpoint Crew is an 20-member vocal ensemble based in Bangalore that blends classical techniques with contemporary repertoire. Born from a love of rich harmonies and collaborative arrangement, the Crew presents vocal textures that move fluidly between contemporary melodies, film music and western choral numbers. The crew contributed a brief background score to the acclaimed Kantara: Chapter 1. They have also collaborated with independent songwriters and composers along the way. The crew is committed to bringing choral music to a wider audience by performing relatable numbers in their set list.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/78099DCEF884463FA8227A0C42976775_converted_webp.webp"
-    ],
-    "startDate": "2026-02-14T17:30:00+05:30",
-    "endDate": "2026-02-14T18:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, above Blue Tokai, #24 3rd A Cross, 1st Main Rd, Defence Colony, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ2bhjgs4VrjsRqOHTZJjpiRU",
-      "latitude": "12.96722140000000000000",
-      "longitude": "77.63669820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "399.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Underline Center",
-      "description": "",
-      "url": "https://urbanaut.app/partner/underlinecenter",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/69E820415CFC45B3943A3264334C02F4_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-97905-32594"
-      }
-    },
-    "url": "https://urbanaut.app/spot/sounds-like-love-by-the-counterpoint-crew-10526",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
-      "Music",
       "URBANAUT"
     ]
   },
@@ -7718,6 +7622,51 @@
       "Responsible",
       "Wellness",
       "Festival",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Eight twirls to love: Speed Dating",
+    "description": "Carbon Dating is India\u2019s first IRL Speed Dating App. Instead of endless swiping only to match with 1 person and then be ghosted or cat-fished, Carbon Dating brings people together at structured in-person micro-dating experiences. You meet first and Vibe check before you profile check. Always hosted in safe and Public Cafes and Restaurants.Our slogan is \"One Carbon to Another\" portraying how significantly we view connections and in this case how our entire ethos of Carbon Dating is focusing on Dating being a real life experience between humans (another mere carbon forms) and how we want to redirect people way from swiping culture and AI generated profiles. We are asking people to bring their authentic human self and sit across a table and talk to another human. That is what Carbon Dating is about.Ticket Price - \u20b9299 - Sign Up bonus of 200 diamonds makes the ticket price \u20b999Age Group - 18 to 24 || Men and Women || Straight || Limited seats (Check on App)Download Carbon Dating from the App Store or Play Store - www.carbondating.social/downloadapp",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/539B1AF70ED647D4B2F2590FF55B4ED1_converted_webp.webp"
+    ],
+    "startDate": "2026-01-29T18:00:00+05:30",
+    "endDate": "2026-01-29T20:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 60,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "299.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/eight-twirls-to-love-speed-dating",
+    "keywords": [
       "URBANAUT"
     ]
   }
