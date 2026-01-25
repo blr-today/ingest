@@ -7232,6 +7232,54 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "OFF HOURS",
+    "description": "Unwind your weekend with an evening of soulful melodies and vibrant energy as Off Hours takes the stage at URU Brewpark, J.P Nagar. From feel-good grooves to crowd-pleasing favourites, expect a live performance that\u2019s warm, engaging, and perfect for a Saturday night out.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/095F8BCFD2E4495492BBE1FFF9B346CA_converted_webp.webp"
+    ],
+    "startDate": "2026-01-31T19:45:00+05:30",
+    "endDate": "2026-01-31T21:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Maratt Estate, Bannerghatta Rd, Dollar Layout, Phase 4, J. P. Nagar, Bengaluru, Karnataka 560078, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJE0YrafgVrjsR-8hX0ObeNZU",
+      "latitude": "12.90578260000000000000",
+      "longitude": "77.60116160000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 100,
+    "typicalAgeRange": "2-",
+    "offers": {
+      "@type": "Offer",
+      "price": "399.08",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "KAAVU",
+      "description": "A 750 seater restaurant, bar, taproom & cafe, on an acre of lush greenery in Whitefield, where nature, flavours & community come together.",
+      "url": "https://urbanaut.app/partner/thekaavu",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A714FC79492C47448CC6A0C1679C405C_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63624-97998"
+      }
+    },
+    "url": "https://urbanaut.app/spot/off-hours",
+    "keywords": [
+      "Music",
+      "Pop-up Event",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "The Sleep Reset Workshop",
     "description": "You\u2019re exhausted, but your mind won\u2019t switch off.You lie down, but your body stays alert.You sleep, but you don\u2019t wake up rested.This isn\u2019t a lack of discipline.This is a dysregulated nervous system.Join our sleep reset workshop to experience nervous-system reset for people who are tired of not being able to sleep. A science-backed aromatherapy, breathwork, and nervous-system regulation\u2014 practiced in your own bedroom, in real time.\u200bNo generic sleep tips.No forced meditation.No tracking, pills, or pressure.",
@@ -7363,7 +7411,7 @@
       "@type": "Organization",
       "name": "The Heart Break Commune",
       "description": "An emotional wellness brand curating community experiences and merchandise",
-      "url": null,
+      "url": "https://urbanaut.app/partner/None",
       "image": "https://d10y46cwh6y6x1.cloudfront.netimages/10384AE97C2F49AC9B75B0DD07A63A7C_converted_webp.webp",
       "contactPoint": {
         "@type": "ContactPoint",
@@ -7477,7 +7525,7 @@
     "name": "Pint of View (Lecture 34): Ten Million Fireflies",
     "description": "Ten Million Fireflies: What the night reveals when we learn to look: finding wonder, purpose, and policy in the darkMost of us here know this feeling. That sudden urge to leave the city behind. To drive out late at night, or take a trip to a remote village or up into the hills. Just to look up and catch a glimpse of a meteor shower. To see the galaxy with our own eyes. To sit in the dark long enough for stars to appear. And sometimes, if we\u2019re lucky, to spot fireflies flickering in the distance.But then we return. To brighter streets, whiter lights, glowing windows. And slowly, without quite noticing, the night becomes something flatter. Emptier. Easier to ignore.A few years ago, while searching for stars near his home in India, Sriram noticed the same disappearance we often do. The stars were harder to find. But something else caught his attention instead. Large populations of fireflies, glowing steadily in the dark.The night, it turns out, is Sriram\u2019s natural habitat. Under skies full of stars and forests alive with fireflies, he found not just wonder, but purpose. An engineer by training, working at Google, he made an unlikely choice. He left the job and move towards the night.What makes someone do that? How can looking up at the sky, or down at a firefly, redirect an entire life? And can stories, told well enough, change how we light our cities, protect our forests, and shape public policy?In this Pint of View lecture, Sriram will take us into the jungles after sunset. Into rare firefly behaviours, fragile nocturnal habitats, and the unseen costs of artificial light. He will share how astronomy, photography, and storytelling became tools for conservation, and how paying attention to the night can still change everything.About the Speaker:Sriram Murali has a deep passion for astronomy, fireflies, and the night. He tells stories that emotionally connect people to the wonders of the night and to the ill effects of losing it. His films on starry skies and light pollution have inspired many to look up, take action, influence policymakers, and champion dark-sky movements.Through his work on fireflies in the Western Ghats, Sriram has influenced state governments to address light pollution in India. He is a National Geographic Explorer and an IUCN SSC expert on fireflies and light pollution. Sriram and his team at Wild and Dark Earth (an NGO) collaborate with scientific institutions, government bodies, and the lighting industry to restore natural darkness for wildlife.Event detailsDate: Sunday, 1 February 2026Time: 6 PM \u2013 8 PMVenue: 1st Floor, Atta Galatta, IndiranagarWhat your ticket includes1 complimentary sober beverage (soda, kombucha or gingerale from Local Ferment Co.)",
     "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/11C6B80E902246ECAC1DA1F4601D7AFD_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/640FD50409CC409DAF29CBE910693D32_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1DC09A5A4AD54C68AF56263262BE0466_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/AA8C35D6F30B4836AA2DE654C93E8EA7_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B6CA66F325DF4268BBD08D869584BE6E_converted_webp.webp",

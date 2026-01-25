@@ -56,6 +56,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Rainbow Bridge Artist Sessions presentsApeksha PaiApeksha Pai is a singer-songwriter who thinks a little too much—and writes about it. Trained in Carnatic music since the age of four, her grounding in classical music ",
+      "endDate": "2026-02-10T21:00:00",
+      "identifier": "com.skillboxes.33279",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MVRyeFJJWVk3RXdKbnVMR2JRSlcrUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769320327p4w4Gt9164fHWsbT.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Live Event"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "140, Gangadhar Chetty Rd",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.978487",
+            "longitude": "77.6186879"
+         },
+         "name": "Rainbow Bridge"
+      },
+      "name": "Artist Sessions with Apeksha Pai",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "Rainbow Bridge Presents Artist Session with Apeksha Pai",
+            "url": "https://www.skillboxes.com/events/ticket/rainbow-bridge-artist-sessions-5"
+         }
+      ],
+      "startDate": "2026-02-10T18:30:00",
+      "url": "https://www.skillboxes.com/events/rainbow-bridge-artist-sessions-5"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Get ready for a night of pure sonic fire as Answer takes over the decks at Kitty Ko, The Lalit Ashok, Bangalore. Known for their powerful blend of melodic techno and driving house grooves, Answer promises a high-o",
       "endDate": "2026-01-31T01:30:00",
       "identifier": "com.skillboxes.33270",
@@ -568,7 +602,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 88,
+            "inventoryLevel": 81,
             "name": "Live Screening Pass",
             "url": "https://www.skillboxes.com/events/ticket/manchester-united-vs-arsenal-live-screening-watson-s-indiranagar-bangalore"
          }
@@ -601,9 +635,9 @@
       "offers": [
          {
             "@type": "Offer",
-            "availability": "InStock",
+            "availability": "SoldOut",
             "description": "Please carry a valid ID\nEntry restricted to 18+ only",
-            "inventoryLevel": 5,
+            "inventoryLevel": 0,
             "name": "PASS",
             "url": "https://www.skillboxes.com/events/ticket/harij-weds-sajili-the-indian-premiere"
          }
@@ -802,7 +836,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows access to one.\nCover charges apply post 6 PM and are redeemable on food and beverages.",
-            "inventoryLevel": 36,
+            "inventoryLevel": 34,
             "name": "All-Day Flow Pass Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/before-midnight-a-no-pressure-dating-festival"
          }
@@ -945,7 +979,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 35,
+            "inventoryLevel": 30,
             "name": "Saras Co. × OTJF presents Alexander Flood - EARLY BIRD",
             "url": "https://www.skillboxes.com/events/ticket/saras-co-otjf-present-alexander-flood-live-in-bangalore"
          }
@@ -1061,7 +1095,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory INR 1500 cover applicable at the gates\n",
-            "inventoryLevel": 77,
+            "inventoryLevel": 66,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/subvolt-x-underhouse-presents-cltx-and-more"
          },
@@ -1099,16 +1133,7 @@
          "name": "Trinity Whitefield Bengaluru"
       },
       "name": "The Sorting Plate & The Chamber of Brunches",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Price of buffet brunch is INR 2000+taxes. This amount has to be paid at the hotel directly.\n",
-            "inventoryLevel": 20,
-            "name": "Buffet Brunch for 1",
-            "url": "https://www.skillboxes.com/events/ticket/the-sorting-plate-the-chamber-of-brunches"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-01-25T12:30:00",
       "url": "https://www.skillboxes.com/events/the-sorting-plate-the-chamber-of-brunches"
    },
@@ -1550,7 +1575,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 58,
+            "inventoryLevel": 50,
             "name": "Early Bird Pass",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-pacifist-simple-man-radio-rascals-of-the-first-order"
          }
@@ -1584,7 +1609,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 575,
+            "inventoryLevel": 572,
             "name": "RSVP",
             "url": "https://www.skillboxes.com/events/ticket/open-mic-social-tuesday"
          }
@@ -1659,7 +1684,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 74,
+            "inventoryLevel": 73,
             "name": "Concert ticket",
             "url": "https://www.skillboxes.com/events/ticket/rhapsody-music-beyond-borders"
          }
@@ -1794,7 +1819,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General Access | Allows one individual\n",
-            "inventoryLevel": 37,
+            "inventoryLevel": 24,
             "name": "Phase 1 | GA - Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/behemoth-live-in-bangalore-chant-of-the-eastern-lands-tour-2026"
          },
