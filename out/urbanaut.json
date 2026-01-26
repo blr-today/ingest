@@ -7176,5 +7176,53 @@
       "Art & culture",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Acoustic Night with The Fretternity at Lightroom",
+    "description": "Join us for an evening of acoustic music from the 60s, 70s & 80s - Simon & Garfunkel, Johnny Cash, Bob Dylan, Leonard Cohen and more, at 6.30pm on Friday, February 13, 2026. Please note the venue is up a flight of stairs and there is no lift available.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/71291AC7BC244F2984F90B64EDB1BED9_converted_webp.webp"
+    ],
+    "startDate": "2026-02-13T18:30:00+05:30",
+    "endDate": "2026-02-13T20:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "1, Lewis Rd, Balaji Layout, Cooke Town, Bengaluru, Karnataka 560005, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJO7OeGO8WrjsRTaKo0xZiYz8",
+      "latitude": "13.00055730000000000000",
+      "longitude": "77.62259320000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 27,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Lightroom Bookstore",
+      "description": "An independent children's bookstore in Cooke Town, with used books as well as a selection of books for adults",
+      "url": "https://urbanaut.app/partner/lightroombookstore",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C32771CAFA9B4F23954325FACB75C32C_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-73385-46262"
+      }
+    },
+    "url": "https://urbanaut.app/spot/acoustic-night-with-the-fretternity",
+    "keywords": [
+      "Live GIG",
+      "Local",
+      "Music",
+      "URBANAUT"
+    ]
   }
 ]
