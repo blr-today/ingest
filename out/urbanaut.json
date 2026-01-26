@@ -7224,5 +7224,55 @@
       "Music",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Exuberant Life Retreat - Preview",
+    "description": "Our mind and our body are deeply connected to each other. What the mind forgets the body stores as memory. Infact every single emotion we have ever felt is stored in our nervous system. The nervous system has only one main goal - to scan for safety and danger to keep us safe.\u00a0What the body senses are a danger makes the nervous system develop a coping mechanism. While this protects us from the initial danger/threat, we forget the danger has passed\u00a0 and continue to behave/react the same way long after the threat has eased. This is the reason we keep repeating behaviours and thoughts even though we know it isn't helping.\u00a0At this workshop you will understand the cause and effect behind this. And you will experience a powerful healing modality through your own breath.\u00a0To release stored trauma or suppressed emotions using your own breath. ",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/344D8C0DC1D1421297EF65CE6E793CE8_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/24B6823BBC78480AB187439B412E4D8C_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E2203DE8D47E4B70B1763FFC54C5B20F_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1454AA602C28470AA4E8F1097CABBC40_converted_webp.webp"
+    ],
+    "startDate": "2026-01-31T10:00:00+05:30",
+    "endDate": "2026-01-31T14:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "7, Krishna Rd, Basavanagudi, Bengaluru, Karnataka 560004, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJQVSwjIgVrjsRClx3DvaKh3I",
+      "latitude": "12.94541390000000000000",
+      "longitude": "77.57541660000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 10,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mamtha Rajesh",
+      "description": "Healing made easy through nervous system reset using therapy and breathwork",
+      "url": "https://urbanaut.app/partner/exuberantliferetreatpreview",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/8474547CFF5A4BF29F581653C48AAE9F_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-84313-78406"
+      }
+    },
+    "url": "https://urbanaut.app/spot/exuberant-life-retreat-preview",
+    "keywords": [
+      "Wellness",
+      "Workshop",
+      "URBANAUT"
+    ]
   }
 ]
