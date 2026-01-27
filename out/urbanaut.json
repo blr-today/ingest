@@ -7128,5 +7128,53 @@
       "Workshop",
       "URBANAUT"
     ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Divine Delicacies: Storytelling and Menu Tasting",
+    "description": "Food is such an integral part of our lives that we cannot imagine any worship without food. Keeping this in mind, we welcome you to a unique experience where we shall serve you samples of prasadams from various temples and share stories of places of worship and the perceived food preferences of the divine. Join Aparna Jaishankar for Divine Delicacies, only at Atta Galatta.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D6BFCAE3DB0D44B2B8CF80D4FE8D5D48_converted_webp.webp"
+    ],
+    "startDate": "2026-02-08T12:30:00+05:30",
+    "endDate": "2026-02-08T14:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
+      "latitude": "12.98010900000000000000",
+      "longitude": "77.63934970000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 60,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "500.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Atta Galatta",
+      "description": null,
+      "url": "https://urbanaut.app/partner/attagalatta",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-96325-10126"
+      }
+    },
+    "url": "https://urbanaut.app/spot/divine-delicacies-storytelling-and-menu-tasting-10592",
+    "keywords": [
+      "History & heritage",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
   }
 ]
