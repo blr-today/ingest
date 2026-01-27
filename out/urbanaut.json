@@ -369,7 +369,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 99,
+    "remainingAttendeeCapacity": 98,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -415,7 +415,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 4,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -759,7 +759,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 39,
+    "remainingAttendeeCapacity": 35,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -783,58 +783,6 @@
       "Live GIG",
       "Music",
       "Premium",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Serious Slice",
-    "description": "Welcome to Naples. Well, almost. At Serious Slice, we take our Napoli roots very seriously. Every dish, every process is driven by a deep obsession with Neapolitan pizza and the streets that shaped it, where time, fire, and simplicity do the heavy lifting.Our dough ferments for 72 hours before it ever meets the flame, creating crusts that are light, airy, and blistered just the way Napoli intended. The tomatoes are always San Marzano, bright and balanced. The mozzarella melts soft and gentle. Every pizza carries the soul of a city that takes its food personally.Whether you swear by the OG Margherita or chase bolder flavours, the craft always remains the constant.At our flagship on Cunningham Road, we\u2019ve kept things honest and unfussy. Walk through the blue doors and you enter a warm, intimate space \u2014 mosaic art on the walls with quiet nods to Naples, and the crackle of fire you hear instantly from our open kitchen. No backstage. Just dough, flame, and movement.With just 40 seats and an open kitchen, Serious Slice is intimate, warm, and always led by the food and the craft.Weekends are seriously special: Every weekend, we roll out two limited-edition pizzas that don\u2019t stick around for long. Tartufo-E-Fungi \u2013 with button mushrooms, capers, pecorino cheese, and a heady drizzle of truffle oil \u2014 earthy, bold, and seriously indulgent. Napoli Salsiccia \u2013 with Italian sausage, fresh mozzarella, onion, red paprika, and button mushrooms \u2014 smoky, spicy, and unapologetically Napoli. Available only on weekends, and when they\u2019re gone, they\u2019re gone.We\u2019re open every day from 12 PM to 11 PM \u2014 perfect for lazy lunches, late dinners, and everything in between. We also roll out frequent off-menu pizza and panuozzo drops \u2014 one-day-only creations that appear without warning and disappear just as fast, in limited quantities every time. Follow us so you never miss our flavour drops. We take loyalty seriously: Collect stamps on your Serious Passport and chase the flavour. Ask our staff to give you our loyalty card - to win free panuozzos and pizzas of your choosing. Please Note: We\u2019re a 40-seater, so reservations are recommended on weekends. Limited specials and collab menus are first-come, first-served. Panuozzos take a little extra time \u2014 they\u2019re worth the wait. Special events and collabs may run on timed seating.Serious Slice, Cunningham Road, Bengaluru, Karnataka.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/71F0E945FC764063A1930655AF73895D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/31CA5B299BC6474CA6FB577B6635CA7D_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/159F1B4B755844C68EBBF2C6EF04560F_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/51189E5BA117456998B2239ABA1AD9B4_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6BE3D03733B04FDFAA35D24DE8135BEE_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/196F25C31D0F415B8893EA7BADA4FC10_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3E27857346E249EFA7D91A7F43539EF4_converted_webp.webp"
-    ],
-    "startDate": "2026-01-26T12:00:00+05:30",
-    "endDate": "2026-01-26T23:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "HM Geneva House, Vasanth Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJYxyMYioXrjsRUWZk01QL4JU",
-      "latitude": "12.98847950000000000000",
-      "longitude": "77.59406820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 40,
-    "typicalAgeRange": "2-",
-    "offers": {
-      "@type": "Offer",
-      "price": "525.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Serious Slice",
-      "description": null,
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/6E8DFF638D8749FC911A188133E98F1A_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-80500-36475"
-      }
-    },
-    "url": "https://urbanaut.app/spot/serious-slice#2026-01-26T1200",
-    "keywords": [
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -5632,7 +5580,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 25,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -5678,7 +5626,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 29,
+    "remainingAttendeeCapacity": 26,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -6070,7 +6018,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 19,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -6688,52 +6636,6 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
-    "name": "Blackout Poetry & Haiku: A Creative Workshop",
-    "description": "I am so pleased to invite interested participants to an inspiring poetry workshop led by internationally published poet and physician Dr. Vaishnavi Pusapati. Scheduled for 7th February 2026 from 2:30 PM to 3:30 PM, the event will explore the art and craft of Blackout Poetry and Haiku, inviting participants to creatively reimagine text and discover poetic expression in unexpected places. Blackout is a form of erasure and found poetry where existing text material such as newspaper clippings and journal pages are used as raw material and the phrases that stand out to a poet, are highlighted to form a new, often unrelated to the text in meaning, poem. It is a technique used to overcome writer's block as well. Haiku is a short form of Japanese poetry focused on attention and detail. In this workshop we will also explore haiku techniques such as the cut word and season word and how to edit your haiku better, through examples and worksheet exercises.Dr. Vaishnavi Pusapati is a distinguished physician-writer whose poetry and micro-fiction have appeared in numerous prestigious literary journals and anthologies around the world. Her work has been featured in publications such as Cold Moon Journal, Autumn Moon Journal, Heron\u2019s Nest Journal, Poetry Pea Journal, Haikuniverse, Under the Bash\u014d, and many others, earning recognition for its lyrical precision and contemplative depth. She is also the winner of the Beyond Words micro-fiction contest and her haiku have been anthologized in the Living Haiku Anthology and the Haiku Registry. Her haiku book, Afterlife:haikus is forthcoming from Hawakal Publishers. Her creative practice spans haiku, free verse, monostich, and other forms that illuminate the subtle moments of lived experience. Through her work, she invites readers and writers alike to engage deeply with language, memory, and the transformational possibilities of brevity.The Blackout Poetry & Haiku Workshop will provide attendees with hands-on exercises, guided techniques, and creative prompts designed to nurture individual expression and literary play. Art supplies and refreshments will be provided. Whether you are a seasoned writer or a curious beginner, the session promises to unlock new ways of seeing, connecting and writing.Age Group: 30 - 60 years",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/86B4511F191E487A9FB82B7A70D519C1_converted_webp.webp"
-    ],
-    "startDate": "2026-02-07T14:30:00+05:30",
-    "endDate": "2026-02-07T15:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
-      "latitude": "12.98010900000000000000",
-      "longitude": "77.63934970000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 2,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Atta Galatta",
-      "description": null,
-      "url": "https://urbanaut.app/partner/attagalatta",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-96325-10126"
-      }
-    },
-    "url": "https://urbanaut.app/spot/blackout-poetry-haiku-a-creative-workshop",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
     "name": "Miniature wood carving- Idam",
     "description": "The most awaited workshop is back!Hola, Psydex is bringing back the ancient forgotten craft to your city. Be a part of this unique experience and take home your miniature carvings.In today's world where all of us who live in cities have a busy and high paced lifestyle, we are constantly engrossed in the digital world and barely get time for ourselves. More than this valuable time, what's missing is a tool or a way to calm down and pause your stress and anxiety amidst this survival race. A moment to breathe consciously, a moment to love ourselves and a moment to share our little joys is what we actually need. And that's exactly what we are offering you.In this three and a half hour workshop you will not only learn about wood, 3D visualization and different techniques with the tool but also discover a way to calm your mind and reconnect with yourself and nature.This carving workshop is very beginner-friendly and suitable for all ages. It will be very interactive and engaging. Our expert, Nitish, will teach you all the basics and guide you through every step to help you achieve what you desire to carve.Who can attend the workshop?An absolute amateur wanting to try carvingAny beginner seeking to pursue a hobbyAnyone over 14 yrs of age, below that the kid must be accompanied by a parentWhat you need to bring?A fresh mind, rest assured we got you covered.",
     "image": [
@@ -7150,7 +7052,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 110,
-    "remainingAttendeeCapacity": 72,
+    "remainingAttendeeCapacity": 50,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -7174,54 +7076,6 @@
       "Leisure",
       "Food & drink",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Acoustic Night with The Fretternity at Lightroom",
-    "description": "Join us for an evening of acoustic music from the 60s, 70s & 80s - Simon & Garfunkel, Johnny Cash, Bob Dylan, Leonard Cohen and more, at 6.30pm on Friday, February 13, 2026. Please note the venue is up a flight of stairs and there is no lift available.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/71291AC7BC244F2984F90B64EDB1BED9_converted_webp.webp"
-    ],
-    "startDate": "2026-02-13T18:30:00+05:30",
-    "endDate": "2026-02-13T20:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "1, Lewis Rd, Balaji Layout, Cooke Town, Bengaluru, Karnataka 560005, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJO7OeGO8WrjsRTaKo0xZiYz8",
-      "latitude": "13.00055730000000000000",
-      "longitude": "77.62259320000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 27,
-    "typicalAgeRange": "5+",
-    "offers": {
-      "@type": "Offer",
-      "price": "250.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Lightroom Bookstore",
-      "description": "An independent children's bookstore in Cooke Town, with used books as well as a selection of books for adults",
-      "url": "https://urbanaut.app/partner/lightroombookstore",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/C32771CAFA9B4F23954325FACB75C32C_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-73385-46262"
-      }
-    },
-    "url": "https://urbanaut.app/spot/acoustic-night-with-the-fretternity",
-    "keywords": [
-      "Live GIG",
-      "Local",
-      "Music",
       "URBANAUT"
     ]
   },
