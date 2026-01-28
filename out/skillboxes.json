@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants general admission access to one individual.\n",
-            "inventoryLevel": 470,
+            "inventoryLevel": 326,
             "name": "Early Bird || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-unmaad-iim-s-annual-cultural-fest"
          }
@@ -55,33 +55,32 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory cover charge applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 20,
-            "name": "Early Bird GA || Female",
+            "description": "Mandatory cover charge of INR 2000 applicable at gate. Redeemable on F&B\n",
+            "inventoryLevel": 99,
+            "name": "Early Bird GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/shlomo-india-tour-Bangalore"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory cover charge applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 21,
-            "name": "Early Bird GA || Male",
+            "description": "Mandatory cover charge of INR 2000 applicable at gate. Redeemable on F&B\n",
+            "inventoryLevel": 25,
+            "name": "Early Bird Fanpit Pass",
             "url": "https://www.skillboxes.com/events/ticket/shlomo-india-tour-Bangalore"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory cover charge applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 23,
-            "name": "Early Bird VIP || Female",
+            "description": "Mandatory cover charge of INR 2000 applicable at gate. Redeemable on F&B\n",
+            "inventoryLevel": 15,
+            "name": "Early Bird Backstage Pass",
             "url": "https://www.skillboxes.com/events/ticket/shlomo-india-tour-Bangalore"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "Mandatory cover charge applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 20,
-            "name": "Early Bird VIP || Male",
+            "inventoryLevel": 10,
+            "name": "Early Bird Stage Access Pass",
             "url": "https://www.skillboxes.com/events/ticket/shlomo-india-tour-Bangalore"
          }
       ],
@@ -91,13 +90,13 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Y2K THROWBACK PARTY 💿✨\nSay Ohhh! to the era of pop icons, MTV hits & dancefloor anthems.\n🎧 Ft. DJ Pramodh\n🗓 Every Wednesday",
-      "endDate": "2026-01-28T23:59:00",
-      "identifier": "com.skillboxes.33349",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769536775pRgNhko6ae7NqsEQ.jpg.webp",
+      "description": "REVOLUTION BY THE POOL 🌊\nWhere sound, style & sunset collide.\nFeaturing AAYNA with Pramodh – Groove Control\n📍 Aqua & iBAR – The P",
+      "endDate": "2026-01-31T23:00:00",
+      "identifier": "com.skillboxes.33376",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769621693loEzhZkoSLGdalAL.jpg.webp",
       "isAccessibleForFree": true,
       "keywords": [
-         "Club Gigs - Music"
+         "Open Air Gig"
       ],
       "location": {
          "@type": "Place",
@@ -109,19 +108,35 @@
          },
          "name": "i-BAR"
       },
-      "name": "Y2K throwback party",
+      "name": "Revolution by the poolside",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "description": "* 1+1 on selected beverages (7 PM – 11 PM) *Complimentary drinks for ladies * ₹999 – Unlimited selected beverages for 60 mins\n",
+            "description": "Ladies entry free.\n",
+            "inventoryLevel": 100,
+            "name": "Female",
+            "url": "https://www.skillboxes.com/events/ticket/revolutions-by-the-poolside"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Couple entry free before 9:00 PM. Post 9:00 PM, cover charges applicable.\n",
+            "inventoryLevel": 100,
+            "name": "Couple",
+            "url": "https://www.skillboxes.com/events/ticket/revolutions-by-the-poolside"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Stag cover charges applicable throughout the night.\n",
             "inventoryLevel": 50,
-            "name": "Free entry",
-            "url": "https://www.skillboxes.com/events/ticket/y2k-throwback-party"
+            "name": "Stag",
+            "url": "https://www.skillboxes.com/events/ticket/revolutions-by-the-poolside"
          }
       ],
-      "startDate": "2026-01-28T07:00:00",
-      "url": "https://www.skillboxes.com/events/y2k-throwback-party"
+      "startDate": "2026-01-31T17:00:00",
+      "url": "https://www.skillboxes.com/events/revolutions-by-the-poolside"
    },
    {
       "@context": "https://schema.org",
@@ -203,6 +218,14 @@
             "inventoryLevel": 100,
             "name": "Stag - Male VIP",
             "url": "https://www.skillboxes.com/events/ticket/dj-project91-live-at-sunburn-union"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "- Free entry for one male till 9pm to general access.\n- Covers are applicable at the venue post 9pm of INR 2000.",
+            "inventoryLevel": 100,
+            "name": "Stag - Male GA",
+            "url": "https://www.skillboxes.com/events/ticket/dj-project91-live-at-sunburn-union"
          }
       ],
       "startDate": "2026-01-30T19:00:00",
@@ -235,7 +258,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 991,
             "name": "RSVP/Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/new-wave-nomads"
          }
@@ -442,7 +465,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket holder gets a free entry if the person enters before 9.00 pm if the person enters after 9pm 1000 inr cover charges will he applicable at the venue\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 98,
             "name": "Stag male",
             "url": "https://www.skillboxes.com/events/ticket/pablo-say-live-at-sunburn-union"
          },
@@ -450,7 +473,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket holder gets a free entry for a couple, if the person enters before 9.00 pm if the person enters after 9pm 1000 inr cover charges will he applicable at the venue\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 97,
             "name": "Couple",
             "url": "https://www.skillboxes.com/events/ticket/pablo-say-live-at-sunburn-union"
          },
@@ -458,7 +481,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket holder gets a free entry all night for a female and gets free drinks on the house too\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 95,
             "name": "Female",
             "url": "https://www.skillboxes.com/events/ticket/pablo-say-live-at-sunburn-union"
          }
@@ -582,7 +605,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 9.30PM. Cover charges applicable at the venue post 9.30PM.\n",
-            "inventoryLevel": 91,
+            "inventoryLevel": 61,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/altitude-ft-almost-human-31st-jan-kai"
          },
@@ -590,7 +613,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female throughout the event\n",
-            "inventoryLevel": 89,
+            "inventoryLevel": 77,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/altitude-ft-almost-human-31st-jan-kai"
          }
@@ -619,7 +642,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 50,
+            "inventoryLevel": 41,
             "name": "Female Entry",
             "url": "https://www.skillboxes.com/events/ticket/versus-old-school-vs-new-school-hip-hop-edition"
          },
@@ -627,7 +650,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of 500rs onwards applicable at the gate.\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Male Entry",
             "url": "https://www.skillboxes.com/events/ticket/versus-old-school-vs-new-school-hip-hop-edition"
          },
@@ -677,7 +700,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event without cover charges till 5:30PM only, Post 5:30PM additional cover charges of INR 1000/- applicable per head as per club rules and regulations.\n",
-            "inventoryLevel": 999,
+            "inventoryLevel": 997,
             "name": "Early Bird - Couple",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-yung-singh-friends-india-tour"
          },
@@ -709,7 +732,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to One Individual to the event without cover charges ALL NIGHT LONG!\n",
-            "inventoryLevel": 999,
+            "inventoryLevel": 989,
             "name": "VIP [ANYTIME ENTRY]",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-yung-singh-friends-india-tour"
          }
@@ -758,7 +781,7 @@
       "endDate": "2026-01-31T01:30:00",
       "identifier": "com.skillboxes.33270",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769257094Z997gnfGsP3x1QFV.jpg.webp",
-      "isAccessibleForFree": false,
+      "isAccessibleForFree": true,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -773,77 +796,9 @@
          "name": "Kitty Ko"
       },
       "name": "Redroom Ft. Answer, Beat Inspector & More",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to one female) Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD FEMALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-answer-beat-inspector-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to 1 male )  Extra cover charge inr 1000/- applicable post 9:30pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD MALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-answer-beat-inspector-more"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Allows entry to 1 couple. Extra cover charge inr 1000/- per person applicable post 9:30pm walk-in at the venue.\n",
-            "inventoryLevel": 100,
-            "name": "EARLY BIRD COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-answer-beat-inspector-more"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-01-30T19:00:00",
       "url": "https://www.skillboxes.com/events/redroom-ft-answer-beat-inspector-more"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Gala Queens — where glamour walks in first ✨DJ Mishi commands the console with magnetic beats 🎧🔥A royal night unfolds at Yeda Republic Bangalore 💃🍸",
-      "endDate": "2026-01-28T23:59:00",
-      "identifier": "com.skillboxes.33245",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769164495ZXIjIE3xSDPVSdXZ.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "GALA QUEENS FT. MISHI AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/gala-queens-ft-mishi-at-yeda-republic-koramangala-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/gala-queens-ft-mishi-at-yeda-republic-koramangala-1"
-         }
-      ],
-      "startDate": "2026-01-28T20:00:00",
-      "url": "https://www.skillboxes.com/events/gala-queens-ft-mishi-at-yeda-republic-koramangala-1"
    },
    {
       "@context": "https://schema.org",
@@ -958,7 +913,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 78,
             "name": "FEMALE ENTRY",
             "url": "https://www.skillboxes.com/events/ticket/the-bewafa-night-ft-jugni-at-yeda-republic-koramangala"
          },
@@ -1044,7 +999,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "A fully redeemable cover of ₹300 will be charged at the venue during the event\n",
-            "inventoryLevel": 993,
+            "inventoryLevel": 987,
             "name": "Regular Pass",
             "url": "https://www.skillboxes.com/events/ticket/analog-music-and-specialty-coffee"
          }
@@ -1267,7 +1222,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 500 applicable at gates. Fully redeemable on Food and beverages\n",
-            "inventoryLevel": 19,
+            "inventoryLevel": 15,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/oafbiggigs-edition-6-featuring-juxtaposed"
          }
@@ -1302,7 +1257,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Allows access to one.\nCover charges apply post 6 PM and are redeemable on food and beverages.",
-            "inventoryLevel": 34,
+            "inventoryLevel": 32,
             "name": "All-Day Flow Pass Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/before-midnight-a-no-pressure-dating-festival"
          }
@@ -1411,56 +1366,13 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 25,
+            "inventoryLevel": 23,
             "name": "Saras Co. × OTJF presents Alexander Flood - EARLY BIRD",
             "url": "https://www.skillboxes.com/events/ticket/saras-co-otjf-present-alexander-flood-live-in-bangalore"
          }
       ],
       "startDate": "2026-02-07T21:00:00",
       "url": "https://www.skillboxes.com/events/saras-co-otjf-present-alexander-flood-live-in-bangalore"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "✨ A night of fierce beats, bold vibes & unstoppable energy!Get ready for GALA QUEENS as Mishi takes over the decks and sets the mood on fire. 💃🔥📅 28th Jan | Wednesday",
-      "endDate": "2026-01-28T23:59:00",
-      "identifier": "com.skillboxes.32818",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1767957221HNAL3obC4v50bhub.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "GALA QUEENS FT. MISHI AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "get free access to the event\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/gala-queens-ft-mishi-at-yeda-republic-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "get free access to the event\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/gala-queens-ft-mishi-at-yeda-republic-koramangala"
-         }
-      ],
-      "startDate": "2026-01-28T20:00:00",
-      "url": "https://www.skillboxes.com/events/gala-queens-ft-mishi-at-yeda-republic-koramangala"
    },
    {
       "@context": "https://schema.org",
@@ -1661,7 +1573,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "No food and beverages are included in the ticket price.\nStanding space at the bar",
-            "inventoryLevel": 18,
+            "inventoryLevel": 16,
             "name": "Standing Tickets",
             "url": "https://www.skillboxes.com/events/ticket/stephane-wrembel-trio-1"
          },
@@ -1830,40 +1742,6 @@
       ],
       "startDate": "2026-01-30T20:00:00",
       "url": "https://www.skillboxes.com/events/ranj-cliff-stevie-arshaq-malik"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Pacifist:\r\n\r\nPacifist is a Mumbai-based post-hardcore/emo band known for their intense, emotionally charged sound that blends emo, punk, hardcore, and post-punk",
-      "endDate": "2026-01-28T23:59:00",
-      "identifier": "com.skillboxes.32557",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1768286618eEGrb5qNxCvNOVL9.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Bengaluru, Karnataka, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9715987",
-            "longitude": "77.5945627"
-         },
-         "name": "The Humming Tree"
-      },
-      "name": "Grassroots Wednesdays: Pacifist, simplemanradio + Rascals of the first order",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 30,
-            "name": "Early Bird Pass",
-            "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-pacifist-simple-man-radio-rascals-of-the-first-order"
-         }
-      ],
-      "startDate": "2026-01-28T20:00:00",
-      "url": "https://www.skillboxes.com/events/grassroots-wednesdays-pacifist-simple-man-radio-rascals-of-the-first-order"
    },
    {
       "@context": "https://schema.org",
@@ -2067,7 +1945,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General Access | Allows one individual\n",
-            "inventoryLevel": 13,
+            "inventoryLevel": 8,
             "name": "Phase 1 | GA - Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/behemoth-live-in-bangalore-chant-of-the-eastern-lands-tour-2026"
          },
