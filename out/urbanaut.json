@@ -706,7 +706,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 31,
+    "remainingAttendeeCapacity": 30,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -898,7 +898,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 58,
+    "remainingAttendeeCapacity": 56,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1219,55 +1219,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Collage Workshop \u2013 Cut, Paste & Create Stories!",
-    "description": "Art enthusiasts, get ready for a playful and expressive creative evening!Join us for a lively Collage Art Workshop, where textures, colors, patterns, and imagination come together to tell stories your way.In this hands-on session, participants will be provided with all the materials required to create fun, bold, and expressive collages. You\u2019ll explore layering, composition, storytelling through visuals, and intuitive creativity. Whether you\u2019re a beginner or someone who loves experimenting with mixed media, this workshop promises a relaxed, joyful space to create, connect, and let your creativity flow freely.Come as you are and leave with a piece of art that feels uniquely you.Event Details:\u2022 \ud83d\udccd Location: Atta Galatta, Bangalore\u2022 \ud83d\udcc5 Date: 31st January\u2022 \u23f0 Time: 5:30 PM \u2013 7:30 PM\u2022 \u2702\ufe0f Materials: All materials will be providedLimited spots available\u2014come cut, paste, and create something magical with us \u2728",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/22AAAF8CC1E9458ABBD8D955D0630B8B_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/95D2C4F56CC14E05BB32136D6CA542AD_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/4CE052403AEC4A5D99CE50505E6C1A8E_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5A155388E2134FBDB134C1157707B63D_converted_webp.webp"
-    ],
-    "startDate": "2026-01-31T17:30:00+05:30",
-    "endDate": "2026-01-31T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
-      "latitude": "12.98010900000000000000",
-      "longitude": "77.63934970000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 1,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "999.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Atta Galatta",
-      "description": null,
-      "url": "https://urbanaut.app/partner/attagalatta",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-96325-10126"
-      }
-    },
-    "url": "https://urbanaut.app/spot/collage-workshop-cut-paste-create-stories",
-    "keywords": [
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "FoodEvent",
     "name": "Bridgerton Singles Soir\u00e9e Waitlist",
     "description": "Dearest Gentle Reader\u2026In the year just past, we conducted a most curious experiment.We wondered what if courtship slowed down again?\u2028What if conversation came before chemistry?\u2028What if everyone\u2026 truly spoke to one another?So we brought back dance cards.\u2028Social seasons.\u2028And rooms where eye contact mattered more than algorithms.There was wit before want.\u2028Words before touch.\u2028A delicious tension, the kind they no longer teach us.And who would have thought\u2026\u2028Old school still holds its magic.On the thirty-first of January,\u2028The Singles Soir\u00e9e returns. Redesigned, refined, and far more daring.The same rules of civility.\u2028With greater stakes of desire.Yours truly awaits.Lady Big Nose.Intentionally curated based on how your first impressions, mind, and heart align. Or don\u2019t \u2014 when you meet someone in real time.The format is conversation-led, everyone meets every other soul in the room through interactions, with a balanced gender ratio throughout the evening!Age range: mid 20s to mid 30s",
@@ -1290,7 +1241,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 28,
-    "remainingAttendeeCapacity": 22,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1343,7 +1294,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 450,
-    "remainingAttendeeCapacity": 449,
+    "remainingAttendeeCapacity": 447,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1815,7 +1766,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 13,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1864,7 +1815,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 21,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2198,7 +2149,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 23,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2244,7 +2195,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 9,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2318,58 +2269,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Taste Test Kitchen with Copper+Cloves",
-    "description": "For one night, The Studio at Copper + Cloves becomes a live laboratory, and you're invited into this creative process.This is a menu in the making and you get to decide what goes in it.What you will consume here are dishes that don't exist yet. Could be reimagined classics, wild experiments, plant-based innovations that might excite you, make you reach out for seconds or....not.Between courses, you're not just listening, you're analyzing. Discussing texture, balance, that thing you can taste but can't quite name. By evening's end, you've dissected dishes that might never be served again\u2014or that might become menu legends because of what happens in the duration of this meal.Welcome to The Taste Test Kitchen.Copper + Cloves is where Bangalore's food community comes to see what's possible when plants become the priority, not the compromise. Inventive, uncompromising, unapologetically delicious. Through The Studio by Copper + Cloves, they're expanding their vision of wellness beyond what's on your plate\u2014into movement, mindfulness, and holistic care.Origin Fresh has reimagined what \"fresh\" means in food consumption today\u2014partnering directly with 5,000+ farmers to deliver produce within 12 hours of harvest, not days. With a \"fresh or nothing\" commitment, they're the reason this evening's experimental dishes start with ingredients at their absolute peak.This is an Urbanaut Production. We map the spaces where travel, art, culture, and food intersect to build experiences at those coordinates. Every event is a discovery: of flavor, of performance, of community, of the city reimagined through a different lens.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7ED2ADF5AD2C46EE9BB0B2155AF81378_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/94A5387075244E12870D02B94F636069_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D33BA092B5C342629C8782693417D496_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6881716C76BD48D49181A422186E86B2_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/722A75590D88432BA39E667B565571A0_converted_webp.webp"
-    ],
-    "startDate": "2026-02-01T19:00:00+05:30",
-    "endDate": "2026-02-01T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "4th Floor, 167, 2nd Stage, 2nd Cross, Shankarnag Rd, Stage 2, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ_cGCmMgVrjsRQnksGMVhv3E",
-      "latitude": "12.96391480000000000000",
-      "longitude": "77.63842380000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 7,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1900.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Urbanaut Experiences",
-      "description": "At Urbanaut, we're building unique and niche experiences in collaboration with our ever-present partners. Invite yourself to one \u2014 or three \u2014 or hit us up with ideas and collaborations!",
-      "url": "https://urbanaut.app/partner/urbanautexperiences",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B355D735DB6A4CEBAFB98E811AA4D5B6_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-74000-31416"
-      }
-    },
-    "url": "https://urbanaut.app/spot/the-taste-test-kitchen-with-coppercloves",
-    "keywords": [
-      "Premium",
-      "Pop-up Event",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "Vision Board Mornings",
     "description": "Utsmaya is back with its\u2019 Vision Board Morning!!\tA session guided by therapists and rooted in intention. Anyone who wanted to set intentions and create a vision board for 2026 but didn\u2019t get around it?It\u2019s never late!!Join us for a therapist-guided Vision Board Evening to slow down, gain clarity, and consciously design the year ahead; without overwhelm or pressure.For anyone who wants to:\u2728 Approach 2026 with intention instead of autopilot\u2728 Get clear on what truly matters\u2728 Create a grounded, achievable visionYou\u2019ll be guided to:* Reflect and organize your thoughts* Set clear intentions for 2026* Create a vision board to take home* Gently work through resistance with therapist supportWhat\u2019s included:\u2714 Facilitated intention-setting\u2714 Printed vision board + art supplies\u2714 A calm, structured, supportive space\u2728 Come as you are\u2728 Dream at your own pace\u2728 Let clarity arrive gentlyAbout Utsmaya SpaceUtsmaya creates spaces for mindful living, self-exploration, and emotional well-being. Housed in a beautiful old bungalow, the Utsmaya space invites you to slow down the moment you arrive. Surrounded by greenery, natural light, and quiet corners, it carries a sense of calm that feels effortless. A space that speaks serenity; perfect for gentle mornings, reflection, and dreaming without rush.Meet the FacilitatorsMihika Rajesh is a Psychotherapist with 5 years of experience working with teenagers and children, navigating their inner worlds. She has her MSc in Mental Health from Edinburgh.Muskan Siyal is a Psychotherapist with 2 years of experience working with young and middle aged adults, being their mirror in the waves of adulthood. She has an MSc in Clinical Psychology.\ud83d\udcc5 8th February, 2026 | \u23f0 10:00 AM\u20131:30 PMReporting Time: 9:45 AM\ud83d\udccdSumathi, Opposite shree apartments, Basavangudi, Bengaluru - 560004\ud83d\udcab Energy Exchange: \u20b9899",
@@ -2390,7 +2289,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2439,7 +2338,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2636,7 +2535,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3017,8 +2916,8 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A301DD9BF9194DA1A998CE3AC92C627B_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/510C5EA5C6A84A3B906310710E56FA0E_converted_webp.webp"
     ],
-    "startDate": "2026-01-30T20:00:00+05:30",
-    "endDate": "2026-01-30T22:00:00+05:30",
+    "startDate": "2026-02-15T20:00:00+05:30",
+    "endDate": "2026-02-15T22:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -3129,7 +3028,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 79,
+    "remainingAttendeeCapacity": 76,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3180,7 +3079,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 72,
+    "remainingAttendeeCapacity": 70,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -3283,7 +3182,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3624,7 +3523,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 110,
-    "remainingAttendeeCapacity": 37,
+    "remainingAttendeeCapacity": 32,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3722,7 +3621,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 59,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4117,7 +4016,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 99,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
