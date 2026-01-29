@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants general admission access to one individual.\n",
-            "inventoryLevel": 326,
+            "inventoryLevel": 260,
             "name": "Early Bird || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-unmaad-iim-s-annual-cultural-fest"
          }
@@ -64,7 +64,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charge of INR 2000 applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 25,
+            "inventoryLevel": 16,
             "name": "Early Bird Fanpit Pass",
             "url": "https://www.skillboxes.com/events/ticket/shlomo-india-tour-Bangalore"
          },
@@ -86,6 +86,40 @@
       ],
       "startDate": "2026-02-22T22:00:00",
       "url": "https://www.skillboxes.com/events/shlomo-india-tour-Bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Get ready to groove at ELECTRIC BOOGIE this\nFriday at I-BAR, The Park Bangalore!  \n\nJoin us on January 30th from 8 PM onwards for\na night of electrifying beats",
+      "endDate": "2026-01-30T23:59:00",
+      "identifier": "com.skillboxes.33405",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769696356Omigg0na8eJJCkQu.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "The Park Hotel ,14/7, MG Road Bangalore, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "28",
+            "longitude": "77"
+         },
+         "name": "i-BAR"
+      },
+      "name": "Electric Boogie",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 50,
+            "name": "RSVP",
+            "url": "https://www.skillboxes.com/events/ticket/electric-boogie-13"
+         }
+      ],
+      "startDate": "2026-01-30T08:00:00",
+      "url": "https://www.skillboxes.com/events/electric-boogie-13"
    },
    {
       "@context": "https://schema.org",
@@ -122,7 +156,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Couple entry free before 9:00 PM. Post 9:00 PM, cover charges applicable.\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 90,
             "name": "Couple",
             "url": "https://www.skillboxes.com/events/ticket/revolutions-by-the-poolside"
          },
@@ -130,7 +164,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Stag cover charges applicable throughout the night.\n",
-            "inventoryLevel": 50,
+            "inventoryLevel": 36,
             "name": "Stag",
             "url": "https://www.skillboxes.com/events/ticket/revolutions-by-the-poolside"
          }
@@ -141,36 +175,45 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "ALL IN THURSDAY – OPEN BAR PARTY 🪩\nTurn your Thursday into a full-on party night.\n✨ Unlimited selected beverages\n⏱ 60 minutes\n&#128184",
-      "endDate": "2026-01-29T23:59:00",
-      "identifier": "com.skillboxes.33348",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/enJ3dHo2TnFhNnU5M2E5QnkyK1dXQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769531640fFCdpuujOv8E3PfD.jpg.webp",
-      "isAccessibleForFree": true,
+      "description": "Bhaskar, an artist from DL91 Record Label, owned by Seedhe Maut, is widely recognized as a pioneer of Indian trap and has made a powerful mark on the Indian hip-hop scene with his 5th project, DALLI. The album’s raw energy and fearless story",
+      "endDate": "2026-02-20T23:59:00",
+      "identifier": "com.skillboxes.33372",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769610977YE5Vkw3fTZhmSoGJ.jpg.webp",
+      "isAccessibleForFree": false,
       "keywords": [
-         "Club Gigs Music"
+         "Club Gigs - Music"
       ],
       "location": {
          "@type": "Place",
-         "address": "The Park Hotel ,14/7, MG Road Bangalore, India",
+         "address": "Plot 118, Seventh Block, 80 Feet Rd, above Bodyworks Spa, KHB Colony, 7th Block, Koramangala, Bengaluru, Karnataka 560095, India",
          "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "28",
-            "longitude": "77"
+            "latitude": "12.9355632",
+            "longitude": "77.614179"
          },
-         "name": "i-BAR"
+         "name": "Koramangala Social"
       },
-      "name": "Open bar party",
+      "name": "Dalli Tour by Bhaskar | Bangalore",
       "offers": [
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 50,
-            "name": "Open bar party",
-            "url": "https://www.skillboxes.com/events/ticket/open-bar-party"
+            "description": "Mandatory Cover Charge of INR 500 applicable at gates\n",
+            "inventoryLevel": 22,
+            "name": "Early Bird",
+            "url": "https://www.skillboxes.com/events/ticket/dalli-tour-by-bhaskar-jaipur-2"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Mandatory Cover Charge of INR 500 applicable at gates\n",
+            "inventoryLevel": 30,
+            "name": "Meet And Greet",
+            "url": "https://www.skillboxes.com/events/ticket/dalli-tour-by-bhaskar-jaipur-2"
          }
       ],
-      "startDate": "2026-01-29T07:00:00",
-      "url": "https://www.skillboxes.com/events/open-bar-party"
+      "startDate": "2026-02-20T19:00:00",
+      "url": "https://www.skillboxes.com/events/dalli-tour-by-bhaskar-jaipur-2"
    },
    {
       "@context": "https://schema.org",
@@ -258,7 +301,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charges applicable at gates.\n",
-            "inventoryLevel": 991,
+            "inventoryLevel": 988,
             "name": "RSVP/Free Pass",
             "url": "https://www.skillboxes.com/events/ticket/new-wave-nomads"
          }
@@ -465,7 +508,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket holder gets a free entry if the person enters before 9.00 pm if the person enters after 9pm 1000 inr cover charges will he applicable at the venue\n",
-            "inventoryLevel": 98,
+            "inventoryLevel": 89,
             "name": "Stag male",
             "url": "https://www.skillboxes.com/events/ticket/pablo-say-live-at-sunburn-union"
          },
@@ -538,7 +581,7 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Mob Mind x Caged is proud to present Arjun Vagale in Bangalore!Early bird tickets are out now, more info coming soon!Sound: D&B Audiotechnik",
+      "description": "Mob Mind x Caged is proud to present Arjun Vagale in Bangalore!\r\n\r\nEarly bird tickets are out now, more info coming soon!\r\n\r\nSound: D&B Audiotechnik",
       "endDate": "2026-02-08T00:30:00",
       "identifier": "com.skillboxes.33304",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YUFURUlBS0dLM1ByT0dYSnc3WWNJdz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769439176Fizrqfk9gfUvBlhP.jpg.webp",
@@ -605,7 +648,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Couple till 9.30PM. Cover charges applicable at the venue post 9.30PM.\n",
-            "inventoryLevel": 61,
+            "inventoryLevel": 53,
             "name": "Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/altitude-ft-almost-human-31st-jan-kai"
          },
@@ -613,7 +656,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Entitles free entry for 1 Female throughout the event\n",
-            "inventoryLevel": 77,
+            "inventoryLevel": 68,
             "name": "Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/altitude-ft-almost-human-31st-jan-kai"
          }
@@ -650,14 +693,14 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges of 500rs onwards applicable at the gate.\n",
-            "inventoryLevel": 49,
+            "inventoryLevel": 43,
             "name": "Male Entry",
             "url": "https://www.skillboxes.com/events/ticket/versus-old-school-vs-new-school-hip-hop-edition"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 50,
+            "inventoryLevel": 49,
             "name": "Couple Entry",
             "url": "https://www.skillboxes.com/events/ticket/versus-old-school-vs-new-school-hip-hop-edition"
          }
@@ -671,7 +714,7 @@
       "description": "“Nobody does it like Yung Singh. He stands as one of the most exciting DJs on the world circuit, having spent the last few years levelling up from local phenomenon to shining global star.”\r\n\r\n \r\n\r\nYung Singh is a bou",
       "endDate": "2026-02-08T23:59:00",
       "identifier": "com.skillboxes.33296",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769417590t1kQ11qU8ypQvUWJ.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769679928AEVJHhTTA2rPg0mo.png.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
@@ -692,7 +735,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event without cover charges till 5:30PM only, Post 5:30PM additional cover charges of INR 500/- applicable per head as per club rules and regulations.\n",
-            "inventoryLevel": 1000,
+            "inventoryLevel": 999,
             "name": "Early Bird - Single Lady",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-yung-singh-friends-india-tour"
          },
@@ -700,7 +743,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event without cover charges till 5:30PM only, Post 5:30PM additional cover charges of INR 1000/- applicable per head as per club rules and regulations.\n",
-            "inventoryLevel": 997,
+            "inventoryLevel": 996,
             "name": "Early Bird - Couple",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-yung-singh-friends-india-tour"
          },
@@ -716,7 +759,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to 2 couples to the event without cover charges till 5:30PM only, Post 5:30PM additional cover charges of INR 1000/- applicable per head as per club rules and regulations.\n",
-            "inventoryLevel": 997,
+            "inventoryLevel": 995,
             "name": "Early Bird - Double Date! [ Group of 2 Couples ]",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-yung-singh-friends-india-tour"
          },
@@ -732,7 +775,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to One Individual to the event without cover charges ALL NIGHT LONG!\n",
-            "inventoryLevel": 989,
+            "inventoryLevel": 985,
             "name": "VIP [ANYTIME ENTRY]",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-yung-singh-friends-india-tour"
          }
@@ -781,7 +824,7 @@
       "endDate": "2026-01-31T01:30:00",
       "identifier": "com.skillboxes.33270",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/anJ2NW5LakNyTXRncGVveDkwNzNTZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769257094Z997gnfGsP3x1QFV.jpg.webp",
-      "isAccessibleForFree": true,
+      "isAccessibleForFree": false,
       "keywords": [
          "Club Gigs - Music"
       ],
@@ -796,7 +839,72 @@
          "name": "Kitty Ko"
       },
       "name": "Redroom Ft. Answer, Beat Inspector & More",
-      "offers": [ ],
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to one female.) Extra cover of inr 1000/- applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "PHASE 1 FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-answer-beat-inspector-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to one couple.) Extra cover of inr 1000/- applicable per person post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "PHASE 1 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-answer-beat-inspector-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to one male.) Extra cover of inr 1000/- applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 98,
+            "name": "PHASE 1 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-answer-beat-inspector-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three female.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 FEMALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-answer-beat-inspector-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to two couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 2 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-answer-beat-inspector-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 COUPLE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-answer-beat-inspector-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to three male.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 3 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-answer-beat-inspector-more"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "(Allows entry to 5 male.) Extra cover of inr 1000/- per person  applicable post 9:30pm walk-in.\n",
+            "inventoryLevel": 100,
+            "name": "GROUP OF 5 MALE",
+            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-answer-beat-inspector-more"
+         }
+      ],
       "startDate": "2026-01-30T19:00:00",
       "url": "https://www.skillboxes.com/events/redroom-ft-answer-beat-inspector-more"
    },
@@ -870,7 +978,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 93,
             "name": "FEMALE ENTRY",
             "url": "https://www.skillboxes.com/events/ticket/all-aziz-access-ft-dj-at-aziz-yeda-republic-koramangala"
          },
@@ -878,7 +986,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 93,
             "name": "COUPLE ENTRY",
             "url": "https://www.skillboxes.com/events/ticket/all-aziz-access-ft-dj-at-aziz-yeda-republic-koramangala"
          }
@@ -921,56 +1029,13 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
+            "inventoryLevel": 96,
             "name": "COUPLE ENTRY",
             "url": "https://www.skillboxes.com/events/ticket/the-bewafa-night-ft-jugni-at-yeda-republic-koramangala"
          }
       ],
       "startDate": "2026-01-30T20:00:00",
       "url": "https://www.skillboxes.com/events/the-bewafa-night-ft-jugni-at-yeda-republic-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Thursday nights turn filmy with non-stop Bollywood beats 🎶✨DJ Sukant on the console, dropping chartbusters all night 🎧Dance, sing along, and let the desi vibes take over 💃🔥",
-      "endDate": "2026-01-29T23:59:00",
-      "identifier": "com.skillboxes.33223",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769100859K8NhAsOKXsUfYhlR.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "B-TOWN THURSDAY FT. DJ SUKANT AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/b-town-thursday-ft-dj-sukant-at-yeda-republic-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/b-town-thursday-ft-dj-sukant-at-yeda-republic-koramangala"
-         }
-      ],
-      "startDate": "2026-01-29T20:00:00",
-      "url": "https://www.skillboxes.com/events/b-town-thursday-ft-dj-sukant-at-yeda-republic-koramangala"
    },
    {
       "@context": "https://schema.org",
@@ -1101,7 +1166,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 47,
+            "inventoryLevel": 46,
             "name": "Rainbow Bridge Artist",
             "url": "https://www.skillboxes.com/events/ticket/rainbow-bridge-artist-sessions-x-australia"
          }
@@ -1222,7 +1287,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 500 applicable at gates. Fully redeemable on Food and beverages\n",
-            "inventoryLevel": 15,
+            "inventoryLevel": 9,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/oafbiggigs-edition-6-featuring-juxtaposed"
          }
@@ -1332,7 +1397,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 595,
+            "inventoryLevel": 589,
             "name": "Entry",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-rini-s-ragaverse-tour-in-bangalore"
          }
@@ -1549,49 +1614,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Ste",
-      "endDate": "2026-01-29T21:30:00",
-      "identifier": "com.skillboxes.32757",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWI5MXFnYUFHUFg2QitOdW8yNkl6QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17677873251QraIDe9VzzQw2b1.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9825325",
-            "longitude": "77.7217732"
-         },
-         "name": "Windmills Craftworks"
-      },
-      "name": "Stephane Wrembel Trio",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\nStanding space at the bar",
-            "inventoryLevel": 16,
-            "name": "Standing Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/stephane-wrembel-trio-1"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\n",
-            "inventoryLevel": 20,
-            "name": "Seating Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/stephane-wrembel-trio-1"
-         }
-      ],
-      "startDate": "2026-01-29T20:00:00",
-      "url": "https://www.skillboxes.com/events/stephane-wrembel-trio-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Where music meets mixology, and every sip has a soundtrack.\nWelcome to Saturday Concerts — a curated night of live performances,\nartisanal cocktails, and soulful energy. Each weekend, Hamilton transforms into",
       "endDate": "2026-01-31T23:30:00",
       "identifier": "com.skillboxes.32688",
@@ -1624,7 +1646,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "•\tThis amount is fully redeemable on food and beverages. •\tAll event bookings are non-refundable. No cancellation/refund will be allowed post booking. •\tEvent start time is subject to the artist’s discretion and may vary from the scheduled time.\n•\tThis amount is fully redeemable on food and beverages. •\tAll event bookings are non-refundable. No cancellation/refund will be allowed post booking. •\tEvent start time is subject to the artist’s discretion and may vary from the scheduled time.",
-            "inventoryLevel": 20,
+            "inventoryLevel": 19,
             "name": "Front View Table for 4",
             "url": "https://www.skillboxes.com/events/ticket/saturday-concerts-ft-tcbc"
          }
@@ -1731,15 +1753,7 @@
          "name": "The Humming Tree"
       },
       "name": "THT presents Ranj x Clifr, Stevie & Arshaq Malik",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 60,
-            "name": "Early Bird Pass",
-            "url": "https://www.skillboxes.com/events/ticket/ranj-cliff-stevie-arshaq-malik"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-01-30T20:00:00",
       "url": "https://www.skillboxes.com/events/ranj-cliff-stevie-arshaq-malik"
    },
@@ -1810,7 +1824,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 69,
+            "inventoryLevel": 67,
             "name": "Concert ticket",
             "url": "https://www.skillboxes.com/events/ticket/rhapsody-music-beyond-borders"
          }
@@ -1945,7 +1959,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General Access | Allows one individual\n",
-            "inventoryLevel": 8,
+            "inventoryLevel": 2,
             "name": "Phase 1 | GA - Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/behemoth-live-in-bangalore-chant-of-the-eastern-lands-tour-2026"
          },
@@ -2027,52 +2041,6 @@
       ],
       "startDate": "2026-01-30T19:00:00",
       "url": "https://www.skillboxes.com/events/friday-nakhra-night-at-badmaash-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "HighlightsDJ Night Non-Stop MusicEDMTechno&#1",
-      "endDate": "2026-01-30T00:30:00",
-      "identifier": "com.skillboxes.27249",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZTBUb1FOd3k5QXo5ZmxvS3hBOHVQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769452202iohOfhSPCikHjUrO.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No.40, 4th B Cross, 5th Block industrial layout, Koramangala Bangalore, India",
-         "name": "HAPPY BREW"
-      },
-      "name": "Trending Thursday at Happy Brew Kormangala",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Each pass permits one stag entry to the event. - Cover charge of INR 1000/- is applicable at the venue.\n",
-            "inventoryLevel": 495,
-            "name": "STAG",
-            "url": "https://www.skillboxes.com/events/ticket/trending-thursday-ft-martin-dsouza"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow group ladies\n",
-            "inventoryLevel": 500,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/trending-thursday-ft-martin-dsouza"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Each pass permits one couple entry to the event. - Cover charge of INR 1000/- is applicable at the venue after 9:30 PM.\n",
-            "inventoryLevel": 500,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/trending-thursday-ft-martin-dsouza"
-         }
-      ],
-      "startDate": "2026-01-29T20:00:00",
-      "url": "https://www.skillboxes.com/events/trending-thursday-ft-martin-dsouza"
    },
    {
       "@context": "https://schema.org",
