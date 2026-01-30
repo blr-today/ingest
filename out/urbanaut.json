@@ -752,7 +752,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 29,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -849,7 +849,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 8,
-    "remainingAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 7,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1287,7 +1287,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 28,
-    "remainingAttendeeCapacity": 21,
+    "remainingAttendeeCapacity": 20,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1340,7 +1340,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 450,
-    "remainingAttendeeCapacity": 447,
+    "remainingAttendeeCapacity": 444,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1665,7 +1665,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1763,7 +1763,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 34,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1861,7 +1861,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1912,7 +1912,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 24,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2149,7 +2149,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 23,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2387,7 +2387,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 18,
+    "remainingAttendeeCapacity": 17,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2468,54 +2468,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "Event",
-    "name": "Founders' Breakfast: Edition II",
-    "description": "A gathering of India\u2019s curious minds - founders who question, challenge, and imagine differently. This isn\u2019t a panel. It\u2019s not networking. It\u2019s a thought experiment over coffee. Expect provocative questions, impossible ideas, and brave conversations at the edge of technology, wellness, and human design. A breakfast for those who build - and dare - to reimagine the future.Step into the second edition of Coro's Founders' Breakfast; After Creativity: The Age of Responsibility. Creativity is no longer rare. It\u2019s institutionalized, systematized, and increasingly automated. AI can generate ideas. Organizations can manufacture novelty. Originality, by itself, no longer differentiates.This brunch is a conversation for founders who sense that something has shifted; from making ideas to shaping systems, from being creative to being responsible. Not about how to be more creative. But about what kind of future we\u2019re quietly building through what we choose to create - and what we choose not to.Limited seats. Big questions. And only real talk. ",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/6306C857214F4F14B2736D8861EB4BD3_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EEF9AD1624774327AD7BD5DAC466EC07_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A9D15546133741E9AB43251E2302455E_converted_webp.webp"
-    ],
-    "startDate": "2026-01-30T08:30:00+05:30",
-    "endDate": "2026-01-30T10:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "XJ6P+7VC, Kempegowda Service Rd, near Paramahansa Yogananda Road, Domlur I Stage, 1st Stage, Domlur, Bengaluru, Karnataka 560071, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3S2OrvsVrjsRBOql1X-UnAM",
-      "latitude": "12.96078240000000000000",
-      "longitude": "77.63721450000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 16,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "1770.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Coro",
-      "description": null,
-      "url": "https://urbanaut.app/partner/corospace",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/0F2E55DAAA19467D96CA7AFC8F33B7A0_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-94466-91720"
-      }
-    },
-    "url": "https://urbanaut.app/spot/founders-breakfast-edition-ii",
-    "keywords": [
-      "Premium",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "EducationEvent",
     "name": "When the mind has no space",
     "description": "This one-hour workshop is designed as a psycho-educational and reflective experience, supporting participants in understanding mental overload, emotional fatigue, and thought patterns, while offering practical tools for clarity, balance, and emotional regulation in everyday life.The session will be facilitated by Beautiful Minds, a mental health and well-being organization committed to creating accessible, grounded, and meaningful mental health conversations for the community.",
@@ -2535,7 +2487,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2958,55 +2910,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "Kombucha Tasting & Flavouring Experience",
-    "description": "Join us for a\u00a090-minute immersive kombucha tasting workshop\u00a0where you\u2019ll sip, learn, and create. Whether you're kombucha-curious or a long-time lover, this interactive experience is designed to introduce you to the art of fermentation in a relaxed, welcoming space.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/184BC93C3E54473B923721C5D1DEE9FD_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/1BFB1B5979E1452F885FF14C5A9A545B_converted_webp.webp"
-    ],
-    "startDate": "2026-01-31T18:00:00+05:30",
-    "endDate": "2026-01-31T19:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "479, 2nd Main Rd, 2nd Stage, Indira Nagar II Stage, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJOfm_QhsXrjsRwWMm1FBCWsI",
-      "latitude": "12.98132990000000000000",
-      "longitude": "77.63625820000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 6,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "999.46",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Mountain Bee Kombucha",
-      "description": "Founded in 2018, Mountain Bee Kombucha combines gut love with craft brewing. We are a kombucha brewery specialising in high-quality, small-batch and handcrafted kombucha",
-      "url": "https://urbanaut.app/partner/mountainbeekombucha",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B77DEF40DC664D7D8CBCC105082F3179_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-87927-43820"
-      }
-    },
-    "url": "https://urbanaut.app/spot/kombucha-tasting-flavouring-experience",
-    "keywords": [
-      "Leisure",
-      "Wellness",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Prakriti Pravaham",
     "description": "About the Event:Vidhushi Lalgudi Vijayalakshmi will be presenting a Carnatic violin concert with a theme inspired by the 5 elements of nature. She will be accompanied by Vidwan Tumkur Ravishankar on the mridangam and Vidwan Pramath Kiran on the Tabla and Morsing. The concert will take place on 21st Feb from 6-8pm at Courtyard Koota, Kengeri and tickets can be purchased at courtyardkoota.comAbout the ArtistsLalgudi VijayalakshmiA fifth-generation musician of the illustrious Lalgudi bani, Lalgudi Vijayalakshmi, daughter and disciple of legendary musician, Lalgudi G Jayaraman, is an artiste who engages both deeply and variedly with her music. As a violinist, she performs solo, duet, as an accompanist and collaborates with artistes across genres. She is also an accomplished vocalist, a composer, and a teacher. As a composer, besides musical compositions such as thillanas, varnams and krithis, she has also composed both lyrics and music for full length dance dramas, and set to tune works of great poets. With a sparkling four-decade-long journey in music, Vijayalakshmi has been recognized for her music through a slew of awards and accolades, including the most prestigious Sangita Kalanidhi by The Music Academy. A compliment she holds as particularly special is one that Pandit Ravi Shankar ji, the legendary sitar maestro showered on her, following her performance in the United States a few years ago - \u201cYou have your father\u2019s fingers. Your music has touched my soul\u201d. In her trust Krutagnya (Sanskrit for gratitude), Vijayalakshmi has been working to create awareness about the varied aspects of music and provide a stage for budding violinists from different schools to showcase their talent.S G Pramath KiranS G Pramath Kiran, a distinguished percussionist, music producer, and sound engineer, is a leading musician in India. Having embarked on his musical journey at the age of 3, he possesses expertise in both Carnatic and Hindustani music. Renowned for collaborations with top musicians worldwide, he founded Laya Digi Studios, producing numerous records. Notably, he's a featured artist in a Grammy award-winning album Devine Tides by Ricky Kej, showcasing his exceptional musical prowess.Tumkur B. RavishankarTumkur B. Ravishankar is a senior Mridangam artist and a Top Grade Artist of All India Radio and Doordarshan. He hails from a family of traditional Mridangam musicians. He began his training under his father, Sri Tumkur T. V. Bhadrachar, and later received advanced training from the renowned maestro Guru Sri Karaikudi R. Mani.Known for his clarity and control across both slow and fast tempos, Ravishankar has accompanied many leading Carnatic musicians. He has performed extensively in India and abroad and has received several titles and awards. He is currently associated with Akashvani, Mysuru, as a Top Grade Mridangam Artist.Tickets are mandatory for all.*",
@@ -3079,7 +2982,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 70,
+    "remainingAttendeeCapacity": 65,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -3670,7 +3573,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 110,
-    "remainingAttendeeCapacity": 32,
+    "remainingAttendeeCapacity": 26,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3768,7 +3671,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 59,
+    "remainingAttendeeCapacity": 58,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4163,7 +4066,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 99,
+    "remainingAttendeeCapacity": 98,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -4257,7 +4160,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 99,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4544,7 +4447,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
