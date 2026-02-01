@@ -26,7 +26,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants general admission access to one individual.\n",
-            "inventoryLevel": 205,
+            "inventoryLevel": 53,
             "name": "Early Bird || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-unmaad-iim-s-annual-cultural-fest"
          }
@@ -56,7 +56,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charge of INR 2000 applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 99,
+            "inventoryLevel": 98,
             "name": "Early Bird GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/shlomo-india-tour-Bangalore"
          },
@@ -544,8 +544,8 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 13,
-            "name": "Early Bird",
+            "inventoryLevel": 30,
+            "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/dalli-tour-by-bhaskar-jaipur-2"
          },
          {
@@ -554,6 +554,14 @@
             "description": "Mandatory Cover Charge of INR 500 applicable at gates\n",
             "inventoryLevel": 30,
             "name": "Meet And Greet",
+            "url": "https://www.skillboxes.com/events/ticket/dalli-tour-by-bhaskar-jaipur-2"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Mandatory Cover Charge of INR 500 applicable at gates\n",
+            "inventoryLevel": 13,
+            "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/dalli-tour-by-bhaskar-jaipur-2"
          }
       ],
@@ -759,7 +767,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "This ticket holder gets a free entry if the person enters before 9.00 pm if the person enters after 9pm 1000 inr cover charges will he applicable at the venue\n",
-            "inventoryLevel": 89,
+            "inventoryLevel": 87,
             "name": "Stag male",
             "url": "https://www.skillboxes.com/events/ticket/pablo-say-live-at-sunburn-union"
          },
@@ -782,52 +790,6 @@
       ],
       "startDate": "2026-02-01T18:00:00",
       "url": "https://www.skillboxes.com/events/pablo-say-live-at-sunburn-union"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "SATURDAY CLUB NOCTURNO! This month's biggest bash is happening at the ultra-exclusive Skyye Bar UB City. DJ Rohit on the decks. opening act Dj Manisha D'souza. Get ready to lose yourself in the music! 🎧 This month, we're bringing you the b",
-      "endDate": "2026-02-01T00:45:00",
-      "identifier": "com.skillboxes.33306",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZTBUb1FOd3k5QXo5ZmxvS3hBOHVQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769448212B5rnilU07PpIVRbJ.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Party"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Uber Level, Ub City, Vittal Mallya Road, Lavelle Road 16th Floor Bangalore, India",
-         "name": "Skyye"
-      },
-      "name": "Saturday Club Nocturno at Skye Ub City",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Each pass permits one couple entry to the event. - Cover charge of INR 1500 /- is applicable at the venue after 9:30 PM.\n",
-            "inventoryLevel": 498,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/saturday-club-nocturno"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Each pass permits one stag entry to the event. - Cover charge of INR 2000 is applicable at the venue.\n",
-            "inventoryLevel": 200,
-            "name": "Group of Mens",
-            "url": "https://www.skillboxes.com/events/ticket/saturday-club-nocturno"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Each pass permits one lady entry to the event. - No cover charge is applicable.\n",
-            "inventoryLevel": 98,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/saturday-club-nocturno"
-         }
-      ],
-      "startDate": "2026-01-31T19:00:00",
-      "url": "https://www.skillboxes.com/events/saturday-club-nocturno"
    },
    {
       "@context": "https://schema.org",
@@ -875,49 +837,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Experience an electrifying night of beats and rhythms as CentiGrade Club Nights presents Indian sensation ALMOST HUMAN live at Kai Rooftop this Saturday.Get ready to dance the night away to cutting-edge tunes and unforg",
-      "endDate": "2026-02-01T01:00:00",
-      "identifier": "com.skillboxes.33300",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/1769432214ymk6GvsuqNmOPn53.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Du Parc Trinity 17, Mahatma Gandhi Rd, opposite Bank of Baroda, Craig Park Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9723448",
-            "longitude": "77.618884"
-         },
-         "name": "Kai Bar & Kitchen"
-      },
-      "name": "Altitude ft. Almost Human / 31st Jan / Kai",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Couple till 9.30PM. Cover charges applicable at the venue post 9.30PM.\n",
-            "inventoryLevel": 28,
-            "name": "Guestlist - Couple",
-            "url": "https://www.skillboxes.com/events/ticket/altitude-ft-almost-human-31st-jan-kai"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Entitles free entry for 1 Female throughout the event\n",
-            "inventoryLevel": 44,
-            "name": "Guestlist - Female",
-            "url": "https://www.skillboxes.com/events/ticket/altitude-ft-almost-human-31st-jan-kai"
-         }
-      ],
-      "startDate": "2026-01-31T20:00:00",
-      "url": "https://www.skillboxes.com/events/altitude-ft-almost-human-31st-jan-kai"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "“Nobody does it like Yung Singh. He stands as one of the most exciting DJs on the world circuit, having spent the last few years levelling up from local phenomenon to shining global star.”\r\n\r\n \r\n\r\nYung Singh is a bou",
       "endDate": "2026-02-08T23:59:00",
       "identifier": "com.skillboxes.33296",
@@ -950,7 +869,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Permits Free entry to the event without cover charges till 5:30PM only, Post 5:30PM additional cover charges of INR 1000/- applicable per head as per club rules and regulations.\n",
-            "inventoryLevel": 995,
+            "inventoryLevel": 994,
             "name": "Early Bird - Couple",
             "url": "https://www.skillboxes.com/events/ticket/somad-lab-presents-yung-singh-friends-india-tour"
          },
@@ -1297,7 +1216,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 12,
+            "inventoryLevel": 9,
             "name": "Performer Pass",
             "url": "https://www.skillboxes.com/events/ticket/pitara-by-kommune-1"
          }
@@ -1365,7 +1284,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 20,
+            "inventoryLevel": 18,
             "name": "Saras Co. × OTJF presents Alexander Flood - EARLY BIRD",
             "url": "https://www.skillboxes.com/events/ticket/saras-co-otjf-present-alexander-flood-live-in-bangalore"
          }
@@ -1646,7 +1565,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 67,
+            "inventoryLevel": 66,
             "name": "Concert ticket",
             "url": "https://www.skillboxes.com/events/ticket/rhapsody-music-beyond-borders"
          }
@@ -1781,7 +1700,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "General Access | Allows one individual\n",
-            "inventoryLevel": 592,
+            "inventoryLevel": 588,
             "name": "Phase 2 | GA - Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/behemoth-live-in-bangalore-chant-of-the-eastern-lands-tour-2026"
          },
