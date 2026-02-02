@@ -359,7 +359,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 54,
+    "remainingAttendeeCapacity": 52,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -797,7 +797,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 29,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1016,7 +1016,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 5,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -1368,7 +1368,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 57,
+    "remainingAttendeeCapacity": 56,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1761,7 +1761,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
+    "remainingAttendeeCapacity": 11,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1858,7 +1858,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2297,7 +2297,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 198,
+    "remainingAttendeeCapacity": 193,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2351,7 +2351,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 40,
+    "remainingAttendeeCapacity": 39,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2537,7 +2537,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 98,
+    "remainingAttendeeCapacity": 96,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2678,7 +2678,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 142,
+    "remainingAttendeeCapacity": 140,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2729,7 +2729,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 300,
-    "remainingAttendeeCapacity": 300,
+    "remainingAttendeeCapacity": 295,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2877,7 +2877,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 11,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -2925,7 +2925,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 45,
-    "remainingAttendeeCapacity": 45,
+    "remainingAttendeeCapacity": 43,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3103,6 +3103,54 @@
       "Leisure",
       "Premium",
       "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "name": "Creaturely Circles: What if the Land were Alive?",
+    "description": "\u200bMany of us grew up learning to think of land as a resource; a resource to be managed. This way of thinking about land was seen as neutral and practical. We were taught by well-intentioned geography teachers to studiously mark out on political maps of India, where we might find coal, bauxite and iron with little triangles, circles and squares.\u200bBut what does that framing leave out?\u200bAcross many cultures and times, land has not been understood as inert or separate, but as alive, animate. In these understandings, humans were active participants in the conditions that allowed life to thrive in the lands they lived on. Research and lived histories increasingly suggest, for example, that the supposedly pristine, untouched Amazonian Rainforest was in fact shaped by humans over thousands of years. It is the same story closer to home with Adivasis and nomadic pastoralists having profoundly shaped landscapes that we see as wild.\u200bWhile such forms of intimacy with the land may feel distant for many of us with urban lives today, our disconnection from land, seeing it as object, seeing it as resource than living presence, is a very, very recent phenomenon in our long human story.\u200bWithout romanticizing realities we may never have known, this gathering invites us to explore connections we may have forgotten and longings that are waiting to be discovered.Because we have limited spots - please register only if you can really be there!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/EE6776C1C7E24191944FF50C5686098C_converted_webp.webp"
+    ],
+    "startDate": "2026-02-04T18:00:00+05:30",
+    "endDate": "2026-02-04T19:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "First Floor, 36, NGEF Ln, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJLy4VZwAXrjsRxp1NevydD3U",
+      "latitude": "12.97801710000000000000",
+      "longitude": "77.63972650000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 20,
+    "typicalAgeRange": "12+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Ksheeraja",
+      "description": null,
+      "url": "https://urbanaut.app/partner/ksheeraja",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/B1D9E1D38F6C4343A0FEFC003A34941D_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": null
+      }
+    },
+    "url": "https://urbanaut.app/spot/creaturely-circles-what-if-the-land-were-alive",
+    "keywords": [
+      "Local",
+      "Workshop",
+      "Eco Friendly",
       "URBANAUT"
     ]
   },
@@ -3547,7 +3595,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 17,
+    "remainingAttendeeCapacity": 8,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
