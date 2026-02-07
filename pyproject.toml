@@ -1,34 +1,35 @@
 [project]
 name = "blr-today-ingest"
 version = "0.0.1"
+# We are stuck till binary wheels for jsonnet are published
 requires-python = ">=3.13"
 dependencies = [
-    "beautifulsoup4~=4.13",
+    "beautifulsoup4~=4.14",
     "cleanurl~=0.1",
-    "curl_cffi~=0.13",
+    "curl_cffi~=0.14",
     "datefinder~=0.7",
     "html2text~=2025.4",
     "html5lib~=1.1",
     "ics~=0.7",
-    "jsonnet~=0.21.0",
-    "lxml~=5.3",
+    "lxml~=6.0",
     "python-dateutil~=2.9",
     "python-jsonpath~=1.3",
     "pytz",
     "PyYAML~=6.0",
     "requests-cache~=1.2",
     "requests~=2.32",
-    "ujson~=5.10",
-    "urllib3~=2.4",
-    "w3lib~=2.3.1",
+    "ujson~=5.11",
+    "urllib3~=2.6",
+    "w3lib~=2.4.0",
     "pyld~=2.0.4",
-    "jsonschema~=4.25.0",
-    "protego>=0.5.0",
+    "jsonschema~=4.26.0",
+    "protego>=0.6.0",
+    "jsonnet>=0.21.0",
 ]
 [project.optional-dependencies]
 test = [
-    "pytest~=8.2",
-    "pytest-httpbin~=2.0",
+    "pytest~=9.0",
+    "pytest-httpbin~=2.1",
 ]
 [tool.pytest.ini_options]
 pythonpath = [

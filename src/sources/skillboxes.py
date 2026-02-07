@@ -1,30 +1,44 @@
 from urllib.parse import urlparse, parse_qs
-from common.fetch import Fetch
-import requests
 import json
 import sys
+import uuid
+from ..common.fetch import Fetch
 
+BROWSER_CODE = "safari260_ios"
 BASE_URL = "https://www.skillboxes.com/servers"
 HEADERS = {
-    "Content-Type": "application/json",
     "User-Agent": "Mozilla/5.0 (compatible; blr.today-bot; +https://blr.today/bot/)",
-    "Accept": "application/json",
 }
+
+SKILLBOX_DEBUG_LIMIT = None
+
+fetcher = Fetch(
+    cache={
+        "days": 1,
+        "allowable_codes": (200,),
+        "allowable_methods": ["POST"],
+    },
+    browser=BROWSER_CODE,
+)
 
 
 def get_events(city, page=1):
     payload = {
         "default_city": city,
+        "city": city,
         "opcode": "search",
-        "page": page,
         "type": "fetchAll",
+        "eventCityEnb": False,
+        "page": page,
     }
 
-    res = requests.post(
-        "https://www.skillboxes.com/servers/v3/api/event-new/get-event",
+    res = fetcher.post(
+        url="https://www.skillboxes.com/servers/v3/api/event-new/get-event",
         json=payload,
         headers=HEADERS,
+        cache=False,
     )
+
     if res.status_code != 200:
         print("[SKILLBOXES] Failed to get list of events.", file=sys.stderr)
         sys.exit(0)
@@ -35,10 +49,10 @@ def get_events(city, page=1):
         yield from get_events(city, page + 1)
 
 
-def get_event_details(session, slug):
+def get_event_details(slug):
     payload = {"slug": slug}
-    res = session.post(
-        "https://www.skillboxes.com/servers/v3/api/event-new/event-details",
+    res = fetcher.post(
+        url="https://www.skillboxes.com/servers/v3/api/event-new/event-details",
         json=payload,
         headers=HEADERS,
     )
@@ -50,19 +64,20 @@ def get_event_details(session, slug):
     return res.json()["data"]
 
 
-def get_event_tickets(session, slug):
+def get_event_tickets(slug):
     try:
         payload = {"slug": slug}
-        res = session.post(
-            "https://www.skillboxes.com/servers/v3/api/event-new/event-tickets",
+        res = fetcher.post(
+            url="https://www.skillboxes.com/servers/v3/api/event-new/event-tickets",
             json=payload,
             headers=HEADERS,
-        ).json()
+        )
 
-        if res["success"] == False:
+        data = res.json()
+        if data["success"] == False:
             return []
 
-        return res["data"]
+        return data["data"]
     except Exception as e:
         if "more than 100 headers" in str(e):
             return []
@@ -74,15 +89,20 @@ def get_event_tickets(session, slug):
             return []
 
 
-def __main__(cities):
-    session = Fetch(cache={"serializer": "json"})
+def __main__(cities, debug_limit=None):
     events = []
     for city in cities:
-        for slug in get_events(city):
-            details = get_event_details(session, slug)
+        count = 0
+        for slug in get_events(int(city)):
+            print(slug)
+            if debug_limit and count >= debug_limit:
+                print(f"[SKILLBOXES] Debug limit of {debug_limit} reached.", file=sys.stderr)
+                break
+            details = get_event_details(slug)
             if details and details["city_id"] == city:
-                details["tickets"] = get_event_tickets(session, slug)
+                details["tickets"] = get_event_tickets(slug)
                 events.append(details)
+            count += 1
 
     with open("out/skillboxes.jsonnet", "w") as f:
         json.dump(events, f, indent=2)
@@ -91,6 +111,6 @@ def __main__(cities):
 if __name__ == "__main__":
     if len(sys.argv) > 1:
         cities = sys.argv[1:]
-        __main__(cities)
+        __main__(cities, debug_limit=SKILLBOX_DEBUG_LIMIT)
     else:
         raise Exception("City ID is required. Bangalore=9")
