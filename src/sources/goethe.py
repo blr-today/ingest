@@ -115,9 +115,11 @@ def fetch_events():
     events = []
     session = get_cached_session()
     payload = {
+        "configData": '{"category_ID":"178926_178927_178937_178936_178935_178934_178933_178932_178931_178930_178929_178928_178938_182013","elementsperpage":20,"frontendfilter":"adress_IDtxt,category_IDtxt,date_range","headline":"Calendar","outputtype":"standardkalender","institute_ID":"311_312_313_314_315_316_458","week_day_start":1,"timezone":48}',
         "langId": "1",
         "filterData": json.dumps(
             {
+                "start": 0,
                 "adress_IDtxt": "Bangalore",
                 "dateStart": datetime.datetime.now().strftime("%d-%m-%Y"),
                 "dateEnd": (
