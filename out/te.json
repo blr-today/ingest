@@ -44,17 +44,16 @@
             "url": "https://www.youtube.com/watch?v=QsCgviwiqSM&t=3s "
          }
       ],
-      "startDate": "2026-02-06T21:30:00+05:30",
+      "startDate": "2026-02-07T21:30:00+05:30",
       "url": "https://www.total-environment.com/music-and-events/tineke-postma"
    },
    {
       "@context": "https://schema.org",
       "@type": "MusicEvent",
-      "description": "Lyrical melodies meet open forms and vibrant interplay, allowing the music to\nbreathe, unfold, and evolve in the moment. Inspired by wind, movement, and the\nartistic spirit of her mentor Wayne Shorter, VOYA becomes an intimate yet\nexpansive voyage—one that invites listeners into a space of curiosity,\nfreedom, and emotional depth.",
+      "description": "Joined by guitarist Peter Rom, bassist Hanibal Scheutz, and long-time\ncollaborator Sixtus Preiss on drums and arrangements, her band delivers\nintimate, dynamic performances that move fluidly between reflection,\ncelebration, laughter, and quiet intensity. From her beginnings as a singing\nDJ and philosophy student to four albums, collaborations, teaching, and essays\non motherhood and art, Parisini’s work resonates deeply with jazz lovers and\nthoughtful listeners alike.",
       "eventStatus": "EventScheduled",
-      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/tineke_F163C.jpg",
+      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/violetta_71691.jpg",
       "keywords": [
-         "Modern Jazz",
          "Contemporary Jazz",
          "WINDMILLS"
       ],
@@ -63,17 +62,17 @@
          "address": {
             "@type": "PostalAddress",
             "addressCountry": "India",
-            "addressLocality": "Whitefield",
-            "streetAddress": "Windmills, 6th Floor, 331, Road 5B, EPIP ZoneBangalore"
+            "addressLocality": "Raheja Commerzone",
+            "streetAddress": "Windmills Craftworks, Raheja Commerzone, Knowledge City, Rai Durg, Hyderabad - 500032Hyderabad"
          },
          "name": "Windmills Craftworks"
       },
-      "name": "Windmills Music Night - Tineke Postma",
+      "name": "Windmills Music Night - Violetta Parisini Band-Hyd",
       "offers": [
          {
             "@type": "Offer",
             "name": "Standing",
-            "price": 750,
+            "price": null,
             "priceCurrency": "INR"
          },
          {
@@ -86,14 +85,61 @@
       "performer": [
          {
             "@type": "MusicGroup",
-            "description": "With her latest album VOYA, saxophonist and composer Tineke Postma leads her quartet through a richly expressive contemporary jazz landscape. Grounded in deep listening and collective improvisation, the music explores themes of journey, transformation, and individual voice.",
-            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/tineke_09CEB.jpg",
-            "name": "Tineke Postma",
-            "url": "https://www.youtube.com/watch?v=QsCgviwiqSM&t=3s "
+            "description": "Violetta Parisini creates songs that open emotional landscapes listeners instantly recognize, even when they can’t quite name them. Singing in English and German, she weaves vulnerability, joy, grief, and tenderness—often holding contradictions side by side. Her songwriting transcends language, ensuring emotional clarity for non-German-speaking audiences.",
+            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/violetta_7B93D.jpg",
+            "name": "Violetta Parisini Band",
+            "url": "https://www.youtube.com/watch?v=JO9eccYkjf0 "
          }
       ],
-      "startDate": "2026-02-07T21:30:00+05:30",
-      "url": "https://www.total-environment.com/music-and-events/tineke-postma"
+      "startDate": "2026-02-11T19:30:00+05:30",
+      "url": "https://www.total-environment.com/music-and-events/violetta-parisini-band-hyd"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Joined by guitarist Peter Rom, bassist Hanibal Scheutz, and long-time\ncollaborator Sixtus Preiss on drums and arrangements, her band delivers\nintimate, dynamic performances that move fluidly between reflection,\ncelebration, laughter, and quiet intensity. From her beginnings as a singing\nDJ and philosophy student to four albums, collaborations, teaching, and essays\non motherhood and art, Parisini’s work resonates deeply with jazz lovers and\nthoughtful listeners alike.",
+      "eventStatus": "EventScheduled",
+      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/violetta_71691.jpg",
+      "keywords": [
+         "Contemporary Jazz",
+         "WINDMILLS"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "addressLocality": "Raheja Commerzone",
+            "streetAddress": "Windmills Craftworks, Raheja Commerzone, Knowledge City, Rai Durg, Hyderabad - 500032Hyderabad"
+         },
+         "name": "Windmills Craftworks"
+      },
+      "name": "Windmills Music Night - Violetta Parisini Band-Hyd",
+      "offers": [
+         {
+            "@type": "Offer",
+            "name": "Standing",
+            "price": null,
+            "priceCurrency": "INR"
+         },
+         {
+            "@type": "Offer",
+            "name": "Seating",
+            "price": null,
+            "priceCurrency": "INR"
+         }
+      ],
+      "performer": [
+         {
+            "@type": "MusicGroup",
+            "description": "Violetta Parisini creates songs that open emotional landscapes listeners instantly recognize, even when they can’t quite name them. Singing in English and German, she weaves vulnerability, joy, grief, and tenderness—often holding contradictions side by side. Her songwriting transcends language, ensuring emotional clarity for non-German-speaking audiences.",
+            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/violetta_7B93D.jpg",
+            "name": "Violetta Parisini Band",
+            "url": "https://www.youtube.com/watch?v=JO9eccYkjf0 "
+         }
+      ],
+      "startDate": "2026-02-12T19:30:00+05:30",
+      "url": "https://www.total-environment.com/music-and-events/violetta-parisini-band-hyd"
    },
    {
       "@context": "https://schema.org",
@@ -188,5 +234,387 @@
       ],
       "startDate": "2026-02-14T21:30:00+05:30",
       "url": "https://www.total-environment.com/music-and-events/violetta-parisini-band"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Hailed by A.R. Rahman as a “living hope for quality music,” Prasanna brings to\nthe stage a powerful set drawn from his vast body of work. Expect a high-\nenergy musical journey through his signature sound — Ragabop, a thrilling\nblend where Indian classical ragas meet the spontaneity and sophistication of\nJazz.",
+      "eventStatus": "EventScheduled",
+      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/vasu_22226.jpg",
+      "keywords": [
+         "Indian Music",
+         "Jazz",
+         "WINDMILLS"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "addressLocality": "Raheja Commerzone",
+            "streetAddress": "Windmills Craftworks, Raheja Commerzone, Knowledge City, Rai Durg, Hyderabad - 500032Hyderabad"
+         },
+         "name": "Windmills Craftworks"
+      },
+      "name": "Windmills Music Night - RAGABOP – The Intersection Of Indian Music And Jazz-Hyd",
+      "offers": [
+         {
+            "@type": "Offer",
+            "name": "Standing",
+            "price": null,
+            "priceCurrency": "INR"
+         },
+         {
+            "@type": "Offer",
+            "name": "Seating",
+            "price": null,
+            "priceCurrency": "INR"
+         }
+      ],
+      "performer": [
+         {
+            "@type": "MusicGroup",
+            "description": "Get ready for an unforgettable night with Guitar Prasanna — one of India’s most celebrated and globally acclaimed guitar virtuosos and composers. Described by AllAboutJazz as an artist who “plays like nobody on the planet” and praised by guitar legend Guthrie Govan for making the electric guitar do the impossible, Prasanna’s music is truly in a league of its own.",
+            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/vasu_8EB9D.jpg",
+            "name": "RAGABOP – The Intersection Of Indian Music And Jazz",
+            "url": "https://www.youtube.com/watch?v=T8ELh-UgIWE"
+         }
+      ],
+      "startDate": "2026-02-20T19:30:00+05:30",
+      "url": "https://www.total-environment.com/music-and-events/ragabop-the-intersection-of-indian-music-and-jazz-hyd"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Hailed by A.R. Rahman as a “living hope for quality music,” Prasanna brings to\nthe stage a powerful set drawn from his vast body of work. Expect a high-\nenergy musical journey through his signature sound — Ragabop, a thrilling\nblend where Indian classical ragas meet the spontaneity and sophistication of\nJazz.",
+      "eventStatus": "EventScheduled",
+      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/vasu_22226.jpg",
+      "keywords": [
+         "Indian Music",
+         "Jazz",
+         "WINDMILLS"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "addressLocality": "Raheja Commerzone",
+            "streetAddress": "Windmills Craftworks, Raheja Commerzone, Knowledge City, Rai Durg, Hyderabad - 500032Hyderabad"
+         },
+         "name": "Windmills Craftworks"
+      },
+      "name": "Windmills Music Night - RAGABOP – The Intersection Of Indian Music And Jazz-Hyd",
+      "offers": [
+         {
+            "@type": "Offer",
+            "name": "Standing",
+            "price": null,
+            "priceCurrency": "INR"
+         },
+         {
+            "@type": "Offer",
+            "name": "Seating",
+            "price": null,
+            "priceCurrency": "INR"
+         }
+      ],
+      "performer": [
+         {
+            "@type": "MusicGroup",
+            "description": "Get ready for an unforgettable night with Guitar Prasanna — one of India’s most celebrated and globally acclaimed guitar virtuosos and composers. Described by AllAboutJazz as an artist who “plays like nobody on the planet” and praised by guitar legend Guthrie Govan for making the electric guitar do the impossible, Prasanna’s music is truly in a league of its own.",
+            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/vasu_8EB9D.jpg",
+            "name": "RAGABOP – The Intersection Of Indian Music And Jazz",
+            "url": "https://www.youtube.com/watch?v=T8ELh-UgIWE"
+         }
+      ],
+      "startDate": "2026-02-21T19:30:00+05:30",
+      "url": "https://www.total-environment.com/music-and-events/ragabop-the-intersection-of-indian-music-and-jazz-hyd"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Blending Electronic Folk (Folktronica) with Kannada and Hindi songwriting,\ntheir sound is both contemporary and deeply connected to cultural roots. The\nCollective also features powerful renditions of poetry by saint poets such as\nPurandaradasa, Basavanna, and Kabir, along with works by modern lyricists and\nwriters—adding depth and fresh perspective to every performance. An extension\nof Vasu’s artistic journey, VDC embodies his soulful vocals, wide range, and\nvibrant energy in a moving celebration of life.",
+      "eventStatus": "EventScheduled",
+      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/vasu_A7E04.jpg",
+      "keywords": [
+         "Electronic-Folk ",
+         "WINDMILLS"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "addressLocality": "Whitefield",
+            "streetAddress": "Windmills, 6th Floor, 331, Road 5B, EPIP ZoneBangalore"
+         },
+         "name": "Windmills Craftworks"
+      },
+      "name": "Windmills Music Night - Vasu Dixit Collective",
+      "offers": [
+         {
+            "@type": "Offer",
+            "name": "Standing",
+            "price": 750,
+            "priceCurrency": "INR"
+         },
+         {
+            "@type": "Offer",
+            "name": "Seating",
+            "price": null,
+            "priceCurrency": "INR"
+         }
+      ],
+      "performer": [
+         {
+            "@type": "MusicGroup",
+            "description": "Vasu Dixit Collective (VDC) is an ensemble of like-minded musicians and artists whose collaboration brings together musicianship, creativity, and tradition into an immersive live experience. Rooted in community and compassion, VDC creates music that is meant to be felt, shared, and celebrated together.",
+            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/vasu_36829.jpg",
+            "name": "Vasu Dixit Collective",
+            "url": "https://www.youtube.com/watch?v=Al7ZLlBMTk8"
+         }
+      ],
+      "startDate": "2026-02-20T21:30:00+05:30",
+      "url": "https://www.total-environment.com/music-and-events/vasu-dixit-collective"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Blending Electronic Folk (Folktronica) with Kannada and Hindi songwriting,\ntheir sound is both contemporary and deeply connected to cultural roots. The\nCollective also features powerful renditions of poetry by saint poets such as\nPurandaradasa, Basavanna, and Kabir, along with works by modern lyricists and\nwriters—adding depth and fresh perspective to every performance. An extension\nof Vasu’s artistic journey, VDC embodies his soulful vocals, wide range, and\nvibrant energy in a moving celebration of life.",
+      "eventStatus": "EventScheduled",
+      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/vasu_A7E04.jpg",
+      "keywords": [
+         "Electronic-Folk ",
+         "WINDMILLS"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "addressLocality": "Whitefield",
+            "streetAddress": "Windmills, 6th Floor, 331, Road 5B, EPIP ZoneBangalore"
+         },
+         "name": "Windmills Craftworks"
+      },
+      "name": "Windmills Music Night - Vasu Dixit Collective",
+      "offers": [
+         {
+            "@type": "Offer",
+            "name": "Standing",
+            "price": 750,
+            "priceCurrency": "INR"
+         },
+         {
+            "@type": "Offer",
+            "name": "Seating",
+            "price": null,
+            "priceCurrency": "INR"
+         }
+      ],
+      "performer": [
+         {
+            "@type": "MusicGroup",
+            "description": "Vasu Dixit Collective (VDC) is an ensemble of like-minded musicians and artists whose collaboration brings together musicianship, creativity, and tradition into an immersive live experience. Rooted in community and compassion, VDC creates music that is meant to be felt, shared, and celebrated together.",
+            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/vasu_36829.jpg",
+            "name": "Vasu Dixit Collective",
+            "url": "https://www.youtube.com/watch?v=Al7ZLlBMTk8"
+         }
+      ],
+      "startDate": "2026-02-21T21:30:00+05:30",
+      "url": "https://www.total-environment.com/music-and-events/vasu-dixit-collective"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Tomasz Bura, a Poland-born London-based jazz pianist, composer and bandleader,\nis a key voice on the European jazz scene, known for his acclaimed albums\nRitual and The Room Upstairs and performances at iconic stages such as Ronnie\nScott’s. Together, they deliver an immersive set that bridges classical\nelegance, jazz freedom, and contemporary expression.",
+      "eventStatus": "EventScheduled",
+      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/1980 x 1080_60C62.jpg",
+      "keywords": [
+         "Jazz",
+         "Classical Crossover ",
+         "WINDMILLS"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "addressLocality": "Whitefield",
+            "streetAddress": "Windmills, 6th Floor, 331, Road 5B, EPIP ZoneBangalore"
+         },
+         "name": "Windmills Craftworks"
+      },
+      "name": "Windmills Music Night - A Night Of Gershwin & Hollywood Classics",
+      "offers": [
+         {
+            "@type": "Offer",
+            "name": "Standing",
+            "price": 750,
+            "priceCurrency": "INR"
+         },
+         {
+            "@type": "Offer",
+            "name": "Seating",
+            "price": null,
+            "priceCurrency": "INR"
+         }
+      ],
+      "performer": [
+         {
+            "@type": "MusicGroup",
+            "description": "LOLA G is a Moscow-born soprano and recording artist celebrated for her ability to move effortlessly between classical, jazz and contemporary worlds. Trained at the Purcell School, Guildhall School of Music & Drama and the Royal Academy of Music, she has performed internationally at prestigious venues and festivals.",
+            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/1980 x 1080_15C34.jpg",
+            "name": "A Night Of Gershwin & Hollywood Classics",
+            "url": "https://www.youtube.com/watch?v=lrXdj1A_0t0&t=66s "
+         }
+      ],
+      "startDate": "2026-02-27T21:30:00+05:30",
+      "url": "https://www.total-environment.com/music-and-events/a-night-of-gershwin-hollywood-classics"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Tomasz Bura, a Poland-born London-based jazz pianist, composer and bandleader,\nis a key voice on the European jazz scene, known for his acclaimed albums\nRitual and The Room Upstairs and performances at iconic stages such as Ronnie\nScott’s. Together, they deliver an immersive set that bridges classical\nelegance, jazz freedom, and contemporary expression.",
+      "eventStatus": "EventScheduled",
+      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/1980 x 1080_60C62.jpg",
+      "keywords": [
+         "Jazz",
+         "Classical Crossover ",
+         "WINDMILLS"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "addressLocality": "Whitefield",
+            "streetAddress": "Windmills, 6th Floor, 331, Road 5B, EPIP ZoneBangalore"
+         },
+         "name": "Windmills Craftworks"
+      },
+      "name": "Windmills Music Night - A Night Of Gershwin & Hollywood Classics",
+      "offers": [
+         {
+            "@type": "Offer",
+            "name": "Standing",
+            "price": 750,
+            "priceCurrency": "INR"
+         },
+         {
+            "@type": "Offer",
+            "name": "Seating",
+            "price": null,
+            "priceCurrency": "INR"
+         }
+      ],
+      "performer": [
+         {
+            "@type": "MusicGroup",
+            "description": "LOLA G is a Moscow-born soprano and recording artist celebrated for her ability to move effortlessly between classical, jazz and contemporary worlds. Trained at the Purcell School, Guildhall School of Music & Drama and the Royal Academy of Music, she has performed internationally at prestigious venues and festivals.",
+            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/1980 x 1080_15C34.jpg",
+            "name": "A Night Of Gershwin & Hollywood Classics",
+            "url": "https://www.youtube.com/watch?v=lrXdj1A_0t0&t=66s "
+         }
+      ],
+      "startDate": "2026-02-28T21:30:00+05:30",
+      "url": "https://www.total-environment.com/music-and-events/a-night-of-gershwin-hollywood-classics"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Formed in the late 1990s, the band gained international attention with their\nacclaimed debut Bahamut, praised for its adventurous fusion of styles and\nfeatured on major broadcasts such as NPR’s All Things Considered. Over the\nyears, Hazmat Modine has continued to evolve through bold collaborations and\nenergetic live performances, releasing standout records including Cicada,\nExtra-Deluxe-Supreme, Box of Breath, and Bonfire. Their music is both timeless\nand surprising—raw, soulful, and joyfully unbound by genre.",
+      "eventStatus": "EventScheduled",
+      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/hazmat_62774.jpg",
+      "keywords": [
+         "Jazz",
+         "World Music",
+         "WINDMILLS"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "addressLocality": "Whitefield",
+            "streetAddress": "Windmills, 6th Floor, 331, Road 5B, EPIP ZoneBangalore"
+         },
+         "name": "Windmills Craftworks"
+      },
+      "name": "Windmills Music Night - Hazmat Modine - Good Friend Tour",
+      "offers": [
+         {
+            "@type": "Offer",
+            "name": "Standing",
+            "price": 750,
+            "priceCurrency": "INR"
+         },
+         {
+            "@type": "Offer",
+            "name": "Seating",
+            "price": null,
+            "priceCurrency": "INR"
+         }
+      ],
+      "performer": [
+         {
+            "@type": "MusicGroup",
+            "description": "Hazmat Modine is a New York City–based band led by singer, songwriter, and multi-instrumentalist Wade Schuman, known for turning roots music into something wildly original and impossible to categorize. Drawing from blues at its core, their sound expands into folk, jazz, and global traditions, powered by an uncommon lineup that can include harmonica, tuba, trumpet, saxophone, trombone, drums, banjo, guitar, and violin—all woven together with rich vocal harmonies.",
+            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/hazmat_6C83B.jpg",
+            "name": "Hazmat Modine",
+            "url": "https://www.youtube.com/watch?v=OOQAVW4oRs8"
+         }
+      ],
+      "startDate": "2026-03-06T21:30:00+05:30",
+      "url": "https://www.total-environment.com/music-and-events/hazmat-modine-good-friend-tour"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "MusicEvent",
+      "description": "Formed in the late 1990s, the band gained international attention with their\nacclaimed debut Bahamut, praised for its adventurous fusion of styles and\nfeatured on major broadcasts such as NPR’s All Things Considered. Over the\nyears, Hazmat Modine has continued to evolve through bold collaborations and\nenergetic live performances, releasing standout records including Cicada,\nExtra-Deluxe-Supreme, Box of Breath, and Bonfire. Their music is both timeless\nand surprising—raw, soulful, and joyfully unbound by genre.",
+      "eventStatus": "EventScheduled",
+      "image": "https://totalenv.blob.core.windows.net/te-music-events/Images/hazmat_62774.jpg",
+      "keywords": [
+         "Jazz",
+         "World Music",
+         "WINDMILLS"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "India",
+            "addressLocality": "Whitefield",
+            "streetAddress": "Windmills, 6th Floor, 331, Road 5B, EPIP ZoneBangalore"
+         },
+         "name": "Windmills Craftworks"
+      },
+      "name": "Windmills Music Night - Hazmat Modine - Good Friend Tour",
+      "offers": [
+         {
+            "@type": "Offer",
+            "name": "Standing",
+            "price": 750,
+            "priceCurrency": "INR"
+         },
+         {
+            "@type": "Offer",
+            "name": "Seating",
+            "price": null,
+            "priceCurrency": "INR"
+         }
+      ],
+      "performer": [
+         {
+            "@type": "MusicGroup",
+            "description": "Hazmat Modine is a New York City–based band led by singer, songwriter, and multi-instrumentalist Wade Schuman, known for turning roots music into something wildly original and impossible to categorize. Drawing from blues at its core, their sound expands into folk, jazz, and global traditions, powered by an uncommon lineup that can include harmonica, tuba, trumpet, saxophone, trombone, drums, banjo, guitar, and violin—all woven together with rich vocal harmonies.",
+            "image": "https://totalenv.blob.core.windows.net/te-music-event-artists/Images/hazmat_6C83B.jpg",
+            "name": "Hazmat Modine",
+            "url": "https://www.youtube.com/watch?v=OOQAVW4oRs8"
+         }
+      ],
+      "startDate": "2026-03-07T21:30:00+05:30",
+      "url": "https://www.total-environment.com/music-and-events/hazmat-modine-good-friend-tour"
    }
 ]
