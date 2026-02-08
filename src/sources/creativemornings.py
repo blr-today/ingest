@@ -29,7 +29,10 @@ def scrape_cm(location):
             # check if date is in the future
             if d > datetime.now():
                 print(l)
+            else:
+                print("[CREATIVEMORNINGS] Event in past: " + l)
         except:
+            print("FAIL")
             pass
 
 
