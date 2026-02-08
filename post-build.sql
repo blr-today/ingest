@@ -45,6 +45,12 @@ WHERE
   OR event_json ->> '$.organizer.name' LIKE '%Know How%'
   -- Disha is the organizer at Know How.
   OR event_json ->> '$.organizer.name' LIKE '%Disha Gangadhar%'
+  -- Also art events of unknown quality but there's a lot of them.
+  OR event_json ->> '$.organizer.name' LIKE '%ANSHUL SUNDER SHARMA%'
+  -- Same: Lots of art events always happening
+  OR event_json ->> '$.organizer.name' LIKE '%STORYZONE%'
+  OR event_json ->> '$.organizer.name' LIKE '%ZIEL RIFLE SOCIETY%'
+  
   -- Silly dating event organizer: https://district.in/search?q=Rashid%20Mubarak%20Nadaf
   OR event_json ->> '$.organizer.name' LIKE '%rashid mubarak nadaf%';
 
@@ -989,5 +995,46 @@ SET
 WHERE
   event_json -> '$.keywords' NOT LIKE '%NOTINBLR%'
   AND (
-    event_json ->> '$.location' REGEXP '\b(Mumbai|Delhi|Hyderabad|Ahmedabad|Chennai|Kolkata|Surat|Pune|Jaipur|Lucknow|Kanpur|Nagpur|Indore|Thane|Bhopal|Visakhapatnam|Patna|Vadodara|Ghaziabad|Ludhiana|Agra|Nashik|Faridabad|Meerut|Rajkot|Varanasi|Srinagar|Aurangabad|Dhanbad|Amritsar|Prayagraj|Howrah|Ranchi|Jabalpur|Gwalior|Coimbatore|Vijayawada|Jodhpur|Madurai|Raipur|Kota|Bareilly)\b'
+    event_json ->> '$.location' LIKE '%Mumbai%'
+    OR event_json ->> '$.location' LIKE '%Delhi%'
+    OR event_json ->> '$.location' LIKE '%Hyderabad%'
+    OR event_json ->> '$.location' LIKE '%Ahmedabad%'
+    OR event_json ->> '$.location' LIKE '%Chennai%'
+    OR event_json ->> '$.location' LIKE '%Kolkata%'
+    OR event_json ->> '$.location' LIKE '%Surat%'
+    OR event_json ->> '$.location' LIKE '%Pune%'
+    OR event_json ->> '$.location' LIKE '%Jaipur%'
+    OR event_json ->> '$.location' LIKE '%Lucknow%'
+    OR event_json ->> '$.location' LIKE '%Kanpur%'
+    OR event_json ->> '$.location' LIKE '%Nagpur%'
+    OR event_json ->> '$.location' LIKE '%Indore%'
+    OR event_json ->> '$.location' LIKE '%Thane%'
+    OR event_json ->> '$.location' LIKE '%Bhopal%'
+    OR event_json ->> '$.location' LIKE '%Visakhapatnam%'
+    OR event_json ->> '$.location' LIKE '%Patna%'
+    OR event_json ->> '$.location' LIKE '%Vadodara%'
+    OR event_json ->> '$.location' LIKE '%Ghaziabad%'
+    OR event_json ->> '$.location' LIKE '%Ludhiana%'
+    OR event_json ->> '$.location' LIKE '%Agra%'
+    OR event_json ->> '$.location' LIKE '%Nashik%'
+    OR event_json ->> '$.location' LIKE '%Faridabad%'
+    OR event_json ->> '$.location' LIKE '%Meerut%'
+    OR event_json ->> '$.location' LIKE '%Rajkot%'
+    OR event_json ->> '$.location' LIKE '%Varanasi%'
+    OR event_json ->> '$.location' LIKE '%Srinagar%'
+    OR event_json ->> '$.location' LIKE '%Aurangabad%'
+    OR event_json ->> '$.location' LIKE '%Dhanbad%'
+    OR event_json ->> '$.location' LIKE '%Amritsar%'
+    OR event_json ->> '$.location' LIKE '%Prayagraj%'
+    OR event_json ->> '$.location' LIKE '%Howrah%'
+    OR event_json ->> '$.location' LIKE '%Ranchi%'
+    OR event_json ->> '$.location' LIKE '%Jabalpur%'
+    OR event_json ->> '$.location' LIKE '%Gwalior%'
+    OR event_json ->> '$.location' LIKE '%Coimbatore%'
+    OR event_json ->> '$.location' LIKE '%Vijayawada%'
+    OR event_json ->> '$.location' LIKE '%Jodhpur%'
+    OR event_json ->> '$.location' LIKE '%Madurai%'
+    OR event_json ->> '$.location' LIKE '%Raipur%'
+    OR event_json ->> '$.location' LIKE '%Kota%'
+    OR event_json ->> '$.location' LIKE '%Bareilly%'
   );

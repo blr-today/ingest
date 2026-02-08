@@ -53,7 +53,6 @@ def convert_ics_to_events(ics_file_path):
         if event.location:
             event_json["location"] = {"@type": "Place", "name": event.location}
 
-        print(event_json)
         for l in LANGUAGE_MAP:
             regex = r"\b" + l + r"\b"
             if re.search(regex, event_json["description"]):
