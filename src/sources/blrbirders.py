@@ -30,8 +30,6 @@ def parse_bng_bird_events(soup):
             event = json.loads(tag.string)
         except:
             print("[BLRBIRDERS] Failed to parse " + tag.string.split("\n")[1])
-        # https://blrbirders.com/events/first-sunday-bird-walk/var/ri-16.l-L1 -> https://blrbirders.com/events/first-sunday-bird-walk/
-
         event['url'] = event['url'].split("/var/")[0]
 
         event["startDate"] = (
@@ -75,4 +73,4 @@ if __name__ == "__main__":
 
     with open("out/blrbirders.json", "w", encoding="utf-8") as f:
         json.dump(events, f, indent=2, ensure_ascii=False)
-        print(f"[BNGBIRDS] {len(events)} events")
+        print(f"[BLRBIRDERS] {len(events)} events")
