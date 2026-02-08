@@ -28,8 +28,7 @@ dependencies = [
 ]
 [project.optional-dependencies]
 test = [
-    "pytest~=9.0",
-    "pytest-httpbin~=2.1",
+    "pytest~=9.0"
 ]
 [tool.pytest.ini_options]
 pythonpath = [
