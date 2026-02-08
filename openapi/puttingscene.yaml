@@ -1,0 +1,196 @@
+openapi: 3.0.3
+info:
+  title: PuttingScene Events API
+  version: 1.0.0
+servers:
+  - url: https://api.puttingscene.com/api/v1
+paths:
+  /events/events/:
+    get:
+      summary: List events
+      description: Returns a paginated list of events with filtering and ordering.
+      parameters:
+        - name: ordering
+          in: query
+          schema:
+            type: string
+            enum: [id, -id, event_date, -event_date]
+        - name: approval_status
+          in: query
+          schema:
+            type: string
+            enum: [draft, pending, approved, rejected, cancelled, requires_changes]
+        - name: is_private
+          in: query
+          schema:
+            type: string
+            enum: [unknown, "true", "false"]
+        - name: event_source_type
+          in: query
+          schema:
+            type: string
+            enum: [PARTNER, SCRAPED, INTERNAL]
+        - $ref: '#/components/parameters/DateFilter_event_date'
+        - $ref: '#/components/parameters/DateFilter_event_date_gte'
+        - $ref: '#/components/parameters/DateFilter_event_date_lte'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/PaginatedEventList'
+
+  /events/events/{id}/:
+    get:
+      summary: Retrieve an event
+      description: Returns details for a single event. Secret menu items are hidden for non-access pass members.
+      parameters:
+        - name: id
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Event'
+
+components:
+  parameters:
+    DateFilter_event_date:
+      name: event_date
+      in: query
+      schema: { type: string, format: date }
+    DateFilter_event_date_gte:
+      name: event_date__gte
+      in: query
+      schema: { type: string, format: date }
+    DateFilter_event_date_lte:
+      name: event_date__lte
+      in: query
+      schema: { type: string, format: date }
+
+  schemas:
+    PaginatedEventList:
+      type: object
+      properties:
+        count: { type: integer }
+        next: { type: string, format: uri, nullable: true }
+        previous: { type: string, format: uri, nullable: true }
+        results:
+          type: array
+          items: { $ref: '#/components/schemas/Event' }
+
+    Event:
+      type: object
+      properties:
+        id: { type: integer }
+        uuid: { type: string, format: uuid, nullable: true }
+        title: { type: string }
+        short_description: { type: string }
+        description: { type: string }
+        event_type: { type: string }
+        event_date: { type: string, format: date, example: "YYYY-MM-DD" }
+        start_time: { type: string, format: time, example: "HH:MM:SS" }
+        end_time: { type: string, format: time, nullable: true }
+        location: { type: string }
+        venue: { $ref: '#/components/schemas/Venue' }
+        is_online: { type: boolean }
+        online_url: { type: string }
+        approval_status: { type: string }
+        is_paid: { type: boolean }
+        price: { type: string, format: decimal }
+        max_attendees: { type: integer, nullable: true }
+        max_bookings_per_user: { type: integer }
+        is_private: { type: boolean }
+        requires_approval: { type: boolean }
+        terms_and_conditions: { type: string }
+        publish_date: { type: string, format: date }
+        priority_publish_date: { type: string, format: date, nullable: true }
+        secret_menu: { type: object, nullable: true }
+        created_at: { type: string, format: date-time, description: "ISO 8601" }
+        updated_at: { type: string, format: date-time }
+        images:
+          type: array
+          items: { $ref: '#/components/schemas/EventImage' }
+        ticket_tiers:
+          type: array
+          items: { $ref: '#/components/schemas/TicketTier' }
+        slots:
+          type: array
+          items: { $ref: '#/components/schemas/Slot' }
+        next_slot: { $ref: '#/components/schemas/Slot', nullable: true }
+        source_url: { type: string, format: uri }
+        source_name: { type: string }
+
+    Venue:
+      type: object
+      properties:
+        id: { type: integer }
+        name: { type: string }
+        google_url: { type: string, format: uri }
+        latitude: { type: number, format: float }
+        longitude: { type: number, format: float }
+        city: { type: string }
+        created_at: { type: string, format: date-time }
+
+    EventImage:
+      type: object
+      properties:
+        id: { type: integer }
+        image_url: { type: string, format: uri }
+        file_name: { type: string }
+        external_url: { type: string, format: uri }
+        is_gif: { type: boolean }
+
+    TicketTier:
+      type: object
+      properties:
+        id: { type: integer }
+        name: { type: string }
+        description: { type: string }
+        price: { type: string, format: decimal }
+        price_with_tax: { type: string, format: decimal }
+        max_attendees: { type: integer, nullable: true }
+        ticket_includes: { type: array, items: { type: string } }
+        only_pass_members_allowed: { type: boolean }
+        display_order: { type: integer }
+        is_active: { type: boolean }
+        max_bookings_per_user: { type: integer }
+        gst_tier: { type: string }
+        available_capacity:
+          type: array
+          items:
+            type: object
+            properties:
+              slot_id: { type: integer }
+              available: { type: integer }
+        bookings_count: { type: integer }
+
+    Slot:
+      type: object
+      properties:
+        id: { type: integer }
+        event: { type: integer }
+        date: { type: string, format: date }
+        end_date: { type: string, format: date }
+        start_time: { type: string, format: time }
+        end_time: { type: string, format: time }
+        is_active: { type: boolean }
+        notes: { type: string }
+        max_attendees: { type: integer }
+        is_recurring: { type: boolean }
+        recurring_schedule: { type: object, nullable: true }
+        days_before_recurring_creation: { type: integer }
+        recurring_end_date: { type: string, format: date, nullable: true }
+        recurring_parent_slot: { type: integer, nullable: true }
+        last_recurring_slot_created: { type: string, format: date, nullable: true }
+        total_bookings: { type: integer }
+        reserved_seats: { type: integer }
+        total_capacity: { type: integer }
+        available_capacity: { type: integer }
+        is_full: { type: boolean }

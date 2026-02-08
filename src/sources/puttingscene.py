@@ -1,357 +1,374 @@
 """
 PuttingScene Event Scraper
 
-This module scrapes event data from puttingscene.com and converts it to Schema.org Event format.
-The scraper uses binary search to find the latest event ID and fetches recent events.
+Fetches event data from the PuttingScene API and converts it to Schema.org Event format.
+
+API: https://api.puttingscene.com/api/v1/events/events/
+
+Process:
+1. Fetch paginated event list with filters:
+   - publish_date__lte: today (already published)
+   - event_date__gte: today (future events)
+   - approval_status: approved
+   - is_private: false
+   - custom_filter: true
+
+2. For each event, fetch details from /events/events/{id}/ to get:
+   - source_url: original event URL (used as sameAs)
+   - slots: for PARTNER events that use slot-based scheduling
+
+3. Convert to Schema.org Event format:
+   - Regular events: have event_date set, create one Event per event
+   - Slot-based events: have slots[] instead of event_date, create one Event per slot
+     (e.g., a workshop with morning and afternoon sessions becomes two Events)
+
+4. Pricing from ticket_tiers:
+   - Each tier has slot-specific availability via available_capacity[{slot_id, available}]
+   - Note: PARTNER events may have is_paid=False but priced ticket_tiers, so we check both
 """
 
 import json
-import html
-import urllib.parse
 import logging
 from datetime import datetime, timedelta
-from typing import Optional, Dict, Any
-from common.session import get_cached_session
-from common.tz import IST
-from bs4 import BeautifulSoup
-import re
-import cleanurl
-
-# Configuration constants
-BASE_EVENT_ID = 520
-EVENTS_PER_DAY = 10
-BASE_DATE = datetime(2025, 8, 3).date()
-RECENT_EVENTS_COUNT = 99
-DEFAULT_EVENT_DURATION_HOURS = 2
+from ..common.fetch import Fetch
+from ..common.tz import IST
 
 logger = logging.getLogger("PUTTINGSCENE")
 
-# Configure logging if not already configured
 if not logging.getLogger().handlers:
     logging.basicConfig(
         level=logging.INFO, format="[%(name)s] - %(levelname)s - %(message)s"
     )
 
+API_BASE = "https://api.puttingscene.com/api/v1/events/events/"
+DEFAULT_EVENT_DURATION_HOURS = 2
 
-def _clean_instagram_url(url: str) -> str:
-    """Remove Instagram-specific tracking parameters."""
-    parsed = urllib.parse.urlparse(url)
-    query_params = urllib.parse.parse_qs(parsed.query)
-    if "igsh" in query_params:
-        del query_params["igsh"]
-    new_query = urllib.parse.urlencode(query_params, doseq=True)
-    return urllib.parse.urlunparse(
-        (
-            parsed.scheme,
-            parsed.netloc,
-            parsed.path,
-            parsed.params,
-            new_query,
-            parsed.fragment,
-        )
-    )
+fetcher = Fetch(
+    cache={
+        "days": 1,
+        "allowable_codes": (200,),
+        "allowable_methods": ["GET"],
+    },
+)
 
 
-def find_max_event_id() -> int:
-    """
-    Find the highest event ID using delta-based search around the starting guess.
-
-    Uses powers of 2 deltas starting from 16, then refines by doubling/halving
-    the delta based on whether we need to go up or down.
-
-    Returns:
-        The highest valid event ID found
-    """
-    session = get_cached_session(allowable_methods=["HEAD"], days=7)
-
-    # Calculate starting guess based on days since base date
-    today = datetime.now().date()
-    days_diff = (today - BASE_DATE).days
-    start_guess = BASE_EVENT_ID + (days_diff * EVENTS_PER_DAY)
-
-    logger.debug(f"Starting delta search from event ID {start_guess}")
-
-    def check_event_exists(event_id: int) -> bool:
-        """Check if an event ID exists (returns 200)."""
-        try:
-            response = session.head(
-                f"https://puttingscene.com/events/{event_id}", timeout=10
-            )
-            return response.status_code == 200
-        except Exception as e:
-            logger.warning(f"Error checking event {event_id}: {e}")
-            return False
-
-    # Check if our starting guess exists
-    current = start_guess
-    if not check_event_exists(current):
-        logger.debug(f"Starting guess {current} doesn't exist, searching backwards")
-        # Search backwards first
-        delta = 16
-        while delta <= 512:  # Max reasonable backwards search
-            test_id = current - delta
-            if test_id <= 0:
-                break
-            if check_event_exists(test_id):
-                current = test_id
-                logger.debug(f"Found valid event at {current} (delta -{delta})")
-                break
-            delta *= 2
-        else:
-            logger.warning(f"Could not find valid events near {start_guess}")
-            return start_guess
-
-    # Now find the highest valid event ID starting from current
-    logger.debug(f"Searching forward from {current}")
-    max_found = current
-    delta = 16
-
-    # First, find the direction and rough boundary
-    while delta <= 512:  # Reasonable upper limit
-        test_id = current + delta
-        logger.debug(f"Testing event {test_id} (delta +{delta})")
-
-        if check_event_exists(test_id):
-            max_found = test_id
-            logger.debug(f"Found valid event at {test_id} (delta +{delta})")
-            delta *= 2  # Double delta to search further
-        else:
-            logger.debug(f"Event {test_id} doesn't exist, refining search")
-            break
-
-    # Now refine between max_found and max_found + delta
-    logger.debug(f"Refining search between {max_found} and {max_found + delta}")
-
-    # Binary search in the narrowed range
-    low = max_found
-    high = max_found + delta
-
-    while low < high - 1:
-        mid = (low + high) // 2
-        logger.debug(f"Binary search testing {mid}")
-
-        if check_event_exists(mid):
-            low = mid
-            logger.debug(f"Event {mid} exists, updating low bound")
-        else:
-            high = mid
-            logger.debug(f"Event {mid} doesn't exist, updating high bound")
-
-    logger.info(f"Found max event ID: {low}")
-    return low
-
-
-def fetch_event_html(event_id):
-    session = get_cached_session()
-    response = session.get(f"https://puttingscene.com/events/{event_id}")
-    if response.status_code == 200:
-        return response.text
-    return None
-
-
-def parse_event_html(html_content, event_id):
-    soup = BeautifulSoup(html_content, "html.parser")
-
-    # Extract title
-    title_elem = soup.find("h1")
-    if not title_elem:
+def fetch_event_details(event_id: int) -> dict | None:
+    """Fetch detailed event info including source_url and slots."""
+    res = fetcher.get(url=f"{API_BASE}{event_id}/")
+    if res.status_code != 200:
+        logger.warning(f"Failed to fetch details for event {event_id}: {res.status_code}")
         return None
-    title = html.unescape(title_elem.get_text().strip())
+    return res.json()
 
-    # Skip test events
-    if "test" in title.lower():
-        return None
 
-    # Extract description
-    about_section = soup.find("h2", string="About the Experience")
-    description = ""
-    if about_section and about_section.find_next("p"):
-        description = html.unescape(about_section.find_next("p").get_text().strip())
+def fetch_events_page(params: dict) -> dict:
+    """Fetch a single page of events from the API."""
+    res = fetcher.get(url=API_BASE, params=params)
+    if res.status_code != 200:
+        logger.error(f"Failed to fetch events: {res.status_code}")
+        return {"results": [], "next": None}
+    return res.json()
 
-    # Extract image
-    og_image = soup.find("meta", property="og:image")
-    image = og_image["content"] if og_image else ""
 
-    # Extract date and time
-    date_span = soup.find("span", class_="font-bold text-[13px] text-black")
-    time_span = soup.find("span", class_="text-[13px] text-black")
+def fetch_all_events_for_source(event_source_type: str | None) -> list:
+    """Fetch all pages of events for a given source type."""
+    today = datetime.now().strftime("%Y-%m-%d")
 
-    if not date_span or not time_span:
-        return None
-
-    date_text = date_span.get_text().strip()
-    time_text = time_span.get_text().strip()
-
-    # Parse date (format: "Sun, 3 Aug")
-    try:
-        current_date = datetime.now()
-        current_year = current_date.year
-
-        # Try current year first
-        date_obj = datetime.strptime(f"{date_text} {current_year}", "%a, %d %b %Y")
-
-        # If the parsed date is more than 6 months in the past, try next year
-        if (current_date - date_obj).days > 180:
-            date_obj = datetime.strptime(
-                f"{date_text} {current_year + 1}", "%a, %d %b %Y"
-            )
-
-        # Only include future events
-        if date_obj < datetime.now():
-            return None
-
-        time_obj = datetime.strptime(time_text, "%I:%M %p").time()
-        date_obj = (
-            date_obj.replace(hour=time_obj.hour)
-            .replace(minute=time_obj.minute)
-            .replace(tzinfo=IST)
-        )
-
-        # Add IST timezone
-        start_date = date_obj.isoformat()
-        end_date = (date_obj + timedelta(hours=2)).isoformat()
-
-    except ValueError:
-        return None
-
-    # Extract location - look for map pin icon and associated text
-    location_name = ""
-    location_url = ""
-
-    # Find map pin icon and get the text from the same container
-    map_icons = soup.find_all("svg", class_="lucide lucide-map-pin")
-    for icon in map_icons:
-        # Find the parent <a> tag
-        parent_a = icon.find_parent("a")
-        if parent_a and parent_a.get("href"):
-            # Get the location name from the span next to the icon
-            location_span = parent_a.find(
-                "span", class_="font-bold text-[13px] text-black"
-            )
-            if location_span:
-                location_name = location_span.get_text().strip()
-                href = parent_a["href"]
-                # Clean Google Maps URLs
-                if "google.com/maps" in href or "maps.app.goo.gl" in href:
-                    clean_result = cleanurl.cleanurl(href, respect_semantics=True)
-                    location_url = clean_result.url if clean_result else href
-                break
-
-    # Extract pricing and availability information from bottom booking section
-    price = ""
-    availability_status = ""
-    remaining_capacity = None
-
-    # Look for the bottom booking section with pricing (try multiple selectors)
-    bottom_section = (
-        soup.find("div", class_=lambda x: x and "fixed" in x and "bottom-0" in x)
-        or soup.find("div", class_="fixed bottom-0")
-        or soup.find("div", {"class": re.compile(r".*fixed.*bottom.*")})
-    )
-
-    if bottom_section:
-        # Look for availability information (e.g., "10 SLOTS LEFT")
-        availability_elem = bottom_section.find(
-            "span", string=re.compile(r"\d+\s+SLOTS?\s+LEFT", re.IGNORECASE)
-        )
-        if availability_elem:
-            availability_status = "InStock"
-            # Extract remaining capacity
-            slots_text = availability_elem.get_text().strip()
-            slots_match = re.search(r"(\d+)\s+SLOTS?\s+LEFT", slots_text, re.IGNORECASE)
-            if slots_match:
-                remaining_capacity = int(slots_match.group(1))
-
-    # Extract booking URL (look for "Book Now" span in button)
-    book_span = soup.find("span", string="Book Now")
-    booking_url = ""
-    if book_span:
-        bottom_div = book_span.find_parent("div")
-        # find all spans inside bottom_div
-        for span in bottom_div.find_all("span"):
-            price_text = span.get_text()
-            if "₹" in price_text:
-                price_match = re.search(r"₹\s*([\d,]+\.?\d*)", price_text)
-                if price_match:
-                    price = price_match.group(1).replace(",", "")
-            if "Free" in price_text:
-                price = "0"
-        # Find the ancestor <a> tag
-        parent_a = book_span.find_parent("a")
-        if parent_a and parent_a.get("href"):
-            href = parent_a["href"]
-            # Only use external URLs, not puttingscene.com or maps URLs
-            if (
-                not href.startswith("/")
-                and "puttingscene.com" not in href
-                and "maps.app.goo.gl" not in href
-            ):
-                # Clean URL to remove UTM parameters
-                clean_result = cleanurl.cleanurl(href, respect_semantics=True)
-                booking_url = clean_result.url if clean_result else href
-
-                # Additional manual cleaning for Instagram igsh parameter
-                if "instagram.com" in booking_url and "igsh=" in booking_url:
-                    booking_url = _clean_instagram_url(booking_url)
-
-    event = {
-        "@type": "Event",
-        "name": title,
-        "url": f"https://puttingscene.com/events/{event_id}",
-        "startDate": start_date,
-        "endDate": end_date,
-        "description": description,
-        "image": image,
-        "location": {"name": location_name, "address": f"{location_name}, Bangalore"},
+    params = {
+        "publish_date__lte": today,
+        "event_date__gte": today,
+        "custom_filter": "true",
+        "approval_status": "approved",
+        "is_private": "false",
+        "page": 1,
     }
 
-    if location_url:
-        event["location"]["url"] = location_url
+    if event_source_type:
+        params["event_source_type"] = event_source_type
 
-    if booking_url:
-        event["sameAs"] = booking_url
+    all_events = []
+    while True:
+        logger.debug(f"Fetching page {params['page']} for source={event_source_type}")
+        data = fetch_events_page(params)
+        all_events.extend(data.get("results", []))
 
-    # Add offer information if price is available
-    if price != "0":
-        offer = {"@type": "Offer", "price": price, "priceCurrency": "INR"}
-
-        # Add availability information if present
-        if availability_status:
-            offer["availability"] = f"http://schema.org/{availability_status}"
-
-        # Add remaining capacity if available
-        if remaining_capacity is not None:
-            offer["remainingAttendeeCapacity"] = remaining_capacity
-
-        event["offers"] = [offer]
-    if price == "0":
-        event["isAccessibleForFree"] = True
-
-    return event
-
-
-def fetch_putting_scenes():
-    max_event_id = find_max_event_id()
-    events = []
-
-    # Fetch recent events
-    start_id = max(1, max_event_id - RECENT_EVENTS_COUNT)
-    html_content = None
-    for event_id in range(start_id, max_event_id + 1):
-        res = fetch_event_html(event_id)
-        if html_content == None and res == None:
+        if not data.get("next"):
             break
-        elif res:
-            event = parse_event_html(res, event_id)
-            if event:
-                events.append(event)
-        html_content = res
+        params["page"] += 1
 
-    # Sort events by URL to ensure consistent output order
-    return sorted(events, key=lambda x: x["url"])
+    logger.info(f"Fetched {len(all_events)} events for source={event_source_type}")
+    return all_events
 
 
-# Write to puttingscene.json
+def build_offers_for_slot(ticket_tiers: list, slot_id: int) -> list:
+    """Build offers from ticket_tiers for a specific slot."""
+    offers = []
+    for tier in ticket_tiers:
+        if not tier.get("is_active", True):
+            continue
+
+        offer = {
+            "@type": "Offer",
+            "name": tier.get("name", ""),
+            "price": tier.get("price", "0"),
+            "priceCurrency": "INR",
+        }
+
+        # Find availability for this specific slot
+        available_capacity = tier.get("available_capacity", [])
+        for cap in available_capacity:
+            if cap.get("slot_id") == slot_id:
+                available = cap.get("available", 0)
+                if available > 0:
+                    offer["availability"] = "http://schema.org/InStock"
+                    offer["remainingAttendeeCapacity"] = available
+                break
+
+        offers.append(offer)
+
+    return offers
+
+
+def convert_slot_to_schema_org(event: dict, slot: dict, source_url: str | None = None) -> dict | None:
+    """Convert a slot-based event to Schema.org Event format."""
+    try:
+        event_id = event.get("id")
+        slot_id = slot.get("id")
+        title = event.get("title", "").strip()
+
+        if not title or "test" in title.lower():
+            return None
+
+        # Parse slot dates
+        slot_date = slot.get("date")
+        start_time = slot.get("start_time", "00:00:00")
+        end_time = slot.get("end_time")
+
+        if not slot_date or not slot.get("is_active", True):
+            return None
+
+        # Filter out past slots
+        today = datetime.now().date()
+        slot_date_obj = datetime.strptime(slot_date, "%Y-%m-%d").date()
+        if slot_date_obj < today:
+            return None
+
+        # Build start datetime
+        start_dt = datetime.strptime(f"{slot_date} {start_time}", "%Y-%m-%d %H:%M:%S")
+        start_dt = start_dt.replace(tzinfo=IST)
+
+        # Build end datetime
+        if end_time:
+            end_date = slot.get("end_date", slot_date)
+            end_dt = datetime.strptime(f"{end_date} {end_time}", "%Y-%m-%d %H:%M:%S")
+            end_dt = end_dt.replace(tzinfo=IST)
+        else:
+            end_dt = start_dt + timedelta(hours=DEFAULT_EVENT_DURATION_HOURS)
+
+        # Get description
+        description = event.get("short_description") or event.get("description") or ""
+
+        # Get image
+        images = event.get("images", [])
+        image = images[0].get("image_url", "") if images else ""
+
+        # Get venue/location
+        venue = event.get("venue") or {}
+        location_name = venue.get("name", "")
+        location_address = venue.get("full_address") or f"{location_name}, {venue.get('city', 'Bangalore')}"
+        location_url = venue.get("google_url", "")
+
+        schema_event = {
+            "@type": "Event",
+            "name": title,
+            "url": f"https://puttingscene.com/events/{event_id}",
+            "startDate": start_dt.isoformat(),
+            "endDate": end_dt.isoformat(),
+            "description": description,
+            "image": image,
+            "location": {
+                "name": location_name,
+                "address": location_address,
+            },
+        }
+
+        if location_url:
+            schema_event["location"]["url"] = location_url
+
+        # Use source_url as sameAs
+        if source_url:
+            schema_event["sameAs"] = source_url
+
+        # Build offers from ticket_tiers for this slot
+        ticket_tiers = event.get("ticket_tiers", [])
+        is_paid = event.get("is_paid", False)
+
+        # Check if any ticket tier has a price > 0 (fallback for is_paid=False with priced tiers)
+        has_priced_tiers = any(
+            float(tier.get("price", 0)) > 0
+            for tier in ticket_tiers
+            if tier.get("is_active", True)
+        )
+
+        if ticket_tiers and (is_paid or has_priced_tiers):
+            offers = build_offers_for_slot(ticket_tiers, slot_id)
+            if offers:
+                schema_event["offers"] = offers
+        elif not is_paid and not has_priced_tiers:
+            schema_event["isAccessibleForFree"] = True
+
+        return schema_event
+    except Exception as e:
+        logger.warning(f"Error converting slot {slot.get('id')} for event {event.get('id')}: {e}")
+        return None
+
+
+def convert_to_schema_org(event: dict, source_url: str | None = None) -> dict | None:
+    """Convert API event to Schema.org Event format (for events with event_date)."""
+    try:
+        event_id = event.get("id")
+        title = event.get("title", "").strip()
+
+        if not title or "test" in title.lower():
+            return None
+
+        # Parse dates
+        event_date = event.get("event_date")
+        start_time = event.get("start_time", "00:00:00")
+        end_time = event.get("end_time")
+
+        if not event_date:
+            return None
+
+        # Build start datetime
+        start_dt = datetime.strptime(f"{event_date} {start_time}", "%Y-%m-%d %H:%M:%S")
+        start_dt = start_dt.replace(tzinfo=IST)
+
+        # Build end datetime
+        if end_time:
+            end_dt = datetime.strptime(f"{event_date} {end_time}", "%Y-%m-%d %H:%M:%S")
+            end_dt = end_dt.replace(tzinfo=IST)
+        else:
+            end_dt = start_dt + timedelta(hours=DEFAULT_EVENT_DURATION_HOURS)
+
+        # Get description
+        description = event.get("short_description") or event.get("description") or ""
+
+        # Get image
+        images = event.get("images", [])
+        image = images[0].get("image_url", "") if images else ""
+
+        # Get venue/location
+        venue = event.get("venue") or {}
+        location_name = venue.get("name", "")
+        location_address = venue.get("full_address") or f"{location_name}, {venue.get('city', 'Bangalore')}"
+        location_url = venue.get("google_url", "")
+
+        schema_event = {
+            "@type": "Event",
+            "name": title,
+            "url": f"https://puttingscene.com/events/{event_id}",
+            "startDate": start_dt.isoformat(),
+            "endDate": end_dt.isoformat(),
+            "description": description,
+            "image": image,
+            "location": {
+                "name": location_name,
+                "address": location_address,
+            },
+        }
+
+        if location_url:
+            schema_event["location"]["url"] = location_url
+
+        # Use source_url as sameAs
+        if source_url:
+            schema_event["sameAs"] = source_url
+        elif event.get("is_online") and event.get("online_url"):
+            schema_event["sameAs"] = event.get("online_url")
+
+        # Handle pricing
+        is_paid = event.get("is_paid", False)
+        price = event.get("price", "0")
+        ticket_tiers = event.get("ticket_tiers", [])
+
+        # Check if any ticket tier has a price > 0 (fallback for is_paid=False with priced tiers)
+        has_priced_tiers = any(
+            float(tier.get("price", 0)) > 0
+            for tier in ticket_tiers
+            if tier.get("is_active", True)
+        )
+
+        if ticket_tiers and (is_paid or has_priced_tiers):
+            offers = []
+            for tier in ticket_tiers:
+                if not tier.get("is_active", True):
+                    continue
+                offer = {
+                    "@type": "Offer",
+                    "name": tier.get("name", ""),
+                    "price": tier.get("price", "0"),
+                    "priceCurrency": "INR",
+                }
+                # Add availability from available_capacity
+                available_capacity = tier.get("available_capacity", [])
+                total_available = sum(slot.get("available", 0) for slot in available_capacity)
+                if total_available > 0:
+                    offer["availability"] = "http://schema.org/InStock"
+                    offer["remainingAttendeeCapacity"] = total_available
+                offers.append(offer)
+            if offers:
+                schema_event["offers"] = offers
+        elif is_paid and price and price != "0" and price != "0.00":
+            schema_event["offers"] = [{
+                "@type": "Offer",
+                "price": price,
+                "priceCurrency": "INR",
+            }]
+        elif not is_paid and not has_priced_tiers:
+            schema_event["isAccessibleForFree"] = True
+
+        return schema_event
+    except Exception as e:
+        logger.warning(f"Error converting event {event.get('id')}: {e}")
+        return None
+
+
+def fetch_putting_scenes() -> list:
+    """Fetch all events."""
+    all_events = []
+
+    # Fetch all events (no source_type filter returns SCRAPED + PARTNER + INTERNAL)
+    events = fetch_all_events_for_source(None)
+
+    for event in events:
+        event_id = event.get("id")
+
+        # Fetch detailed event info to get source_url and slots
+        details = fetch_event_details(event_id)
+        if not details:
+            continue
+
+        source_url = details.get("source_url")
+        slots = details.get("slots", [])
+        event_date = details.get("event_date")
+
+        if event_date:
+            # Regular event with event_date
+            schema_event = convert_to_schema_org(details, source_url=source_url)
+            if schema_event:
+                all_events.append(schema_event)
+        elif slots:
+            # Slot-based event: create one event per slot
+            for slot in slots:
+                schema_event = convert_slot_to_schema_org(details, slot, source_url=source_url)
+                if schema_event:
+                    all_events.append(schema_event)
+
+    # Sort by startDate for consistent output
+    return sorted(all_events, key=lambda x: (x["startDate"], x["url"]))
+
+
 if __name__ == "__main__":
     with open("out/puttingscene.json", "w") as f:
         events = fetch_putting_scenes()
