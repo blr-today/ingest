@@ -33,16 +33,16 @@ WHERE
   -- But even if they aren't, the reviews are very bad.
   -- And sound exactly like the Small world reviews
   OR event_json ->> '$.organizer.name' LIKE '%growth sailor%'
-  -- Silly dating events: https://insider.in/free-speed-dating-events-in-bengaluru-sep7-2024/event
+  -- Silly dating events: https://district.in/free-speed-dating-events-in-bengaluru-sep7-2024/event
   OR event_json ->> '$.organizer.name' LIKE '%your dream partner%'
-  -- Silly dating events on insider
+  -- Silly dating events on district
   OR event_json ->> '$.organizer.name' LIKE '%vinit kotadiya%'
-  -- Silly dating event organizer: https://insider.in/search?q=Rashid%20Mubarak%20Nadaf
+  -- Silly dating event organizer: https://district.in/search?q=Rashid%20Mubarak%20Nadaf
   OR event_json ->> '$.organizer.name' LIKE '%rashid mubarak nadaf%';
 
 
--- BIC lists their events on Insider, but we have their original calendar
--- BCC lists their events on Insider, but we have their original calendar
+-- BIC lists their events on District, but we have their original calendar
+-- BCC lists their events on District, but we have their original calendar
 DELETE FROM events
 WHERE
   lower(event_json ->> '$.organizer.name') IN (
@@ -58,8 +58,6 @@ WHERE
 DELETE FROM events
 WHERE
   url IN (
-    'https://insider.in/isl-2024-25-bengaluru-fc-membership-season-12/event' -- Memberships are not events
-,
     'https://together.buzz/event/test-ghofp8gg' -- Test event
     -- Music Camp is a very long event.
 ,
@@ -70,12 +68,12 @@ WHERE
 
 
 -- Ideally,we would mark them using sameAs, but too much work for now
--- TODO: Pick up BMS/Insider Links using links in the event HTML 
+-- TODO: Pick up BMS/District Links using links in the event HTML 
 -- at attagalatta.com event page, and then mark them using sameAs
 DELETE FROM events
 WHERE
   event_json ->> '$.location.name' LIKE '%Atta Galata%'
-  AND url LIKE 'https://insider.in%';
+  AND url LIKE 'https://district.in%';
 
 
 -- Low Quality events, and trips/treks from OdysseyVibes.in
@@ -107,9 +105,9 @@ WHERE
   OR event_json ->> 'name' LIKE '%Co-Working%'
   -- Advertisement for Rage Room Indiranagar
   OR url LIKE '%rage-room%'
-  -- Social Mixers category on insider
+  -- Social Mixers category on district
   OR (
-    url like '%insider.in%'
+    url like '%district.in%'
     and event_json  ->> '$.keywords' LIKE '%Social Mixers%'
   );
 
@@ -131,7 +129,7 @@ WHERE
     OR event_json ->> '$.performer.name' LIKE '%J N TULIKA%'
     OR url LIKE '%weekend-getaway%'
   ) OR (
-    url like '%insider.in%' AND 
+    url like '%district.in%' AND 
       (
         event_json->>'$.keywords' LIKE '%camping%'
         OR event_json->>'$.keywords' LIKE '%trip%'
@@ -324,7 +322,7 @@ SET
   )
 WHERE
 -- Theme/Water/Snow parks
-  url like '%insider.in%' AND 
+  url like '%district.in%' AND 
   (
     event_json->>'$.keywords' LIKE '%theme park%'
     OR event_json->>'$.keywords' LIKE '%snow park%'
@@ -335,6 +333,7 @@ WHERE
     OR event_json->>'$.keywords' LIKE '%Arcades%'
     OR event_json->>'$.keywords' LIKE '%Escape Room%'
     OR event_json->>'$.keywords' LIKE '%Trampoline Parks%'
+    OR event_json->>'$.keywords' LIKE '%Shooting Range%'
   );
 
 -- MusicEvent is incorrectly used in many many allevents listings
@@ -671,11 +670,11 @@ WHERE
 
 -- Secret Story music nights
 -- THRIFTY-X is a shady event organizer
--- Stranger Meets are events, but meh https://insider.in/search?q=Thrifty
+-- Stranger Meets are events, but meh https://district.in/search?q=Thrifty
 -- They also host dance workshops in fast food places :/
 -- And double book events at the same venue to get more visibility
--- https://insider.in/thrifty-x-bachata-bangalore-sep29-2024/event
--- https://insider.in/thrifty-x-salsa-bangalore-sep29-2024/event
+-- https://district.in/thrifty-x-bachata-bangalore-sep29-2024/event
+-- https://district.in/thrifty-x-salsa-bangalore-sep29-2024/event
 UPDATE events
 SET
   event_json = json_replace(
