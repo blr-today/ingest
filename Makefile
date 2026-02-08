@@ -140,11 +140,11 @@ out/trove.json:
 out/thewhitebox.json:
 	python -m src.sources.thewhitebox || $(call restore-file,$@)
 
-# out/aceofpubs.ics:
-# 	curl_chrome116 --silent "https://aceofpubs.com/events/category/bengaluru-pub-quiz-event/?post_type=tribe_events&ical=1&eventDisplay=list&ical=1" --output $@ || $(call restore-file,$@)
+out/aceofpubs.ics:
+	curl_chrome116 --silent "https://aceofpubs.com/events/category/bengaluru-pub-quiz-event/?post_type=tribe_events&ical=1&eventDisplay=list&ical=1" --output $@ || $(call restore-file,$@)
 
-# out/aceofpubs.json: out/aceofpubs.ics
-# 	python -m src.sources.aceofpubs || $(call restore-file,$@)
+out/aceofpubs.json: out/aceofpubs.ics
+	python -m src.sources.aceofpubs || $(call restore-file,$@)
 
 out/koota.txt:
 	curl_chrome116 --silent "https://courtyardkoota.com/event-directory/" | grep -oE 'https://courtyardkoota\.com/events/[a-z0-9-]+/' | sort -u > $@ || $(call restore-file,$@)
@@ -212,7 +212,6 @@ fetch: out/allevents.txt \
  out/pvr-cinemas.csv \
  out/ticketnew/cinemas.csv \
  out/trove.json \
- out/aceofpubs.json \
  out/atta_galatta.json \
  out/koota.txt \
  out/te.json \
