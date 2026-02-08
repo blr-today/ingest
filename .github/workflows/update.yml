@@ -41,14 +41,12 @@ jobs:
         path: /home/runner/.cache/event-fetcher-cache.sqlite
         key: "cache-requests-${{ github.run_id }}"
         restore-keys: "cache-requests-"
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v5
       name: Clone self repository
       with:
         ref: ${{ github.head_ref }}
 
-    - uses: actions/setup-python@v5
-      with:
-        python-version: '3.13'
+    - uses: actions/setup-python@v6
     - name: Setup
       run: |
         git config --global init.defaultBranch main
@@ -57,7 +55,7 @@ jobs:
     - name: Fetch updates
       run: make clean && make -s all
     - name: Upload Artifacts
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       id: upload
       with:
         name: events-db
@@ -67,7 +65,7 @@ jobs:
         retention-days: 1
 
     # Commit back some data so we can keep track of diffs
-    - uses: stefanzweifel/git-auto-commit-action@v5
+    - uses: stefanzweifel/git-auto-commit-action@v6
       name: Commit
       with:
         commit_message: |
@@ -90,7 +88,7 @@ jobs:
     name: Release
     steps:
     - name: fetch from artifact
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v5
       with:
         name: events-db
         path: .
