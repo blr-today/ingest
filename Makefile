@@ -193,7 +193,7 @@ fetch: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
  out/bic.ics \
- out/insider.txt \
+ out/district.txt \
  out/bhaagoindia.txt \
  out/scigalleryblr.json \
  out/goethe.json \
