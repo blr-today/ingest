@@ -15,6 +15,7 @@ SET
   )
 WHERE
   event_json ->> '$.location.name' LIKE '%small world%'
+  OR event_json ->> '$.title' LIKE '%small world%'
   -- Gilly Super Bar in St Mark's Road is hosting mostly DJ nights
   -- and Small World events.
   OR ( 
@@ -37,6 +38,13 @@ WHERE
   OR event_json ->> '$.organizer.name' LIKE '%your dream partner%'
   -- Silly dating events on district
   OR event_json ->> '$.organizer.name' LIKE '%vinit kotadiya%'
+  -- It is a cool well-reviewed venue in Jayanagar
+  -- But you can drop by any day and do almost any workshop anyway.
+  -- https://maps.app.goo.gl/8LBm3zjMRM3VS71E8
+  -- https://highape.com/bangalore?search=Know+How
+  OR event_json ->> '$.organizer.name' LIKE '%Know How%'
+  -- Disha is the organizer at Know How.
+  OR event_json ->> '$.organizer.name' LIKE '%Disha Gangadhar%'
   -- Silly dating event organizer: https://district.in/search?q=Rashid%20Mubarak%20Nadaf
   OR event_json ->> '$.organizer.name' LIKE '%rashid mubarak nadaf%';
 
@@ -331,6 +339,7 @@ WHERE
     OR event_json->>'$.keywords' LIKE '%Game Zones%'
     OR event_json->>'$.keywords' LIKE '%Go Karting%'
     OR event_json->>'$.keywords' LIKE '%Arcades%'
+    OR event_json->>'$.title' LIKE '%Agamer Game zone%'
     OR event_json->>'$.keywords' LIKE '%Escape Room%'
     OR event_json->>'$.keywords' LIKE '%Trampoline Parks%'
     OR event_json->>'$.keywords' LIKE '%Shooting Range%'
@@ -770,7 +779,8 @@ SET
     json_insert(event_json -> '$.keywords', '$[#]', 'JAYANAGAR')
   )
 WHERE
-  event_json LIKE '%jayanagar%';
+-- Avoid matching Vijayanagar
+  event_json LIKE '% jayanagar%';
 
 
 UPDATE events
@@ -964,3 +974,5 @@ SET
 WHERE
   event_json ->> '$.keywords' LIKE '%TPCC%'
   AND event_json ->> '$.description' LIKE '%screening%';
+
+DELETE FROM events WHERE event_json->> '$.location' LIKE '%andhra pradesh%';
