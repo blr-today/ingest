@@ -33,7 +33,9 @@ def parse_event_page(event_url):
     session = get_cached_session()
     response = session.get(event_url)
     # Events might give a 404
-    response.raise_for_status()
+    if response.status_code == 404:
+        logging.warning(f"404: {event_url}")
+        return None
     soup = BeautifulSoup(response.content, "html.parser")
 
     # Extract basic event info using CSS selectors
@@ -89,7 +91,7 @@ def parse_event_page(event_url):
         )
         if date_match:
             date_str = (
-                f"{date_match.group(1)} {date_match.group(2)}, 2025"  # Assuming 2025
+                f"{date_match.group(1)} {date_match.group(2)}, 2026"  # Assuming 2026
             )
             if date_str not in date_groups:
                 date_groups[date_str] = []
@@ -150,7 +152,10 @@ def parse_event_page(event_url):
                     "address": venue,
                 }
 
-            events.append(event)
+            if "bangalore" in venue.lower() or "bengaluru" in venue.lower():
+                events.append(event)
+            else:
+                logging.warning(f"Skipping event not in Bangalore: {event_url} - Venue: {venue}")
 
         except Exception as e:
             logging.warning(f"Failed to parse date {date_str}: {e}")
@@ -168,7 +173,8 @@ def main():
         for event_url in get_event_links():
             try:
                 event_data = parse_event_page(event_url)
-                events.extend(event_data)
+                if event_data:
+                    events.extend(event_data)
             except Exception as e:
                 logging.error(f"Failed to parse event {event_url}: {e}")
                 continue
@@ -179,6 +185,7 @@ def main():
         for event in events:
             try:
                 event_date = dateutil.parser.parse(event["startDate"])
+                print(event_date)
                 if event_date >= now:
                     future_events.append(event)
             except:
