@@ -828,7 +828,7 @@
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
-      "price": "2000.00",
+      "price": "2100.00",
       "availability": "LimitedAvailability",
       "priceCurrency": "INR"
     },
@@ -5363,6 +5363,54 @@
       "Music",
       "History & heritage",
       "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Celebrate Valentine's Day at Kaavu",
+    "description": "elebrate Valentine\u2019s Day at Kaavu \u2764\ufe0fAn evening thoughtfully curated to celebrate love, connection, and shared moments.Step into a romantic candlelight setting complemented by live music, special Valentine\u2019s cocktails, and a specially curated food menu. Couples can enjoy interactive experiences like a pottery workshop, fun games, and personalised tarot card readings, making the evening both intimate and memorable.Explore our flea market, indulge in treats from the Mochi & Matcha Bar, and end your night on a sweet note with exclusive Valentine\u2019s desserts by P.U. Dingding. Raise a toast to love with exclusive 1+1 on Fratelli wines, and discover meaningful pop-ups including Arambh NGO.Whether you\u2019re here for romance, experiences, or simply great food and vibes, Kaavu promises a Valentine\u2019s celebration filled with warmth, flavours, music, and little moments that matter.\u2728 And many more experiences await.Prices start from \u20b9799T&C applyFor personalised table d\u00e9cor, please contact us.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DF7434D4E2464F9C8F52491DE1822871_converted_webp.webp"
+    ],
+    "startDate": "2026-02-14T10:30:00+05:30",
+    "endDate": "2026-02-14T23:55:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Pattandur Agrahara Village Main Rd, Siddapura, Brookefield, Bengaluru, Karnataka 560066, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJSaUs_LYTrjsRiIU1zCUr4rs",
+      "latitude": "12.96131520000000000000",
+      "longitude": "77.73248389999999000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 100,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "KAAVU",
+      "description": "A 750 seater restaurant, bar, taproom & cafe, on an acre of lush greenery in Whitefield, where nature, flavours & community come together.",
+      "url": "https://urbanaut.app/partner/thekaavu",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A714FC79492C47448CC6A0C1679C405C_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-63624-97998"
+      }
+    },
+    "url": "https://urbanaut.app/spot/celebrate-valentines-day-at-kaavu",
+    "keywords": [
+      "Workshop",
+      "Pop-up Event",
+      "Food & drink",
       "URBANAUT"
     ]
   }
