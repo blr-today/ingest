@@ -8,7 +8,9 @@ BASE_URL = "https://www.adidas.co.in/adidasrunners"
 COMMUNITY_ID = "2e012594-d3fb-4185-b12b-78dead3499a3"
 COUNTRY_CODE = "IN"
 BROWSER_CODE = "safari18_4_ios"
-
+HEADERS ={
+    "User-Agent": "Mozilla/5.0 (compatible; blr.today-bot; +https://blr.today/bot/)"
+}
 
 def _date(date_str):
     return datetime.fromisoformat(date_str).astimezone(IST).isoformat()
@@ -17,7 +19,7 @@ def _date(date_str):
 def fetch_events():
     events = []
     url = f"{BASE_URL}/ar-api/gw/default/gw-api/v2/events/communities/{COMMUNITY_ID}?countryCodes={COUNTRY_CODE}"
-    body = curl_cffi.get(url, impersonate=BROWSER_CODE).content
+    body = curl_cffi.get(url, impersonate=BROWSER_CODE, headers=HEADERS).content
     res = json.loads(body)
     for data in res["_embedded"]["events"]:
         location = data["meta"]["adidas_runners_locations"]
