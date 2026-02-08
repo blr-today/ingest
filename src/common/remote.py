@@ -29,7 +29,11 @@ def fetch_remote_events(file_filter=None):
                 if not url:
                     break
                 keywords = None
-                r = session.get(url, headers=USER_AGENT_HEADERS)
+                try:
+                    r = session.get(url, headers=USER_AGENT_HEADERS)
+                except Exception as e:
+                    print(f"Error fetching {url}: {e}")
+                    continue
                 base_url = get_base_url(r.text, r.url)
                 # extract the meta name="keywords" tag using bs4
                 soup = BeautifulSoup(r.text, "html.parser")

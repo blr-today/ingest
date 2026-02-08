@@ -976,3 +976,18 @@ WHERE
   AND event_json ->> '$.description' LIKE '%screening%';
 
 DELETE FROM events WHERE event_json->> '$.location' LIKE '%andhra pradesh%';
+
+
+-- Mark events in other major Indian cities as NOTINBLR
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(event_json -> '$.keywords', '$[#]', 'NOTINBLR')
+  )
+WHERE
+  event_json -> '$.keywords' NOT LIKE '%NOTINBLR%'
+  AND (
+    event_json ->> '$.location' REGEXP '\b(Mumbai|Delhi|Hyderabad|Ahmedabad|Chennai|Kolkata|Surat|Pune|Jaipur|Lucknow|Kanpur|Nagpur|Indore|Thane|Bhopal|Visakhapatnam|Patna|Vadodara|Ghaziabad|Ludhiana|Agra|Nashik|Faridabad|Meerut|Rajkot|Varanasi|Srinagar|Aurangabad|Dhanbad|Amritsar|Prayagraj|Howrah|Ranchi|Jabalpur|Gwalior|Coimbatore|Vijayawada|Jodhpur|Madurai|Raipur|Kota|Bareilly)\b'
+  );

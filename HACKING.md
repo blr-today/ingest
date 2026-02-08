@@ -30,9 +30,34 @@ uv run src/event-fetch.py out/bcc.json
 ## Event Source Scraping Style Guide
 
 ### Script Structure
-- **Name**: `src/venue_name.py` (lowercase, underscores)
+- **Name**: `src/sources/venue_name.py` (lowercase, underscores)
 - **Output**: `out/venue_name.json` with event count log `[VENUE] N events`
 - **Dependencies**: Use existing packages from `pyproject.toml`
+- **Makefile**: Add target and include in `fetch` dependencies
+
+### HTTP Requests
+
+Two options depending on needs:
+
+1. **`get_cached_session()`** - Standard requests with caching
+   ```python
+   from common.session import get_cached_session
+   session = get_cached_session()
+   response = session.get(url)
+   ```
+
+2. **`Fetch` class** - When you need browser impersonation (curl_cffi)
+   ```python
+   from ..common.fetch import Fetch
+   fetcher = Fetch(browser="chrome")  # or "safari260_ios"
+   response = fetcher.get(url=url)
+   response = fetcher.post(url=url, json=payload)
+   ```
+
+   Use `Fetch` when:
+   - API requires browser fingerprinting
+   - Getting blocked by bot detection
+   - Need to impersonate specific browser
 
 ### Code Standards
 - **Python**: 3.13+ compliant, concise and idiomatic
@@ -44,8 +69,8 @@ uv run src/event-fetch.py out/bcc.json
 - **Date filtering**: Only future events (today or later)
 - **Schema.org compliance**: Use proper `@type: Event` structure
 - **External links**: Use `sameAs` property, not `offers`
-- **Rich text**: Convert to plain text for descriptions
-- **Session**: Use `get_cached_session()` for HTTP requests
+- **Rich text**: Convert to plain text for descriptions (use BeautifulSoup)
+- **Timezone**: Use `from common.tz import IST` for Indian Standard Time
 
 ### Output Format
 ```python
@@ -57,14 +82,87 @@ uv run src/event-fetch.py out/bcc.json
   "endDate": "2025-07-26T09:20:00+05:30",
   "image": "https://...",
   "description": "Long description text",
+  "location": {
+    "@type": "Place",
+    "name": "Venue Name",
+    "address": "Full address",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "12.9577",
+      "longitude": "77.6328"
+    }
+  },
   "sameAs": "https://external-registration.com"  # for external events
 }
 ```
 
 ### Patch Files
-Create `patch/source.json` with common metadata:
+Create `patch/domain.json` (e.g., `patch/penciljam.json`) with common metadata:
 
-- Location details (address, coordinates, phone)
-- Organizer information
-- Keywords for categorization
-- ISIC classification codes
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "organizer": {
+    "@type": "Organization",
+    "name": "Organizer Name"
+  },
+  "keywords": ["KEYWORD"]
+}
+```
+
+Patches are applied automatically based on the event URL's domain.
+
+## Jsonnet Transformers
+
+For APIs that return raw JSON needing transformation, create `transform/source.jsonnet`:
+
+```jsonnet
+local transformEvent(event) = {
+  '@type': 'Event',
+  name: event.title,
+  startDate: event.date + "T" + event.time + "+05:30",
+  // ... other fields
+};
+
+function(INPUT) [
+  transformEvent(event)
+  for event in std.parseJson(INPUT)
+  if event.date >= std.native('today')()
+]
+```
+
+Run with: `python src/jsonnet.py out/source.jsonnet`
+
+## Processors
+
+Post-processing logic in `src/processors/`. Processors run after events are in the database.
+
+```python
+from .base import Processor
+
+class MyProcessor(Processor):
+    PRIORITY = 90  # Lower runs first
+    URL_REGEX = r"https://example\.com/.*"  # Optional: filter by URL
+
+    @staticmethod
+    def process(url, event):
+        # Modify event dict
+        event["keywords"] = event.get("keywords", []) + ["TAG"]
+        return event
+```
+
+Key processors:
+- `patch.py` - Applies patch files based on domain
+- `geo.py` - Tags events >50km from Bangalore as NOTINBLR
+- `schemafixer.py` - Fixes common schema issues
+
+## Post-build SQL
+
+`post-build.sql` runs after all processing for bulk updates:
+- Tag low-quality events
+- Mark events outside Bangalore
+- Add location-based keywords (HSR, INDIRANAGAR, etc.)
+- Delete duplicate/unwanted events
+
+Uses SQLite JSON functions and REGEXP for pattern matching.
