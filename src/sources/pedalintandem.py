@@ -95,7 +95,7 @@ def make_event(soup):
     for date_opt in date_opts:
         # This date is not really reliable though
         # so we use it to validate the event
-        # but dont publish it
+        # but don't publish it
         if "data-booking-begin-at" not in date_opt.attrs:
             continue
 
@@ -228,7 +228,7 @@ def find_timings(duration, date, soup):
             "selector": "div.text-box div.trix-content li",
             "patterns": [
                 # "Meet at [X?], by 3 pm" pattern
-                (r"\s+([^\.,]+(?:am|pm|AM|PM))", "meet at"),
+                (r"\s+([^\.,]+(?:\d\s+am|pm|AM|PM))", "meet at"),
                 # "Meeting time: 6:30 am" pattern
                 (r"meeting\s+time:?\s+([^\.,]+(?:am|pm|AM|PM))", None),
             ],
@@ -240,7 +240,7 @@ def find_timings(duration, date, soup):
                 # "time: 8:30 am" pattern
                 (r"time:?\s+([^\.,]+(?:am|pm|AM|PM))", None)
             ],
-        },
+        }
     ]
 
     # Check each source for timing information
@@ -280,7 +280,6 @@ def parse_time(timings, event_date):
         timings = timings.replace("to", "pm to")
 
     return list(datefinder.find_dates(timings, base_date=event_date))
-
 
 def convert_duration_in_hours(duration):
     duration_range = duration.split(",")[0]
