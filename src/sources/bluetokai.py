@@ -112,6 +112,13 @@ LOCATIONS = [
         12.9633889,
         77.7095833,
     ),
+    (
+        "https://bluetokaicoffee.com/pages/blue-tokai-coffee-roasters-neeladhari-road",
+        "Blue Tokai Coffee Roasters Neeladri Road",
+        r"\bneeladri\b",
+        12.8417371,
+        77.6477929,
+    )
 ]
 
 
@@ -125,7 +132,7 @@ def fetch_html():
 
 def parse_html(html):
     soup = BeautifulSoup(html, "html.parser")
-    links = soup.select('div[location*="Bengaluru"] a[href*="/products"]')
+    links = soup.select('div[location*="Bengaluru"] a[href*="/products"]') + soup.select('div[location*="Bangalore"] a[href*="/products"]')
     return [link.get("href") for link in links]
 
 
@@ -139,7 +146,7 @@ def fetch_product_json(slug):
 
 def find_bengaluru_variant(product_json):
     for variant in product_json["product"]["variants"]:
-        if "Bengaluru" in variant["title"]:
+        if "Bengaluru" in variant["title"] or "Bangalore" in variant["title"]:
             dates = list(datefinder.find_dates(variant["title"]))
             if len(dates) == 1:
                 return variant, dates[0]
