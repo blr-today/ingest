@@ -1,4 +1,5 @@
 import datefinder
+from datetime import timedelta
 from requests.exceptions import HTTPError
 import sys
 import json
@@ -80,14 +81,15 @@ def fetch_timings(date_str: str):
 
     if len(date_parts) < 2:
         print(f"Failed parsing {date_str}")
-        raise ValueError("Could not find time in" + date_str)
+        raise ValueError("Could not find time in " + date_str)
 
+    l = None
     for splitter in ["to", "-"]:
         if splitter in time_part:
             l = [x.strip() for x in time_part.split(splitter)]
 
     if l == None:
-        raise ValueError("Could not find time in" + date_str)
+        l = [time_part]
 
     known_twelveness = [
         twelveness for twelveness in ["AM", "PM"] for i in l if twelveness in i
@@ -105,9 +107,17 @@ def fetch_timings(date_str: str):
             )
         )
 
-    if len(timestamps) != 2:
-        raise ValueError("Could not find time in" + date_str)
+    if len(timestamps) ==0 :
+        raise ValueError("Could not find time in " + date_str)
 
+    # If event is more than a month away, don't include it
+    if timestamps[0] > datetime.now(IST) + timedelta(days=30):
+        raise ValueError("Event is more than a month away " + date_str)
+
+    if len(timestamps) == 1:
+        return [timestamps[0], timestamps[0] + timedelta(hours=2)]
+
+    
     return timestamps
 
 
@@ -144,9 +154,13 @@ def filter_products(products):
 
 def filter_future_events(events):
     current_time = datetime.now().isoformat()
+    
+    events = list(filter(lambda e: e is not None, events))
+
     for event in events:
-        if not event or event["startDate"] < current_time:
+        if event.get('startDate') < current_time:
             events.remove(event)
+    # Remove None values
 
     return events
 

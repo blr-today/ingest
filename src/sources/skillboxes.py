@@ -94,7 +94,6 @@ def __main__(cities, debug_limit=None):
     for city in cities:
         count = 0
         for slug in get_events(int(city)):
-            print(slug)
             if debug_limit and count >= debug_limit:
                 print(f"[SKILLBOXES] Debug limit of {debug_limit} reached.", file=sys.stderr)
                 break
