@@ -1,4 +1,4 @@
-from common.session import get_cached_session
+import requests
 import json
 import datetime
 import re
@@ -18,11 +18,9 @@ event_type_mapper = {
     "Walkthrough": "EducationEvent",
     "Studio Visit": "EducationEvent",
     "Artist Talk": "EducationEvent",
+    "Lab Visit": "EducationEvent",
     "Quiz": "EducationEvent",
 }
-
-session = get_cached_session()
-
 
 def guess_event_type(kind):
     # search for each of the keys from the mapper
@@ -131,7 +129,7 @@ def filter_data(data):
 
 def main():
     data = (
-        session.get(
+        requests.get(
             "https://calorie-56dab-default-rtdb.asia-southeast1.firebasedatabase.app/calorie/en/programmes.json"
         )
         .json()

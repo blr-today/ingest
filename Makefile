@@ -78,8 +78,6 @@ out/bhaagoindia.txt:
 	python -m src.sources.bhaagoindia | sort > $@ ||  $(call restore-file,$@)
 	echo "[BHAAGOINDIA] $$(wc -l $@ | cut -d ' ' -f 1)"
 
-# TODO: /exhibits.json is also helpful
-# And there are kn translations available as well.
 out/scigalleryblr.json:
 	python -m src.sources.scigallery || $(call restore-file,$@)
 
