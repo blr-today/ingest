@@ -934,3 +934,33 @@ SET
 WHERE
  event_json ->> '$.description' LIKE '%online session%'
  OR event_json ->> '$.description' LIKE '%zoom link%';
+
+-- Everything with a urbanaut.app url and TPCC in capital in the title
+-- should be tagged as TPCC
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.keywords',
+    json_insert(
+      event_json -> '$.keywords',
+      '$[#]',
+      'TPCC'
+    )
+  )
+WHERE
+  url LIKE '%urbanaut.app%'
+  AND event_json ->> '$.name' LIKE '%TPCC%';
+
+-- For events tagged as TPCC, if the description contains "screening", we can change 
+-- event type to ScreeningEvent
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.@type',
+    'ScreeningEvent'
+  )
+WHERE
+  event_json ->> '$.keywords' LIKE '%TPCC%'
+  AND event_json ->> '$.description' LIKE '%screening%';
