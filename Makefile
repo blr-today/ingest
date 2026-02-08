@@ -189,6 +189,9 @@ out/pedalintandem.json:
 out/sabha.json:
 	python -m src.sources.sabha || $(call restore-file,$@)
 
+out/indiarunning.json:
+	python -m src.sources.indiarunning || $(call restore-file,$@)
+
 fetch: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
@@ -229,7 +232,8 @@ fetch: out/allevents.txt \
  out/artzo.txt \
  out/pedalintandem.json \
  out/cksl.json \
- out/sabha.json
+ out/sabha.json \
+ out/indiarunning.json
 	@echo "Done"
 
 clean:

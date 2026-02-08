@@ -1,86 +1,125 @@
+"""
+Sumukha Gallery Exhibition Scraper
+
+Fetches exhibition data from sumukha.com and converts to Schema.org Event format.
+
+Process:
+1. Fetch homepage to find all /exhibitions/{id} links
+2. For each exhibition page, parse details from the header div
+3. Filter to ongoing/future exhibitions only
+4. Extract description from .prose section
+"""
+
 from bs4 import BeautifulSoup
 from common.session import get_cached_session
-import html
 import json
-from urllib.parse import urlparse, urljoin
-from datetime import datetime, timedelta
+import re
+from urllib.parse import urljoin
+from datetime import datetime
 
+BASE_URL = "https://sumukha.com"
 session = get_cached_session()
 
 
-# Function to parse and format date
-# The website only returns a month+date
-# So we find the one in the future and use that
-def parse_and_format_date(date_str):
-    year1 = datetime.now().year
+def parse_date_range(date_str):
+    """Parse date range like 'January 15, 2026 to February 26, 2026'."""
+    # Handle "to" separator
+    if " to " in date_str:
+        start_str, end_str = [d.strip() for d in date_str.split(" to ")]
+    else:
+        start_str = end_str = date_str.strip()
+
+    # Parse dates
     try:
-        year2 = datetime.now().year + 1
-        d1 = datetime.strptime(f"{year1} {date_str}", f"%Y %d %B")
-        d2 = datetime.strptime(f"{year2} {date_str}", f"%Y %d %B")
-        if abs(d1 - datetime.now()) < abs(d2 - datetime.now()):
-            return d1.strftime("%Y-%m-%d")
-        else:
-            return d2.strftime("%Y-%m-%d")
-    except ValueError as e:
-        return datetime.strptime(date_str, "%d %B %Y").strftime("%Y-%m-%d")
+        start_date = datetime.strptime(start_str, "%B %d, %Y")
+        end_date = datetime.strptime(end_str, "%B %d, %Y")
+        return start_date, end_date
+    except ValueError:
+        return None, None
 
 
-def fetch_description(url):
-    # Fetch event description from detail page
-    event_html = session.get(url).text
-    # Get the description by getting all text between "converter.makeHtml(`" and "`"
-    start_index = event_html.find("converter.makeHtml(`") + len("converter.makeHtml(`")
-    end_index = event_html.find("`);", start_index)
-    description = event_html[start_index:end_index]
-    # decode html entities
-    return html.unescape(description)
+def fetch_exhibition_links():
+    """Fetch homepage and extract all /exhibitions/{id} links."""
+    response = session.get(BASE_URL)
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    links = set()
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if "/exhibitions/" in href:
+            full_url = urljoin(BASE_URL, href)
+            # Normalize URL (remove trailing slash, query params)
+            full_url = full_url.split("?")[0].rstrip("/")
+            if re.match(r"https://sumukha\.com/exhibitions/\d+", full_url):
+                links.add(full_url)
+
+    return sorted(links)
 
 
-# Function to parse event details from HTML
-def parse_event_details(html_content):
-    soup = BeautifulSoup(html_content, "html.parser")
-    events = []
-    for card_body in soup.select(".card-body"):
-        parent_div = card_body.parent.parent
-        title = card_body.select_one(".list-title a").text.strip().title()
-        performer = card_body.select_one(".text-muted").text.strip()
-        date_range = card_body.select_one("div.text-muted").text.strip()
-        start_date_str, end_date_str = [
-            date.strip() for date in date_range.split(" to ")
-        ]
-        start_date = parse_and_format_date(start_date_str)
-        end_date = parse_and_format_date(end_date_str)
-        img_src = parent_div.select_one("img")["src"]
+def parse_exhibition_page(url):
+    """Parse exhibition details from exhibition page."""
+    response = session.get(url)
+    soup = BeautifulSoup(response.text, "html.parser")
 
-        event_url = urljoin(
-            "https://sumukha.com", card_body.select_one(".list-title a")["href"]
-        )
-        description = fetch_description(event_url)
+    # Find the header div with exhibition details
+    header = soup.select_one("div.text-center.mb-16")
+    if not header:
+        return None
 
-        events.append(
-            {
-                "name": title,
-                "startDate": start_date,
-                "endDate": end_date,
-                "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
-                "url": event_url,
-                "image": urljoin("https://sumukha.com", img_src),
-                "description": description,
-                "performer": {
-                    "@type": "PerformingGroup",
-                    "name": performer.replace("by ", ""),
-                },
-            }
-        )
-    return events
+    # Extract title
+    title_elem = header.select_one("h1")
+    if not title_elem:
+        return None
+    title = title_elem.text.strip()
+
+    # Extract date range and location from p tags
+    p_tags = header.select("p.text-base.text-gray-600")
+    if len(p_tags) < 2:
+        return None
+
+    date_str = p_tags[0].text.strip()
+    location = p_tags[1].text.strip()
+
+    # Parse dates
+    start_date, end_date = parse_date_range(date_str)
+    if not start_date or not end_date:
+        return None
+
+    # Filter: only ongoing or future exhibitions
+    today = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
+    if end_date < today:
+        return None
+
+    # Extract description from .prose
+    prose = soup.select_one(".prose")
+    description = prose.get_text(separator="\n").strip() if prose else ""
+
+    # Extract image
+    img = soup.select_one("img")
+    image = urljoin(BASE_URL, img["src"]) if img and img.get("src") else ""
+
+    return {
+        "name": title,
+        "startDate": start_date.strftime("%Y-%m-%d"),
+        "endDate": end_date.strftime("%Y-%m-%d"),
+        "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+        "url": url,
+        "image": image,
+        "description": description
+    }
 
 
 def main():
+    links = fetch_exhibition_links()
     events = []
-    for scope in ["current", "upcoming"]:
-        url = f"https://sumukha.com/exhibition?section=exhibition&scope={scope}"
-        html_content = session.get(url).text
-        events += parse_event_details(html_content)
+
+    for url in links:
+        event = parse_exhibition_page(url)
+        if event:
+            events.append(event)
+
+    # Sort by start date
+    events.sort(key=lambda x: x["startDate"])
 
     with open("out/sumukha.json", "w") as f:
         json.dump(events, f, indent=2)
