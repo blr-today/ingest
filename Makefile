@@ -192,6 +192,9 @@ out/sabha.json:
 out/indiarunning.json:
 	python -m src.sources.indiarunning || $(call restore-file,$@)
 
+out/penciljam.json:
+	python -m src.sources.penciljam || $(call restore-file,$@)
+
 fetch: out/allevents.txt \
  out/highape.txt \
  out/mapindia.json \
@@ -233,7 +236,8 @@ fetch: out/allevents.txt \
  out/pedalintandem.json \
  out/cksl.json \
  out/sabha.json \
- out/indiarunning.json
+ out/indiarunning.json \
+ out/penciljam.json
 	@echo "Done"
 
 clean:
