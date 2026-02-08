@@ -1,5 +1,6 @@
 import ics
 import re
+import datetime
 from datetime import timedelta
 from .tz import IST
 
@@ -39,9 +40,12 @@ def convert_ics_to_events(ics_file_path):
             "name": event.name,
             "startDate": event.begin.astimezone(IST).isoformat(),
             "endDate": event.end.astimezone(IST).isoformat(),
-            "description": event.description,
+            "description": event.description or "",
             "url": event.url,
         }
+        # if endDate is in the past, continue
+        if event.end.astimezone(IST) < datetime.datetime.now(IST):
+            continue
 
         if len(event.categories) > 0:
             event_json["keywords"] = sorted(event.categories)
@@ -49,6 +53,7 @@ def convert_ics_to_events(ics_file_path):
         if event.location:
             event_json["location"] = {"@type": "Place", "name": event.location}
 
+        print(event_json)
         for l in LANGUAGE_MAP:
             regex = r"\b" + l + r"\b"
             if re.search(regex, event_json["description"]):

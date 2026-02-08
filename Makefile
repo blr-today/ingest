@@ -168,8 +168,12 @@ out/tpcc.jsonnet:
 out/tpcc.json: out/tpcc.jsonnet
 	python src/jsonnet.py out/tpcc.jsonnet || $(call restore-file,$@)
 
-out/cksl.jsonnet:
-	curl --silent "https://core.service.elfsight.com/p/boot/?w=51301a3b-7f76-429d-bcb5-98c6338857f4" | jq '.data.widgets["51301a3b-7f76-429d-bcb5-98c6338857f4"].data.settings' > $@ 
+
+out/cksl.ics:
+	wget -q https://calendar.google.com/calendar/ical/c_0tfecbctgj9m3ei54jihee4u0c%40group.calendar.google.com/public/basic.ics -O $@ || $(call restore-file,$@)
+
+out/cksl.jsonnet: out/cksl.ics
+	python src/ics-to-event.py out/cksl.ics $@ || $(call restore-file,$@)
 
 out/cksl.json: out/cksl.jsonnet
 	python src/jsonnet.py out/cksl.jsonnet || $(call restore-file,$@)
