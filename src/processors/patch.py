@@ -34,8 +34,16 @@ class Patch(Processor):
             return event
         patch = patch.copy()
         if "keywords" in patch:
+            existing = event.get("keywords", [])
+            # District does something weird for keywords now:
+            # "keywords": {
+            #     "@type": "Description",
+            #     "content": "Anshu Mor Live Spoiler Alert | Standup Comedy Special ,All"
+            # },
+            if isinstance(existing, dict):
+                existing = []
             # Combine keywords and remove duplicates
-            combined_keywords = event.get("keywords", []) + patch["keywords"]
+            combined_keywords = existing + patch["keywords"]
             patch["keywords"] = sorted(list(set(combined_keywords)))
             if "keywords" in event:
                 del event["keywords"]
