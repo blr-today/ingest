@@ -1,14 +1,16 @@
 import json
-from common.session import get_cached_session
 from bs4 import BeautifulSoup
-from common.tz import IST
 from datetime import datetime
+from ..common.fetch import Fetch
+from ..common.tz import IST
 
-URL = "https://bngbirds.com/"
+URL = "https://blrbirders.com/"
+
+fetcher = Fetch(browser="chrome")
 
 
 def fetch_event_location(url):
-    response = session.get(url)
+    response = fetcher.get(url=url)
     soup = BeautifulSoup(response.text, "html.parser")
     location = soup.select_one(".evo_location_name").text.strip()
     loc = soup.select_one(".evcal_location").get("data-latlng")
@@ -27,7 +29,10 @@ def parse_bng_bird_events(soup):
                 tag.string += '"}'
             event = json.loads(tag.string)
         except:
-            print("[BNGBIRDS] Failed to parse " + tag.string.split("\n")[1])
+            print("[BLRBIRDERS] Failed to parse " + tag.string.split("\n")[1])
+        # https://blrbirders.com/events/first-sunday-bird-walk/var/ri-16.l-L1 -> https://blrbirders.com/events/first-sunday-bird-walk/
+
+        event['url'] = event['url'].split("/var/")[0]
 
         event["startDate"] = (
             datetime.strptime(event["startDate"], "%Y-%m-%dT%H:%M+5.5:00")
@@ -45,7 +50,7 @@ def parse_bng_bird_events(soup):
             .replace("Meeting time", "\nMeeting time")
             .strip()
         )
-        event["@id"] = "com.bngbirds:" + event["@id"]
+        event["@id"] = "com.blrbirders:" + event["@id"]
         location, lat, lng = fetch_event_location(event["url"])
         event["location"] = {
             "name": location,
@@ -63,13 +68,11 @@ def parse_bng_bird_events(soup):
 
 
 if __name__ == "__main__":
-    session = get_cached_session()
-    response = session.get(URL)
+    response = fetcher.get(url=URL)
     soup = BeautifulSoup(response.text, "html.parser")
 
     events = parse_bng_bird_events(soup)
 
-    # Write output JSON file
-    with open("out/bngbirds.json", "w", encoding="utf-8") as f:
+    with open("out/blrbirders.json", "w", encoding="utf-8") as f:
         json.dump(events, f, indent=2, ensure_ascii=False)
         print(f"[BNGBIRDS] {len(events)} events")

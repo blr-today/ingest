@@ -177,8 +177,8 @@ out/cksl.json: out/cksl.jsonnet
 out/lavonne.json:
 	python -m src.sources.lavonne || $(call restore-file,$@)
 
-out/bngbirds.json:
-	python -m src.sources.bngbirds || $(call restore-file,$@)
+out/blrbirders.json:
+	python -m src.sources.blrbirders || $(call restore-file,$@)
 
 out/paintbar.json:
 	python -m src.sources.paintbar || $(call restore-file,$@)
@@ -224,7 +224,7 @@ fetch: out/allevents.txt \
  out/thewhitebox.json \
  out/timeandspace.json \
  out/lavonne.json \
- out/bngbirds.json \
+ out/blrbirders.json \
  out/paintbar.json \
  out/artzo.txt \
  out/pedalintandem.json \

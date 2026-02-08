@@ -37,6 +37,7 @@ We either have URLs that can be easily scraped (https://schema.org/Event), or a 
 | Courtyard Koota                | ✔️      | ✔️     | ✔️          |
 | [Sort My Scene][sms]           | ❌      | ❌     | ❌ | Club night events.
 | Total Environment Music Events | ✔️      | ✔️     | ✔️          |
+| BLRBirders    	               | ✔️      | ✔️     | ✔️          |
 
 # WIP
 
@@ -57,7 +58,6 @@ We have some data available or change notifications configured, but there needs 
 
 # TODO
 - [ ] https://biker.highwaydelite.com/
-- [ ] https://bngbirds.com/, but no events listed currently.
 - [ ] Switch HighApe to https://highape.com/bangalore/all-events which has enough JSON in a single URL
 - [ ] Switch Trove to https://troveexperiences.com/collections/bangalore/products.json
 - [ ] https://hooplaback-girl.myinstamojo.com/ (search for Workshop events)
