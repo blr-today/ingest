@@ -5223,6 +5223,56 @@
   },
   {
     "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Red Rose Masquerade Ball Waitlist",
+    "description": "Step into a Night of Mystery, Masks, and Magic.Welcome to The Red Rose Masquerade Ball by The Big Nose Company. A modern twist on an old-world tradition, where curiosity meets connection under soft ballroom lighting and golden chandeliers.\u2728 The ExperiencePicture a red rose dreamscape, twirling to gentle music, glasses clinking, and laughter behind jeweled masks. Every detail is curated to spark intrigue and ease you into conversation. No pretense, no pressure, just shared curiosity.\ud83d\udc83What Awaits YouAn evening of interactive icebreakers, slow dances, and subtle games that turn strangers into stories. You\u2019ll sip on elegant mocktails, enjoy luxe hors d'oeuvres, and wander through lit corners where conversations flow as easily as the music.\ud83c\udfad Why It\u2019s SpecialIt\u2019s not just another party. It\u2019s an experience designed for those who crave genuine connection and core moments in a city that rarely pauses. With only 30 seats and a curated guest list, every mask hides a mystery worth meeting.\ud83d\udd6f\ufe0f Dress CodeAll-black or red evening party attire, gold or black masks preferred but the truest accessory you bring is your curiosity.Would you dare to unmask the night?",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/69D80B81056E4261A18889CD56FB477D_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/9405D758B31E402FACF4CECC819F1849_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/ACBD3AEEFA7444AA80344824CAF7D457_converted_webp.webp"
+    ],
+    "startDate": "2026-02-14T18:30:00+05:30",
+    "endDate": "2026-02-14T21:30:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "Indiranagar, Bengaluru, Karnataka, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJkQN3GKQWrjsRNhBQJrhGD7U",
+      "latitude": "12.97836920000000000000",
+      "longitude": "77.64083560000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 30,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3299.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "The Big Nose Company",
+      "description": "A passion project turned community built for connection and curiosity. Our mission is to intentionally create a global collective where individuality is celebrated, style is second nature, and belonging feels effortless.",
+      "url": "https://urbanaut.app/partner/big-nose",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/AE757EFAE76445CD981D47DD8B1F459C_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-90036-00044"
+      }
+    },
+    "url": "https://urbanaut.app/spot/red-rose-masquerade",
+    "keywords": [
+      "Music",
+      "Premium",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
     "@type": "Event",
     "name": "Alchemy with Art",
     "description": "Atta Galatta presents 'Alchemy with Art' - a creative healing workshop guided by Harshitha on Sunday 28 December 2025 at 12:30 AM. In this circle of Alchemy with Art, you will be guided through a transformative art session, balancing creative expression and inner work, with the intention of turning your biggest heartbreak (romantic or otherwise) into a personal breakthrough. If this is what your heart is ready for this Valentine's month, come join in the healing experience. ",
