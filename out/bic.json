@@ -110,30 +110,6 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "MusicEvent",
-    "@id": "85165-1770663600-1770668100@bangaloreinternationalcentre.org",
-    "name": "Johann Sebastian Bach's Goldberg Variations",
-    "startDate": "2026-02-09T19:00:00+05:30",
-    "endDate": "2026-02-09T20:15:00+05:30",
-    "description": "This recital presents J.S. Bach\u2019s Goldberg Variations, BWV 988, performed by pianist Eun Seong Hong. \nThe Goldberg Variations are thirty variations framed by an opening and closing aria, all built on a single, unchanging bass line. Across thirty-two movements, one musical idea unfolds into a hidden architecture in time, at once rigorous and deeply expressive. For the performer, navigating this structure is not only a technical challenge but an inward journey, where each note must carry both order and feeling. \nEun Seong Hong\u2019s first performance of the Goldberg Variations in India, this evening is an invitation to hear how Bach transforms a single idea into a small universe built with astonishing perfection. \n\u00a0 \nImage Credit \nThumbnail and Poster: Johann Sebastian Bach (aged 61) in a portrait by Elias Gottlob Haussmann (1695-1774), the second version of his 1746 canvas, bequeathed to Bach-Archiv Leipzig by William H Scheide (Princeton, New Jersey). Bach is holding a copy of his six-part canon BWV 1076. \n\u00a0 \nIn collaboration with: \n \nSupported by: \n\u00a0 \u00a0\u00a0Contact \n",
-    "url": "https://bangaloreinternationalcentre.org/event/johann-sebastian-bachs-goldberg-variations/",
-    "keywords": [
-      "Music",
-      "Performing Arts"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
-    },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "CreativeWork",
-      "name": "Johann Sebastian Bach's Goldberg Variations"
-    },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-Bach-1.jpg"
-  },
-  {
-    "@context": "https://schema.org",
     "@type": "Event",
     "@id": "84461-1771068600-1771074000@bangaloreinternationalcentre.org",
     "name": "Invisible Empire",
@@ -159,28 +135,28 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "TheaterEvent",
-    "@id": "85253-1770838200-1770841800@bangaloreinternationalcentre.org",
-    "name": "LONO: The Woman Who Had Two Navels",
-    "startDate": "2026-02-11T19:30:00+05:30",
-    "endDate": "2026-02-11T20:30:00+05:30",
-    "description": "\u201cThe distinction between past, present and future is only a stubbornly persistent illusion.\u201d \u2014 Albert Einstein \nA woman sits at a table. A lamp flickers. And between the two of them, an entire inner world comes alive. \nWho manipulates whom? \nWhat follows is a quiet, unsettling dance between light and shadow, memory and imagination. A dialogue played out without words between a performer and a lamp that refuses to stay in its place. One dominates. Then the other. The rules keep shifting, and the audience is never quite sure who is in control. \nThrough dance and puppetry, LONO offers a reflection on the stories we tell ourselves about who we are. What remains is not stillness but a restless balance: the soul caught somewhere between what was and what is yet to come. \nLONO \u2013 The Woman With Two Navels\u00a0is presented by the 12th Attakkalari India Biennial in collaboration with the Goethe-Institut / Max Mueller Bhavan Bangalore. \nPlease note: Strictly no entry once the program has begun. \nPresented by:\n\u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0\n",
-    "url": "https://bangaloreinternationalcentre.org/event/lono-the-woman-who-had-two-navels/",
+    "@type": "ScreeningEvent",
+    "@id": "85081-1771439400-1771445700@bangaloreinternationalcentre.org",
+    "name": "Cinema Pe Cinema",
+    "startDate": "2026-02-18T18:30:00+05:30",
+    "endDate": "2026-02-18T20:15:00+05:30",
+    "description": "62 minutes | English, Hindi & Tamil with English subtitles | 2024 | India \nCinema Pe Cinema: The Theatres. The Movies. And Us. weaves a memory-scape of lives shaped by India\u2019s single-screen cinemas. Through the recollections of people who worked in these theatres and those who loved them, the film traces the intimate, often complex relationships between cinema halls, the movies they screened, and the communities they served. In doing so, it tells the story of India\u2019s small cinemas as a social and cultural history: one deeply entwined with the country\u2019s political and social transformations over the first century of cinema. \nThe screening will be followed by a discussion between the Director,\u00a0Vani Subramanian and Usha Rao, Anthropologist & Independent Media Maker. The session will close with an audience Q&A. \nIn collaboration with: \n \n",
+    "url": "https://bangaloreinternationalcentre.org/event/cinema-pe-cinema/",
     "keywords": [
-      "Dance",
-      "Performing Arts",
-      "Theatre"
+      "Film",
+      "Media"
     ],
     "location": {
       "@type": "Place",
       "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
     },
-    "inLanguage": "en",
-    "workPerformed": {
-      "@type": "TheaterPlay",
-      "name": "LONO: The Woman Who Had Two Navels"
+    "inLanguage": "ta",
+    "workPresented": {
+      "@type": "Movie",
+      "name": "Cinema Pe Cinema"
     },
-    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-8-10.jpg"
+    "subtitleLanguage": "en",
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail_CpC.jpg"
   },
   {
     "@context": "https://schema.org",
@@ -208,6 +184,31 @@
       "name": "Prav\u0101ha 2026"
     },
     "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-800_600-option-text.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "@id": "85253-1770838200-1770841800@bangaloreinternationalcentre.org",
+    "name": "LONO: The Woman Who Had Two Navels",
+    "startDate": "2026-02-11T19:30:00+05:30",
+    "endDate": "2026-02-11T20:30:00+05:30",
+    "description": "\u201cThe distinction between past, present and future is only a stubbornly persistent illusion.\u201d \u2014 Albert Einstein \nA woman sits at a table. A lamp flickers. And between the two of them, an entire inner world comes alive. \nWho manipulates whom? \nWhat follows is a quiet, unsettling dance between light and shadow, memory and imagination. A dialogue played out without words between a performer and a lamp that refuses to stay in its place. One dominates. Then the other. The rules keep shifting, and the audience is never quite sure who is in control. \nThrough dance and puppetry, LONO offers a reflection on the stories we tell ourselves about who we are. What remains is not stillness but a restless balance: the soul caught somewhere between what was and what is yet to come. \nLONO \u2013 The Woman With Two Navels\u00a0is presented by the 12th Attakkalari India Biennial in collaboration with the Goethe-Institut / Max Mueller Bhavan Bangalore. \nPlease note: Strictly no entry once the program has begun. \nPresented by:\n\u00a0 \u00a0\u00a0\u00a0 \u00a0 \u00a0\n",
+    "url": "https://bangaloreinternationalcentre.org/event/lono-the-woman-who-had-two-navels/",
+    "keywords": [
+      "Dance",
+      "Performing Arts",
+      "Theatre"
+    ],
+    "location": {
+      "@type": "Place",
+      "name": "Bangalore International Centre, 7, 4th Main Road, Domlur II Stage, Bangalore, Karnataka, 560071, India"
+    },
+    "inLanguage": "en",
+    "workPerformed": {
+      "@type": "TheaterPlay",
+      "name": "LONO: The Woman Who Had Two Navels"
+    },
+    "image": "https://bangaloreinternationalcentre.org/wp-content/uploads/Thumbnail-8-10.jpg"
   },
   {
     "@context": "https://schema.org",
