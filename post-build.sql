@@ -984,6 +984,21 @@ WHERE
 DELETE FROM events WHERE event_json->> '$.location' LIKE '%andhra pradesh%';
 
 
+-- Update location details for The Humming Tree
+UPDATE events
+SET
+  event_json = json_replace(
+    event_json,
+    '$.location.address',
+    '763, 100 Feet Rd, HAL 2nd Stage, Appareddipalya, Indiranagar, Bengaluru, Karnataka 560008, India',
+    '$.location.geo',
+    json('{"@type": "GeoCoordinates", "latitude": 12.9711533, "longitude": 77.6409725}')
+  )
+WHERE
+  lower(event_json ->> '$.location.name') = 'the humming tree'
+  OR lower(event_json ->> '$.organizer.name') = 'the humming tree';
+
+
 -- Mark events in other major Indian cities as NOTINBLR
 UPDATE events
 SET
