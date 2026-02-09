@@ -1,30 +1,6 @@
 [
    {
       "@context": "https://schema.org",
-      "@id": "cksl:610dq9nlhlqcn6e2c7u2u3367r",
-      "@type": "Event",
-      "description": "No further details available, please check with CKSL",
-      "endDate": "2026-02-14T20:00:00+05:30",
-      "keywords": [
-         "CKSL"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "No. 24, 1st floor, 3rd Main Rd, K.R.Colony, Domlur I Stage, Bengaluru, Karnataka 560071",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9577059",
-            "longitude": "77.6327838"
-         },
-         "isicV4": "8549",
-         "name": "Choe Khor Sum Ling Centre, Ashwini"
-      },
-      "name": "WoSW - 10 | Ven. Lekden| HYB",
-      "startDate": "2026-02-14T18:00:00+05:30",
-      "url": "https://cksl.in/?eid=610dq9nlhlqcn6e2c7u2u3367r#section3"
-   },
-   {
-      "@context": "https://schema.org",
       "@id": "cksl:145quj8q5dlmdfd1vs88nebsej",
       "@type": "Event",
       "description": "No further details available, please check with CKSL",
@@ -46,6 +22,30 @@
       "name": "WoSW - 12 | Ven. Lekden | HYB",
       "startDate": "2026-02-28T18:00:00+05:30",
       "url": "https://cksl.in/?eid=145quj8q5dlmdfd1vs88nebsej#section3"
+   },
+   {
+      "@context": "https://schema.org",
+      "@id": "cksl:610dq9nlhlqcn6e2c7u2u3367r",
+      "@type": "Event",
+      "description": "No further details available, please check with CKSL",
+      "endDate": "2026-02-14T20:00:00+05:30",
+      "keywords": [
+         "CKSL"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No. 24, 1st floor, 3rd Main Rd, K.R.Colony, Domlur I Stage, Bengaluru, Karnataka 560071",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9577059",
+            "longitude": "77.6327838"
+         },
+         "isicV4": "8549",
+         "name": "Choe Khor Sum Ling Centre, Ashwini"
+      },
+      "name": "WoSW - 10 | Ven. Lekden| HYB",
+      "startDate": "2026-02-14T18:00:00+05:30",
+      "url": "https://cksl.in/?eid=610dq9nlhlqcn6e2c7u2u3367r#section3"
    },
    {
       "@context": "https://schema.org",

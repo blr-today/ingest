@@ -133,6 +133,49 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "This Sunday, we go loud, proud & Punjabi 🔊House of Punjabi ft. DJ Talon & friendsHigh-energy beats, wild dancefloor scenesOnly at Yeda Republic, Bangalore 🔥",
+      "endDate": "2026-02-15T23:59:00",
+      "identifier": "com.skillboxes.33794",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17706426300HgeOg3Y7jLDmzIV.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9343419",
+            "longitude": "77.6155451"
+         },
+         "name": "Yeda Republic Bengaluru"
+      },
+      "name": "HOUSE OF PUNJAB. FT TALON & FRIENDS AT YEDA REPUBLIC KORAMANGALA",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "GET FREE ACCESS TO THE EVENT\n",
+            "inventoryLevel": 100,
+            "name": "FEMALE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/house-of-punjab-ft-talon-friends-at-yeda-republic-koramangala"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "GET FREE ACCESS TO THE EVENT\n",
+            "inventoryLevel": 100,
+            "name": "COUPLE ENTRY",
+            "url": "https://www.skillboxes.com/events/ticket/house-of-punjab-ft-talon-friends-at-yeda-republic-koramangala"
+         }
+      ],
+      "startDate": "2026-02-15T20:00:00",
+      "url": "https://www.skillboxes.com/events/house-of-punjab-ft-talon-friends-at-yeda-republic-koramangala"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Tandava is not destruction—it is renewal. This high-energy Mahashivratri experience invites the audience to listen deeply and dance freely as deep techno-trance electronic music collide with raw vocals and ancient invocations. ",
       "endDate": "2026-02-15T23:59:00",
       "identifier": "com.skillboxes.33772",
@@ -2835,6 +2878,40 @@
       ],
       "startDate": "2026-03-14T14:00:00",
       "url": "https://www.skillboxes.com/events/find-your-writing-voice-ft-neeraj-pandey"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "EducationEvent",
+      "description": "MINDFIELD Music meets Mental HealthThis month, we explore the theme of Dissonance. How musical tension reflects psychological and emotional states. In dialogue with the artists, we trace how these inner states are expressed in musical form.",
+      "endDate": "2026-02-15T23:59:00",
+      "identifier": "com.skillboxes.33687",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/1200x630/17706329798mBIZtQQJxxwip8g.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Workshops"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "54, first floor, 9th Main Rd, above Bharat Co-operative Bank, 4th Block, 5th Block, Jayanagar, Bengaluru, Karnataka 560041, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9223529",
+            "longitude": "77.5839222"
+         },
+         "name": "Odyssey School of Music"
+      },
+      "name": "Mind Field",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 998,
+            "name": "Regular Pass",
+            "url": "https://www.skillboxes.com/events/ticket/mind-field"
+         }
+      ],
+      "startDate": "2026-02-15T15:30:00",
+      "url": "https://www.skillboxes.com/events/mind-field"
    },
    {
       "@context": "https://schema.org",
