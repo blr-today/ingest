@@ -2408,52 +2408,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "On the Frontlines- II: TPCC Bangalore",
-    "description": "Screening this day: Man with a Mirror by Guy Sherwin, and Taking Tiger Mountain by Tom Huckabee and Kent Smith",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0D793BE2B4AF48B5A63FAF44AB7E9C10_converted_webp.webp"
-    ],
-    "startDate": "2026-02-10T19:45:00+05:30",
-    "endDate": "2026-02-10T22:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "130/1-2, Wheeler Rd, Cox Town, Bengaluru, Karnataka 560005, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJlTT_mTIXrjsRqJMi2p-2wc8",
-      "latitude": "12.99677590000000000000",
-      "longitude": "77.61986830000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 28,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "375.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "The Parallel Cinema Club",
-      "description": null,
-      "url": "https://urbanaut.app/partner/tpcc",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CCC82FB98FAC4C2ABAD62995EA990CFA_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-98860-01991"
-      }
-    },
-    "url": "https://urbanaut.app/spot/on-the-frontlines-ii-tpcc-bangalore",
-    "keywords": [
-      "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "On the Frontlines- III: TPCC Bangalore",
     "description": "Screening this day: What Places in Heaven, What Planets Directed, How Long the Effects? or, The General Accidents of the World by David Gatten, and The Angel by Patrick Bokanowski",
     "image": [
@@ -5539,8 +5493,8 @@
     },
     "url": "https://urbanaut.app/spot/singles-only-coffee-run-cafe-run",
     "keywords": [
+      "Adventure",
       "Wellness",
-      "Walking Tour",
       "Food & drink",
       "URBANAUT"
     ]
@@ -5851,6 +5805,53 @@
       "Live GIG",
       "Music",
       "Premium",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "name": "Beginners guide to Mahjong",
+    "description": "Come learn the basics of mahjong in the comfort of a dedicated mahjong lounge.This session will allow you to start playing right away.",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/D677287B47C7483DAFCF79EA7295C480_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/558C5925E95D4CC48E1A281F5D749E6E_converted_webp.webp"
+    ],
+    "startDate": "2026-02-17T10:00:00+05:30",
+    "endDate": "2026-02-17T13:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "439, 8th Main Rd, 4th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJidqkPy8VrjsRH4OdpGMmGME",
+      "latitude": "12.93344150000000000000",
+      "longitude": "77.62698460000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 8,
+    "remainingAttendeeCapacity": 6,
+    "typicalAgeRange": "5+",
+    "offers": {
+      "@type": "Offer",
+      "price": "3000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Mahjong Lounge",
+      "description": "mahjong community for Bangalore",
+      "url": "https://urbanaut.app/partner/mahjonglounge",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/806C8B7E5EF64B708C3B664E98B70C30_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98441-98655"
+      }
+    },
+    "url": "https://urbanaut.app/spot/beginners-guide-to-mahjong",
+    "keywords": [
+      "Leisure",
       "URBANAUT"
     ]
   }
