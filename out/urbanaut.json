@@ -271,7 +271,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 100,
+    "remainingAttendeeCapacity": 98,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -510,7 +510,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 4,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1162,7 +1162,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 97,
+    "remainingAttendeeCapacity": 94,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1261,7 +1261,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 80,
-    "remainingAttendeeCapacity": 56,
+    "remainingAttendeeCapacity": 47,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1658,7 +1658,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 151,
+    "remainingAttendeeCapacity": 132,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1712,7 +1712,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 38,
+    "remainingAttendeeCapacity": 36,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1852,7 +1852,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 59,
+    "remainingAttendeeCapacity": 58,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1898,7 +1898,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 84,
+    "remainingAttendeeCapacity": 82,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1943,7 +1943,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 150,
-    "remainingAttendeeCapacity": 116,
+    "remainingAttendeeCapacity": 111,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2138,7 +2138,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 59,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2347,8 +2347,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 36,
+    "maximumAttendeeCapacity": 20,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2848,7 +2848,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 6,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2872,55 +2872,6 @@
       "Wellness",
       "Workshop",
       "Art & culture",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "unHinged, unMatched, unFugged!",
-    "description": "A singles mixer and standup comedy show with food and gamesLaugh together. Flirt awkwardly. Bond over shared red flags.Unhinged, Unmatched, Unfugged!Because dating apps have become a personality test you keep failing.The latest & greatest combo ever - of laughter & socializing - packed into an exciting event.Intro ice-breakers: about 30 mins.Current & future stars of stand-up comedy: about 90 minsSocialize and meet other singles, hangout & chill over food and beverages (non-alcoholic) - about 120 mins.Reasons to attend:1. No. 1 place to be in if you like comedy & want to meet new singles2. Two awesome events & way cheaper than therapy & more beneficial to health3. Three Hours of making fun new memories & connections",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/CFFB8B1A9BCD4F0A9A6C4DE946A77D81_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0CE21778CF7E479D8917771DE8A62B7F_converted_webp.webp"
-    ],
-    "startDate": "2026-02-15T12:00:00+05:30",
-    "endDate": "2026-02-15T15:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "2nd Floor, Grace Complex, 11, CMR Main Rd, above Chaayos, HBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJq71pswkXrjsRjFhUWK7xqyw",
-      "latitude": "13.02183810000000000000",
-      "longitude": "77.63971660000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 50,
-    "typicalAgeRange": "21+",
-    "offers": {
-      "@type": "Offer",
-      "price": "999.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "WOLOers",
-      "description": "Wellness Community. Together we: Laugh & Love, Give & Take, Care & Share, Teach & Learn, Travel & Bond, Rely & Support",
-      "url": "https://urbanaut.app/partner/woloers",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/6E8BEB68C0BC41DE8978F221B5557051_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-94450-03488"
-      }
-    },
-    "url": "https://urbanaut.app/spot/unhinged-unmatched-unfugged",
-    "keywords": [
-      "Leisure",
-      "Premium",
-      "Food & drink",
       "URBANAUT"
     ]
   },
@@ -3193,8 +3144,8 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/722C4A8F1D774D1FB318C239EE44534D_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C5965BF50F34436D91B1BB496716DBCB_converted_webp.webp"
     ],
-    "startDate": "2026-02-20T18:00:00+05:30",
-    "endDate": "2026-02-20T20:00:00+05:30",
+    "startDate": "2026-02-20T17:00:00+05:30",
+    "endDate": "2026-02-20T19:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -4191,7 +4142,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 60,
+    "remainingAttendeeCapacity": 59,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -4851,7 +4802,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 42,
+    "remainingAttendeeCapacity": 38,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5048,7 +4999,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -5558,6 +5509,206 @@
     "url": "https://urbanaut.app/spot/the-silliest-show-tonight-by-improv-lore-10936",
     "keywords": [
       "Leisure",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Midnight Diner: Tokyo - A Tribute by Chef Anumitra",
+    "description": "Bento Bento Presents: Midnight Diner \u2013 Tokyo Stories - A Tribute by Chef AnumitraDuring the days of pandemic binge-watching, one series that captured hearts worldwide was the gentle and deeply human\u00a0Midnight Diner: Tokyo Stories. Inspired by its warmth and storytelling, Chef Anumitra\u2014after her successful\u00a0tribute last year\u2014brings back her heartfelt culinary homage to this beloved series at Bento Bento.Just like in\u00a0Midnight Diner, where a late-night eatery in Tokyo serves dishes that resonate deeply with its customers' emotions and stories, this pop-up offers a curated menu featuring comfort dishes that bring both nostalgia and joy, featuring authentic Japanese ingredients, such as umeboshi, katsuobushi soyu, and Japanese mayo. Don't miss this chance to be a part of a comforting late-night community, in our cozy yet cute space, Bento Bento in Indiranagar.Menu: Midnight Diner \u2013 Tokyo StoriesStartersUmeboshi Onigiri\u00a0(Veg) \u2013 A traditional rice ball, sticky rice encases the iconic Japanese pickled plum, balancing tartness and umami.Corn Dog\u00a0(Veg) \u2013 A Japanese take on the classic street food, featuring a crispy, golden-brown batter.Ham Cutlet\u00a0\u2013 Breaded and fried ham, offering a crispy exterior and tender, flavourful inside.Chicken Cheese Katsu\u00a0\u2013 A Japanese-style chicken cutlet, with a melted cheese centre, encased in crisp panko.\u2018Octopus\u2019 Wieners\u00a0\u2013 Sausages carved into octopus shapes and deep-fried to perfection, a nostalgic favourite from Japanese lunchboxes.MainsTanmen (Veg Ramen)\u00a0\u2013 A light yet flavourful vegetable ramen, comforting and wholesome.Tonteki\u00a0\u2013 A pan-seared pork steak glazed with a savoury-sweet sauce, served with a side of greens.Crab Toshikoshi Soba\u00a0\u2013 A dish traditionally eaten on New Year's Eve, featuring soba noodles in a light broth with crabsticks.Oyakodon\u00a0\u2013 A beloved rice bowl dish featuring simmered chicken, egg, and onions in a savoury dashi sauce.Pork Miso Soup Set Menu\u00a0\u2013 A hearty miso soup enriched with tender pork, served with rice and pickles.Saut\u00e9ed Yam Set Menu\u00a0(Veg) \u2013 A simple yet nourishing dish highlighting the natural sweetness of saut\u00e9ed yam, served with rice and miso soup.Sides (Small Plates)Egg Tofu\u00a0\u2013 A silky, custard-like tofu made with eggs, served chilled, with a light soy-based sauce.Pickled Napa Cabbage\u00a0\u2013 A refreshing and crunchy pickled side dish to cleanse the palate.\u00a0Potato Salad\u00a0\u2013 A Japanese-style creamy potato salad with crunchy vegetables, eggs, and hints of mustard.Rice with Katsuobushi Soyu\u00a0\u2013 Steamed rice topped with bonito flakes and seasoned soy sauce.Rice with Butter Soyu\u00a0\u2013 A simple yet indulgent dish of warm rice mixed with butter and soy sauce. Boba, Beverages & Desserts also available!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/12A4F4DFEA014050B161897368A1BFCF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/44951D6AD7A442FEAA37F8AC92FCC9C4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DA46652AE47040B8875E43BD3C852111_converted_webp.webp"
+    ],
+    "startDate": "2026-02-21T20:00:00+05:30",
+    "endDate": "2026-02-21T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Bento Bento",
+      "address": "197, Paramahansa Yogananda Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3XwDRkIXrjsRYKund9FIcKs",
+      "latitude": "12.97795790000000000000",
+      "longitude": "77.63649000000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 26,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bento Bento",
+      "description": null,
+      "url": "https://urbanaut.app/partner/bentobento",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netuser/9931_BB logo.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-91138-87578"
+      }
+    },
+    "url": "https://urbanaut.app/spot/midnightdiner#2026-02-21T2000",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Midnight Diner: Tokyo - A Tribute by Chef Anumitra",
+    "description": "Bento Bento Presents: Midnight Diner \u2013 Tokyo Stories - A Tribute by Chef AnumitraDuring the days of pandemic binge-watching, one series that captured hearts worldwide was the gentle and deeply human\u00a0Midnight Diner: Tokyo Stories. Inspired by its warmth and storytelling, Chef Anumitra\u2014after her successful\u00a0tribute last year\u2014brings back her heartfelt culinary homage to this beloved series at Bento Bento.Just like in\u00a0Midnight Diner, where a late-night eatery in Tokyo serves dishes that resonate deeply with its customers' emotions and stories, this pop-up offers a curated menu featuring comfort dishes that bring both nostalgia and joy, featuring authentic Japanese ingredients, such as umeboshi, katsuobushi soyu, and Japanese mayo. Don't miss this chance to be a part of a comforting late-night community, in our cozy yet cute space, Bento Bento in Indiranagar.Menu: Midnight Diner \u2013 Tokyo StoriesStartersUmeboshi Onigiri\u00a0(Veg) \u2013 A traditional rice ball, sticky rice encases the iconic Japanese pickled plum, balancing tartness and umami.Corn Dog\u00a0(Veg) \u2013 A Japanese take on the classic street food, featuring a crispy, golden-brown batter.Ham Cutlet\u00a0\u2013 Breaded and fried ham, offering a crispy exterior and tender, flavourful inside.Chicken Cheese Katsu\u00a0\u2013 A Japanese-style chicken cutlet, with a melted cheese centre, encased in crisp panko.\u2018Octopus\u2019 Wieners\u00a0\u2013 Sausages carved into octopus shapes and deep-fried to perfection, a nostalgic favourite from Japanese lunchboxes.MainsTanmen (Veg Ramen)\u00a0\u2013 A light yet flavourful vegetable ramen, comforting and wholesome.Tonteki\u00a0\u2013 A pan-seared pork steak glazed with a savoury-sweet sauce, served with a side of greens.Crab Toshikoshi Soba\u00a0\u2013 A dish traditionally eaten on New Year's Eve, featuring soba noodles in a light broth with crabsticks.Oyakodon\u00a0\u2013 A beloved rice bowl dish featuring simmered chicken, egg, and onions in a savoury dashi sauce.Pork Miso Soup Set Menu\u00a0\u2013 A hearty miso soup enriched with tender pork, served with rice and pickles.Saut\u00e9ed Yam Set Menu\u00a0(Veg) \u2013 A simple yet nourishing dish highlighting the natural sweetness of saut\u00e9ed yam, served with rice and miso soup.Sides (Small Plates)Egg Tofu\u00a0\u2013 A silky, custard-like tofu made with eggs, served chilled, with a light soy-based sauce.Pickled Napa Cabbage\u00a0\u2013 A refreshing and crunchy pickled side dish to cleanse the palate.\u00a0Potato Salad\u00a0\u2013 A Japanese-style creamy potato salad with crunchy vegetables, eggs, and hints of mustard.Rice with Katsuobushi Soyu\u00a0\u2013 Steamed rice topped with bonito flakes and seasoned soy sauce.Rice with Butter Soyu\u00a0\u2013 A simple yet indulgent dish of warm rice mixed with butter and soy sauce. Boba, Beverages & Desserts also available!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/12A4F4DFEA014050B161897368A1BFCF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/44951D6AD7A442FEAA37F8AC92FCC9C4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DA46652AE47040B8875E43BD3C852111_converted_webp.webp"
+    ],
+    "startDate": "2026-02-21T22:00:00+05:30",
+    "endDate": "2026-02-21T23:59:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Bento Bento",
+      "address": "197, Paramahansa Yogananda Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3XwDRkIXrjsRYKund9FIcKs",
+      "latitude": "12.97795790000000000000",
+      "longitude": "77.63649000000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 26,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bento Bento",
+      "description": null,
+      "url": "https://urbanaut.app/partner/bentobento",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netuser/9931_BB logo.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-91138-87578"
+      }
+    },
+    "url": "https://urbanaut.app/spot/midnightdiner#2026-02-21T2200",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Midnight Diner: Tokyo - A Tribute by Chef Anumitra",
+    "description": "Bento Bento Presents: Midnight Diner \u2013 Tokyo Stories - A Tribute by Chef AnumitraDuring the days of pandemic binge-watching, one series that captured hearts worldwide was the gentle and deeply human\u00a0Midnight Diner: Tokyo Stories. Inspired by its warmth and storytelling, Chef Anumitra\u2014after her successful\u00a0tribute last year\u2014brings back her heartfelt culinary homage to this beloved series at Bento Bento.Just like in\u00a0Midnight Diner, where a late-night eatery in Tokyo serves dishes that resonate deeply with its customers' emotions and stories, this pop-up offers a curated menu featuring comfort dishes that bring both nostalgia and joy, featuring authentic Japanese ingredients, such as umeboshi, katsuobushi soyu, and Japanese mayo. Don't miss this chance to be a part of a comforting late-night community, in our cozy yet cute space, Bento Bento in Indiranagar.Menu: Midnight Diner \u2013 Tokyo StoriesStartersUmeboshi Onigiri\u00a0(Veg) \u2013 A traditional rice ball, sticky rice encases the iconic Japanese pickled plum, balancing tartness and umami.Corn Dog\u00a0(Veg) \u2013 A Japanese take on the classic street food, featuring a crispy, golden-brown batter.Ham Cutlet\u00a0\u2013 Breaded and fried ham, offering a crispy exterior and tender, flavourful inside.Chicken Cheese Katsu\u00a0\u2013 A Japanese-style chicken cutlet, with a melted cheese centre, encased in crisp panko.\u2018Octopus\u2019 Wieners\u00a0\u2013 Sausages carved into octopus shapes and deep-fried to perfection, a nostalgic favourite from Japanese lunchboxes.MainsTanmen (Veg Ramen)\u00a0\u2013 A light yet flavourful vegetable ramen, comforting and wholesome.Tonteki\u00a0\u2013 A pan-seared pork steak glazed with a savoury-sweet sauce, served with a side of greens.Crab Toshikoshi Soba\u00a0\u2013 A dish traditionally eaten on New Year's Eve, featuring soba noodles in a light broth with crabsticks.Oyakodon\u00a0\u2013 A beloved rice bowl dish featuring simmered chicken, egg, and onions in a savoury dashi sauce.Pork Miso Soup Set Menu\u00a0\u2013 A hearty miso soup enriched with tender pork, served with rice and pickles.Saut\u00e9ed Yam Set Menu\u00a0(Veg) \u2013 A simple yet nourishing dish highlighting the natural sweetness of saut\u00e9ed yam, served with rice and miso soup.Sides (Small Plates)Egg Tofu\u00a0\u2013 A silky, custard-like tofu made with eggs, served chilled, with a light soy-based sauce.Pickled Napa Cabbage\u00a0\u2013 A refreshing and crunchy pickled side dish to cleanse the palate.\u00a0Potato Salad\u00a0\u2013 A Japanese-style creamy potato salad with crunchy vegetables, eggs, and hints of mustard.Rice with Katsuobushi Soyu\u00a0\u2013 Steamed rice topped with bonito flakes and seasoned soy sauce.Rice with Butter Soyu\u00a0\u2013 A simple yet indulgent dish of warm rice mixed with butter and soy sauce. Boba, Beverages & Desserts also available!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/12A4F4DFEA014050B161897368A1BFCF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/44951D6AD7A442FEAA37F8AC92FCC9C4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DA46652AE47040B8875E43BD3C852111_converted_webp.webp"
+    ],
+    "startDate": "2026-02-22T20:00:00+05:30",
+    "endDate": "2026-02-22T22:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Bento Bento",
+      "address": "197, Paramahansa Yogananda Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3XwDRkIXrjsRYKund9FIcKs",
+      "latitude": "12.97795790000000000000",
+      "longitude": "77.63649000000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 26,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bento Bento",
+      "description": null,
+      "url": "https://urbanaut.app/partner/bentobento",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netuser/9931_BB logo.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-91138-87578"
+      }
+    },
+    "url": "https://urbanaut.app/spot/midnightdiner#2026-02-22T2000",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
+      "Art & culture",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Midnight Diner: Tokyo - A Tribute by Chef Anumitra",
+    "description": "Bento Bento Presents: Midnight Diner \u2013 Tokyo Stories - A Tribute by Chef AnumitraDuring the days of pandemic binge-watching, one series that captured hearts worldwide was the gentle and deeply human\u00a0Midnight Diner: Tokyo Stories. Inspired by its warmth and storytelling, Chef Anumitra\u2014after her successful\u00a0tribute last year\u2014brings back her heartfelt culinary homage to this beloved series at Bento Bento.Just like in\u00a0Midnight Diner, where a late-night eatery in Tokyo serves dishes that resonate deeply with its customers' emotions and stories, this pop-up offers a curated menu featuring comfort dishes that bring both nostalgia and joy, featuring authentic Japanese ingredients, such as umeboshi, katsuobushi soyu, and Japanese mayo. Don't miss this chance to be a part of a comforting late-night community, in our cozy yet cute space, Bento Bento in Indiranagar.Menu: Midnight Diner \u2013 Tokyo StoriesStartersUmeboshi Onigiri\u00a0(Veg) \u2013 A traditional rice ball, sticky rice encases the iconic Japanese pickled plum, balancing tartness and umami.Corn Dog\u00a0(Veg) \u2013 A Japanese take on the classic street food, featuring a crispy, golden-brown batter.Ham Cutlet\u00a0\u2013 Breaded and fried ham, offering a crispy exterior and tender, flavourful inside.Chicken Cheese Katsu\u00a0\u2013 A Japanese-style chicken cutlet, with a melted cheese centre, encased in crisp panko.\u2018Octopus\u2019 Wieners\u00a0\u2013 Sausages carved into octopus shapes and deep-fried to perfection, a nostalgic favourite from Japanese lunchboxes.MainsTanmen (Veg Ramen)\u00a0\u2013 A light yet flavourful vegetable ramen, comforting and wholesome.Tonteki\u00a0\u2013 A pan-seared pork steak glazed with a savoury-sweet sauce, served with a side of greens.Crab Toshikoshi Soba\u00a0\u2013 A dish traditionally eaten on New Year's Eve, featuring soba noodles in a light broth with crabsticks.Oyakodon\u00a0\u2013 A beloved rice bowl dish featuring simmered chicken, egg, and onions in a savoury dashi sauce.Pork Miso Soup Set Menu\u00a0\u2013 A hearty miso soup enriched with tender pork, served with rice and pickles.Saut\u00e9ed Yam Set Menu\u00a0(Veg) \u2013 A simple yet nourishing dish highlighting the natural sweetness of saut\u00e9ed yam, served with rice and miso soup.Sides (Small Plates)Egg Tofu\u00a0\u2013 A silky, custard-like tofu made with eggs, served chilled, with a light soy-based sauce.Pickled Napa Cabbage\u00a0\u2013 A refreshing and crunchy pickled side dish to cleanse the palate.\u00a0Potato Salad\u00a0\u2013 A Japanese-style creamy potato salad with crunchy vegetables, eggs, and hints of mustard.Rice with Katsuobushi Soyu\u00a0\u2013 Steamed rice topped with bonito flakes and seasoned soy sauce.Rice with Butter Soyu\u00a0\u2013 A simple yet indulgent dish of warm rice mixed with butter and soy sauce. Boba, Beverages & Desserts also available!",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/12A4F4DFEA014050B161897368A1BFCF_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/44951D6AD7A442FEAA37F8AC92FCC9C4_converted_webp.webp",
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/DA46652AE47040B8875E43BD3C852111_converted_webp.webp"
+    ],
+    "startDate": "2026-02-22T22:00:00+05:30",
+    "endDate": "2026-02-22T23:59:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": "Bento Bento",
+      "address": "197, Paramahansa Yogananda Rd, Binnamangala, Hoysala Nagar, Indiranagar, Bengaluru, Karnataka 560038, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ3XwDRkIXrjsRYKund9FIcKs",
+      "latitude": "12.97795790000000000000",
+      "longitude": "77.63649000000000000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 26,
+    "typicalAgeRange": "16+",
+    "offers": {
+      "@type": "Offer",
+      "price": "250.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "Bento Bento",
+      "description": null,
+      "url": "https://urbanaut.app/partner/bentobento",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netuser/9931_BB logo.png",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-91138-87578"
+      }
+    },
+    "url": "https://urbanaut.app/spot/midnightdiner#2026-02-22T2200",
+    "keywords": [
+      "Leisure",
+      "Food & drink",
       "Art & culture",
       "URBANAUT"
     ]
