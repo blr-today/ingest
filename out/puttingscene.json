@@ -1,71 +1,41 @@
 [
   {
     "@type": "Event",
-    "name": "Let Sound Be Sound",
-    "url": "https://puttingscene.com/events/2929",
-    "startDate": "2026-02-10T11:30:00+05:30",
-    "endDate": "2026-02-10T12:30:00+05:30",
-    "description": "A day of musical games, improvisation, and composition, ending in a live duo performance",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/02/09/1770638778756-1770638778723_yyn5b9vosxh.png",
-    "location": {
-      "name": "MAP, Ashok Nagar",
-      "address": "MAP, Ashok Nagar, ",
-      "url": "https://maps.app.goo.gl/pw5p2sWVLs479Q7N9"
-    },
-    "sameAs": "https://map-india.org/map-events/let-sound-be-sound/",
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "SeminarL The neural basis of math and language: connections and challenges",
-    "url": "https://puttingscene.com/events/2928",
-    "startDate": "2026-02-10T15:30:00+05:30",
-    "endDate": "2026-02-10T16:30:00+05:30",
-    "description": "How do language and math connect in the brain? A talk on learning, neural bias, and shaping better teaching",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/02/09/1770638614824-1770638614788_osfkpjyqp6.png",
+    "name": "Lecture: Modular bootstrap for BPS black holes",
+    "url": "https://puttingscene.com/events/2945",
+    "startDate": "2026-02-11T15:30:00+05:30",
+    "endDate": "2026-02-11T16:30:00+05:30",
+    "description": "A physics talk on string theory, exploring how shifting equations help count and understand black holes.",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/02/10/1770727240310-1770727240261_qbc3epcl97.png",
     "location": {
       "name": "ICTS \u2013 TIFR, Shivakote",
       "address": "ICTS \u2013 TIFR, Shivakote, Bangalore",
       "url": "https://maps.app.goo.gl/WSJDaQ3DyJ5XFoY56"
     },
-    "sameAs": "https://www.icts.res.in/colloquium/2026-02-10/bittu-kaveri-rajaraman",
+    "sameAs": "https://www.icts.res.in/seminar/2026-02-11/sergey-alexandrov",
     "isAccessibleForFree": true
   },
   {
     "@type": "Event",
-    "name": "Max Planck Lecture: Forms & Functions of a Plant-Fungal Symbiosis",
-    "url": "https://puttingscene.com/events/2926",
-    "startDate": "2026-02-10T16:00:00+05:30",
-    "endDate": "2026-02-10T17:00:00+05:30",
-    "description": "A Max Planck Lecture unpacks how fungi and plants trade nutrients in one of nature\u2019s oldest alliances",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/02/09/1770638502122-1770638501978_8uk4ngd8pyc.png",
+    "name": "Dough It Yourself: A Valentine\u2019s Pizza-Making Experience",
+    "url": "https://puttingscene.com/events/2938",
+    "startDate": "2026-02-11T18:00:00+05:30",
+    "endDate": "2026-02-11T19:00:00+05:30",
+    "description": "Learn the craft of pizza making in a relaxed, chef-guided kitchen session",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/2938/c2082d21-a966-4ef1-9c49-c46c1bde33ec.jpg",
     "location": {
-      "name": "NCBS, Bellary Rd, Bangalore",
-      "address": "NCBS, Bellary Rd, Bangalore, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=National+Centre+for+Biological+Sciences+Tata+Institute+of+Fundamental+Research+GKVK+Bellary+Road+Bangalore+560065+Karnataka+India"
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
     },
-    "sameAs": "https://www.ncbs.res.in/events/cg",
-    "isAccessibleForFree": true
-  },
-  {
-    "@type": "Event",
-    "name": "Artist Sessions with Apeksha Pai",
-    "url": "https://puttingscene.com/events/2927",
-    "startDate": "2026-02-10T18:30:00+05:30",
-    "endDate": "2026-02-10T19:30:00+05:30",
-    "description": "Apeksha Pai, classically trained and lyrically candid, performs introspective originals shaped by Carnatic roots",
-    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/02/09/1770638558059-1770638558027_tc1qjmcb26.png",
-    "location": {
-      "name": "Rainbow Bridge, Gangadhar Chetty Rd, Bangalore",
-      "address": "Rainbow Bridge, Gangadhar Chetty Rd, Bangalore, Bangalore",
-      "url": "https://www.google.com/maps/search/?api=1&query=Rainbow+Bridge+School+of+Music%2C+140+Gangadhar+Chetty+Road%2C+Halasuru%2C+Bengaluru%2C+Karnataka+560008"
-    },
-    "sameAs": "https://www.skillboxes.com/events/rainbow-bridge-artist-sessions-5",
     "offers": [
       {
         "@type": "Offer",
-        "price": "299.00",
-        "priceCurrency": "INR"
+        "name": "General",
+        "price": "760.95",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 7
       }
     ]
   },
@@ -92,6 +62,115 @@
         "remainingAttendeeCapacity": 4
       }
     ]
+  },
+  {
+    "@type": "Event",
+    "name": "Dough It Yourself: A Valentine\u2019s Pizza-Making Experience",
+    "url": "https://puttingscene.com/events/2938",
+    "startDate": "2026-02-11T19:00:00+05:30",
+    "endDate": "2026-02-11T20:00:00+05:30",
+    "description": "Learn the craft of pizza making in a relaxed, chef-guided kitchen session",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/2938/c2082d21-a966-4ef1-9c49-c46c1bde33ec.jpg",
+    "location": {
+      "name": "Foodstories, Bangalore",
+      "address": "Foodstories, Bangalore, ",
+      "url": "https://maps.app.goo.gl/hZadDqwRRYsHweDo8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "760.95",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Not A Bar Takeover",
+    "url": "https://puttingscene.com/events/2946",
+    "startDate": "2026-02-11T19:00:00+05:30",
+    "endDate": "2026-02-11T20:00:00+05:30",
+    "description": "Gurugram\u2019s The Brook lands at Soka for a focused night of craft-driven cocktails",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/02/10/1770725436832-1770725436644_d1aopgibvo6.png",
+    "location": {
+      "name": "Soka, Domlur",
+      "address": "Soka, Domlur, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Soka+Cocktail+Bar+No.+210+A+Cross+1st+Main+Road+2nd+Stage+Indiranagar+Domlur+Bengaluru+560071"
+    },
+    "sameAs": "https://www.instagram.com/p/DUikCRxDDBr/",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Theatre Play: Vishwamitra Menake Dance Madodhu Enake Ask Mr YNK",
+    "url": "https://puttingscene.com/events/2944",
+    "startDate": "2026-02-11T19:30:00+05:30",
+    "endDate": "2026-02-11T20:30:00+05:30",
+    "description": "A sharp satirical play on middle-class helplessness, probing marriage strains and shifting gender dynamics",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2025/12/30/1767091062910-1767091062858_yxrx5cm9fw.png",
+    "location": {
+      "name": "Ranga shankara",
+      "address": "Ranga shankara, ",
+      "url": "https://maps.app.goo.gl/Wjoid7E1VFA4r3L89"
+    },
+    "sameAs": "https://in.bookmyshow.com/plays/vishwamitra-menake-dance-madodhu-enake-ask-mr-ynk/ET00444004",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "200.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "LONO: The Woman Who Had Two Navels",
+    "url": "https://puttingscene.com/events/2948",
+    "startDate": "2026-02-11T19:30:00+05:30",
+    "endDate": "2026-02-11T20:30:00+05:30",
+    "description": "A wordless mix of dance, illusion, and puppetry that explores a woman\u2019s memories, with a lamp as her rival",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/02/10/1770725182078-1770725181945_gcrs3jx1ybd.png",
+    "location": {
+      "name": "BIC, Domlur",
+      "address": "BIC, Domlur, ",
+      "url": "https://maps.app.goo.gl/wWYoeTPQc6ymNehp9"
+    },
+    "sameAs": "https://bangaloreinternationalcentre.org/event/lono-the-woman-who-had-two-navels/",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Tango Night with Natallia Piano Studio",
+    "url": "https://puttingscene.com/events/2947",
+    "startDate": "2026-02-11T20:30:00+05:30",
+    "endDate": "2026-02-11T21:30:00+05:30",
+    "description": "Live tango and piano set that blends music, movement, and late-night energy",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/02/10/1770727579674-1770727579633_buwbchymsc4.png",
+    "location": {
+      "name": "Arena Brewhouse, Indiranagar",
+      "address": "Arena Brewhouse, Indiranagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Arena+Brewhouse%2C+48%2C+100+Feet+Road%2C+Defence+Colony%2C+Indiranagar%2C+Bengaluru%2C+Karnataka+560038"
+    },
+    "sameAs": "https://www.instagram.com/p/DUfuEuiEcxP/?igsh=MTdpdDB2ZGxzemFjaA%3D%3D",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Science Around The Corner: A Science Pop-Up",
+    "url": "https://puttingscene.com/events/2877",
+    "startDate": "2026-02-12T12:30:00+05:30",
+    "endDate": "2026-02-12T18:00:00+05:30",
+    "description": "A city pop-up spotlighting women in science, including educational exhibits, interactive demonstrations, and open dialogues with women researchers",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/2877/928c61d8-e4e2-4a5d-963c-59eddb97c307.jpg",
+    "location": {
+      "name": "Rangoli Metro Art Center, Shivaji Nagar,",
+      "address": "Rangoli Metro Art Center, Shivaji Nagar,, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Rangoli+Metro+Art+Centre,+MG+Road+Boulevard,+beside+MG+Road+Metro+Station,+Shivaji+Nagar,+Bengaluru,+Karnataka+560001,+India"
+    },
+    "isAccessibleForFree": true
   },
   {
     "@type": "Event",
@@ -131,6 +210,198 @@
       "url": "https://www.google.com/maps/search/?api=1&query=The+Quad+by+BLR,+Kempegowda+International+Airport,+Bengaluru,+Karnataka,+India"
     },
     "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Elevate- Makalidurga Trek by Physique 57",
+    "url": "https://puttingscene.com/events/2950",
+    "startDate": "2026-02-14T06:00:00+05:30",
+    "endDate": "2026-02-14T13:00:00+05:30",
+    "description": "Climb Makalidurga at first light for a social, full-body workout across granite slopes and hilltop views",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/2950/28837013-ad15-43e4-83de-d1be0c14ff8d.jpg",
+    "location": {
+      "name": "Physique 57 Bengaluru",
+      "address": "Physique 57 Bengaluru, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=Physique%2057%20Bengaluru&query_place_id=ChIJT55pBRQXrjsR72Sei_ZU1A8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "1999.05",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 8
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "PUMA X BUMBLE X HYROX V'DAY SINGLES MIXER",
+    "url": "https://puttingscene.com/events/2949",
+    "startDate": "2026-02-14T07:30:00+05:30",
+    "endDate": "2026-02-14T08:30:00+05:30",
+    "description": "Mini HYROX Workouts. DJs. Dates. Good vibes. Come to break a sweat, leave with a stronger connection at PUMA X BUMBLE X HYROX Beginner Level Simulation & social mixer on 14th February 2026.",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/2879/f3f89f62-7075-4afd-b796-247dcb61cac4.jpg",
+    "location": {
+      "name": "Phoenix Marketcity",
+      "address": "Phoenix Marketcity, ",
+      "url": "https://www.google.com/maps/place/12%C2%B059'58.2%22N+77%C2%B041'44.2%22E/@12.9995,77.6956111,17z/data=!3m1!4b1!4m4!3m3!8m2!3d12.9995!4d77.6956111?hl=en&entry=ttu&g_ep=EgoyMDI2MDIwMy4wIKXMDSoKLDEwMDc5MjA3M0gBUAM%3D"
+    },
+    "sameAs": "https://docs.google.com/forms/d/e/1FAIpQLSftsWduJ9JlMvWJ-gHu9RY2sqpmjxJQneeSoqGtOJN1m6wULg/viewform?fbclid=PAb21jcAP4B9FleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAad2o1hz2ZXmkH_9JYYvENBEnZ2c6pX2az3W1JWyMaAD97jzQaeghAvs4qoCSw_aem_ydbc8M-PL63OEsihtYTqdA",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Workshop: Draw on a cake (and eat it too!)",
+    "url": "https://puttingscene.com/events/2930",
+    "startDate": "2026-02-14T11:00:00+05:30",
+    "endDate": "2026-02-14T14:00:00+05:30",
+    "description": "Decorate a decadent, pre-layered chocolate cake using icing cones, palette knives, and brushes, and take the finished creation home",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/2930/a60e5683-b886-46e1-b059-5f2c41dbbd57.jpg",
+    "location": {
+      "name": "Underline Center",
+      "address": "Underline Center, ",
+      "url": "https://maps.app.goo.gl/n3QSQMunqsC2eDFr7"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Duo Ticket",
+        "price": "1270.34",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 3
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Rouge at Lupa - A sit-down Experience",
+    "url": "https://puttingscene.com/events/2934",
+    "startDate": "2026-02-14T12:00:00+05:30",
+    "endDate": "2026-02-14T14:00:00+05:30",
+    "description": "<p><em>A sit-down dinner for all things rouge!</em></p><p>This Valentine\u2019s Day, Lupa is bringing back <strong>old-school romance</strong> with \u201cRouge\u201d. Sleeves to put your phones away, while you live in the moment. From truly romantic songs to a truly romantic dinner, with <strong><em>polaroids to capture the moment</em></strong> &amp; questions to make your conversations last longer, we\u2019ve got it all covered. A <strong><em>saxophonist</em></strong> to put you in just the right mood, <strong><em>a cocktail menu</em></strong> that\u2019s made especially for V-Day, and lots more!<br><em>We\u2019re very serious about all things love</em>.</p><p>Book your table now!</p>",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/2934/35037a20-7193-4fd6-bd9c-a7f4f8877649.jpg",
+    "location": {
+      "name": "LUPA",
+      "address": "LUPA, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=LUPA&query_place_id=ChIJwWzHW5cXrjsRSUYk6pvrsjU"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "5238.10",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 50
+      },
+      {
+        "@type": "Offer",
+        "name": "Members Only!",
+        "price": "5238.10",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 50
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Rouge at Lupa - A sit-down Experience",
+    "url": "https://puttingscene.com/events/2934",
+    "startDate": "2026-02-14T14:00:00+05:30",
+    "endDate": "2026-02-14T15:30:00+05:30",
+    "description": "<p><em>A sit-down dinner for all things rouge!</em></p><p>This Valentine\u2019s Day, Lupa is bringing back <strong>old-school romance</strong> with \u201cRouge\u201d. Sleeves to put your phones away, while you live in the moment. From truly romantic songs to a truly romantic dinner, with <strong><em>polaroids to capture the moment</em></strong> &amp; questions to make your conversations last longer, we\u2019ve got it all covered. A <strong><em>saxophonist</em></strong> to put you in just the right mood, <strong><em>a cocktail menu</em></strong> that\u2019s made especially for V-Day, and lots more!<br><em>We\u2019re very serious about all things love</em>.</p><p>Book your table now!</p>",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/2934/35037a20-7193-4fd6-bd9c-a7f4f8877649.jpg",
+    "location": {
+      "name": "LUPA",
+      "address": "LUPA, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=LUPA&query_place_id=ChIJwWzHW5cXrjsRSUYk6pvrsjU"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "5238.10",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 50
+      },
+      {
+        "@type": "Offer",
+        "name": "Members Only!",
+        "price": "5238.10",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 50
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Rouge at Lupa - A sit-down Experience",
+    "url": "https://puttingscene.com/events/2934",
+    "startDate": "2026-02-14T19:00:00+05:30",
+    "endDate": "2026-02-14T21:30:00+05:30",
+    "description": "<p><em>A sit-down dinner for all things rouge!</em></p><p>This Valentine\u2019s Day, Lupa is bringing back <strong>old-school romance</strong> with \u201cRouge\u201d. Sleeves to put your phones away, while you live in the moment. From truly romantic songs to a truly romantic dinner, with <strong><em>polaroids to capture the moment</em></strong> &amp; questions to make your conversations last longer, we\u2019ve got it all covered. A <strong><em>saxophonist</em></strong> to put you in just the right mood, <strong><em>a cocktail menu</em></strong> that\u2019s made especially for V-Day, and lots more!<br><em>We\u2019re very serious about all things love</em>.</p><p>Book your table now!</p>",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/2934/35037a20-7193-4fd6-bd9c-a7f4f8877649.jpg",
+    "location": {
+      "name": "LUPA",
+      "address": "LUPA, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=LUPA&query_place_id=ChIJwWzHW5cXrjsRSUYk6pvrsjU"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "5238.10",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 48
+      },
+      {
+        "@type": "Offer",
+        "name": "Members Only!",
+        "price": "5238.10",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 50
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Rouge at Lupa - A sit-down Experience",
+    "url": "https://puttingscene.com/events/2934",
+    "startDate": "2026-02-14T21:30:00+05:30",
+    "endDate": "2026-02-14T23:45:00+05:30",
+    "description": "<p><em>A sit-down dinner for all things rouge!</em></p><p>This Valentine\u2019s Day, Lupa is bringing back <strong>old-school romance</strong> with \u201cRouge\u201d. Sleeves to put your phones away, while you live in the moment. From truly romantic songs to a truly romantic dinner, with <strong><em>polaroids to capture the moment</em></strong> &amp; questions to make your conversations last longer, we\u2019ve got it all covered. A <strong><em>saxophonist</em></strong> to put you in just the right mood, <strong><em>a cocktail menu</em></strong> that\u2019s made especially for V-Day, and lots more!<br><em>We\u2019re very serious about all things love</em>.</p><p>Book your table now!</p>",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/2934/35037a20-7193-4fd6-bd9c-a7f4f8877649.jpg",
+    "location": {
+      "name": "LUPA",
+      "address": "LUPA, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=LUPA&query_place_id=ChIJwWzHW5cXrjsRSUYk6pvrsjU"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "5238.10",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 50
+      },
+      {
+        "@type": "Offer",
+        "name": "Members Only!",
+        "price": "5238.10",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 48
+      }
+    ]
   },
   {
     "@type": "Event",
