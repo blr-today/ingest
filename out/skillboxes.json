@@ -84,7 +84,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Apart from this entry charges there will be an additional cover charges of 4000rs at the gate\n",
-            "inventoryLevel": 990,
+            "inventoryLevel": 983,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/shimza"
          },
@@ -127,7 +127,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Grants general admission access to one individual.\n",
-            "inventoryLevel": 704,
+            "inventoryLevel": 600,
             "name": "Phase 1 || Single Pass",
             "url": "https://www.skillboxes.com/events/ticket/seedhe-maut-unmaad-iim-s-annual-cultural-fest"
          },
@@ -165,7 +165,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charge of INR 2000 applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 84,
+            "inventoryLevel": 82,
             "name": "Early Bird GA Pass",
             "url": "https://www.skillboxes.com/events/ticket/shlomo-india-tour-Bangalore"
          },
@@ -173,7 +173,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory cover charge of INR 2000 applicable at gate. Redeemable on F&B\n",
-            "inventoryLevel": 10,
+            "inventoryLevel": 9,
             "name": "Early Bird Fanpit Pass",
             "url": "https://www.skillboxes.com/events/ticket/shlomo-india-tour-Bangalore"
          },
@@ -195,6 +195,90 @@
       ],
       "startDate": "2026-02-22T22:00:00",
       "url": "https://www.skillboxes.com/events/shlomo-india-tour-Bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Experience an electrifying night of beats and rhythms as CentiGrade Club Nights presents the sensation TOM ENZY live at Cavore Bengaluru this February.Get ready to dance the night away to cutting-ed",
+      "endDate": "2026-02-28T01:00:00",
+      "identifier": "com.skillboxes.33963",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d0VhNTRRR25vUVdnSkFzWmd0c1liUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1771003623n55AvVdbrRGaSVFu.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Music Festivals"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "5, Field Marshal Cariappa Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9715246",
+            "longitude": "77.6052942"
+         },
+         "name": "Cavore"
+      },
+      "name": "CentiGrade Club Nights ft. Tom Enzy / 27th Feb / Cavore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Couple till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 200,
+            "name": "Guestlist - Couple",
+            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-tom-enzy-27th-feb-cavore"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Entitles free entry for 1 Female till 10PM. Cover charges applicable at the venue post 10PM.\n",
+            "inventoryLevel": 200,
+            "name": "Guestlist - Female",
+            "url": "https://www.skillboxes.com/events/ticket/centigrade-club-nights-ft-tom-enzy-27th-feb-cavore"
+         }
+      ],
+      "startDate": "2026-02-27T20:00:00",
+      "url": "https://www.skillboxes.com/events/centigrade-club-nights-ft-tom-enzy-27th-feb-cavore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "This Holi celebration, we welcome you to join The Big Band Theory for an electrifying live music show that celebrates the spirit of Festival of Colors 🧡From timeless classics in different languages that stirs nostalgia in every hear",
+      "endDate": "2026-03-01T20:30:00",
+      "identifier": "com.skillboxes.33959",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TnJvcXh1b3JoaGFBaVZ1ZmgvNVFVZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770994942gxp385KAdXSolwuq.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Music Concerts"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "126/5/4, Nallurahalli Main Rd, Palm Meadows, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9602491",
+            "longitude": "77.7326977"
+         },
+         "name": "Namma Ashram"
+      },
+      "name": "Colours - The Musical Canvas Live Show",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10,
+            "name": "Early Bird [Limited]",
+            "url": "https://www.skillboxes.com/events/ticket/colours-the-musical-canvas-live-show"
+         },
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 10,
+            "name": "Group Pass",
+            "url": "https://www.skillboxes.com/events/ticket/colours-the-musical-canvas-live-show"
+         }
+      ],
+      "startDate": "2026-03-01T18:30:00",
+      "url": "https://www.skillboxes.com/events/colours-the-musical-canvas-live-show"
    },
    {
       "@context": "https://schema.org",
@@ -542,65 +626,6 @@
       ],
       "startDate": "2026-04-24T20:00:00",
       "url": "https://www.skillboxes.com/events/prog-encounters-4-0-bangalore-edition-day-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "When India’s No. #1 VDJ steps in, the room follows. 🔥\r\n\r\n \r\n\r\nVDJ SHAAN taking control of the night.\r\n\r\nPrecision. Power. Pure dominance.\r\n\r\n \r\n\r\n🗓 13.02.26\r\n\r\n📍 S",
-      "endDate": "2026-02-14T00:45:00",
-      "identifier": "com.skillboxes.33899",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/d3VOU2Q5OEZyc2dQZUZhc2gvM1VnUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/17708335776g4nNsebxjDAtSHP.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Mantri Avenue",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9453634",
-            "longitude": "77.6198713"
-         },
-         "name": "Sunburn Union Bengaluru"
-      },
-      "name": "Dj Shaan live in Sunburn Union",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Free entry all night + Complimentary drinks on the house for one female.\n- Access to Baddies Lounge and backstage",
-            "inventoryLevel": 100,
-            "name": "Ladies - Baddies Lounge",
-            "url": "https://www.skillboxes.com/events/ticket/dj-shaan-live-in-sunburn-union"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Free entry for one male and one female till 9pm. Post 9pm covers are applicable at the venue of INR 1000.\n- Access to VIP Section",
-            "inventoryLevel": 100,
-            "name": "Couple Entry",
-            "url": "https://www.skillboxes.com/events/ticket/dj-shaan-live-in-sunburn-union"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- free entry for stag till 9:00 p.m to general access. Post 9pm covers are applicable at the venue of INR 2000.\n",
-            "inventoryLevel": 99,
-            "name": "Stag - General Access",
-            "url": "https://www.skillboxes.com/events/ticket/dj-shaan-live-in-sunburn-union"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Covers of INR 1000 applicable at the venue before 9pm and INR 2000 post 9pm.\n- Access to VIP Section",
-            "inventoryLevel": 100,
-            "name": "Stag VIP",
-            "url": "https://www.skillboxes.com/events/ticket/dj-shaan-live-in-sunburn-union"
-         }
-      ],
-      "startDate": "2026-02-13T19:00:00",
-      "url": "https://www.skillboxes.com/events/dj-shaan-live-in-sunburn-union"
    },
    {
       "@context": "https://schema.org",
@@ -2639,49 +2664,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Step in solo, leave with a story 👀Blind Date Thursday at Yeda RepublicTwo DJs. One dancefloor. Infinite chemistryValentine week just got interesting 💃",
-      "endDate": "2026-02-13T23:59:00",
-      "identifier": "com.skillboxes.33755",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770569815A4Bxary4iTnA0jPt.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "HEART'S HUSTLE FT.DJ BAHUL X DJ PRIYANK AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/heart-s-hustle-ft-dj-bahul-x-dj-priyank-at-yeda-republic-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "GET FREE ACCESS TO THE EVENT\n",
-            "inventoryLevel": 100,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/heart-s-hustle-ft-dj-bahul-x-dj-priyank-at-yeda-republic-koramangala"
-         }
-      ],
-      "startDate": "2026-02-13T20:00:00",
-      "url": "https://www.skillboxes.com/events/heart-s-hustle-ft-dj-bahul-x-dj-priyank-at-yeda-republic-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Highlights\r\n\r\n \r\n\r\n\r\n\tBangalore’s biggest grand semi-open-air Holi celebration with rain dance\r\n\tMassive daytime colour festival experience filled with energy and joy\r\n\tLive DJs delivering high-energ",
       "endDate": "2026-03-04T23:59:00",
       "identifier": "com.skillboxes.33754",
@@ -2984,41 +2966,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "It’s that time of the month where we team up again with our friends at Social for this flawless flow of sets.",
-      "endDate": "2026-02-13T23:59:00",
-      "identifier": "com.skillboxes.33729",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TG9vcnBSNVBPOXY3RW9qcnAzb1Y3dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770470696W4TiRDePhN7QQTHe.png.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Plot 37, 80 Feet Rd, Hal, HAL 3rd Stage, Hal, New Tippasandra, Bengaluru, Karnataka 560075, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9707654",
-            "longitude": "77.6476266"
-         },
-         "name": "Indiranagar Social"
-      },
-      "name": "AMNAP RECORDS presents : Phasmid (UK) + DJ Dwell + Echoborg",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "Cover charges applicable at gates\n",
-            "inventoryLevel": 45,
-            "name": "Early Bird Pass",
-            "url": "https://www.skillboxes.com/events/ticket/amnap-records-presents-phasmid-uk-dj-dwell-echoborg"
-         }
-      ],
-      "startDate": "2026-02-13T20:00:00",
-      "url": "https://www.skillboxes.com/events/amnap-records-presents-phasmid-uk-dj-dwell-echoborg"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "BANGALORE BASS HEADS – OUR SECOND RECORD LABEL SHOWCASE IS HERE!\r\n\r\n \r\n\r\nWe're beyond excited to return to the city with an insane night of pure bass music. This time, we're spotlighting our label's heavy-hitti",
       "endDate": "2026-02-21T00:45:00",
       "identifier": "com.skillboxes.33723",
@@ -3126,7 +3073,7 @@
       "description": "Valentine’s at Hamilton is designed for romance in its most timeless form. An evening shaped by smooth jazz, dimmed lights, and an atmosphere that invites closeness, conversation, and unhurried moments.As melodies",
       "endDate": "2026-02-14T23:30:00",
       "identifier": "com.skillboxes.33719",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TFRFbjV2YklkZ1poeHlNektJOW83dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770448325rXYezS9I1M4e8C8A.jpg.webp",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TFRFbjV2YklkZ1poeHlNektJOW83dz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770913092kHIaprNPIHFoGn4j.jpg.webp",
       "isAccessibleForFree": false,
       "keywords": [
          "Music Concerts"
@@ -3142,16 +3089,7 @@
          "name": "Hamilton Cocktail Bar"
       },
       "name": "Saturday Concerts. ft Velveteen Soulstice",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "•\tThis amount is fully redeemable on food and beverages. •\tAll event bookings are non-refundable. No cancellation/refund will be allowed post booking. •\tEvent start time is subject to the artist’s discretion and may vary from the scheduled time.\n•\tThis amount is fully redeemable on food and beverages. •\tAll event bookings are non-refundable. No cancellation/refund will be allowed post booking. •\tEvent start time is subject to the artist’s discretion and may vary from the scheduled time.",
-            "inventoryLevel": 37,
-            "name": "Table for 2",
-            "url": "https://www.skillboxes.com/events/ticket/saturday-concerts-ft-velveteen-soulstice"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-02-14T20:00:00",
       "url": "https://www.skillboxes.com/events/saturday-concerts-ft-velveteen-soulstice"
    },
@@ -3316,7 +3254,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 993,
+            "inventoryLevel": 986,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/thetaaltribe-x-kathakbeats-piya-please"
          },
@@ -3421,7 +3359,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 5,
+            "inventoryLevel": 4,
             "name": "Early Bird",
             "url": "https://www.skillboxes.com/events/ticket/find-your-writing-voice-ft-neeraj-pandey"
          }
@@ -3466,40 +3404,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Pre-Valentine Celebrations at Radio Bar 💘\r\n\r\n Akshay Live – setting the mood with soulful live music\r\n\r\n Friday, 13th February\r\n\r\n 8:30 PM onwards\r\n\r\n Radio Bar, RMZ Ecoworld, Bellandur\r",
-      "endDate": "2026-02-13T23:59:00",
-      "identifier": "com.skillboxes.33686",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770369843wNwHSEQCcLbZKIgK.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "Kiosk no 24 Building, South Gate, 31, RMZ Ecoworld Rd, near Adarsh Palm Retreat, opp. The Bay, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9208664",
-            "longitude": "77.6859185"
-         },
-         "name": "Radio Bar Bangalore"
-      },
-      "name": "Pre Valentine Special ft Akshay",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 1000,
-            "name": "Entry Ticket",
-            "url": "https://www.skillboxes.com/events/ticket/pre-valentine-special-ft-akshay"
-         }
-      ],
-      "startDate": "2026-02-13T20:30:00",
-      "url": "https://www.skillboxes.com/events/pre-valentine-special-ft-akshay"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "A tribute to the giants of rock & metal! Turn it up for S.L.A.M.FEST, a high-energy, 2-day explosion of influence and inspiration. Watch your favourite bands go all in as they pay tribute to the artists that shaped thei",
       "endDate": "2026-03-01T22:30:00",
       "identifier": "com.skillboxes.33683",
@@ -3524,7 +3428,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charge of ₹500 per person, fully redeemable on F&B will be applicable.\nEntry for 21+ only",
-            "inventoryLevel": 143,
+            "inventoryLevel": 142,
             "name": "Day 1 Pass - John Mayer, Tool, and Muse Tributes",
             "url": "https://www.skillboxes.com/events/ticket/s-l-a-m-fest"
          },
@@ -3532,7 +3436,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional cover charge of ₹500 per person, fully reedemable on F&B will be applicable.\nEntry for 21+ only",
-            "inventoryLevel": 142,
+            "inventoryLevel": 139,
             "name": "Day 2 Pass - Alice In Chains, Sepultura, and Metallica Tributes",
             "url": "https://www.skillboxes.com/events/ticket/s-l-a-m-fest"
          }
@@ -3715,47 +3619,6 @@
       ],
       "startDate": "2026-03-03T11:00:00",
       "url": "https://www.skillboxes.com/events/manyata-tech-park-s-biggest-holi-at-icb-dj-paroma"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "The curtain slips open again 🖤\r\n\r\nFREAK OPERA — Season 2 : Opening Night 🕯️\r\n\r\n \r\n\r\nNext Friday, the opera returns to town — louder, stranger, and fully possessed.\r\n\r\n \r\n\r\nHeadlining",
-      "endDate": "2026-02-13T23:59:00",
-      "identifier": "com.skillboxes.33671",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770633229fJoGxm8840gUEWvK.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "37th, Crescent Hotel, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9849438",
-            "longitude": "77.5808105"
-         },
-         "name": "The Burrow"
-      },
-      "name": "Freak Opera ft. DJ Tool (Mala Junta), GST & Rishi Sippy #TheBurrow",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 981,
-            "name": "Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/freak-opera-ft-dj-tool-mala-junta-gst-rishi-sippy-theburrow"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/freak-opera-ft-dj-tool-mala-junta-gst-rishi-sippy-theburrow"
-         }
-      ],
-      "startDate": "2026-02-13T19:00:00",
-      "url": "https://www.skillboxes.com/events/freak-opera-ft-dj-tool-mala-junta-gst-rishi-sippy-theburrow"
    },
    {
       "@context": "https://schema.org",
@@ -4036,72 +3899,7 @@
          "name": "Kitty Ko"
       },
       "name": "Redroom Ft. Ottmann (Valentine’s Day Bash).",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to one female.) Extra cover of inr 1000/- applicable post  9:30pm walk-in.\n",
-            "inventoryLevel": 100,
-            "name": "PHASE 1 FEMALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-ottmann-valentine-s-day-bash"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to one couple.) Extra cover of inr 1000/- per person applicable post 9:30 pm walk-in.\n",
-            "inventoryLevel": 100,
-            "name": "PHASE 1 COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-ottmann-valentine-s-day-bash"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to one male.) Extra cover of inr 1000/- applicable post 9:30pm walk-in.\n",
-            "inventoryLevel": 100,
-            "name": "PHASE 1 MALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-ottmann-valentine-s-day-bash"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to three female.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
-            "inventoryLevel": 100,
-            "name": "GROUP OF 3 FEMALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-ottmann-valentine-s-day-bash"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to two couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
-            "inventoryLevel": 100,
-            "name": "GROUP OF 2 COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-ottmann-valentine-s-day-bash"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to three couple.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
-            "inventoryLevel": 100,
-            "name": "GROUP OF 3 COUPLE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-ottmann-valentine-s-day-bash"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to three male.) Extra cover of inr 1000/- per person applicable post 9:30pm walk-in.\n",
-            "inventoryLevel": 100,
-            "name": "GROUP OF 3 MALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-ottmann-valentine-s-day-bash"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "(Allows entry to 5 male.) Extra cover of inr 1000/- per person  applicable post 9:30pm walk-in\n",
-            "inventoryLevel": 100,
-            "name": "GROUP OF 5 MALE",
-            "url": "https://www.skillboxes.com/events/ticket/redroom-ft-ottmann-valentine-s-day-bash"
-         }
-      ],
+      "offers": [ ],
       "startDate": "2026-02-13T19:00:00",
       "url": "https://www.skillboxes.com/events/redroom-ft-ottmann-valentine-s-day-bash"
    },
@@ -4200,7 +3998,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 492,
+            "inventoryLevel": 490,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/080-8-pulse-ft-yung-raj-3-oscillators-and-oceantied"
          }
@@ -4235,7 +4033,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable at gates.\n",
-            "inventoryLevel": 994,
+            "inventoryLevel": 989,
             "name": "RSVP/Free Guestlist - Couple",
             "url": "https://www.skillboxes.com/events/ticket/xtreme-vibes-anniversary-edition-anxhela"
          },
@@ -4243,7 +4041,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable at gates.\n",
-            "inventoryLevel": 915,
+            "inventoryLevel": 908,
             "name": "RSVP/Free Guestlist - Male",
             "url": "https://www.skillboxes.com/events/ticket/xtreme-vibes-anniversary-edition-anxhela"
          },
@@ -4251,7 +4049,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charges applicable at gates post 9:30pm.\n",
-            "inventoryLevel": 969,
+            "inventoryLevel": 965,
             "name": "RSVP/Free Guestlist - Female",
             "url": "https://www.skillboxes.com/events/ticket/xtreme-vibes-anniversary-edition-anxhela"
          },
@@ -4451,7 +4249,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 503,
+            "inventoryLevel": 495,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-gutslit-sapien-error"
          }
@@ -4463,7 +4261,7 @@
       "@context": "https://schema.org",
       "@type": "Event",
       "description": "Lojal (Trio Set):Formed in 2019 as a solo project, Lojal (pronounced Loyaal) was quickly established as a promising act in the Indian independent circuit owing to his numerous independent tours around India, sharing the stage and collaboratin",
-      "endDate": "2026-03-18T23:59:00",
+      "endDate": "2026-02-18T23:59:00",
       "identifier": "com.skillboxes.33470",
       "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770124875HnBRNDikD5sEJ3mh.jpg.webp",
       "isAccessibleForFree": false,
@@ -4490,7 +4288,7 @@
             "url": "https://www.skillboxes.com/events/ticket/grassroots-wednesdays-with-anoushka-maskey-and-the-lojal-experience"
          }
       ],
-      "startDate": "2026-03-18T20:00:00",
+      "startDate": "2026-02-18T20:00:00",
       "url": "https://www.skillboxes.com/events/grassroots-wednesdays-with-anoushka-maskey-and-the-lojal-experience"
    },
    {
@@ -4519,7 +4317,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 474,
+            "inventoryLevel": 436,
             "name": "General Entry",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-tejas-menon-mali-ankit-dayal"
          }
@@ -4706,7 +4504,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Additional mandatory cover charge of INR 500 applicable at gates.\n",
-            "inventoryLevel": 996,
+            "inventoryLevel": 993,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/no-mercy-india-tour-bangalore"
          }
@@ -4740,7 +4538,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 432,
+            "inventoryLevel": 430,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/tht-presents-dot-the-syllables-l-nee-golay"
          },
@@ -4953,7 +4751,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Mandatory Cover Charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 30,
+            "inventoryLevel": 29,
             "name": "Meet And Greet",
             "url": "https://www.skillboxes.com/events/ticket/dalli-tour-by-bhaskar-jaipur-2"
          },
@@ -5127,7 +4925,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 987,
+            "inventoryLevel": 986,
             "name": "Phase 1 Pass",
             "url": "https://www.skillboxes.com/events/ticket/classical-unboxed-saanjh"
          }
@@ -5181,47 +4979,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Skrat: Formed in 2006, Skrat is one of India’s most influential indie rock bands, known for their explosive live energy and raw, authentic so",
-      "endDate": "2026-02-13T23:59:00",
-      "identifier": "com.skillboxes.32940",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/YkM5YUkzb1JFbnltd25oanVpNnR6UT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770117717BboDtSgUzt6rQ2FF.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": null,
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "28",
-            "longitude": "77"
-         },
-         "name": "The Humming Tree"
-      },
-      "name": "THT presents Skrat and Punk On Toast",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 156,
-            "name": "Phase 1",
-            "url": "https://www.skillboxes.com/events/ticket/tht-presents-skrat-and-punk-on-toast"
-         },
-         {
-            "@type": "Offer",
-            "availability": "SoldOut",
-            "inventoryLevel": 0,
-            "name": "Early Bird",
-            "url": "https://www.skillboxes.com/events/ticket/tht-presents-skrat-and-punk-on-toast"
-         }
-      ],
-      "startDate": "2026-02-13T20:00:00",
-      "url": "https://www.skillboxes.com/events/tht-presents-skrat-and-punk-on-toast"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "You asked for it, we are giving it to you. A 10 Minutes set special Open Mic - come practice your sets - only for the first 15 artists to register. Photos and Videos will be provided.\r\n\r\n \r\n\r\nWhatsApp +919148740609 for queries.",
       "endDate": "2026-02-15T23:59:00",
       "identifier": "com.skillboxes.32931",
@@ -5245,14 +5002,14 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 18,
+            "inventoryLevel": 17,
             "name": "Audience Pass",
             "url": "https://www.skillboxes.com/events/ticket/pitara-by-kommune-1"
          },
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 9,
+            "inventoryLevel": 7,
             "name": "Performer Pass",
             "url": "https://www.skillboxes.com/events/ticket/pitara-by-kommune-1"
          }
@@ -5306,49 +5063,6 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
-      "description": "Violetta Parisini",
-      "endDate": "2026-02-13T23:00:00",
-      "identifier": "com.skillboxes.32760",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/MWI5MXFnYUFHUFg2QitOdW8yNkl6QT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1767789859ZrrccC46WY4PiYQL.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Music Concerts"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "6th Floor, Craftworks, 331, 5B Rd, Shivaji Nagar, EPIP Zone, Whitefield, Bengaluru, Karnataka 560066, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9825325",
-            "longitude": "77.7217732"
-         },
-         "name": "Windmills Craftworks"
-      },
-      "name": "Violetta Parisini Band",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\nStanding space at the bar",
-            "inventoryLevel": 20,
-            "name": "Standing Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/violetta-parisini-band"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "No food and beverages are included in the ticket price.\n",
-            "inventoryLevel": 17,
-            "name": "Seating Tickets",
-            "url": "https://www.skillboxes.com/events/ticket/violetta-parisini-band"
-         }
-      ],
-      "startDate": "2026-02-13T21:30:00",
-      "url": "https://www.skillboxes.com/events/violetta-parisini-band"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
       "description": "Vehement Era stands as a relentless force in extreme metal for 14 years, proudly curating some of the most uncompromisinggigs across the genre spectrum. From blistering black metal and brutal death metal to grinding gore, slamming brutality",
       "endDate": "2026-03-01T23:59:00",
       "identifier": "com.skillboxes.32629",
@@ -5372,7 +5086,7 @@
          {
             "@type": "Offer",
             "availability": "InStock",
-            "inventoryLevel": 995,
+            "inventoryLevel": 994,
             "name": "Phase 1",
             "url": "https://www.skillboxes.com/events/ticket/vehement-era-malice"
          }
@@ -5457,90 +5171,5 @@
       "offers": [ ],
       "startDate": "2026-03-03T17:00:00",
       "url": "https://www.skillboxes.com/events/behemoth-live-in-bangalore-chant-of-the-eastern-lands-tour-2026"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "HighlightsDJ Night Non-Stop MusicBollywood MusicDance FloorGreat A",
-      "endDate": "2026-02-14T00:45:00",
-      "identifier": "com.skillboxes.27271",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/ZTBUb1FOd3k5QXo5ZmxvS3hBOHVQQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1770795101jVQ0mOqrYdlkaTMK.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "23, 1st Floor, 1st Main Rd, KHB Colony, Koramangala Industrial Layout, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9348483",
-            "longitude": "77.6138996"
-         },
-         "name": "Badmaash Koramangala"
-      },
-      "name": "Friday Pre Valentine's Week - Nakhra Night at Badmaash Koramangala",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Each pass permits one stag entry to the event. - Cover charge of INR 2000/- is applicable at the venue.\n",
-            "inventoryLevel": 500,
-            "name": "Stag",
-            "url": "https://www.skillboxes.com/events/ticket/friday-nakhra-night-at-badmaash-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "One pass allow group of ladies\n",
-            "inventoryLevel": 500,
-            "name": "Ladies",
-            "url": "https://www.skillboxes.com/events/ticket/friday-nakhra-night-at-badmaash-koramangala"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "description": "- Each pass permits one couple entry to the event. - Cover charge of INR 1500/- is applicable at the venue after 9:30 PM.\n",
-            "inventoryLevel": 499,
-            "name": "Couple",
-            "url": "https://www.skillboxes.com/events/ticket/friday-nakhra-night-at-badmaash-koramangala"
-         }
-      ],
-      "startDate": "2026-02-13T19:00:00",
-      "url": "https://www.skillboxes.com/events/friday-nakhra-night-at-badmaash-koramangala"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "No lights. No stage. Just music, mellow vibes, and a circle of hearts that beat to a shared rhythm.Jam and Toast is an easy-going jamming session for those who find joy in spontaneous tunes, unplugged moments, and warm company. W",
-      "endDate": "2026-02-13T20:30:00",
-      "identifier": "com.skillboxes.24900",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/TnJvcXh1b3JoaGFBaVZ1ZmgvNVFVZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1759386305yVXBUifaOlH18umc.jpg.webp",
-      "isAccessibleForFree": false,
-      "keywords": [
-         "Open Air Music Festivals"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "126/5/4, Nallurahalli Main Rd, Palm Meadows, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9602491",
-            "longitude": "77.7326977"
-         },
-         "name": "Namma Ashram"
-      },
-      "name": "Jam and Toast - An Evening of Easy Jamming",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 20,
-            "name": "Regular",
-            "url": "https://www.skillboxes.com/events/ticket/jam-and-toast-an-evening-of-easy-jamming"
-         }
-      ],
-      "startDate": "2026-02-13T19:00:00",
-      "url": "https://www.skillboxes.com/events/jam-and-toast-an-evening-of-easy-jamming"
    }
 ]
