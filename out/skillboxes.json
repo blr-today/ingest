@@ -590,6 +590,14 @@
             "availability": "InStock",
             "description": "Cover charge of INR 500 applicable at gates\n",
             "inventoryLevel": 15,
+            "name": "Early bird",
+            "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-2"
+         },
+         {
+            "@type": "Offer",
+            "availability": "SoldOut",
+            "description": "Cover charge of INR 500 applicable at gates\n",
+            "inventoryLevel": 0,
             "name": "Pre-Early bird",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-2"
          }
@@ -619,7 +627,7 @@
             "@type": "Offer",
             "availability": "InStock",
             "description": "Cover charge of INR 500 applicable at gates\n",
-            "inventoryLevel": 15,
+            "inventoryLevel": 1,
             "name": "Pre-Early bird",
             "url": "https://www.skillboxes.com/events/ticket/prog-encounters-4-0-bangalore-edition-day-1"
          }
