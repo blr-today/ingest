@@ -158,8 +158,8 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/8B83F316EDA04AFF9E283F8D1A84DD98_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/B63B2200D04545E0984830207C11D008_converted_webp.webp"
     ],
-    "startDate": "2026-02-21T17:00:00+05:30",
-    "endDate": "2026-02-21T20:00:00+05:30",
+    "startDate": "2026-02-22T17:00:00+05:30",
+    "endDate": "2026-02-22T20:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -271,7 +271,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 26,
+    "remainingAttendeeCapacity": 21,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -318,7 +318,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 7,
+    "remainingAttendeeCapacity": 5,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -512,7 +512,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 3,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -805,7 +805,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 28,
+    "remainingAttendeeCapacity": 27,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -853,7 +853,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 5,
+    "remainingAttendeeCapacity": 1,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1201,7 +1201,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 4,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1397,7 +1397,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 10,
-    "remainingAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1544,7 +1544,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 78,
+    "remainingAttendeeCapacity": 57,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1598,7 +1598,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -1628,53 +1628,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Petals and Pavement:  A Story Walk",
-    "description": "Valentine and Flowers, Coffee and Roses, Betel leaves and Strawberries , as we look around there is a love tale behind everything that blooms around us . The Story walk explores the many tales of Love through Flora, Nature, people, mythology and time. Over the 90 minute slow walk, the walk explores Loves through Heritage, Folklore and Ecology.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/5E28B0DC02304001A961CC7580321D40_converted_webp.webp"
-    ],
-    "startDate": "2026-02-14T08:00:00+05:30",
-    "endDate": "2026-02-14T21:30:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "178, 5th Main Rd, Indira Nagar 1st Stage, 1st Stage, Indiranagar, Bengaluru, Karnataka 560038, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJySMC5N8XrjsR77mN-E10-iA",
-      "latitude": "12.98010900000000000000",
-      "longitude": "77.63934970000000000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 59,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "349.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Atta Galatta",
-      "description": null,
-      "url": "https://urbanaut.app/partner/attagalatta",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/A0AE8E40BAEE4242B36C606889D8B0CA_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-96325-10126"
-      }
-    },
-    "url": "https://urbanaut.app/spot/petals-and-pavement-a-story-walk",
-    "keywords": [
-      "Walking Tour",
-      "History & heritage",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "A Right Royal Affair: A Book Talk",
     "description": "What happens when an eco-warrior prince meets a coffee-obsessed entrepreneur?We\u2019re hosting Prajwal Hegde to talk about her new book, You Can\u2019t Be Serious! She\u2019ll be joined by Shinie Antony for a chat about the chaos of North-meets-South romances, royal scandals, and why we\u2019re all still suckers for a good rom-com.What better way to spend Galentines day than live out our Royal fantasies! ",
     "image": [
@@ -1693,7 +1646,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 45,
+    "remainingAttendeeCapacity": 43,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1738,7 +1691,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 58,
+    "remainingAttendeeCapacity": 57,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1784,7 +1737,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 100,
-    "remainingAttendeeCapacity": 71,
+    "remainingAttendeeCapacity": 67,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1880,7 +1833,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 497,
+    "remainingAttendeeCapacity": 493,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -2024,7 +1977,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 60,
-    "remainingAttendeeCapacity": 55,
+    "remainingAttendeeCapacity": 54,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2245,108 +2198,6 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/63935EB26DA147A3A65F8D4BF21B79FE_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7128A366992341E9BFBF423355552DE4_converted_webp.webp"
     ],
-    "startDate": "2026-02-13T11:00:00+05:30",
-    "endDate": "2026-02-13T14:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, 28, Kensington Rd, Halasuru, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJfwsm9HoXrjsR8v1poWNHzy8",
-      "latitude": "12.97566020000000000000",
-      "longitude": "77.62006819999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "5999.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Jewellery Experience Academy",
-      "description": "Jewellery Experience is where you craft your love",
-      "url": "https://urbanaut.app/partner/craftyourlove",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E78BF91175AC4600BAFD75990CF7FED3_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99809-92707"
-      }
-    },
-    "url": "https://urbanaut.app/spot/craftyourlove#2026-02-13T1100",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "92.5 Silver Ring Making Workshop",
-    "description": "DIY Silver Ring Making WorkshopThis Valentine\u2019s Day, do something unforgettable. Spend 3 meaningful hours at Jewellery Experience Academy crafting a silver ring for each other. Guided by expert jewelers, couples work with real 92.5 sterling silver to design, texture and personalise rings with initials, dates or symbols. With soft music, light snacks and a relaxed studio vibe, this is more than a workshop\u2014it\u2019s a shared experience that ends with you exchanging the rings you\u2019ve made for each other. No experience needed. Just show up with your person.Check our google reviews for customer experiences - Jewellery Experience Academy , By Rashmi Coprum Our Insta Handle - JEAOFFICIAL_",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/12A48C6B5CBD4855BAB49F8A4A828691_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0FFA72F7D88548FB9B3C658B46EA224C_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/63935EB26DA147A3A65F8D4BF21B79FE_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7128A366992341E9BFBF423355552DE4_converted_webp.webp"
-    ],
-    "startDate": "2026-02-13T16:00:00+05:30",
-    "endDate": "2026-02-13T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, 28, Kensington Rd, Halasuru, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJfwsm9HoXrjsR8v1poWNHzy8",
-      "latitude": "12.97566020000000000000",
-      "longitude": "77.62006819999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "5999.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Jewellery Experience Academy",
-      "description": "Jewellery Experience is where you craft your love",
-      "url": "https://urbanaut.app/partner/craftyourlove",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E78BF91175AC4600BAFD75990CF7FED3_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99809-92707"
-      }
-    },
-    "url": "https://urbanaut.app/spot/craftyourlove#2026-02-13T1600",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "92.5 Silver Ring Making Workshop",
-    "description": "DIY Silver Ring Making WorkshopThis Valentine\u2019s Day, do something unforgettable. Spend 3 meaningful hours at Jewellery Experience Academy crafting a silver ring for each other. Guided by expert jewelers, couples work with real 92.5 sterling silver to design, texture and personalise rings with initials, dates or symbols. With soft music, light snacks and a relaxed studio vibe, this is more than a workshop\u2014it\u2019s a shared experience that ends with you exchanging the rings you\u2019ve made for each other. No experience needed. Just show up with your person.Check our google reviews for customer experiences - Jewellery Experience Academy , By Rashmi Coprum Our Insta Handle - JEAOFFICIAL_",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/12A48C6B5CBD4855BAB49F8A4A828691_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0FFA72F7D88548FB9B3C658B46EA224C_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/63935EB26DA147A3A65F8D4BF21B79FE_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7128A366992341E9BFBF423355552DE4_converted_webp.webp"
-    ],
     "startDate": "2026-02-14T11:00:00+05:30",
     "endDate": "2026-02-14T14:00:00+05:30",
     "location": {
@@ -2398,57 +2249,6 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/63935EB26DA147A3A65F8D4BF21B79FE_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7128A366992341E9BFBF423355552DE4_converted_webp.webp"
     ],
-    "startDate": "2026-02-14T16:00:00+05:30",
-    "endDate": "2026-02-14T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, 28, Kensington Rd, Halasuru, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJfwsm9HoXrjsR8v1poWNHzy8",
-      "latitude": "12.97566020000000000000",
-      "longitude": "77.62006819999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "5999.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Jewellery Experience Academy",
-      "description": "Jewellery Experience is where you craft your love",
-      "url": "https://urbanaut.app/partner/craftyourlove",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E78BF91175AC4600BAFD75990CF7FED3_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99809-92707"
-      }
-    },
-    "url": "https://urbanaut.app/spot/craftyourlove#2026-02-14T1600",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "92.5 Silver Ring Making Workshop",
-    "description": "DIY Silver Ring Making WorkshopThis Valentine\u2019s Day, do something unforgettable. Spend 3 meaningful hours at Jewellery Experience Academy crafting a silver ring for each other. Guided by expert jewelers, couples work with real 92.5 sterling silver to design, texture and personalise rings with initials, dates or symbols. With soft music, light snacks and a relaxed studio vibe, this is more than a workshop\u2014it\u2019s a shared experience that ends with you exchanging the rings you\u2019ve made for each other. No experience needed. Just show up with your person.Check our google reviews for customer experiences - Jewellery Experience Academy , By Rashmi Coprum Our Insta Handle - JEAOFFICIAL_",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/12A48C6B5CBD4855BAB49F8A4A828691_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0FFA72F7D88548FB9B3C658B46EA224C_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/63935EB26DA147A3A65F8D4BF21B79FE_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7128A366992341E9BFBF423355552DE4_converted_webp.webp"
-    ],
     "startDate": "2026-02-15T11:00:00+05:30",
     "endDate": "2026-02-15T14:00:00+05:30",
     "location": {
@@ -2461,8 +2261,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
+    "maximumAttendeeCapacity": 2,
+    "remainingAttendeeCapacity": 2,
     "typicalAgeRange": "16+",
     "offers": {
       "@type": "Offer",
@@ -2482,57 +2282,6 @@
       }
     },
     "url": "https://urbanaut.app/spot/craftyourlove#2026-02-15T1100",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "Workshop",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "name": "92.5 Silver Ring Making Workshop",
-    "description": "DIY Silver Ring Making WorkshopThis Valentine\u2019s Day, do something unforgettable. Spend 3 meaningful hours at Jewellery Experience Academy crafting a silver ring for each other. Guided by expert jewelers, couples work with real 92.5 sterling silver to design, texture and personalise rings with initials, dates or symbols. With soft music, light snacks and a relaxed studio vibe, this is more than a workshop\u2014it\u2019s a shared experience that ends with you exchanging the rings you\u2019ve made for each other. No experience needed. Just show up with your person.Check our google reviews for customer experiences - Jewellery Experience Academy , By Rashmi Coprum Our Insta Handle - JEAOFFICIAL_",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/12A48C6B5CBD4855BAB49F8A4A828691_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/0FFA72F7D88548FB9B3C658B46EA224C_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/63935EB26DA147A3A65F8D4BF21B79FE_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7128A366992341E9BFBF423355552DE4_converted_webp.webp"
-    ],
-    "startDate": "2026-02-15T16:00:00+05:30",
-    "endDate": "2026-02-15T19:00:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "3rd Floor, 28, Kensington Rd, Halasuru, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJfwsm9HoXrjsR8v1poWNHzy8",
-      "latitude": "12.97566020000000000000",
-      "longitude": "77.62006819999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 12,
-    "remainingAttendeeCapacity": 12,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "5999.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Jewellery Experience Academy",
-      "description": "Jewellery Experience is where you craft your love",
-      "url": "https://urbanaut.app/partner/craftyourlove",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/E78BF91175AC4600BAFD75990CF7FED3_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-99809-92707"
-      }
-    },
-    "url": "https://urbanaut.app/spot/craftyourlove#2026-02-15T1600",
     "keywords": [
       "Leisure",
       "Local",
@@ -2814,8 +2563,8 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/722C4A8F1D774D1FB318C239EE44534D_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/C5965BF50F34436D91B1BB496716DBCB_converted_webp.webp"
     ],
-    "startDate": "2026-02-21T17:00:00+05:30",
-    "endDate": "2026-02-21T19:00:00+05:30",
+    "startDate": "2026-02-21T12:00:00+05:30",
+    "endDate": "2026-02-21T14:00:00+05:30",
     "location": {
       "@type": "Place",
       "name": null,
@@ -2974,7 +2723,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 90,
-    "remainingAttendeeCapacity": 66,
+    "remainingAttendeeCapacity": 61,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3068,7 +2817,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 20,
-    "remainingAttendeeCapacity": 16,
+    "remainingAttendeeCapacity": 15,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -3217,7 +2966,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 14,
+    "remainingAttendeeCapacity": 13,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -3702,59 +3451,6 @@
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/21A5AA089FF54D3383739D515C59C6A3_converted_webp.webp",
       "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3A7AB3090E864EB1866D2C95D15CF3A9_converted_webp.webp"
     ],
-    "startDate": "2026-02-13T20:30:00+05:30",
-    "endDate": "2026-02-13T23:55:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": null,
-      "address": "Ground Floor, No. 18, Ramanashree Arcade, Mahatma Gandhi Rd, Craig Park Layout, Ashok Nagar, Bengaluru, Karnataka 560001, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJfeJUaUMXrjsRpXdnZInUWfQ",
-      "latitude": "12.97213520000000000000",
-      "longitude": "77.61838689999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 2000,
-    "remainingAttendeeCapacity": 1988,
-    "typicalAgeRange": "16+",
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Daysie",
-      "description": null,
-      "url": "https://urbanaut.app/partner/None",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/AF76FF68653349D2B8164073DEEB0C67_converted_webp.webp",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-89040-85004"
-      }
-    },
-    "url": "https://urbanaut.app/spot/eat-sway-love#2026-02-13T2030",
-    "keywords": [
-      "Leisure",
-      "Live GIG",
-      "Food & drink",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "FoodEvent",
-    "name": "Eat Sway Love",
-    "description": "This Valentine\u2019s Day, step into an evening of great food, soulful music, and an effortlessly romantic vibe at Daysie All Day. With a specially curated menu and live music setting the mood, it\u2019s the perfect place to celebrate love - whether you\u2019re coming with a partner, friends, or simply for the good vibes.Date & Time13th - 15th FebruaryFrom 8:30 PM onwardsLocationDaysie All Day, MG Road / RR NagarPricing / CoverNo cover charge | Menu available \u00e0 la carte",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/A48E0FA7710B42EBA35D682B1CD4056F_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/BF00660EB3DA4771858B951BD5C17A18_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/13D130B773684BAD817B92CC80D10828_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/133AF3C520E04D41959DC75EB45718E1_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/21A5AA089FF54D3383739D515C59C6A3_converted_webp.webp",
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/3A7AB3090E864EB1866D2C95D15CF3A9_converted_webp.webp"
-    ],
     "startDate": "2026-02-14T20:30:00+05:30",
     "endDate": "2026-02-14T23:55:00+05:30",
     "location": {
@@ -4173,8 +3869,8 @@
     },
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 40,
-    "remainingAttendeeCapacity": 39,
+    "maximumAttendeeCapacity": 10,
+    "remainingAttendeeCapacity": 9,
     "typicalAgeRange": "5+",
     "offers": {
       "@type": "Offer",
@@ -4356,54 +4052,6 @@
   {
     "@context": "https://schema.org",
     "@type": "Event",
-    "name": "Movie Under the Stars | Eat Pray Love (2010)",
-    "description": "Join us for an open-air screening of Eat Pray Love (2010), the soulful, wanderlust-filled film about food, healing, and self-discovery, paired with a cosy three-course dinner by Chef Rhea Aaron and fresh popcorn under the stars.*Wines and other beverages will be available for purchase at the venue.About the movie:Eat Pray Love follows Elizabeth Gilbert as she sets out on a year-long journey across Italy, India, and Bali after a life-altering divorce. Along the way, she learns to savour pleasure, sit with stillness, and open herself to love, all while discovering what it truly means to feel whole again.Equal parts comforting and introspective, it\u2019s a film about slowing down, listening inward, and allowing life to unfold, one meal, one moment, one place at a time.Paired with a thoughtfully prepared three-course dinner by Chef Rhea Aaron and wines from Wine in Progress, it\u2019s an easy, feel-good way to spend an evening outdoors, wrapped in food, film, and a little self-reflection.Terms and Conditions    The management is not responsible for any injury or damage that may occur during the event.    No liability or claims arising from the consumption or intake of any food or drink will be entertained by the management.    Parking near the event premises is at the risk of the vehicle owner.    Limited Valet service is available at a charge of Rs. 200 per vehicle.    Photographs and videos of ticket holders may be uploaded to social media. If you prefer not to be featured, please inform our team.    Tickets are non-refundable in case of cancellation or no-show.    In the event of rain leading to a complete washout, Courtyard reserves the right to cancel the event. In such cases, a full refund for the ticket will be issued.",
-    "image": [
-      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/7E69505A05C348D982AC66B477F6DF2E_converted_webp.webp"
-    ],
-    "startDate": "2026-02-15T19:00:00+05:30",
-    "endDate": "2026-02-15T21:15:00+05:30",
-    "location": {
-      "@type": "Place",
-      "name": "Courtyard",
-      "address": "105, Kengal Hanumanthaiah Rd, opp. Corporation Bank, Raja Ram Mohanroy Extension, Shanti Nagar, Bengaluru, Karnataka 560027, India",
-      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJ9-PnBtsVrjsRQx3b0D7KsNQ",
-      "latitude": "12.95843050000000000000",
-      "longitude": "77.59289509999999000000"
-    },
-    "eventAttendanceMode": "OfflineEventAttendanceMode",
-    "eventStatus": "EventScheduled",
-    "maximumAttendeeCapacity": 25,
-    "remainingAttendeeCapacity": 9,
-    "typicalAgeRange": "12+",
-    "offers": {
-      "@type": "Offer",
-      "price": "2000.00",
-      "availability": "LimitedAvailability",
-      "priceCurrency": "INR"
-    },
-    "organizer": {
-      "@type": "Organization",
-      "name": "Courtyard",
-      "description": "COURTYARD is a gathering of ideas and experiences in  the heart of Bangalore. We are an open space for curated  culinary, cultural and creative exchanges, in any form they  choose to take",
-      "url": "https://urbanaut.app/partner/courtyard",
-      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/gn2bb9hgso-1701340813979cycircularlogoblack01png.png",
-      "contactPoint": {
-        "@type": "ContactPoint",
-        "telephone": "+91-73386-77996"
-      }
-    },
-    "url": "https://urbanaut.app/spot/movie-under-the-stars-eat-pray-love-2010",
-    "keywords": [
-      "Leisure",
-      "Local",
-      "COURTYARD",
-      "URBANAUT"
-    ]
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "Event",
     "name": "Oppositional Gaze - II : TPCC Bangalore",
     "description": "Screening this day:Sambizanga by Sarah MaldororMossane by Safi DayePalestinian Women by Jocelyne Saab India by Ute Aurand ",
     "image": [
@@ -4422,7 +4070,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 25,
+    "remainingAttendeeCapacity": 19,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -4914,7 +4562,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 90,
-    "remainingAttendeeCapacity": 70,
+    "remainingAttendeeCapacity": 42,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -5278,7 +4926,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 24,
-    "remainingAttendeeCapacity": 24,
+    "remainingAttendeeCapacity": 22,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
