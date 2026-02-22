@@ -2,11 +2,28 @@
   {
     "@context": "https://schema.org",
     "@type": "EducationEvent",
+    "@id": "1175@map-india.org",
+    "name": "Recasting the Archive",
+    "startDate": "2026-02-21T10:30:00+05:30",
+    "endDate": "2026-02-22T17:00:00+05:30",
+    "description": "This immersive, two-day workshop invites participants to intersect their artistic practice with the museum\u2019s collection, using popular culture and horror film ephemera as a starting point. Participants will be introduced to a diverse selection of artworks from the collection and guided by Anusha Vikram and Aadithya S from our collections team, through various creative methodologies for developing new artistic responses, interpretations, and collaborative experiments.\n\nThrough discussions, hands-on exercises, and shared reflections, the workshop fosters a highly interactive and participatory environment. Participants will exchange ideas, present their practices, and work in teams to ideate and develop draft outputs across a range of formats.\n\nThis workshop is designed for art students and participants who are actively pursuing an artistic practice.",
+    "url": "https://map-india.org/map-events/recasting-the-archive/",
+    "keywords": [
+      "CBD",
+      "MAP",
+      "Workshops"
+    ],
+    "inLanguage": "en",
+    "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-16T094801.791.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
     "@id": "1174@map-india.org",
     "name": "Listening to Images",
     "startDate": "2026-02-28T11:30:00+05:30",
     "endDate": "2026-03-01T16:00:00+05:30",
-    "description": "Join this two-day workshop of creative inquiry and narrative experimentation where you engage with MAP\u2019s latest exhibition, Beneath the Turning Sky. In the workshop, you will make your own short video works, responding to the exhibition through close looking, interpretation and poetic translation. Led by writer and sound researcher Mishika Goel, the workshop offers the space to reflect on how art can be re-encountered, re-imagined, and articulated through new narrative forms.\n\nDrawing from her experiences in France and her creative process behind Prochaine Station: Aristide Briand, Mishika reflects on narrative as both method and medium. The workshop, situated at the intersection of language, moving image, and curatorial encounter, explores how artworks generate meaning beyond the visual- prompting stories, gestures, and varied forms of response..\n\nThis workshop is part of the ongoing series, Responding to Art through the Arts. Facilitated by arts practitioners, it aims to activate MAP\u2019s galleries through a series of workshops that hold space for young people\u2019s responses to artwork on display.\u00a0\n\nIt is conducted as part of our engagements for the MAP Youth Collective - a community for young people (18-25 year olds) to engage with the arts and culture sector. The collective is for, of and by young people \u2014 to explore our shared identities and interests through art.\n\nWorkshop requirements: Open to all skill levels, any phone camera/professional camera can be used.",
+    "description": "Join this two-day workshop of creative inquiry and narrative experimentation where you engage with MAP\u2019s latest exhibition, Beneath the Turning Sky. In the workshop, you will make your own short video works, responding to the exhibition through close looking, interpretation and poetic translation. Led by writer and sound researcher Mishika Goel, the workshop offers the space to reflect on how art can be re-encountered, re-imagined, and articulated through new narrative forms.\n\nDrawing from her experiences in France and her creative process behind Prochaine Station: Aristide Briand, Mishika reflects on narrative as both method and medium. The workshop, situated at the intersection of language, moving image, and curatorial encounter, explores how artworks generate meaning beyond the visual- prompting stories, gestures, and varied forms of response..\n\nThis workshop is part of the ongoing series, Responding to Art through the Arts. Facilitated by arts practitioners, it aims to activate MAP\u2019s galleries through a series of workshops that hold space for young people\u2019s responses to artwork on display.\u00a0\n\nIt is conducted as part of our engagements for the MAP Youth Collective - a community for young people (18-25 year olds) to engage with the arts and culture sector. The collective is for, of and by young people \u2014 to explore our shared identities and interests through art.\n\nWorkshop requirements: Open to all skill levels, phone camera/professional camera can be used, along with a basic video-editing software on a PC/Mac.",
     "url": "https://map-india.org/map-events/listening-to-images/",
     "keywords": [
       "CBD",
@@ -15,6 +32,23 @@
     ],
     "inLanguage": "en",
     "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-13T113554.241.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationEvent",
+    "@id": "1186@map-india.org",
+    "name": "Letters Across Time",
+    "startDate": "2026-02-28T14:00:00+05:30",
+    "endDate": "2026-02-28T18:00:00+05:30",
+    "description": "Letters Across Time is a reflective writing workshop that unfolds in dialogue with Beneath the Turning Sky. Beginning with a slow, attentive walk through the exhibition, participants are invited to notice, linger, and respond. From there, we write across time \u2014 toward imagined futures and back toward the memories that shape us. Through guided prompts, we explore hope, care, and the ways we choose to show up for one another and for the shared world we inhabit. Midway, the group comes together to imagine a small ritual from the future \u2014 something tender, slightly strange, and deeply human. The workshop closes with an anonymous exchange of letters, so each participant leaves carrying a fragment of someone else\u2019s hope. A quiet, intimate space for reflection, imagination, and collective possibility.\n\nThe workshop begins at 2:00 pm, so we recommend having lunch before you arrive, and please bring your earphones as we\u2019ll use them for a short music based reflection exercise.",
+    "url": "https://map-india.org/map-events/letters-across-time/",
+    "keywords": [
+      "CBD",
+      "MAP",
+      "Workshops"
+    ],
+    "inLanguage": "en",
+    "image": "https://map-india.org/wp-content/uploads/2026/02/Website-Image-1440-x-810-2.png"
   },
   {
     "@context": "https://schema.org",
@@ -35,20 +69,37 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "@id": "1176@map-india.org",
-    "name": "Poster Printing",
-    "startDate": "2026-02-21T10:00:00+05:30",
-    "endDate": "2026-02-21T12:00:00+05:30",
-    "description": "A hands-on introduction to letterpress printing using wooden typefaces. You'll experiment with typographic layout and leave with a poster you made by hand.\n\nFacilitated by Chase the Letterpress.",
-    "url": "https://map-india.org/map-events/poster-printing/",
+    "@type": "Event",
+    "@id": "1183@map-india.org",
+    "name": "Make @ MAP",
+    "startDate": "2026-02-22T11:00:00+05:30",
+    "endDate": "2026-02-22T15:00:00+05:30",
+    "description": "This spooky edition of Make @ MAP invites you to take inspiration from everyday horrors to create thrilling artworks through collages.\u00a0 \n\nMake @ MAP is a series that allows you to explore our collection in an engaging and hands-on manner. These sessions allow you to create and take home a special souvenir of your visit. It is perfect for all ages \u2014 so bring your friends and family and get ready to make some art! No experience is necessary, just a willingness to have fun and experiment with new materials.",
+    "url": "https://map-india.org/map-events/make-map/",
     "keywords": [
       "CBD",
-      "MAP",
-      "Workshops"
+      "Drop-in Sessions",
+      "MAP"
     ],
     "inLanguage": "en",
-    "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-16T111733.985.png"
+    "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-16T115025.442.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "1188@map-india.org",
+    "name": "Running Into Art",
+    "startDate": "2026-02-22T08:15:00+05:30",
+    "endDate": "2026-02-22T10:45:00+05:30",
+    "description": "Start your morning with a 3K run, then step into Beneath The Turning Sky, MAP's newest exhibition. Move with a community of women, shift your perspective through art, and fuel up with refreshments after.\n\nWomen-only | Limited spots \u2014 sign up now!",
+    "url": "https://map-india.org/map-events/running-into-art/",
+    "keywords": [
+      "CBD",
+      "Guided Walk",
+      "MAP"
+    ],
+    "inLanguage": "en",
+    "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-20T103049.951.png"
   },
   {
     "@context": "https://schema.org",
@@ -66,6 +117,23 @@
     ],
     "inLanguage": "en",
     "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-13T112840.545.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "TheaterEvent",
+    "@id": "1185@map-india.org",
+    "name": "The Reserved Compartment: An Anti-Caste Love Poetry Showcase",
+    "startDate": "2026-02-28T18:00:00+05:30",
+    "endDate": "2026-02-28T19:30:00+05:30",
+    "description": "Step into a space where voices that were long silenced, now echo with unapologetic power. The Reserved Compartment presents India's first Dalit-Ambedkarite anti-caste English Poetry Showcase\u2014a bold, community-driven revolution redefining mainstream culture through raw, resonant verses and intimate storytelling. Curated for hearts ready to listen and minds eager to shift, this evening at MAP promises to dismantle barriers and ignite conversations that linger long after the lights dim. Join us in honouring resilience, nurturing love, reclaiming narratives, and co-creating a more inclusive tomorrow.",
+    "url": "https://map-india.org/map-events/the-reserved-compartment-an-anti-caste-love-poetry-showcase/",
+    "keywords": [
+      "CBD",
+      "MAP",
+      "Performances"
+    ],
+    "inLanguage": "en",
+    "image": "https://map-india.org/wp-content/uploads/2026/02/Website-Image-1440-x-810-1.png"
   },
   {
     "@context": "https://schema.org",
@@ -103,57 +171,78 @@
   },
   {
     "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "@id": "1175@map-india.org",
-    "name": "Recasting the Archive",
-    "startDate": "2026-02-21T10:30:00+05:30",
-    "endDate": "2026-02-22T17:00:00+05:30",
-    "description": "This immersive, two-day workshop invites participants to intersect their artistic practice with the museum\u2019s collection, using popular culture and horror film ephemera as a starting point. Participants will be introduced to a diverse selection of artworks from the collection and guided by Anusha Vikram and Aadithya S from our collections team, through various creative methodologies for developing new artistic responses, interpretations, and collaborative experiments.\n\nThrough discussions, hands-on exercises, and shared reflections, the workshop fosters a highly interactive and participatory environment. Participants will exchange ideas, present their practices, and work in teams to ideate and develop draft outputs across a range of formats.\n\nThis workshop is designed for art students and participants who are actively pursuing an artistic practice.",
-    "url": "https://map-india.org/map-events/recasting-the-archive/",
+    "@type": "ScreeningEvent",
+    "@id": "1182@map-india.org",
+    "name": "Haunted Frames - Frenzy",
+    "startDate": "2026-02-22T18:30:00+05:30",
+    "endDate": "2026-02-22T20:30:00+05:30",
+    "description": "Join us for a screening of Frenzy (1972) by Alfred Hitchcock\u2014 the final film in a four-part thriller series, presented in collaboration with Bangalore Film Forum, this weekend at MAP.\n\nLondon is terrorized by a vicious sex killer known as The Necktie Murderer. Following the brutal slaying of his ex-wife, down-on-his-luck Richard Blaney is suspected by the police of being the killer. He goes on the run, determined to prove his innocence.\n\nThe screening accompanies a special display of film posters and promotional material from MAP\u2019s Film Ephemera Collection.\n\nThis event is part of MAP's Collection Programming.",
+    "url": "https://map-india.org/map-events/haunted-frames-frenzy/",
     "keywords": [
       "CBD",
-      "MAP",
-      "Workshops"
+      "Film Screenings",
+      "MAP"
     ],
     "inLanguage": "en",
-    "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-16T094801.791.png"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "TheaterEvent",
-    "@id": "1172@map-india.org",
-    "name": "Tinctures // According To The Tides",
-    "startDate": "2026-02-20T18:00:00+05:30",
-    "endDate": "2026-02-20T19:00:00+05:30",
-    "description": "Image Credits: Tinctures\nLeading up to the release of their third album According To The Tides, the duo, Nishad Pandey (guitar) and Aman Mahajan (piano), perform in India this February\u2014and we're thrilled to host them at MAP. \n\nCome experience the magic of their 2021 album, Heads and Tales, live alongside breathtaking improvisations that reveal the beautiful interplay between piano and guitar.",
-    "url": "https://map-india.org/map-events/tinctures-according-to-the-tides/",
-    "keywords": [
-      "CBD",
-      "MAP",
-      "Performances"
-    ],
-    "inLanguage": "en",
-    "image": "https://map-india.org/wp-content/uploads/2026/02/Tinctures-at-Natakvalas-15-1-scaled.jpg"
-  },
-  {
-    "@context": "https://schema.org",
-    "@type": "EducationEvent",
-    "@id": "1168@map-india.org",
-    "name": "Crochet Circle @ mild tooth of milk",
-    "startDate": "2026-02-21T14:00:00+05:30",
-    "endDate": "2026-02-21T17:00:00+05:30",
-    "description": "\u00a0Image Courtesy: Ali Monis Naqvi\nCrochet Circle is a community-based creative initiative by the Kerala Museum, Kochi.\u00a0 Aiming to be inclusive and accessible, the programme invites individuals of all ages, abilities, and skill levels to explore the art of crochet. Created as a welcoming space for beginners, hobbyists, students, educators, and anyone seeking mindful group activities, it encourages creativity, learning, and connection through hands-on craft in a supportive environment.\n\nWith a focus on mindfulness, experimentation in materials and design, and adaptable teaching approaches, Crochet Circle prioritizes accessibility and participation at every level. The programme fosters a calm, encouraging atmosphere where participants can work at their own pace, express themselves freely, and build a sense of belonging and community through the shared joy of crocheting.\n\nThis programme is facilitated by and hosted in collaboration with the Kerala Museum.\n\nLimited spots available!\n\nThis workshop is held in conjunction with our exhibition, mild tooth of milk, currently on display at the Dutch Warehouse in Fort Kochi.",
-    "url": "https://map-india.org/map-events/crochet-circle-mild-tooth-of-milk/",
-    "keywords": [
-      "CBD",
-      "MAP",
-      "Workshops"
-    ],
-    "location": {
-      "@type": "Place",
-      "name": "Fort Kochi  Dutch Warehouse  First Floor, Fort Kochi  Dutch Warehouse  First Floor, Kochi, Kerala, India"
+    "workPresented": {
+      "@type": "Movie",
+      "name": "Haunted Frames - Frenzy"
     },
+    "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-16T150230.713.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "1178@map-india.org",
+    "name": "Fright Night Quiz 2",
+    "startDate": "2026-02-22T16:30:00+05:30",
+    "endDate": "2026-02-22T18:00:00+05:30",
+    "description": "How well do you know your horror? Ace of Pubs is putting your knowledge to the test \u2014 Bollywood scares vs. Hollywood frights, all in one quiz night.\n\nTwo sessions. Two unique sets of questions. One chance to prove you're the ultimate horror buff.\n\ud83d\udcc5 Session 1 \u2014 21 February\n\ud83d\udcc5 Session 2 \u2014 22 February\n\nPrizes, bragging rights, and a good scare await. Register now.",
+    "url": "https://map-india.org/map-events/fright-night-quiz-hollywood-edition/",
+    "keywords": [
+      "CBD",
+      "MAP",
+      "Quiz"
+    ],
     "inLanguage": "en",
-    "image": "https://map-india.org/wp-content/uploads/2026/02/Ali-08357-1-scaled.jpg"
+    "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-16T173930.295.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Event",
+    "@id": "1187@map-india.org",
+    "name": "Ways of Seeing",
+    "startDate": "2026-02-26T18:00:00+05:30",
+    "endDate": "2026-02-26T19:00:00+05:30",
+    "description": "Image Credits: Mallikarjun Katakol \nJoin us as we delve into the experiences of photographer Mallikarjun Katakol, who will be in conversation with Suresh Jayaram, Founder of 1.Shanthiroad Collective. The conversation invites us to join Katakol as he takes us through his journey as a photographer.\nFor over thirty years, his creative spirit and problem-solving ability have helped create compelling images. His experience in graphic design and advertising before becoming a photographer exposed him to the advantages and challenges of different channels. His practice sheds light on his unique approaches to framing and lighting as he works with a variety of themes.\nThis event is in collaboration with Ananya Drishya.",
+    "url": "https://map-india.org/map-events/the-ways-of-seeing/",
+    "keywords": [
+      " Featuring",
+      "CBD",
+      "MAP"
+    ],
+    "inLanguage": "en",
+    "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-19T154114.499.png"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ScreeningEvent",
+    "@id": "1181@map-india.org",
+    "name": "Haunted Frames - Dracula",
+    "startDate": "2026-02-22T13:00:00+05:30",
+    "endDate": "2026-02-22T16:00:00+05:30",
+    "description": "Join us for a screening of Dracula (1931) by Tod Browning\u2014 the third film in a four-part horror series, presented in collaboration with Bangalore Film Forum, this weekend at MAP.\n\nA British estate agent travels to Transylvania to meet the mysterious Count Dracula, who is interested in leasing a London castle. After Dracula enslaves the agent and drives him to insanity, the pair return to London together, where Dracula, a secret bloodsucker, begins preying on socialites.\n\nThe screening accompanies a special display of film posters and promotional material from MAP\u2019s Film Ephemera Collection.\n\nThis event is part of MAP's Collection Programming.",
+    "url": "https://map-india.org/map-events/haunted-frames-dracula/",
+    "keywords": [
+      "CBD",
+      "Film Screenings",
+      "MAP"
+    ],
+    "inLanguage": "en",
+    "workPresented": {
+      "@type": "Movie",
+      "name": "Haunted Frames - Dracula"
+    },
+    "image": "https://map-india.org/wp-content/uploads/2026/02/Website-cover-images-new-2026-02-16T150745.204.png"
   }
 ]
