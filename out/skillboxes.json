@@ -53,6 +53,75 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "Arsenal FC VS  Chelsea FcLive ScreeningWatson’s Indiranagar, BangaloreDate - 1st March , 2026",
+      "endDate": "2026-03-01T23:45:00",
+      "identifier": "com.skillboxes.34226",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/THJuaWlqbVNUQkVJNndwTFJzYWtxUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1771859711iCDWkUeycF58jhJ7.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Sports"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Bengaluru, Karnataka, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.9715987",
+            "longitude": "77.5945627"
+         },
+         "name": "Watson's"
+      },
+      "name": "Arsenal FC VS  Chelsea Fc | Live Screening | Watson’s Indiranagar, Bangalore",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 100,
+            "name": "Live Screening Pass",
+            "url": "https://www.skillboxes.com/events/ticket/arsenal-fc-vs-chelsea-fc-live-screening-watson-s-indiranagar-bangalore"
+         }
+      ],
+      "startDate": "2026-03-01T22:00:00",
+      "url": "https://www.skillboxes.com/events/arsenal-fc-vs-chelsea-fc-live-screening-watson-s-indiranagar-bangalore"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "description": "Northeast Nights",
+      "endDate": "2026-03-31T23:59:00",
+      "identifier": "com.skillboxes.34223",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/aDYreUVWV1JXVldGeE1GSjE1MktSUT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1771857130hOgTdfjNqyMhQQzq.jpg.webp",
+      "isAccessibleForFree": true,
+      "keywords": [
+         "Club Gigs - Music"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "No 24, PURUSHOTHAM ARCADE, KML INDUSTRIAL AREA, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "12.932941",
+            "longitude": "77.6134427"
+         },
+         "name": "Mirror Pub"
+      },
+      "name": "Northeast Nights",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "description": "Cover charges post 11pm for stags\n",
+            "inventoryLevel": 10000,
+            "name": "Free entry",
+            "url": "https://www.skillboxes.com/events/ticket/northeast-nights"
+         }
+      ],
+      "startDate": "2026-02-23T20:00:00",
+      "url": "https://www.skillboxes.com/events/northeast-nights"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "It’s SHOWTIME, Bangalore 🔥\nThis Tuesday, we turn the night into pure gold.\n24th February | 8PM onwards\nFeaturing Sukant on the decks.",
       "endDate": "2026-02-24T23:59:00",
       "identifier": "com.skillboxes.34211",
@@ -90,47 +159,6 @@
       ],
       "startDate": "2026-02-24T20:00:00",
       "url": "https://www.skillboxes.com/events/showtime-tuesday-1"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Let the beats take control 🎶\nMusic Take Over is here on 23rd Feb | Monday | 8PM onwards.\nFeaturing Sukant bringing the vibe you can’t resist.",
-      "endDate": "2026-02-23T23:59:00",
-      "identifier": "com.skillboxes.34209",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/VmNGckYxWkFNQm5STHcwSXczNWJWZz09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1771847205yjS3ukdgI25uw8fW.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Club Gigs - Music"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "100, 4th B Cross Rd, nearby Hipitch, KHB Colony, 5th Block, Koramangala, Bengaluru, Karnataka 560095, India",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "12.9343419",
-            "longitude": "77.6155451"
-         },
-         "name": "Yeda Republic Bengaluru"
-      },
-      "name": "MUSIC TAKEOVER FT. SUKANT AT YEDA REPUBLIC KORAMANGALA",
-      "offers": [
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 99,
-            "name": "COUPLE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/music-takeover-ft-sukant-at-yeda-republic-koramangala-2"
-         },
-         {
-            "@type": "Offer",
-            "availability": "InStock",
-            "inventoryLevel": 100,
-            "name": "FEMALE ENTRY",
-            "url": "https://www.skillboxes.com/events/ticket/music-takeover-ft-sukant-at-yeda-republic-koramangala-2"
-         }
-      ],
-      "startDate": "2026-02-23T20:00:00",
-      "url": "https://www.skillboxes.com/events/music-takeover-ft-sukant-at-yeda-republic-koramangala-2"
    },
    {
       "@context": "https://schema.org",
@@ -174,32 +202,6 @@
       ],
       "startDate": "2026-03-22T20:00:00",
       "url": "https://www.skillboxes.com/events/bluetree-presents-jack-gardiner"
-   },
-   {
-      "@context": "https://schema.org",
-      "@type": "Event",
-      "description": "Commercial electric led flood light has become the preferred choice for businesses and industrial facilities looking to enhance security,",
-      "endDate": "2026-02-23T23:12:00",
-      "identifier": "com.skillboxes.34190",
-      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/UXNrWnVkRWl1QlVVMFBiYThPNVNaQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/1771830391KimmYxNnGTeE8ktc.jpg.webp",
-      "isAccessibleForFree": true,
-      "keywords": [
-         "Non-Residential Packages"
-      ],
-      "location": {
-         "@type": "Place",
-         "address": "",
-         "geo": {
-            "@type": "GeoCoordinates",
-            "latitude": "",
-            "longitude": ""
-         },
-         "name": "To Be Decided"
-      },
-      "name": "Electric LED flood lights",
-      "offers": [ ],
-      "startDate": "2026-02-23T05:05:00",
-      "url": "https://www.skillboxes.com/events/electric-led-flood-lights"
    },
    {
       "@context": "https://schema.org",
