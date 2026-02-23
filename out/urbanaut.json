@@ -1300,7 +1300,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 400,
-    "remainingAttendeeCapacity": 372,
+    "remainingAttendeeCapacity": 364,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -1818,7 +1818,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 500,
-    "remainingAttendeeCapacity": 462,
+    "remainingAttendeeCapacity": 457,
     "typicalAgeRange": "2-",
     "offers": {
       "@type": "Offer",
@@ -1867,7 +1867,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 110,
-    "remainingAttendeeCapacity": 79,
+    "remainingAttendeeCapacity": 76,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -1914,7 +1914,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 30,
-    "remainingAttendeeCapacity": 30,
+    "remainingAttendeeCapacity": 28,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2445,7 +2445,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 15,
-    "remainingAttendeeCapacity": 6,
+    "remainingAttendeeCapacity": 3,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -2783,7 +2783,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 200,
-    "remainingAttendeeCapacity": 112,
+    "remainingAttendeeCapacity": 107,
     "typicalAgeRange": "12+",
     "offers": {
       "@type": "Offer",
@@ -3095,7 +3095,7 @@
     "eventAttendanceMode": "OfflineEventAttendanceMode",
     "eventStatus": "EventScheduled",
     "maximumAttendeeCapacity": 50,
-    "remainingAttendeeCapacity": 37,
+    "remainingAttendeeCapacity": 36,
     "typicalAgeRange": "21+",
     "offers": {
       "@type": "Offer",
@@ -3218,6 +3218,53 @@
     "url": "https://urbanaut.app/spot/clash-of-cocktails",
     "keywords": [
       "Leisure",
+      "Food & drink",
+      "URBANAUT"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FoodEvent",
+    "name": "Skin Contact",
+    "description": "Pink was never meant to play safeSkin Contact brings together over 25 ros\u00e9s in one room across various styles from different parts of the world . Explore ros\u00e9s that are fresh, mineral led, wild and unforgettable. A full spectrum of pink, poured side by side, inviting you to taste without assumptions and explore without restraint.Experience ros\u00e9 in motion and when you find the bottle that lingers a little longer, order it at the bar and enjoy it right there at 25% off MRP.We\u2019re taking over The Humming Tree \u2014 where live music, movement, and mood set the pace for the night. We can\u2019t wait to sip with you.This is an event hosted in collaboration between Project Grape Juice and Wine In A Million!Please note that this event is only for those aged above 21",
+    "image": [
+      "https://urbanaut-prod.s3.ap-south-1.amazonaws.com/images/E8A93D1DFF5146D0947BD2DD1D3549D8_converted_webp.webp"
+    ],
+    "startDate": "2026-03-15T16:00:00+05:30",
+    "endDate": "2026-03-15T23:00:00+05:30",
+    "location": {
+      "@type": "Place",
+      "name": null,
+      "address": "No.949, 12th Main Rd, Sodepur, Doopanahalli, Indiranagar, Bengaluru, Karnataka 560008, India",
+      "url": "https://www.google.com/maps/search/?api=1&query=Google&query_place_id=ChIJR4JTnacWrjsRAi1PTQLlFKI",
+      "latitude": "12.97020100000000000000",
+      "longitude": "77.63911480000002000000"
+    },
+    "eventAttendanceMode": "OfflineEventAttendanceMode",
+    "eventStatus": "EventScheduled",
+    "maximumAttendeeCapacity": 300,
+    "remainingAttendeeCapacity": 286,
+    "typicalAgeRange": "21+",
+    "offers": {
+      "@type": "Offer",
+      "price": "2000.00",
+      "availability": "LimitedAvailability",
+      "priceCurrency": "INR"
+    },
+    "organizer": {
+      "@type": "Organization",
+      "name": "PROJECT GRAPE JUICE",
+      "description": null,
+      "url": "https://urbanaut.app/partner/None",
+      "image": "https://d10y46cwh6y6x1.cloudfront.netimages/CB0C92A441A34F4998B6F6029A663235_converted_webp.webp",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+91-98415-95959"
+      }
+    },
+    "url": "https://urbanaut.app/spot/skin-contact",
+    "keywords": [
+      "Live GIG",
       "Food & drink",
       "URBANAUT"
     ]
