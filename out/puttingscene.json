@@ -1,6 +1,22 @@
 [
   {
     "@type": "Event",
+    "name": "Masterclass by Tiki Maestro",
+    "url": "https://puttingscene.com/events/3167",
+    "startDate": "2026-02-24T14:30:00+05:30",
+    "endDate": "2026-02-24T15:30:00+05:30",
+    "description": "Tiki maestro Daniele Dalla Pola leads a hands on masterclass in tropical cocktails, sharing craft, technique and bar stories",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/02/23/1771838292807-1771838292765_ixo3xtmvj7p.png",
+    "location": {
+      "name": "Bar Spirit Forward, Ashok Nagar",
+      "address": "Bar Spirit Forward, Ashok Nagar, ",
+      "url": "https://maps.app.goo.gl/26EQc1jAdhJc6ZUz5"
+    },
+    "sameAs": "https://www.instagram.com/p/DVDixVXgZPM/",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
     "name": "Hidden in Plain Sight: Clay Sculpture in South Asia",
     "url": "https://puttingscene.com/events/3096",
     "startDate": "2026-02-24T18:00:00+05:30",
@@ -12,6 +28,62 @@
       "address": "Museum of Art & Photography, Kasturba Road, ",
       "url": "https://maps.app.goo.gl/bfexgPQosAXExgFs5"
     },
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Should You Train in Theatre?",
+    "url": "https://puttingscene.com/events/3166",
+    "startDate": "2026-02-24T18:00:00+05:30",
+    "endDate": "2026-02-24T19:00:00+05:30",
+    "description": "Drama School Mumbai hosts a candid talk on theatre training, discipline, rigor and life in drama school",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/02/23/1771838142351-1771838142081_pzvnqdh9i3m.png",
+    "location": {
+      "name": "Jangama Collective, Rajarajeshwari Nagar",
+      "address": "Jangama Collective, Rajarajeshwari Nagar, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Jangama%20Collective%2C%20Bangalore"
+    },
+    "sameAs": "https://www.instagram.com/p/DU7Zqi1DcXj/?hl=en",
+    "isAccessibleForFree": true
+  },
+  {
+    "@type": "Event",
+    "name": "Pint of View (Lecture Over Drinks): Science, The Brain & AI \u2014 From neurons to networks",
+    "url": "https://puttingscene.com/events/3161",
+    "startDate": "2026-02-24T19:00:00+05:30",
+    "endDate": "2026-02-24T21:00:00+05:30",
+    "description": "Computational neuroscientist Upinder S. Bhalla of NCBS examines how neural networks mirror the brain\u2019s logic, and where AI still falls short",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3161/96e50bf8-192f-475a-9050-01f0421675de.jpg",
+    "location": {
+      "name": "THE HUMMING TREE",
+      "address": "THE HUMMING TREE, ",
+      "url": "https://www.google.com/maps/search/?api=1&query=THE%20HUMMING%20TREE&query_place_id=ChIJ8z4YBAAXrjsRslVjaPRLIOY"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "1099.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 9
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Notes That Linger",
+    "url": "https://puttingscene.com/events/3165",
+    "startDate": "2026-02-24T19:00:00+05:30",
+    "endDate": "2026-02-24T20:00:00+05:30",
+    "description": "A piano recital pairs Debussy and Liszt with scent, reshaping familiar works through memory",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/02/23/1771838087866-1771838087785_hrjg4jysiz.png",
+    "location": {
+      "name": "Bangalore International Centre",
+      "address": "Bangalore International Centre, ",
+      "url": "https://maps.app.goo.gl/zoQXeWrppsEjyNA78"
+    },
+    "sameAs": "https://bangaloreinternationalcentre.org/event/notes-that-linger/",
     "isAccessibleForFree": true
   },
   {
@@ -35,6 +107,124 @@
         "priceCurrency": "INR",
         "availability": "http://schema.org/InStock",
         "remainingAttendeeCapacity": 5
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Screening: Gammelion (1968)",
+    "url": "https://puttingscene.com/events/3164",
+    "startDate": "2026-02-24T19:45:00+05:30",
+    "endDate": "2026-02-24T20:45:00+05:30",
+    "description": "An experimental classic, Gammelion (1968) screens with a deep dive into its visual language",
+    "image": "https://puttingscenes-dev-media.s3.ap-south-1.amazonaws.com/generated-images/2026/01/07/1767782745036-1767782744912_zvaozi6k6p.png",
+    "location": {
+      "name": "Angala, Cox Town",
+      "address": "Angala, Cox Town, Bangalore",
+      "url": "https://maps.app.goo.gl/EYDHfTH4f7MDqJNj8"
+    },
+    "sameAs": "https://urbanaut.app/spot/on-the-frontlines-iv-tpcc-bangalore",
+    "offers": [
+      {
+        "@type": "Offer",
+        "price": "375.00",
+        "priceCurrency": "INR"
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "Laser Cut Interactive NFC Objects",
+    "url": "https://puttingscene.com/events/3163",
+    "startDate": "2026-02-25T19:00:00+05:30",
+    "endDate": "2026-02-25T21:00:00+05:30",
+    "description": "Design and laser-cut a bookmark or keychain, then embed NFC to launch playlists, WiFi, or photo albums with a tap",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3163/9c2e26fc-f7a6-4495-9279-99b6050a6d37.jpg",
+    "location": {
+      "name": "Paper Crane Lab",
+      "address": "Paper Crane Lab, ",
+      "url": "https://maps.app.goo.gl/Ewg6tjqKcEg8N1Vh8"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "General",
+        "price": "750.00",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 5
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Great North Indian Table with CTC",
+    "url": "https://puttingscene.com/events/3070",
+    "startDate": "2026-02-28T12:30:00+05:30",
+    "endDate": "2026-02-28T15:00:00+05:30",
+    "description": "Tijouri teams up with Chaudhry Tarak Chand for a two day North Indian dhaba pop up, serving smoky tandoor fare, rich gravies and nostalgic chaat",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3070/b054fa45-fdfd-453b-8e62-86a9a8a8fee8.jpg",
+    "location": {
+      "name": "Tijouri",
+      "address": "Tijouri, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tijouri&query_place_id=ChIJ4bb8F20WrjsRehSBlT89slk"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Ticket",
+        "price": "2453.39",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 25
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Great North Indian Table with CTC",
+    "url": "https://puttingscene.com/events/3070",
+    "startDate": "2026-02-28T19:30:00+05:30",
+    "endDate": "2026-02-28T22:00:00+05:30",
+    "description": "Tijouri teams up with Chaudhry Tarak Chand for a two day North Indian dhaba pop up, serving smoky tandoor fare, rich gravies and nostalgic chaat",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3070/b054fa45-fdfd-453b-8e62-86a9a8a8fee8.jpg",
+    "location": {
+      "name": "Tijouri",
+      "address": "Tijouri, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tijouri&query_place_id=ChIJ4bb8F20WrjsRehSBlT89slk"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Ticket",
+        "price": "2453.39",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 23
+      }
+    ]
+  },
+  {
+    "@type": "Event",
+    "name": "The Great North Indian Table with CTC",
+    "url": "https://puttingscene.com/events/3070",
+    "startDate": "2026-03-01T12:30:00+05:30",
+    "endDate": "2026-03-01T15:00:00+05:30",
+    "description": "Tijouri teams up with Chaudhry Tarak Chand for a two day North Indian dhaba pop up, serving smoky tandoor fare, rich gravies and nostalgic chaat",
+    "image": "https://puttingscenes-prod-media.s3.ap-south-1.amazonaws.com/event_images/3070/b054fa45-fdfd-453b-8e62-86a9a8a8fee8.jpg",
+    "location": {
+      "name": "Tijouri",
+      "address": "Tijouri, Bangalore",
+      "url": "https://www.google.com/maps/search/?api=1&query=Tijouri&query_place_id=ChIJ4bb8F20WrjsRehSBlT89slk"
+    },
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Ticket",
+        "price": "2453.39",
+        "priceCurrency": "INR",
+        "availability": "http://schema.org/InStock",
+        "remainingAttendeeCapacity": 16
       }
     ]
   }
