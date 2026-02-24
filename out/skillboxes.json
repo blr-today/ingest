@@ -53,6 +53,40 @@
    {
       "@context": "https://schema.org",
       "@type": "Event",
+      "description": "🎨🔥 HAWK HOLI BASH 🔥🎨  Get ready to splash into the wildest Holi celebration in town! 🌈🦅  Unlimited Buffet 🍽️ | Live DJ 🎧 | Colors 🎉 | BYOB 🍻  Vibes pow",
+      "endDate": "2026-03-04T17:00:00",
+      "identifier": "com.skillboxes.34242",
+      "image": "https://1840729241.rsc.cdn77.org/media/event_cover/cGR3Q0ROTjUrbXpvSVgrYmZrZVlpQT09/anUvZklscG9wVElZc1h0aTRJZmtGZz09/resize/502x628/17719050638uBQmi3TmqA8rU5I.jpg.webp",
+      "isAccessibleForFree": false,
+      "keywords": [
+         "Holi 2026"
+      ],
+      "location": {
+         "@type": "Place",
+         "address": "Chikkabanavara, Bengaluru, Karnataka 560090, India",
+         "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "13.0841027",
+            "longitude": "77.5043613"
+         },
+         "name": "Hawk High Resto - Chikkabanavara"
+      },
+      "name": "HAWK HOLI BASH - HAWK HIGH RESTO",
+      "offers": [
+         {
+            "@type": "Offer",
+            "availability": "InStock",
+            "inventoryLevel": 200,
+            "name": "Hawk Holi",
+            "url": "https://www.skillboxes.com/events/ticket/hawk-holi-bash-hawk-high-resto"
+         }
+      ],
+      "startDate": "2026-03-03T13:00:00",
+      "url": "https://www.skillboxes.com/events/hawk-holi-bash-hawk-high-resto"
+   },
+   {
+      "@context": "https://schema.org",
+      "@type": "Event",
       "description": "Arsenal FC VS  Chelsea FcLive ScreeningWatson’s Indiranagar, BangaloreDate - 1st March , 2026",
       "endDate": "2026-03-01T23:45:00",
       "identifier": "com.skillboxes.34226",
